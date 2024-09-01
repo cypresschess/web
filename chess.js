@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Photo from X (Brewington Hardaway) Fifteen-year-old Brewington Hardaway made his long-awaited trip abroad in search of his final GM norm. He chose the Ciutat de Barcelona International Chess Open as the staging ground for his GM title pursuit. There was a buzz being generated in social media after &#8220;Brew&#8221; started out 4/4 and then undefeated The post <a href=\"https://www.thechessdrum.net/blog/2024/09/01/brewington-hardaway-earns-final-gm-norm/\">Brewington Hardaway earns final GM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/01/brewington-hardaway-earns-final-gm-norm/",
+         "pubDate" : "Sun, 01 Sep 2024 17:40:05",
+         "title" : "Brewington Hardaway earns final GM norm!"
+      },
+      {
+         "description" : "In preparation for the 45th FIDE Chess Olympiad, the Indian Women's Chess Team participated in a vital training camp from August 27 to September 1,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-on-training-camp-of-indian-womens-chess-team-for-chess-olympiad-2024/",
+         "pubDate" : "Sun, 01 Sep 2024 17:14:08",
+         "title" : "Report on Training Camp of Indian Women's Chess Team for Chess Olympiad 2024*"
+      },
+      {
+         "description" : "The 37th Under-07 National Open and Girls Chess Championships 2024, held from September 1st to September 5th at the Sambrama Convention Hall in Mysuru, is",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/37th-nationals-under-7-chess-championship-2024-1st-day-inauguration-details/",
+         "pubDate" : "Sun, 01 Sep 2024 17:07:32",
+         "title" : "37th Nationals Under 7 Chess Championship 2024 1st Day inauguration details"
+      },
+      {
          "description" : "Who hasn't experienced this? Many hours of good play are spoilt by a careless move. World-class coach Vishnu Prasanna gives tips on how to reduce the frequency of mistakes. His most famous pupil was the young Dommaraju Gukesh, whom he turned into one of the youngest GMs in chess history and who will be fighting for the World Championship crown in Singapore at the end of the year!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -890,14 +914,6 @@ news_feed (
          "title" : "Poisoned Pawn"
       },
       {
-         "description" : "Please find the Live Link for National championship 2024 held in Gurugram Haryana from 17-27 August 2024 https://view.livechesscloud.com/#39d8f1e8-96d1-4ea7-a6d5-2c5748b3b7a3",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-national-championship-2024/",
-         "pubDate" : "Sat, 17 Aug 2024 08:05:31",
-         "title" : "Live Link for National Championship 2024"
-      },
-      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/08/16/mathurin-wins-st-lucia-chess-invitational/",
          "pubDate" : "Fri, 16 Aug 2024 16:37:26",
          "title" : "Mathurin wins St. Lucia Chess Invitational!"
-      },
-      {
-         "description" : "Please find live link here:https://live.tamilchess.com/24th-im-norm-chennai/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-24th-tamil-nadu-im-tournament/",
-         "pubDate" : "Fri, 16 Aug 2024 15:53:45",
-         "title" : "Live Link for 24th Tamil Nadu IM Tournament"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
