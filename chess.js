@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Who hasn't experienced this? Many hours of good play are spoilt by a careless move. World-class coach Vishnu Prasanna gives tips on how to reduce the frequency of mistakes. His most famous pupil was the young Dommaraju Gukesh, whom he turned into one of the youngest GMs in chess history and who will be fighting for the World Championship crown in Singapore at the end of the year!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vishnu-prassana-avoiding-mistakes-review",
+         "pubDate" : "Sun, 01 Sep 2024 13:45:00",
+         "title" : "Learn how to avoid annoying mistakes"
+      },
+      {
          "description" : "'Update' is the magic word. Time and again we receive enquiries from users, and the solution is often simple: regular updates keep the programme running smoothly. You can find out how to do this - if you are logged in - in the article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-magazine-july-2024/",
          "pubDate" : "Mon, 12 Aug 2024 07:57:46",
          "title" : "ECU Magazine July 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3148",
-         "pubDate" : "Sun, 11 Aug 2024 13:00:46",
-         "title" : "FIDE100 Torch Relay reaches New Zealand"
       }
    ]
 }
