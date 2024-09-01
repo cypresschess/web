@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "'Update' is the magic word. Time and again we receive enquiries from users, and the solution is often simple: regular updates keep the programme running smoothly. You can find out how to do this - if you are logged in - in the article.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-not-running-smoothly-try-this-first",
+         "pubDate" : "Sun, 01 Sep 2024 10:00:00",
+         "title" : "ChessBase 17 not running smoothly? - Try this first!"
+      },
+      {
          "description" : "Venceslav Rutar from Slovenia is organising a match between GM Sam Shankland and GM Surya Sekhar Ganguly on 2-3 September. What's so special about this event? As Venceslav says, \"Draws are not the problem, the problem is how we score them!\" A unique scoring system will be used in this match. The traditional system with 1 point (to the winner), &frac12; point (to both the players) and 0 points (to the loser) will be replaced by five possibilities: win, favoured draw, equal draw, disfavoured draw and loss. | Photos: Austin Fuller & Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1096,22 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3148",
          "pubDate" : "Sun, 11 Aug 2024 13:00:46",
          "title" : "FIDE100 Torch Relay reaches New Zealand"
-      },
-      {
-         "description" : "EU Youth Chess Championship 2024 is underway. The level of the event is very good in category U8 is leading Han Nam Pham (FRA, 6 points out of 6 rounds!), in U10 with 5,5 points Konstantin Mueller (GER), in U12 Leo Corral Nehama (FRA, 5 points) and in U14 Hugo Bocquenet-Drouode (FRA, 5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Aaron-Mathias Dragoi (ROU), []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2024-round-6-report/",
-         "pubDate" : "Sun, 11 Aug 2024 08:35:22",
-         "title" : "European Union Youth Chess Championship 2024 - Round 6 report"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112441427.cms\" /> Indian Grandmaster R Pragganandhaa will lock horns with the world's best yet again as he takes on an elite field in the St Louis Rapid and Blitz tournament that gets underway. A slight dip in recent results, notwithstanding, Praggnanandhaa will be looking forward to finish on the podium in the final standings of the Grand Chess Tour that also entitles him to earn a bonus cash prize from a kitty of USD 175000. The winner will take home USD 100000 while the runner-up will be richer by USD 50000.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-pragganandhaa-eyeing-an-improved-finish-in-gct-final-outings/articleshow/112441427.cms",
-         "pubDate" : "Sun, 11 Aug 2024 08:07:49",
-         "title" : "R Pragganandhaa eyeing an improved finish in GCT final outings"
       }
    ]
 }
