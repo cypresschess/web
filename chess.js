@@ -10,6 +10,14 @@ news_feed (
          "title" : "Surya Ganguly and Sam Shankland to play match with unique scoring system"
       },
       {
+         "description" : "GM Hikaru Nakamura won his second straight Bullet Brawl and the $400 first prize after scoring 251 points and outpacing his longtime rival, GM Daniel Naroditsky, on Saturday. Naroditsky was the only master in the 128-player field able to challenge...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-31-2024",
+         "pubDate" : "Sat, 31 Aug 2024 16:34:00",
+         "title" : "Nakamura Bests Naroditsky To Win Back-To-Back Brawls"
+      },
+      {
          "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -154,7 +162,7 @@ news_feed (
          "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
       },
       {
-         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing",
+         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing in St. Louis earlier this month up to $240,000 and his overall 2024 GCT",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-stomps-competition-wins-2024-sinquefield-cup-gct-tour-bonus",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-r16-ju-wenjun",
          "pubDate" : "Thu, 22 Aug 2024 11:49:00",
          "title" : "Ju Wenjun Wins With 10-Point Margin, Nearly Goes Undefeated"
-      },
-      {
-         "description" : "GM Vladimir Kramnik defeated GM Jose Martinez 19-17 on Wednesday in their 36-game Clash of Blames blitz match in London. The event was a follow-up to the Clash of Claims match held in June of this year in Madrid. Martinez (25), the Peruvian blit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-clash-of-blames-kramnik-martinez",
-         "pubDate" : "Thu, 22 Aug 2024 08:48:00",
-         "title" : "Kramnik Beats Martinez In 'Clash of Blames' Match"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112706729.cms\" />In the third round of the Sinquefield Cup, D Gukesh narrowly avoided defeat against fellow Indian R Praggnanandhaa. Alireza Firouzja, the tour leader, managed a draw while Fabiano Caruana and Ian Nepomniachtchi secured wins. The closely contested tournament features top players and remains highly competitive.",
