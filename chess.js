@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most popular ideas for my columns here has been to look at great attacking games. Various names have been mentioned, and I'm starting today with a fine example by the Soviet grandmaster Leonid Stein (pictured), one of the greatest attacking players of the mid-20th century. I've also continued with the theme of exploring the limits of analysis, with a game from the Sinquefield Cup between D. Gukesh and Maxime Vachier-Lagrave. | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-219",
+         "pubDate" : "Sun, 01 Sep 2024 22:00:00",
+         "title" : "Jon Speelman: Pushing the limits of greed and analysis"
+      },
+      {
          "description" : " Photo from X (Brewington Hardaway) Fifteen-year-old Brewington Hardaway made his long-awaited trip abroad in search of his final GM norm. He chose the Ciutat de Barcelona International Chess Open as the staging ground for his GM title pursuit. There was a buzz being generated in social media after &#8220;Brew&#8221; started out 4/4 and then undefeated The post <a href=\"https://www.thechessdrum.net/blog/2024/09/01/brewington-hardaway-earns-final-gm-norm/\">Brewington Hardaway earns final GM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-17-not-running-smoothly-try-this-first",
          "pubDate" : "Sun, 01 Sep 2024 10:00:00",
          "title" : "ChessBase 17 not running smoothly? - Try this first!"
+      },
+      {
+         "description" : "IM Brewington Hardaway earned his third and final GM norm on Saturday, August 31 along the way to his 7&frac12;/10 score and tied-sixth finish in the Sants - City of Barcelona International Chess Open 2024.<br /><br /> <br /><br /><br /> I just got my final GM Norm at the 2024 Sants Open! My FIDE Rating is now 2489 which means I need 11 more points to become GM! This is the first time I've played outside the U.S in a few years and it was a great experience. Thank you @SantsChess for hosting an incredible event! pic.twitter.com/HREy9WbdH0<br /> - Brewington Hardaway (@IMBrewChess) September 1, 2024<br /> <br /><br /> The result also bumped Hardaway's FIDE rating up to 2489, just 11 points shy",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/brewington-hardaway-earns-final-gm-norm-barcelona",
+         "pubDate" : "Sun, 01 Sep 2024 00:00:00",
+         "title" : "Brewington Hardaway Earns Final GM Norm in Barcelona"
       },
       {
          "description" : "Venceslav Rutar from Slovenia is organising a match between GM Sam Shankland and GM Surya Sekhar Ganguly on 2-3 September. What's so special about this event? As Venceslav says, \"Draws are not the problem, the problem is how we score them!\" A unique scoring system will be used in this match. The traditional system with 1 point (to the winner), &frac12; point (to both the players) and 0 points (to the loser) will be replaced by five possibilities: win, favoured draw, equal draw, disfavoured draw and loss. | Photos: Austin Fuller & Lennart Ootes / Saint Louis Chess Club",
@@ -202,7 +218,7 @@ news_feed (
          "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
       },
       {
-         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing in St. Louis earlier this month up to $240,000 and his overall 2024 GCT",
+         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-stomps-competition-wins-2024-sinquefield-cup-gct-tour-bonus",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-seeks-deputy-executive-director",
          "pubDate" : "Wed, 21 Aug 2024 00:00:00",
          "title" : "US Chess Seeks Deputy Executive Director"
-      },
-      {
-         "description" : "This week's Wednesday Workout is a double-feature on the national invitational tournaments of state champions held alongside the 124th Annual U.S. Open in Norfolk, Virginia. All coverage of these events is available here. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Download our printable worksheet here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-tournament-champions-pt-1-2",
-         "pubDate" : "Wed, 21 Aug 2024 00:00:00",
-         "title" : "Wednesday Workout: Tournament of Champions, Pt. 1 & 2 "
       },
       {
          "description" : "",
