@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/puzzle-solutions-2",
+         "pubDate" : "Mon, 02 Sep 2024 21:00:00",
+         "title" : "Puzzle solutions"
+      },
+      {
          "description" : "Venceslav Rutar from Slovenia is organising a match between GM Sam Shankland and GM Surya Sekhar Ganguly on 2-3 September. What's so special about this event? As Venceslav says, \"Draws are not the problem, the problem is how we score them!\" A unique scoring system will be used in this match. The traditional system with 1 point (to the winner), &frac12; point (to both the players) and 0 points (to the loser) will be replaced by five possibilities: win, favoured draw, equal draw, disfavoured draw and loss. Live transmission of the first game starts at 8.30 pm IST (17.00 CEST, 11.00 EDT). | Photos: Austin Fuller & Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
