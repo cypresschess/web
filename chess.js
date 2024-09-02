@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With the results of the Sinquefield Cup officially registers, there has been some movement in the top 20 of the world rankings. With his success at the Rubinstein Memorial, Vincent Keymer is now among the top 20 in the world and is also one of the 4 highest-rated juniors. However, Hans Niemann gained even more points with his 3 match victories. Hou Yifan remains the highest-rated woman player in the world. Nodirbek Abdusattorov and Divya Deshmukh top the junior lists.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-september-2024",
+         "pubDate" : "Mon, 02 Sep 2024 13:00:00",
+         "title" : "FIDE ratings - September 2024"
+      },
+      {
          "description" : "Time trouble is part of the game. In many cases, players in acute time trouble knock down pieces and don't fix them before pressing the clock. Some players are very meticulous to fix any displacement in their own time while others are not. Arbiter's intervention is to be determined in case to case basis. International Arbiter Alon Shulman shares an incident that took place recently in the ECU magazine.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/knocking-down-pieces-in-time-trouble",
          "pubDate" : "Mon, 02 Sep 2024 09:00:00",
          "title" : "Knocking down pieces in time trouble"
+      },
+      {
+         "description" : "The 2024 European Amateur Chess Championship took place from 24th August to 1st September in Mali Losinj, Croatia. The event was played in three age categories: U1700, U2000 and U2300, and the Winners of each category were crowned the European Amateur Chess Champions for the respective rating section. Despite a loss in the last round, CM Korab Saraci (KOS, 2186) emerged as the sole Winner of the U2300 tournament, scoring 6.5 points. Three players tied for silver scoring 6 points []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2024-concluded-in-croatia/",
+         "pubDate" : "Mon, 02 Sep 2024 08:12:37",
+         "title" : "European Amateur Chess Championship 2024 concluded in Croatia"
       },
       {
          "description" : "",
@@ -1096,30 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3151",
          "pubDate" : "Mon, 12 Aug 2024 11:43:08",
          "title" : "FIDE takes disciplinary action against IM for postal harassment of multiple female chess players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3150",
-         "pubDate" : "Mon, 12 Aug 2024 09:09:25",
-         "title" : "FIDE100 Awards: Selecting the Most Memorable Chess Tournaments"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3146",
-         "pubDate" : "Mon, 12 Aug 2024 08:21:58",
-         "title" : "Hungarian Post releases commemorative stamp for 45th Chess Olympiad"
-      },
-      {
-         "description" : "ECU Magazine July 2024 is out! In this edition of the ECU Magazine you may read about: The July 2024 issue of the ECU Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-magazine-july-2024/",
-         "pubDate" : "Mon, 12 Aug 2024 07:57:46",
-         "title" : "ECU Magazine July 2024"
       }
    ]
 }
