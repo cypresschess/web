@@ -26,6 +26,14 @@ news_feed (
          "title" : "\"If one piece is bad, the entire position is bad\""
       },
       {
+         "description" : "IM Polina Shuvalova and GM Vaishali Rameshbabu prevailed vs. their women&#39;s world champion opponents in the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship on Monday.&#38;nbsp; Shuvalova knocked out women&#39;s world number one, GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wscc-qf-shuvalova-hou-vaishali-kosteniuk",
+         "pubDate" : "Mon, 02 Sep 2024 15:19:21",
+         "title" : "Shuvalova, Vaishali Get Even vs. Hou, Kosteniuk"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -106,14 +114,6 @@ news_feed (
          "title" : "FIDE September 2024 rating list published"
       },
       {
-         "description" : "One of the most popular ideas for my columns here has been to look at great attacking games. Various names have been mentioned, and I'm starting today with a fine example by the Soviet grandmaster Leonid Stein (pictured), one of the greatest attacking players of the mid-20th century. I've also continued with the theme of exploring the limits of analysis, with a game from the Sinquefield Cup between D. Gukesh and Maxime Vachier-Lagrave. | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-219",
-         "pubDate" : "Sun, 01 Sep 2024 22:00:00",
-         "title" : "Jon Speelman: Pushing the limits of greed and analysis"
-      },
-      {
          "description" : " Photo from X (Brewington Hardaway) Fifteen-year-old Brewington Hardaway made his long-awaited trip abroad in search of his final GM norm. He chose the Ciutat de Barcelona International Chess Open as the staging ground for his GM title pursuit. There was a buzz being generated in social media after &#8220;Brew&#8221; started out 4/4 and then undefeated The post <a href=\"https://www.thechessdrum.net/blog/2024/09/01/brewington-hardaway-earns-final-gm-norm/\">Brewington Hardaway earns final GM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -136,14 +136,6 @@ news_feed (
          "link" : "https://aicf.in/37th-nationals-under-7-chess-championship-2024-1st-day-inauguration-details/",
          "pubDate" : "Sun, 01 Sep 2024 17:07:32",
          "title" : "37th Nationals Under 7 Chess Championship 2024 1st Day inauguration details"
-      },
-      {
-         "description" : "'Update' is the magic word. Time and again we receive enquiries from users, and the solution is often simple: regular updates keep the programme running smoothly. You can find out how to do this - if you are logged in - in the article.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-not-running-smoothly-try-this-first",
-         "pubDate" : "Sun, 01 Sep 2024 10:00:00",
-         "title" : "ChessBase 17 not running smoothly? - Try this first!"
       },
       {
          "description" : "IM Brewington Hardaway earned his third and final GM norm on Saturday, August 31 along the way to his 7&frac12;/10 score and tied-sixth finish in the Sants - City of Barcelona International Chess Open 2024.<br /><br /> <br /><br /><br /> I just got my final GM Norm at the 2024 Sants Open! My FIDE Rating is now 2489 which means I need 11 more points to become GM! This is the first time I've played outside the U.S in a few years and it was a great experience. Thank you @SantsChess for hosting an incredible event! pic.twitter.com/HREy9WbdH0<br /> - Brewington Hardaway (@IMBrewChess) September 1, 2024<br /> <br /><br /> The result also bumped Hardaway's FIDE rating up to 2489, just 11 points shy",
@@ -184,14 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-firouzja-winning-grand-chess-tour-hikaru-match-more-sinquefieldcup",
          "pubDate" : "Sat, 31 Aug 2024 06:13:32",
          "title" : "EXCLUSIVE! Firouzja on Winning Grand Chess Tour, Hikaru Match, & More! | #SinquefieldCup"
-      },
-      {
-         "description" : "A very special offer awaits you in this week's summer special - two products that are indispensable for serious chess players are on special offer and available as a bundle: ChessBase 17 and the Opening Encyclopaedia 2024. Take the chance and get both for the summer special price of only €249.90 (instead of €299.90)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-chessbase-17-opening-encyclopaedia-2024",
-         "pubDate" : "Fri, 30 Aug 2024 21:30:00",
-         "title" : "Summer Special: ChessBase 17 and Opening Encyclopaedia 2024"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Don&#039;t think your suppose to say that on stream </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-explicit-chess-content-grandchesstour-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/guAkP6ijCOg.jpg?itok=CSFBgmNC\" alt=\"\" /></a></div>",
@@ -736,14 +720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3175",
          "pubDate" : "Thu, 22 Aug 2024 19:04:30",
          "title" : "WGP Tbilisi: Bibisara Assaubayeva emerges as sole leader after Round 7"
-      },
-      {
-         "description" : "GMs Arjun Erigaisi and Nihal Sarin finally booked their spot in the 2024 Chess.com Bughouse Championship knockouts on their fourth attempt after scoring 68/78 on Thursday. The Indian superstars, alongside FM Richard Zheng and NM Vincent Baker, sec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-7-8",
-         "pubDate" : "Thu, 22 Aug 2024 16:15:00",
-         "title" : "Arjun, Nihal Take Aim At Two-Time Bughouse World Champions Liang, Xiong"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112706729.cms\" />In the third round of the Sinquefield Cup, D Gukesh narrowly avoided defeat against fellow Indian R Praggnanandhaa. Alireza Firouzja, the tour leader, managed a draw while Fabiano Caruana and Ian Nepomniachtchi secured wins. The closely contested tournament features top players and remains highly competitive.",
