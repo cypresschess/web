@@ -34,14 +34,6 @@ news_feed (
          "title" : "37th Nationals Under 7 Chess Championship 2024 1st Day inauguration details"
       },
       {
-         "description" : "Who hasn't experienced this? Many hours of good play are spoilt by a careless move. World-class coach Vishnu Prasanna gives tips on how to reduce the frequency of mistakes. His most famous pupil was the young Dommaraju Gukesh, whom he turned into one of the youngest GMs in chess history and who will be fighting for the World Championship crown in Singapore at the end of the year!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vishnu-prassana-avoiding-mistakes-review",
-         "pubDate" : "Sun, 01 Sep 2024 13:45:00",
-         "title" : "Learn how to avoid annoying mistakes"
-      },
-      {
          "description" : "'Update' is the magic word. Time and again we receive enquiries from users, and the solution is often simple: regular updates keep the programme running smoothly. You can find out how to do this - if you are logged in - in the article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +48,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/brewington-hardaway-earns-final-gm-norm-barcelona",
          "pubDate" : "Sun, 01 Sep 2024 00:00:00",
          "title" : "Brewington Hardaway Earns Final GM Norm in Barcelona"
-      },
-      {
-         "description" : "Venceslav Rutar from Slovenia is organising a match between GM Sam Shankland and GM Surya Sekhar Ganguly on 2-3 September. What's so special about this event? As Venceslav says, \"Draws are not the problem, the problem is how we score them!\" A unique scoring system will be used in this match. The traditional system with 1 point (to the winner), &frac12; point (to both the players) and 0 points (to the loser) will be replaced by five possibilities: win, favoured draw, equal draw, disfavoured draw and loss. | Photos: Austin Fuller & Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ganguly-shankland-match-2024-preview",
-         "pubDate" : "Sat, 31 Aug 2024 23:50:00",
-         "title" : "Surya Ganguly and Sam Shankland to play match with unique scoring system"
       },
       {
          "description" : "GM Hikaru Nakamura won his second straight Bullet Brawl and the $400 first prize after scoring 251 points and outpacing his longtime rival, GM Daniel Naroditsky, on Saturday. Naroditsky was the only master in the 128-player field able to challenge...",
