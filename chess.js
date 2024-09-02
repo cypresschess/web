@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Time trouble is part of the game. In many cases, players in acute time trouble knock down pieces and don't fix them before pressing the clock. Some players are very meticulous to fix any displacement in their own time while others are not. Arbiter's intervention is to be determined in case to case basis. International Arbiter Alon Shulman shares an incident that took place recently in the ECU magazine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/knocking-down-pieces-in-time-trouble",
+         "pubDate" : "Mon, 02 Sep 2024 09:00:00",
+         "title" : "Knocking down pieces in time trouble"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3192",
+         "pubDate" : "Mon, 02 Sep 2024 03:55:43",
+         "title" : "FIDE World Championship Match 2024 Regulations announced"
+      },
+      {
          "description" : "One of the most popular ideas for my columns here has been to look at great attacking games. Various names have been mentioned, and I'm starting today with a fine example by the Soviet grandmaster Leonid Stein (pictured), one of the greatest attacking players of the mid-20th century. I've also continued with the theme of exploring the limits of analysis, with a game from the Sinquefield Cup between D. Gukesh and Maxime Vachier-Lagrave. | Photo: Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
