@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Venceslav Rutar from Slovenia is organising a match between GM Sam Shankland and GM Surya Sekhar Ganguly on 2-3 September. What's so special about this event? As Venceslav says, \"Draws are not the problem, the problem is how we score them!\" A unique scoring system will be used in this match. The traditional system with 1 point (to the winner), &frac12; point (to both the players) and 0 points (to the loser) will be replaced by five possibilities: win, favoured draw, equal draw, disfavoured draw and loss. Live transmission of the first game starts at 8.30 pm IST (17.00 CEST, 11.00 EDT). | Photos: Austin Fuller & Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ganguly-shankland-match-2024-preview",
+         "pubDate" : "Mon, 02 Sep 2024 16:45:00",
+         "title" : "Surya Ganguly and Sam Shankland to play match with unique scoring system"
+      },
+      {
+         "description" : "A badly positioned piece can make the difference between victory and defeat! In his series 'Practical tips for the tournament player', Jan Markos develops a winning strategy from this in the new CBM #221: Gain a decisive advantage by taking one of your opponent's pieces out of the game. In his video, he demonstrates how to do this using two sample games by Cheparinov and Carlsen. And afterwards you can test your skills with a small collection of exercises. Have fun with the free CBM-sample of this week!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-16",
+         "pubDate" : "Mon, 02 Sep 2024 16:00:00",
+         "title" : "\"If one piece is bad, the entire position is bad\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3193",
+         "pubDate" : "Mon, 02 Sep 2024 14:01:12",
+         "title" : "FIDE World Youth Rapid and Blitz Championships 2024: Registration is open"
+      },
+      {
          "description" : "With the results of the Sinquefield Cup officially registers, there has been some movement in the top 20 of the world rankings. With his success at the Rubinstein Memorial, Vincent Keymer is now among the top 20 in the world and is also one of the 4 highest-rated juniors. However, Hans Niemann gained even more points with his 3 match victories. Hou Yifan remains the highest-rated woman player in the world. Nodirbek Abdusattorov and Divya Deshmukh top the junior lists.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-september-2024",
          "pubDate" : "Mon, 02 Sep 2024 13:00:00",
          "title" : "FIDE ratings - September 2024"
+      },
+      {
+         "description" : "The English Women's Online Blitz Championships 2024 were held on Chess.com, featuring a thrilling group stage on the 24th and 25th of August, followed by final on the 31st of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championships-2024-report/",
+         "pubDate" : "Mon, 02 Sep 2024 12:23:21",
+         "title" : "English Women's Online Blitz Championships 2024 report"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2024 concluded yesterday in Prague, Czech Republic. The event gathered 1230 players coming from 47 European federations, who competed in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. The Awarding ceremony took place yesterday evening, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Malcolm Pein, ECU Tournament Director Mr. Petr Pisk, the president of the Czech Chess Federation Mr. Martin Petr, tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-champions-2024-crowned-in-prague/",
+         "pubDate" : "Mon, 02 Sep 2024 12:19:31",
+         "title" : "European Youth Chess Champions 2024 crowned in Prague"
+      },
+      {
+         "description" : "Junyan Hu has won the European Under 8 Championship today (31.8.24)! This adds to the Gold medal that Samar Dayal won in the European Under 10 Rapidplay Championship a couple...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-under-8-champion-junyan-hu/",
+         "pubDate" : "Mon, 02 Sep 2024 12:05:00",
+         "title" : "European Under 8 Champion Junyan Hu"
       },
       {
          "description" : "Time trouble is part of the game. In many cases, players in acute time trouble knock down pieces and don't fix them before pressing the clock. Some players are very meticulous to fix any displacement in their own time while others are not. Arbiter's intervention is to be determined in case to case basis. International Arbiter Alon Shulman shares an incident that took place recently in the ECU magazine.",
@@ -26,12 +74,28 @@ news_feed (
          "title" : "European Amateur Chess Championship 2024 concluded in Croatia"
       },
       {
+         "description" : "Chess.com is excited to announce new partnerships with LG and Fubo for its ChessTV FAST channel. Now, chess fans in Great Britain, Ireland, Denmark, Finland, Norway, Sweden, and the Netherlands can watch chess content on their smart television rig...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-on-lg-smart-tv-fubo",
+         "pubDate" : "Mon, 02 Sep 2024 08:00:00",
+         "title" : "Watch The Best Chess Content On Your LG SmartTV And On Fubo"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3192",
          "pubDate" : "Mon, 02 Sep 2024 03:55:43",
          "title" : "FIDE World Championship Match 2024 Regulations announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3194",
+         "pubDate" : "Mon, 02 Sep 2024 00:47:25",
+         "title" : "FIDE September 2024 rating list published"
       },
       {
          "description" : "One of the most popular ideas for my columns here has been to look at great attacking games. Various names have been mentioned, and I'm starting today with a fine example by the Soviet grandmaster Leonid Stein (pictured), one of the greatest attacking players of the mid-20th century. I've also continued with the theme of exploring the limits of analysis, with a game from the Sinquefield Cup between D. Gukesh and Maxime Vachier-Lagrave. | Photo: Dutch National Archive",
@@ -674,22 +738,6 @@ news_feed (
          "title" : "Arjun, Nihal Take Aim At Two-Time Bughouse World Champions Liang, Xiong"
       },
       {
-         "description" : "20-year-old IM Bibisara Assaubayeva found a brilliant endgame sequence to defeat GM Alexandra Kosteniuk and take the sole lead with just two rounds of the 2024 Tbilisi FIDE Women&#39;s Grand Prix to go. The remaining four games were drawn, though GM M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-7",
-         "pubDate" : "Thu, 22 Aug 2024 13:41:00",
-         "title" : "Assaubayeva Beats Kosteniuk, Grabs Sole Lead"
-      },
-      {
-         "description" : "Women&#39;s World Champion Ju Wenjun of China scored a dominating 13-3 win over IM Anna Sargsyan of Armenia in the first of the round of 16 matches of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Though Sargsyan had her chances in the match,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-r16-ju-wenjun",
-         "pubDate" : "Thu, 22 Aug 2024 11:49:00",
-         "title" : "Ju Wenjun Wins With 10-Point Margin, Nearly Goes Undefeated"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112706729.cms\" />In the third round of the Sinquefield Cup, D Gukesh narrowly avoided defeat against fellow Indian R Praggnanandhaa. Alireza Firouzja, the tour leader, managed a draw while Fabiano Caruana and Ian Nepomniachtchi secured wins. The closely contested tournament features top players and remains highly competitive.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -986,14 +1034,6 @@ news_feed (
          "title" : "Chess: Hans Niemann closes on world top 20 as US star impresses in London"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2024/",
-         "pubDate" : "Fri, 16 Aug 2024 06:00:30",
-         "title" : "English Women's Online Blitz Championship 2024"
-      },
-      {
          "description" : "The European Union Youth Chess Championships 2024 concluded in Roznov pod Radhostem, Czech Repubic. The last rounds were full of fights and tension. In category Boys U8 took the first place Han Nam Pham (FRA, 9 out of 9!), the second place Aaron-Mathias Dragoi (ROU) and the third Vojtech Vratny (CZE). In category Girls U8 took the first place Amanda Skytte (DEN), the second place Cassandre Itier (FRA) and the third Isis Bocquenet-Drouode (FRA). Champion EU in category Boys U10 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1104,14 +1144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/junior-bursaries-for-the-northumbria-masters-2/",
          "pubDate" : "Tue, 13 Aug 2024 07:56:36",
          "title" : "Junior Bursaries for the Northumbria Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3151",
-         "pubDate" : "Mon, 12 Aug 2024 11:43:08",
-         "title" : "FIDE takes disciplinary action against IM for postal harassment of multiple female chess players"
       }
    ]
 }
