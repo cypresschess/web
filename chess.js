@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Friday, September 6th, there is going to be a touchy encounter between former World Champion and World number one Magnus Carlsen, and upstart GM Hans Niemann, 21. The pair will meet for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit. GM Jorden van Foreest, who has recently encountered Hans in evening blitz sessions, tells us what he thinks of the strength of this rising star.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-strong-is-hans-really",
+         "pubDate" : "Tue, 03 Sep 2024 12:19:12",
+         "title" : "How strong is Hans really?"
+      },
+      {
+         "description" : "Clubs and other chess organisations can now renew their insurance through Green Insurance Group by using the renewal/application form link below. All applications and payments should be sent to Green...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2024-25/",
+         "pubDate" : "Tue, 03 Sep 2024 10:42:33",
+         "title" : "Clubs & Congress Insurance 2024/25"
+      },
+      {
+         "description" : "The four books selected this year illustrate the richness of chess. Two show the intricate and amazing complexity of the game itself; the other two show that the human approach...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-3/",
+         "pubDate" : "Tue, 03 Sep 2024 10:07:13",
+         "title" : "ECF Book of the Year shortlist"
+      },
+      {
          "description" : "The first two matches of the quarterfinals in the Women's Speed Chess Championship took place on Monday. Polina Shuvalova (pictured) and Vaishali Rameshbabu advanced to the semifinals after knocking out two former women's world champions, Hou Yifan and Alexandra Kosteniuk, respectively. Both matches were really hard-fought, with Shuvalova only beating Hou in the bullet tiebreaker. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1120,22 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3153",
          "pubDate" : "Tue, 13 Aug 2024 16:11:54",
          "title" : "Tbilisi kicks off 2024/25 FIDE Women's Grand Prix season"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3152",
-         "pubDate" : "Tue, 13 Aug 2024 09:33:51",
-         "title" : "2024 Saint Louis Rapid & Blitz: Vachier-Lagrave takes early lead"
-      },
-      {
-         "description" : "Thanks to the generous support of the John Robinson Youth Chess Trust, there are a number of junior bursaries (comprising free entry) available for England-affiliated players aged Under 21 entering...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/junior-bursaries-for-the-northumbria-masters-2/",
-         "pubDate" : "Tue, 13 Aug 2024 07:56:36",
-         "title" : "Junior Bursaries for the Northumbria Masters"
       }
    ]
 }
