@@ -18,6 +18,14 @@ news_feed (
          "title" : "Austrian chess legend Andreas D&uuml;ckstein dies (1927-2024)"
       },
       {
+         "description" : "Reigning World Champion Ju Wenjun and three-time Women&#39;s World Blitz Champion Kateryna Lagno will face each other in the Semifinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Ju defeated IM Alice Lee 9.5-5.5, while Lagno eliminated ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-wscc-qf-lee-ju-wenjun-lagno-gunina",
+         "pubDate" : "Tue, 03 Sep 2024 12:38:00",
+         "title" : "Ju Wenjun, Lagno Advance To Semifinal Clash Of World Champions"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,7 +90,15 @@ news_feed (
          "title" : "Prize purse tweaked for D Gukesh-Ding Liren battle"
       },
       {
-         "description" : "This week's puzzles continue a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "When your tournament game ends there are typically three results: a win, a draw or a loss. It turns out there is a fourth option: split results! <br /><br /> Understanding Split Results <br /><br /> Split results is a tool in a TD's or US Chess committee's toolbox that adjusts an inequitable game result. It upgrades an unjust game result into something fair for both players: a 1-0 game score could be changed into 1-&frac12;, etc. See the cases below for some examples.<br /><br /> Split results can be rated. The TD simply uses special codes when reporting those games to US Chess: N for a Win, R for a Draw and S for a Loss. <br /><br /> Split results are not required to be rated. Rather, it is",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-your-game-split-result",
+         "pubDate" : "Tue, 03 Sep 2024 00:00:00",
+         "title" : "Just The Rules: Your Game is a Split Result?"
+      },
+      {
+         "description" : "This week's puzzles continue a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-124th-annual-us-open-pt-2",
@@ -738,14 +754,6 @@ news_feed (
          "title" : "Kashlinskaya Catches Leader Before Final Round In Tbilisi"
       },
       {
-         "description" : "GMs Awonder Liang and Jeffery Xiong have been crowned as the 2024 Chess.com Bughouse Champions after the pair won each of their knockout matches and collected the $2,000 first prize on Friday. Following a Quarterfinal drubbing of GMs Arjun Erigi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-knockouts-liang-xiong-win",
-         "pubDate" : "Fri, 23 Aug 2024 12:46:00",
-         "title" : "Comeback Kings Liang, Xiong Win Bughouse Championship"
-      },
-      {
          "description" : "The 2024 European Youth Chess Championship commenced with the first round yesterday in Prague, Czech Republic. The Opening Ceremony of the event took place on Wednesday, 21st of August, in the evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Mayor of the City of Prague Mr. Dr. Bohuslav Svoboda, ECU Secretary General Mr. Theodoros Tsorbatzoglou, President of the Czech Chess Federation Mr. Martin Petr, Tournament Director Mr. Jan Mazuch, and the ECU Tournament Director Mr. Petr Pisk. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
          "pubDate" : "Thu, 22 Aug 2024 00:00:00",
          "title" : "Firouzja, Nepomniachtchi Lead 2024 Sinquefield Cup After Three Rounds"
-      },
-      {
-         "description" : "US Chess announces that, effective with the 2024 National K-12 Grade Championships, there will be a new fee structure for national events. This structure includes higher costs for last-minute entries. The full structure is explained below and can be found at the above link. Please note that the earliest deadline for registration ends Monday, October 21.<br /><br /> These changes are primarily due to increased costs being borne by US Chess. Despite breaking multiple attendance records in national events over the past two years, several recent national events have nevertheless lost money. US Chess values the affordability and accessibility of its events and, as such, has always leaned on the s",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/updates-fee-structures-national-events",
-         "pubDate" : "Thu, 22 Aug 2024 00:00:00",
-         "title" : "Updates to Fee Structures for National Events"
       },
       {
          "description" : "",
