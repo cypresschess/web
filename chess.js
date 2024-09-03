@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shortly after his 97th birthday Andreas D&uuml;ckstein, one of the oldest FIDE title holders, passed away. Over the course of his long career, D&uuml;ckstein played against countless chess legends, beating some of the greats and drawing with others. D&uuml;ckstein possessed grandmaster strength and was only denied the title for formal reasons. FIDE finally made him an honorary grandmaster. Martin Stichlberger pays tribute to Austria's record international. | Photos: D&uuml;ckstein Collection, Martin Stichlberger, unless otherwise stated.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andreas-dueckstein-1927-2024",
+         "pubDate" : "Tue, 03 Sep 2024 14:28:43",
+         "title" : "Austrian chess legend Andreas D&uuml;ckstein dies (1927-2024)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3195",
+         "pubDate" : "Tue, 03 Sep 2024 12:26:51",
+         "title" : "Elections of Chairman Members of three FIDE Commissions to take place at FIDE GA"
+      },
+      {
          "description" : "On Friday, September 6th, there is going to be a touchy encounter between former World Champion and World number one Magnus Carlsen, and upstart GM Hans Niemann, 21. The pair will meet for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit. GM Jorden van Foreest, who has recently encountered Hans in evening blitz sessions, tells us what he thinks of the strength of this rising star.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "ECF Book of the Year shortlist"
       },
       {
+         "description" : "Just in time for the SCC Finals in Paris on September 6-8, Displate and Chess.com have partnered again to bring a brand-new collection of special magnet-mounted metal posters to chess fans. From now through September 30, fans can liven up their wa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/scc-finals-displates",
+         "pubDate" : "Tue, 03 Sep 2024 08:00:00",
+         "title" : "Chess.com And Displate Partner Again For SCC Finals To Create Legendary Wall Art"
+      },
+      {
          "description" : "The first two matches of the quarterfinals in the Women's Speed Chess Championship took place on Monday. Polina Shuvalova (pictured) and Vaishali Rameshbabu advanced to the semifinals after knocking out two former women's world champions, Hou Yifan and Alexandra Kosteniuk, respectively. Both matches were really hard-fought, with Shuvalova only beating Hou in the bullet tiebreaker. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-strategy-across-board-gala-look-back",
          "pubDate" : "Tue, 03 Sep 2024 06:15:11",
          "title" : "2024 Strategy Across the Board Gala: A Look Back"
+      },
+      {
+         "description" : "From accused to accomplished: GM Hans Niemann has stormed into the top-20 chess players in the world. On the September 2024 FIDE rating list, the 21-year-old American player has left seasoned grandmasters such as Anish Giri and Maxime Vachier-Lagr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/september-2024-fide-rating-list",
+         "pubDate" : "Tue, 03 Sep 2024 05:50:00",
+         "title" : "Sept. 2024 FIDE Ratings: Niemann Storms To 16th In The World"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113009883.cms\" />Chess' governing body FIDE have made some interesting changes in regulations of World Championship match involving challenger D Gukesh of India. But it's unclear if these tweaks are logical. The 14-game classical match between reigning champion Ding Liren of China and Gukesh is scheduled in Singapore from Nov 25 to Dec 13. The tiebreak provisions are also changed slightly.",
@@ -706,14 +738,6 @@ news_feed (
          "title" : "Comeback Kings Liang, Xiong Win Bughouse Championship"
       },
       {
-         "description" : "IM Polina Shuvalova and GM Kateryna Lagno scored crucial wins in the 1+1 bullet segments to stage a comeback and win their respective matches to advance to the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Shuvalova rec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wscc-r16-tan-shuvalova-lagno-nurman",
-         "pubDate" : "Fri, 23 Aug 2024 12:17:53",
-         "title" : "Shuvalova, Lagno Prevail In Nail-Biting Encounters"
-      },
-      {
          "description" : "The 2024 European Youth Chess Championship commenced with the first round yesterday in Prague, Czech Republic. The Opening Ceremony of the event took place on Wednesday, 21st of August, in the evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Mayor of the City of Prague Mr. Dr. Bohuslav Svoboda, ECU Secretary General Mr. Theodoros Tsorbatzoglou, President of the Czech Chess Federation Mr. Martin Petr, Tournament Director Mr. Jan Mazuch, and the ECU Tournament Director Mr. Petr Pisk. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -736,14 +760,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/23/chess-carlsen-and-niemann-impress-as-paris-grudge-rematch-approaches",
          "pubDate" : "Fri, 23 Aug 2024 07:00:31",
          "title" : "Chess: Carlsen and Niemann impress as Paris grudge rematch approaches"
-      },
-      {
-         "description" : "GM Wesley So defeated GM Ian Nepomniachtchi at the 2024 Sinquefield Cup on Thursday, joining GM Alireza Firouzja in a tie for first. Firouzja himself narrowly survived GM Gukesh Dommaraju&#39;s sparkling tactical play in our Game of the Day. The Sin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-4",
-         "pubDate" : "Thu, 22 Aug 2024 20:40:00",
-         "title" : "Wesley So Joins Lead, Firouzja Has 9 Lives"
       },
       {
          "description" : "",
