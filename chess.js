@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ernst Cassirer was a prominent and important German philosopher, who was born 150 years ago on July 28, 1874, in Breslau. In 1919, he was appointed to the chair of philosophy at the newly founded University of Hamburg, but after the Nazis rose to power, Cassirer emigrated to England, where he taught philosophy at Oxford. Later, he moved to the United States via Sweden, teaching at both Yale University and Columbia University in New York, where he died on April 13, 1945. Apart from philosophy Cassirer's great passion was chess, and he occasionally discussed both with Emanuel Lasker.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/playing-such-a-demanding-game-for-relaxation-the-chess-passion-of-ernst-cassirer",
+         "pubDate" : "Tue, 03 Sep 2024 20:00:00",
+         "title" : "\"Playing such a demanding game for relaxation...\" - The chess passion of Ernst Cassirer"
+      },
+      {
          "description" : "Shortly after his 97th birthday Andreas D&uuml;ckstein, one of the oldest FIDE title holders, passed away. Over the course of his long career, D&uuml;ckstein played against countless chess legends, beating some of the greats and drawing with others. D&uuml;ckstein possessed grandmaster strength and was only denied the title for formal reasons. FIDE finally made him an honorary grandmaster. Martin Stichlberger pays tribute to Austria's record international. | Photos: D&uuml;ckstein Collection, Martin Stichlberger, unless otherwise stated.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Chess.com And Displate Partner Again For SCC Finals To Create Legendary Wall Art"
       },
       {
-         "description" : "The first two matches of the quarterfinals in the Women's Speed Chess Championship took place on Monday. Polina Shuvalova (pictured) and Vaishali Rameshbabu advanced to the semifinals after knocking out two former women's world champions, Hou Yifan and Alexandra Kosteniuk, respectively. Both matches were really hard-fought, with Shuvalova only beating Hou in the bullet tiebreaker. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-scc-2024-qf1",
-         "pubDate" : "Tue, 03 Sep 2024 06:30:00",
-         "title" : "Women's SCC: Shuvalova stuns Hou, Vaishali beats Kosteniuk"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Enjoy this look back at the 2024 Strategy Across the Board Gala! Proceeds from this annual event support chess education, cultural exhibitions, and public programming at the Saint Louis Chess Club and World Chess Hall of Fame. 2024.08.17<br /> SaintLouisChessClub.org<br /> WorldChessHOF.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-strategy-across-board-gala-look-back\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prize-purse-tweaked-for-d-gukesh-ding-liren-battle/articleshow/113009883.cms",
          "pubDate" : "Tue, 03 Sep 2024 03:56:37",
          "title" : "Prize purse tweaked for D Gukesh-Ding Liren battle"
+      },
+      {
+         "description" : "This week's puzzles continue a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-124th-annual-us-open-pt-2",
+         "pubDate" : "Tue, 03 Sep 2024 00:00:00",
+         "title" : "Tactics Tuesday: 124th Annual U.S. Open, Pt. 2"
       },
       {
          "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
@@ -826,14 +834,6 @@ news_feed (
          "title" : "European Youth Rapid and Blitz Chess Championships 2024 concluded in Prague"
       },
       {
-         "description" : "US Chess is accepting applications for the position of Deputy Executive Director in its St. Louis Office.<br /><br /> The Deputy Executive Director oversees the day-to-day operations of the organization, ensuring that it runs efficiently and that all members of the team have what they need to succeed (such as equipment, supplies, record keeping and a safe and supportive work environment). The Deputy Executive Director will have a strong financial background that will assist the Executive Director in evaluating and formulating budget projections for the organization. The Deputy Executive Director also coordinates communication and information flow among and between stakeholders, executive man",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-seeks-deputy-executive-director",
-         "pubDate" : "Wed, 21 Aug 2024 00:00:00",
-         "title" : "US Chess Seeks Deputy Executive Director"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3154",
          "pubDate" : "Wed, 14 Aug 2024 09:49:49",
          "title" : "2024 Saint Louis Rapid & Blitz: Three-way tie on the top"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3153",
-         "pubDate" : "Tue, 13 Aug 2024 16:11:54",
-         "title" : "Tbilisi kicks off 2024/25 FIDE Women's Grand Prix season"
       }
    ]
 }
