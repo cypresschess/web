@@ -26,11 +26,11 @@ news_feed (
          "title" : "\"If one piece is bad, the entire position is bad\""
       },
       {
-         "description" : "IM Polina Shuvalova and GM Vaishali Rameshbabu prevailed vs. their women&#39;s world champion opponents in the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship on Monday.&#38;nbsp; Shuvalova knocked out women&#39;s world number one, GM...",
+         "description" : "IM Polina Shuvalova and GM Vaishali Rameshbabu prevailed vs. their women&#39;s world champion opponents in the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship on Monday.&#38;nbsp; Shuvalova knocked out women&#39;s world number-one, GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wscc-qf-shuvalova-hou-vaishali-kosteniuk",
-         "pubDate" : "Mon, 02 Sep 2024 15:19:21",
+         "pubDate" : "Mon, 02 Sep 2024 15:19:00",
          "title" : "Shuvalova, Vaishali Get Even vs. Hou, Kosteniuk"
       },
       {
@@ -40,14 +40,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3193",
          "pubDate" : "Mon, 02 Sep 2024 14:01:12",
          "title" : "FIDE World Youth Rapid and Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "With the results of the Sinquefield Cup officially registers, there has been some movement in the top 20 of the world rankings. With his success at the Rubinstein Memorial, Vincent Keymer is now among the top 20 in the world and is also one of the 4 highest-rated juniors. However, Hans Niemann gained even more points with his 3 match victories. Hou Yifan remains the highest-rated woman player in the world. Nodirbek Abdusattorov and Divya Deshmukh top the junior lists.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-september-2024",
-         "pubDate" : "Mon, 02 Sep 2024 13:00:00",
-         "title" : "FIDE ratings - September 2024"
       },
       {
          "description" : "The English Women's Online Blitz Championships 2024 were held on Chess.com, featuring a thrilling group stage on the 24th and 25th of August, followed by final on the 31st of...",
