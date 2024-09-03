@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first two matches of the quarterfinals in the Women's Speed Chess Championship took place on Monday. Polina Shuvalova (pictured) and Vaishali Rameshbabu advanced to the semifinals after knocking out two former women's world champions, Hou Yifan and Alexandra Kosteniuk, respectively. Both matches were really hard-fought, with Shuvalova only beating Hou in the bullet tiebreaker. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-scc-2024-qf1",
+         "pubDate" : "Tue, 03 Sep 2024 06:30:00",
+         "title" : "Women's SCC: Shuvalova stuns Hou, Vaishali beats Kosteniuk"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Enjoy this look back at the 2024 Strategy Across the Board Gala! Proceeds from this annual event support chess education, cultural exhibitions, and public programming at the Saint Louis Chess Club and World Chess Hall of Fame. 2024.08.17<br /> SaintLouisChessClub.org<br /> WorldChessHOF.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-strategy-across-board-gala-look-back\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-strategy-across-board-gala-look-back",
+         "pubDate" : "Tue, 03 Sep 2024 06:15:11",
+         "title" : "2024 Strategy Across the Board Gala: A Look Back"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113009883.cms\" />Chess' governing body FIDE have made some interesting changes in regulations of World Championship match involving challenger D Gukesh of India. But it's unclear if these tweaks are logical. The 14-game classical match between reigning champion Ding Liren of China and Gukesh is scheduled in Singapore from Nov 25 to Dec 13. The tiebreak provisions are also changed slightly.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/prize-purse-tweaked-for-d-gukesh-ding-liren-battle/articleshow/113009883.cms",
+         "pubDate" : "Tue, 03 Sep 2024 03:56:37",
+         "title" : "Prize purse tweaked for D Gukesh-Ding Liren battle"
+      },
+      {
          "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/brilliant-move-robbed-silicon-overlord-grandchesstour-chess-chessendgame-chesscom",
          "pubDate" : "Fri, 30 Aug 2024 06:12:52",
          "title" : "Brilliant Move Robbed By The Silicon Overlord #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Before the final round, commentators take a look at how quickly Alireza was in favor to win GCT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alirezas-acceleration-grandchesstour-chess-statistics-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6im9GGBKphY.jpg?itok=_xwfY6Aa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alirezas-acceleration-grandchesstour-chess-statistics-chesstalk-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
-         "title" : "Alireza's Acceleration #grandchesstour #chess #statistics #chesstalk #chesscom"
       },
       {
          "description" : "",
