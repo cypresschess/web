@@ -10,6 +10,22 @@ news_feed (
          "title" : "\"Playing such a demanding game for relaxation...\" - The chess passion of Ernst Cassirer"
       },
       {
+         "description" : "The 2024 India College Chess Championship (ICCL) began on August 22, 2024, with record-breaking registrations of 245 teams featuring more than 1200 players. The SRM Institute of Science and Technology, led by GM Pranesh M, convincingly dominated t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/india-college-chess-championship-begins-with-record-participation",
+         "pubDate" : "Tue, 03 Sep 2024 17:53:26",
+         "title" : "India College Chess Championship Begins With Record Participation"
+      },
+      {
+         "description" : "The upcoming 2024 FIDE World Championship&#38;nbsp;between defending champion GM Ding Liren and the youngest challenger in history, GM Gukesh Dommaraju, will have a few differences from previous editions. FIDE has announced the official regulations, i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-rules-for-world-championship-encourage-faster-more-decisive-games",
+         "pubDate" : "Tue, 03 Sep 2024 17:50:33",
+         "title" : "New Rules for World Championship Encourage Faster, More Decisive Games"
+      },
+      {
          "description" : "Shortly after his 97th birthday Andreas D&uuml;ckstein, one of the oldest FIDE title holders, passed away. Over the course of his long career, D&uuml;ckstein played against countless chess legends, beating some of the greats and drawing with others. D&uuml;ckstein possessed grandmaster strength and was only denied the title for formal reasons. FIDE finally made him an honorary grandmaster. Martin Stichlberger pays tribute to Austria's record international. | Photos: D&uuml;ckstein Collection, Martin Stichlberger, unless otherwise stated.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -730,28 +746,12 @@ news_feed (
          "title" : "Arise, Sir Gawain - and all hail to the young Royal "
       },
       {
-         "description" : "GM Alireza Firouzja is once again the sole leader of the 2024 Sinquefield Cup after beating GM Anish Giri in round five on Friday. The Dutchman is no longer in the world&#39;s top 20 for the first time in more than a decade. With all other games end...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-5",
-         "pubDate" : "Sat, 24 Aug 2024 05:01:00",
-         "title" : "Firouzja Leads Alone Again, Pushes Giri Out Of Top 20"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3177",
          "pubDate" : "Fri, 23 Aug 2024 20:34:31",
          "title" : "Kashlinskaya and Assaubayeva neck and neck in a round of missed opportunities"
-      },
-      {
-         "description" : "IM Alina Kashlinskaya goes into the final round of the 2024 Tbilisi FIDE Women&#39;s Grand Prix level with IM Bibisara Assaubayeva in the lead after a long but convincing win over IM Lela Javakhishvili. Three players are just half a point behind after...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-8",
-         "pubDate" : "Fri, 23 Aug 2024 15:28:00",
-         "title" : "Kashlinskaya Catches Leader Before Final Round In Tbilisi"
       },
       {
          "description" : "The 2024 European Youth Chess Championship commenced with the first round yesterday in Prague, Czech Republic. The Opening Ceremony of the event took place on Wednesday, 21st of August, in the evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Mayor of the City of Prague Mr. Dr. Bohuslav Svoboda, ECU Secretary General Mr. Theodoros Tsorbatzoglou, President of the Czech Chess Federation Mr. Martin Petr, Tournament Director Mr. Jan Mazuch, and the ECU Tournament Director Mr. Petr Pisk. []",
