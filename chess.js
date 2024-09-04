@@ -26,6 +26,14 @@ news_feed (
          "title" : "Riddle: Karpov-Hort 1979 - Solution"
       },
       {
+         "description" : "We&#39;re excited to announce our newest partner, Discord! One of the largest communication platforms in the world, Discord is among streamers&#39; and gamers&#39; favorite places to hang out while playing.&#38;nbsp; To celebrate the occasion, we&#39;ve just launch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/discord-bots",
+         "pubDate" : "Wed, 04 Sep 2024 10:00:00",
+         "title" : "Play Against The New Discord Chess Bots On Chess.com"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,6 +48,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcet-awards-2024/",
          "pubDate" : "Wed, 04 Sep 2024 09:30:57",
          "title" : "BCET Awards 2024"
+      },
+      {
+         "description" : "The first Titled Tuedays of September went to two regulars, GMs Alexey Sarana&#38;nbsp;and Bogdan-Daniel Deac, who both scored 10 points. It was Sarana&#39;s fourth win of the year and Deac&#39;s second. Sarana needed&#38;nbsp;tiebreaks over GM Ian Nepomniachtchi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-deac-win-titled-tuesday-september-3-2024",
+         "pubDate" : "Wed, 04 Sep 2024 09:03:15",
+         "title" : "Familiar Faces Win Titled Tuesday"
+      },
+      {
+         "description" : "GM Andreas Dueckstein, an Austrian grandmaster known as a dangerous attacker who defeated world champions Max Euwe, Mikhail Botvinnik and Boris Spassky, died peacefully on August 28 at the age of 97. The news was confirmed by the Austrian chess fe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreas-duckstein-1927-2024",
+         "pubDate" : "Wed, 04 Sep 2024 09:03:00",
+         "title" : "Andreas Dueckstein (1927-2024)"
       },
       {
          "description" : "IM Brewington Hardaway edged one giant step closer to becoming a grandmaster as he earned his final norm in Barcelona last week. The 15-year-old now only has one hurdle left to cross before he would make history as the second African American with...",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-scc-2024-qf2",
          "pubDate" : "Wed, 04 Sep 2024 06:10:00",
          "title" : "Women's SCC: Ju and Lagno advance to the semifinals"
+      },
+      {
+         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-2",
+         "pubDate" : "Wed, 04 Sep 2024 00:00:00",
+         "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 2"
       },
       {
          "description" : "Editor's Note: On August 24, FEMChess hosted its third California All-Girls Scholastic Championship, breaking its previous record of 62 participants with 89 players participating. FEMChess co-founder WCM Allyson Wong has written this piece to discuss her motivation to and ongoing work in closing the gender gap in chess.<br /><br /> Chess has long been a male-dominated sport, but recent trends show encouraging progress in female participation, particularly among younger age groups. <br /><br /> Improving the overall participation rate of women and girls has also had positive impacts at the top levels. A decade ago, no female player was in US Chess's list of Top 100 Players Under-21 rankings, ",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Championships 2024: Making history on Wall Street"
       },
       {
-         "description" : "With three rounds to go in the 2024 Sinquefield Cup, French GM Alireza Firouzja is inching closer to a big payday in the 2024 Grand Chess Tour. Coming off a victorious Saint Louis Rapid & Blitz last week, Firouzja looks to secure both the $100,000 prize for the Cup and the additional $100,000 first prize for the Tour bonus!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> A happy Firouzja (L) in the broadcast studio after another impressive result (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja has led the event since his first-round victory over GM Fabiano Caruana, a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/firouzja-closes-sinquefield-cup-caruana-and-so-close-behind",
-         "pubDate" : "Mon, 26 Aug 2024 00:00:00",
-         "title" : "Firouzja Closes In On Sinquefield Cup, Caruana and So Close Behind"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -754,22 +778,6 @@ news_feed (
          "title" : "Keymer Wins Rubinstein Memorial With Round To Spare"
       },
       {
-         "description" : "GM Hans Niemann has surged to number 16 in the world on the live rating list after a series of matches he&#39;s organized entitled &#34;Hans Niemann Against The World.&#34; He&#39;s won all of the matches so far, starting with an exhibition blitz match against GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-niemann-rises-to-world-no-16",
-         "pubDate" : "Sun, 25 Aug 2024 08:31:00",
-         "title" : "Niemann Rises To World Number-16 Ahead Of SCC Finals Vs. Carlsen In Paris"
-      },
-      {
-         "description" : "GM Nodirbek Yakubboev won the 2024 Abu Dhabi Chess Festival&#39;s Masters tournament and the $30,000 check that belonged to it. The Uzbek grandmaster edged out GMs David Paravyan, Shamsiddin Vokhidov, Amin Tabatabaei, Leon Luke Mendonca, and IM Daniel...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nodirbek-yakubboev-wins-2024-abu-dhabi-masters",
-         "pubDate" : "Sun, 25 Aug 2024 03:51:00",
-         "title" : "Yakubboev Grabs $30,000 Check At Abu Dhabi Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3179",
          "pubDate" : "Sat, 24 Aug 2024 17:32:46",
          "title" : "FIDE 100 Torch Relay reaches United Arab Emirates"
-      },
-      {
-         "description" : "GM Hikaru Nakamura successfully returned to the Bullet Brawl&#38;nbsp;arena after a two-week hiatus, winning his 27th title and the $400 first prize with a commanding score of 69.5/77. GMs Andrew Tang and Jose Martinez rounded out the podium which was...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-24-2024",
-         "pubDate" : "Sat, 24 Aug 2024 17:16:00",
-         "title" : "Nakamura Claims 27th Title After 32-Game Unbeaten Streak"
       },
       {
          "description" : "",
