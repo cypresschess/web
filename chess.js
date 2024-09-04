@@ -10,6 +10,14 @@ news_feed (
          "title" : "Chess.com Speedchess Championship 2024: Niemann and Carlsen clash in Paris"
       },
       {
+         "description" : "IM Polina Shuvalova and four-time World Champion Ju Wenjun are the two finalists of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Shuvalova defeated GM Vaishali Rameshbabu 11.5-9.5 in a close match, while Ju nearly doubled GM Kateryna Lag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-wscc-sf-shuvalova-vaishali-ju-wenjun-lagno",
+         "pubDate" : "Wed, 04 Sep 2024 12:38:00",
+         "title" : "Shuvalova Edges Past Vaishali, Ju Wenjun Dominates Vs. Lagno On Path To Final"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, Rajasthan Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Udaipur from 21 September to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "BCET Awards 2024"
       },
       {
-         "description" : "The first Titled Tuedays of September went to two regulars, GMs Alexey Sarana&#38;nbsp;and Bogdan-Daniel Deac, who both scored 10 points. It was Sarana&#39;s fourth win of the year and Deac&#39;s second. Sarana needed&#38;nbsp;tiebreaks over GM Ian Nepomniachtchi...",
+         "description" : "The first Titled Tuesdays of September went to two regulars, GMs Alexey Sarana&#38;nbsp;and Bogdan-Daniel Deac, who both scored 10 points. It was Sarana&#39;s fourth win of the year and Deac&#39;s second. Sarana needed&#38;nbsp;tiebreaks over GM Ian Nepomniachtch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sarana-deac-win-titled-tuesday-september-3-2024",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Women's SCC: Ju and Lagno advance to the semifinals"
       },
       {
-         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-2",
@@ -770,14 +778,6 @@ news_feed (
          "title" : "Nepomniachtchi Blunders vs. Dragon, Caruana Chases Firouzja"
       },
       {
-         "description" : "GM Vincent Keymer won the 2024 Rubinstein Memorial&#39;s ALREH GM tournament on Sunday despite finishing with two losses. After starting with the superb score of six points out of seven games, the 19-year-old German grandmaster had already secured the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-2024-alreh-rubinstein-memorial-gm-tournament",
-         "pubDate" : "Sun, 25 Aug 2024 12:06:00",
-         "title" : "Keymer Wins Rubinstein Memorial With Round To Spare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3156",
          "pubDate" : "Thu, 15 Aug 2024 08:31:30",
          "title" : "All eyes on Tbilisi as the Women's Grand Prix spectacle begins"
-      },
-      {
-         "description" : " Kevin Pryor is the new President of the U.S. Chess Federation. A past President of the Florida Chess Association (FCA) and Executive Board member of the U.S. Chess Federation, Pryor was elected as the 32nd President of the U.S. Chess Federation at the Executive Board meeting during the 124th U.S. Open in Norfolk, Virginia. Kevin The post <a href=\"https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/\">Kevin Pryor is the new President of U.S. Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/",
-         "pubDate" : "Wed, 14 Aug 2024 22:43:07",
-         "title" : "Kevin Pryor is the new President of U.S. Chess!"
       }
    ]
 }
