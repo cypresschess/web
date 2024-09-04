@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa in Sri Lanka, has proven to be a thrilling and competitive event, showcasing a variety of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2024-2/",
+         "pubDate" : "Wed, 04 Sep 2024 07:14:57",
+         "title" : " Commonwealth Chess Championship 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113054334.cms\" />Vidit Gujrathi, a Grandmaster from Nashik, will compete for Mumba Masters in the Global Chess League's second season. Initially seeking stability through sports, he became one of India's top chess players. He surpassed the 2700 Elo rating mark and participated in this year's Candidates Tournament but aims to enhance his performance further.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-star-vidit-gujrathi-says-his-error-of-judgement-has-worked-out-well/articleshow/113054334.cms",
+         "pubDate" : "Wed, 04 Sep 2024 07:02:51",
+         "title" : "Vidit Gujrathi says his 'error of judgement' has worked out well"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3196",
+         "pubDate" : "Wed, 04 Sep 2024 06:10:04",
+         "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
+      },
+      {
+         "description" : "Ju Wenjun will face Kateryna Lagno in the second semifinal of the Women's Speed Chess Championship. Ju and Lagno knocked out Alice Lee and Valentina Gunina in Tuesday's quarterfinals, respectively. The women's world champion got a clear victory over Lee in the 5-minute and 3-minute sections, while Lagno outscored Gunina in the 1-minute segment of their match. | Photo: Alexander Demianchuk",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-scc-2024-qf2",
+         "pubDate" : "Wed, 04 Sep 2024 06:10:00",
+         "title" : "Women's SCC: Ju and Lagno advance to the semifinals"
+      },
+      {
          "description" : "Ernst Cassirer was a prominent and important German philosopher, who was born 150 years ago on July 28, 1874, in Breslau. In 1919, he was appointed to the chair of philosophy at the newly founded University of Hamburg, but after the Nazis rose to power, Cassirer emigrated to England, where he taught philosophy at Oxford. Later, he moved to the United States via Sweden, teaching at both Yale University and Columbia University in New York, where he died on April 13, 1945. Apart from philosophy Cassirer's great passion was chess, and he occasionally discussed both with Emanuel Lasker.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/new-rules-for-world-championship-encourage-faster-more-decisive-games",
-         "pubDate" : "Tue, 03 Sep 2024 17:50:33",
+         "pubDate" : "Tue, 03 Sep 2024 17:50:00",
          "title" : "New Rules for World Championship Encourage Faster, More Decisive Games"
       },
       {
@@ -952,14 +984,6 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps/",
          "pubDate" : "Mon, 19 Aug 2024 07:31:45",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps."
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, Tamil Nadu State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 31 August to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-in-thoothukudi-on-31-aug-to-01-sept-2024/",
-         "pubDate" : "Mon, 19 Aug 2024 07:07:50",
-         "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
       },
       {
          "description" : "",
