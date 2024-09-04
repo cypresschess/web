@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the final round of a Dutch tournament (in Waddingxveen 1979) World Champion Anatoly Karpov beat the second-placed GM Vlastimil Hort. But could the world-class Czech grandmaster have prevented this happening? This was the question we asked in our last Riddle. Today we provide you with the answer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/riddle-karpov-hort-1979",
+         "pubDate" : "Wed, 04 Sep 2024 11:00:00",
+         "title" : "Riddle: Karpov-Hort 1979 - Solution"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
+         "pubDate" : "Wed, 04 Sep 2024 09:45:14",
+         "title" : "ECF Secondary School Chess News September 2024"
+      },
+      {
+         "description" : "The Chess Trust are pleased to announced that four awards have been made to the following: North Cardiff Junior Chess Club; Park End Primary School Middlesbrough; St William of York...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcet-awards-2024/",
+         "pubDate" : "Wed, 04 Sep 2024 09:30:57",
+         "title" : "BCET Awards 2024"
+      },
+      {
          "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa in Sri Lanka, has proven to be a thrilling and competitive event, showcasing a variety of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -55,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/new-rules-for-world-championship-encourage-faster-more-decisive-games",
          "pubDate" : "Tue, 03 Sep 2024 17:50:00",
-         "title" : "New Rules for World Championship Encourage Faster, More Decisive Games"
+         "title" : "New Ding-Gukesh World Championship Rules Encourage Faster, More Decisive Games"
       },
       {
          "description" : "Shortly after his 97th birthday Andreas D&uuml;ckstein, one of the oldest FIDE title holders, passed away. Over the course of his long career, D&uuml;ckstein played against countless chess legends, beating some of the greats and drawing with others. D&uuml;ckstein possessed grandmaster strength and was only denied the title for formal reasons. FIDE finally made him an honorary grandmaster. Martin Stichlberger pays tribute to Austria's record international. | Photos: D&uuml;ckstein Collection, Martin Stichlberger, unless otherwise stated.",
@@ -79,7 +103,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3195",
          "pubDate" : "Tue, 03 Sep 2024 12:26:51",
-         "title" : "Elections of Chairman Members of three FIDE Commissions to take place at FIDE GA"
+         "title" : "Elections of Chairmen and Members of 3 FIDE Commissions to take place at FIDE GA"
       },
       {
          "description" : "On Friday, September 6th, there is going to be a touchy encounter between former World Champion and World number one Magnus Carlsen, and upstart GM Hans Niemann, 21. The pair will meet for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit. GM Jorden van Foreest, who has recently encountered Hans in evening blitz sessions, tells us what he thinks of the strength of this rising star.",
@@ -127,7 +151,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/september-2024-fide-rating-list",
          "pubDate" : "Tue, 03 Sep 2024 05:50:00",
-         "title" : "Sept. 2024 FIDE Ratings: Niemann Storms To 16th In The World"
+         "title" : "September 2024 FIDE Ratings: Niemann Storms To 16th In The World"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113009883.cms\" />Chess' governing body FIDE have made some interesting changes in regulations of World Championship match involving challenger D Gukesh of India. But it's unclear if these tweaks are logical. The 14-game classical match between reigning champion Ding Liren of China and Gukesh is scheduled in Singapore from Nov 25 to Dec 13. The tiebreak provisions are also changed slightly.",
@@ -1152,30 +1176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/petrosian-learning-from-the-master-2",
          "pubDate" : "Wed, 14 Aug 2024 13:00:00",
          "title" : "Petrosian - Learning from the Master"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3155",
-         "pubDate" : "Wed, 14 Aug 2024 11:06:31",
-         "title" : "Champions crowned at 22nd EU Youth Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/english-schools-finals-2024/#new_tab",
-         "pubDate" : "Wed, 14 Aug 2024 10:13:57",
-         "title" : "Report on the English Schools Finals 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3154",
-         "pubDate" : "Wed, 14 Aug 2024 09:49:49",
-         "title" : "2024 Saint Louis Rapid & Blitz: Three-way tie on the top"
       }
    ]
 }
