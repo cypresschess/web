@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Friday 6th September at 20:00 CEST in Paris an explosive duel that the chess world has been waiting for for weeks will begin: Hans Niemann will face Magnus Carlsen in the semi-finals of the chess.com Speedchess Championship. After his defeat against Niemann in the 2022 Sinquefield Cup, Carlsen indirectly accused Niemann of cheating, which led to heated discussions, headlines around the world and a defamation suit by Niemann. Alireza Firouzja will play Hikaru Nakamura in the second semi-final. The four finalists in Paris will play online on the computer, but will face each other live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-com-speedchess-championship-2024-niemann-and-carlsen-clash-in-paris",
+         "pubDate" : "Wed, 04 Sep 2024 14:25:41",
+         "title" : "Chess.com Speedchess Championship 2024: Niemann and Carlsen clash in Paris"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Rajasthan Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Udaipur from 21 September to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-udaipur-on-21-22-september-2024/",
+         "pubDate" : "Wed, 04 Sep 2024 11:36:46",
+         "title" : "SNA Seminar & Exam in Udaipur on 21 & 22 September 2024"
+      },
+      {
          "description" : "In the final round of a Dutch tournament (in Waddingxveen 1979) World Champion Anatoly Karpov beat the second-placed GM Vlastimil Hort. But could the world-class Czech grandmaster have prevented this happening? This was the question we asked in our last Riddle. Today we provide you with the answer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcet-awards-2024/",
          "pubDate" : "Wed, 04 Sep 2024 09:30:57",
          "title" : "BCET Awards 2024"
+      },
+      {
+         "description" : "IM Brewington Hardaway edged one giant step closer to becoming a grandmaster as he earned his final norm in Barcelona last week. The 15-year-old now only has one hurdle left to cross before he would make history as the second African American with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/brewington-hardaway-clinches-final-gm-norm-at-15",
+         "pubDate" : "Wed, 04 Sep 2024 07:57:59",
+         "title" : "Brewington Hardaway Nears Historic Grandmaster Title at 15"
       },
       {
          "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa in Sri Lanka, has proven to be a thrilling and competitive event, showcasing a variety of",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-scc-2024-qf2",
          "pubDate" : "Wed, 04 Sep 2024 06:10:00",
          "title" : "Women's SCC: Ju and Lagno advance to the semifinals"
+      },
+      {
+         "description" : "Editor's Note: On August 24, FEMChess hosted its third California All-Girls Scholastic Championship, breaking its previous record of 62 participants with 89 players participating. FEMChess co-founder WCM Allyson Wong has written this piece to discuss her motivation to and ongoing work in closing the gender gap in chess.<br /><br /> Chess has long been a male-dominated sport, but recent trends show encouraging progress in female participation, particularly among younger age groups. <br /><br /> Improving the overall participation rate of women and girls has also had positive impacts at the top levels. A decade ago, no female player was in US Chess's list of Top 100 Players Under-21 rankings, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/femchess-third-california-all-girls-scholastic-addresses-gender-gap",
+         "pubDate" : "Wed, 04 Sep 2024 00:00:00",
+         "title" : "FEMchess Third California All-Girls Scholastic Addresses Gender Gap"
       },
       {
          "description" : "Ernst Cassirer was a prominent and important German philosopher, who was born 150 years ago on July 28, 1874, in Breslau. In 1919, he was appointed to the chair of philosophy at the newly founded University of Hamburg, but after the Nazis rose to power, Cassirer emigrated to England, where he taught philosophy at Oxford. Later, he moved to the United States via Sweden, teaching at both Yale University and Columbia University in New York, where he died on April 13, 1945. Apart from philosophy Cassirer's great passion was chess, and he occasionally discussed both with Emanuel Lasker.",
@@ -786,14 +818,6 @@ news_feed (
          "title" : "Why system openings are bad for black"
       },
       {
-         "description" : "IM Alina Kashlinskaya beat GM Mariya Muzychuk in the final round to clinch sole first place in the 2024 Tbilisi FIDE Women&#39;s Grand Prix. Her win earned her &#38;euro;18,000 (~$20,000), 130 Grand Prix points, and a second GM norm. IM Bibisara Assaubaye...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alina-kashlinskaya-winner-2024-fide-womens-grand-prix-tbilisi",
-         "pubDate" : "Sat, 24 Aug 2024 09:23:00",
-         "title" : "Kashlinskaya Wins Tbilisi Grand Prix, Earns 2nd GM Norm"
-      },
-      {
          "description" : "Grandmaster Gawain Jones has risen like a phoenix from the ashes of personal tribulation, which curtailed his competitive appearances for the past year, to win both the English and British Championships. In the former he despatched Mickey Adams in a play-off match, while in the latter he inflicted match defeat on David Howell, the pre-tournament []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -856,14 +880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3174",
          "pubDate" : "Thu, 22 Aug 2024 05:26:00",
          "title" : "The official song of 45th Chess Olympiad is out!"
-      },
-      {
-         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element again",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
-         "pubDate" : "Thu, 22 Aug 2024 00:00:00",
-         "title" : "Firouzja, Nepomniachtchi Lead 2024 Sinquefield Cup After Three Rounds"
       },
       {
          "description" : "",
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-in-chennai-on-07-sept-to-08-sept-2024/",
          "pubDate" : "Mon, 19 Aug 2024 07:52:56",
          "title" : "SNA Seminar in Chennai on 07 Sept to 08 Sept 2024"
-      },
-      {
-         "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. Criteria:GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor LINK:https://docs.google.com/forms/d/1DQw5mSf96rWc9UztiAy7S4I2UK94vfkMCV-xmYcxn00 The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps/",
-         "pubDate" : "Mon, 19 Aug 2024 07:31:45",
-         "title" : "Expression of Interest for AICF Coach in Various Events and Camps."
       },
       {
          "description" : "",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/",
          "pubDate" : "Wed, 14 Aug 2024 22:43:07",
          "title" : "Kevin Pryor is the new President of U.S. Chess!"
-      },
-      {
-         "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. Here is part two of his lesson.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/petrosian-learning-from-the-master-2",
-         "pubDate" : "Wed, 14 Aug 2024 13:00:00",
-         "title" : "Petrosian - Learning from the Master"
       }
    ]
 }
