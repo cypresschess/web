@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Surya Shekhar Ganguly defeated Sam Shankland in their 8-game online match with the unique scoring system devised by Venceslav Rutar - which changes the scoring of draws into three categories based on the material disparity. Surya won the match by a 26-11 score, after grabbing 5 wins. Shankland collected 1 win, and 3 games ended in 'equal draws'. While there were no 'favoured' nor 'unfavoured' draws in the match, the format advocated for fighting chess as we got to see so many interesting games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ganguly-shankland-match-2024-final-report",
+         "pubDate" : "Thu, 05 Sep 2024 02:50:00",
+         "title" : "Ganguly beats Shankland in match with Venceslav Rutar's scoring system"
+      },
+      {
          "description" : "On Friday 6th September at 20:00 CEST in Paris an explosive duel that the chess world has been waiting for for weeks will begin: Hans Niemann will face Magnus Carlsen in the semi-finals of the chess.com Speedchess Championship. After his defeat against Niemann in the 2022 Sinquefield Cup, Carlsen indirectly accused Niemann of cheating, which led to heated discussions, headlines around the world and a defamation suit by Niemann. Alireza Firouzja will play Hikaru Nakamura in the second semi-final. The four finalists in Paris will play online on the computer, but will face each other live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
