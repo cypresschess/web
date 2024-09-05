@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Surya Shekhar Ganguly defeated Sam Shankland in their 8-game online match with the unique scoring system devised by Venceslav Rutar - which changes the scoring of draws into three categories based on the material disparity. Surya won the match by a 26-11 score, after grabbing 5 wins. Shankland collected 1 win, and 3 games ended in 'equal draws'. While there were no 'favoured' nor 'unfavoured' draws in the match, the format advocated for fighting chess as we got to see so many interesting games.",
+         "description" : "One hundred ninety-seven teams have registered for the open section of the 45th Chess Olympiad in Budapest. With FIDE currently encompassing 201 national federations, the registration numbers fall short by just four federations. As is often the case, not every registered team will make it to Budapest for various reasons. Nevertheless, this Olympiad is set to break participation records.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ganguly-shankland-match-2024-final-report",
-         "pubDate" : "Thu, 05 Sep 2024 02:50:00",
-         "title" : "Ganguly beats Shankland in match with Venceslav Rutar's scoring system"
+         "link" : "https://en.chessbase.com/post/chess-olympiad-open-section-who-will-reign-supreme-in-budapest",
+         "pubDate" : "Thu, 05 Sep 2024 09:49:55",
+         "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NZqOwpQXIgk.jpg?itok=S3Wgn5xX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro",
+         "pubDate" : "Thu, 05 Sep 2024 06:16:37",
+         "title" : "My Rivalry with Anton Korobov | Prepare Like A Pro - GM Miro"
       },
       {
          "description" : "On Friday 6th September at 20:00 CEST in Paris an explosive duel that the chess world has been waiting for for weeks will begin: Hans Niemann will face Magnus Carlsen in the semi-finals of the chess.com Speedchess Championship. After his defeat against Niemann in the 2022 Sinquefield Cup, Carlsen indirectly accused Niemann of cheating, which led to heated discussions, headlines around the world and a defamation suit by Niemann. Alireza Firouzja will play Hikaru Nakamura in the second semi-final. The four finalists in Paris will play online on the computer, but will face each other live.",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3196",
          "pubDate" : "Wed, 04 Sep 2024 06:10:04",
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
-      },
-      {
-         "description" : "Ju Wenjun will face Kateryna Lagno in the second semifinal of the Women's Speed Chess Championship. Ju and Lagno knocked out Alice Lee and Valentina Gunina in Tuesday's quarterfinals, respectively. The women's world champion got a clear victory over Lee in the 5-minute and 3-minute sections, while Lagno outscored Gunina in the 1-minute segment of their match. | Photo: Alexander Demianchuk",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-scc-2024-qf2",
-         "pubDate" : "Wed, 04 Sep 2024 06:10:00",
-         "title" : "Women's SCC: Ju and Lagno advance to the semifinals"
       },
       {
          "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
@@ -264,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/puzzle-solutions-2",
          "pubDate" : "Mon, 02 Sep 2024 21:00:00",
          "title" : "Puzzle solutions"
-      },
-      {
-         "description" : "Venceslav Rutar from Slovenia is organising a match between GM Sam Shankland and GM Surya Sekhar Ganguly on 2-3 September. What's so special about this event? As Venceslav says, \"Draws are not the problem, the problem is how we score them!\" A unique scoring system will be used in this match. The traditional system with 1 point (to the winner), &frac12; point (to both the players) and 0 points (to the loser) will be replaced by five possibilities: win, favoured draw, equal draw, disfavoured draw and loss. Live transmission of the first game starts at 8.30 pm IST (17.00 CEST, 11.00 EDT). | Photos: Austin Fuller & Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ganguly-shankland-match-2024-preview",
-         "pubDate" : "Mon, 02 Sep 2024 16:45:00",
-         "title" : "Surya Ganguly and Sam Shankland to play match with unique scoring system"
       },
       {
          "description" : "A badly positioned piece can make the difference between victory and defeat! In his series 'Practical tips for the tournament player', Jan Markos develops a winning strategy from this in the new CBM #221: Gain a decisive advantage by taking one of your opponent's pieces out of the game. In his video, he demonstrates how to do this using two sample games by Cheparinov and Carlsen. And afterwards you can test your skills with a small collection of exercises. Have fun with the free CBM-sample of this week!",
@@ -512,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-winning-streaks-statistically-normal-professor-says",
          "pubDate" : "Fri, 30 Aug 2024 06:48:00",
          "title" : "Professor Finds Nakamura's Winning Streaks Statistically Normal, Kramnik Dismisses It"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Making what seemed to be the only brilliant move to avoid mate, the chess engine (a.k.a. Silicon Overlord) didn&#039;t agree. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brilliant-move-robbed-silicon-overlord-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9CcXF9OjyME.jpg?itok=Lrhg8u71\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/brilliant-move-robbed-silicon-overlord-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
-         "title" : "Brilliant Move Robbed By The Silicon Overlord #grandchesstour #chess #chessendgame #chesscom"
       },
       {
          "description" : "",
@@ -1152,30 +1136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-in-rapid/articleshow/112549567.cms",
          "pubDate" : "Thu, 15 Aug 2024 14:39:56",
          "title" : "Grand chess tour: R Praggnanandhaa finishes last in rapid"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3157",
-         "pubDate" : "Thu, 15 Aug 2024 11:00:54",
-         "title" : "FIDE World Championship 2024 Match to be held in Singapore at Resorts World Sentosa"
-      },
-      {
-         "description" : " The Tbilisi FIDE Women's Grand Prix takes place Wed 14th Aug to Sun 25th Aug 2024. Players: Anna Muzychuk, Mariya Muzychuk, Nana Dzagnidze, Rameshbabu Vaishali, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Alina Kashlinskaya, Bibisara Assaubayeva, Lela Javakhishvili and Stavroula Tsolakidou. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tbilisi-fide-womens-grand-prix-2024",
-         "pubDate" : "Thu, 15 Aug 2024 10:48:00",
-         "title" : "Tbilisi FIDE Women's Grand Prix 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3156",
-         "pubDate" : "Thu, 15 Aug 2024 08:31:30",
-         "title" : "All eyes on Tbilisi as the Women's Grand Prix spectacle begins"
       }
    ]
 }
