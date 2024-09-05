@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3198",
+         "pubDate" : "Thu, 05 Sep 2024 18:54:49",
+         "title" : "Exciting format changes announced for 2024 FIDE World Rapid & Blitz Championships"
+      },
+      {
          "description" : "Musician and chess fan Jason Kouchak was inspired by the beautiful summer to write a chess song. Together with his friend Stephen Johnstone, he celebrates the anniversary of Andrew Lloyd Webber's 'Starlight Express' with a fast-paced game of chess and a skate ride, and looks forward to the upcoming Global Chess Festival. | Photos: Julian Paix (unless otherwise noted)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +34,20 @@ news_feed (
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
       },
       {
+         "description" : "Four-time Women&#39;s World Champion Ju Wenjun won the 2024 Julius Baer Women&#39;s Speed Chess Championship after defeating IM Polina Shuvalova in the Final. The match score was 12.5-9.5, and Ju won every one of the three segments by a point. The Chine...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-wscc-final-ju-wenjun-wins",
+         "pubDate" : "Thu, 05 Sep 2024 08:29:00",
+         "title" : "Ju Wenjun Wins 2024 Women's SCC Title, Excels In All Speed Chess Formats"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NZqOwpQXIgk.jpg?itok=S3Wgn5xX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro",
          "pubDate" : "Thu, 05 Sep 2024 06:16:37",
          "title" : "My Rivalry with Anton Korobov | Prepare Like A Pro - GM Miro"
-      },
-      {
-         "description" : "On Friday 6th September at 20:00 CEST in Paris an explosive duel that the chess world has been waiting for for weeks will begin: Hans Niemann will face Magnus Carlsen in the semi-finals of the chess.com Speedchess Championship. After his defeat against Niemann in the 2022 Sinquefield Cup, Carlsen indirectly accused Niemann of cheating, which led to heated discussions, headlines around the world and a defamation suit by Niemann. Alireza Firouzja will play Hikaru Nakamura in the second semi-final. The four finalists in Paris will play online on the computer, but will face each other live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-com-speedchess-championship-2024-niemann-and-carlsen-clash-in-paris",
-         "pubDate" : "Wed, 04 Sep 2024 14:25:41",
-         "title" : "Chess.com Speedchess Championship 2024: Niemann and Carlsen clash in Paris"
       },
       {
          "description" : "IM Polina Shuvalova and four-time World Champion Ju Wenjun are the two finalists of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Shuvalova defeated GM Vaishali Rameshbabu 11.5-9.5 in a close match, while Ju nearly doubled GM Kateryna Lag...",
@@ -146,20 +154,12 @@ news_feed (
          "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 2"
       },
       {
-         "description" : "Editor's Note: On August 24, FEMChess hosted its third California All-Girls Scholastic Championship, breaking its previous record of 62 participants with 89 players participating. FEMChess co-founder WCM Allyson Wong has written this piece to discuss her motivation for and ongoing work in closing the gender gap in chess.<br /><br /> Chess has long been a male-dominated sport, but recent trends show encouraging progress in female participation, particularly among younger age groups. <br /><br /> Improving the overall participation rate of women and girls has also had positive impacts at the top levels. A decade ago, no female player was in US Chess's list of Top 100 Players Under-21 rankings,",
+         "description" : "Editor's Note: On August 24, FEMchess hosted its third California All-Girls Scholastic Championship, breaking its previous record of 62 participants with 89 players participating. FEMChess co-founder WCM Allyson Wong has written this piece to discuss her motivation for and ongoing work in closing the gender gap in chess.<br /><br /> Chess has long been a male-dominated sport, but recent trends show encouraging progress in female participation, particularly among younger age groups. <br /><br /> Improving the overall participation rate of women and girls has also had positive impacts at the top levels. A decade ago, no female player was in US Chess's list of Top 100 Players Under-21 rankings,",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/femchess-third-california-all-girls-scholastic-addresses-gender-gap",
          "pubDate" : "Wed, 04 Sep 2024 00:00:00",
          "title" : "FEMchess Third California All-Girls Scholastic Addresses Gender Gap"
-      },
-      {
-         "description" : "Ernst Cassirer was a prominent and important German philosopher, who was born 150 years ago on July 28, 1874, in Breslau. In 1919, he was appointed to the chair of philosophy at the newly founded University of Hamburg, but after the Nazis rose to power, Cassirer emigrated to England, where he taught philosophy at Oxford. Later, he moved to the United States via Sweden, teaching at both Yale University and Columbia University in New York, where he died on April 13, 1945. Apart from philosophy Cassirer's great passion was chess, and he occasionally discussed both with Emanuel Lasker.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/playing-such-a-demanding-game-for-relaxation-the-chess-passion-of-ernst-cassirer",
-         "pubDate" : "Tue, 03 Sep 2024 20:00:00",
-         "title" : "\"Playing such a demanding game for relaxation...\" - The chess passion of Ernst Cassirer"
       },
       {
          "description" : "The 2024 India College Chess Championship (ICCL) began on August 22, 2024, with record-breaking registrations of 245 teams featuring more than 1200 players. The SRM Institute of Science and Technology, led by GM Pranesh M, convincingly dominated t...",
@@ -178,14 +178,6 @@ news_feed (
          "title" : "New Ding-Gukesh World Championship Rules Encourage Faster, More Decisive Games"
       },
       {
-         "description" : "Shortly after his 97th birthday Andreas D&uuml;ckstein, one of the oldest FIDE title holders, passed away. Over the course of his long career, D&uuml;ckstein played against countless chess legends, beating some of the greats and drawing with others. D&uuml;ckstein possessed grandmaster strength and was only denied the title for formal reasons. FIDE finally made him an honorary grandmaster. Martin Stichlberger pays tribute to Austria's record international. | Photos: D&uuml;ckstein Collection, Martin Stichlberger, unless otherwise stated.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andreas-dueckstein-1927-2024",
-         "pubDate" : "Tue, 03 Sep 2024 14:28:43",
-         "title" : "Austrian chess legend Andreas D&uuml;ckstein dies (1927-2024)"
-      },
-      {
          "description" : "Reigning World Champion Ju Wenjun and three-time Women&#39;s World Blitz Champion Kateryna Lagno will face each other in the Semifinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Ju defeated IM Alice Lee 9.5-5.5, while Lagno eliminated ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -200,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3195",
          "pubDate" : "Tue, 03 Sep 2024 12:26:51",
          "title" : "Elections of Chairmen and Members of 3 FIDE Commissions to take place at FIDE GA"
-      },
-      {
-         "description" : "On Friday, September 6th, there is going to be a touchy encounter between former World Champion and World number one Magnus Carlsen, and upstart GM Hans Niemann, 21. The pair will meet for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit. GM Jorden van Foreest, who has recently encountered Hans in evening blitz sessions, tells us what he thinks of the strength of this rising star.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-strong-is-hans-really",
-         "pubDate" : "Tue, 03 Sep 2024 12:19:12",
-         "title" : "How strong is Hans really?"
       },
       {
          "description" : "Clubs and other chess organisations can now renew their insurance through Green Insurance Group by using the renewal/application form link below. All applications and payments should be sent to Green...",
@@ -778,14 +762,6 @@ news_feed (
          "title" : "FIDE Solving Championships: Free online lessons for everybody"
       },
       {
-         "description" : "GM Fabiano Caruana gained ground on GM Alireza Firouzja after GM Ian Nepomniachtchi made a shocking blunder at the 2024 Sinquefield Cup on Sunday. Caruana is now tied for second with GM Wesley So while Firouzja continues to have a half-point lead ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-6",
-         "pubDate" : "Sun, 25 Aug 2024 18:29:00",
-         "title" : "Nepomniachtchi Blunders vs. Dragon, Caruana Chases Firouzja"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1128,22 +1104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/16/chess-hans-niemann-closes-on-world-top-20-as-us-star-impresses-in-london",
          "pubDate" : "Fri, 16 Aug 2024 07:00:07",
          "title" : "Chess: Hans Niemann closes on world top 20 as US star impresses in London"
-      },
-      {
-         "description" : "The European Union Youth Chess Championships 2024 concluded in Roznov pod Radhostem, Czech Repubic. The last rounds were full of fights and tension. In category Boys U8 took the first place Han Nam Pham (FRA, 9 out of 9!), the second place Aaron-Mathias Dragoi (ROU) and the third Vojtech Vratny (CZE). In category Girls U8 took the first place Amanda Skytte (DEN), the second place Cassandre Itier (FRA) and the third Isis Bocquenet-Drouode (FRA). Champion EU in category Boys U10 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2024-concluded/",
-         "pubDate" : "Thu, 15 Aug 2024 17:56:39",
-         "title" : "European Union Youth Chess Championship 2024 concluded"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3158",
-         "pubDate" : "Thu, 15 Aug 2024 17:26:40",
-         "title" : "Assaubayeva and Tsolakidou triumph in first round of the Women's Grand Prix"
       }
    ]
 }
