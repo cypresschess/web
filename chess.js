@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ju Wenjun was among the 10 players who received invitations to participate in the main event of the Women's Speed Chess Championship. The tournament was a 16-player knockout tournament, also featuring participants who had prevailed in the qualification process. In the final, Ju faced Polina Shuvalova and obtained a clear 12&frac12;-9&frac12; victory, as she outscored her opponent in all 3 sections of the match. | Photo: Gu Xiaobing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-scc-2024-final-report",
+         "pubDate" : "Thu, 05 Sep 2024 22:05:00",
+         "title" : "Ju Wenjun outscores Shuvalova, wins Women's Speed Chess Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "A summer of high spirits and inspiration"
       },
       {
-         "description" : "The final stages of the Julius Baer Women's Speed Chess Championship are taking place on 2-5 September. In the match for the title, women's world champion Ju Wenjun faces Polina Shuvalova in a confrontation consisting of 5-minute, 3-minute and 1-minute games. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-scc-2024-finals-live",
-         "pubDate" : "Thu, 05 Sep 2024 13:45:00",
-         "title" : "Women's SCC Final: Ju v. Shuvalova"
+         "description" : "French WGM Andreaa Navrotescu achieved a feat that not even GM Magnus Carlsen could achieve before her. She won an event with a perfect 9/9 score. Chess.com regularly covers impressive performances from the chess world, but there are times when ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/navrotescu-wins-with-stunning-9-9-in-london",
+         "pubDate" : "Thu, 05 Sep 2024 12:27:20",
+         "title" : "Navrotescu Achieves Extraordinary 9/9 Perfection In London"
       },
       {
          "description" : "One hundred ninety-seven teams have registered for the open section of the 45th Chess Olympiad in Budapest. With FIDE currently encompassing 201 national federations, the registration numbers fall short by just four federations. As is often the case, not every registered team will make it to Budapest for various reasons. Nevertheless, this Olympiad is set to break participation records.",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3184",
          "pubDate" : "Mon, 26 Aug 2024 12:30:21",
          "title" : "French Championship 2024: Moussard and Daulyte-Cornette win titles"
-      },
-      {
-         "description" : "Women&#39;s world number one Hou Yifan is through to the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship after defeating qualifier IM Anastasia Bodnaruk 7.5-5.5. The final scoreline looks close after Bodnaruk won the last four g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wscc-ro16-hou-yifan-bodnaruk",
-         "pubDate" : "Mon, 26 Aug 2024 10:25:00",
-         "title" : "Hou Yifan Storms Into Quarterfinals With 6-Game Winning Streak"
       },
       {
          "description" : "The European Amateur Chess Championship 2024 commenced yesterday in Mali Losinj, Croatia. The Opening ceremony of the event took place shortly before the first round, with the attendance of the ECU Vice President Mr. Alojzije Jankovic who addressed the players and made the first ceremonial move before the start of the games. The Championship is played in three rating sections: U1700, U2000 and U2300, and gathers 82 players from 16 European federations, including two players from Guadalupe, overseas region of []",
