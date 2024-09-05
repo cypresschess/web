@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Musician and chess fan Jason Kouchak was inspired by the beautiful summer to write a chess song. Together with his friend Stephen Johnstone, he celebrates the anniversary of Andrew Lloyd Webber's 'Starlight Express' with a fast-paced game of chess and a skate ride, and looks forward to the upcoming Global Chess Festival. | Photos: Julian Paix (unless otherwise noted)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-summer-of-high-spirits-and-inspiration",
+         "pubDate" : "Thu, 05 Sep 2024 15:00:00",
+         "title" : "A summer of high spirits and inspiration"
+      },
+      {
+         "description" : "The final stages of the Julius Baer Women's Speed Chess Championship are taking place on 2-5 September. In the match for the title, women's world champion Ju Wenjun faces Polina Shuvalova in a confrontation consisting of 5-minute, 3-minute and 1-minute games. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-scc-2024-finals-live",
+         "pubDate" : "Thu, 05 Sep 2024 13:45:00",
+         "title" : "Women's SCC Final: Ju v. Shuvalova"
+      },
+      {
          "description" : "One hundred ninety-seven teams have registered for the open section of the 45th Chess Olympiad in Budapest. With FIDE currently encompassing 201 national federations, the registration numbers fall short by just four federations. As is often the case, not every registered team will make it to Budapest for various reasons. Nevertheless, this Olympiad is set to break participation records.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 2"
       },
       {
-         "description" : "Editor's Note: On August 24, FEMChess hosted its third California All-Girls Scholastic Championship, breaking its previous record of 62 participants with 89 players participating. FEMChess co-founder WCM Allyson Wong has written this piece to discuss her motivation to and ongoing work in closing the gender gap in chess.<br /><br /> Chess has long been a male-dominated sport, but recent trends show encouraging progress in female participation, particularly among younger age groups. <br /><br /> Improving the overall participation rate of women and girls has also had positive impacts at the top levels. A decade ago, no female player was in US Chess's list of Top 100 Players Under-21 rankings, ",
+         "description" : "Editor's Note: On August 24, FEMChess hosted its third California All-Girls Scholastic Championship, breaking its previous record of 62 participants with 89 players participating. FEMChess co-founder WCM Allyson Wong has written this piece to discuss her motivation for and ongoing work in closing the gender gap in chess.<br /><br /> Chess has long been a male-dominated sport, but recent trends show encouraging progress in female participation, particularly among younger age groups. <br /><br /> Improving the overall participation rate of women and girls has also had positive impacts at the top levels. A decade ago, no female player was in US Chess's list of Top 100 Players Under-21 rankings,",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/femchess-third-california-all-girls-scholastic-addresses-gender-gap",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3158",
          "pubDate" : "Thu, 15 Aug 2024 17:26:40",
          "title" : "Assaubayeva and Tsolakidou triumph in first round of the Women's Grand Prix"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112549567.cms\" />Indian Grandmaster R Praggnanandhaa struggled in the Rapid section of the Saint Louis Rapid and Blitz tournament, finishing last with a score of 4/18. He ended the day with three losses and three draws, including defeats by Lenier Dominguez and Hikaru Nakamura. The Rapid segment ended with Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Alireza Firouzja tied at the top with 11 points each. The tournament moves to the Blitz section, where Praggnanandhaa needs a strong performance to improve his standings and potentially surpass D Gukesh in the Grand",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-in-rapid/articleshow/112549567.cms",
-         "pubDate" : "Thu, 15 Aug 2024 14:39:56",
-         "title" : "Grand chess tour: R Praggnanandhaa finishes last in rapid"
       }
    ]
 }
