@@ -106,6 +106,14 @@ news_feed (
          "title" : "My Rivalry with Anton Korobov! | Prepare Like A Pro - GM Miro"
       },
       {
+         "description" : "The 18th NYC Chess Norms invitational took place from August 29 through September 2 at the Marshall Chess Club, with IM Kyron Griffith earning his second GM norm and FM Samrug Narayanan earning his final IM norm and crossing the 2400 FIDE threshold in the process. Coverage of our last event can be read here.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Photos courtesy NYC Chess Norms <br /><br /> Gr",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/two-norms-earned-over-labor-day-nyc-norms-event",
+         "pubDate" : "Fri, 06 Sep 2024 00:00:00",
+         "title" : "Two Norms Earned Over Labor Day NYC Norms Event"
+      },
+      {
          "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2024-2025 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. <br /><br /> We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -722,14 +730,6 @@ news_feed (
          "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 1"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> US Chess is pleased to announce that Bryan Tillis has joined the US Chess team as Marketing and Communications Manager. The Marketing and Communications Manager is responsible for planning, development, and implementation of all US Chess external communications, marketing strategies and communications, public relations activities, and internal communications. Tillis will also oversee the development and implementation of support materials and services for affiliates and committees. Learn more about the position by clicking here. <br /><br /> As a national master and FIDE Trainer, Bry",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/bryan-tillis-hired-marketing-and-communications-manager",
-         "pubDate" : "Wed, 28 Aug 2024 00:00:00",
-         "title" : "Bryan Tillis Hired as Marketing and Communications Manager"
-      },
-      {
          "description" : "With a fighting draw vs. GM Ian Nepomniachtchi, GM Alireza Firouzja clinched the Grand Chess Tour with a round to spare on Tuesday. Meanwhile, the battle for the 2024 Sinquefield Cup&#38;nbsp;continues with GM Fabiano Caruana trailing by a point and i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1112,14 +1112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/poisoned-pawn/",
          "pubDate" : "Sat, 17 Aug 2024 12:36:29",
          "title" : "Poisoned Pawn"
-      },
-      {
-         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
-         "pubDate" : "Fri, 16 Aug 2024 19:50:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
       }
    ]
 }
