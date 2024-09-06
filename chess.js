@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NZqOwpQXIgk.jpg?itok=S3Wgn5xX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0",
+         "pubDate" : "Fri, 06 Sep 2024 00:17:24",
+         "title" : "My Rivalry with Anton Korobov! | Prepare Like A Pro - GM Miro"
+      },
+      {
          "description" : "Ju Wenjun was among the 10 players who received invitations to participate in the main event of the Women's Speed Chess Championship. The tournament was a 16-player knockout tournament, also featuring participants who had prevailed in the qualification process. In the final, Ju faced Polina Shuvalova and obtained a clear 12&frac12;-9&frac12; victory, as she outscored her opponent in all 3 sections of the match. | Photo: Gu Xiaobing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,7 +162,7 @@ news_feed (
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
       },
       {
-         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-2",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/remember-when-dr-sinquefield-defeated-fabi-grandchesstour-chess-chessendgame-chesscom",
          "pubDate" : "Fri, 30 Aug 2024 15:13:09",
          "title" : "Remember When Dr. Sinquefield Defeated Fabi #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nazi and Yasser make a friendly wager on MVL&#039; s behalf </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commentators-wager-grandchesstour-chess-chessendgame-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/j4taAzYv9W0.jpg?itok=4pVWfF2q\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/commentators-wager-grandchesstour-chess-chessendgame-chesstalk-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 15:13:09",
-         "title" : "Commentator's Wager #grandchesstour #chess #chessendgame #chesstalk #chesscom"
       },
       {
          "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
