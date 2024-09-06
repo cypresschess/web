@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The semifinals of the Speed Chess Championship are taking place on 6 September at Espot in Paris. In the first semi, Hikaru Nakamura faces Alireza Firouzja. Each match consists of 5-minute games (90 minutes), 3-minute games (60 minutes) and 1-minute games (30 minutes), all with 1-second increments. | Follow the action live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
+         "pubDate" : "Fri, 06 Sep 2024 15:45:00",
+         "title" : "Speed Chess Championship: Nakamura v. Firouzja - Live!"
+      },
+      {
+         "description" : "The 37th National Under-07 and Girls Chess Championship 2024 concluded with a grand closing ceremony in Mysuru, celebrating a vibrant and competitive event. A total",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-37th-national-under-07-and-under-07-girls-chess-championship2024/",
+         "pubDate" : "Fri, 06 Sep 2024 15:25:53",
+         "title" : "Final Report of 37th National Under-07 and Under 07 Girls Chess Championship2024"
+      },
+      {
+         "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa, Sri Lanka, concluded on September 5, 2024, with a memorable display of talent across multiple sections,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-wins-107-medals-in-commonwealth-classical-rapid-and-blitz-championship-2024/",
+         "pubDate" : "Fri, 06 Sep 2024 15:18:20",
+         "title" : "India wins 107 Medals in Commonwealth Classical, Rapid and Blitz Championship 2024."
+      },
+      {
          "description" : "Vladimir Tukmakov faced Viktor Korchnoi in the USSR Championship, 1970, and played a famously brilliant game, in the Nimzo-Indian, Bronstein variation. While the Black King tries to escape a devastating attack, Korchnoi still finds the time for counterattacks, and builds up some intense threats. Tukmakov decides to invest his attack in a new idea! Svitlana's analysis of the whole game, is in great detail, as always. The Smart Moves continue in October, after the Olympiad in Budapest.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "The 5th ECU Trainers Online Seminar"
       },
       {
-         "description" : " The London schoolboy defeated three GMs in successive games in Budapest and narrowly failed to achieve a world age record 2300 and a Fide Master title Ethan Pang, the nine-year-old London schoolboy who, <a href=\"https://www.chess.com/news/view/9-year-old-ethan-pang-becomes-youngest-to-ever-break-2200?page=3is\">in June</a>, set a new world mark as the youngest ever to achieve a 2200 master rating, is in the record books again. Competing in the Vezerkepto IM tournament in Budapest, Pang defeated three grandmasters in succession between rounds two and five. True, the beaten trio were past their best and rated below 2400 compared with the normal GM level of 2500, but they all had decades of hig",
+         "description" : " The London schoolboy defeated three GMs in successive games in Budapest and narrowly failed to achieve a world age record 2300 and a Fide Master title Ethan Pang, the nine-year-old London schoolboy who, <a href=\"https://www.chess.com/news/view/9-year-old-ethan-pang-becomes-youngest-to-ever-break-2200?page=3is\">in June</a>, set a new world mark as the youngest ever to achieve a 2200 master rating, is in the record books again. Competing in the Vezerkepzo IM tournament in Budapest, Pang defeated three grandmasters in succession between rounds two and five. True, the beaten trio were past their best and rated below 2400 compared with the normal GM level of 2500, but they all had decades of hig",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/sep/06/chess-ethan-pang-nine-beats-three-grandmasters-but-misses-2300-rating",
@@ -54,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/first-neuralink-patient-noland-arbaugh-chess-got-me-through-hard-times",
-         "pubDate" : "Fri, 06 Sep 2024 03:10:21",
+         "pubDate" : "Fri, 06 Sep 2024 03:10:00",
          "title" : "First Neuralink Patient Noland Arbaugh: 'Chess Got Me Through Hard Times'"
       },
       {
@@ -226,7 +250,7 @@ news_feed (
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
       },
       {
-         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-2",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "Chairpersons and members of CON, EDC and VER commissions to be elected at FIDE General Assembly"
       },
       {
-         "description" : "The 2nd National Schools Team Chess Championship took place over three days at the Indira Gandhi Indoor Stadium in Guwahati, Assam, featuring two categories: Under",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-2nd-national-schools-team-under-12-and-under-18-chess/",
-         "pubDate" : "Mon, 19 Aug 2024 11:52:52",
-         "title" : "Final report of 2nd National Schools Team Under 12 and Under 18 Chess."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1032,14 +1048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/this-week-jan-marcos-and-robert-ris",
          "pubDate" : "Mon, 19 Aug 2024 09:49:12",
          "title" : "This week: Jan Markos and Robert Ris"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, Tamil Nadu State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 07 September to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-in-chennai-on-07-sept-to-08-sept-2024/",
-         "pubDate" : "Mon, 19 Aug 2024 07:52:56",
-         "title" : "SNA Seminar in Chennai on 07 Sept to 08 Sept 2024"
       },
       {
          "description" : "",
