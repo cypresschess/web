@@ -2,7 +2,71 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NZqOwpQXIgk.jpg?itok=S3Wgn5xX\" alt=\"\" /></a></div>",
+         "description" : "Vladimir Tukmakov faced Viktor Korchnoi in the USSR Championship, 1970, and played a famously brilliant game, in the Nimzo-Indian, Bronstein variation. While the Black King tries to escape a devastating attack, Korchnoi still finds the time for counterattacks, and builds up some intense threats. Tukmakov decides to invest his attack in a new idea! Svitlana's analysis of the whole game, is in great detail, as always. The Smart Moves continue in October, after the Olympiad in Budapest.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-a-brilliant-game-against-korchnoi",
+         "pubDate" : "Fri, 06 Sep 2024 13:19:00",
+         "title" : "Svitlana's Smart Moves - A brilliant game against Korchnoi"
+      },
+      {
+         "description" : "The new issue of ChessBase Magazine is bursting with interesting topics: Ju Wenjun's career and style of play is just one of them. The often interactive format also deals with fortresses, the principle of bad pieces, current tournament games, endgames and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-221-ju-wenjun-portrait-of-a-three-time-world-champion",
+         "pubDate" : "Fri, 06 Sep 2024 09:16:22",
+         "title" : "ChessBase Magazine 221: Ju Wenjun - Portrait of a three-time world champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.theguardian.com/sport/article/2024/sep/06/chess-ethan-pang-nine-beats-three-grandmasters-but-misses-2300-rating#new_tab",
+         "pubDate" : "Fri, 06 Sep 2024 08:39:31",
+         "title" : "Ethan Pang, nine, beats three grandmasters - from Leonard Barden"
+      },
+      {
+         "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 25 November 5 December 2024. In the Webinar the titles of ECU Expert Coach, or ECU Junior Coach, or ECU Novice Coach, may/will be awarded. Each participant must successfully meet the following requirements: Personal Curriculum Vitae (special Form), Participation in the Webinar (€ 100), Webinar's Test, Title Fee Payment (€ 200 or € 300). The Webinar fee will be waived for selected participants: One participant []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-5th-ecu-trainers-online-seminar/",
+         "pubDate" : "Fri, 06 Sep 2024 07:43:03",
+         "title" : "The 5th ECU Trainers Online Seminar"
+      },
+      {
+         "description" : " The London schoolboy defeated three GMs in successive games in Budapest and narrowly failed to achieve a world age record 2300 and a Fide Master title Ethan Pang, the nine-year-old London schoolboy who, <a href=\"https://www.chess.com/news/view/9-year-old-ethan-pang-becomes-youngest-to-ever-break-2200?page=3is\">in June</a>, set a new world mark as the youngest ever to achieve a 2200 master rating, is in the record books again. Competing in the Vezerkepto IM tournament in Budapest, Pang defeated three grandmasters in succession between rounds two and five. True, the beaten trio were past their best and rated below 2400 compared with the normal GM level of 2500, but they all had decades of hig",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/sep/06/chess-ethan-pang-nine-beats-three-grandmasters-but-misses-2300-rating",
+         "pubDate" : "Fri, 06 Sep 2024 07:00:18",
+         "title" : "Chess: Ethan Pang, nine, beats three grandmasters but misses 2300 rating"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3199",
+         "pubDate" : "Fri, 06 Sep 2024 06:05:54",
+         "title" : "Rising stars and \"veterans\": 2024 Women's Chess Olympiad preview"
+      },
+      {
+         "description" : "Eight years after a freak accident left him paralyzed, Noland Arbaugh is not only playing chess with the help of a chip in his brain but he&#39;s also invited by Chess.com to attend the Speed Chess Championship Finals in Paris and meet the world&#39;s che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/first-neuralink-patient-noland-arbaugh-chess-got-me-through-hard-times",
+         "pubDate" : "Fri, 06 Sep 2024 03:10:21",
+         "title" : "First Neuralink Patient Noland Arbaugh: 'Chess Got Me Through Hard Times'"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) is moving from its traditional 21-round Swiss format in the 2024 World Blitz Championship in New York, introducing a combined Swiss-and-knockout format. Just a week after FIDE announced a change of sched...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-format-change-world-blitz-chess-championship",
+         "pubDate" : "Fri, 06 Sep 2024 00:47:00",
+         "title" : "FIDE Announces Major Format Change For World Blitz Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bMcxdFGArkY.jpg?itok=WJ9ri33b\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0",
@@ -706,28 +770,12 @@ news_feed (
          "title" : "Tactics Tuesday: 124th Annual U.S. Open, Pt. 1"
       },
       {
-         "description" : "GM Alireza Firouzja defeated GM Ding Liren at the 2024 Sinquefield Cup on Monday, stretching his lead to a full point with two rounds to go. GM Fabiano Caruana is the only player in striking range from clear second.&#38;nbsp; GM Nodirbek Abdusattoro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-7",
-         "pubDate" : "Mon, 26 Aug 2024 20:26:00",
-         "title" : "Firouzja Beats World Champion, Grows Lead to Full Point"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3183",
          "pubDate" : "Mon, 26 Aug 2024 15:18:59",
          "title" : "Women and Records in the spotlight at Chess Olympiad in Budapest"
-      },
-      {
-         "description" : "FIDE has announced a significant change to the schedule of the 2024 World Rapid &#38;amp; Blitz Championships, taking place in New York in the last week of December, adding a rest day so that the event ends on New Year&#39;s Eve. FIDE announced in June ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-makes-change-in-world-rapid-blitz-championships-schedule",
-         "pubDate" : "Mon, 26 Aug 2024 13:55:00",
-         "title" : "FIDE Breaks From World Rapid & Blitz Tradition, Introduces Rest Day"
       },
       {
          "description" : "",
@@ -914,14 +962,6 @@ news_feed (
          "title" : "Infinite Chess online panel discussion for chess teachers and tutors announced"
       },
       {
-         "description" : "This year saw many strong entries and the Awards Committee took on a tough task in reviewing and voting on them all. I was delighted to find that clear winners...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-2024/",
-         "pubDate" : "Tue, 20 Aug 2024 11:30:19",
-         "title" : "ECF Awards 2024"
-      },
-      {
          "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the additional players and accompanying persons are required to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1080,30 +1120,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/08/16/mathurin-wins-st-lucia-chess-invitational/",
          "pubDate" : "Fri, 16 Aug 2024 16:37:26",
          "title" : "Mathurin wins St. Lucia Chess Invitational!"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2024",
-         "pubDate" : "Fri, 16 Aug 2024 09:33:00",
-         "title" : "Saint Louis Rapid & Blitz 2024 - Games and Results"
-      },
-      {
-         "description" : "Everything is set for European Youth Rapid, Blitz and Classical Chess Championships 2024 which start tomorrow in Prague, Czech Republic. The first event on the schedule is European Youth Rapid Chess Championship 2024, being played from 17-18 August. The event is played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each section will have 9 rounds played according to the swiss system, with the time control of 15 minutes + 10 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championships-2024-start-in-prague-czech-republic/",
-         "pubDate" : "Fri, 16 Aug 2024 08:48:15",
-         "title" : "European Youth Chess Championships 2024 start in Prague, Czech Republic"
-      },
-      {
-         "description" : " The ambitious American leads narrowly after six games in his five-day match against the England No 1, Nikita Vitiugov, which includes classical, rapid and blitz sections Hans Niemann, the controversial US 21-year-old, is in London this week as his \"Niemann v the World\" series against European grandmasters continues with a match against the England No 1 and former Russian, Nikita Vitiugov. Niemann won <a href=\"https://www.chessgames.com/perl/chessgame?gid=2752034\">their first classical game</a> on Wednesday morning in 48 moves, playing an impressive Anatoly Karpov style strategic attack. But in game two, after creating a winning position, he missed two easy tactical shots and had to settle f",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/aug/16/chess-hans-niemann-closes-on-world-top-20-as-us-star-impresses-in-london",
-         "pubDate" : "Fri, 16 Aug 2024 07:00:07",
-         "title" : "Chess: Hans Niemann closes on world top 20 as US star impresses in London"
       }
    ]
 }
