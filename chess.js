@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The semifinals of the Speed Chess Championship are taking place on 6 September at Espot in Paris. In the first semi, Hikaru Nakamura faces Alireza Firouzja. Each match consists of 5-minute games (90 minutes), 3-minute games (60 minutes) and 1-minute games (30 minutes), all with 1-second increments. | Follow the action live starting at 16.00 CEST (10.00 ET, 19.30 IST)",
+         "description" : "The semifinals of the Speed Chess Championship are taking place on 6 September at Espot in Paris. In the second semi, Magnus Carlsen faces Hans Niemann - the winner will play Alireza Firouzja, who defeated Hikaru Nakamura by a 16-11 score, in Sunday's final match. | Follow the action live starting at 20.30 CEST (14.30 ET, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
          "pubDate" : "Fri, 06 Sep 2024 15:45:00",
-         "title" : "Speed Chess Championship: Nakamura v. Firouzja - Live!"
+         "title" : "Speed Chess Championship: Carlsen v. Niemann - Live!"
+      },
+      {
+         "description" : " Today, one of the most anticipated events will take place in Paris, France, with Magnus Carlsen facing nemesis Hans Niemann. The two will be battling in a semifinal match in chess.com Speed Chess Championship. Hikaru Nakamura will play Alireza Firouzja in the other match. The buzz centers around the 2022 controversy created when Carlsen accused The post <a href=\"https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/\">Carlsen-Niemann good for chess?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/",
+         "pubDate" : "Fri, 06 Sep 2024 15:32:49",
+         "title" : "Carlsen-Niemann&hellip; good for chess?"
       },
       {
          "description" : "The 37th National Under-07 and Girls Chess Championship 2024 concluded with a grand closing ceremony in Mysuru, celebrating a vibrant and competitive event. A total",
@@ -96,6 +104,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0",
          "pubDate" : "Fri, 06 Sep 2024 00:17:24",
          "title" : "My Rivalry with Anton Korobov! | Prepare Like A Pro - GM Miro"
+      },
+      {
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2024-2025 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. <br /><br /> We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-opens-2024-2025-title-i-school-outreach-program-affiliates-serving-risk-youth",
+         "pubDate" : "Fri, 06 Sep 2024 00:00:00",
+         "title" : "US Chess Opens 2024-2025 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
       {
          "description" : "Ju Wenjun was among the 10 players who received invitations to participate in the main event of the Women's Speed Chess Championship. The tournament was a 16-player knockout tournament, also featuring participants who had prevailed in the qualification process. In the final, Ju faced Polina Shuvalova and obtained a clear 12&frac12;-9&frac12; victory, as she outscored her opponent in all 3 sections of the match. | Photo: Gu Xiaobing",
@@ -250,7 +266,7 @@ news_feed (
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
       },
       {
-         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-2",
@@ -786,14 +802,6 @@ news_feed (
          "title" : "Travel information for World Senior Championships 2024 in Porto Santo, Portugal"
       },
       {
-         "description" : "This week's puzzles begin a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-124th-annual-us-open-pt-1",
-         "pubDate" : "Tue, 27 Aug 2024 00:00:00",
-         "title" : "Tactics Tuesday: 124th Annual U.S. Open, Pt. 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1112,22 +1120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
          "pubDate" : "Fri, 16 Aug 2024 19:50:00",
          "title" : "St. Louis Rapid & Blitz - Live!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3159",
-         "pubDate" : "Fri, 16 Aug 2024 18:15:35",
-         "title" : "WGP Tbilisi Round 2: A day of unexpected draws"
-      },
-      {
-         "description" : " FM Nathaniel Mathurin won the St. Lucia Chess Invitational, which attracted players from neighboring Dominica. Dominating the field with 9/9 and winning by a massive three points, Mathurin affirmed his position as the island's top player. He holds a FIDE rating of 1950. Justin James was second on 6/9. Kaieem Elizee and Sixtus Gabriel were The post <a href=\"https://www.thechessdrum.net/blog/2024/08/16/mathurin-wins-st-lucia-chess-invitational/\">Mathurin wins St. Lucia Chess Invitational!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/08/16/mathurin-wins-st-lucia-chess-invitational/",
-         "pubDate" : "Fri, 16 Aug 2024 16:37:26",
-         "title" : "Mathurin wins St. Lucia Chess Invitational!"
       }
    ]
 }
