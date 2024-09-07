@@ -18,6 +18,14 @@ news_feed (
          "title" : "Chess Palace, exhibitions and amateur competitions at 45th Chess Olympiad"
       },
       {
+         "description" : "GM Hikaru Nakamura finished third in the Speed Chess Championship 2024 after defeating GM Hans Niemann in the consolation match 21-9. He won all three segments, making his greatest gains in the 3+1 and 1+1 segments. Nakamura earns $13,500 for winn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-scc-consolation-match-nakamura-niemann",
+         "pubDate" : "Sat, 07 Sep 2024 13:05:00",
+         "title" : "Nakamura Defeats Niemann By Double Digits In Consolation Match"
+      },
+      {
          "description" : "The people around you have a bigger influence on your chess than you would think. And if you spend a lot of time digitally, what you consume might even have a bigger influence on you than your best friend or partner. &#8220;You are the average of the five people you spend the most time with.&#8221; []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
          "pubDate" : "Wed, 28 Aug 2024 00:00:00",
          "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 1"
-      },
-      {
-         "description" : "With a fighting draw vs. GM Ian Nepomniachtchi, GM Alireza Firouzja clinched the Grand Chess Tour with a round to spare on Tuesday. Meanwhile, the battle for the 2024 Sinquefield Cup&#38;nbsp;continues with GM Fabiano Caruana trailing by a point and i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-8",
-         "pubDate" : "Tue, 27 Aug 2024 18:56:00",
-         "title" : "Firouzja Clinches Grand Chess Tour, Eyes Sinquefield Cup"
       },
       {
          "description" : "",
