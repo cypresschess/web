@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time ever, GM Hikaru Nakamura will not be playing in the Speed Chess Championship Final. GM Alireza Firouzja is the first player not named Magnus Carlsen to defeat him since the tournament&#39;s inception, and the French number-one won i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-scc-semifinals-nakamura-firouzja-carlsen-niemann",
+         "pubDate" : "Fri, 06 Sep 2024 16:25:00",
+         "title" : "Carlsen Puts Up 10-Point Lead Vs. Niemann, Firouzja Wins 1-Sided Match Vs. Nakamura"
+      },
+      {
          "description" : "The semifinals of the Speed Chess Championship are taking place on 6 September at Espot in Paris. In the second semi, Magnus Carlsen faces Hans Niemann - the winner will play Alireza Firouzja, who defeated Hikaru Nakamura by a 16-11 score, in Sunday's final match. | Follow the action live starting at 20.30 CEST (14.30 ET, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2024-is-halfway-through/",
          "pubDate" : "Tue, 27 Aug 2024 08:02:40",
          "title" : "European Youth Chess Championship 2024 is halfway through"
-      },
-      {
-         "description" : "Chess.com is excited to invite you to play against GM Viswanathan Anand! The Vishy vs. the World match will start on September 30 and feature the Vote Chess format, which allows anyone in the community to participate. Please note that Vote Chess i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-vishy-vs-the-world",
-         "pubDate" : "Tue, 27 Aug 2024 07:00:00",
-         "title" : "Play Against GM Viswanathan Anand In Vishy vs. The World Match"
       },
       {
          "description" : "",
