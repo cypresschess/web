@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, I salute the English Olympiad team, which goes into action next week in Budapest. I continue with a key game from my own chess career, which ended up in a near photo finish, which was ultimately adjudicated by the tournament stewards. And I conclude with another kind of photo finish: the cancellation by []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/photo-finish-at-the-chess-olympiad/",
+         "pubDate" : "Sat, 07 Sep 2024 11:08:54",
+         "title" : "Photo finish at the Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3201",
+         "pubDate" : "Sat, 07 Sep 2024 10:29:47",
+         "title" : "Official Swiss Team Pairing System rules announced"
+      },
+      {
+         "description" : "Congratulations to Stanley Badacsonyi (top, left) on achieving his FM title at the age of 14 years and 11 months. Well done Stanley! Stanley joins (below, from left to right)...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fm-and-wfm-title-achievements/",
+         "pubDate" : "Sat, 07 Sep 2024 07:42:34",
+         "title" : "FM and WFM Title Achievements"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -23,15 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-scc-semifinals-nakamura-firouzja-carlsen-niemann",
          "pubDate" : "Fri, 06 Sep 2024 16:25:00",
-         "title" : "Carlsen Puts Up 10-Point Lead Vs. Niemann, Firouzja Wins 1-Sided Match Vs. Nakamura"
-      },
-      {
-         "description" : "The semifinals of the Speed Chess Championship are taking place on 6 September at Espot in Paris. In the second semi, Magnus Carlsen faces Hans Niemann - the winner will play Alireza Firouzja, who defeated Hikaru Nakamura by a 16-11 score, in Sunday's final match. | Follow the action live starting at 20.30 CEST (14.30 ET, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
-         "pubDate" : "Fri, 06 Sep 2024 15:45:00",
-         "title" : "Speed Chess Championship: Carlsen v. Niemann - Live!"
+         "title" : "Carlsen Takes 10-Point Lead Before Beating Niemann, Firouzja On Fire Vs. Nakamura"
       },
       {
          "description" : " Today, one of the most anticipated events will take place in Paris, France, with Magnus Carlsen facing nemesis Hans Niemann. The two will be battling in a semifinal match in chess.com Speed Chess Championship. Hikaru Nakamura will play Alireza Firouzja in the other match. The buzz centers around the 2022 controversy created when Carlsen accused The post <a href=\"https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/\">Carlsen-Niemann good for chess?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championships-2024-concluded-in-prague/",
          "pubDate" : "Wed, 21 Aug 2024 05:55:32",
          "title" : "European Youth Rapid and Blitz Chess Championships 2024 concluded in Prague"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2024/",
-         "pubDate" : "Tue, 20 Aug 2024 15:22:04",
-         "title" : "UK Open Blitz Championships 2024"
       },
       {
          "description" : "",
