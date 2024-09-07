@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The match for third place in the Speed Chess Championship is taking place on 7 September at Espot in Paris. Hikaru Nakamura faces Hans Niemann in a 180-minute match featuring 3 sections of blitz and bullet chess. The final between Magnus Carlsen and Alireza Firouzja will be played on Sunday. | Follow the action live starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
+         "pubDate" : "Sat, 07 Sep 2024 17:55:00",
+         "title" : "Speed Chess Championship: Nakamura v. Niemann - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3202",
          "pubDate" : "Sat, 07 Sep 2024 15:02:02",
          "title" : "Chess Palace, exhibitions and amateur competitions at 45th Chess Olympiad"
-      },
-      {
-         "description" : "Alireza Firouzja and Magnus Carlsen reached the final match of the Speed Chess Championship after obtaining clear victories over Hikaru Nakamura and Hans Niemann respectively. Firouzja's play was impressive and left Nakamura out of an SCC final for the first time in history, while Carlsen was always in control in his match against Niemann. Nakamura and Niemann will play a match for third place on Saturday, while the battle of generations between Carlsen and Firouzja will take place on Sunday. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-sf",
-         "pubDate" : "Sat, 07 Sep 2024 14:30:00",
-         "title" : "Speed Chess Championship: Carlsen and Firouzja advance to the final"
       },
       {
          "description" : "The people around you have a bigger influence on your chess than you would think. And if you spend a lot of time digitally, what you consume might even have a bigger influence on you than your best friend or partner. &#8220;You are the average of the five people you spend the most time with.&#8221; []",
@@ -98,22 +98,6 @@ news_feed (
          "title" : "India wins 107 Medals in Commonwealth Classical, Rapid and Blitz Championship 2024."
       },
       {
-         "description" : "Vladimir Tukmakov faced Viktor Korchnoi in the USSR Championship, 1970, and played a famously brilliant game, in the Nimzo-Indian, Bronstein variation. While the Black King tries to escape a devastating attack, Korchnoi still finds the time for counterattacks, and builds up some intense threats. Tukmakov decides to invest his attack in a new idea! Svitlana's analysis of the whole game, is in great detail, as always. The Smart Moves continue in October, after the Olympiad in Budapest.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-a-brilliant-game-against-korchnoi",
-         "pubDate" : "Fri, 06 Sep 2024 13:19:00",
-         "title" : "Svitlana's Smart Moves - A brilliant game against Korchnoi"
-      },
-      {
-         "description" : "The new issue of ChessBase Magazine is bursting with interesting topics: Ju Wenjun's career and style of play is just one of them. The often interactive format also deals with fortresses, the principle of bad pieces, current tournament games, endgames and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-221-ju-wenjun-portrait-of-a-three-time-world-champion",
-         "pubDate" : "Fri, 06 Sep 2024 09:16:22",
-         "title" : "ChessBase Magazine 221: Ju Wenjun - Portrait of a three-time world champion"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -162,7 +146,7 @@ news_feed (
          "title" : "FIDE Announces Major Format Change For World Blitz Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bMcxdFGArkY.jpg?itok=WJ9ri33b\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bMcxdFGArkY.jpg?itok=WJ9ri33b\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0",
@@ -184,14 +168,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-opens-2024-2025-title-i-school-outreach-program-affiliates-serving-risk-youth",
          "pubDate" : "Fri, 06 Sep 2024 00:00:00",
          "title" : "US Chess Opens 2024-2025 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
-      },
-      {
-         "description" : "Ju Wenjun was among the 10 players who received invitations to participate in the main event of the Women's Speed Chess Championship. The tournament was a 16-player knockout tournament, also featuring participants who had prevailed in the qualification process. In the final, Ju faced Polina Shuvalova and obtained a clear 12&frac12;-9&frac12; victory, as she outscored her opponent in all 3 sections of the match. | Photo: Gu Xiaobing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-scc-2024-final-report",
-         "pubDate" : "Thu, 05 Sep 2024 22:05:00",
-         "title" : "Ju Wenjun outscores Shuvalova, wins Women's Speed Chess Championship"
       },
       {
          "description" : "",
@@ -1088,30 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3162",
          "pubDate" : "Sun, 18 Aug 2024 19:01:29",
          "title" : "FIDE WGP Tbilisi: Miraculous save by Nana Dzagnidze in Round 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3161",
-         "pubDate" : "Sat, 17 Aug 2024 18:03:23",
-         "title" : "Vaishali Rameshbabu is the only winner in Round 3 of the Women's Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3165",
-         "pubDate" : "Sat, 17 Aug 2024 16:37:55",
-         "title" : "Brazilian Chess Federation advances with bid to host 2030 Chess Olympiad in Brazil"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112594292.cms\" />R Praggnanandhaa, an Indian Grandmaster, showcased a better performance in the blitz portion of the Saint Louis Rapid and Blitz tournament, but it was not sufficient to prevent him from securing the last position.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-firouzja-wins-saint-louis-leg/articleshow/112594292.cms",
-         "pubDate" : "Sat, 17 Aug 2024 16:09:04",
-         "title" : "Grand Chess Tour: R Praggnanandhaa finishes last, Firouzja wins Saint Louis leg"
       }
    ]
 }
