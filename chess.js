@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3202",
+         "pubDate" : "Sat, 07 Sep 2024 15:02:02",
+         "title" : "Chess Palace, exhibitions and amateur competitions at 45th Chess Olympiad"
+      },
+      {
+         "description" : "Alireza Firouzja and Magnus Carlsen reached the final match of the Speed Chess Championship after obtaining clear victories over Hikaru Nakamura and Hans Niemann respectively. Firouzja's play was impressive and left Nakamura out of an SCC final for the first time in history, while Carlsen was always in control in his match against Niemann. Nakamura and Niemann will play a match for third place on Saturday, while the battle of generations between Carlsen and Firouzja will take place on Sunday. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-sf",
+         "pubDate" : "Sat, 07 Sep 2024 14:30:00",
+         "title" : "Speed Chess Championship: Carlsen and Firouzja advance to the final"
+      },
+      {
+         "description" : "The people around you have a bigger influence on your chess than you would think. And if you spend a lot of time digitally, what you consume might even have a bigger influence on you than your best friend or partner. &#8220;You are the average of the five people you spend the most time with.&#8221; []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/right-people/",
+         "pubDate" : "Sat, 07 Sep 2024 13:00:00",
+         "title" : "The right people for success"
+      },
+      {
          "description" : "This week, I salute the English Olympiad team, which goes into action next week in Budapest. I continue with a key game from my own chess career, which ended up in a near photo finish, which was ultimately adjudicated by the tournament stewards. And I conclude with another kind of photo finish: the cancellation by []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -178,28 +202,12 @@ news_feed (
          "title" : "Exciting format changes announced for 2024 FIDE World Rapid & Blitz Championships"
       },
       {
-         "description" : "Musician and chess fan Jason Kouchak was inspired by the beautiful summer to write a chess song. Together with his friend Stephen Johnstone, he celebrates the anniversary of Andrew Lloyd Webber's 'Starlight Express' with a fast-paced game of chess and a skate ride, and looks forward to the upcoming Global Chess Festival. | Photos: Julian Paix (unless otherwise noted)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-summer-of-high-spirits-and-inspiration",
-         "pubDate" : "Thu, 05 Sep 2024 15:00:00",
-         "title" : "A summer of high spirits and inspiration"
-      },
-      {
          "description" : "French WGM Andreaa Navrotescu achieved a feat that not even GM Magnus Carlsen could achieve before her. She won an event with a perfect 9/9 score. Chess.com regularly covers impressive performances from the chess world, but there are times when ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/navrotescu-wins-with-stunning-9-9-in-london",
          "pubDate" : "Thu, 05 Sep 2024 12:27:20",
          "title" : "Navrotescu Achieves Extraordinary 9/9 Perfection In London"
-      },
-      {
-         "description" : "One hundred ninety-seven teams have registered for the open section of the 45th Chess Olympiad in Budapest. With FIDE currently encompassing 201 national federations, the registration numbers fall short by just four federations. As is often the case, not every registered team will make it to Budapest for various reasons. Nevertheless, this Olympiad is set to break participation records.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-open-section-who-will-reign-supreme-in-budapest",
-         "pubDate" : "Thu, 05 Sep 2024 09:49:55",
-         "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
       },
       {
          "description" : "Four-time Women&#39;s World Champion Ju Wenjun won the 2024 Julius Baer Women&#39;s Speed Chess Championship after defeating IM Polina Shuvalova in the Final. The match score was 12.5-9.5, and Ju won every one of the three segments by a point. The Chine...",
@@ -1104,30 +1112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-firouzja-wins-saint-louis-leg/articleshow/112594292.cms",
          "pubDate" : "Sat, 17 Aug 2024 16:09:04",
          "title" : "Grand Chess Tour: R Praggnanandhaa finishes last, Firouzja wins Saint Louis leg"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3160",
-         "pubDate" : "Sat, 17 Aug 2024 13:11:59",
-         "title" : "Alireza Firouzja wins 2024 Saint Louis Rapid & Blitz"
-      },
-      {
-         "description" : "Next week I will prepare my fianc&eacute;e WFM Alessia Santeramo in her OTB tournament in Maia, Portugal. The goal is to get her ready for the game with as little work as possible for her. I will prepare her with a method I used for myself, my students, and a few 2600+ GMs, which I []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/how-to-prepare-like-a-grandmaster/",
-         "pubDate" : "Sat, 17 Aug 2024 13:11:00",
-         "title" : "How to prepare like a Grandmaster"
-      },
-      {
-         "description" : "An exciting variation in the chess openings is known as the Poisoned Pawn. The theme is an early foray by the black Queen in the Sicilian Defence to grab White's pawn on b2. Black wins material, but suffers in terms of development. It was a favourite of Bobby Fischer, who experienced ups and downs on []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/poisoned-pawn/",
-         "pubDate" : "Sat, 17 Aug 2024 12:36:29",
-         "title" : "Poisoned Pawn"
       }
    ]
 }
