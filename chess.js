@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3200",
+         "pubDate" : "Sat, 07 Sep 2024 06:48:44",
+         "title" : "2025 World Cup qualifications"
+      },
+      {
+         "description" : "Montesilvano, Italy from 14th to 27th November, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cadet-chess-championships-2024/",
+         "pubDate" : "Sat, 07 Sep 2024 04:11:05",
+         "title" : "FIDE World Cadet Chess Championships - 2024"
+      },
+      {
          "description" : "For the first time ever, GM Hikaru Nakamura will not be playing in the Speed Chess Championship Final. GM Alireza Firouzja is the first player not named Magnus Carlsen to defeat him since the tournament&#39;s inception, and the French number-one won i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3170",
          "pubDate" : "Tue, 20 Aug 2024 13:00:43",
          "title" : "Infinite Chess online panel discussion for chess teachers and tutors announced"
-      },
-      {
-         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the additional players and accompanying persons are required to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-youth-chess-championships-2024-florianopolis-brazil-28th-october-to-10th-november-2024/",
-         "pubDate" : "Tue, 20 Aug 2024 11:29:16",
-         "title" : "FIDE World Youth Chess Championships - 2024 Florianopolis, Brazil 28th October to 10th November, 2024"
       },
       {
          "description" : "",
