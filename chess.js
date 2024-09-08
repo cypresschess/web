@@ -10,6 +10,14 @@ news_feed (
          "title" : "Speed Chess Championship: Nakamura v. Niemann - Live!"
       },
       {
+         "description" : "GM Andrew Tang achieved his third Bullet Brawl victory of the year on Saturday. He started and ended the tournament with winning streaks, ultimately scoring 68 wins and 241 points.&#38;nbsp; With a 24-game winning run, GM Oleksandr Bortnyk was close...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-september-7-2024",
+         "pubDate" : "Sat, 07 Sep 2024 16:35:00",
+         "title" : "Tang Clinches 3rd Bullet Brawl"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-karaikudi-on-21-22-september-2024/",
          "pubDate" : "Wed, 28 Aug 2024 12:13:06",
          "title" : "SNA Seminar & Exam in Karaikudi on 21 & 22 September 2024"
-      },
-      {
-         "description" : "GM Magnus Carlsen won his fourth Titled Tuesday in the last five weeks in the early tournament on August 27, but his 9.5 points were overshadowed by GM Jose Martinez scoring a perfect 11/11 in the late tournament, joining Carlsen and GM Hikaru Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-martinez-win-titled-tuesday-august-27-2024",
-         "pubDate" : "Wed, 28 Aug 2024 10:32:00",
-         "title" : "Martinez Perfect After Carlsen Continues Run"
       },
       {
          "description" : "Four world-class grandmasters met in a Dutch town for a double round-robin tournament. It was dominated by World Champion Anatoly Karpov, who went into the final round with a 1&frac12;-point lead and faced the second-placed GM Vlastimil Hort. Karpov won the game - but could Hort have prevented this happening? That's an interesting riddle we want to solve. Can you help us?",
