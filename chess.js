@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final match of the Speed Chess Championship is taking place on 8 September at Espot in Paris. Magnus Carlsen faces Alireza Firouzja in a 180-minute match featuring 3 sections of blitz and bullet chess. Hikaru Nakamura grabbed third place in the Championship by beating Hans Niemann on Saturday. | Follow the action live starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
+         "pubDate" : "Sun, 08 Sep 2024 17:55:00",
+         "title" : "Speed Chess Championship: Carlsen v. Firouzja - Live!"
+      },
+      {
          "description" : "The 45th Chess Olympiad starts in two days in Budapest, Hungary! The event will be held from 10-23 September in BOK Sports Hall and Conference Center. 381 teams compete in the tournament, with 197 teams in Open section and 184 teams in the Women's championship. Teams are made up of four players + one reserve player in both sections. The events will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1064,22 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/this-week-jan-marcos-and-robert-ris",
          "pubDate" : "Mon, 19 Aug 2024 09:49:12",
          "title" : "This week: Jan Markos and Robert Ris"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3162",
-         "pubDate" : "Sun, 18 Aug 2024 19:01:29",
-         "title" : "FIDE WGP Tbilisi: Miraculous save by Nana Dzagnidze in Round 4"
-      },
-      {
-         "description" : "One of the best known chess paintings reveals some of its technical secrets. I had to brighten both images, but the results were worth it. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oh18.jpg\" WIDTH=400 HEIGHT=550><BR> <B>Top:</B> <A HREF=\"https://www.flickr.com/photos/museado/53902330597/\">The Chess Players | Thomas Eakins</A><BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/museado/53903346268/\">Perspective Drawing for the 'Chess Players'</A><BR> <B>Both:</B> &#169; Flickr user <I>museado</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P ALIGN=CENTER> The links for the corresponding museum pages were<BR> <B>Top:<",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/08/a-perspective-on-chess.html",
-         "pubDate" : "Sun, 18 Aug 2024 15:40:00",
-         "title" : "A Perspective on Chess"
       }
    ]
 }
