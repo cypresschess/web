@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The match for third place in the Speed Chess Championship is taking place on 7 September at Espot in Paris. Hikaru Nakamura faces Hans Niemann in a 180-minute match featuring 3 sections of blitz and bullet chess. The final between Magnus Carlsen and Alireza Firouzja will be played on Sunday. | Follow the action live starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
-         "pubDate" : "Sat, 07 Sep 2024 17:55:00",
-         "title" : "Speed Chess Championship: Nakamura v. Niemann - Live!"
+         "description" : "The 45th Chess Olympiad starts in two days in Budapest, Hungary! The event will be held from 10-23 September in BOK Sports Hall and Conference Center. 381 teams compete in the tournament, with 197 teams in Open section and 184 teams in the Women's championship. Teams are made up of four players + one reserve player in both sections. The events will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/45th-chess-olympiad-starts-in-budapest-hungary/",
+         "pubDate" : "Sun, 08 Sep 2024 07:52:02",
+         "title" : "45th Chess Olympiad starts in Budapest, Hungary"
       },
       {
          "description" : "GM Andrew Tang achieved his third Bullet Brawl victory of the year on Saturday. He started and ended the tournament with winning streaks, ultimately scoring 68 wins and 241 points.&#38;nbsp; With a 24-game winning run, GM Oleksandr Bortnyk was close...",
@@ -112,6 +112,14 @@ news_feed (
          "link" : "https://aicf.in/india-wins-107-medals-in-commonwealth-classical-rapid-and-blitz-championship-2024/",
          "pubDate" : "Fri, 06 Sep 2024 15:18:20",
          "title" : "India wins 107 Medals in Commonwealth Classical, Rapid and Blitz Championship 2024."
+      },
+      {
+         "description" : "The new issue of ChessBase Magazine is bursting with interesting topics: Ju Wenjun's career and style of play is just one of them. The often interactive format also deals with fortresses, the principle of bad pieces, current tournament games, endgames and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-221-ju-wenjun-portrait-of-a-three-time-world-champion",
+         "pubDate" : "Fri, 06 Sep 2024 09:16:22",
+         "title" : "ChessBase Magazine 221: Ju Wenjun - Portrait of a three-time world champion"
       },
       {
          "description" : "",
@@ -1064,6 +1072,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3162",
          "pubDate" : "Sun, 18 Aug 2024 19:01:29",
          "title" : "FIDE WGP Tbilisi: Miraculous save by Nana Dzagnidze in Round 4"
+      },
+      {
+         "description" : "One of the best known chess paintings reveals some of its technical secrets. I had to brighten both images, but the results were worth it. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oh18.jpg\" WIDTH=400 HEIGHT=550><BR> <B>Top:</B> <A HREF=\"https://www.flickr.com/photos/museado/53902330597/\">The Chess Players | Thomas Eakins</A><BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/museado/53903346268/\">Perspective Drawing for the 'Chess Players'</A><BR> <B>Both:</B> &#169; Flickr user <I>museado</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P ALIGN=CENTER> The links for the corresponding museum pages were<BR> <B>Top:<",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/08/a-perspective-on-chess.html",
+         "pubDate" : "Sun, 18 Aug 2024 15:40:00",
+         "title" : "A Perspective on Chess"
       }
    ]
 }
