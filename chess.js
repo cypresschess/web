@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Women's Chess Olympiad will set a participation record this year with 184 teams registered. Teams like Liechtenstein, Guernsey and Grenada will make their debut. According to the average rating of their rosters, the top teams are India (2467), Georgia (2462), Poland (2422), China (2416), and Ukraine (2400).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-olympiad-2024-preview",
+         "pubDate" : "Sun, 08 Sep 2024 22:20:00",
+         "title" : "Women's Olympiad preview: Rising stars and veterans"
+      },
+      {
+         "description" : " The 45th World Chess Olympiad takes place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then 3\t\tChina, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China are the top seeds in the women's events, should be pretty great.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
+         "pubDate" : "Sun, 8 Sep 2024 22:01:00",
+         "title" : "45th World Chess Olympiad 2024 - Games and Results"
+      },
+      {
+         "description" : " The chess.com Speed Chess Final took place in Paris Fri 6th Sep to Sun 8th Sep 2024. Magnus Carlsen faced Hans Moke Niemann for the first time since he lost to him in the Sinquefield Cup in 2022. Although these games were still played over the internet on chess.com they were at least in the same room. Carlsen won handily. Alireza Firouzja beat Hikarua Nakamura to reach the final. Nakamura beat Niemann to finish third and then Carlsen trounced Firouzja 23.5-7.5 in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2024",
+         "pubDate" : "Sun, 8 Sep 2024 21:52:00",
+         "title" : "chess.com Speed Chess Final 2024 - Games and Results"
+      },
+      {
          "description" : "The final match of the Speed Chess Championship is taking place on 8 September at Espot in Paris. Magnus Carlsen faces Alireza Firouzja in a 180-minute match featuring 3 sections of blitz and bullet chess. Hikaru Nakamura grabbed third place in the Championship by beating Hans Niemann on Saturday. | Follow the action live starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
          "pubDate" : "Sun, 08 Sep 2024 17:55:00",
          "title" : "Speed Chess Championship: Carlsen v. Firouzja - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen won his fourth title at the Speed Chess Championship 2024, defeating GM Alireza Firouzja in front of a live audience in Paris, France. It was a dominant performance with a final score of 23.5-7.5; he lost just five games in four ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-scc-title-match-carlsen-wins",
+         "pubDate" : "Sun, 08 Sep 2024 13:07:00",
+         "title" : "Carlsen Wins 4th SCC Title With Greatest Score Margin In SCC Final History"
       },
       {
          "description" : "The 45th Chess Olympiad starts in two days in Budapest, Hungary! The event will be held from 10-23 September in BOK Sports Hall and Conference Center. 381 teams compete in the tournament, with 197 teams in Open section and 184 teams in the Women's championship. Teams are made up of four players + one reserve player in both sections. The events will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus []",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://aicf.in/india-wins-107-medals-in-commonwealth-classical-rapid-and-blitz-championship-2024/",
          "pubDate" : "Fri, 06 Sep 2024 15:18:20",
          "title" : "India wins 107 Medals in Commonwealth Classical, Rapid and Blitz Championship 2024."
-      },
-      {
-         "description" : "The new issue of ChessBase Magazine is bursting with interesting topics: Ju Wenjun's career and style of play is just one of them. The often interactive format also deals with fortresses, the principle of bad pieces, current tournament games, endgames and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-221-ju-wenjun-portrait-of-a-three-time-world-champion",
-         "pubDate" : "Fri, 06 Sep 2024 09:16:22",
-         "title" : "ChessBase Magazine 221: Ju Wenjun - Portrait of a three-time world champion"
       },
       {
          "description" : "",
@@ -720,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins",
          "pubDate" : "Wed, 28 Aug 2024 19:25:00",
          "title" : "Undefeated Firouzja Wins Sinquefield Cup And $100k Prize"
-      },
-      {
-         "description" : "GM Vaishali Rameshbabu beat IM Eline Roebers 7.5-6.5 in a 2024 Julius Baer Women&#39;s Speed Chess Championship Round-of-16 match that went right down to the wire, but that turned out to be nothing compared to the day&#39;s late action. 14-year-old IM Ali...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wscc-ro16-vaishali-roebers-lee-khadem",
-         "pubDate" : "Wed, 28 Aug 2024 17:22:00",
-         "title" : "Alice Lee, Vaishali Win Thrillers To Reach Quarterfinals"
       },
       {
          "description" : "",
