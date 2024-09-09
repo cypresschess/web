@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a crushing 23&frac12;-7&frac12; victory over Alireza Firouzja, Magnus Carlsen became the winner of the 2024 Speed Chess Championship. This is Carlsen's fourth SCC title, as only he and Hikaru Nakamura have ever won the tournament organised by chess.com. Carlsen outscored Firouzja in all 3 sections of the final match, which took place on Sunday at Espot in Paris. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-champion",
+         "pubDate" : "Mon, 09 Sep 2024 15:25:00",
+         "title" : "Carlsen obtains 23&frac12;-7&frac12; victory, wins Speed Chess Championship"
+      },
+      {
+         "description" : "To celebrate its 100th anniversary, the SK Troisdorf in Germany came up with a very special tournament: a diving chess championship. 22 participants played five rounds Swiss under water. Watches were not needed as hardly anyone could think about their move for long. The winner was Oleg Parashenko. | Photos: Sub Aqua Club Troisdorf/Ralf Pulinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-that-takes-your-breath-away",
+         "pubDate" : "Mon, 09 Sep 2024 14:57:31",
+         "title" : "Chess that takes your breath away"
+      },
+      {
          "description" : "ChessBase Magazine regularly focuses on a current top tournament and offers an exclusive review of the event with analyses from the participants. In the new issue #221, we take a look back at the Biel 2024 Chess Festival, which - among others - included two grandmaster tournaments in a triathlon format. Not only the winner of the Masters, Le Quang Liem, comments on one of his games, but Jonas Bjerre, Alexander Donchenko, Abhimanyu Mishra and Ihor Samunenkov also contribute analyses from Biel. In this week's free CBM reading sample we offer you the analyses of Le Quang, Donchenko and Bjerre in the famous ChessBase book format. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1088,22 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3166",
          "pubDate" : "Mon, 19 Aug 2024 18:19:29",
          "title" : "The day of surprising twists at the Women's Grand Prix in Tbilisi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3164",
-         "pubDate" : "Mon, 19 Aug 2024 12:00:44",
-         "title" : "Chairpersons and members of CON, EDC and VER commissions to be elected at FIDE General Assembly"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3163",
-         "pubDate" : "Mon, 19 Aug 2024 11:37:14",
-         "title" : "FIDE EDU \"Preparation of Teachers\" course in Budapest, Hungary, announced"
       }
    ]
 }
