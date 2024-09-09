@@ -66,14 +66,6 @@ news_feed (
          "title" : "chess.com Speed Chess Final 2024 - Games and Results"
       },
       {
-         "description" : "The final match of the Speed Chess Championship is taking place on 8 September at Espot in Paris. Magnus Carlsen faces Alireza Firouzja in a 180-minute match featuring 3 sections of blitz and bullet chess. Hikaru Nakamura grabbed third place in the Championship by beating Hans Niemann on Saturday. | Follow the action live starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-live",
-         "pubDate" : "Sun, 08 Sep 2024 17:55:00",
-         "title" : "Speed Chess Championship: Carlsen v. Firouzja - Live!"
-      },
-      {
          "description" : "GM Magnus Carlsen won his fourth title at the Speed Chess Championship 2024, defeating GM Alireza Firouzja in front of a live audience in Paris. It was a dominant performance with a final score of 23.5-7.5; he lost just five games in four hours, d...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1096,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3167",
          "pubDate" : "Mon, 19 Aug 2024 21:56:31",
          "title" : "FIDE 100 Celebrations in Quebec City"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3166",
-         "pubDate" : "Mon, 19 Aug 2024 18:19:29",
-         "title" : "The day of surprising twists at the Women's Grand Prix in Tbilisi"
       }
    ]
 }
