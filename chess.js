@@ -34,7 +34,7 @@ news_feed (
          "title" : "Speed Chess Championship: Carlsen v. Firouzja - Live!"
       },
       {
-         "description" : "GM Magnus Carlsen won his fourth title at the Speed Chess Championship 2024, defeating GM Alireza Firouzja in front of a live audience in Paris, France. It was a dominant performance with a final score of 23.5-7.5; he lost just five games in four ...",
+         "description" : "GM Magnus Carlsen won his fourth title at the Speed Chess Championship 2024, defeating GM Alireza Firouzja in front of a live audience in Paris. It was a dominant performance with a final score of 23.5-7.5; he lost just five games in four hours, d...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-scc-title-match-carlsen-wins",
