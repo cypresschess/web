@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine regularly focuses on a current top tournament and offers an exclusive review of the event with analyses from the participants. In the new issue #221, we take a look back at the Biel 2024 Chess Festival, which - among others - included two grandmaster tournaments in a triathlon format. Not only the winner of the Masters, Le Quang Liem, comments on one of his games, but Jonas Bjerre, Alexander Donchenko, Abhimanyu Mishra and Ihor Samunenkov also contribute analyses from Biel. In this week's free CBM reading sample we offer you the analyses of Le Quang, Donchenko and Bjerre in the famous ChessBase book format. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-17",
+         "pubDate" : "Mon, 09 Sep 2024 12:00:00",
+         "title" : "Biel briliancies - Review with analyses by Le Quang, Donchenko and others"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3203",
+         "pubDate" : "Mon, 09 Sep 2024 08:47:55",
+         "title" : "C.07 Play-Off and Tie-Break Rules revised"
+      },
+      {
          "description" : "European Chess Union and ECU Trainers Commission, supported by FIDE Development Fund, announce the annual training program in period from November 2024 to April 2025. The 4th Annual Training Program will feature two groups: ● Group A Over 1900 Rating: Monday 18:00-20:05 CET (Juniors/Girls U16)● Group B Under 1900 rating: Tuesday 18:00-20:05 CET (Juniors/Girls U20) Each group will have 24 live sessions for a total of 48 hours of instruction and participants will have the opportunity to watch []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -111,7 +127,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fm-and-wfm-title-achievements/",
          "pubDate" : "Sat, 07 Sep 2024 07:42:34",
-         "title" : "FM and WFM Title Achievements"
+         "title" : "FM and WFM Title Achievements - updated!"
       },
       {
          "description" : "",
@@ -1088,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3163",
          "pubDate" : "Mon, 19 Aug 2024 11:37:14",
          "title" : "FIDE EDU \"Preparation of Teachers\" course in Budapest, Hungary, announced"
-      },
-      {
-         "description" : "In this week's Summer Special you can save a lot on our Fritztrainer packages. They are by Jan Markos, a Slovak grandmaster, coach, and author, a former European Youth Champion; and by Robert Ris, an International Master from The Netherlands, who nowadays is active mainly as an online chess trainer. You can get Jan Markos Middlegame Secrets Vol.1 +2 for €39.90 (instead of €59.80) and Robert Ris Calculation Trainingfor €79.90 (instead of €119.60). Don't miss your chance!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-week-jan-marcos-and-robert-ris",
-         "pubDate" : "Mon, 19 Aug 2024 09:49:12",
-         "title" : "This week: Jan Markos and Robert Ris"
       }
    ]
 }
