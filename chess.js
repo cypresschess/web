@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Chess Union and ECU Trainers Commission, supported by FIDE Development Fund, announce the annual training program in period from November 2024 to April 2025. The 4th Annual Training Program will feature two groups: ● Group A Over 1900 Rating: Monday 18:00-20:05 CET (Juniors/Girls U16)● Group B Under 1900 rating: Tuesday 18:00-20:05 CET (Juniors/Girls U20) Each group will have 24 live sessions for a total of 48 hours of instruction and participants will have the opportunity to watch []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/4th-ecu-annual-training-program/",
+         "pubDate" : "Mon, 09 Sep 2024 06:45:45",
+         "title" : "4th ECU Annual Training Program"
+      },
+      {
          "description" : "The Women's Chess Olympiad will set a participation record this year with 184 teams registered. Teams like Liechtenstein, Guernsey and Grenada will make their debut. According to the average rating of their rosters, the top teams are India (2467), Georgia (2462), Poland (2422), China (2416), and Ukraine (2400).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
