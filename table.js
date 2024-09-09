@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-09-06  - 09-08","45","<a href=http://www.uschess.org/msa/XtblMain.php?202409087472 target='_blank'>$3,000 SEPTEMBER 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-09-07","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409076332 target='_blank'>CHESSPANDA08072024SATURDAY</a>",
 "CYPRESS","2024-09-06","28","<a href=http://www.uschess.org/msa/XtblMain.php?202409066272 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-09-06","33","<a href=http://www.uschess.org/msa/XtblMain.php?202409066102 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-02-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202402117902 target='_blank'>ADULT QUADS - FEB 11TH - G/75, D5 -</a>",
 "HOUSTON","2024-02-10","132","<a href=http://www.uschess.org/msa/XtblMain.php?202402107082 target='_blank'>EASTWOOD ACADEMY TOURNAMENT</a>",
 "HOUSTON","2024-02-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202402106412 target='_blank'>CHESSPANDA02102024SATURDAY</a>",
-"HOUSTON","2024-02-10","23","<a href=http://www.uschess.org/msa/XtblMain.php?202402106312 target='_blank'>FEBRUARY 10TH SCHOLASTIC</a>",
 ]);
