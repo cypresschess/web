@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Ciudad de G&aacute;ldar Open took place on 2-9 September in G&aacute;ldar, a Spanish town located on the Canary Islands near Las Palmas. Top seed Vignir Vatnar Stefansson from Iceland obtained outright victory after collecting 7&frac12; points in the 9-round Swiss open. Thomas Beerdsen from the Netherlands and Jos&eacute; Cuenca from Spain grabbed second and third place on tiebreaks, as they were 2 out of 5 players who finished the event with 7 points. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/galdar-open-2024-final-report",
+         "pubDate" : "Tue, 10 Sep 2024 00:40:00",
+         "title" : "Vignir Vatnar Stefansson wins G&aacute;ldar Open on the Canary Islands"
+      },
+      {
          "description" : "With a crushing 23&frac12;-7&frac12; victory over Alireza Firouzja, Magnus Carlsen became the winner of the 2024 Speed Chess Championship. This is Carlsen's fourth SCC title, as only he and Hikaru Nakamura have ever won the tournament organised by chess.com. Carlsen outscored Firouzja in all 3 sections of the final match, which took place on Sunday at Espot in Paris. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/4th-ecu-annual-training-program/",
          "pubDate" : "Mon, 09 Sep 2024 06:45:45",
          "title" : "4th ECU Annual Training Program"
-      },
-      {
-         "description" : "The Women's Chess Olympiad will set a participation record this year with 184 teams registered. Teams like Liechtenstein, Guernsey and Grenada will make their debut. According to the average rating of their rosters, the top teams are India (2467), Georgia (2462), Poland (2422), China (2416), and Ukraine (2400).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-olympiad-2024-preview",
-         "pubDate" : "Sun, 08 Sep 2024 22:20:00",
-         "title" : "Women's Olympiad preview: Rising stars and veterans"
       },
       {
          "description" : " The 45th World Chess Olympiad takes place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then 3\t\tChina, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China are the top seeds in the women's events, should be pretty great.",
@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-plays-out-a-draw-with-ding-liren-in-sinquefield-cup-2024-clash/articleshow/112641246.cms",
          "pubDate" : "Tue, 20 Aug 2024 04:00:58",
          "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3167",
-         "pubDate" : "Mon, 19 Aug 2024 21:56:31",
-         "title" : "FIDE 100 Celebrations in Quebec City"
       }
    ]
 }
