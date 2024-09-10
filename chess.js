@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sicilian Taimanov is very popular with the top pros because of its great flexibility. For a while it was Karpov's main weapon against 1.e4 and Kasparov followed in his predecessor's footsteps. In two courses Robert Ris now presents a complete repertoire for Black based on the Taimanov. In the first volume he shows why the Taimanov is such a popular variation, in the second volume he shows what Black can do against the Anti-Sicilians. Christian H&ouml;the took a look at both courses.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-a-complete-sicilian-repertoire-a-review",
+         "pubDate" : "Tue, 10 Sep 2024 10:00:00",
+         "title" : "Robert Ris: A Complete Sicilian Repertoire - a review"
+      },
+      {
+         "description" : "Asian Juniors and Girls Chess Championship 2024 Tagaytay City, Philippines 11th to 20th October, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-juniors-and-girls-chess-championship-2024-in-tagaytay-city-philippines-from-11th-to-20th-october-2024/",
+         "pubDate" : "Tue, 10 Sep 2024 08:36:49",
+         "title" : "Asian Juniors and Girls Chess Championship - 2024 in Tagaytay City, Philippines from 11th to 20th October, 2024"
+      },
+      {
+         "description" : "In the notice calling for nominations circulated on 27th August, I said that I would update delegates on Alex Longson's decision to continue or not in his current role as...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-nominations-update/",
+         "pubDate" : "Tue, 10 Sep 2024 08:16:51",
+         "title" : "ECF AGM - nominations update"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3197",
          "pubDate" : "Tue, 10 Sep 2024 06:30:04",
          "title" : "Tech Mahindra and FIDE announce second consecutive partnership for 45th Chess Olympiad"
+      },
+      {
+         "description" : "Nine-year-old CM Ethan Pang, the youngest-ever 2200 player, defeated three grandmasters in a recent classical tournament in Hungary and came close to breaking the 2300 rating barrier for the first time. Pang, who made headlines in July when he b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-ethan-pang-beats-three-gms-in-one-event",
+         "pubDate" : "Tue, 10 Sep 2024 02:49:00",
+         "title" : "9-Year-Old Ethan Pang Defeats Three Grandmasters In One Event"
       },
       {
          "description" : "The Ciudad de G&aacute;ldar Open took place on 2-9 September in G&aacute;ldar, a Spanish town located on the Canary Islands near Las Palmas. Top seed Vignir Vatnar Stefansson from Iceland obtained outright victory after collecting 7&frac12; points in the 9-round Swiss open. Thomas Beerdsen from the Netherlands and Jos&eacute; Cuenca from Spain grabbed second and third place on tiebreaks, as they were 2 out of 5 players who finished the event with 7 points. | Photo: European Chess Union",
@@ -746,14 +778,6 @@ news_feed (
          "title" : "Chess: Alireza Firouzja wins Sinquefield Cup unbeaten and jumps to world No 5"
       },
       {
-         "description" : "A new study by one of the world&#39;s leading statisticians has found that GM Hikaru Nakamura&#39;s impressive streaks against high-level opponents on Chess.com are well within the expected probabilities. GM Vladimir Kramnik strongly criticizes the report...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-winning-streaks-statistically-normal-professor-says",
-         "pubDate" : "Fri, 30 Aug 2024 06:48:00",
-         "title" : "Professor Finds Nakamura's Winning Streaks Statistically Normal, Kramnik Dismisses It"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -850,14 +874,6 @@ news_feed (
          "title" : "ECF AGM - call for nominations"
       },
       {
-         "description" : "The 2024 Annual General Meeting will be held on Saturday 26th October 2024 in London with access also by Zoom (starting time 1.30pm). In addition to the prescribed business (including...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-motions-3/",
-         "pubDate" : "Tue, 27 Aug 2024 13:39:52",
-         "title" : "ECF AGM - call for motions"
-      },
-      {
          "description" : "Grandmaster Karthik Venkataraman of Andhra Pradesh won the 61st National chess championship, organized by The Haryana Chess Association at RPS International School, Gurgaon today. Besides",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3178",
          "pubDate" : "Sat, 24 Aug 2024 15:26:09",
          "title" : "Alina Kashlinskaya wins the first leg of 2024/2025 Women's Grand Prix"
-      },
-      {
-         "description" : "The deadline for the National Under 07 online entries has been extended to 26 August 2024, 5:00 PM. AICF",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-national-under-07-chess-championship-2024/",
-         "pubDate" : "Sat, 24 Aug 2024 15:14:21",
-         "title" : "NOTICE: National Under 07 Chess Championship 2024"
       },
       {
          "description" : "Many chess improvers love system openings. If you play the London, you can develop in nearly every game the same way. And you know a few plans that are good to play in most positions. That gives confidence. It makes matters simple. So it is no surprise that these London lovers are starting to search []",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3170",
          "pubDate" : "Tue, 20 Aug 2024 13:00:43",
          "title" : "Infinite Chess online panel discussion for chess teachers and tutors announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3168",
-         "pubDate" : "Tue, 20 Aug 2024 10:52:51",
-         "title" : "FIDE Council meeting July 21 and 29, 2024: List of decisions"
       }
    ]
 }
