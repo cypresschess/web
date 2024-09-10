@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3197",
+         "pubDate" : "Tue, 10 Sep 2024 06:30:04",
+         "title" : "Tech Mahindra and FIDE announce second consecutive partnership for 45th Chess Olympiad"
+      },
+      {
          "description" : "The Ciudad de G&aacute;ldar Open took place on 2-9 September in G&aacute;ldar, a Spanish town located on the Canary Islands near Las Palmas. Top seed Vignir Vatnar Stefansson from Iceland obtained outright victory after collecting 7&frac12; points in the 9-round Swiss open. Thomas Beerdsen from the Netherlands and Jos&eacute; Cuenca from Spain grabbed second and third place on tiebreaks, as they were 2 out of 5 players who finished the event with 7 points. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/galdar-open-2024-final-report",
          "pubDate" : "Tue, 10 Sep 2024 00:40:00",
          "title" : "Vignir Vatnar Stefansson wins G&aacute;ldar Open on the Canary Islands"
+      },
+      {
+         "description" : "GM Magnus Carlsen just won his fourth Speed Chess Championship title, defeating GMs Alireza Firouzja and Hans Niemann&#38;nbsp;along the way.&#38;nbsp; Firouzja was the runner-up after he stopped GM Hikaru Nakamura&#38;nbsp;from reaching the Title Match for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-scc",
+         "pubDate" : "Mon, 09 Sep 2024 23:08:00",
+         "title" : "5 Things We Learned - Speed Chess Championship 2024"
       },
       {
          "description" : "With a crushing 23&frac12;-7&frac12; victory over Alireza Firouzja, Magnus Carlsen became the winner of the 2024 Speed Chess Championship. This is Carlsen's fourth SCC title, as only he and Hikaru Nakamura have ever won the tournament organised by chess.com. Carlsen outscored Firouzja in all 3 sections of the final match, which took place on Sunday at Espot in Paris. | Photo: chess.com / Maria Emelianova",
@@ -770,14 +786,6 @@ news_feed (
          "title" : "UEFA Youth Sports Games conclude in Split, Croatia"
       },
       {
-         "description" : "GM Alireza Firouzja was crowned as the winner of the 2024 Sinquefield Cup and the Grand Chess Tour on Wednesday after securing a draw with GM Praggnanandhaa Rameshbabu&#38;nbsp;and finishing on 6/9. Following his round-one defeat to the winner, GM Fab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins",
-         "pubDate" : "Wed, 28 Aug 2024 19:25:00",
-         "title" : "Undefeated Firouzja Wins Sinquefield Cup And $100k Prize"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3168",
          "pubDate" : "Tue, 20 Aug 2024 10:52:51",
          "title" : "FIDE Council meeting July 21 and 29, 2024: List of decisions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112641246.cms\" />India's chess star D Gukesh drew against world champion Ding Liren in the first round of the Sinquefield Cup. It was a preview of their upcoming World Chess Championship match. Gukesh, ranked sixth globally, narrowly escaped a tough position. The Championship will be held in Singapore from November 20 to December 15, 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-plays-out-a-draw-with-ding-liren-in-sinquefield-cup-2024-clash/articleshow/112641246.cms",
-         "pubDate" : "Tue, 20 Aug 2024 04:00:58",
-         "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
       }
    ]
 }
