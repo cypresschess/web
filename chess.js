@@ -66,6 +66,14 @@ news_feed (
          "title" : "Vignir Vatnar Stefansson wins G&aacute;ldar Open on the Canary Islands"
       },
       {
+         "description" : "This week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-1",
+         "pubDate" : "Tue, 10 Sep 2024 00:00:00",
+         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 1"
+      },
+      {
          "description" : "GM Magnus Carlsen just won his fourth Speed Chess Championship title, defeating GMs Alireza Firouzja and Hans Niemann&#38;nbsp;along the way.&#38;nbsp; Firouzja was the runner-up after he stopped GM Hikaru Nakamura&#38;nbsp;from reaching the Title Match for...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3188",
          "pubDate" : "Wed, 28 Aug 2024 07:18:32",
          "title" : "Karthik Venkataraman wins 61st India Championship"
-      },
-      {
-         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
-         "pubDate" : "Wed, 28 Aug 2024 00:00:00",
-         "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 1"
       },
       {
          "description" : "",
