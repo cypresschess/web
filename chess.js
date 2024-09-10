@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The biennial Chess Olympiad is the biggest team event in the chess calendar. This year, the 45th edition will take place in Budapest, the capital of Hungary, a city with a rich and longstanding chess tradition. Find here general information about the event: format, schedule, relevant regulations and useful links. Let the chess begin! | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-preview",
+         "pubDate" : "Tue, 10 Sep 2024 23:00:00",
+         "title" : "Chess Olympiad in Budapest: Format, schedule, regulations"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3205",
+         "pubDate" : "Tue, 10 Sep 2024 19:56:37",
+         "title" : "45th FIDE Chess Olympiad is officially open!"
+      },
+      {
          "description" : "Today, Tuesday 10 September, at 18:00, the 45th Chess Olympiad in Budapest will begin with the Opening Ceremony. To get in the mood for this Olympiad, it might be worth looking back at another Olympiad - the one held in Thessaloniki, Greece, in 1988. The English comedian, writer, actor and chess enthusiast Stephen Fry made a documentary about it - witty, entertaining, full of irony and humour. As Fry said: \"An event I wouldn't have missed for the world.\" | Image: Screenshot from the documentary - Stephen Fry (left), Jonathan Speelman (right)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
