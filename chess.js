@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, Tuesday 10 September, at 18:00, the 45th Chess Olympiad in Budapest will begin with the Opening Ceremony. To get in the mood for this Olympiad, it might be worth looking back at another Olympiad - the one held in Thessaloniki, Greece, in 1988. The English comedian, writer, actor and chess enthusiast Stephen Fry made a documentary about it - witty, entertaining, full of irony and humour. As Fry said: \"An event I wouldn't have missed for the world.\" | Image: Screenshot from the documentary - Stephen Fry (left), Jonathan Speelman (right)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grandmaster-clash-stephen-fry-berichtet-ueber-die-schacholympiade-1988",
+         "pubDate" : "Tue, 10 Sep 2024 14:00:00",
+         "title" : "Grandmaster Clash - Stephen Fry's documentary about the 1988 Chess Olympiad in Thessaloniki"
+      },
+      {
          "description" : "The Sicilian Taimanov is very popular with the top pros because of its great flexibility. For a while it was Karpov's main weapon against 1.e4 and Kasparov followed in his predecessor's footsteps. In two courses Robert Ris now presents a complete repertoire for Black based on the Taimanov. In the first volume he shows why the Taimanov is such a popular variation, in the second volume he shows what Black can do against the Anti-Sicilians. Christian H&ouml;the took a look at both courses.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-agm-nominations-update/",
          "pubDate" : "Tue, 10 Sep 2024 08:16:51",
          "title" : "ECF AGM - nominations update"
+      },
+      {
+         "description" : "We all know rubber ducks. They make your bath time more whimsical and magical. But on the chessboard, they bring nothing but chaos and madness. So you better be ready because the next event of the Chess.com Community Championship, the Chess.com Du...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2024",
+         "pubDate" : "Tue, 10 Sep 2024 08:00:00",
+         "title" : "Rubber Ducks And Madness In The Next Event Of The Chess.com Community Championships"
       },
       {
          "description" : "",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "11th Sinquefield Cup 2024 - Games and Results"
       },
       {
-         "description" : "IM Mai Narva almost pulled off the sensation of knocking GM Alexandra Kosteniuk out of the 2024 Julius Baer Women&#39;s Speed Chess Championship, but there was heartbreak as she blundered a piece just as she was about to clinch victory in the armagedd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wscc-ro16-kosteniuk-narva-gunina-divya",
-         "pubDate" : "Fri, 30 Aug 2024 14:48:00",
-         "title" : "Kosteniuk Beats Narva In Armageddon, Joins Gunina In Quarterfinals"
-      },
-      {
          "description" : " The Iran-born Frenchman, 21, scored 6/9 to win in St Louis, half a point clear of the US champion and world No 3, Fabiano Caruana Alireza Firouzja, the Iran-born Frenchman, is a rekindled talent after the 21-year-old triumphed unbeaten in this week's $350,000 Sinquefield Cup at St Louis. Firouzja totalled 6/9, half a point ahead of the US champion and world No 3, Fabiano Caruana. The world champion, Ding Liren, drew his first six games and lost two of his final three and finished next to last on 3.5/9. <a href=\"https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1064,22 +1072,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championships-2024-concluded-in-prague/",
          "pubDate" : "Wed, 21 Aug 2024 05:55:32",
          "title" : "European Youth Rapid and Blitz Chess Championships 2024 concluded in Prague"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3171",
-         "pubDate" : "Tue, 20 Aug 2024 13:55:14",
-         "title" : "FIDE celebrates centenary in Tbilisi with chess legends"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3170",
-         "pubDate" : "Tue, 20 Aug 2024 13:00:43",
-         "title" : "Infinite Chess online panel discussion for chess teachers and tutors announced"
       }
    ]
 }
