@@ -18,12 +18,28 @@ news_feed (
          "title" : "Chess Olympiad - First round pairings"
       },
       {
+         "description" : "We&#39;re excited to announce that you can now keep up with players&#39; rating changes in real time right on our Events page! You can also quickly see players&#39; performance ratings for that event. Learn more about these new features and how to turn them o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/events-live-ratings",
+         "pubDate" : "Wed, 11 Sep 2024 09:00:00",
+         "title" : "Announcing New Live Rating Features On Our Events Page"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3206",
          "pubDate" : "Wed, 11 Sep 2024 08:37:34",
          "title" : "Final list of Member Federations having right to vote at GA 2024 published"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi won the early edition of Titled Tuesday on September 10 with a 9/9 start and 10/11 overall score after defeating both GMs Magnus Carlsen and Hikaru Nakamura, who finished second and third in the strongest Titled Tuesday podiu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-bortnyk-win-titled-tuesday-september-10-2024",
+         "pubDate" : "Wed, 11 Sep 2024 08:29:03",
+         "title" : "Nepomniachtchi Takes On Nakamura, Carlsen, Wins Titled Tuesday"
       },
       {
          "description" : "The grand opening of the 45th Chess Olympiad took place at the Dr. Jeno Koltai Sports Center in Budapest, bringing together thousands of people: players from 194 countries (an absolute record), team captains, FIDE Congress delegates, officials, tournament guests, and media. Here's a big report from Hungary describing the gala opening ceremony.",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Chess Olympiad: Strength of India squad raises hopes of higher-placed finish"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows his games from the 1000 GM Norm event at Saint Louis University in September 2024. 2024.09.10<br /> Nicky Ladan vs. Illia Nyzhnyk, 2024: A45 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XjQ6BZO_A_I.jpg?itok=Svoa",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows one of his games from the 1000 GrandMasters Norm event at Saint Louis University in September 2024, against 2024 U.S. Junior Championship player Nicky Ladan. Nyzhnyk was the heavy favorite in a field of players trying to become International Masters. 2024.09.10<br /> Nicky Ladan vs. Illia Nyzhnyk, 2024: A45 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk",
@@ -74,12 +90,20 @@ news_feed (
          "title" : "How I DESTROYED the IM Norm Field! | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about positional decision making and identifying weaknesses. 2024.09.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-decision-making-identifying-weaknesses-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VSdGRmWMQoQ.jpg?itok=RAj3wb29\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about positional decision making and identifying weaknesses. 2024.09.10<br /> Sara Herman vs. Rhett Langseth, 2023: A46 Queen&#039;s pawn game<br /> Herman vs. Brad Langer, 2023: E06 Catalan, closed, 5.Nf3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-decision-making-identifying-weaknesses-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/positional-decision-making-identifying-weaknesses-road-2000",
          "pubDate" : "Wed, 11 Sep 2024 00:20:48",
          "title" : "Positional Decision-Making & Identifying Weaknesses | Road to 2000"
+      },
+      {
+         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1",
+         "pubDate" : "Wed, 11 Sep 2024 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "The biennial Chess Olympiad is the biggest team event in the chess calendar. This year, the 45th edition will take place in Budapest, the capital of Hungary, a city with a rich and longstanding chess tradition. Find here general information about the event: format, schedule, relevant regulations and useful links. Let the chess begin! | Photo: Mark Livshitz",
@@ -162,7 +186,7 @@ news_feed (
          "title" : "9-Year-Old Ethan Pang Defeats Three Grandmasters In One Event"
       },
       {
-         "description" : "This week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-1",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "European Amateur Chess Championship 2024 concluded in Croatia"
       },
       {
-         "description" : "Chess.com is excited to announce new partnerships with LG and Fubo for its ChessTV FAST channel. Now, chess fans in Great Britain, Ireland, Denmark, Finland, Norway, Sweden, and the Netherlands can watch chess content on their smart television rig...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-on-lg-smart-tv-fubo",
-         "pubDate" : "Mon, 02 Sep 2024 08:00:00",
-         "title" : "Watch The Best Chess Content On Your LG SmartTV And On Fubo"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/firouzja-stomps-competition-wins-2024-sinquefield-cup-gct-tour-bonus",
          "pubDate" : "Thu, 29 Aug 2024 00:00:00",
          "title" : "Firouzja Stomps The Competition, Wins 2024 Sinquefield Cup, GCT Tour Bonus"
-      },
-      {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Monday, September 2 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 3 at 8 a.m. CT. <br /><br /> Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess!<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-september-2-labor-day",
-         "pubDate" : "Thu, 29 Aug 2024 00:00:00",
-         "title" : "US Chess Offices Closed Monday, September 2, For Labor Day"
       },
       {
          "description" : "",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3174",
          "pubDate" : "Thu, 22 Aug 2024 05:26:00",
          "title" : "The official song of 45th Chess Olympiad is out!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3172",
-         "pubDate" : "Wed, 21 Aug 2024 19:13:25",
-         "title" : "WPG Tbilisi: Alina Kashlinskaya joins leaders as the sole winner in Round 6"
       }
    ]
 }
