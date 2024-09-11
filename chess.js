@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows his games from the 1000 GM Norm event at Saint Louis University in September 2024. 2024.09.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-destroyed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XjQ6BZO_A_I.jpg?itok=Svoa5Dyg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-i-destroyed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Wed, 11 Sep 2024 00:20:48",
+         "title" : "How I DESTROYED the IM Norm Field! | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about positional decision making and identifying weaknesses. 2024.09.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-decision-making-identifying-weaknesses-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VSdGRmWMQoQ.jpg?itok=RAj3wb29\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/positional-decision-making-identifying-weaknesses-road-2000",
+         "pubDate" : "Wed, 11 Sep 2024 00:20:48",
+         "title" : "Positional Decision-Making & Identifying Weaknesses | Road to 2000"
+      },
+      {
          "description" : "The biennial Chess Olympiad is the biggest team event in the chess calendar. This year, the 45th edition will take place in Budapest, the capital of Hungary, a city with a rich and longstanding chess tradition. Find here general information about the event: format, schedule, relevant regulations and useful links. Let the chess begin! | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3205",
          "pubDate" : "Tue, 10 Sep 2024 19:56:37",
          "title" : "45th FIDE Chess Olympiad is officially open!"
+      },
+      {
+         "description" : "The 45th FIDE Chess Olympiad has been opened in Budapest, with the games starting Wednesday. As almost 2,000 chess players, from world number-one Magnus Carlsen to over 200 unrated participants, converge on the Hungarian capital, can India, top se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-fide-chess-olympiad-preview",
+         "pubDate" : "Tue, 10 Sep 2024 18:04:00",
+         "title" : "2024 FIDE Chess Olympiad: 7 Talking Points"
       },
       {
          "description" : "Today, Tuesday 10 September, at 18:00, the 45th Chess Olympiad in Budapest will begin with the Opening Ceremony. To get in the mood for this Olympiad, it might be worth looking back at another Olympiad - the one held in Thessaloniki, Greece, in 1988. The English comedian, writer, actor and chess enthusiast Stephen Fry made a documentary about it - witty, entertaining, full of irony and humour. As Fry said: \"An event I wouldn't have missed for the world.\" | Image: Screenshot from the documentary - Stephen Fry (left), Jonathan Speelman (right)",
@@ -714,14 +738,6 @@ news_feed (
          "title" : "Brewington Hardaway Earns Final GM Norm in Barcelona"
       },
       {
-         "description" : "GM Hikaru Nakamura won his second straight Bullet Brawl and the $400 first prize after scoring 251 points and outpacing his longtime rival, GM Daniel Naroditsky, on Saturday. Naroditsky was the only master in the 128-player field able to challenge...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-31-2024",
-         "pubDate" : "Sat, 31 Aug 2024 16:34:00",
-         "title" : "Nakamura Bests Naroditsky To Win Back-To-Back Brawls"
-      },
-      {
          "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -776,22 +792,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/girls-just-wanna-have-funnot-grandchesstour-chess-chesstactics-chesscom",
          "pubDate" : "Fri, 30 Aug 2024 15:13:09",
          "title" : "Girls Just Wanna Have Fun??...Not Like This #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Before the final round, commentators take a look at the rapid increase in Alireza&#039;s chances to win the 2024 Grand Chess Tour </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-alireza-grandchesstour-chess-statistics-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6im9GGBKphY.jpg?itok=_xwfY6Aa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-alireza-grandchesstour-chess-statistics-chesstalk-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 15:13:09",
-         "title" : "The Rise of Alireza #grandchesstour #chess #statistics #chesstalk #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ending position between MVL and So reminds the commentators when Fabi played Dr. Jeanne Sinquefield </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/remember-when-dr-sinquefield-defeated-fabi-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KNCNO7vfM4A.jpg?itok=hNwDV6ua\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/remember-when-dr-sinquefield-defeated-fabi-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 15:13:09",
-         "title" : "Remember When Dr. Sinquefield Defeated Fabi #grandchesstour #chess #chessendgame #chesscom"
       },
       {
          "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
