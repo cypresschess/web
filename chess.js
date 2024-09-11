@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Wed, 11 Sep 2024 14:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "In the early rounds of the major international team tournaments, the top teams will play against nominally weaker teams in the middle of the seedings. However, it is important to get off to the best possible start in order to build up a good position for the next rounds and to build up spirit. Team USA, the number one seed, plays against Panama, India faces Morocco and China has to overcome the Dominican Republic.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +106,6 @@ news_feed (
          "title" : "2024 FIDE Chess Olympiad: 7 Talking Points"
       },
       {
-         "description" : "Today, Tuesday 10 September, at 18:00, the 45th Chess Olympiad in Budapest will begin with the Opening Ceremony. To get in the mood for this Olympiad, it might be worth looking back at another Olympiad - the one held in Thessaloniki, Greece, in 1988. The English comedian, writer, actor and chess enthusiast Stephen Fry made a documentary about it - witty, entertaining, full of irony and humour. As Fry said: \"An event I wouldn't have missed for the world.\" | Image: Screenshot from the documentary - Stephen Fry (left), Jonathan Speelman (right)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grandmaster-clash-stephen-fry-berichtet-ueber-die-schacholympiade-1988",
-         "pubDate" : "Tue, 10 Sep 2024 14:00:00",
-         "title" : "Grandmaster Clash - Stephen Fry's documentary about the 1988 Chess Olympiad in Thessaloniki"
-      },
-      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress , Hotel InterContinental Budapest. The Assembly starts at 15.00 am.&#160; Requests for bookings and transportation shall be forward to O.C. of the Budapest Chess Olympiad. Contact []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -162,15 +162,7 @@ news_feed (
          "title" : "9-Year-Old Ethan Pang Defeats Three Grandmasters In One Event"
       },
       {
-         "description" : "The Ciudad de G&aacute;ldar Open took place on 2-9 September in G&aacute;ldar, a Spanish town located on the Canary Islands near Las Palmas. Top seed Vignir Vatnar Stefansson from Iceland obtained outright victory after collecting 7&frac12; points in the 9-round Swiss open. Thomas Beerdsen from the Netherlands and Jos&eacute; Cuenca from Spain grabbed second and third place on tiebreaks, as they were 2 out of 5 players who finished the event with 7 points. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/galdar-open-2024-final-report",
-         "pubDate" : "Tue, 10 Sep 2024 00:40:00",
-         "title" : "Vignir Vatnar Stefansson wins G&aacute;ldar Open on the Canary Islands"
-      },
-      {
-         "description" : "This week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-1",
@@ -184,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-scc",
          "pubDate" : "Mon, 09 Sep 2024 23:08:00",
          "title" : "5 Things We Learned - Speed Chess Championship 2024"
-      },
-      {
-         "description" : "With a crushing 23&frac12;-7&frac12; victory over Alireza Firouzja, Magnus Carlsen became the winner of the 2024 Speed Chess Championship. This is Carlsen's fourth SCC title, as only he and Hikaru Nakamura have ever won the tournament organised by chess.com. Carlsen outscored Firouzja in all 3 sections of the final match, which took place on Sunday at Espot in Paris. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-ch-final-2024-champion",
-         "pubDate" : "Mon, 09 Sep 2024 15:25:00",
-         "title" : "Carlsen obtains 23&frac12;-7&frac12; victory, wins Speed Chess Championship"
       },
       {
          "description" : "To celebrate its 100th anniversary, the SK Troisdorf in Germany came up with a very special tournament: a diving chess championship. 22 participants played five rounds Swiss under water. Watches were not needed as hardly anyone could think about their move for long. The winner was Oleg Parashenko. | Photos: Sub Aqua Club Troisdorf/Ralf Pulinski",
@@ -1128,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3172",
          "pubDate" : "Wed, 21 Aug 2024 19:13:25",
          "title" : "WPG Tbilisi: Alina Kashlinskaya joins leaders as the sole winner in Round 6"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3169",
-         "pubDate" : "Wed, 21 Aug 2024 11:58:37",
-         "title" : "FIDE endorses Leap KK 9909 clock"
       }
    ]
 }
