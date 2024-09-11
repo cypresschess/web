@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the early rounds of the major international team tournaments, the top teams will play against nominally weaker teams in the middle of the seedings. However, it is important to get off to the best possible start in order to build up a good position for the next rounds and to build up spirit. Team USA, the number one seed, plays against Panama, India faces Morocco and China has to overcome the Dominican Republic.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-first-round-pairings",
+         "pubDate" : "Wed, 11 Sep 2024 12:57:33",
+         "title" : "Chess Olympiad - First round pairings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3206",
+         "pubDate" : "Wed, 11 Sep 2024 08:37:34",
+         "title" : "Final list of Member Federations having right to vote at GA 2024 published"
+      },
+      {
+         "description" : "The grand opening of the 45th Chess Olympiad took place at the Dr. Jeno Koltai Sports Center in Budapest, bringing together thousands of people: players from 194 countries (an absolute record), team captains, FIDE Congress delegates, officials, tournament guests, and media. Here's a big report from Hungary describing the gala opening ceremony.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/45th-fide-chess-olympiad-is-officially-open",
+         "pubDate" : "Wed, 11 Sep 2024 07:46:22",
+         "title" : "45th FIDE Chess Olympiad is officially open!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113248380.cms\" />Viswanathan Anand, a five-time world chess champion, is not part of India's 2024 Chess Olympiad squad. Young talents like R Praggnanandhaa and D Gukesh have taken his legacy forward. Anand has chosen to step back and mentor the next generation. The Indian men's team is seeded second for this edition of the Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-why-viswanathan-anand-is-missing-from-indias-chess-olympiad-squad-for-second-time-in-a-row/articleshow/113248380.cms",
+         "pubDate" : "Wed, 11 Sep 2024 05:52:26",
+         "title" : "EXPLAINED: Why Anand missing in India's Olympiad squad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113246313.cms\" />Viswanathan Anand believes India's chess team has the depth and strength to compete for gold at the Chess Olympiad, noting their ability to handle substitutions and recent experiences. He also discusses D Gukesh's upcoming World Championship match against Ding Liren, emphasizing that preparation is more crucial than current form.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-can-definitely-go-for-gold-this-time-viswanathan-anand/articleshow/113246313.cms",
+         "pubDate" : "Wed, 11 Sep 2024 04:38:57",
+         "title" : "We can definitely go for gold this time: Viswanathan Anand"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113245966.cms\" />India's chess teams are set to start their Olympiad campaign in Budapest, Hungary. The men's team is seeded second while the women's team is top-seeded. With Russia absent and China present, competition is intense. Expectations are high as three Indian players rank among the top-8 participants, raising hopes for a gold medal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-strength-of-india-squad-raises-hopes-of-higher-placed-finish/articleshow/113245966.cms",
+         "pubDate" : "Wed, 11 Sep 2024 04:23:44",
+         "title" : "Chess Olympiad: Strength of India squad raises hopes of higher-placed finish"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows his games from the 1000 GM Norm event at Saint Louis University in September 2024. 2024.09.10<br /> Nicky Ladan vs. Illia Nyzhnyk, 2024: A45 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XjQ6BZO_A_I.jpg?itok=Svoa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Wed, 11 Sep 2024 03:20:45",
+         "title" : "How I CRUSHED the IM Norm Field! | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows his games from the 1000 GM Norm event at Saint Louis University in September 2024. 2024.09.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-destroyed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XjQ6BZO_A_I.jpg?itok=Svoa5Dyg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grandmaster-clash-stephen-fry-berichtet-ueber-die-schacholympiade-1988",
          "pubDate" : "Tue, 10 Sep 2024 14:00:00",
          "title" : "Grandmaster Clash - Stephen Fry's documentary about the 1988 Chess Olympiad in Thessaloniki"
+      },
+      {
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress , Hotel InterContinental Budapest. The Assembly starts at 15.00 am.&#160; Requests for bookings and transportation shall be forward to O.C. of the Budapest Chess Olympiad. Contact []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2024/",
+         "pubDate" : "Tue, 10 Sep 2024 13:05:09",
+         "title" : "ECU GENERAL ASSEMBLY 2024"
       },
       {
          "description" : "The Sicilian Taimanov is very popular with the top pros because of its great flexibility. For a while it was Karpov's main weapon against 1.e4 and Kasparov followed in his predecessor's footsteps. In two courses Robert Ris now presents a complete repertoire for Black based on the Taimanov. In the first volume he shows why the Taimanov is such a popular variation, in the second volume he shows what Black can do against the Anti-Sicilians. Christian H&ouml;the took a look at both courses.",
@@ -786,14 +850,6 @@ news_feed (
          "title" : "The Style of Magnus Carlsen #grandchesstour #chess #chessopenings #magnuscarlsen #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> To sacrifice a pawn or not to sacrifice...that is Yasser&#039;s question </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/girls-just-wanna-have-funnot-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZuQUCyvMB1Y.jpg?itok=wKgsFXj8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/girls-just-wanna-have-funnot-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 15:13:09",
-         "title" : "Girls Just Wanna Have Fun??...Not Like This #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
          "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1080,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3169",
          "pubDate" : "Wed, 21 Aug 2024 11:58:37",
          "title" : "FIDE endorses Leap KK 9909 clock"
-      },
-      {
-         "description" : "The 2024 European Youth Rapid and Blitz Chess Championships officially concluded yesterday in Prague, Czech Republic. With the participation of 650 players coming from 40 European federations, the event broke the participation record. The Closing ceremony of the event took place yesterday evening, with the attendance of the ECU President Mr. Zurab Azmaiparashvili who took part in the awards for the winners. The first event on the schedule was the European Youth Rapid Chess Championship 2024 which took place on []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championships-2024-concluded-in-prague/",
-         "pubDate" : "Wed, 21 Aug 2024 05:55:32",
-         "title" : "European Youth Rapid and Blitz Chess Championships 2024 concluded in Prague"
       }
    ]
 }
