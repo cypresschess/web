@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3207",
+         "pubDate" : "Wed, 11 Sep 2024 21:46:10",
+         "title" : "45th Chess Olympiad: Smooth sailing for favorites in Round 1"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
          "pubDate" : "Wed, 11 Sep 2024 14:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "GM Levon Aronian blundered a piece against 607-point-lower-rated FM Andre Mendez, but still went on to win as top-seed U.S. claimed a 3.5-0.5 victory over Panama&#38;mdash;GM Wesley So&#39;s solid draw cost him a place in the top-10. None of the top seeds...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-1",
+         "pubDate" : "Wed, 11 Sep 2024 13:05:00",
+         "title" : "Aronian, Mamedyarov, Arjun Live Dangerously As Top Teams Win"
       },
       {
          "description" : "In the early rounds of the major international team tournaments, the top teams will play against nominally weaker teams in the middle of the seedings. However, it is important to get off to the best possible start in order to build up a good position for the next rounds and to build up spirit. Team USA, the number one seed, plays against Panama, India faces Morocco and China has to overcome the Dominican Republic.",
@@ -98,7 +114,7 @@ news_feed (
          "title" : "Positional Decision-Making & Identifying Weaknesses | Road to 2000"
       },
       {
-         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-16",
          "pubDate" : "Mon, 02 Sep 2024 16:00:00",
          "title" : "\"If one piece is bad, the entire position is bad\""
-      },
-      {
-         "description" : "IM Polina Shuvalova and GM Vaishali Rameshbabu prevailed vs. their women&#39;s world champion opponents in the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship on Monday.&#38;nbsp; Shuvalova knocked out women&#39;s world number-one, GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wscc-qf-shuvalova-hou-vaishali-kosteniuk",
-         "pubDate" : "Mon, 02 Sep 2024 15:19:00",
-         "title" : "Shuvalova, Vaishali Get Even vs. Hou, Kosteniuk"
       },
       {
          "description" : "",
