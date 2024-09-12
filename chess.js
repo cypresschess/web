@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Technology has been evolving by leaps and bounds most especially in the last couple of years with the advent of image generating AIs and of course ChatGPT and its numerous rivals. We decided to ask the AIs to help produce some images in homage to the Chess Olympiad in Budapest, and as you can see here, some creative and entertaining results ensued. Read on to learn more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/is-ai-watching-the-chess-olympiad-2",
+         "pubDate" : "Thu, 12 Sep 2024 22:00:00",
+         "title" : "Is AI watching the chess Olympiad?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3209",
+         "pubDate" : "Thu, 12 Sep 2024 20:28:33",
+         "title" : "45th Chess Olympiad R02: Norway struggles without Carlsen, top teams lose board points"
+      },
+      {
          "description" : " Budapest, Hungary is the site of the 2024 Chess Olympiad and the venue is said to be spectacular. The event began on September 11th and will last until the 23rd. This Olympiad marks the 100th year of FIDE's founding. ChessBase India's Sagar Shah gave a tour of the BOK Hall across from the Puskas Football The post <a href=\"https://www.thechessdrum.net/blog/2024/09/12/2024-chess-olympiad-budapest-hungary/\">2024 Chess Olympiad (Budapest, Hungary)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
          "pubDate" : "Thu, 12 Sep 2024 14:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "GM Fabiano Caruana is back above 2800 after beginning the 45th FIDE Chess Olympiad with a sparkling win over SIngaporean GM Jingyao Tin. There were also winning debuts for GMs Gukesh Dommaraju and Richard Rapport, while World Champion Ding Liren w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-2",
+         "pubDate" : "Thu, 12 Sep 2024 13:25:00",
+         "title" : "Caruana Back In 2800 Club; Canada Hold Carlsen-less Norway To Draw"
       },
       {
          "description" : "Deutsche Welle is a German public international broadcaster that produces news and information to a global audience in 30 languages. This week they had an article on the domination of a new generation of young Asian superstars in chess. The favourites at the Chess Olympiad in Budapest, according to DW, are China, India and Uzbekistan. Only the US have a chance to compete with them.",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/new-rules-for-world-championship-encourage-faster-more-decisive-games",
          "pubDate" : "Tue, 03 Sep 2024 17:50:00",
          "title" : "New Ding-Gukesh World Championship Rules Encourage Faster, More Decisive Games"
-      },
-      {
-         "description" : "Reigning World Champion Ju Wenjun and three-time Women&#39;s World Blitz Champion Kateryna Lagno will face each other in the Semifinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Ju defeated IM Alice Lee 9.5-5.5, while Lagno eliminated ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-wscc-qf-lee-ju-wenjun-lagno-gunina",
-         "pubDate" : "Tue, 03 Sep 2024 12:38:00",
-         "title" : "Ju Wenjun, Lagno Advance To Semifinal Clash Of World Champions"
       },
       {
          "description" : "",
