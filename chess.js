@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Gabriel Sapalo from Angola (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Thu, 12 Sep 2024 14:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "Deutsche Welle is a German public international broadcaster that produces news and information to a global audience in 30 languages. This week they had an article on the domination of a new generation of young Asian superstars in chess. The favourites at the Chess Olympiad in Budapest, according to DW, are China, India and Uzbekistan. Only the US have a chance to compete with them.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r1",
          "pubDate" : "Thu, 12 Sep 2024 02:35:00",
          "title" : "Budapest R1: The chess extravaganza begins, a few escapes by strong GMs"
-      },
-      {
-         "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41226332/chess-olympiad-2024-praggnanandhaa-vaishali-gukesh-harika-winning-start?device=featurephone",
-         "pubDate" : "Wed, 11 Sep 2024 23:55:36",
-         "title" : "Chess Olympiad 2024: Praggnanandhaa, Vaishali get India off to winning start"
       },
       {
          "description" : "",
