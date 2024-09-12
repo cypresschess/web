@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad kicked off on Wednesday in Budapest. Out of the 197 teams that registered to participate in the open, 20 were unable to play in the first round, most likely due to visa issues. The many matches that did take place saw rating favourites prevailing without much difficulty. A few elite GMs, however, escaped with draws or swindled their way into wins after misplaying positions against lower-rated opponents. | Pictured: Wafia Al Maamari from the United Arab Emirates | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r1",
+         "pubDate" : "Thu, 12 Sep 2024 02:35:00",
+         "title" : "Budapest R1: The chess extravaganza begins, a few escapes by strong GMs"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,15 +18,7 @@ news_feed (
          "title" : "45th Chess Olympiad: Smooth sailing for favorites in Round 1"
       },
       {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Wed, 11 Sep 2024 14:45:00",
-         "title" : "Chess Olympiad - Live!"
-      },
-      {
-         "description" : "GM Levon Aronian blundered a piece against 607-point-lower-rated FM Andre Mendez, but still went on to win as top-seed U.S. claimed a 3.5-0.5 victory over Panama&#38;mdash;GM Wesley So&#39;s solid draw cost him a place in the top-10. None of the top seeds...",
+         "description" : "GM Levon Aronian blundered a piece against 607-point-lower-rated FM Andre Mendez, but still went on to win as top-seed United States claimed a 3.5-0.5 victory over Panama&#38;mdash;GM Wesley So&#39;s solid draw cost him a place in the top 10. None of the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-1",
@@ -248,22 +248,6 @@ news_feed (
          "link" : "https://www.europechess.org/4th-ecu-annual-training-program/",
          "pubDate" : "Mon, 09 Sep 2024 06:45:45",
          "title" : "4th ECU Annual Training Program"
-      },
-      {
-         "description" : " The 45th World Chess Olympiad takes place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then 3\t\tChina, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China are the top seeds in the women's events, should be pretty great.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
-         "pubDate" : "Sun, 8 Sep 2024 22:01:00",
-         "title" : "45th World Chess Olympiad 2024 - Games and Results"
-      },
-      {
-         "description" : " The chess.com Speed Chess Final took place in Paris Fri 6th Sep to Sun 8th Sep 2024. Magnus Carlsen faced Hans Moke Niemann for the first time since he lost to him in the Sinquefield Cup in 2022. Although these games were still played over the internet on chess.com they were at least in the same room. Carlsen won handily. Alireza Firouzja beat Hikarua Nakamura to reach the final. Nakamura beat Niemann to finish third and then Carlsen trounced Firouzja 23.5-7.5 in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2024",
-         "pubDate" : "Sun, 8 Sep 2024 21:52:00",
-         "title" : "chess.com Speed Chess Final 2024 - Games and Results"
       },
       {
          "description" : "GM Magnus Carlsen won his fourth title at the Speed Chess Championship 2024, defeating GM Alireza Firouzja in front of a live audience in Paris. It was a dominant performance with a final score of 23.5-7.5; he lost just five games in four hours, d...",
@@ -856,14 +840,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/style-magnus-carlsen-grandchesstour-chess-chessopenings-magnuscarlsen-chesscom",
          "pubDate" : "Fri, 30 Aug 2024 15:13:09",
          "title" : "The Style of Magnus Carlsen #grandchesstour #chess #chessopenings #magnuscarlsen #chesscom"
-      },
-      {
-         "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
-         "pubDate" : "Fri, 30 Aug 2024 14:56:00",
-         "title" : "11th Sinquefield Cup 2024 - Games and Results"
       },
       {
          "description" : " The Iran-born Frenchman, 21, scored 6/9 to win in St Louis, half a point clear of the US champion and world No 3, Fabiano Caruana Alireza Firouzja, the Iran-born Frenchman, is a rekindled talent after the 21-year-old triumphed unbeaten in this week's $350,000 Sinquefield Cup at St Louis. Firouzja totalled 6/9, half a point ahead of the US champion and world No 3, Fabiano Caruana. The world champion, Ding Liren, drew his first six games and lost two of his final three and finished next to last on 3.5/9. <a href=\"https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5\">Continue reading...</a>",
