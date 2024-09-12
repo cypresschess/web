@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Budapest, Hungary is the site of the 2024 Chess Olympiad and the venue is said to be spectacular. The event began on September 11th and will last until the 23rd. This Olympiad marks the 100th year of FIDE's founding. ChessBase India's Sagar Shah gave a tour of the BOK Hall across from the Puskas Football The post <a href=\"https://www.thechessdrum.net/blog/2024/09/12/2024-chess-olympiad-budapest-hungary/\">2024 Chess Olympiad (Budapest, Hungary)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/12/2024-chess-olympiad-budapest-hungary/",
+         "pubDate" : "Thu, 12 Sep 2024 18:48:14",
+         "title" : "2024 Chess Olympiad (Budapest, Hungary)"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Gabriel Sapalo from Angola (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/google-presents-world-chess-championship-2024",
          "pubDate" : "Thu, 12 Sep 2024 09:57:29",
          "title" : "Google presents World Chess Championship 2024"
+      },
+      {
+         "description" : "The controversial Carlsen vs. Niemann scandal is confirmed to appear on Netflix in 2025, the streaming giant has announced. The news is setting the stage for what could be an explosive documentary on the drama and aftermath of the episode that sho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/netflix-unveils-carlsen-niemann-documentary-for-2025",
+         "pubDate" : "Thu, 12 Sep 2024 09:16:00",
+         "title" : "Netflix Announces Carlsen-Niemann Documentary Set For 2025 Release"
+      },
+      {
+         "description" : "Google will be the title sponsor for the 2024 FIDE World Championship Match between GMs Ding Liren and Gukesh Dommaraju. Described as a &#34;landmark collaboration,&#34; the news was announced today by the International Chess Federation (FIDE) and the Sin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/google-title-sponsor-2024-world-chess-championship",
+         "pubDate" : "Thu, 12 Sep 2024 08:38:00",
+         "title" : "Google Announced As Title Sponsor For Ding-Gukesh World Championship"
       },
       {
          "description" : "Be inspired in Budapest as greatness unites from every corner of the globe for the 45th FIDE Chess Olympiad. Team Uzbekistan and Team Ukraine prepare to defend their titles from...",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r1",
          "pubDate" : "Thu, 12 Sep 2024 02:35:00",
          "title" : "Budapest R1: The chess extravaganza begins, a few escapes by strong GMs"
+      },
+      {
+         "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41226332/chess-olympiad-2024-praggnanandhaa-vaishali-gukesh-harika-winning-start?device=featurephone",
+         "pubDate" : "Wed, 11 Sep 2024 23:55:36",
+         "title" : "Chess Olympiad 2024: Praggnanandhaa, Vaishali get India off to winning start"
       },
       {
          "description" : "",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "Nepomniachtchi Takes On Nakamura, Carlsen, Wins Titled Tuesday"
       },
       {
-         "description" : "The grand opening of the 45th Chess Olympiad took place at the Dr. Jeno Koltai Sports Center in Budapest, bringing together thousands of people: players from 194 countries (an absolute record), team captains, FIDE Congress delegates, officials, tournament guests, and media. Here's a big report from Hungary describing the gala opening ceremony.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/45th-fide-chess-olympiad-is-officially-open",
-         "pubDate" : "Wed, 11 Sep 2024 07:46:22",
-         "title" : "45th FIDE Chess Olympiad is officially open!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113248380.cms\" />Viswanathan Anand, a five-time world chess champion, is not part of India's 2024 Chess Olympiad squad. Young talents like R Praggnanandhaa and D Gukesh have taken his legacy forward. Anand has chosen to step back and mentor the next generation. The Indian men's team is seeded second for this edition of the Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -170,20 +194,12 @@ news_feed (
          "title" : "Positional Decision-Making & Identifying Weaknesses | Road to 2000"
       },
       {
-         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1",
          "pubDate" : "Wed, 11 Sep 2024 00:00:00",
          "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 1"
-      },
-      {
-         "description" : "The biennial Chess Olympiad is the biggest team event in the chess calendar. This year, the 45th edition will take place in Budapest, the capital of Hungary, a city with a rich and longstanding chess tradition. Find here general information about the event: format, schedule, relevant regulations and useful links. Let the chess begin! | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-preview",
-         "pubDate" : "Tue, 10 Sep 2024 23:00:00",
-         "title" : "Chess Olympiad in Budapest: Format, schedule, regulations"
       },
       {
          "description" : "",
@@ -706,28 +722,12 @@ news_feed (
          "title" : "ECF Book of the Year shortlist"
       },
       {
-         "description" : "Just in time for the SCC Finals in Paris on September 6-8, Displate and Chess.com have partnered again to bring a brand-new collection of special magnet-mounted metal posters to chess fans. From now through September 30, fans can liven up their wa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/scc-finals-displates",
-         "pubDate" : "Tue, 03 Sep 2024 08:00:00",
-         "title" : "Chess.com And Displate Partner Again For SCC Finals To Create Legendary Wall Art"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Enjoy this look back at the 2024 Strategy Across the Board Gala! Proceeds from this annual event support chess education, cultural exhibitions, and public programming at the Saint Louis Chess Club and World Chess Hall of Fame. 2024.08.17<br /> SaintLouisChessClub.org<br /> WorldChessHOF.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-strategy-across-board-gala-look-back\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2024-strategy-across-board-gala-look-back",
          "pubDate" : "Tue, 03 Sep 2024 06:15:11",
          "title" : "2024 Strategy Across the Board Gala: A Look Back"
-      },
-      {
-         "description" : "From accused to accomplished: GM Hans Niemann has stormed into the top-20 chess players in the world. On the September 2024 FIDE rating list, the 21-year-old American player has left seasoned grandmasters such as Anish Giri and Maxime Vachier-Lagr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/september-2024-fide-rating-list",
-         "pubDate" : "Tue, 03 Sep 2024 05:50:00",
-         "title" : "September 2024 FIDE Ratings: Niemann Storms To 16th In The World"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113009883.cms\" />Chess' governing body FIDE have made some interesting changes in regulations of World Championship match involving challenger D Gukesh of India. But it's unclear if these tweaks are logical. The 14-game classical match between reigning champion Ding Liren of China and Gukesh is scheduled in Singapore from Nov 25 to Dec 13. The tiebreak provisions are also changed slightly.",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/23/chess-carlsen-and-niemann-impress-as-paris-grudge-rematch-approaches",
          "pubDate" : "Fri, 23 Aug 2024 07:00:31",
          "title" : "Chess: Carlsen and Niemann impress as Paris grudge rematch approaches"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3175",
-         "pubDate" : "Thu, 22 Aug 2024 19:04:30",
-         "title" : "WGP Tbilisi: Bibisara Assaubayeva emerges as sole leader after Round 7"
       }
    ]
 }
