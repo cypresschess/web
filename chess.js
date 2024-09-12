@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Be inspired in Budapest as greatness unites from every corner of the globe for the 45th FIDE Chess Olympiad. Team Uzbekistan and Team Ukraine prepare to defend their titles from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/45th-fide-chess-olympiad-now-live/",
+         "pubDate" : "Thu, 12 Sep 2024 06:42:00",
+         "title" : "45th FIDE Chess Olympiad - now live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3204",
+         "pubDate" : "Thu, 12 Sep 2024 06:00:04",
+         "title" : "Google announced as Title Sponsor of World Chess Championship Singapore 2024 "
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113280275.cms\" />The Indian men's and women's teams launched their campaigns at the 45th Chess Olympiad with decisive victories. The men triumphed 4-0 against Morocco, led by R Praggnanandhaa, while the women secured a 3.5-0.5 win over Jamaica, with notable performances from R Vaishali and teammates.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/45th-chess-olympiad-indian-teams-make-winning-start-with-convincing-victories-over-morocco-and-jamaica/articleshow/113280275.cms",
+         "pubDate" : "Thu, 12 Sep 2024 05:33:33",
+         "title" : "Chess Olympiad: Indian teams make winning start with convincing victories"
+      },
+      {
+         "description" : " The Chess Olympiad started today as the favorites went through smoothly, but visagate has tainted the event. Many countries were not paired in the first round due to visa issues. Every couple of years, we see these stories, but this year it seemed unusual. Chessdom.com reported that as many as 60 countries faced visa issues The post <a href=\"https://www.thechessdrum.net/blog/2024/09/12/chess-olympiad-begins-visagate-rages/\">Chess Olympiad begins Visagate rages</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/12/chess-olympiad-begins-visagate-rages/",
+         "pubDate" : "Thu, 12 Sep 2024 04:19:22",
+         "title" : "Chess Olympiad begins&hellip; Visagate rages"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad kicked off on Wednesday in Budapest. Out of the 197 teams that registered to participate in the open, 20 were unable to play in the first round, most likely due to visa issues. The many matches that did take place saw rating favourites prevailing without much difficulty. A few elite GMs, however, escaped with draws or swindled their way into wins after misplaying positions against lower-rated opponents. | Pictured: Wafia Al Maamari from the United Arab Emirates | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -922,14 +954,6 @@ news_feed (
          "title" : "Olympiad Expo Classic International Open FIDE Tournament announced"
       },
       {
-         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 26th October 2024. Posts due for...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-2/",
-         "pubDate" : "Tue, 27 Aug 2024 13:43:21",
-         "title" : "ECF AGM - call for nominations"
-      },
-      {
          "description" : "Grandmaster Karthik Venkataraman of Andhra Pradesh won the 61st National chess championship, organized by The Haryana Chess Association at RPS International School, Gurgaon today. Besides",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1088,14 +1112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-gukesh-survives-against-praggnanandhaa/articleshow/112706729.cms",
          "pubDate" : "Thu, 22 Aug 2024 08:47:28",
          "title" : "Sinquefield Cup: Gukesh survives against Praggnanandhaa"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3174",
-         "pubDate" : "Thu, 22 Aug 2024 05:26:00",
-         "title" : "The official song of 45th Chess Olympiad is out!"
       }
    ]
 }
