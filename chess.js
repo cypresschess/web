@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Deutsche Welle is a German public international broadcaster that produces news and information to a global audience in 30 languages. This week they had an article on the domination of a new generation of young Asian superstars in chess. The favourites at the Chess Olympiad in Budapest, according to DW, are China, India and Uzbekistan. Only the US have a chance to compete with them.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asian-stars-conquering-the-chess-world",
+         "pubDate" : "Thu, 12 Sep 2024 12:48:45",
+         "title" : "Asian stars conquering the chess world"
+      },
+      {
+         "description" : "FIDE and the Singapore Chess Federation have announced that search giant Google is the Title Sponsor of the FIDE World Chess Championship in Singapore, which takes place at Resorts World Sentosa in November. This is the first time the World Championship has been sponsored by a global technology leader. Congratulations to FIDE for arranging this groundbreaking sponsorship.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/google-presents-world-chess-championship-2024",
+         "pubDate" : "Thu, 12 Sep 2024 09:57:29",
+         "title" : "Google presents World Chess Championship 2024"
+      },
+      {
          "description" : "Be inspired in Budapest as greatness unites from every corner of the globe for the 45th FIDE Chess Olympiad. Team Uzbekistan and Team Ukraine prepare to defend their titles from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r1",
          "pubDate" : "Thu, 12 Sep 2024 02:35:00",
          "title" : "Budapest R1: The chess extravaganza begins, a few escapes by strong GMs"
+      },
+      {
+         "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41226332/chess-olympiad-2024-praggnanandhaa-vaishali-gukesh-harika-winning-start?device=featurephone",
+         "pubDate" : "Wed, 11 Sep 2024 23:55:36",
+         "title" : "Chess Olympiad 2024: Praggnanandhaa, Vaishali get India off to winning start"
       },
       {
          "description" : "",
@@ -146,7 +170,7 @@ news_feed (
          "title" : "Positional Decision-Making & Identifying Weaknesses | Road to 2000"
       },
       {
-         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1",
@@ -280,6 +304,22 @@ news_feed (
          "link" : "https://www.europechess.org/4th-ecu-annual-training-program/",
          "pubDate" : "Mon, 09 Sep 2024 06:45:45",
          "title" : "4th ECU Annual Training Program"
+      },
+      {
+         "description" : " The 45th World Chess Olympiad takes place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then 3\t\tChina, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China are the top seeds in the women's events, should be pretty great.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
+         "pubDate" : "Sun, 8 Sep 2024 22:01:00",
+         "title" : "45th World Chess Olympiad 2024 - Games and Results"
+      },
+      {
+         "description" : " The chess.com Speed Chess Final took place in Paris Fri 6th Sep to Sun 8th Sep 2024. Magnus Carlsen faced Hans Moke Niemann for the first time since he lost to him in the Sinquefield Cup in 2022. Although these games were still played over the internet on chess.com they were at least in the same room. Carlsen won handily. Alireza Firouzja beat Hikarua Nakamura to reach the final. Nakamura beat Niemann to finish third and then Carlsen trounced Firouzja 23.5-7.5 in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2024",
+         "pubDate" : "Sun, 8 Sep 2024 21:52:00",
+         "title" : "chess.com Speed Chess Final 2024 - Games and Results"
       },
       {
          "description" : "GM Magnus Carlsen won his fourth title at the Speed Chess Championship 2024, defeating GM Alireza Firouzja in front of a live audience in Paris. It was a dominant performance with a final score of 23.5-7.5; he lost just five games in four hours, d...",
@@ -874,6 +914,14 @@ news_feed (
          "title" : "The Style of Magnus Carlsen #grandchesstour #chess #chessopenings #magnuscarlsen #chesscom"
       },
       {
+         "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
+         "pubDate" : "Fri, 30 Aug 2024 14:56:00",
+         "title" : "11th Sinquefield Cup 2024 - Games and Results"
+      },
+      {
          "description" : " The Iran-born Frenchman, 21, scored 6/9 to win in St Louis, half a point clear of the US champion and world No 3, Fabiano Caruana Alireza Firouzja, the Iran-born Frenchman, is a rekindled talent after the 21-year-old triumphed unbeaten in this week's $350,000 Sinquefield Cup at St Louis. Firouzja totalled 6/9, half a point ahead of the US champion and world No 3, Fabiano Caruana. The world champion, Ding Liren, drew his first six games and lost two of his final three and finished next to last on 3.5/9. <a href=\"https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1104,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3175",
          "pubDate" : "Thu, 22 Aug 2024 19:04:30",
          "title" : "WGP Tbilisi: Bibisara Assaubayeva emerges as sole leader after Round 7"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112706729.cms\" />In the third round of the Sinquefield Cup, D Gukesh narrowly avoided defeat against fellow Indian R Praggnanandhaa. Alireza Firouzja, the tour leader, managed a draw while Fabiano Caruana and Ian Nepomniachtchi secured wins. The closely contested tournament features top players and remains highly competitive.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-gukesh-survives-against-praggnanandhaa/articleshow/112706729.cms",
-         "pubDate" : "Thu, 22 Aug 2024 08:47:28",
-         "title" : "Sinquefield Cup: Gukesh survives against Praggnanandhaa"
       }
    ]
 }
