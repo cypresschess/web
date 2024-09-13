@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 will lead Norway at the event in Hungary shortly after defeating Hans Niemann and Alireza Firouzja at the speed championship finals in Paris Magnus Carlsen, the world No 1, competes for one of the few missing honours in his career at this week's Olympiad in Budapest, where he leads sixth-seeded Norway. Carlsen's Olympiad record is surprisingly modest. He has averaged just 70% in seven appearances, with his best performance a bronze medal in 2022. In 2010, he <a href=\"https://www.chessgames.com/perl/chessgame?gid=1594446\">lost to England's Michael Adams</a> after opening with the dubious North Sea Defence 1 e4 g6 2 d4 Nf6?! 3 e5 Nh5. <a href=\"https://www.theguardian.com/sport/",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/sep/13/chess-england-seeded-eighth-as-carlsen-targets-gold-at-budapest-olympiad",
+         "pubDate" : "Fri, 13 Sep 2024 07:00:52",
+         "title" : "Chess: England seeded eighth as Carlsen targets gold at Budapest Olympiad"
+      },
+      {
+         "description" : "Most of the top-seeded teams grabbed a second consecutive match victory on the second day of action at the Chess Olympiad in Budapest. There were, however, three top-20 squads which were held to draws by lower-rated opposition: Norway (with Magnus Carlsen sitting out), the Czech Republic and Israel. They drew against Canada (seeded 50th), Mongolia (63rd) and Ireland (64th). A number of elite GMs, including World Championship contenders Ding Liren and D. Gukesh, started their Olympic campaigns on Thursday. | Pictured: Munkhdalai Amilal (Mongolia) v. Jan Vikouk (Czechia) | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r2-open",
+         "pubDate" : "Fri, 13 Sep 2024 06:35:00",
+         "title" : "Budapest R2 (open): Canada, Mongolia and Ireland draw top-20 teams"
+      },
+      {
+         "description" : "The second round of the Women's Chess Olympiad saw most matches ending with expected victories for the tournament's rating favourites. In terms of team results, the biggest upset of the round took place on board 36, where Singapore (the 77th seeds) stunned Latvia (36th) with a 2&frac12;-1&frac12; victory. There were also surprises on a few individual boards, as the margin for error narrows in Budapest. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r2-women",
+         "pubDate" : "Fri, 13 Sep 2024 06:05:00",
+         "title" : "Budapest R2 (women): Singapore upset Latvia"
+      },
+      {
          "description" : "Technology has been evolving by leaps and bounds most especially in the last couple of years with the advent of image generating AIs and of course ChatGPT and its numerous rivals. We decided to ask the AIs to help produce some images in homage to the Chess Olympiad in Budapest, and as you can see here, some creative and entertaining results ensued. Read on to learn more!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/12/2024-chess-olympiad-budapest-hungary/",
          "pubDate" : "Thu, 12 Sep 2024 18:48:14",
          "title" : "2024 Chess Olympiad (Budapest, Hungary)"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Gabriel Sapalo from Angola (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Thu, 12 Sep 2024 14:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "GM Fabiano Caruana is back above 2800 after beginning the 45th FIDE Chess Olympiad with a sparkling win over SIngaporean GM Jingyao Tin. There were also winning debuts for GMs Gukesh Dommaraju and Richard Rapport, while World Champion Ding Liren w...",
@@ -112,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r1",
          "pubDate" : "Thu, 12 Sep 2024 02:35:00",
          "title" : "Budapest R1: The chess extravaganza begins, a few escapes by strong GMs"
+      },
+      {
+         "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41226332/chess-olympiad-2024-praggnanandhaa-vaishali-gukesh-harika-winning-start?device=featurephone",
+         "pubDate" : "Wed, 11 Sep 2024 23:55:36",
+         "title" : "Chess Olympiad 2024: Praggnanandhaa, Vaishali get India off to winning start"
       },
       {
          "description" : "",
@@ -1144,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3176",
          "pubDate" : "Fri, 23 Aug 2024 09:30:57",
          "title" : "Dates announced for 2025 FIDE Women's World Cup in Batumi, Georgia"
-      },
-      {
-         "description" : " The pair will meet early next month for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit Magnus Carlsen, no longer the world champion but still ranked the global No 1, will meet the controversial ­rising talent Hans Niemann, 21, across the board next month for the first time since the 2022 Sinquefield Cup, when their fateful third-round game, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">won by Niemann</a>, sparked cheating ­allegations and a $100m ­lawsuit. The view now is that the incident involved no cheating, and certainly no anal beads. Niemann won again this week on his European t",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/aug/23/chess-carlsen-and-niemann-impress-as-paris-grudge-rematch-approaches",
-         "pubDate" : "Fri, 23 Aug 2024 07:00:31",
-         "title" : "Chess: Carlsen and Niemann impress as Paris grudge rematch approaches"
       }
    ]
 }
