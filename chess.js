@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Alexandra Zherebtsova from Montenegro (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Fri, 13 Sep 2024 14:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : " The world No 1 will lead Norway at the event in Hungary shortly after defeating Hans Niemann and Alireza Firouzja at the speed championship finals in Paris Magnus Carlsen, the world No 1, competes for one of the few missing honours in his career at this week's Olympiad in Budapest, where he leads sixth-seeded Norway. Carlsen's Olympiad record is surprisingly modest. He has averaged just 70% in seven appearances, with his best performance a bronze medal in 2022. In 2010, he <a href=\"https://www.chessgames.com/perl/chessgame?gid=1594446\">lost to England's Michael Adams</a> after opening with the dubious North Sea Defence 1 e4 g6 2 d4 Nf6?! 3 e5 Nh5. <a href=\"https://www.theguardian.com/sport/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -10,28 +18,20 @@ news_feed (
          "title" : "Chess: England seeded eighth as Carlsen targets gold at Budapest Olympiad"
       },
       {
-         "description" : "Most of the top-seeded teams grabbed a second consecutive match victory on the second day of action at the Chess Olympiad in Budapest. There were, however, three top-20 squads which were held to draws by lower-rated opposition: Norway (with Magnus Carlsen sitting out), the Czech Republic and Israel. They drew against Canada (seeded 50th), Mongolia (63rd) and Ireland (64th). A number of elite GMs, including World Championship contenders Ding Liren and D. Gukesh, started their Olympic campaigns on Thursday. | Pictured: Munkhdalai Amilal (Mongolia) v. Jan Vikouk (Czechia) | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r2-open",
-         "pubDate" : "Fri, 13 Sep 2024 06:35:00",
-         "title" : "Budapest R2 (open): Canada, Mongolia and Ireland draw top-20 teams"
+         "description" : "The Indian teams posted wins in the open and women's section on day two of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41239289/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-2-report?device=featurephone",
+         "pubDate" : "Fri, 13 Sep 2024 00:32:25",
+         "title" : "Chess Olympiad 2024: Gukesh leads India past Iceland, Harika and co. beat Czechia on day 2"
       },
       {
-         "description" : "The second round of the Women's Chess Olympiad saw most matches ending with expected victories for the tournament's rating favourites. In terms of team results, the biggest upset of the round took place on board 36, where Singapore (the 77th seeds) stunned Latvia (36th) with a 2&frac12;-1&frac12; victory. There were also surprises on a few individual boards, as the margin for error narrows in Budapest. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r2-women",
-         "pubDate" : "Fri, 13 Sep 2024 06:05:00",
-         "title" : "Budapest R2 (women): Singapore upset Latvia"
-      },
-      {
-         "description" : "Technology has been evolving by leaps and bounds most especially in the last couple of years with the advent of image generating AIs and of course ChatGPT and its numerous rivals. We decided to ask the AIs to help produce some images in homage to the Chess Olympiad in Budapest, and as you can see here, some creative and entertaining results ensued. Read on to learn more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/is-ai-watching-the-chess-olympiad-2",
-         "pubDate" : "Thu, 12 Sep 2024 22:00:00",
-         "title" : "Is AI watching the chess Olympiad?"
+         "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41226332/chess-olympiad-2024-praggnanandhaa-vaishali-gukesh-harika-winning-start?device=featurephone",
+         "pubDate" : "Thu, 12 Sep 2024 23:09:01",
+         "title" : "Chess Olympiad 2024: Praggnanandhaa, Vaishali get India off to winning start"
       },
       {
          "description" : "",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-stars-conquering-the-chess-world",
          "pubDate" : "Thu, 12 Sep 2024 12:48:45",
          "title" : "Asian stars conquering the chess world"
-      },
-      {
-         "description" : "FIDE and the Singapore Chess Federation have announced that search giant Google is the Title Sponsor of the FIDE World Chess Championship in Singapore, which takes place at Resorts World Sentosa in November. This is the first time the World Championship has been sponsored by a global technology leader. Congratulations to FIDE for arranging this groundbreaking sponsorship.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/google-presents-world-chess-championship-2024",
-         "pubDate" : "Thu, 12 Sep 2024 09:57:29",
-         "title" : "Google presents World Chess Championship 2024"
       },
       {
          "description" : "The controversial Carlsen vs. Niemann scandal is confirmed to appear on Netflix in 2025, the streaming giant has announced. The news is setting the stage for what could be an explosive documentary on the drama and aftermath of the episode that sho...",
@@ -122,22 +114,6 @@ news_feed (
          "title" : "Chess Olympiad begins&hellip; Visagate rages"
       },
       {
-         "description" : "The 45th edition of the Chess Olympiad kicked off on Wednesday in Budapest. Out of the 197 teams that registered to participate in the open, 20 were unable to play in the first round, most likely due to visa issues. The many matches that did take place saw rating favourites prevailing without much difficulty. A few elite GMs, however, escaped with draws or swindled their way into wins after misplaying positions against lower-rated opponents. | Pictured: Wafia Al Maamari from the United Arab Emirates | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r1",
-         "pubDate" : "Thu, 12 Sep 2024 02:35:00",
-         "title" : "Budapest R1: The chess extravaganza begins, a few escapes by strong GMs"
-      },
-      {
-         "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41226332/chess-olympiad-2024-praggnanandhaa-vaishali-gukesh-harika-winning-start?device=featurephone",
-         "pubDate" : "Wed, 11 Sep 2024 23:55:36",
-         "title" : "Chess Olympiad 2024: Praggnanandhaa, Vaishali get India off to winning start"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -152,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-1",
          "pubDate" : "Wed, 11 Sep 2024 13:05:00",
          "title" : "Aronian, Mamedyarov, Arjun Live Dangerously As Top Teams Win"
-      },
-      {
-         "description" : "In the early rounds of the major international team tournaments, the top teams will play against nominally weaker teams in the middle of the seedings. However, it is important to get off to the best possible start in order to build up a good position for the next rounds and to build up spirit. Team USA, the number one seed, plays against Panama, India faces Morocco and China has to overcome the Dominican Republic.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-first-round-pairings",
-         "pubDate" : "Wed, 11 Sep 2024 12:57:33",
-         "title" : "Chess Olympiad - First round pairings"
       },
       {
          "description" : "We&#39;re excited to announce that you can now keep up with players&#39; rating changes in real time right on our Events page! You can also quickly see players&#39; performance ratings for that event. Learn more about these new features and how to turn them o...",
