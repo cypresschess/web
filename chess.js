@@ -50,7 +50,7 @@ news_feed (
          "title" : "2024 Chess Olympiad (Budapest, Hungary)"
       },
       {
-         "description" : "GM Fabiano Caruana is back above 2800 after beginning the 45th FIDE Chess Olympiad with a sparkling win over SIngaporean GM Jingyao Tin. There were also winning debuts for GMs Gukesh Dommaraju and Richard Rapport, while World Champion Ding Liren w...",
+         "description" : "GM Fabiano Caruana is back above 2800 after beginning the 45th FIDE Chess Olympiad with a sparkling win over Singaporean GM Jingyao Tin. There were also winning debuts for GMs Gukesh Dommaraju and Richard Rapport, while World Champion Ding Liren w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-2",
@@ -258,7 +258,7 @@ news_feed (
          "title" : "2024 FIDE Chess Olympiad: 7 Talking Points"
       },
       {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress , Hotel InterContinental Budapest. The Assembly starts at 15.00 am.&#160; Requests for bookings and transportation shall be forward to O.C. of the Budapest Chess Olympiad. Contact []",
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress , Hotel InterContinental Budapest. The Assembly starts at 15.00. Requests for bookings and transportation shall be forward to O.C. of the Budapest Chess Olympiad. Contact Information: []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-general-assembly-2024/",
@@ -1152,22 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3177",
          "pubDate" : "Fri, 23 Aug 2024 20:34:31",
          "title" : "Kashlinskaya and Assaubayeva neck and neck in a round of missed opportunities"
-      },
-      {
-         "description" : "The 2024 European Youth Chess Championship commenced with the first round yesterday in Prague, Czech Republic. The Opening Ceremony of the event took place on Wednesday, 21st of August, in the evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Mayor of the City of Prague Mr. Dr. Bohuslav Svoboda, ECU Secretary General Mr. Theodoros Tsorbatzoglou, President of the Czech Chess Federation Mr. Martin Petr, Tournament Director Mr. Jan Mazuch, and the ECU Tournament Director Mr. Petr Pisk. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2024-commenced-in-prague/",
-         "pubDate" : "Fri, 23 Aug 2024 10:25:07",
-         "title" : "European Youth Chess Championship 2024 commenced in Prague"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3176",
-         "pubDate" : "Fri, 23 Aug 2024 09:30:57",
-         "title" : "Dates announced for 2025 FIDE Women's World Cup in Batumi, Georgia"
       }
    ]
 }
