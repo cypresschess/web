@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3211",
+         "pubDate" : "Fri, 13 Sep 2024 21:05:41",
+         "title" : "45th Chess Olympiad R03: Netherlands and Germany fall, several favorites stumble"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3210",
          "pubDate" : "Fri, 13 Sep 2024 15:55:41",
          "title" : "FIDE and DGT extend their partnership for another four years"
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
          "pubDate" : "Fri, 13 Sep 2024 14:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#39;s first visit to the 45th FIDE Chess Olympiad won&#39;t be forgotten in a hurry after he turned up late, on a bike, thinking he&#39;d lost by default, but was smuggled in just in time to go on to win by checkmate. GM Fabiano Caruana move...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-3",
+         "pubDate" : "Fri, 13 Sep 2024 12:31:00",
+         "title" : "Carlsen Bikes To Win As Giri, Keymer Suffer Shock Defeats"
       },
       {
          "description" : " The world No 1 will lead Norway at the event in Hungary shortly after defeating Hans Niemann and Alireza Firouzja at the speed championship finals in Paris Magnus Carlsen, the world No 1, competes for one of the few missing honours in his career at this week's Olympiad in Budapest, where he leads sixth-seeded Norway. Carlsen's Olympiad record is surprisingly modest. He has averaged just 70% in seven appearances, with his best performance a bronze medal in 2022. In 2010, he <a href=\"https://www.chessgames.com/perl/chessgame?gid=1594446\">lost to England's Michael Adams</a> after opening with the dubious North Sea Defence 1 e4 g6 2 d4 Nf6?! 3 e5 Nh5. <a href=\"https://www.theguardian.com/sport/",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41239289/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-2-report?device=featurephone",
          "pubDate" : "Fri, 13 Sep 2024 00:32:25",
          "title" : "Chess Olympiad 2024: Gukesh leads India past Iceland, Harika and co. beat Czechia on day 2"
+      },
+      {
+         "description" : "Three rounds into the 45th FIDE Chess Olympiad, held from September 10 through 23 in Budapest, Hungary, Team USA is off to a 3-0 start in both the Open and Women's events. <br /><br /> Read on for a full report, featuring analysis of games from each round of both teams. Highlights include: GM Levon Aronian's come-from-behind magic in round one, IM Carissa Yip's full-board control in round three, IM Alice Lee's Olympiad debut, and some serious endgame clinics from GMs Ray Robson and Leinier Dominguez as well as IM Golrukhbegim Tokhirjonova. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/45th-chess-olympiad-begins-budapest",
+         "pubDate" : "Fri, 13 Sep 2024 00:00:00",
+         "title" : "45th Chess Olympiad Begins in Budapest, Both Teams Improve to 3-0"
       },
       {
          "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "India College Chess Championship Begins With Record Participation"
       },
       {
-         "description" : "The upcoming 2024 FIDE World Championship&#38;nbsp;between defending champion GM Ding Liren and the youngest challenger in history, GM Gukesh Dommaraju, will have a few differences from previous editions. FIDE has announced the official regulations, i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-rules-for-world-championship-encourage-faster-more-decisive-games",
-         "pubDate" : "Tue, 03 Sep 2024 17:50:00",
-         "title" : "New Ding-Gukesh World Championship Rules Encourage Faster, More Decisive Games"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -946,14 +962,6 @@ news_feed (
          "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
       },
       {
-         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/firouzja-stomps-competition-wins-2024-sinquefield-cup-gct-tour-bonus",
-         "pubDate" : "Thu, 29 Aug 2024 00:00:00",
-         "title" : "Firouzja Stomps The Competition, Wins 2024 Sinquefield Cup, GCT Tour Bonus"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/arise-sir-gawain-and-all-hail-to-the-young-royal/",
          "pubDate" : "Sat, 24 Aug 2024 08:18:48",
          "title" : "Arise, Sir Gawain - and all hail to the young Royal "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3177",
-         "pubDate" : "Fri, 23 Aug 2024 20:34:31",
-         "title" : "Kashlinskaya and Assaubayeva neck and neck in a round of missed opportunities"
       }
    ]
 }
