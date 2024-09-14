@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2024-09-13","8","<a href=http://www.uschess.org/msa/XtblMain.php?202409139562 target='_blank'>FBCC 2024 NATIONAL PEANUT DAY OPEN.</a>",
 "HOUSTON","2024-09-06  - 09-08","45","<a href=http://www.uschess.org/msa/XtblMain.php?202409087472 target='_blank'>$3,000 SEPTEMBER 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-09-07","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409076332 target='_blank'>CHESSPANDA08072024SATURDAY</a>",
 "CYPRESS","2024-09-06","28","<a href=http://www.uschess.org/msa/XtblMain.php?202409066272 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2024-02-16","28","<a href=http://www.uschess.org/msa/XtblMain.php?202402160352 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-02-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202402117902 target='_blank'>ADULT QUADS - FEB 11TH - G/75, D5 -</a>",
 "HOUSTON","2024-02-10","132","<a href=http://www.uschess.org/msa/XtblMain.php?202402107082 target='_blank'>EASTWOOD ACADEMY TOURNAMENT</a>",
-"HOUSTON","2024-02-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202402106412 target='_blank'>CHESSPANDA02102024SATURDAY</a>",
 ]);
