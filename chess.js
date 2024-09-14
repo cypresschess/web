@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Ding Liren (FIDE / Maria Emelianova) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Sat, 14 Sep 2024 14:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "Your beliefs have a huge influence on your results. This is because we choose our actions based on our beliefs. The simple chain reaction goes like this: Belief -&#62; Action -&#62; Results If you want to change your results, you might first have to change your beliefs. Vicious cycle: Belief: \"I'm too old to improve []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/beliefs/",
+         "pubDate" : "Sat, 14 Sep 2024 11:57:00",
+         "title" : "Get Rid of Your Self-Limiting Beliefs"
+      },
+      {
          "description" : "Round 3 of the Chess Olympiad saw drama unfold both on and off the board, as Magnus Carlsen almost did not make it on time to the venue. As for surprising results, particularly shocking were the victories by Italy and Lithuania, who beat the Netherlands and Germany respectively. In both cases, the top representatives of the favourite teams - Anish Giri and Vincent Keymer - were defeated by much lower-rated opponents. A total of 16 teams are now sharing the lead with 6/6 match points. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,22 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3179",
          "pubDate" : "Sat, 24 Aug 2024 17:32:46",
          "title" : "FIDE 100 Torch Relay reaches United Arab Emirates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3178",
-         "pubDate" : "Sat, 24 Aug 2024 15:26:09",
-         "title" : "Alina Kashlinskaya wins the first leg of 2024/2025 Women's Grand Prix"
-      },
-      {
-         "description" : "Many chess improvers love system openings. If you play the London, you can develop in nearly every game the same way. And you know a few plans that are good to play in most positions. That gives confidence. It makes matters simple. So it is no surprise that these London lovers are starting to search []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/system-openings-black/",
-         "pubDate" : "Sat, 24 Aug 2024 12:32:00",
-         "title" : "Why system openings are bad for black"
       }
    ]
 }
