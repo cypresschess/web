@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While the entire world at large has been caught up with the Russian invasion of Ukraine, some affected more obviously than others, one of the consequences for athletes specifically was the International Olympic Committee's ban of Russian athletes from any event under its auspices. This in turn led to the similar ban in FIDE, a ban Russia plans to try to overturn on September 22. (Image: Albert Silver/Flux Pro)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russia-making-a-bid-to-overturn-fide-ban-in-chess",
+         "pubDate" : "Sat, 14 Sep 2024 21:30:00",
+         "title" : "Russia making a bid to overturn FIDE ban in chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Arjun at it again with complex chess puzzles on Lichess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-line-arjun-explains-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_othIvRi2k4.jpg?itok=sk934_UO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/whats-line-arjun-explains-chesstactics-chessendgame-lichess",
+         "pubDate" : "Sat, 14 Sep 2024 21:23:21",
+         "title" : "What's The Line?! - Arjun Explains #chesstactics #chessendgame #lichess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3212",
+         "pubDate" : "Sat, 14 Sep 2024 21:14:26",
+         "title" : "45th Chess Olympiad Round 4: Ukraine upsets USA, Vietnam beats Uzbekistan"
+      },
+      {
          "description" : "We are happy to share that our&#160;28th Tamil Nadu IM norm tournament starts on 15th Sep 2024. Live Link :&#160;https://live.tamilchess.com/28th-im-norm-coimbatore/ Playing schedule Round Date Time",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
          "pubDate" : "Sat, 14 Sep 2024 14:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "GM Daniel Naroditsky won his 23rd Bullet Brawl title by a 35-point margin over his closest rival, GM Hikaru Nakamura. Finishing with a 16-game winning streak, Naroditsky ended with 271 points to clinch the $400 first prize. Nakamura finished secon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-september-14-2024",
+         "pubDate" : "Sat, 14 Sep 2024 14:39:00",
+         "title" : "Naroditsky Wins 23rd Bullet Brawl, Catches Nakamura For 2024 Victories"
+      },
+      {
+         "description" : "55-year-old GM Vasyl Ivanchuk beat GM Wesley So as Ukraine pulled off a sensational win against 45th FIDE Chess Olympiad top seed U.S.A. in round four. It came 15 years after an emotional Ivanchuk announced his retirement after being knocked out o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-4",
+         "pubDate" : "Sat, 14 Sep 2024 12:57:00",
+         "title" : "Ivanchuk Beats So As Ukraine Topples Olympiad Top Seed U.S.A."
       },
       {
          "description" : "Your beliefs have a huge influence on your results. This is because we choose our actions based on our beliefs. The simple chain reaction goes like this: Belief -&#62; Action -&#62; Results If you want to change your results, you might first have to change your beliefs. Vicious cycle: Belief: \"I'm too old to improve []",
@@ -738,14 +778,6 @@ news_feed (
          "title" : "Andreas Dueckstein (1927-2024)"
       },
       {
-         "description" : "IM Brewington Hardaway edged one giant step closer to becoming a grandmaster as he earned his final norm in Barcelona last week. The 15-year-old now only has one hurdle left to cross before he would make history as the second African American with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/brewington-hardaway-clinches-final-gm-norm-at-15",
-         "pubDate" : "Wed, 04 Sep 2024 07:57:59",
-         "title" : "Brewington Hardaway Nears Historic Grandmaster Title at 15"
-      },
-      {
          "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa in Sri Lanka, has proven to be a thrilling and competitive event, showcasing a variety of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -784,14 +816,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/femchess-third-california-all-girls-scholastic-addresses-gender-gap",
          "pubDate" : "Wed, 04 Sep 2024 00:00:00",
          "title" : "FEMchess Third California All-Girls Scholastic Addresses Gender Gap"
-      },
-      {
-         "description" : "The 2024 India College Chess Championship (ICCL) began on August 22, 2024, with record-breaking registrations of 245 teams featuring more than 1200 players. The SRM Institute of Science and Technology, led by GM Pranesh M, convincingly dominated t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/india-college-chess-championship-begins-with-record-participation",
-         "pubDate" : "Tue, 03 Sep 2024 17:53:26",
-         "title" : "India College Chess Championship Begins With Record Participation"
       },
       {
          "description" : "",
@@ -1002,14 +1026,6 @@ news_feed (
          "title" : "The Skill of Drawing #grandchesstour #chess #chesstalk #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Svidler analyzes how Gukesh&#039;s approach to the opening is similar to Magnus Carlsen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/style-magnus-carlsen-grandchesstour-chess-chessopenings-magnuscarlsen-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WSXuPiuRsWo.jpg?itok=aRXmc8B-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/style-magnus-carlsen-grandchesstour-chess-chessopenings-magnuscarlsen-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 15:13:09",
-         "title" : "The Style of Magnus Carlsen #grandchesstour #chess #chessopenings #magnuscarlsen #chesscom"
-      },
-      {
          "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3181",
          "pubDate" : "Sun, 25 Aug 2024 19:58:04",
          "title" : "FIDE Solving Championships: Free online lessons for everybody"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3180",
-         "pubDate" : "Sat, 24 Aug 2024 22:09:16",
-         "title" : "Farewell from Tbilisi: Closing Ceremony of the first Women's Grand Prix 2024/2025"
       }
    ]
 }
