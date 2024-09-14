@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 3 of the Chess Olympiad saw drama unfold both on and off the board, as Magnus Carlsen almost did not make it on time to the venue. As for surprising results, particularly shocking were the victories by Italy and Lithuania, who beat the Netherlands and Germany respectively. In both cases, the top representatives of the favourite teams - Anish Giri and Vincent Keymer - were defeated by much lower-rated opponents. A total of 16 teams are now sharing the lead with 6/6 match points. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r3-open",
+         "pubDate" : "Sat, 14 Sep 2024 08:50:00",
+         "title" : "Budapest R3 (open): Carlsen's last-minute arrival and two big upsets"
+      },
+      {
          "description" : "The third round of the Women's Chess Olympiad in Budapest delivered excitement and surprises, with both upsets and closely fought draws reshaping the tournament landscape. The mix of expected results and surprises left 16 teams tied sharing the lead, all with perfect scores of 6/6. The biggest upset was suffered by the local squad, as Hungary were defeated by Uzbekistan. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3210",
          "pubDate" : "Fri, 13 Sep 2024 15:55:41",
          "title" : "FIDE and DGT extend their partnership for another four years"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Alexandra Zherebtsova from Montenegro (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Fri, 13 Sep 2024 14:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "GM Magnus Carlsen&#39;s first visit to the 45th FIDE Chess Olympiad won&#39;t be forgotten in a hurry after he turned up late, on a bike, thinking he&#39;d lost by default, but was smuggled in just in time to go on to win by checkmate. GM Fabiano Caruana move...",
@@ -1002,6 +1002,14 @@ news_feed (
          "title" : "Chess: Alireza Firouzja wins Sinquefield Cup unbeaten and jumps to world No 5"
       },
       {
+         "description" : "Just like last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/07/missing-yahoos.html\">Missing Yahoos</A> (July 2024; see the footnote for an explanation of Yahoos), this month had 99 stories returned by Google News. Of those, 25 were old stories from previous months, compared to 10 old stories returned for the July post. Is Google struggling to find chess stories? <P> The most frequent topic was the Sinquefield Cup with 11 stories. For example, the last story was:- <UL> <LI> 2024-08-29: <A HREF=\"https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins\">Undefeated Firouzja Wins Sinquefield Cup And $100k Prize</A> (chess.com; JackRodgers) &#149; 'GM A",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/08/dna-yahoos.html",
+         "pubDate" : "Thu, 29 Aug 2024 15:23:00",
+         "title" : "DNA Yahoos"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/system-openings-black/",
          "pubDate" : "Sat, 24 Aug 2024 12:32:00",
          "title" : "Why system openings are bad for black"
-      },
-      {
-         "description" : "Grandmaster Gawain Jones has risen like a phoenix from the ashes of personal tribulation, which curtailed his competitive appearances for the past year, to win both the English and British Championships. In the former he despatched Mickey Adams in a play-off match, while in the latter he inflicted match defeat on David Howell, the pre-tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/arise-sir-gawain-and-all-hail-to-the-young-royal/",
-         "pubDate" : "Sat, 24 Aug 2024 08:18:48",
-         "title" : "Arise, Sir Gawain - and all hail to the young Royal "
       }
    ]
 }
