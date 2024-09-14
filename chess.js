@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113339131.cms\" />India's women's chess team clinched a crucial 3-1 victory over Switzerland in the third round of the 45th Chess Olympiad. Despite D Harika's defeat to Alexandra Kosteniuk, wins by R Vaishali, Divya Deshmukh, and Vantika Agarwal secured India's lead. Meanwhile, the Indian men's team is performing strongly against Hungary 'B'.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-womens-team-beats-switzerland-3-1-to-remain-in-joint-lead/articleshow/113339131.cms",
+         "pubDate" : "Sat, 14 Sep 2024 02:56:07",
+         "title" : "Chess Olympiad: Indian women's team beats Switzerland 3-1 to remain in joint lead"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 1Wednesday, 11 September 2024 Photo by Mark Livshitz The 2024 Chess Olympiad has begun! Typically, Round 1 pairings are top teams against those from developing federations. The most common story is about upsets. Every Olympiad, there is usually a case of a player with a 300-400 rating handicap winning or drawing. The post <a href=\"https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/\">2024 Chess Olympiad: Round 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/",
+         "pubDate" : "Sat, 14 Sep 2024 02:08:46",
+         "title" : "2024 Chess Olympiad: Round 1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
