@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are happy to share that our&#160;28th Tamil Nadu IM norm tournament starts on 15th Sep 2024. Live Link :&#160;https://live.tamilchess.com/28th-im-norm-coimbatore/ Playing schedule Round Date Time",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-28th-tamil-nadu-im-tournament-2024/",
+         "pubDate" : "Sat, 14 Sep 2024 15:56:01",
+         "title" : "Live Link :28th Tamil Nadu IM Tournament 2024"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Ding Liren (FIDE / Maria Emelianova) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Chess Olympiad: Indian women's team beats Switzerland 3-1 to remain in joint lead"
       },
       {
-         "description" : " 2024 Chess Olympiad: Round 1Wednesday, 11 September 2024 Photo by Mark Livshitz The 2024 Chess Olympiad has begun! Typically, Round 1 pairings are top teams against those from developing federations. The most common story is about upsets. Every Olympiad, there is usually a case of a player with a 300-400 rating handicap winning or drawing. The post <a href=\"https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/\">2024 Chess Olympiad: Round 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 Chess Olympiad: Round 1Wednesday, 11 September 2024 The 2024 Chess Olympiad has begun! Typically, Round 1 pairings are top teams against those from developing federations. The most common story is about upsets. Every Olympiad, there is usually a case of a player with a 300-400 rating handicap winning or drawing. Reddit was buzzing about The post <a href=\"https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/\">2024 Chess Olympiad: Round 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/",
@@ -1090,14 +1098,6 @@ news_feed (
          "title" : "Olympiad Expo Classic International Open FIDE Tournament announced"
       },
       {
-         "description" : "Grandmaster Karthik Venkataraman of Andhra Pradesh won the 61st National chess championship, organized by The Haryana Chess Association at RPS International School, Gurgaon today. Besides",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/grandmaster-karthik-venkataraman-won-the-61st-national-chess-championship-2024/",
-         "pubDate" : "Tue, 27 Aug 2024 12:19:12",
-         "title" : "Grandmaster Karthik Venkataraman won the 61st National Chess Championship 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3180",
          "pubDate" : "Sat, 24 Aug 2024 22:09:16",
          "title" : "Farewell from Tbilisi: Closing Ceremony of the first Women's Grand Prix 2024/2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3179",
-         "pubDate" : "Sat, 24 Aug 2024 17:32:46",
-         "title" : "FIDE 100 Torch Relay reaches United Arab Emirates"
       }
    ]
 }
