@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of the Women's Chess Olympiad in Budapest delivered excitement and surprises, with both upsets and closely fought draws reshaping the tournament landscape. The mix of expected results and surprises left 16 teams tied sharing the lead, all with perfect scores of 6/6. The biggest upset was suffered by the local squad, as Hungary were defeated by Uzbekistan. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r3-women",
+         "pubDate" : "Sat, 14 Sep 2024 07:30:00",
+         "title" : "Budapest R3 (women): Uzbekistan beat Hungary, 16 teams tied for first"
+      },
+      {
+         "description" : "In order to rebuke Russia for its egregious invasion of Ukraine, the International Chess Federation (FIDÉ) voted two years ago to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for Moscow two years ago. This unanimous decision was extraordinary. This was not just because it sidelined []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/war-and-chess/",
+         "pubDate" : "Sat, 14 Sep 2024 05:50:13",
+         "title" : "War and chess "
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113341341.cms\" />Erigaisi Arjun showcased his aggressive style by defeating Peter Prohaszka in 34 moves, helping India dominate Hungary's B team in the Chess Olympiad. India's overall performance led to a 3-1 victory despite some setbacks. Magnus Carlsen also won his game for Norway after facing initial delays.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-arrow-floors-hungary-b-wins-hearts/articleshow/113341341.cms",
+         "pubDate" : "Sat, 14 Sep 2024 05:11:49",
+         "title" : "Arjun arrow floors Hungary B, wins hearts"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113339131.cms\" />India's women's chess team clinched a crucial 3-1 victory over Switzerland in the third round of the 45th Chess Olympiad. Despite D Harika's defeat to Alexandra Kosteniuk, wins by R Vaishali, Divya Deshmukh, and Vantika Agarwal secured India's lead. Meanwhile, the Indian men's team is performing strongly against Hungary 'B'.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/",
          "pubDate" : "Sat, 14 Sep 2024 02:08:46",
          "title" : "2024 Chess Olympiad: Round 1"
+      },
+      {
+         "description" : "The Indian teams posted wins in the open and women's section on day three of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41251441/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-3-report?device=featurephone",
+         "pubDate" : "Fri, 13 Sep 2024 23:56:13",
+         "title" : "Chess Olympiad 2024: Indian teams remain unbeaten in third round"
       },
       {
          "description" : "",
