@@ -50,12 +50,12 @@ news_feed (
          "title" : "Naroditsky Wins 23rd Bullet Brawl, Catches Nakamura For 2024 Victories"
       },
       {
-         "description" : "55-year-old GM Vasyl Ivanchuk beat GM Wesley So as Ukraine pulled off a sensational win against 45th FIDE Chess Olympiad top seed U.S.A. in round four. It came 15 years after an emotional Ivanchuk announced his retirement after being knocked out o...",
+         "description" : "55-year-old GM Vasyl Ivanchuk beat GM Wesley So as Ukraine pulled off a sensational win against 45th FIDE Chess Olympiad top-seed United States in round four. It came 15 years after an emotional Ivanchuk announced and then backtracked on retiremen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-4",
          "pubDate" : "Sat, 14 Sep 2024 12:57:00",
-         "title" : "Ivanchuk Beats So As Ukraine Topples Olympiad Top Seed U.S.A."
+         "title" : "Ivanchuk Beats So As Ukraine Topples Olympiad Top-Seed United States"
       },
       {
          "description" : "Your beliefs have a huge influence on your results. This is because we choose our actions based on our beliefs. The simple chain reaction goes like this: Belief -&#62; Action -&#62; Results If you want to change your results, you might first have to change your beliefs. Vicious cycle: Belief: \"I'm too old to improve []",
