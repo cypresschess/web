@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3213",
+         "pubDate" : "Sun, 15 Sep 2024 22:19:30",
+         "title" : "45th Chess Olympiad R05: Vietnam, Armenia and Mongolia deliver upsets "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Evgenij Miroshnichenko asks is it possible black has cheated </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paranoid-black-cheating-chesstactics-chesscheating-chess-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xn7p2CoUNn0.jpg?itok=pop0NSNu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paranoid-black-cheating-chesstactics-chesscheating-chess-lichess",
+         "pubDate" : "Sun, 15 Sep 2024 21:23:54",
+         "title" : "Paranoid, Is Black Cheating?! #chesstactics #chesscheating #chess #lichess"
+      },
+      {
          "description" : "This year saw the rise of India in the chess world, with no fewer than three prodigies taking their places in the pantheon of the Top 10. Oddly, of the three, the one with the least fanfare is also the highest rated: Arjun Erigaisi, knocking on the door of 2800 no less. In rounds 3 and 4 of the Olympiad, he displayed some scintillating chess. You don't want to miss this! | Photo (edited): FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-does-not-play-milkmaid-chess",
          "pubDate" : "Sun, 15 Sep 2024 21:15:00",
          "title" : "Arjun Erigaisi does not play milkmaid chess!"
+      },
+      {
+         "description" : "Please find here certificates Rank Name 1 Karthik Venkataraman 2 Ganguly Surya Shekhar 3 Neelash Saha 4 Ghosh Diptayan 5 Aronyak Ghosh 6 Gusain Himal",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-chess-championship-2024-in-gurugram-haryana/",
+         "pubDate" : "Sun, 15 Sep 2024 20:03:32",
+         "title" : "Certificates of National Chess Championship 2024 in Gurugram Haryana"
       },
       {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Tania Sachdev from India (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-2/",
          "pubDate" : "Sun, 15 Sep 2024 14:20:37",
          "title" : "2024 Chess Olympiad: Round 2"
+      },
+      {
+         "description" : "GM Arjun Erigaisi is the only player on 5/5 in the Open section of the 45th FIDE Chess Olympiad after his win over GM Rauf Mamedov helped India defeat Azerbaijan 3-1. Three more teams scored narrow wins to join India on maximum points: Hungary (GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-5",
+         "pubDate" : "Sun, 15 Sep 2024 12:44:00",
+         "title" : "Arjun Hits 5/5 As India Powers On; Armenian Women Topple China"
       },
       {
          "description" : "Arjun Erigaisi and co. beat Serbia in the open section, while the women's team defeated France in the fourth round of the 2024 Chess Olympiad.",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Familiar Faces Win Titled Tuesday"
       },
       {
-         "description" : "GM Andreas Dueckstein, an Austrian grandmaster known as a dangerous attacker who defeated world champions Max Euwe, Mikhail Botvinnik and Boris Spassky, died peacefully on August 28 at the age of 97. The news was confirmed by the Austrian chess fe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreas-duckstein-1927-2024",
-         "pubDate" : "Wed, 04 Sep 2024 09:03:00",
-         "title" : "Andreas Dueckstein (1927-2024)"
-      },
-      {
          "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa in Sri Lanka, has proven to be a thrilling and competitive event, showcasing a variety of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1026,14 +1050,6 @@ news_feed (
          "title" : "WARNING: Explicit Chess Content #grandchesstour #chess #chesstalk #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nazi and Yasser discuss how players who consistently draw and the skill to do it </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/skill-drawing-grandchesstour-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tDKL6tHsoZw.jpg?itok=PlFudVEA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/skill-drawing-grandchesstour-chess-chesstalk-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 15:13:09",
-         "title" : "The Skill of Drawing #grandchesstour #chess #chesstalk #chesscom"
-      },
-      {
          "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3189",
          "pubDate" : "Wed, 28 Aug 2024 14:03:14",
          "title" : "Chess Beyond the Board: Exciting side events at 2024 FIDE Chess Olympiad"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, Tamil Nadu State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Karaikudi from 21",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-karaikudi-on-21-22-september-2024/",
-         "pubDate" : "Wed, 28 Aug 2024 12:13:06",
-         "title" : "SNA Seminar & Exam in Karaikudi on 21 & 22 September 2024"
       },
       {
          "description" : "Four world-class grandmasters met in a Dutch town for a double round-robin tournament. It was dominated by World Champion Anatoly Karpov, who went into the final round with a 1&frac12;-point lead and faced the second-placed GM Vlastimil Hort. Karpov won the game - but could Hort have prevented this happening? That's an interesting riddle we want to solve. Can you help us?",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3182",
          "pubDate" : "Mon, 26 Aug 2024 05:34:43",
          "title" : "FIDE World Rapid & Blitz Championships 2024: Making history on Wall Street"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3181",
-         "pubDate" : "Sun, 25 Aug 2024 19:58:04",
-         "title" : "FIDE Solving Championships: Free online lessons for everybody"
       }
    ]
 }
