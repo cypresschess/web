@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2024-09-14","38","<a href=http://www.uschess.org/msa/XtblMain.php?202409149862 target='_blank'>SEPT 14TH TROPHY SCHOLASTIC</a>",
+"HOUSTON","2024-09-14","11","<a href=http://www.uschess.org/msa/XtblMain.php?202409149852 target='_blank'>CHESSPANDA09142024SATURDAY</a>",
+"CYPRESS","2024-09-14","35","<a href=http://www.uschess.org/msa/XtblMain.php?202409149742 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2024-09-14","52","<a href=http://www.uschess.org/msa/XtblMain.php?202409140392 target='_blank'>CYGA CHESS TOURNAMENT</a>",
+"SPRING","2024-09-13","28","<a href=http://www.uschess.org/msa/XtblMain.php?202409139582 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-09-13","8","<a href=http://www.uschess.org/msa/XtblMain.php?202409139562 target='_blank'>FBCC 2024 NATIONAL PEANUT DAY OPEN.</a>",
 "HOUSTON","2024-09-06  - 09-08","45","<a href=http://www.uschess.org/msa/XtblMain.php?202409087472 target='_blank'>$3,000 SEPTEMBER 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-09-07","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409076332 target='_blank'>CHESSPANDA08072024SATURDAY</a>",
@@ -194,9 +199,4 @@ jtable([
 "SUGAR LAND","2024-02-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402181572 target='_blank'>CYGA02182024</a>",
 "KINGWOOD","2024-02-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202402172662 target='_blank'>KINGWOOD BLITZ 17 FEB 24</a>",
 "HOUSTON","2024-02-17","6","<a href=http://www.uschess.org/msa/XtblMain.php?202402171532 target='_blank'>CHESSPANDA02172024SATURDAY</a>",
-"HOUSTON","2024-02-17","190","<a href=http://www.uschess.org/msa/XtblMain.php?202402170922 target='_blank'>TCR: TCA REGION V CHAMPIONSHIP 2024</a>",
-"SPRING","2024-02-16","25","<a href=http://www.uschess.org/msa/XtblMain.php?202402160392 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-02-16","28","<a href=http://www.uschess.org/msa/XtblMain.php?202402160352 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2024-02-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202402117902 target='_blank'>ADULT QUADS - FEB 11TH - G/75, D5 -</a>",
-"HOUSTON","2024-02-10","132","<a href=http://www.uschess.org/msa/XtblMain.php?202402107082 target='_blank'>EASTWOOD ACADEMY TOURNAMENT</a>",
 ]);
