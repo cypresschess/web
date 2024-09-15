@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Tania Sachdev from India (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Sun, 15 Sep 2024 14:50:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 2Thursday, 12 September 2024 Open In Round 2 of the Chess Olympiad, we saw more drama as Levon Aronian managed tremendous risks in his game against Zhenyoung Wong of Singapore. Aronian escaped first-round disaster after losing a minor piece. In this game, he was down a rook, but had an attack The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-2/\">2024 Chess Olympiad: Round 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-2/",
+         "pubDate" : "Sun, 15 Sep 2024 14:20:37",
+         "title" : "2024 Chess Olympiad: Round 2"
+      },
+      {
+         "description" : "Arjun Erigaisi and co. beat Serbia in the open section, while the women's team defeated France in the fourth round of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41265807/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-indian-chess-news-day-4-report?device=featurephone",
+         "pubDate" : "Sat, 14 Sep 2024 23:40:47",
+         "title" : "Chess Olympiad 2024: Arjun Erigaisi leads India past Serbia, Harika back to winning ways"
+      },
+      {
          "description" : "While the entire world at large has been caught up with the Russian invasion of Ukraine, some affected more obviously than others, one of the consequences for athletes specifically was the International Olympic Committee's ban of Russian athletes from any event under its auspices. This in turn led to the similar ban in FIDE, a ban Russia plans to try to overturn on September 22. (Image: Albert Silver/Flux Pro)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-28th-tamil-nadu-im-tournament-2024/",
          "pubDate" : "Sat, 14 Sep 2024 15:56:01",
          "title" : "Live Link :28th Tamil Nadu IM Tournament 2024"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Ding Liren (FIDE / Maria Emelianova) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Sat, 14 Sep 2024 14:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "GM Daniel Naroditsky won his 23rd Bullet Brawl title by a 35-point margin over his closest rival, GM Hikaru Nakamura. Finishing with a 16-game winning streak, Naroditsky ended with 271 points to clinch the $400 first prize. Nakamura finished secon...",
