@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year saw the rise of India in the chess world, with no fewer than three prodigies taking their places in the pantheon of the Top 10. Oddly, of the three, the one with the least fanfare is also the highest rated: Arjun Erigaisi, knocking on the door of 2800 no less. In rounds 3 and 4 of the Olympiad, he displayed some scintillating chess. You don't want to miss this! | Photo (edited): FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-does-not-play-milkmaid-chess",
+         "pubDate" : "Sun, 15 Sep 2024 21:15:00",
+         "title" : "Arjun Erigaisi does not play milkmaid chess!"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Tania Sachdev from India (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,22 +88,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/beliefs/",
          "pubDate" : "Sat, 14 Sep 2024 11:57:00",
          "title" : "Get Rid of Your Self-Limiting Beliefs"
-      },
-      {
-         "description" : "Round 3 of the Chess Olympiad saw drama unfold both on and off the board, as Magnus Carlsen almost did not make it on time to the venue. As for surprising results, particularly shocking were the victories by Italy and Lithuania, who beat the Netherlands and Germany respectively. In both cases, the top representatives of the favourite teams - Anish Giri and Vincent Keymer - were defeated by much lower-rated opponents. A total of 16 teams are now sharing the lead with 6/6 match points. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r3-open",
-         "pubDate" : "Sat, 14 Sep 2024 08:50:00",
-         "title" : "Budapest R3 (open): Carlsen's last-minute arrival and two big upsets"
-      },
-      {
-         "description" : "The third round of the Women's Chess Olympiad in Budapest delivered excitement and surprises, with both upsets and closely fought draws reshaping the tournament landscape. The mix of expected results and surprises left 16 teams tied sharing the lead, all with perfect scores of 6/6. The biggest upset was suffered by the local squad, as Hungary were defeated by Uzbekistan. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r3-women",
-         "pubDate" : "Sat, 14 Sep 2024 07:30:00",
-         "title" : "Budapest R3 (women): Uzbekistan beat Hungary, 16 teams tied for first"
       },
       {
          "description" : "In order to rebuke Russia for its egregious invasion of Ukraine, the International Chess Federation (FIDÉ) voted two years ago to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for Moscow two years ago. This unanimous decision was extraordinary. This was not just because it sidelined []",
