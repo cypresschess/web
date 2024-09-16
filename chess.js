@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2024 Chess Olympiad: Round 3Friday, 13 September 2024 Nice aerial shot by Michal Walusza! Open Round 3 of the Budapest Olympiad saw some contested battles, but the buzz of the round was the world's top player,&#160;Magnus Carlsen,&#160;arriving 11 minutes late for his first game. Team Captain Odin Blikra Vea explained the weather was bad and The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/\">2024 Chess Olympiad: Round 3</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/",
+         "pubDate" : "Mon, 16 Sep 2024 01:32:44",
+         "title" : "2024 Chess Olympiad: Round 3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 2"
       },
       {
-         "description" : "GM Arjun Erigaisi is the only player on 5/5 in the Open section of the 45th FIDE Chess Olympiad after his win over GM Rauf Mamedov helped India defeat Azerbaijan 3-1. Three more teams scored narrow wins to join India on maximum points: Hungary (GM...",
+         "description" : "GM Arjun Erigaisi is the only player on 5/5 in the Open section of the 45th FIDE Chess Olympiad after his win over GM Rauf Mamedov helped India defeat Azerbaijan 3-1 in round five. Three more teams scored narrow wins to join India on maximum point...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-5",
