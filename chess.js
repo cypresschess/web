@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Monicka Socko from Poland (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Mon, 16 Sep 2024 14:50:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "Are you an English junior who loves chess? Take your skills to the next level by joining our online tournaments - challenge top players, sharpen your tactics, and experience the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/play-chess-online-against-other-ecf-juniors/",
+         "pubDate" : "Mon, 16 Sep 2024 13:25:41",
+         "title" : "Play chess ONLINE against other ECF juniors!"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 4Saturday, 14 September 2024 Open The U.S. gets upset by Ukraine as Wesley So loses a heartbreaker against Vasyl Ivanchuk. A very uncharacteristic mistake by the gold medalist puts a barrier on gold medal aspirations as India keep rolling. Wesley So blundered a winning position against Vasyl Ivanchuk, giving the Ukrainian The post <a href=\"https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-4/\">2024 Chess Olympiad: Round 4</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-4/",
+         "pubDate" : "Mon, 16 Sep 2024 13:08:47",
+         "title" : "2024 Chess Olympiad: Round 4"
+      },
+      {
+         "description" : "Round 5 of the Chess Olympiad saw four teams scoring wins on the top boards to end the day tied for the lead with a 10/10 match points, including pre-tournament favourites India, China, and Hungary. The surprise co-leader is Vietnam, the only team outside the top-10 seeds to keep pace with the elite. Among the standout individual performances, India's Dommaraju Gukesh and Arjun Erigaisi continue to shine, each maintaining a perfect score so far. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r5-open",
+         "pubDate" : "Mon, 16 Sep 2024 12:55:00",
+         "title" : "Budapest R5 (open): India, China, Hungary and Vietnam still perfect"
+      },
+      {
          "description" : "Saturday's fifth round at the Women's Chess Olympiad saw three teams emerge as co-leaders with perfect 10/10 match points, with top seeds India joined by Armenia and Mongolia after stunning upset victories. Armenia overcame what had been a highly dominant Chinese team, while Mongolia (pictured) shocked the United States. Both underdog teams continue to impress as the tournament progresses. Meanwhile, Georgia and Poland remain just 1 point behind the leaders. | Photo: FIDE / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/live-games-for-the-53rd-national-junior-under-19-38th-national-junior-under-19-girls-chess-championships-2024/",
          "pubDate" : "Mon, 16 Sep 2024 11:03:13",
          "title" : "Live games for the 53rd National Junior (Under - 19) & 38th National Junior (Under - 19) Girls Chess Championships 2024"
+      },
+      {
+         "description" : "The stage is set for the Julius Baer Generation Cup, the fourth and final online leg of the 2024 Champions Chess Tour. Starting on September 25, this thrilling event will feature a $300,000 prize fund, offering the world&#38;rsquo;s top chess players ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2024-julius-baer-generation-cup",
+         "pubDate" : "Mon, 16 Sep 2024 08:00:00",
+         "title" : "Julius Baer Generation Cup: The Final Leg of the 2024 Champions Chess Tour"
       },
       {
          "description" : "ECU E-Magazine August 2024 is out! In this edition of the ECU E-Magazine you may read about: The August 2024 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded down below.",
@@ -74,12 +114,12 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 3"
       },
       {
-         "description" : "Indian men beat Azerbaijan and the women beat Kazakhstan for confidence-boosting wins in the fifth round of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41281554/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-5-report?device=featurephone",
-         "pubDate" : "Mon, 16 Sep 2024 01:09:53",
-         "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> National Chess Day cake in Memphis, TN<br /><br /><br /> <br /><br /> The 2024 National Chess Day falls on Saturday, October 12, which this year is also Yom Kippur, one of the most solemn holidays on the Jewish calendar.<br /><br /> For this reason, the Executive Board has decided to extend our National Chess Day into a National Chess Week, running from October 5-12.<br /><br /> For any event that includes \"National Chess Day\" (or \"National Chess Week\") in the event title and is held October 5-12, US Chess is offering:<br /><br /> One free email blast. Make sure that \"Na",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-chess-week-be-held-october-5-12-what-know",
+         "pubDate" : "Mon, 16 Sep 2024 00:00:00",
+         "title" : "National Chess Week To Be Held October 5-12: What To Know"
       },
       {
          "description" : "",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-national-chess-championship-2024-in-gurugram-haryana/",
          "pubDate" : "Sun, 15 Sep 2024 20:03:32",
          "title" : "Certificates of National Chess Championship 2024 in Gurugram Haryana"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Tania Sachdev from India (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Sun, 15 Sep 2024 14:50:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 2Thursday, 12 September 2024 Open In Round 2 of the Chess Olympiad, we saw more drama as Levon Aronian managed tremendous risks in his game against Zhenyoung Wong of Singapore. Aronian escaped first-round disaster after losing a minor piece. In this game, he was down a rook, but had an attack The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-2/\">2024 Chess Olympiad: Round 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -882,14 +914,6 @@ news_feed (
          "title" : "BCET Awards 2024"
       },
       {
-         "description" : "The first Titled Tuesdays of September went to two regulars, GMs Alexey Sarana&#38;nbsp;and Bogdan-Daniel Deac, who both scored 10 points. It was Sarana&#39;s fourth win of the year and Deac&#39;s second. Sarana needed&#38;nbsp;tiebreaks over GM Ian Nepomniachtch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-deac-win-titled-tuesday-september-3-2024",
-         "pubDate" : "Wed, 04 Sep 2024 09:03:15",
-         "title" : "Familiar Faces Win Titled Tuesday"
-      },
-      {
          "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa in Sri Lanka, has proven to be a thrilling and competitive event, showcasing a variety of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1026,14 +1050,6 @@ news_feed (
          "title" : "European Youth Chess Champions 2024 crowned in Prague"
       },
       {
-         "description" : "Junyan Hu has won the European Under 8 Championship today (31.8.24)! This adds to the Gold medal that Samar Dayal won in the European Under 10 Rapidplay Championship a couple...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-under-8-champion-junyan-hu/",
-         "pubDate" : "Mon, 02 Sep 2024 12:05:00",
-         "title" : "European Under 8 Champion Junyan Hu"
-      },
-      {
          "description" : "Time trouble is part of the game. In many cases, players in acute time trouble knock down pieces and don't fix them before pressing the clock. Some players are very meticulous to fix any displacement in their own time while others are not. Arbiter's intervention is to be determined in case to case basis. International Arbiter Alon Shulman shares an incident that took place recently in the ECU magazine.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://aicf.in/report-on-training-camp-of-indian-womens-chess-team-for-chess-olympiad-2024/",
          "pubDate" : "Sun, 01 Sep 2024 17:14:08",
          "title" : "Report on Training Camp of Indian Women's Chess Team for Chess Olympiad 2024*"
-      },
-      {
-         "description" : "IM Brewington Hardaway earned his third and final GM norm on Saturday, August 31 along the way to his 7&frac12;/10 score and tied-sixth finish in the Sants - City of Barcelona International Chess Open 2024.<br /><br /> <br /><br /><br /> I just got my final GM Norm at the 2024 Sants Open! My FIDE Rating is now 2489 which means I need 11 more points to become GM! This is the first time I've played outside the U.S in a few years and it was a great experience. Thank you @SantsChess for hosting an incredible event! pic.twitter.com/HREy9WbdH0<br /> - Brewington Hardaway (@IMBrewChess) September 1, 2024<br /> <br /><br /> The result also bumped Hardaway's FIDE rating up to 2489, just 11 points shy",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/brewington-hardaway-earns-final-gm-norm-barcelona",
-         "pubDate" : "Sun, 01 Sep 2024 00:00:00",
-         "title" : "Brewington Hardaway Earns Final GM Norm in Barcelona"
       },
       {
          "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
@@ -1224,22 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3185",
          "pubDate" : "Tue, 27 Aug 2024 06:50:49",
          "title" : "Travel information for World Senior Championships 2024 in Porto Santo, Portugal"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3183",
-         "pubDate" : "Mon, 26 Aug 2024 15:18:59",
-         "title" : "Women and Records in the spotlight at Chess Olympiad in Budapest"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3184",
-         "pubDate" : "Mon, 26 Aug 2024 12:30:21",
-         "title" : "French Championship 2024: Moussard and Daulyte-Cornette win titles"
       }
    ]
 }
