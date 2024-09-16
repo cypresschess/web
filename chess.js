@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113386144.cms\" />Ding Liren, the defending champion, concedes that his Indian opponent D Gukesh is favored to win their global chess title match this November. Both are currently participating in the 45th Chess Olympiad in Budapest. The world championship will be held from November 20 to December 15 in Singapore, featuring a USD 2.50 million prize pool.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-defending-champion-ding-liren-tells-why-challenger-d-gukesh-is-favourite/articleshow/113386144.cms",
+         "pubDate" : "Mon, 16 Sep 2024 07:08:17",
+         "title" : "Chess Olympiad: Ding Liren tells why challenger D Gukesh is favourite"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113384063.cms\" />India's men's chess team secured a 3-1 victory over Azerbaijan in the fifth round of the 45th Chess Olympiad, led by D Gukesh and Arjun Erigaise. The women's team also won against Kazakhstan. Both teams are now among the leaders, with six rounds remaining in this prestigious tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-men-and-women-teams-register-wins-to-remain-in-joint-lead/articleshow/113384063.cms",
+         "pubDate" : "Mon, 16 Sep 2024 06:13:03",
+         "title" : "Olympiad: India's men and women teams win to stay in joint lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113380354.cms\" />The 45th FIDE Chess Olympiad in Budapest gathers nearly 2,000 participants from almost 200 countries. Highlights include Vasyl Ivanchuk's return for Ukraine, an 84-year-old participant, and five nine-year-old prodigies. The Cayman Islands and Luxembourg have the oldest teams by average age; Mongolia is the youngest team.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/from-9-year-old-prodigies-to-84-year-grandmother-chess-has-no-age-limit/articleshow/113380354.cms",
+         "pubDate" : "Mon, 16 Sep 2024 03:55:55",
+         "title" : "From 9-year-old prodigies to 84-year grandmother, chess has no age limit"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113380176.cms\" />Peter Prohaszka from Hungary demonstrated notable sportsmanship by permitting India's Erigaisi Arjun to checkmate him at the Chess Olympiad in Budapest. This rare act emphasizes the beauty and artistry inherent in chess, showcasing how appreciation for skill can surpass personal pride and ego.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hungarian-gms-gesture-gives-arjuns-fans-and-chess-followers-reason-to-smile/articleshow/113380176.cms",
+         "pubDate" : "Mon, 16 Sep 2024 03:47:45",
+         "title" : "Hungarian GM's gesture gives Arjun's fans and chess followers reason to smile"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113379829.cms\" />Gukesh Dommaraju continued his winning streak at the 45th FIDE Chess Olympiad in Budapest by defeating Azerbaijan's Aydin Suleymanli, marking his fourth consecutive victory. Praggnanandhaa Rameshbabu secured a draw against Nijat Abasov. In the women's section, Divya Deshmukh staged a comeback to win against French WGM Hejazipour. India and China remain unbeaten in both open and women's sections.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-gukesh-gets-4-on-4-arjun-makes-it-perfect-5/articleshow/113379829.cms",
+         "pubDate" : "Mon, 16 Sep 2024 03:38:14",
+         "title" : "Chess Olympiad: Gukesh gets 4-on-4, Arjun makes it perfect 5"
+      },
+      {
          "description" : " 2024 Chess Olympiad: Round 3Friday, 13 September 2024 Nice aerial shot by Michal Walusza! Open Round 3 of the Budapest Olympiad saw some contested battles, but the buzz of the round was the world's top player,&#160;Magnus Carlsen,&#160;arriving 11 minutes late for his first game. Team Captain Odin Blikra Vea explained the weather was bad and The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/\">2024 Chess Olympiad: Round 3</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/",
          "pubDate" : "Mon, 16 Sep 2024 01:32:44",
          "title" : "2024 Chess Olympiad: Round 3"
+      },
+      {
+         "description" : "Indian men beat Azerbaijan and the women beat Kazakhstan for confidence-boosting wins in the fifth round of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41281554/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-5-report?device=featurephone",
+         "pubDate" : "Mon, 16 Sep 2024 01:09:53",
+         "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
       },
       {
          "description" : "",
@@ -1176,22 +1224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3184",
          "pubDate" : "Mon, 26 Aug 2024 12:30:21",
          "title" : "French Championship 2024: Moussard and Daulyte-Cornette win titles"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2024 commenced yesterday in Mali Losinj, Croatia. The Opening ceremony of the event took place shortly before the first round, with the attendance of the ECU Vice President Mr. Alojzije Jankovic who addressed the players and made the first ceremonial move before the start of the games. The Championship is played in three rating sections: U1700, U2000 and U2300, and gathers 82 players from 16 European federations, including two players from Guadalupe, overseas region of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2024-kicked-off-in-croatia/",
-         "pubDate" : "Mon, 26 Aug 2024 07:01:25",
-         "title" : "European Amateur Chess Championship 2024 kicked off in Croatia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3182",
-         "pubDate" : "Mon, 26 Aug 2024 05:34:43",
-         "title" : "FIDE World Rapid & Blitz Championships 2024: Making history on Wall Street"
       }
    ]
 }
