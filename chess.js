@@ -5,6 +5,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3216",
+         "pubDate" : "Mon, 16 Sep 2024 21:30:14",
+         "title" : "45th Chess Olympiad R06: India emerges as sole leader in both open and women's events"
+      },
+      {
+         "description" : "India continues to dominate in the 45th Chess Olympiad, with both the men's and women's teams securing strong performances in the sixth round, winning all",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-at-chess-olympiad-round-6-men-women-register-yet-another-win/",
+         "pubDate" : "Mon, 16 Sep 2024 20:06:37",
+         "title" : "India At Chess Olympiad, Round 6: Men & Women Register Yet Another Win."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3215",
          "pubDate" : "Mon, 16 Sep 2024 16:57:23",
          "title" : "FIDE WGP 2024-2025: Complete allocations announced"
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r5-open",
          "pubDate" : "Mon, 16 Sep 2024 12:55:00",
          "title" : "Budapest R5 (open): India, China, Hungary and Vietnam still perfect"
+      },
+      {
+         "description" : "GM Arjun Erigaisi and India go into the rest day of the 45th FIDE Chess Olympiad on perfect scores after Arjun&#39;s round-six win over GM Sanan Sjugirov helped India to a 3-1 victory over Hungary. That meant the sole lead as China only drew with Viet...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-6",
+         "pubDate" : "Mon, 16 Sep 2024 12:50:00",
+         "title" : "Perfect India Leads Both Sections Alone After Ding Defeat Costs China"
       },
       {
          "description" : "Saturday's fifth round at the Women's Chess Olympiad saw three teams emerge as co-leaders with perfect 10/10 match points, with top seeds India joined by Armenia and Mongolia after stunning upset victories. Armenia overcame what had been a highly dominant Chinese team, while Mongolia (pictured) shocked the United States. Both underdog teams continue to impress as the tournament progresses. Meanwhile, Georgia and Poland remain just 1 point behind the leaders. | Photo: FIDE / Maria Emelianova",
@@ -922,14 +946,6 @@ news_feed (
          "title" : "Riddle: Karpov-Hort 1979 - Solution"
       },
       {
-         "description" : "We&#39;re excited to announce our newest partner, Discord! One of the largest communication platforms in the world, Discord is among streamers&#39; and gamers&#39; favorite places to hang out while playing.&#38;nbsp; To celebrate the occasion, we&#39;ve just launch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/discord-bots",
-         "pubDate" : "Wed, 04 Sep 2024 10:00:00",
-         "title" : "Play Against The New Discord Chess Bots On Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/01/brewington-hardaway-earns-final-gm-norm/",
          "pubDate" : "Sun, 01 Sep 2024 17:40:05",
          "title" : "Brewington Hardaway earns final GM norm!"
-      },
-      {
-         "description" : "In preparation for the 45th FIDE Chess Olympiad, the Indian Women's Chess Team participated in a vital training camp from August 27 to September 1,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-on-training-camp-of-indian-womens-chess-team-for-chess-olympiad-2024/",
-         "pubDate" : "Sun, 01 Sep 2024 17:14:08",
-         "title" : "Report on Training Camp of Indian Women's Chess Team for Chess Olympiad 2024*"
       },
       {
          "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
