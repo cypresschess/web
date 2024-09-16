@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Saturday's fifth round at the Women's Chess Olympiad saw three teams emerge as co-leaders with perfect 10/10 match points, with top seeds India joined by Armenia and Mongolia after stunning upset victories. Armenia overcame what had been a highly dominant Chinese team, while Mongolia (pictured) shocked the United States. Both underdog teams continue to impress as the tournament progresses. Meanwhile, Georgia and Poland remain just 1 point behind the leaders. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r5-women",
+         "pubDate" : "Mon, 16 Sep 2024 11:20:00",
+         "title" : "Budapest R5 (women): Mongolia beat the US, Armenia stop China"
+      },
+      {
+         "description" : "Kindly find the live games link for the 53rd National Junior (Under - 19) &#38; 38th National Junior (Under - 19) Girls Chess Championships 2024 scheduled at Shamiana The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-for-the-53rd-national-junior-under-19-38th-national-junior-under-19-girls-chess-championships-2024/",
+         "pubDate" : "Mon, 16 Sep 2024 11:03:13",
+         "title" : "Live games for the 53rd National Junior (Under - 19) & 38th National Junior (Under - 19) Girls Chess Championships 2024"
+      },
+      {
+         "description" : "ECU E-Magazine August 2024 is out! In this edition of the ECU E-Magazine you may read about: The August 2024 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded down below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-august-2024/",
+         "pubDate" : "Mon, 16 Sep 2024 07:29:25",
+         "title" : "ECU E-Magazine August 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113386144.cms\" />Ding Liren, the defending champion, concedes that his Indian opponent D Gukesh is favored to win their global chess title match this November. Both are currently participating in the 45th Chess Olympiad in Budapest. The world championship will be held from November 20 to December 15 in Singapore, featuring a USD 2.50 million prize pool.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1056,14 +1080,6 @@ news_feed (
          "link" : "https://aicf.in/report-on-training-camp-of-indian-womens-chess-team-for-chess-olympiad-2024/",
          "pubDate" : "Sun, 01 Sep 2024 17:14:08",
          "title" : "Report on Training Camp of Indian Women's Chess Team for Chess Olympiad 2024*"
-      },
-      {
-         "description" : "The 37th Under-07 National Open and Girls Chess Championships 2024, held from September 1st to September 5th at the Sambrama Convention Hall in Mysuru, is",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/37th-nationals-under-7-chess-championship-2024-1st-day-inauguration-details/",
-         "pubDate" : "Sun, 01 Sep 2024 17:07:32",
-         "title" : "37th Nationals Under 7 Chess Championship 2024 1st Day inauguration details"
       },
       {
          "description" : "IM Brewington Hardaway earned his third and final GM norm on Saturday, August 31 along the way to his 7&frac12;/10 score and tied-sixth finish in the Sants - City of Barcelona International Chess Open 2024.<br /><br /> <br /><br /><br /> I just got my final GM Norm at the 2024 Sants Open! My FIDE Rating is now 2489 which means I need 11 more points to become GM! This is the first time I've played outside the U.S in a few years and it was a great experience. Thank you @SantsChess for hosting an incredible event! pic.twitter.com/HREy9WbdH0<br /> - Brewington Hardaway (@IMBrewChess) September 1, 2024<br /> <br /><br /> The result also bumped Hardaway's FIDE rating up to 2489, just 11 points shy",
