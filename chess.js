@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3215",
+         "pubDate" : "Mon, 16 Sep 2024 16:57:23",
+         "title" : "FIDE WGP 2024-2025: Complete allocations announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3214",
+         "pubDate" : "Mon, 16 Sep 2024 16:04:24",
+         "title" : "World Senior Championships 2024: Registration deadline extended"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Monicka Socko from Poland (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,6 +128,22 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/",
          "pubDate" : "Mon, 16 Sep 2024 01:32:44",
          "title" : "2024 Chess Olympiad: Round 3"
+      },
+      {
+         "description" : "Indian men beat Azerbaijan and the women beat Kazakhstan for confidence-boosting wins in the fifth round of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41281554/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-5-report?device=featurephone",
+         "pubDate" : "Mon, 16 Sep 2024 01:09:53",
+         "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
+      },
+      {
+         "description" : "US Chess is seeking applicants for the positions of Heads of Delegation (HOD) and Coaches (Trainers) for the 2024 FIDE International Youth events.<br /><br /> The policy for selection is posted on the US Chess website and has changed for 2024. The two events covered by this process are: <br /><br /> 2024 World Youth (U14, U16, U18) Chess Championships, October 28 - November 10, Florianopolis, Brazil<br /> \t2024 World Cadet (U8, U10, U12) Chess Championships, November 12 - 25, Montesilvano, Italy<br /> Applicants for the position of HOD or for the position of Coach (also known as Trainers), must be a licensed FIDE Trainer. Find additional information about the FIDE Trainers' System here.<br /",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-seeking-hod-and-trainers-2024-international-youth-events",
+         "pubDate" : "Mon, 16 Sep 2024 00:00:00",
+         "title" : "US Chess Seeking HOD and Trainers for 2024 International Youth Events"
       },
       {
          "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> National Chess Day cake in Memphis, TN<br /><br /><br /> <br /><br /> The 2024 National Chess Day falls on Saturday, October 12, which this year is also Yom Kippur, one of the most solemn holidays on the Jewish calendar.<br /><br /> For this reason, the Executive Board has decided to extend our National Chess Day into a National Chess Week, running from October 5-12.<br /><br /> For any event that includes \"National Chess Day\" (or \"National Chess Week\") in the event title and is held October 5-12, US Chess is offering:<br /><br /> One free email blast. Make sure that \"Na",
@@ -1000,14 +1032,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-your-game-split-result",
          "pubDate" : "Tue, 03 Sep 2024 00:00:00",
          "title" : "Just The Rules: Your Game is a Split Result?"
-      },
-      {
-         "description" : "This week's puzzles continue a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-124th-annual-us-open-pt-2",
-         "pubDate" : "Tue, 03 Sep 2024 00:00:00",
-         "title" : "Tactics Tuesday: 124th Annual U.S. Open, Pt. 2"
       },
       {
          "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
