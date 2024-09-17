@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113414111.cms\" />The Indian men and women chess teams extended their unbeaten runs at the Chess Olympiad in Budapest. Divya Deshmukh triumphed over Armenia's Elina Danielian, continuing her strong performance. Arjun Erigaisi achieved his sixth consecutive win in the Open section. Both teams have now recorded six wins each, solidifying their standings in the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-unbeaten-run-continues/articleshow/113414111.cms",
+         "pubDate" : "Tue, 17 Sep 2024 05:29:02",
+         "title" : "Chess Olympiad: India's unbeaten run continues"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 5Sunday, 15 September 2024 Open The Indian men have continued to dominate in the Open Section. D. Gukesh (4/4) and Arjun Erigaisi (5/5) scored for India, while R. Praggnanandhaa got his second consecutive draw while Vidit Gujrathi drew with Shakriyar Mamedyarov who seems to be sliding further and further down the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/\">2024 Chess Olympiad: Round 5</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/",
+         "pubDate" : "Tue, 17 Sep 2024 03:51:24",
+         "title" : "2024 Chess Olympiad: Round 5"
+      },
+      {
+         "description" : "Arjun Erigaisi registered his sixth victory in as many games as he continues to be India's standout player this Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
+         "pubDate" : "Tue, 17 Sep 2024 00:16:59",
+         "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,14 +1280,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2024-is-halfway-through/",
          "pubDate" : "Tue, 27 Aug 2024 08:02:40",
          "title" : "European Youth Chess Championship 2024 is halfway through"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3185",
-         "pubDate" : "Tue, 27 Aug 2024 06:50:49",
-         "title" : "Travel information for World Senior Championships 2024 in Porto Santo, Portugal"
       }
    ]
 }
