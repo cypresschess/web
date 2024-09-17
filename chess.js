@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Ian Nepomniachtchi (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (P",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
+         "pubDate" : "Tue, 17 Sep 2024 16:13:00",
+         "title" : "TechM Global Chess League 2024 - Games and Results"
+      },
+      {
+         "description" : "At the halfway mark of the Chess Olympiad, India, the second seeds in the open section, have emerged as the sole leaders, with 6 wins from 6 matches. Not only have they maintained a perfect match record, but they are also the only team to remain undefeated in both individual and team performances across either section of the tournament. Arjun Erigaisi has been the star performer for the Indian team, winning all 6 of his games, including a round-6 victory over Hungary's Sanan Sjugirov. Meanwhile, former co-leaders China and Vietnam drew their match, with Vietnam's Le Quang Liem defeating world champion Ding Liren on the top board. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r6-open",
+         "pubDate" : "Tue, 17 Sep 2024 15:00:00",
+         "title" : "Budapest R6 (open): India sole leaders, as Arjun keeps on winning!"
+      },
+      {
          "description" : "Heading into the rest day of the Women's Chess Olympiad, India emerged as the sole leaders after a 2.5-1.5 victory over Armenia in round 6. Divya Deshmukh (pictured) secured the win in the only decisive game of the match, helping India maintain their perfect score. Close behind, Georgia and Poland are tied for second place, just one match point behind India. Both teams won their respective matches by the narrowest of margins, with Salome Melia leading Georgia to victory and Oliwia Kiolbasa delivering the key win for Poland. | Photo: FIDE / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 5"
       },
       {
+         "description" : "Arjun Erigaisi registered his sixth victory in as many games as he continues to be India's standout player this Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
+         "pubDate" : "Tue, 17 Sep 2024 00:16:59",
+         "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3214",
          "pubDate" : "Mon, 16 Sep 2024 16:04:24",
          "title" : "World Senior Championships 2024: Registration deadline extended"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Monicka Socko from Poland (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Mon, 16 Sep 2024 14:50:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "Are you an English junior who loves chess? Take your skills to the next level by joining our online tournaments - challenge top players, sharpen your tactics, and experience the...",
@@ -184,6 +200,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/",
          "pubDate" : "Mon, 16 Sep 2024 01:32:44",
          "title" : "2024 Chess Olympiad: Round 3"
+      },
+      {
+         "description" : "Indian men beat Azerbaijan and the women beat Kazakhstan for confidence-boosting wins in the fifth round of the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41281554/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-5-report?device=featurephone",
+         "pubDate" : "Mon, 16 Sep 2024 01:09:53",
+         "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
       },
       {
          "description" : "US Chess is seeking applicants for the positions of Heads of Delegation (HOD) and Coaches (Trainers) for the 2024 FIDE International Youth events.<br /><br /> The policy for selection is posted on the US Chess website and has changed for 2024. The two events covered by this process are: <br /><br /> 2024 World Youth (U14, U16, U18) Chess Championships, October 28 - November 10, Florianopolis, Brazil<br /> \t2024 World Cadet (U8, U10, U12) Chess Championships, November 12 - 25, Montesilvano, Italy<br /> Applicants for the position of HOD or for the position of Coach (also known as Trainers), must be a licensed FIDE Trainer. Find additional information about the FIDE Trainers' System here.<br /",
@@ -1256,22 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3188",
          "pubDate" : "Wed, 28 Aug 2024 07:18:32",
          "title" : "Karthik Venkataraman wins 61st India Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3187",
-         "pubDate" : "Tue, 27 Aug 2024 14:43:51",
-         "title" : "Olympiad Expo Classic International Open FIDE Tournament announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3186",
-         "pubDate" : "Tue, 27 Aug 2024 11:43:16",
-         "title" : "Updated list of Member Federations having right to vote at GA 2024 published"
       }
    ]
 }
