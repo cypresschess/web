@@ -71,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-6",
          "pubDate" : "Mon, 16 Sep 2024 12:50:00",
-         "title" : "Perfect India Leads Both Sections Alone After Ding Defeat Costs China"
+         "title" : "Indian Teams Sole Leaders After Ding Defeat Costs China"
       },
       {
          "description" : "Saturday's fifth round at the Women's Chess Olympiad saw three teams emerge as co-leaders with perfect 10/10 match points, with top seeds India joined by Armenia and Mongolia after stunning upset victories. Armenia overcame what had been a highly dominant Chinese team, while Mongolia (pictured) shocked the United States. Both underdog teams continue to impress as the tournament progresses. Meanwhile, Georgia and Poland remain just 1 point behind the leaders. | Photo: FIDE / Maria Emelianova",
