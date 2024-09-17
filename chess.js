@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Heading into the rest day of the Women's Chess Olympiad, India emerged as the sole leaders after a 2.5-1.5 victory over Armenia in round 6. Divya Deshmukh (pictured) secured the win in the only decisive game of the match, helping India maintain their perfect score. Close behind, Georgia and Poland are tied for second place, just one match point behind India. Both teams won their respective matches by the narrowest of margins, with Salome Melia leading Georgia to victory and Oliwia Kiolbasa delivering the key win for Poland. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r6-women",
+         "pubDate" : "Tue, 17 Sep 2024 11:25:00",
+         "title" : "Budapest R6 (women): India beat Armenia to become sole leaders"
+      },
+      {
+         "description" : "Six rounds have been played at the 45th Chess Olympiad in Budapest, Hungary, and India emerged as the sole leader of both sections scoring perfect 12/12 match points. Indian team in the Open section scored a convincing 3-1 win over Hungary yesterday, to head into today's free day as the sole leader of the event. Vietnam, China, and Iran are following with the score of 11 match points, while as many as 10 teams score 10 match points. Taking a []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/45th-chess-olympiad-is-halfway-through/",
+         "pubDate" : "Tue, 17 Sep 2024 11:19:27",
+         "title" : "45th Chess Olympiad is halfway through"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113414111.cms\" />The Indian men and women chess teams extended their unbeaten runs at the Chess Olympiad in Budapest. Divya Deshmukh triumphed over Armenia's Elina Danielian, continuing her strong performance. Arjun Erigaisi achieved his sixth consecutive win in the Open section. Both teams have now recorded six wins each, solidifying their standings in the competition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,20 +26,12 @@ news_feed (
          "title" : "Chess Olympiad: India's unbeaten run continues"
       },
       {
-         "description" : " 2024 Chess Olympiad: Round 5Sunday, 15 September 2024 Open The Indian men have continued to dominate in the Open Section. D. Gukesh (4/4) and Arjun Erigaisi (5/5) scored for India, while R. Praggnanandhaa got his second consecutive draw while Vidit Gujrathi drew with Shakriyar Mamedyarov who seems to be sliding further and further down the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/\">2024 Chess Olympiad: Round 5</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 Chess Olympiad: Round 5Sunday, 15 September 2024 Open The Indian men have continued to dominate in the Open Section. D. Gukesh (4/4) and Arjun Erigaisi (5/5) scored for India, while R. Praggnanandhaa got his second consecutive draw. Vidit Gujrathi drew with Shakriyar Mamedyarov who seems to be sliding further and further down the boards The post <a href=\"https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/\">2024 Chess Olympiad: Round 5</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/",
          "pubDate" : "Tue, 17 Sep 2024 03:51:24",
          "title" : "2024 Chess Olympiad: Round 5"
-      },
-      {
-         "description" : "Arjun Erigaisi registered his sixth victory in as many games as he continues to be India's standout player this Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
-         "pubDate" : "Tue, 17 Sep 2024 00:16:59",
-         "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
       },
       {
          "description" : "",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/",
          "pubDate" : "Mon, 16 Sep 2024 01:32:44",
          "title" : "2024 Chess Olympiad: Round 3"
-      },
-      {
-         "description" : "Indian men beat Azerbaijan and the women beat Kazakhstan for confidence-boosting wins in the fifth round of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41281554/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-5-report?device=featurephone",
-         "pubDate" : "Mon, 16 Sep 2024 01:09:53",
-         "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
       },
       {
          "description" : "US Chess is seeking applicants for the positions of Heads of Delegation (HOD) and Coaches (Trainers) for the 2024 FIDE International Youth events.<br /><br /> The policy for selection is posted on the US Chess website and has changed for 2024. The two events covered by this process are: <br /><br /> 2024 World Youth (U14, U16, U18) Chess Championships, October 28 - November 10, Florianopolis, Brazil<br /> \t2024 World Cadet (U8, U10, U12) Chess Championships, November 12 - 25, Montesilvano, Italy<br /> Applicants for the position of HOD or for the position of Coach (also known as Trainers), must be a licensed FIDE Trainer. Find additional information about the FIDE Trainers' System here.<br /",
@@ -1272,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3186",
          "pubDate" : "Tue, 27 Aug 2024 11:43:16",
          "title" : "Updated list of Member Federations having right to vote at GA 2024 published"
-      },
-      {
-         "description" : "Five rounds have already been played at the European Youth Chess Championship 2024 in Prague, Czech Republic with four rounds to go before the announcement of the Winners. Each age group has emerged leaders, who are closely followed by other players. Today is a free day for the players, and the games continue tomorrow with the 6th round starting at 15:00 CEST. In section for Girls U8, Lile Svanadze (GEO, 1472) has a sole lead with perfect score of 5/5 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2024-is-halfway-through/",
-         "pubDate" : "Tue, 27 Aug 2024 08:02:40",
-         "title" : "European Youth Chess Championship 2024 is halfway through"
       }
    ]
 }
