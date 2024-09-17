@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (players below). Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wEtMk4SOGwo.jpg?itok=BlZMpLPx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-1",
+         "pubDate" : "Tue, 17 Sep 2024 21:25:15",
+         "title" : "2024 U.S. Chess Championships: Round 1"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 6Monday, 16 September 2024 Open Round 6 is right before the rest day and the tournament got a bit more tense. India continued mowing down the field and beat host Hungary by a resounding 3-1 score. Arjun Erigaisi is cleaning up on board 3 with 6/6 and a 3341 performance rating! The post <a href=\"https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/\">2024 Chess Olympiad: Round 6</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/",
+         "pubDate" : "Tue, 17 Sep 2024 20:22:41",
+         "title" : "2024 Chess Olympiad: Round 6"
+      },
+      {
          "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Ian Nepomniachtchi (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (P",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r6-open",
          "pubDate" : "Tue, 17 Sep 2024 15:00:00",
          "title" : "Budapest R6 (open): India sole leaders, as Arjun keeps on winning!"
+      },
+      {
+         "description" : "Few female players in chess history were able to win a round-robin classical event ahead of male grandmasters. WGM Meruert Kamalidenova has now joined that elite group. The 19-year-old scored a stunning victory in a closed 10-player GM tournamen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/meruert-kamalidenova-sensationally-wins-event-with-male-players-scores-gm-norm",
+         "pubDate" : "Tue, 17 Sep 2024 12:36:00",
+         "title" : "Meruert Kamalidenova Triumphs Over 7 GMs, Secures Grandmaster Norm"
       },
       {
          "description" : "Heading into the rest day of the Women's Chess Olympiad, India emerged as the sole leaders after a 2.5-1.5 victory over Armenia in round 6. Divya Deshmukh (pictured) secured the win in the only decisive game of the match, helping India maintain their perfect score. Close behind, Georgia and Poland are tied for second place, just one match point behind India. Both teams won their respective matches by the narrowest of margins, with Salome Melia leading Georgia to victory and Oliwia Kiolbasa delivering the key win for Poland. | Photo: FIDE / Maria Emelianova",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
          "pubDate" : "Tue, 17 Sep 2024 00:16:59",
          "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
+      },
+      {
+         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2",
+         "pubDate" : "Tue, 17 Sep 2024 00:00:00",
+         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 2"
       },
       {
          "description" : "",
@@ -218,7 +250,7 @@ news_feed (
          "title" : "US Chess Seeking HOD and Trainers for 2024 International Youth Events"
       },
       {
-         "description" : "<br /><br /><br /><br /><br /> Image Caption<br /> National Chess Day cake in Memphis, TN<br /><br /><br /> <br /><br /> The 2024 National Chess Day falls on Saturday, October 12, which this year is also Yom Kippur, one of the most solemn holidays on the Jewish calendar.<br /><br /> For this reason, the Executive Board has decided to extend our National Chess Day into a National Chess Week, running from October 5-12.<br /><br /> For any event that includes \"National Chess Day\" (or \"National Chess Week\") in the event title and is held October 5-12, US Chess is offering:<br /><br /> One free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, s",
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> National Chess Day cake in Memphis, TN<br /><br /><br /> <br /><br /> The 2024 National Chess Day falls on Saturday, October 12, which this year is also Yom Kippur, one of the most solemn holidays on the Jewish calendar.<br /><br /> For this reason, the Executive Board has decided to extend our National Chess Day into a National Chess Week, running from October 5-12.<br /><br /> For any event that includes \"National Chess Day\" (or \"National Chess Week\") in the event title and is held October 5-12, US Chess is offering:<br /><br /> One free email blast. Make sure that \"Na",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/national-chess-week-be-held-october-5-12-what-know",
@@ -970,14 +1002,6 @@ news_feed (
          "title" : "My Rivalry with Anton Korobov | Prepare Like A Pro - GM Miro"
       },
       {
-         "description" : "IM Polina Shuvalova and four-time World Champion Ju Wenjun are the two finalists of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Shuvalova defeated GM Vaishali Rameshbabu 11.5-9.5 in a close match, while Ju nearly doubled GM Kateryna Lag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-wscc-sf-shuvalova-vaishali-ju-wenjun-lagno",
-         "pubDate" : "Wed, 04 Sep 2024 12:38:00",
-         "title" : "Shuvalova Edges Past Vaishali, Ju Wenjun Dominates Vs. Lagno On Path To Final"
-      },
-      {
          "description" : "On behalf of All India Chess Federation, Rajasthan Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Udaipur from 21 September to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1090,14 +1114,6 @@ news_feed (
          "title" : "Prize purse tweaked for D Gukesh-Ding Liren battle"
       },
       {
-         "description" : "When your tournament game ends there are typically three results: a win, a draw or a loss. It turns out there is a fourth option: split results! <br /><br /> Understanding Split Results <br /><br /> Split results is a tool in a TD's or US Chess committee's toolbox that adjusts an inequitable game result. It upgrades an unjust game result into something fair for both players: a 1-0 game score could be changed into 1-&frac12;, etc. See the cases below for some examples.<br /><br /> Split results can be rated. The TD simply uses special codes when reporting those games to US Chess: N for a Win, R for a Draw and S for a Loss. <br /><br /> Split results are not required to be rated. Rather, it is",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-your-game-split-result",
-         "pubDate" : "Tue, 03 Sep 2024 00:00:00",
-         "title" : "Just The Rules: Your Game is a Split Result?"
-      },
-      {
          "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1200,14 +1216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-firouzja-winning-grand-chess-tour-hikaru-match-more-sinquefieldcup",
          "pubDate" : "Sat, 31 Aug 2024 06:13:32",
          "title" : "EXCLUSIVE! Firouzja on Winning Grand Chess Tour, Hikaru Match, & More! | #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Don&#039;t think your suppose to say that on stream </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-explicit-chess-content-grandchesstour-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/guAkP6ijCOg.jpg?itok=CSFBgmNC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/warning-explicit-chess-content-grandchesstour-chess-chesstalk-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 15:13:09",
-         "title" : "WARNING: Explicit Chess Content #grandchesstour #chess #chesstalk #chesscom"
       },
       {
          "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
