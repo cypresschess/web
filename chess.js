@@ -218,7 +218,7 @@ news_feed (
          "title" : "US Chess Seeking HOD and Trainers for 2024 International Youth Events"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> National Chess Day cake in Memphis, TN<br /><br /><br /> <br /><br /> The 2024 National Chess Day falls on Saturday, October 12, which this year is also Yom Kippur, one of the most solemn holidays on the Jewish calendar.<br /><br /> For this reason, the Executive Board has decided to extend our National Chess Day into a National Chess Week, running from October 5-12.<br /><br /> For any event that includes \"National Chess Day\" (or \"National Chess Week\") in the event title and is held October 5-12, US Chess is offering:<br /><br /> One free email blast. Make sure that \"Na",
+         "description" : "<br /><br /><br /><br /><br /> Image Caption<br /> National Chess Day cake in Memphis, TN<br /><br /><br /> <br /><br /> The 2024 National Chess Day falls on Saturday, October 12, which this year is also Yom Kippur, one of the most solemn holidays on the Jewish calendar.<br /><br /> For this reason, the Executive Board has decided to extend our National Chess Day into a National Chess Week, running from October 5-12.<br /><br /> For any event that includes \"National Chess Day\" (or \"National Chess Week\") in the event title and is held October 5-12, US Chess is offering:<br /><br /> One free email blast. Make sure that \"National Chess Day\" is part of your subject line. On the payment screen, s",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/national-chess-week-be-held-october-5-12-what-know",
@@ -834,7 +834,7 @@ news_feed (
          "title" : "FIDE World Cadet Chess Championships - 2024"
       },
       {
-         "description" : "For the first time ever, GM Hikaru Nakamura will not be playing in the Speed Chess Championship Final. GM Alireza Firouzja is the first player not named Magnus Carlsen to defeat him since the tournament&#39;s inception, and the French number-one won i...",
+         "description" : "Note: During the conclusion of the Carlsen vs. Niemann match, the players experienced browser performance issues. Chess.com Events Commissioner Michael Brancato shared a&#38;nbsp;statement clarifying the issue and resolution. For the first time ever...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-scc-semifinals-nakamura-firouzja-carlsen-niemann",
