@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, Andaman &#38; Nicobar Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Udaipur from 12",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-port-blair-on-12-23-october-2024/",
+         "pubDate" : "Wed, 18 Sep 2024 15:25:27",
+         "title" : "SNA Seminar & Exam in Port Blair on 12 & 13 October 2024"
+      },
+      {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Sabrina Vega Guti&eacute;rrez from Spain (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Wed, 18 Sep 2024 14:50:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "Sacrificing a queen is one of the most rewarding manoeuvres in chess. Such a drastic measure is often connected to a forcing sequence, which either delivers checkmate quickly or allows us to escape with a draw. In the first half of the Chess Olympiad, we saw both cases appear on the board in important matches of the open section. Arjun Erigaisi, who is on fire in Budapest, gave up his queen to checkmate Peter Prohaszka, while Valentin Dragnev (pictured) found a way to force a repetition by giving up his queen in his game against Jan-Krzysztof Duda. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-queen-sacrifices",
          "pubDate" : "Wed, 18 Sep 2024 12:50:00",
          "title" : "Giving up the queen - to deliver checkmate or to save a draw"
+      },
+      {
+         "description" : "The players who participated in the Over the Board National School Age Group Chess Championships 2024 in Patna, Bihar, and finished in the top 50",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/18th-asian-schools-chess-championship-2024-will-be-started-from-1st-to-11th-december-at-bangkok-thailand/",
+         "pubDate" : "Wed, 18 Sep 2024 12:10:28",
+         "title" : "18th Asian Schools Chess Championship 2024 will be started from 1st to 11th December at Bangkok, Thailand"
       },
       {
          "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination held",
@@ -906,14 +930,6 @@ news_feed (
          "title" : "Final Report of 37th National Under-07 and Under 07 Girls Chess Championship2024"
       },
       {
-         "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa, Sri Lanka, concluded on September 5, 2024, with a memorable display of talent across multiple sections,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-wins-107-medals-in-commonwealth-classical-rapid-and-blitz-championship-2024/",
-         "pubDate" : "Fri, 06 Sep 2024 15:18:20",
-         "title" : "India wins 107 Medals in Commonwealth Classical, Rapid and Blitz Championship 2024."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro",
          "pubDate" : "Thu, 05 Sep 2024 06:16:37",
          "title" : "My Rivalry with Anton Korobov | Prepare Like A Pro - GM Miro"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, Rajasthan Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Udaipur from 21 September to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-udaipur-on-21-22-september-2024/",
-         "pubDate" : "Wed, 04 Sep 2024 11:36:46",
-         "title" : "SNA Seminar & Exam in Udaipur on 21 & 22 September 2024"
       },
       {
          "description" : "In the final round of a Dutch tournament (in Waddingxveen 1979) World Champion Anatoly Karpov beat the second-placed GM Vlastimil Hort. But could the world-class Czech grandmaster have prevented this happening? This was the question we asked in our last Riddle. Today we provide you with the answer.",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3190",
          "pubDate" : "Wed, 28 Aug 2024 21:34:40",
          "title" : "UEFA Youth Sports Games conclude in Split, Croatia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3189",
-         "pubDate" : "Wed, 28 Aug 2024 14:03:14",
-         "title" : "Chess Beyond the Board: Exciting side events at 2024 FIDE Chess Olympiad"
       }
    ]
 }
