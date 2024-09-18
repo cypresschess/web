@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "On behalf of All India Chess Federation, Andaman &#38; Nicobar Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Udaipur from 12",
+         "description" : "On behalf of All India Chess Federation, Andaman &#38; Nicobar Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam in Port Blair from",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-exam-in-port-blair-on-12-23-october-2024/",
@@ -34,6 +34,14 @@ news_feed (
          "title" : "18th Asian Schools Chess Championship 2024 will be started from 1st to 11th December at Bangkok, Thailand"
       },
       {
+         "description" : "China, who replaced GM Ding Liren with GM Wei Yi on board one, came agonizingly close to ending India&#39;s winning streak in the 45th FIDE Chess Olympiad, but with a long endgame grind GM Gukesh Dommaraju brought India its seventh win for a perfect 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/view-budapest-2024-fide-chess-olympiad-round-7",
+         "pubDate" : "Wed, 18 Sep 2024 12:09:35",
+         "title" : "Gukesh Grinds Out Spectacular Win, Both Indian Teams On A Perfect 14/14"
+      },
+      {
          "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination held",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3217",
          "pubDate" : "Wed, 18 Sep 2024 09:16:05",
          "title" : "Chess, culture, music, football: Highlights from the Olympiad's free day"
+      },
+      {
+         "description" : "GM Alireza Firouzja and GM Christopher Yoo won the Titled Tuesday events of September 17, both needing tiebreaks even though Firouzja scored 10 points while Yoo scored 9.5 points. GM Jeffery Xiong and GM Jose Martinez, respectively, were the runne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-yoo-win-titled-tuesday-september-17-2024",
+         "pubDate" : "Wed, 18 Sep 2024 08:27:24",
+         "title" : "Ties Rule Day As Firouzja, Yoo Win Titled Tuesday"
       },
       {
          "description" : "",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Trade Pieces Properly! | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about managing your attitude when your position on the board seems hopeless. 2024.09.17<br /> Sara Herman vs. David Kassin, 2022:<br /> Herman vs. Sheena Zeng, 2023: D43 Queen&#039;s Gambit Declined semi-Slav<br /> Herman vs. Richard Shtivelband, 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keep-your-chin-positivity-lost-positions-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blo",
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about managing your attitude when your position on the board seems hopeless. 2024.09.17<br /> Sara Herman vs. David Kassin, 2022: B76 Sicilian, dragon, Yugoslav attack, Rauser variation<br /> Herman vs. Sheena Zeng, 2023: D43 Queen&#039;s Gambit Declined semi-Slav<br /> Herman vs. Richard Shtivelband, 2023: A96 Dutch, classical variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keep-your-chin-positivity-lost-posit",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/keep-your-chin-positivity-lost-positions-road-2000",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/",
          "pubDate" : "Tue, 17 Sep 2024 03:51:24",
          "title" : "2024 Chess Olympiad: Round 5"
-      },
-      {
-         "description" : "Arjun Erigaisi registered his sixth victory in as many games as he continues to be India's standout player this Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
-         "pubDate" : "Tue, 17 Sep 2024 00:16:59",
-         "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
       },
       {
          "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
@@ -970,14 +978,6 @@ news_feed (
          "title" : "First Neuralink Patient Noland Arbaugh: 'Chess Got Me Through Hard Times'"
       },
       {
-         "description" : "The International Chess Federation (FIDE) is moving from its traditional 21-round Swiss format in the 2024 World Blitz Championship in New York, introducing a combined Swiss-and-knockout format. Just a week after FIDE announced a change of sched...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-format-change-world-blitz-chess-championship",
-         "pubDate" : "Fri, 06 Sep 2024 00:47:00",
-         "title" : "FIDE Announces Major Format Change For World Blitz Championship"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bMcxdFGArkY.jpg?itok=WJ9ri33b\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1008,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3198",
          "pubDate" : "Thu, 05 Sep 2024 18:54:49",
          "title" : "Exciting format changes announced for 2024 FIDE World Rapid & Blitz Championships"
-      },
-      {
-         "description" : "French WGM Andreaa Navrotescu achieved a feat that not even GM Magnus Carlsen could achieve before her. She won an event with a perfect 9/9 score. Chess.com regularly covers impressive performances from the chess world, but there are times when ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/navrotescu-wins-with-stunning-9-9-in-london",
-         "pubDate" : "Thu, 05 Sep 2024 12:27:20",
-         "title" : "Navrotescu Achieves Extraordinary 9/9 Perfection In London"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NZqOwpQXIgk.jpg?itok=S3Wgn5xX\" alt=\"\" /></a></div>",
