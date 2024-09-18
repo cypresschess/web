@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is halftime at the Chess Olympiad. On Monday night, the famous Bermuda Party took place. On Tuesday, the players relaxed and recharged their batteries. Time for a little halftime review. | Photos: FIDE / Michal Walusza, Maria Emelianova, Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-halftime-review",
+         "pubDate" : "Wed, 18 Sep 2024 02:45:00",
+         "title" : "Chess Olympiad: A review at halftime"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on how to &quot;properly&quot; trade pieces. 2024.09.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aB_8ASgKptA.jpg?itok=4k0RhlxF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Wed, 18 Sep 2024 00:25:11",
+         "title" : "Trade Pieces Properly! | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about managing your attitude when your position on the board seems hopeless. 2024.09.17<br /> Sara Herman vs. David Kassin, 2022:<br /> Herman vs. Sheena Zeng, 2023: D43 Queen&#039;s Gambit Declined semi-Slav </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keep-your-chin-positivity-lost-positions-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/keep-your-chin-positivity-lost-positions-road-2000",
+         "pubDate" : "Wed, 18 Sep 2024 00:25:11",
+         "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (players below). Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wEtMk4SOGwo.jpg?itok=BlZMpLPx\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1098,14 +1122,6 @@ news_feed (
          "title" : "ECF Book of the Year shortlist"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Enjoy this look back at the 2024 Strategy Across the Board Gala! Proceeds from this annual event support chess education, cultural exhibitions, and public programming at the Saint Louis Chess Club and World Chess Hall of Fame. 2024.08.17<br /> SaintLouisChessClub.org<br /> WorldChessHOF.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-strategy-across-board-gala-look-back\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-strategy-across-board-gala-look-back",
-         "pubDate" : "Tue, 03 Sep 2024 06:15:11",
-         "title" : "2024 Strategy Across the Board Gala: A Look Back"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113009883.cms\" />Chess' governing body FIDE have made some interesting changes in regulations of World Championship match involving challenger D Gukesh of India. But it's unclear if these tweaks are logical. The 14-game classical match between reigning champion Ding Liren of China and Gukesh is scheduled in Singapore from Nov 25 to Dec 13. The tiebreak provisions are also changed slightly.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1208,14 +1224,6 @@ news_feed (
          "link" : "https://www.thearticle.com/who-was-the-greatest-of-them-all/",
          "pubDate" : "Sat, 31 Aug 2024 08:10:52",
          "title" : "Who was the greatest of them all?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour &amp; Sinquefield Cup champion Alireza Firouzja talks to Cristian Chirila after the 2024 Sinquefield Cup. This did not air during the program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-firouzja-winning-grand-chess-tour-hikaru-match-more-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lGbekWCGUKM.jpg?itok=Cx2Cr94V\" alt=\"\" /></a></div",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-firouzja-winning-grand-chess-tour-hikaru-match-more-sinquefieldcup",
-         "pubDate" : "Sat, 31 Aug 2024 06:13:32",
-         "title" : "EXCLUSIVE! Firouzja on Winning Grand Chess Tour, Hikaru Match, & More! | #SinquefieldCup"
       },
       {
          "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
