@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3219",
+         "pubDate" : "Wed, 18 Sep 2024 20:33:26",
+         "title" : "45th Chess Olympiad R07: India continues to shine, winning all matches"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, Andaman &#38; Nicobar Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam in Port Blair from",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -38,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/view-budapest-2024-fide-chess-olympiad-round-7",
-         "pubDate" : "Wed, 18 Sep 2024 12:09:35",
-         "title" : "Gukesh Grinds Out Spectacular Win, Both Indian Teams On A Perfect 14/14"
+         "pubDate" : "Wed, 18 Sep 2024 12:09:00",
+         "title" : "Gukesh Grinds Out Endgame Masterpiece, Both Indian Teams On A Perfect 14/14"
       },
       {
          "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination held",
@@ -96,6 +104,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/keep-your-chin-positivity-lost-positions-road-2000",
          "pubDate" : "Wed, 18 Sep 2024 00:25:11",
          "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
+      },
+      {
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2",
+         "pubDate" : "Wed, 18 Sep 2024 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 2"
+      },
+      {
+         "description" : "Editor's note: This report covers rounds four through six of the 45th FIDE Chess Olympiad. The first three rounds are covered here. At the time of writing, round seven is almost concluded, with both American teams having finished their matches. USA defeated Greece 3 - 1 in the Open and tied Armenia 2 - 2 in the Women's event. This puts each team on 5&frac12;/7 and in a tie for fifth in the Open and sixth for in the Women's. Play resumes tomorrow, Thursday, September 19, at 8:00 a.m. CDT. <br /><br /> USA Women Loses Close Contest to Mongolia, Bounces Back Against Switzerland<br /><br /> Entering the rest day, Team USA sat on a strong 5/6 score in the Women's tournament. The unbeaten streak c",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/americans-remain-striking-distance-halfway-through-2024-fide-olympiad",
+         "pubDate" : "Wed, 18 Sep 2024 00:00:00",
+         "title" : "Americans Remain In Striking Distance Halfway Through 2024 FIDE Olympiad"
       },
       {
          "description" : "At the General Assembly of the International Chess Federation (FIDE), to take place September 21-22 alongside the Chess Olympiad in Budapest, delegates will vote on a controversial proposal by the Kyrgyz Chess Federation to remove current restrict...",
@@ -162,7 +186,15 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 5"
       },
       {
-         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "Arjun Erigaisi registered his sixth victory in as many games as he continues to be India's standout player this Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
+         "pubDate" : "Tue, 17 Sep 2024 00:16:59",
+         "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
+      },
+      {
+         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2",
@@ -1058,22 +1090,6 @@ news_feed (
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
       },
       {
-         "description" : "This week's Workout continues our series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-2",
-         "pubDate" : "Wed, 04 Sep 2024 00:00:00",
-         "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 2"
-      },
-      {
-         "description" : "Editor's Note: On August 24, FEMchess hosted its third California All-Girls Scholastic Championship, breaking its previous record of 62 participants with 89 players participating. FEMChess co-founder WCM Allyson Wong has written this piece to discuss her motivation for and ongoing work in closing the gender gap in chess.<br /><br /> Chess has long been a male-dominated sport, but recent trends show encouraging progress in female participation, particularly among younger age groups. <br /><br /> Improving the overall participation rate of women and girls has also had positive impacts at the top levels. A decade ago, no female player was in US Chess's list of Top 100 Players Under-21 rankings,",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/femchess-third-california-all-girls-scholastic-addresses-gender-gap",
-         "pubDate" : "Wed, 04 Sep 2024 00:00:00",
-         "title" : "FEMchess Third California All-Girls Scholastic Addresses Gender Gap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3191",
          "pubDate" : "Thu, 29 Aug 2024 07:17:37",
          "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3190",
-         "pubDate" : "Wed, 28 Aug 2024 21:34:40",
-         "title" : "UEFA Youth Sports Games conclude in Split, Croatia"
       }
    ]
 }
