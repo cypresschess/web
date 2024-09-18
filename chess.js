@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sacrificing a queen is one of the most rewarding manoeuvres in chess. Such a drastic measure is often connected to a forcing sequence, which either delivers checkmate quickly or allows us to escape with a draw. In the first half of the Chess Olympiad, we saw both cases appear on the board in important matches of the open section. Arjun Erigaisi, who is on fire in Budapest, gave up his queen to checkmate Peter Prohaszka, while Valentin Dragnev (pictured) found a way to force a repetition by giving up his queen in his game against Jan-Krzysztof Duda. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-queen-sacrifices",
+         "pubDate" : "Wed, 18 Sep 2024 12:50:00",
+         "title" : "Giving up the queen - to deliver checkmate or to save a draw"
+      },
+      {
+         "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination held",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-examination-held-at-thoothukudi-on-31st-august-and-1st-september-2024/",
+         "pubDate" : "Wed, 18 Sep 2024 09:58:30",
+         "title" : "Final report of Senior National Arbiter Examination held at Thoothukudi on 31st August and 1st September 2024."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3217",
+         "pubDate" : "Wed, 18 Sep 2024 09:16:05",
+         "title" : "Chess, culture, music, football: Highlights from the Olympiad's free day"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3218",
+         "pubDate" : "Wed, 18 Sep 2024 08:00:33",
+         "title" : "Opera and chess - Lajos Portisch celebrated the 45th Chess Olympiad with an aria evening"
+      },
+      {
          "description" : "It is halftime at the Chess Olympiad. On Monday night, the famous Bermuda Party took place. On Tuesday, the players relaxed and recharged their batteries. Time for a little halftime review. | Photos: FIDE / Michal Walusza, Maria Emelianova, Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-general-assembly-vote-belarus-russia",
-         "pubDate" : "Tue, 17 Sep 2024 23:34:52",
+         "pubDate" : "Tue, 17 Sep 2024 23:34:00",
          "title" : "Chess World Awaits Controversial Vote At FIDE General Assembly To Reinstaste Russia, Belarus"
       },
       {
@@ -58,28 +90,12 @@ news_feed (
          "title" : "TechM Global Chess League 2024 - Games and Results"
       },
       {
-         "description" : "At the halfway mark of the Chess Olympiad, India, the second seeds in the open section, have emerged as the sole leaders, with 6 wins from 6 matches. Not only have they maintained a perfect match record, but they are also the only team to remain undefeated in both individual and team performances across either section of the tournament. Arjun Erigaisi has been the star performer for the Indian team, winning all 6 of his games, including a round-6 victory over Hungary's Sanan Sjugirov. Meanwhile, former co-leaders China and Vietnam drew their match, with Vietnam's Le Quang Liem defeating world champion Ding Liren on the top board. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r6-open",
-         "pubDate" : "Tue, 17 Sep 2024 15:00:00",
-         "title" : "Budapest R6 (open): India sole leaders, as Arjun keeps on winning!"
-      },
-      {
-         "description" : "Few female players in chess history were able to win a round-robin classical event ahead of male grandmasters. WGM Meruert Kamalidenova has now joined that elite group. The 19-year-old scored a stunning victory in a closed 10-player GM tournamen...",
+         "description" : "Few female players in chess history were able to win a round-robin classical event ahead of male grandmasters. IM Meruert Kamalidenova has now joined that elite group. The 19-year-old scored a stunning victory in the Karaganda Akim Cup, a closed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/meruert-kamalidenova-sensationally-wins-event-with-male-players-scores-gm-norm",
          "pubDate" : "Tue, 17 Sep 2024 12:36:00",
          "title" : "Meruert Kamalidenova Triumphs Over 7 GMs, Secures Grandmaster Norm"
-      },
-      {
-         "description" : "Heading into the rest day of the Women's Chess Olympiad, India emerged as the sole leaders after a 2.5-1.5 victory over Armenia in round 6. Divya Deshmukh (pictured) secured the win in the only decisive game of the match, helping India maintain their perfect score. Close behind, Georgia and Poland are tied for second place, just one match point behind India. Both teams won their respective matches by the narrowest of margins, with Salome Melia leading Georgia to victory and Oliwia Kiolbasa delivering the key win for Poland. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r6-women",
-         "pubDate" : "Tue, 17 Sep 2024 11:25:00",
-         "title" : "Budapest R6 (women): India beat Armenia to become sole leaders"
       },
       {
          "description" : "Six rounds have been played at the 45th Chess Olympiad in Budapest, Hungary, and India emerged as the sole leader of both sections scoring perfect 12/12 match points. Indian team in the Open section scored a convincing 3-1 win over Hungary yesterday, to head into today's free day as the sole leader of the event. Vietnam, China, and Iran are following with the score of 11 match points, while as many as 10 teams score 10 match points. Taking a []",
@@ -114,7 +130,7 @@ news_feed (
          "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
       },
       {
-         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2",
@@ -170,28 +186,12 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 4"
       },
       {
-         "description" : "Round 5 of the Chess Olympiad saw four teams scoring wins on the top boards to end the day tied for the lead with a 10/10 match points, including pre-tournament favourites India, China, and Hungary. The surprise co-leader is Vietnam, the only team outside the top-10 seeds to keep pace with the elite. Among the standout individual performances, India's Dommaraju Gukesh and Arjun Erigaisi continue to shine, each maintaining a perfect score so far. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r5-open",
-         "pubDate" : "Mon, 16 Sep 2024 12:55:00",
-         "title" : "Budapest R5 (open): India, China, Hungary and Vietnam still perfect"
-      },
-      {
          "description" : "GM Arjun Erigaisi and India go into the rest day of the 45th FIDE Chess Olympiad on perfect scores after Arjun&#39;s round-six win over GM Sanan Sjugirov helped India to a 3-1 victory over Hungary. That meant the sole lead as China only drew with Viet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-6",
          "pubDate" : "Mon, 16 Sep 2024 12:50:00",
          "title" : "Indian Teams Sole Leaders After Ding Defeat Costs China"
-      },
-      {
-         "description" : "Saturday's fifth round at the Women's Chess Olympiad saw three teams emerge as co-leaders with perfect 10/10 match points, with top seeds India joined by Armenia and Mongolia after stunning upset victories. Armenia overcame what had been a highly dominant Chinese team, while Mongolia (pictured) shocked the United States. Both underdog teams continue to impress as the tournament progresses. Meanwhile, Georgia and Poland remain just 1 point behind the leaders. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r5-women",
-         "pubDate" : "Mon, 16 Sep 2024 11:20:00",
-         "title" : "Budapest R5 (women): Mongolia beat the US, Armenia stop China"
       },
       {
          "description" : "Kindly find the live games link for the 53rd National Junior (Under - 19) &#38; 38th National Junior (Under - 19) Girls Chess Championships 2024 scheduled at Shamiana The",
@@ -306,14 +306,6 @@ news_feed (
          "title" : "Paranoid, Is Black Cheating?! #chesstactics #chesscheating #chess #lichess"
       },
       {
-         "description" : "This year saw the rise of India in the chess world, with no fewer than three prodigies taking their places in the pantheon of the Top 10. Oddly, of the three, the one with the least fanfare is also the highest rated: Arjun Erigaisi, knocking on the door of 2800 no less. In rounds 3 and 4 of the Olympiad, he displayed some scintillating chess. You don't want to miss this! | Photo (edited): FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-does-not-play-milkmaid-chess",
-         "pubDate" : "Sun, 15 Sep 2024 21:15:00",
-         "title" : "Arjun Erigaisi does not play milkmaid chess!"
-      },
-      {
          "description" : "Please find here certificates Rank Name 1 Karthik Venkataraman 2 Ganguly Surya Shekhar 3 Neelash Saha 4 Ghosh Diptayan 5 Aronyak Ghosh 6 Gusain Himal",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -344,14 +336,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41265807/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-indian-chess-news-day-4-report?device=featurephone",
          "pubDate" : "Sat, 14 Sep 2024 23:40:47",
          "title" : "Chess Olympiad 2024: Arjun Erigaisi leads India past Serbia, Harika back to winning ways"
-      },
-      {
-         "description" : "While the entire world at large has been caught up with the Russian invasion of Ukraine, some affected more obviously than others, one of the consequences for athletes specifically was the International Olympic Committee's ban of Russian athletes from any event under its auspices. This in turn led to the similar ban in FIDE, a ban Russia plans to try to overturn on September 22. (Image: Albert Silver/Flux Pro)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russia-making-a-bid-to-overturn-fide-ban-in-chess",
-         "pubDate" : "Sat, 14 Sep 2024 21:30:00",
-         "title" : "Russia making a bid to overturn FIDE ban in chess"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Arjun at it again with complex chess puzzles on Lichess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-line-arjun-explains-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_othIvRi2k4.jpg?itok=sk934_UO\" alt=\"\" /></a></div>",
@@ -1058,14 +1042,6 @@ news_feed (
          "title" : "BCET Awards 2024"
       },
       {
-         "description" : "The Commonwealth Chess Championship 2024, held at Citrus Waskaduwa in Sri Lanka, has proven to be a thrilling and competitive event, showcasing a variety of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2024-2/",
-         "pubDate" : "Wed, 04 Sep 2024 07:14:57",
-         "title" : " Commonwealth Chess Championship 2024"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113054334.cms\" />Vidit Gujrathi, a Grandmaster from Nashik, will compete for Mumba Masters in the Global Chess League's second season. Initially seeking stability through sports, he became one of India's top chess players. He surpassed the 2700 Elo rating mark and participated in this year's Candidates Tournament but aims to enhance his performance further.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1210,6 +1186,14 @@ news_feed (
          "title" : "Brewington Hardaway earns final GM norm!"
       },
       {
+         "description" : "And I mean that in the kindest way, like 'Ugly Christmas Sweater'. English speaking visitors to this blog might be surprised to know that the famous sweaters are known and sought after internationally. Will chess jackets also catch on? <P> This latest post for <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), features an item titled, 'Kidsuper Chess Not Checkers Corduroy Blazer - Size Large - Brown - NEW'. It sold for US$ 335.00, 'Buy It Now'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oi01.jpg\" WIDTH=400 HEIGHT=400> <P> The description said, <BLOCKQUOTE> <DL> <DT>Condition:</DT> <DD>N",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/09/ugly-chess-jacket.html",
+         "pubDate" : "Sun, 01 Sep 2024 15:32:00",
+         "title" : "Ugly Chess Jacket"
+      },
+      {
          "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1272,22 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3189",
          "pubDate" : "Wed, 28 Aug 2024 14:03:14",
          "title" : "Chess Beyond the Board: Exciting side events at 2024 FIDE Chess Olympiad"
-      },
-      {
-         "description" : "Four world-class grandmasters met in a Dutch town for a double round-robin tournament. It was dominated by World Champion Anatoly Karpov, who went into the final round with a 1&frac12;-point lead and faced the second-placed GM Vlastimil Hort. Karpov won the game - but could Hort have prevented this happening? That's an interesting riddle we want to solve. Can you help us?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-riddle-karpov-hort-1979",
-         "pubDate" : "Wed, 28 Aug 2024 09:30:00",
-         "title" : "New Riddle: Karpov-Hort 1979"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112861324.cms\" />India's Grandmasters D Gukesh and R Praggnanadhaa played out their eighth draw in as many games at the Sinquefield Cup, which is a part of the Grand Chess Tour. While World Championship challenger Gukesh signed peace with Anish Giri of Holland in just 23 moves, Praggnanadhaa too followed suit and drew with local favourite Fabiano Caruana in 28 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-gukesh-draws-with-giri-praggnanandhaa-holds-caruana/articleshow/112861324.cms",
-         "pubDate" : "Wed, 28 Aug 2024 08:37:07",
-         "title" : "Sinquefield Cup: Gukesh draws with Giri"
       }
    ]
 }
