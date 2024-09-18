@@ -10,7 +10,7 @@ news_feed (
          "title" : "Chess Olympiad: A review at halftime"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on how to &quot;properly&quot; trade pieces. 2024.09.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aB_8ASgKptA.jpg?itok=4k0RhlxF\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on how to \"properly\" trade pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aB_8ASgKptA.jpg?itok=4k0RhlxF\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk",
@@ -18,12 +18,20 @@ news_feed (
          "title" : "Trade Pieces Properly! | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about managing your attitude when your position on the board seems hopeless. 2024.09.17<br /> Sara Herman vs. David Kassin, 2022:<br /> Herman vs. Sheena Zeng, 2023: D43 Queen&#039;s Gambit Declined semi-Slav </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keep-your-chin-positivity-lost-positions-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_",
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about managing your attitude when your position on the board seems hopeless. 2024.09.17<br /> Sara Herman vs. David Kassin, 2022:<br /> Herman vs. Sheena Zeng, 2023: D43 Queen&#039;s Gambit Declined semi-Slav<br /> Herman vs. Richard Shtivelband, 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keep-your-chin-positivity-lost-positions-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blo",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/keep-your-chin-positivity-lost-positions-road-2000",
          "pubDate" : "Wed, 18 Sep 2024 00:25:11",
          "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
+      },
+      {
+         "description" : "At the General Assembly of the International Chess Federation (FIDE), to take place September 21-22 alongside the Chess Olympiad in Budapest, delegates will vote on a controversial proposal by the Kyrgyz Chess Federation to remove current restrict...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-general-assembly-vote-belarus-russia",
+         "pubDate" : "Tue, 17 Sep 2024 23:34:52",
+         "title" : "Chess World Awaits Controversial Vote At FIDE General Assembly To Reinstaste Russia, Belarus"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (players below). Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wEtMk4SOGwo.jpg?itok=BlZMpLPx\" alt=\"\" /></a></div>",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
       },
       {
-         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2",
@@ -1010,14 +1018,6 @@ news_feed (
          "title" : "Navrotescu Achieves Extraordinary 9/9 Perfection In London"
       },
       {
-         "description" : "Four-time Women&#39;s World Champion Ju Wenjun won the 2024 Julius Baer Women&#39;s Speed Chess Championship after defeating IM Polina Shuvalova in the Final. The match score was 12.5-9.5, and Ju won every one of the three segments by a point. The Chine...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-wscc-final-ju-wenjun-wins",
-         "pubDate" : "Thu, 05 Sep 2024 08:29:00",
-         "title" : "Ju Wenjun Wins 2024 Women's SCC Title, Excels In All Speed Chess Formats"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NZqOwpQXIgk.jpg?itok=S3Wgn5xX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1288,14 +1288,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-gukesh-draws-with-giri-praggnanandhaa-holds-caruana/articleshow/112861324.cms",
          "pubDate" : "Wed, 28 Aug 2024 08:37:07",
          "title" : "Sinquefield Cup: Gukesh draws with Giri"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3188",
-         "pubDate" : "Wed, 28 Aug 2024 07:18:32",
-         "title" : "Karthik Venkataraman wins 61st India Championship"
       }
    ]
 }
