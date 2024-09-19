@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113473615.cms\" />India's men's and women's chess teams kept their unbeaten records intact at the 45th Chess Olympiad. D Gukesh clinched a key victory over China's Wei Yi, while Vaishali Rameshbabu and Vantika Agarwal ensured wins for the women's team against Georgia. Both Indian teams now top the standings with 14 points after seven rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-men-and-women-teams-continue-winning-run-to-stay-on-top/articleshow/113473615.cms",
+         "pubDate" : "Thu, 19 Sep 2024 01:37:26",
+         "title" : "Olympiad: India's men & women teams win to stay on top"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -47,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/view-budapest-2024-fide-chess-olympiad-round-7",
          "pubDate" : "Wed, 18 Sep 2024 12:09:00",
-         "title" : "Gukesh Grinds Out Endgame Masterpiece, Both Indian Teams On A Perfect 14/14"
+         "title" : "Gukesh Grinds Out Endgame Masterpiece, Both Indian Teams On Perfect 14/14"
       },
       {
          "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination held",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2",
