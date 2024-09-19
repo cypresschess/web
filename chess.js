@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Under 07 Girls Rank Name 1 Aaranya R 2 Arpitangshi Bhattacharya 3 Saiaastha Singh 4 Arisapu Vedhaanshi 5 Darshvi Rai 6 Arshitha S 7",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-under-07-chess-championship-2024-in-mysuru-karnataka/",
+         "pubDate" : "Thu, 19 Sep 2024 17:45:53",
+         "title" : "Certificate of National Under 07 Chess Championship 2024 in Mysuru ,Karnataka."
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Valery Kazakouski from Lithuania (FIDE / Maria Emelianova) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
          "pubDate" : "Thu, 19 Sep 2024 14:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "After defeating Iran 3.5-0.5, India continue to lead the 45th FIDE Chess Olympiad with a perfect 16/16 points. Of 32 games played, India hasn&#39;t lost a single one. GM Benjamin Gledura won a close match for Hungary 2.5-1.5 against Armenia after defe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-8",
+         "pubDate" : "Thu, 19 Sep 2024 12:20:57",
+         "title" : "Gukesh, Arjun, Vidit Lead Indian Men To 16/16; Polish Women Defeat India"
       },
       {
          "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2",
@@ -970,28 +986,12 @@ news_feed (
          "title" : "FIDE World Cadet Chess Championships - 2024"
       },
       {
-         "description" : "Note: During the conclusion of the Carlsen vs. Niemann match, the players experienced browser performance issues. Chess.com Events Commissioner Michael Brancato shared a&#38;nbsp;statement clarifying the issue and resolution. For the first time ever...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-scc-semifinals-nakamura-firouzja-carlsen-niemann",
-         "pubDate" : "Fri, 06 Sep 2024 16:25:00",
-         "title" : "Carlsen Takes 10-Point Lead Before Beating Niemann, Firouzja On Fire Vs. Nakamura"
-      },
-      {
          "description" : " Today, one of the most anticipated events will take place in Paris, France, with Magnus Carlsen facing nemesis Hans Niemann. The two will be battling in a semifinal match in chess.com Speed Chess Championship. Hikaru Nakamura will play Alireza Firouzja in the other match. The buzz centers around the 2022 controversy created when Carlsen accused The post <a href=\"https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/\">Carlsen-Niemann good for chess?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/",
          "pubDate" : "Fri, 06 Sep 2024 15:32:49",
          "title" : "Carlsen-Niemann&hellip; good for chess?"
-      },
-      {
-         "description" : "The 37th National Under-07 and Girls Chess Championship 2024 concluded with a grand closing ceremony in Mysuru, celebrating a vibrant and competitive event. A total",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-37th-national-under-07-and-under-07-girls-chess-championship2024/",
-         "pubDate" : "Fri, 06 Sep 2024 15:25:53",
-         "title" : "Final Report of 37th National Under-07 and Under 07 Girls Chess Championship2024"
       },
       {
          "description" : "",
