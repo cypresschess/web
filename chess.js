@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3222",
+         "pubDate" : "Thu, 19 Sep 2024 21:54:26",
+         "title" : "45th Chess Olympiad R08: India dominates open section, faces setback in women's"
+      },
+      {
          "description" : "National Under 07 Girls Rank Name 1 Aaranya R 2 Arpitangshi Bhattacharya 3 Saiaastha Singh 4 Arisapu Vedhaanshi 5 Darshvi Rai 6 Arshitha S 7",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-8",
-         "pubDate" : "Thu, 19 Sep 2024 12:20:57",
+         "pubDate" : "Thu, 19 Sep 2024 12:20:00",
          "title" : "Gukesh, Arjun, Vidit Lead Indian Men To 16/16; Polish Women Defeat India"
       },
       {
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-men-and-women-teams-continue-winning-run-to-stay-on-top/articleshow/113473615.cms",
          "pubDate" : "Thu, 19 Sep 2024 01:37:26",
          "title" : "Olympiad: India's men & women teams win to stay on top"
+      },
+      {
+         "description" : "US Chess is pleased to announce the 2024-2025 Title I Travel Grant Fund. This program financially supports eligible Affiliates serving Title I Schools to attend US Chess-run National Scholastic Events! Requests for both full and partial support applications will be considered. <br /><br /> This program is part of US Chess's commitment to improving access among underrepresented communities and reducing financial barriers to participation in national events. <br /><br /> APPLY TODAY<br /><br /> Eligibility<br /><br /> The following criteria are mandatory for eligibility:<br /><br /> Applicant must be a current US Chess Affiliate <br /> \tAffiliate must be a 501(c)(3) or a public school<br /> \tA",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-opens-2024-2025-title-i-travel-grant-national-tournaments",
+         "pubDate" : "Thu, 19 Sep 2024 00:00:00",
+         "title" : "US Chess Opens 2024-2025 Title I Travel Grant for National Tournaments"
       },
       {
          "description" : "",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/two-norms-earned-over-labor-day-nyc-norms-event",
          "pubDate" : "Fri, 06 Sep 2024 00:00:00",
          "title" : "Two Norms Earned Over Labor Day NYC Norms Event"
-      },
-      {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> US Chess is pleased to launch a program to support Affiliates who bring chess to students attending Title I schools for the 2024-2025 school year. This program is made possible by generous donors who are committed to helping us bring chess to underserved students. <br /><br /> We believe that chess is transformative for children by improving their focus, aiding in decision making, and teaching that choices have consequences - lifelong skills that can be immediately applied in the classroom. We are seeking partnerships with US Chess Affiliates that offer chess programs to Title I schools, either a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-opens-2024-2025-title-i-school-outreach-program-affiliates-serving-risk-youth",
-         "pubDate" : "Fri, 06 Sep 2024 00:00:00",
-         "title" : "US Chess Opens 2024-2025 Title I School Outreach Program for Affiliates Serving At-Risk Youth "
       },
       {
          "description" : "",
