@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Valery Kazakouski from Lithuania (FIDE / Maria Emelianova) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Thu, 19 Sep 2024 14:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
          "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-port-blair-on-12-23-october-2024/",
          "pubDate" : "Wed, 18 Sep 2024 15:25:27",
          "title" : "SNA Seminar & Exam in Port Blair on 12 & 13 October 2024"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Sabrina Vega Guti&eacute;rrez from Spain (FIDE / Michal Walusza) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Wed, 18 Sep 2024 14:50:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "Sacrificing a queen is one of the most rewarding manoeuvres in chess. Such a drastic measure is often connected to a forcing sequence, which either delivers checkmate quickly or allows us to escape with a draw. In the first half of the Chess Olympiad, we saw both cases appear on the board in important matches of the open section. Arjun Erigaisi, who is on fire in Budapest, gave up his queen to checkmate Peter Prohaszka, while Valentin Dragnev (pictured) found a way to force a repetition by giving up his queen in his game against Jan-Krzysztof Duda. | Photo: FIDE / Michal Walusza",
@@ -130,7 +130,7 @@ news_feed (
          "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2",
@@ -1256,14 +1256,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5",
          "pubDate" : "Fri, 30 Aug 2024 07:00:03",
          "title" : "Chess: Alireza Firouzja wins Sinquefield Cup unbeaten and jumps to world No 5"
-      },
-      {
-         "description" : "Just like last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/07/missing-yahoos.html\">Missing Yahoos</A> (July 2024; see the footnote for an explanation of Yahoos), this month had 99 stories returned by Google News. Of those, 25 were old stories from previous months, compared to 10 old stories returned for the July post. Is Google struggling to find chess stories? <P> The most frequent topic was the Sinquefield Cup with 11 stories. For example, the last story was:- <UL> <LI> 2024-08-29: <A HREF=\"https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins\">Undefeated Firouzja Wins Sinquefield Cup And $100k Prize</A> (chess.com; JackRodgers) &#149; 'GM A",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/08/dna-yahoos.html",
-         "pubDate" : "Thu, 29 Aug 2024 15:23:00",
-         "title" : "DNA Yahoos"
       }
    ]
 }
