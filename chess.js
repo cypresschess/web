@@ -1026,14 +1026,6 @@ news_feed (
          "title" : "Rising stars and \"veterans\": 2024 Women's Chess Olympiad preview"
       },
       {
-         "description" : "Eight years after a freak accident left him paralyzed, Noland Arbaugh is not only playing chess with the help of a chip in his brain but he&#39;s also invited by Chess.com to attend the Speed Chess Championship Finals in Paris and meet the world&#39;s che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/first-neuralink-patient-noland-arbaugh-chess-got-me-through-hard-times",
-         "pubDate" : "Fri, 06 Sep 2024 03:10:00",
-         "title" : "First Neuralink Patient Noland Arbaugh: 'Chess Got Me Through Hard Times'"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bMcxdFGArkY.jpg?itok=WJ9ri33b\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
