@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-board-statement/",
+         "pubDate" : "Thu, 19 Sep 2024 07:22:09",
+         "title" : "ECU Board statement"
+      },
+      {
+         "description" : "India, the top seeds at the Women's Chess Olympiad, extended their lead after defeating second-seeded Georgia 3-1 in Wednesday's round 7. This victory gives India a commanding 2-point lead over Poland, Kazakhstan, and France. Poland, the third seeds, were held to a 2-2 draw by Ukraine, while Kazakhstan and France secured crucial victories over Azerbaijan and Spain, respectively. In the next round, India will face Poland in a high-stakes clash. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r7-women",
+         "pubDate" : "Thu, 19 Sep 2024 07:10:00",
+         "title" : "Budapest R7 (women): India beat Georgia convincingly, get 2-point lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113473615.cms\" />India's men's and women's chess teams kept their unbeaten records intact at the 45th Chess Olympiad. D Gukesh clinched a key victory over China's Wei Yi, while Vaishali Rameshbabu and Vantika Agarwal ensured wins for the women's team against Georgia. Both Indian teams now top the standings with 14 points after seven rounds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1256,14 +1272,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/08/dna-yahoos.html",
          "pubDate" : "Thu, 29 Aug 2024 15:23:00",
          "title" : "DNA Yahoos"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3191",
-         "pubDate" : "Thu, 29 Aug 2024 07:17:37",
-         "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
       }
    ]
 }
