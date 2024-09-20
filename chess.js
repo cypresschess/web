@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India suffered their first match defeat in either section of the Olympiad in Thursday's eighth round, as the women's squad was beaten by Poland, the third seeds in the event. Wins by Alina Kashlinskaya (pictured) and Monika Socko allowed the Polish team to catch up with India in the standings. They are now tied for first place with Kazakhstan, who edged out France by a 2&frac12;-1&frac12; score. Three teams - Ukraine, United States, and Armenia - are just 1 match point behind the leading trio as the competition heats up with only three rounds to go. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r8-women",
+         "pubDate" : "Fri, 20 Sep 2024 10:15:00",
+         "title" : "Budapest R8 (women): Three co-leaders as Poland beat India"
+      },
+      {
          "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a ­dominance reminiscent of the ­legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team ­Olympiad in Budapest, and a 3.5â€‘0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "Chess Olympiad: Indian men's team takes another step towards gold"
       },
       {
-         "description" : "The men's team's statement victory propelled Arjun Erigaisi and D Gukesh's rating close to the mark of 2800 and this is the first time ever that there are two Indians in top five of the world rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41335789/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-8-report?device=featurephone",
-         "pubDate" : "Thu, 19 Sep 2024 23:56:26",
-         "title" : "Chess Olympiad 2024: Arjun, Gukesh close in on 2800 points after India men's big win; women's team suffers first loss"
+         "description" : "GM Magnus Carlsen made headlines for a short but powerful speech while accepting the FIDE award for Greatest Of All Time (G.O.A.T). Carlsen used the moment to express humility and send a strong message against reinstating the Russian and Belarusia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-accepts-goat-award-urges-fide-to-reject-proposal-on-russia-belarus",
+         "pubDate" : "Fri, 20 Sep 2024 00:46:00",
+         "title" : "Carlsen Accepts G.O.A.T. Award, Urges FIDE To Uphold Restrictions On Russia, Belarus"
       },
       {
          "description" : "",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "45th Chess Olympiad R08: India dominates open section, faces setback in women's"
       },
       {
-         "description" : "IMs Eric Rosen and Nhat Minh To were the highest ranked players to qualify for the Finals of the Chess.com Duck Chess Championship 2024. Six more Duck Chess mavens will join them in the knockout, including Kapik1337, the reigning number one in Duc...",
+         "description" : "IMs Eric Rosen and Nhat Minh To were the highest-ranked players to qualify for the Finals of the Chess.com Duck Chess Championship 2024. Six more Duck Chess mavens will join them in the knockout, including Kapik1337, the reigning number-one in the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-qualifiers",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-board-statement/",
          "pubDate" : "Thu, 19 Sep 2024 07:22:09",
          "title" : "ECU Board statement"
-      },
-      {
-         "description" : "India, the top seeds at the Women's Chess Olympiad, extended their lead after defeating second-seeded Georgia 3-1 in Wednesday's round 7. This victory gives India a commanding 2-point lead over Poland, Kazakhstan, and France. Poland, the third seeds, were held to a 2-2 draw by Ukraine, while Kazakhstan and France secured crucial victories over Azerbaijan and Spain, respectively. In the next round, India will face Poland in a high-stakes clash. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r7-women",
-         "pubDate" : "Thu, 19 Sep 2024 07:10:00",
-         "title" : "Budapest R7 (women): India beat Georgia convincingly, get 2-point lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113473615.cms\" />India's men's and women's chess teams kept their unbeaten records intact at the 45th Chess Olympiad. D Gukesh clinched a key victory over China's Wei Yi, while Vaishali Rameshbabu and Vantika Agarwal ensured wins for the women's team against Georgia. Both Indian teams now top the standings with 14 points after seven rounds.",
@@ -120,14 +120,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-port-blair-on-12-23-october-2024/",
          "pubDate" : "Wed, 18 Sep 2024 15:25:27",
          "title" : "SNA Seminar & Exam in Port Blair on 12 & 13 October 2024"
-      },
-      {
-         "description" : "Sacrificing a queen is one of the most rewarding manoeuvres in chess. Such a drastic measure is often connected to a forcing sequence, which either delivers checkmate quickly or allows us to escape with a draw. In the first half of the Chess Olympiad, we saw both cases appear on the board in important matches of the open section. Arjun Erigaisi, who is on fire in Budapest, gave up his queen to checkmate Peter Prohaszka, while Valentin Dragnev (pictured) found a way to force a repetition by giving up his queen in his game against Jan-Krzysztof Duda. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-queen-sacrifices",
-         "pubDate" : "Wed, 18 Sep 2024 12:50:00",
-         "title" : "Giving up the queen - to deliver checkmate or to save a draw"
       },
       {
          "description" : "The players who participated in the Over the Board National School Age Group Chess Championships 2024 in Patna, Bihar, and finished in the top 50",
@@ -176,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3218",
          "pubDate" : "Wed, 18 Sep 2024 08:00:33",
          "title" : "Opera and chess - Lajos Portisch celebrated the 45th Chess Olympiad with an aria evening"
-      },
-      {
-         "description" : "It is halftime at the Chess Olympiad. On Monday night, the famous Bermuda Party took place. On Tuesday, the players relaxed and recharged their batteries. Time for a little halftime review. | Photos: FIDE / Michal Walusza, Maria Emelianova, Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-halftime-review",
-         "pubDate" : "Wed, 18 Sep 2024 02:45:00",
-         "title" : "Chess Olympiad: A review at halftime"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on how to \"properly\" trade pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aB_8ASgKptA.jpg?itok=4k0RhlxF\" alt=\"\" /></a></div>",
@@ -970,14 +954,6 @@ news_feed (
          "title" : "45th Chess Olympiad starts in Budapest, Hungary"
       },
       {
-         "description" : "GM Andrew Tang achieved his third Bullet Brawl victory of the year on Saturday. He started and ended the tournament with winning streaks, ultimately scoring 68 wins and 241 points.&#38;nbsp; With a 24-game winning run, GM Oleksandr Bortnyk was close...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-september-7-2024",
-         "pubDate" : "Sat, 07 Sep 2024 16:35:00",
-         "title" : "Tang Clinches 3rd Bullet Brawl"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1152,6 +1128,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3196",
          "pubDate" : "Wed, 04 Sep 2024 06:10:04",
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
+      },
+      {
+         "description" : "This month's 'On the Cover' features two unique, historical chess events in the USA. Fifty years ago, four up and coming American players received the IM title at the 1974 FIDE Congress. Twenty-five years ago, a controversial World Championship tournament was held at Las Vegas, aka 'Sin City'. For last month's 'On the Cover', see <A HREF=\"https://chessforallages.blogspot.com/2024/08/august-1974-1999-on-cover.html\">August 1974 & 1999 'On the Cover'</A> (August 2024). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oi03.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> 'Mednis/Soltis/Rogoff/Tarjan'<BR> <B>Right:</B> 'FIDE World Championship; Caesar's hosts the BEST!' <P> <B><I>Chess L",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/09/september-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 03 Sep 2024 15:01:00",
+         "title" : "September 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "",
