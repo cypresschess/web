@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a ­dominance reminiscent of the ­legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team ­Olympiad in Budapest, and a 3.5â€‘0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/sep/20/chess-india-win-every-match-at-olympiad-as-us-and-england-trail",
+         "pubDate" : "Fri, 20 Sep 2024 07:00:06",
+         "title" : "Chess: India win every match at Olympiad as US and England trail"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113507708.cms\" />India continued its dominance at the 45th Chess Olympiad with a convincing win over Iran in the Open section. Arjun Erigaisi, D Gukesh, and Vidit Gujrathi secured victories while R Praggnanandhaa settled for a draw. With this result, India maintains a perfect score of 16 points, reinforcing their pursuit of the gold medal.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-mens-team-takes-another-step-towards-gold/articleshow/113507708.cms",
          "pubDate" : "Fri, 20 Sep 2024 02:49:53",
          "title" : "Chess Olympiad: Indian men's team takes another step towards gold"
+      },
+      {
+         "description" : "The men's team's statement victory propelled Arjun Erigaisi and D Gukesh's rating close to the mark of 2800 and this is the first time ever that there are two Indians in top five of the world rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41335789/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-8-report?device=featurephone",
+         "pubDate" : "Thu, 19 Sep 2024 23:56:26",
+         "title" : "Chess Olympiad 2024: Arjun, Gukesh close in on 2800 points after India men's big win; women's team suffers first loss"
       },
       {
          "description" : "",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
          "pubDate" : "Fri, 30 Aug 2024 14:56:00",
          "title" : "11th Sinquefield Cup 2024 - Games and Results"
-      },
-      {
-         "description" : " The Iran-born Frenchman, 21, scored 6/9 to win in St Louis, half a point clear of the US champion and world No 3, Fabiano Caruana Alireza Firouzja, the Iran-born Frenchman, is a rekindled talent after the 21-year-old triumphed unbeaten in this week's $350,000 Sinquefield Cup at St Louis. Firouzja totalled 6/9, half a point ahead of the US champion and world No 3, Fabiano Caruana. The world champion, Ding Liren, drew his first six games and lost two of his final three and finished next to last on 3.5/9. <a href=\"https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5",
-         "pubDate" : "Fri, 30 Aug 2024 07:00:03",
-         "title" : "Chess: Alireza Firouzja wins Sinquefield Cup unbeaten and jumps to world No 5"
       }
    ]
 }
