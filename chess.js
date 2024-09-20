@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3224",
+         "pubDate" : "Fri, 20 Sep 2024 21:39:41",
+         "title" : "45th Chess Olympiad: USA sets up clash with India; Kazakhstan grabs the lead in women's event"
+      },
+      {
          "description" : "The UK Open Blitz Championships 2024 will follow the format used in previous years' events with eight regional one-day qualifier events over three weekends from 21st September to 6th October....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-qualifiers-starting-on-saturday-21st-sept/",
          "pubDate" : "Fri, 20 Sep 2024 19:07:18",
          "title" : "UK Open Blitz Qualifiers starting on Saturday 21st Sept!"
+      },
+      {
+         "description" : "IM&#38;nbsp;Nhat Minh To&#38;nbsp;won every match in the Chess.com Duck Chess Championship 2024, defeating IM Eric Rosen in the Grand Final to clinch the title.&#38;nbsp; After losing to the eventual winner in the Semifinals, Rosen fought his way through th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-knockout-minh-to-wins",
+         "pubDate" : "Fri, 20 Sep 2024 16:16:49",
+         "title" : "Minh To Prevails In Duck Chess Championship"
+      },
+      {
+         "description" : "Two days before the General Assembly of the International Chess Federation (FIDE) prepares for a possibly pivotal vote to decide whether to lift sanctions on the Russian and Belarusian chess federations, the U.S. State Department has issued a stat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/u-s-state-department-calls-on-fide-to-maintain-russia-sanctions",
+         "pubDate" : "Fri, 20 Sep 2024 15:00:00",
+         "title" : "U.S State Department Calls On FIDE To Maintain Russia Sanctions As Vote Looms"
       },
       {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Bodhana Sivanandan from England (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -30,8 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-9",
-         "pubDate" : "Fri, 20 Sep 2024 12:23:27",
-         "title" : "Uzbekistan Men Draw India, Kazakhstan Take Women's Lead"
+         "pubDate" : "Fri, 20 Sep 2024 12:23:00",
+         "title" : "Uzbekistan Men Draw Vs. India, Kazakhstan Take Women's Lead"
       },
       {
          "description" : "A Senior National Arbiter (SNA) Seminar, followed by an examination to award the SNA title, was organized by Bloom Chess Academy on behalf of the",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Carlsen Accepts G.O.A.T. Award, Urges FIDE To Uphold Restrictions On Russia, Belarus"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed t",
+         "description" : "<br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed to inactive until the course is completed.<br /><br /> Please note that y",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/information-regarding-required-annual-safesport-refresher-course",
@@ -906,28 +930,12 @@ news_feed (
          "title" : "ECF AGM - nominations update"
       },
       {
-         "description" : "We all know rubber ducks. They make your bath time more whimsical and magical. But on the chessboard, they bring nothing but chaos and madness. So you better be ready because the next event of the Chess.com Community Championship, the Chess.com Du...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2024",
-         "pubDate" : "Tue, 10 Sep 2024 08:00:00",
-         "title" : "Rubber Ducks And Madness In The Next Event Of The Chess.com Community Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3197",
          "pubDate" : "Tue, 10 Sep 2024 06:30:04",
          "title" : "Tech Mahindra and FIDE announce second consecutive partnership for 45th Chess Olympiad"
-      },
-      {
-         "description" : "Nine-year-old CM Ethan Pang, the youngest-ever 2200 player, defeated three grandmasters in a recent classical tournament in Hungary and came close to breaking the 2300 rating barrier for the first time. Pang, who made headlines in July when he b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-year-old-ethan-pang-beats-three-gms-in-one-event",
-         "pubDate" : "Tue, 10 Sep 2024 02:49:00",
-         "title" : "9-Year-Old Ethan Pang Defeats Three Grandmasters In One Event"
       },
       {
          "description" : "This week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
