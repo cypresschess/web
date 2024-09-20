@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The UK Open Blitz Championships 2024 will follow the format used in previous years' events with eight regional one-day qualifier events over three weekends from 21st September to 6th October....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-qualifiers-starting-on-saturday-21st-sept/",
+         "pubDate" : "Fri, 20 Sep 2024 19:07:18",
+         "title" : "UK Open Blitz Qualifiers starting on Saturday 21st Sept!"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Bodhana Sivanandan from England (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/45th-fide-chess-olympiad-india-inches-closer-to-victory/articleshow/113530214.cms",
          "pubDate" : "Fri, 20 Sep 2024 14:36:39",
          "title" : "45th FIDE Chess Olympiad: India inches closer to victory"
+      },
+      {
+         "description" : "Uzbekistan is the first team in the 45th FIDE Chess Olympiad to not lose a match against India, holding an equal 2-2 match score with four draws. India still lead by two points. GM Leinier Dominguez led the U.S. to a 2.5-1.5 victory against Hungar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-9",
+         "pubDate" : "Fri, 20 Sep 2024 12:23:27",
+         "title" : "Uzbekistan Men Draw India, Kazakhstan Take Women's Lead"
       },
       {
          "description" : "A Senior National Arbiter (SNA) Seminar, followed by an examination to award the SNA title, was organized by Bloom Chess Academy on behalf of the",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Budapest R8 (women): Three co-leaders as Poland beat India"
       },
       {
-         "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a ­dominance reminiscent of the ­legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team ­Olympiad in Budapest, and a 3.5â€‘0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone",
+         "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a dominance reminiscent of the legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team Olympiad in Budapest, and a 3.5â€‘0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone to",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/sep/20/chess-india-win-every-match-at-olympiad-as-us-and-england-trail",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-accepts-goat-award-urges-fide-to-reject-proposal-on-russia-belarus",
          "pubDate" : "Fri, 20 Sep 2024 00:46:00",
          "title" : "Carlsen Accepts G.O.A.T. Award, Urges FIDE To Uphold Restrictions On Russia, Belarus"
+      },
+      {
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/information-regarding-required-annual-safesport-refresher-course",
+         "pubDate" : "Fri, 20 Sep 2024 00:00:00",
+         "title" : "Information Regarding Required Annual SafeSport Refresher Course"
       },
       {
          "description" : "The men's team's statement victory propelled Arjun Erigaisi and D Gukesh's rating close to the mark of 2800 and this is the first time ever that there are two Indians in top five of the world rankings.",
@@ -914,14 +938,6 @@ news_feed (
          "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
-         "description" : "GM Magnus Carlsen just won his fourth Speed Chess Championship title, defeating GMs Alireza Firouzja and Hans Niemann&#38;nbsp;along the way.&#38;nbsp; Firouzja was the runner-up after he stopped GM Hikaru Nakamura&#38;nbsp;from reaching the Title Match for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-scc",
-         "pubDate" : "Mon, 09 Sep 2024 23:08:00",
-         "title" : "5 Things We Learned - Speed Chess Championship 2024"
-      },
-      {
          "description" : "To celebrate its 100th anniversary, the SK Troisdorf in Germany came up with a very special tournament: a diving chess championship. 22 participants played five rounds Swiss under water. Watches were not needed as hardly anyone could think about their move for long. The winner was Oleg Parashenko. | Photos: Sub Aqua Club Troisdorf/Ralf Pulinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "My Rivalry with Anton Korobov! | Prepare Like A Pro - GM Miro"
       },
       {
-         "description" : "The 18th NYC Chess Norms invitational took place from August 29 through September 2 at the Marshall Chess Club, with IM Kyron Griffith earning his second GM norm and FM Samrug Narayanan earning his final IM norm and crossing the 2400 FIDE threshold in the process. Coverage of our last event can be read here.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Photos courtesy NYC Chess Norms <br /><br /> Gr",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/two-norms-earned-over-labor-day-nyc-norms-event",
-         "pubDate" : "Fri, 06 Sep 2024 00:00:00",
-         "title" : "Two Norms Earned Over Labor Day NYC Norms Event"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1208,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3193",
          "pubDate" : "Mon, 02 Sep 2024 14:01:12",
          "title" : "FIDE World Youth Rapid and Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "The English Women's Online Blitz Championships 2024 were held on Chess.com, featuring a thrilling group stage on the 24th and 25th of August, followed by final on the 31st of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championships-2024-report/",
-         "pubDate" : "Mon, 02 Sep 2024 12:23:21",
-         "title" : "English Women's Online Blitz Championships 2024 report"
       },
       {
          "description" : "The European Youth Chess Championship 2024 concluded yesterday in Prague, Czech Republic. The event gathered 1230 players coming from 47 European federations, who competed in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. The Awarding ceremony took place yesterday evening, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Malcolm Pein, ECU Tournament Director Mr. Petr Pisk, the president of the Czech Chess Federation Mr. Martin Petr, tournament []",
