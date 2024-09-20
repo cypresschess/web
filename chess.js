@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Bodhana Sivanandan from England (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Fri, 20 Sep 2024 14:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113530214.cms\" />India's teams are performing exceptionally at the 45th FIDE Chess Olympiad in Budapest, with the men's team maintaining a perfect score and the women's team tied for first place. China's decision to rest Ding Liren has caused controversy. Key matches and individual performances will determine the final standings as the tournament concludes.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/45th-fide-chess-olympiad-india-inches-closer-to-victory/articleshow/113530214.cms",
+         "pubDate" : "Fri, 20 Sep 2024 14:36:39",
+         "title" : "45th FIDE Chess Olympiad: India inches closer to victory"
+      },
+      {
+         "description" : "A Senior National Arbiter (SNA) Seminar, followed by an examination to award the SNA title, was organized by Bloom Chess Academy on behalf of the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-chennai-on-07-08-september-2024/",
+         "pubDate" : "Fri, 20 Sep 2024 11:45:29",
+         "title" : "Final report of Senior National Arbiter Seminar & Examination held in Chennai on 07 & 08 September 2024"
+      },
+      {
          "description" : "India suffered their first match defeat in either section of the Olympiad in Thursday's eighth round, as the women's squad was beaten by Poland, the third seeds in the event. Wins by Alina Kashlinskaya (pictured) and Monika Socko allowed the Polish team to catch up with India in the standings. They are now tied for first place with Kazakhstan, who edged out France by a 2&frac12;-1&frac12; score. Three teams - Ukraine, United States, and Armenia - are just 1 match point behind the leading trio as the competition heats up with only three rounds to go. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +42,14 @@ news_feed (
          "title" : "Chess: India win every match at Olympiad as US and England trail"
       },
       {
+         "description" : "Swedish chess player and influencer WFM Anna Cramling has revealed that she is among the many female players who were harassed by a male chess player, expressing her dismay at the punishment handed down to the perpetrator. Latvian IM Andrejs Str...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anna-cramling-says-she-also-received-obscene-letters",
+         "pubDate" : "Fri, 20 Sep 2024 06:46:00",
+         "title" : "Anna Cramling Says She Also Received Obscene Letters: 'I Thought It Was Just Me'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113507708.cms\" />India continued its dominance at the 45th Chess Olympiad with a convincing win over Iran in the Open section. Arjun Erigaisi, D Gukesh, and Vidit Gujrathi secured victories while R Praggnanandhaa settled for a draw. With this result, India maintains a perfect score of 16 points, reinforcing their pursuit of the gold medal.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-accepts-goat-award-urges-fide-to-reject-proposal-on-russia-belarus",
          "pubDate" : "Fri, 20 Sep 2024 00:46:00",
          "title" : "Carlsen Accepts G.O.A.T. Award, Urges FIDE To Uphold Restrictions On Russia, Belarus"
+      },
+      {
+         "description" : "The men's team's statement victory propelled Arjun Erigaisi and D Gukesh's rating close to the mark of 2800 and this is the first time ever that there are two Indians in top five of the world rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41335789/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-8-report?device=featurephone",
+         "pubDate" : "Thu, 19 Sep 2024 23:56:26",
+         "title" : "Chess Olympiad 2024: Arjun, Gukesh close in on 2800 points after India men's big win; women's team suffers first loss"
       },
       {
          "description" : "",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-qualifiers",
          "pubDate" : "Thu, 19 Sep 2024 18:47:00",
          "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Valery Kazakouski from Lithuania (FIDE / Maria Emelianova) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Thu, 19 Sep 2024 14:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "After defeating Iran 3.5-0.5, India continues to lead the 45th FIDE Chess Olympiad with a perfect 16/16 score. Of 32 games played, India hasn&#39;t lost a single one. GM Benjamin Gledura won a close match for Hungary 2.5-1.5 against Armenia after defe...",
@@ -186,7 +218,7 @@ news_feed (
          "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2",
@@ -938,14 +970,6 @@ news_feed (
          "title" : "chess.com Speed Chess Final 2024 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen won his fourth title at the Speed Chess Championship 2024, defeating GM Alireza Firouzja in front of a live audience in Paris. It was a dominant performance with a final score of 23.5-7.5; he lost just five games in four hours, d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-scc-title-match-carlsen-wins",
-         "pubDate" : "Sun, 08 Sep 2024 13:07:00",
-         "title" : "Carlsen Wins 4th SCC Title With Greatest Score Margin In SCC Final History"
-      },
-      {
          "description" : "The 45th Chess Olympiad starts in two days in Budapest, Hungary! The event will be held from 10-23 September in BOK Sports Hall and Conference Center. 381 teams compete in the tournament, with 197 teams in Open section and 184 teams in the Women's championship. Teams are made up of four players + one reserve player in both sections. The events will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1016,14 +1040,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/",
          "pubDate" : "Fri, 06 Sep 2024 15:32:49",
          "title" : "Carlsen-Niemann&hellip; good for chess?"
-      },
-      {
-         "description" : "The 37th National Under-07 and Girls Chess Championship 2024 concluded with a grand closing ceremony in Mysuru, celebrating a vibrant and competitive event. A total",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-37th-national-under-07-and-under-07-girls-chess-championship2024/",
-         "pubDate" : "Fri, 06 Sep 2024 15:25:53",
-         "title" : "Final Report of 37th National Under-07 and Under 07 Girls Chess Championship2024"
       },
       {
          "description" : "",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "https://www.thearticle.com/who-was-the-greatest-of-them-all/",
          "pubDate" : "Sat, 31 Aug 2024 08:10:52",
          "title" : "Who was the greatest of them all?"
-      },
-      {
-         "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
-         "pubDate" : "Fri, 30 Aug 2024 14:56:00",
-         "title" : "11th Sinquefield Cup 2024 - Games and Results"
       }
    ]
 }
