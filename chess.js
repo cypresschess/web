@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113507708.cms\" />India continued its dominance at the 45th Chess Olympiad with a convincing win over Iran in the Open section. Arjun Erigaisi, D Gukesh, and Vidit Gujrathi secured victories while R Praggnanandhaa settled for a draw. With this result, India maintains a perfect score of 16 points, reinforcing their pursuit of the gold medal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-mens-team-takes-another-step-towards-gold/articleshow/113507708.cms",
+         "pubDate" : "Fri, 20 Sep 2024 02:49:53",
+         "title" : "Chess Olympiad: Indian men's team takes another step towards gold"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3223",
+         "pubDate" : "Thu, 19 Sep 2024 23:43:11",
+         "title" : "FIDE 100 Awards make history"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "45th Chess Olympiad R08: India dominates open section, faces setback in women's"
       },
       {
-         "description" : "National Under 07 Girls Rank Name 1 Aaranya R 2 Arpitangshi Bhattacharya 3 Saiaastha Singh 4 Arisapu Vedhaanshi 5 Darshvi Rai 6 Arshitha S 7",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-under-07-chess-championship-2024-in-mysuru-karnataka/",
-         "pubDate" : "Thu, 19 Sep 2024 17:45:53",
-         "title" : "Certificate of National Under 07 Chess Championship 2024 in Mysuru ,Karnataka."
+         "description" : "IMs Eric Rosen and Nhat Minh To were the highest ranked players to qualify for the Finals of the Chess.com Duck Chess Championship 2024. Six more Duck Chess mavens will join them in the knockout, including Kapik1337, the reigning number one in Duc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-qualifiers",
+         "pubDate" : "Thu, 19 Sep 2024 18:47:00",
+         "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
       },
       {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Valery Kazakouski from Lithuania (FIDE / Maria Emelianova) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Chess Olympiad - Live!"
       },
       {
-         "description" : "After defeating Iran 3.5-0.5, India continue to lead the 45th FIDE Chess Olympiad with a perfect 16/16 points. Of 32 games played, India hasn&#39;t lost a single one. GM Benjamin Gledura won a close match for Hungary 2.5-1.5 against Armenia after defe...",
+         "description" : "After defeating Iran 3.5-0.5, India continues to lead the 45th FIDE Chess Olympiad with a perfect 16/16 score. Of 32 games played, India hasn&#39;t lost a single one. GM Benjamin Gledura won a close match for Hungary 2.5-1.5 against Armenia after defe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-8",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-men-and-women-teams-continue-winning-run-to-stay-on-top/articleshow/113473615.cms",
          "pubDate" : "Thu, 19 Sep 2024 01:37:26",
          "title" : "Olympiad: India's men & women teams win to stay on top"
+      },
+      {
+         "description" : "Gukesh won a 6-hour marathon, Arjun's win streak came to an end as India men beat China in a crucial match.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41321042/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-7-report?device=featurephone",
+         "pubDate" : "Thu, 19 Sep 2024 00:34:52",
+         "title" : "Chess Olympiad 2024: Ding Liren rested vs India as men and women's team prevail for perfect 7/7"
       },
       {
          "description" : "US Chess is pleased to announce the 2024-2025 Title I Travel Grant Fund. This program financially supports eligible Affiliates serving Title I Schools to attend US Chess-run National Scholastic Events! Requests for both full and partial support applications will be considered. <br /><br /> This program is part of US Chess's commitment to improving access among underrepresented communities and reducing financial barriers to participation in national events. <br /><br /> APPLY TODAY<br /><br /> Eligibility<br /><br /> The following criteria are mandatory for eligibility:<br /><br /> Applicant must be a current US Chess Affiliate <br /> \tAffiliate must be a 501(c)(3) or a public school<br /> \tA",
@@ -162,7 +186,7 @@ news_feed (
          "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2",
@@ -946,14 +970,6 @@ news_feed (
          "title" : "Chess Palace, exhibitions and amateur competitions at 45th Chess Olympiad"
       },
       {
-         "description" : "GM Hikaru Nakamura finished third in the Speed Chess Championship 2024 after defeating GM Hans Niemann in the consolation match 21-9. He won all three segments, making his greatest gains in the 3+1 and 1+1 segments. Nakamura earns $13,500 for winn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-scc-consolation-match-nakamura-niemann",
-         "pubDate" : "Sat, 07 Sep 2024 13:05:00",
-         "title" : "Nakamura Defeats Niemann By Double Digits In Consolation Match"
-      },
-      {
          "description" : "The people around you have a bigger influence on your chess than you would think. And if you spend a lot of time digitally, what you consume might even have a bigger influence on you than your best friend or partner. &#8220;You are the average of the five people you spend the most time with.&#8221; []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1008,6 +1024,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/",
          "pubDate" : "Fri, 06 Sep 2024 15:32:49",
          "title" : "Carlsen-Niemann&hellip; good for chess?"
+      },
+      {
+         "description" : "The 37th National Under-07 and Girls Chess Championship 2024 concluded with a grand closing ceremony in Mysuru, celebrating a vibrant and competitive event. A total",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-37th-national-under-07-and-under-07-girls-chess-championship2024/",
+         "pubDate" : "Fri, 06 Sep 2024 15:25:53",
+         "title" : "Final Report of 37th National Under-07 and Under 07 Girls Chess Championship2024"
       },
       {
          "description" : "",
