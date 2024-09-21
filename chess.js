@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113539566.cms\" />International Master Vantika Agrawal's decisive win against Grandmaster Irina Krush ensured India drew 2-2 with the United States in the ninth round of the women's section at the 45th Chess Olympiad. Resting an out-of-form Grandmaster D Harika did not change much, and India now needs two victories to stay in contention for gold.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-womens-team-draws-with-united-states-after-vantikas-win/articleshow/113539566.cms",
+         "pubDate" : "Sat, 21 Sep 2024 02:30:44",
+         "title" : "Vantika's victory helps India women draw against USA at Olympiad"
+      },
+      {
+         "description" : "Lajos Portisch, the legendary Hungarian chess player who was awarded the title of the Sportsman of the Nation, held an aria evening on the free day of the 45th FIDE Chess Olympiad, on September 17, at the Petőfi Museum of Literature. The grandmaster's aria repertoire was accompanied by a unique painting, as Antti Fav&eacute;n's world-famous work The Chess Players was also on display. | Photo: Mih&aacute;ly Nagy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lajos-portisch-opera-chess-olympiad-2024",
+         "pubDate" : "Sat, 21 Sep 2024 02:15:00",
+         "title" : "Opera and chess - Lajos Portisch celebrated the Olympiad with an aria evening"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-knockout-minh-to-wins",
-         "pubDate" : "Fri, 20 Sep 2024 16:16:49",
+         "pubDate" : "Fri, 20 Sep 2024 16:16:00",
          "title" : "Minh To Prevails In Duck Chess Championship"
       },
       {
@@ -50,12 +66,12 @@ news_feed (
          "title" : "45th FIDE Chess Olympiad: India inches closer to victory"
       },
       {
-         "description" : "Uzbekistan is the first team in the 45th FIDE Chess Olympiad to not lose a match against India, holding an equal 2-2 match score with four draws. India still lead by two points. GM Leinier Dominguez led the U.S. to a 2.5-1.5 victory against Hungar...",
+         "description" : "Uzbekistan is the first team in the 45th FIDE Chess Olympiad to keep from losing a match against India, holding an equal 2-2 match score with four draws. India still leads by two points. GM Leinier Dominguez led the U.S. to a 2.5-1.5 victory again...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-9",
          "pubDate" : "Fri, 20 Sep 2024 12:23:00",
-         "title" : "Uzbekistan Men Draw Vs. India, Kazakhstan Take Women's Lead"
+         "title" : "Uzbekistan Ends India's Win Streak In Open, Kazakhstan Takes Women's Lead"
       },
       {
          "description" : "A Senior National Arbiter (SNA) Seminar, followed by an examination to award the SNA title, was organized by Bloom Chess Academy on behalf of the",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-chennai-on-07-08-september-2024/",
          "pubDate" : "Fri, 20 Sep 2024 11:45:29",
          "title" : "Final report of Senior National Arbiter Seminar & Examination held in Chennai on 07 & 08 September 2024"
-      },
-      {
-         "description" : "India suffered their first match defeat in either section of the Olympiad in Thursday's eighth round, as the women's squad was beaten by Poland, the third seeds in the event. Wins by Alina Kashlinskaya (pictured) and Monika Socko allowed the Polish team to catch up with India in the standings. They are now tied for first place with Kazakhstan, who edged out France by a 2&frac12;-1&frac12; score. Three teams - Ukraine, United States, and Armenia - are just 1 match point behind the leading trio as the competition heats up with only three rounds to go. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r8-women",
-         "pubDate" : "Fri, 20 Sep 2024 10:15:00",
-         "title" : "Budapest R8 (women): Three co-leaders as Poland beat India"
       },
       {
          "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a dominance reminiscent of the legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team Olympiad in Budapest, and a 3.5‑0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone to",
