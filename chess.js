@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the occasion of its 100th anniversary, FIDE honoured Magnus Carlsen as the \"best player\" in the world. The Norwegian thanked the Federation, but pointed out that the honour should have gone to Garry Kasparov, noting it was certainly no coincidence that he was overlooked in all FIDE honours. Carlsen also spoke out against the lifting of the suspension of the Russian and Belarusian Chess Federations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-best-player-award-2024",
+         "pubDate" : "Sat, 21 Sep 2024 12:15:00",
+         "title" : "Carlsen speakas against lifting the suspensions on Russia and Belarus"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 7Wednesday, 18 September 2024 Open In round 7 of the 2024 Chess Olympiad, a titanic match occurred between two regional rivals and the world's most populous nations. India, which overtook China as the most populous nation, holds an impressive lead with 6/6. China had already been nicked for a draw. Vietnam The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/\">2024 Chess Olympiad: Round 7</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/",
+         "pubDate" : "Sat, 21 Sep 2024 10:07:27",
+         "title" : "2024 Chess Olympiad: Round 7"
+      },
+      {
+         "description" : "The Indian men's team are top of the standings, and the women's second, with two rounds to go. What are their chances?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41353022/gold-india-fide-chess-olympiad-2024-possibility-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
+         "pubDate" : "Sat, 21 Sep 2024 03:52:27",
+         "title" : "Can India win gold in the Chess Olympiad 2024?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113540853.cms\" />At the Chess Olympiad in Budapest, D Harika's underperformance is impacting the Indian women's team. She has scored only three points in seven games and missed a crucial match against the USA. In contrast, debutants Divya Deshmukh and Vantika Agrawal have remained undefeated, highlighting a mix of experience and youthful fearlessness within the team.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1290,14 +1314,6 @@ news_feed (
          "title" : "FIDE September 2024 rating list published"
       },
       {
-         "description" : " Photo from X (Brewington Hardaway) Fifteen-year-old Brewington Hardaway made his long-awaited trip abroad in search of his final GM norm. He chose the Ciutat de Barcelona International Chess Open as the staging ground for his GM title pursuit. There was a buzz being generated in social media after &#8220;Brew&#8221; started out 4/4 and then undefeated The post <a href=\"https://www.thechessdrum.net/blog/2024/09/01/brewington-hardaway-earns-final-gm-norm/\">Brewington Hardaway earns final GM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/01/brewington-hardaway-earns-final-gm-norm/",
-         "pubDate" : "Sun, 01 Sep 2024 17:40:05",
-         "title" : "Brewington Hardaway earns final GM norm!"
-      },
-      {
          "description" : "And I mean that in the kindest way, like 'Ugly Christmas Sweater'. English speaking visitors to this blog might be surprised to know that the famous sweaters are known and sought after internationally. Will chess jackets also catch on? <P> This latest post for <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), features an item titled, 'Kidsuper Chess Not Checkers Corduroy Blazer - Size Large - Brown - NEW'. It sold for US$ 335.00, 'Buy It Now'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oi01.jpg\" WIDTH=400 HEIGHT=400> <P> The description said, <BLOCKQUOTE> <DL> <DT>Condition:</DT> <DD>N",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1312,14 +1328,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/piece-of-cake/",
          "pubDate" : "Sat, 31 Aug 2024 12:35:00",
          "title" : "Make chess games feel like a piece of cake"
-      },
-      {
-         "description" : "Searching for the greatest in chess is perennially fascinating. In 1987 an eminent Canadian professor of mathematics, the late Nathan Divinsky, and I carried out a massive statistical survey in our book: Warriors of the Mind. Recently the chess.com site undertook a similar exercise. It is interesting to compare the two lists of the respective top tens: Rank Divinsky/Keene 1987 []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/who-was-the-greatest-of-them-all/",
-         "pubDate" : "Sat, 31 Aug 2024 08:10:52",
-         "title" : "Who was the greatest of them all?"
       }
    ]
 }
