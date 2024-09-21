@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In this position, Arjuns takes a look at the line Bxd5 Saturdays @ 1:30pm CST on <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess",
+         "pubDate" : "Sat, 21 Sep 2024 18:28:10",
+         "title" : "What About If Bxd5? - Arjun Explains #chess #chesstactics #chessendgame #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Arjun explains the possibility of Ke5 Saturdays @ 1:30pm CST on <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/promote-and-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BQzXuUEGhCI.jpg?itok=2-zjgzKm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/promote-and-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess",
+         "pubDate" : "Sat, 21 Sep 2024 18:28:10",
+         "title" : "Promote and Skewer - Arjun Explains #chess #chessendgame #chesstactics #lichess"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Luca Moroni from Italy (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,13 +39,13 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/magnus-carlsen-best-player-award-2024",
          "pubDate" : "Sat, 21 Sep 2024 12:15:00",
-         "title" : "Carlsen speakas against lifting the suspensions on Russia and Belarus"
+         "title" : "Carlsen speaks against lifting the suspensions on Russia and Belarus"
       },
       {
-         "description" : " 2024 Chess Olympiad: Round 8Thursday, 19 September 2024 Open Iran was coming into the match undefeated and with high hopes against India. Playing without Alireza Firouzja who represents France, this Olympiad performance shows that Iran has a promising future. If in fact, Firouzja returns to Iran, they will vie for a gold medal. At this The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/84412/\">2024 Chess Olympiad: Round 8</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 Chess Olympiad: Round 8Thursday, 19 September 2024 Open Iran was coming into the match undefeated and with high hopes against India. Playing without Alireza Firouzja who represents France, this Olympiad performance shows that Iran has a promising future. If in fact, Firouzja returns to Iran, they will vie for a gold medal. At this The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-8/\">2024 Chess Olympiad: Round 8</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/21/84412/",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-8/",
          "pubDate" : "Sat, 21 Sep 2024 12:14:57",
          "title" : "2024 Chess Olympiad: Round 8"
       },
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/",
          "pubDate" : "Sat, 21 Sep 2024 10:07:27",
          "title" : "2024 Chess Olympiad: Round 7"
+      },
+      {
+         "description" : "The Indian men's team are top of the standings, and the women's second, with two rounds to go. What are their chances?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41353022/gold-india-fide-chess-olympiad-2024-possibility-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
+         "pubDate" : "Sat, 21 Sep 2024 03:52:27",
+         "title" : "Can India win gold in the Chess Olympiad 2024?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113540853.cms\" />At the Chess Olympiad in Budapest, D Harika's underperformance is impacting the Indian women's team. She has scored only three points in seven games and missed a crucial match against the USA. In contrast, debutants Divya Deshmukh and Vantika Agrawal have remained undefeated, highlighting a mix of experience and youthful fearlessness within the team.",
@@ -1154,28 +1178,12 @@ news_feed (
          "title" : "Rising stars and \"veterans\": 2024 Women's Chess Olympiad preview"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bMcxdFGArkY.jpg?itok=WJ9ri33b\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro-0",
-         "pubDate" : "Fri, 06 Sep 2024 00:17:24",
-         "title" : "My Rivalry with Anton Korobov! | Prepare Like A Pro - GM Miro"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3198",
          "pubDate" : "Thu, 05 Sep 2024 18:54:49",
          "title" : "Exciting format changes announced for 2024 FIDE World Rapid & Blitz Championships"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko looks at some of his best games against his countryman, 4-time Ukrainian champion Anton Korobov. 2024.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NZqOwpQXIgk.jpg?itok=S3Wgn5xX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-rivalry-anton-korobov-prepare-pro-gm-miro",
-         "pubDate" : "Thu, 05 Sep 2024 06:16:37",
-         "title" : "My Rivalry with Anton Korobov | Prepare Like A Pro - GM Miro"
       },
       {
          "description" : "In the final round of a Dutch tournament (in Waddingxveen 1979) World Champion Anatoly Karpov beat the second-placed GM Vlastimil Hort. But could the world-class Czech grandmaster have prevented this happening? This was the question we asked in our last Riddle. Today we provide you with the answer.",
