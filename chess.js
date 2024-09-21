@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> In this position, Arjuns takes a look at the line Bxd5 Saturdays @ 1:30pm CST on <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
+         "description" : "It will roll into the UK capital London on October 3rd-12th. The Tech Mahindra Global Chess League will be stages in the Theatre of the Friends House, Euston Road and will include Carlsen, Nakamura, Anand, Praggnanandhaa, Vachier-Lagrave, Giri, Rapport, Hou Yifan, and many other superstars. Tickets can be obtained from Chess & Bridge. Definitely worth a visit. Announcement by Matt Read",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-in-london",
+         "pubDate" : "Sat, 21 Sep 2024 22:30:00",
+         "title" : "Global Chess League in London"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 9Friday, 20 September 2024 Open In Round 9, India was slowed as it was held for the first time by Uzbekistan in a 2-2 result. That match had a bit of controversy as Vladimir Kramnik complained about the presence of phones used to record the match by ChessBase India. These phones The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-9/\">2024 Chess Olympiad: Round 9</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-9/",
+         "pubDate" : "Sat, 21 Sep 2024 22:01:19",
+         "title" : "2024 Chess Olympiad: Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Arjun breaks down Ke5 for white </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wheres-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BQzXuUEGhCI.jpg?itok=2-zjgzKm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wheres-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess",
+         "pubDate" : "Sat, 21 Sep 2024 21:28:11",
+         "title" : "Where's The Skewer? - Arjun Explains #chess #chessendgame #chesstactics #lichess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3225",
+         "pubDate" : "Sat, 21 Sep 2024 21:17:14",
+         "title" : "45th Chess Olympiad: India dominates open; women's event goes down to the wire"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Arjuns look at the line Bxd5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess",
@@ -18,12 +50,28 @@ news_feed (
          "title" : "Promote and Skewer - Arjun Explains #chess #chessendgame #chesstactics #lichess"
       },
       {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Luca Moroni from Italy (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Lorenzo Lodici from Italy (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
          "pubDate" : "Sat, 21 Sep 2024 14:45:00",
          "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "GM Andrew Tang won his fourth Bullet Brawl&#38;nbsp;by a 20-point margin over GM Hikaru Nakamura. Tang began and ended on undefeated streaks to score 256 and&#38;nbsp;take home the $400 first prize. Nakamura won $250 for second place. IM Renato Terry ea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-september-21-2024",
+         "pubDate" : "Sat, 21 Sep 2024 13:34:00",
+         "title" : "Tang Wins 4th Bullet Brawl By 20-Point Margin Over Nakamura"
+      },
+      {
+         "description" : "India is on the brink of winning its first-ever Olympiad gold after beating the United States 2.5-1.5 in round 10 of the 45th FIDE Chess Olympiad. Just as in Chennai, GM Gukesh Dommaraju defeated GM Fabiano Caruana&#38;nbsp;while GM Arjun Erigaisi too...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-10",
+         "pubDate" : "Sat, 21 Sep 2024 12:56:00",
+         "title" : "India On Brink Of 1st-Ever Olympiad Gold After Defeating United States"
       },
       {
          "description" : "We all want exceptional results. So how can we get them? Most people think by doing exceptional things. I don't agree. Exceptional results often come from consistency and a focus on the basics. Solving positions with similar tactical motifs daily, analyzing even your worst games, and trying to play simple chess. These 3 methods have []",
@@ -866,14 +914,6 @@ news_feed (
          "title" : "Chess Olympiad: Indian teams make winning start with convincing victories"
       },
       {
-         "description" : " The Chess Olympiad started today as the favorites went through smoothly, but visagate has tainted the event. Many countries were not paired in the first round due to visa issues. Every couple of years, we see these stories, but this year it seemed unusual. Chessdom.com reported that as many as 60 countries faced visa issues The post <a href=\"https://www.thechessdrum.net/blog/2024/09/12/chess-olympiad-begins-visagate-rages/\">Chess Olympiad begins Visagate rages</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/12/chess-olympiad-begins-visagate-rages/",
-         "pubDate" : "Thu, 12 Sep 2024 04:19:22",
-         "title" : "Chess Olympiad begins&hellip; Visagate rages"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -904,14 +944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3206",
          "pubDate" : "Wed, 11 Sep 2024 08:37:34",
          "title" : "Final list of Member Federations having right to vote at GA 2024 published"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi won the early edition of Titled Tuesday on September 10 with a 9/9 start and 10/11 overall score after defeating both GMs Magnus Carlsen and Hikaru Nakamura, who finished second and third in the strongest Titled Tuesday podiu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-bortnyk-win-titled-tuesday-september-10-2024",
-         "pubDate" : "Wed, 11 Sep 2024 08:29:03",
-         "title" : "Nepomniachtchi Takes On Nakamura, Carlsen, Wins Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113248380.cms\" />Viswanathan Anand, a five-time world chess champion, is not part of India's 2024 Chess Olympiad squad. Young talents like R Praggnanandhaa and D Gukesh have taken his legacy forward. Anand has chosen to step back and mentor the next generation. The Indian men's team is seeded second for this edition of the Olympiad.",
@@ -954,14 +986,6 @@ news_feed (
          "title" : "How I DESTROYED the IM Norm Field! | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about positional decision making and identifying weaknesses. 2024.09.10<br /> Sara Herman vs. Rhett Langseth, 2023: A46 Queen&#039;s pawn game<br /> Herman vs. Brad Langer, 2023: E06 Catalan, closed, 5.Nf3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-decision-making-identifying-weaknesses-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/positional-decision-making-identifying-weaknesses-road-2000",
-         "pubDate" : "Wed, 11 Sep 2024 00:20:48",
-         "title" : "Positional Decision-Making & Identifying Weaknesses | Road to 2000"
-      },
-      {
          "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3205",
          "pubDate" : "Tue, 10 Sep 2024 19:56:37",
          "title" : "45th FIDE Chess Olympiad is officially open!"
-      },
-      {
-         "description" : "The 45th FIDE Chess Olympiad has been opened in Budapest, with the games starting Wednesday. As almost 2,000 chess players, from world number-one Magnus Carlsen to over 200 unrated participants, converge on the Hungarian capital, can India, top se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-fide-chess-olympiad-preview",
-         "pubDate" : "Tue, 10 Sep 2024 18:04:00",
-         "title" : "2024 FIDE Chess Olympiad: 7 Talking Points"
       },
       {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress , Hotel InterContinental Budapest. The Assembly starts at 15.00. Requests for bookings and transportation shall be forward to O.C. of the Budapest Chess Olympiad. Contact Information: []",
