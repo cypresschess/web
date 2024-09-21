@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113540853.cms\" />At the Chess Olympiad in Budapest, D Harika's underperformance is impacting the Indian women's team. She has scored only three points in seven games and missed a crucial match against the USA. In contrast, debutants Divya Deshmukh and Vantika Agrawal have remained undefeated, highlighting a mix of experience and youthful fearlessness within the team.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-women-lose-tempo-as-harika-struggles/articleshow/113540853.cms",
+         "pubDate" : "Sat, 21 Sep 2024 03:50:44",
+         "title" : "Chess Olympiad: Women lose tempo as Harika struggles"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113539566.cms\" />International Master Vantika Agrawal's decisive win against Grandmaster Irina Krush ensured India drew 2-2 with the United States in the ninth round of the women's section at the 45th Chess Olympiad. Resting an out-of-form Grandmaster D Harika did not change much, and India now needs two victories to stay in contention for gold.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lajos-portisch-opera-chess-olympiad-2024",
          "pubDate" : "Sat, 21 Sep 2024 02:15:00",
          "title" : "Opera and chess - Lajos Portisch celebrated the Olympiad with an aria evening"
+      },
+      {
+         "description" : "Despite the draw, Indian men still have a two-point lead, scoring 17 out of 18 with two more rounds to go.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41350008/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-9-report?device=featurephone",
+         "pubDate" : "Fri, 20 Sep 2024 23:12:47",
+         "title" : "Chess Olympiad 2024: Uzbekistan stop India's winning run in open; Vantika helps women draw with USA"
       },
       {
          "description" : "",
