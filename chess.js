@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Luca Moroni from Italy (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Sat, 21 Sep 2024 14:45:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "We all want exceptional results. So how can we get them? Most people think by doing exceptional things. I don't agree. Exceptional results often come from consistency and a focus on the basics. Solving positions with similar tactical motifs daily, analyzing even your worst games, and trying to play simple chess. These 3 methods have []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/exceptional-results/",
+         "pubDate" : "Sat, 21 Sep 2024 12:21:00",
+         "title" : "Exceptional Results - Simple Training"
+      },
+      {
          "description" : "On the occasion of its 100th anniversary, FIDE honoured Magnus Carlsen as the \"best player\" in the world. The Norwegian thanked the Federation, but pointed out that the honour should have gone to Garry Kasparov, noting it was certainly no coincidence that he was overlooked in all FIDE honours. Carlsen also spoke out against the lifting of the suspension of the Russian and Belarusian Chess Federations.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +26,28 @@ news_feed (
          "title" : "Carlsen speakas against lifting the suspensions on Russia and Belarus"
       },
       {
+         "description" : " 2024 Chess Olympiad: Round 8Thursday, 19 September 2024 Open Iran was coming into the match undefeated and with high hopes against India. Playing without Alireza Firouzja who represents France, this Olympiad performance shows that Iran has a promising future. If in fact, Firouzja returns to Iran, they will vie for a gold medal. At this The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/84412/\">2024 Chess Olympiad: Round 8</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/21/84412/",
+         "pubDate" : "Sat, 21 Sep 2024 12:14:57",
+         "title" : "2024 Chess Olympiad: Round 8"
+      },
+      {
+         "description" : "In the footsteps of Cato the Elder (who ended every speech in the Roman Senate, whatever the topic, with the exhortation: Carthago delenda est) I have said it before and I will say it again. Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/culture-wars-glass-ceilings-and-chess/",
+         "pubDate" : "Sat, 21 Sep 2024 11:38:31",
+         "title" : "Culture wars, glass ceilings and chess"
+      },
+      {
          "description" : " 2024 Chess Olympiad: Round 7Wednesday, 18 September 2024 Open In round 7 of the 2024 Chess Olympiad, a titanic match occurred between two regional rivals and the world's most populous nations. India, which overtook China as the most populous nation, holds an impressive lead with 6/6. China had already been nicked for a draw. Vietnam The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/\">2024 Chess Olympiad: Round 7</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/",
          "pubDate" : "Sat, 21 Sep 2024 10:07:27",
          "title" : "2024 Chess Olympiad: Round 7"
-      },
-      {
-         "description" : "The Indian men's team are top of the standings, and the women's second, with two rounds to go. What are their chances?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41353022/gold-india-fide-chess-olympiad-2024-possibility-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
-         "pubDate" : "Sat, 21 Sep 2024 03:52:27",
-         "title" : "Can India win gold in the Chess Olympiad 2024?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113540853.cms\" />At the Chess Olympiad in Budapest, D Harika's underperformance is impacting the Indian women's team. She has scored only three points in seven games and missed a crucial match against the USA. In contrast, debutants Divya Deshmukh and Vantika Agrawal have remained undefeated, highlighting a mix of experience and youthful fearlessness within the team.",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/u-s-state-department-calls-on-fide-to-maintain-russia-sanctions",
          "pubDate" : "Fri, 20 Sep 2024 15:00:00",
          "title" : "U.S State Department Calls On FIDE To Maintain Russia Sanctions As Vote Looms"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Bodhana Sivanandan from England (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Fri, 20 Sep 2024 14:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113530214.cms\" />India's teams are performing exceptionally at the 45th FIDE Chess Olympiad in Budapest, with the men's team maintaining a perfect score and the women's team tied for first place. China's decision to rest Ding Liren has caused controversy. Key matches and individual performances will determine the final standings as the tournament concludes.",
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "FIDE World Cadet Chess Championships - 2024"
       },
       {
-         "description" : " Today, one of the most anticipated events will take place in Paris, France, with Magnus Carlsen facing nemesis Hans Niemann. The two will be battling in a semifinal match in chess.com Speed Chess Championship. Hikaru Nakamura will play Alireza Firouzja in the other match. The buzz centers around the 2022 controversy created when Carlsen accused The post <a href=\"https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/\">Carlsen-Niemann good for chess?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/06/carlsen-niemann-good-for-chess/",
-         "pubDate" : "Fri, 06 Sep 2024 15:32:49",
-         "title" : "Carlsen-Niemann&hellip; good for chess?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/09/ugly-chess-jacket.html",
          "pubDate" : "Sun, 01 Sep 2024 15:32:00",
          "title" : "Ugly Chess Jacket"
-      },
-      {
-         "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/piece-of-cake/",
-         "pubDate" : "Sat, 31 Aug 2024 12:35:00",
-         "title" : "Make chess games feel like a piece of cake"
       }
    ]
 }
