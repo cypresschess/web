@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Lu Miaoyi from China (FIDE / Michal Waluszha) | Follow the games live with expert commentary starting (four hours earlier than usual) at 11.00 CEST (5.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
+         "pubDate" : "Sun, 22 Sep 2024 10:50:00",
+         "title" : "Chess Olympiad - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3226",
+         "pubDate" : "Sun, 22 Sep 2024 10:24:55",
+         "title" : "How chess is transforming lives: 2024 #SocialChess Conference in Budapest"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113568320.cms\" />Rahul Gandhi wished Team India well as they enter the crucial rounds of the Chess Olympiad in Budapest. Grandmaster D Gukesh's victory over Fabiano Caruana has heightened expectations for India's first gold medal in the men's section, while the women's team is also a leading contender for gold.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/now-is-the-time-to-seize-the-gold-rahul-gandhi-wishes-team-india-success-at-chess-olympiad/articleshow/113568320.cms",
+         "pubDate" : "Sun, 22 Sep 2024 08:39:53",
+         "title" : "'Now is the time to seize the gold': Rahul Gandhi wishes Team India success"
+      },
+      {
          "description" : "India all but secured overall victory in the Chess Olympiad after defeating the United States in the penultimate round. Wins by Dommaraju Gukesh (pictured), who outplayed Fabiano Caruana, and Arjun Erigaisi, who beat Leinier Dominguez, granted the Indian team the crucial match victory over the tournament's top seeds. Only China can theoretically catch India in the final round, though it is highly improbable, given India's commanding tiebreak scores. China kept their slim hopes alive by defeating the defending champions from Uzbekistan on Saturday. | Photo: FIDE / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Chess Olympiad: FIDE Fair Play team silences Vladimir Kramnik"
       },
       {
-         "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 India close to making history! Open Wesley So (USA) set to face Rameshbabu Praggnanadhaa (IND)Photo by Daaim Shabazz/The Chess Drum Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and virtually clinched the gold medal. Wesley So opened with a win The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 India close to making history! Open Wesley So (USA) set to face Rameshbabu Praggnanadhaa (IND)Photo by Daaim Shabazz/The Chess Drum Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and has virtually clinched the gold medal. Wesley So opened with a The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/",
@@ -1008,14 +1032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/we-can-definitely-go-for-gold-this-time-viswanathan-anand/articleshow/113246313.cms",
          "pubDate" : "Wed, 11 Sep 2024 04:38:57",
          "title" : "We can definitely go for gold this time: Viswanathan Anand"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113245966.cms\" />India's chess teams are set to start their Olympiad campaign in Budapest, Hungary. The men's team is seeded second while the women's team is top-seeded. With Russia absent and China present, competition is intense. Expectations are high as three Indian players rank among the top-8 participants, raising hopes for a gold medal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-strength-of-india-squad-raises-hopes-of-higher-placed-finish/articleshow/113245966.cms",
-         "pubDate" : "Wed, 11 Sep 2024 04:23:44",
-         "title" : "Chess Olympiad: Strength of India squad raises hopes of higher-placed finish"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows one of his games from the 1000 GrandMasters Norm event at Saint Louis University in September 2024, against 2024 U.S. Junior Championship player Nicky Ladan. Nyzhnyk was the heavy favorite in a field of players trying to become International Masters. 2024.09.10<br /> Nicky Ladan vs. Illia Nyzhnyk, 2024: A45 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-",
