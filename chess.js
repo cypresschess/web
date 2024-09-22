@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113573523.cms\" />India's men's and women's chess teams secured their first-ever gold medals at the 45th Chess Olympiad in Budapest. The men triumphed over Slovenia with key victories from Gukesh, Erigaisi, and Praggnanadhaa. The women clinched their title by defeating Azerbaijan. The historic win follows previous bronze medals earned by both teams in earlier editions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-script-history-with-maiden-men-and-women-chess-olympiad-titles/articleshow/113573523.cms",
+         "pubDate" : "Sun, 22 Sep 2024 13:45:50",
+         "title" : "India script history with maiden men and women Chess Olympiad titles"
+      },
+      {
+         "description" : "That's amazing news! Winning the first-ever Team Gold Medal in both category at the Chess Olympiad is a monumental achievement for India! It truly marks",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/team-india-creates-history-wins-first-ever-team-gold-medal-in-chess-olympiad/",
+         "pubDate" : "Sun, 22 Sep 2024 13:39:07",
+         "title" : "Team India creates history, wins First ever Team Gold Medal in both categories in Chess Olympiad 2024"
+      },
+      {
+         "description" : "The ECF Events Calendar has been updated to a new plugin, with increased filters for sorting and a cleaner, clearer layout. This represents a lot of work on the part...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/events-calendar-update/",
+         "pubDate" : "Sun, 22 Sep 2024 12:17:22",
+         "title" : "Events calendar update"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3227",
+         "pubDate" : "Sun, 22 Sep 2024 12:04:52",
+         "title" : "Women & chess: FIDE's mission to bridge gender gaps"
+      },
+      {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Lu Miaoyi from China (FIDE / Michal Waluszha) | Follow the games live with expert commentary starting (four hours earlier than usual) at 11.00 CEST (5.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/exceptional-results/",
          "pubDate" : "Sat, 21 Sep 2024 12:21:00",
          "title" : "Exceptional Results - Simple Training"
-      },
-      {
-         "description" : "On the occasion of its 100th anniversary, FIDE honoured Magnus Carlsen as the \"best player\" in the world. The Norwegian thanked the Federation, but pointed out that the honour should have gone to Garry Kasparov, noting it was certainly no coincidence that he was overlooked in all FIDE honours. Carlsen also spoke out against the lifting of the suspension of the Russian and Belarusian Chess Federations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-best-player-award-2024",
-         "pubDate" : "Sat, 21 Sep 2024 12:15:00",
-         "title" : "Carlsen speaks against lifting the suspensions on Russia and Belarus"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 8Thursday, 19 September 2024 Open Iran was coming into the match undefeated and with high hopes against India. Playing without Alireza Firouzja who represents France, this Olympiad performance shows that Iran has a promising future. If in fact, Firouzja returns to Iran, they will vie for a gold medal. At this The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-8/\">2024 Chess Olympiad: Round 8</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1026,14 +1050,6 @@ news_feed (
          "title" : "EXPLAINED: Why Anand missing in India's Olympiad squad"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113246313.cms\" />Viswanathan Anand believes India's chess team has the depth and strength to compete for gold at the Chess Olympiad, noting their ability to handle substitutions and recent experiences. He also discusses D Gukesh's upcoming World Championship match against Ding Liren, emphasizing that preparation is more crucial than current form.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-can-definitely-go-for-gold-this-time-viswanathan-anand/articleshow/113246313.cms",
-         "pubDate" : "Wed, 11 Sep 2024 04:38:57",
-         "title" : "We can definitely go for gold this time: Viswanathan Anand"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows one of his games from the 1000 GrandMasters Norm event at Saint Louis University in September 2024, against 2024 U.S. Junior Championship player Nicky Ladan. Nyzhnyk was the heavy favorite in a field of players trying to become International Masters. 2024.09.10<br /> Nicky Ladan vs. Illia Nyzhnyk, 2024: A45 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1202,14 +1218,6 @@ news_feed (
          "title" : "2025 World Cup qualifications"
       },
       {
-         "description" : "Montesilvano, Italy from 14th to 27th November, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cadet-chess-championships-2024/",
-         "pubDate" : "Sat, 07 Sep 2024 04:11:05",
-         "title" : "FIDE World Cadet Chess Championships - 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2024-25/",
          "pubDate" : "Tue, 03 Sep 2024 10:42:33",
          "title" : "Clubs & Congress Insurance 2024/25"
-      },
-      {
-         "description" : "The four books selected this year illustrate the richness of chess. Two show the intricate and amazing complexity of the game itself; the other two show that the human approach...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-3/",
-         "pubDate" : "Tue, 03 Sep 2024 10:07:13",
-         "title" : "ECF Book of the Year shortlist"
       },
       {
          "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
