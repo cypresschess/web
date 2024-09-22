@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 Open Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and virtually clinched the gold medal. Dommaraju Gukesh won a key game against Fabiano Caruana and is now on 8/9 while Arjun Erigaisi is on 9/10. It will be India third The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/",
+         "pubDate" : "Sun, 22 Sep 2024 02:19:24",
+         "title" : "2024 Chess Olympiad: Round 10"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> If white plays Bxd5, its a race to the end. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess",
+         "pubDate" : "Sun, 22 Sep 2024 00:28:10",
+         "title" : "Who Wins This Race? - Arjun Explains #chess #chesstactics #chessendgame #lichess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113561622.cms\" />Arjun Erigaisi's victory over USA's Leinier Dominguez Perez has positioned India on the brink of winning its first gold in the Open section of the 45th Chess Olympiad. With a lead of 19 points, India is ahead of China, who have 17 points. In the women's section, India and Kazakhstan are tied at 17 points each.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-virtually-seal-historic-gold-at-chess-olympiad-in-open-section/articleshow/113561622.cms",
+         "pubDate" : "Sun, 22 Sep 2024 00:22:04",
+         "title" : "India virtually seal historic gold at Chess Olympiad in Open section"
+      },
+      {
          "description" : "It will roll into the UK capital London on October 3rd-12th. The Tech Mahindra Global Chess League will be stages in the Theatre of the Friends House, Euston Road and will include Carlsen, Nakamura, Anand, Praggnanandhaa, Vachier-Lagrave, Giri, Rapport, Hou Yifan, and many other superstars. Tickets can be obtained from Chess & Bridge. Definitely worth a visit. Announcement by Matt Read",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "Tang Wins 4th Bullet Brawl By 20-Point Margin Over Nakamura"
       },
       {
-         "description" : "India is on the brink of winning its first-ever Olympiad gold after beating the United States 2.5-1.5 in round 10 of the 45th FIDE Chess Olympiad. Just as in Chennai, GM Gukesh Dommaraju defeated GM Fabiano Caruana&#38;nbsp;while GM Arjun Erigaisi too...",
+         "description" : "India is on the brink of winning gold after beating the United States 2.5-1.5 in round 10 of the 45th FIDE Chess Olympiad. Just as in Chennai, GM Gukesh Dommaraju defeated GM Fabiano Caruana&#38;nbsp;while GM Arjun Erigaisi took down GM Leinier Doming...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-10",
@@ -144,6 +168,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lajos-portisch-opera-chess-olympiad-2024",
          "pubDate" : "Sat, 21 Sep 2024 02:15:00",
          "title" : "Opera and chess - Lajos Portisch celebrated the Olympiad with an aria evening"
+      },
+      {
+         "description" : "Editor's note: This report covers rounds seven through ten of the 45th FIDE Chess Olympiad. Part two can be found here and part one here. The final round will take place Sunday, September 22, at 4:00 a.m. CDT (four hours earlier than previous rounds). <br /><br /> The rounds following the rest day of the 45th FIDE Chess Olympiad saw both American teams start in a similar situation. Having each dropped a match earlier in the tournament, each team could expect a couple of rounds on slightly lower boards. Hopefully, good results would give them some shots at the tournament leaders, and, hopefully, no team would run away with the tournament before that happened! Below is a quick recap of each te",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/olympiad-recap-part-three-american-teams-get-their-shots-against-leaders",
+         "pubDate" : "Sat, 21 Sep 2024 00:00:00",
+         "title" : "Olympiad Recap Part Three: American Teams Get Their Shots Against the Leaders"
       },
       {
          "description" : "Despite the draw, Indian men still have a two-point lead, scoring 17 out of 18 with two more rounds to go.",
@@ -242,7 +274,7 @@ news_feed (
          "title" : "Carlsen Accepts G.O.A.T. Award, Urges FIDE To Uphold Restrictions On Russia, Belarus"
       },
       {
-         "description" : "<br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed to inactive until the course is completed.<br /><br /> Please note that y",
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed t",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/information-regarding-required-annual-safesport-refresher-course",
@@ -850,14 +882,6 @@ news_feed (
          "title" : "45th Chess Olympiad R02: Norway struggles without Carlsen, top teams lose board points"
       },
       {
-         "description" : " Budapest, Hungary is the site of the 2024 Chess Olympiad and the venue is said to be spectacular. The event began on September 11th and will last until the 23rd. This Olympiad marks the 100th year of FIDE's founding. ChessBase India's Sagar Shah gave a tour of the BOK Hall across from the Puskas Football The post <a href=\"https://www.thechessdrum.net/blog/2024/09/12/2024-chess-olympiad-budapest-hungary/\">2024 Chess Olympiad (Budapest, Hungary)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/12/2024-chess-olympiad-budapest-hungary/",
-         "pubDate" : "Thu, 12 Sep 2024 18:48:14",
-         "title" : "2024 Chess Olympiad (Budapest, Hungary)"
-      },
-      {
          "description" : "GM Fabiano Caruana is back above 2800 after beginning the 45th FIDE Chess Olympiad with a sparkling win over Singaporean GM Jingyao Tin. There were also winning debuts for GMs Gukesh Dommaraju and Richard Rapport, while World Champion Ding Liren w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "How I CRUSHED the IM Norm Field! | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows his games from the 1000 GM Norm event at Saint Louis University in September 2024. 2024.09.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-destroyed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XjQ6BZO_A_I.jpg?itok=Svoa5Dyg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-i-destroyed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Wed, 11 Sep 2024 00:20:48",
-         "title" : "How I DESTROYED the IM Norm Field! | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
          "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3197",
          "pubDate" : "Tue, 10 Sep 2024 06:30:04",
          "title" : "Tech Mahindra and FIDE announce second consecutive partnership for 45th Chess Olympiad"
-      },
-      {
-         "description" : "This week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-1",
-         "pubDate" : "Tue, 10 Sep 2024 00:00:00",
-         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "To celebrate its 100th anniversary, the SK Troisdorf in Germany came up with a very special tournament: a diving chess championship. 22 participants played five rounds Swiss under water. Watches were not needed as hardly anyone could think about their move for long. The winner was Oleg Parashenko. | Photos: Sub Aqua Club Troisdorf/Ralf Pulinski",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-3/",
          "pubDate" : "Tue, 03 Sep 2024 10:07:13",
          "title" : "ECF Book of the Year shortlist"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113009883.cms\" />Chess' governing body FIDE have made some interesting changes in regulations of World Championship match involving challenger D Gukesh of India. But it's unclear if these tweaks are logical. The 14-game classical match between reigning champion Ding Liren of China and Gukesh is scheduled in Singapore from Nov 25 to Dec 13. The tiebreak provisions are also changed slightly.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/prize-purse-tweaked-for-d-gukesh-ding-liren-battle/articleshow/113009883.cms",
-         "pubDate" : "Tue, 03 Sep 2024 03:56:37",
-         "title" : "Prize purse tweaked for D Gukesh-Ding Liren battle"
       },
       {
          "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
