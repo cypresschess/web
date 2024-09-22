@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 Open Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and virtually clinched the gold medal. Dommaraju Gukesh won a key game against Fabiano Caruana and is now on 8/9 while Arjun Erigaisi is on 9/10. It will be India third The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "India all but secured overall victory in the Chess Olympiad after defeating the United States in the penultimate round. Wins by Dommaraju Gukesh (pictured), who outplayed Fabiano Caruana, and Arjun Erigaisi, who beat Leinier Dominguez, granted the Indian team the crucial match victory over the tournament's top seeds. Only China can theoretically catch India in the final round, though it is highly improbable, given India's commanding tiebreak scores. China kept their slim hopes alive by defeating the defending champions from Uzbekistan on Saturday. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r10-open",
+         "pubDate" : "Sun, 22 Sep 2024 08:20:00",
+         "title" : "Budapest R10 (open): India beat the US, all but secure Olympic gold"
+      },
+      {
+         "description" : "With one round to go in the Women's Chess Olympiad, four teams are still in contention for gold. India and Kazakhstan share the lead, while Poland and the United States are just 1 match point behind, making the final round on Sunday a thrilling climax to the tournament. In round 10, Kazakhstan, who started the day as sole leaders, drew against Georgia after Alua Nurman (pictured) saved a half point against Bella Khotenashvili. Meanwhile, India defeated China, with Divya Deshmukh's victory clinching the match. The final round will start four hours earlier than usual. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r10-women",
+         "pubDate" : "Sun, 22 Sep 2024 06:15:00",
+         "title" : "Budapest R10 (women): Kazakhstan, India, Poland and USA to fight for gold"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113563538.cms\" />Vladimir Kramnik, former World chess champion, complained about mobile phones on Indian boards at the Chess Olympiad. Authorities inspected and found no violations. FIDE clarified media regulations differ from player rules. The incident did not affect the crucial India-Uzbekistan match, which India approached with maturity.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-fide-fair-play-team-silences-vladimir-kramnik/articleshow/113563538.cms",
+         "pubDate" : "Sun, 22 Sep 2024 03:36:16",
+         "title" : "Chess Olympiad: FIDE Fair Play team silences Vladimir Kramnik"
+      },
+      {
+         "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 India close to making history! Open Wesley So (USA) set to face Rameshbabu Praggnanadhaa (IND)Photo by Daaim Shabazz/The Chess Drum Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and virtually clinched the gold medal. Wesley So opened with a win The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/",
@@ -10,7 +34,15 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 10"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> If white plays Bxd5, its a race to the end. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
+         "description" : "The dominant Indian men's team returned to winning ways with an empathic win over a star-studded USA while the women's team stayed in the hunt beating China.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41370445/india-fide-chess-olympiad-2024-cusp-gold-medal-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
+         "pubDate" : "Sun, 22 Sep 2024 01:10:18",
+         "title" : "India on the cusp of a historic gold (maybe two) at Chess Olympiad"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> After white plays Bxd5, its a pawn race </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/promote-and-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess",
          "pubDate" : "Sat, 21 Sep 2024 18:28:10",
          "title" : "Promote and Skewer - Arjun Explains #chess #chessendgame #chesstactics #lichess"
-      },
-      {
-         "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Lorenzo Lodici from Italy (FIDE / Mark Livshitz) | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-live",
-         "pubDate" : "Sat, 21 Sep 2024 14:45:00",
-         "title" : "Chess Olympiad - Live!"
       },
       {
          "description" : "GM Andrew Tang won his fourth Bullet Brawl&#38;nbsp;by a 20-point margin over GM Hikaru Nakamura. Tang began and ended on undefeated streaks to score 256 and&#38;nbsp;take home the $400 first prize. Nakamura won $250 for second place. IM Renato Terry ea...",
@@ -1232,14 +1256,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcet-awards-2024/",
          "pubDate" : "Wed, 04 Sep 2024 09:30:57",
          "title" : "BCET Awards 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113054334.cms\" />Vidit Gujrathi, a Grandmaster from Nashik, will compete for Mumba Masters in the Global Chess League's second season. Initially seeking stability through sports, he became one of India's top chess players. He surpassed the 2700 Elo rating mark and participated in this year's Candidates Tournament but aims to enhance his performance further.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-chess-star-vidit-gujrathi-says-his-error-of-judgement-has-worked-out-well/articleshow/113054334.cms",
-         "pubDate" : "Wed, 04 Sep 2024 07:02:51",
-         "title" : "Vidit Gujrathi says his 'error of judgement' has worked out well"
       },
       {
          "description" : "",
