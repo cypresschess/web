@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India made history by achieving a double gold in the Chess Olympiad, winning outright in both the open and women's sections. Both Indian teams dominated in the final round, securing convincing 3&frac12;-&frac12; victories. In the open section, Dommaraju Gukesh and Arjun Erigaisi led the way, while Divya Deshmukh and Vantika Agrawal starred in the women's section. All four players capped their stellar performances with individual gold medals. The United States and Uzbekistan took silver and bronze in the open section, while Kazakhstan and the United States claimed silver and bronze in the women's section.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r11",
+         "pubDate" : "Sun, 22 Sep 2024 20:40:00",
+         "title" : "Double gold for India at the Chess Olympiad in Budapest!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3228",
+         "pubDate" : "Sun, 22 Sep 2024 15:43:14",
+         "title" : "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113575093.cms\" />Viswanathan Anand congratulated the Indian men's and women's chess teams for their historic gold medal achievements at the Chess Olympiad in Budapest. The men's team secured victory against Slovenia, while the women's team triumphed over Azerbaijan. This marks India's first-ever gold medals at the event, following previous bronze medals won by both teams in earlier editions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-congratulates-indian-teams-on-maiden-chess-olympiad-golds/articleshow/113575093.cms",
+         "pubDate" : "Sun, 22 Sep 2024 15:37:33",
+         "title" : "Viswanathan Anand congratulates Indian teams on maiden Chess Olympiad golds"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113573523.cms\" />India's men's and women's chess teams secured their first-ever gold medals at the 45th Chess Olympiad in Budapest. The men triumphed over Slovenia with key victories from Gukesh, Erigaisi, and Praggnanadhaa. The women clinched their title by defeating Azerbaijan. The historic win follows previous bronze medals earned by both teams in earlier editions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,6 +42,14 @@ news_feed (
          "title" : "Team India creates history, wins First ever Team Gold Medal in both categories in Chess Olympiad 2024"
       },
       {
+         "description" : "India's milestone moments in their chess history - including Viswanathan Anand's pioneering feats and their historic double gold in the 2024 FIDE Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41379777/milestones-indian-chess-history-2024-olympiad-gold-gukesh-viswanathan-anand-manuel-aaron-subbaraman-vijayalakshmi?device=featurephone",
+         "pubDate" : "Sun, 22 Sep 2024 13:31:43",
+         "title" : "68 years in the making: Olympiad golds mark milestones in Indian chess history"
+      },
+      {
          "description" : "The ECF Events Calendar has been updated to a new plugin, with increased filters for sorting and a cleaner, clearer layout. This represents a lot of work on the part...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,12 +58,28 @@ news_feed (
          "title" : "Events calendar update"
       },
       {
+         "description" : "Exploring the defining moments that led to India's historic double at the 2024 FIDE Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41378765/fide-chess-olympiad-2024-key-moments-india-historic-double-gold-arjun-erigaisi-gukesh-divya-deshmukh-vantika-agarwal?device=featurephone",
+         "pubDate" : "Sun, 22 Sep 2024 12:14:51",
+         "title" : "Chess Olympiad: The key moments in India's historic double gold"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3227",
          "pubDate" : "Sun, 22 Sep 2024 12:04:52",
          "title" : "Women & chess: FIDE's mission to bridge gender gaps"
+      },
+      {
+         "description" : "The dominant Indian men's team returned to winning ways with an empathic win over a star-studded USA while the women's team stayed in the hunt beating China.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41370445/india-fide-chess-olympiad-2024-cusp-gold-medal-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
+         "pubDate" : "Sun, 22 Sep 2024 11:07:14",
+         "title" : "India on the cusp of a historic gold (maybe two) at Chess Olympiad"
       },
       {
          "description" : "The 45th edition of the Chess Olympiad is taking place on 11-22 September in Budapest, Hungary. A record 193 teams in the open and 181 teams in the women's category are fighting for collective and individual medals. | Pictured: Lu Miaoyi from China (FIDE / Michal Waluszha) | Follow the games live with expert commentary starting (four hours earlier than usual) at 11.00 CEST (5.00 ET, 12.30 IST)",
@@ -48,6 +96,22 @@ news_feed (
          "link" : "https://www.fide.com/news/3226",
          "pubDate" : "Sun, 22 Sep 2024 10:24:55",
          "title" : "How chess is transforming lives: 2024 #SocialChess Conference in Budapest"
+      },
+      {
+         "description" : "The dominant India team beat Slovenia to win their first Open gold, while the Indian women's team beat Azerbaijan to win gold.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41376355/india-win-historic-gold-fide-chess-olympiad-2024-open-women-gukesh-arjun-erigaisi?device=featurephone",
+         "pubDate" : "Sun, 22 Sep 2024 10:04:48",
+         "title" : "India win historic double gold in FIDE Chess Olympiad 2024"
+      },
+      {
+         "description" : "GMs Gukesh Dommaraju, Arjun Erigaisi, and Praggnanandhaa Rameshbabu all won as the Indian men wrapped up victory in the 45th FIDE Chess Olympiad with a statement 3.5-0.5 win over Slovenia. They finished a full four points ahead of five teams, with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-india-wins",
+         "pubDate" : "Sun, 22 Sep 2024 09:06:00",
+         "title" : "India Clinches Historic Double Olympiad Gold"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113568320.cms\" />Rahul Gandhi wished Team India well as they enter the crucial rounds of the Chess Olympiad in Budapest. Grandmaster D Gukesh's victory over Fabiano Caruana has heightened expectations for India's first gold medal in the men's section, while the women's team is also a leading contender for gold.",
@@ -88,14 +152,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/",
          "pubDate" : "Sun, 22 Sep 2024 02:19:24",
          "title" : "2024 Chess Olympiad: Round 10"
-      },
-      {
-         "description" : "The dominant Indian men's team returned to winning ways with an empathic win over a star-studded USA while the women's team stayed in the hunt beating China.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41370445/india-fide-chess-olympiad-2024-cusp-gold-medal-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
-         "pubDate" : "Sun, 22 Sep 2024 01:10:18",
-         "title" : "India on the cusp of a historic gold (maybe two) at Chess Olympiad"
       },
       {
          "description" : "<div class=\"body text-secondary\"> After white plays Bxd5, its a pawn race </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
@@ -1026,28 +1082,12 @@ news_feed (
          "title" : "Aronian, Mamedyarov, Arjun Live Dangerously As Top Teams Win"
       },
       {
-         "description" : "We&#39;re excited to announce that you can now keep up with players&#39; rating changes in real time right on our Events page! You can also quickly see players&#39; performance ratings for that event. Learn more about these new features and how to turn them o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/events-live-ratings",
-         "pubDate" : "Wed, 11 Sep 2024 09:00:00",
-         "title" : "Announcing New Live Rating Features On Our Events Page"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3206",
          "pubDate" : "Wed, 11 Sep 2024 08:37:34",
          "title" : "Final list of Member Federations having right to vote at GA 2024 published"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113248380.cms\" />Viswanathan Anand, a five-time world chess champion, is not part of India's 2024 Chess Olympiad squad. Young talents like R Praggnanandhaa and D Gukesh have taken his legacy forward. Anand has chosen to step back and mentor the next generation. The Indian men's team is seeded second for this edition of the Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-why-viswanathan-anand-is-missing-from-indias-chess-olympiad-squad-for-second-time-in-a-row/articleshow/113248380.cms",
-         "pubDate" : "Wed, 11 Sep 2024 05:52:26",
-         "title" : "EXPLAINED: Why Anand missing in India's Olympiad squad"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows one of his games from the 1000 GrandMasters Norm event at Saint Louis University in September 2024, against 2024 U.S. Junior Championship player Nicky Ladan. Nyzhnyk was the heavy favorite in a field of players trying to become International Masters. 2024.09.10<br /> Nicky Ladan vs. Illia Nyzhnyk, 2024: A45 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-",
@@ -1376,14 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3194",
          "pubDate" : "Mon, 02 Sep 2024 00:47:25",
          "title" : "FIDE September 2024 rating list published"
-      },
-      {
-         "description" : "And I mean that in the kindest way, like 'Ugly Christmas Sweater'. English speaking visitors to this blog might be surprised to know that the famous sweaters are known and sought after internationally. Will chess jackets also catch on? <P> This latest post for <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), features an item titled, 'Kidsuper Chess Not Checkers Corduroy Blazer - Size Large - Brown - NEW'. It sold for US$ 335.00, 'Buy It Now'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oi01.jpg\" WIDTH=400 HEIGHT=400> <P> The description said, <BLOCKQUOTE> <DL> <DT>Condition:</DT> <DD>N",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/09/ugly-chess-jacket.html",
-         "pubDate" : "Sun, 01 Sep 2024 15:32:00",
-         "title" : "Ugly Chess Jacket"
       }
    ]
 }
