@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Olympiad has a well-established history for revealing young talents on the rise, and while the focus in Budapest 2024 has deservedly been the astounding domination by India, other nations have shown glimpses of possible rivals for the future. One notable is T&uuml;rkiye, whose team is bolstered by two teenage grandmasters aged 15 and 13. We are witnessing a golden age unfolding. | Photo: Mark Livshitz/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rise-of-the-brilliant-young-turks",
+         "pubDate" : "Mon, 23 Sep 2024 16:00:00",
+         "title" : "The rise of the brilliant Young Turks"
+      },
+      {
+         "description" : "The strongest chess event ever held in the UK a team rapidplay tournament featuring 36 world-class players! To buy tickets for the Global Chess League at Friends House, please...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/tech-mahindra-global-chess-league-october-3rd/",
+         "pubDate" : "Mon, 23 Sep 2024 13:16:50",
+         "title" : "Tech Mahindra Global Chess League - October 3rd!"
+      },
+      {
          "description" : "Can you mate with two bishops? And how about with bishop and knight? Really, can you do it, if it comes up in a tournament game? Before that happens, it would be well to check. You can do it easily by playing it against our diagrams. And if you have trouble, let Gauri Shankar, chess trainer from Chicago, give you instructions. In addition try and solve our puzzle by finding the long-range strategic solution.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1354,14 +1370,6 @@ news_feed (
          "title" : "ECF Secondary School Chess News September 2024"
       },
       {
-         "description" : "The Chess Trust are pleased to announced that four awards have been made to the following: North Cardiff Junior Chess Club; Park End Primary School Middlesbrough; St William of York...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcet-awards-2024/",
-         "pubDate" : "Wed, 04 Sep 2024 09:30:57",
-         "title" : "BCET Awards 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1400,22 +1408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-16",
          "pubDate" : "Mon, 02 Sep 2024 16:00:00",
          "title" : "\"If one piece is bad, the entire position is bad\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3193",
-         "pubDate" : "Mon, 02 Sep 2024 14:01:12",
-         "title" : "FIDE World Youth Rapid and Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2024 concluded yesterday in Prague, Czech Republic. The event gathered 1230 players coming from 47 European federations, who competed in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. The Awarding ceremony took place yesterday evening, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Malcolm Pein, ECU Tournament Director Mr. Petr Pisk, the president of the Czech Chess Federation Mr. Martin Petr, tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-champions-2024-crowned-in-prague/",
-         "pubDate" : "Mon, 02 Sep 2024 12:19:31",
-         "title" : "European Youth Chess Champions 2024 crowned in Prague"
       }
    ]
 }
