@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113581497.cms\" />India's men's and women's teams have made history by winning their first-ever gold medals at the 45th Chess Olympiad in Budapest. The men's team triumphed over Slovenia, while the women's team defeated Azerbaijan. Prime Minister Narendra Modi praised these achievements, highlighting them as a reflection of India's energy and aspirations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-team-india-celebrates-historic-chess-olympiad-double-gold-in-style-fans-draw-parallels-with-rohit-sharmas-walk-at-t20-world-cup/articleshow/113581497.cms",
+         "pubDate" : "Mon, 23 Sep 2024 01:03:51",
+         "title" : "Watch: Team India's 'Rohit Sharma walk' to celebrate Chess Olympiad success"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113581072.cms\" />D Gukesh, the youngest world championship challenger, played a pivotal role in India's historic Chess Olympiad victory. Scoring nine points from ten games with eight wins and two draws, he earned an individual gold medal on Board-1. Gukesh stressed that the team was focused on clinching the team gold for India, marking a significant achievement.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-were-in-celebration-mode-since-yesterday-gukesh-after-india-win-chess-olympiad-gold/articleshow/113581072.cms",
+         "pubDate" : "Mon, 23 Sep 2024 00:14:04",
+         "title" : "'In celebration mode since yesterday': Gukesh after India win Chess Olympiad gold"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3229",
+         "pubDate" : "Sun, 22 Sep 2024 23:20:47",
+         "title" : "Triumphant moments: Celebrating the winners of 45th Chess Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113578599.cms\" />India clinched its first double team gold at the Chess Olympiad in Budapest, joining an elite group with the Soviet Union and China. The men's team secured victory against Slovenia while the women's team defeated Azerbaijan. Key players D Gukesh, Arjun Erigaisi, Divya Deshmukh, and Vantika Agrawal also won individual board gold medals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-a-first-for-india-men-and-women-win-chess-olympiad-team-golds/articleshow/113578599.cms",
+         "pubDate" : "Sun, 22 Sep 2024 21:51:13",
+         "title" : "In a first for India, men and women win Chess Olympiad team golds"
+      },
+      {
          "description" : "India made history by achieving a double gold in the Chess Olympiad, winning outright in both the open and women's sections. Both Indian teams dominated in the final round, securing convincing 3&frac12;-&frac12; victories. In the open section, Dommaraju Gukesh and Arjun Erigaisi led the way, while Divya Deshmukh and Vantika Agrawal starred in the women's section. All four players capped their stellar performances with individual gold medals. The United States and Uzbekistan took silver and bronze in the open section, while Kazakhstan and the United States claimed silver and bronze in the women's section.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -440,6 +472,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-qualifiers",
          "pubDate" : "Thu, 19 Sep 2024 18:47:00",
          "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
+      },
+      {
+         "description" : "National Under 07 Girls Rank Name 1 Aaranya R 2 Arpitangshi Bhattacharya 3 Saiaastha Singh 4 Shreyanshi Jain 5 Poushita Paliwal 6 Anvi Deepak Hinge",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-under-07-chess-championship-2024-in-mysuru-karnataka/",
+         "pubDate" : "Thu, 19 Sep 2024 17:45:53",
+         "title" : "Certificate of National Under 07 Chess Championship 2024 in Mysuru ,Karnataka."
       },
       {
          "description" : "After defeating Iran 3.5-0.5, India continues to lead the 45th FIDE Chess Olympiad with a perfect 16/16 score. Of 32 games played, India hasn&#39;t lost a single one. GM Benjamin Gledura won a close match for Hungary 2.5-1.5 against Armenia after defe...",
@@ -922,14 +962,6 @@ news_feed (
          "title" : "Arjun arrow floors Hungary B, wins hearts"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113339131.cms\" />India's women's chess team clinched a crucial 3-1 victory over Switzerland in the third round of the 45th Chess Olympiad. Despite D Harika's defeat to Alexandra Kosteniuk, wins by R Vaishali, Divya Deshmukh, and Vantika Agarwal secured India's lead. Meanwhile, the Indian men's team is performing strongly against Hungary 'B'.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-womens-team-beats-switzerland-3-1-to-remain-in-joint-lead/articleshow/113339131.cms",
-         "pubDate" : "Sat, 14 Sep 2024 02:56:07",
-         "title" : "Chess Olympiad: Indian women's team beats Switzerland 3-1 to remain in joint lead"
-      },
-      {
          "description" : " 2024 Chess Olympiad: Round 1Wednesday, 11 September 2024 The 2024 Chess Olympiad has begun! Typically, Round 1 pairings are top teams against those from developing federations. The most common story is about upsets. Every Olympiad, there is usually a case of a player with a 300-400 rating handicap winning or drawing. Reddit was buzzing about The post <a href=\"https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/\">2024 Chess Olympiad: Round 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1058,14 +1090,6 @@ news_feed (
          "title" : "Google announced as Title Sponsor of World Chess Championship Singapore 2024 "
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113280275.cms\" />The Indian men's and women's teams launched their campaigns at the 45th Chess Olympiad with decisive victories. The men triumphed 4-0 against Morocco, led by R Praggnanandhaa, while the women secured a 3.5-0.5 win over Jamaica, with notable performances from R Vaishali and teammates.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/45th-chess-olympiad-indian-teams-make-winning-start-with-convincing-victories-over-morocco-and-jamaica/articleshow/113280275.cms",
-         "pubDate" : "Thu, 12 Sep 2024 05:33:33",
-         "title" : "Chess Olympiad: Indian teams make winning start with convincing victories"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1128,14 +1152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-a-complete-sicilian-repertoire-a-review",
          "pubDate" : "Tue, 10 Sep 2024 10:00:00",
          "title" : "Robert Ris: A Complete Sicilian Repertoire - a review"
-      },
-      {
-         "description" : "Asian Juniors and Girls Chess Championship 2024 Tagaytay City, Philippines 11th to 20th October, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-and-girls-chess-championship-2024-in-tagaytay-city-philippines-from-11th-to-20th-october-2024/",
-         "pubDate" : "Tue, 10 Sep 2024 08:36:49",
-         "title" : "Asian Juniors and Girls Chess Championship - 2024 in Tagaytay City, Philippines from 11th to 20th October, 2024"
       },
       {
          "description" : "In the notice calling for nominations circulated on 27th August, I said that I would update delegates on Alex Longson's decision to continue or not in his current role as...",
@@ -1408,14 +1424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3192",
          "pubDate" : "Mon, 02 Sep 2024 03:55:43",
          "title" : "FIDE World Championship Match 2024 Regulations announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3194",
-         "pubDate" : "Mon, 02 Sep 2024 00:47:25",
-         "title" : "FIDE September 2024 rating list published"
       }
    ]
 }
