@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 45th World Chess Olympiad took place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then China, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China were the top seeds in the women's events. India dominated the Open Olympiad being one of the most convincing winners in many years, they were held to four draws by bronze medalists Uzbekistan in Round 9 but otherwise won all their matches powered by Gukesh's 9 from 10 on board one and Erigaisi's 10/11 on board 3. Praggnanandhaa (6/10",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
+         "pubDate" : "Mon, 23 Sep 2024 18:03:00",
+         "title" : "45th World Chess Olympiad 2024 - Games and Results"
+      },
+      {
          "description" : "The Chess Olympiad has a well-established history for revealing young talents on the rise, and while the focus in Budapest 2024 has deservedly been the astounding domination by India, other nations have shown glimpses of possible rivals for the future. One notable is T&uuml;rkiye, whose team is bolstered by two teenage grandmasters aged 15 and 13. We are witnessing a golden age unfolding. | Photo: Mark Livshitz/FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-training-and-strategy",
          "pubDate" : "Mon, 23 Sep 2024 11:00:00",
          "title" : "Chess training and strategy"
+      },
+      {
+         "description" : "Russian and Belarusian chess teams will remain banned, the International Chess Federation (FIDE) decided at the General Assembly on Sunday. Instead, delegates voted in favor of a motion to consider lifting some restrictions for vulnerable groups. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-votes-to-maintain-russian-belarusian-sanctions",
+         "pubDate" : "Mon, 23 Sep 2024 10:44:21",
+         "title" : "'Crushing Defeat' For Russia, Belarus as FIDE Votes To Maintain Sanctions"
+      },
+      {
+         "description" : "We&#39;re excited to announce the 2024 US Masters, the strongest open tournament in the United States, taking place in Charlotte, North Carolina, and hosted by the Charlotte Chess Center, Chess.com&#39;s official partner. The event starts on November 27 a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-us-masters-2024",
+         "pubDate" : "Mon, 23 Sep 2024 10:30:00",
+         "title" : "Announcing The 2024 US Masters Featuring GM Fabiano Caruana And Special Guest GM Daniel Naroditsky"
       },
       {
          "description" : "Many congratulations to Leonard Barden on his well-deserved FIDE award https://www.fide.com/news/3223 Leonard Barden's journalism has played a crucial role in promoting chess in both national and international media. He...",
@@ -1106,14 +1130,6 @@ news_feed (
          "title" : "Netflix Announces Carlsen-Niemann Documentary Set For 2025 Release"
       },
       {
-         "description" : "Google will be the title sponsor for the 2024 FIDE World Championship Match between GMs Ding Liren and Gukesh Dommaraju. Described as a &#34;landmark collaboration,&#34; the news was announced today by the International Chess Federation (FIDE) and the Sin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/google-title-sponsor-2024-world-chess-championship",
-         "pubDate" : "Thu, 12 Sep 2024 08:38:00",
-         "title" : "Google Announced As Title Sponsor For Ding-Gukesh World Championship"
-      },
-      {
          "description" : "Be inspired in Budapest as greatness unites from every corner of the globe for the 45th FIDE Chess Olympiad. Team Uzbekistan and Team Ukraine prepare to defend their titles from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3207",
          "pubDate" : "Wed, 11 Sep 2024 21:46:10",
          "title" : "45th Chess Olympiad: Smooth sailing for favorites in Round 1"
-      },
-      {
-         "description" : "GM Levon Aronian blundered a piece against 607-point-lower-rated FM Andre Mendez, but still went on to win as top-seed United States claimed a 3.5-0.5 victory over Panama&#38;mdash;GM Wesley So&#39;s solid draw cost him a place in the top 10. None of the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-1",
-         "pubDate" : "Wed, 11 Sep 2024 13:05:00",
-         "title" : "Aronian, Mamedyarov, Arjun Live Dangerously As Top Teams Win"
       },
       {
          "description" : "",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.europechess.org/4th-ecu-annual-training-program/",
          "pubDate" : "Mon, 09 Sep 2024 06:45:45",
          "title" : "4th ECU Annual Training Program"
-      },
-      {
-         "description" : " The 45th World Chess Olympiad takes place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then 3\t\tChina, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China are the top seeds in the women's events, should be pretty great.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
-         "pubDate" : "Sun, 8 Sep 2024 22:01:00",
-         "title" : "45th World Chess Olympiad 2024 - Games and Results"
       },
       {
          "description" : " The chess.com Speed Chess Final took place in Paris Fri 6th Sep to Sun 8th Sep 2024. Magnus Carlsen faced Hans Moke Niemann for the first time since he lost to him in the Sinquefield Cup in 2022. Although these games were still played over the internet on chess.com they were at least in the same room. Carlsen won handily. Alireza Firouzja beat Hikarua Nakamura to reach the final. Nakamura beat Niemann to finish third and then Carlsen trounced Firouzja 23.5-7.5 in the final.",
@@ -1400,14 +1400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/puzzle-solutions-2",
          "pubDate" : "Mon, 02 Sep 2024 21:00:00",
          "title" : "Puzzle solutions"
-      },
-      {
-         "description" : "A badly positioned piece can make the difference between victory and defeat! In his series 'Practical tips for the tournament player', Jan Markos develops a winning strategy from this in the new CBM #221: Gain a decisive advantage by taking one of your opponent's pieces out of the game. In his video, he demonstrates how to do this using two sample games by Cheparinov and Carlsen. And afterwards you can test your skills with a small collection of exercises. Have fun with the free CBM-sample of this week!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-16",
-         "pubDate" : "Mon, 02 Sep 2024 16:00:00",
-         "title" : "\"If one piece is bad, the entire position is bad\""
       }
    ]
 }
