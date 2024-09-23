@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Can you mate with two bishops? And how about with bishop and knight? Really, can you do it, if it comes up in a tournament game? Before that happens, it would be well to check. You can do it easily by playing it against our diagrams. And if you have trouble, let Gauri Shankar, chess trainer from Chicago, give you instructions. In addition try and solve our puzzle by finding the long-range strategic solution.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-training-and-strategy",
+         "pubDate" : "Mon, 23 Sep 2024 11:00:00",
+         "title" : "Chess training and strategy"
+      },
+      {
+         "description" : "Many congratulations to Leonard Barden on his well-deserved FIDE award https://www.fide.com/news/3223 Leonard Barden's journalism has played a crucial role in promoting chess in both national and international media. He...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/best-journalist-leonard-barden/",
+         "pubDate" : "Mon, 23 Sep 2024 09:53:30",
+         "title" : "Best Journalist - Leonard Barden"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3230",
+         "pubDate" : "Mon, 23 Sep 2024 09:29:37",
+         "title" : "Key Decisions from the 2024 FIDE General Assembly"
+      },
+      {
+         "description" : "The 45th Chess Olympiad concluded yesterday in Hungary, Budapest, with India clinching gold in both Open and Women's sections, and winning the prestigious Gaprindashvili Cup (for the best combined results in Open and Women's events). Scoring 21 match points, India's Open team emerged convincing winner of the event. A draw in the last round would be enough for India to claim gold, but they won the match against Slovenia with the score of 3.5-0.5. Playing on the top board for []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/india-claims-double-gold-at-the-45th-chess-olympiad/",
+         "pubDate" : "Mon, 23 Sep 2024 09:04:47",
+         "title" : "India claims double gold at the 45th Chess Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113592663.cms\" />India clinched gold medals in both men's and women's categories at the 45th Chess Olympiad held in Budapest. Key players trained at Viswanathan Anand's Westbridge Anand Chess Academy were instrumental in this success. This historic win underscores India's rising stature in global chess competitions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-the-viswanathan-anand-effect-thats-shaping-a-golden-generation/articleshow/113592663.cms",
+         "pubDate" : "Mon, 23 Sep 2024 08:08:34",
+         "title" : "The Viswanathan Anand effect that's shaping a 'golden generation'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113586216.cms\" />Divya Deshmukh, an 18-year-old chess prodigy from Nagpur, significantly contributed to India's success at the Chess Olympiad in Budapest. Remaining unbeaten through all 11 rounds, she helped secure vital wins against China and Azerbaijan. Her exceptional performance earned her the Board 3 individual gold medal and elevated her to No.11 in world rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-budapest-gambit-how-india-outplayed-the-world-to-win-double-gold-at-chess-olympiad/articleshow/113584552.cms",
          "pubDate" : "Mon, 23 Sep 2024 04:03:11",
          "title" : "The Budapest Gambit: How India outplayed the world to win double gold at Chess Olympiad"
+      },
+      {
+         "description" : "With two golds - in Open and Women - they've taken all that unimpressive history in the tournament, smashed it out of the park and taken Indian chess to a whole new level.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41392539/chess-gold-rush-new-gen-champs-gukesh-divya-vantika-pragg-took-viswanathan-anand-skill-added-scale?device=featurephone",
+         "pubDate" : "Mon, 23 Sep 2024 03:43:37",
+         "title" : "Chess gold rush: New-gen champs took Anand's skill and added scale"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113581497.cms\" />India's men's and women's teams have made history by winning their first-ever gold medals at the 45th Chess Olympiad in Budapest. The men's team triumphed over Slovenia, while the women's team defeated Azerbaijan. Prime Minister Narendra Modi praised these achievements, highlighting them as a reflection of India's energy and aspirations.",
@@ -802,14 +850,6 @@ news_feed (
          "title" : "ECU E-Magazine August 2024"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113386144.cms\" />Ding Liren, the defending champion, concedes that his Indian opponent D Gukesh is favored to win their global chess title match this November. Both are currently participating in the 45th Chess Olympiad in Budapest. The world championship will be held from November 20 to December 15 in Singapore, featuring a USD 2.50 million prize pool.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-defending-champion-ding-liren-tells-why-challenger-d-gukesh-is-favourite/articleshow/113386144.cms",
-         "pubDate" : "Mon, 16 Sep 2024 07:08:17",
-         "title" : "Chess Olympiad: Ding Liren tells why challenger D Gukesh is favourite"
-      },
-      {
          "description" : " 2024 Chess Olympiad: Round 3Friday, 13 September 2024 Nice aerial shot by Michal Walusza! Open Round 3 of the Budapest Olympiad saw some contested battles, but the buzz of the round was the world's top player,&#160;Magnus Carlsen,&#160;arriving 11 minutes late for his first game. Team Captain Odin Blikra Vea explained the weather was bad and The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/\">2024 Chess Olympiad: Round 3</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1346,14 +1386,6 @@ news_feed (
          "title" : "Elections of Chairmen and Members of 3 FIDE Commissions to take place at FIDE GA"
       },
       {
-         "description" : "Clubs and other chess organisations can now renew their insurance through Green Insurance Group by using the renewal/application form link below. All applications and payments should be sent to Green...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2024-25/",
-         "pubDate" : "Tue, 03 Sep 2024 10:42:33",
-         "title" : "Clubs & Congress Insurance 2024/25"
-      },
-      {
          "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1384,22 +1416,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-champions-2024-crowned-in-prague/",
          "pubDate" : "Mon, 02 Sep 2024 12:19:31",
          "title" : "European Youth Chess Champions 2024 crowned in Prague"
-      },
-      {
-         "description" : "Time trouble is part of the game. In many cases, players in acute time trouble knock down pieces and don't fix them before pressing the clock. Some players are very meticulous to fix any displacement in their own time while others are not. Arbiter's intervention is to be determined in case to case basis. International Arbiter Alon Shulman shares an incident that took place recently in the ECU magazine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/knocking-down-pieces-in-time-trouble",
-         "pubDate" : "Mon, 02 Sep 2024 09:00:00",
-         "title" : "Knocking down pieces in time trouble"
-      },
-      {
-         "description" : "The 2024 European Amateur Chess Championship took place from 24th August to 1st September in Mali Losinj, Croatia. The event was played in three age categories: U1700, U2000 and U2300, and the Winners of each category were crowned the European Amateur Chess Champions for the respective rating section. Despite a loss in the last round, CM Korab Saraci (KOS, 2186) emerged as the sole Winner of the U2300 tournament, scoring 6.5 points. Three players tied for silver scoring 6 points []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2024-concluded-in-croatia/",
-         "pubDate" : "Mon, 02 Sep 2024 08:12:37",
-         "title" : "European Amateur Chess Championship 2024 concluded in Croatia"
       }
    ]
 }
