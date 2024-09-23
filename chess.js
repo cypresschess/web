@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Erik \"Mr. Tactics\" Tkachenko </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-erik-tkachenko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sP0SIwu4gmM.jpg?itok=ma",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/us-champion-fabiano-caruana-vs-erik-tkachenko",
+         "pubDate" : "Mon, 23 Sep 2024 21:29:46",
+         "title" : "US Champion Fabiano Caruana vs Erik Tkachenko"
+      },
+      {
          "description" : " The 45th World Chess Olympiad took place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then China, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China were the top seeds in the women's events. India dominated the Open Olympiad being one of the most convincing winners in many years, they were held to four draws by bronze medalists Uzbekistan in Round 9 but otherwise won all their matches powered by Gukesh's 9 from 10 on board one and Erigaisi's 10/11 on board 3. Praggnanandhaa (6/10",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-rise-of-the-brilliant-young-turks",
          "pubDate" : "Mon, 23 Sep 2024 16:00:00",
          "title" : "The rise of the brilliant Young Turks"
+      },
+      {
+         "description" : "India is the future of chess and the future is now. That&#39;s one summary of the 45th FIDE Chess Olympiad, which saw GM Gukesh Dommaraju, GM Arjun Erigaisi, IM Divya Deshmukh, and IM Vantika Agrawal claim team and individual gold as India dominated t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-olympiad-2024-14-things-we-learned",
+         "pubDate" : "Mon, 23 Sep 2024 14:57:00",
+         "title" : "14 Things We Learned - 2024 Chess Olympiad"
       },
       {
          "description" : "The strongest chess event ever held in the UK a team rapidplay tournament featuring 36 world-class players! To buy tickets for the Global Chess League at Friends House, please...",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-votes-to-maintain-russian-belarusian-sanctions",
-         "pubDate" : "Mon, 23 Sep 2024 10:44:21",
+         "pubDate" : "Mon, 23 Sep 2024 10:44:00",
          "title" : "'Crushing Defeat' For Russia, Belarus as FIDE Votes To Maintain Sanctions"
       },
       {
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/we-were-in-celebration-mode-since-yesterday-gukesh-after-india-win-chess-olympiad-gold/articleshow/113581072.cms",
          "pubDate" : "Mon, 23 Sep 2024 00:14:04",
          "title" : "'In celebration mode since yesterday': Gukesh after India win Chess Olympiad gold"
+      },
+      {
+         "description" : "The 45th FIDE Olympiad concluded on Sunday, September 22 after eleven rounds of matches showcasing the best players of almost 200 countries in each of the Open and Women's events. When all was said and done, India took home the gold in both events, with the Americans defeating China 2&frac12; - 1&frac12; in the Open to claim a silver medal and tying Kazakhstan to earn bronze in the Women's.<br /><br /> This was the Women's team first medal in 16 years, punctuated by an emphatic 10/11 performance on board two from IM Carissa Yip. The well-deserved individual gold paired nicely with IM Alice Lee's individual silver for her board four score of 8/10. Neither Yip nor Lee lost any of their combine",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/two-team-three-individual-medals-americans-india-takes-double-gold-45th-fide-olympiad",
+         "pubDate" : "Mon, 23 Sep 2024 00:00:00",
+         "title" : "Two Team, Three Individual Medals for Americans as India Takes Double Gold at 45th FIDE Olympiad"
       },
       {
          "description" : "",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "Asian stars conquering the chess world"
       },
       {
-         "description" : "The controversial Carlsen vs. Niemann scandal is confirmed to appear on Netflix in 2025, the streaming giant has announced. The news is setting the stage for what could be an explosive documentary on the drama and aftermath of the episode that sho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/netflix-unveils-carlsen-niemann-documentary-for-2025",
-         "pubDate" : "Thu, 12 Sep 2024 09:16:00",
-         "title" : "Netflix Announces Carlsen-Niemann Documentary Set For 2025 Release"
-      },
-      {
          "description" : "Be inspired in Budapest as greatness unites from every corner of the globe for the 45th FIDE Chess Olympiad. Team Uzbekistan and Team Ukraine prepare to defend their titles from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1160,22 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3206",
          "pubDate" : "Wed, 11 Sep 2024 08:37:34",
          "title" : "Final list of Member Federations having right to vote at GA 2024 published"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows one of his games from the 1000 GrandMasters Norm event at Saint Louis University in September 2024, against 2024 U.S. Junior Championship player Nicky Ladan. Nyzhnyk was the heavy favorite in a field of players trying to become International Masters. 2024.09.10<br /> Nicky Ladan vs. Illia Nyzhnyk, 2024: A45 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-i-crushed-im-norm-field-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Wed, 11 Sep 2024 03:20:45",
-         "title" : "How I CRUSHED the IM Norm Field! | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
-         "description" : "Just like our Tactics Tuesday series, this week's puzzles come from the 2024 Saint Louis Rapid & Blitz. French GM Alireza Firouzja won the event in style, along the way to winning the 2024 Sinquefield Cup and 2024 Grand Chess Tour bonus, to boot. Many of these positions were reached under extreme time pressure. Can you do better than some of the world's top players? <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-1",
-         "pubDate" : "Wed, 11 Sep 2024 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 1"
       },
       {
          "description" : "",
@@ -1392,14 +1392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3195",
          "pubDate" : "Tue, 03 Sep 2024 12:26:51",
          "title" : "Elections of Chairmen and Members of 3 FIDE Commissions to take place at FIDE GA"
-      },
-      {
-         "description" : "Last week we showed you three positions, miniatures with five or six pieces that looked simple enough. But finding a a clear and forced win was anything but trivial - you needed to work out some unusually subtle strategy to solve them. Today we present the solutions, in the form of videos by Gauri Shankar, chess trainer from Chicago, in his unique explanatory style.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/puzzle-solutions-2",
-         "pubDate" : "Mon, 02 Sep 2024 21:00:00",
-         "title" : "Puzzle solutions"
       }
    ]
 }
