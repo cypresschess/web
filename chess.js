@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk tells you what you need to know before you assume the attacking lifestyle in your chess repertoire. 2024.09.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d2Yk42VQSME.jpg?itok=IjM9OHmy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Tue, 24 Sep 2024 21:30:21",
+         "title" : "Pros & Cons of Attacking Play Style | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman demonstrates just how vicious one can strive to be at the chess board. 2024.09.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sara-hermans-most-violent-chess-attacks-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/neD8XIWZ-dU.jpg?itok=Wvz9kyD0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sara-hermans-most-violent-chess-attacks-road-2000",
+         "pubDate" : "Tue, 24 Sep 2024 21:30:21",
+         "title" : "Sara Herman's Most Violent Chess Attacks | Road to 2000"
+      },
+      {
          "description" : "The members of the Chess History and Literature Society held their annual conference during the Chess Olympiad in Budapest. At the invitation of the Hungarian Chess Federation, around 20 members and guests met in the historical premises of the host, discussed exciting questions of chess history in lectures and also commemorated the great Hungarian chess players. Herbert Bastian and Frank Hoffmeister report. | Photos: Herbert Bastian, Henry Serruys",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/in-olympic-year-indias-big-gold/articleshow/113615980.cms",
          "pubDate" : "Tue, 24 Sep 2024 03:20:39",
          "title" : "In Olympic year, India's big gold"
+      },
+      {
+         "description" : "For this week's Tactics Tuesday, we take a look at the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. The games were played online, but with competitors in the same location in front of a live crowd in Paris, France. GM Magnus Carlsen won both of his matches, and GM Hikaru Nakamura won his third-place match against GM Hans Niemann. French GM Alireza Firouzja finished second.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-1",
+         "pubDate" : "Tue, 24 Sep 2024 00:00:00",
+         "title" : "Tactics Tuesday: Paris Speed Chess Champs, Pt. 1"
       },
       {
          "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Erik \"Mr. Tactics\" Tkachenko </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-erik-tkachenko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sP0SIwu4gmM.jpg?itok=ma",
@@ -786,14 +810,6 @@ news_feed (
          "title" : "Trade Pieces Properly! | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman teaches a chess class about managing your attitude when your position on the board seems hopeless. 2024.09.17<br /> Sara Herman vs. David Kassin, 2022: B76 Sicilian, dragon, Yugoslav attack, Rauser variation<br /> Herman vs. Sheena Zeng, 2023: D43 Queen&#039;s Gambit Declined semi-Slav<br /> Herman vs. Richard Shtivelband, 2023: A96 Dutch, classical variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keep-your-chin-positivity-lost-posit",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/keep-your-chin-positivity-lost-positions-road-2000",
-         "pubDate" : "Wed, 18 Sep 2024 00:25:11",
-         "title" : "Keep Your Chin Up! Positivity in Lost Positions | Road to 2000"
-      },
-      {
          "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-general-assembly-vote-belarus-russia",
          "pubDate" : "Tue, 17 Sep 2024 23:34:00",
          "title" : "Chess World Awaits Controversial Vote At FIDE General Assembly To Reinstaste Russia, Belarus"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (players below). Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wEtMk4SOGwo.jpg?itok=BlZMpLPx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-1",
-         "pubDate" : "Tue, 17 Sep 2024 21:25:15",
-         "title" : "2024 U.S. Chess Championships: Round 1"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 6Monday, 16 September 2024 Open Round 6 is right before the rest day and the tournament got a bit more tense. India continued mowing down the field and beat host Hungary by a resounding 3-1 score. Arjun Erigaisi is cleaning up on board 3 with 6/6 and a 3341 performance rating! The post <a href=\"https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/\">2024 Chess Olympiad: Round 6</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41239289/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-2-report?device=featurephone",
          "pubDate" : "Fri, 13 Sep 2024 00:32:25",
          "title" : "Chess Olympiad 2024: Gukesh leads India past Iceland, Harika and co. beat Czechia on day 2"
-      },
-      {
-         "description" : "Three rounds into the 45th FIDE Chess Olympiad, held from September 10 through 23 in Budapest, Hungary, Team USA is off to a 3-0 start in both the Open and Women's events. <br /><br /> Read on for a full report, featuring analysis of games from each round of both teams. Highlights include: GM Levon Aronian's come-from-behind magic in round one, IM Carissa Yip's full-board control in round three, IM Alice Lee's Olympiad debut, and some serious endgame clinics from GMs Ray Robson and Leinier Dominguez as well as IM Golrukhbegim Tokhirjonova. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/45th-chess-olympiad-begins-budapest",
-         "pubDate" : "Fri, 13 Sep 2024 00:00:00",
-         "title" : "45th Chess Olympiad Begins in Budapest, Both Teams Improve to 3-0"
       },
       {
          "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
