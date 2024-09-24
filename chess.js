@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113615980.cms\" />Gukesh's remarkable performance on the top board at the Chess Olympiad stood out, achieving a rating performance surpassed only once before. Divya Deshmukh became world No. 1 among junior girls with her strong play. The Indian team secured gold, demonstrating dominance and effectively handling the challenges of the Swiss League format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-olympic-year-indias-big-gold/articleshow/113615980.cms",
+         "pubDate" : "Tue, 24 Sep 2024 03:20:39",
+         "title" : "In Olympic year, India's big gold"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Erik \"Mr. Tactics\" Tkachenko </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-erik-tkachenko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sP0SIwu4gmM.jpg?itok=ma",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.europechess.org/45th-chess-olympiad-is-halfway-through/",
          "pubDate" : "Tue, 17 Sep 2024 11:19:27",
          "title" : "45th Chess Olympiad is halfway through"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113414111.cms\" />The Indian men and women chess teams extended their unbeaten runs at the Chess Olympiad in Budapest. Divya Deshmukh triumphed over Armenia's Elina Danielian, continuing her strong performance. Arjun Erigaisi achieved his sixth consecutive win in the Open section. Both teams have now recorded six wins each, solidifying their standings in the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-unbeaten-run-continues/articleshow/113414111.cms",
-         "pubDate" : "Tue, 17 Sep 2024 05:29:02",
-         "title" : "Chess Olympiad: India's unbeaten run continues"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 5Sunday, 15 September 2024 Open The Indian men have continued to dominate in the Open Section. D. Gukesh (4/4) and Arjun Erigaisi (5/5) scored for India, while R. Praggnanandhaa got his second consecutive draw. Vidit Gujrathi drew with Shakriyar Mamedyarov who seems to be sliding further and further down the boards The post <a href=\"https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/\">2024 Chess Olympiad: Round 5</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
