@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the Live Link : https://live.tamilchess.com/29th-im-norm-coimbatore/ Playing schedule Round Date Time 1 2024/09/23 03.30 pm 2 2024/09/24 10.00 am 3 2024/09/24 03.30 pm 4 2024/09/25",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/lice-link-29th-tamil-nadu-im-tournament/",
+         "pubDate" : "Tue, 24 Sep 2024 09:37:30",
+         "title" : "Lice link :29th Tamil Nadu IM Tournament"
+      },
+      {
          "description" : "On 21-22 September, FIDE conducted its General Assembly meeting in Budapest. The meeting saw votes on new members for the Constitutional Commission, Ethics and Disciplinary Commission, and Verification Commission, alongside decisions on proposals from member federations. | Photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1018,14 +1026,6 @@ news_feed (
          "title" : "45th Chess Olympiad Round 4: Ukraine upsets USA, Vietnam beats Uzbekistan"
       },
       {
-         "description" : "We are happy to share that our&#160;28th Tamil Nadu IM norm tournament starts on 15th Sep 2024. Live Link :&#160;https://live.tamilchess.com/28th-im-norm-coimbatore/ Playing schedule Round Date Time",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-28th-tamil-nadu-im-tournament-2024/",
-         "pubDate" : "Sat, 14 Sep 2024 15:56:01",
-         "title" : "Live Link :28th Tamil Nadu IM Tournament 2024"
-      },
-      {
          "description" : "GM Daniel Naroditsky won his 23rd Bullet Brawl title by a 35-point margin over his closest rival, GM Hikaru Nakamura. Finishing with a 16-game winning streak, Naroditsky ended with 271 points to clinch the $400 first prize. Nakamura finished secon...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1264,6 +1264,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2024",
          "pubDate" : "Sun, 8 Sep 2024 21:52:00",
          "title" : "chess.com Speed Chess Final 2024 - Games and Results"
+      },
+      {
+         "description" : "With less than 100 views and zero comments after three weeks on Youtube, this video might be the least popular chess clip that I've ever selected for a monthly featured video post. So why feature it? Because I liked the inside look at the US Chess federation. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/lxinKPLnmUo?si=P7zWUfcqyjNUx-9E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>US Chess Federation Staff Forum Friday August 2 2024</B> (5:57) &#149; '[Published on] Aug 19, 2024'",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/09/us-chess-on-video.html",
+         "pubDate" : "Sun, 08 Sep 2024 15:40:00",
+         "title" : "US Chess on Video"
       },
       {
          "description" : "The 45th Chess Olympiad starts in two days in Budapest, Hungary! The event will be held from 10-23 September in BOK Sports Hall and Conference Center. 381 teams compete in the tournament, with 197 teams in Open section and 184 teams in the Women's championship. Teams are made up of four players + one reserve player in both sections. The events will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus []",
