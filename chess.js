@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Jerusalem Masters and Open are rapid events taking place Tue 24th to Wed 25th Sep 2024. Players in the Masters: Svidler, Dubov, Ivanchuk, Jorden Van Foreest, Eljanov, Rodshtein, Smirin, Postny, Boruchovsky and Gorshtein. Time control 15 minutes plus 5 seconds a move. Alongside is an open with exactly the same time control and round times. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/jerusalem-masters-and-open-2024",
+         "pubDate" : "Tue, 24 Sep 2024 15:11:00",
+         "title" : "Jerusalem Masters and Open 2024 - Games and Results"
+      },
+      {
          "description" : "Please find the Live Link : https://live.tamilchess.com/29th-im-norm-coimbatore/ Playing schedule Round Date Time 1 2024/09/23 03.30 pm 2 2024/09/24 10.00 am 3 2024/09/24 03.30 pm 4 2024/09/25",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/lice-link-29th-tamil-nadu-im-tournament/",
          "pubDate" : "Tue, 24 Sep 2024 09:37:30",
-         "title" : "Lice link :29th Tamil Nadu IM Tournament"
+         "title" : "Live link :29th Tamil Nadu IM Tournament"
       },
       {
          "description" : "On 21-22 September, FIDE conducted its General Assembly meeting in Budapest. The meeting saw votes on new members for the Constitutional Commission, Ethics and Disciplinary Commission, and Verification Commission, alongside decisions on proposals from member federations. | Photos: FIDE",
@@ -1392,22 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3196",
          "pubDate" : "Wed, 04 Sep 2024 06:10:04",
          "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
-      },
-      {
-         "description" : "This month's 'On the Cover' features two unique, historical chess events in the USA. Fifty years ago, four up and coming American players received the IM title at the 1974 FIDE Congress. Twenty-five years ago, a controversial World Championship tournament was held at Las Vegas, aka 'Sin City'. For last month's 'On the Cover', see <A HREF=\"https://chessforallages.blogspot.com/2024/08/august-1974-1999-on-cover.html\">August 1974 & 1999 'On the Cover'</A> (August 2024). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oi03.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> 'Mednis/Soltis/Rogoff/Tarjan'<BR> <B>Right:</B> 'FIDE World Championship; Caesar's hosts the BEST!' <P> <B><I>Chess L",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/09/september-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 03 Sep 2024 15:01:00",
-         "title" : "September 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3195",
-         "pubDate" : "Tue, 03 Sep 2024 12:26:51",
-         "title" : "Elections of Chairmen and Members of 3 FIDE Commissions to take place at FIDE GA"
       }
    ]
 }
