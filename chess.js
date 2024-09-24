@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The members of the Chess History and Literature Society held their annual conference during the Chess Olympiad in Budapest. At the invitation of the Hungarian Chess Federation, around 20 members and guests met in the historical premises of the host, discussed exciting questions of chess history in lectures and also commemorated the great Hungarian chess players. Herbert Bastian and Frank Hoffmeister report. | Photos: Herbert Bastian, Henry Serruys",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meeting-2024-chess-history-and-literature-society",
+         "pubDate" : "Tue, 24 Sep 2024 18:20:00",
+         "title" : "Annual meeting of the Chess History and Literature Society in Budapest"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> America's Top Chess Players to Compete for More Than $400,000 in 2024 U.S. Championship and U.S. Women's Chess Championship Saint Louis to Host National Championships, Hall of Fame Inductions, and Inaugural Educational Conference </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2023%20US%20Chess%20Champs%20GM%20Fabiano%20Caruana_web1.jpg?itok=H_mYRf_L\" alt=\"2024 US Chess Champions",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/2024-US-Chess-Championship-Press-Release",
+         "pubDate" : "Tue, 24 Sep 2024 16:24:55",
+         "title" : "America's Top Chess Players to Compete for More Than $400,000 in 2024 U.S. Championship and U.S. Women's Chess Championship"
+      },
+      {
          "description" : " The Jerusalem Masters and Open are rapid events taking place Tue 24th to Wed 25th Sep 2024. Players in the Masters: Svidler, Dubov, Ivanchuk, Jorden Van Foreest, Eljanov, Rodshtein, Smirin, Postny, Boruchovsky and Gorshtein. Time control 15 minutes plus 5 seconds a move. Alongside is an open with exactly the same time control and round times. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3213",
          "pubDate" : "Sun, 15 Sep 2024 22:19:30",
          "title" : "45th Chess Olympiad R05: Vietnam, Armenia and Mongolia deliver upsets "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Evgenij Miroshnichenko asks is it possible black has cheated </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paranoid-black-cheating-chesstactics-chesscheating-chess-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xn7p2CoUNn0.jpg?itok=pop0NSNu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paranoid-black-cheating-chesstactics-chesscheating-chess-lichess",
-         "pubDate" : "Sun, 15 Sep 2024 21:23:54",
-         "title" : "Paranoid, Is Black Cheating?! #chesstactics #chesscheating #chess #lichess"
       },
       {
          "description" : "Please find here certificates Rank Name 1 Karthik Venkataraman 2 Ganguly Surya Shekhar 3 Neelash Saha 4 Ghosh Diptayan 5 Aronyak Ghosh 6 Gusain Himal",
