@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 21-22 September, FIDE conducted its General Assembly meeting in Budapest. The meeting saw votes on new members for the Constitutional Commission, Ethics and Disciplinary Commission, and Verification Commission, alongside decisions on proposals from member federations. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/key-decisions-2024-fide-ga",
+         "pubDate" : "Tue, 24 Sep 2024 07:50:00",
+         "title" : "Key decisions from the 2024 FIDE General Assembly"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113616561.cms\" />The Indian chess team celebrated their double victory at the Chess Olympiad in Budapest by dancing to Queen's 'We Are The Champions.' Arjun Erigaisi was pivotal, winning nine games and drawing two. His performance helped India secure gold. Team camaraderie and strategic decisions were key factors in their success.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-arjun-erigaisi-attributes-teams-success-to-great-bonding/articleshow/113616561.cms",
+         "pubDate" : "Tue, 24 Sep 2024 03:33:37",
+         "title" : "Arjun Erigaisi attributes teams' success to great bonding"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tactical advantages from opponent&#039;s misplay against the 4 - Pawns Opening. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-possibilities-chess-chessopenings-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uonLWZdIirI.jpg?itok=oIgBi7H_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactical-possibilities-chess-chessopenings-chesstactics-lichess",
+         "pubDate" : "Tue, 24 Sep 2024 03:29:54",
+         "title" : "Tactical Possibilities #chess #chessopenings #chesstactics #lichess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113615980.cms\" />Gukesh's remarkable performance on the top board at the Chess Olympiad stood out, achieving a rating performance surpassed only once before. Divya Deshmukh became world No. 1 among junior girls with her strong play. The Indian team secured gold, demonstrating dominance and effectively handling the challenges of the Swiss League format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "ECU Board statement"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113473615.cms\" />India's men's and women's chess teams kept their unbeaten records intact at the 45th Chess Olympiad. D Gukesh clinched a key victory over China's Wei Yi, while Vaishali Rameshbabu and Vantika Agarwal ensured wins for the women's team against Georgia. Both Indian teams now top the standings with 14 points after seven rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-men-and-women-teams-continue-winning-run-to-stay-on-top/articleshow/113473615.cms",
-         "pubDate" : "Thu, 19 Sep 2024 01:37:26",
-         "title" : "Olympiad: India's men & women teams win to stay on top"
-      },
-      {
          "description" : "Gukesh won a 6-hour marathon, Arjun's win streak came to an end as India men beat China in a crucial match.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41265807/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-indian-chess-news-day-4-report?device=featurephone",
          "pubDate" : "Sat, 14 Sep 2024 23:40:47",
          "title" : "Chess Olympiad 2024: Arjun Erigaisi leads India past Serbia, Harika back to winning ways"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Arjun at it again with complex chess puzzles on Lichess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-line-arjun-explains-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_othIvRi2k4.jpg?itok=sk934_UO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/whats-line-arjun-explains-chesstactics-chessendgame-lichess",
-         "pubDate" : "Sat, 14 Sep 2024 21:23:21",
-         "title" : "What's The Line?! - Arjun Explains #chesstactics #chessendgame #lichess"
       },
       {
          "description" : "",
