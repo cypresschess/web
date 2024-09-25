@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Federation of Israel is currently organising a chess festival in Jerusalem. The headliner of the event is a rapid chess invitational tournament. An open will also be played. At the end of the three-day event, 1000 chess fans will compete against 50 master players in a simultaneous match. After five rounds, Peter Svidler and Vasyl Ivanchuk (pictured) are sharing the lead in the Masters. | Photo: Fred Lucas / Tata Steel Masters 2012",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jerusalem-masters",
+         "pubDate" : "Wed, 25 Sep 2024 02:40:00",
+         "title" : "Jerusalem Masters: Svidler and Ivanchuk lead at halftime"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> U.S. Champion Fabiano Caruana visit the Saint Louis Chess Club to face the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch Fabi go head-to-head with Erik \"Mr. Tactics\" Tkachenko, with GM Varuzhan Akobian and NM Caleb Denby on the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-us-chess-champ-fabiano-caruana-vs-erik-tkachenko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/blitz-us-chess-champ-fabiano-caruana-vs-erik-tkachenko",
+         "pubDate" : "Wed, 25 Sep 2024 00:30:33",
+         "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk tells you what you need to know before you assume the attacking lifestyle in your chess repertoire. 2024.09.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d2Yk42VQSME.jpg?itok=IjM9OHmy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Pros & Cons of Attacking Play Style | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman demonstrates just how vicious one can strive to be at the chess board. 2024.09.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sara-hermans-most-violent-chess-attacks-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/neD8XIWZ-dU.jpg?itok=Wvz9kyD0\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman demonstrates just how vicious one can strive to be at the chess board. 2024.09.24<br /> Sara Herman vs. Alan-Addin Moussa, 2019: B10 Caro-Kann, two knights variation<br /> Herman vs. Navneet Ramkumar, 2022: B56 Sicilian<br /> Nathan Yan vs. Herman, 2022: B90 Sicilian, Najdorf, Byrne (English) attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sara-hermans-most-violent-chess-attacks-road-2000\"><img src=\"https://saintlouischessclub.org/site",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/sara-hermans-most-violent-chess-attacks-road-2000",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3218",
          "pubDate" : "Wed, 18 Sep 2024 08:00:33",
          "title" : "Opera and chess - Lajos Portisch celebrated the 45th Chess Olympiad with an aria evening"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on how to \"properly\" trade pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aB_8ASgKptA.jpg?itok=4k0RhlxF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/trade-pieces-properly-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Wed, 18 Sep 2024 00:25:11",
-         "title" : "Trade Pieces Properly! | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
          "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
