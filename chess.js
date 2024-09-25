@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is what winners look like. At the end of the Chess Olympiad, Arne Kaehler brought the gold medallists in front of the ChessBase camera: Gukesh, Arjun, Vidit, Harikrishna and Divya shared their thoughts and answered to Arne's tricky questions!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-interviews-india",
+         "pubDate" : "Wed, 25 Sep 2024 16:25:00",
+         "title" : "ChessBase TV presents: The champions! - Interviews with Gukesh, Arjun, Vidit, Divya, etc."
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113674067.cms\" />The All India Chess Federation declared Rs 3.2 crore in rewards for India's historic Chess Olympiad victory. Each player will receive Rs 25 lakh, with additional amounts for captains and coaches. This twin gold medal win in Budapest is seen as a significant milestone that could spark a chess revolution in India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-chess-federation-announces-rs-3-2-crore-rewards-for-olympiad-winning-teams/articleshow/113674067.cms",
+         "pubDate" : "Wed, 25 Sep 2024 15:42:58",
+         "title" : "Chess federation announces Rs 3.2 cr reward for Olympiad winners"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113672388.cms\" />Prime Minister Narendra Modi lauded India's young chess players for their historic wins at the 45th Chess Olympiad in Budapest. Both men's and women's teams clinched their first gold medals. The men's team defeated Slovenia, while the women's team triumphed over Azerbaijan in the final round, marking a milestone achievement for Indian chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "Jerusalem Masters: Live!"
       },
       {
-         "description" : "The stage is set for the Julius Baer Generation Cup, the fourth and final online leg of the 2024 Champions Chess Tour. Starting on 25 September 25, the 7-day event will offer the world's top chess players one last opportunity to secure their place in the CCT Finals. Players can qualify by either winning this event or by finishing among the top performers on the CCT Leaderboard. With 100 CCT points available, every game counts.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2024-preview",
-         "pubDate" : "Wed, 25 Sep 2024 11:00:00",
-         "title" : "Julius Baer Generation Cup: The final leg of the 2024 Champions Chess Tour"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113666283.cms\" />Grandmaster Vidit Gujrathi, after helping India win its first Chess Olympiad gold, decided not to defend his title at the Vugar Gashimov Memorial Chess Super Tournament in Azerbaijan. Instead, he returned to India for a felicitation with Prime Minister Narendra Modi. Aravindh Chithambaram will replace him in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,20 +50,20 @@ news_feed (
          "title" : "Gujrathi decides against defending title in Azerbaijan to meet PM Modi"
       },
       {
+         "description" : "After GM Hans Niemann edged out GM Vladimir Kramnik on tiebreaks in the early Titled Tuesday of September 24, GM Magnus Carlsen won outright in the late event, his only blemish being a ninth-round loss to GM Hikaru Nakamura, who finished second. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-carlsen-win-titled-tuesday-september-24-2024",
+         "pubDate" : "Wed, 25 Sep 2024 09:30:18",
+         "title" : "Carlsen Withstands Loss To Nakamura To Take Titled Tuesday"
+      },
+      {
          "description" : "The 3rd quarterly ECU Board meeting and the annual ECU General Assembly took place on the 18th and the 19th of September respectively, at the Intercontinental Hotel in Budapest, Hungary, as part of the FIDE Congress 2024. ECU Board information and decisions: ECU General Assembly information and decisions&#160; 42 Federations members were present at the ECU General Assembly 2024. Commissions Reports: During the meeting, the ECU President presents to FIDE President Arkady Dvorkovich and FIDE Deputy President Viswanathan Anand, as []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2024/",
          "pubDate" : "Wed, 25 Sep 2024 09:27:49",
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
-      },
-      {
-         "description" : "The Chess Federation of Israel is currently organising a chess festival in Jerusalem. The headliner of the event is a rapid chess invitational tournament. An open will also be played. At the end of the three-day event, 1000 chess fans will compete against 50 master players in a simultaneous match. After five rounds, Peter Svidler and Vasyl Ivanchuk (pictured) are sharing the lead in the Masters. | Photo: Fred Lucas / Tata Steel Masters 2012",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jerusalem-masters",
-         "pubDate" : "Wed, 25 Sep 2024 02:40:00",
-         "title" : "Jerusalem Masters: Svidler and Ivanchuk lead at halftime"
       },
       {
          "description" : "<div class=\"body text-secondary\"> U.S. Champion Fabiano Caruana visit the Saint Louis Chess Club to face the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch Fabi go head-to-head with Erik \"Mr. Tactics\" Tkachenko, with GM Varuzhan Akobian and NM Caleb Denby on the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-us-chess-champ-fabiano-caruana-vs-erik-tkachenko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/sara-hermans-most-violent-chess-attacks-road-2000",
          "pubDate" : "Tue, 24 Sep 2024 21:30:21",
          "title" : "Sara Herman's Most Violent Chess Attacks | Road to 2000"
-      },
-      {
-         "description" : "The members of the Chess History and Literature Society held their annual conference during the Chess Olympiad in Budapest. At the invitation of the Hungarian Chess Federation, around 20 members and guests met in the historical premises of the host, discussed exciting questions of chess history in lectures and also commemorated the great Hungarian chess players. Herbert Bastian and Frank Hoffmeister report. | Photos: Herbert Bastian, Henry Serruys",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meeting-2024-chess-history-and-literature-society",
-         "pubDate" : "Tue, 24 Sep 2024 18:20:00",
-         "title" : "Annual meeting of the Chess History and Literature Society in Budapest"
       },
       {
          "description" : "<div class=\"body text-secondary\"> America's Top Chess Players to Compete for More Than $400,000 in 2024 U.S. Championship and U.S. Women's Chess Championship Saint Louis to Host National Championships, Hall of Fame Inductions, and Inaugural Educational Conference </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2023%20US%20Chess%20Champs%20GM%20Fabiano%20Caruana_web1.jpg?itok=H_mYRf_L\" alt=\"2024 US Chess Champions",
@@ -584,14 +584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-women-lose-tempo-as-harika-struggles/articleshow/113540853.cms",
          "pubDate" : "Sat, 21 Sep 2024 03:50:44",
          "title" : "Chess Olympiad: Women lose tempo as Harika struggles"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113539566.cms\" />International Master Vantika Agrawal's decisive win against Grandmaster Irina Krush ensured India drew 2-2 with the United States in the ninth round of the women's section at the 45th Chess Olympiad. Resting an out-of-form Grandmaster D Harika did not change much, and India now needs two victories to stay in contention for gold.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-womens-team-draws-with-united-states-after-vantikas-win/articleshow/113539566.cms",
-         "pubDate" : "Sat, 21 Sep 2024 02:30:44",
-         "title" : "Vantika's victory helps India women draw against USA at Olympiad"
       },
       {
          "description" : "Editor's note: This report covers rounds seven through ten of the 45th FIDE Chess Olympiad. Part two can be found here and part one here. The final round will take place Sunday, September 22, at 4:00 a.m. CDT (four hours earlier than previous rounds). <br /><br /> The rounds following the rest day of the 45th FIDE Chess Olympiad saw both American teams start in a similar situation. Having each dropped a match earlier in the tournament, each team could expect a couple of rounds on slightly lower boards. Hopefully, good results would give them some shots at the tournament leaders, and, hopefully, no team would run away with the tournament before that happened! Below is a quick recap of each te",
@@ -1168,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3209",
          "pubDate" : "Thu, 12 Sep 2024 20:28:33",
          "title" : "45th Chess Olympiad R02: Norway struggles without Carlsen, top teams lose board points"
-      },
-      {
-         "description" : "GM Fabiano Caruana is back above 2800 after beginning the 45th FIDE Chess Olympiad with a sparkling win over Singaporean GM Jingyao Tin. There were also winning debuts for GMs Gukesh Dommaraju and Richard Rapport, while World Champion Ding Liren w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-2",
-         "pubDate" : "Thu, 12 Sep 2024 13:25:00",
-         "title" : "Caruana Back In 2800 Club; Canada Hold Carlsen-less Norway To Draw"
       },
       {
          "description" : "Deutsche Welle is a German public international broadcaster that produces news and information to a global audience in 30 languages. This week they had an article on the domination of a new generation of young Asian superstars in chess. The favourites at the Chess Olympiad in Budapest, according to DW, are China, India and Uzbekistan. Only the US have a chance to compete with them.",
