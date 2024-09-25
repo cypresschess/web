@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113672388.cms\" />Prime Minister Narendra Modi lauded India's young chess players for their historic wins at the 45th Chess Olympiad in Budapest. Both men's and women's teams clinched their first gold medals. The men's team defeated Slovenia, while the women's team triumphed over Azerbaijan in the final round, marking a milestone achievement for Indian chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-meets-chess-players-hails-indias-historic-double-gold-triumph/articleshow/113672388.cms",
+         "pubDate" : "Wed, 25 Sep 2024 14:22:25",
+         "title" : "PM Modi meets chess players, hails India's historic double gold triumph"
+      },
+      {
+         "description" : "The ECF would like to help one or more Ukrainian chess players to find hosts in England through the Government's Homes for Ukraine Scheme. In the first instance please read...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/homes-for-ukrainian-chess-players/",
+         "pubDate" : "Wed, 25 Sep 2024 13:55:33",
+         "title" : "Homes for Ukrainian chess players"
+      },
+      {
+         "description" : "The Chess Federation of Israel is currently organising a chess festival in Jerusalem. The headliner of the event is a rapid chess invitational tournament. An open will also be played. At the end of the three-day event, 1000 chess fans will compete against 50 master players in a simultaneous match. | Follow the action live starting at 13.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jerusalem-masters-2024-live",
+         "pubDate" : "Wed, 25 Sep 2024 12:45:00",
+         "title" : "Jerusalem Masters: Live!"
+      },
+      {
          "description" : "The stage is set for the Julius Baer Generation Cup, the fourth and final online leg of the 2024 Champions Chess Tour. Starting on 25 September 25, the 7-day event will offer the world's top chess players one last opportunity to secure their place in the CCT Finals. Players can qualify by either winning this event or by finishing among the top performers on the CCT Leaderboard. With 100 CCT points available, every game counts.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,14 +114,6 @@ news_feed (
          "title" : "Live link :29th Tamil Nadu IM Tournament"
       },
       {
-         "description" : "On 21-22 September, FIDE conducted its General Assembly meeting in Budapest. The meeting saw votes on new members for the Constitutional Commission, Ethics and Disciplinary Commission, and Verification Commission, alongside decisions on proposals from member federations. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/key-decisions-2024-fide-ga",
-         "pubDate" : "Tue, 24 Sep 2024 07:50:00",
-         "title" : "Key decisions from the 2024 FIDE General Assembly"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113616561.cms\" />The Indian chess team celebrated their double victory at the Chess Olympiad in Budapest by dancing to Queen's 'We Are The Champions.' Arjun Erigaisi was pivotal, winning nine games and drawing two. His performance helped India secure gold. Team camaraderie and strategic decisions were key factors in their success.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
          "pubDate" : "Mon, 23 Sep 2024 18:03:00",
          "title" : "45th World Chess Olympiad 2024 - Games and Results"
-      },
-      {
-         "description" : "The Chess Olympiad has a well-established history for revealing young talents on the rise, and while the focus in Budapest 2024 has deservedly been the astounding domination by India, other nations have shown glimpses of possible rivals for the future. One notable is T&uuml;rkiye, whose team is bolstered by two teenage grandmasters aged 15 and 13. We are witnessing a golden age unfolding. | Photo: Mark Livshitz/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rise-of-the-brilliant-young-turks",
-         "pubDate" : "Mon, 23 Sep 2024 16:00:00",
-         "title" : "The rise of the brilliant Young Turks"
       },
       {
          "description" : "India is the future of chess and the future is now. That&#39;s one summary of the 45th FIDE Chess Olympiad, which saw GM Gukesh Dommaraju, GM Arjun Erigaisi, IM Divya Deshmukh, and IM Vantika Agrawal claim team and individual gold as India dominated t...",
@@ -320,14 +328,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/in-a-first-for-india-men-and-women-win-chess-olympiad-team-golds/articleshow/113578599.cms",
          "pubDate" : "Sun, 22 Sep 2024 21:51:13",
          "title" : "In a first for India, men and women win Chess Olympiad team golds"
-      },
-      {
-         "description" : "India made history by achieving a double gold in the Chess Olympiad, winning outright in both the open and women's sections. Both Indian teams dominated in the final round, securing convincing 3&frac12;-&frac12; victories. In the open section, Dommaraju Gukesh and Arjun Erigaisi led the way, while Divya Deshmukh and Vantika Agrawal starred in the women's section. All four players capped their stellar performances with individual gold medals. The United States and Uzbekistan took silver and bronze in the open section, while Kazakhstan and the United States claimed silver and bronze in the women's section.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-r11",
-         "pubDate" : "Sun, 22 Sep 2024 20:40:00",
-         "title" : "Double gold for India at the Chess Olympiad in Budapest!"
       },
       {
          "description" : "",
@@ -640,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/u-s-state-department-calls-on-fide-to-maintain-russia-sanctions",
          "pubDate" : "Fri, 20 Sep 2024 15:00:00",
          "title" : "U.S State Department Calls On FIDE To Maintain Russia Sanctions As Vote Looms"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113530214.cms\" />India's teams are performing exceptionally at the 45th FIDE Chess Olympiad in Budapest, with the men's team maintaining a perfect score and the women's team tied for first place. China's decision to rest Ding Liren has caused controversy. Key matches and individual performances will determine the final standings as the tournament concludes.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/45th-fide-chess-olympiad-india-inches-closer-to-victory/articleshow/113530214.cms",
-         "pubDate" : "Fri, 20 Sep 2024 14:36:39",
-         "title" : "45th FIDE Chess Olympiad: India inches closer to victory"
       },
       {
          "description" : "Uzbekistan is the first team in the 45th FIDE Chess Olympiad to keep from losing a match against India, holding an equal 2-2 match score with four draws. India still leads by two points. GM Leinier Dominguez led the U.S. to a 2.5-1.5 victory again...",
