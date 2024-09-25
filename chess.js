@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The stage is set for the Julius Baer Generation Cup, the fourth and final online leg of the 2024 Champions Chess Tour. Starting on 25 September 25, the 7-day event will offer the world's top chess players one last opportunity to secure their place in the CCT Finals. Players can qualify by either winning this event or by finishing among the top performers on the CCT Leaderboard. With 100 CCT points available, every game counts.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2024-preview",
+         "pubDate" : "Wed, 25 Sep 2024 11:00:00",
+         "title" : "Julius Baer Generation Cup: The final leg of the 2024 Champions Chess Tour"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113666283.cms\" />Grandmaster Vidit Gujrathi, after helping India win its first Chess Olympiad gold, decided not to defend his title at the Vugar Gashimov Memorial Chess Super Tournament in Azerbaijan. Instead, he returned to India for a felicitation with Prime Minister Narendra Modi. Aravindh Chithambaram will replace him in the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-winner-vidit-gujrathi-decides-against-defending-title-in-azerbaijan-to-meet-pm-modi/articleshow/113666283.cms",
+         "pubDate" : "Wed, 25 Sep 2024 10:49:18",
+         "title" : "Gujrathi decides against defending title in Azerbaijan to meet PM Modi"
+      },
+      {
+         "description" : "The 3rd quarterly ECU Board meeting and the annual ECU General Assembly took place on the 18th and the 19th of September respectively, at the Intercontinental Hotel in Budapest, Hungary, as part of the FIDE Congress 2024. ECU Board information and decisions: ECU General Assembly information and decisions&#160; 42 Federations members were present at the ECU General Assembly 2024. Commissions Reports: During the meeting, the ECU President presents to FIDE President Arkady Dvorkovich and FIDE Deputy President Viswanathan Anand, as []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2024/",
+         "pubDate" : "Wed, 25 Sep 2024 09:27:49",
+         "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
+      },
+      {
          "description" : "The Chess Federation of Israel is currently organising a chess festival in Jerusalem. The headliner of the event is a rapid chess invitational tournament. An open will also be played. At the end of the three-day event, 1000 chess fans will compete against 50 master players in a simultaneous match. After five rounds, Peter Svidler and Vasyl Ivanchuk (pictured) are sharing the lead in the Masters. | Photo: Fred Lucas / Tata Steel Masters 2012",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "In Olympic year, India's big gold"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we take a look at the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. The games were played online, but with competitors in the same location in front of a live crowd in Paris, France. GM Magnus Carlsen won both of his matches, and GM Hikaru Nakamura won his third-place match against GM Hans Niemann. French GM Alireza Firouzja finished second.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "For this week's Tactics Tuesday, we take a look at the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. The games were played online, but with competitors in the same location in front of a live crowd in Paris, France. GM Magnus Carlsen won both of his matches, and GM Hikaru Nakamura won his third-place match against GM Hans Niemann. French GM Alireza Firouzja finished second.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-1",
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anna-cramling-says-she-also-received-obscene-letters",
          "pubDate" : "Fri, 20 Sep 2024 06:46:00",
          "title" : "Anna Cramling Says She Also Received Obscene Letters: 'I Thought It Was Just Me'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113507708.cms\" />India continued its dominance at the 45th Chess Olympiad with a convincing win over Iran in the Open section. Arjun Erigaisi, D Gukesh, and Vidit Gujrathi secured victories while R Praggnanandhaa settled for a draw. With this result, India maintains a perfect score of 16 points, reinforcing their pursuit of the gold medal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-mens-team-takes-another-step-towards-gold/articleshow/113507708.cms",
-         "pubDate" : "Fri, 20 Sep 2024 02:49:53",
-         "title" : "Chess Olympiad: Indian men's team takes another step towards gold"
       },
       {
          "description" : "GM Magnus Carlsen made headlines for a short but powerful speech while accepting the FIDE award for Greatest Of All Time (G.O.A.T). Carlsen used the moment to express humility and send a strong message against reinstating the Russian and Belarusia...",
@@ -1392,22 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3198",
          "pubDate" : "Thu, 05 Sep 2024 18:54:49",
          "title" : "Exciting format changes announced for 2024 FIDE World Rapid & Blitz Championships"
-      },
-      {
-         "description" : "In the final round of a Dutch tournament (in Waddingxveen 1979) World Champion Anatoly Karpov beat the second-placed GM Vlastimil Hort. But could the world-class Czech grandmaster have prevented this happening? This was the question we asked in our last Riddle. Today we provide you with the answer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/riddle-karpov-hort-1979",
-         "pubDate" : "Wed, 04 Sep 2024 11:00:00",
-         "title" : "Riddle: Karpov-Hort 1979 - Solution"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
-         "pubDate" : "Wed, 04 Sep 2024 09:45:14",
-         "title" : "ECF Secondary School Chess News September 2024"
       }
    ]
 }
