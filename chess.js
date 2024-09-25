@@ -34,6 +34,14 @@ news_feed (
          "title" : "Homes for Ukrainian chess players"
       },
       {
+         "description" : "GM Vladimir Fedoseev won the Play-in of the Julius Baer Generation Cup 2024 with a final-round victory with the black pieces against GM Wesley So. Although he lost in round four against GM Vasif Durarbayli, he won seven out of the eight other game...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-play-in",
+         "pubDate" : "Wed, 25 Sep 2024 12:58:23",
+         "title" : "Fedoseev Wins Play-in, Triumphs In Final Round With Black Win Vs. Wesley So"
+      },
+      {
          "description" : "The Chess Federation of Israel is currently organising a chess festival in Jerusalem. The headliner of the event is a rapid chess invitational tournament. An open will also be played. At the end of the three-day event, 1000 chess fans will compete against 50 master players in a simultaneous match. | Follow the action live starting at 13.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/blitz-us-chess-champ-fabiano-caruana-vs-erik-tkachenko",
          "pubDate" : "Wed, 25 Sep 2024 00:30:33",
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
+      },
+      {
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
+         "pubDate" : "Wed, 25 Sep 2024 00:00:00",
+         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 3"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk tells you what you need to know before you assume the attacking lifestyle in your chess repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d2Yk42VQSME.jpg?itok=IjM9OHmy\" alt=\"\" /></a></div>",
@@ -1002,14 +1018,6 @@ news_feed (
          "title" : "US Chess Seeking HOD and Trainers for 2024 International Youth Events"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> National Chess Day cake in Memphis, TN<br /><br /><br /> <br /><br /> The 2024 National Chess Day falls on Saturday, October 12, which this year is also Yom Kippur, one of the most solemn holidays on the Jewish calendar.<br /><br /> For this reason, the Executive Board has decided to extend our National Chess Day into a National Chess Week, running from October 5-12.<br /><br /> For any event that includes \"National Chess Day\" (or \"National Chess Week\") in the event title and is held October 5-12, US Chess is offering:<br /><br /> One free email blast. Make sure that \"Na",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-week-be-held-october-5-12-what-know",
-         "pubDate" : "Mon, 16 Sep 2024 00:00:00",
-         "title" : "National Chess Week To Be Held October 5-12: What To Know"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3210",
          "pubDate" : "Fri, 13 Sep 2024 15:55:41",
          "title" : "FIDE and DGT extend their partnership for another four years"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#39;s first visit to the 45th FIDE Chess Olympiad won&#39;t be forgotten in a hurry after he turned up late, on a bike, thinking he&#39;d lost by default, but was smuggled in just in time to go on to win by checkmate. GM Fabiano Caruana move...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-3",
-         "pubDate" : "Fri, 13 Sep 2024 12:31:00",
-         "title" : "Carlsen Bikes To Win As Giri, Keymer Suffer Shock Defeats"
       },
       {
          "description" : " The world No 1 will lead Norway at the event in Hungary shortly after defeating Hans Niemann and Alireza Firouzja at the speed championship finals in Paris Magnus Carlsen, the world No 1, competes for one of the few missing honours in his career at this week's Olympiad in Budapest, where he leads sixth-seeded Norway. Carlsen's Olympiad record is surprisingly modest. He has averaged just 70% in seven appearances, with his best performance a bronze medal in 2022. In 2010, he <a href=\"https://www.chessgames.com/perl/chessgame?gid=1594446\">lost to England's Michael Adams</a> after opening with the dubious North Sea Defence 1 e4 g6 2 d4 Nf6?! 3 e5 Nh5. <a href=\"https://www.theguardian.com/sport/",
