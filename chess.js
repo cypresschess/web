@@ -18,7 +18,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk tells you what you need to know before you assume the attacking lifestyle in your chess repertoire. 2024.09.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d2Yk42VQSME.jpg?itok=IjM9OHmy\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk tells you what you need to know before you assume the attacking lifestyle in your chess repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d2Yk42VQSME.jpg?itok=IjM9OHmy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk",
@@ -26,7 +26,7 @@ news_feed (
          "title" : "Pros & Cons of Attacking Play Style | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman demonstrates just how vicious one can strive to be at the chess board. 2024.09.24<br /> Sara Herman vs. Alan-Addin Moussa, 2019: B10 Caro-Kann, two knights variation<br /> Herman vs. Navneet Ramkumar, 2022: B56 Sicilian<br /> Nathan Yan vs. Herman, 2022: B90 Sicilian, Najdorf, Byrne (English) attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sara-hermans-most-violent-chess-attacks-road-2000\"><img src=\"https://saintlouischessclub.org/site",
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman demonstrates just how vicious one can strive to be at the chess board. 2024.09.24<br /> Sara Herman vs. Alan-Addin Moussa, 2019: B10 Caro-Kann, two knights variation<br /> Herman vs. Navneet Ramkumar, 2022: B56 Sicilian<br /> Nathan Yan vs. Herman, 2022: B90 Sicilian, Najdorf, Byrne (English) attack<br /> Herman vs. Matthew Wofford, 2023: </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sara-hermans-most-violent-chess-attacks-road-2000\"><img s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/sara-hermans-most-violent-chess-attacks-road-2000",
@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
          "pubDate" : "Wed, 04 Sep 2024 09:45:14",
          "title" : "ECF Secondary School Chess News September 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3196",
-         "pubDate" : "Wed, 04 Sep 2024 06:10:04",
-         "title" : "Chess Olympiad Open Section: Who will reign supreme in Budapest?"
       }
    ]
 }
