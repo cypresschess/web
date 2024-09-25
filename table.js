@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-09-03  - 09-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202409246352 target='_blank'>SEPTEMBER 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-09-21  - 09-22","24","<a href=http://www.uschess.org/msa/XtblMain.php?202409224742 target='_blank'>U2400 + A BLITZ - SEPT. 2024</a>",
 "HOUSTON","2024-09-21","110","<a href=http://www.uschess.org/msa/XtblMain.php?202409214012 target='_blank'>TCR: HOUSTON SCHOLASTIC TEAM CHAMPIONSHIP 2024</a>",
 "HOUSTON","2024-09-21","13","<a href=http://www.uschess.org/msa/XtblMain.php?202409213792 target='_blank'>CHESSPANDA09212024SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-02-24","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402245002 target='_blank'>CHESSPANDA02242024SATURDAY</a>",
 "HOUSTON","2024-02-24","61","<a href=http://www.uschess.org/msa/XtblMain.php?202402244992 target='_blank'>PISD FEB 2024- FEB 2024 INTERMEDIAT</a>",
 "SPRING","2024-02-23","33","<a href=http://www.uschess.org/msa/XtblMain.php?202402234602 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-02-23","24","<a href=http://www.uschess.org/msa/XtblMain.php?202402234562 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
