@@ -10,6 +10,22 @@ news_feed (
          "title" : "Julius Baer Generation Cup: Live"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113710082.cms\" />Indian chess grandmaster R Praggnanandhaa expressed happiness after winning gold at the 45th Chess Olympiad and meeting Indian Prime Minister Narendra Modi. He emphasized the dedication behind this historic achievement for Indian chess. Both men's and women's teams secured gold, marking a significant milestone for India's chess community and inspiring future enthusiasts nationwide.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/conversation-with-pm-modi-went-over-an-hour-chess-olympiad-gold-medallist-r-praggnanandhaa/articleshow/113710082.cms",
+         "pubDate" : "Thu, 26 Sep 2024 16:31:29",
+         "title" : "'Conversation with PM Modi went over an hour': Praggnanandhaa"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3234",
+         "pubDate" : "Thu, 26 Sep 2024 16:06:09",
+         "title" : "Media registration for FIDE World Chess Championship 2024 is open now"
+      },
+      {
          "description" : "Peter Svidler is the winner of the 2024 Jerusalem Masters. On the second day of the rapid chess tournament, the St Petersburg-born player built on his strong performance from the day before to finish the tournament in first place, one point ahead of Jorden van Foreest and Daniil Dubov. | Photos: Tournament page / Dr. ML Photos",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +74,14 @@ news_feed (
          "title" : "Jerusalem Masters and Open 2024 - Games and Results"
       },
       {
+         "description" : "The three divisions of the Julius Baer Generation Cup 2024 are set to begin. After a Play-in and two Division Placement matches, we will see the following players in Division I: GMs Magnus Carlsen, Ian Nepomniachtchi, Arjun Erigaisi, Levon Aronian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-division-placement",
+         "pubDate" : "Thu, 26 Sep 2024 12:00:48",
+         "title" : "Carlsen, Nepomniachtchi, Arjun, Aronian, Fedoseev Advance To Division I"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -90,6 +114,14 @@ news_feed (
          "title" : "Meeting with Hon'ble Prime Minister"
       },
       {
+         "description" : "The fourth and last online event of the Champions Chess Tour is underway, and soon, the full field of eight players will be all set for the finals. While we don&#39;t yet know who&#39;ll join GMs Magnus Carlsen, Alireza Firouzja, and Maxime Vachier-Lagrav...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-2024-oslo",
+         "pubDate" : "Thu, 26 Sep 2024 09:15:00",
+         "title" : "Champions Chess Tour Finals To Happen In Oslo, Norway, With Live Audience"
+      },
+      {
          "description" : "In this video lesson, you will learn how to search and find tens of thousands of deeply commented games by all the best players in the world. These include games by Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Garry Kasparov, Vishy Anand, and young guns like Gukesh, Erigaisi, Firouzja, and Abdussatarov! Endless entertainment and education as taught by the best chess players and chess teachers ever.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -110,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/meet-102-year-old-manuel-the-worlds-oldest-active-chess-player",
-         "pubDate" : "Thu, 26 Sep 2024 07:07:18",
+         "pubDate" : "Thu, 26 Sep 2024 07:07:00",
          "title" : "Meet 102-Year-Old Manuel Alvarez, The World's Oldest Active Chess Player"
       },
       {
@@ -472,14 +504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3228",
          "pubDate" : "Sun, 22 Sep 2024 15:43:14",
          "title" : "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113575093.cms\" />Viswanathan Anand congratulated the Indian men's and women's chess teams for their historic gold medal achievements at the Chess Olympiad in Budapest. The men's team secured victory against Slovenia, while the women's team triumphed over Azerbaijan. This marks India's first-ever gold medals at the event, following previous bronze medals won by both teams in earlier editions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-congratulates-indian-teams-on-maiden-chess-olympiad-golds/articleshow/113575093.cms",
-         "pubDate" : "Sun, 22 Sep 2024 15:37:33",
-         "title" : "Viswanathan Anand congratulates Indian teams on maiden Chess Olympiad golds"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113573523.cms\" />India's men's and women's chess teams secured their first-ever gold medals at the 45th Chess Olympiad in Budapest. The men triumphed over Slovenia with key victories from Gukesh, Erigaisi, and Praggnanadhaa. The women clinched their title by defeating Azerbaijan. The historic win follows previous bronze medals earned by both teams in earlier editions.",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 2"
       },
       {
-         "description" : "GM Arjun Erigaisi is the only player on 5/5 in the Open section of the 45th FIDE Chess Olympiad after his win over GM Rauf Mamedov helped India defeat Azerbaijan 3-1 in round five. Three more teams scored narrow wins to join India on maximum point...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-5",
-         "pubDate" : "Sun, 15 Sep 2024 12:44:00",
-         "title" : "Arjun Hits 5/5 As India Powers On; Armenian Women Topple China"
-      },
-      {
          "description" : "Arjun Erigaisi and co. beat Serbia in the open section, while the women's team defeated France in the fourth round of the 2024 Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3212",
          "pubDate" : "Sat, 14 Sep 2024 21:14:26",
          "title" : "45th Chess Olympiad Round 4: Ukraine upsets USA, Vietnam beats Uzbekistan"
-      },
-      {
-         "description" : "GM Daniel Naroditsky won his 23rd Bullet Brawl title by a 35-point margin over his closest rival, GM Hikaru Nakamura. Finishing with a 16-game winning streak, Naroditsky ended with 271 points to clinch the $400 first prize. Nakamura finished secon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-september-14-2024",
-         "pubDate" : "Sat, 14 Sep 2024 14:39:00",
-         "title" : "Naroditsky Wins 23rd Bullet Brawl, Catches Nakamura For 2024 Victories"
       },
       {
          "description" : "Your beliefs have a huge influence on your results. This is because we choose our actions based on our beliefs. The simple chain reaction goes like this: Belief -&#62; Action -&#62; Results If you want to change your results, you might first have to change your beliefs. Vicious cycle: Belief: \"I'm too old to improve []",
@@ -1448,14 +1456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3199",
          "pubDate" : "Fri, 06 Sep 2024 06:05:54",
          "title" : "Rising stars and \"veterans\": 2024 Women's Chess Olympiad preview"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3198",
-         "pubDate" : "Thu, 05 Sep 2024 18:54:49",
-         "title" : "Exciting format changes announced for 2024 FIDE World Rapid & Blitz Championships"
       }
    ]
 }
