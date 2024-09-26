@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. Many top players compete for top places and a place in the final. On day 2 Magnus Carlsen will also join the action. Live video with commentary...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
+         "pubDate" : "Thu, 26 Sep 2024 17:14:41",
+         "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
+         "description" : "Peter Svidler is the winner of the 2024 Jerusalem Masters. On the second day of the rapid chess tournament, the St Petersburg-born player built on his strong performance from the day before to finish the tournament in first place, one point ahead of Jorden van Foreest and Daniil Dubov. | Photos: Tournament page / Dr. ML Photos",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svidler-wins-jerusalem-masters",
+         "pubDate" : "Thu, 26 Sep 2024 15:00:00",
+         "title" : "Svidler wins Jerusalem Masters"
+      },
+      {
          "description" : "The Vugar Gashimov Memorial is being held in Azerbaijan for the 10th time in memory of the world-class Azerbaijani player who died at a young age. Eight top players will compete in a combined rapid and blitz tournament from 26-28 September. The rapid tournament starts Thursday, 26 September, at 15.30 local time (13.30 CEST, 5.30 ET). | Photos: Shahid Ahmed (ChessBase India)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,52 @@ news_feed (
          "title" : "Vugar Gashimov Memorial: Live"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3233",
+         "pubDate" : "Thu, 26 Sep 2024 12:55:58",
+         "title" : "FIDE Announces 2025 as the Year of Social Chess"
+      },
+      {
+         "description" : " The 10th Vugar Gashimov Memorial takes place Thu 26th to Sat 28th Sep 2024. This is a two day rapid and one day blitz tournament in Shusha, Azerbaijan in memory of Vugar Gashimov who died at the all too early age of 27. Players: Ian Nepomniachtchi, Vladislav Artemiev, Nodirbek Abdusattorov, Richard Rapport, Shakhriyar Mamedyarov, Rauf Mamedov, Aydin Suleymanli and Chithambaram Vr. Aravindh. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-vugar-gashimov-memorial-2024",
+         "pubDate" : "Thu, 26 Sep 2024 12:38:00",
+         "title" : "10th Vugar Gashimov Memorial 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3232",
+         "pubDate" : "Thu, 26 Sep 2024 12:14:05",
+         "title" : "Olympiad qualification spots for 2025 World Cup and Women's World Cup announced"
+      },
+      {
          "description" : " The Jerusalem Masters and Open are rapid events took place Tue 24th to Wed 25th Sep 2024. Players in the Masters: Svidler, Dubov, Ivanchuk, Jorden Van Foreest, Eljanov, Rodshtein, Smirin, Postny, Boruchovsky and Gorshtein. Time control 15 minutes plus 5 seconds a move. Alongside was an open with exactly the same time control and round times. Peter Svidler sealed first place with a round to spare in the Masters, Daniil Dubov beat Svidler in the final round to take second place. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/jerusalem-masters-and-open-2024",
          "pubDate" : "Thu, 26 Sep 2024 12:10:00",
          "title" : "Jerusalem Masters and Open 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3231",
+         "pubDate" : "Thu, 26 Sep 2024 11:50:52",
+         "title" : "FIDE World Senior Team Championship 2025: Registration is open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113701561.cms\" />The Chess Olympiad 2024 in Budapest saw an unexpected moment when Pakistani chess team members were seen posing with the Indian flag during a post-tournament photo session. The video quickly went viral, sparking conversations about how chess can foster peaceful relations. India's men's and women's teams both secured top positions in the event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-pakistan-team-holds-indian-flag-during-chess-olympiad-2024/articleshow/113701561.cms",
+         "pubDate" : "Thu, 26 Sep 2024 11:27:07",
+         "title" : "Viral Video: Pak team holds Indian flag during Chess Olympiad"
       },
       {
          "description" : "The Vugar Gashimov Memorial is being held in Azerbaijan for the 10th time in memory of the world-class Azerbaijani player who died at a young age. Eight top players will compete in a combined rapid and blitz tournament from 26-28 September. | Photos: Shahid Ahmed (ChessBase India)",
@@ -48,6 +104,14 @@ news_feed (
          "link" : "https://aicf.in/aicf-announces-%e2%82%b93-2-crore-rewards-for-olympiad-winning-teams/",
          "pubDate" : "Thu, 26 Sep 2024 08:05:47",
          "title" : "AICF announces ₹3.2 crore rewards for Olympiad-winning teams"
+      },
+      {
+         "description" : "Move over, record-breaking prodigies like GM Yagiz Kaan Erdogmus, IM Faustino Oro, and WFM Bodhana Sivanandan. Manuel Alvarez Escudero from Spain is 102 years old and celebrates eight (!) decades as a tournament player. He shows no signs of slowin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/meet-102-year-old-manuel-the-worlds-oldest-active-chess-player",
+         "pubDate" : "Thu, 26 Sep 2024 07:07:18",
+         "title" : "Meet 102-Year-Old Manuel Alvarez, The World's Oldest Active Chess Player"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686699.cms\" />Vantika Agrawal, a graduate from Delhi's SRCC, played a pivotal role in helping the Indian women's team win a historic gold at the Chess Olympiad in Budapest. Her resilience under pressure was key to her success on Board 4, earning her an individual gold and contributing significantly to the team's victory.",
@@ -98,14 +162,6 @@ news_feed (
          "title" : "PM Modi meets chess players, hails India's historic double gold triumph"
       },
       {
-         "description" : "The ECF would like to help one or more Ukrainian chess players to find hosts in England through the Government's Homes for Ukraine Scheme. In the first instance please read...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/homes-for-ukrainian-chess-players/",
-         "pubDate" : "Wed, 25 Sep 2024 13:55:33",
-         "title" : "Homes for Ukrainian chess players"
-      },
-      {
          "description" : "GM Vladimir Fedoseev won the Play-in of the Julius Baer Generation Cup 2024 with a final-round victory with the black pieces against GM Wesley So. Although Fedoseev lost in round four against GM Vasif Durarbayli, he won seven of the eight other ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -154,7 +210,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -512,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-india-wins",
          "pubDate" : "Sun, 22 Sep 2024 09:06:00",
          "title" : "India Clinches Historic Double Olympiad Gold"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113568320.cms\" />Rahul Gandhi wished Team India well as they enter the crucial rounds of the Chess Olympiad in Budapest. Grandmaster D Gukesh's victory over Fabiano Caruana has heightened expectations for India's first gold medal in the men's section, while the women's team is also a leading contender for gold.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/now-is-the-time-to-seize-the-gold-rahul-gandhi-wishes-team-india-success-at-chess-olympiad/articleshow/113568320.cms",
-         "pubDate" : "Sun, 22 Sep 2024 08:39:53",
-         "title" : "'Now is the time to seize the gold': Rahul Gandhi wishes Team India success"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 India close to making history! Open Wesley So (USA) set to face Rameshbabu Praggnanadhaa (IND)Photo by Daaim Shabazz/The Chess Drum Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and has virtually clinched the gold medal. Wesley So opened with a The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1104,14 +1152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-september-14-2024",
          "pubDate" : "Sat, 14 Sep 2024 14:39:00",
          "title" : "Naroditsky Wins 23rd Bullet Brawl, Catches Nakamura For 2024 Victories"
-      },
-      {
-         "description" : "55-year-old GM Vasyl Ivanchuk beat GM Wesley So as Ukraine pulled off a sensational win against 45th FIDE Chess Olympiad top-seed United States in round four. It came 15 years after an emotional Ivanchuk announced and then backtracked on retiremen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-4",
-         "pubDate" : "Sat, 14 Sep 2024 12:57:00",
-         "title" : "Ivanchuk Beats So As Ukraine Topples Olympiad Top-Seed United States"
       },
       {
          "description" : "Your beliefs have a huge influence on your results. This is because we choose our actions based on our beliefs. The simple chain reaction goes like this: Belief -&#62; Action -&#62; Results If you want to change your results, you might first have to change your beliefs. Vicious cycle: Belief: \"I'm too old to improve []",
