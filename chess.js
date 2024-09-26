@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Vugar Gashimov Memorial is being held in Azerbaijan for the 10th time in memory of the world-class Azerbaijani player who died at a young age. Eight top players will compete in a combined rapid and blitz tournament from 26-28 September. The rapid tournament starts Thursday, 26 September, at 15.30 local time (13.30 CEST, 5.30 ET). | Photos: Shahid Ahmed (ChessBase India)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vugar-gashimov-memorial-live-2",
+         "pubDate" : "Thu, 26 Sep 2024 13:00:00",
+         "title" : "Vugar Gashimov Memorial: Live"
+      },
+      {
+         "description" : " The Jerusalem Masters and Open are rapid events took place Tue 24th to Wed 25th Sep 2024. Players in the Masters: Svidler, Dubov, Ivanchuk, Jorden Van Foreest, Eljanov, Rodshtein, Smirin, Postny, Boruchovsky and Gorshtein. Time control 15 minutes plus 5 seconds a move. Alongside was an open with exactly the same time control and round times. Peter Svidler sealed first place with a round to spare in the Masters, Daniil Dubov beat Svidler in the final round to take second place. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/jerusalem-masters-and-open-2024",
+         "pubDate" : "Thu, 26 Sep 2024 12:10:00",
+         "title" : "Jerusalem Masters and Open 2024 - Games and Results"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial is being held in Azerbaijan for the 10th time in memory of the world-class Azerbaijani player who died at a young age. Eight top players will compete in a combined rapid and blitz tournament from 26-28 September. | Photos: Shahid Ahmed (ChessBase India)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-rapid-and-blitz-in-susha",
+         "pubDate" : "Thu, 26 Sep 2024 10:40:57",
+         "title" : "Gashimov Memorial: Rapid and Blitz in Susha"
+      },
+      {
+         "description" : "Indian Team met with the Hon'ble Prime Minister of India on 25 Sept.2024.check here for some glimpses",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/meeting-with-honble-prime-minister/",
+         "pubDate" : "Thu, 26 Sep 2024 10:00:58",
+         "title" : "Meeting with Hon'ble Prime Minister"
+      },
+      {
          "description" : "In this video lesson, you will learn how to search and find tens of thousands of deeply commented games by all the best players in the world. These include games by Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Garry Kasparov, Vishy Anand, and young guns like Gukesh, Erigaisi, Firouzja, and Abdussatarov! Endless entertainment and education as taught by the best chess players and chess teachers ever.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-tens-of-thousands-of-games-commented-by-carlsen-kasparov-anand-gukesh-and-more",
          "pubDate" : "Thu, 26 Sep 2024 08:12:16",
          "title" : "Chessbase in Minutes: A thousand books commented by Carlsen, Gukesh, and more!"
+      },
+      {
+         "description" : "The All India Chess Federation's decision to announce a ₹3.2 crore reward for the Olympiad-winning teams reflects the growth of chess in the country. The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-announces-%e2%82%b93-2-crore-rewards-for-olympiad-winning-teams/",
+         "pubDate" : "Thu, 26 Sep 2024 08:05:47",
+         "title" : "AICF announces ₹3.2 crore rewards for Olympiad-winning teams"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686699.cms\" />Vantika Agrawal, a graduate from Delhi's SRCC, played a pivotal role in helping the Indian women's team win a historic gold at the Chess Olympiad in Budapest. Her resilience under pressure was key to her success on Board 4, earning her an individual gold and contributing significantly to the team's victory.",
@@ -114,7 +154,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -144,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/news/2024-US-Chess-Championship-Press-Release",
          "pubDate" : "Tue, 24 Sep 2024 16:24:55",
          "title" : "America's Top Chess Players to Compete for More Than $400,000 in 2024 U.S. Championship and U.S. Women's Chess Championship"
-      },
-      {
-         "description" : " The Jerusalem Masters and Open are rapid events taking place Tue 24th to Wed 25th Sep 2024. Players in the Masters: Svidler, Dubov, Ivanchuk, Jorden Van Foreest, Eljanov, Rodshtein, Smirin, Postny, Boruchovsky and Gorshtein. Time control 15 minutes plus 5 seconds a move. Alongside is an open with exactly the same time control and round times. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/jerusalem-masters-and-open-2024",
-         "pubDate" : "Tue, 24 Sep 2024 15:11:00",
-         "title" : "Jerusalem Masters and Open 2024 - Games and Results"
       },
       {
          "description" : "Please find the Live Link : https://live.tamilchess.com/29th-im-norm-coimbatore/ Playing schedule Round Date Time 1 2024/09/23 03.30 pm 2 2024/09/24 10.00 am 3 2024/09/24 03.30 pm 4 2024/09/25",
@@ -978,14 +1010,6 @@ news_feed (
          "title" : "Indian Teams Sole Leaders After Ding Defeat Costs China"
       },
       {
-         "description" : "Kindly find the live games link for the 53rd National Junior (Under - 19) &#38; 38th National Junior (Under - 19) Girls Chess Championships 2024 scheduled at Shamiana The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-for-the-53rd-national-junior-under-19-38th-national-junior-under-19-girls-chess-championships-2024/",
-         "pubDate" : "Mon, 16 Sep 2024 11:03:13",
-         "title" : "Live games for the 53rd National Junior (Under - 19) & 38th National Junior (Under - 19) Girls Chess Championships 2024"
-      },
-      {
          "description" : "The stage is set for the Julius Baer Generation Cup, the fourth and final online leg of the 2024 Champions Chess Tour. Starting on September 25, this thrilling event will feature a $300,000 prize fund, offering the world&#38;rsquo;s top chess players ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1034,12 +1058,12 @@ news_feed (
          "title" : "45th Chess Olympiad R05: Vietnam, Armenia and Mongolia deliver upsets "
       },
       {
-         "description" : "Please find here certificates Rank Name 1 Karthik Venkataraman 2 Ganguly Surya Shekhar 3 Neelash Saha 4 Ghosh Diptayan 5 Aronyak Ghosh 6 Gusain Himal",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-chess-championship-2024-in-gurugram-haryana/",
-         "pubDate" : "Sun, 15 Sep 2024 20:03:32",
-         "title" : "Certificates of National Chess Championship 2024 in Gurugram Haryana"
+         "description" : "The missing subtitle 'Everybody Loves the Lewis Pieces' recalls the recent post <A HREF=\"https://chessforallages.blogspot.com/2024/06/everybody-loves-morphy.html\">Everybody Loves Morphy</A> (June 2024). Our previous Flickr post featuring the dour little warriors was <A HREF=\"https://chessforallages.blogspot.com/2023/05/the-lewis-pieces-at-church.html\">The Lewis Pieces at Church</A> (May 2023; 'Christ Church Cathedral, Waterford, Ireland'). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oi15.jpg\" WIDTH=390 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/hornbeam/53973229970/\">Lewis Chessmen</A> &#169; Flickr user <I>Hornbeam Arts</I> under <A HREF=\"https://creativecommo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/09/a-knight-and-two-berserkers.html",
+         "pubDate" : "Sun, 15 Sep 2024 15:30:00",
+         "title" : "A Knight and Two Berserkers"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 2Thursday, 12 September 2024 Open In Round 2 of the Chess Olympiad, we saw more drama as Levon Aronian managed tremendous risks in his game against Zhenyoung Wong of Singapore. Aronian escaped first-round disaster after losing a minor piece. In this game, he was down a rook, but had an attack The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-2/\">2024 Chess Olympiad: Round 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
