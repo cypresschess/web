@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this video lesson, you will learn how to search and find tens of thousands of deeply commented games by all the best players in the world. These include games by Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Garry Kasparov, Vishy Anand, and young guns like Gukesh, Erigaisi, Firouzja, and Abdussatarov! Endless entertainment and education as taught by the best chess players and chess teachers ever.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-tens-of-thousands-of-games-commented-by-carlsen-kasparov-anand-gukesh-and-more",
+         "pubDate" : "Thu, 26 Sep 2024 08:12:16",
+         "title" : "Chessbase in Minutes: A thousand books commented by Carlsen, Gukesh, and more!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686699.cms\" />Vantika Agrawal, a graduate from Delhi's SRCC, played a pivotal role in helping the Indian women's team win a historic gold at the Chess Olympiad in Budapest. Her resilience under pressure was key to her success on Board 4, earning her an individual gold and contributing significantly to the team's victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/desperately-wanted-to-win-the-gold-for-india-vantika-agrawal/articleshow/113686699.cms",
+         "pubDate" : "Thu, 26 Sep 2024 04:20:09",
+         "title" : "Desperately wanted to win the gold for India: Vantika Agrawal"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686115.cms\" />Grandmaster Vidit Gujrathi significantly contributed to India's success at the Chess Olympiad in Budapest, scoring 7.5 points from 10 games. India clinched both men's and women's team titles and four individual gold medals. Vidit noted pivotal victories against the USA and China, expressing pride in the team's historic performance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-now-a-chess-superpower-gm-vidit-gujrathi/articleshow/113686115.cms",
+         "pubDate" : "Thu, 26 Sep 2024 04:00:29",
+         "title" : "We are now a chess superpower: GM Vidit Gujrathi"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113685669.cms\" />Prime Minister Narendra Modi praised India's young chess players for their historic achievements at the 45th Chess Olympiad in Budapest. Both men's and women's teams clinched their maiden gold medals by defeating Slovenia and Azerbaijan respectively. Modi interacted with the champions, who presented him with a chessboard, followed by a quick game between Praggnanandhaa and Erigaisi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-pm-modi-sees-praggnanandhaa-and-erigaisi-compete-in-chess/articleshow/113685669.cms",
+         "pubDate" : "Thu, 26 Sep 2024 03:55:41",
+         "title" : "Watch: PM Modi enjoys chess showdown between Pragg and Erigaisi"
+      },
+      {
          "description" : "This is what winners look like. At the end of the Chess Olympiad, Arne Kaehler brought the gold medallists in front of the ChessBase camera: Gukesh, Arjun, Vidit, Harikrishna and Divya shared their thoughts and answered to Arne's tricky questions!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +114,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -458,14 +490,6 @@ news_feed (
          "title" : "'Now is the time to seize the gold': Rahul Gandhi wishes Team India success"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113563538.cms\" />Vladimir Kramnik, former World chess champion, complained about mobile phones on Indian boards at the Chess Olympiad. Authorities inspected and found no violations. FIDE clarified media regulations differ from player rules. The incident did not affect the crucial India-Uzbekistan match, which India approached with maturity.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-fide-fair-play-team-silences-vladimir-kramnik/articleshow/113563538.cms",
-         "pubDate" : "Sun, 22 Sep 2024 03:36:16",
-         "title" : "Chess Olympiad: FIDE Fair Play team silences Vladimir Kramnik"
-      },
-      {
          "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 India close to making history! Open Wesley So (USA) set to face Rameshbabu Praggnanadhaa (IND)Photo by Daaim Shabazz/The Chess Drum Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and has virtually clinched the gold medal. Wesley So opened with a The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess",
          "pubDate" : "Sun, 22 Sep 2024 00:28:10",
          "title" : "Who Wins This Race? - Arjun Explains #chess #chesstactics #chessendgame #lichess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113561622.cms\" />Arjun Erigaisi's victory over USA's Leinier Dominguez Perez has positioned India on the brink of winning its first gold in the Open section of the 45th Chess Olympiad. With a lead of 19 points, India is ahead of China, who have 17 points. In the women's section, India and Kazakhstan are tied at 17 points each.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-virtually-seal-historic-gold-at-chess-olympiad-in-open-section/articleshow/113561622.cms",
-         "pubDate" : "Sun, 22 Sep 2024 00:22:04",
-         "title" : "India virtually seal historic gold at Chess Olympiad in Open section"
       },
       {
          "description" : "It will roll into the UK capital London on October 3rd-12th. The Tech Mahindra Global Chess League will be stages in the Theatre of the Friends House, Euston Road and will include Carlsen, Nakamura, Anand, Praggnanandhaa, Vachier-Lagrave, Giri, Rapport, Hou Yifan, and many other superstars. Tickets can be obtained from Chess & Bridge. Definitely worth a visit. Announcement by Matt Read",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41353022/gold-india-fide-chess-olympiad-2024-possibility-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
          "pubDate" : "Sat, 21 Sep 2024 03:52:27",
          "title" : "Can India win gold in the Chess Olympiad 2024?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113540853.cms\" />At the Chess Olympiad in Budapest, D Harika's underperformance is impacting the Indian women's team. She has scored only three points in seven games and missed a crucial match against the USA. In contrast, debutants Divya Deshmukh and Vantika Agrawal have remained undefeated, highlighting a mix of experience and youthful fearlessness within the team.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-women-lose-tempo-as-harika-struggles/articleshow/113540853.cms",
-         "pubDate" : "Sat, 21 Sep 2024 03:50:44",
-         "title" : "Chess Olympiad: Women lose tempo as Harika struggles"
       },
       {
          "description" : "Editor's note: This report covers rounds seven through ten of the 45th FIDE Chess Olympiad. Part two can be found here and part one here. The final round will take place Sunday, September 22, at 4:00 a.m. CDT (four hours earlier than previous rounds). <br /><br /> The rounds following the rest day of the 45th FIDE Chess Olympiad saw both American teams start in a similar situation. Having each dropped a match earlier in the tournament, each team could expect a couple of rounds on slightly lower boards. Hopefully, good results would give them some shots at the tournament leaders, and, hopefully, no team would run away with the tournament before that happened! Below is a quick recap of each te",
