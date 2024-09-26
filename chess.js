@@ -34,11 +34,11 @@ news_feed (
          "title" : "Homes for Ukrainian chess players"
       },
       {
-         "description" : "GM Vladimir Fedoseev won the Play-in of the Julius Baer Generation Cup 2024 with a final-round victory with the black pieces against GM Wesley So. Although he lost in round four against GM Vasif Durarbayli, he won seven out of the eight other game...",
+         "description" : "GM Vladimir Fedoseev won the Play-in of the Julius Baer Generation Cup 2024 with a final-round victory with the black pieces against GM Wesley So. Although Fedoseev lost in round four against GM Vasif Durarbayli, he won seven of the eight other ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-play-in",
-         "pubDate" : "Wed, 25 Sep 2024 12:58:23",
+         "pubDate" : "Wed, 25 Sep 2024 12:58:00",
          "title" : "Fedoseev Wins Play-in, Triumphs In Final Round With Black Win Vs. Wesley So"
       },
       {
