@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. In the new CBM Extra #221: Videos by Ivan Sokolov: Spanish with 4...Nge7 and 5...f6!? and Fabien Libiszewski: Kalashnikov Update. \"Lucky bag\" with 44 analyses by Anish Giri, Sergey Gritoriants, Michal Krasenkow and many more. Update Service with over 50,000 new games!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/neu-cbm-extra-4",
+         "pubDate" : "Thu, 26 Sep 2024 17:54:41",
+         "title" : "New: CBM Extra #221"
+      },
+      {
          "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. Many top players compete for top places and a place in the final. On day 2 Magnus Carlsen will also join the action. Live video with commentary...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Champions Chess Tour Finals To Happen In Oslo, Norway, With Live Audience"
       },
       {
-         "description" : "In this video lesson, you will learn how to search and find tens of thousands of deeply commented games by all the best players in the world. These include games by Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Garry Kasparov, Vishy Anand, and young guns like Gukesh, Erigaisi, Firouzja, and Abdussatarov! Endless entertainment and education as taught by the best chess players and chess teachers ever.",
+         "description" : "In this video lesson, you will learn how to search and find tens of thousands of deeply commented games by all the best players in the world. These include games by Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Garry Kasparov, Vishy Anand, and young guns like Gukesh, Erigaisi, Firouzja, and Abdussatorov! Endless entertainment and education as taught by the best chess players and chess teachers ever.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-tens-of-thousands-of-games-commented-by-carlsen-kasparov-anand-gukesh-and-more",
@@ -242,7 +250,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
