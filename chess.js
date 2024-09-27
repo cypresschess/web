@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2024 Chess Olympiad: Round 11Sunday, 23 September 2024 India wins double gold! Viswanathan Anand presenting the Gaprindashvili Award to India for combined performance. Both teams had already received their gold medals. Photo by Maria Emelianova Open The 2024 Chess Olympiad in Budapest ended with a bang as India completed its &#8220;adoption&#8221; of the opposition, winning The post <a href=\"https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/\">2024 Chess Olympiad: Round 11</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/",
+         "pubDate" : "Fri, 27 Sep 2024 01:29:21",
+         "title" : "2024 Chess Olympiad: Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class about knocking your opponent out of their comfort zone. 2024.09.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G8yf244bHtQ.jpg?itok=A7K1VseY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk",
+         "pubDate" : "Fri, 27 Sep 2024 00:32:33",
+         "title" : "Exiting the Comfort Zone | Prepare Like A Pro - GM Illia Nyzhnyk"
+      },
+      {
          "description" : "ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. In the new CBM Extra #221: Videos by Ivan Sokolov: Spanish with 4...Nge7 and 5...f6!? and Fabien Libiszewski: Kalashnikov Update. \"Lucky bag\" with 44 analyses by Anish Giri, Sergey Gritoriants, Michal Krasenkow and many more. Update Service with over 50,000 new games!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -86,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-division-placement",
-         "pubDate" : "Thu, 26 Sep 2024 12:00:48",
+         "pubDate" : "Thu, 26 Sep 2024 12:00:00",
          "title" : "Carlsen, Nepomniachtchi, Arjun, Aronian, Fedoseev Advance To Division I"
       },
       {
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://aicf.in/aicf-announces-%e2%82%b93-2-crore-rewards-for-olympiad-winning-teams/",
          "pubDate" : "Thu, 26 Sep 2024 08:05:47",
          "title" : "AICF announces ₹3.2 crore rewards for Olympiad-winning teams"
+      },
+      {
+         "description" : "Chess is a brilliant sport, and after years of dormancy (and looking up at one man's greatness in wonder and awe), India's waking up to it again.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41451992/india-chess-boom-right-moves-game-grow-board-viswanathan-anand-arjun-erigaisi-anish-giri?device=featurephone",
+         "pubDate" : "Thu, 26 Sep 2024 07:58:57",
+         "title" : "India's chess boom: With the right moves, game can grow across the board"
       },
       {
          "description" : "Move over, record-breaking prodigies like GM Yagiz Kaan Erdogmus, IM Faustino Oro, and WFM Bodhana Sivanandan. Manuel Alvarez Escudero from Spain is 102 years old and celebrates eight (!) decades as a tournament player. He shows no signs of slowin...",
@@ -250,7 +274,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess",
          "pubDate" : "Sat, 21 Sep 2024 18:28:10",
          "title" : "What About If Bxd5? - Arjun Explains #chess #chesstactics #chessendgame #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Arjun explains the possibility of Ke5 Saturdays @ 1:30pm CST on <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/promote-and-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BQzXuUEGhCI.jpg?itok=2-zjgzKm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/promote-and-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess",
-         "pubDate" : "Sat, 21 Sep 2024 18:28:10",
-         "title" : "Promote and Skewer - Arjun Explains #chess #chessendgame #chesstactics #lichess"
       },
       {
          "description" : "GM Andrew Tang won his fourth Bullet Brawl&#38;nbsp;by a 20-point margin over GM Hikaru Nakamura. Tang began and ended on undefeated streaks to score 256 and&#38;nbsp;take home the $400 first prize. Nakamura won $250 for second place. IM Renato Terry ea...",
@@ -1184,14 +1200,6 @@ news_feed (
          "link" : "https://www.thearticle.com/war-and-chess/",
          "pubDate" : "Sat, 14 Sep 2024 05:50:13",
          "title" : "War and chess "
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 1Wednesday, 11 September 2024 The 2024 Chess Olympiad has begun! Typically, Round 1 pairings are top teams against those from developing federations. The most common story is about upsets. Every Olympiad, there is usually a case of a player with a 300-400 rating handicap winning or drawing. Reddit was buzzing about The post <a href=\"https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/\">2024 Chess Olympiad: Round 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/13/2024-chess-olympiad-round-1/",
-         "pubDate" : "Sat, 14 Sep 2024 02:08:46",
-         "title" : "2024 Chess Olympiad: Round 1"
       },
       {
          "description" : "The Indian teams posted wins in the open and women's section on day three of the 2024 Chess Olympiad.",
