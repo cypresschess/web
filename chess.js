@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the quarter-finals of Division I, Magnus Carlsen and Ian Nepomniachtchi will clash again. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
+         "pubDate" : "Fri, 27 Sep 2024 16:00:00",
+         "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
          "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After three rounds of rapid, Richard Rapport and Ian Nepomniachtchi share the lead with 2.5/3 each. Today, 27 September, rounds 4 to 7 will be played. Round 4 starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Fotos: Shahid Ahmed (ChessBase India) . | Photos: Shahid Ahmed (ChessBase India)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3235",
          "pubDate" : "Fri, 27 Sep 2024 10:45:21",
          "title" : "FIDE100 Art Contest: Celebrating chess through creativity"
+      },
+      {
+         "description" : "It&#39;s official: the Chess.com Streamers Program is expanding to YouTube. After the latest upgrades from our tech team, showcasing your YouTube stream on Chess.com is just as easy as showcasing your Twitch stream. Our goal is to support creators w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-streamers-program-youtube",
+         "pubDate" : "Fri, 27 Sep 2024 08:00:00",
+         "title" : "The Chess.com Streamers Program Is Now Available On YouTube"
       },
       {
          "description" : " India won the Open and Women's Olympiads in Budapest, while for the first time in history no European team reached the podium in either event India's domination of the 188-team Budapest Olympiad was complete. Their winning Open score of 21/22 was a record, they finished four points clear of the chasing pack, while their four individual golds included a 3000+ rating performance by Gukesh Dommaraju, 18, who challenges for the world crown in November. It was a seminal moment in chess history, comparable to the 1945 USA v USSR radio match when the Americans, quadruple Olympiad gold winners in the 1930s, were <a href=\"https://www.chessgames.com/perl/chess.pl?tid=82306&amp;result=1-0at\">crushed 1",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/neu-cbm-extra-4",
          "pubDate" : "Thu, 26 Sep 2024 17:54:41",
          "title" : "New: CBM Extra #221"
-      },
-      {
-         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. Many top players compete for top places and a place in the final. On day 2 Magnus Carlsen will also join the action. Live video with commentary...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
-         "pubDate" : "Thu, 26 Sep 2024 17:14:41",
-         "title" : "Julius Baer Generation Cup: Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113710082.cms\" />Indian chess grandmaster R Praggnanandhaa expressed happiness after winning gold at the 45th Chess Olympiad and meeting Indian Prime Minister Narendra Modi. He emphasized the dedication behind this historic achievement for Indian chess. Both men's and women's teams secured gold, marking a significant milestone for India's chess community and inspiring future enthusiasts nationwide.",
@@ -298,7 +306,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-6",
          "pubDate" : "Mon, 16 Sep 2024 12:50:00",
          "title" : "Indian Teams Sole Leaders After Ding Defeat Costs China"
-      },
-      {
-         "description" : "The stage is set for the Julius Baer Generation Cup, the fourth and final online leg of the 2024 Champions Chess Tour. Starting on September 25, this thrilling event will feature a $300,000 prize fund, offering the world&#38;rsquo;s top chess players ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2024-julius-baer-generation-cup",
-         "pubDate" : "Mon, 16 Sep 2024 08:00:00",
-         "title" : "Julius Baer Generation Cup: The Final Leg of the 2024 Champions Chess Tour"
       },
       {
          "description" : "ECU E-Magazine August 2024 is out! In this edition of the ECU E-Magazine you may read about: The August 2024 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded down below.",
