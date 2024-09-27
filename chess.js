@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " India won the Open and Women's Olympiads in Budapest, while for the first time in history no European team reached the podium in either event India's domination of the 188-team Budapest Olympiad was complete. Their winning Open score of 21/22 was a record, they finished four points clear of the chasing pack, while their four individual golds included a 3000+ rating performance by Gukesh Dommaraju, 18, who challenges for the world crown in November. It was a seminal moment in chess history, comparable to the 1945 USA v USSR radio match when the Americans, quadruple Olympiad gold winners in the 1930s, were <a href=\"https://www.chessgames.com/perl/chess.pl?tid=82306&amp;result=1-0at\">crushed 1",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/sep/27/chess-india-win-double-gold-as-new-generation-dominates-at-olympiad",
+         "pubDate" : "Fri, 27 Sep 2024 07:00:06",
+         "title" : "Chess: India win double gold as new generation dominates at Olympiad"
+      },
+      {
+         "description" : "European Chess Union presents the new Media Guide, concerning the live coverage on major European Chess Championships. The ECU Media Guide was approved by the ECU General Assembly 2024 in Budapest, Hungary, and was added to the ECU Rulebook. ECU Media Guide contains media standards for the ECU tournaments and defines guidelines for the organisers for the live and press coverage of the European Chess Championships. The Media Guide also contains detailed information about press accreditations at the ECU tournaments, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-media-guide/",
+         "pubDate" : "Fri, 27 Sep 2024 06:54:19",
+         "title" : "ECU Media Guide"
+      },
+      {
          "description" : " 2024 Chess Olympiad: Round 11Sunday, 23 September 2024 India wins double gold! Viswanathan Anand presenting the Gaprindashvili Award to India for combined performance. Both teams had already received their gold medals. Photo by Maria Emelianova Open The 2024 Chess Olympiad in Budapest ended with a bang as India completed its &#8220;adoption&#8221; of the opposition, winning The post <a href=\"https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/\">2024 Chess Olympiad: Round 11</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 11"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class about knocking your opponent out of their comfort zone. 2024.09.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G8yf244bHtQ.jpg?itok=A7K1VseY\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class about knocking your opponent out of their comfort zone. 2024.09.26<br /> Kevin Su vs. Illia Nyzhnyk, 2022: B12 Caro-Kann, advance variation<br /> Nyzhnyk vs. Andrew Hong, 2021: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G8yf244",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk",
@@ -1456,22 +1472,6 @@ news_feed (
          "link" : "https://www.europechess.org/the-5th-ecu-trainers-online-seminar/",
          "pubDate" : "Fri, 06 Sep 2024 07:43:03",
          "title" : "The 5th ECU Trainers Online Seminar"
-      },
-      {
-         "description" : " The London schoolboy defeated three GMs in successive games in Budapest and narrowly failed to achieve a world age record 2300 and a Fide Master title Ethan Pang, the nine-year-old London schoolboy who, <a href=\"https://www.chess.com/news/view/9-year-old-ethan-pang-becomes-youngest-to-ever-break-2200?page=3is\">in June</a>, set a new world mark as the youngest ever to achieve a 2200 master rating, is in the record books again. Competing in the Vezerkepzo IM tournament in Budapest, Pang defeated three grandmasters in succession between rounds two and five. True, the beaten trio were past their best and rated below 2400 compared with the normal GM level of 2500, but they all had decades of hig",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/sep/06/chess-ethan-pang-nine-beats-three-grandmasters-but-misses-2300-rating",
-         "pubDate" : "Fri, 06 Sep 2024 07:00:18",
-         "title" : "Chess: Ethan Pang, nine, beats three grandmasters but misses 2300 rating"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3199",
-         "pubDate" : "Fri, 06 Sep 2024 06:05:54",
-         "title" : "Rising stars and \"veterans\": 2024 Women's Chess Olympiad preview"
       }
    ]
 }
