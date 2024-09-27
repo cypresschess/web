@@ -18,12 +18,28 @@ news_feed (
          "title" : "Vugar Gashimov Memorial: Live"
       },
       {
+         "description" : "GMs Magnus Carlsen, Alireza Firouzja, Levon Aronian, and Alexander Grischuk advance to the Winners Semifinals of the Julius Baer Generation Cup 2024, after respectively defeating GMs Ian Nepomniachtchi, Vladimir Fedoseev, Maxime Vachier-Lagrave, a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-3",
+         "pubDate" : "Fri, 27 Sep 2024 11:28:01",
+         "title" : "Grischuk Shows Class Is Forever Vs. Arjun, Carlsen Swindles Nepomniachtchi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3235",
          "pubDate" : "Fri, 27 Sep 2024 10:45:21",
          "title" : "FIDE100 Art Contest: Celebrating chess through creativity"
+      },
+      {
+         "description" : "The exciting Vishy vs. the World vote chess match against GM Viswanathan Anand is fast approaching, beginning on Monday, September 30. Chess.com has recruited a star squad of four coaching advisors to provide analysis and recommend moves (reflecti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-the-coaches-for-vishy-vs-the-world",
+         "pubDate" : "Fri, 27 Sep 2024 10:16:03",
+         "title" : "Announcing The Coaches For Vishy vs. The World"
       },
       {
          "description" : "It&#39;s official: the Chess.com Streamers Program is expanding to YouTube. After the latest upgrades from our tech team, showcasing your YouTube stream on Chess.com is just as easy as showcasing your Twitch stream. Our goal is to support creators w...",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-media-guide/",
          "pubDate" : "Fri, 27 Sep 2024 06:54:19",
          "title" : "ECU Media Guide"
-      },
-      {
-         "description" : "Chess is a brilliant sport, and after years of dormancy (and looking up at one man's greatness in wonder and awe), India's waking up to it again.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41451992/india-chess-boom-right-moves-game-grow-board-viswanathan-anand-arjun-erigaisi-anish-giri?device=featurephone",
-         "pubDate" : "Fri, 27 Sep 2024 04:19:54",
-         "title" : "India's chess boom: With the right moves, game can grow across the board"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 11Sunday, 23 September 2024 India wins double gold! Viswanathan Anand presenting the Gaprindashvili Award to India for combined performance. Both teams had already received their gold medals. Photo by Maria Emelianova Open The 2024 Chess Olympiad in Budapest ended with a bang as India completed its &#8220;adoption&#8221; of the opposition, winning The post <a href=\"https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/\">2024 Chess Olympiad: Round 11</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -200,6 +208,14 @@ news_feed (
          "link" : "https://aicf.in/aicf-announces-%e2%82%b93-2-crore-rewards-for-olympiad-winning-teams/",
          "pubDate" : "Thu, 26 Sep 2024 08:05:47",
          "title" : "AICF announces ₹3.2 crore rewards for Olympiad-winning teams"
+      },
+      {
+         "description" : "Chess is a brilliant sport, and after years of dormancy (and looking up at one man's greatness in wonder and awe), India's waking up to it again.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41451992/india-chess-boom-right-moves-game-grow-board-viswanathan-anand-arjun-erigaisi-anish-giri?device=featurephone",
+         "pubDate" : "Thu, 26 Sep 2024 07:58:57",
+         "title" : "India's chess boom: With the right moves, game can grow across the board"
       },
       {
          "description" : "Move over, record-breaking prodigies like GM Yagiz Kaan Erdogmus, IM Faustino Oro, and WFM Bodhana Sivanandan. Manuel Alvarez Escudero from Spain is 102 years old and celebrates eight (!) decades as a tournament player. He shows no signs of slowin...",
@@ -1042,14 +1058,6 @@ news_feed (
          "title" : "TechM Global Chess League 2024 - Games and Results"
       },
       {
-         "description" : "Few female players in chess history were able to win a round-robin classical event ahead of male grandmasters. IM Meruert Kamalidenova has now joined that elite group. The 19-year-old scored a stunning victory in the Karaganda Akim Cup, a closed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/meruert-kamalidenova-sensationally-wins-event-with-male-players-scores-gm-norm",
-         "pubDate" : "Tue, 17 Sep 2024 12:36:00",
-         "title" : "Meruert Kamalidenova Triumphs Over 7 GMs, Secures Grandmaster Norm"
-      },
-      {
          "description" : "Six rounds have been played at the 45th Chess Olympiad in Budapest, Hungary, and India emerged as the sole leader of both sections scoring perfect 12/12 match points. Indian team in the Open section scored a convincing 3-1 win over Hungary yesterday, to head into today's free day as the sole leader of the event. Vietnam, China, and Iran are following with the score of 11 match points, while as many as 10 teams score 10 match points. Taking a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-4/",
          "pubDate" : "Mon, 16 Sep 2024 13:08:47",
          "title" : "2024 Chess Olympiad: Round 4"
-      },
-      {
-         "description" : "GM Arjun Erigaisi and India go into the rest day of the 45th FIDE Chess Olympiad on perfect scores after Arjun&#39;s round-six win over GM Sanan Sjugirov helped India to a 3-1 victory over Hungary. That meant the sole lead as China only drew with Viet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-6",
-         "pubDate" : "Mon, 16 Sep 2024 12:50:00",
-         "title" : "Indian Teams Sole Leaders After Ding Defeat Costs China"
       },
       {
          "description" : "ECU E-Magazine August 2024 is out! In this edition of the ECU E-Magazine you may read about: The August 2024 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded down below.",
