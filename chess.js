@@ -50,6 +50,14 @@ news_feed (
          "title" : "ECU Media Guide"
       },
       {
+         "description" : "Chess is a brilliant sport, and after years of dormancy (and looking up at one man's greatness in wonder and awe), India's waking up to it again.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41451992/india-chess-boom-right-moves-game-grow-board-viswanathan-anand-arjun-erigaisi-anish-giri?device=featurephone",
+         "pubDate" : "Fri, 27 Sep 2024 04:19:54",
+         "title" : "India's chess boom: With the right moves, game can grow across the board"
+      },
+      {
          "description" : " 2024 Chess Olympiad: Round 11Sunday, 23 September 2024 India wins double gold! Viswanathan Anand presenting the Gaprindashvili Award to India for combined performance. Both teams had already received their gold medals. Photo by Maria Emelianova Open The 2024 Chess Olympiad in Budapest ended with a bang as India completed its &#8220;adoption&#8221; of the opposition, winning The post <a href=\"https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/\">2024 Chess Olympiad: Round 11</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -194,14 +202,6 @@ news_feed (
          "title" : "AICF announces ₹3.2 crore rewards for Olympiad-winning teams"
       },
       {
-         "description" : "Chess is a brilliant sport, and after years of dormancy (and looking up at one man's greatness in wonder and awe), India's waking up to it again.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41451992/india-chess-boom-right-moves-game-grow-board-viswanathan-anand-arjun-erigaisi-anish-giri?device=featurephone",
-         "pubDate" : "Thu, 26 Sep 2024 07:58:57",
-         "title" : "India's chess boom: With the right moves, game can grow across the board"
-      },
-      {
          "description" : "Move over, record-breaking prodigies like GM Yagiz Kaan Erdogmus, IM Faustino Oro, and WFM Bodhana Sivanandan. Manuel Alvarez Escudero from Spain is 102 years old and celebrates eight (!) decades as a tournament player. He shows no signs of slowin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -306,7 +306,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
