@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After three rounds of rapid, Richard Rapport and Ian Nepomniachtchi share the lead with 2.5/3 each. Today, 27 September, rounds 4 to 7 will be played. Round 4 starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Fotos: Shahid Ahmed (ChessBase India) . | Photos: Shahid Ahmed (ChessBase India)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vugar-gashimov-memorial-live-2",
+         "pubDate" : "Fri, 27 Sep 2024 12:30:00",
+         "title" : "Vugar Gashimov Memorial: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3235",
+         "pubDate" : "Fri, 27 Sep 2024 10:45:21",
+         "title" : "FIDE100 Art Contest: Celebrating chess through creativity"
+      },
+      {
          "description" : " India won the Open and Women's Olympiads in Budapest, while for the first time in history no European team reached the podium in either event India's domination of the 188-team Budapest Olympiad was complete. Their winning Open score of 21/22 was a record, they finished four points clear of the chasing pack, while their four individual golds included a 3000+ rating performance by Gukesh Dommaraju, 18, who challenges for the world crown in November. It was a seminal moment in chess history, comparable to the 1945 USA v USSR radio match when the Americans, quadruple Olympiad gold winners in the 1930s, were <a href=\"https://www.chessgames.com/perl/chess.pl?tid=82306&amp;result=1-0at\">crushed 1",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svidler-wins-jerusalem-masters",
          "pubDate" : "Thu, 26 Sep 2024 15:00:00",
          "title" : "Svidler wins Jerusalem Masters"
-      },
-      {
-         "description" : "The Vugar Gashimov Memorial is being held in Azerbaijan for the 10th time in memory of the world-class Azerbaijani player who died at a young age. Eight top players will compete in a combined rapid and blitz tournament from 26-28 September. The rapid tournament starts Thursday, 26 September, at 15.30 local time (13.30 CEST, 5.30 ET). | Photos: Shahid Ahmed (ChessBase India)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vugar-gashimov-memorial-live-2",
-         "pubDate" : "Thu, 26 Sep 2024 13:00:00",
-         "title" : "Vugar Gashimov Memorial: Live"
       },
       {
          "description" : "",
@@ -1456,22 +1464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3200",
          "pubDate" : "Sat, 07 Sep 2024 06:48:44",
          "title" : "2025 World Cup qualifications"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.theguardian.com/sport/article/2024/sep/06/chess-ethan-pang-nine-beats-three-grandmasters-but-misses-2300-rating#new_tab",
-         "pubDate" : "Fri, 06 Sep 2024 08:39:31",
-         "title" : "Ethan Pang, nine, beats three grandmasters - from Leonard Barden"
-      },
-      {
-         "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 25 November 5 December 2024. In the Webinar the titles of ECU Expert Coach, or ECU Junior Coach, or ECU Novice Coach, may/will be awarded. Each participant must successfully meet the following requirements: Personal Curriculum Vitae (special Form), Participation in the Webinar (€ 100), Webinar's Test, Title Fee Payment (€ 200 or € 300). The Webinar fee will be waived for selected participants: One participant []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-5th-ecu-trainers-online-seminar/",
-         "pubDate" : "Fri, 06 Sep 2024 07:43:03",
-         "title" : "The 5th ECU Trainers Online Seminar"
       }
    ]
 }
