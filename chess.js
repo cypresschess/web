@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/",
+         "pubDate" : "Fri, 27 Sep 2024 23:44:16",
+         "title" : "Derrick Rose retires&hellip; chess next?"
+      },
+      {
          "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the quarter-finals of Division I, Magnus Carlsen and Ian Nepomniachtchi will clash again. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-3",
-         "pubDate" : "Fri, 27 Sep 2024 11:28:01",
+         "pubDate" : "Fri, 27 Sep 2024 11:28:00",
          "title" : "Grischuk Shows Class Is Forever Vs. Arjun, Carlsen Swindles Nepomniachtchi"
       },
       {
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk",
          "pubDate" : "Fri, 27 Sep 2024 00:32:33",
          "title" : "Exiting the Comfort Zone | Prepare Like A Pro - GM Illia Nyzhnyk"
+      },
+      {
+         "description" : "We are undergoing some technical difficulties related to tournament report uploads and ratings. All other US Chess functions should be working.<br /><br /> We do not have an ETA on when this will be fixed, but we will provide updates on this story when they are available.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-927",
+         "pubDate" : "Fri, 27 Sep 2024 00:00:00",
+         "title" : "Ratings and Ratings Reports Issues (9/27)"
       },
       {
          "description" : "ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. In the new CBM Extra #221: Videos by Ivan Sokolov: Spanish with 4...Nge7 and 5...f6!? and Fabien Libiszewski: Kalashnikov Update. \"Lucky bag\" with 44 analyses by Anish Giri, Sergey Gritoriants, Michal Krasenkow and many more. Update Service with over 50,000 new games!",
@@ -322,7 +338,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1162,14 +1178,6 @@ news_feed (
          "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
       },
       {
-         "description" : "US Chess is seeking applicants for the positions of Heads of Delegation (HOD) and Coaches (Trainers) for the 2024 FIDE International Youth events.<br /><br /> The policy for selection is posted on the US Chess website and has changed for 2024. The two events covered by this process are: <br /><br /> 2024 World Youth (U14, U16, U18) Chess Championships, October 28 - November 10, Florianopolis, Brazil<br /> \t2024 World Cadet (U8, U10, U12) Chess Championships, November 12 - 25, Montesilvano, Italy<br /> Applicants for the position of HOD or for the position of Coach (also known as Trainers), must be a licensed FIDE Trainer. Find additional information about the FIDE Trainers' System here.<br /",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-seeking-hod-and-trainers-2024-international-youth-events",
-         "pubDate" : "Mon, 16 Sep 2024 00:00:00",
-         "title" : "US Chess Seeking HOD and Trainers for 2024 International Youth Events"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/09/a-knight-and-two-berserkers.html",
          "pubDate" : "Sun, 15 Sep 2024 15:30:00",
          "title" : "A Knight and Two Berserkers"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 2Thursday, 12 September 2024 Open In Round 2 of the Chess Olympiad, we saw more drama as Levon Aronian managed tremendous risks in his game against Zhenyoung Wong of Singapore. Aronian escaped first-round disaster after losing a minor piece. In this game, he was down a rook, but had an attack The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-2/\">2024 Chess Olympiad: Round 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-2/",
-         "pubDate" : "Sun, 15 Sep 2024 14:20:37",
-         "title" : "2024 Chess Olympiad: Round 2"
       },
       {
          "description" : "Arjun Erigaisi and co. beat Serbia in the open section, while the women's team defeated France in the fourth round of the 2024 Chess Olympiad.",
