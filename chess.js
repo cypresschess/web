@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After the rapid tournament Ian Nepomniachtchi is in the lead and he will try to defend this lead in the blitz tournament today. It's a double round blitz 3+2 and all 14 rounds will be played today. The action starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Photos: Shahid Ahmed (ChessBase India)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vugar-gashimov-memorial-live-2",
+         "pubDate" : "Sat, 28 Sep 2024 12:30:00",
+         "title" : "Vugar Gashimov Memorial - Blitz: Live"
+      },
+      {
+         "description" : "The new 2024/25 Bundesliga season begins this weekend in Kirchweyhe, a week before the official start. Team D&uuml;sseldorf, promoted from the 2. Bundesliga, had asked for an earlier start because many of their players are involved in the Global Chess League in London the following weekend. This suggests that the coming season will be one of the strongest, if not the strongest, ever. Countless top players hope to help a German club win this year's Bundesliga. A preview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-bundesliga-season-2024-25-is-about-to-begin-a-preview",
+         "pubDate" : "Sat, 28 Sep 2024 12:00:00",
+         "title" : "The new Bundesliga season 2024/25 is about to begin - a preview"
+      },
+      {
+         "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-held-at-karaikudi-tamil-nadu-on-21-22-september-2024/",
+         "pubDate" : "Sat, 28 Sep 2024 07:53:27",
+         "title" : "FINAL Report of Senior National Arbiter seminar held at Karaikudi, Tamil Nadu on 21 & 22 September 2024"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, Maharashtra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Jalgaon on 19 &#38; 20",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -386,7 +410,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -986,14 +1010,6 @@ news_feed (
          "title" : "45th Chess Olympiad R07: India continues to shine, winning all matches"
       },
       {
-         "description" : "On behalf of All India Chess Federation, Andaman &#38; Nicobar Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam in Port Blair from",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-port-blair-on-12-23-october-2024/",
-         "pubDate" : "Wed, 18 Sep 2024 15:25:27",
-         "title" : "SNA Seminar & Exam in Port Blair on 12 & 13 October 2024"
-      },
-      {
          "description" : "China, who replaced GM Ding Liren with GM Wei Yi on board one, came agonizingly close to ending India&#39;s winning streak in the 45th FIDE Chess Olympiad, but with a long endgame grind GM Gukesh Dommaraju brought India its seventh win for a perfect 1...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1416,30 +1432,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/right-people/",
          "pubDate" : "Sat, 07 Sep 2024 13:00:00",
          "title" : "The right people for success"
-      },
-      {
-         "description" : "This week, I salute the English Olympiad team, which goes into action next week in Budapest. I continue with a key game from my own chess career, which ended up in a near photo finish, which was ultimately adjudicated by the tournament stewards. And I conclude with another kind of photo finish: the cancellation by []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/photo-finish-at-the-chess-olympiad/",
-         "pubDate" : "Sat, 07 Sep 2024 11:08:54",
-         "title" : "Photo finish at the Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3201",
-         "pubDate" : "Sat, 07 Sep 2024 10:29:47",
-         "title" : "Official Swiss Team Pairing System rules announced"
-      },
-      {
-         "description" : "Congratulations to Stanley Badacsonyi (top, left) on achieving his FM title at the age of 14 years and 11 months. Well done Stanley! Stanley joins (below, from left to right)...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fm-and-wfm-title-achievements/",
-         "pubDate" : "Sat, 07 Sep 2024 07:42:34",
-         "title" : "FM and WFM Title Achievements - updated!"
       }
    ]
 }
