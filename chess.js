@@ -2,28 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, Maharashtra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Jalgaon on 19 &#38; 20",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-jalgaon-on-19-20-october-2024/",
+         "pubDate" : "Sat, 28 Sep 2024 07:27:53",
+         "title" : "SNA Seminar & Exam in Jalgaon on 19 & 20 October 2024"
+      },
+      {
+         "description" : "Please find the Certificates here SL No Candidate Name 1 Sivaganesh Jayaprakash 2 Steephan Raj J 3 Sabarish RK 4 Harini S 5 Govindarajan S",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-senior-national-arbiter-examination-held-at-thoothukudi-on-31st-august-and-1st-september-2024/",
+         "pubDate" : "Sat, 28 Sep 2024 07:02:08",
+         "title" : "Certificates of Senior National Arbiter Examination held at Thoothukudi on 31st August and 1st September 2024."
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan plays this move to trick his opponent </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anna-bit-how-did-yasser-trick-his-opponent-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anna-bit-how-did-yasser-trick-his-opponent-chess-chesstactics-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
+         "title" : "An Anna Bit: How Did Yasser Trick His Opponent #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Still in the opening, NM Ralph Tan explains his choice of which knight to move in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/which-knight-move-chess-chessopenings-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/smp9i-duYl4.jpg?itok=rTEvM-XT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/which-knight-move-chess-chessopenings-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
+         "title" : "Which Knight To Move #chess #chessopenings #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Moving the wrong knight, white can dominate with only two pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-crazy-knights-can-move-chess-chessendgames-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JwmaVjN8d_g.jpg?itok=lVp8eRCl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-crazy-knights-can-move-chess-chessendgames-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
+         "title" : "How Crazy Knights Can Move #chess #chessendgames #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess prophylaxis is the topic </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-caruanas-move-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vnbP-TbsAMM.jpg?itok=kex-fJ_d\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/its-caruanas-move-chess-chesstactics-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
+         "title" : "It's Caruana's Move #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "Himachal Pradesh State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-shimla-on-14-15-september-2024/",
+         "pubDate" : "Sat, 28 Sep 2024 06:20:17",
+         "title" : "Final report of Senior National Arbiter Seminar & Examination held in Shimla on 14 & 15 September 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Three times with the same opening, it&#039;s time for refutation by GM Yasser Seirawan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-time-refutation-chess-chessopenings-chesscompetition-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q7gWaAV-BnU.jpg?itok=1plAtuha\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/its-time-refutation-chess-chessopenings-chesscompetition-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 03:33:36",
+         "title" : "It's Time For Refutation #chess #chessopenings #chesscompetition #lichess"
+      },
+      {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/",
          "pubDate" : "Fri, 27 Sep 2024 23:44:16",
          "title" : "Derrick Rose retires&hellip; chess next?"
-      },
-      {
-         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the quarter-finals of Division I, Magnus Carlsen and Ian Nepomniachtchi will clash again. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
-         "pubDate" : "Fri, 27 Sep 2024 16:00:00",
-         "title" : "Julius Baer Generation Cup: Live"
-      },
-      {
-         "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After three rounds of rapid, Richard Rapport and Ian Nepomniachtchi share the lead with 2.5/3 each. Today, 27 September, rounds 4 to 7 will be played. Round 4 starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Fotos: Shahid Ahmed (ChessBase India) . | Photos: Shahid Ahmed (ChessBase India)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vugar-gashimov-memorial-live-2",
-         "pubDate" : "Fri, 27 Sep 2024 12:30:00",
-         "title" : "Vugar Gashimov Memorial: Live"
       },
       {
          "description" : "GMs Magnus Carlsen, Alireza Firouzja, Levon Aronian, and Alexander Grischuk advance to the Division I Winners Semifinals of the Julius Baer Generation Cup 2024, after respectively defeating GMs Ian Nepomniachtchi, Vladimir Fedoseev, Maxime Vachier...",
@@ -386,14 +434,6 @@ news_feed (
          "title" : "Arjun Erigaisi attributes teams' success to great bonding"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Tactical advantages from opponent&#039;s misplay against the 4 - Pawns Opening. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-possibilities-chess-chessopenings-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uonLWZdIirI.jpg?itok=oIgBi7H_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactical-possibilities-chess-chessopenings-chesstactics-lichess",
-         "pubDate" : "Tue, 24 Sep 2024 03:29:54",
-         "title" : "Tactical Possibilities #chess #chessopenings #chesstactics #lichess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113615980.cms\" />Gukesh's remarkable performance on the top board at the Chess Olympiad stood out, achieving a rating performance surpassed only once before. Divya Deshmukh became world No. 1 among junior girls with her strong play. The Indian team secured gold, demonstrating dominance and effectively handling the challenges of the Swiss League format.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -408,14 +448,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-1",
          "pubDate" : "Tue, 24 Sep 2024 00:00:00",
          "title" : "Tactics Tuesday: Paris Speed Chess Champs, Pt. 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Erik \"Mr. Tactics\" Tkachenko </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-erik-tkachenko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sP0SIwu4gmM.jpg?itok=ma",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/us-champion-fabiano-caruana-vs-erik-tkachenko",
-         "pubDate" : "Mon, 23 Sep 2024 21:29:46",
-         "title" : "US Champion Fabiano Caruana vs Erik Tkachenko"
       },
       {
          "description" : " The 45th World Chess Olympiad took place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then China, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China were the top seeds in the women's events. India dominated the Open Olympiad being one of the most convincing winners in many years, they were held to four draws by bronze medalists Uzbekistan in Round 9 but otherwise won all their matches powered by Gukesh's 9 from 10 on board one and Erigaisi's 10/11 on board 3. Praggnanandhaa (6/10",
@@ -698,14 +730,6 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 10"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> After white plays Bxd5, its a pawn race </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-wins-race-arjun-explains-chess-chesstactics-chessendgame-lichess",
-         "pubDate" : "Sun, 22 Sep 2024 00:28:10",
-         "title" : "Who Wins This Race? - Arjun Explains #chess #chesstactics #chessendgame #lichess"
-      },
-      {
          "description" : "It will roll into the UK capital London on October 3rd-12th. The Tech Mahindra Global Chess League will be stages in the Theatre of the Friends House, Euston Road and will include Carlsen, Nakamura, Anand, Praggnanandhaa, Vachier-Lagrave, Giri, Rapport, Hou Yifan, and many other superstars. Tickets can be obtained from Chess & Bridge. Definitely worth a visit. Announcement by Matt Read",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -722,28 +746,12 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Arjun breaks down Ke5 for white </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wheres-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BQzXuUEGhCI.jpg?itok=2-zjgzKm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wheres-skewer-arjun-explains-chess-chessendgame-chesstactics-lichess",
-         "pubDate" : "Sat, 21 Sep 2024 21:28:11",
-         "title" : "Where's The Skewer? - Arjun Explains #chess #chessendgame #chesstactics #lichess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3225",
          "pubDate" : "Sat, 21 Sep 2024 21:17:14",
          "title" : "45th Chess Olympiad: India dominates open; women's event goes down to the wire"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Arjuns look at the line Bxd5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0vyE4cEi2ZU.jpg?itok=WhNPG2QH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-about-if-bxd5-arjun-explains-chess-chesstactics-chessendgame-lichess",
-         "pubDate" : "Sat, 21 Sep 2024 18:28:10",
-         "title" : "What About If Bxd5? - Arjun Explains #chess #chesstactics #chessendgame #lichess"
       },
       {
          "description" : "GM Andrew Tang won his fourth Bullet Brawl&#38;nbsp;by a 20-point margin over GM Hikaru Nakamura. Tang began and ended on undefeated streaks to score 256 and&#38;nbsp;take home the $400 first prize. Nakamura won $250 for second place. IM Renato Terry ea...",
@@ -986,28 +994,12 @@ news_feed (
          "title" : "SNA Seminar & Exam in Port Blair on 12 & 13 October 2024"
       },
       {
-         "description" : "The players who participated in the Over the Board National School Age Group Chess Championships 2024 in Patna, Bihar, and finished in the top 50",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/18th-asian-schools-chess-championship-2024-will-be-started-from-1st-to-11th-december-at-bangkok-thailand/",
-         "pubDate" : "Wed, 18 Sep 2024 12:10:28",
-         "title" : "18th Asian Schools Chess Championship 2024 will be started from 1st to 11th December at Bangkok, Thailand"
-      },
-      {
          "description" : "China, who replaced GM Ding Liren with GM Wei Yi on board one, came agonizingly close to ending India&#39;s winning streak in the 45th FIDE Chess Olympiad, but with a long endgame grind GM Gukesh Dommaraju brought India its seventh win for a perfect 1...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/view-budapest-2024-fide-chess-olympiad-round-7",
          "pubDate" : "Wed, 18 Sep 2024 12:09:00",
          "title" : "Gukesh Grinds Out Endgame Masterpiece, Both Indian Teams On Perfect 14/14"
-      },
-      {
-         "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination held",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-examination-held-at-thoothukudi-on-31st-august-and-1st-september-2024/",
-         "pubDate" : "Wed, 18 Sep 2024 09:58:30",
-         "title" : "Final report of Senior National Arbiter Examination held at Thoothukudi on 31st August and 1st September 2024."
       },
       {
          "description" : "",
@@ -1112,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3216",
          "pubDate" : "Mon, 16 Sep 2024 21:30:14",
          "title" : "45th Chess Olympiad R06: India emerges as sole leader in both open and women's events"
-      },
-      {
-         "description" : "India continues to dominate in the 45th Chess Olympiad, with both the men's and women's teams securing strong performances in the sixth round, winning all",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-at-chess-olympiad-round-6-men-women-register-yet-another-win/",
-         "pubDate" : "Mon, 16 Sep 2024 20:06:37",
-         "title" : "India At Chess Olympiad, Round 6: Men & Women Register Yet Another Win."
       },
       {
          "description" : "",
@@ -1456,14 +1440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fm-and-wfm-title-achievements/",
          "pubDate" : "Sat, 07 Sep 2024 07:42:34",
          "title" : "FM and WFM Title Achievements - updated!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3200",
-         "pubDate" : "Sat, 07 Sep 2024 06:48:44",
-         "title" : "2025 World Cup qualifications"
       }
    ]
 }
