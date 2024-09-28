@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Grandmaster Maurice Ashley was spotted at the Chess Olympiad in Budapest, Hungary, but he told The Chess Drum that he was not there as a delegate or captain, but merely as a chess tourist. Most will know Ashley as one of the most visible commentators of the chess world, but he has taken a hiatus The post <a href=\"https://www.thechessdrum.net/blog/2024/09/28/maurice-ashley-discusses-new-chess-initiative/\">Maurice Ashley discusses new chess initiative</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/28/maurice-ashley-discusses-new-chess-initiative/",
+         "pubDate" : "Sat, 28 Sep 2024 23:15:41",
+         "title" : "Maurice Ashley discusses new chess initiative"
+      },
+      {
+         "description" : " The 10th Vugar Gashimov Memorial took place Thu 26th to Sat 28th Sep 2024. This was a two day rapid and one day blitz tournament in Shusha, Azerbaijan in memory of Vugar Gashimov who died at the all too early age of 27. Players: Ian Nepomniachtchi, Vladislav Artemiev, Nodirbek Abdusattorov, Richard Rapport, Shakhriyar Mamedyarov, Rauf Mamedov, Aydin Suleymanli and Chithambaram Vr. Aravindh. Ian Nepomniachtchi took clear first in the combined standings with 19 points (rapid games counted double) ahead of Nodirbek Abdusattorov on 18 points and Shakhriyar Mamedyarov on 16 points.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-vugar-gashimov-memorial-2024",
+         "pubDate" : "Sat, 28 Sep 2024 21:35:00",
+         "title" : "10th Vugar Gashimov Memorial 2024 - Games and Results"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Be careful...looks can be deceiving </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Julius Baer Generation Cup: Live"
       },
       {
+         "description" : "GM Hikaru Nakamura is one win away from his 30th Bullet Brawl title after stringing together a 42-game winning streak during Saturday&#39;s event and claiming the $400 first prize. Nakamura&#39;s 75/78 performance earned him a score of 284, 16 points clea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-29-2024",
+         "pubDate" : "Sat, 28 Sep 2024 15:35:52",
+         "title" : "Nakamura Clinches Bullet Brawl With 42-Game Winning Streak"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Be careful...it&#039;s not that easy </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-red-herring-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/beat-white-two-moves-chess-chesstactics-lichess",
          "pubDate" : "Sat, 28 Sep 2024 15:33:57",
          "title" : "Beat White In Two Moves #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#39;s dramatic match against GM Levon Aronian and GM Maxime Vachier-Lagrave&#39;s brilliant attacking masterpiece against GM Ian Nepomniachtchi were the highlights of day four of the Julius Baer Generation Cup 2024. GM Alireza Firouzja...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-4",
+         "pubDate" : "Sat, 28 Sep 2024 12:48:00",
+         "title" : "Contrasting Wins For Carlsen And Firouzja; Attacking Masterpiece By Vachier-Lagrave"
       },
       {
          "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After the rapid tournament Ian Nepomniachtchi is in the lead and he will try to defend this lead in the blitz tournament today. It's a double round blitz 3+2 and all 14 rounds will be played today. The action starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Photos: Shahid Ahmed (ChessBase India)",
@@ -258,14 +290,6 @@ news_feed (
          "title" : "FIDE Announces 2025 as the Year of Social Chess"
       },
       {
-         "description" : " The 10th Vugar Gashimov Memorial takes place Thu 26th to Sat 28th Sep 2024. This is a two day rapid and one day blitz tournament in Shusha, Azerbaijan in memory of Vugar Gashimov who died at the all too early age of 27. Players: Ian Nepomniachtchi, Vladislav Artemiev, Nodirbek Abdusattorov, Richard Rapport, Shakhriyar Mamedyarov, Rauf Mamedov, Aydin Suleymanli and Chithambaram Vr. Aravindh. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-vugar-gashimov-memorial-2024",
-         "pubDate" : "Thu, 26 Sep 2024 12:38:00",
-         "title" : "10th Vugar Gashimov Memorial 2024 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -442,7 +466,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1034,14 +1058,6 @@ news_feed (
          "title" : "Chess, culture, music, football: Highlights from the Olympiad's free day"
       },
       {
-         "description" : "GM Alireza Firouzja and GM Christopher Yoo won the Titled Tuesday events of September 17, both needing tiebreaks even though Firouzja scored 10 points while Yoo scored 9.5 points. GM Jeffery Xiong and GM Jose Martinez, respectively, were the runne...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-yoo-win-titled-tuesday-september-17-2024",
-         "pubDate" : "Wed, 18 Sep 2024 08:27:24",
-         "title" : "Ties Rule Day As Firouzja, Yoo Win Titled Tuesday"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/americans-remain-striking-distance-halfway-through-2024-fide-olympiad",
          "pubDate" : "Wed, 18 Sep 2024 00:00:00",
          "title" : "Americans Remain In Striking Distance Halfway Through 2024 FIDE Olympiad"
-      },
-      {
-         "description" : "At the General Assembly of the International Chess Federation (FIDE), to take place September 21-22 alongside the Chess Olympiad in Budapest, delegates will vote on a controversial proposal by the Kyrgyz Chess Federation to remove current restrict...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-general-assembly-vote-belarus-russia",
-         "pubDate" : "Tue, 17 Sep 2024 23:34:00",
-         "title" : "Chess World Awaits Controversial Vote At FIDE General Assembly To Reinstaste Russia, Belarus"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 6Monday, 16 September 2024 Open Round 6 is right before the rest day and the tournament got a bit more tense. India continued mowing down the field and beat host Hungary by a resounding 3-1 score. Arjun Erigaisi is cleaning up on board 3 with 6/6 and a 3341 performance rating! The post <a href=\"https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/\">2024 Chess Olympiad: Round 6</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2024/",
          "pubDate" : "Mon, 16 Sep 2024 07:29:25",
          "title" : "ECU E-Magazine August 2024"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 3Friday, 13 September 2024 Nice aerial shot by Michal Walusza! Open Round 3 of the Budapest Olympiad saw some contested battles, but the buzz of the round was the world's top player,&#160;Magnus Carlsen,&#160;arriving 11 minutes late for his first game. Team Captain Odin Blikra Vea explained the weather was bad and The post <a href=\"https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/\">2024 Chess Olympiad: Round 3</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/15/2024-chess-olympiad-round-3/",
-         "pubDate" : "Mon, 16 Sep 2024 01:32:44",
-         "title" : "2024 Chess Olympiad: Round 3"
       },
       {
          "description" : "Indian men beat Azerbaijan and the women beat Kazakhstan for confidence-boosting wins in the fifth round of the 2024 Chess Olympiad.",
