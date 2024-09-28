@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the semi-finals of Division I, Carlsen plays against Aronian and Firouzja meets Grischuk. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
+         "pubDate" : "Sat, 28 Sep 2024 16:00:00",
+         "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
          "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After the rapid tournament Ian Nepomniachtchi is in the lead and he will try to defend this lead in the blitz tournament today. It's a double round blitz 3+2 and all 14 rounds will be played today. The action starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Photos: Shahid Ahmed (ChessBase India)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,7 +418,7 @@ news_feed (
          "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1416,22 +1424,6 @@ news_feed (
          "link" : "https://www.europechess.org/45th-chess-olympiad-starts-in-budapest-hungary/",
          "pubDate" : "Sun, 08 Sep 2024 07:52:02",
          "title" : "45th Chess Olympiad starts in Budapest, Hungary"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3202",
-         "pubDate" : "Sat, 07 Sep 2024 15:02:02",
-         "title" : "Chess Palace, exhibitions and amateur competitions at 45th Chess Olympiad"
-      },
-      {
-         "description" : "The people around you have a bigger influence on your chess than you would think. And if you spend a lot of time digitally, what you consume might even have a bigger influence on you than your best friend or partner. &#8220;You are the average of the five people you spend the most time with.&#8221; []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/right-people/",
-         "pubDate" : "Sat, 07 Sep 2024 13:00:00",
-         "title" : "The right people for success"
       }
    ]
 }
