@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Be careful...looks can be deceiving </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 18:34:02",
+         "title" : "Don't Be Deceived - It's A TRAP!!!! #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Understand the position, and proceed the attack for white </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/proceed-caution-not-your-usual-tactic-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mEn6vDyLVH4.jpg?itok=WtQLNOd4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/proceed-caution-not-your-usual-tactic-chess-chesstactics-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 18:34:02",
+         "title" : "Proceed With Caution - This Is Not Your Usual Tactic! #chess #chesstactics #lichess"
+      },
+      {
          "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the semi-finals of Division I, Carlsen plays against Aronian and Firouzja meets Grischuk. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
          "pubDate" : "Sat, 28 Sep 2024 16:00:00",
          "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Be careful...it&#039;s not that easy </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-red-herring-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-be-deceived-its-red-herring-chess-chesstactics-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 15:33:57",
+         "title" : "Don't Be Deceived - It's A Red Herring #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> It&#039;s easy, but think carefully </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-white-two-moves-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2ikM1oatPiU.jpg?itok=nxiUxR4x\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beat-white-two-moves-chess-chesstactics-lichess",
+         "pubDate" : "Sat, 28 Sep 2024 15:33:57",
+         "title" : "Beat White In Two Moves #chess #chesstactics #lichess"
       },
       {
          "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After the rapid tournament Ian Nepomniachtchi is in the lead and he will try to defend this lead in the blitz tournament today. It's a double round blitz 3+2 and all 14 rounds will be played today. The action starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Photos: Shahid Ahmed (ChessBase India)",
@@ -66,7 +98,7 @@ news_feed (
          "title" : "Which Knight To Move #chess #chessopenings #lichess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Moving the wrong knight, white can dominate with only two pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-crazy-knights-can-move-chess-chessendgames-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JwmaVjN8d_g.jpg?itok=lVp8eRCl\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Moving the wrong knight and white can dominate with only two pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-crazy-knights-can-move-chess-chessendgames-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JwmaVjN8d_g.jpg?itok=lVp8eRCl\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-crazy-knights-can-move-chess-chessendgames-lichess",
@@ -410,44 +442,12 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> U.S. Champion Fabiano Caruana visit the Saint Louis Chess Club to face the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch Fabi go head-to-head with Erik \"Mr. Tactics\" Tkachenko, with GM Varuzhan Akobian and NM Caleb Denby on the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-us-chess-champ-fabiano-caruana-vs-erik-tkachenko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blitz-us-chess-champ-fabiano-caruana-vs-erik-tkachenko",
-         "pubDate" : "Wed, 25 Sep 2024 00:30:33",
-         "title" : "BLITZ! U.S. Chess Champ Fabiano Caruana vs. Erik Tkachenko"
-      },
-      {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
          "pubDate" : "Wed, 25 Sep 2024 00:00:00",
          "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk tells you what you need to know before you assume the attacking lifestyle in your chess repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d2Yk42VQSME.jpg?itok=IjM9OHmy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pros-cons-attacking-play-style-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Tue, 24 Sep 2024 21:30:21",
-         "title" : "Pros & Cons of Attacking Play Style | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman demonstrates just how vicious one can strive to be at the chess board. 2024.09.24<br /> Sara Herman vs. Alan-Addin Moussa, 2019: B10 Caro-Kann, two knights variation<br /> Herman vs. Navneet Ramkumar, 2022: B56 Sicilian<br /> Nathan Yan vs. Herman, 2022: B90 Sicilian, Najdorf, Byrne (English) attack<br /> Herman vs. Matthew Wofford, 2023: </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sara-hermans-most-violent-chess-attacks-road-2000\"><img s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sara-hermans-most-violent-chess-attacks-road-2000",
-         "pubDate" : "Tue, 24 Sep 2024 21:30:21",
-         "title" : "Sara Herman's Most Violent Chess Attacks | Road to 2000"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> America's Top Chess Players to Compete for More Than $400,000 in 2024 U.S. Championship and U.S. Women's Chess Championship Saint Louis to Host National Championships, Hall of Fame Inductions, and Inaugural Educational Conference </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2023%20US%20Chess%20Champs%20GM%20Fabiano%20Caruana_web1.jpg?itok=H_mYRf_L\" alt=\"2024 US Chess Champions",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/news/2024-US-Chess-Championship-Press-Release",
-         "pubDate" : "Tue, 24 Sep 2024 16:24:55",
-         "title" : "America's Top Chess Players to Compete for More Than $400,000 in 2024 U.S. Championship and U.S. Women's Chess Championship"
       },
       {
          "description" : "Please find the Live Link : https://live.tamilchess.com/29th-im-norm-coimbatore/ Playing schedule Round Date Time 1 2024/09/23 03.30 pm 2 2024/09/24 10.00 am 3 2024/09/24 03.30 pm 4 2024/09/25",
