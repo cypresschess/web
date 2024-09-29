@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> You can&#039;t just focus on one side of the chessboard. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-yasser-seirawan-tricked-his-opponent-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-yasser-seirawan-tricked-his-opponent-chess-chesstactics-lichess",
+         "pubDate" : "Sun, 29 Sep 2024 00:34:11",
+         "title" : "How Yasser Seirawan Tricked His Opponent #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Viewer FM Michigan Eagle has a little fun during Prepare Like A Pro </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/theyre-eating-catstheyre-eating-chess-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FXpGS5RZF3U.jpg?itok=5oelPEBK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/theyre-eating-catstheyre-eating-chess-chesshumor",
+         "pubDate" : "Sun, 29 Sep 2024 00:34:11",
+         "title" : "They're Eating The Cats...They're Eating... #chess #chesshumor"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Having a little fun with NM Ralph Tan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakais-you-chess-chesstactics-chesshumor-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lgMNdMz_v3o.jpg?itok=iupnya0R\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakais-you-chess-chesstactics-chesshumor-lichess",
+         "pubDate" : "Sun, 29 Sep 2024 00:34:11",
+         "title" : "Naka...Is That You?? #chess #chesstactics #chesshumor #lichess"
+      },
+      {
          "description" : " Grandmaster Maurice Ashley was spotted at the Chess Olympiad in Budapest, Hungary, but he told The Chess Drum that he was not there as a delegate or captain, but merely as a chess tourist. Most will know Ashley as one of the most visible commentators of the chess world, but he has taken a hiatus The post <a href=\"https://www.thechessdrum.net/blog/2024/09/28/maurice-ashley-discusses-new-chess-initiative/\">Maurice Ashley discusses new chess initiative</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -45,8 +69,8 @@ news_feed (
          "description" : "GM Hikaru Nakamura is one win away from his 30th Bullet Brawl title after stringing together a 42-game winning streak during Saturday&#39;s event and claiming the $400 first prize. Nakamura&#39;s 75/78 performance earned him a score of 284, 16 points clea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-29-2024",
-         "pubDate" : "Sat, 28 Sep 2024 15:35:52",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-28-2024",
+         "pubDate" : "Sat, 28 Sep 2024 15:35:00",
          "title" : "Nakamura Clinches Bullet Brawl With 42-Game Winning Streak"
       },
       {
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Don't Be Deceived - It's A Red Herring #chess #chesstactics #lichess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> It&#039;s easy, but think carefully </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-white-two-moves-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2ikM1oatPiU.jpg?itok=nxiUxR4x\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> It&#039;s easy, but look carefully </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-white-two-moves-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2ikM1oatPiU.jpg?itok=nxiUxR4x\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/beat-white-two-moves-chess-chesstactics-lichess",
@@ -71,7 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-4",
          "pubDate" : "Sat, 28 Sep 2024 12:48:00",
-         "title" : "Contrasting Wins For Carlsen And Firouzja; Attacking Masterpiece By Vachier-Lagrave"
+         "title" : "Contrasting Wins For Carlsen, Firouzja; Attacking Masterpiece By Vachier-Lagrave"
       },
       {
          "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After the rapid tournament Ian Nepomniachtchi is in the lead and he will try to defend this lead in the blitz tournament today. It's a double round blitz 3+2 and all 14 rounds will be played today. The action starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Photos: Shahid Ahmed (ChessBase India)",
@@ -138,28 +162,12 @@ news_feed (
          "title" : "How Crazy Knights Can Move #chess #chessendgames #lichess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Chess prophylaxis is the topic </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-caruanas-move-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vnbP-TbsAMM.jpg?itok=kex-fJ_d\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/its-caruanas-move-chess-chesstactics-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
-         "title" : "It's Caruana's Move #chess #chesstactics #lichess"
-      },
-      {
          "description" : "Himachal Pradesh State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-shimla-on-14-15-september-2024/",
          "pubDate" : "Sat, 28 Sep 2024 06:20:17",
          "title" : "Final report of Senior National Arbiter Seminar & Examination held in Shimla on 14 & 15 September 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Three times with the same opening, it&#039;s time for refutation by GM Yasser Seirawan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-time-refutation-chess-chessopenings-chesscompetition-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q7gWaAV-BnU.jpg?itok=1plAtuha\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/its-time-refutation-chess-chessopenings-chesscompetition-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 03:33:36",
-         "title" : "It's Time For Refutation #chess #chessopenings #chesscompetition #lichess"
       },
       {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -232,14 +240,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/",
          "pubDate" : "Fri, 27 Sep 2024 01:29:21",
          "title" : "2024 Chess Olympiad: Round 11"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class about knocking your opponent out of their comfort zone. 2024.09.26<br /> Kevin Su vs. Illia Nyzhnyk, 2022: B12 Caro-Kann, advance variation<br /> Nyzhnyk vs. Andrew Hong, 2021: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G8yf244",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exiting-comfort-zone-prepare-pro-gm-illia-nyzhnyk",
-         "pubDate" : "Fri, 27 Sep 2024 00:32:33",
-         "title" : "Exiting the Comfort Zone | Prepare Like A Pro - GM Illia Nyzhnyk"
       },
       {
          "description" : "We are undergoing some technical difficulties related to tournament report uploads and ratings. All other US Chess functions should be working.<br /><br /> We do not have an ETA on when this will be fixed, but we will provide updates on this story when they are available.",
