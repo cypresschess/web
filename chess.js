@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113779754.cms\" />Abhijit Kunte, captain of the women's Olympiad gold-winning team, advocates for a comprehensive plan to enhance women's chess in India. He underscores the necessity of state government support and addresses difficulties in institutionalized coaching. Kunte also discusses sports code clarity and evaluates the team's recent achievements and challenges.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-needs-special-attention-abhijit-kunte/articleshow/113779754.cms",
+         "pubDate" : "Sun, 29 Sep 2024 04:45:41",
+         "title" : "Women's chess needs special attention: Abhijit Kunte"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> You can&#039;t just focus on one side of the chessboard. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-yasser-seirawan-tricked-his-opponent-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/10th-vugar-gashimov-memorial-2024",
          "pubDate" : "Sat, 28 Sep 2024 21:35:00",
          "title" : "10th Vugar Gashimov Memorial 2024 - Games and Results"
+      },
+      {
+         "description" : "The underdogs roared as the 2024 Collegiate Chess League Fall (CCL) began on Saturday. The bottom boards led Saint Louis to victory over Athens. In an even bigger twist, Virginia defeated the top seeded Missouri team. Boards three and four, GM D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-slu-virginia",
+         "pubDate" : "Sat, 28 Sep 2024 21:21:00",
+         "title" : "Virginia Upsets Top Seeded Missouri, Saint Louis Defeats Athens"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Be careful...looks can be deceiving </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
@@ -690,14 +706,6 @@ news_feed (
          "title" : "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113573523.cms\" />India's men's and women's chess teams secured their first-ever gold medals at the 45th Chess Olympiad in Budapest. The men triumphed over Slovenia with key victories from Gukesh, Erigaisi, and Praggnanadhaa. The women clinched their title by defeating Azerbaijan. The historic win follows previous bronze medals earned by both teams in earlier editions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-script-history-with-maiden-men-and-women-chess-olympiad-titles/articleshow/113573523.cms",
-         "pubDate" : "Sun, 22 Sep 2024 13:45:50",
-         "title" : "India script history with maiden men and women Chess Olympiad titles"
-      },
-      {
          "description" : "That's amazing news! Winning the first-ever Team Gold Medal in both category at the Chess Olympiad is a monumental achievement for India! It truly marks",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3219",
          "pubDate" : "Wed, 18 Sep 2024 20:33:26",
          "title" : "45th Chess Olympiad R07: India continues to shine, winning all matches"
-      },
-      {
-         "description" : "China, who replaced GM Ding Liren with GM Wei Yi on board one, came agonizingly close to ending India&#39;s winning streak in the 45th FIDE Chess Olympiad, but with a long endgame grind GM Gukesh Dommaraju brought India its seventh win for a perfect 1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/view-budapest-2024-fide-chess-olympiad-round-7",
-         "pubDate" : "Wed, 18 Sep 2024 12:09:00",
-         "title" : "Gukesh Grinds Out Endgame Masterpiece, Both Indian Teams On Perfect 14/14"
       },
       {
          "description" : "",
