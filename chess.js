@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Viewer FM Michigan Eagle has a little fun during Prepare Like A Pro </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/theyre-eating-catstheyre-eating-chess-chesshumor-politicalhumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FXpGS5RZF3U.jpg?itok=5oelPEBK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/theyre-eating-catstheyre-eating-chess-chesshumor-politicalhumor",
+         "pubDate" : "Sun, 29 Sep 2024 21:34:34",
+         "title" : "They're Eating The Cats...They're Eating... #chess #chesshumor #politicalhumor"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Having a little fun with NM Ralph Tan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamurais-you-chess-chesstactics-chesshumor-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lgMNdMz_v3o.jpg?itok=iupnya0R\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamurais-you-chess-chesstactics-chesshumor-lichess",
+         "pubDate" : "Sun, 29 Sep 2024 21:34:34",
+         "title" : "Nakamura...Is That You?? #chess #chesstactics #chesshumor #lichess"
+      },
+      {
          "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the final of Division I, Magnus Carlsen Alireza Firouzja fight once again for victory in a prestigious tournament. In the Losers Bracket Maxime Vchier-Lagrave will play against Alexander Grischuk and Levon Aronian will encounter Vladimir Fedoseev. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
          "pubDate" : "Sun, 29 Sep 2024 16:00:00",
          "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
+         "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s Ulti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5",
+         "pubDate" : "Sun, 29 Sep 2024 15:35:00",
+         "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Enters Finals"
       },
       {
          "description" : "Rajasthan Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination on 21st and",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination on 21st and 22nd September 2024 in Udaipur , Rajasthan"
       },
       {
-         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served on the Ethics Commission and even running as Vice President in the 2022 Election. A consummate legal mind, Wilkinson served his The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served on the Ethics Commission and even&#160;running as Vice President in the 2022 Election. A consummate legal mind, Wilkinson served his The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/",
@@ -29,7 +53,7 @@ news_feed (
          "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s ulti...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5-flash",
          "pubDate" : "Sun, 29 Sep 2024 12:13:00",
          "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Enters Finals"
       },
@@ -192,22 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/anna-bit-how-did-yasser-trick-his-opponent-chess-chesstactics-lichess",
          "pubDate" : "Sat, 28 Sep 2024 06:33:51",
          "title" : "An Anna Bit: How Did Yasser Trick His Opponent #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Still in the opening, NM Ralph Tan explains his choice of which knight to move in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/which-knight-move-chess-chessopenings-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/smp9i-duYl4.jpg?itok=rTEvM-XT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/which-knight-move-chess-chessopenings-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
-         "title" : "Which Knight To Move #chess #chessopenings #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Moving the wrong knight and white can dominate with only two pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-crazy-knights-can-move-chess-chessendgames-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JwmaVjN8d_g.jpg?itok=lVp8eRCl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-crazy-knights-can-move-chess-chessendgames-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
-         "title" : "How Crazy Knights Can Move #chess #chessendgames #lichess"
       },
       {
          "description" : "Himachal Pradesh State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
@@ -1026,14 +1034,6 @@ news_feed (
          "title" : "45th Chess Olympiad R08: India dominates open section, faces setback in women's"
       },
       {
-         "description" : "IMs Eric Rosen and Nhat Minh To were the highest-ranked players to qualify for the Finals of the Chess.com Duck Chess Championship 2024. Six more Duck Chess mavens will join them in the knockout, including Kapik1337, the reigning number-one in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-qualifiers",
-         "pubDate" : "Thu, 19 Sep 2024 18:47:00",
-         "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
-      },
-      {
          "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://www.europechess.org/4th-ecu-annual-training-program/",
          "pubDate" : "Mon, 09 Sep 2024 06:45:45",
          "title" : "4th ECU Annual Training Program"
-      },
-      {
-         "description" : " The chess.com Speed Chess Final took place in Paris Fri 6th Sep to Sun 8th Sep 2024. Magnus Carlsen faced Hans Moke Niemann for the first time since he lost to him in the Sinquefield Cup in 2022. Although these games were still played over the internet on chess.com they were at least in the same room. Carlsen won handily. Alireza Firouzja beat Hikarua Nakamura to reach the final. Nakamura beat Niemann to finish third and then Carlsen trounced Firouzja 23.5-7.5 in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2024",
-         "pubDate" : "Sun, 8 Sep 2024 21:52:00",
-         "title" : "chess.com Speed Chess Final 2024 - Games and Results"
       }
    ]
 }
