@@ -26,6 +26,14 @@ news_feed (
          "title" : "Jamaica's Wilkinson re-elected to FIDE post"
       },
       {
+         "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s ulti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5",
+         "pubDate" : "Sun, 29 Sep 2024 12:13:00",
+         "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Enters Finals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113779754.cms\" />Abhijit Kunte, captain of the women's Olympiad gold-winning team, advocates for a comprehensive plan to enhance women's chess in India. He underscores the necessity of state government support and addresses difficulties in institutionalized coaching. Kunte also discusses sports code clarity and evaluates the team's recent achievements and challenges.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -282,12 +290,12 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 11"
       },
       {
-         "description" : "We are undergoing some technical difficulties related to tournament report uploads and ratings. All other US Chess functions should be working.<br /><br /> We do not have an ETA on when this will be fixed, but we will provide updates on this story when they are available.",
+         "description" : "What is happening?<br /><br /> We are undergoing some technical difficulties related to tournament report uploads and ratings. All other US Chess functions should be working.<br /><br /> Why is this happening?<br /><br /> The servers that host these functions are located in an area affected by Hurricane Helene. This is why both we and our provider are having difficulty in fixing the problems.<br /><br /> When will this be fixed? <br /><br /> We do not have an ETA on when this will be fixed, but we will provide updates on this story when they are available.<br /><br /> <br /><br /> -- updated 9/29 by John Hartmann",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-927",
+         "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-updated-929",
          "pubDate" : "Fri, 27 Sep 2024 00:00:00",
-         "title" : "Ratings and Ratings Reports Issues (9/27)"
+         "title" : "Ratings and Ratings Reports Issues (updated 9/29)"
       },
       {
          "description" : "ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. In the new CBM Extra #221: Videos by Ivan Sokolov: Spanish with 4...Nge7 and 5...f6!? and Fabien Libiszewski: Kalashnikov Update. \"Lucky bag\" with 44 analyses by Anish Giri, Sergey Gritoriants, Michal Krasenkow and many more. Update Service with over 50,000 new games!",
@@ -506,7 +514,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1026,14 +1034,6 @@ news_feed (
          "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
       },
       {
-         "description" : "After defeating Iran 3.5-0.5, India continues to lead the 45th FIDE Chess Olympiad with a perfect 16/16 score. Of 32 games played, India hasn&#39;t lost a single one. GM Benjamin Gledura won a close match for Hungary 2.5-1.5 against Armenia after defe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-8",
-         "pubDate" : "Thu, 19 Sep 2024 12:20:00",
-         "title" : "Gukesh, Arjun, Vidit Lead Indian Men To 16/16; Polish Women Defeat India"
-      },
-      {
          "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1416,14 +1416,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-final-2024",
          "pubDate" : "Sun, 8 Sep 2024 21:52:00",
          "title" : "chess.com Speed Chess Final 2024 - Games and Results"
-      },
-      {
-         "description" : "With less than 100 views and zero comments after three weeks on Youtube, this video might be the least popular chess clip that I've ever selected for a monthly featured video post. So why feature it? Because I liked the inside look at the US Chess federation. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/lxinKPLnmUo?si=P7zWUfcqyjNUx-9E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>US Chess Federation Staff Forum Friday August 2 2024</B> (5:57) &#149; '[Published on] Aug 19, 2024'",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/09/us-chess-on-video.html",
-         "pubDate" : "Sun, 08 Sep 2024 15:40:00",
-         "title" : "US Chess on Video"
       }
    ]
 }
