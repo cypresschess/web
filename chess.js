@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the final of Division I, Magnus Carlsen Alireza Firouzja fight once again for victory in a prestigious tournament. In the Losers Bracket Maxime Vchier-Lagrave will play against Alexander Grischuk and Levon Aronian will encounter Vladimir Fedoseev. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
+         "pubDate" : "Sun, 29 Sep 2024 16:00:00",
+         "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
+         "description" : "Rajasthan Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination on 21st and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-on-21st-and-22nd-september-2024-in-udaipur-rajasthan/",
+         "pubDate" : "Sun, 29 Sep 2024 14:45:01",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination on 21st and 22nd September 2024 in Udaipur , Rajasthan"
+      },
+      {
+         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served on the Ethics Commission and even running as Vice President in the 2022 Election. A consummate legal mind, Wilkinson served his The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/",
+         "pubDate" : "Sun, 29 Sep 2024 14:13:07",
+         "title" : "Jamaica's Wilkinson re-elected to FIDE post"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113779754.cms\" />Abhijit Kunte, captain of the women's Olympiad gold-winning team, advocates for a comprehensive plan to enhance women's chess in India. He underscores the necessity of state government support and addresses difficulties in institutionalized coaching. Kunte also discusses sports code clarity and evaluates the team's recent achievements and challenges.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/proceed-caution-not-your-usual-tactic-chess-chesstactics-lichess",
          "pubDate" : "Sat, 28 Sep 2024 18:34:02",
          "title" : "Proceed With Caution - This Is Not Your Usual Tactic! #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the semi-finals of Division I, Carlsen plays against Aronian and Firouzja meets Grischuk. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
-         "pubDate" : "Sat, 28 Sep 2024 16:00:00",
-         "title" : "Julius Baer Generation Cup: Live"
       },
       {
          "description" : "GM Hikaru Nakamura is one win away from his 30th Bullet Brawl title after stringing together a 42-game winning streak during Saturday&#39;s event and claiming the $400 first prize. Nakamura&#39;s 75/78 performance earned him a score of 284, 16 points clea...",
@@ -1010,14 +1026,6 @@ news_feed (
          "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
       },
       {
-         "description" : "National Under 07 Girls Rank Name 1 Aaranya R 2 Arpitangshi Bhattacharya 3 Saiaastha Singh 4 Shreyanshi Jain 5 Poushita Paliwal 6 Anvi Deepak Hinge",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-under-07-chess-championship-2024-in-mysuru-karnataka/",
-         "pubDate" : "Thu, 19 Sep 2024 17:45:53",
-         "title" : "Certificate of National Under 07 Chess Championship 2024 in Mysuru ,Karnataka."
-      },
-      {
          "description" : "After defeating Iran 3.5-0.5, India continues to lead the 45th FIDE Chess Olympiad with a perfect 16/16 score. Of 32 games played, India hasn&#39;t lost a single one. GM Benjamin Gledura won a close match for Hungary 2.5-1.5 against Armenia after defe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/play-chess-online-against-other-ecf-juniors/",
          "pubDate" : "Mon, 16 Sep 2024 13:25:41",
          "title" : "Play chess ONLINE against other ECF juniors!"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 4Saturday, 14 September 2024 Open The U.S. gets upset by Ukraine as Wesley So loses a heartbreaker against Vasyl Ivanchuk. A very uncharacteristic mistake by the gold medalist puts a barrier on gold medal aspirations as India keep rolling. Wesley So blundered a winning position against Vasyl Ivanchuk, giving the Ukrainian The post <a href=\"https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-4/\">2024 Chess Olympiad: Round 4</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-4/",
-         "pubDate" : "Mon, 16 Sep 2024 13:08:47",
-         "title" : "2024 Chess Olympiad: Round 4"
       },
       {
          "description" : "ECU E-Magazine August 2024 is out! In this edition of the ECU E-Magazine you may read about: The August 2024 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded down below.",
