@@ -10,6 +10,14 @@ news_feed (
          "title" : "Women's chess needs special attention: Abhijit Kunte"
       },
       {
+         "description" : "GM Ian Nepomniachtchi won the 10th edition of the Gashimov Memorial on Saturday in Susha, Azerbaijan. The Russian grandmaster, who played in the tournament for the first time, finished ahead of GMs Nodirbek Abdusattorov and Shakhriyar Mamedyarov. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-wins-2024-gashimov-memorial",
+         "pubDate" : "Sun, 29 Sep 2024 03:53:00",
+         "title" : "Nepomniachtchi Wins 10th Gashimov Memorial"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> You can&#039;t just focus on one side of the chessboard. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-yasser-seirawan-tricked-his-opponent-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,12 +58,12 @@ news_feed (
          "title" : "10th Vugar Gashimov Memorial 2024 - Games and Results"
       },
       {
-         "description" : "The underdogs roared as the 2024 Collegiate Chess League Fall (CCL) began on Saturday. The bottom boards led Saint Louis to victory over Athens. In an even bigger twist, Virginia defeated the top seeded Missouri team. Boards three and four, GM D...",
+         "description" : "The underdogs roared as the 2024 Collegiate Chess League Fall (CCL) began on Saturday. The bottom boards led Saint Louis to victory over Athens. In an even bigger twist, Virginia defeated the top-seeded Missouri team. Boards three and four, GM D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-slu-virginia",
          "pubDate" : "Sat, 28 Sep 2024 21:21:00",
-         "title" : "Virginia Upsets Top Seeded Missouri, Saint Louis Defeats Athens"
+         "title" : "Virginia Upsets Top-Seeded Missouri, Saint Louis Defeats Athens"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Be careful...looks can be deceiving </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
@@ -482,7 +490,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/09/us-chess-on-video.html",
          "pubDate" : "Sun, 08 Sep 2024 15:40:00",
          "title" : "US Chess on Video"
-      },
-      {
-         "description" : "The 45th Chess Olympiad starts in two days in Budapest, Hungary! The event will be held from 10-23 September in BOK Sports Hall and Conference Center. 381 teams compete in the tournament, with 197 teams in Open section and 184 teams in the Women's championship. Teams are made up of four players + one reserve player in both sections. The events will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/45th-chess-olympiad-starts-in-budapest-hungary/",
-         "pubDate" : "Sun, 08 Sep 2024 07:52:02",
-         "title" : "45th Chess Olympiad starts in Budapest, Hungary"
       }
    ]
 }
