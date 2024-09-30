@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the semifinals of the Losers Bracket of Division I, Maxime Vachier-Lagrave plays against Levon Aronian. The winner will then play against Alireza Firouzja - and the winner of this match will then fight for the title in the Grand Final against Magnus Carlsen. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
+         "pubDate" : "Mon, 30 Sep 2024 16:00:00",
+         "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
+         "description" : "Ian Nepomniachtchi is the winner of the Vugar Gashimov Memorial in Shunsa, Azerbaijan. He won the rapid chess tournament and came second in the blitz - enough to take first place overall. The other two places on the podium were taken by Nodirbek Abdusattorov and Shakhriyar Mamedyarov. Richard Rapport, who started the tournament in second place after day one, finished last of the eight players. | Picture: gashimovchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ian-nepomniachtchi-wins-gashimov-memorial",
+         "pubDate" : "Mon, 30 Sep 2024 14:11:42",
+         "title" : "Ian Nepomniachtchi wins Gashimov Memorial"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3237",
+         "pubDate" : "Mon, 30 Sep 2024 12:56:40",
+         "title" : "Asian Chess Federation Announces Esports Focus with Echess"
+      },
+      {
+         "description" : "Congratulations to the UK Open Blitz qualifiers to date from the London, South West, Midlands and North West events. The remaining three qualifying events will take place next weekend (5th...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-to-the-uk-open-blitz-qualifiers-to-date-from-the-london-south-west-midlands-and-north-west-events-the-remaining-three-qualifying-events-will-take-place-next-weekend-5th-and-6th-oct/",
+         "pubDate" : "Mon, 30 Sep 2024 12:00:18",
+         "title" : "UK Open Blitz Qualifiers - the story so far!"
+      },
+      {
          "description" : "The Chess Olympiad 2024 was held in beautiful Budapest, Hungary, 10 to 23 September 2024. It was the 45th edition for the Open Section and the 30th for the Women Section. As it is natural, a lot of interesting games were played, out of a total of nearly 8,000 games! Here are some treats, selected and annotated by international trainer Eftratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-on-the-chess-olympiad-2024-1",
          "pubDate" : "Mon, 30 Sep 2024 08:49:36",
          "title" : "Grivas on the Chess Olympiad 2024 (1)"
+      },
+      {
+         "description" : "Chess.com is excited to announce the second edition of Team Chess Battle. Starting on October 7, the banter-fueled event will feature a $10,000 prize fund and some of the biggest celebrities in chess. The event continues with its entertaining fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-team-chess-battle-2",
+         "pubDate" : "Mon, 30 Sep 2024 08:00:00",
+         "title" : "Team Chess Battle Is Back With Levy Rozman, Anna Cramling, James Canty, And Other Celebrities"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminars-2024/",
          "pubDate" : "Mon, 30 Sep 2024 05:51:55",
          "title" : "FIDE ARBITER SEMINARS 2024"
+      },
+      {
+         "description" : "At just 13 years of age, GM Yagiz Kaan Erdogmus has become the youngest-ever player to record a rating of 2600, demolishing the previous record by close to a year. Upon returning to school in Turkiye, he received a hero&#39;s welcome. The Turkish pr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yagiz-kaan-erdogmus-smashes-record-as-youngest-ever-2600-player-receives-heroes-welcome-in-turkey",
+         "pubDate" : "Mon, 30 Sep 2024 04:34:54",
+         "title" : "Erdogmus Smashes Prestigious Rating Record, Receives Hero's Welcome Back Home"
       },
       {
          "description" : " The Julius Baer Generation Cup takes place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen will meet Alireza Firouzja who he beat in the winners final, or MVL or Aronian all of whom hope to qualify via the losers route. ",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nakamurais-you-chess-chesstactics-chesshumor-lichess",
          "pubDate" : "Sun, 29 Sep 2024 21:34:34",
          "title" : "Nakamura...Is That You?? #chess #chesstactics #chesshumor #lichess"
-      },
-      {
-         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the final of Division I, Magnus Carlsen Alireza Firouzja fight once again for victory in a prestigious tournament. In the Losers Bracket Maxime Vchier-Lagrave will play against Alexander Grischuk and Levon Aronian will encounter Vladimir Fedoseev. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
-         "pubDate" : "Sun, 29 Sep 2024 16:00:00",
-         "title" : "Julius Baer Generation Cup: Live"
       },
       {
          "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s Gran...",
@@ -322,12 +362,12 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 11"
       },
       {
-         "description" : "What is happening?<br /><br /> We are undergoing some technical difficulties related to tournament report uploads and ratings. All other US Chess functions should be working.<br /><br /> Why is this happening?<br /><br /> The servers that host these functions are located in an area affected by Hurricane Helene. This is why both we and our provider are having difficulty in fixing the problems.<br /><br /> When will this be fixed? <br /><br /> We do not have an ETA on when this will be fixed, but we will provide updates on this story when they are available.<br /><br /> <br /><br /> -- updated 9/29 by John Hartmann",
+         "description" : "What is happening?<br /><br /> We are undergoing some technical difficulties related to tournament report uploads and ratings.<br /><br /> Other problems include national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br /><br /> All other US Chess functions should be working.<br /><br /> Why is this happening?<br /><br /> The servers that host these functions are located in an area affected by Hurricane Helene. This is why both we and our provider are having difficulty in fixing the problems.<br /><br /> When will this be fixed? <br /><br /> We are in contact with the provider as of Monday morning, and working with",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-updated-929",
          "pubDate" : "Fri, 27 Sep 2024 00:00:00",
-         "title" : "Ratings and Ratings Reports Issues (updated 9/29)"
+         "title" : "Ratings and Ratings Reports Issues (updated 9/30)"
       },
       {
          "description" : "ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. In the new CBM Extra #221: Videos by Ivan Sokolov: Spanish with 4...Nge7 and 5...f6!? and Fabien Libiszewski: Kalashnikov Update. \"Lucky bag\" with 44 analyses by Anish Giri, Sergey Gritoriants, Michal Krasenkow and many more. Update Service with over 50,000 new games!",
@@ -954,14 +994,6 @@ news_feed (
          "title" : "45th Chess Olympiad: USA sets up clash with India; Kazakhstan grabs the lead in women's event"
       },
       {
-         "description" : "The UK Open Blitz Championships 2024 will follow the format used in previous years' events with eight regional one-day qualifier events over three weekends from 21st September to 6th October....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-qualifiers-starting-on-saturday-21st-sept/",
-         "pubDate" : "Fri, 20 Sep 2024 19:07:18",
-         "title" : "UK Open Blitz Qualifiers starting on Saturday 21st Sept!"
-      },
-      {
          "description" : "IM&#38;nbsp;Nhat Minh To&#38;nbsp;won every match in the Chess.com Duck Chess Championship 2024, defeating IM Eric Rosen in the Grand Final to clinch the title.&#38;nbsp; After losing to the eventual winner in the Semifinals, Rosen fought his way through th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1002,14 +1034,6 @@ news_feed (
          "title" : "Anna Cramling Says She Also Received Obscene Letters: 'I Thought It Was Just Me'"
       },
       {
-         "description" : "GM Magnus Carlsen made headlines for a short but powerful speech while accepting the FIDE award for Greatest Of All Time (G.O.A.T). Carlsen used the moment to express humility and send a strong message against reinstating the Russian and Belarusia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-accepts-goat-award-urges-fide-to-reject-proposal-on-russia-belarus",
-         "pubDate" : "Fri, 20 Sep 2024 00:46:00",
-         "title" : "Carlsen Accepts G.O.A.T. Award, Urges FIDE To Uphold Restrictions On Russia, Belarus"
-      },
-      {
          "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed t",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1040,14 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3222",
          "pubDate" : "Thu, 19 Sep 2024 21:54:26",
          "title" : "45th Chess Olympiad R08: India dominates open section, faces setback in women's"
-      },
-      {
-         "description" : "IMs Eric Rosen and Nhat Minh To were the highest-ranked players to qualify for the Finals of the Chess.com Duck Chess Championship 2024. Six more Duck Chess mavens will join them in the knockout, including Kapik1337, the reigning number-one in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-qualifiers",
-         "pubDate" : "Thu, 19 Sep 2024 18:47:00",
-         "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
       },
       {
          "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
@@ -1392,22 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3197",
          "pubDate" : "Tue, 10 Sep 2024 06:30:04",
          "title" : "Tech Mahindra and FIDE announce second consecutive partnership for 45th Chess Olympiad"
-      },
-      {
-         "description" : "To celebrate its 100th anniversary, the SK Troisdorf in Germany came up with a very special tournament: a diving chess championship. 22 participants played five rounds Swiss under water. Watches were not needed as hardly anyone could think about their move for long. The winner was Oleg Parashenko. | Photos: Sub Aqua Club Troisdorf/Ralf Pulinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-that-takes-your-breath-away",
-         "pubDate" : "Mon, 09 Sep 2024 14:57:31",
-         "title" : "Chess that takes your breath away"
-      },
-      {
-         "description" : "ChessBase Magazine regularly focuses on a current top tournament and offers an exclusive review of the event with analyses from the participants. In the new issue #221, we take a look back at the Biel 2024 Chess Festival, which - among others - included two grandmaster tournaments in a triathlon format. Not only the winner of the Masters, Le Quang Liem, comments on one of his games, but Jonas Bjerre, Alexander Donchenko, Abhimanyu Mishra and Ihor Samunenkov also contribute analyses from Biel. In this week's free CBM reading sample we offer you the analyses of Le Quang, Donchenko and Bjerre in the famous ChessBase book format. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-17",
-         "pubDate" : "Mon, 09 Sep 2024 12:00:00",
-         "title" : "Biel briliancies - Review with analyses by Le Quang, Donchenko and others"
       }
    ]
 }
