@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/us-champion-fabiano-caruana-vs-julian-proleiko",
+         "pubDate" : "Mon, 30 Sep 2024 21:35:03",
+         "title" : "US Champion Fabiano Caruana vs Julian Proleiko"
+      },
+      {
          "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the semifinals of the Losers Bracket of Division I, Maxime Vachier-Lagrave plays against Levon Aronian. The winner will then play against Alireza Firouzja - and the winner of this match will then fight for the title in the Grand Final against Magnus Carlsen. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ian-nepomniachtchi-wins-gashimov-memorial",
          "pubDate" : "Mon, 30 Sep 2024 14:11:42",
          "title" : "Ian Nepomniachtchi wins Gashimov Memorial"
+      },
+      {
+         "description" : "We&#39;re a few days away from the second season of the Tech Mahindra Global Chess League, taking place October 3-11 in London. GMs Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand, Hou Yifan, and Vaishali Rameshbabu are among the players in what is...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-global-chess-league-preview",
+         "pubDate" : "Mon, 30 Sep 2024 14:00:00",
+         "title" : "Global Chess League: All You Need To Know"
       },
       {
          "description" : "",
@@ -282,14 +298,6 @@ news_feed (
          "title" : "Certificates of Senior National Arbiter Examination held at Thoothukudi on 31st August and 1st September 2024."
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan plays this move to trick his opponent </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anna-bit-how-did-yasser-trick-his-opponent-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anna-bit-how-did-yasser-trick-his-opponent-chess-chesstactics-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 06:33:51",
-         "title" : "An Anna Bit: How Did Yasser Trick His Opponent #chess #chesstactics #lichess"
-      },
-      {
          "description" : "Himachal Pradesh State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -370,7 +378,7 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 11"
       },
       {
-         "description" : "What is happening?<br /><br /> We are undergoing some technical difficulties related to tournament report uploads and ratings.<br /><br /> Other problems include national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br /><br /> All other US Chess functions should be working.<br /><br /> Why is this happening?<br /><br /> The servers that host these functions are located in an area affected by Hurricane Helene. This is why both we and our provider are having difficulty in fixing the problems.<br /><br /> When will this be fixed? <br /><br /> We are in contact with the provider as of Monday morning, and working with",
+         "description" : "Current status (9/30)<br /><br /> All reports indicate that the issues related to ratings, rating reports, correspondence chess, and national event registration are now over. These functions should be working normally.<br /><br /> What happened?<br /><br /> We underwent some technical difficulties related to tournament report uploads and ratings.<br /><br /> Other problems included national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br /><br /> All other US Chess functions were working.<br /><br /> Why did this happening?<br /><br /> The servers that host these functions are located in an area affected by Hurric",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-updated-929",
@@ -594,7 +602,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/u-s-state-department-calls-on-fide-to-maintain-russia-sanctions",
          "pubDate" : "Fri, 20 Sep 2024 15:00:00",
          "title" : "U.S State Department Calls On FIDE To Maintain Russia Sanctions As Vote Looms"
-      },
-      {
-         "description" : "Uzbekistan is the first team in the 45th FIDE Chess Olympiad to keep from losing a match against India, holding an equal 2-2 match score with four draws. India still leads by two points. GM Leinier Dominguez led the U.S. to a 2.5-1.5 victory again...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-9",
-         "pubDate" : "Fri, 20 Sep 2024 12:23:00",
-         "title" : "Uzbekistan Ends India's Win Streak In Open, Kazakhstan Takes Women's Lead"
       },
       {
          "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a dominance reminiscent of the legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team Olympiad in Budapest, and a 3.5‑0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone to",
