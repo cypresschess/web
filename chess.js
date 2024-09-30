@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-17",
          "pubDate" : "Mon, 09 Sep 2024 12:00:00",
          "title" : "Biel briliancies - Review with analyses by Le Quang, Donchenko and others"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3203",
-         "pubDate" : "Mon, 09 Sep 2024 08:47:55",
-         "title" : "C.07 Play-Off and Tie-Break Rules revised"
       }
    ]
 }
