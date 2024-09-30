@@ -34,6 +34,14 @@ news_feed (
          "title" : "UK Open Blitz Qualifiers - the story so far!"
       },
       {
+         "description" : "GM Alireza Firouzja has advanced to play GM Magnus Carlsen in the Julius Baer Generation Cup 2024 Division I Grand Final. GM Levon Aronian showed tremendous form when he defeated GM Maxime Vachier-Lagrave 1.5-0.5 but was met with an immovable Firo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-6",
+         "pubDate" : "Mon, 30 Sep 2024 10:35:25",
+         "title" : "Firouzja Advances To Grand Final Vs. Carlsen, Eliminates Aronian With 2-0 Sweep"
+      },
+      {
          "description" : "The Chess Olympiad 2024 was held in beautiful Budapest, Hungary, 10 to 23 September 2024. It was the 45th edition for the Open Section and the 30th for the Women Section. As it is natural, a lot of interesting games were played, out of a total of nearly 8,000 games! Here are some treats, selected and annotated by international trainer Eftratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yagiz-kaan-erdogmus-smashes-record-as-youngest-ever-2600-player-receives-heroes-welcome-in-turkey",
-         "pubDate" : "Mon, 30 Sep 2024 04:34:54",
+         "pubDate" : "Mon, 30 Sep 2024 04:34:00",
          "title" : "Erdogmus Smashes Prestigious Rating Record, Receives Hero's Welcome Back Home"
       },
       {
@@ -114,7 +122,7 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination on 21st and 22nd September 2024 in Udaipur , Rajasthan"
       },
       {
-         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served on the Ethics Commission and even&#160;running as Vice President in the 2022 Election. Ian Wilkinson heading to the FIDE Congress, The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served eight years on the Ethics Commission and even running as Vice President in the 2022 Election. Ian Wilkinson heading to the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/",
@@ -586,7 +594,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/sep/20/chess-india-win-every-match-at-olympiad-as-us-and-england-trail",
          "pubDate" : "Fri, 20 Sep 2024 07:00:06",
          "title" : "Chess: India win every match at Olympiad as US and England trail"
-      },
-      {
-         "description" : "Swedish chess player and influencer WFM Anna Cramling has revealed that she is among the many female players who were harassed by a male chess player, expressing her dismay at the punishment handed down to the perpetrator. Latvian IM Andrejs Str...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anna-cramling-says-she-also-received-obscene-letters",
-         "pubDate" : "Fri, 20 Sep 2024 06:46:00",
-         "title" : "Anna Cramling Says She Also Received Obscene Letters: 'I Thought It Was Just Me'"
       },
       {
          "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed t",
