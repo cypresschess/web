@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Julius Baer Generation Cup takes place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen will meet Alireza Firouzja who he beat in the winners final, or MVL or Aronian all of whom hope to qualify via the losers route. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2024",
+         "pubDate" : "Mon, 30 Sep 2024 00:44:00",
+         "title" : "Julius Baer Generation Cup 2024 - Games and Results"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Viewer FM Michigan Eagle has a little fun during Prepare Like A Pro </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/theyre-eating-catstheyre-eating-chess-chesshumor-politicalhumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FXpGS5RZF3U.jpg?itok=5oelPEBK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Julius Baer Generation Cup: Live"
       },
       {
-         "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s Ulti...",
+         "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s Gran...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5",
          "pubDate" : "Sun, 29 Sep 2024 15:35:00",
-         "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Enters Finals"
+         "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Aronian Sweeps Fedoseev In Losers Bracket"
       },
       {
          "description" : "Rajasthan Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination on 21st and",
@@ -42,20 +50,12 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination on 21st and 22nd September 2024 in Udaipur , Rajasthan"
       },
       {
-         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served on the Ethics Commission and even&#160;running as Vice President in the 2022 Election. A consummate legal mind, Wilkinson served his The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served on the Ethics Commission and even&#160;running as Vice President in the 2022 Election. Ian Wilkinson heading to the FIDE Congress, The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/",
          "pubDate" : "Sun, 29 Sep 2024 14:13:07",
          "title" : "Jamaica's Wilkinson re-elected to FIDE post"
-      },
-      {
-         "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s ulti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5-flash",
-         "pubDate" : "Sun, 29 Sep 2024 12:13:00",
-         "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Enters Finals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113779754.cms\" />Abhijit Kunte, captain of the women's Olympiad gold-winning team, advocates for a comprehensive plan to enhance women's chess in India. He underscores the necessity of state government support and addresses difficulties in institutionalized coaching. Kunte also discusses sports code clarity and evaluates the team's recent achievements and challenges.",
@@ -522,7 +522,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1032,6 +1032,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3222",
          "pubDate" : "Thu, 19 Sep 2024 21:54:26",
          "title" : "45th Chess Olympiad R08: India dominates open section, faces setback in women's"
+      },
+      {
+         "description" : "IMs Eric Rosen and Nhat Minh To were the highest-ranked players to qualify for the Finals of the Chess.com Duck Chess Championship 2024. Six more Duck Chess mavens will join them in the knockout, including Kapik1337, the reigning number-one in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-qualifiers",
+         "pubDate" : "Thu, 19 Sep 2024 18:47:00",
+         "title" : "Rosen, Minh To Join Duck Chess Experts in Finals"
       },
       {
          "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
