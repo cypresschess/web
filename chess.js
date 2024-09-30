@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Olympiad 2024 was held in beautiful Budapest, Hungary, 10 to 23 September 2024. It was the 45th edition for the Open Section and the 30th for the Women Section. As it is natural, a lot of interesting games were played, out of a total of nearly 8,000 games! Here are some treats, selected and annotated by international trainer Eftratios Grivas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-chess-olympiad-2024-1",
+         "pubDate" : "Mon, 30 Sep 2024 08:49:36",
+         "title" : "Grivas on the Chess Olympiad 2024 (1)"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminar-2024/",
+         "pubDate" : "Mon, 30 Sep 2024 06:12:00",
+         "title" : "FIDE TRAINER SEMINAR 2024"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the five FIDE Arbiter Seminars as per the appended schedule:- 1 Mysuru 18-20 October 2024 2 Guwahati",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminars-2024/",
+         "pubDate" : "Mon, 30 Sep 2024 05:51:55",
+         "title" : "FIDE ARBITER SEMINARS 2024"
+      },
+      {
          "description" : " The Julius Baer Generation Cup takes place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen will meet Alireza Firouzja who he beat in the winners final, or MVL or Aronian all of whom hope to qualify via the losers route. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -746,14 +770,6 @@ news_feed (
          "title" : "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions"
       },
       {
-         "description" : "That's amazing news! Winning the first-ever Team Gold Medal in both category at the Chess Olympiad is a monumental achievement for India! It truly marks",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/team-india-creates-history-wins-first-ever-team-gold-medal-in-chess-olympiad/",
-         "pubDate" : "Sun, 22 Sep 2024 13:39:07",
-         "title" : "Team India creates history, wins First ever Team Gold Medal in both categories in Chess Olympiad 2024"
-      },
-      {
          "description" : "India's milestone moments in their chess history - including Viswanathan Anand's pioneering feats and their historic double gold in the 2024 FIDE Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-9",
          "pubDate" : "Fri, 20 Sep 2024 12:23:00",
          "title" : "Uzbekistan Ends India's Win Streak In Open, Kazakhstan Takes Women's Lead"
-      },
-      {
-         "description" : "A Senior National Arbiter (SNA) Seminar, followed by an examination to award the SNA title, was organized by Bloom Chess Academy on behalf of the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-chennai-on-07-08-september-2024/",
-         "pubDate" : "Fri, 20 Sep 2024 11:45:29",
-         "title" : "Final report of Senior National Arbiter Seminar & Examination held in Chennai on 07 & 08 September 2024"
       },
       {
          "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a dominance reminiscent of the legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team Olympiad in Budapest, and a 3.5‑0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone to",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3203",
          "pubDate" : "Mon, 09 Sep 2024 08:47:55",
          "title" : "C.07 Play-Off and Tie-Break Rules revised"
-      },
-      {
-         "description" : "European Chess Union and ECU Trainers Commission, supported by FIDE Development Fund, announce the annual training program in period from November 2024 to April 2025. The 4th Annual Training Program will feature two groups: ● Group A Over 1900 Rating: Monday 18:00-20:05 CET (Juniors/Girls U16)● Group B Under 1900 rating: Tuesday 18:00-20:05 CET (Juniors/Girls U20) Each group will have 24 live sessions for a total of 48 hours of instruction and participants will have the opportunity to watch []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/4th-ecu-annual-training-program/",
-         "pubDate" : "Mon, 09 Sep 2024 06:45:45",
-         "title" : "4th ECU Annual Training Program"
       }
    ]
 }
