@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Julius Baer Generation Cup took place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen beat Alireza Firouzja 2.5-1.5 in the final of Division 1, Wesley So beat Denis Lazavik 3-2 in Division 2 and Fabiano Caruana beat Vincent Keymer 2.5-0.5 to win Division 3. There was no need in any of these for a final match. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2024",
+         "pubDate" : "Tue, 1 Oct 2024 18:56:00",
+         "title" : "Julius Baer Generation Cup 2024 - Games and Results"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on material imbalances. What happens when a player is up a pawn in the endgame? 2024.10.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-play-endgames-material-imbalance-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5yPLiqlW8dg.jpg?itok=ciNv3VtP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-play-endgames-material-imbalance-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Tue, 01 Oct 2024 18:35:43",
+         "title" : "How to Play Endgames with Material Imbalance | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
          "description" : "The Grand Final of the Julius Baer Generation Cup will once again see a clash between Alireza Firouzja and Magnus Carlsen. If Carlsen, who beat Firouzja in the Division I final two days ago, wins the best-of-four match that starts the Grand Final, he will also win the tournament. If Firouzja wins this match, Carlsen will get a second chance as the two will play another match. And the winner of this second match will also be the winner of the tournament. Transmission starts at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "The man behind the Fritztrainer courses: Pascal Lautenschl&auml;ger"
       },
       {
+         "description" : "GM Magnus Carlsen won Division I of the 2024 Julius Baer Generation Cup after defeating GM Alireza Firouzja 2.5-1.5 in the Grand Final. After three hard-fought draws, the world number-one found a brilliant way to break through (40.e6!!) in the fou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-7-carlsen-so-caruana-win",
+         "pubDate" : "Tue, 01 Oct 2024 10:38:00",
+         "title" : "Carlsen Wins 2024 Julius Baer Generation Cup, Wesley So Takes Division II, Caruana Division III"
+      },
+      {
          "description" : "In this video lesson, you will learn how to take game annotations and translate them into any language of your choice. Have German annotations you want in English? No problem! English annotations you want in Portuguese or French? Consider it done!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-2",
@@ -114,7 +138,7 @@ news_feed (
          "title" : "Ian Nepomniachtchi wins Gashimov Memorial"
       },
       {
-         "description" : "We&#39;re a few days away from the second season of the Tech Mahindra Global Chess League, taking place October 3-11 in London. GMs Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand, Hou Yifan, and Vaishali Rameshbabu are among the players in what is...",
+         "description" : "We&#39;re a few days away from the second season of the Tech Mahindra Global Chess League 2024, taking place October 3-11 in London. GMs Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand, Hou Yifan, and Vaishali Rameshbabu are among the players in wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-global-chess-league-preview",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yagiz-kaan-erdogmus-smashes-record-as-youngest-ever-2600-player-receives-heroes-welcome-in-turkey",
          "pubDate" : "Mon, 30 Sep 2024 04:34:00",
          "title" : "Erdogmus Smashes Prestigious Rating Record, Receives Hero's Welcome Back Home"
-      },
-      {
-         "description" : " The Julius Baer Generation Cup takes place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen will meet Alireza Firouzja who he beat in the winners final, or MVL or Aronian all of whom hope to qualify via the losers route. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2024",
-         "pubDate" : "Mon, 30 Sep 2024 00:44:00",
-         "title" : "Julius Baer Generation Cup 2024 - Games and Results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Viewer FM Michigan Eagle has a little fun during Prepare Like A Pro </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/theyre-eating-catstheyre-eating-chess-chesshumor-politicalhumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FXpGS5RZF3U.jpg?itok=5oelPEBK\" alt=\"\" /></a></div>",
@@ -328,14 +344,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dont-be-deceived-its-red-herring-chess-chesstactics-lichess",
          "pubDate" : "Sat, 28 Sep 2024 15:33:57",
          "title" : "Don't Be Deceived - It's A Red Herring #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> It&#039;s easy, but look carefully </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-white-two-moves-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2ikM1oatPiU.jpg?itok=nxiUxR4x\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beat-white-two-moves-chess-chesstactics-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 15:33:57",
-         "title" : "Beat White In Two Moves #chess #chesstactics #lichess"
       },
       {
          "description" : "GM Magnus Carlsen&#39;s dramatic match against GM Levon Aronian and GM Maxime Vachier-Lagrave&#39;s brilliant attacking masterpiece against GM Ian Nepomniachtchi were the highlights of day four of the Julius Baer Generation Cup 2024. GM Alireza Firouzja...",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3224",
          "pubDate" : "Fri, 20 Sep 2024 21:39:41",
          "title" : "45th Chess Olympiad: USA sets up clash with India; Kazakhstan grabs the lead in women's event"
-      },
-      {
-         "description" : "IM&#38;nbsp;Nhat Minh To&#38;nbsp;won every match in the Chess.com Duck Chess Championship 2024, defeating IM Eric Rosen in the Grand Final to clinch the title.&#38;nbsp; After losing to the eventual winner in the Semifinals, Rosen fought his way through th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-duck-chess-championship-knockout-minh-to-wins",
-         "pubDate" : "Fri, 20 Sep 2024 16:16:00",
-         "title" : "Minh To Prevails In Duck Chess Championship"
       },
       {
          "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a dominance reminiscent of the legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team Olympiad in Budapest, and a 3.5‑0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone to",
