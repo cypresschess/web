@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Final of the Julius Baer Generation Cup will once again see a clash between Alireza Firouzja and Magnus Carlsen. If Carlsen, who beat Firouzja in the Division I final two days ago, wins the best-of-four match that starts the Grand Final, he will also win the tournament. If Firouzja wins this match, Carlsen will get a second chance as the two will play another match. And the winner of this second match will also be the winner of the tournament. Transmission starts at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
+         "pubDate" : "Tue, 01 Oct 2024 16:45:00",
+         "title" : "Julius Baer Generation Cup: Live"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup ends with the Grand Finals. In Division I Magnus Carlsen faces Alireza Firouzja who eliminated Levon Aronian in the final of the Losers Bracket, in Division II Wesley So faces Denis Lazavik, and in Division III Vincent Keymer and Fabiano Caruana battle it out. | Pictures: Chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/firouzja-and-carlsen-play-the-grand-final-of-the-julius-baer-generation-cup",
+         "pubDate" : "Tue, 01 Oct 2024 16:06:08",
+         "title" : "Firouzja and Carlsen play the Grand Final of the Julius Baer Generation Cup"
+      },
+      {
+         "description" : "The new FIDE World Ranking is out, reflecting the results of the Chess Olympiad in Budapest. Magnus Carlsen remains the world number one, ahead of Hikaru Nakamura in second place. But Indian Grandmaster Arjun Erigaisi, who scored 10.0/11 in Budapest, is the new world number three, although only one point ahead of Fabiano Caruana in fourth. World Champion Challenger Gukesh, who also won big in Budapest, is fifth and Nodirbek Abdusattorov, another top scorer at the Olympiad, is sixth.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-october-2024",
+         "pubDate" : "Tue, 01 Oct 2024 14:09:03",
+         "title" : "FIDE ratings - October 2024"
+      },
+      {
          "description" : "Pascal Lautenschl&auml;ger is the man behind the Fritztrainer courses. As head of video production, he recently produced his 500th Fritztrainer title. He was also recently honoured for his 20th anniversary with ChessBase. At the Chess Olympiad in Budapest Amruta Mokal used the opportunity to interview Pascal and to ask him about his work with some of the greatest players of all time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,30 @@ news_feed (
          "link" : "https://www.fide.com/news/3236",
          "pubDate" : "Tue, 01 Oct 2024 08:00:42",
          "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
+      },
+      {
+         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-2",
+         "pubDate" : "Tue, 01 Oct 2024 00:00:00",
+         "title" : "Tactics Tuesday: Paris Speed Chess Champs, Pt. 2"
+      },
+      {
+         "description" : "We welcome Jeff French as the new editor. It is ironic that Jeff was a student and chess club member of Alex Dunne's in high school in northeast Pennsylvania. He also played Alex in over-the-board games. He contributed to the online Chess Life memorial for Alex.<br /><br /> Jeff has played chess for over 50 years, since he was 11 years old. In 2014, Jeff's chess journalist career began when he became the Texas Knights editor for the Texas Chess Association. In 2018, after editing 27 issues, he had to resign as editor due to professional career requirements. But, after retiring from that career in late 2021, and then trying his hand at mobile application development, he returned in 2022 as th",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-october-whats-new-old",
+         "pubDate" : "Tue, 01 Oct 2024 00:00:00",
+         "title" : "Check is in the Mail, October: What's New is Old!"
+      },
+      {
+         "description" : "The 15th Continental Women's Chess Championship of the Americas 2024 will be held November 23-30, 2024 at the Dominican Olympic Hostel (Albergue Olimpico Dominicano) in Dominican Republic. The event, organized by the Chess Confederation of the Americas and the Dominican Chess Federation is open to all American continent chess federation women players.<br /><br /> This is an nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $5,500 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.<br /><",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/15th-continental-womens-chess-championships-2024-announced",
+         "pubDate" : "Tue, 01 Oct 2024 00:00:00",
+         "title" : "15th Continental Women's Chess Championships 2024 Announced"
       },
       {
          "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt",
@@ -410,7 +458,7 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 11"
       },
       {
-         "description" : "Current status (9/30)<br /><br /> All reports indicate that the issues related to ratings, rating reports, correspondence chess, and national event registration are now over. These functions should be working normally.<br /><br /> What happened?<br /><br /> We underwent some technical difficulties related to tournament report uploads and ratings.<br /><br /> Other problems included national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br /><br /> All other US Chess functions were working.<br /><br /> Why did this happening?<br /><br /> The servers that host these functions are located in an area affected by Hurric",
+         "description" : "Current status (9/30)<br /><br /> All reports indicate that the issues related to ratings, rating reports, correspondence chess, and national event registration are now over. These functions should be working normally.<br /><br /> What happened?<br /><br /> We underwent some technical difficulties related to tournament report uploads and ratings.<br /><br /> Other problems included national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br /><br /> All other US Chess functions were working.<br /><br /> Why did this happen?<br /><br /> The servers that host these functions are located in an area affected by Hurricane",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-updated-929",
@@ -642,7 +690,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1146,22 +1194,6 @@ news_feed (
          "title" : "Opera and chess - Lajos Portisch celebrated the 45th Chess Olympiad with an aria evening"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz continues this week. This batch focuses on defensive calculation exercises. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-2",
-         "pubDate" : "Wed, 18 Sep 2024 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 2"
-      },
-      {
-         "description" : "Editor's note: This report covers rounds four through six of the 45th FIDE Chess Olympiad. The first three rounds are covered here. At the time of writing, round seven is almost concluded, with both American teams having finished their matches. USA defeated Greece 3 - 1 in the Open and tied Armenia 2 - 2 in the Women's event. This puts each team on 5&frac12;/7 and in a tie for fifth in the Open and sixth for in the Women's. Play resumes tomorrow, Thursday, September 19, at 8:00 a.m. CDT. <br /><br /> USA Women Loses Close Contest to Mongolia, Bounces Back Against Switzerland<br /><br /> Entering the rest day, Team USA sat on a strong 5/6 score in the Women's tournament. The unbeaten streak c",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/americans-remain-striking-distance-halfway-through-2024-fide-olympiad",
-         "pubDate" : "Wed, 18 Sep 2024 00:00:00",
-         "title" : "Americans Remain In Striking Distance Halfway Through 2024 FIDE Olympiad"
-      },
-      {
          "description" : " 2024 Chess Olympiad: Round 6Monday, 16 September 2024 Open Round 6 is right before the rest day and the tournament got a bit more tense. India continued mowing down the field and beat host Hungary by a resounding 3-1 score. Arjun Erigaisi is cleaning up on board 3 with 6/6 and a 3341 performance rating! The post <a href=\"https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/\">2024 Chess Olympiad: Round 6</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1200,14 +1232,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
          "pubDate" : "Tue, 17 Sep 2024 00:16:59",
          "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
-      },
-      {
-         "description" : "This week, we continue our feature on the Saint Louis Rapid & Blitz with another batch of time trouble mishaps from the world's elite.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-saint-louis-rapid-blitz-pt-2",
-         "pubDate" : "Tue, 17 Sep 2024 00:00:00",
-         "title" : "Tactics Tuesday: Saint Louis Rapid & Blitz, Pt. 2"
       },
       {
          "description" : "",
@@ -1408,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3205",
          "pubDate" : "Tue, 10 Sep 2024 19:56:37",
          "title" : "45th FIDE Chess Olympiad is officially open!"
-      },
-      {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress , Hotel InterContinental Budapest. The Assembly starts at 15.00. Requests for bookings and transportation shall be forward to O.C. of the Budapest Chess Olympiad. Contact Information: []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2024/",
-         "pubDate" : "Tue, 10 Sep 2024 13:05:09",
-         "title" : "ECU GENERAL ASSEMBLY 2024"
       }
    ]
 }
