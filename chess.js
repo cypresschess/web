@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this video lesson, you will learn how to take game annotations and translate them into any language of your choice. Have German annotations you want in English? No problem! English annotations you want in Portuguese or French? Consider it done!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-translating-annotations-with-ai",
+         "pubDate" : "Tue, 01 Oct 2024 09:02:05",
+         "title" : "ChessBase in Minutes: Translating annotations with AI"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/us-champion-fabiano-caruana-vs-julian-proleiko",
          "pubDate" : "Mon, 30 Sep 2024 21:35:03",
          "title" : "US Champion Fabiano Caruana vs Julian Proleiko"
+      },
+      {
+         "description" : "Mark Crowther, the founder of The Week in Chess (TWIC), single-handedly changed the chess landscape in the 90s and has provided an invaluable free resource for chess enthusiasts and professionals for 30 years. He has no plans of slowing down. Si...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mark-crowther-celebrates-twics-30th-anniversary",
+         "pubDate" : "Mon, 30 Sep 2024 21:11:39",
+         "title" : "Mark Crowther Celebrates Anniversary: 'You Do It One Week At A Time, Then 30 Years Go By'"
       },
       {
          "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the semifinals of the Losers Bracket of Division I, Maxime Vachier-Lagrave plays against Levon Aronian. The winner will then play against Alireza Firouzja - and the winner of this match will then fight for the title in the Grand Final against Magnus Carlsen. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
@@ -1018,14 +1034,6 @@ news_feed (
          "title" : "Minh To Prevails In Duck Chess Championship"
       },
       {
-         "description" : "Two days before the General Assembly of the International Chess Federation (FIDE) prepares for a possibly pivotal vote to decide whether to lift sanctions on the Russian and Belarusian chess federations, the U.S. State Department has issued a stat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/u-s-state-department-calls-on-fide-to-maintain-russia-sanctions",
-         "pubDate" : "Fri, 20 Sep 2024 15:00:00",
-         "title" : "U.S State Department Calls On FIDE To Maintain Russia Sanctions As Vote Looms"
-      },
-      {
          "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a dominance reminiscent of the legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team Olympiad in Budapest, and a 3.5‑0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone to",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-agm-nominations-update/",
          "pubDate" : "Tue, 10 Sep 2024 08:16:51",
          "title" : "ECF AGM - nominations update"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3197",
-         "pubDate" : "Tue, 10 Sep 2024 06:30:04",
-         "title" : "Tech Mahindra and FIDE announce second consecutive partnership for 45th Chess Olympiad"
       }
    ]
 }
