@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pascal Lautenschl&auml;ger is the man behind the Fritztrainer courses. As head of video production, he recently produced his 500th Fritztrainer title. He was also recently honoured for his 20th anniversary with ChessBase. At the Chess Olympiad in Budapest Amruta Mokal used the opportunity to interview Pascal and to ask him about his work with some of the greatest players of all time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-man-behind-the-fritztrainer-courses-pascal-lautenschlaeger",
+         "pubDate" : "Tue, 01 Oct 2024 11:42:00",
+         "title" : "The man behind the Fritztrainer courses: Pascal Lautenschl&auml;ger"
+      },
+      {
          "description" : "In this video lesson, you will learn how to take game annotations and translate them into any language of your choice. Have German annotations you want in English? No problem! English annotations you want in Portuguese or French? Consider it done!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-translating-annotations-with-ai",
          "pubDate" : "Tue, 01 Oct 2024 09:02:05",
          "title" : "ChessBase in Minutes: Translating annotations with AI"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3238",
+         "pubDate" : "Tue, 01 Oct 2024 08:33:46",
+         "title" : "Erigaisi enters top 3 Open in October 2024 rating list"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3236",
+         "pubDate" : "Tue, 01 Oct 2024 08:00:42",
+         "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
       },
       {
          "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mark-crowther-celebrates-twics-30th-anniversary",
          "pubDate" : "Mon, 30 Sep 2024 21:11:39",
          "title" : "Mark Crowther Celebrates Anniversary: 'You Do It One Week At A Time, Then 30 Years Go By'"
-      },
-      {
-         "description" : "From 25 September to 1 October chess.com is hosting the Julius Baer Generation Cup, the fourth and last online tournament of the current Champions Chess Tour before the final tournament. The finals will be played live in Oslo, Norway, starting on 17 December. Today, in the semifinals of the Losers Bracket of Division I, Maxime Vachier-Lagrave plays against Levon Aronian. The winner will then play against Alireza Firouzja - and the winner of this match will then fight for the title in the Grand Final against Magnus Carlsen. The matches will start at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
-         "pubDate" : "Mon, 30 Sep 2024 16:00:00",
-         "title" : "Julius Baer Generation Cup: Live"
       },
       {
          "description" : "Ian Nepomniachtchi is the winner of the Vugar Gashimov Memorial in Shunsa, Azerbaijan. He won the rapid chess tournament and came second in the blitz - enough to take first place overall. The other two places on the podium were taken by Nodirbek Abdusattorov and Shakhriyar Mamedyarov. Richard Rapport, who started the tournament in second place after day one, finished last of the eight players. | Picture: gashimovchess.com",
@@ -426,6 +442,14 @@ news_feed (
          "title" : "Media registration for FIDE World Chess Championship 2024 is open now"
       },
       {
+         "description" : "In last month's Yahoos post -- see the footnote for a definition of Yahoos -- titled <A HREF=\"https://chessforallages.blogspot.com/2024/08/dna-yahoos.html\">DNA Yahoos</A> (August 2024), the stats revealed a possible new trend:- <BLOCKQUOTE> This month had 99 stories returned by Google News. Of those, 25 were old stories from previous months, compared to 10 old stories returned for the July post. Is Google struggling to find chess stories? </BLOCKQUOTE> <P> The September stats were 100 stories total including 14 stories from previous months. Later in the August post I noted, <BLOCKQUOTE> The 2024 Olympiad also had four stories, two of which were the same. Since the event didn't finish in Augu",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html",
+         "pubDate" : "Thu, 26 Sep 2024 15:38:00",
+         "title" : "Historic Olympiad Yahoos"
+      },
+      {
          "description" : "Peter Svidler is the winner of the 2024 Jerusalem Masters. On the second day of the rapid chess tournament, the St Petersburg-born player built on his strong performance from the day before to finish the tournament in first place, one point ahead of Jorden van Foreest and Daniil Dubov. | Photos: Tournament page / Dr. ML Photos",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,7 +642,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1392,22 +1416,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2024/",
          "pubDate" : "Tue, 10 Sep 2024 13:05:09",
          "title" : "ECU GENERAL ASSEMBLY 2024"
-      },
-      {
-         "description" : "The Sicilian Taimanov is very popular with the top pros because of its great flexibility. For a while it was Karpov's main weapon against 1.e4 and Kasparov followed in his predecessor's footsteps. In two courses Robert Ris now presents a complete repertoire for Black based on the Taimanov. In the first volume he shows why the Taimanov is such a popular variation, in the second volume he shows what Black can do against the Anti-Sicilians. Christian H&ouml;the took a look at both courses.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-a-complete-sicilian-repertoire-a-review",
-         "pubDate" : "Tue, 10 Sep 2024 10:00:00",
-         "title" : "Robert Ris: A Complete Sicilian Repertoire - a review"
-      },
-      {
-         "description" : "In the notice calling for nominations circulated on 27th August, I said that I would update delegates on Alex Longson's decision to continue or not in his current role as...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-nominations-update/",
-         "pubDate" : "Tue, 10 Sep 2024 08:16:51",
-         "title" : "ECF AGM - nominations update"
       }
    ]
 }
