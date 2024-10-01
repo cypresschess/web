@@ -18,6 +18,14 @@ news_feed (
          "title" : "Firouzja and Carlsen play the Grand Final of the Julius Baer Generation Cup"
       },
       {
+         "description" : "The ECF grassroots initiative was launched on 16th July this year (on the ECF website and in the July edition of ChessMoves). The fund is intended to be a multi-year...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-grassroots-fund/",
+         "pubDate" : "Tue, 01 Oct 2024 15:59:41",
+         "title" : "ECF Grassroots Fund"
+      },
+      {
          "description" : "The new FIDE World Ranking is out, reflecting the results of the Chess Olympiad in Budapest. Magnus Carlsen remains the world number one, ahead of Hikaru Nakamura in second place. But Indian Grandmaster Arjun Erigaisi, who scored 10.0/11 in Budapest, is the new world number three, although only one point ahead of Fabiano Caruana in fourth. World Champion Challenger Gukesh, who also won big in Budapest, is fifth and Nodirbek Abdusattorov, another top scorer at the Olympiad, is sixth.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -882,6 +890,14 @@ news_feed (
          "title" : "Two Team, Three Individual Medals for Americans as India Takes Double Gold at 45th FIDE Olympiad"
       },
       {
+         "description" : "US Chess Electronic Device Certification Policy<br /><br /> Update: The attached document is current as of September 23, 2024, and includes updates to the list of approved devices<br /><br /> On February 2, 2020, the US Chess Executive Board approved a new policy for the certification of certain electronic devices-e.g., scoresheets and game-broadcasting systems. The new policy is broader than its predecessor and provides more detailed guidance to manufacturers. It also establishes the foundation for a two-part certification process to assure a candidate device adheres to the rules of chess and to assess a device's resistance to various forms of tampering. Download the current version of the ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/rules/us-chess-electronic-device-certification-policy",
+         "pubDate" : "Mon, 23 Sep 2024 00:00:00",
+         "title" : "UPDATED, September 2024: US Chess Electronic Device Certification Policy"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41379777/milestones-indian-chess-history-2024-olympiad-gold-gukesh-viswanathan-anand-manuel-aaron-subbaraman-vijayalakshmi?device=featurephone",
          "pubDate" : "Sun, 22 Sep 2024 13:31:43",
          "title" : "68 years in the making: Olympiad golds mark milestones in Indian chess history"
-      },
-      {
-         "description" : "The ECF Events Calendar has been updated to a new plugin, with increased filters for sorting and a cleaner, clearer layout. This represents a lot of work on the part...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/events-calendar-update/",
-         "pubDate" : "Sun, 22 Sep 2024 12:17:22",
-         "title" : "Events calendar update"
       },
       {
          "description" : "Exploring the defining moments that led to India's historic double at the 2024 FIDE Chess Olympiad.",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41321042/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-7-report?device=featurephone",
          "pubDate" : "Thu, 19 Sep 2024 00:34:52",
          "title" : "Chess Olympiad 2024: Ding Liren rested vs India as men and women's team prevail for perfect 7/7"
-      },
-      {
-         "description" : "US Chess is pleased to announce the 2024-2025 Title I Travel Grant Fund. This program financially supports eligible Affiliates serving Title I Schools to attend US Chess-run National Scholastic Events! Requests for both full and partial support applications will be considered. <br /><br /> This program is part of US Chess's commitment to improving access among underrepresented communities and reducing financial barriers to participation in national events. <br /><br /> APPLY TODAY<br /><br /> Eligibility<br /><br /> The following criteria are mandatory for eligibility:<br /><br /> Applicant must be a current US Chess Affiliate <br /> \tAffiliate must be a 501(c)(3) or a public school<br /> \tA",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-opens-2024-2025-title-i-travel-grant-national-tournaments",
-         "pubDate" : "Thu, 19 Sep 2024 00:00:00",
-         "title" : "US Chess Opens 2024-2025 Title I Travel Grant for National Tournaments"
       },
       {
          "description" : "",
