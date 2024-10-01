@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The Julius Baer Generation Cup took place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen beat Alireza Firouzja 2.5-1.5 in the final of Division 1, Wesley So beat Denis Lazavik 3-2 in Division 2 and Fabiano Caruana beat Vincent Keymer 2.5-0.5 to win Division 3. There was no need in any of these for a final match. ",
+         "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 11-24, see 24 players across both tournaments (fields below) fight for more than a $400,000 prize fund. Can Caruana and Yip defend their titles? Tournament Details:<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-promo\"><i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-promo",
+         "pubDate" : "Tue, 01 Oct 2024 21:35:51",
+         "title" : "2024 U.S. Chess Championships | PROMO"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3239",
+         "pubDate" : "Tue, 01 Oct 2024 20:58:13",
+         "title" : "X Ibero-American Championship: Alan Pichot captures title"
+      },
+      {
+         "description" : " The Jamaican chess delegation trekked to Budapest, Hungary, for the 45th Chess Olympiad. The island nation sent two teams, with former president&#160;Ian Wilkinson&#160;as head of the delegation. The event marked the 100th anniversary of FIDE, the world's governing chess body. The Chess Drum got a chance to chat with members of the Jamaican delegation. Wilkinson The post <a href=\"https://www.thechessdrum.net/blog/2024/10/01/jamaican-chess-dons-post-olympiad-energy/\">Jamaican Chess dons post-Olympiad energy</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/10/01/jamaican-chess-dons-post-olympiad-energy/",
+         "pubDate" : "Tue, 01 Oct 2024 19:56:26",
+         "title" : "Jamaican Chess dons post-Olympiad energy"
+      },
+      {
+         "description" : " The Julius Baer Generation Cup took place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen beat Alireza Firouzja 2.5-1.5 in the final of Division 1, Wesley So beat Denis Lazavik 3-2 in Division 2 and Fabiano Caruana beat Vincent Keymer 2.5-0.5 to win Division 3. There were no Grand Final Resets required in any of the divisions.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2024",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-october-2024",
          "pubDate" : "Tue, 01 Oct 2024 14:09:03",
          "title" : "FIDE ratings - October 2024"
+      },
+      {
+         "description" : "Indian GM Gukesh Dommaraju has broken into the world top-five for the first time on the October 2024 FIDE rating list after scoring double gold at the 2024 FIDE Chess Olympiad in Budapest, while also growing the gap to his world championship oppon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/october-2024-fide-rating-list",
+         "pubDate" : "Tue, 01 Oct 2024 12:41:00",
+         "title" : "October 2024 FIDE Ratings: Gukesh Joins Arjun In World Top-5"
       },
       {
          "description" : "Pascal Lautenschl&auml;ger is the man behind the Fritztrainer courses. As head of video production, he recently produced his 500th Fritztrainer title. He was also recently honoured for his 20th anniversary with ChessBase. At the Chess Olympiad in Budapest Amruta Mokal used the opportunity to interview Pascal and to ask him about his work with some of the greatest players of all time.",
@@ -126,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mark-crowther-celebrates-twics-30th-anniversary",
-         "pubDate" : "Mon, 30 Sep 2024 21:11:39",
+         "pubDate" : "Mon, 30 Sep 2024 21:11:00",
          "title" : "Mark Crowther Celebrates Anniversary: 'You Do It One Week At A Time, Then 30 Years Go By'"
       },
       {
@@ -336,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-28-2024",
          "pubDate" : "Sat, 28 Sep 2024 15:35:00",
          "title" : "Nakamura Clinches Bullet Brawl With 42-Game Winning Streak"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Be careful...it&#039;s not that easy </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-red-herring-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-be-deceived-its-red-herring-chess-chesstactics-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 15:33:57",
-         "title" : "Don't Be Deceived - It's A Red Herring #chess #chesstactics #lichess"
       },
       {
          "description" : "GM Magnus Carlsen&#39;s dramatic match against GM Levon Aronian and GM Maxime Vachier-Lagrave&#39;s brilliant attacking masterpiece against GM Ian Nepomniachtchi were the highlights of day four of the Julius Baer Generation Cup 2024. GM Alireza Firouzja...",
@@ -706,7 +730,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -1042,14 +1066,6 @@ news_feed (
          "title" : "Tang Wins 4th Bullet Brawl By 20-Point Margin Over Nakamura"
       },
       {
-         "description" : "India is on the brink of winning gold after beating the United States 2.5-1.5 in round 10 of the 45th FIDE Chess Olympiad. Just as in Chennai, GM Gukesh Dommaraju defeated GM Fabiano Caruana&#38;nbsp;while GM Arjun Erigaisi took down GM Leinier Doming...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-round-10",
-         "pubDate" : "Sat, 21 Sep 2024 12:56:00",
-         "title" : "India On Brink Of 1st-Ever Olympiad Gold After Defeating United States"
-      },
-      {
          "description" : "We all want exceptional results. So how can we get them? Most people think by doing exceptional things. I don't agree. Exceptional results often come from consistency and a focus on the basics. Solving positions with similar tactical motifs daily, analyzing even your worst games, and trying to play simple chess. These 3 methods have []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1216,14 +1232,6 @@ news_feed (
          "link" : "https://www.europechess.org/45th-chess-olympiad-is-halfway-through/",
          "pubDate" : "Tue, 17 Sep 2024 11:19:27",
          "title" : "45th Chess Olympiad is halfway through"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 5Sunday, 15 September 2024 Open The Indian men have continued to dominate in the Open Section. D. Gukesh (4/4) and Arjun Erigaisi (5/5) scored for India, while R. Praggnanandhaa got his second consecutive draw. Vidit Gujrathi drew with Shakriyar Mamedyarov who seems to be sliding further and further down the boards The post <a href=\"https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/\">2024 Chess Olympiad: Round 5</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/16/2024-chess-olympiad-round-5/",
-         "pubDate" : "Tue, 17 Sep 2024 03:51:24",
-         "title" : "2024 Chess Olympiad: Round 5"
       },
       {
          "description" : "Arjun Erigaisi registered his sixth victory in as many games as he continues to be India's standout player this Olympiad.",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3206",
          "pubDate" : "Wed, 11 Sep 2024 08:37:34",
          "title" : "Final list of Member Federations having right to vote at GA 2024 published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3205",
-         "pubDate" : "Tue, 10 Sep 2024 19:56:37",
-         "title" : "45th FIDE Chess Olympiad is officially open!"
       }
    ]
 }
