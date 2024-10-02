@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Would you like to be Chess Champion 2025? An exciting new competitive format show for the BBC is looking for players to battle it out on TV. If you're interested in being on the show, please get in touch with us at chessmasters@curvemedia.com",
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. Organised by Tech Mahindra Global and FIDE, the team-based tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. With a US$ 1 million prize fund at stake, the competition will follow a double round-robin format, leading to a final showdown between the top two teams. An innovative scoring system and fast-paced time control promise an action-packed event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/curve-media-launches-a-brand-new-tv-series-chess-masters-on-bbc",
-         "pubDate" : "Wed, 02 Oct 2024 20:00:00",
-         "title" : "Curve media launches a brand new tv series Chess Masters on BBC"
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-format",
+         "pubDate" : "Thu, 03 Oct 2024 00:25:00",
+         "title" : "Global Chess League: Format, schedule, participants"
       },
       {
          "description" : "",
@@ -98,6 +98,14 @@ news_feed (
          "title" : "Change of Email:AICF Arbiters Commission"
       },
       {
+         "description" : "GM Magnus Carlsen just won the 2024 Julius Baer Generation Cup, meaning he&#39;s won two out of the four Champions Chess Tour events this year. We also saw GM Wesley So win Division II and GM Fabiano Caruana Division III. Let&#39;s go over what we&#39;ve lear...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-6-things-we-learned",
+         "pubDate" : "Wed, 02 Oct 2024 13:52:50",
+         "title" : "6 Things We Learned - Julius Baer Generation Cup 2024"
+      },
+      {
          "description" : "The Chess Olympiad 2024 in Budapest saw a lot of interesting games, many truely spectacular, and often quite instructive, especially for budding chess masters. Of the total of nearly 8,000 games, here are six treats, selected and annotated by international trainer Eftratios Grivas. Play through them and learn.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +122,6 @@ news_feed (
          "title" : "Carlsen Wins Another Titled Tuesday"
       },
       {
-         "description" : "Magnus Carlsen secured victory in the Grand Final of the Julius Baer Generation Cup by defeating Alireza Firouzja with a 2&frac12;-1&frac12; score. Carlsen, who had already triumphed in the winners' bracket, drew the first three games before clinching the win in the fourth. Firouzja and Carlsen finished at the top of the Champions Chess Tour standings, earning spots in the prestigious in-person final event, which will be held in December in Oslo. They will join six other qualified participants in the battle for the series' title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-final-report",
-         "pubDate" : "Wed, 02 Oct 2024 07:05:00",
-         "title" : "Magnus Carlsen beats Alireza Firouzja to win Julius Baer Generation Cup"
-      },
-      {
          "description" : "This October, five new (and familiar) faces have landed on Chess.com. Martin Krueger, Jack, Ghost Giri, Cramaline, and Beetlejuicer may seem like an unlikely group of friends&#38;mdash;but they all have one thing in common: a cunning passion for chess...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -130,12 +130,28 @@ news_feed (
          "title" : "It's Spooky Season: New Halloween Bots Have Appeared!"
       },
       {
+         "description" : "Several of India's gold-medal winning Olympiad teams will be in action - including Vidit Gujrathi, R Praggnanandhaa and R Vaishali.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41564559/global-chess-league-2024-preview-magnus-carlsen-viswanathan-anand-arjun-erigaisi-anish-giri-unmissable-season-2?device=featurephone",
+         "pubDate" : "Wed, 2 Oct 2024 06:42:56",
+         "title" : "Carlsen, Anand, Arjun, Giri and co. promise to make Global Chess League season 2 unmissable"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman shows four games from August 2022 where she was White against the Scandinavian Defense, and won them all! The Scandinavian starts with 1.e4 d5. 2024.10.01<br /> Sara Herman vs. Senthi Ravichandra, 2022: B01 Scandinavian (centre counter) defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian, Pytel-Wade variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-you-escape-scan",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/can-you-escape-scandi-road-2000",
          "pubDate" : "Wed, 02 Oct 2024 00:35:57",
          "title" : "Can you Escape the Scandi? | Road to 2000"
+      },
+      {
+         "description" : "This week's Wednesday Workout begins a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. India won gold in both the Open and Women's events, and Team USA won silver in the Open and bronze in the Women's event. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on mating attacks and defensive resources.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-45th-olympiad-pt-1",
+         "pubDate" : "Wed, 02 Oct 2024 00:00:00",
+         "title" : "Wednesday Workout: 45th Olympiad, Pt. 1"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 11-24, see 24 players across both tournaments (fields below) fight for more than a $400,000 prize fund. Can Caruana and Yip defend their titles? Tournament Details:<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-promo\"><i",
@@ -178,28 +194,12 @@ news_feed (
          "title" : "How to Play Endgames with Material Imbalance | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "The Julius Baer Generation Cup ends with the Grand Finals. In Division I Magnus Carlsen faces Alireza Firouzja who eliminated Levon Aronian in the final of the Losers Bracket, in Division II Wesley So faces Denis Lazavik, and in Division III Vincent Keymer and Fabiano Caruana battle it out. | Pictures: Chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/firouzja-and-carlsen-play-the-grand-final-of-the-julius-baer-generation-cup",
-         "pubDate" : "Tue, 01 Oct 2024 16:06:08",
-         "title" : "Firouzja and Carlsen play the Grand Final of the Julius Baer Generation Cup"
-      },
-      {
          "description" : "The ECF grassroots initiative was launched on 16th July this year (on the ECF website and in the July edition of ChessMoves). The fund is intended to be a multi-year...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-grassroots-fund/",
          "pubDate" : "Tue, 01 Oct 2024 15:59:41",
          "title" : "ECF Grassroots Fund"
-      },
-      {
-         "description" : "The new FIDE World Ranking is out, reflecting the results of the Chess Olympiad in Budapest. Magnus Carlsen remains the world number one, ahead of Hikaru Nakamura in second place. But Indian Grandmaster Arjun Erigaisi, who scored 10.0/11 in Budapest, is the new world number three, although only one point ahead of Fabiano Caruana in fourth. World Champion Challenger Gukesh, who also won big in Budapest, is fifth and Nodirbek Abdusattorov, another top scorer at the Olympiad, is sixth.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-october-2024",
-         "pubDate" : "Tue, 01 Oct 2024 14:09:03",
-         "title" : "FIDE ratings - October 2024"
       },
       {
          "description" : "Indian GM Gukesh Dommaraju has broken into the world top-five for the first time on the October 2024 FIDE rating list after scoring double gold at the 2024 FIDE Chess Olympiad in Budapest, while also growing the gap to his world championship oppon...",
@@ -210,28 +210,12 @@ news_feed (
          "title" : "October 2024 FIDE Ratings: Gukesh Joins Arjun In World Top-5"
       },
       {
-         "description" : "Pascal Lautenschl&auml;ger is the man behind the Fritztrainer courses. As head of video production, he recently produced his 500th Fritztrainer title. He was also recently honoured for his 20th anniversary with ChessBase. At the Chess Olympiad in Budapest Amruta Mokal used the opportunity to interview Pascal and to ask him about his work with some of the greatest players of all time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-man-behind-the-fritztrainer-courses-pascal-lautenschlaeger",
-         "pubDate" : "Tue, 01 Oct 2024 11:42:00",
-         "title" : "The man behind the Fritztrainer courses: Pascal Lautenschl&auml;ger"
-      },
-      {
          "description" : "GM Magnus Carlsen won Division I of the 2024 Julius Baer Generation Cup after defeating GM Alireza Firouzja 2.5-1.5 in the Grand Final. After three hard-fought draws, the world number-one found a brilliant way to break through (40.e6!!) in the fou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-7-carlsen-so-caruana-win",
          "pubDate" : "Tue, 01 Oct 2024 10:38:00",
          "title" : "Carlsen Wins 2024 Julius Baer Generation Cup, Wesley So Takes Division II, Caruana Division III"
-      },
-      {
-         "description" : "In this video lesson, you will learn how to take game annotations and translate them into any language of your choice. Have German annotations you want in English? No problem! English annotations you want in Portuguese or French? Consider it done!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-translating-annotations-with-ai",
-         "pubDate" : "Tue, 01 Oct 2024 09:02:05",
-         "title" : "ChessBase in Minutes: Translating annotations with AI"
       },
       {
          "description" : "",
@@ -250,7 +234,7 @@ news_feed (
          "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-2",
@@ -320,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-6",
          "pubDate" : "Mon, 30 Sep 2024 10:35:00",
          "title" : "Firouzja Advances To Grand Final Vs. Carlsen, Eliminates Aronian With 2-0 Sweep"
-      },
-      {
-         "description" : "The Chess Olympiad 2024 was held in beautiful Budapest, Hungary, 10 to 23 September 2024. It was the 45th edition for the Open Section and the 30th for the Women Section. As it is natural, a lot of interesting games were played, out of a total of nearly 8,000 games! Here are some treats, selected and annotated by international trainer Eftratios Grivas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-chess-olympiad-2024-1",
-         "pubDate" : "Mon, 30 Sep 2024 08:49:36",
-         "title" : "Grivas on the Chess Olympiad 2024 (1)"
       },
       {
          "description" : "Chess.com is excited to announce the second edition of Team Chess Battle. Starting on October 7, the banter-fueled event will feature a $10,000 prize fund and some of the biggest celebrities in chess. The event continues with its entertaining fo...",
@@ -714,7 +690,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -784,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-votes-to-maintain-russian-belarusian-sanctions",
          "pubDate" : "Mon, 23 Sep 2024 10:44:00",
          "title" : "'Crushing Defeat' For Russia, Belarus as FIDE Votes To Maintain Sanctions"
-      },
-      {
-         "description" : "We&#39;re excited to announce the 2024 US Masters, the strongest open tournament in the United States, taking place in Charlotte, North Carolina, and hosted by the Charlotte Chess Center, Chess.com&#39;s official partner. The event starts on November 27 a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-us-masters-2024",
-         "pubDate" : "Mon, 23 Sep 2024 10:30:00",
-         "title" : "Announcing The 2024 US Masters Featuring GM Fabiano Caruana And Special Guest GM Daniel Naroditsky"
       },
       {
          "description" : "Many congratulations to Leonard Barden on his well-deserved FIDE award https://www.fide.com/news/3223 Leonard Barden's journalism has played a crucial role in promoting chess in both national and international media. He...",
@@ -1090,14 +1058,6 @@ news_feed (
          "title" : "Chess: India win every match at Olympiad as US and England trail"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Initial SafeSport core certification is valid for one year from the completion date. Consequently, if you completed your core course last fall, it's time to think about taking Refresher 1.<br /><br /> Refresher courses are required annually to maintain TD certification, and they must be taken within one year of the previous training completion date, with a 30-day grace period. (For example, if you completed your core training on October 1, 2023, your Refresher 1 course will need to be completed by October 31, 2024.) If this deadline is not met, your TD certification will be changed t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/information-regarding-required-annual-safesport-refresher-course",
-         "pubDate" : "Fri, 20 Sep 2024 00:00:00",
-         "title" : "Information Regarding Required Annual SafeSport Refresher Course"
-      },
-      {
          "description" : "The men's team's statement victory propelled Arjun Erigaisi and D Gukesh's rating close to the mark of 2800 and this is the first time ever that there are two Indians in top five of the world rankings.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1368,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3204",
          "pubDate" : "Thu, 12 Sep 2024 06:00:04",
          "title" : "Google announced as Title Sponsor of World Chess Championship Singapore 2024 "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3207",
-         "pubDate" : "Wed, 11 Sep 2024 21:46:10",
-         "title" : "45th Chess Olympiad: Smooth sailing for favorites in Round 1"
       }
    ]
 }
