@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman shows four games where she was White against the Scandinavian Defense, and won them all! The Scandinavian starts with 1.e4 d5. 2024.10.01<br /> Sara Herman vs. Senthi Ravichandra, 2022: B01 Scandinavian (centre counter) defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian, Pytel-Wade variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-you-escape-scandi-road-2000\"><im",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/can-you-escape-scandi-road-2000",
+         "pubDate" : "Wed, 02 Oct 2024 00:35:57",
+         "title" : "Can you Escape the Scandi? | Road to 2000"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 11-24, see 24 players across both tournaments (fields below) fight for more than a $400,000 prize fund. Can Caruana and Yip defend their titles? Tournament Details:<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-promo\"><i",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -352,14 +360,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess",
          "pubDate" : "Sat, 28 Sep 2024 18:34:02",
          "title" : "Don't Be Deceived - It's A TRAP!!!! #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Understand the position, and proceed the attack for white </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/proceed-caution-not-your-usual-tactic-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mEn6vDyLVH4.jpg?itok=WtQLNOd4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/proceed-caution-not-your-usual-tactic-chess-chesstactics-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 18:34:02",
-         "title" : "Proceed With Caution - This Is Not Your Usual Tactic! #chess #chesstactics #lichess"
       },
       {
          "description" : "GM Hikaru Nakamura is one win away from his 30th Bullet Brawl title after stringing together a 42-game winning streak during Saturday&#39;s event and claiming the $400 first prize. Nakamura&#39;s 75/78 performance earned him a score of 284, 16 points clea...",
