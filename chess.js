@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Would you like to be Chess Champion 2025? An exciting new competitive format show for the BBC is looking for players to battle it out on TV. If you're interested in being on the show, please get in touch with us at chessmasters@curvemedia.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/curve-media-launches-a-brand-new-tv-series-chess-masters-on-bbc",
+         "pubDate" : "Wed, 02 Oct 2024 20:00:00",
+         "title" : "Curve media launches a brand new tv series Chess Masters on BBC"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3240",
+         "pubDate" : "Wed, 02 Oct 2024 19:19:31",
+         "title" : "Top world chess stars gather in London for the Tech Mahindra Global Chess League"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Three times with the same opening, it&#039;s time for refutation by GM Yasser Seirawan against GM Boris Spassky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-spassky-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q7gWaAV-BnU.jpg?itok=1plAtuha\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-spassky-lichess",
+         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
+         "title" : "Spassky vs Seirawan: The Refutation #chess #chessopenings #chesscompetition #spassky #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Play on the queenside, on the center, and now on the kingside.<br /> Seirawan vs Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yassers-board-vision-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yassers-board-vision-chess-chesstactics-lichess",
+         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
+         "title" : "Yasser's Board Vision #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Be careful...looks can be deceiving </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/red-herringin-chess-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/red-herringin-chess-chess-chesstactics-lichess",
+         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
+         "title" : "A Red Herring...In Chess?! #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Understand the position, and proceed the attack for white </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-opponent-not-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mEn6vDyLVH4.jpg?itok=WtQLNOd4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/your-opponent-not-chess-chesstactics-lichess",
+         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
+         "title" : "Your Opponent IS Not Like #chess #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Having a little fun with NM Ralph Tan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamurais-you-chess-chesstactics-chesshumor-hikarunakamura-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lgMNdMz_v3o.jpg?itok=iupnya0R\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamurais-you-chess-chesstactics-chesshumor-hikarunakamura-lichess",
+         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
+         "title" : "Nakamura...Is That You?? #chess #chesstactics #chesshumor #hikarunakamura #lichess"
+      },
+      {
+         "description" : "Please find the Certificates here Sl No Candidate Name 1 Abilash G 2 Gokulavishnu R 3 Hemnath V 4 Balaji J 5 Gowri Sankar 6",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-sna-seminar-in-chennai-on-07-08-september-2024/",
+         "pubDate" : "Wed, 02 Oct 2024 16:09:02",
+         "title" : "Certificates of SNA Seminar in Chennai on 07 & 08 September 2024"
+      },
+      {
          "description" : "Freestyle Chess Operations GmbH announced three dates for the upcoming Freestyle Chess Grand Slam. The first tournament will start in February 2025 in Weissenhaus. This will be followed by the second tournament in New York in July and the final tournament in South Africa in December 2025. Magnus Carlsen will play in all three tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-three-dates-confirmed",
          "pubDate" : "Wed, 02 Oct 2024 16:00:00",
          "title" : "Freestyle Chess Grand Slam: Three dates confirmed"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Three times with the same opening, it&#039;s time for refutation by GM Yasser Seirawan against GM Boris Spassky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q7gWaAV-BnU.jpg?itok=1plAtuha\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-lichess",
+         "pubDate" : "Wed, 02 Oct 2024 15:36:22",
+         "title" : "Spassky vs Seirawan: The Refutation #chess #chessopenings #chesscompetition #lichess"
       },
       {
          "description" : "Please find the live link of &#160;30th Tamil Nadu IM norm tournament started on 30th Sep 2024. Live Link :&#160;https://live.tamilchess.com/30th-im-norm-coimbatore/",
@@ -32,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-the-chess-olympiad-2024-2",
          "pubDate" : "Wed, 02 Oct 2024 13:30:00",
          "title" : "Grivas on the Chess Olympiad 2024 (2)"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk and GM Magnus Carlsen won the first Titled Tuesdays of October on the first of the month. Bortnyk scored 10/11 early to win outright, while Carlsen scored 9.5/11 late and won on tiebreaks over GM Grigoriy Oparin, whom he also ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-carlsen-win-titled-tuesday-october-1-2024",
+         "pubDate" : "Wed, 02 Oct 2024 10:15:30",
+         "title" : "Carlsen Wins Another Titled Tuesday"
       },
       {
          "description" : "Magnus Carlsen secured victory in the Grand Final of the Julius Baer Generation Cup by defeating Alireza Firouzja with a 2&frac12;-1&frac12; score. Carlsen, who had already triumphed in the winners' bracket, drew the first three games before clinching the win in the fourth. Firouzja and Carlsen finished at the top of the Champions Chess Tour standings, earning spots in the prestigious in-person final event, which will be held in December in Oslo. They will join six other qualified participants in the battle for the series' title.",
@@ -282,22 +362,6 @@ news_feed (
          "title" : "Erdogmus Smashes Prestigious Rating Record, Receives Hero's Welcome Back Home"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Viewer FM Michigan Eagle has a little fun during Prepare Like A Pro </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/theyre-eating-catstheyre-eating-chess-chesshumor-politicalhumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FXpGS5RZF3U.jpg?itok=5oelPEBK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/theyre-eating-catstheyre-eating-chess-chesshumor-politicalhumor",
-         "pubDate" : "Sun, 29 Sep 2024 21:34:34",
-         "title" : "They're Eating The Cats...They're Eating... #chess #chesshumor #politicalhumor"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Having a little fun with NM Ralph Tan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamurais-you-chess-chesstactics-chesshumor-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lgMNdMz_v3o.jpg?itok=iupnya0R\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamurais-you-chess-chesstactics-chesshumor-lichess",
-         "pubDate" : "Sun, 29 Sep 2024 21:34:34",
-         "title" : "Nakamura...Is That You?? #chess #chesstactics #chesshumor #lichess"
-      },
-      {
          "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s Gran...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -338,30 +402,6 @@ news_feed (
          "title" : "Nepomniachtchi Wins 10th Gashimov Memorial"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> You can&#039;t just focus on one side of the chessboard. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-yasser-seirawan-tricked-his-opponent-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-yasser-seirawan-tricked-his-opponent-chess-chesstactics-lichess",
-         "pubDate" : "Sun, 29 Sep 2024 00:34:11",
-         "title" : "How Yasser Seirawan Tricked His Opponent #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Viewer FM Michigan Eagle has a little fun during Prepare Like A Pro </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/theyre-eating-catstheyre-eating-chess-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FXpGS5RZF3U.jpg?itok=5oelPEBK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/theyre-eating-catstheyre-eating-chess-chesshumor",
-         "pubDate" : "Sun, 29 Sep 2024 00:34:11",
-         "title" : "They're Eating The Cats...They're Eating... #chess #chesshumor"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Having a little fun with NM Ralph Tan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakais-you-chess-chesstactics-chesshumor-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lgMNdMz_v3o.jpg?itok=iupnya0R\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakais-you-chess-chesstactics-chesshumor-lichess",
-         "pubDate" : "Sun, 29 Sep 2024 00:34:11",
-         "title" : "Naka...Is That You?? #chess #chesstactics #chesshumor #lichess"
-      },
-      {
          "description" : " Grandmaster Maurice Ashley was spotted at the Chess Olympiad in Budapest, Hungary, but he told The Chess Drum that he was not there as a delegate or captain, but merely as a chess tourist. Most will know Ashley as one of the most visible commentators of the chess world, but he has taken a hiatus The post <a href=\"https://www.thechessdrum.net/blog/2024/09/28/maurice-ashley-discusses-new-chess-initiative/\">Maurice Ashley discusses new chess initiative</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -384,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-slu-virginia",
          "pubDate" : "Sat, 28 Sep 2024 21:21:00",
          "title" : "Virginia Upsets Top-Seeded Missouri, Saint Louis Defeats Athens"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Be careful...looks can be deceiving </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-be-deceived-its-trap-chess-chesstactics-lichess",
-         "pubDate" : "Sat, 28 Sep 2024 18:34:02",
-         "title" : "Don't Be Deceived - It's A TRAP!!!! #chess #chesstactics #lichess"
       },
       {
          "description" : "GM Hikaru Nakamura is one win away from his 30th Bullet Brawl title after stringing together a 42-game winning streak during Saturday&#39;s event and claiming the $400 first prize. Nakamura&#39;s 75/78 performance earned him a score of 284, 16 points clea...",
@@ -592,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-pakistan-team-holds-indian-flag-during-chess-olympiad-2024/articleshow/113701561.cms",
          "pubDate" : "Thu, 26 Sep 2024 11:27:07",
          "title" : "Viral Video: Pak team holds Indian flag during Chess Olympiad"
-      },
-      {
-         "description" : "Indian Team met with the Hon'ble Prime Minister of India on 25 Sept.2024.check here for some glimpses",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/meeting-with-honble-prime-minister/",
-         "pubDate" : "Thu, 26 Sep 2024 10:00:58",
-         "title" : "Meeting with Hon'ble Prime Minister"
       },
       {
          "description" : "The fourth and last online event of the Champions Chess Tour is underway, and soon, the full field of eight players will be all set for the finals. While we don&#39;t yet know who&#39;ll join GMs Magnus Carlsen, Alireza Firouzja, and Maxime Vachier-Lagrav...",
@@ -968,14 +992,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41376355/india-win-historic-gold-fide-chess-olympiad-2024-open-women-gukesh-arjun-erigaisi?device=featurephone",
          "pubDate" : "Sun, 22 Sep 2024 10:04:48",
          "title" : "India win historic double gold in FIDE Chess Olympiad 2024"
-      },
-      {
-         "description" : "GMs Gukesh Dommaraju, Arjun Erigaisi, and Praggnanandhaa Rameshbabu all won as the Indian men wrapped up victory in the 45th FIDE Chess Olympiad with a statement 3.5-0.5 win over Slovenia. They finished a full four points ahead of five teams, with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/budapest-2024-fide-chess-olympiad-india-wins",
-         "pubDate" : "Sun, 22 Sep 2024 09:06:00",
-         "title" : "India Clinches Historic Double Olympiad Gold"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 10Saturday, 21 September 2024 India close to making history! Open Wesley So (USA) set to face Rameshbabu Praggnanadhaa (IND)Photo by Daaim Shabazz/The Chess Drum Wow! In the penultimate round of the 2024 Chess Olympiad, India impressively beat the U.S. and has virtually clinched the gold medal. Wesley So opened with a The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/\">2024 Chess Olympiad: Round 10</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
