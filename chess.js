@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Freestyle Chess Operations GmbH announced three dates for the upcoming Freestyle Chess Grand Slam. The first tournament will start in February 2025 in Weissenhaus. This will be followed by the second tournament in New York in July and the final tournament in South Africa in December 2025. Magnus Carlsen will play in all three tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-three-dates-confirmed",
+         "pubDate" : "Wed, 02 Oct 2024 16:00:00",
+         "title" : "Freestyle Chess Grand Slam: Three dates confirmed"
+      },
+      {
+         "description" : "Please find the live link of &#160;30th Tamil Nadu IM norm tournament started on 30th Sep 2024. Live Link :&#160;https://live.tamilchess.com/30th-im-norm-coimbatore/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-of-30th-tamil-nadu-im-tournament-schedule/",
+         "pubDate" : "Wed, 02 Oct 2024 15:27:02",
+         "title" : "Live link of 30th Tamil Nadu IM Tournament Schedule"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/change-of-emailaicf-arbiter-commission/",
+         "pubDate" : "Wed, 02 Oct 2024 14:48:42",
+         "title" : "Change of Email:AICF Arbiters Commission"
+      },
+      {
+         "description" : "The Chess Olympiad 2024 in Budapest saw a lot of interesting games, many truely spectacular, and often quite instructive, especially for budding chess masters. Of the total of nearly 8,000 games, here are six treats, selected and annotated by international trainer Eftratios Grivas. Play through them and learn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-chess-olympiad-2024-2",
+         "pubDate" : "Wed, 02 Oct 2024 13:30:00",
+         "title" : "Grivas on the Chess Olympiad 2024 (2)"
+      },
+      {
          "description" : "Magnus Carlsen secured victory in the Grand Final of the Julius Baer Generation Cup by defeating Alireza Firouzja with a 2&frac12;-1&frac12; score. Carlsen, who had already triumphed in the winners' bracket, drew the first three games before clinching the win in the fourth. Firouzja and Carlsen finished at the top of the Champions Chess Tour standings, earning spots in the prestigious in-person final event, which will be held in December in Oslo. They will join six other qualified participants in the battle for the series' title.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-final-report",
          "pubDate" : "Wed, 02 Oct 2024 07:05:00",
          "title" : "Magnus Carlsen beats Alireza Firouzja to win Julius Baer Generation Cup"
+      },
+      {
+         "description" : "This October, five new (and familiar) faces have landed on Chess.com. Martin Krueger, Jack, Ghost Giri, Cramaline, and Beetlejuicer may seem like an unlikely group of friends&#38;mdash;but they all have one thing in common: a cunning passion for chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/halloween-bots",
+         "pubDate" : "Wed, 02 Oct 2024 07:00:00",
+         "title" : "It's Spooky Season: New Halloween Bots Have Appeared!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman shows four games from August 2022 where she was White against the Scandinavian Defense, and won them all! The Scandinavian starts with 1.e4 d5. 2024.10.01<br /> Sara Herman vs. Senthi Ravichandra, 2022: B01 Scandinavian (centre counter) defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian, Pytel-Wade variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-you-escape-scan",
@@ -570,14 +610,6 @@ news_feed (
          "title" : "Champions Chess Tour Finals To Happen In Oslo, Norway, With Live Audience"
       },
       {
-         "description" : "The All India Chess Federation's decision to announce a ₹3.2 crore reward for the Olympiad-winning teams reflects the growth of chess in the country. The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-announces-%e2%82%b93-2-crore-rewards-for-olympiad-winning-teams/",
-         "pubDate" : "Thu, 26 Sep 2024 08:05:47",
-         "title" : "AICF announces ₹3.2 crore rewards for Olympiad-winning teams"
-      },
-      {
          "description" : "Move over, record-breaking prodigies like GM Yagiz Kaan Erdogmus, IM Faustino Oro, and WFM Bodhana Sivanandan. Manuel Alvarez Escudero from Spain is 102 years old and celebrates eight (!) decades as a tournament player. He shows no signs of slowin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -658,20 +690,12 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
          "pubDate" : "Wed, 25 Sep 2024 00:00:00",
          "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 3"
-      },
-      {
-         "description" : "Please find the Live Link : https://live.tamilchess.com/29th-im-norm-coimbatore/ Playing schedule Round Date Time 1 2024/09/23 03.30 pm 2 2024/09/24 10.00 am 3 2024/09/24 03.30 pm 4 2024/09/25",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/lice-link-29th-tamil-nadu-im-tournament/",
-         "pubDate" : "Tue, 24 Sep 2024 09:37:30",
-         "title" : "Live link :29th Tamil Nadu IM Tournament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113616561.cms\" />The Indian chess team celebrated their double victory at the Chess Olympiad in Budapest by dancing to Queen's 'We Are The Champions.' Arjun Erigaisi was pivotal, winning nine games and drawing two. His performance helped India secure gold. Team camaraderie and strategic decisions were key factors in their success.",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3225",
          "pubDate" : "Sat, 21 Sep 2024 21:17:14",
          "title" : "45th Chess Olympiad: India dominates open; women's event goes down to the wire"
-      },
-      {
-         "description" : "GM Andrew Tang won his fourth Bullet Brawl&#38;nbsp;by a 20-point margin over GM Hikaru Nakamura. Tang began and ended on undefeated streaks to score 256 and&#38;nbsp;take home the $400 first prize. Nakamura won $250 for second place. IM Renato Terry ea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-september-21-2024",
-         "pubDate" : "Sat, 21 Sep 2024 13:34:00",
-         "title" : "Tang Wins 4th Bullet Brawl By 20-Point Margin Over Nakamura"
       },
       {
          "description" : "We all want exceptional results. So how can we get them? Most people think by doing exceptional things. I don't agree. Exceptional results often come from consistency and a focus on the basics. Solving positions with similar tactical motifs daily, analyzing even your worst games, and trying to play simple chess. These 3 methods have []",
