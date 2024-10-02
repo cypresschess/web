@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman shows four games where she was White against the Scandinavian Defense, and won them all! The Scandinavian starts with 1.e4 d5. 2024.10.01<br /> Sara Herman vs. Senthi Ravichandra, 2022: B01 Scandinavian (centre counter) defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian, Pytel-Wade variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-you-escape-scandi-road-2000\"><im",
+         "description" : "Magnus Carlsen secured victory in the Grand Final of the Julius Baer Generation Cup by defeating Alireza Firouzja with a 2&frac12;-1&frac12; score. Carlsen, who had already triumphed in the winners' bracket, drew the first three games before clinching the win in the fourth. Firouzja and Carlsen finished at the top of the Champions Chess Tour standings, earning spots in the prestigious in-person final event, which will be held in December in Oslo. They will join six other qualified participants in the battle for the series' title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-final-report",
+         "pubDate" : "Wed, 02 Oct 2024 07:05:00",
+         "title" : "Magnus Carlsen beats Alireza Firouzja to win Julius Baer Generation Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman shows four games from August 2022 where she was White against the Scandinavian Defense, and won them all! The Scandinavian starts with 1.e4 d5. 2024.10.01<br /> Sara Herman vs. Senthi Ravichandra, 2022: B01 Scandinavian (centre counter) defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian, Pytel-Wade variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-you-escape-scan",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/can-you-escape-scandi-road-2000",
@@ -42,20 +50,12 @@ news_feed (
          "title" : "Julius Baer Generation Cup 2024 - Games and Results"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on material imbalances. What happens when a player is up a pawn in the endgame? 2024.10.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-play-endgames-material-imbalance-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5yPLiqlW8dg.jpg?itok=ciNv3VtP\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on material imbalances. What happens when a player is up a pawn in the endgame? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-play-endgames-material-imbalance-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5yPLiqlW8dg.jpg?itok=ciNv3VtP\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-play-endgames-material-imbalance-grandmasters-choice-gm-illia-nyzhnyk",
          "pubDate" : "Tue, 01 Oct 2024 18:35:43",
          "title" : "How to Play Endgames with Material Imbalance | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
-         "description" : "The Grand Final of the Julius Baer Generation Cup will once again see a clash between Alireza Firouzja and Magnus Carlsen. If Carlsen, who beat Firouzja in the Division I final two days ago, wins the best-of-four match that starts the Grand Final, he will also win the tournament. If Firouzja wins this match, Carlsen will get a second chance as the two will play another match. And the winner of this second match will also be the winner of the tournament. Transmission starts at 17:00 CEST (11:00 ET). Follow the games live with commentary...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-generation-cup-live-2",
-         "pubDate" : "Tue, 01 Oct 2024 16:45:00",
-         "title" : "Julius Baer Generation Cup: Live"
       },
       {
          "description" : "The Julius Baer Generation Cup ends with the Grand Finals. In Division I Magnus Carlsen faces Alireza Firouzja who eliminated Levon Aronian in the final of the Losers Bracket, in Division II Wesley So faces Denis Lazavik, and in Division III Vincent Keymer and Fabiano Caruana battle it out. | Pictures: Chess.com",
@@ -130,7 +130,7 @@ news_feed (
          "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-2",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mark-crowther-celebrates-twics-30th-anniversary",
          "pubDate" : "Mon, 30 Sep 2024 21:11:00",
          "title" : "Mark Crowther Celebrates Anniversary: 'You Do It One Week At A Time, Then 30 Years Go By'"
-      },
-      {
-         "description" : "Ian Nepomniachtchi is the winner of the Vugar Gashimov Memorial in Shunsa, Azerbaijan. He won the rapid chess tournament and came second in the blitz - enough to take first place overall. The other two places on the podium were taken by Nodirbek Abdusattorov and Shakhriyar Mamedyarov. Richard Rapport, who started the tournament in second place after day one, finished last of the eight players. | Picture: gashimovchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ian-nepomniachtchi-wins-gashimov-memorial",
-         "pubDate" : "Mon, 30 Sep 2024 14:11:42",
-         "title" : "Ian Nepomniachtchi wins Gashimov Memorial"
       },
       {
          "description" : "We&#39;re a few days away from the second season of the Tech Mahindra Global Chess League 2024, taking place October 3-11 in London. GMs Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand, Hou Yifan, and Vaishali Rameshbabu are among the players in wh...",
@@ -378,22 +370,6 @@ news_feed (
          "title" : "Contrasting Wins For Carlsen, Firouzja; Attacking Masterpiece By Vachier-Lagrave"
       },
       {
-         "description" : "Eight top players start in the Vugar Gashimov Memorial in Azerbaijan to play blitz and rapid against each other. After the rapid tournament Ian Nepomniachtchi is in the lead and he will try to defend this lead in the blitz tournament today. It's a double round blitz 3+2 and all 14 rounds will be played today. The action starts at 15:00 local time (13:00 CEST, 5:00 ET). Follow the games live. | Photos: Shahid Ahmed (ChessBase India)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vugar-gashimov-memorial-live-2",
-         "pubDate" : "Sat, 28 Sep 2024 12:30:00",
-         "title" : "Vugar Gashimov Memorial - Blitz: Live"
-      },
-      {
-         "description" : "The new 2024/25 Bundesliga season begins this weekend in Kirchweyhe, a week before the official start. Team D&uuml;sseldorf, promoted from the 2. Bundesliga, had asked for an earlier start because many of their players are involved in the Global Chess League in London the following weekend. This suggests that the coming season will be one of the strongest, if not the strongest, ever. Countless top players hope to help a German club win this year's Bundesliga. A preview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-bundesliga-season-2024-25-is-about-to-begin-a-preview",
-         "pubDate" : "Sat, 28 Sep 2024 12:00:00",
-         "title" : "The new Bundesliga season 2024/25 is about to begin - a preview"
-      },
-      {
          "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -506,14 +482,6 @@ news_feed (
          "title" : "Ratings and Ratings Reports Issues (updated 9/30)"
       },
       {
-         "description" : "ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. In the new CBM Extra #221: Videos by Ivan Sokolov: Spanish with 4...Nge7 and 5...f6!? and Fabien Libiszewski: Kalashnikov Update. \"Lucky bag\" with 44 analyses by Anish Giri, Sergey Gritoriants, Michal Krasenkow and many more. Update Service with over 50,000 new games!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/neu-cbm-extra-4",
-         "pubDate" : "Thu, 26 Sep 2024 17:54:41",
-         "title" : "New: CBM Extra #221"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113710082.cms\" />Indian chess grandmaster R Praggnanandhaa expressed happiness after winning gold at the 45th Chess Olympiad and meeting Indian Prime Minister Narendra Modi. He emphasized the dedication behind this historic achievement for Indian chess. Both men's and women's teams secured gold, marking a significant milestone for India's chess community and inspiring future enthusiasts nationwide.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -536,14 +504,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html",
          "pubDate" : "Thu, 26 Sep 2024 15:38:00",
          "title" : "Historic Olympiad Yahoos"
-      },
-      {
-         "description" : "Peter Svidler is the winner of the 2024 Jerusalem Masters. On the second day of the rapid chess tournament, the St Petersburg-born player built on his strong performance from the day before to finish the tournament in first place, one point ahead of Jorden van Foreest and Daniil Dubov. | Photos: Tournament page / Dr. ML Photos",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svidler-wins-jerusalem-masters",
-         "pubDate" : "Thu, 26 Sep 2024 15:00:00",
-         "title" : "Svidler wins Jerusalem Masters"
       },
       {
          "description" : "",
@@ -594,14 +554,6 @@ news_feed (
          "title" : "Viral Video: Pak team holds Indian flag during Chess Olympiad"
       },
       {
-         "description" : "The Vugar Gashimov Memorial is being held in Azerbaijan for the 10th time in memory of the world-class Azerbaijani player who died at a young age. Eight top players will compete in a combined rapid and blitz tournament from 26-28 September. | Photos: Shahid Ahmed (ChessBase India)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-rapid-and-blitz-in-susha",
-         "pubDate" : "Thu, 26 Sep 2024 10:40:57",
-         "title" : "Gashimov Memorial: Rapid and Blitz in Susha"
-      },
-      {
          "description" : "Indian Team met with the Hon'ble Prime Minister of India on 25 Sept.2024.check here for some glimpses",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -616,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-2024-oslo",
          "pubDate" : "Thu, 26 Sep 2024 09:15:00",
          "title" : "Champions Chess Tour Finals To Happen In Oslo, Norway, With Live Audience"
-      },
-      {
-         "description" : "In this video lesson, you will learn how to search and find tens of thousands of deeply commented games by all the best players in the world. These include games by Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Garry Kasparov, Vishy Anand, and young guns like Gukesh, Erigaisi, Firouzja, and Abdussatorov! Endless entertainment and education as taught by the best chess players and chess teachers ever.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-tens-of-thousands-of-games-commented-by-carlsen-kasparov-anand-gukesh-and-more",
-         "pubDate" : "Thu, 26 Sep 2024 08:12:16",
-         "title" : "Chessbase in Minutes: A thousand books commented by Carlsen, Gukesh, and more!"
       },
       {
          "description" : "The All India Chess Federation's decision to announce a ₹3.2 crore reward for the Olympiad-winning teams reflects the growth of chess in the country. The",
@@ -666,14 +610,6 @@ news_feed (
          "title" : "Watch: PM Modi enjoys chess showdown between Pragg and Erigaisi"
       },
       {
-         "description" : "This is what winners look like. At the end of the Chess Olympiad, Arne Kaehler brought the gold medallists in front of the ChessBase camera: Gukesh, Arjun, Vidit, Harikrishna and Divya shared their thoughts and answered to Arne's tricky questions!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-interviews-india",
-         "pubDate" : "Wed, 25 Sep 2024 16:25:00",
-         "title" : "ChessBase TV presents: The champions! - Interviews with Gukesh, Arjun, Vidit, Divya, etc."
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113674067.cms\" />The All India Chess Federation declared Rs 3.2 crore in rewards for India's historic Chess Olympiad victory. Each player will receive Rs 25 lakh, with additional amounts for captains and coaches. This twin gold medal win in Budapest is seen as a significant milestone that could spark a chess revolution in India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-play-in",
          "pubDate" : "Wed, 25 Sep 2024 12:58:00",
          "title" : "Fedoseev Wins Play-in, Triumphs In Final Round With Black Win Vs. Wesley So"
-      },
-      {
-         "description" : "The Chess Federation of Israel is currently organising a chess festival in Jerusalem. The headliner of the event is a rapid chess invitational tournament. An open will also be played. At the end of the three-day event, 1000 chess fans will compete against 50 master players in a simultaneous match. | Follow the action live starting at 13.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jerusalem-masters-2024-live",
-         "pubDate" : "Wed, 25 Sep 2024 12:45:00",
-         "title" : "Jerusalem Masters: Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113666283.cms\" />Grandmaster Vidit Gujrathi, after helping India win its first Chess Olympiad gold, decided not to defend his title at the Vugar Gashimov Memorial Chess Super Tournament in Azerbaijan. Instead, he returned to India for a felicitation with Prime Minister Narendra Modi. Aravindh Chithambaram will replace him in the tournament.",
@@ -1032,14 +960,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-10/",
          "pubDate" : "Sun, 22 Sep 2024 02:19:24",
          "title" : "2024 Chess Olympiad: Round 10"
-      },
-      {
-         "description" : "It will roll into the UK capital London on October 3rd-12th. The Tech Mahindra Global Chess League will be stages in the Theatre of the Friends House, Euston Road and will include Carlsen, Nakamura, Anand, Praggnanandhaa, Vachier-Lagrave, Giri, Rapport, Hou Yifan, and many other superstars. Tickets can be obtained from Chess & Bridge. Definitely worth a visit. Announcement by Matt Read",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-in-london",
-         "pubDate" : "Sat, 21 Sep 2024 22:30:00",
-         "title" : "Global Chess League in London"
       },
       {
          "description" : " 2024 Chess Olympiad: Round 9Friday, 20 September 2024 Open In Round 9, India was slowed as it was held for the first time by Uzbekistan in a 2-2 result. That match had a bit of controversy as Vladimir Kramnik complained about the presence of phones used to record the match by ChessBase India. These phones The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-9/\">2024 Chess Olympiad: Round 9</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
