@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "PBG Alaskan Knights made a fantastic start by defeating the defending champions, Triveni Continental Kings, on the first day of Tech Mahindra Global Chess League 2024. The inaugural edition's bottom finisher made a roaring start by registering a 3-0 (15-3) win. Nodirbek Abdusattorov, Shakhriyar Mamedyarov and Nihal Sarin ensured the team's success. American Gambits and Alpine SG Pipers also won their first matches. The league CEO, Sameer Pathak, made the inaugural move. Tomorrow is the first of three days when four matches will be played, starting with upGrad Mumba Masters vs Ganges Grandmasters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gcl-day-1-alaskan-knights-squash-the-defending-champions-continental-kings",
+         "pubDate" : "Fri, 04 Oct 2024 00:40:00",
+         "title" : "GCL Day 1: The Alaskan Knights crush the Continental Kings"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shocker-us-chess-champ-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shocker-us-chess-champ-fabiano-caruana-vs-julian-proleiko",
+         "pubDate" : "Thu, 03 Oct 2024 21:37:26",
+         "title" : "SHOCKER! U.S. Chess Champ Fabiano Caruana vs. Julian Proleiko"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the first three rounds. Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AzrX2EuvpTQ.jpg?itok=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-1",
+         "pubDate" : "Thu, 03 Oct 2024 21:37:26",
+         "title" : "2024 Chess 9LX: Day 1"
+      },
+      {
          "description" : "The tenth edition of the Ibero-American Chess Championship came to a close on Tuesday at the Hotel RL An&iacute;bal in Linares, Spain. Alan Pichot, the Argentine-born GM now representing Spain, was the sole winner after obtaining 7&frac12;/9 points. IM Daniel Garc&iacute;a from Spain and GM Santiago Ávila from Colombia grabbed second and third place, respectively. IM Sabrina Vega, an 8-time women's Spanish champion, was the top scorer among the women participants, while IM Diego Flores from Per&uacute; finished first among the juniors. | Photos: FEDA (Spanish Chess Federation)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -13,24 +37,24 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3242",
+         "pubDate" : "Thu, 03 Oct 2024 19:39:17",
+         "title" : "Global Chess League 2024 - Day 1 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3241",
          "pubDate" : "Thu, 03 Oct 2024 18:30:13",
          "title" : "Tickets for FIDE World Chess Championship Match 2024 are now on sale!"
-      },
-      {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Thu, 03 Oct 2024 13:50:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "Beating reigning champions Triveni Continental Kings with a dominating 15-3 score, the PBG Alaskan Knights started the Tech Mahindra Global Chess League&#39;s second season impressively. The no-increment time control of 20 minutes for the whole game s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-1",
-         "pubDate" : "Thu, 03 Oct 2024 11:59:50",
+         "pubDate" : "Thu, 03 Oct 2024 11:59:00",
          "title" : "Giri's Alaskan Knights Impress On 2024 Global Chess League Opening Day"
       },
       {
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2024-format",
          "pubDate" : "Thu, 03 Oct 2024 00:25:00",
          "title" : "Global Chess League: Format, schedule, participants"
+      },
+      {
+         "description" : "Byes are given out to players for games not played. Sometimes it is a full-point bye. Sometimes it is a half-point bye. Occasionally a zero-point bye creeps into that mix. And then there is the bye you pick up as a substitute for your just completed game. Check out two such scenarios where this could happen, and what to do if it does:<br> <br> <br> <br> Converting an OTB Victory into a Bye?!<br> <br> \"PAIRINGS ARE UP,\" is the shout heard around the tournament site. Wood-pushers are drawn to those posted match-ups like a hungry person drawn to a Vegas buffet. You find that you are at board 17 essaying the black pieces against an unrated opponent: it is their first event.<br> <br> When all is ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-finished-game-gets-scored-bye",
+         "pubDate" : "Thu, 03 Oct 2024 00:00:00",
+         "title" : "Just the Rules: A Finished Game Gets Scored as a Bye?!"
       },
       {
          "description" : "",
@@ -202,7 +234,7 @@ news_feed (
          "title" : "Wednesday Workout: 45th Olympiad, Pt. 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 11-24, see 24 players across both tournaments (fields below) fight for more than a $400,000 prize fund. Can Caruana and Yip defend their titles? Tournament Details:<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-promo\"><i",
+         "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 11-24, see 24 players across both tournaments (fields below) fight for more than a $400,000 prize fund. Can Caruana and Yip defend their titles? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/publ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-promo",
@@ -232,14 +264,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2024",
          "pubDate" : "Tue, 1 Oct 2024 18:56:00",
          "title" : "Julius Baer Generation Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on material imbalances. What happens when a player is up a pawn in the endgame? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-play-endgames-material-imbalance-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5yPLiqlW8dg.jpg?itok=ciNv3VtP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-play-endgames-material-imbalance-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Tue, 01 Oct 2024 18:35:43",
-         "title" : "How to Play Endgames with Material Imbalance | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
          "description" : "The ECF grassroots initiative was launched on 16th July this year (on the ECF website and in the July edition of ChessMoves). The fund is intended to be a multi-year...",
@@ -304,14 +328,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/15th-continental-womens-chess-championships-2024-announced",
          "pubDate" : "Tue, 01 Oct 2024 00:00:00",
          "title" : "15th Continental Women's Chess Championships 2024 Announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> US Champion Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champion-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/us-champion-fabiano-caruana-vs-julian-proleiko",
-         "pubDate" : "Mon, 30 Sep 2024 21:35:03",
-         "title" : "US Champion Fabiano Caruana vs Julian Proleiko"
       },
       {
          "description" : "Mark Crowther, the founder of The Week in Chess (TWIC), single-handedly changed the chess landscape in the 90s and has provided an invaluable free resource for chess enthusiasts and professionals for 30 years. He has no plans of slowing down. Si...",
@@ -1050,14 +1066,6 @@ news_feed (
          "title" : "Can India win gold in the Chess Olympiad 2024?"
       },
       {
-         "description" : "Editor's note: This report covers rounds seven through ten of the 45th FIDE Chess Olympiad. Part two can be found here and part one here. The final round will take place Sunday, September 22, at 4:00 a.m. CDT (four hours earlier than previous rounds). <br> <br> <br> The rounds following the rest day of the 45th FIDE Chess Olympiad saw both American teams start in a similar situation. Having each dropped a match earlier in the tournament, each team could expect a couple of rounds on slightly lower boards. Hopefully, good results would give them some shots at the tournament leaders, and, hopefully, no team would run away with the tournament before that happened! Below is a quick recap of each ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/olympiad-recap-part-three-american-teams-get-their-shots-against-leaders",
-         "pubDate" : "Sat, 21 Sep 2024 00:00:00",
-         "title" : "Olympiad Recap Part Three: American Teams Get Their Shots Against the Leaders"
-      },
-      {
          "description" : "Despite the draw, Indian men still have a two-point lead, scoring 17 out of 18 with two more rounds to go.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1304,22 +1312,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41239289/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-2-report?device=featurephone",
          "pubDate" : "Fri, 13 Sep 2024 00:32:25",
          "title" : "Chess Olympiad 2024: Gukesh leads India past Iceland, Harika and co. beat Czechia on day 2"
-      },
-      {
-         "description" : "Rameshbabu Praggnanandhaa and Rameshbabu Vaishali led India's teams to wins on the opening day of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41226332/chess-olympiad-2024-praggnanandhaa-vaishali-gukesh-harika-winning-start?device=featurephone",
-         "pubDate" : "Thu, 12 Sep 2024 23:09:01",
-         "title" : "Chess Olympiad 2024: Praggnanandhaa, Vaishali get India off to winning start"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3209",
-         "pubDate" : "Thu, 12 Sep 2024 20:28:33",
-         "title" : "45th Chess Olympiad R02: Norway struggles without Carlsen, top teams lose board points"
       }
    ]
 }
