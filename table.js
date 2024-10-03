@@ -1,7 +1,9 @@
 jtable([
+"HOUSTON","2024-09-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202409289282 target='_blank'>ADULTS ONLY SEPT 28TH  SATURDAY SWI</a>",
 "HOUSTON","2024-09-28","16","<a href=http://www.uschess.org/msa/XtblMain.php?202409289222 target='_blank'>CHESSPANDA09282024SATURDAY</a>",
 "SUGAR LAND","2024-09-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409277982 target='_blank'>FBCC 2024 NATIONAL SCARF DAY OPEN</a>",
 "SPRING","2024-09-27","31","<a href=http://www.uschess.org/msa/XtblMain.php?202409277822 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2024-09-27","39","<a href=http://www.uschess.org/msa/XtblMain.php?202409270592 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-09-03  - 09-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202409246352 target='_blank'>SEPTEMBER 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-09-21  - 09-22","24","<a href=http://www.uschess.org/msa/XtblMain.php?202409224742 target='_blank'>U2400 + A BLITZ - SEPT. 2024</a>",
 "HOUSTON","2024-09-21","110","<a href=http://www.uschess.org/msa/XtblMain.php?202409214012 target='_blank'>TCR: HOUSTON SCHOLASTIC TEAM CHAMPIONSHIP 2024</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2024-02-25","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402256592 target='_blank'>CYGA02252024</a>",
 "HOUSTON","2024-02-25","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402256342 target='_blank'>EVENT NAME MISSING</a>",
 "HOUSTON","2024-02-24","238","<a href=http://www.uschess.org/msa/XtblMain.php?202402245852 target='_blank'>2024 DEBAKEY CHESS TOURNAMENT</a>",
-"HOUSTON","2024-02-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202402245262 target='_blank'>FEBRUARY 24TH SATURDAY SWISS AT NOO</a>",
-"HOUSTON","2024-02-24","44","<a href=http://www.uschess.org/msa/XtblMain.php?202402245012 target='_blank'>PISD FEB 2024- FEB 2024 HS</a>",
 ]);
