@@ -146,7 +146,7 @@ news_feed (
          "title" : "Can you Escape the Scandi? | Road to 2000"
       },
       {
-         "description" : "This week's Wednesday Workout begins a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. India won gold in both the Open and Women's events, and Team USA won silver in the Open and bronze in the Women's event. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on mating attacks and defensive resources.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download ou",
+         "description" : "This week's Wednesday Workout begins a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. India won gold in both the Open and Women's events, and Team USA won silver in the Open and bronze in the Women's event. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on mating attacks and defensive resources.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-45th-olympiad-pt-1",
@@ -1312,22 +1312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-stars-conquering-the-chess-world",
          "pubDate" : "Thu, 12 Sep 2024 12:48:45",
          "title" : "Asian stars conquering the chess world"
-      },
-      {
-         "description" : "Be inspired in Budapest as greatness unites from every corner of the globe for the 45th FIDE Chess Olympiad. Team Uzbekistan and Team Ukraine prepare to defend their titles from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/45th-fide-chess-olympiad-now-live/",
-         "pubDate" : "Thu, 12 Sep 2024 06:42:00",
-         "title" : "45th FIDE Chess Olympiad - now live!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3204",
-         "pubDate" : "Thu, 12 Sep 2024 06:00:04",
-         "title" : "Google announced as Title Sponsor of World Chess Championship Singapore 2024 "
       }
    ]
 }
