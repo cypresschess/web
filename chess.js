@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Thu, 03 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "Round 1 was the main source for Robert Ris to find plenty of Underdog upsets at the Olympiad in Budapest. One game in particular was not only a big surprise result, but also interesting in many ways. Yakubboev, Nodirbek vs. Cabralis, Quinn! Roughly 500 rating points difference, didn't scare the man from Trinidad & Tobago, and he pursued a fabulous game against his opponent of the Bronze Medal-winning team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cabralis-olympiad-upset-against-yakubboev-the-underdog",
+         "pubDate" : "Thu, 03 Oct 2024 12:00:00",
+         "title" : "Cabralis Olympiad upset against Yakubboev! - The Underdog"
+      },
+      {
+         "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Ian Nepomniachtchi (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (P",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
+         "pubDate" : "Thu, 3 Oct 2024 11:41:00",
+         "title" : "TechM Global Chess League 2024 - Games and Results"
+      },
+      {
+         "description" : "It is the best known and least talked about aspect of the forthcoming title match for the World Championship: the current form of Ding Liren and what it may mean for the match itself. While everyone has an opinion, all of it has really been confined to speculation. Singaporean news source The Straits Times talked with Ding Liren, who opened up on the topic. | Credit: Maria Emelianova/chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-opens-up-on-mental-struggles",
+         "pubDate" : "Thu, 03 Oct 2024 10:00:00",
+         "title" : "Ding Liren opens up on mental struggles"
+      },
+      {
+         "description" : "Please find the live links here https://live.tamilchess.com/nwcc2024/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-50th-national-women-chess-championship-2024/",
+         "pubDate" : "Thu, 03 Oct 2024 07:51:25",
+         "title" : "Live Games Link for 50th National Women Chess Championship 2024"
+      },
+      {
+         "description" : "GM Zenon Franco Ocampos, the first Paraguayan grandmaster and a legendary author and chess coach, has passed away at the age of 68. He died in a hospital in Vigo, Spain on Tuesday, October 1 after suffering a heart attack. Franco was born in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/zenon-franco-obituary",
+         "pubDate" : "Thu, 03 Oct 2024 02:54:00",
+         "title" : "GM Zenon Franco, 1956-2024"
+      },
+      {
          "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. Organised by Tech Mahindra Global and FIDE, the team-based tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. With a US$ 1 million prize fund at stake, the competition will follow a double round-robin format, leading to a final showdown between the top two teams. An innovative scoring system and fast-paced time control promise an action-packed event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,7 +194,7 @@ news_feed (
          "title" : "Can you Escape the Scandi? | Road to 2000"
       },
       {
-         "description" : "This week's Wednesday Workout begins a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. India won gold in both the Open and Women's events, and Team USA won silver in the Open and bronze in the Women's event. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on mating attacks and defensive resources.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><",
+         "description" : "This week's Wednesday Workout begins a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. India won gold in both the Open and Women's events, and Team USA won silver in the Open and bronze in the Women's event. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on mating attacks and defensive resources.<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-45th-olympiad-pt-1",
@@ -234,7 +282,7 @@ news_feed (
          "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.<br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-2",
@@ -242,7 +290,7 @@ news_feed (
          "title" : "Tactics Tuesday: Paris Speed Chess Champs, Pt. 2"
       },
       {
-         "description" : "We welcome Jeff French as the new editor. It is ironic that Jeff was a student and chess club member of Alex Dunne's in high school in northeast Pennsylvania. He also played Alex in over-the-board games. He contributed to the online Chess Life memorial for Alex.<br /><br /> Jeff has played chess for over 50 years, since he was 11 years old. In 2014, Jeff's chess journalist career began when he became the Texas Knights editor for the Texas Chess Association. In 2018, after editing 27 issues, he had to resign as editor due to professional career requirements. But, after retiring from that career in late 2021, and then trying his hand at mobile application development, he returned in 2022 as th",
+         "description" : "We welcome Jeff French as the new editor. It is ironic that Jeff was a student and chess club member of Alex Dunne's in high school in northeast Pennsylvania. He also played Alex in over-the-board games. He contributed to the online Chess Life memorial for Alex.<br> <br> Jeff has played chess for over 50 years, since he was 11 years old. In 2014, Jeff's chess journalist career began when he became the Texas Knights editor for the Texas Chess Association. In 2018, after editing 27 issues, he had to resign as editor due to professional career requirements. But, after retiring from that career in late 2021, and then trying his hand at mobile application development, he returned in 2022 as the T",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/check-mail-october-whats-new-old",
@@ -250,7 +298,7 @@ news_feed (
          "title" : "Check is in the Mail, October: What's New is Old!"
       },
       {
-         "description" : "The 15th Continental Women's Chess Championship of the Americas 2024 will be held November 23-30, 2024 at the Dominican Olympic Hostel (Albergue Olimpico Dominicano) in Dominican Republic. The event, organized by the Chess Confederation of the Americas and the Dominican Chess Federation is open to all American continent chess federation women players.<br /><br /> This is an nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $5,500 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.<br /><",
+         "description" : "The 15th Continental Women's Chess Championship of the Americas 2024 will be held November 23-30, 2024 at the Dominican Olympic Hostel (Albergue Olimpico Dominicano) in Dominican Republic. The event, organized by the Chess Confederation of the Americas and the Dominican Chess Federation is open to all American continent chess federation women players.<br> <br> This is an nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $5,500 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.<br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/15th-continental-womens-chess-championships-2024-announced",
@@ -442,14 +490,6 @@ news_feed (
          "title" : "Certificates of Senior National Arbiter Examination held at Thoothukudi on 31st August and 1st September 2024."
       },
       {
-         "description" : "Himachal Pradesh State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-held-in-shimla-on-14-15-september-2024/",
-         "pubDate" : "Sat, 28 Sep 2024 06:20:17",
-         "title" : "Final report of Senior National Arbiter Seminar & Examination held in Shimla on 14 & 15 September 2024"
-      },
-      {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -522,7 +562,7 @@ news_feed (
          "title" : "2024 Chess Olympiad: Round 11"
       },
       {
-         "description" : "Current status (9/30)<br /><br /> All reports indicate that the issues related to ratings, rating reports, correspondence chess, and national event registration are now over. These functions should be working normally.<br /><br /> What happened?<br /><br /> We underwent some technical difficulties related to tournament report uploads and ratings.<br /><br /> Other problems included national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br /><br /> All other US Chess functions were working.<br /><br /> Why did this happen?<br /><br /> The servers that host these functions are located in an area affected by Hurricane",
+         "description" : "Current status (9/30)<br> <br> All reports indicate that the issues related to ratings, rating reports, correspondence chess, and national event registration are now over. These functions should be working normally.<br> <br> What happened?<br> <br> We underwent some technical difficulties related to tournament report uploads and ratings.<br> <br> Other problems included national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br> <br> All other US Chess functions were working.<br> <br> Why did this happen?<br> <br> The servers that host these functions are located in an area affected by Hurricane Helene. This is why ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-updated-929",
@@ -690,7 +730,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       },
       {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid & Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid &amp; Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.<br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
@@ -714,7 +754,7 @@ news_feed (
          "title" : "In Olympic year, India's big gold"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we take a look at the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. The games were played online, but with competitors in the same location in front of a live crowd in Paris, France. GM Magnus Carlsen won both of his matches, and GM Hikaru Nakamura won his third-place match against GM Hans Niemann. French GM Alireza Firouzja finished second.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet, or solve along with our interactive study.<br /><br /> ",
+         "description" : "For this week's Tactics Tuesday, we take a look at the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. The games were played online, but with competitors in the same location in front of a live crowd in Paris, France. GM Magnus Carlsen won both of his matches, and GM Hikaru Nakamura won his third-place match against GM Hans Niemann. French GM Alireza Firouzja finished second.<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.<br> <br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-1",
@@ -752,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-training-and-strategy",
          "pubDate" : "Mon, 23 Sep 2024 11:00:00",
          "title" : "Chess training and strategy"
-      },
-      {
-         "description" : "Russian and Belarusian chess teams will remain banned, the International Chess Federation (FIDE) decided at the General Assembly on Sunday. Instead, delegates voted in favor of a motion to consider lifting some restrictions for vulnerable groups. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-votes-to-maintain-russian-belarusian-sanctions",
-         "pubDate" : "Mon, 23 Sep 2024 10:44:00",
-         "title" : "'Crushing Defeat' For Russia, Belarus as FIDE Votes To Maintain Sanctions"
       },
       {
          "description" : "Many congratulations to Leonard Barden on his well-deserved FIDE award https://www.fide.com/news/3223 Leonard Barden's journalism has played a crucial role in promoting chess in both national and international media. He...",
@@ -858,7 +890,7 @@ news_feed (
          "title" : "'In celebration mode since yesterday': Gukesh after India win Chess Olympiad gold"
       },
       {
-         "description" : "The 45th FIDE Olympiad concluded on Sunday, September 22 after eleven rounds of matches showcasing the best players of almost 200 countries in each of the Open and Women's events. When all was said and done, India took home the gold in both events, with the Americans defeating China 2&frac12; - 1&frac12; in the Open to claim a silver medal and tying Kazakhstan to earn bronze in the Women's.<br /><br /> This was the Women's team first medal in 16 years, punctuated by an emphatic 10/11 performance on board two from IM Carissa Yip. The well-deserved individual gold paired nicely with IM Alice Lee's individual silver for her board four score of 8/10. Neither Yip nor Lee lost any of their combine",
+         "description" : "The 45th FIDE Olympiad concluded on Sunday, September 22 after eleven rounds of matches showcasing the best players of almost 200 countries in each of the Open and Women's events. When all was said and done, India took home the gold in both events, with the Americans defeating China 2&frac12; - 1&frac12; in the Open to claim a silver medal and tying Kazakhstan to earn bronze in the Women's.<br> <br> This was the Women's team first medal in 16 years, punctuated by an emphatic 10/11 performance on board two from IM Carissa Yip. The well-deserved individual gold paired nicely with IM Alice Lee's individual silver for her board four score of 8/10. Neither Yip nor Lee lost any of their combined 2",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/two-team-three-individual-medals-americans-india-takes-double-gold-45th-fide-olympiad",
@@ -866,7 +898,7 @@ news_feed (
          "title" : "Two Team, Three Individual Medals for Americans as India Takes Double Gold at 45th FIDE Olympiad"
       },
       {
-         "description" : "US Chess Electronic Device Certification Policy<br /><br /> Update: The attached document is current as of September 23, 2024, and includes updates to the list of approved devices<br /><br /> On February 2, 2020, the US Chess Executive Board approved a new policy for the certification of certain electronic devices-e.g., scoresheets and game-broadcasting systems. The new policy is broader than its predecessor and provides more detailed guidance to manufacturers. It also establishes the foundation for a two-part certification process to assure a candidate device adheres to the rules of chess and to assess a device's resistance to various forms of tampering. Download the current version of the ",
+         "description" : "US Chess Electronic Device Certification Policy<br> <br> Update: The attached document is current as of September 23, 2024, and includes updates to the list of approved devices<br> <br> On February 2, 2020, the US Chess Executive Board approved a new policy for the certification of certain electronic devices-e.g., scoresheets and game-broadcasting systems. The new policy is broader than its predecessor and provides more detailed guidance to manufacturers. It also establishes the foundation for a two-part certification process to assure a candidate device adheres to the rules of chess and to assess a device's resistance to various forms of tampering. Download the current version of the policy",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/rules/us-chess-electronic-device-certification-policy",
@@ -1026,7 +1058,7 @@ news_feed (
          "title" : "Can India win gold in the Chess Olympiad 2024?"
       },
       {
-         "description" : "Editor's note: This report covers rounds seven through ten of the 45th FIDE Chess Olympiad. Part two can be found here and part one here. The final round will take place Sunday, September 22, at 4:00 a.m. CDT (four hours earlier than previous rounds). <br /><br /> The rounds following the rest day of the 45th FIDE Chess Olympiad saw both American teams start in a similar situation. Having each dropped a match earlier in the tournament, each team could expect a couple of rounds on slightly lower boards. Hopefully, good results would give them some shots at the tournament leaders, and, hopefully, no team would run away with the tournament before that happened! Below is a quick recap of each te",
+         "description" : "Editor's note: This report covers rounds seven through ten of the 45th FIDE Chess Olympiad. Part two can be found here and part one here. The final round will take place Sunday, September 22, at 4:00 a.m. CDT (four hours earlier than previous rounds). <br> <br> <br> The rounds following the rest day of the 45th FIDE Chess Olympiad saw both American teams start in a similar situation. Having each dropped a match earlier in the tournament, each team could expect a couple of rounds on slightly lower boards. Hopefully, good results would give them some shots at the tournament leaders, and, hopefully, no team would run away with the tournament before that happened! Below is a quick recap of each ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/olympiad-recap-part-three-american-teams-get-their-shots-against-leaders",
@@ -1128,14 +1160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/",
          "pubDate" : "Tue, 17 Sep 2024 20:22:41",
          "title" : "2024 Chess Olympiad: Round 6"
-      },
-      {
-         "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Ian Nepomniachtchi (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (P",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
-         "pubDate" : "Tue, 17 Sep 2024 16:13:00",
-         "title" : "TechM Global Chess League 2024 - Games and Results"
       },
       {
          "description" : "Six rounds have been played at the 45th Chess Olympiad in Budapest, Hungary, and India emerged as the sole leader of both sections scoring perfect 12/12 match points. Indian team in the Open section scored a convincing 3-1 win over Hungary yesterday, to head into today's free day as the sole leader of the event. Vietnam, China, and Iran are following with the score of 11 match points, while as many as 10 teams score 10 match points. Taking a []",
@@ -1304,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3209",
          "pubDate" : "Thu, 12 Sep 2024 20:28:33",
          "title" : "45th Chess Olympiad R02: Norway struggles without Carlsen, top teams lose board points"
-      },
-      {
-         "description" : "Deutsche Welle is a German public international broadcaster that produces news and information to a global audience in 30 languages. This week they had an article on the domination of a new generation of young Asian superstars in chess. The favourites at the Chess Olympiad in Budapest, according to DW, are China, India and Uzbekistan. Only the US have a chance to compete with them.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asian-stars-conquering-the-chess-world",
-         "pubDate" : "Thu, 12 Sep 2024 12:48:45",
-         "title" : "Asian stars conquering the chess world"
       }
    ]
 }
