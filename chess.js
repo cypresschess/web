@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Ibero-American Chess Championship came to a close on Tuesday at the Hotel RL An&iacute;bal in Linares, Spain. Alan Pichot, the Argentine-born GM now representing Spain, was the sole winner after obtaining 7&frac12;/9 points. IM Daniel Garc&iacute;a from Spain and GM Santiago Ávila from Colombia grabbed second and third place, respectively. IM Sabrina Vega, an 8-time women's Spanish champion, was the top scorer among the women participants, while IM Diego Flores from Per&uacute; finished first among the juniors. | Photos: FEDA (Spanish Chess Federation)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ibero-american-championship-2024-report",
+         "pubDate" : "Thu, 03 Oct 2024 20:50:00",
+         "title" : "Ibero-American Championship: Alan Pichot captures title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3241",
+         "pubDate" : "Thu, 03 Oct 2024 18:30:13",
+         "title" : "Tickets for FIDE World Chess Championship Match 2024 are now on sale!"
+      },
+      {
          "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Global Chess League - Live!"
       },
       {
-         "description" : "Round 1 was the main source for Robert Ris to find plenty of Underdog upsets at the Olympiad in Budapest. One game in particular was not only a big surprise result, but also interesting in many ways. Yakubboev, Nodirbek vs. Cabralis, Quinn! Roughly 500 rating points difference, didn't scare the man from Trinidad & Tobago, and he pursued a fabulous game against his opponent of the Bronze Medal-winning team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cabralis-olympiad-upset-against-yakubboev-the-underdog",
-         "pubDate" : "Thu, 03 Oct 2024 12:00:00",
-         "title" : "Cabralis Olympiad upset against Yakubboev! - The Underdog"
+         "description" : "Beating reigning champions Triveni Continental Kings with a dominating 15-3 score, the PBG Alaskan Knights started the Tech Mahindra Global Chess League&#39;s second season impressively. The no-increment time control of 20 minutes for the whole game s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-1",
+         "pubDate" : "Thu, 03 Oct 2024 11:59:50",
+         "title" : "Giri's Alaskan Knights Impress On 2024 Global Chess League Opening Day"
       },
       {
          "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Ian Nepomniachtchi (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (P",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Certificates of SNA Seminar in Chennai on 07 & 08 September 2024"
       },
       {
-         "description" : "Freestyle Chess Operations GmbH announced three dates for the upcoming Freestyle Chess Grand Slam. The first tournament will start in February 2025 in Weissenhaus. This will be followed by the second tournament in New York in July and the final tournament in South Africa in December 2025. Magnus Carlsen will play in all three tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-three-dates-confirmed",
-         "pubDate" : "Wed, 02 Oct 2024 16:00:00",
-         "title" : "Freestyle Chess Grand Slam: Three dates confirmed"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Three times with the same opening, it&#039;s time for refutation by GM Yasser Seirawan against GM Boris Spassky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q7gWaAV-BnU.jpg?itok=1plAtuha\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-6-things-we-learned",
          "pubDate" : "Wed, 02 Oct 2024 13:52:00",
          "title" : "6 Things We Learned - Julius Baer Generation Cup 2024"
-      },
-      {
-         "description" : "The Chess Olympiad 2024 in Budapest saw a lot of interesting games, many truely spectacular, and often quite instructive, especially for budding chess masters. Of the total of nearly 8,000 games, here are six treats, selected and annotated by international trainer Eftratios Grivas. Play through them and learn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-chess-olympiad-2024-2",
-         "pubDate" : "Wed, 02 Oct 2024 13:30:00",
-         "title" : "Grivas on the Chess Olympiad 2024 (2)"
       },
       {
          "description" : "GM Oleksandr Bortnyk and GM Magnus Carlsen won the first Titled Tuesdays of October on the first of the month. Bortnyk scored 10/11 early to win outright, while Carlsen scored 9.5/11 late and won on tiebreaks over GM Grigoriy Oparin, whom he also ...",
@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
          "pubDate" : "Mon, 23 Sep 2024 18:03:00",
          "title" : "45th World Chess Olympiad 2024 - Games and Results"
-      },
-      {
-         "description" : "India is the future of chess and the future is now. That&#39;s one summary of the 45th FIDE Chess Olympiad, which saw GM Gukesh Dommaraju, GM Arjun Erigaisi, IM Divya Deshmukh, and IM Vantika Agrawal claim team and individual gold as India dominated t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-olympiad-2024-14-things-we-learned",
-         "pubDate" : "Mon, 23 Sep 2024 14:57:00",
-         "title" : "14 Things We Learned - 2024 Chess Olympiad"
       },
       {
          "description" : "The strongest chess event ever held in the UK a team rapidplay tournament featuring 36 world-class players! To buy tickets for the Global Chess League at Friends House, please...",
