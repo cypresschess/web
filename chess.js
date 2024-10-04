@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Fri, 04 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "Please find the certificates here NO Name 1 Suryansh Verma 2 Suhaib Ahmad 3 Aniket Mohan 4 Kuldeep Singh Sandhu 5 Keshavi 6 Ashwani Kumar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/04/magnus-carlsen-hikaru-nakamura-and-the-chess-elite-now-playing-in-london",
          "pubDate" : "Fri, 04 Oct 2024 07:00:48",
          "title" : "Magnus Carlsen, Hikaru Nakamura and the chess elite now playing in London"
+      },
+      {
+         "description" : "IM Levy Rozman, (aka GothamChess) sent waves across the Twittersphere recently when he toppled GM Ian Nepomniachtchi in Titled Tuesday. However, to a crowd of chess enthusiasts at the University of Florida (UF), his recent presence on their campus...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gotham-chess-visits-university-of-floria-for-lecture-blitz-against-old-foe",
+         "pubDate" : "Fri, 04 Oct 2024 06:31:00",
+         "title" : "GothamChess Visits University Of Florida For Lecture & Blitz Against Old Foe"
       },
       {
          "description" : "A roundup of results from the opening day of Global Chess League Season 2.",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-winner-vidit-gujrathi-decides-against-defending-title-in-azerbaijan-to-meet-pm-modi/articleshow/113666283.cms",
          "pubDate" : "Wed, 25 Sep 2024 10:49:18",
          "title" : "Gujrathi decides against defending title in Azerbaijan to meet PM Modi"
-      },
-      {
-         "description" : "After GM Hans Niemann edged out GM Vladimir Kramnik on tiebreaks in the early Titled Tuesday of September 24, GM Magnus Carlsen won outright in the late event, his only blemish being a ninth-round loss to GM Hikaru Nakamura, who finished second. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-carlsen-win-titled-tuesday-september-24-2024",
-         "pubDate" : "Wed, 25 Sep 2024 09:30:18",
-         "title" : "Carlsen Withstands Loss To Nakamura To Take Titled Tuesday"
       },
       {
          "description" : "The 3rd quarterly ECU Board meeting and the annual ECU General Assembly took place on the 18th and the 19th of September respectively, at the Intercontinental Hotel in Budapest, Hungary, as part of the FIDE Congress 2024. ECU Board information and decisions: ECU General Assembly information and decisions&#160; 42 Federations members were present at the ECU General Assembly 2024. Commissions Reports: During the meeting, the ECU President presents to FIDE President Arkady Dvorkovich and FIDE Deputy President Viswanathan Anand, as []",
