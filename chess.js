@@ -1304,14 +1304,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/sep/13/chess-england-seeded-eighth-as-carlsen-targets-gold-at-budapest-olympiad",
          "pubDate" : "Fri, 13 Sep 2024 07:00:52",
          "title" : "Chess: England seeded eighth as Carlsen targets gold at Budapest Olympiad"
-      },
-      {
-         "description" : "The Indian teams posted wins in the open and women's section on day two of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41239289/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-2-report?device=featurephone",
-         "pubDate" : "Fri, 13 Sep 2024 00:32:25",
-         "title" : "Chess Olympiad 2024: Gukesh leads India past Iceland, Harika and co. beat Czechia on day 2"
       }
    ]
 }
