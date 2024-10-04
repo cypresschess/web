@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3243",
+         "pubDate" : "Fri, 04 Oct 2024 19:06:25",
+         "title" : "Global Chess League, Day 2: PBG Alaskan Knights take sole lead"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Karnataka State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Patna on 23 &#38;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-in-maddur-karnataka-on-23-24-november-2024/",
+         "pubDate" : "Fri, 04 Oct 2024 18:49:47",
+         "title" : "Senior National Arbiters Seminar & Examination in Maddur, Karnataka on 23 & 24 November 2024"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, All Bihar Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Patna on 19 &#38;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-patna-on-19-20-october-2024/",
+         "pubDate" : "Fri, 04 Oct 2024 18:38:38",
+         "title" : "SNA Seminar & Exam in Patna ,Bihar on 19 & 20 October 2024"
+      },
+      {
+         "description" : "Please find notification for election scheduled to be held on 26.10.2024 for election of Athletes Commission of AICF Notice",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-election-of-athletes-commission-of-aicf/",
+         "pubDate" : "Fri, 04 Oct 2024 17:53:50",
+         "title" : "Notice :Election of Athletes Commission of AICF"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113947463.cms\" />Magnus Carlsen ran out of time in his match against Alireza Firouzja, leading to Triveni Continental Kings' thrashing of Alpine Sg Pipers 17-4 in the Global Chess League. Meanwhile, Viswanathan Anand lost to Maxime Vachier-Lagrave, and Anish Giri held Hikaru Nakamura to a draw, propelling PBG Alaskan Knights to the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-beaten-by-clock-viswanathan-anand-loses-to-former-world-blitz-champion-at-global-chess-league/articleshow/113947463.cms",
+         "pubDate" : "Fri, 04 Oct 2024 17:04:33",
+         "title" : "Carlsen beaten by clock; Anand loses to former world blitz champion"
+      },
+      {
          "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
          "pubDate" : "Fri, 04 Oct 2024 13:50:00",
          "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "All buckled up? Logic is taking you on a sci-fi adventure for the books&#38;ndash;and your final destination is Paradise. Celebrate the release of Logic&#38;rsquo;s ninth studio album and graphic novel, Ultra 85, with not one&#38;ndash;but five&#38;ndash;unique...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/logic-ultra85-bots",
+         "pubDate" : "Fri, 04 Oct 2024 08:30:20",
+         "title" : "Play Chess Against Logic And 'Ultra 85' Sci-Fi Bots"
       },
       {
          "description" : "Please find the certificates here NO Name 1 Suryansh Verma 2 Suhaib Ahmad 3 Aniket Mohan 4 Kuldeep Singh Sandhu 5 Keshavi 6 Ashwani Kumar",
@@ -26,7 +74,7 @@ news_feed (
          "title" : "Live game link for National Under-11 Chess Championship 2024"
       },
       {
-         "description" : " Eight of the world top 12 are competing in the Global Chess League at Friends House, Euston, from 3-12 October, with spectator tickets bookable online There is a unique opportunity to watch the world elite in action in London this week. The Tech Mahindra Global Chess League (GCL) has Norway's world No 1, Magnus Carlsen, as its absolute star, and also includes seven others from the world's top 12: Hikaru Nakamura (United States), Arjun Erigaisi, Praggnanandhaa Rameshbabu and Vishy Anand (India), Nodirbek Abdusattorov (Uzbekistan), Alireza Firouzja (France), and Wei Yi (China), as well as the world's top rated woman, Hou Yifan (China). Russia's world No 9 and double world title challenger, Ia",
+         "description" : " Eight of the world top 12 are competing in the Global Chess League at Friends House, Euston, from 3-12 October, with spectator tickets bookable online There is a unique opportunity to watch the world elite in action in London this week. The Tech ­Mahindra Global Chess League (GCL) has ­Norway's world No 1, Magnus Carlsen, as its absolute star, and also includes seven others from the world's top 12: Hikaru Nakamura (United States), Arjun ­Erigaisi, Praggnanandhaa Rameshbabu and Vishy Anand (India), Nodirbek Abdusattorov (Uzbekistan), Alireza Firouzja (France), and Wei Yi (China), as well as the world's top rated woman, Hou Yifan (China). Russia's world No 9 and double world title challenger,",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/oct/04/magnus-carlsen-hikaru-nakamura-and-the-chess-elite-now-playing-in-london",
@@ -56,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gcl-day-1-alaskan-knights-squash-the-defending-champions-continental-kings",
          "pubDate" : "Fri, 04 Oct 2024 00:40:00",
          "title" : "GCL Day 1: The Alaskan Knights crush the Continental Kings"
+      },
+      {
+         "description" : "Editor's note: This story first appeared in the October 2024 issue of Chess Life Kids magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. A high-resolution download of this article is available here. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> \"May The Best Player Win\" is author Kyla Zhou's third novel and first for kids. The novel is a fun read about chess, girl power, and performance anxiety in sports, and it is published by Penguin Random House.<br> <br> Things see",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-im-carissa-yip-interviews-author-kyla-zhou",
+         "pubDate" : "Fri, 04 Oct 2024 00:00:00",
+         "title" : "Inside Story: IM Carissa Yip Interviews Author Kyla Zhou"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shocker-us-chess-champ-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt=",
@@ -434,14 +490,6 @@ news_feed (
          "title" : "FIDE TRAINER SEMINAR 2024"
       },
       {
-         "description" : "All India Chess Federation is pleased to announce the five FIDE Arbiter Seminars as per the appended schedule:- 1 Mysuru 18-20 October 2024 2 Guwahati",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminars-2024/",
-         "pubDate" : "Mon, 30 Sep 2024 05:51:55",
-         "title" : "FIDE ARBITER SEMINARS 2024"
-      },
-      {
          "description" : "At just 13 years of age, GM Yagiz Kaan Erdogmus has become the youngest-ever player to record a rating of 2600, demolishing the previous record by close to a year. Upon returning to school in Turkiye, he received a hero&#39;s welcome. The Turkish pr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -456,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5",
          "pubDate" : "Sun, 29 Sep 2024 15:35:00",
          "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Aronian Sweeps Fedoseev In Losers Bracket"
-      },
-      {
-         "description" : "Rajasthan Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination on 21st and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-on-21st-and-22nd-september-2024-in-udaipur-rajasthan/",
-         "pubDate" : "Sun, 29 Sep 2024 14:45:01",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination on 21st and 22nd September 2024 in Udaipur , Rajasthan"
       },
       {
          "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served eight years on the Ethics Commission and even running as Vice President in the 2022 Election. Ian Wilkinson heading to the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -528,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-4",
          "pubDate" : "Sat, 28 Sep 2024 12:48:00",
          "title" : "Contrasting Wins For Carlsen, Firouzja; Attacking Masterpiece By Vachier-Lagrave"
-      },
-      {
-         "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-held-at-karaikudi-tamil-nadu-on-21-22-september-2024/",
-         "pubDate" : "Sat, 28 Sep 2024 07:53:27",
-         "title" : "FINAL Report of Senior National Arbiter seminar held at Karaikudi, Tamil Nadu on 21 & 22 September 2024"
       },
       {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -746,14 +778,6 @@ news_feed (
          "title" : "PM Modi meets chess players, hails India's historic double gold triumph"
       },
       {
-         "description" : "GM Vladimir Fedoseev won the Play-in of the Julius Baer Generation Cup 2024 with a final-round victory with the black pieces against GM Wesley So. Although Fedoseev lost in round four against GM Vasif Durarbayli, he won seven of the eight other ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-play-in",
-         "pubDate" : "Wed, 25 Sep 2024 12:58:00",
-         "title" : "Fedoseev Wins Play-in, Triumphs In Final Round With Black Win Vs. Wesley So"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113666283.cms\" />Grandmaster Vidit Gujrathi, after helping India win its first Chess Olympiad gold, decided not to defend his title at the Vugar Gashimov Memorial Chess Super Tournament in Azerbaijan. Instead, he returned to India for a felicitation with Prime Minister Narendra Modi. Aravindh Chithambaram will replace him in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -930,14 +954,6 @@ news_feed (
          "title" : "Two Team, Three Individual Medals for Americans as India Takes Double Gold at 45th FIDE Olympiad"
       },
       {
-         "description" : "US Chess Electronic Device Certification Policy<br> <br> Update: The attached document is current as of September 23, 2024, and includes updates to the list of approved devices<br> <br> On February 2, 2020, the US Chess Executive Board approved a new policy for the certification of certain electronic devices-e.g., scoresheets and game-broadcasting systems. The new policy is broader than its predecessor and provides more detailed guidance to manufacturers. It also establishes the foundation for a two-part certification process to assure a candidate device adheres to the rules of chess and to assess a device's resistance to various forms of tampering. Download the current version of the policy",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/rules/us-chess-electronic-device-certification-policy",
-         "pubDate" : "Mon, 23 Sep 2024 00:00:00",
-         "title" : "UPDATED, September 2024: US Chess Electronic Device Certification Policy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41390093/fide-chess-olympiad-2024-historic-double-gold-gukesh-tania-sachdev-harika-arjun-erigaisi-pragg-vaishali-divya-vantika?device=featurephone",
          "pubDate" : "Sun, 22 Sep 2024 22:56:51",
          "title" : "\"We were meant for this\": Tania, Gukesh react after historic double gold at Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113578599.cms\" />India clinched its first double team gold at the Chess Olympiad in Budapest, joining an elite group with the Soviet Union and China. The men's team secured victory against Slovenia while the women's team defeated Azerbaijan. Key players D Gukesh, Arjun Erigaisi, Divya Deshmukh, and Vantika Agrawal also won individual board gold medals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-a-first-for-india-men-and-women-win-chess-olympiad-team-golds/articleshow/113578599.cms",
-         "pubDate" : "Sun, 22 Sep 2024 21:51:13",
-         "title" : "In a first for India, men and women win Chess Olympiad team golds"
       },
       {
          "description" : "",
@@ -1312,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3211",
          "pubDate" : "Fri, 13 Sep 2024 21:05:41",
          "title" : "45th Chess Olympiad R03: Netherlands and Germany fall, several favorites stumble"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3210",
-         "pubDate" : "Fri, 13 Sep 2024 15:55:41",
-         "title" : "FIDE and DGT extend their partnership for another four years"
       }
    ]
 }
