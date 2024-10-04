@@ -1312,14 +1312,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41251441/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-3-report?device=featurephone",
          "pubDate" : "Fri, 13 Sep 2024 23:56:13",
          "title" : "Chess Olympiad 2024: Indian teams remain unbeaten in third round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3211",
-         "pubDate" : "Fri, 13 Sep 2024 21:05:41",
-         "title" : "45th Chess Olympiad R03: Netherlands and Germany fall, several favorites stumble"
       }
    ]
 }
