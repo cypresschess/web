@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the certificates here NO Name 1 Suryansh Verma 2 Suhaib Ahmad 3 Aniket Mohan 4 Kuldeep Singh Sandhu 5 Keshavi 6 Ashwani Kumar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-arbiter-seminar-in-shimla-on-14-15-september-2024/",
+         "pubDate" : "Fri, 04 Oct 2024 08:28:50",
+         "title" : "Certificates of National Arbiter Seminar in Shimla on 14 & 15 September 2024"
+      },
+      {
          "description" : "Please find the link for live games 37th National Under 11 Girls Chess Championship 2024 https://view.livechesscloud.com/#5030ce66-cddd-4d66-b8a9-07e847358021 37th National Under 11 Open Chess Championship 2024 https://view.livechesscloud.com/#cf47eca4-4ffa-42d3-a518-e3fe04fc2541",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/04/magnus-carlsen-hikaru-nakamura-and-the-chess-elite-now-playing-in-london",
          "pubDate" : "Fri, 04 Oct 2024 07:00:48",
          "title" : "Magnus Carlsen, Hikaru Nakamura and the chess elite now playing in London"
+      },
+      {
+         "description" : "A roundup of results from the opening day of Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41598391/global-chess-league-2024-carlsen-viswanathan-anand-draw-day-1-gcl-report?device=featurephone",
+         "pubDate" : "Fri, 4 Oct 2024 00:51:44",
+         "title" : "Global Chess League: Anand-Carlsen draw headlines opening day of season 2"
       },
       {
          "description" : "PBG Alaskan Knights made a fantastic start by defeating the defending champions, Triveni Continental Kings, on the first day of Tech Mahindra Global Chess League 2024. The inaugural edition's bottom finisher made a roaring start by registering a 3-0 (15-3) win. Nodirbek Abdusattorov, Shakhriyar Mamedyarov and Nihal Sarin ensured the team's success. American Gambits and Alpine SG Pipers also won their first matches. The league CEO, Sameer Pathak, made the inaugural move. Tomorrow is the first of three days when four matches will be played, starting with upGrad Mumba Masters vs Ganges Grandmasters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-held-at-karaikudi-tamil-nadu-on-21-22-september-2024/",
          "pubDate" : "Sat, 28 Sep 2024 07:53:27",
          "title" : "FINAL Report of Senior National Arbiter seminar held at Karaikudi, Tamil Nadu on 21 & 22 September 2024"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, Maharashtra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Jalgaon on 19 &#38; 20",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-jalgaon-on-19-20-october-2024/",
-         "pubDate" : "Sat, 28 Sep 2024 07:27:53",
-         "title" : "SNA Seminar & Exam in Jalgaon on 19 & 20 October 2024"
       },
       {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
