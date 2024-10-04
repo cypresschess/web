@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the link for live games 37th National Under 11 Girls Chess Championship 2024 https://view.livechesscloud.com/#5030ce66-cddd-4d66-b8a9-07e847358021 37th National Under 11 Open Chess Championship 2024 https://view.livechesscloud.com/#cf47eca4-4ffa-42d3-a518-e3fe04fc2541",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-for-national-under-11-chess-championship-2024/",
+         "pubDate" : "Fri, 04 Oct 2024 07:08:36",
+         "title" : "Live game link for National Under-11 Chess Championship 2024"
+      },
+      {
+         "description" : " Eight of the world top 12 are competing in the Global Chess League at Friends House, Euston, from 3-12 October, with spectator tickets bookable online There is a unique opportunity to watch the world elite in action in London this week. The Tech Mahindra Global Chess League (GCL) has Norway's world No 1, Magnus Carlsen, as its absolute star, and also includes seven others from the world's top 12: Hikaru Nakamura (United States), Arjun Erigaisi, Praggnanandhaa Rameshbabu and Vishy Anand (India), Nodirbek Abdusattorov (Uzbekistan), Alireza Firouzja (France), and Wei Yi (China), as well as the world's top rated woman, Hou Yifan (China). Russia's world No 9 and double world title challenger, Ia",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/oct/04/magnus-carlsen-hikaru-nakamura-and-the-chess-elite-now-playing-in-london",
+         "pubDate" : "Fri, 04 Oct 2024 07:00:48",
+         "title" : "Magnus Carlsen, Hikaru Nakamura and the chess elite now playing in London"
+      },
+      {
          "description" : "PBG Alaskan Knights made a fantastic start by defeating the defending champions, Triveni Continental Kings, on the first day of Tech Mahindra Global Chess League 2024. The inaugural edition's bottom finisher made a roaring start by registering a 3-0 (15-3) win. Nodirbek Abdusattorov, Shakhriyar Mamedyarov and Nihal Sarin ensured the team's success. American Gambits and Alpine SG Pipers also won their first matches. The league CEO, Sameer Pathak, made the inaugural move. Tomorrow is the first of three days when four matches will be played, starting with upGrad Mumba Masters vs Ganges Grandmasters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-jalgaon-on-19-20-october-2024/",
          "pubDate" : "Sat, 28 Sep 2024 07:27:53",
          "title" : "SNA Seminar & Exam in Jalgaon on 19 & 20 October 2024"
-      },
-      {
-         "description" : "Please find the Certificates here SL No Candidate Name 1 Sivaganesh Jayaprakash 2 Steephan Raj J 3 Sabarish RK 4 Harini S 5 Govindarajan S",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-senior-national-arbiter-examination-held-at-thoothukudi-on-31st-august-and-1st-september-2024/",
-         "pubDate" : "Sat, 28 Sep 2024 07:02:08",
-         "title" : "Certificates of Senior National Arbiter Examination held at Thoothukudi on 31st August and 1st September 2024."
       },
       {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3210",
          "pubDate" : "Fri, 13 Sep 2024 15:55:41",
          "title" : "FIDE and DGT extend their partnership for another four years"
-      },
-      {
-         "description" : " The world No 1 will lead Norway at the event in Hungary shortly after defeating Hans Niemann and Alireza Firouzja at the speed championship finals in Paris Magnus Carlsen, the world No 1, competes for one of the few missing honours in his career at this week's Olympiad in Budapest, where he leads sixth-seeded Norway. Carlsen's Olympiad record is surprisingly modest. He has averaged just 70% in seven appearances, with his best performance a bronze medal in 2022. In 2010, he <a href=\"https://www.chessgames.com/perl/chessgame?gid=1594446\">lost to England's Michael Adams</a> after opening with the dubious North Sea Defence 1 e4 g6 2 d4 Nf6?! 3 e5 Nh5. <a href=\"https://www.theguardian.com/sport/",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/sep/13/chess-england-seeded-eighth-as-carlsen-targets-gold-at-budapest-olympiad",
-         "pubDate" : "Fri, 13 Sep 2024 07:00:52",
-         "title" : "Chess: England seeded eighth as Carlsen targets gold at Budapest Olympiad"
       }
    ]
 }
