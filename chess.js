@@ -10,6 +10,14 @@ news_feed (
          "title" : "Geller and Kramnik among inductees to the 2024 World Chess Hall of Fame"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3244",
+         "pubDate" : "Sat, 05 Oct 2024 19:27:19",
+         "title" : "Tech Mahindra Global Chess League D03: Alaskan Knights stay unbeaten as Ganges break losing streak"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder tactic (Botez Gambit ), black will have to do something to stop the checkmating threats. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/using-botez-gambit-tool-chess-educational-chesstactic-checkmate-botezgambit-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/illias-jobava-against-rosen-chess-chessopenings-chesstactics-lichess",
          "pubDate" : "Sat, 05 Oct 2024 15:37:55",
          "title" : "Illia's Jobava Against Rosen #chess #chessopenings #chesstactics #lichess"
+      },
+      {
+         "description" : "Adding a fourth win in Saturday&#39;s early round, the PBG Alaskan Knights maintained their firm lead in the Tech Mahindra Global Chess League&#39;s round-robin phase. The leaders defeated the Ganges Grandmasters, who went on to score their first, narrow ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-3",
+         "pubDate" : "Sat, 05 Oct 2024 13:45:00",
+         "title" : "PBG Alaskan Knights Maintain Strong Lead; Ganges Grandmasters Get 1st Win"
       },
       {
          "description" : "Great excitement in the late 15th century, when it was realised that the new rules of chess (with the massively expanded powers of the Queen) meant that a player could deliver checkmate in just four moves. This catastrophe is known as Scholar's Mate. It has snared innumerable victims over the past 550 years, ever since []",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Viral Video: Pak team holds Indian flag during Chess Olympiad"
       },
       {
-         "description" : "The fourth and last online event of the Champions Chess Tour is underway, and soon, the full field of eight players will be all set for the finals. While we don&#39;t yet know who&#39;ll join GMs Magnus Carlsen, Alireza Firouzja, and Maxime Vachier-Lagrav...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-2024-oslo",
-         "pubDate" : "Thu, 26 Sep 2024 09:15:00",
-         "title" : "Champions Chess Tour Finals To Happen In Oslo, Norway, With Live Audience"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686699.cms\" />Vantika Agrawal, a graduate from Delhi's SRCC, played a pivotal role in helping the Indian women's team win a historic gold at the Chess Olympiad in Budapest. Her resilience under pressure was key to her success on Board 4, earning her an individual gold and contributing significantly to the team's victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41265807/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-indian-chess-news-day-4-report?device=featurephone",
          "pubDate" : "Sat, 14 Sep 2024 23:40:47",
          "title" : "Chess Olympiad 2024: Arjun Erigaisi leads India past Serbia, Harika back to winning ways"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3212",
-         "pubDate" : "Sat, 14 Sep 2024 21:14:26",
-         "title" : "45th Chess Olympiad Round 4: Ukraine upsets USA, Vietnam beats Uzbekistan"
       }
    ]
 }
