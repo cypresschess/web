@@ -1304,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3212",
          "pubDate" : "Sat, 14 Sep 2024 21:14:26",
          "title" : "45th Chess Olympiad Round 4: Ukraine upsets USA, Vietnam beats Uzbekistan"
-      },
-      {
-         "description" : "Your beliefs have a huge influence on your results. This is because we choose our actions based on our beliefs. The simple chain reaction goes like this: Belief -&#62; Action -&#62; Results If you want to change your results, you might first have to change your beliefs. Vicious cycle: Belief: \"I'm too old to improve []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/beliefs/",
-         "pubDate" : "Sat, 14 Sep 2024 11:57:00",
-         "title" : "Get Rid of Your Self-Limiting Beliefs"
       }
    ]
 }
