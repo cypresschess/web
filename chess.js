@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Great excitement in the late 15th century, when it was realised that the new rules of chess (with the massively expanded powers of the Queen) meant that a player could deliver checkmate in just four moves. This catastrophe is known as Scholar's Mate. It has snared innumerable victims over the past 550 years, ever since []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/scholars-fate/",
+         "pubDate" : "Sat, 05 Oct 2024 08:05:09",
+         "title" : "Scholar's Fate"
+      },
+      {
          "description" : "That's a significant event for Indian chess! The 50th National Women Chess Championship being inaugurated by Shri Dev A Patel, the youngest Secretary of the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -98,6 +106,14 @@ news_feed (
          "title" : "Certificates of SNA Seminar held in Udaipur on 21 & 22 September 2024"
       },
       {
+         "description" : "A roundup of results from the second day of Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41614703/global-chess-league-2024-carlsen-viswanathan-anand-praggnandhaa-lose-day-2-gcl-report?device=featurephone",
+         "pubDate" : "Sat, 5 Oct 2024 00:26:46",
+         "title" : "Global Chess League: Carlsen beaten by the clock; Anand, Pragg go down on Day 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Notification Dated 04.10.2024:Election of Athletes Commission of AICF"
       },
       {
-         "description" : "The PBG Alaskan Knights celebrated a dream start in the Tech Mahindra Global Chess League&#39;s second season by winning their first three matches in the round-robin stage. Two were scheduled on Friday when the Knights defeated both the American Gambi...",
+         "description" : "The PBG Alaskan Knights celebrated a dream start to the Tech Mahindra Global Chess League&#39;s second season by winning their first three matches in the round-robin stage. Two were scheduled on Friday when the Knights defeated both the American Gambi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-2",
