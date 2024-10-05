@@ -34,6 +34,14 @@ news_feed (
          "title" : "Notice :Election of Athletes Commission of AICF"
       },
       {
+         "description" : "The PBG Alaskan Knights celebrated a dream start in the Tech Mahindra Global Chess League&#39;s second season by winning their first three matches in the round-robin stage. Two were scheduled on Friday when the Knights defeated both the American Gambi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-2",
+         "pubDate" : "Fri, 04 Oct 2024 17:37:18",
+         "title" : "PBG Alaskan Knights Continue Strong On Global Chess League Day 2"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113947463.cms\" />Magnus Carlsen ran out of time in his match against Alireza Firouzja, leading to Triveni Continental Kings' thrashing of Alpine Sg Pipers 17-4 in the Global Chess League. Meanwhile, Viswanathan Anand lost to Maxime Vachier-Lagrave, and Anish Giri held Hikaru Nakamura to a draw, propelling PBG Alaskan Knights to the lead.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -730,14 +738,6 @@ news_feed (
          "title" : "Champions Chess Tour Finals To Happen In Oslo, Norway, With Live Audience"
       },
       {
-         "description" : "Move over, record-breaking prodigies like GM Yagiz Kaan Erdogmus, IM Faustino Oro, and WFM Bodhana Sivanandan. Manuel Alvarez Escudero from Spain is 102 years old and celebrates eight (!) decades as a tournament player. He shows no signs of slowin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/meet-102-year-old-manuel-the-worlds-oldest-active-chess-player",
-         "pubDate" : "Thu, 26 Sep 2024 07:07:00",
-         "title" : "Meet 102-Year-Old Manuel Alvarez, The World's Oldest Active Chess Player"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686699.cms\" />Vantika Agrawal, a graduate from Delhi's SRCC, played a pivotal role in helping the Indian women's team win a historic gold at the Chess Olympiad in Budapest. Her resilience under pressure was key to her success on Board 4, earning her an individual gold and contributing significantly to the team's victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1304,14 +1304,6 @@ news_feed (
          "link" : "https://www.thearticle.com/war-and-chess/",
          "pubDate" : "Sat, 14 Sep 2024 05:50:13",
          "title" : "War and chess "
-      },
-      {
-         "description" : "The Indian teams posted wins in the open and women's section on day three of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41251441/chess-olympiad-2024-gukesh-praggnanandhaa-harika-indian-chess-news-day-3-report?device=featurephone",
-         "pubDate" : "Fri, 13 Sep 2024 23:56:13",
-         "title" : "Chess Olympiad 2024: Indian teams remain unbeaten in third round"
       }
    ]
 }
