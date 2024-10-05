@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "That's a significant event for Indian chess! The 50th National Women Chess Championship being inaugurated by Shri Dev A Patel, the youngest Secretary of the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/50th-national-championship-for-women-2024/",
+         "pubDate" : "Sat, 05 Oct 2024 07:13:31",
+         "title" : "50th National Championship for Women 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder, black will have to do something to stop checkmate. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/winning-botez-gambit-chess-chesstactics-checkmate-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/winning-botez-gambit-chess-chesstactics-checkmate-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "Winning With The Botez Gambit #chess #chesstactics #checkmate #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Just because the knight is on the edge </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knight-knows-how-not-move-chess-chesstactics-checkmate-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5wLul61bh30.jpg?itok=tKbD6UP2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/knight-knows-how-not-move-chess-chesstactics-checkmate-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "This Knight Knows How NOT To Move #chess #chesstactics #checkmate #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> This was a scary situation for Fabi. How did he escape? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-bridge-chess-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UYJWvyEDOLE.jpg?itok=5CeichK0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruanas-bridge-chess-chesstactics-chessstrategy-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "Caruana's Bridge #chess #chesstactics #chessstrategy #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> NM Ralph Tan gives a beginner bit about fishing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginner-chess-bit-ignatz-von-kolisch-goes-fishing-chess-chesstactic-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/84Kqj3jGINs.jpg?itok=rrYPo11s\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beginner-chess-bit-ignatz-von-kolisch-goes-fishing-chess-chesstactic-chessstrategy-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "Beginner Chess Bit: Ignatz von Kolisch Goes Fishing #chess #chesstactic #chessstrategy #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk briefly shares the goal of this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/main-goal-endgame-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oV0vyQ6hG_A.jpg?itok=9aVEJoc-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/main-goal-endgame-chess-chesstactics-chessendgame-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "The Main Goal of the Endgame #chess #chesstactics #chessendgame #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tight position between Kasparov and Seirawan with little to no time...but to whose advantage </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-mistake-against-seirawan-chess-chessstrategy-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r9SaPyoQ5go.jpg?itok=-85-Nyr8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparovs-mistake-against-seirawan-chess-chessstrategy-chessendgame-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "Kasparov's Mistake Against Seirawan #chess #chessstrategy #chessendgame #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fans will be fans </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-magnus-says-chess-chessendgames-chesstactics-magnuscarlsen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G3Jmh8uuXK0.jpg?itok=GaKa1nK7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-magnus-says-chess-chessendgames-chesstactics-magnuscarlsen-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "What Magnus Says #chess #chessendgames #chesstactics #magnuscarlsen #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby, gives a sincere analysis of the position between IM&#039;s Eric Rosen and Tianqi Wang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heart-felt-chess-analysis-chess-chessendgame-ericrosen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KkW7_J_WHGc.jpg?itok=1CpFZ7Cz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/heart-felt-chess-analysis-chess-chessendgame-ericrosen-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "A Heart-Felt Chess Analysis #chess #chessendgame #ericrosen #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby gives some brief details about Jobava London played by GM Illia Nyzhnyk against IM Eric Rosen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jobava-london-against-mr-london-chess-chessopenings-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u6Bqv1R5muU.jpg?itok=y_2lYeFS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jobava-london-against-mr-london-chess-chessopenings-chesstactics-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "A Jobava London Against Mr. London #chess #chessopenings #chesstactics #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby breaks down the final position between GM Illia Nyzhnyk and IM Eric Rosen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knight-h6trash-chess-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oTBuVThQ1ow.jpg?itok=5TlTzO3R\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/knight-h6trash-chess-chesstactics-chessstrategy-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
+         "title" : "Knight on H6...TRASH #chess #chesstactics #chessstrategy #lichess"
+      },
+      {
+         "description" : "Please find certificates here No Name 1 Chandrajeet Singh Rajawat 2 Rohit Menaria 3 Monil Maroo 4 Dhruv Dak 5 Seema Sharma 6 Shreyas Hanamant",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-udaipur-on-21-22-september-2024/",
+         "pubDate" : "Sat, 05 Oct 2024 06:19:03",
+         "title" : "Certificates of SNA Seminar held in Udaipur on 21 & 22 September 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,19 +122,19 @@ news_feed (
          "title" : "SNA Seminar & Exam in Patna ,Bihar on 19 & 20 October 2024"
       },
       {
-         "description" : "Please find notification for election scheduled to be held on 26.10.2024 for election of Athletes Commission of AICF Notice",
+         "description" : "Please find notification &#38; Procedure and Guidelines for election scheduled to be held on 26.10.2024 for election of Athletes Commission of AICF Notice Procedure &#38;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/notice-election-of-athletes-commission-of-aicf/",
          "pubDate" : "Fri, 04 Oct 2024 17:53:50",
-         "title" : "Notice :Election of Athletes Commission of AICF"
+         "title" : "Notification Dated 04.10.2024:Election of Athletes Commission of AICF"
       },
       {
          "description" : "The PBG Alaskan Knights celebrated a dream start in the Tech Mahindra Global Chess League&#39;s second season by winning their first three matches in the round-robin stage. Two were scheduled on Friday when the Knights defeated both the American Gambi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-2",
-         "pubDate" : "Fri, 04 Oct 2024 17:37:18",
+         "pubDate" : "Fri, 04 Oct 2024 17:37:00",
          "title" : "PBG Alaskan Knights Continue Strong On Global Chess League Day 2"
       },
       {
@@ -120,22 +216,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-im-carissa-yip-interviews-author-kyla-zhou",
          "pubDate" : "Fri, 04 Oct 2024 00:00:00",
          "title" : "Inside Story: IM Carissa Yip Interviews Author Kyla Zhou"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana visited the Saint Louis Chess Club to face some of the area's best players in the Club's weekly Saturday Night Blitz Tournament. Watch him go head to head with Julian Proleiko. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shocker-us-chess-champ-fabiano-caruana-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_b5ElP29uvM.jpg?itok=W0LRX1hY\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shocker-us-chess-champ-fabiano-caruana-vs-julian-proleiko",
-         "pubDate" : "Thu, 03 Oct 2024 21:37:26",
-         "title" : "SHOCKER! U.S. Chess Champ Fabiano Caruana vs. Julian Proleiko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the first three rounds. Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AzrX2EuvpTQ.jpg?itok=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-1",
-         "pubDate" : "Thu, 03 Oct 2024 21:37:26",
-         "title" : "2024 Chess 9LX: Day 1"
       },
       {
          "description" : "The tenth edition of the Ibero-American Chess Championship came to a close on Tuesday at the Hotel RL An&iacute;bal in Linares, Spain. Alan Pichot, the Argentine-born GM now representing Spain, was the sole winner after obtaining 7&frac12;/9 points. IM Daniel Garc&iacute;a from Spain and GM Santiago Ávila from Colombia grabbed second and third place, respectively. IM Sabrina Vega, an 8-time women's Spanish champion, was the top scorer among the women participants, while IM Diego Flores from Per&uacute; finished first among the juniors. | Photos: FEDA (Spanish Chess Federation)",
@@ -226,46 +306,6 @@ news_feed (
          "title" : "Top world chess stars gather in London for the Tech Mahindra Global Chess League"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Three times with the same opening, it&#039;s time for refutation by GM Yasser Seirawan against GM Boris Spassky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-spassky-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q7gWaAV-BnU.jpg?itok=1plAtuha\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-spassky-lichess",
-         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
-         "title" : "Spassky vs Seirawan: The Refutation #chess #chessopenings #chesscompetition #spassky #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Play on the queenside, on the center, and now on the kingside.<br /> Seirawan vs Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yassers-board-vision-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0eBU5W4hWzo.jpg?itok=kg_mBciU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yassers-board-vision-chess-chesstactics-lichess",
-         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
-         "title" : "Yasser's Board Vision #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Be careful...looks can be deceiving </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/red-herringin-chess-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDGnHyVnMbE.jpg?itok=aoHxhuV9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/red-herringin-chess-chess-chesstactics-lichess",
-         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
-         "title" : "A Red Herring...In Chess?! #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Understand the position, and proceed the attack for white </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-opponent-not-chess-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mEn6vDyLVH4.jpg?itok=WtQLNOd4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/your-opponent-not-chess-chesstactics-lichess",
-         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
-         "title" : "Your Opponent IS Not Like #chess #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Having a little fun with NM Ralph Tan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamurais-you-chess-chesstactics-chesshumor-hikarunakamura-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lgMNdMz_v3o.jpg?itok=iupnya0R\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamurais-you-chess-chesstactics-chesshumor-hikarunakamura-lichess",
-         "pubDate" : "Wed, 02 Oct 2024 18:36:21",
-         "title" : "Nakamura...Is That You?? #chess #chesstactics #chesshumor #hikarunakamura #lichess"
-      },
-      {
          "description" : "Please find the Certificates here Sl No Candidate Name 1 Abilash G 2 Gokulavishnu R 3 Hemnath V 4 Balaji J 5 Gowri Sankar 6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -274,28 +314,12 @@ news_feed (
          "title" : "Certificates of SNA Seminar in Chennai on 07 & 08 September 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Three times with the same opening, it&#039;s time for refutation by GM Yasser Seirawan against GM Boris Spassky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q7gWaAV-BnU.jpg?itok=1plAtuha\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/spassky-vs-seirawan-refutation-chess-chessopenings-chesscompetition-lichess",
-         "pubDate" : "Wed, 02 Oct 2024 15:36:22",
-         "title" : "Spassky vs Seirawan: The Refutation #chess #chessopenings #chesscompetition #lichess"
-      },
-      {
          "description" : "Please find the live link of &#160;30th Tamil Nadu IM norm tournament started on 30th Sep 2024. Live Link :&#160;https://live.tamilchess.com/30th-im-norm-coimbatore/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-link-of-30th-tamil-nadu-im-tournament-schedule/",
          "pubDate" : "Wed, 02 Oct 2024 15:27:02",
          "title" : "Live link of 30th Tamil Nadu IM Tournament Schedule"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/change-of-emailaicf-arbiter-commission/",
-         "pubDate" : "Wed, 02 Oct 2024 14:48:42",
-         "title" : "Change of Email:AICF Arbiters Commission"
       },
       {
          "description" : "GM Magnus Carlsen just won the 2024 Julius Baer Generation Cup, meaning he&#39;s won two out of the four Champions Chess Tour events this year. We also saw GM Wesley So win Division II and GM Fabiano Caruana Division III. Let&#39;s go over what we&#39;ve lear...",
@@ -330,28 +354,12 @@ news_feed (
          "title" : "Carlsen, Anand, Arjun, Giri and co. promise to make Global Chess League season 2 unmissable"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Staff Sara Herman shows four games from August 2022 where she was White against the Scandinavian Defense, and won them all! The Scandinavian starts with 1.e4 d5. 2024.10.01<br /> Sara Herman vs. Senthi Ravichandra, 2022: B01 Scandinavian (centre counter) defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian defence<br /> Herman vs. Brian Wall, 2022: B01 Scandinavian, Pytel-Wade variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-you-escape-scan",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/can-you-escape-scandi-road-2000",
-         "pubDate" : "Wed, 02 Oct 2024 00:35:57",
-         "title" : "Can you Escape the Scandi? | Road to 2000"
-      },
-      {
          "description" : "This week's Wednesday Workout begins a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. India won gold in both the Open and Women's events, and Team USA won silver in the Open and bronze in the Women's event. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on mating attacks and defensive resources.<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-45th-olympiad-pt-1",
          "pubDate" : "Wed, 02 Oct 2024 00:00:00",
          "title" : "Wednesday Workout: 45th Olympiad, Pt. 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 11-24, see 24 players across both tournaments (fields below) fight for more than a $400,000 prize fund. Can Caruana and Yip defend their titles? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/publ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-promo",
-         "pubDate" : "Tue, 01 Oct 2024 21:35:51",
-         "title" : "2024 U.S. Chess Championships | PROMO"
       },
       {
          "description" : "",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-team-chess-battle-2",
          "pubDate" : "Mon, 30 Sep 2024 08:00:00",
          "title" : "Team Chess Battle Is Back With Levy Rozman, Anna Cramling, James Canty, And Other Celebrities"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminar-2024/",
-         "pubDate" : "Mon, 30 Sep 2024 06:12:00",
-         "title" : "FIDE TRAINER SEMINAR 2024"
       },
       {
          "description" : "At just 13 years of age, GM Yagiz Kaan Erdogmus has become the youngest-ever player to record a rating of 2600, demolishing the previous record by close to a year. Upon returning to school in Turkiye, he received a hero&#39;s welcome. The Turkish pr...",
@@ -1296,14 +1296,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/beliefs/",
          "pubDate" : "Sat, 14 Sep 2024 11:57:00",
          "title" : "Get Rid of Your Self-Limiting Beliefs"
-      },
-      {
-         "description" : "In order to rebuke Russia for its egregious invasion of Ukraine, the International Chess Federation (FIDÉ) voted two years ago to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for Moscow two years ago. This unanimous decision was extraordinary. This was not just because it sidelined []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/war-and-chess/",
-         "pubDate" : "Sat, 14 Sep 2024 05:50:13",
-         "title" : "War and chess "
       }
    ]
 }
