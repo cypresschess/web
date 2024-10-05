@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Hall of Fame (WCHOF) announced the 2024 U.S. and World Chess Halls of Fame inductees. One candidate, Charles Henry Stanley, will be inducted to the U.S. Chess Hall of Fame on October 10, while ten candidates will be inducted to the World Chess Hall of Fame on October 20: Nana Alexandria, Chen Zhu, Robert H&uuml;bner, Vladimir Kramnik, Irina Levitina, Elena Donaldson-Akhmilovskaya, Efim Geller, Fridrik Olafsson, Oscar Panno and Lev Polugaevsky.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/inductees-world-chess-hall-of-fame-2024",
+         "pubDate" : "Sat, 05 Oct 2024 20:00:00",
+         "title" : "Geller and Kramnik among inductees to the 2024 World Chess Hall of Fame"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder tactic (Botez Gambit ), black will have to do something to stop the checkmating threats. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/using-botez-gambit-tool-chess-educational-chesstactic-checkmate-botezgambit-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/using-botez-gambit-tool-chess-educational-chesstactic-checkmate-botezgambit-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
+         "title" : "Using The Botez Gambit As A Tool #chess #educational #chesstactic #checkmate #botezgambit #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley has Fabi in the corner. Do you know how Fabi escapes? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-scary-position-against-so-chess-education-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UYJWvyEDOLE.jpg?itok=5CeichK0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-scary-position-against-so-chess-education-chesstactics-chessstrategy-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
+         "title" : "Fabi's Scary Position Against So #chess #education #chesstactics #chessstrategy #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> NM Ralph Tan gives an overview a position played by Ignatz von Kolisch in the Romantic-Era of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advantage-using-fishing-tactic-chess-education-chesstactic-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/84Kqj3jGINs.jpg?itok=rrYPo11s\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/advantage-using-fishing-tactic-chess-education-chesstactic-chessstrategy-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
+         "title" : "The Advantage of Using The Fishing Tactic #chess #education #chesstactic #chessstrategy #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk briefly shares the goal of this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-education-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oV0vyQ6hG_A.jpg?itok=9aVEJoc-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgame-chess-education-chesstactics-chessendgame-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
+         "title" : "The Endgame #chess #education #chesstactics #chessendgame #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tight position between Kasparov and Seirawan with little to no time...but to whose advantage </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-mistake-against-seirawan-chess-educational-chessstrategy-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r9SaPyoQ5go.jpg?itok=-85-Nyr8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparovs-mistake-against-seirawan-chess-educational-chessstrategy-chessendgame-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
+         "title" : "Kasparov's Mistake Against Seirawan #chess #educational #chessstrategy #chessendgame #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> NM Ralph Tan gives an overview a position played by Ignatz von Kolisch in the Romantic-Era of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advantage-fishing-tactic-chess-chesstactic-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/84Kqj3jGINs.jpg?itok=rrYPo11s\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/advantage-fishing-tactic-chess-chesstactic-chessstrategy-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
+         "title" : "The Advantage of the Fishing Tactic #chess #chesstactic #chessstrategy #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk briefly shares the goal of this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oV0vyQ6hG_A.jpg?itok=9aVEJoc-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgame-chess-chesstactics-chessendgame-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
+         "title" : "The Endgame #chess #chesstactics #chessendgame #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby, gives a sincere analysis of the position between IM&#039;s Eric Rosen and Tianqi Wang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-heart-say-chess-chessendgame-ericrosen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KkW7_J_WHGc.jpg?itok=1CpFZ7Cz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-does-your-heart-say-chess-chessendgame-ericrosen-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
+         "title" : "What Does Your Heart Say #chess #chessendgame #ericrosen #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby gives a brief overview about the Jobava London played by GM Illia Nyzhnyk against IM Eric Rosen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/illias-jobava-against-rosen-chess-chessopenings-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u6Bqv1R5muU.jpg?itok=y_2lYeFS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/illias-jobava-against-rosen-chess-chessopenings-chesstactics-lichess",
+         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
+         "title" : "Illia's Jobava Against Rosen #chess #chessopenings #chesstactics #lichess"
+      },
+      {
          "description" : "Great excitement in the late 15th century, when it was realised that the new rules of chess (with the massively expanded powers of the Queen) meant that a player could deliver checkmate in just four moves. This catastrophe is known as Scholar's Mate. It has snared innumerable victims over the past 550 years, ever since []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -24,78 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/winning-botez-gambit-chess-chesstactics-checkmate-lichess",
          "pubDate" : "Sat, 05 Oct 2024 06:37:46",
          "title" : "Winning With The Botez Gambit #chess #chesstactics #checkmate #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Just because the knight is on the edge </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knight-knows-how-not-move-chess-chesstactics-checkmate-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5wLul61bh30.jpg?itok=tKbD6UP2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/knight-knows-how-not-move-chess-chesstactics-checkmate-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "This Knight Knows How NOT To Move #chess #chesstactics #checkmate #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> This was a scary situation for Fabi. How did he escape? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-bridge-chess-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UYJWvyEDOLE.jpg?itok=5CeichK0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruanas-bridge-chess-chesstactics-chessstrategy-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "Caruana's Bridge #chess #chesstactics #chessstrategy #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> NM Ralph Tan gives a beginner bit about fishing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginner-chess-bit-ignatz-von-kolisch-goes-fishing-chess-chesstactic-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/84Kqj3jGINs.jpg?itok=rrYPo11s\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beginner-chess-bit-ignatz-von-kolisch-goes-fishing-chess-chesstactic-chessstrategy-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "Beginner Chess Bit: Ignatz von Kolisch Goes Fishing #chess #chesstactic #chessstrategy #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk briefly shares the goal of this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/main-goal-endgame-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oV0vyQ6hG_A.jpg?itok=9aVEJoc-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/main-goal-endgame-chess-chesstactics-chessendgame-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "The Main Goal of the Endgame #chess #chesstactics #chessendgame #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tight position between Kasparov and Seirawan with little to no time...but to whose advantage </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-mistake-against-seirawan-chess-chessstrategy-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r9SaPyoQ5go.jpg?itok=-85-Nyr8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparovs-mistake-against-seirawan-chess-chessstrategy-chessendgame-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "Kasparov's Mistake Against Seirawan #chess #chessstrategy #chessendgame #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fans will be fans </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-magnus-says-chess-chessendgames-chesstactics-magnuscarlsen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G3Jmh8uuXK0.jpg?itok=GaKa1nK7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-magnus-says-chess-chessendgames-chesstactics-magnuscarlsen-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "What Magnus Says #chess #chessendgames #chesstactics #magnuscarlsen #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby, gives a sincere analysis of the position between IM&#039;s Eric Rosen and Tianqi Wang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heart-felt-chess-analysis-chess-chessendgame-ericrosen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KkW7_J_WHGc.jpg?itok=1CpFZ7Cz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/heart-felt-chess-analysis-chess-chessendgame-ericrosen-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "A Heart-Felt Chess Analysis #chess #chessendgame #ericrosen #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby gives some brief details about Jobava London played by GM Illia Nyzhnyk against IM Eric Rosen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jobava-london-against-mr-london-chess-chessopenings-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u6Bqv1R5muU.jpg?itok=y_2lYeFS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jobava-london-against-mr-london-chess-chessopenings-chesstactics-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "A Jobava London Against Mr. London #chess #chessopenings #chesstactics #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby breaks down the final position between GM Illia Nyzhnyk and IM Eric Rosen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knight-h6trash-chess-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oTBuVThQ1ow.jpg?itok=5TlTzO3R\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/knight-h6trash-chess-chesstactics-chessstrategy-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "Knight on H6...TRASH #chess #chesstactics #chessstrategy #lichess"
       },
       {
          "description" : "Please find certificates here No Name 1 Chandrajeet Singh Rajawat 2 Rohit Menaria 3 Monil Maroo 4 Dhruv Dak 5 Seema Sharma 6 Shreyas Hanamant",
