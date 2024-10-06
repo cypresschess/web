@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder tactic (Botez Gambit ), black will have to do something to stop the checkmating threats. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/using-botez-gambit-tool-chess-education-chesstactic-checkmate-botezgambit-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/using-botez-gambit-tool-chess-education-chesstactic-checkmate-botezgambit-lichess",
+         "pubDate" : "Sun, 06 Oct 2024 21:38:44",
+         "title" : "Using The Botez Gambit As A Tool #chess #education #chesstactic #checkmate #botezgambit #lichess"
+      },
+      {
          "description" : "Every month or so, I have lunch with some chess players in central London. We normally go to a pub and this time I had a decent pint and a reasonable veggie burger which was punctuated by some gossip and some chess. Find here a few of the positions we discussed - plus three remarkable games from the Olympiad in Budapest! | Pictured: Benjamin Gledura (Hungary) at the 2024 FIDE Chess Olympiad | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
          "pubDate" : "Sun, 06 Oct 2024 13:50:00",
          "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "The PBG Alaskan Knights won their fifth match on Sunday to lead the Tech Mahindra Global Chess League with a six-point margin halfway through the round-robin stage. The Triveni Continental Kings and the Alpine Sg Pipers are sharing second place wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-4",
+         "pubDate" : "Sun, 06 Oct 2024 12:29:00",
+         "title" : "Triveni Continental Kings, Alpine Sg Pipers Chase Still Perfect PBG Alaskan Knights"
       },
       {
          "description" : "In what is now a recurring theme, Elon Musk, the world's richest man, once again took to his now owned Twitter/X to rain hell and fire on the royal game, complaining once more about its many shortcomings, with comments such as \"suddenly vaporize the opponent's king with lasers from space\", and its inability to compete with the complexity of reality. (Image: Albert Silver/Imagen 3)",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/what-does-your-heart-say-chess-chessendgame-ericrosen-lichess",
          "pubDate" : "Sat, 05 Oct 2024 15:37:55",
          "title" : "What Does Your Heart Say #chess #chessendgame #ericrosen #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby gives a brief overview about the Jobava London played by GM Illia Nyzhnyk against IM Eric Rosen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/illias-jobava-against-rosen-chess-chessopenings-chesstactics-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u6Bqv1R5muU.jpg?itok=y_2lYeFS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/illias-jobava-against-rosen-chess-chessopenings-chesstactics-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
-         "title" : "Illia's Jobava Against Rosen #chess #chessopenings #chesstactics #lichess"
       },
       {
          "description" : "Adding a fourth win in Saturday&#39;s early round, the PBG Alaskan Knights maintained their firm lead in the Tech Mahindra Global Chess League&#39;s round-robin phase. The leaders defeated the Ganges Grandmasters, who went on to score their first, narrow ...",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3235",
          "pubDate" : "Fri, 27 Sep 2024 10:45:21",
          "title" : "FIDE100 Art Contest: Celebrating chess through creativity"
-      },
-      {
-         "description" : "The exciting Vishy vs. the World vote chess match against GM Viswanathan Anand is fast approaching, beginning on Monday, September 30. Chess.com has recruited a star squad of four coaching advisors to provide analysis and recommend moves (reflecti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-the-coaches-for-vishy-vs-the-world",
-         "pubDate" : "Fri, 27 Sep 2024 10:16:03",
-         "title" : "Announcing The Coaches For Vishy vs. The World"
       },
       {
          "description" : " India won the Open and Women's Olympiads in Budapest, while for the first time in history no European team reached the podium in either event India's domination of the 188-team Budapest Olympiad was complete. Their winning Open score of 21/22 was a record, they finished four points clear of the chasing pack, while their four individual golds included a 3000+ rating performance by Gukesh Dommaraju, 18, who challenges for the world crown in November. It was a seminal moment in chess history, comparable to the 1945 USA v USSR radio match when the Americans, quadruple Olympiad gold winners in the 1930s, were <a href=\"https://www.chessgames.com/perl/chess.pl?tid=82306&amp;result=1-0at\">crushed 1",
@@ -1304,14 +1304,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41281554/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-5-report?device=featurephone",
          "pubDate" : "Mon, 16 Sep 2024 01:09:53",
          "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3213",
-         "pubDate" : "Sun, 15 Sep 2024 22:19:30",
-         "title" : "45th Chess Olympiad R05: Vietnam, Armenia and Mongolia deliver upsets "
       }
    ]
 }
