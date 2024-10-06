@@ -10,12 +10,28 @@ news_feed (
          "title" : "Elon Musk criticizes chess... again!"
       },
       {
+         "description" : "Even as Gukesh has been in the form of his life, Ding has not quite been in the best of it.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41634785/world-chess-championship-gukesh-ding-liren-50-days-go-form-experience?device=featurephone",
+         "pubDate" : "Sun, 6 Oct 2024 02:52:31",
+         "title" : "World Chess Championship: 50 days to go, Gukesh has form but Ding the experience"
+      },
+      {
          "description" : "Alireza Firouzja defeated Hikaru Nakamura and Vishy Anand in consecutive games on day 3 of the Global Chess League, wins that are certain to skyrocket Firouzja's confidence. Triveni Continental Kings lost their second match of the day after Parham Maghsoodloo and Nurgyul Salimova empowered their team, Ganges Grandmasters, to their first victory, despite their 'icon' Anand losing to Firouzja. It was the closest match of the tournament so far in terms of game points, 8-10. PBG Alaskan Knights maintain their sole lead after winning all four of their games so far. Sunday will see four matches taking place, starting at 14.00 CEST (8.00 ET, 17:30 IST). | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-3-firouzja-outplays-nakamura-and-anand-triveni-continental-kings-move-up",
          "pubDate" : "Sun, 06 Oct 2024 02:20:00",
          "title" : "GCL Day 3: Firouzja outplays Nakamura and Anand, Alaskan Knights lead"
+      },
+      {
+         "description" : "A roundup of results from the third day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41632882/global-chess-league-2024-carlsen-viswanathan-anand-praggnandhaa-day-3-gcl-report?device=featurephone",
+         "pubDate" : "Sat, 5 Oct 2024 23:17:43",
+         "title" : "Global Chess League: Alaskan Knights stay unbeaten as Anand's Ganges break losing streak"
       },
       {
          "description" : "The World Chess Hall of Fame (WCHOF) announced the 2024 U.S. and World Chess Halls of Fame inductees. One candidate, Charles Henry Stanley, will be inducted to the U.S. Chess Hall of Fame on October 10, while ten candidates will be inducted to the World Chess Hall of Fame on October 20: Nana Alexandria, Chen Zhu, Robert H&uuml;bner, Vladimir Kramnik, Irina Levitina, Elena Donaldson-Akhmilovskaya, Efim Geller, Fridrik Olafsson, Oscar Panno and Lev Polugaevsky.",
