@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every month or so, I have lunch with some chess players in central London. We normally go to a pub and this time I had a decent pint and a reasonable veggie burger which was punctuated by some gossip and some chess. Find here a few of the positions we discussed - plus three remarkable games from the Olympiad in Budapest! | Pictured: Benjamin Gledura (Hungary) at the 2024 FIDE Chess Olympiad | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-220",
+         "pubDate" : "Sun, 06 Oct 2024 19:30:00",
+         "title" : "Jon Speelman: Beauty in London and Budapest"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3245",
+         "pubDate" : "Sun, 06 Oct 2024 18:54:34",
+         "title" : "Tech Mahindra Global Chess League midway through: Alaskan Knights remain unbeaten at the top"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tight position between GM Garry Kasparov and GM Yasser Seirawan with little to no time...but to whose advantage </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-mistake-against-seirawan-chess-chessstrategy-chessendgame-chesshistory-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r9SaPyoQ5go.jpg?itok=-85-Nyr8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparovs-mistake-against-seirawan-chess-chessstrategy-chessendgame-chesshistory-lichess",
+         "pubDate" : "Sun, 06 Oct 2024 18:38:37",
+         "title" : "Kasparov's Mistake Against Seirawan #chess #chessstrategy #chessendgame #chesshistory #lichess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113989711.cms\" />The American Gambits, captained by Hikaru Nakamura and Elisabeth Paehtz, defeated Viswanathan Anand's Ganges Grandmasters 10-4 at the Tech Mahindra Global Chess League. This crucial victory lifts Nakamura's team, who now have two wins in four matches, while Anand's team struggles with four losses in five matches, needing a turnaround.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -176,14 +200,6 @@ news_feed (
          "link" : "https://aicf.in/50th-national-championship-for-women-2024/",
          "pubDate" : "Sat, 05 Oct 2024 07:13:31",
          "title" : "50th National Championship for Women 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder, black will have to do something to stop checkmate. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/winning-botez-gambit-chess-chesstactics-checkmate-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/winning-botez-gambit-chess-chesstactics-checkmate-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 06:37:46",
-         "title" : "Winning With The Botez Gambit #chess #chesstactics #checkmate #lichess"
       },
       {
          "description" : "Please find certificates here No Name 1 Chandrajeet Singh Rajawat 2 Rohit Menaria 3 Monil Maroo 4 Dhruv Dak 5 Seema Sharma 6 Shreyas Hanamant",
