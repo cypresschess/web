@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113989711.cms\" />The American Gambits, captained by Hikaru Nakamura and Elisabeth Paehtz, defeated Viswanathan Anand's Ganges Grandmasters 10-4 at the Tech Mahindra Global Chess League. This crucial victory lifts Nakamura's team, who now have two wins in four matches, while Anand's team struggles with four losses in five matches, needing a turnaround.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamura-defeats-viswanathan-anand-as-ganges-grandmasters-woes-continue/articleshow/113989711.cms",
+         "pubDate" : "Sun, 06 Oct 2024 15:10:33",
+         "title" : "Nakamura defeats Anand as Ganges Grandmasters' woes continue"
+      },
+      {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Sun, 06 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "In what is now a recurring theme, Elon Musk, the world's richest man, once again took to his now owned Twitter/X to rain hell and fire on the royal game, complaining once more about its many shortcomings, with comments such as \"suddenly vaporize the opponent's king with lasers from space\", and its inability to compete with the complexity of reality. (Image: Albert Silver/Imagen 3)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/elon-musk-criticizes-chess-again",
          "pubDate" : "Sun, 06 Oct 2024 09:00:00",
          "title" : "Elon Musk criticizes chess... again!"
+      },
+      {
+         "description" : "The University of Missouri delivered a 14-2 drubbing to Athens in the second week of the 2024 Collegiate Chess League (CCL) Fall Season and debuted the competition&#39;s new strongest player, GM Aryan Tari. Scores of 4/4 for GMs Mikhail Antipov and Lu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-mizzou-yale",
+         "pubDate" : "Sun, 06 Oct 2024 07:34:00",
+         "title" : "Missouri Unleashes 'Star Recruit' Tari In Win Over Athens"
       },
       {
          "description" : "Even as Gukesh has been in the form of his life, Ding has not quite been in the best of it.",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "Announcing The Coaches For Vishy vs. The World"
       },
       {
-         "description" : "It&#39;s official: the Chess.com Streamers Program is expanding to YouTube. After the latest upgrades from our tech team, showcasing your YouTube stream on Chess.com is just as easy as showcasing your Twitch stream. Our goal is to support creators w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-streamers-program-youtube",
-         "pubDate" : "Fri, 27 Sep 2024 08:00:00",
-         "title" : "The Chess.com Streamers Program Is Now Available On YouTube"
-      },
-      {
          "description" : " India won the Open and Women's Olympiads in Budapest, while for the first time in history no European team reached the podium in either event India's domination of the 188-team Budapest Olympiad was complete. Their winning Open score of 21/22 was a record, they finished four points clear of the chasing pack, while their four individual golds included a 3000+ rating performance by Gukesh Dommaraju, 18, who challenges for the world crown in November. It was a seminal moment in chess history, comparable to the 1945 USA v USSR radio match when the Americans, quadruple Olympiad gold winners in the 1930s, were <a href=\"https://www.chessgames.com/perl/chess.pl?tid=82306&amp;result=1-0at\">crushed 1",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-team-india-celebrates-historic-chess-olympiad-double-gold-in-style-fans-draw-parallels-with-rohit-sharmas-walk-at-t20-world-cup/articleshow/113581497.cms",
          "pubDate" : "Mon, 23 Sep 2024 01:03:51",
          "title" : "Watch: Team India's 'Rohit Sharma walk' to celebrate Chess Olympiad success"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113581072.cms\" />D Gukesh, the youngest world championship challenger, played a pivotal role in India's historic Chess Olympiad victory. Scoring nine points from ten games with eight wins and two draws, he earned an individual gold medal on Board-1. Gukesh stressed that the team was focused on clinching the team gold for India, marking a significant achievement.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-were-in-celebration-mode-since-yesterday-gukesh-after-india-win-chess-olympiad-gold/articleshow/113581072.cms",
-         "pubDate" : "Mon, 23 Sep 2024 00:14:04",
-         "title" : "'In celebration mode since yesterday': Gukesh after India win Chess Olympiad gold"
       },
       {
          "description" : "The 45th FIDE Olympiad concluded on Sunday, September 22 after eleven rounds of matches showcasing the best players of almost 200 countries in each of the Open and Women's events. When all was said and done, India took home the gold in both events, with the Americans defeating China 2&frac12; - 1&frac12; in the Open to claim a silver medal and tying Kazakhstan to earn bronze in the Women's.<br> <br> This was the Women's team first medal in 16 years, punctuated by an emphatic 10/11 performance on board two from IM Carissa Yip. The well-deserved individual gold paired nicely with IM Alice Lee's individual silver for her board four score of 8/10. Neither Yip nor Lee lost any of their combined 2",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3213",
          "pubDate" : "Sun, 15 Sep 2024 22:19:30",
          "title" : "45th Chess Olympiad R05: Vietnam, Armenia and Mongolia deliver upsets "
-      },
-      {
-         "description" : "The missing subtitle 'Everybody Loves the Lewis Pieces' recalls the recent post <A HREF=\"https://chessforallages.blogspot.com/2024/06/everybody-loves-morphy.html\">Everybody Loves Morphy</A> (June 2024). Our previous Flickr post featuring the dour little warriors was <A HREF=\"https://chessforallages.blogspot.com/2023/05/the-lewis-pieces-at-church.html\">The Lewis Pieces at Church</A> (May 2023; 'Christ Church Cathedral, Waterford, Ireland'). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oi15.jpg\" WIDTH=390 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/hornbeam/53973229970/\">Lewis Chessmen</A> &#169; Flickr user <I>Hornbeam Arts</I> under <A HREF=\"https://creativecommo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/09/a-knight-and-two-berserkers.html",
-         "pubDate" : "Sun, 15 Sep 2024 15:30:00",
-         "title" : "A Knight and Two Berserkers"
       }
    ]
 }
