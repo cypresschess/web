@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In what is now a recurring theme, Elon Musk, the world's richest man, once again took to his now owned Twitter/X to rain hell and fire on the royal game, complaining once more about its many shortcomings, with comments such as \"suddenly vaporize the opponent's king with lasers from space\", and its inability to compete with the complexity of reality. (Image: Albert Silver/Imagen 3)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elon-musk-criticizes-chess-again",
+         "pubDate" : "Sun, 06 Oct 2024 09:00:00",
+         "title" : "Elon Musk criticizes chess... again!"
+      },
+      {
          "description" : "Alireza Firouzja defeated Hikaru Nakamura and Vishy Anand in consecutive games on day 3 of the Global Chess League, wins that are certain to skyrocket Firouzja's confidence. Triveni Continental Kings lost their second match of the day after Parham Maghsoodloo and Nurgyul Salimova empowered their team, Ganges Grandmasters, to their first victory, despite their 'icon' Anand losing to Firouzja. It was the closest match of the tournament so far in terms of game points, 8-10. PBG Alaskan Knights maintain their sole lead after winning all four of their games so far. Sunday will see four matches taking place, starting at 14.00 CEST (8.00 ET, 17:30 IST). | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
