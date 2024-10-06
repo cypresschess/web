@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja defeated Hikaru Nakamura and Vishy Anand in consecutive games on day 3 of the Global Chess League, wins that are certain to skyrocket Firouzja's confidence. Triveni Continental Kings lost their second match of the day after Parham Maghsoodloo and Nurgyul Salimova empowered their team, Ganges Grandmasters, to their first victory, despite their 'icon' Anand losing to Firouzja. It was the closest match of the tournament so far in terms of game points, 8-10. PBG Alaskan Knights maintain their sole lead after winning all four of their games so far. Sunday will see four matches taking place, starting at 14.00 CEST (8.00 ET, 17:30 IST). | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-3-firouzja-outplays-nakamura-and-anand-triveni-continental-kings-move-up",
+         "pubDate" : "Sun, 06 Oct 2024 02:20:00",
+         "title" : "GCL Day 3: Firouzja outplays Nakamura and Anand, Alaskan Knights lead"
+      },
+      {
          "description" : "The World Chess Hall of Fame (WCHOF) announced the 2024 U.S. and World Chess Halls of Fame inductees. One candidate, Charles Henry Stanley, will be inducted to the U.S. Chess Hall of Fame on October 10, while ten candidates will be inducted to the World Chess Hall of Fame on October 20: Nana Alexandria, Chen Zhu, Robert H&uuml;bner, Vladimir Kramnik, Irina Levitina, Elena Donaldson-Akhmilovskaya, Efim Geller, Fridrik Olafsson, Oscar Panno and Lev Polugaevsky.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparovs-mistake-against-seirawan-chess-educational-chessstrategy-chessendgame-lichess",
          "pubDate" : "Sat, 05 Oct 2024 18:38:04",
          "title" : "Kasparov's Mistake Against Seirawan #chess #educational #chessstrategy #chessendgame #lichess"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk has turned a good week into a great one after winning his eighth Bullet Brawl&#38;nbsp;by a 39-point margin and claiming the $400 first prize following a Titled Tuesday masterclass earlier in the week. GMs Daniel Naroditsky and Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-october-5-2024",
+         "pubDate" : "Sat, 05 Oct 2024 16:46:00",
+         "title" : "Bortnyk Smashes Bullet Brawl Days After Titled Tuesday Victory"
       },
       {
          "description" : "<div class=\"body text-secondary\"> NM Ralph Tan gives an overview a position played by Ignatz von Kolisch in the Romantic-Era of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advantage-fishing-tactic-chess-chesstactic-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/84Kqj3jGINs.jpg?itok=rrYPo11s\" alt=\"\" /></a></div>",
@@ -186,14 +202,6 @@ news_feed (
          "title" : "Carlsen beaten by clock; Anand loses to former world blitz champion"
       },
       {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Fri, 04 Oct 2024 13:50:00",
-         "title" : "Global Chess League - Live!"
-      },
-      {
          "description" : "All buckled up? Logic is taking you on a sci-fi adventure for the books&#38;ndash;and your final destination is Paradise. Celebrate the release of Logic&#38;rsquo;s ninth studio album and graphic novel, Ultra 85, with not one&#38;ndash;but five&#38;ndash;unique...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,28 +250,12 @@ news_feed (
          "title" : "Global Chess League: Anand-Carlsen draw headlines opening day of season 2"
       },
       {
-         "description" : "PBG Alaskan Knights made a fantastic start by defeating the defending champions, Triveni Continental Kings, on the first day of Tech Mahindra Global Chess League 2024. The inaugural edition's bottom finisher made a roaring start by registering a 3-0 (15-3) win. Nodirbek Abdusattorov, Shakhriyar Mamedyarov and Nihal Sarin ensured the team's success. American Gambits and Alpine SG Pipers also won their first matches. The league CEO, Sameer Pathak, made the inaugural move. Tomorrow is the first of three days when four matches will be played, starting with upGrad Mumba Masters vs Ganges Grandmasters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gcl-day-1-alaskan-knights-squash-the-defending-champions-continental-kings",
-         "pubDate" : "Fri, 04 Oct 2024 00:40:00",
-         "title" : "GCL Day 1: The Alaskan Knights crush the Continental Kings"
-      },
-      {
          "description" : "Editor's note: This story first appeared in the October 2024 issue of Chess Life Kids magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. A high-resolution download of this article is available here. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> \"May The Best Player Win\" is author Kyla Zhou's third novel and first for kids. The novel is a fun read about chess, girl power, and performance anxiety in sports, and it is published by Penguin Random House.<br> <br> Things see",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/inside-story-im-carissa-yip-interviews-author-kyla-zhou",
          "pubDate" : "Fri, 04 Oct 2024 00:00:00",
          "title" : "Inside Story: IM Carissa Yip Interviews Author Kyla Zhou"
-      },
-      {
-         "description" : "The tenth edition of the Ibero-American Chess Championship came to a close on Tuesday at the Hotel RL An&iacute;bal in Linares, Spain. Alan Pichot, the Argentine-born GM now representing Spain, was the sole winner after obtaining 7&frac12;/9 points. IM Daniel Garc&iacute;a from Spain and GM Santiago Ávila from Colombia grabbed second and third place, respectively. IM Sabrina Vega, an 8-time women's Spanish champion, was the top scorer among the women participants, while IM Diego Flores from Per&uacute; finished first among the juniors. | Photos: FEDA (Spanish Chess Federation)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ibero-american-championship-2024-report",
-         "pubDate" : "Thu, 03 Oct 2024 20:50:00",
-         "title" : "Ibero-American Championship: Alan Pichot captures title"
       },
       {
          "description" : "",
@@ -298,14 +290,6 @@ news_feed (
          "title" : "TechM Global Chess League 2024 - Games and Results"
       },
       {
-         "description" : "It is the best known and least talked about aspect of the forthcoming title match for the World Championship: the current form of Ding Liren and what it may mean for the match itself. While everyone has an opinion, all of it has really been confined to speculation. Singaporean news source The Straits Times talked with Ding Liren, who opened up on the topic. | Credit: Maria Emelianova/chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-opens-up-on-mental-struggles",
-         "pubDate" : "Thu, 03 Oct 2024 10:00:00",
-         "title" : "Ding Liren opens up on mental struggles"
-      },
-      {
          "description" : "Please find the live links here https://live.tamilchess.com/nwcc2024/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -320,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/zenon-franco-obituary",
          "pubDate" : "Thu, 03 Oct 2024 02:54:00",
          "title" : "GM Zenon Franco, 1956-2024"
-      },
-      {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. Organised by Tech Mahindra Global and FIDE, the team-based tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. With a US$ 1 million prize fund at stake, the competition will follow a double round-robin format, leading to a final showdown between the top two teams. An innovative scoring system and fast-paced time control promise an action-packed event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-format",
-         "pubDate" : "Thu, 03 Oct 2024 00:25:00",
-         "title" : "Global Chess League: Format, schedule, participants"
       },
       {
          "description" : "Byes are given out to players for games not played. Sometimes it is a full-point bye. Sometimes it is a half-point bye. Occasionally a zero-point bye creeps into that mix. And then there is the bye you pick up as a substitute for your just completed game. Check out two such scenarios where this could happen, and what to do if it does:<br> <br> <br> <br> Converting an OTB Victory into a Bye?!<br> <br> \"PAIRINGS ARE UP,\" is the shout heard around the tournament site. Wood-pushers are drawn to those posted match-ups like a hungry person drawn to a Vegas buffet. You find that you are at board 17 essaying the black pieces against an unrated opponent: it is their first event.<br> <br> When all is ",
@@ -744,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/jerusalem-masters-and-open-2024",
          "pubDate" : "Thu, 26 Sep 2024 12:10:00",
          "title" : "Jerusalem Masters and Open 2024 - Games and Results"
-      },
-      {
-         "description" : "The three divisions of the Julius Baer Generation Cup 2024 are set to begin. After a Play-in and two Division Placement matches, we will see the following players in Division I: GMs Magnus Carlsen, Ian Nepomniachtchi, Arjun Erigaisi, Levon Aronian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-division-placement",
-         "pubDate" : "Thu, 26 Sep 2024 12:00:00",
-         "title" : "Carlsen, Nepomniachtchi, Arjun, Aronian, Fedoseev Advance To Division I"
       },
       {
          "description" : "",
@@ -1304,14 +1272,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/09/a-knight-and-two-berserkers.html",
          "pubDate" : "Sun, 15 Sep 2024 15:30:00",
          "title" : "A Knight and Two Berserkers"
-      },
-      {
-         "description" : "Arjun Erigaisi and co. beat Serbia in the open section, while the women's team defeated France in the fourth round of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41265807/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-indian-chess-news-day-4-report?device=featurephone",
-         "pubDate" : "Sat, 14 Sep 2024 23:40:47",
-         "title" : "Chess Olympiad 2024: Arjun Erigaisi leads India past Serbia, Harika back to winning ways"
       }
    ]
 }
