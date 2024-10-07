@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Mon, 07 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-4-carlsen-and-nakamura-battle-a-thriller",
          "pubDate" : "Mon, 07 Oct 2024 04:40:00",
          "title" : "GCL Day 4: Carlsen and Nakamura battle a thriller"
+      },
+      {
+         "description" : "A roundup of results from the fourth day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41653879/global-chess-league-2024-gcl-report-carlsen-viswanathan-anand-praggnandhaa-gcl-day-4?device=featurephone",
+         "pubDate" : "Sun, 6 Oct 2024 23:20:42",
+         "title" : "Global Chess League: PBG Alaskan Knights maintain perfect run as Anand's Grandmasters struggle again"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder tactic (Botez Gambit ), black will have to do something to stop the checkmating threats. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/using-botez-gambit-tool-chess-education-chesstactic-checkmate-botezgambit-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3214",
          "pubDate" : "Mon, 16 Sep 2024 16:04:24",
          "title" : "World Senior Championships 2024: Registration deadline extended"
-      },
-      {
-         "description" : "Are you an English junior who loves chess? Take your skills to the next level by joining our online tournaments - challenge top players, sharpen your tactics, and experience the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/play-chess-online-against-other-ecf-juniors/",
-         "pubDate" : "Mon, 16 Sep 2024 13:25:41",
-         "title" : "Play chess ONLINE against other ECF juniors!"
       }
    ]
 }
