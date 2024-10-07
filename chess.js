@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3247",
+         "pubDate" : "Mon, 07 Oct 2024 10:35:12",
+         "title" : "EDU Commission announces its 19th \"Preparation of Teachers\" course"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3246",
+         "pubDate" : "Mon, 07 Oct 2024 10:18:47",
+         "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners begins this week"
+      },
+      {
+         "description" : "This year's book was first published in Dutch in 2011 and was acclaimed as a classic grandmaster chess autobiography. The book was translated into English to enable this remarkable work...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-chess-federation-book-of-the-year-2024/",
+         "pubDate" : "Mon, 07 Oct 2024 09:52:58",
+         "title" : "English Chess Federation Book of the Year 2024"
+      },
+      {
          "description" : "ARTE, the French-German film production and TV channel, has made a six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. The movie, due for broadcast on October 17, can already be viewed in full on the ARTE Internet web site. Mind you, it will take almost five hours to watch, but it is definitely worth the invested time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/arte-film-on-kasparov-vs-deep-blue",
          "pubDate" : "Mon, 07 Oct 2024 09:08:10",
          "title" : "ARTE: Film on Kasparov vs Deep Blue"
+      },
+      {
+         "description" : "The 24th European Women's Chess Championship will take place from 30 March to 12 April 2025 in Rhodes, Greece. The event is open to all women players representing national federations listed as ECU members, without rating or title limitations. The Championship will be played in 11 rounds, swiss system, with time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The official hotel []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-official-invitation/",
+         "pubDate" : "Mon, 07 Oct 2024 08:43:36",
+         "title" : "European Women's Chess Championship 2025 - Official invitation"
       },
       {
          "description" : "Alireza Firouzja continues his phenomenal form at the Global Chess League. He won the French derby against Maxime Vachier-Lagrave to power his team, Triveni Continental Kings, to a victory over upGrad Mumba Masters. American Gambits started the day with a win over Ganges Grandmasters, but finished the day with a loss against Alpine SG Pipers. Hikaru Nakamura showed excellent resiliency against Magnus Carlsen, got a winning chance, but missed it and the game ended in a draw. PBG Alaskan Knights registered their fifth consecutive win as they continue to lead. | Photo: Shahid Ahmed",
