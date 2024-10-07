@@ -82,28 +82,12 @@ news_feed (
          "title" : "World Chess Championship: 50 days to go, Gukesh has form but Ding the experience"
       },
       {
-         "description" : "Alireza Firouzja defeated Hikaru Nakamura and Vishy Anand in consecutive games on day 3 of the Global Chess League, wins that are certain to skyrocket Firouzja's confidence. Triveni Continental Kings lost their second match of the day after Parham Maghsoodloo and Nurgyul Salimova empowered their team, Ganges Grandmasters, to their first victory, despite their 'icon' Anand losing to Firouzja. It was the closest match of the tournament so far in terms of game points, 8-10. PBG Alaskan Knights maintain their sole lead after winning all four of their games so far. Sunday will see four matches taking place, starting at 14.00 CEST (8.00 ET, 17:30 IST). | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-3-firouzja-outplays-nakamura-and-anand-triveni-continental-kings-move-up",
-         "pubDate" : "Sun, 06 Oct 2024 02:20:00",
-         "title" : "GCL Day 3: Firouzja outplays Nakamura and Anand, Alaskan Knights lead"
-      },
-      {
          "description" : "A roundup of results from the third day of the Global Chess League Season 2.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/41632882/global-chess-league-2024-carlsen-viswanathan-anand-praggnandhaa-day-3-gcl-report?device=featurephone",
          "pubDate" : "Sat, 5 Oct 2024 23:17:43",
          "title" : "Global Chess League: Alaskan Knights stay unbeaten as Anand's Ganges break losing streak"
-      },
-      {
-         "description" : "The World Chess Hall of Fame (WCHOF) announced the 2024 U.S. and World Chess Halls of Fame inductees. One candidate, Charles Henry Stanley, will be inducted to the U.S. Chess Hall of Fame on October 10, while ten candidates will be inducted to the World Chess Hall of Fame on October 20: Nana Alexandria, Chen Zhu, Robert H&uuml;bner, Vladimir Kramnik, Irina Levitina, Elena Donaldson-Akhmilovskaya, Efim Geller, Fridrik Olafsson, Oscar Panno and Lev Polugaevsky.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/inductees-world-chess-hall-of-fame-2024",
-         "pubDate" : "Sat, 05 Oct 2024 20:00:00",
-         "title" : "Geller and Kramnik among inductees to the 2024 World Chess Hall of Fame"
       },
       {
          "description" : "",
@@ -1296,14 +1280,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2024/",
          "pubDate" : "Mon, 16 Sep 2024 07:29:25",
          "title" : "ECU E-Magazine August 2024"
-      },
-      {
-         "description" : "Indian men beat Azerbaijan and the women beat Kazakhstan for confidence-boosting wins in the fifth round of the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41281554/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-5-report?device=featurephone",
-         "pubDate" : "Mon, 16 Sep 2024 01:09:53",
-         "title" : "Chess Olympiad 2024: India continue perfect start with both men and women's teams in joint lead"
       }
    ]
 }
