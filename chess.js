@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja is in the form of his life, as he defeated Maxime Vachier-Lagrave for the second time in consecutive days. Alexandra Kosteniuk scored the only other win for the team, which helped Triveni Continental Kings register their fourth win of the event. Anish Giri made a nice queen sacrifice to build a fortress and draw with Magnus Carlsen. Yifan Hou and Kateryna Lagno scored the wins for SG Alpine Pipers. Nihal Sarin's sole win for Balan Alaskan Knights was not enough to win the match. Ganges Grandmasters scored their second match win of the event. The sixth day will start with Alpine SG Pipers vs upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-5-alpine-sg-pipers-ends-pbg-alaskan-knights-unbeaten-streak",
+         "pubDate" : "Mon, 07 Oct 2024 21:45:00",
+         "title" : "GCL Day 5: Alpine SG Pipers end PBG Alaskan Knights' unbeaten streak"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3250",
+         "pubDate" : "Mon, 07 Oct 2024 21:00:49",
+         "title" : "Global Chess League, Day 5: PBG still on top despite first defeat"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-5",
-         "pubDate" : "Mon, 07 Oct 2024 11:05:14",
+         "pubDate" : "Mon, 07 Oct 2024 11:05:00",
          "title" : "Alpine Sg Pipers Inflict 1st Loss Upon PBG Alaskan Knights"
       },
       {
@@ -74,12 +90,12 @@ news_feed (
          "title" : "European Women's Chess Championship 2025 - Official invitation"
       },
       {
-         "description" : "Alireza Firouzja continues his phenomenal form at the Global Chess League. He won the French derby against Maxime Vachier-Lagrave to power his team, Triveni Continental Kings, to a victory over upGrad Mumba Masters. American Gambits started the day with a win over Ganges Grandmasters, but finished the day with a loss against Alpine SG Pipers. Hikaru Nakamura showed excellent resiliency against Magnus Carlsen, got a winning chance, but missed it and the game ended in a draw. PBG Alaskan Knights registered their fifth consecutive win as they continue to lead. | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-4-carlsen-and-nakamura-battle-a-thriller",
-         "pubDate" : "Mon, 07 Oct 2024 04:40:00",
-         "title" : "GCL Day 4: Carlsen and Nakamura battle a thriller"
+         "description" : "Careful readers of the October Chess Life print edition will note a deeply regrettable error. Two photographs of Louis \"Lou\" Giarrusso appear in a rotated and skewed format on Page 7.Why did this happen?As fate would have it, Lou passed away the night before we were to go to press. What was to have been a celebration of his life had to be quickly written as an obituary.In the process of editing and page-fitting, I made the final round of corrections to the file, did the output from InDesign to .pdf, and uploaded those files to our printer's website.What I did not know - but do now - is that there is a very specific issue with .heic image files (the native Apple / iOS image file format) and A",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/regarding-error-october-chess-life",
+         "pubDate" : "Mon, 07 Oct 2024 00:00:00",
+         "title" : "Regarding Error in October Chess Life"
       },
       {
          "description" : "A roundup of results from the fourth day of the Global Chess League Season 2.",
@@ -402,7 +418,7 @@ news_feed (
          "title" : "Giri's Alaskan Knights Impress On 2024 Global Chess League Opening Day"
       },
       {
-         "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Ian Nepomniachtchi (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (P",
+         "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Alireza Firouzja (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (PBG",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
@@ -1034,14 +1050,6 @@ news_feed (
          "title" : "Watch: Team India's 'Rohit Sharma walk' to celebrate Chess Olympiad success"
       },
       {
-         "description" : "The 45th FIDE Olympiad concluded on Sunday, September 22 after eleven rounds of matches showcasing the best players of almost 200 countries in each of the Open and Women's events. When all was said and done, India took home the gold in both events, with the Americans defeating China 2&frac12; - 1&frac12; in the Open to claim a silver medal and tying Kazakhstan to earn bronze in the Women's.<br> <br> This was the Women's team first medal in 16 years, punctuated by an emphatic 10/11 performance on board two from IM Carissa Yip. The well-deserved individual gold paired nicely with IM Alice Lee's individual silver for her board four score of 8/10. Neither Yip nor Lee lost any of their combined 2",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/two-team-three-individual-medals-americans-india-takes-double-gold-45th-fide-olympiad",
-         "pubDate" : "Mon, 23 Sep 2024 00:00:00",
-         "title" : "Two Team, Three Individual Medals for Americans as India Takes Double Gold at 45th FIDE Olympiad"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
          "pubDate" : "Tue, 17 Sep 2024 00:16:59",
          "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3216",
-         "pubDate" : "Mon, 16 Sep 2024 21:30:14",
-         "title" : "45th Chess Olympiad R06: India emerges as sole leader in both open and women's events"
       }
    ]
 }
