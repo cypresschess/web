@@ -1,5 +1,7 @@
 jtable([
+"HOUSTON","2024-10-04  - 10-06","55","<a href=http://www.uschess.org/msa/XtblMain.php?202410063382 target='_blank'>$2,500 OCTOBER 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-10-05","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410051942 target='_blank'>CHESSPANDA10052024SATURDAY</a>",
+"SUGAR LAND","2024-10-05","12","<a href=http://www.uschess.org/msa/XtblMain.php?202410051742 target='_blank'>FBCC 2024 NATIONAL TACO DAY OPEN</a>",
 "SPRING","2024-10-04","34","<a href=http://www.uschess.org/msa/XtblMain.php?202410041642 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-09-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202409289282 target='_blank'>ADULTS ONLY SEPT 28TH  SATURDAY SWI</a>",
 "HOUSTON","2024-09-28","16","<a href=http://www.uschess.org/msa/XtblMain.php?202409289222 target='_blank'>CHESSPANDA09282024SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2024-03-02","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403020922 target='_blank'>CHESSPANDA03022024SATURDAY</a>",
 "SPRING","2024-03-01","25","<a href=http://www.uschess.org/msa/XtblMain.php?202403019522 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-02-06  - 02-27","25","<a href=http://www.uschess.org/msa/XtblMain.php?202402279312 target='_blank'>FebTuesdayNightSwiss24</a>",
-"HOUSTON","2024-02-25","52","<a href=http://www.uschess.org/msa/XtblMain.php?202402257572 target='_blank'>SRI MEENAKSHI TEMPLE 2024</a>",
-"SUGAR LAND","2024-02-25","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402256592 target='_blank'>CYGA02252024</a>",
 ]);
