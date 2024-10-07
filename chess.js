@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ARTE, the French-German film production and TV channel, has made a six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. The movie, due for broadcast on October 17, can already be viewed in full on the ARTE Internet web site. Mind you, it will take almost five hours to watch, but it is definitely worth the invested time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arte-film-on-kasparov-vs-deep-blue",
+         "pubDate" : "Mon, 07 Oct 2024 09:08:10",
+         "title" : "ARTE: Film on Kasparov vs Deep Blue"
+      },
+      {
+         "description" : "Alireza Firouzja continues his phenomenal form at the Global Chess League. He won the French derby against Maxime Vachier-Lagrave to power his team, Triveni Continental Kings, to a victory over upGrad Mumba Masters. American Gambits started the day with a win over Ganges Grandmasters, but finished the day with a loss against Alpine SG Pipers. Hikaru Nakamura showed excellent resiliency against Magnus Carlsen, got a winning chance, but missed it and the game ended in a draw. PBG Alaskan Knights registered their fifth consecutive win as they continue to lead. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-4-carlsen-and-nakamura-battle-a-thriller",
+         "pubDate" : "Mon, 07 Oct 2024 04:40:00",
+         "title" : "GCL Day 4: Carlsen and Nakamura battle a thriller"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder tactic (Botez Gambit ), black will have to do something to stop the checkmating threats. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/using-botez-gambit-tool-chess-education-chesstactic-checkmate-botezgambit-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/using-botez-gambit-tool-chess-education-chesstactic-checkmate-botezgambit-lichess",
          "pubDate" : "Sun, 06 Oct 2024 21:38:44",
          "title" : "Using The Botez Gambit As A Tool #chess #education #chesstactic #checkmate #botezgambit #lichess"
-      },
-      {
-         "description" : "Every month or so, I have lunch with some chess players in central London. We normally go to a pub and this time I had a decent pint and a reasonable veggie burger which was punctuated by some gossip and some chess. Find here a few of the positions we discussed - plus three remarkable games from the Olympiad in Budapest! | Pictured: Benjamin Gledura (Hungary) at the 2024 FIDE Chess Olympiad | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-220",
-         "pubDate" : "Sun, 06 Oct 2024 19:30:00",
-         "title" : "Jon Speelman: Beauty in London and Budapest"
       },
       {
          "description" : "",
@@ -42,28 +50,12 @@ news_feed (
          "title" : "Nakamura defeats Anand as Ganges Grandmasters' woes continue"
       },
       {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Sun, 06 Oct 2024 13:50:00",
-         "title" : "Global Chess League - Live!"
-      },
-      {
          "description" : "The PBG Alaskan Knights won their fifth match on Sunday to lead the Tech Mahindra Global Chess League with a six-point margin halfway through the round-robin stage. The Triveni Continental Kings and the Alpine Sg Pipers are sharing second place wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-4",
          "pubDate" : "Sun, 06 Oct 2024 12:29:00",
          "title" : "Triveni Continental Kings, Alpine Sg Pipers Chase Still Perfect PBG Alaskan Knights"
-      },
-      {
-         "description" : "In what is now a recurring theme, Elon Musk, the world's richest man, once again took to his now owned Twitter/X to rain hell and fire on the royal game, complaining once more about its many shortcomings, with comments such as \"suddenly vaporize the opponent's king with lasers from space\", and its inability to compete with the complexity of reality. (Image: Albert Silver/Imagen 3)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elon-musk-criticizes-chess-again",
-         "pubDate" : "Sun, 06 Oct 2024 09:00:00",
-         "title" : "Elon Musk criticizes chess... again!"
       },
       {
          "description" : "The University of Missouri delivered a 14-2 drubbing to Athens in the second week of the 2024 Collegiate Chess League (CCL) Fall Season and debuted the competition&#39;s new strongest player, GM Aryan Tari. Scores of 4/4 for GMs Mikhail Antipov and Lu...",
@@ -1272,14 +1264,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/play-chess-online-against-other-ecf-juniors/",
          "pubDate" : "Mon, 16 Sep 2024 13:25:41",
          "title" : "Play chess ONLINE against other ECF juniors!"
-      },
-      {
-         "description" : "ECU E-Magazine August 2024 is out! In this edition of the ECU E-Magazine you may read about: The August 2024 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-august-2024/",
-         "pubDate" : "Mon, 16 Sep 2024 07:29:25",
-         "title" : "ECU E-Magazine August 2024"
       }
    ]
 }
