@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3249",
+         "pubDate" : "Mon, 07 Oct 2024 19:19:45",
+         "title" : "FIDE World Cadet Chess Championship 2024: Registration deadline extended"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3248",
+         "pubDate" : "Mon, 07 Oct 2024 18:24:40",
+         "title" : "FIDE Council meeting and FIDE GA lists of decisions published"
+      },
+      {
          "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
          "pubDate" : "Mon, 07 Oct 2024 13:50:00",
          "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "The Alpine Sg Pipers were the first team to beat the PBG Alaskan Knights on Monday at the Tech Mahindra Global Chess League in London. The Pipers are now just three points behind the leaders, along with the Triveni Continental Kings. Scoring their...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-5",
+         "pubDate" : "Mon, 07 Oct 2024 11:05:14",
+         "title" : "Alpine Sg Pipers Inflict 1st Loss Upon PBG Alaskan Knights"
       },
       {
          "description" : "",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "Derrick Rose retires&hellip; chess next?"
       },
       {
-         "description" : "GMs Magnus Carlsen, Alireza Firouzja, Levon Aronian, and Alexander Grischuk advance to the Division I Winners Semifinals of the Julius Baer Generation Cup 2024, after respectively defeating GMs Ian Nepomniachtchi, Vladimir Fedoseev, Maxime Vachier...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-3",
-         "pubDate" : "Fri, 27 Sep 2024 11:28:00",
-         "title" : "Grischuk Shows Class Is Forever Vs. Arjun, Carlsen Swindles Nepomniachtchi"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,22 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3216",
          "pubDate" : "Mon, 16 Sep 2024 21:30:14",
          "title" : "45th Chess Olympiad R06: India emerges as sole leader in both open and women's events"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3215",
-         "pubDate" : "Mon, 16 Sep 2024 16:57:23",
-         "title" : "FIDE WGP 2024-2025: Complete allocations announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3214",
-         "pubDate" : "Mon, 16 Sep 2024 16:04:24",
-         "title" : "World Senior Championships 2024: Registration deadline extended"
       }
    ]
 }
