@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3252",
+         "pubDate" : "Tue, 08 Oct 2024 21:52:14",
+         "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners: Day 1 recap"
+      },
+      {
          "description" : "Every chess piece has a favourite region of the board. Knights like to be in the centre, kings rely on the safety of the corners. However, no piece loves a specific diagonal, file or rank as much as rooks do. Rooks love the 7th rank. On this rank, they feel like a kid in a candy shop. There are so many pawns to consume! Also, sometimes the opponent's pieces are vulnerable as well. But why is the seventh rank so attractive for rooks? Jan Markos has some answers and examples! | Diagram: Final position of the game Vidit Gujrathi vs Wei Yi, Global Chess League 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-winning-academy-37-rooks-in-paradise",
          "pubDate" : "Tue, 08 Oct 2024 20:00:00",
          "title" : "The Winning Academy 37: Rooks in Paradise"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3251",
+         "pubDate" : "Tue, 08 Oct 2024 19:58:11",
+         "title" : "Global Chess League, Day 6: Underdogs shake up the leaderboard"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114056187.cms\" />Indian chess Grandmaster Vidit Gujrathi highlights the lack of professionalism in the sport's scheduling, which he says negatively impacts players' well-being. He calls for an overhaul of the entire ecosystem to provide players with necessary rest periods. Despite recent successes, Gujrathi remains focused on achieving his ultimate goal of winning a world title.",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
          "pubDate" : "Tue, 08 Oct 2024 13:50:00",
          "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "GM Anish Giri scored his first win on Tuesday to lead the PBG Alaskan Knights to their sixth win in seven matches as the team is on the brink of securing a spot in Saturday&#39;s final of the Tech Mahindra Global Chess League. It was a strange day tha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-6",
+         "pubDate" : "Tue, 08 Oct 2024 13:09:18",
+         "title" : "PBG Alaskan Knights Close To Reaching Final After Day Of Blunders"
       },
       {
          "description" : "Rapid games are noted for the fast-paced action and drama and mistakes, a fine line between quality and plain adrenaline. When played by world elite players such as MVL, Erigaisi, Nepo, and more, you can also run into astounding tactics and attacks that even the computers cannot criticize. Such was the case for two by the Frenchman no less. Don't miss these! (credit: Albert Silver/Flux Pro 1.1)",
@@ -770,14 +794,6 @@ news_feed (
          "title" : "Virginia Upsets Top-Seeded Missouri, Saint Louis Defeats Athens"
       },
       {
-         "description" : "GM Hikaru Nakamura is one win away from his 30th Bullet Brawl title after stringing together a 42-game winning streak during Saturday&#39;s event and claiming the $400 first prize. Nakamura&#39;s 75/78 performance earned him a score of 284, 16 points clea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-28-2024",
-         "pubDate" : "Sat, 28 Sep 2024 15:35:00",
-         "title" : "Nakamura Clinches Bullet Brawl With 42-Game Winning Streak"
-      },
-      {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1312,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3218",
          "pubDate" : "Wed, 18 Sep 2024 08:00:33",
          "title" : "Opera and chess - Lajos Portisch celebrated the 45th Chess Olympiad with an aria evening"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 6Monday, 16 September 2024 Open Round 6 is right before the rest day and the tournament got a bit more tense. India continued mowing down the field and beat host Hungary by a resounding 3-1 score. Arjun Erigaisi is cleaning up on board 3 with 6/6 and a 3341 performance rating! The post <a href=\"https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/\">2024 Chess Olympiad: Round 6</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/",
-         "pubDate" : "Tue, 17 Sep 2024 20:22:41",
-         "title" : "2024 Chess Olympiad: Round 6"
       }
    ]
 }
