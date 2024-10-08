@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every chess piece has a favourite region of the board. Knights like to be in the centre, kings rely on the safety of the corners. However, no piece loves a specific diagonal, file or rank as much as rooks do. Rooks love the 7th rank. On this rank, they feel like a kid in a candy shop. There are so many pawns to consume! Also, sometimes the opponent's pieces are vulnerable as well. But why is the seventh rank so attractive for rooks? Jan Markos has some answers and examples! | Diagram: Final position of the game Vidit Gujrathi vs Wei Yi, Global Chess League 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-37-rooks-in-paradise",
+         "pubDate" : "Tue, 08 Oct 2024 20:00:00",
+         "title" : "The Winning Academy 37: Rooks in Paradise"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114056187.cms\" />Indian chess Grandmaster Vidit Gujrathi highlights the lack of professionalism in the sport's scheduling, which he says negatively impacts players' well-being. He calls for an overhaul of the entire ecosystem to provide players with necessary rest periods. Despite recent successes, Gujrathi remains focused on achieving his ultimate goal of winning a world title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-always-lacked-a-bit-of-professionalism-vidit-gujrathi/articleshow/114056187.cms",
+         "pubDate" : "Tue, 08 Oct 2024 17:26:57",
+         "title" : "Chess has always lacked a bit of professionalism: Vidit Gujrathi"
+      },
+      {
          "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41672780/global-chess-league-2024-gcl-report-carlsen-viswanathan-anand-praggnandhaa-gcl-day-5?device=featurephone",
          "pubDate" : "Tue, 8 Oct 2024 00:06:01",
          "title" : "Global Chess League: Triveni Continental Kings climb to second, PBG Alaskan Knights remain on top despite defeat"
+      },
+      {
+         "description" : "This week begins a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles all focus on mating attacks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-1",
+         "pubDate" : "Tue, 08 Oct 2024 00:00:00",
+         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 1"
       },
       {
          "description" : "Alireza Firouzja is in the form of his life, as he defeated Maxime Vachier-Lagrave for the second time in consecutive days. Alexandra Kosteniuk scored the only other win for the team, which helped Triveni Continental Kings register their fourth win of the event. Anish Giri made a nice queen sacrifice to build a fortress and draw with Magnus Carlsen. Yifan Hou and Kateryna Lagno scored the wins for SG Alpine Pipers. Nihal Sarin's sole win for Balan Alaskan Knights was not enough to win the match. Ganges Grandmasters scored their second match win of the event. The sixth day will start with Alpine SG Pipers vs upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "In Olympic year, India's big gold"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we take a look at the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. The games were played online, but with competitors in the same location in front of a live crowd in Paris, France. GM Magnus Carlsen won both of his matches, and GM Hikaru Nakamura won his third-place match against GM Hans Niemann. French GM Alireza Firouzja finished second.<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.<br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-1",
-         "pubDate" : "Tue, 24 Sep 2024 00:00:00",
-         "title" : "Tactics Tuesday: Paris Speed Chess Champs, Pt. 1"
-      },
-      {
          "description" : " The 45th World Chess Olympiad took place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then China, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China were the top seeds in the women's events. India dominated the Open Olympiad being one of the most convincing winners in many years, they were held to four draws by bronze medalists Uzbekistan in Round 9 but otherwise won all their matches powered by Gukesh's 9 from 10 on board one and Erigaisi's 10/11 on board 3. Praggnanandhaa (6/10",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41392539/chess-gold-rush-new-gen-champs-gukesh-divya-vantika-pragg-took-viswanathan-anand-skill-added-scale?device=featurephone",
          "pubDate" : "Mon, 23 Sep 2024 03:43:37",
          "title" : "Chess gold rush: New-gen champs took Anand's skill and added scale"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113581497.cms\" />India's men's and women's teams have made history by winning their first-ever gold medals at the 45th Chess Olympiad in Budapest. The men's team triumphed over Slovenia, while the women's team defeated Azerbaijan. Prime Minister Narendra Modi praised these achievements, highlighting them as a reflection of India's energy and aspirations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-team-india-celebrates-historic-chess-olympiad-double-gold-in-style-fans-draw-parallels-with-rohit-sharmas-walk-at-t20-world-cup/articleshow/113581497.cms",
-         "pubDate" : "Mon, 23 Sep 2024 01:03:51",
-         "title" : "Watch: Team India's 'Rohit Sharma walk' to celebrate Chess Olympiad success"
       },
       {
          "description" : "",
