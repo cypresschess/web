@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The reigning champions of the Bundesliga, Viernheim, made a false start to the new season and lost to the host team in Hamburg. The defending champions were missing the top six boards due to the Global Chess League taking place concurrently. Baden-Baden also played without its top players in Munich. | Pictured: The cheerful Hamburger SK team with captain Reinhardt Ahrens | Photos: Andr&eacute; Schulz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-viernheim-struggle-first-weekend",
+         "pubDate" : "Tue, 08 Oct 2024 06:15:00",
+         "title" : "Bundesliga: Defending champions Viernheim struggle in Hamburg"
+      },
+      {
+         "description" : "A roundup of results from the fifth day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41672780/global-chess-league-2024-gcl-report-carlsen-viswanathan-anand-praggnandhaa-gcl-day-5?device=featurephone",
+         "pubDate" : "Tue, 8 Oct 2024 00:06:01",
+         "title" : "Global Chess League: Triveni Continental Kings climb to second, PBG Alaskan Knights remain on top despite defeat"
+      },
+      {
          "description" : "Alireza Firouzja is in the form of his life, as he defeated Maxime Vachier-Lagrave for the second time in consecutive days. Alexandra Kosteniuk scored the only other win for the team, which helped Triveni Continental Kings register their fourth win of the event. Anish Giri made a nice queen sacrifice to build a fortress and draw with Magnus Carlsen. Yifan Hou and Kateryna Lagno scored the wins for SG Alpine Pipers. Nihal Sarin's sole win for Balan Alaskan Knights was not enough to win the match. Ganges Grandmasters scored their second match win of the event. The sixth day will start with Alpine SG Pipers vs upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-5-alpine-sg-pipers-ends-pbg-alaskan-knights-unbeaten-streak",
          "pubDate" : "Mon, 07 Oct 2024 21:45:00",
          "title" : "GCL Day 5: Alpine SG Pipers end PBG Alaskan Knights' unbeaten streak"
+      },
+      {
+         "description" : "The mother-daughter duo of GM Pia Cramling and WFM Anna Cramling reigned supreme in the first quarterfinal match of the 2024 Team Chess Battle 2. They controlled the match against Team ChessKid&#38;mdash;IM Alice Lee and FM Mike Klein&#38;mdash;for the mo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qfs-cramlings-win",
+         "pubDate" : "Mon, 07 Oct 2024 21:18:00",
+         "title" : "Mother-Daughter Duo Overcome Team ChessKid, Advance To Semifinals"
       },
       {
          "description" : "",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3248",
          "pubDate" : "Mon, 07 Oct 2024 18:24:40",
          "title" : "FIDE Council meeting and FIDE GA lists of decisions published"
-      },
-      {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Mon, 07 Oct 2024 13:50:00",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "The Alpine Sg Pipers were the first team to beat the PBG Alaskan Knights on Monday at the Tech Mahindra Global Chess League in London. The Pipers are now just three points behind the leaders, along with the Triveni Continental Kings. Scoring their...",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "European Women's Chess Championship 2025 - Official invitation"
       },
       {
-         "description" : "Careful readers of the October Chess Life print edition will note a deeply regrettable error. Two photographs of Louis \"Lou\" Giarrusso appear in a rotated and skewed format on Page 7.Why did this happen?As fate would have it, Lou passed away the night before we were to go to press. What was to have been a celebration of his life had to be quickly written as an obituary.In the process of editing and page-fitting, I made the final round of corrections to the file, did the output from InDesign to .pdf, and uploaded those files to our printer's website.What I did not know - but do now - is that there is a very specific issue with .heic image files (the native Apple / iOS image file format) and A",
+         "description" : "Careful readers of the October Chess Life print edition will note a deeply regrettable error. Two photographs of Louis \"Lou\" Giarrusso appear in a rotated and skewed format on Page 7.Why did this happen?As fate would have it, Lou passed away the night before we were to go to press. What was to have been a celebration of his life had to be quickly rewritten as an obituary.In the process of editing and page-fitting, I made the final round of corrections to the file, did the output from InDesign to .pdf, and uploaded those files to our printer's website.What I did not know - but do now - is that there is a very specific issue with .heic image files (the native iPhone/ iOS image file format) and",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/regarding-error-october-chess-life",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-28-2024",
          "pubDate" : "Sat, 28 Sep 2024 15:35:00",
          "title" : "Nakamura Clinches Bullet Brawl With 42-Game Winning Streak"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#39;s dramatic match against GM Levon Aronian and GM Maxime Vachier-Lagrave&#39;s brilliant attacking masterpiece against GM Ian Nepomniachtchi were the highlights of day four of the Julius Baer Generation Cup 2024. GM Alireza Firouzja...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-4",
-         "pubDate" : "Sat, 28 Sep 2024 12:48:00",
-         "title" : "Contrasting Wins For Carlsen, Firouzja; Attacking Masterpiece By Vachier-Lagrave"
       },
       {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
