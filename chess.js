@@ -1296,14 +1296,6 @@ news_feed (
          "link" : "https://www.europechess.org/45th-chess-olympiad-is-halfway-through/",
          "pubDate" : "Tue, 17 Sep 2024 11:19:27",
          "title" : "45th Chess Olympiad is halfway through"
-      },
-      {
-         "description" : "Arjun Erigaisi registered his sixth victory in as many games as he continues to be India's standout player this Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41294570/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-day-6-report?device=featurephone",
-         "pubDate" : "Tue, 17 Sep 2024 00:16:59",
-         "title" : "Chess Olympiad 2024: Unbeaten India become sole leaders in both men's and women's sections"
       }
    ]
 }
