@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rapid games are noted for the fast-paced action and drama and mistakes, a fine line between quality and plain adrenaline. When played by world elite players such as MVL, Erigaisi, Nepo, and more, you can also run into astounding tactics and attacks that even the computers cannot criticize. Such was the case for two by the Frenchman no less. Don't miss these! (credit: Albert Silver/Flux Pro 1.1)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magicians-at-work-jaw-dropping-tactics-from-julius-baer",
+         "pubDate" : "Tue, 08 Oct 2024 10:08:00",
+         "title" : "Magicians at work: Jaw-dropping tactics from Julius Baer"
+      },
+      {
          "description" : "The reigning champions of the Bundesliga, Viernheim, made a false start to the new season and lost to the host team in Hamburg. The defending champions were missing the top six boards due to the Global Chess League taking place concurrently. Baden-Baden also played without its top players in Munich. | Pictured: The cheerful Hamburger SK team with captain Reinhardt Ahrens | Photos: Andr&eacute; Schulz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/17/2024-chess-olympiad-round-6/",
          "pubDate" : "Tue, 17 Sep 2024 20:22:41",
          "title" : "2024 Chess Olympiad: Round 6"
-      },
-      {
-         "description" : "Six rounds have been played at the 45th Chess Olympiad in Budapest, Hungary, and India emerged as the sole leader of both sections scoring perfect 12/12 match points. Indian team in the Open section scored a convincing 3-1 win over Hungary yesterday, to head into today's free day as the sole leader of the event. Vietnam, China, and Iran are following with the score of 11 match points, while as many as 10 teams score 10 match points. Taking a []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/45th-chess-olympiad-is-halfway-through/",
-         "pubDate" : "Tue, 17 Sep 2024 11:19:27",
-         "title" : "45th Chess Olympiad is halfway through"
       }
    ]
 }
