@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Tue, 08 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "Rapid games are noted for the fast-paced action and drama and mistakes, a fine line between quality and plain adrenaline. When played by world elite players such as MVL, Erigaisi, Nepo, and more, you can also run into astounding tactics and attacks that even the computers cannot criticize. Such was the case for two by the Frenchman no less. Don't miss these! (credit: Albert Silver/Flux Pro 1.1)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
