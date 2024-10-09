@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shreyas Royal (above left), aged just 15, is now officially England's 41st grandmaster and the youngest ever to achieve the title. Congratulations, Shreyas! In addition, FIDE have also awarded the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/gm-shreyas-royal-and-im-aaravamudhan-balaji/",
+         "pubDate" : "Wed, 09 Oct 2024 06:53:15",
+         "title" : "GM Shreyas Royal and IM Aaravamudhan Balaji!"
+      },
+      {
          "description" : "Hikaru Nakamura ended Alireza Firouzja's unbeaten streak at the Tech Mahindra Global Chess League 2024. Just when everyone thought the game would end in a draw, Firouzja offered his rook up for trade, and the resultant pawn endgame turned out to be completely winning for the Speed King. IM Bibisara Assaubayeva. The PBG Alaskan Knights are now one match win away from securing their spot in the Finals. The seventh day will start with PBG Alaskan Knights vs. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-6",
-         "pubDate" : "Tue, 08 Oct 2024 13:09:18",
+         "pubDate" : "Tue, 08 Oct 2024 13:09:00",
          "title" : "PBG Alaskan Knights Close To Reaching Final After Day Of Blunders"
       },
       {
