@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Wed, 09 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "It took Wei Yi at least two to three days to recover from what was the game of the Olympiad and one of the toughest games he's ever played. In the Hindustan Times the Chinese GM reflects on his tough loss to India's Gukesh and discusses the rise of Indian chess prodigies, emphasizing the focus for success.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wei-yi-gukesh-pragg-and-arjun-may-be-top-players-in-the-world",
          "pubDate" : "Wed, 09 Oct 2024 11:18:25",
          "title" : "Wei Yi: 'Gukesh, Pragg and Arjun may be top players in the world'"
+      },
+      {
+         "description" : "48-year-old CM Demis Hassabis, a former child chess prodigy and the founder of DeepMind, the company that revolutionized computer chess, has won the 2024 Nobel Prize For Chemistry. He shared half the 11m Swedish kronor ($1.06m) prize with Professo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/demis-hassabis-nobel-prize-chemistry",
+         "pubDate" : "Wed, 09 Oct 2024 07:55:01",
+         "title" : "AlphaZero Creator Demis Hassabis Wins Nobel Prize For Chemistry"
       },
       {
          "description" : "Shreyas Royal (above left), aged just 15, is now officially England's 41st grandmaster and the youngest ever to achieve the title. Congratulations, Shreyas! In addition, FIDE have also awarded the...",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "Chess has always lacked a bit of professionalism: Vidit Gujrathi"
       },
       {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Tue, 08 Oct 2024 13:50:00",
-         "title" : "Global Chess League - Live!"
-      },
-      {
          "description" : "GM Anish Giri scored his first win on Tuesday to lead the PBG Alaskan Knights to their sixth win in seven matches as the team is on the brink of securing a spot in Saturday&#39;s final of the Tech Mahindra Global Chess League. It was a strange day tha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,14 +98,6 @@ news_feed (
          "title" : "Magicians at work: Jaw-dropping tactics from Julius Baer"
       },
       {
-         "description" : "The reigning champions of the Bundesliga, Viernheim, made a false start to the new season and lost to the host team in Hamburg. The defending champions were missing the top six boards due to the Global Chess League taking place concurrently. Baden-Baden also played without its top players in Munich. | Pictured: The cheerful Hamburger SK team with captain Reinhardt Ahrens | Photos: Andr&eacute; Schulz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-viernheim-struggle-first-weekend",
-         "pubDate" : "Tue, 08 Oct 2024 06:15:00",
-         "title" : "Bundesliga: Defending champions Viernheim struggle in Hamburg"
-      },
-      {
          "description" : "A roundup of results from the fifth day of the Global Chess League Season 2.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-1",
          "pubDate" : "Tue, 08 Oct 2024 00:00:00",
          "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 1"
-      },
-      {
-         "description" : "Alireza Firouzja is in the form of his life, as he defeated Maxime Vachier-Lagrave for the second time in consecutive days. Alexandra Kosteniuk scored the only other win for the team, which helped Triveni Continental Kings register their fourth win of the event. Anish Giri made a nice queen sacrifice to build a fortress and draw with Magnus Carlsen. Yifan Hou and Kateryna Lagno scored the wins for SG Alpine Pipers. Nihal Sarin's sole win for Balan Alaskan Knights was not enough to win the match. Ganges Grandmasters scored their second match win of the event. The sixth day will start with Alpine SG Pipers vs upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-5-alpine-sg-pipers-ends-pbg-alaskan-knights-unbeaten-streak",
-         "pubDate" : "Mon, 07 Oct 2024 21:45:00",
-         "title" : "GCL Day 5: Alpine SG Pipers end PBG Alaskan Knights' unbeaten streak"
       },
       {
          "description" : "The mother-daughter duo of GM Pia Cramling and WFM Anna Cramling reigned supreme in the first quarterfinal match of the 2024 Team Chess Battle 2. They controlled the match against Team ChessKid&#38;mdash;IM Alice Lee and FM Mike Klein&#38;mdash;for the mo...",
@@ -184,14 +176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-chess-federation-book-of-the-year-2024/",
          "pubDate" : "Mon, 07 Oct 2024 09:52:58",
          "title" : "English Chess Federation Book of the Year 2024"
-      },
-      {
-         "description" : "ARTE, the French-German film production and TV channel, has made a six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. The movie, due for broadcast on October 17, can already be viewed in full on the ARTE Internet web site. Mind you, it will take almost five hours to watch, but it is definitely worth the invested time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arte-film-on-kasparov-vs-deep-blue",
-         "pubDate" : "Mon, 07 Oct 2024 09:08:10",
-         "title" : "ARTE: Film on Kasparov vs Deep Blue"
       },
       {
          "description" : "The 24th European Women's Chess Championship will take place from 30 March to 12 April 2025 in Rhodes, Greece. The event is open to all women players representing national federations listed as ECU members, without rating or title limitations. The Championship will be played in 11 rounds, swiss system, with time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The official hotel []",
@@ -824,14 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/10th-vugar-gashimov-memorial-2024",
          "pubDate" : "Sat, 28 Sep 2024 21:35:00",
          "title" : "10th Vugar Gashimov Memorial 2024 - Games and Results"
-      },
-      {
-         "description" : "The underdogs roared as the 2024 Collegiate Chess League Fall (CCL) began on Saturday. The bottom boards led Saint Louis to victory over Athens. In an even bigger twist, Virginia defeated the top-seeded Missouri team. Boards three and four, GM D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-slu-virginia",
-         "pubDate" : "Sat, 28 Sep 2024 21:21:00",
-         "title" : "Virginia Upsets Top-Seeded Missouri, Saint Louis Defeats Athens"
       },
       {
          "description" : " Derrick Rose elevating during his peak years for the Chicago Bulls.Photo by Mike Ehrmann/Getty Images Derrick Rose announced his retirement yesterday from his 16-year basketball career. The highlight of his career was becoming the youngest player to win the 2011 Most Valuable Player award. From the Englewood community of Chicago's southside, Rose starred at Simeon The post <a href=\"https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/\">Derrick Rose retires chess next?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
