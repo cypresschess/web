@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It took Wei Yi at least two to three days to recover from what was the game of the Olympiad and one of the toughest games he's ever played. In the Hindustan Times the Chinese GM reflects on his tough loss to India's Gukesh and discusses the rise of Indian chess prodigies, emphasizing the focus for success.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wei-yi-gukesh-pragg-and-arjun-may-be-top-players-in-the-world",
+         "pubDate" : "Wed, 09 Oct 2024 11:18:25",
+         "title" : "Wei Yi: 'Gukesh, Pragg and Arjun may be top players in the world'"
+      },
+      {
          "description" : "Shreyas Royal (above left), aged just 15, is now officially England's 41st grandmaster and the youngest ever to achieve the title. Congratulations, Shreyas! In addition, FIDE have also awarded the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-6-hikaru-ends-firouzja-s-unbeaten-streak-carlsen-blunders-against-mvl",
          "pubDate" : "Wed, 09 Oct 2024 02:15:00",
          "title" : "GCL Day 6: Nakamura ends Firouzja's, Carlsen blunders against MVL"
+      },
+      {
+         "description" : "A roundup of results from the sixth day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41690789/global-chess-league-2024-gcl-report-carlsen-firouzja-viswanathan-anand-praggnandhaa-gcl-day-6?device=featurephone",
+         "pubDate" : "Tue, 8 Oct 2024 23:51:53",
+         "title" : "Global Chess League: PBG Alaskan Knights one win away from finals, Carlsen stunned by Vachier-Lagrave"
       },
       {
          "description" : "",
@@ -224,6 +240,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparovs-mistake-against-seirawan-chess-chessstrategy-chessendgame-chesshistory-lichess",
          "pubDate" : "Sun, 06 Oct 2024 18:38:37",
          "title" : "Kasparov's Mistake Against Seirawan #chess #chessstrategy #chessendgame #chesshistory #lichess"
+      },
+      {
+         "description" : "At the beginning of every month, in preparation for the monthly post on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I prepare a short list of top items sold in the previous month. The items on the short list often repeat previous posts in the series. For example, this month I had on the short list (listed from least expensive to most expensive):- <UL> <LI> A chess watch, similar to the watch shown in <A HREF=\"https://chessforallages.blogspot.com/2016/10/skeleton-marriage-chess-watch.html\">Skeleton, Marriage, Chess Watch</A> (October 2016). <LI> A bronze of cats playing chess, reminiscent of <A HREF=",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/10/wikipedia-to-trading-cards-to-ebay.html",
+         "pubDate" : "Sun, 06 Oct 2024 15:53:00",
+         "title" : "Wikipedia to Trading Cards to eBay"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113989711.cms\" />The American Gambits, captained by Hikaru Nakamura and Elisabeth Paehtz, defeated Viswanathan Anand's Ganges Grandmasters 10-4 at the Tech Mahindra Global Chess League. This crucial victory lifts Nakamura's team, who now have two wins in four matches, while Anand's team struggles with four losses in five matches, needing a turnaround.",
@@ -1328,22 +1352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3219",
          "pubDate" : "Wed, 18 Sep 2024 20:33:26",
          "title" : "45th Chess Olympiad R07: India continues to shine, winning all matches"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3217",
-         "pubDate" : "Wed, 18 Sep 2024 09:16:05",
-         "title" : "Chess, culture, music, football: Highlights from the Olympiad's free day"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3218",
-         "pubDate" : "Wed, 18 Sep 2024 08:00:33",
-         "title" : "Opera and chess - Lajos Portisch celebrated the 45th Chess Olympiad with an aria evening"
       }
    ]
 }
