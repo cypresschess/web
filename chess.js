@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "description" : "DeepMind CEO Demis Hassabis and John Jumper, a DeepMind researcher who led the company's efforts to build AI models that could predict protein structures, shared the Nobel Prize for Chemistry, along with David Baker from the University of Washington. Through his AI company, he had already spearheaded breakthroughs in Go and chess with AlphaGo and AlphaZero, and he has now won the Nobel Prize thanks to AlphaFold2. (photos: DeepMind)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Wed, 09 Oct 2024 13:50:00",
-         "title" : "Global Chess League - Live!"
+         "link" : "https://en.chessbase.com/post/demis-hassabis-from-deep-mind-wins-nobel-in-chemistry",
+         "pubDate" : "Wed, 09 Oct 2024 18:19:45",
+         "title" : "Demis Hassabis from DeepMind wins Nobel in chemistry"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman discusses her plans in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-all-about-tactics-and-strategy-chess-chesstactics-chessstrategy-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FqSddlOYdpM.jpg?itok=0thlGv78\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/its-all-about-tactics-and-strategy-chess-chesstactics-chessstrategy-education-lichess",
+         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
+         "title" : "It's All About The Tactics and Strategy #chess #chesstactics #chessstrategy #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman share what should you do next after completing the first fundamentals of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/not-sure-how-continue-chess-chessmiddlegame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KG8K9DNdKSQ.jpg?itok=ROegC1m_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/not-sure-how-continue-chess-chessmiddlegame-education-lichess",
+         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
+         "title" : "Not Sure On How To Continue #chess #chessmiddlegame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Not liking the position, Sara talks about how to make the best of the situation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/looking-best-way-outgrobble-chess-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y-a8hUicAWw.jpg?itok=Bsbr5e1W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/looking-best-way-outgrobble-chess-chesstactics-chessstrategy-lichess",
+         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
+         "title" : "Looking for the Best Way Out...Grobble #chess #chesstactics #chessstrategy #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara talks about the strategy when getting to a certain level </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1900-and-above-chess-chesstactics-chessstrategy-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2u1Vj_7KoDY.jpg?itok=mlpHU4U6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1900-and-above-chess-chesstactics-chessstrategy-education-lichess",
+         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
+         "title" : "1900 and Above #chess #chesstactics #chessstrategy #education #lichess"
+      },
+      {
+         "description" : "A week into the Tech Mahindra Global Chess League, only three teams still have a chance to reach one of the two much-coveted spots in Saturday&#39;s final. On Wednesday, the PBG Alaskan Knights lost their second match but are still three points ahead ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-7",
+         "pubDate" : "Wed, 09 Oct 2024 11:26:13",
+         "title" : "3 Teams Left In Fight For 2 Global Chess League Final Spots"
       },
       {
          "description" : "It took Wei Yi at least two to three days to recover from what was the game of the Olympiad and one of the toughest games he's ever played. In the Hindustan Times the Chinese GM reflects on his tough loss to India's Gukesh and discusses the rise of Indian chess prodigies, emphasizing the focus for success.",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wei-yi-gukesh-pragg-and-arjun-may-be-top-players-in-the-world",
          "pubDate" : "Wed, 09 Oct 2024 11:18:25",
          "title" : "Wei Yi: 'Gukesh, Pragg and Arjun may be top players in the world'"
+      },
+      {
+         "description" : "GMs Kirill Shevchenko and Frederik Svane are your winners for the October 8 editions of Titled Tuesday. While Shevchenko led wire-to-wire and won outright with 10 points, victory did not come easily for Svane, who came out of a four-way, 9.5-point...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shevchenko-svane-win-titled-tuesday-october-8-2024",
+         "pubDate" : "Wed, 09 Oct 2024 10:34:18",
+         "title" : "Titled Tuesday Starts Quiet Early, Goes Crazy Late"
       },
       {
          "description" : "48-year-old CM Demis Hassabis, a former child chess prodigy and the founder of DeepMind, the company that revolutionized computer chess, has won the 2024 Nobel Prize For Chemistry. He shared half the 11m Swedish kronor ($1.06m) prize with Professo...",
@@ -40,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-6-hikaru-ends-firouzja-s-unbeaten-streak-carlsen-blunders-against-mvl",
          "pubDate" : "Wed, 09 Oct 2024 02:15:00",
          "title" : "GCL Day 6: Nakamura ends Firouzja's, Carlsen blunders against MVL"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on \"missed opportunities,\" and all answers are analysis variations that were not found in the actual games (including by and against some very strong players). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive s",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-2",
+         "pubDate" : "Wed, 09 Oct 2024 00:00:00",
+         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 2"
       },
       {
          "description" : "A roundup of results from the sixth day of the Global Chess League Season 2.",
@@ -314,44 +370,12 @@ news_feed (
          "title" : "The Endgame #chess #education #chesstactics #chessendgame #lichess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Tight position between Kasparov and Seirawan with little to no time...but to whose advantage </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-mistake-against-seirawan-chess-educational-chessstrategy-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r9SaPyoQ5go.jpg?itok=-85-Nyr8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparovs-mistake-against-seirawan-chess-educational-chessstrategy-chessendgame-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
-         "title" : "Kasparov's Mistake Against Seirawan #chess #educational #chessstrategy #chessendgame #lichess"
-      },
-      {
          "description" : "GM Oleksandr Bortnyk has turned a good week into a great one after winning his eighth Bullet Brawl&#38;nbsp;by a 39-point margin and claiming the $400 first prize following a Titled Tuesday masterclass earlier in the week. GMs Daniel Naroditsky and Ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-october-5-2024",
          "pubDate" : "Sat, 05 Oct 2024 16:46:00",
          "title" : "Bortnyk Smashes Bullet Brawl Days After Titled Tuesday Victory"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> NM Ralph Tan gives an overview a position played by Ignatz von Kolisch in the Romantic-Era of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advantage-fishing-tactic-chess-chesstactic-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/84Kqj3jGINs.jpg?itok=rrYPo11s\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/advantage-fishing-tactic-chess-chesstactic-chessstrategy-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
-         "title" : "The Advantage of the Fishing Tactic #chess #chesstactic #chessstrategy #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk briefly shares the goal of this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oV0vyQ6hG_A.jpg?itok=9aVEJoc-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgame-chess-chesstactics-chessendgame-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
-         "title" : "The Endgame #chess #chesstactics #chessendgame #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Friday Action Quad commentator, NM Caleb Denby, gives a sincere analysis of the position between IM&#039;s Eric Rosen and Tianqi Wang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-heart-say-chess-chessendgame-ericrosen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KkW7_J_WHGc.jpg?itok=1CpFZ7Cz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-does-your-heart-say-chess-chessendgame-ericrosen-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 15:37:55",
-         "title" : "What Does Your Heart Say #chess #chessendgame #ericrosen #lichess"
       },
       {
          "description" : "Adding a fourth win in Saturday&#39;s early round, the PBG Alaskan Knights maintained their firm lead in the Tech Mahindra Global Chess League&#39;s round-robin phase. The leaders defeated the Ganges Grandmasters, who went on to score their first, narrow ...",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "Erdogmus Smashes Prestigious Rating Record, Receives Hero's Welcome Back Home"
       },
       {
-         "description" : "GM Magnus Carlsen staved off a spirited challenge from GM Alireza Firouzja to prevail with a score of 2.5-1.5 in the Winners Bracket Finals of the Julius Baer Generation Cup 2024. He will now face the Losers Bracket winner in the tournament&#39;s Gran...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-5",
-         "pubDate" : "Sun, 29 Sep 2024 15:35:00",
-         "title" : "Carlsen Overpowers Firouzja's Spirited Charge, Aronian Sweeps Fedoseev In Losers Bracket"
-      },
-      {
          "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served eight years on the Ethics Commission and even running as Vice President in the 2022 Election. Ian Wilkinson heading to the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -784,14 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-needs-special-attention-abhijit-kunte/articleshow/113779754.cms",
          "pubDate" : "Sun, 29 Sep 2024 04:45:41",
          "title" : "Women's chess needs special attention: Abhijit Kunte"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi won the 10th edition of the Gashimov Memorial on Saturday in Susha, Azerbaijan. The Russian grandmaster, who played in the tournament for the first time, finished ahead of GMs Nodirbek Abdusattorov and Shakhriyar Mamedyarov. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-wins-2024-gashimov-memorial",
-         "pubDate" : "Sun, 29 Sep 2024 03:53:00",
-         "title" : "Nepomniachtchi Wins 10th Gashimov Memorial"
       },
       {
          "description" : " Grandmaster Maurice Ashley was spotted at the Chess Olympiad in Budapest, Hungary, but he told The Chess Drum that he was not there as a delegate or captain, but merely as a chess tourist. Most will know Ashley as one of the most visible commentators of the chess world, but he has taken a hiatus The post <a href=\"https://www.thechessdrum.net/blog/2024/09/28/maurice-ashley-discusses-new-chess-initiative/\">Maurice Ashley discusses new chess initiative</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2024/",
          "pubDate" : "Wed, 25 Sep 2024 09:27:49",
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
-      },
-      {
-         "description" : "Our series of exercises from the highly instructive tactical time scrambles and endgames from the 2024 Saint Louis Rapid &amp; Blitz concludes this week. This batch focuses on missed opportunities. Have fun!<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.<br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-saint-louis-rapid-blitz-pt-3",
-         "pubDate" : "Wed, 25 Sep 2024 00:00:00",
-         "title" : "Wednesday Workout: Saint Louis Rapid & Blitz, Pt. 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113616561.cms\" />The Indian chess team celebrated their double victory at the Chess Olympiad in Budapest by dancing to Queen's 'We Are The Champions.' Arjun Erigaisi was pivotal, winning nine games and drawing two. His performance helped India secure gold. Team camaraderie and strategic decisions were key factors in their success.",
