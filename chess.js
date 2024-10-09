@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The upGrad Mumba Masters started the seventh day of the Global Chess League with a win over the leaders, PBG Alaskan Knights. It was the closest match of the event so far, as the final score was 10-9. Ganges Grandmasters lost to Triveni Continental Kings later in the day, while R Praggnanandhaa and Daniel Dardha powered the Alpine SG Pipers to a win over the American Gambits. The Alaskan Knights, the Continental Kings and the SG Pipers are the only three teams that will battle it out for the top two spots in the finals. Thursday's action starts with American Gambits v. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-7-it-s-a-three-way-race",
+         "pubDate" : "Thu, 10 Oct 2024 00:15:00",
+         "title" : "GCL Day 7: It's a three-way race"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3253",
+         "pubDate" : "Wed, 09 Oct 2024 20:15:51",
+         "title" : "Global Chess League, Day 7: Mumba Masters stop PBG, Triveni and Sg Pipers close in"
+      },
+      {
          "description" : "DeepMind CEO Demis Hassabis and John Jumper, a DeepMind researcher who led the company's efforts to build AI models that could predict protein structures, shared the Nobel Prize for Chemistry, along with David Baker from the University of Washington. Through his AI company, he had already spearheaded breakthroughs in Go and chess with AlphaGo and AlphaZero, and he has now won the Nobel Prize thanks to AlphaFold2. (photos: DeepMind)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,11 +58,19 @@ news_feed (
          "title" : "1900 and Above #chess #chesstactics #chessstrategy #education #lichess"
       },
       {
+         "description" : "Team &#34;Oh Yes My Queen,&#34; IM Eric Rosen and WGM Nemo Zhou, won their 2024 Team Chess Battle 2 quarterfinal match 2-0 against Team &#39;Dandinavian,&#39; IM Danny Rensch and IM John Bartholomew. Although Chess.com&#39;s Chief Chess Officer blamed the outcome on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qfs-rosen-zhou-win",
+         "pubDate" : "Wed, 09 Oct 2024 12:23:00",
+         "title" : "Team 'Oh Yes My Queen' Wins With Queen Trap Vs. 'Dandinavian,' Advance To Semifinals"
+      },
+      {
          "description" : "A week into the Tech Mahindra Global Chess League, only three teams still have a chance to reach one of the two much-coveted spots in Saturday&#39;s final. On Wednesday, the PBG Alaskan Knights lost their second match but are still three points ahead ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Wed, 09 Oct 2024 11:26:13",
+         "pubDate" : "Wed, 09 Oct 2024 11:26:00",
          "title" : "3 Teams Left In Fight For 2 Global Chess League Final Spots"
       },
       {
@@ -82,12 +106,12 @@ news_feed (
          "title" : "GM Shreyas Royal and IM Aaravamudhan Balaji!"
       },
       {
-         "description" : "Hikaru Nakamura ended Alireza Firouzja's unbeaten streak at the Tech Mahindra Global Chess League 2024. Just when everyone thought the game would end in a draw, Firouzja offered his rook up for trade, and the resultant pawn endgame turned out to be completely winning for the Speed King. IM Bibisara Assaubayeva. The PBG Alaskan Knights are now one match win away from securing their spot in the Finals. The seventh day will start with PBG Alaskan Knights vs. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-6-hikaru-ends-firouzja-s-unbeaten-streak-carlsen-blunders-against-mvl",
-         "pubDate" : "Wed, 09 Oct 2024 02:15:00",
-         "title" : "GCL Day 6: Nakamura ends Firouzja's, Carlsen blunders against MVL"
+         "description" : "<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce the recipients of the 2024-2025 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Ajay Subramanian, Solon, OH, attending Babson College, Wellesley, MAKevin Flores, Palmview, TX, attending the University of Texas Rio Grande Valley, Edinburg, TXAlex Zhang, Brooklyn, NY, attending Brandeis University, Waltham, MAJessica Lee, Mountain Lakes, N",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-herbert-b-jacklyn-program-recipients-announced",
+         "pubDate" : "Wed, 09 Oct 2024 00:00:00",
+         "title" : "2024 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
          "description" : "This week's Wednesday Workout continues a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on \"missed opportunities,\" and all answers are analysis variations that were not found in the actual games (including by and against some very strong players). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive s",
@@ -778,14 +802,6 @@ news_feed (
          "title" : "Team Chess Battle Is Back With Levy Rozman, Anna Cramling, James Canty, And Other Celebrities"
       },
       {
-         "description" : "At just 13 years of age, GM Yagiz Kaan Erdogmus has become the youngest-ever player to record a rating of 2600, demolishing the previous record by close to a year. Upon returning to school in Turkiye, he received a hero&#39;s welcome. The Turkish pr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yagiz-kaan-erdogmus-smashes-record-as-youngest-ever-2600-player-receives-heroes-welcome-in-turkey",
-         "pubDate" : "Mon, 30 Sep 2024 04:34:00",
-         "title" : "Erdogmus Smashes Prestigious Rating Record, Receives Hero's Welcome Back Home"
-      },
-      {
          "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served eight years on the Ethics Commission and even running as Vice President in the 2022 Election. Ian Wilkinson heading to the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/",
          "pubDate" : "Fri, 27 Sep 2024 01:29:21",
          "title" : "2024 Chess Olympiad: Round 11"
-      },
-      {
-         "description" : "Current status (9/30)<br> <br> All reports indicate that the issues related to ratings, rating reports, correspondence chess, and national event registration are now over. These functions should be working normally.<br> <br> What happened?<br> <br> We underwent some technical difficulties related to tournament report uploads and ratings.<br> <br> Other problems included national event registration -- no new entries to the K-12 are able to be taken at the moment -- and correspondence chess operations.<br> <br> All other US Chess functions were working.<br> <br> Why did this happen?<br> <br> The servers that host these functions are located in an area affected by Hurricane Helene. This is why ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/ratings-and-ratings-reports-issues-updated-929",
-         "pubDate" : "Fri, 27 Sep 2024 00:00:00",
-         "title" : "Ratings and Ratings Reports Issues (updated 9/30)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113710082.cms\" />Indian chess grandmaster R Praggnanandhaa expressed happiness after winning gold at the 45th Chess Olympiad and meeting Indian Prime Minister Narendra Modi. He emphasized the dedication behind this historic achievement for Indian chess. Both men's and women's teams secured gold, marking a significant milestone for India's chess community and inspiring future enthusiasts nationwide.",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41321042/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-7-report?device=featurephone",
          "pubDate" : "Thu, 19 Sep 2024 00:34:52",
          "title" : "Chess Olympiad 2024: Ding Liren rested vs India as men and women's team prevail for perfect 7/7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3219",
-         "pubDate" : "Wed, 18 Sep 2024 20:33:26",
-         "title" : "45th Chess Olympiad R07: India continues to shine, winning all matches"
       }
    ]
 }
