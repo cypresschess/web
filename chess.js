@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura ended Alireza Firouzja's unbeaten streak at the Tech Mahindra Global Chess League 2024. Just when everyone thought the game would end in a draw, Firouzja offered his rook up for trade, and the resultant pawn endgame turned out to be completely winning for the Speed King. IM Bibisara Assaubayeva. The PBG Alaskan Knights are now one match win away from securing their spot in the Finals. The seventh day will start with PBG Alaskan Knights vs. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-6-hikaru-ends-firouzja-s-unbeaten-streak-carlsen-blunders-against-mvl",
+         "pubDate" : "Wed, 09 Oct 2024 02:15:00",
+         "title" : "GCL Day 6: Nakamura ends Firouzja's, Carlsen blunders against MVL"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
