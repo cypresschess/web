@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> What endgames to learn at the beginning </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-where-start-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HaVc3prWLE8.jpg?itok=XO1EqPg6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgames-where-start-chess-chessendgame-education-lichess",
+         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
+         "title" : "Endgames: Where To Start #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The king&#039;s activity in the endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-active-king-can-cause-havoc-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nNvEf5brJv4.jpg?itok=0l3av9ke\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgames-active-king-can-cause-havoc-chess-chessendgame-education-lichess",
+         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
+         "title" : "Endgames: An Active King Can Cause Havoc #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In this position, GM Friedel talks about the &quot;The Knowledge Move.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgame-knowledge-move-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gmBSr7Sp78I.jpg?itok=9DyEqlFp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-endgame-knowledge-move-chess-chessendgame-education-lichess",
+         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
+         "title" : "Rook Endgame: The Knowledge Move #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Measuring forceful moves in a position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/may-force-be-you-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x7tn3NPUu68.jpg?itok=RVHXHlxC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/may-force-be-you-chess-chessendgame-education-lichess",
+         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
+         "title" : "May the Force Be With You #chess #chessendgame #education #lichess"
+      },
+      {
          "description" : "Taking place in Terme Catez, Slovenia 13-17 December 2024. Registration has now opened for the above event. Whilst attendance at this tournament is not restricted, the ECF has a few...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -400,38 +432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3244",
          "pubDate" : "Sat, 05 Oct 2024 19:27:19",
          "title" : "Tech Mahindra Global Chess League D03: Alaskan Knights stay unbeaten as Ganges break losing streak"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Queen sacrifice or blunder tactic (Botez Gambit ), black will have to do something to stop the checkmating threats. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/using-botez-gambit-tool-chess-educational-chesstactic-checkmate-botezgambit-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vw16xM084yk.jpg?itok=4MHCg9To\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/using-botez-gambit-tool-chess-educational-chesstactic-checkmate-botezgambit-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
-         "title" : "Using The Botez Gambit As A Tool #chess #educational #chesstactic #checkmate #botezgambit #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley has Fabi in the corner. Do you know how Fabi escapes? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-scary-position-against-so-chess-education-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UYJWvyEDOLE.jpg?itok=5CeichK0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabis-scary-position-against-so-chess-education-chesstactics-chessstrategy-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
-         "title" : "Fabi's Scary Position Against So #chess #education #chesstactics #chessstrategy #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> NM Ralph Tan gives an overview a position played by Ignatz von Kolisch in the Romantic-Era of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advantage-using-fishing-tactic-chess-education-chesstactic-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/84Kqj3jGINs.jpg?itok=rrYPo11s\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/advantage-using-fishing-tactic-chess-education-chesstactic-chessstrategy-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
-         "title" : "The Advantage of Using The Fishing Tactic #chess #education #chesstactic #chessstrategy #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk briefly shares the goal of this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-education-chesstactics-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oV0vyQ6hG_A.jpg?itok=9aVEJoc-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgame-chess-education-chesstactics-chessendgame-lichess",
-         "pubDate" : "Sat, 05 Oct 2024 18:38:04",
-         "title" : "The Endgame #chess #education #chesstactics #chessendgame #lichess"
       },
       {
          "description" : "GM Oleksandr Bortnyk has turned a good week into a great one after winning his eighth Bullet Brawl&#38;nbsp;by a 39-point margin and claiming the $400 first prize following a Titled Tuesday masterclass earlier in the week. GMs Daniel Naroditsky and Ch...",
