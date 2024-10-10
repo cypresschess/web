@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Taking place in Terme Catez, Slovenia 13-17 December 2024. Registration has now opened for the above event. Whilst attendance at this tournament is not restricted, the ECF has a few...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-youth-rapid-blitz-championships/",
+         "pubDate" : "Thu, 10 Oct 2024 14:34:53",
+         "title" : "World Youth Rapid & Blitz Championships"
+      },
+      {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Thu, 10 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "The 2024 European Rapid and Blitz Chess Championships will take place from 6th-11th December at Hotel Continental Skopje, North Macedonia. European Rapid Chess Championship 2024 will be the first on the schedule, taking place on 7th and 8th of December. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2024 will be played on 9th of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championships-2024-official-regulations/",
+         "pubDate" : "Thu, 10 Oct 2024 13:47:43",
+         "title" : "European Rapid and Blitz Chess Championships 2024 - Official regulations"
+      },
+      {
          "description" : "The US Championship and the US Women's Championship will take place on 11-24 October at the World Chess Hall of Fame in Saint Louis. Each field will feature 12 players competing for a total purse of more than $400,000. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2024-preview",
          "pubDate" : "Thu, 10 Oct 2024 07:45:00",
          "title" : "Caruana, So and Dominguez head the field at the 2024 US Championship"
+      },
+      {
+         "description" : "It&#39;s the spookiest month of the year, and with it comes the scariest event of the Chess.com Community Championships. Mark your calendars, for the Chess.com Fog of War Chess Championship is coming! The event happens on October 17 and 18 and will tr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-fog-of-war-chess-championship-2024",
+         "pubDate" : "Thu, 10 Oct 2024 07:00:00",
+         "title" : "Embrace The Darkness! Get Ready For The Chess.com Fog Of War Chess Championship"
+      },
+      {
+         "description" : "Chess.com has announced an agreement with the founders of Silver Knights Chess, Adam and Daniel Weissbarth, to transition Magnus Chess Academy to them. The deal will see one of the leading scholastic chess coaching providers in the U.S. rebrande...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-chess-academy-operations-to-transition-back-silver-knights-chess",
+         "pubDate" : "Thu, 10 Oct 2024 06:38:46",
+         "title" : "Magnus Chess Academy Operations To Transition Back To Its Original Founders"
       },
       {
          "description" : "",
@@ -34,14 +74,6 @@ news_feed (
          "title" : "Certificates of SNA held in Karaikudi on 21 & 22 September 2024"
       },
       {
-         "description" : "The upGrad Mumba Masters started the seventh day of the Global Chess League with a win over the leaders, PBG Alaskan Knights. It was the closest match of the event so far, as the final score was 10-9. Ganges Grandmasters lost to Triveni Continental Kings later in the day, while R Praggnanandhaa and Daniel Dardha powered the Alpine SG Pipers to a win over the American Gambits. The Alaskan Knights, the Continental Kings and the SG Pipers are the only three teams that will battle it out for the top two spots in the finals. Thursday's action starts with American Gambits v. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-7-it-s-a-three-way-race",
-         "pubDate" : "Thu, 10 Oct 2024 00:15:00",
-         "title" : "GCL Day 7: It's a three-way race"
-      },
-      {
          "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3253",
          "pubDate" : "Wed, 09 Oct 2024 20:15:51",
          "title" : "Global Chess League, Day 7: Mumba Masters stop PBG, Triveni and Sg Pipers close in"
-      },
-      {
-         "description" : "DeepMind CEO Demis Hassabis and John Jumper, a DeepMind researcher who led the company's efforts to build AI models that could predict protein structures, shared the Nobel Prize for Chemistry, along with David Baker from the University of Washington. Through his AI company, he had already spearheaded breakthroughs in Go and chess with AlphaGo and AlphaZero, and he has now won the Nobel Prize thanks to AlphaFold2. (photos: DeepMind)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/demis-hassabis-from-deep-mind-wins-nobel-in-chemistry",
-         "pubDate" : "Wed, 09 Oct 2024 18:19:45",
-         "title" : "Demis Hassabis from DeepMind wins Nobel in chemistry"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sara Herman discusses her plans in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-all-about-tactics-and-strategy-chess-chesstactics-chessstrategy-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FqSddlOYdpM.jpg?itok=0thlGv78\" alt=\"\" /></a></div>",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-7",
          "pubDate" : "Wed, 09 Oct 2024 11:26:00",
          "title" : "3 Teams Left In Fight For 2 Global Chess League Final Spots"
-      },
-      {
-         "description" : "It took Wei Yi at least two to three days to recover from what was the game of the Olympiad and one of the toughest games he's ever played. In the Hindustan Times the Chinese GM reflects on his tough loss to India's Gukesh and discusses the rise of Indian chess prodigies, emphasizing the focus for success.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wei-yi-gukesh-pragg-and-arjun-may-be-top-players-in-the-world",
-         "pubDate" : "Wed, 09 Oct 2024 11:18:25",
-         "title" : "Wei Yi: 'Gukesh, Pragg and Arjun may be top players in the world'"
       },
       {
          "description" : "GMs Kirill Shevchenko and Frederik Svane are your winners for the October 8 editions of Titled Tuesday. While Shevchenko led wire-to-wire and won outright with 10 points, victory did not come easily for Svane, who came out of a four-way, 9.5-point...",
@@ -178,14 +194,6 @@ news_feed (
          "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners: Day 1 recap"
       },
       {
-         "description" : "Every chess piece has a favourite region of the board. Knights like to be in the centre, kings rely on the safety of the corners. However, no piece loves a specific diagonal, file or rank as much as rooks do. Rooks love the 7th rank. On this rank, they feel like a kid in a candy shop. There are so many pawns to consume! Also, sometimes the opponent's pieces are vulnerable as well. But why is the seventh rank so attractive for rooks? Jan Markos has some answers and examples! | Diagram: Final position of the game Vidit Gujrathi vs Wei Yi, Global Chess League 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-37-rooks-in-paradise",
-         "pubDate" : "Tue, 08 Oct 2024 20:00:00",
-         "title" : "The Winning Academy 37: Rooks in Paradise"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -208,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-6",
          "pubDate" : "Tue, 08 Oct 2024 13:09:00",
          "title" : "PBG Alaskan Knights Close To Reaching Final After Day Of Blunders"
-      },
-      {
-         "description" : "Rapid games are noted for the fast-paced action and drama and mistakes, a fine line between quality and plain adrenaline. When played by world elite players such as MVL, Erigaisi, Nepo, and more, you can also run into astounding tactics and attacks that even the computers cannot criticize. Such was the case for two by the Frenchman no less. Don't miss these! (credit: Albert Silver/Flux Pro 1.1)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magicians-at-work-jaw-dropping-tactics-from-julius-baer",
-         "pubDate" : "Tue, 08 Oct 2024 10:08:00",
-         "title" : "Magicians at work: Jaw-dropping tactics from Julius Baer"
       },
       {
          "description" : "A roundup of results from the fifth day of the Global Chess League Season 2.",
@@ -816,22 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-to-the-uk-open-blitz-qualifiers-to-date-from-the-london-south-west-midlands-and-north-west-events-the-remaining-three-qualifying-events-will-take-place-next-weekend-5th-and-6th-oct/",
          "pubDate" : "Mon, 30 Sep 2024 12:00:18",
          "title" : "UK Open Blitz Qualifiers - the story so far!"
-      },
-      {
-         "description" : "GM Alireza Firouzja has advanced to play GM Magnus Carlsen in the Julius Baer Generation Cup 2024 Division I Grand Final. GM Levon Aronian showed tremendous form when he defeated GM Maxime Vachier-Lagrave 1.5-0.5 but was met with an immovable Firo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-6",
-         "pubDate" : "Mon, 30 Sep 2024 10:35:00",
-         "title" : "Firouzja Advances To Grand Final Vs. Carlsen, Eliminates Aronian With 2-0 Sweep"
-      },
-      {
-         "description" : "Chess.com is excited to announce the second edition of Team Chess Battle. Starting on October 7, the banter-fueled event will feature a $10,000 prize fund and some of the biggest celebrities in chess. The event continues with its entertaining fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-team-chess-battle-2",
-         "pubDate" : "Mon, 30 Sep 2024 08:00:00",
-         "title" : "Team Chess Battle Is Back With Levy Rozman, Anna Cramling, James Canty, And Other Celebrities"
       },
       {
          "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served eight years on the Ethics Commission and even running as Vice President in the 2022 Election. Ian Wilkinson heading to the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
