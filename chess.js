@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championship and the US Women's Championship will take place on 11-24 October at the World Chess Hall of Fame in Saint Louis. Each field will feature 12 players competing for a total purse of more than $400,000. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-preview",
+         "pubDate" : "Thu, 10 Oct 2024 07:45:00",
+         "title" : "Caruana, So and Dominguez head the field at the 2024 US Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3254",
+         "pubDate" : "Thu, 10 Oct 2024 04:58:09",
+         "title" : "Shymkent welcomes second leg of 2024-2025 FIDE Women's Grand Prix"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114102556.cms\" />In the Global Chess League's eighth round, Raunak Sadhwani defeated Nihal Sarin, marking Sarin's first loss. Despite the 9-10 loss to Mumba Masters, Alaskan Knights lead the standings. Triveni Continental Kings and Alpine Pipers won their matches, closing the gap with the Knights, who remain strong contenders for the final.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-7-it-s-a-three-way-race",
          "pubDate" : "Thu, 10 Oct 2024 00:15:00",
          "title" : "GCL Day 7: It's a three-way race"
+      },
+      {
+         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
+         "pubDate" : "Wed, 9 Oct 2024 23:40:28",
+         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
       },
       {
          "description" : "",
@@ -1312,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3222",
          "pubDate" : "Thu, 19 Sep 2024 21:54:26",
          "title" : "45th Chess Olympiad R08: India dominates open section, faces setback in women's"
-      },
-      {
-         "description" : "At its meeting in Budapest on 18 September, the ECU Board issued the following statement in connection with the discussion on the IOC sanctions against Russia and Belarus and the violation of the sports jurisdiction of the Ukrainian Chess Federation. &#8220;The ECU resolves to maintain the sanctions on Russia and Belarus, in accordance with IOC policy, to protect the integrity of FIDE. The ECU requests the FIDE GA to maintain the sanctions on Russia and Belarus imposed by the FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-board-statement/",
-         "pubDate" : "Thu, 19 Sep 2024 07:22:09",
-         "title" : "ECU Board statement"
       }
    ]
 }
