@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114102556.cms\" />In the Global Chess League's eighth round, Raunak Sadhwani defeated Nihal Sarin, marking Sarin's first loss. Despite the 9-10 loss to Mumba Masters, Alaskan Knights lead the standings. Triveni Continental Kings and Alpine Pipers won their matches, closing the gap with the Knights, who remain strong contenders for the final.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kings-pipers-narrow-knights-lead-as-raunak-ends-nihals-unbeaten-run-in-global-chess-league/articleshow/114102556.cms",
+         "pubDate" : "Thu, 10 Oct 2024 03:09:15",
+         "title" : "Kings, Pipers narrow Knights' lead as Raunak ends Nihal's unbeaten run"
+      },
+      {
+         "description" : "Please find here certificates NO Name 1 Nagarajan Somasundaram 2 Balaji V 3 Mohana R 4 Gowtham T S 5 Gayathri K 6 Subash Sanker",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-sna-held-in-karaikudi-on-21-22-september-2024/",
+         "pubDate" : "Thu, 10 Oct 2024 00:36:58",
+         "title" : "Certificates of SNA held in Karaikudi on 21 & 22 September 2024"
+      },
+      {
          "description" : "The upGrad Mumba Masters started the seventh day of the Global Chess League with a win over the leaders, PBG Alaskan Knights. It was the closest match of the event so far, as the final score was 10-9. Ganges Grandmasters lost to Triveni Continental Kings later in the day, while R Praggnanandhaa and Daniel Dardha powered the Alpine SG Pipers to a win over the American Gambits. The Alaskan Knights, the Continental Kings and the SG Pipers are the only three teams that will battle it out for the top two spots in the finals. Thursday's action starts with American Gambits v. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Certificates of SNA Seminar in Chennai on 07 & 08 September 2024"
       },
       {
-         "description" : "Please find the live link of &#160;30th Tamil Nadu IM norm tournament started on 30th Sep 2024. Live Link :&#160;https://live.tamilchess.com/30th-im-norm-coimbatore/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-of-30th-tamil-nadu-im-tournament-schedule/",
-         "pubDate" : "Wed, 02 Oct 2024 15:27:02",
-         "title" : "Live link of 30th Tamil Nadu IM Tournament Schedule"
-      },
-      {
          "description" : "GM Magnus Carlsen just won the 2024 Julius Baer Generation Cup, meaning he&#39;s won two out of the four Champions Chess Tour events this year. We also saw GM Wesley So win Division II and GM Fabiano Caruana Division III. Let&#39;s go over what we&#39;ve lear...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1106,14 +1114,6 @@ news_feed (
          "title" : "Chess Olympiad: India's chess might is at root of 64 squares"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113584552.cms\" />India's chess teams won double gold at the 2024 Chess Olympiad in Budapest. The open team featured Gukesh D, Praggnanandhaa R, and Arjun Erigaisi while the women's team included Harika Dronavalli and Divya Deshmukh. This achievement reflects India's strategic investment in nurturing chess talent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-budapest-gambit-how-india-outplayed-the-world-to-win-double-gold-at-chess-olympiad/articleshow/113584552.cms",
-         "pubDate" : "Mon, 23 Sep 2024 04:03:11",
-         "title" : "The Budapest Gambit: How India outplayed the world to win double gold at Chess Olympiad"
-      },
-      {
          "description" : "With two golds - in Open and Women - they've taken all that unimpressive history in the tournament, smashed it out of the park and taken Indian chess to a whole new level.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1320,14 +1320,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-board-statement/",
          "pubDate" : "Thu, 19 Sep 2024 07:22:09",
          "title" : "ECU Board statement"
-      },
-      {
-         "description" : "Gukesh won a 6-hour marathon, Arjun's win streak came to an end as India men beat China in a crucial match.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41321042/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-7-report?device=featurephone",
-         "pubDate" : "Thu, 19 Sep 2024 00:34:52",
-         "title" : "Chess Olympiad 2024: Ding Liren rested vs India as men and women's team prevail for perfect 7/7"
       }
    ]
 }
