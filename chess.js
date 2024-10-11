@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation Academy (KCFA) is excited to announce the start of its second season, featuring an enhanced format with more instructional hours and additional lessons from top players and trainers, including special sessions from the Legendary World Champion, Garry Kasparov himself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-study-with-garry",
+         "pubDate" : "Fri, 11 Oct 2024 10:30:00",
+         "title" : "Chess Study with Garry"
+      },
+      {
          "description" : "To mark FIDE's centenary and International Chess Day, the FIDE100 Art Contest inspired artists of all ages from around the world to express their passion for chess through creative mediums. The competition attracted 271 entries from 54 countries, with participants ranging from professional to young aspiring artists. The contest featured two main categories: AI-generated and traditional artworks. The winners were selected across three age categories.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
