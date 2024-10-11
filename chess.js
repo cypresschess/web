@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The event has struggled to find a spectator friendly venue since the closure and demolishion of much of Olympia in preparation for an as yet unfinished revamp. Spectators are welcome again this year and this was a huge part of the original concept of the event. The field for the closed event has yet to be announced and there is an open and many other events.",
+         "description" : " The US Chess Championships take place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Players: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Hans Moke Niemann, Ray Robson, Samuel Sevian, Sam Shankland, Awonder Liang, Grigoriy Oparin, Abhimanyu Mishra and Christopher Woojin Yoo, Women's: Carissa Yip, Irina Krush, Gulrukhbegim Tokhirjonova, Tatev Abrahamyan, Nazi Paikidze, Anna Zatonskih, Thalia Cervantes Landeiro, Atousa Pourkashiyan, Jennifer Yu, Megan Lee, Rose Atwell and Alice Lee.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2024",
+         "pubDate" : "Fri, 11 Oct 2024 20:01:00",
+         "title" : "US Chess Championships 2024 - "
+      },
+      {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Fri, 11 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Opponent&#039;s carelessness and king activity in the endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sit-wait-and-hope-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nNvEf5brJv4.jpg?itok=0l3av9ke\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sit-wait-and-hope-chess-chessendgame-education-lichess",
+         "pubDate" : "Fri, 11 Oct 2024 18:41:49",
+         "title" : "Sit, Wait, and Hope #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Measuring forceful moves in a position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x7tn3NPUu68.jpg?itok=RVHXHlxC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess",
+         "pubDate" : "Fri, 11 Oct 2024 18:41:49",
+         "title" : "When You Think Forcing Moves #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wy3yGVp-mV",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-2",
+         "pubDate" : "Fri, 11 Oct 2024 18:41:49",
+         "title" : "2024 U.S. Chess Championships: Round 2"
+      },
+      {
+         "description" : " The world No 1 lost to Firouzja in round two and although he won the return game, his team failed to reach the final, in which Triveni Continental Kings face PBG Alaskan Knights The world No 1, Magnus Carlsen, has had a rare sub-par tournament in the six-team $1m Global Chess League, in which Triveni ­Continental Kings, led by France's Iran-born ­rising star, Alireza Firouzja, will meet PBG ­Alaskan Knights, whose No 1 is Anish Giri of the Netherlands, in the double-round final on Saturday (2.30pm BST start, live on <a href=\"https://kick.com/globalchessleague\">kick.com</a>). The Kings and the Pipers finished level on 18 match points, but the Kings were well ahead on the game points tie-brea",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/oct/11/carlsen-struggles-amid-controversy-at-1m-global-chess-league-in-london",
+         "pubDate" : "Fri, 11 Oct 2024 18:28:58",
+         "title" : "Carlsen struggles amid controversy at $1m Global Chess League in London"
+      },
+      {
+         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The event has struggled to find a spectator friendly venue since the closure and demolition of much of Olympia in preparation for an as yet unfinished revamp. Spectators are welcome again this year and this was a huge part of the original concept of the event. The field for the closed round robin has yet to be announced and there is an open and many other side events including simultaneous exhibitions.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
@@ -42,20 +90,20 @@ news_feed (
          "title" : "Chess Study with Garry"
       },
       {
+         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
+         "pubDate" : "Fri, 11 Oct 2024 09:46:48",
+         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
+      },
+      {
          "description" : "To mark FIDE's centenary and International Chess Day, the FIDE100 Art Contest inspired artists of all ages from around the world to express their passion for chess through creative mediums. The competition attracted 271 entries from 54 countries, with participants ranging from professional to young aspiring artists. The contest featured two main categories: AI-generated and traditional artworks. The winners were selected across three age categories.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-100-art-contest-2024",
          "pubDate" : "Fri, 11 Oct 2024 08:00:00",
          "title" : "FIDE 100 Art Contest: Celebrating chess through creativity"
-      },
-      {
-         "description" : " The world No 1 lost on time to Firouzja in round two and has scored just 50% - they meet again in a live game at 5.05pm on Friday in a possible tournament decider The world No 1, Magnus Carlsen, is having a rare sub-par tournament in the six-team $1m Global Chess League, in which two qualifiers from the group stages will meet in the double-round final on Saturday (2.30pm BST start, live on <a href=\"https://kick.com/globalchessleague\">kick.com</a>). The Norwegian, who radiated optimism in a <a href=\"https://www.theguardian.com/sport/2024/oct/06/magnus-carlsen-play-chess-against-mo-salah-i-would-love-that\">pre-tournament interview</a>, has been unexpectedly below form, with only two wins to h",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/oct/11/carlsen-struggles-amid-controversy-at-1m-global-chess-league-in-london",
-         "pubDate" : "Fri, 11 Oct 2024 07:00:48",
-         "title" : "Carlsen struggles amid controversy at $1m Global Chess League in London"
       },
       {
          "description" : "PBG Alaskan Knights defeated Triveni Continental Kings to become the first finalists of Tech Mahindra Global Chess League 2024. They will face the winner of Alpine SG Pipers and TCK, who will face off in the last match of the double round-robin stage - i.e. now a virtual Semifinal. Anish Giri, Nodirbek Abdusattorov, Zhongyi Tan and Alina Kashlinskaya scored the victories to ensure their team's place in the finals. Round 10 starts tomorrow with Ganges Grandmasters v. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
@@ -210,14 +258,6 @@ news_feed (
          "title" : "2024 U.S. Championship and U.S. Women's Championship Preview"
       },
       {
-         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
-         "pubDate" : "Wed, 9 Oct 2024 23:40:28",
-         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,30 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/its-all-about-tactics-and-strategy-chess-chesstactics-chessstrategy-education-lichess",
          "pubDate" : "Wed, 09 Oct 2024 15:40:17",
          "title" : "It's All About The Tactics and Strategy #chess #chesstactics #chessstrategy #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman share what should you do next after completing the first fundamentals of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/not-sure-how-continue-chess-chessmiddlegame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KG8K9DNdKSQ.jpg?itok=ROegC1m_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/not-sure-how-continue-chess-chessmiddlegame-education-lichess",
-         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
-         "title" : "Not Sure On How To Continue #chess #chessmiddlegame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Not liking the position, Sara talks about how to make the best of the situation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/looking-best-way-outgrobble-chess-chesstactics-chessstrategy-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y-a8hUicAWw.jpg?itok=Bsbr5e1W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/looking-best-way-outgrobble-chess-chesstactics-chessstrategy-lichess",
-         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
-         "title" : "Looking for the Best Way Out...Grobble #chess #chesstactics #chessstrategy #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara talks about the strategy when getting to a certain level </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1900-and-above-chess-chesstactics-chessstrategy-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2u1Vj_7KoDY.jpg?itok=mlpHU4U6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1900-and-above-chess-chesstactics-chessstrategy-education-lichess",
-         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
-         "title" : "1900 and Above #chess #chesstactics #chessstrategy #education #lichess"
       },
       {
          "description" : "Team &#34;Oh Yes My Queen,&#34; IM Eric Rosen and WGM Nemo Zhou, won their 2024 Team Chess Battle 2 quarterfinal match 2-0 against Team &#39;Dandinavian,&#39; IM Danny Rensch and IM John Bartholomew. Although Chess.com&#39;s Chief Chess Officer blamed the outcome on ...",
