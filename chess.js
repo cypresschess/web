@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The event has struggled to find a spectator friendly venue since the closure and demolishion of much of Olympia in preparation for an as yet unfinished revamp. Spectators are welcome again this year and this was a huge part of the original concept of the event. The field for the closed event has yet to be announced and there is an open and many other events.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
+         "pubDate" : "Fri, 11 Oct 2024 14:36:00",
+         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
+      },
+      {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Fri, 11 Oct 2024 13:50:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3256",
+         "pubDate" : "Fri, 11 Oct 2024 13:28:18",
+         "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners: A Journey of Triumph and Transformation"
+      },
+      {
+         "description" : "The ECU E-Magazine September 2024 is out! In this edition of the ECU E-Magazine you may read about: The September 2024 edition of the ECU E-Magazine can be read online together with interactive links, or it can be downloaded below in PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-september-2024/",
+         "pubDate" : "Fri, 11 Oct 2024 13:24:08",
+         "title" : "ECU E-Magazine September 2024"
+      },
+      {
          "description" : "The Kasparov Chess Foundation Academy (KCFA) is excited to announce the start of its second season, featuring an enhanced format with more instructional hours and additional lessons from top players and trainers, including special sessions from the Legendary World Champion, Garry Kasparov himself.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-day-8-tenacious-giri-outplays-firouzja-alaskan-knight-in-the-finals-2",
          "pubDate" : "Fri, 11 Oct 2024 00:15:00",
          "title" : "GCL Day 8: Tenacious Giri outplays Firouzja, Alaskan Knights reach finals"
+      },
+      {
+         "description" : "A roundup of results from the latest round of action at the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41727638/global-chess-league-2024-gcl-report-pbg-alaskan-knights-reach-final-carlsen-beat-viswanathan-anand-october-10?device=featurephone",
+         "pubDate" : "Thu, 10 Oct 2024 22:51:54",
+         "title" : "Global Chess League: PBG Alaskan Knights reach final as Carlsen beats Anand"
       },
       {
          "description" : "<div class=\"body text-secondary\"> What endgames to learn at the beginning </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-learning-endgames-chess-chessbeginners-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HaVc3prWLE8.jpg?itok=XO1EqPg6\" alt=\"\" /></a></div>",
@@ -162,7 +202,7 @@ news_feed (
          "title" : "Certificates of SNA held in Karaikudi on 21 & 22 September 2024"
       },
       {
-         "description" : "Octobers in St. Louis are all about championships, even during years when the Cardinals do not make the postseason. As has become an autumnal tradition over the past two decades, the 2024 U.S. Championship and U.S. Women's Championship begin Friday, October 11, in St. Louis, with GM Fabiano Caruana and IM Carissa Yip each looking to defend their 2023 titles.Each event will consist of a 12-player, 11-round Round Robin tournament from October 11 through 23, with playoffs (if needed) on Friday, October 24th. Games begin daily at 1:00 p.m., CDT, with rest days after rounds four and eight. The time control for each round will be 40 moves in 90 minutes, followed by 30 minutes for the rest of the g",
+         "description" : "Octobers in St. Louis are all about championships, even during years when the Cardinals do not make the postseason. As has become an autumnal tradition over the past two decades, the 2024 U.S. Championship and U.S. Women's Championship begin Friday, October 11, in St. Louis, with GM Fabiano Caruana and IM Carissa Yip each looking to defend their 2023 titles. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Each event will consist of a 12-player, 11-round Round Robin tournament from October 11 through 23, with playoffs (if needed) on Friday, October 24th. Games begin daily ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2024-us-championship-and-us-womens-championship-preview",
@@ -304,6 +344,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-always-lacked-a-bit-of-professionalism-vidit-gujrathi/articleshow/114056187.cms",
          "pubDate" : "Tue, 08 Oct 2024 17:26:57",
          "title" : "Chess has always lacked a bit of professionalism: Vidit Gujrathi"
+      },
+      {
+         "description" : "For last month's post, <A HREF=\"https://chessforallages.blogspot.com/2024/09/september-1974-1999-on-cover.html\">September 1974 & 1999 'On the Cover'</A> (September 2024), we saw four Americans who were newly minted IMs 50 years ago and the logo for a controversial type of FIDE World Championship played 25 years ago. This month we see the leading American GM of 50 years ago, but the FIDE event has disappeared. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oj08.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Serper Grabs World Open Title' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> U.S. Champion Walter Browne, who after winning his titl",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/10/october-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 08 Oct 2024 15:36:00",
+         "title" : "October 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "GM Anish Giri scored his first win on Tuesday to lead the PBG Alaskan Knights to their sixth win in seven matches as the team is on the brink of securing a spot in Saturday&#39;s final of the Tech Mahindra Global Chess League. It was a strange day tha...",
