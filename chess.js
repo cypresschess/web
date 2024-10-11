@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To mark FIDE's centenary and International Chess Day, the FIDE100 Art Contest inspired artists of all ages from around the world to express their passion for chess through creative mediums. The competition attracted 271 entries from 54 countries, with participants ranging from professional to young aspiring artists. The contest featured two main categories: AI-generated and traditional artworks. The winners were selected across three age categories.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-100-art-contest-2024",
+         "pubDate" : "Fri, 11 Oct 2024 08:00:00",
+         "title" : "FIDE 100 Art Contest: Celebrating chess through creativity"
+      },
+      {
+         "description" : " The world No 1 lost on time to Firouzja in round two and has scored just 50% - they meet again in a live game at 5.05pm on Friday in a possible tournament decider The world No 1, Magnus Carlsen, is having a rare sub-par tournament in the six-team $1m Global Chess League, in which two qualifiers from the group stages will meet in the double-round final on Saturday (2.30pm BST start, live on <a href=\"https://kick.com/globalchessleague\">kick.com</a>). The Norwegian, who radiated optimism in a <a href=\"https://www.theguardian.com/sport/2024/oct/06/magnus-carlsen-play-chess-against-mo-salah-i-would-love-that\">pre-tournament interview</a>, has been unexpectedly below form, with only two wins to h",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/oct/11/carlsen-struggles-amid-controversy-at-1m-global-chess-league-in-london",
+         "pubDate" : "Fri, 11 Oct 2024 07:00:48",
+         "title" : "Carlsen struggles amid controversy at $1m Global Chess League in London"
+      },
+      {
          "description" : "PBG Alaskan Knights defeated Triveni Continental Kings to become the first finalists of Tech Mahindra Global Chess League 2024. They will face the winner of Alpine SG Pipers and TCK, who will face off in the last match of the double round-robin stage - i.e. now a virtual Semifinal. Anish Giri, Nodirbek Abdusattorov, Zhongyi Tan and Alina Kashlinskaya scored the victories to ensure their team's place in the finals. Round 10 starts tomorrow with Ganges Grandmasters v. upGrad Mumba Masters from 1 p.m. local time, 4:30 p.m. IST. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -86,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-8",
-         "pubDate" : "Thu, 10 Oct 2024 13:42:53",
+         "pubDate" : "Thu, 10 Oct 2024 13:42:00",
          "title" : "PBG Alaskan Knights Secure Spot In Global Chess League Final"
       },
       {
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3224",
          "pubDate" : "Fri, 20 Sep 2024 21:39:41",
          "title" : "45th Chess Olympiad: USA sets up clash with India; Kazakhstan grabs the lead in women's event"
-      },
-      {
-         "description" : " With three rounds to go, India have won all eight of their matches in Budapest without loss of a game, while the top seeded US team is fifth and England 17th India are fast becoming the clear No 1 nation of world chess, with a dominance reminiscent of the legendary USSR teams of the 1950s and 1960s. After Thursday's eighth round (of 11) at the 188-team Olympiad in Budapest, and a 3.5‑0.5 victory over second placed Iran, India had won every Open match and totalled 16/16 without losing a single game. Hungary's Peter Leko put it well: \"India's way too strong. They are very young, very determined, brilliantly prepared, and also have fantastic chemistry, so it's a very tough team for anyone to",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/sep/20/chess-india-win-every-match-at-olympiad-as-us-and-england-trail",
-         "pubDate" : "Fri, 20 Sep 2024 07:00:06",
-         "title" : "Chess: India win every match at Olympiad as US and England trail"
       }
    ]
 }
