@@ -1296,22 +1296,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/sep/20/chess-india-win-every-match-at-olympiad-as-us-and-england-trail",
          "pubDate" : "Fri, 20 Sep 2024 07:00:06",
          "title" : "Chess: India win every match at Olympiad as US and England trail"
-      },
-      {
-         "description" : "The men's team's statement victory propelled Arjun Erigaisi and D Gukesh's rating close to the mark of 2800 and this is the first time ever that there are two Indians in top five of the world rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41335789/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-8-report?device=featurephone",
-         "pubDate" : "Thu, 19 Sep 2024 23:56:26",
-         "title" : "Chess Olympiad 2024: Arjun, Gukesh close in on 2800 points after India men's big win; women's team suffers first loss"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3223",
-         "pubDate" : "Thu, 19 Sep 2024 23:43:11",
-         "title" : "FIDE 100 Awards make history"
       }
    ]
 }
