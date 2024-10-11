@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov won an exhilarating battle against Daniel Dardha to power his team, Triveni Continental Kings, to the Finals of the Tech Mahindra Global Chess League. Magnus Carlsen had an exciting finish against Alireza Firouzja. However, his win was not enough for his team, Alpine SG Pipers, to advance to the Finals. The other finalist, PBG Balan Alaskan Knights, scored a dominating victory over American Gambits 5-14. Match 1 of the finals starts tomorrow from 2:15 p.m. local time, 6:45 p.m. IST. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/javokhir-sindarov-powers-triveni-continental-kings-to-tech-mahindra-gcl-finals",
+         "pubDate" : "Sat, 12 Oct 2024 00:50:00",
+         "title" : "Javokhir Sindarov powers Continental Kings to GCL Finals"
+      },
+      {
          "description" : " The US Chess Championships take place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Players: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Hans Moke Niemann, Ray Robson, Samuel Sevian, Sam Shankland, Awonder Liang, Grigoriy Oparin, Abhimanyu Mishra and Christopher Woojin Yoo, Women's: Carissa Yip, Irina Krush, Gulrukhbegim Tokhirjonova, Tatev Abrahamyan, Nazi Paikidze, Anna Zatonskih, Thalia Cervantes Landeiro, Atousa Pourkashiyan, Jennifer Yu, Megan Lee, Rose Atwell and Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
          "pubDate" : "Fri, 11 Oct 2024 20:00:00",
          "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3257",
+         "pubDate" : "Fri, 11 Oct 2024 19:29:56",
+         "title" : "Global Chess League: Defending champions Triveni reach finals after dramatic 9-7 victory over Sg Pipers"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Opponent&#039;s carelessness and king activity in the endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sit-wait-and-hope-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nNvEf5brJv4.jpg?itok=0l3av9ke\" alt=\"\" /></a></div>",
@@ -58,12 +74,12 @@ news_feed (
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       },
       {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Fri, 11 Oct 2024 13:50:00",
-         "title" : "Global Chess League - Live!"
+         "description" : "Not GM Magnus Carlsen&#39;s Alpine Sg Pipers but GM Alireza Firouzja&#39;s Triveni Continental Kings secured the second spot in Saturday&#39;s Final of the Tech Mahindra Global Chess League. The Pipers will be playing for glory against the PBG Alaskan Knights...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-9",
+         "pubDate" : "Fri, 11 Oct 2024 13:40:00",
+         "title" : "Giri's PBG Alaskan Knights To Face Firouzja's Triveni Continental Kings In Saturday's Final"
       },
       {
          "description" : "",
@@ -850,14 +866,6 @@ news_feed (
          "title" : "October 2024 FIDE Ratings: Gukesh Joins Arjun In World Top-5"
       },
       {
-         "description" : "GM Magnus Carlsen won Division I of the 2024 Julius Baer Generation Cup after defeating GM Alireza Firouzja 2.5-1.5 in the Grand Final. After three hard-fought draws, the world number-one found a brilliant way to break through (40.e6!!) in the fou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-julius-baer-generation-cup-day-7-carlsen-so-caruana-win",
-         "pubDate" : "Tue, 01 Oct 2024 10:38:00",
-         "title" : "Carlsen Wins 2024 Julius Baer Generation Cup, Wesley So Takes Division II, Caruana Division III"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1360,22 +1368,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41353022/gold-india-fide-chess-olympiad-2024-possibility-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
          "pubDate" : "Sat, 21 Sep 2024 03:52:27",
          "title" : "Can India win gold in the Chess Olympiad 2024?"
-      },
-      {
-         "description" : "Despite the draw, Indian men still have a two-point lead, scoring 17 out of 18 with two more rounds to go.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41350008/chess-olympiad-2024-arjun-erigaisi-gukesh-praggnanandhaa-harika-vaishali-indian-chess-news-round-9-report?device=featurephone",
-         "pubDate" : "Fri, 20 Sep 2024 23:12:47",
-         "title" : "Chess Olympiad 2024: Uzbekistan stop India's winning run in open; Vantika helps women draw with USA"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3224",
-         "pubDate" : "Fri, 20 Sep 2024 21:39:41",
-         "title" : "45th Chess Olympiad: USA sets up clash with India; Kazakhstan grabs the lead in women's event"
       }
    ]
 }
