@@ -106,14 +106,6 @@ news_feed (
          "title" : "Chess Study with Garry"
       },
       {
-         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
-         "pubDate" : "Fri, 11 Oct 2024 09:46:48",
-         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
-      },
-      {
          "description" : "To mark FIDE's centenary and International Chess Day, the FIDE100 Art Contest inspired artists of all ages from around the world to express their passion for chess through creative mediums. The competition attracted 271 entries from 54 countries, with participants ranging from professional to young aspiring artists. The contest featured two main categories: AI-generated and traditional artworks. The winners were selected across three age categories.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,6 +264,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/2024-us-championship-and-us-womens-championship-preview",
          "pubDate" : "Thu, 10 Oct 2024 00:00:00",
          "title" : "2024 U.S. Championship and U.S. Women's Championship Preview"
+      },
+      {
+         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
+         "pubDate" : "Wed, 9 Oct 2024 23:40:28",
+         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
       },
       {
          "description" : "",
