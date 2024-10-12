@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
-         "pubDate" : "Sat, 12 Oct 2024 15:20:00",
-         "title" : "Global Chess League - Live!"
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Sat, 12 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Measuring forceful moves in a position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x7tn3NPUu68.jpg?itok=RVHXHlxC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess-0",
+         "pubDate" : "Sat, 12 Oct 2024 18:42:08",
+         "title" : "When You Think of Forcing Moves #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Aronian, Rapport, Firouzja, and now...Fabi&#039;s second, Grigoriy Oparin joins the fancy shirt club </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-second-playing-style-chess-uschesschampionship-chesshumor-fashion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7Awn9aRhe5s.jpg?itok=slMPhAU5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-second-playing-style-chess-uschesschampionship-chesshumor-fashion",
+         "pubDate" : "Sat, 12 Oct 2024 18:42:08",
+         "title" : "Fabi's Second Playing With Style #chess #uschesschampionship #chesshumor #fashion"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> A break between the action, Dr. Jeanne Sinquefield joins the commentators for a brief discussion in the values of reading and writing chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watching-hikaru-chess-uschesschampionship-chesshumor-chesscom-hikarunakamura-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sksQXAKa1Js.jpg?itok=p-YTLk61\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/watching-hikaru-chess-uschesschampionship-chesshumor-chesscom-hikarunakamura-education",
+         "pubDate" : "Sat, 12 Oct 2024 18:42:08",
+         "title" : "Watching Hikaru #chess #uschesschampionship #chesshumor #chesscom #hikarunakamura #education"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3259",
+         "pubDate" : "Sat, 12 Oct 2024 18:10:22",
+         "title" : "Tech Mahindra Global Chess League: Triveni clinch second title in spectacular fashion"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MG7-QRGVTS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-3",
+         "pubDate" : "Sat, 12 Oct 2024 15:42:06",
+         "title" : "2024 U.S. Chess Championships: Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_v96IBthNj",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-4",
+         "pubDate" : "Sat, 12 Oct 2024 15:42:06",
+         "title" : "2024 U.S. Chess Championships: Round 4"
       },
       {
          "description" : "Sports psychology knows that you play best when you play relaxed, but sports psychology also knows that ease does not come easily when you absolutely want to win. As May Li, the young heroine in Kyla Zhao's entertaining new book \"May the Best Player Win\" has to learn. \"May the Best Player Win\" has just been published, but has already received a number of enthusiastic reviews. In a wide-ranging interview with ChessBase, Kyla Zhao talked about her book, her interest in chess, her career, writing books, gender equality in chess and much more.",
@@ -26,12 +74,36 @@ news_feed (
          "title" : "FIDE World Youth Rapid & Blitz Chess Championships - 2024 in Terme Catez, Slovenia from 13th to 17th December, 2024"
       },
       {
+         "description" : "Season one champions, Triveni Continental Kings, triumphed over the PBG Alaskan Knights in both final matches to secure their second title in the Global Chess League.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41753631/global-chess-league-2024-gcl-report-final-firouzja-triveni-continental-kings-secure-second-title-spectacular-fashion?device=featurephone",
+         "pubDate" : "Sat, 12 Oct 2024 13:00:58",
+         "title" : "Global Chess League: Triveni Continental Kings secure second title in spectacular fashion"
+      },
+      {
+         "description" : " The Tech Mahindra Global Chess League took place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai was a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there were 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Alireza Firouzja (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (PB",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
+         "pubDate" : "Sat, 12 Oct 2024 11:41:00",
+         "title" : "TechM Global Chess League 2024 - Games and Results"
+      },
+      {
          "description" : "In 1875 Walter Grimshaw, a composer of chess problems who was not far off master strength as a player, played at least one casual game against Steinitz at Simpson's Divan, and supposedly won in 17 moves. But was this \"summary demolishment\" actually played? Steinitz called the game, which was published in the International Chess Magazine, \"a deliberately bogus manufactured forgery.\" You can read about Grimshaw and this controversial encounter courtesy of Neil Hickman in CHESS Magazine, October 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/demolishment-of-a-summary-demolishment",
          "pubDate" : "Sat, 12 Oct 2024 10:00:00",
          "title" : "Demolishment of a \"Summary Demolishment\""
+      },
+      {
+         "description" : "GM Alireza Firouzja&#39;s Triveni Continental Kings have retained their Tech Mahindra Global Chess League title after defeating GM Anish Giri&#39;s PBG Alaskan Knights 2-0 in the final. Firouzja thanked teammate GM Alexandra Kosteniuk, the only player to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-final",
+         "pubDate" : "Sat, 12 Oct 2024 09:05:00",
+         "title" : "Firouzja's Triveni Continental Kings Win 2nd Global Chess League"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114164064.cms\" />Vantika Agrawal, a 21-year-old chess player from Noida, overcame significant challenges to win India's first-ever Olympiad gold in Budapest. With minimal local support, her mother played a crucial role in her success. Vantika aims to become a Grandmaster by next year, despite the financial and logistical hurdles she faces.",
@@ -82,6 +154,14 @@ news_feed (
          "title" : "Javokhir Sindarov powers Continental Kings to GCL Finals"
       },
       {
+         "description" : "On the eve of National Chess Day, the 2024 U.S. Championship and U.S. Women's Championship kicked off at the Saint Louis Chess Club (SLCC) with two sets of ultra-competitive fields. The Open event got off to a cautious start, with nobody wanting to begin the 11-round competition with a loss, while the Women's event saw players take more chances. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Tokhirjonova won seven games in 2023. Can the top board from the American Olympiad squad beat that score this year? She's on track, as Dr. Jeanne Cairns Sinquefield rings the opening bell. (All photos courtesy Lennart Ootes/SLCC)<br> <br> Will we see more fireworks f",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-us-championships-round-one-no-fischer-prizes-open-womens-favorites-jump-out-quick-lead",
+         "pubDate" : "Sat, 12 Oct 2024 00:00:00",
+         "title" : "2024 U.S. Championships Round One: No Fischer Prizes in the Open, Women's Favorites Jump Out to Quick Lead"
+      },
+      {
          "description" : "On Friday, all eyes were on the decisive clash between Alpine Sg Pipers and Triveni Continental Kings for a place in the final.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -106,14 +186,6 @@ news_feed (
          "title" : "US Chess Championships 2024 - "
       },
       {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Fri, 11 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,14 +208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess",
          "pubDate" : "Fri, 11 Oct 2024 18:41:49",
          "title" : "When You Think Forcing Moves #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wy3yGVp-mV",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-2",
-         "pubDate" : "Fri, 11 Oct 2024 18:41:49",
-         "title" : "2024 U.S. Chess Championships: Round 2"
       },
       {
          "description" : " The world No 1 lost to Firouzja in round two and although he won the return game, his team failed to reach the final, in which Triveni Continental Kings face PBG Alaskan Knights The world No 1, Magnus Carlsen, has had a rare sub-par tournament in the six-team $1m Global Chess League, in which Triveni ­Continental Kings, led by France's Iran-born ­rising star, Alireza Firouzja, will meet PBG ­Alaskan Knights, whose No 1 is Anish Giri of the Netherlands, in the double-round final on Saturday (2.30pm BST start, live on <a href=\"https://kick.com/globalchessleague\">kick.com</a>). The Kings and the Pipers finished level on 18 match points, but the Kings were well ahead on the game points tie-brea",
@@ -226,44 +290,12 @@ news_feed (
          "title" : "Global Chess League: PBG Alaskan Knights reach final as Carlsen beats Anand"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> What endgames to learn at the beginning </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-learning-endgames-chess-chessbeginners-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HaVc3prWLE8.jpg?itok=XO1EqPg6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/when-learning-endgames-chess-chessbeginners-chessendgame-education-lichess",
-         "pubDate" : "Thu, 10 Oct 2024 21:41:18",
-         "title" : "When Learning Endgames #chess #chessbeginners #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In this position, GM Friedel talks about the &quot;The Knowledge Move.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knowledge-move-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gmBSr7Sp78I.jpg?itok=9DyEqlFp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/knowledge-move-chess-chessendgame-education-lichess",
-         "pubDate" : "Thu, 10 Oct 2024 21:41:18",
-         "title" : "The Knowledge Move #chess #chessendgame #education #lichess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3255",
          "pubDate" : "Thu, 10 Oct 2024 21:31:20",
          "title" : "Global Chess League: PBG reach the finals as Triveni and Pipers set for showdown"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> What endgames to learn at the beginning </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-where-start-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HaVc3prWLE8.jpg?itok=XO1EqPg6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgames-where-start-chess-chessendgame-education-lichess",
-         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
-         "title" : "Endgames: Where To Start #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The king&#039;s activity in the endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-active-king-can-cause-havoc-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nNvEf5brJv4.jpg?itok=0l3av9ke\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgames-active-king-can-cause-havoc-chess-chessendgame-education-lichess",
-         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
-         "title" : "Endgames: An Active King Can Cause Havoc #chess #chessendgame #education #lichess"
       },
       {
          "description" : "Taking place in Terme Catez, Slovenia 13-17 December 2024. Registration has now opened for the above event. Whilst attendance at this tournament is not restricted, the ECF has a few...",
@@ -802,14 +834,6 @@ news_feed (
          "title" : "Giri's Alaskan Knights Impress On 2024 Global Chess League Opening Day"
       },
       {
-         "description" : " The Tech Mahindra Global Chess League takes place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai is a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there are 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Alireza Firouzja (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (PBG",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
-         "pubDate" : "Thu, 3 Oct 2024 11:41:00",
-         "title" : "TechM Global Chess League 2024 - Games and Results"
-      },
-      {
          "description" : "Please find the live links here https://live.tamilchess.com/nwcc2024/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -856,14 +880,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bortnyk-carlsen-win-titled-tuesday-october-1-2024",
          "pubDate" : "Wed, 02 Oct 2024 10:15:30",
          "title" : "Carlsen Wins Another Titled Tuesday"
-      },
-      {
-         "description" : "This October, five new (and familiar) faces have landed on Chess.com. Martin Krueger, Jack, Ghost Giri, Cramaline, and Beetlejuicer may seem like an unlikely group of friends&#38;mdash;but they all have one thing in common: a cunning passion for chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/halloween-bots",
-         "pubDate" : "Wed, 02 Oct 2024 07:00:00",
-         "title" : "It's Spooky Season: New Halloween Bots Have Appeared!"
       },
       {
          "description" : "Several of India's gold-medal winning Olympiad teams will be in action - including Vidit Gujrathi, R Praggnanandhaa and R Vaishali.",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-2",
          "pubDate" : "Tue, 01 Oct 2024 00:00:00",
          "title" : "Tactics Tuesday: Paris Speed Chess Champs, Pt. 2"
-      },
-      {
-         "description" : "We welcome Jeff French as the new editor. It is ironic that Jeff was a student and chess club member of Alex Dunne's in high school in northeast Pennsylvania. He also played Alex in over-the-board games. He contributed to the online Chess Life memorial for Alex.<br> <br> Jeff has played chess for over 50 years, since he was 11 years old. In 2014, Jeff's chess journalist career began when he became the Texas Knights editor for the Texas Chess Association. In 2018, after editing 27 issues, he had to resign as editor due to professional career requirements. But, after retiring from that career in late 2021, and then trying his hand at mobile application development, he returned in 2022 as the T",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-october-whats-new-old",
-         "pubDate" : "Tue, 01 Oct 2024 00:00:00",
-         "title" : "Check is in the Mail, October: What's New is Old!"
       },
       {
          "description" : "",
