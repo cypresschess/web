@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1875 Walter Grimshaw, a composer of chess problems who was not far off master strength as a player, played at least one casual game against Steinitz at Simpson's Divan, and supposedly won in 17 moves. But was this \"summary demolishment\" actually played? Steinitz called the game, which was published in the International Chess Magazine, \"a deliberately bogus manufactured forgery.\" You can read about Grimshaw and this controversial encounter courtesy of Neil Hickman in CHESS Magazine, October 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/demolishment-of-a-summary-demolishment",
+         "pubDate" : "Sat, 12 Oct 2024 10:00:00",
+         "title" : "Demolishment of a \"Summary Demolishment\""
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114164064.cms\" />Vantika Agrawal, a 21-year-old chess player from Noida, overcame significant challenges to win India's first-ever Olympiad gold in Budapest. With minimal local support, her mother played a crucial role in her success. Vantika aims to become a Grandmaster by next year, despite the financial and logistical hurdles she faces.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       },
       {
-         "description" : "Not GM Magnus Carlsen&#39;s Alpine Sg Pipers but GM Alireza Firouzja&#39;s Triveni Continental Kings secured the second spot in Saturday&#39;s Final of the Tech Mahindra Global Chess League. The Pipers will be playing for glory against the PBG Alaskan Knights...",
+         "description" : "Not GM Magnus Carlsen&#39;s Alpine Sg Pipers but GM Alireza Firouzja&#39;s Triveni Continental Kings secured the second spot in Saturday&#39;s Final of the Tech Mahindra Global Chess League. The Kings will be playing for glory against the PBG Alaskan Knights,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-9",
@@ -1360,14 +1368,6 @@ news_feed (
          "link" : "https://www.thearticle.com/culture-wars-glass-ceilings-and-chess/",
          "pubDate" : "Sat, 21 Sep 2024 11:38:31",
          "title" : "Culture wars, glass ceilings and chess"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 7Wednesday, 18 September 2024 Open In round 7 of the 2024 Chess Olympiad, a titanic match occurred between two regional rivals and the world's most populous nations. India, which overtook China as the most populous nation, holds an impressive lead with 6/6. China had already been nicked for a draw. Vietnam The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/\">2024 Chess Olympiad: Round 7</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/",
-         "pubDate" : "Sat, 21 Sep 2024 10:07:27",
-         "title" : "2024 Chess Olympiad: Round 7"
       }
    ]
 }
