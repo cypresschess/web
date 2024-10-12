@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League returns for its second edition, bringing top players from around the world to London from 3-12 October. The tournament features six teams, each made up of male and female stars, including Magnus Carlsen, Viswanathan Anand and Hou Yifan. The competition follows a double round-robin format, leading to a final showdown between the top two teams. | Follow the action live starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-live",
+         "pubDate" : "Sat, 12 Oct 2024 15:20:00",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "Sports psychology knows that you play best when you play relaxed, but sports psychology also knows that ease does not come easily when you absolutely want to win. As May Li, the young heroine in Kyla Zhao's entertaining new book \"May the Best Player Win\" has to learn. \"May the Best Player Win\" has just been published, but has already received a number of enthusiastic reviews. In a wide-ranging interview with ChessBase, Kyla Zhao talked about her book, her interest in chess, her career, writing books, gender equality in chess and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/light-hearted-funny-serious-kyla-zhao-s-may-the-best-player-win-a-children-s-book-for-everyone",
+         "pubDate" : "Sat, 12 Oct 2024 14:01:31",
+         "title" : "Light-hearted, funny, serious: Kyla Zhao's \"May the Best Player Win\": a children's book for everyone"
+      },
+      {
+         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-youth-rapid-blitz-chess-championships-2024-in-terme-catez-slovenia-from-13th-to-17th-december-2024/",
+         "pubDate" : "Sat, 12 Oct 2024 14:00:43",
+         "title" : "FIDE World Youth Rapid & Blitz Chess Championships - 2024 in Terme Catez, Slovenia from 13th to 17th December, 2024"
+      },
+      {
          "description" : "In 1875 Walter Grimshaw, a composer of chess problems who was not far off master strength as a player, played at least one casual game against Steinitz at Simpson's Divan, and supposedly won in 17 moves. But was this \"summary demolishment\" actually played? Steinitz called the game, which was published in the International Chess Magazine, \"a deliberately bogus manufactured forgery.\" You can read about Grimshaw and this controversial encounter courtesy of Neil Hickman in CHESS Magazine, October 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/javokhir-sindarov-powers-triveni-continental-kings-to-tech-mahindra-gcl-finals",
          "pubDate" : "Sat, 12 Oct 2024 00:50:00",
          "title" : "Javokhir Sindarov powers Continental Kings to GCL Finals"
+      },
+      {
+         "description" : "On Friday, all eyes were on the decisive clash between Alpine Sg Pipers and Triveni Continental Kings for a place in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41744663/global-chess-league-2024-gcl-report-carlsen-firouzja-triveni-continental-kings-alpine-sg-pipers?device=featurephone",
+         "pubDate" : "Fri, 11 Oct 2024 22:56:16",
+         "title" : "Global Chess League: Firouzja's Triveni Continental Kings in final after win over Carlsen's Sg Pipers"
       },
       {
          "description" : "Draws on all boards in round one of the 2024 U.S. Championship have already dashed the chances of a player repeating GM Bobby Fischer&#39;s perfect score in the 1958 championship, but there are clear signs that the U.S. Championship title and $55,000 ...",
@@ -810,14 +842,6 @@ news_feed (
          "title" : "Top world chess stars gather in London for the Tech Mahindra Global Chess League"
       },
       {
-         "description" : "Please find the Certificates here Sl No Candidate Name 1 Abilash G 2 Gokulavishnu R 3 Hemnath V 4 Balaji J 5 Gowri Sankar 6",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-sna-seminar-in-chennai-on-07-08-september-2024/",
-         "pubDate" : "Wed, 02 Oct 2024 16:09:02",
-         "title" : "Certificates of SNA Seminar in Chennai on 07 & 08 September 2024"
-      },
-      {
          "description" : "GM Magnus Carlsen just won the 2024 Julius Baer Generation Cup, meaning he&#39;s won two out of the four Champions Chess Tour events this year. We also saw GM Wesley So win Division II and GM Fabiano Caruana Division III. Let&#39;s go over what we&#39;ve lear...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1344,30 +1368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3225",
          "pubDate" : "Sat, 21 Sep 2024 21:17:14",
          "title" : "45th Chess Olympiad: India dominates open; women's event goes down to the wire"
-      },
-      {
-         "description" : "We all want exceptional results. So how can we get them? Most people think by doing exceptional things. I don't agree. Exceptional results often come from consistency and a focus on the basics. Solving positions with similar tactical motifs daily, analyzing even your worst games, and trying to play simple chess. These 3 methods have []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/exceptional-results/",
-         "pubDate" : "Sat, 21 Sep 2024 12:21:00",
-         "title" : "Exceptional Results - Simple Training"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 8Thursday, 19 September 2024 Open Iran was coming into the match undefeated and with high hopes against India. Playing without Alireza Firouzja who represents France, this Olympiad performance shows that Iran has a promising future. If in fact, Firouzja returns to Iran, they will vie for a gold medal. At this The post <a href=\"https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-8/\">2024 Chess Olympiad: Round 8</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-8/",
-         "pubDate" : "Sat, 21 Sep 2024 12:14:57",
-         "title" : "2024 Chess Olympiad: Round 8"
-      },
-      {
-         "description" : "In the footsteps of Cato the Elder (who ended every speech in the Roman Senate, whatever the topic, with the exhortation: Carthago delenda est) I have said it before and I will say it again. Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/culture-wars-glass-ceilings-and-chess/",
-         "pubDate" : "Sat, 21 Sep 2024 11:38:31",
-         "title" : "Culture wars, glass ceilings and chess"
       }
    ]
 }
