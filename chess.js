@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114164064.cms\" />Vantika Agrawal, a 21-year-old chess player from Noida, overcame significant challenges to win India's first-ever Olympiad gold in Budapest. With minimal local support, her mother played a crucial role in her success. Vantika aims to become a Grandmaster by next year, despite the financial and logistical hurdles she faces.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/olympiad-gold-medallist-vantika-agrawal-now-aims-for-grandmaster-title/articleshow/114164064.cms",
+         "pubDate" : "Sat, 12 Oct 2024 04:50:47",
+         "title" : "Vantika Agrawal now aims for Grandmaster title"
+      },
+      {
+         "description" : " Somalians look splendid at the 2016 Chess Olympiad in Baku, Azerbaijan.Photo by David Llada Somalia Chess Federation Somalia's plans to attend the 45th Chess Olympiad in Budapest, Hungary, started with excitement but ended in a nightmare. This is a recurrent theme every two years when smaller federations struggle to attend the most important chess event. The post <a href=\"https://www.thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/\">Somalia's Chess Olympiad Visa Nightmare</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/",
+         "pubDate" : "Sat, 12 Oct 2024 04:42:34",
+         "title" : "Somalia's Chess Olympiad Visa Nightmare"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 1 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-yip-return-defend-their-title-2024-us-chess-championships-round-1-recap\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-yip-return-defend-their-title-2024-us-chess-championships-round-1-recap",
+         "pubDate" : "Sat, 12 Oct 2024 03:42:00",
+         "title" : "Caruana & Yip Return to Defend Their Title | 2024 U.S. Chess Championships: Round 1 | RECAP"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Aronian, Rapport, Firouzja, and now...Fabi&#039;s second, Grigoriy Oparin joins the mile high shirt chess club </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-second-playing-style-chess-chesshumor-fashion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7Awn9aRhe5s.jpg?itok=slMPhAU5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-second-playing-style-chess-chesshumor-fashion",
+         "pubDate" : "Sat, 12 Oct 2024 03:42:00",
+         "title" : "Fabi's Second Playing With Style #chess #chesshumor #fashion"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> A break between the action, Dr. Jeanne Sinquefield joins the commentators for a brief discussion in the values of reading and writing chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watching-hikaru-chess-chesshumor-chesscom-hikarunakamura-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sksQXAKa1Js.jpg?itok=p-YTLk61\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/watching-hikaru-chess-chesshumor-chesscom-hikarunakamura-education",
+         "pubDate" : "Sat, 12 Oct 2024 03:42:00",
+         "title" : "Watching Hikaru #chess #chesshumor #chesscom #hikarunakamura #education"
+      },
+      {
          "description" : "Javokhir Sindarov won an exhilarating battle against Daniel Dardha to power his team, Triveni Continental Kings, to the Finals of the Tech Mahindra Global Chess League. Magnus Carlsen had an exciting finish against Alireza Firouzja. However, his win was not enough for his team, Alpine SG Pipers, to advance to the Finals. The other finalist, PBG Balan Alaskan Knights, scored a dominating victory over American Gambits 5-14. Match 1 of the finals starts tomorrow from 2:15 p.m. local time, 6:45 p.m. IST. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/javokhir-sindarov-powers-triveni-continental-kings-to-tech-mahindra-gcl-finals",
          "pubDate" : "Sat, 12 Oct 2024 00:50:00",
          "title" : "Javokhir Sindarov powers Continental Kings to GCL Finals"
+      },
+      {
+         "description" : "Draws on all boards in round one of the 2024 U.S. Championship have already dashed the chances of a player repeating GM Bobby Fischer&#39;s perfect score in the 1958 championship, but there are clear signs that the U.S. Championship title and $55,000 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-1",
+         "pubDate" : "Fri, 11 Oct 2024 20:35:00",
+         "title" : "\"Fischer Prize\" Off The Table As U.S. Championship Gets Underway"
       },
       {
          "description" : " The US Chess Championships take place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Players: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Hans Moke Niemann, Ray Robson, Samuel Sevian, Sam Shankland, Awonder Liang, Grigoriy Oparin, Abhimanyu Mishra and Christopher Woojin Yoo, Women's: Carissa Yip, Irina Krush, Gulrukhbegim Tokhirjonova, Tatev Abrahamyan, Nazi Paikidze, Anna Zatonskih, Thalia Cervantes Landeiro, Atousa Pourkashiyan, Jennifer Yu, Megan Lee, Rose Atwell and Alice Lee.",
@@ -106,6 +154,14 @@ news_feed (
          "title" : "Chess Study with Garry"
       },
       {
+         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
+         "pubDate" : "Fri, 11 Oct 2024 09:46:48",
+         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
+      },
+      {
          "description" : "To mark FIDE's centenary and International Chess Day, the FIDE100 Art Contest inspired artists of all ages from around the world to express their passion for chess through creative mediums. The competition attracted 271 entries from 54 countries, with participants ranging from professional to young aspiring artists. The contest featured two main categories: AI-generated and traditional artworks. The winners were selected across three age categories.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,22 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/endgames-active-king-can-cause-havoc-chess-chessendgame-education-lichess",
          "pubDate" : "Thu, 10 Oct 2024 18:41:09",
          "title" : "Endgames: An Active King Can Cause Havoc #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In this position, GM Friedel talks about the &quot;The Knowledge Move.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgame-knowledge-move-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gmBSr7Sp78I.jpg?itok=9DyEqlFp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rook-endgame-knowledge-move-chess-chessendgame-education-lichess",
-         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
-         "title" : "Rook Endgame: The Knowledge Move #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Measuring forceful moves in a position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/may-force-be-you-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x7tn3NPUu68.jpg?itok=RVHXHlxC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/may-force-be-you-chess-chessendgame-education-lichess",
-         "pubDate" : "Thu, 10 Oct 2024 18:41:09",
-         "title" : "May the Force Be With You #chess #chessendgame #education #lichess"
       },
       {
          "description" : "Taking place in Terme Catez, Slovenia 13-17 December 2024. Registration has now opened for the above event. Whilst attendance at this tournament is not restricted, the ECF has a few...",
@@ -266,28 +306,12 @@ news_feed (
          "title" : "2024 U.S. Championship and U.S. Women's Championship Preview"
       },
       {
-         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
-         "pubDate" : "Wed, 9 Oct 2024 23:40:28",
-         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3253",
          "pubDate" : "Wed, 09 Oct 2024 20:15:51",
          "title" : "Global Chess League, Day 7: Mumba Masters stop PBG, Triveni and Sg Pipers close in"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman discusses her plans in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-all-about-tactics-and-strategy-chess-chesstactics-chessstrategy-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FqSddlOYdpM.jpg?itok=0thlGv78\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/its-all-about-tactics-and-strategy-chess-chesstactics-chessstrategy-education-lichess",
-         "pubDate" : "Wed, 09 Oct 2024 15:40:17",
-         "title" : "It's All About The Tactics and Strategy #chess #chesstactics #chessstrategy #education #lichess"
       },
       {
          "description" : "Team &#34;Oh Yes My Queen,&#34; IM Eric Rosen and WGM Nemo Zhou, won their 2024 Team Chess Battle 2 quarterfinal match 2-0 against Team &#39;Dandinavian,&#39; IM Danny Rensch and IM John Bartholomew. Although Chess.com&#39;s Chief Chess Officer blamed the outcome on ...",
@@ -858,14 +882,6 @@ news_feed (
          "title" : "ECF Grassroots Fund"
       },
       {
-         "description" : "Indian GM Gukesh Dommaraju has broken into the world top-five for the first time on the October 2024 FIDE rating list after scoring double gold at the 2024 FIDE Chess Olympiad in Budapest, while also growing the gap to his world championship oppon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/october-2024-fide-rating-list",
-         "pubDate" : "Tue, 01 Oct 2024 12:41:00",
-         "title" : "October 2024 FIDE Ratings: Gukesh Joins Arjun In World Top-5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1202,14 +1218,6 @@ news_feed (
          "title" : "This is a very special team, the win is jewel in the crown: Sasikiran"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113585694.cms\" />The Indian women's chess team achieved a historic gold medal at the Chess Olympiad in Budapest by overcoming setbacks and winning crucial matches against China and Azerbaijan. D Harika's pivotal win was instrumental in their success. This victory is India's first team gold, with significant contributions from debutants Divya Deshmukh and Vantika Agrawal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-golden-girls-rise-from-the-gloom/articleshow/113585694.cms",
-         "pubDate" : "Mon, 23 Sep 2024 04:45:04",
-         "title" : "Chess Olympiad: Golden girls rise from the gloom"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113585560.cms\" />India's chess team achieved an unprecedented victory by winning the team gold medal at the Chess Olympiad in Budapest. Led by Gukesh and Arjun Erigaisi, they amassed 21 matchpoints to secure their win. This triumph signifies India's growing prowess in chess under Vishy Anand's mentorship, erasing past disappointments.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1360,14 +1368,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/21/2024-chess-olympiad-round-7/",
          "pubDate" : "Sat, 21 Sep 2024 10:07:27",
          "title" : "2024 Chess Olympiad: Round 7"
-      },
-      {
-         "description" : "The Indian men's team are top of the standings, and the women's second, with two rounds to go. What are their chances?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41353022/gold-india-fide-chess-olympiad-2024-possibility-gukesh-praggnanandhaa-arjun-erigaisi-harika-vaishali-indian-chess-news?device=featurephone",
-         "pubDate" : "Sat, 21 Sep 2024 03:52:27",
-         "title" : "Can India win gold in the Chess Olympiad 2024?"
       }
    ]
 }
