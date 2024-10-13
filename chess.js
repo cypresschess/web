@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 2 of the 2024 US Chess Championship saw Wesley So (pictured) and Sam Sevian claiming victories to take the early lead, while Fabiano Caruana and Sam Shankland let winning chances slip in tense battles. Meanwhile, in the women's event, defending champion Carissa Yip secured her second consecutive win to become the sole leader. Three players - Tatev Abrahamyan, Atousa Pourkashiyan, and Irina Krush - are close behind after grabbing victories on Saturday. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-2",
+         "pubDate" : "Sun, 13 Oct 2024 14:30:00",
+         "title" : "US Championships: So and Sevian grab wins, share the lead"
+      },
+      {
+         "description" : "The 50th National Women's Chess Championship concluded today at Chettinadu Public School with a thrilling finale. WGM P. V. Nandhidhaa of Tamil Nadu claimed her",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/p-v-nandhidhaa-is-the-national-women-champion-2024/",
+         "pubDate" : "Sun, 13 Oct 2024 13:27:54",
+         "title" : "P V Nandhidhaa is the National Women Champion 2024"
+      },
+      {
          "description" : "Discover chess mastery with grandmaster Victor Bologan's \"Practical Endgames\" and \"Dynamic Play\" courses. Learn crucial endgame strategies and aggressive tactics, suitable for all skill levels. Elevate your game with interactive lessons, real-world examples, and expert insights from the Bologan Chess Academy Series.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3258",
          "pubDate" : "Sat, 12 Oct 2024 23:16:16",
          "title" : "Happy birthday, Nana Alexandria!"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Sat, 12 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Measuring forceful moves in a position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x7tn3NPUu68.jpg?itok=RVHXHlxC\" alt=\"\" /></a></div>",
@@ -794,14 +802,6 @@ news_feed (
          "title" : "Certificates of National Arbiter Seminar in Shimla on 14 & 15 September 2024"
       },
       {
-         "description" : "Please find the link for live games 37th National Under 11 Girls Chess Championship 2024 https://view.livechesscloud.com/#5030ce66-cddd-4d66-b8a9-07e847358021 37th National Under 11 Open Chess Championship 2024 https://view.livechesscloud.com/#cf47eca4-4ffa-42d3-a518-e3fe04fc2541",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-for-national-under-11-chess-championship-2024/",
-         "pubDate" : "Fri, 04 Oct 2024 07:08:36",
-         "title" : "Live game link for National Under-11 Chess Championship 2024"
-      },
-      {
          "description" : " Eight of the world top 12 are competing in the Global Chess League at Friends House, Euston, from 3-12 October, with spectator tickets bookable online There is a unique opportunity to watch the world elite in action in London this week. The Tech ­Mahindra Global Chess League (GCL) has ­Norway's world No 1, Magnus Carlsen, as its absolute star, and also includes seven others from the world's top 12: Hikaru Nakamura (United States), Arjun ­Erigaisi, Praggnanandhaa Rameshbabu and Vishy Anand (India), Nodirbek Abdusattorov (Uzbekistan), Alireza Firouzja (France), and Wei Yi (China), as well as the world's top rated woman, Hou Yifan (China). Russia's world No 9 and double world title challenger,",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1288,30 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3228",
          "pubDate" : "Sun, 22 Sep 2024 15:43:14",
          "title" : "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions"
-      },
-      {
-         "description" : "India's milestone moments in their chess history - including Viswanathan Anand's pioneering feats and their historic double gold in the 2024 FIDE Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41379777/milestones-indian-chess-history-2024-olympiad-gold-gukesh-viswanathan-anand-manuel-aaron-subbaraman-vijayalakshmi?device=featurephone",
-         "pubDate" : "Sun, 22 Sep 2024 13:31:43",
-         "title" : "68 years in the making: Olympiad golds mark milestones in Indian chess history"
-      },
-      {
-         "description" : "Exploring the defining moments that led to India's historic double at the 2024 FIDE Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41378765/fide-chess-olympiad-2024-key-moments-india-historic-double-gold-arjun-erigaisi-gukesh-divya-deshmukh-vantika-agarwal?device=featurephone",
-         "pubDate" : "Sun, 22 Sep 2024 12:14:51",
-         "title" : "Chess Olympiad: The key moments in India's historic double gold"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3227",
-         "pubDate" : "Sun, 22 Sep 2024 12:04:52",
-         "title" : "Women & chess: FIDE's mission to bridge gender gaps"
       }
    ]
 }
