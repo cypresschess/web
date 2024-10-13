@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Sun, 13 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "The roots of chess probably go back to India of over two millennia ago. The first literary references stem from around 600 AD (CE), thus indicating that chess was already well established in the general consciousness. In 19th century chess, the Brahmin Moheschunder Bannerjee from Calcutta established a formidable reputation in numerous games against the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-comes-home-to-india/",
+         "pubDate" : "Sun, 13 Oct 2024 16:23:09",
+         "title" : "Chess comes home to India"
+      },
+      {
          "description" : "Round 2 of the 2024 US Chess Championship saw Wesley So (pictured) and Sam Sevian claiming victories to take the early lead, while Fabiano Caruana and Sam Shankland let winning chances slip in tense battles. Meanwhile, in the women's event, defending champion Carissa Yip secured her second consecutive win to become the sole leader. Three players - Tatev Abrahamyan, Atousa Pourkashiyan, and Irina Krush - are close behind after grabbing victories on Saturday. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/triveni-continental-kings-clinches-tech-mahindra-global-chess-league-for-the-second-consecutive-year",
          "pubDate" : "Sun, 13 Oct 2024 00:20:00",
          "title" : "Continental Kings clinch Global Chess League for the second consecutive year"
+      },
+      {
+         "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Carissa Yip leads the field with a 2/2 score, but three players (including Atousa Pourkashiyan, pictured) are coming into focus behind her (All photos courtesy Crystal Fuller/SLCC)<br> <br> The second round of the 2024 U.S. Championship saw more fireworks than the first, with GM Wesley So and GM Sam Sevian becoming the first (and so far only) players to score wins. In the 2024 U.S. Women's Championship, IM Carissa Yip notched her second win in a row and now has a half-point lead over the rest of the field. However, what was more telling was who didn't win. The second round was largely a round of missed chanc",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/beautiful-games-and-missed-opportunities-round-two-us-championships",
+         "pubDate" : "Sun, 13 Oct 2024 00:00:00",
+         "title" : "Beautiful Games and Missed Opportunities in Round Two of U.S. Championships"
       },
       {
          "description" : "GMs Wesley So and Sam Sevian notched wins with White in round two of the 2024 U.S. Championship and have taken an early half-point lead over the pack. So won a pawn against GM Christopher Yoo and never let it go, while Sevian played creatively to ...",
@@ -938,14 +962,6 @@ news_feed (
          "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
       },
       {
-         "description" : "For this week's Tactics Tuesday, we return to the blitz and bullet games from the 2024 Chess.com Speed Chess Championship finals. Part one - and more information - is available here.<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.<br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-paris-speed-chess-champs-pt-2",
-         "pubDate" : "Tue, 01 Oct 2024 00:00:00",
-         "title" : "Tactics Tuesday: Paris Speed Chess Champs, Pt. 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41390093/fide-chess-olympiad-2024-historic-double-gold-gukesh-tania-sachdev-harika-arjun-erigaisi-pragg-vaishali-divya-vantika?device=featurephone",
          "pubDate" : "Sun, 22 Sep 2024 22:56:51",
          "title" : "\"We were meant for this\": Tania, Gukesh react after historic double gold at Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3228",
-         "pubDate" : "Sun, 22 Sep 2024 15:43:14",
-         "title" : "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions"
       }
    ]
 }
