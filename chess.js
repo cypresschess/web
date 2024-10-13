@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Illia refers white&#039;s position to a popular scene from &quot;The Matrix&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dodge-chess-chesstactics-thematrixmovie\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AoqfOpjshsA.jpg?itok=Qa5isVPH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dodge-chess-chesstactics-thematrixmovie",
+         "pubDate" : "Sun, 13 Oct 2024 21:42:36",
+         "title" : "Dodge This! #chess #chesstactics #thematrixmovie"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Overly forcing can lead this king to freedom...maybe </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/check-me-oncejoke-you-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/check-me-oncejoke-you-chess-chessendgame-education-lichess",
+         "pubDate" : "Sun, 13 Oct 2024 21:42:36",
+         "title" : "Check Me Once...Joke on You #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Tianqi Wang (a.k.a. Steve) shows a position in which Catalan players would hate </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/undesirable-position-chess-chessopening-humor-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ktUbbHQI0qc.jpg?itok=a05TzBYs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/undesirable-position-chess-chessopening-humor-education-lichess",
+         "pubDate" : "Sun, 13 Oct 2024 21:42:36",
+         "title" : "Undesirable Position #chess #chessopening #humor #education #lichess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3260",
+         "pubDate" : "Sun, 13 Oct 2024 21:12:50",
+         "title" : "Nigel Short takes part in Turkmenistan's chess festivities"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,14 +170,6 @@ news_feed (
          "title" : "Fabi's Second Playing With Style #chess #uschesschampionship #chesshumor #fashion"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> A break between the action, Dr. Jeanne Sinquefield joins the commentators for a brief discussion in the values of reading and writing chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watching-hikaru-chess-uschesschampionship-chesshumor-chesscom-hikarunakamura-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sksQXAKa1Js.jpg?itok=p-YTLk61\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/watching-hikaru-chess-uschesschampionship-chesshumor-chesscom-hikarunakamura-education",
-         "pubDate" : "Sat, 12 Oct 2024 18:42:08",
-         "title" : "Watching Hikaru #chess #uschesschampionship #chesshumor #chesscom #hikarunakamura #education"
-      },
-      {
          "description" : "SRM and Athens prevailed in week three of the 2024 Collegiate Chess League (CCL) Fall Season.&#38;nbsp;SRM took the sole lead as the only remaining perfect score after defeating Saint Louis. The Indian team turned in a well-rounded result to edge ahea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -168,22 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-october-12-2024",
          "pubDate" : "Sat, 12 Oct 2024 16:33:00",
          "title" : "Bortnyk Becomes 3rd Player To Win Back-To-Back Brawls"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MG7-QRGVTS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-3",
-         "pubDate" : "Sat, 12 Oct 2024 15:42:06",
-         "title" : "2024 U.S. Chess Championships: Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_v96IBthNj",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-4",
-         "pubDate" : "Sat, 12 Oct 2024 15:42:06",
-         "title" : "2024 U.S. Chess Championships: Round 4"
       },
       {
          "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
@@ -1280,22 +1288,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41392539/chess-gold-rush-new-gen-champs-gukesh-divya-vantika-pragg-took-viswanathan-anand-skill-added-scale?device=featurephone",
          "pubDate" : "Mon, 23 Sep 2024 03:43:37",
          "title" : "Chess gold rush: New-gen champs took Anand's skill and added scale"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3229",
-         "pubDate" : "Sun, 22 Sep 2024 23:20:47",
-         "title" : "Triumphant moments: Celebrating the winners of 45th Chess Olympiad"
-      },
-      {
-         "description" : "The Indian chess team reacts to their iconic double gold at the FIDE 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41390093/fide-chess-olympiad-2024-historic-double-gold-gukesh-tania-sachdev-harika-arjun-erigaisi-pragg-vaishali-divya-vantika?device=featurephone",
-         "pubDate" : "Sun, 22 Sep 2024 22:56:51",
-         "title" : "\"We were meant for this\": Tania, Gukesh react after historic double gold at Chess Olympiad"
       }
    ]
 }
