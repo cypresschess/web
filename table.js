@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-10-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202410126442 target='_blank'>CHESSPANDA10122024SATURDAY</a>",
+"HOUSTON","2024-10-11","27","<a href=http://www.uschess.org/msa/XtblMain.php?202410115862 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-10-04  - 10-06","55","<a href=http://www.uschess.org/msa/XtblMain.php?202410063382 target='_blank'>$2,500 OCTOBER 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-10-05","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410051942 target='_blank'>CHESSPANDA10052024SATURDAY</a>",
 "SUGAR LAND","2024-10-05","12","<a href=http://www.uschess.org/msa/XtblMain.php?202410051742 target='_blank'>FBCC 2024 NATIONAL TACO DAY OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2024-03-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202403084012 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-03-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403083972 target='_blank'>FBCC 2024 NATIONAL PEANUT CLUSTER O</a>",
 "HOUSTON","2024-03-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202403083962 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 8, 2024</a>",
-"HOUSTON","2024-03-01  - 03-03","420","<a href=http://www.uschess.org/msa/XtblMain.php?202403032992 target='_blank'>2024 NCENTRL TEXAS SCHOLASTIC CHAMP</a>",
-"HOUSTON","2024-03-01  - 03-03","36","<a href=http://www.uschess.org/msa/XtblMain.php?202403031462 target='_blank'>$2,000 MARCH FIDE</a>",
 ]);
