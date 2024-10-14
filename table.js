@@ -4,6 +4,8 @@ jtable([
 "HOUSTON","2024-10-04  - 10-06","55","<a href=http://www.uschess.org/msa/XtblMain.php?202410063382 target='_blank'>$2,500 OCTOBER 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-10-05","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410051942 target='_blank'>CHESSPANDA10052024SATURDAY</a>",
 "SUGAR LAND","2024-10-05","12","<a href=http://www.uschess.org/msa/XtblMain.php?202410051742 target='_blank'>FBCC 2024 NATIONAL TACO DAY OPEN</a>",
+"CYPRESS","2024-10-04","40","<a href=http://www.uschess.org/msa/XtblMain.php?202410047512 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"CYPRESS","2024-10-04","36","<a href=http://www.uschess.org/msa/XtblMain.php?202410041882 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-10-04","34","<a href=http://www.uschess.org/msa/XtblMain.php?202410041642 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-09-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202409289282 target='_blank'>ADULTS ONLY SEPT 28TH  SATURDAY SWI</a>",
 "HOUSTON","2024-09-28","16","<a href=http://www.uschess.org/msa/XtblMain.php?202409289222 target='_blank'>CHESSPANDA09282024SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094282 target='_blank'>MARCH 9TH SCHOLASTIC</a>",
 "CYPRESS","2024-03-08","24","<a href=http://www.uschess.org/msa/XtblMain.php?202403084072 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-03-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202403084012 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-03-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403083972 target='_blank'>FBCC 2024 NATIONAL PEANUT CLUSTER O</a>",
-"HOUSTON","2024-03-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202403083962 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 8, 2024</a>",
 ]);
