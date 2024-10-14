@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find certificates of Nation Junior and National Junior Girls Rank Name 1 Adireddy Arjun 2 Sourath Biswas 3 Jaiveer Mahendru 4 Madhvendra Pratap Sharma",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-junior-under-19-chess-championship-2024/",
+         "pubDate" : "Mon, 14 Oct 2024 06:07:56",
+         "title" : "Certificates of National Junior (Under 19) Chess Championship 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 3 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-niemann-strike-yip-still-perfect-recap-2024-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-niemann-strike-yip-still-perfect-recap-2024-us-chess-championships-round-3",
+         "pubDate" : "Mon, 14 Oct 2024 03:42:42",
+         "title" : "Caruana & Niemann Strike, Yip Still Perfect | RECAP | 2024 U.S. Chess Championships: Round 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Arjun explains what can happen if opponent plays d4 too quickly in different variations </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/noahs-ark-trap-chess-chessbeginners-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Te5nEAdwN7M.jpg?itok=5__hdXTu\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,6 +82,14 @@ news_feed (
          "title" : "African Diaspora @ Budapest Olympiad!"
       },
       {
+         "description" : "The 2024 U.S. Championship field has been blown wide open after GMs Fabiano Caruana, Hans Niemann, and Awonder Liang won their respective games against GMs Ray Robson, Leinier Dominguez, and Levon Aronian and have joined leading GMs Wesley So and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-3",
+         "pubDate" : "Sun, 13 Oct 2024 22:27:19",
+         "title" : "Olympiad Players Fall As Caruana, Niemann, Liang Join The Leaders"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Illia refers white&#039;s position to a popular scene from &quot;The Matrix&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dodge-chess-chesstactics-thematrixmovie\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AoqfOpjshsA.jpg?itok=Qa5isVPH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/check-me-oncejoke-you-chess-chessendgame-education-lichess",
          "pubDate" : "Sun, 13 Oct 2024 21:42:36",
          "title" : "Check Me Once...Joke on You #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Tianqi Wang (a.k.a. Steve) shows a position in which Catalan players would hate </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/undesirable-position-chess-chessopening-humor-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ktUbbHQI0qc.jpg?itok=a05TzBYs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/undesirable-position-chess-chessopening-humor-education-lichess",
-         "pubDate" : "Sun, 13 Oct 2024 21:42:36",
-         "title" : "Undesirable Position #chess #chessopening #humor #education #lichess"
       },
       {
          "description" : "",
@@ -834,14 +850,6 @@ news_feed (
          "title" : "Play Chess Against Logic And 'Ultra 85' Sci-Fi Bots"
       },
       {
-         "description" : "Please find the certificates here NO Name 1 Suryansh Verma 2 Suhaib Ahmad 3 Aniket Mohan 4 Kuldeep Singh Sandhu 5 Keshavi 6 Ashwani Kumar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-arbiter-seminar-in-shimla-on-14-15-september-2024/",
-         "pubDate" : "Fri, 04 Oct 2024 08:28:50",
-         "title" : "Certificates of National Arbiter Seminar in Shimla on 14 & 15 September 2024"
-      },
-      {
          "description" : " Eight of the world top 12 are competing in the Global Chess League at Friends House, Euston, from 3-12 October, with spectator tickets bookable online There is a unique opportunity to watch the world elite in action in London this week. The Tech ­Mahindra Global Chess League (GCL) has ­Norway's world No 1, Magnus Carlsen, as its absolute star, and also includes seven others from the world's top 12: Hikaru Nakamura (United States), Arjun ­Erigaisi, Praggnanandhaa Rameshbabu and Vishy Anand (India), Nodirbek Abdusattorov (Uzbekistan), Alireza Firouzja (France), and Wei Yi (China), as well as the world's top rated woman, Hou Yifan (China). Russia's world No 9 and double world title challenger,",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3241",
          "pubDate" : "Thu, 03 Oct 2024 18:30:13",
          "title" : "Tickets for FIDE World Chess Championship Match 2024 are now on sale!"
-      },
-      {
-         "description" : "Beating reigning champions Triveni Continental Kings with a dominating 15-3 score, the PBG Alaskan Knights started the Tech Mahindra Global Chess League&#39;s second season impressively. The no-increment time control of 20 minutes for the whole game s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-1",
-         "pubDate" : "Thu, 03 Oct 2024 11:59:00",
-         "title" : "Giri's Alaskan Knights Impress On 2024 Global Chess League Opening Day"
       },
       {
          "description" : "Byes are given out to players for games not played. Sometimes it is a full-point bye. Sometimes it is a half-point bye. Occasionally a zero-point bye creeps into that mix. And then there is the bye you pick up as a substitute for your just completed game. Check out two such scenarios where this could happen, and what to do if it does:<br> <br> <br> <br> Converting an OTB Victory into a Bye?!<br> <br> \"PAIRINGS ARE UP,\" is the shout heard around the tournament site. Wood-pushers are drawn to those posted match-ups like a hungry person drawn to a Vegas buffet. You find that you are at board 17 essaying the black pieces against an unrated opponent: it is their first event.<br> <br> When all is ",
@@ -1264,38 +1264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-the-viswanathan-anand-effect-thats-shaping-a-golden-generation/articleshow/113592663.cms",
          "pubDate" : "Mon, 23 Sep 2024 08:08:34",
          "title" : "The Viswanathan Anand effect that's shaping a 'golden generation'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113586216.cms\" />Divya Deshmukh, an 18-year-old chess prodigy from Nagpur, significantly contributed to India's success at the Chess Olympiad in Budapest. Remaining unbeaten through all 11 rounds, she helped secure vital wins against China and Azerbaijan. Her exceptional performance earned her the Board 3 individual gold medal and elevated her to No.11 in world rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/you-need-to-give-it-all-for-your-country-divya-deshmukh/articleshow/113586216.cms",
-         "pubDate" : "Mon, 23 Sep 2024 05:27:46",
-         "title" : "You need to give it all for your country: Divya Deshmukh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113585956.cms\" />K Sasikiran, an experienced Indian chess player, is elated to win the Olympiad gold medal after many attempts. He credits Vishy Anand for building a strong foundation and highlights the team's excellent coordination and preparation. Sasikiran stresses the importance of calculated risks and appreciates the captain's expertise in leading the team.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-a-very-special-team-the-win-is-jewel-in-the-crown-sasikiran/articleshow/113585956.cms",
-         "pubDate" : "Mon, 23 Sep 2024 04:52:44",
-         "title" : "This is a very special team, the win is jewel in the crown: Sasikiran"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113585560.cms\" />India's chess team achieved an unprecedented victory by winning the team gold medal at the Chess Olympiad in Budapest. Led by Gukesh and Arjun Erigaisi, they amassed 21 matchpoints to secure their win. This triumph signifies India's growing prowess in chess under Vishy Anand's mentorship, erasing past disappointments.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indias-chess-might-is-at-root-of-64-squares/articleshow/113585560.cms",
-         "pubDate" : "Mon, 23 Sep 2024 04:38:29",
-         "title" : "Chess Olympiad: India's chess might is at root of 64 squares"
-      },
-      {
-         "description" : "With two golds - in Open and Women - they've taken all that unimpressive history in the tournament, smashed it out of the park and taken Indian chess to a whole new level.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41392539/chess-gold-rush-new-gen-champs-gukesh-divya-vantika-pragg-took-viswanathan-anand-skill-added-scale?device=featurephone",
-         "pubDate" : "Mon, 23 Sep 2024 03:43:37",
-         "title" : "Chess gold rush: New-gen champs took Anand's skill and added scale"
       }
    ]
 }
