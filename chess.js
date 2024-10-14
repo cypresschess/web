@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, will meet some of the best young English players in the WR Chess Masters (14-18 October) in a knockout tournament with a short classical time control. Rounds start at 10:00, 14:00 and 22:00 London time (5:00, 9:00 and 17:00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
+         "pubDate" : "Mon, 14 Oct 2024 10:55:53",
+         "title" : "WR Chess Masters: live"
+      },
+      {
+         "description" : "In rook endings the privilege of having connected passed pawns can easily make the difference. But even in this case there are many hidden resources. Of course generalisations are not always helpful - still, here is some advice by world-class trainer Efstratios Grivas to help you master this endgame. Study his instructions and count the rating points you gain.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-rook-endings-connected-pawns",
+         "pubDate" : "Mon, 14 Oct 2024 09:30:00",
+         "title" : "Grivas on rook endings, connected pawns"
+      },
+      {
          "description" : "Please find certificates of Nation Junior and National Junior Girls Rank Name 1 Adireddy Arjun 2 Sourath Biswas 3 Jaiveer Mahendru 4 Madhvendra Pratap Sharma",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -86,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-3",
-         "pubDate" : "Sun, 13 Oct 2024 22:27:19",
+         "pubDate" : "Sun, 13 Oct 2024 22:27:00",
          "title" : "Olympiad Players Fall As Caruana, Niemann, Liang Join The Leaders"
       },
       {
@@ -1224,46 +1240,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/tech-mahindra-global-chess-league-october-3rd/",
          "pubDate" : "Mon, 23 Sep 2024 13:16:50",
          "title" : "Tech Mahindra Global Chess League - October 3rd!"
-      },
-      {
-         "description" : "Can you mate with two bishops? And how about with bishop and knight? Really, can you do it, if it comes up in a tournament game? Before that happens, it would be well to check. You can do it easily by playing it against our diagrams. And if you have trouble, let Gauri Shankar, chess trainer from Chicago, give you instructions. In addition try and solve our puzzle by finding the long-range strategic solution.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-training-and-strategy",
-         "pubDate" : "Mon, 23 Sep 2024 11:00:00",
-         "title" : "Chess training and strategy"
-      },
-      {
-         "description" : "Many congratulations to Leonard Barden on his well-deserved FIDE award https://www.fide.com/news/3223 Leonard Barden's journalism has played a crucial role in promoting chess in both national and international media. He...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/best-journalist-leonard-barden/",
-         "pubDate" : "Mon, 23 Sep 2024 09:53:30",
-         "title" : "Best Journalist - Leonard Barden"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3230",
-         "pubDate" : "Mon, 23 Sep 2024 09:29:37",
-         "title" : "Key Decisions from the 2024 FIDE General Assembly"
-      },
-      {
-         "description" : "The 45th Chess Olympiad concluded yesterday in Hungary, Budapest, with India clinching gold in both Open and Women's sections, and winning the prestigious Gaprindashvili Cup (for the best combined results in Open and Women's events). Scoring 21 match points, India's Open team emerged convincing winner of the event. A draw in the last round would be enough for India to claim gold, but they won the match against Slovenia with the score of 3.5-0.5. Playing on the top board for []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/india-claims-double-gold-at-the-45th-chess-olympiad/",
-         "pubDate" : "Mon, 23 Sep 2024 09:04:47",
-         "title" : "India claims double gold at the 45th Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113592663.cms\" />India clinched gold medals in both men's and women's categories at the 45th Chess Olympiad held in Budapest. Key players trained at Viswanathan Anand's Westbridge Anand Chess Academy were instrumental in this success. This historic win underscores India's rising stature in global chess competitions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-the-viswanathan-anand-effect-thats-shaping-a-golden-generation/articleshow/113592663.cms",
-         "pubDate" : "Mon, 23 Sep 2024 08:08:34",
-         "title" : "The Viswanathan Anand effect that's shaping a 'golden generation'"
       }
    ]
 }
