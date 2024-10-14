@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Mon, 14 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3263",
+         "pubDate" : "Mon, 14 Oct 2024 16:46:26",
+         "title" : "Iconic Wall Street venues to host the 2024 World Rapid & Blitz Championship"
+      },
+      {
          "description" : "&#8216; awesome day for English chess ' GM Keith Arkell Some good news Sunday (13/10/24) with Midlands players Jonah Willow and Ameet Ghasi finishing 2nd and 3rd, and both...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,7 +42,15 @@ news_feed (
          "title" : "Kakuma Refugee Team shines in 2024 Jumuiya Ya Afrika Mashariki Open"
       },
       {
-         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, will meet some of the best young English players in the WR Chess Masters (14-18 October) in a knockout tournament with a short classical time control. Rounds start at 10:00, 14:00 and 22:00 London time (5:00, 9:00 and 17:00 ET).",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3262",
+         "pubDate" : "Mon, 14 Oct 2024 12:40:17",
+         "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
+      },
+      {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, will meet some of the best young English players in the WR Chess Masters (14-18 October) in a knockout tournament with a short classical time control. Rounds start at 10:00, 17:00 and 22:00 London time (5:00, 12:00 and 17:00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
@@ -130,6 +154,14 @@ news_feed (
          "title" : "Avoid This Position As Black #chess #chessopenings #chesstactics #education #lichess"
       },
       {
+         "description" : "The third round of the 2024 U.S. Championship and U.S. Women's Championship each produced three decisive results, giving us plenty to dive into today, both from a chess and leaderboard standpoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> A number of yesterday's victors posed for glamour shots across the street at the World Chess Hall of Fame after their games. (All photos courtesy Lennart Ootes/SLCC)<br> <br> In a scintillating rout, GM Hans Niemann put an end to GM Lenier Dominguez's unbeaten streak and joined the U.S. Championsh",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-champs-six-decisive-results-shape-standings-after-round-three",
+         "pubDate" : "Mon, 14 Oct 2024 00:00:00",
+         "title" : "U.S. Champs: Six Decisive Results Shape Standings After Round Three"
+      },
+      {
          "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards, as if there were only 20 teams in The post <a href=\"https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3260",
          "pubDate" : "Sun, 13 Oct 2024 21:12:50",
          "title" : "Nigel Short takes part in Turkmenistan's chess festivities"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Sun, 13 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "The roots of chess probably go back to India of over two millennia ago. The first literary references stem from around 600 AD (CE), thus indicating that chess was already well established in the general consciousness. In 19th century chess, the Brahmin Moheschunder Bannerjee from Calcutta established a formidable reputation in numerous games against the []",
@@ -351,7 +375,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-1",
          "pubDate" : "Fri, 11 Oct 2024 20:35:00",
-         "title" : "\"Fischer Prize\" Off The Table As U.S. Championship Gets Underway"
+         "title" : "'Fischer Prize' Off The Table As U.S. Championship Gets Underway"
       },
       {
          "description" : " The US Chess Championships take place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Players: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Hans Moke Niemann, Ray Robson, Samuel Sevian, Sam Shankland, Awonder Liang, Grigoriy Oparin, Abhimanyu Mishra and Christopher Woojin Yoo, Women's: Carissa Yip, Irina Krush, Gulrukhbegim Tokhirjonova, Tatev Abrahamyan, Nazi Paikidze, Anna Zatonskih, Thalia Cervantes Landeiro, Atousa Pourkashiyan, Jennifer Yu, Megan Lee, Rose Atwell and Alice Lee.",
@@ -962,14 +986,6 @@ news_feed (
          "title" : "Carlsen, Anand, Arjun, Giri and co. promise to make Global Chess League season 2 unmissable"
       },
       {
-         "description" : "This week's Wednesday Workout begins a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. India won gold in both the Open and Women's events, and Team USA won silver in the Open and bronze in the Women's event. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on mating attacks and defensive resources.<br> <br> <br> <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-45th-olympiad-pt-1",
-         "pubDate" : "Wed, 02 Oct 2024 00:00:00",
-         "title" : "Wednesday Workout: 45th Olympiad, Pt. 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1248,14 +1264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/in-olympic-year-indias-big-gold/articleshow/113615980.cms",
          "pubDate" : "Tue, 24 Sep 2024 03:20:39",
          "title" : "In Olympic year, India's big gold"
-      },
-      {
-         "description" : " The 45th World Chess Olympiad took place in Budapest Wed 11th Sep to Sun 22nd Sep 2024. The USA followed closely by India are the top two seeds. Then China, Uzbekistan, Netherlands, Norway, and England. Russia are not playing due to their war with Ukraine. Leading players Carlsen, Caruana, Erigaisi, Abdusattorov, Gukesh, Wei Yi. India, Georgia, Poland and China were the top seeds in the women's events. India dominated the Open Olympiad being one of the most convincing winners in many years, they were held to four draws by bronze medalists Uzbekistan in Round 9 but otherwise won all their matches powered by Gukesh's 9 from 10 on board one and Erigaisi's 10/11 on board 3. Praggnanandhaa (6/10",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
-         "pubDate" : "Mon, 23 Sep 2024 18:03:00",
-         "title" : "45th World Chess Olympiad 2024 - Games and Results"
       }
    ]
 }
