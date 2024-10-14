@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Arjun explains what can happen if opponent plays d4 too quickly in different variations </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/noahs-ark-trap-chess-chessbeginners-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Te5nEAdwN7M.jpg?itok=5__hdXTu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/noahs-ark-trap-chess-chessbeginners-chesstactics-education-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
+         "title" : "The Noah's Ark Trap #chess #chessbeginners #chesstactics #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Overly forcing can lead this king to freedom...maybe </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/check-me-once-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/check-me-once-chess-chessendgame-education-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
+         "title" : "Check Me Once... #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks with Anastasiya Karlovich after Round 3 of the 2024 U.S. Chess Championships. Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-favorite-game-ive-played-long-time-2024-us-chess-championships-round-3\"><img",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-favorite-game-ive-played-long-time-2024-us-chess-championships-round-3",
+         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
+         "title" : "Niemann: This is a Favorite Game I've Played in a Long Time | 2024 U.S. Chess Championships: Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Tianqi Wang recommendation for beginners &quot;Under the Surface&quot; - Jan Markos </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/under-surface-chess-chessbeginners-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KzAJneH1bEU.jpg?itok=4FSokeSd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/under-surface-chess-chessbeginners-chesstactics-education-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
+         "title" : "Under The Surface #chess #chessbeginners #chesstactics #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Inquisitive viewer wanted to know whose position is being analyzed. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vaishalis-game-chess-chessindia-chesshumor-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VoS2zuppo-Q.jpg?itok=MhaM6zrp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vaishalis-game-chess-chessindia-chesshumor-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
+         "title" : "Is This Vaishali's Game #chess #chessindia #chesshumor #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> White may not want to continue babysitting pawns </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ignore-missing-pawn-chess-chessopenings-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTCgE1TzaaM.jpg?itok=gfPMalqi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ignore-missing-pawn-chess-chessopenings-chesstactics-education-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
+         "title" : "Ignore the Missing Pawn #chess #chessopenings #chesstactics #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Just a side note of playing d6 too early </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/avoid-position-black-chess-chessopenings-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oLa0ZXqQEkM.jpg?itok=CszNwOxw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/avoid-position-black-chess-chessopenings-chesstactics-education-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
+         "title" : "Avoid This Position As Black #chess #chessopenings #chesstactics #education #lichess"
+      },
+      {
+         "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards, as if there were only 20 teams in The post <a href=\"https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/",
+         "pubDate" : "Sun, 13 Oct 2024 23:53:53",
+         "title" : "African Diaspora @ Budapest Olympiad!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Illia refers white&#039;s position to a popular scene from &quot;The Matrix&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dodge-chess-chesstactics-thematrixmovie\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AoqfOpjshsA.jpg?itok=Qa5isVPH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,46 +146,6 @@ news_feed (
          "title" : "First-ever Senior National Arbiters Seminar & Exam kicks off in Port Blair on 12 & 13 October 2024"
       },
       {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/powerful-najdorf-bishops-chess-chesstactics-chessstrategy-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gIm6nRGLkSc.jpg?itok=bgLzwYlb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/powerful-najdorf-bishops-chess-chesstactics-chessstrategy-education-lichess",
-         "pubDate" : "Sun, 13 Oct 2024 06:42:23",
-         "title" : "Powerful Najdorf Bishops #chess #chesstactics #chessstrategy #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 2 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). 2024.10.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> / stlchessclub<br /> / stlchessclub<br /> / stlchessclub<br /> / stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yip-perfect-2-0-20",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yip-perfect-2-0-2024-us-chess-championships-round-2-recap",
-         "pubDate" : "Sun, 13 Oct 2024 03:42:16",
-         "title" : "Yip Off to a Perfect 2-0 | 2024 U.S. Chess Championships: Round 2 | RECAP"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Arjun explains what can happen if opponent plays d4 too quickly in different variations </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/danger-noahs-ark-trap-chess-chessbeginners-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Te5nEAdwN7M.jpg?itok=5__hdXTu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/danger-noahs-ark-trap-chess-chessbeginners-chesstactics-education-lichess",
-         "pubDate" : "Sun, 13 Oct 2024 03:42:16",
-         "title" : "DANGER: Noah's Ark Trap #chess #chessbeginners #chesstactics #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Black finds themselves in a big pickle situation in this puzzle </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blacks-difficult-position-chess-chesstactics-chesspuzzle-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zt0Tktxltag.jpg?itok=OUtaRVY8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blacks-difficult-position-chess-chesstactics-chesspuzzle-lichess",
-         "pubDate" : "Sun, 13 Oct 2024 03:42:16",
-         "title" : "Black's Difficult Position #chess #chesstactics #chesspuzzle #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Denes Boros explains the intentions of Najdorf players. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/psychology-najdorf-player-chess-chessopening-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mQ65SfaaAMU.jpg?itok=4FPtB1sV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/psychology-najdorf-player-chess-chessopening-education-lichess",
-         "pubDate" : "Sun, 13 Oct 2024 03:42:16",
-         "title" : "The Psychology Of A Najdorf Player #chess #chessopening #education #lichess"
-      },
-      {
          "description" : "Triveni Continental Kings defeated PBG Alaskan Knights in both matches of the Finals to defend their Tech Mahindra Global Chess League title. In the first match, Alireza Firouzja and Alexandra Kosteniuk scored the key wins for TCK. Nodirbek Abdusattorov was the sole victor for PBG AK. In the second match, the 'Icon' of PBG AK, Anish Giri, avenged his loss against Firouzja by playing fast, furious and accurate chess. Shakhriyar Mamedyarov was the only other winner for the team. Wei Yi, Alexandra Kosteniuk and Valentina Gunina scored the crucial wins which allowed TCK to score a dominating victory. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,22 +176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3258",
          "pubDate" : "Sat, 12 Oct 2024 23:16:16",
          "title" : "Happy birthday, Nana Alexandria!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Measuring forceful moves in a position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x7tn3NPUu68.jpg?itok=RVHXHlxC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/when-you-think-forcing-moves-chess-chessendgame-education-lichess-0",
-         "pubDate" : "Sat, 12 Oct 2024 18:42:08",
-         "title" : "When You Think of Forcing Moves #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Aronian, Rapport, Firouzja, and now...Fabi&#039;s second, Grigoriy Oparin joins the fancy shirt club </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-second-playing-style-chess-uschesschampionship-chesshumor-fashion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7Awn9aRhe5s.jpg?itok=slMPhAU5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabis-second-playing-style-chess-uschesschampionship-chesshumor-fashion",
-         "pubDate" : "Sat, 12 Oct 2024 18:42:08",
-         "title" : "Fabi's Second Playing With Style #chess #uschesschampionship #chesshumor #fashion"
       },
       {
          "description" : "SRM and Athens prevailed in week three of the 2024 Collegiate Chess League (CCL) Fall Season.&#38;nbsp;SRM took the sole lead as the only remaining perfect score after defeating Saint Louis. The Indian team turned in a well-rounded result to edge ahea...",
