@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#8216; awesome day for English chess ' GM Keith Arkell Some good news Sunday (13/10/24) with Midlands players Jonah Willow and Ameet Ghasi finishing 2nd and 3rd, and both...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/third-and-final-gm-norm-for-ameet-ghasi-and-first-for-jonah-willow/",
+         "pubDate" : "Mon, 14 Oct 2024 14:23:08",
+         "title" : "Third and final GM norm for Ameet Ghasi and first for Jonah Willow!"
+      },
+      {
+         "description" : " The WR Chess Masters Cup takes place in the Langham Hotel in Portland Place, London. 16 players play in this knockout. A fast classical time control 60 min for the first 30 moves, 30 min for the next 20 moves and 30 min for the rest of the game is used with a 10 minute Armageddon game to decide tied matches (a bidding system means black will have less time but draw odds). Players: Arjun Erigaisi, Santosh Gujrathi Vidit, Nodirbek Abdusattorov, Javokhir Sindarov, Alireza Firouzja, Raunak Sadhwani, Viswanthan Anand, Victor Bologan, Praggnanandhaa R 13 Shreyas Royal Parham Maghsoodloo 14 Vaishali R, Maxime Vachier-Lagrave, Alexandra Kosteniuk, Veselin Topalov and Bodhana Sivanandan.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-cup-2024",
+         "pubDate" : "Mon, 14 Oct 2024 13:35:00",
+         "title" : "WR Chess Masters Cup 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3261",
+         "pubDate" : "Mon, 14 Oct 2024 13:12:31",
+         "title" : "Kakuma Refugee Team shines in 2024 Jumuiya Ya Afrika Mashariki Open"
+      },
+      {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, will meet some of the best young English players in the WR Chess Masters (14-18 October) in a knockout tournament with a short classical time control. Rounds start at 10:00, 14:00 and 22:00 London time (5:00, 9:00 and 17:00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +42,28 @@ news_feed (
          "title" : "Grivas on rook endings, connected pawns"
       },
       {
+         "description" : "We&#39;re excited to announce that GM Garry Kasparov has teamed up with Chessable to upgrade a timeless classic. In addition to the written content, chess players can now enjoy My Great Predecessors Part 4 in video, presented by the legendary Kasparov...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/my-great-predecessors-part-4-chessable",
+         "pubDate" : "Mon, 14 Oct 2024 07:00:00",
+         "title" : "Garry Kasparov Presents Exclusive Video Course On Bobby Fischer For My Great Predecessors Series On Chessable"
+      },
+      {
          "description" : "Please find certificates of Nation Junior and National Junior Girls Rank Name 1 Adireddy Arjun 2 Sourath Biswas 3 Jaiveer Mahendru 4 Madhvendra Pratap Sharma",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-of-national-junior-under-19-chess-championship-2024/",
          "pubDate" : "Mon, 14 Oct 2024 06:07:56",
          "title" : "Certificates of National Junior (Under 19) Chess Championship 2024"
+      },
+      {
+         "description" : "22-year-old GM Kirill Shevchenko has been expelled from the 2024 Spanish Team Championship with his draw against GM Bassem Amin in round one and win over GM Francisco Vallejo in round two turned into losses. When Shevchenko&#38;rsquo;s regular absence...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship",
+         "pubDate" : "Mon, 14 Oct 2024 05:03:00",
+         "title" : "Shevchenko Expelled From Spanish Team Championship After Phone Found In Toilet"
       },
       {
          "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 3 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-niemann-strike-yip-still-perfect-recap-2024-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
@@ -858,28 +898,12 @@ news_feed (
          "title" : "Carlsen beaten by clock; Anand loses to former world blitz champion"
       },
       {
-         "description" : "All buckled up? Logic is taking you on a sci-fi adventure for the books&#38;ndash;and your final destination is Paradise. Celebrate the release of Logic&#38;rsquo;s ninth studio album and graphic novel, Ultra 85, with not one&#38;ndash;but five&#38;ndash;unique...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/logic-ultra85-bots",
-         "pubDate" : "Fri, 04 Oct 2024 08:30:20",
-         "title" : "Play Chess Against Logic And 'Ultra 85' Sci-Fi Bots"
-      },
-      {
          "description" : " Eight of the world top 12 are competing in the Global Chess League at Friends House, Euston, from 3-12 October, with spectator tickets bookable online There is a unique opportunity to watch the world elite in action in London this week. The Tech ­Mahindra Global Chess League (GCL) has ­Norway's world No 1, Magnus Carlsen, as its absolute star, and also includes seven others from the world's top 12: Hikaru Nakamura (United States), Arjun ­Erigaisi, Praggnanandhaa Rameshbabu and Vishy Anand (India), Nodirbek Abdusattorov (Uzbekistan), Alireza Firouzja (France), and Wei Yi (China), as well as the world's top rated woman, Hou Yifan (China). Russia's world No 9 and double world title challenger,",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/oct/04/magnus-carlsen-hikaru-nakamura-and-the-chess-elite-now-playing-in-london",
          "pubDate" : "Fri, 04 Oct 2024 07:00:48",
          "title" : "Magnus Carlsen, Hikaru Nakamura and the chess elite now playing in London"
-      },
-      {
-         "description" : "IM Levy Rozman, (aka GothamChess) sent waves across the Twittersphere recently when he toppled GM Ian Nepomniachtchi in Titled Tuesday. However, to a crowd of chess enthusiasts at the University of Florida (UF), his recent presence on their campus...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gotham-chess-visits-university-of-floria-for-lecture-blitz-against-old-foe",
-         "pubDate" : "Fri, 04 Oct 2024 06:31:00",
-         "title" : "GothamChess Visits University Of Florida For Lecture & Blitz Against Old Foe"
       },
       {
          "description" : "A roundup of results from the opening day of Global Chess League Season 2.",
@@ -1232,14 +1256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/45th-world-chess-olympiad-2024",
          "pubDate" : "Mon, 23 Sep 2024 18:03:00",
          "title" : "45th World Chess Olympiad 2024 - Games and Results"
-      },
-      {
-         "description" : "The strongest chess event ever held in the UK a team rapidplay tournament featuring 36 world-class players! To buy tickets for the Global Chess League at Friends House, please...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/tech-mahindra-global-chess-league-october-3rd/",
-         "pubDate" : "Mon, 23 Sep 2024 13:16:50",
-         "title" : "Tech Mahindra Global Chess League - October 3rd!"
       }
    ]
 }
