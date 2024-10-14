@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> A forcing check can lead to complications for white in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/everybody-runs-after-check-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/everybody-runs-after-check-chess-chessendgame-education-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 21:43:02",
+         "title" : "Everybody Runs After Check #chess #chessendgame #education #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Tianqi Wang recommendation for beginners &quot;Under the Surface&quot; - Grandmaster Jan Markos </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/understanding-positions-without-knights-chess-chessbeginners-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KzAJneH1bEU.jpg?itok=4FSokeSd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/understanding-positions-without-knights-chess-chessbeginners-chessendgame-education-lichess",
+         "pubDate" : "Mon, 14 Oct 2024 21:43:02",
+         "title" : "Understanding Positions Without Knights #chess #chessbeginners #chessendgame #education #lichess"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,22 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-3",
          "pubDate" : "Sun, 13 Oct 2024 22:27:00",
          "title" : "Olympiad Players Fall As Caruana, Niemann, Liang Join The Leaders"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Illia refers white&#039;s position to a popular scene from &quot;The Matrix&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dodge-chess-chesstactics-thematrixmovie\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AoqfOpjshsA.jpg?itok=Qa5isVPH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dodge-chess-chesstactics-thematrixmovie",
-         "pubDate" : "Sun, 13 Oct 2024 21:42:36",
-         "title" : "Dodge This! #chess #chesstactics #thematrixmovie"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Overly forcing can lead this king to freedom...maybe </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/check-me-oncejoke-you-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/check-me-oncejoke-you-chess-chessendgame-education-lichess",
-         "pubDate" : "Sun, 13 Oct 2024 21:42:36",
-         "title" : "Check Me Once...Joke on You #chess #chessendgame #education #lichess"
       },
       {
          "description" : "",
