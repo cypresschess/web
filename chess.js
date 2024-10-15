@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The quarterfinals bring a number of interesting match-ups: Arjun Erigaisi vs Vidit Gujrathi, Nodirbek Abdusattorov vs Maxime Vachier-Lagrave, Alireza Firouzja vs Raunak Sadhwani, and Vishy Anand vs Praggnanandhaa! The players play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
+         "pubDate" : "Tue, 15 Oct 2024 17:45:53",
+         "title" : "WR Chess Masters: live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3264",
+         "pubDate" : "Tue, 15 Oct 2024 16:59:02",
+         "title" : "FIDE School Awards: Application deadline approaching"
+      },
+      {
          "description" : "Fabiano Caruana took the lead in the US Championship after defeating Abhimanyu Mishra with the white pieces in round 4. In the women's tournament, Carissa Yip still has a perfect score. The defending champion played a spectacular game featuring a number of tactical shots to beat eight-time US women's champion Irina Krush. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2024-4",
          "pubDate" : "Tue, 15 Oct 2024 16:45:00",
          "title" : "US Championships: Caruana sole leader, Yip still perfect"
+      },
+      {
+         "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2024-25 period. Many arbiters missed the refresher course",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiter-refresher-course-for-the-year-2024-25-for-left-over-arbiter/",
+         "pubDate" : "Tue, 15 Oct 2024 15:59:26",
+         "title" : "ARBITER REFRESHER COURSE FOR THE YEAR 2024-25 FOR LEFT OVER ARBITER"
       },
       {
          "description" : "From the 14th to the 18th of October, four of the best German talents (Marius Deuer, Leonardo Costa, Hussain Besou and Christian Gl&ouml;ckler) who are supported by the WEISSENHAUS Chess Academy, will have the opportunity to compete against experienced players (Pavel Eljanov, P. Sethuruman, Christian Bauer, Sune Berg Hansen, Kaido Kualots and Benedict Krause) at the WEISSENHAUS Young Masters. Round 3 starts at 16:00 CEST (10:00 ET). Follow the games live.",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "WEISSENHAUS Young Masters: Live"
       },
       {
-         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The quarterfinals bring a number of interesting match-ups: Arjun Erigaisi vs Vidit Gujrathi, Nodirbek Abdusattorov vs Maxime Vachier-Lagrave, Alireza Firouzja vs Raunak Sadhwani, and Vishy Anand vs Praggnanandhaa! The players play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
-         "pubDate" : "Tue, 15 Oct 2024 10:45:53",
-         "title" : "WR Chess Masters: live"
+         "description" : "&#34;I&#39;m really looking forward to the world championship match in Singapore,&#34; said GM Gukesh Dommaraju in a virtual press conference held on Tuesday, with journalists from different media able to ask questions in a Zoom call. Below we provide the que...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-dommaraju-virtual-press-conference",
+         "pubDate" : "Tue, 15 Oct 2024 11:21:49",
+         "title" : "Gukesh: 'I'm Quite Eager To Start The Match'"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Yasser shares an interesting bit about when he plays chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/talking-your-pieces-chess-chessstrategy-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Gq3T8I4s2fM.jpg?itok=f5RNnQA2\" alt=\"\" /></a></div>",
@@ -56,6 +80,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-5",
          "pubDate" : "Tue, 15 Oct 2024 00:43:09",
          "title" : "2024 U.S. Chess Championships: Round 5"
+      },
+      {
+         "description" : "This week continues a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles all focus on hanging, loose, and otherwise underprotected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-2-lpdo",
+         "pubDate" : "Tue, 15 Oct 2024 00:00:00",
+         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 2 (LPDO)"
+      },
+      {
+         "description" : "Round four of the 2024 U.S. Championship and U.S. Women's Championship saw last year's defending champions GM Fabiano Caruana and IM Carissa Yip each notch another victory, with a total of four more decisive games (across the two sections) to boot. Caruana climbed to the sole lead for the first time, while Yip extended her lead to a full point heading into the first rest day.Open <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Lennart Ootes/SLCC<br> <br> Of the five players tied with 2/3 heading into yesterday's round, only Caruana managed to win. Although GM Abhimanyu Mishra managed to escape the opening (the Steintz variation of the ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-championships-round-four-defending-champions-pull-ahead",
+         "pubDate" : "Tue, 15 Oct 2024 00:00:00",
+         "title" : "U.S. Championships Round Four: Defending Champions Pull Ahead"
       },
       {
          "description" : "Five leaders were whittled down to one in the fourth round of the 2024 U.S. Championship as GM Fabiano Caruana defeated GM Abhimanyu Mishra and moved to 3/4. GM Ray Robson scored the only other decisive result of the round, thwarting a dubious paw...",
@@ -826,14 +866,6 @@ news_feed (
          "title" : "Tech Mahindra Global Chess League D03: Alaskan Knights stay unbeaten as Ganges break losing streak"
       },
       {
-         "description" : "GM Oleksandr Bortnyk has turned a good week into a great one after winning his eighth Bullet Brawl&#38;nbsp;by a 39-point margin and claiming the $400 first prize following a Titled Tuesday masterclass earlier in the week. GMs Daniel Naroditsky and Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-october-5-2024",
-         "pubDate" : "Sat, 05 Oct 2024 16:46:00",
-         "title" : "Bortnyk Smashes Bullet Brawl Days After Titled Tuesday Victory"
-      },
-      {
          "description" : "Great excitement in the late 15th century, when it was realised that the new rules of chess (with the massively expanded powers of the Queen) meant that a player could deliver checkmate in just four moves. This catastrophe is known as Scholar's Mate. It has snared innumerable victims over the past 550 years, ever since []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "SNA Seminar & Exam in Patna ,Bihar on 19 & 20 October 2024"
       },
       {
-         "description" : "Please find notification &#38; Procedure and Guidelines for election scheduled to be held on 26.10.2024 for election of Athletes Commission of AICF Notice Procedure &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-election-of-athletes-commission-of-aicf/",
-         "pubDate" : "Fri, 04 Oct 2024 17:53:50",
-         "title" : "Notification Dated 04.10.2024:Election of Athletes Commission of AICF"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113947463.cms\" />Magnus Carlsen ran out of time in his match against Alireza Firouzja, leading to Triveni Continental Kings' thrashing of Alpine Sg Pipers 17-4 in the Global Chess League. Meanwhile, Viswanathan Anand lost to Maxime Vachier-Lagrave, and Anish Giri held Hikaru Nakamura to a draw, propelling PBG Alaskan Knights to the lead.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -922,14 +946,6 @@ news_feed (
          "title" : "Global Chess League: Anand-Carlsen draw headlines opening day of season 2"
       },
       {
-         "description" : "Editor's note: This story first appeared in the October 2024 issue of Chess Life Kids magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. A high-resolution download of this article is available here. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> \"May The Best Player Win\" is author Kyla Zhou's third novel and first for kids. The novel is a fun read about chess, girl power, and performance anxiety in sports, and it is published by Penguin Random House.<br> <br> Things see",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-im-carissa-yip-interviews-author-kyla-zhou",
-         "pubDate" : "Fri, 04 Oct 2024 00:00:00",
-         "title" : "Inside Story: IM Carissa Yip Interviews Author Kyla Zhou"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3241",
          "pubDate" : "Thu, 03 Oct 2024 18:30:13",
          "title" : "Tickets for FIDE World Chess Championship Match 2024 are now on sale!"
-      },
-      {
-         "description" : "Byes are given out to players for games not played. Sometimes it is a full-point bye. Sometimes it is a half-point bye. Occasionally a zero-point bye creeps into that mix. And then there is the bye you pick up as a substitute for your just completed game. Check out two such scenarios where this could happen, and what to do if it does:<br> <br> <br> <br> Converting an OTB Victory into a Bye?!<br> <br> \"PAIRINGS ARE UP,\" is the shout heard around the tournament site. Wood-pushers are drawn to those posted match-ups like a hungry person drawn to a Vegas buffet. You find that you are at board 17 essaying the black pieces against an unrated opponent: it is their first event.<br> <br> When all is ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-finished-game-gets-scored-bye",
-         "pubDate" : "Thu, 03 Oct 2024 00:00:00",
-         "title" : "Just the Rules: A Finished Game Gets Scored as a Bye?!"
       },
       {
          "description" : "",
