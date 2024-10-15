@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-5",
+         "pubDate" : "Tue, 15 Oct 2024 00:43:09",
+         "title" : "2024 U.S. Chess Championships: Round 5"
+      },
+      {
+         "description" : "Magnus Carlsen and Fabiano Caruana are set to compete in an exciting Freestyle Chess match in Singapore, just days before the Classical World Chess Championship between Ding Liren and Dommaraju Gukesh. Organised by Jan-Henric Buettner, the match is part of a broader effort to popularise Freestyle Chess, or chess960, as Buettner's company prepares for the 2025 Freestyle Chess Grand Slam.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-caruana-freestyle-chess-match-2024",
+         "pubDate" : "Mon, 14 Oct 2024 23:45:00",
+         "title" : "Carlsen and Caruana to play Freestyle Chess match in Singapore"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> A forcing check can lead to complications for white in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/everybody-runs-after-check-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
          "pubDate" : "Mon, 14 Oct 2024 20:00:00",
          "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "Five Indian grandmasters are through to the Quarterfinals of the 2024 WR Chess Masters Cup, which will feature the all-Indian clashes GM Arjun Erigaisi vs. GM Vidit Gujrathi and GM Viswanathan Anand vs. GM Praggnanandhaa Rameshbabu. GM Raunak Sadh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-wr-chess-masters-cup-round-1",
+         "pubDate" : "Mon, 14 Oct 2024 17:50:51",
+         "title" : "5 Indian Grandmasters In WR Chess Masters Cup Quarterfinals"
       },
       {
          "description" : "",
@@ -162,14 +186,6 @@ news_feed (
          "title" : "Ignore the Missing Pawn #chess #chessopenings #chesstactics #education #lichess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Just a side note of playing d6 too early </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/avoid-position-black-chess-chessopenings-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oLa0ZXqQEkM.jpg?itok=CszNwOxw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/avoid-position-black-chess-chessopenings-chesstactics-education-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
-         "title" : "Avoid This Position As Black #chess #chessopenings #chesstactics #education #lichess"
-      },
-      {
          "description" : "The third round of the 2024 U.S. Championship and U.S. Women's Championship each produced three decisive results, giving us plenty to dive into today, both from a chess and leaderboard standpoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> A number of yesterday's victors posed for glamour shots across the street at the World Chess Hall of Fame after their games. (All photos courtesy Lennart Ootes/SLCC)<br> <br> In a scintillating rout, GM Hans Niemann put an end to GM Lenier Dominguez's unbeaten streak and joined the U.S. Championsh",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -178,7 +194,7 @@ news_feed (
          "title" : "U.S. Champs: Six Decisive Results Shape Standings After Round Three"
       },
       {
-         "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards, as if there were only 20 teams in The post <a href=\"https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards as if there were only 20 teams in The post <a href=\"https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/",
@@ -906,14 +922,6 @@ news_feed (
          "title" : "Notification Dated 04.10.2024:Election of Athletes Commission of AICF"
       },
       {
-         "description" : "The PBG Alaskan Knights celebrated a dream start to the Tech Mahindra Global Chess League&#39;s second season by winning their first three matches in the round-robin stage. Two were scheduled on Friday when the Knights defeated both the American Gambi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-2",
-         "pubDate" : "Fri, 04 Oct 2024 17:37:00",
-         "title" : "PBG Alaskan Knights Continue Strong On Global Chess League Day 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113947463.cms\" />Magnus Carlsen ran out of time in his match against Alireza Firouzja, leading to Triveni Continental Kings' thrashing of Alpine Sg Pipers 17-4 in the Global Chess League. Meanwhile, Viswanathan Anand lost to Maxime Vachier-Lagrave, and Anish Giri held Hikaru Nakamura to a draw, propelling PBG Alaskan Knights to the lead.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-arjun-erigaisi-attributes-teams-success-to-great-bonding/articleshow/113616561.cms",
          "pubDate" : "Tue, 24 Sep 2024 03:33:37",
          "title" : "Arjun Erigaisi attributes teams' success to great bonding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113615980.cms\" />Gukesh's remarkable performance on the top board at the Chess Olympiad stood out, achieving a rating performance surpassed only once before. Divya Deshmukh became world No. 1 among junior girls with her strong play. The Indian team secured gold, demonstrating dominance and effectively handling the challenges of the Swiss League format.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-olympic-year-indias-big-gold/articleshow/113615980.cms",
-         "pubDate" : "Tue, 24 Sep 2024 03:20:39",
-         "title" : "In Olympic year, India's big gold"
       }
    ]
 }
