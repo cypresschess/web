@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Yasser shares an interesting bit about when he plays chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/talking-your-pieces-chess-chessstrategy-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Gq3T8I4s2fM.jpg?itok=f5RNnQA2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/talking-your-pieces-chess-chessstrategy-chesshumor-chesscom",
+         "pubDate" : "Tue, 15 Oct 2024 06:43:15",
+         "title" : "Talking To Your Pieces #chess #chessstrategy #chesshumor #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 4 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-yip-continue-surge-recap-2024-us-chess-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-yip-continue-surge-recap-2024-us-chess-championships-round-4",
+         "pubDate" : "Tue, 15 Oct 2024 03:43:16",
+         "title" : "Caruana & Yip Continue to Surge | RECAP | 2024 U.S. Chess Championships: Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Yasser asks when co-analyst WGM Katerina Nemcova when do you trust your chess calculation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-chess-calculation-chess-chesstactics-worldchesschampion-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6CpgzeUHj7Y.jpg?itok=BnXfQYua\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-and-chess-calculation-chess-chesstactics-worldchesschampion-chesshumor-chesscom",
+         "pubDate" : "Tue, 15 Oct 2024 03:43:16",
+         "title" : "Magnus and Chess Calculation #chess #chesstactics #worldchesschampion #chesshumor #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/carlsen-caruana-freestyle-chess-match-2024",
          "pubDate" : "Mon, 14 Oct 2024 23:45:00",
          "title" : "Carlsen and Caruana to play Freestyle Chess match in Singapore"
+      },
+      {
+         "description" : "Five leaders were whittled down to one in the fourth round of the 2024 U.S. Championship as GM Fabiano Caruana defeated GM Abhimanyu Mishra and moved to 3/4. GM Ray Robson scored the only other decisive result of the round, thwarting a dubious paw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-4",
+         "pubDate" : "Mon, 14 Oct 2024 23:29:12",
+         "title" : "Caruana Beats Mishra, Assumes Sole Lead; Yip Still Perfect"
       },
       {
          "description" : "<div class=\"body text-secondary\"> A forcing check can lead to complications for white in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/everybody-runs-after-check-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
@@ -160,30 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/niemann-favorite-game-ive-played-long-time-2024-us-chess-championships-round-3",
          "pubDate" : "Mon, 14 Oct 2024 00:42:41",
          "title" : "Niemann: This is a Favorite Game I've Played in a Long Time | 2024 U.S. Chess Championships: Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Tianqi Wang recommendation for beginners &quot;Under the Surface&quot; - Jan Markos </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/under-surface-chess-chessbeginners-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KzAJneH1bEU.jpg?itok=4FSokeSd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/under-surface-chess-chessbeginners-chesstactics-education-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
-         "title" : "Under The Surface #chess #chessbeginners #chesstactics #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Inquisitive viewer wanted to know whose position is being analyzed. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vaishalis-game-chess-chessindia-chesshumor-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VoS2zuppo-Q.jpg?itok=MhaM6zrp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vaishalis-game-chess-chessindia-chesshumor-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
-         "title" : "Is This Vaishali's Game #chess #chessindia #chesshumor #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> White may not want to continue babysitting pawns </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ignore-missing-pawn-chess-chessopenings-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTCgE1TzaaM.jpg?itok=gfPMalqi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ignore-missing-pawn-chess-chessopenings-chesstactics-education-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
-         "title" : "Ignore the Missing Pawn #chess #chessopenings #chesstactics #education #lichess"
       },
       {
          "description" : "The third round of the 2024 U.S. Championship and U.S. Women's Championship each produced three decisive results, giving us plenty to dive into today, both from a chess and leaderboard standpoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> A number of yesterday's victors posed for glamour shots across the street at the World Chess Hall of Fame after their games. (All photos courtesy Lennart Ootes/SLCC)<br> <br> In a scintillating rout, GM Hans Niemann put an end to GM Lenier Dominguez's unbeaten streak and joined the U.S. Championsh",
@@ -850,14 +858,6 @@ news_feed (
          "title" : "Bortnyk Smashes Bullet Brawl Days After Titled Tuesday Victory"
       },
       {
-         "description" : "Adding a fourth win in Saturday&#39;s early round, the PBG Alaskan Knights maintained their firm lead in the Tech Mahindra Global Chess League&#39;s round-robin phase. The leaders defeated the Ganges Grandmasters, who went on to score their first, narrow ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-3",
-         "pubDate" : "Sat, 05 Oct 2024 13:45:00",
-         "title" : "PBG Alaskan Knights Maintain Strong Lead; Ganges Grandmasters Get 1st Win"
-      },
-      {
          "description" : "Great excitement in the late 15th century, when it was realised that the new rules of chess (with the massively expanded powers of the Queen) meant that a player could deliver checkmate in just four moves. This catastrophe is known as Scholar's Mate. It has snared innumerable victims over the past 550 years, ever since []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1256,14 +1256,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2024/",
          "pubDate" : "Wed, 25 Sep 2024 09:27:49",
          "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113616561.cms\" />The Indian chess team celebrated their double victory at the Chess Olympiad in Budapest by dancing to Queen's 'We Are The Champions.' Arjun Erigaisi was pivotal, winning nine games and drawing two. His performance helped India secure gold. Team camaraderie and strategic decisions were key factors in their success.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-arjun-erigaisi-attributes-teams-success-to-great-bonding/articleshow/113616561.cms",
-         "pubDate" : "Tue, 24 Sep 2024 03:33:37",
-         "title" : "Arjun Erigaisi attributes teams' success to great bonding"
       }
    ]
 }
