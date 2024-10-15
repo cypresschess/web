@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Yasser asks when co-analyst WGM Katerina Nemcova when do you trust your chess calculation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-chess-calculation-chess-magnuscarlsen-worldchesschampion-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6CpgzeUHj7Y.jpg?itok=BnXfQYua\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-and-chess-calculation-chess-magnuscarlsen-worldchesschampion-chesshumor-chesscom",
+         "pubDate" : "Tue, 15 Oct 2024 21:43:36",
+         "title" : "Magnus and Chess Calculation #chess #magnuscarlsen #worldchesschampion #chesshumor #chesscom"
+      },
+      {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The quarterfinals bring a number of interesting match-ups: Arjun Erigaisi vs Vidit Gujrathi, Nodirbek Abdusattorov vs Maxime Vachier-Lagrave, Alireza Firouzja vs Raunak Sadhwani, and Vishy Anand vs Praggnanandhaa! The players play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "ARBITER REFRESHER COURSE FOR THE YEAR 2024-25 FOR LEFT OVER ARBITER"
       },
       {
+         "description" : "GM Pepe Cuenca and IM David Martinez (&#34;Ratata Spanish Squad&#34;) won 1.5-0.5 against GM Pia Cramling and WFM Anna Cramling (&#34;Team Cramling&#34;) and advance to the 2024 Team Chess Battle 2 Final.&#38;nbsp; The Cramlings lost the first game after a dubious ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-sf-cuenca-martinez-win",
+         "pubDate" : "Tue, 15 Oct 2024 15:59:09",
+         "title" : "Ratata Spanish Squad Eliminate Cramlings, Advance To Final"
+      },
+      {
          "description" : "From the 14th to the 18th of October, four of the best German talents (Marius Deuer, Leonardo Costa, Hussain Besou and Christian Gl&ouml;ckler) who are supported by the WEISSENHAUS Chess Academy, will have the opportunity to compete against experienced players (Pavel Eljanov, P. Sethuruman, Christian Bauer, Sune Berg Hansen, Kaido Kualots and Benedict Krause) at the WEISSENHAUS Young Masters. Round 3 starts at 16:00 CEST (10:00 ET). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-dommaraju-virtual-press-conference",
-         "pubDate" : "Tue, 15 Oct 2024 11:21:49",
+         "pubDate" : "Tue, 15 Oct 2024 11:21:00",
          "title" : "Gukesh: 'I'm Quite Eager To Start The Match'"
       },
       {
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/check-me-once-chess-chessendgame-education-lichess",
          "pubDate" : "Mon, 14 Oct 2024 00:42:41",
          "title" : "Check Me Once... #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks with Anastasiya Karlovich after Round 3 of the 2024 U.S. Chess Championships. Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, &amp; WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-favorite-game-ive-played-long-time-2024-us-chess-championships-round-3\"><img",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-favorite-game-ive-played-long-time-2024-us-chess-championships-round-3",
-         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
-         "title" : "Niemann: This is a Favorite Game I've Played in a Long Time | 2024 U.S. Chess Championships: Round 3"
       },
       {
          "description" : "The third round of the 2024 U.S. Championship and U.S. Women's Championship each produced three decisive results, giving us plenty to dive into today, both from a chess and leaderboard standpoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> A number of yesterday's victors posed for glamour shots across the street at the World Chess Hall of Fame after their games. (All photos courtesy Lennart Ootes/SLCC)<br> <br> In a scintillating rout, GM Hans Niemann put an end to GM Lenier Dominguez's unbeaten streak and joined the U.S. Championsh",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-4",
          "pubDate" : "Sun, 06 Oct 2024 12:29:00",
          "title" : "Triveni Continental Kings, Alpine Sg Pipers Chase Still Perfect PBG Alaskan Knights"
-      },
-      {
-         "description" : "The University of Missouri delivered a 14-2 drubbing to Athens in the second week of the 2024 Collegiate Chess League (CCL) Fall Season and debuted the competition&#39;s new strongest player, GM Aryan Tari. Scores of 4/4 for GMs Mikhail Antipov and Lu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-mizzou-yale",
-         "pubDate" : "Sun, 06 Oct 2024 07:34:00",
-         "title" : "Missouri Unleashes 'Star Recruit' Tari In Win Over Athens"
       },
       {
          "description" : "Even as Gukesh has been in the form of his life, Ding has not quite been in the best of it.",
