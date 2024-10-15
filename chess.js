@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The quarterfinals bring a number of interesting match-ups: Arjun Erigaisi vs Vidit Gujrathi, Nodirbek Abdusattorov vs Maxime Vachier-Lagrave, Alireza Firouzja vs Raunak Sadhwani, and Vishy Anand vs Praggnanandhaa! The players play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
+         "pubDate" : "Tue, 15 Oct 2024 10:45:53",
+         "title" : "WR Chess Masters: live"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Yasser shares an interesting bit about when he plays chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/talking-your-pieces-chess-chessstrategy-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Gq3T8I4s2fM.jpg?itok=f5RNnQA2\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -34,19 +42,11 @@ news_feed (
          "title" : "2024 U.S. Chess Championships: Round 5"
       },
       {
-         "description" : "Magnus Carlsen and Fabiano Caruana are set to compete in an exciting Freestyle Chess match in Singapore, just days before the Classical World Chess Championship between Ding Liren and Dommaraju Gukesh. Organised by Jan-Henric Buettner, the match is part of a broader effort to popularise Freestyle Chess, or chess960, as Buettner's company prepares for the 2025 Freestyle Chess Grand Slam.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-caruana-freestyle-chess-match-2024",
-         "pubDate" : "Mon, 14 Oct 2024 23:45:00",
-         "title" : "Carlsen and Caruana to play Freestyle Chess match in Singapore"
-      },
-      {
          "description" : "Five leaders were whittled down to one in the fourth round of the 2024 U.S. Championship as GM Fabiano Caruana defeated GM Abhimanyu Mishra and moved to 3/4. GM Ray Robson scored the only other decisive result of the round, thwarting a dubious paw...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-4",
-         "pubDate" : "Mon, 14 Oct 2024 23:29:12",
+         "pubDate" : "Mon, 14 Oct 2024 23:29:00",
          "title" : "Caruana Beats Mishra, Assumes Sole Lead; Yip Still Perfect"
       },
       {
@@ -120,14 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3262",
          "pubDate" : "Mon, 14 Oct 2024 12:40:17",
          "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
-      },
-      {
-         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, will meet some of the best young English players in the WR Chess Masters (14-18 October) in a knockout tournament with a short classical time control. Rounds start at 10:00, 17:00 and 22:00 London time (5:00, 12:00 and 17:00 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
-         "pubDate" : "Mon, 14 Oct 2024 10:55:53",
-         "title" : "WR Chess Masters: live"
       },
       {
          "description" : "In rook endings the privilege of having connected passed pawns can easily make the difference. But even in this case there are many hidden resources. Of course generalisations are not always helpful - still, here is some advice by world-class trainer Efstratios Grivas to help you master this endgame. Study his instructions and count the rating points you gain.",
@@ -234,14 +226,6 @@ news_feed (
          "title" : "Chess comes home to India"
       },
       {
-         "description" : "Round 2 of the 2024 US Chess Championship saw Wesley So (pictured) and Sam Sevian claiming victories to take the early lead, while Fabiano Caruana and Sam Shankland let winning chances slip in tense battles. Meanwhile, in the women's event, defending champion Carissa Yip secured her second consecutive win to become the sole leader. Three players - Tatev Abrahamyan, Atousa Pourkashiyan, and Irina Krush - are close behind after grabbing victories on Saturday. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-2",
-         "pubDate" : "Sun, 13 Oct 2024 14:30:00",
-         "title" : "US Championships: So and Sevian grab wins, share the lead"
-      },
-      {
          "description" : "The 50th National Women's Chess Championship concluded today at Chettinadu Public School with a thrilling finale. WGM P. V. Nandhidhaa of Tamil Nadu claimed her",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -250,28 +234,12 @@ news_feed (
          "title" : "P V Nandhidhaa is the National Women Champion 2024"
       },
       {
-         "description" : "Discover chess mastery with grandmaster Victor Bologan's \"Practical Endgames\" and \"Dynamic Play\" courses. Learn crucial endgame strategies and aggressive tactics, suitable for all skill levels. Elevate your game with interactive lessons, real-world examples, and expert insights from the Bologan Chess Academy Series.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-victor-bologan-s-chess-academy-vol-1-2",
-         "pubDate" : "Sun, 13 Oct 2024 10:00:00",
-         "title" : "New: Victor Bologan's Chess Academy - Vol. 1 & 2"
-      },
-      {
          "description" : "The commencement of the first-ever Senior National Arbiters Seminar in Port Blair is indeed a major development for chess arbitration in the Andaman and Nicobar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/first-ever-senior-national-arbiters-seminar-exam-kicks-off-in-port-blair-on-12-13-october-2024/",
          "pubDate" : "Sun, 13 Oct 2024 07:40:45",
          "title" : "First-ever Senior National Arbiters Seminar & Exam kicks off in Port Blair on 12 & 13 October 2024"
-      },
-      {
-         "description" : "Triveni Continental Kings defeated PBG Alaskan Knights in both matches of the Finals to defend their Tech Mahindra Global Chess League title. In the first match, Alireza Firouzja and Alexandra Kosteniuk scored the key wins for TCK. Nodirbek Abdusattorov was the sole victor for PBG AK. In the second match, the 'Icon' of PBG AK, Anish Giri, avenged his loss against Firouzja by playing fast, furious and accurate chess. Shakhriyar Mamedyarov was the only other winner for the team. Wei Yi, Alexandra Kosteniuk and Valentina Gunina scored the crucial wins which allowed TCK to score a dominating victory. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/triveni-continental-kings-clinches-tech-mahindra-global-chess-league-for-the-second-consecutive-year",
-         "pubDate" : "Sun, 13 Oct 2024 00:20:00",
-         "title" : "Continental Kings clinch Global Chess League for the second consecutive year"
       },
       {
          "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Carissa Yip leads the field with a 2/2 score, but three players (including Atousa Pourkashiyan, pictured) are coming into focus behind her (All photos courtesy Crystal Fuller/SLCC)<br> <br> The second round of the 2024 U.S. Championship saw more fireworks than the first, with GM Wesley So and GM Sam Sevian becoming the first (and so far only) players to score wins. In the 2024 U.S. Women's Championship, IM Carissa Yip notched her second win in a row and now has a half-point lead over the rest of the field. However, what was more telling was who didn't win. The second round was largely a round of missed chanc",
