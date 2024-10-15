@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana took the lead in the US Championship after defeating Abhimanyu Mishra with the white pieces in round 4. In the women's tournament, Carissa Yip still has a perfect score. The defending champion played a spectacular game featuring a number of tactical shots to beat eight-time US women's champion Irina Krush. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-4",
+         "pubDate" : "Tue, 15 Oct 2024 16:45:00",
+         "title" : "US Championships: Caruana sole leader, Yip still perfect"
+      },
+      {
+         "description" : "From the 14th to the 18th of October, four of the best German talents (Marius Deuer, Leonardo Costa, Hussain Besou and Christian Gl&ouml;ckler) who are supported by the WEISSENHAUS Chess Academy, will have the opportunity to compete against experienced players (Pavel Eljanov, P. Sethuruman, Christian Bauer, Sune Berg Hansen, Kaido Kualots and Benedict Krause) at the WEISSENHAUS Young Masters. Round 3 starts at 16:00 CEST (10:00 ET). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-young-masters-live",
+         "pubDate" : "Tue, 15 Oct 2024 15:43:00",
+         "title" : "WEISSENHAUS Young Masters: Live"
+      },
+      {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The quarterfinals bring a number of interesting match-ups: Arjun Erigaisi vs Vidit Gujrathi, Nodirbek Abdusattorov vs Maxime Vachier-Lagrave, Alireza Firouzja vs Raunak Sadhwani, and Vishy Anand vs Praggnanandhaa! The players play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/understanding-positions-without-knights-chess-chessbeginners-chessendgame-education-lichess",
          "pubDate" : "Mon, 14 Oct 2024 21:43:02",
          "title" : "Understanding Positions Without Knights #chess #chessbeginners #chessendgame #education #lichess"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Mon, 14 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "Five Indian grandmasters are through to the Quarterfinals of the 2024 WR Chess Masters Cup, which will feature the all-Indian clashes GM Arjun Erigaisi vs. GM Vidit Gujrathi and GM Viswanathan Anand vs. GM Praggnanandhaa Rameshbabu. GM Raunak Sadh...",
