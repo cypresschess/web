@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> GM Yasser asks when co-analyst WGM Katerina Nemcova when do you trust your chess calculation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-chess-calculation-chess-magnuscarlsen-worldchesschampion-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6CpgzeUHj7Y.jpg?itok=BnXfQYua\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 4 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-yip-continue-surge-round-4-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-and-chess-calculation-chess-magnuscarlsen-worldchesschampion-chesshumor-chesscom",
-         "pubDate" : "Tue, 15 Oct 2024 21:43:36",
-         "title" : "Magnus and Chess Calculation #chess #magnuscarlsen #worldchesschampion #chesshumor #chesscom"
+         "link" : "https://saintlouischessclub.org/blog/caruana-yip-continue-surge-round-4-recap-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Caruana & Yip Continue to Surge | Round 4 RECAP | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Anastasiya Karlovich after defeating Robson in Round 2 of the 2024 U.S. Chess Championship. 2024.10.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-can%E2%80%99t-rely-robson%E2%80%99s-time-trouble-r2-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Sevian: Can't Rely on Robson's Time Trouble | R2 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Anastasiya Karlovich after defeating Megan Lee in Round 2 of the 2024 U.S. Women's Championship. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-feels-%E2%80%98lucky%E2%80%99-megan-victory-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nViy-zHo6DY.jpg?itok=KSyrjd_T\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-feels-%E2%80%98lucky%E2%80%99-megan-victory-r2-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Krush Feels 'Lucky' with Megan Victory | R2 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich after defeating Christopher Yoo in Round 2 of the 2024 U.S. Chess Championship. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-christopher-very-tough-boy-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aRcgwRRsWCg.jpg?itok=5n8IIvtQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-christopher-very-tough-boy-r2-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Wesley: Christopher is a Very Tough Boy | R2 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Megan Lee in Round 3 of the 2024 U.S. Women's Championship. 2024.10.13<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-we-all-know-each-other-well-r3-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Begim: We All Know Each Other Well | R3 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich after defeating Jennifer Yu in Round 3 of the 2024 U.S. Women's Championship. 2024.10.13<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-sounds-determined-meet-krush-r3-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Carissa Sounds Determined to Meet Krush! | R3 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Anastasiya Karlovich after defeating Pourkashiyan in Round 3 of the 2024 U.S. Women's Championship. 2024.10.13<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-w",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev%E2%80%99s-lucky-penguins-working-overtime-r3-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Tatev's Lucky Penguins Working Overtime | R3 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This aired during Round 1. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-let%E2%80%99s-make-event-not-something-regret-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Aronian: Let's Make This Event NOT Something to Regret! | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This aired during Round 3. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-winning-last-year-doesn%E2%80%99t-change-anything-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Caruana: Winning Last Year Doesn't Change Anything | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 3. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-twice-so-close-title-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 00:53:04",
+         "title" : "Begim: Twice So Close to the Title! | #USChessChamps"
       },
       {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The quarterfinals bring a number of interesting match-ups: Arjun Erigaisi vs Vidit Gujrathi, Nodirbek Abdusattorov vs Maxime Vachier-Lagrave, Alireza Firouzja vs Raunak Sadhwani, and Vishy Anand vs Praggnanandhaa! The players play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
@@ -16,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
          "pubDate" : "Tue, 15 Oct 2024 17:45:53",
          "title" : "WR Chess Masters: live"
+      },
+      {
+         "description" : "GM Alireza Firouzja was gifted a win when GM Raunak Sadhwani overslept their first game, before a draw in the second secured a spot in the 2024 WR Chess Masters Cup Semifinals. Firouzja will play GM Maxime Vachier-Lagrave, who beat GM Nodirbek Abd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-wr-chess-masters-cup-round-qf",
+         "pubDate" : "Tue, 15 Oct 2024 17:23:00",
+         "title" : "Firouzja Accepts Gift As MVL, Arjun, Praggnanandhaa Join Him In Semifinals"
       },
       {
          "description" : "",
@@ -66,38 +146,6 @@ news_feed (
          "title" : "Gukesh: 'I'm Quite Eager To Start The Match'"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Yasser shares an interesting bit about when he plays chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/talking-your-pieces-chess-chessstrategy-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Gq3T8I4s2fM.jpg?itok=f5RNnQA2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/talking-your-pieces-chess-chessstrategy-chesshumor-chesscom",
-         "pubDate" : "Tue, 15 Oct 2024 06:43:15",
-         "title" : "Talking To Your Pieces #chess #chessstrategy #chesshumor #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 4 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-yip-continue-surge-recap-2024-us-chess-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-yip-continue-surge-recap-2024-us-chess-championships-round-4",
-         "pubDate" : "Tue, 15 Oct 2024 03:43:16",
-         "title" : "Caruana & Yip Continue to Surge | RECAP | 2024 U.S. Chess Championships: Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Yasser asks when co-analyst WGM Katerina Nemcova when do you trust your chess calculation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-chess-calculation-chess-chesstactics-worldchesschampion-chesshumor-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6CpgzeUHj7Y.jpg?itok=BnXfQYua\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-and-chess-calculation-chess-chesstactics-worldchesschampion-chesshumor-chesscom",
-         "pubDate" : "Tue, 15 Oct 2024 03:43:16",
-         "title" : "Magnus and Chess Calculation #chess #chesstactics #worldchesschampion #chesshumor #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-5",
-         "pubDate" : "Tue, 15 Oct 2024 00:43:09",
-         "title" : "2024 U.S. Chess Championships: Round 5"
-      },
-      {
          "description" : "This week continues a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles all focus on hanging, loose, and otherwise underprotected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -120,22 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-4",
          "pubDate" : "Mon, 14 Oct 2024 23:29:00",
          "title" : "Caruana Beats Mishra, Assumes Sole Lead; Yip Still Perfect"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> A forcing check can lead to complications for white in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/everybody-runs-after-check-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/everybody-runs-after-check-chess-chessendgame-education-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 21:43:02",
-         "title" : "Everybody Runs After Check #chess #chessendgame #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Tianqi Wang recommendation for beginners &quot;Under the Surface&quot; - Grandmaster Jan Markos </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/understanding-positions-without-knights-chess-chessbeginners-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KzAJneH1bEU.jpg?itok=4FSokeSd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/understanding-positions-without-knights-chess-chessbeginners-chessendgame-education-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 21:43:02",
-         "title" : "Understanding Positions Without Knights #chess #chessbeginners #chessendgame #education #lichess"
       },
       {
          "description" : "Five Indian grandmasters are through to the Quarterfinals of the 2024 WR Chess Masters Cup, which will feature the all-Indian clashes GM Arjun Erigaisi vs. GM Vidit Gujrathi and GM Viswanathan Anand vs. GM Praggnanandhaa Rameshbabu. GM Raunak Sadh...",
@@ -216,30 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship",
          "pubDate" : "Mon, 14 Oct 2024 05:03:00",
          "title" : "Shevchenko Expelled From Spanish Team Championship After Phone Found In Toilet"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 3 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-niemann-strike-yip-still-perfect-recap-2024-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-niemann-strike-yip-still-perfect-recap-2024-us-chess-championships-round-3",
-         "pubDate" : "Mon, 14 Oct 2024 03:42:42",
-         "title" : "Caruana & Niemann Strike, Yip Still Perfect | RECAP | 2024 U.S. Chess Championships: Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Arjun explains what can happen if opponent plays d4 too quickly in different variations </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/noahs-ark-trap-chess-chessbeginners-chesstactics-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Te5nEAdwN7M.jpg?itok=5__hdXTu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/noahs-ark-trap-chess-chessbeginners-chesstactics-education-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
-         "title" : "The Noah's Ark Trap #chess #chessbeginners #chesstactics #education #lichess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Overly forcing can lead this king to freedom...maybe </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/check-me-once-chess-chessendgame-education-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ORHjo6xlOfQ.jpg?itok=-H8RDZmp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/check-me-once-chess-chessendgame-education-lichess",
-         "pubDate" : "Mon, 14 Oct 2024 00:42:41",
-         "title" : "Check Me Once... #chess #chessendgame #education #lichess"
       },
       {
          "description" : "The third round of the 2024 U.S. Championship and U.S. Women's Championship each produced three decisive results, giving us plenty to dive into today, both from a chess and leaderboard standpoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> A number of yesterday's victors posed for glamour shots across the street at the World Chess Hall of Fame after their games. (All photos courtesy Lennart Ootes/SLCC)<br> <br> In a scintillating rout, GM Hans Niemann put an end to GM Lenier Dominguez's unbeaten streak and joined the U.S. Championsh",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamura-defeats-viswanathan-anand-as-ganges-grandmasters-woes-continue/articleshow/113989711.cms",
          "pubDate" : "Sun, 06 Oct 2024 15:10:33",
          "title" : "Nakamura defeats Anand as Ganges Grandmasters' woes continue"
-      },
-      {
-         "description" : "The PBG Alaskan Knights won their fifth match on Sunday to lead the Tech Mahindra Global Chess League with a six-point margin halfway through the round-robin stage. The Triveni Continental Kings and the Alpine Sg Pipers are sharing second place wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-4",
-         "pubDate" : "Sun, 06 Oct 2024 12:29:00",
-         "title" : "Triveni Continental Kings, Alpine Sg Pipers Chase Still Perfect PBG Alaskan Knights"
       },
       {
          "description" : "Even as Gukesh has been in the form of his life, Ding has not quite been in the best of it.",
