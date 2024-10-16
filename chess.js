@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The semifinals bring two interesting match-ups: Arjun Erigaisi v. Praggnanandhaa and Alireza Firouzja v. Maxime Vachier-Lagrave. The participants play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
+         "pubDate" : "Wed, 16 Oct 2024 10:45:00",
+         "title" : "WR Chess Masters: live"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Stacked pawns on the c-file, but WGM Tatev Abrahamyan finds this superb sequence against her opponent WGM Atousa Pourkashiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stacked-pawns-and-rockin-rooks-uschesschamps-chess-chessendgame-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cR4dvarqLDg.jpg?itok=PgvjpGT1\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "WR Masters Cup: Pragg knocks out Anand in Armageddon"
       },
       {
-         "description" : "The European Chess Union is pleased to announce the launch of ECU TV ecutv.eu . ECU TV will be running in trial mode for the next few months to test and improve all technical features. The development of ECU TV is a multi-project consisting of 4 main pillars: Development of the visual identity, creation of unique logo, color scheme, and comprehensive brand book. 3D animations for transitions and complete the setup for OBS live streaming, including custom intros and outros. Development of []",
+         "description" : "The European Chess Union is pleased to announce the launch of ECU TV ecutv.eu . ECU TV will be running in&#160;trial mode for the next few months&#160;to test and improve all technical features. The development of ECU TV is a multi-project consisting of 4 main pillars: Development of visual identity, creation of a unique logo, colour scheme, and comprehensive brand book. 3D animations for transitions and a complete setup for OBS live streaming, including custom intros and outros. Development of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/press-release-launch-of-ecu-tv/",
@@ -1232,22 +1240,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-meets-chess-players-hails-indias-historic-double-gold-triumph/articleshow/113672388.cms",
          "pubDate" : "Wed, 25 Sep 2024 14:22:25",
          "title" : "PM Modi meets chess players, hails India's historic double gold triumph"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113666283.cms\" />Grandmaster Vidit Gujrathi, after helping India win its first Chess Olympiad gold, decided not to defend his title at the Vugar Gashimov Memorial Chess Super Tournament in Azerbaijan. Instead, he returned to India for a felicitation with Prime Minister Narendra Modi. Aravindh Chithambaram will replace him in the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-winner-vidit-gujrathi-decides-against-defending-title-in-azerbaijan-to-meet-pm-modi/articleshow/113666283.cms",
-         "pubDate" : "Wed, 25 Sep 2024 10:49:18",
-         "title" : "Gujrathi decides against defending title in Azerbaijan to meet PM Modi"
-      },
-      {
-         "description" : "The 3rd quarterly ECU Board meeting and the annual ECU General Assembly took place on the 18th and the 19th of September respectively, at the Intercontinental Hotel in Budapest, Hungary, as part of the FIDE Congress 2024. ECU Board information and decisions: ECU General Assembly information and decisions&#160; 42 Federations members were present at the ECU General Assembly 2024. Commissions Reports: During the meeting, the ECU President presents to FIDE President Arkady Dvorkovich and FIDE Deputy President Viswanathan Anand, as []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2024/",
-         "pubDate" : "Wed, 25 Sep 2024 09:27:49",
-         "title" : "Communique of the ECU Board Meeting and ECU General Assembly 2024 - CL No3/2024"
       }
    ]
 }
