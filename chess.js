@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From the 14th to the 18th of October, four of the best German talents (Marius Deuer, Leonardo Costa, Hussain Besou and Christian Gl&ouml;ckler) who are supported by the WEISSENHAUS Chess Academy, will have the opportunity to compete against experienced players (Pavel Eljanov, P. Sethuruman, Christian Bauer, Sune Berg Hansen, Kaido Kualots and Benedict Krause) at the WEISSENHAUS Young Masters. After four rounds, Sethuraman leads with 3.5/4, followed by Deuer with 2.5/4. Round 5 starts at 16:00 CEST (4:00 ET). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-young-masters-live",
+         "pubDate" : "Wed, 16 Oct 2024 15:15:00",
+         "title" : "WEISSENHAUS Young Masters: Live"
+      },
+      {
+         "description" : "In Girls Section: &#160;Sneha Halder of India who was in Joint lead along with WIM Sukhman Anna lost in the 4th round n Asian Junior",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round4-asian-junior-girls-chess-championship-2024-at-philippines-disappointing-performance-for-indians-at-both-top-tables/",
+         "pubDate" : "Wed, 16 Oct 2024 12:23:03",
+         "title" : "Round:4 - Asian Junior & Girls Chess Championship 2024 at Philippines- Disappointing performance for Indians at Both Top Tables."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3265",
+         "pubDate" : "Wed, 16 Oct 2024 11:25:57",
+         "title" : "2024 FIDE World Rapid & Blitz Championships: Registration Open"
+      },
+      {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The semifinals bring two interesting match-ups: Arjun Erigaisi v. Praggnanandhaa and Alireza Firouzja v. Maxime Vachier-Lagrave. The participants play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -930,14 +954,6 @@ news_feed (
          "title" : "Senior National Arbiters Seminar & Examination in Maddur, Karnataka on 23 & 24 November 2024"
       },
       {
-         "description" : "On behalf of All India Chess Federation, All Bihar Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Patna on 19 &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-patna-on-19-20-october-2024/",
-         "pubDate" : "Fri, 04 Oct 2024 18:38:38",
-         "title" : "SNA Seminar & Exam in Patna ,Bihar on 19 & 20 October 2024"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113947463.cms\" />Magnus Carlsen ran out of time in his match against Alireza Firouzja, leading to Triveni Continental Kings' thrashing of Alpine Sg Pipers 17-4 in the Global Chess League. Meanwhile, Viswanathan Anand lost to Maxime Vachier-Lagrave, and Anish Giri held Hikaru Nakamura to a draw, propelling PBG Alaskan Knights to the lead.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1232,14 +1248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-chess-federation-announces-rs-3-2-crore-rewards-for-olympiad-winning-teams/articleshow/113674067.cms",
          "pubDate" : "Wed, 25 Sep 2024 15:42:58",
          "title" : "Chess federation announces Rs 3.2 cr reward for Olympiad winners"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113672388.cms\" />Prime Minister Narendra Modi lauded India's young chess players for their historic wins at the 45th Chess Olympiad in Budapest. Both men's and women's teams clinched their first gold medals. The men's team defeated Slovenia, while the women's team triumphed over Azerbaijan in the final round, marking a milestone achievement for Indian chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-meets-chess-players-hails-indias-historic-double-gold-triumph/articleshow/113672388.cms",
-         "pubDate" : "Wed, 25 Sep 2024 14:22:25",
-         "title" : "PM Modi meets chess players, hails India's historic double gold triumph"
       }
    ]
 }
