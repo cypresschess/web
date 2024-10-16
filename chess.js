@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Wed, 16 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The semifinals bring two interesting match-ups: Arjun Erigaisi v. Praggnanandhaa and Alireza Firouzja v. Maxime Vachier-Lagrave. The participants play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
+         "pubDate" : "Wed, 16 Oct 2024 18:00:00",
+         "title" : "WR Chess Masters: live"
+      },
+      {
          "description" : "From the 14th to the 18th of October, four of the best German talents (Marius Deuer, Leonardo Costa, Hussain Besou and Christian Gl&ouml;ckler) who are supported by the WEISSENHAUS Chess Academy, will have the opportunity to compete against experienced players (Pavel Eljanov, P. Sethuruman, Christian Bauer, Sune Berg Hansen, Kaido Kualots and Benedict Krause) at the WEISSENHAUS Young Masters. After four rounds, Sethuraman leads with 3.5/4, followed by Deuer with 2.5/4. Round 5 starts at 16:00 CEST (4:00 ET). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "2024 FIDE World Rapid & Blitz Championships: Registration Open"
       },
       {
-         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The semifinals bring two interesting match-ups: Arjun Erigaisi v. Praggnanandhaa and Alireza Firouzja v. Maxime Vachier-Lagrave. The participants play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
-         "pubDate" : "Wed, 16 Oct 2024 10:45:00",
-         "title" : "WR Chess Masters: live"
+         "description" : "GM Hikaru Nakamura returned to the top of the Titled Tuesday standings on October 15, winning the late event with 9.5 points after finishing third in the early event, which was won by GM Jan-Krzysztof Duda with 10 points. Duda won outright, while ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-nakamura-win-titled-tuesday-october-15-2024",
+         "pubDate" : "Wed, 16 Oct 2024 09:26:09",
+         "title" : "Nakamura Wins First Titled Tuesday Since August, Still Way Ahead In Titled Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Stacked pawns on the c-file, but WGM Tatev Abrahamyan finds this superb sequence against her opponent WGM Atousa Pourkashiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stacked-pawns-and-rockin-rooks-uschesschamps-chess-chessendgame-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cR4dvarqLDg.jpg?itok=PgvjpGT1\" alt=\"\" /></a></div>",
@@ -802,14 +818,6 @@ news_feed (
          "title" : "FIDE Council meeting and FIDE GA lists of decisions published"
       },
       {
-         "description" : "The Alpine Sg Pipers were the first team to beat the PBG Alaskan Knights on Monday at the Tech Mahindra Global Chess League in London. The Pipers are now just three points behind the leaders, along with the Triveni Continental Kings. Scoring their...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-5",
-         "pubDate" : "Mon, 07 Oct 2024 11:05:00",
-         "title" : "Alpine Sg Pipers Inflict 1st Loss Upon PBG Alaskan Knights"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-pm-modi-sees-praggnanandhaa-and-erigaisi-compete-in-chess/articleshow/113685669.cms",
          "pubDate" : "Thu, 26 Sep 2024 03:55:41",
          "title" : "Watch: PM Modi enjoys chess showdown between Pragg and Erigaisi"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113674067.cms\" />The All India Chess Federation declared Rs 3.2 crore in rewards for India's historic Chess Olympiad victory. Each player will receive Rs 25 lakh, with additional amounts for captains and coaches. This twin gold medal win in Budapest is seen as a significant milestone that could spark a chess revolution in India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-chess-federation-announces-rs-3-2-crore-rewards-for-olympiad-winning-teams/articleshow/113674067.cms",
-         "pubDate" : "Wed, 25 Sep 2024 15:42:58",
-         "title" : "Chess federation announces Rs 3.2 cr reward for Olympiad winners"
       }
    ]
 }
