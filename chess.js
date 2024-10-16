@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. and U.S. Women's Championships, as of before Round 5. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-4-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Car-36hkzV4.jpg?itok=gnLGxkHS\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-4-r5-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
+         "title" : "Who is Likely to Win After Round 4? | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich after defeating Krush in Round 4 of the 2024 U.S. Women's Championship. This aired during Round 5. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-didn%E2%80%99t-shuffle-wait-irina-r4-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
+         "title" : "Carissa Didn't Shuffle & Wait for Irina | R4 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Zatonskih in Round 4 of the 2024 U.S. Women's Championship. This aired during Round 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-zatonskih-win-leaves-her-exhausted-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9OZJS2QyfO8.jpg?itok=yZofcZdD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-zatonskih-win-leaves-her-exhausted-r4-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
+         "title" : "Begim: Zatonskih Win Leaves Her Exhausted | R4 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Q Boutique Manager Heather Parker joins the show during Round 5 of the 2024 U.S. Chess Championships. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/q-boutique%E2%80%99s-heather-comes-bearing-duck-gifts-all-r5-uschesschamps",
+         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
+         "title" : "Q Boutique's Heather Comes Bearing Duck Gifts for All! | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-6",
+         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
+         "title" : "2024 U.S. Chess Championships: Round 6"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/weissenhaus-young-masters-live",
          "pubDate" : "Wed, 16 Oct 2024 15:15:00",
          "title" : "WEISSENHAUS Young Masters: Live"
+      },
+      {
+         "description" : "IM Sagar Shah and IM Tania Sachdev (Check De India) defeated IM Levy Rozman and James Canty III (Team Swole) in the last quarterfinal match of the 2024 Team Chess Battle 2. After soundly unraveling the King&#39;s Indian Defense in game one, they lost ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qf-sagar-tania-win",
+         "pubDate" : "Wed, 16 Oct 2024 13:37:40",
+         "title" : "'Check De India' Win Armageddon Vs. 'Team Swole,' Will Face 'Oh Yes My Queen' In Semis"
       },
       {
          "description" : "In Girls Section: &#160;Sneha Halder of India who was in Joint lead along with WIM Sukhman Anna lost in the 4th round n Asian Junior",
@@ -56,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/stacked-pawns-and-rockin-rooks-uschesschamps-chess-chessendgame-chesstactics-chesscom",
          "pubDate" : "Wed, 16 Oct 2024 06:53:12",
          "title" : "Stacked Pawns and Rockin Rooks #uschesschamps #chess #chessendgame #chesstactics #chesscom"
-      },
-      {
-         "description" : "The quarterfinals of the WR Chess Masters Cup took place on Tuesday. Arjun Erigaisi and Alireza Firouzja advanced with victories in classical chess, while Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu won their matches in the Armageddon tiebreak. Notably, Raunak Sadhwani forfeited his first game against Firouzja. The semifinals will see all-Indian and all-French matchups as the tournament progresses.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-masters-cup-2024-d2",
-         "pubDate" : "Wed, 16 Oct 2024 06:35:00",
-         "title" : "WR Masters Cup: Pragg knocks out Anand in Armageddon"
       },
       {
          "description" : "The European Chess Union is pleased to announce the launch of ECU TV ecutv.eu . ECU TV will be running in&#160;trial mode for the next few months&#160;to test and improve all technical features. The development of ECU TV is a multi-project consisting of 4 main pillars: Development of visual identity, creation of a unique logo, colour scheme, and comprehensive brand book. 3D animations for transitions and a complete setup for OBS live streaming, including custom intros and outros. Development of []",
@@ -106,52 +146,12 @@ news_feed (
          "title" : "Karlovich Does it All: Taking Photos & Asking Questions | R2 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich after defeating Atwell in Round 2 of the 2024 U.S. Women's Championship. 2024.10.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-rose-one-next-generation%E2%80%99s-strongest-r2-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Carissa: Rose is One the Next Generation's Strongest | R2 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Analyzing a position from Mishra versus Caruana, Yasser makes a comment similar to Bruce Banner before he turns into Marvel&#039;s Incredible Hulk </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-you-dont-know-me-uschesschamps-chess-marvelcomics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2eYMwsi7V-Q.jpg?itok=k28WVXGF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yasser-you-dont-know-me-uschesschamps-chess-marvelcomics",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Yasser: You Don't Know Me #uschesschamps #chess #marvelcomics"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. and U.S. Women's Championships, as of before Round 3. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-2-r3-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5X3nJXc7Ors.jpg?itok=Qncr8P_Q\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-2-r3-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Who is Likely to Win After Round 2? | R3 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> BUD Analytics Founder Ben Underwood joins the show during Round 3 of the 2024 U.S. Chess Championships. 2024.10.13<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ben-underwood-ratings-are-highly-predictive-r3-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Ben Underwood: Ratings are Highly Predictive! | R3 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Robson in Round 3 of the 2024 U.S. Chess Championship. 2024.10.13<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-1-against-3-strongest-players-r3-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Caruana: +1 Against 3 of the Strongest Players | R3 #USChessChamps"
-      },
-      {
-         "description" : "The World Rapid & Blitz Championships will take place from 26 to 31 December in New York City. As recently announced by FIDE, the events will be held in historic venues at the heart of New York's financial district: Cipriani Wall Street and 48 Wall Street, historic architectural landmarks which have previously housed organisations as prestigious as the New York Stock Exchange and the Museum of American Finance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-venues",
-         "pubDate" : "Tue, 15 Oct 2024 22:00:00",
-         "title" : "Iconic Wall Street venues to host 2024 World Rapid & Blitz Championships"
+         "description" : "This week's Wednesday Workout continues our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on rook endgames. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-3-rook-endgames",
+         "pubDate" : "Wed, 16 Oct 2024 00:00:00",
+         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 3 (Rook Endgames)"
       },
       {
          "description" : "GM Alireza Firouzja was gifted a win when GM Raunak Sadhwani overslept their first game, before a draw in the second secured a spot in the 2024 WR Chess Masters Cup Semifinals. Firouzja will play GM Maxime Vachier-Lagrave, who beat GM Nodirbek Abd...",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3264",
          "pubDate" : "Tue, 15 Oct 2024 16:59:02",
          "title" : "FIDE School Awards: Application deadline approaching"
-      },
-      {
-         "description" : "Fabiano Caruana took the lead in the US Championship after defeating Abhimanyu Mishra with the white pieces in round 4. In the women's tournament, Carissa Yip still has a perfect score. The defending champion played a spectacular game featuring a number of tactical shots to beat eight-time US women's champion Irina Krush. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-4",
-         "pubDate" : "Tue, 15 Oct 2024 16:45:00",
-         "title" : "US Championships: Caruana sole leader, Yip still perfect"
       },
       {
          "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2024-25 period. Many arbiters missed the refresher course",
@@ -272,14 +264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3262",
          "pubDate" : "Mon, 14 Oct 2024 12:40:17",
          "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
-      },
-      {
-         "description" : "In rook endings the privilege of having connected passed pawns can easily make the difference. But even in this case there are many hidden resources. Of course generalisations are not always helpful - still, here is some advice by world-class trainer Efstratios Grivas to help you master this endgame. Study his instructions and count the rating points you gain.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-rook-endings-connected-pawns",
-         "pubDate" : "Mon, 14 Oct 2024 09:30:00",
-         "title" : "Grivas on rook endings, connected pawns"
       },
       {
          "description" : "We&#39;re excited to announce that GM Garry Kasparov has teamed up with Chessable to upgrade a timeless classic. In addition to the written content, chess players can now enjoy My Great Predecessors Part 4 in video, presented by the legendary Kasparov...",
@@ -546,14 +530,6 @@ news_feed (
          "title" : "ECU E-Magazine September 2024"
       },
       {
-         "description" : "The Kasparov Chess Foundation Academy (KCFA) is excited to announce the start of its second season, featuring an enhanced format with more instructional hours and additional lessons from top players and trainers, including special sessions from the Legendary World Champion, Garry Kasparov himself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-study-with-garry",
-         "pubDate" : "Fri, 11 Oct 2024 10:30:00",
-         "title" : "Chess Study with Garry"
-      },
-      {
          "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -786,14 +762,6 @@ news_feed (
          "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 1"
       },
       {
-         "description" : "The mother-daughter duo of GM Pia Cramling and WFM Anna Cramling reigned supreme in the first quarterfinal match of the 2024 Team Chess Battle 2. They controlled the match against Team ChessKid&#38;mdash;IM Alice Lee and FM Mike Klein&#38;mdash;for the mo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qfs-cramlings-win",
-         "pubDate" : "Mon, 07 Oct 2024 21:18:00",
-         "title" : "Mother-Daughter Duo Overcome Team ChessKid, Advance To Semifinals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -848,14 +816,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2025-official-invitation/",
          "pubDate" : "Mon, 07 Oct 2024 08:43:36",
          "title" : "European Women's Chess Championship 2025 - Official invitation"
-      },
-      {
-         "description" : "Careful readers of the October Chess Life print edition will note a deeply regrettable error. Two photographs of Louis \"Lou\" Giarrusso appear in a rotated and skewed format on Page 7.Why did this happen?As fate would have it, Lou passed away the night before we were to go to press. What was to have been a celebration of his life had to be quickly rewritten as an obituary.In the process of editing and page-fitting, I made the final round of corrections to the file, did the output from InDesign to .pdf, and uploaded those files to our printer's website.What I did not know - but do now - is that there is a very specific issue with .heic image files (the native iPhone/ iOS image file format) and",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/regarding-error-october-chess-life",
-         "pubDate" : "Mon, 07 Oct 2024 00:00:00",
-         "title" : "Regarding Error in October Chess Life"
       },
       {
          "description" : "A roundup of results from the fourth day of the Global Chess League Season 2.",
