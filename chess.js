@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Official Statement From The Saint Louis Chess Club: <a href=\"https://x.com/STLChessClub/status/1846772429189693607\">https://x.com/STLChessClub/status/1846772429189693607</a> IM Kostya Kavutskiy recaps Round 5 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-mai",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-maintains-lead-yip-fire-recap-2024-us-chess-championships-round-5",
+         "pubDate" : "Thu, 17 Oct 2024 06:53:35",
+         "title" : "Caruana Maintains Lead, Yip On Fire | RECAP | 2024 U.S. Chess Championships: Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Abhimanyu Mishra fixes one of the key issues in the French, but creates another issue against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishras-troubled-french-uschesschamps-chess-chessopenings-education-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9MMOLmFd-KY.jpg?itok=9ynQeeA-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mishras-troubled-french-uschesschamps-chess-chessopenings-education-chesscom",
+         "pubDate" : "Thu, 17 Oct 2024 03:53:26",
+         "title" : "Mishra's Troubled French #uschesschamps #chess #chessopenings #education #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Caruana goes from highly favored position against Levon, and finds a way to crumble it away to a draw </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/100-winning-wth-uschesschamps-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cqc7DMFSleU.jpg?itok=18640fIe\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/100-winning-wth-uschesschamps-chess-chesstactics-chessstrategy-chesscom",
+         "pubDate" : "Thu, 17 Oct 2024 03:53:26",
+         "title" : "From 100% Winning to WTH! #uschesschamps #chess #chesstactics #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Before Niemann begins to unravel his attack, Dominguez makes the rarest move in his position. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/where-there-mokethere-smoke-uschesschamps-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UsEeBcyPMuQ.jpg?itok=St73ZX_V\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/where-there-mokethere-smoke-uschesschamps-chess-chesstactics-chessstrategy-chesscom",
+         "pubDate" : "Thu, 17 Oct 2024 03:53:26",
+         "title" : "Where There Is Moke...There Is Smoke #uschesschamps #chess #chesstactics #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Black&#039;s crafty knights with the assistance of the queen&#039;, begin to invade white&#039;s King on f1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/these-pieces-will-speak-themselves-uschesschamps-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YCkF-2cQ94Y.jpg?itok=0OzjoP9G\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/these-pieces-will-speak-themselves-uschesschamps-chess-chesstactics-chesscom",
+         "pubDate" : "Thu, 17 Oct 2024 03:53:26",
+         "title" : "These Pieces Will Speak For Themselves #uschesschamps #chess #chesstactics #chesscom"
+      },
+      {
          "description" : "Arjun Erigaisi and Maxime Vachier-Lagrave secured their places in the final of the WR Chess Masters Cup after winning their semifinal matches on Wednesday. Arjun defeated fellow Indian Praggnanandhaa Rameshbabu, while MVL triumphed over Alireza Firouzja in an Armageddon tiebreaker. The final, set to take place on Thursday, will feature two games played at 11.00 and 18.00 CEST. | Photo: ChessBase India / Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,46 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tatev-shout-out-irene-sukandar-r5-uschesschamps",
          "pubDate" : "Thu, 17 Oct 2024 00:53:30",
          "title" : "Tatev: Shout Out to Irene Sukandar! | R5 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. and U.S. Women's Championships, as of before Round 5. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-4-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Car-36hkzV4.jpg?itok=gnLGxkHS\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-4-r5-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
-         "title" : "Who is Likely to Win After Round 4? | R5 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich after defeating Krush in Round 4 of the 2024 U.S. Women's Championship. This aired during Round 5. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-didn%E2%80%99t-shuffle-wait-irina-r4-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
-         "title" : "Carissa Didn't Shuffle & Wait for Irina | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Zatonskih in Round 4 of the 2024 U.S. Women's Championship. This aired during Round 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-zatonskih-win-leaves-her-exhausted-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9OZJS2QyfO8.jpg?itok=yZofcZdD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-zatonskih-win-leaves-her-exhausted-r4-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
-         "title" : "Begim: Zatonskih Win Leaves Her Exhausted | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Q Boutique Manager Heather Parker joins the show during Round 5 of the 2024 U.S. Chess Championships. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/q-boutique%E2%80%99s-heather-comes-bearing-duck-gifts-all-r5-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
-         "title" : "Q Boutique's Heather Comes Bearing Duck Gifts for All! | R5 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-6",
-         "pubDate" : "Wed, 16 Oct 2024 21:53:24",
-         "title" : "2024 U.S. Chess Championships: Round 6"
       },
       {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
@@ -1184,30 +1184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-pakistan-team-holds-indian-flag-during-chess-olympiad-2024/articleshow/113701561.cms",
          "pubDate" : "Thu, 26 Sep 2024 11:27:07",
          "title" : "Viral Video: Pak team holds Indian flag during Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686699.cms\" />Vantika Agrawal, a graduate from Delhi's SRCC, played a pivotal role in helping the Indian women's team win a historic gold at the Chess Olympiad in Budapest. Her resilience under pressure was key to her success on Board 4, earning her an individual gold and contributing significantly to the team's victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/desperately-wanted-to-win-the-gold-for-india-vantika-agrawal/articleshow/113686699.cms",
-         "pubDate" : "Thu, 26 Sep 2024 04:20:09",
-         "title" : "Desperately wanted to win the gold for India: Vantika Agrawal"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113686115.cms\" />Grandmaster Vidit Gujrathi significantly contributed to India's success at the Chess Olympiad in Budapest, scoring 7.5 points from 10 games. India clinched both men's and women's team titles and four individual gold medals. Vidit noted pivotal victories against the USA and China, expressing pride in the team's historic performance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-now-a-chess-superpower-gm-vidit-gujrathi/articleshow/113686115.cms",
-         "pubDate" : "Thu, 26 Sep 2024 04:00:29",
-         "title" : "We are now a chess superpower: GM Vidit Gujrathi"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113685669.cms\" />Prime Minister Narendra Modi praised India's young chess players for their historic achievements at the 45th Chess Olympiad in Budapest. Both men's and women's teams clinched their maiden gold medals by defeating Slovenia and Azerbaijan respectively. Modi interacted with the champions, who presented him with a chessboard, followed by a quick game between Praggnanandhaa and Erigaisi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-pm-modi-sees-praggnanandhaa-and-erigaisi-compete-in-chess/articleshow/113685669.cms",
-         "pubDate" : "Thu, 26 Sep 2024 03:55:41",
-         "title" : "Watch: PM Modi enjoys chess showdown between Pragg and Erigaisi"
       }
    ]
 }
