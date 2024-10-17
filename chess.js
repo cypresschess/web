@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Thu, 17 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. Arjun Erigaisi and Maxime Vachier-Lagrave have reached the finals after knocking out tough opponents in previous rounds.. The participants play 2-game matches - the first game started at 10:00 local time (5:00 ET) and ended with a draw. The second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
+         "pubDate" : "Thu, 17 Oct 2024 17:51:00",
+         "title" : "WR Chess Masters: live"
+      },
+      {
          "description" : "The fifth round of the US Championships was overshadowed by a serious incident. After Christopher Yoo was defeated by Fabiano Caruana, he lost his nerve: he crumpled up his scoresheet and then stormed out of the tournament hall. In the process, he punched a videographer in the back. The organisers notified the police and Yoo was expelled from the tournament. His previous results were cancelled, including his defeat against Caruana. Nevertheless, Caruana is in the lead with 3 out of 4 points, ahead of Awonder Liang and Hans Niemann with 3 out of 5. In the women's tournament, Carissa Yip continued her winning streak and claimed her fifth victory in a row. | Photo: Screenshot from the Siant Lou",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2024-5",
          "pubDate" : "Thu, 17 Oct 2024 16:00:00",
          "title" : "US Championships: Yoo expelled after violating the code of conduct"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament! You can see all the action as it unfolds live @STLChessClub from October 27th through 30th!<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-promo",
+         "pubDate" : "Thu, 17 Oct 2024 15:53:42",
+         "title" : "2024 Chess 9LX | PROMO"
       },
       {
          "description" : "We told you about the six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. The movie, due for broadcast today, and can also be viewed in full on the ARTE web site or on Youtube. As someone who experienced practically every minute of the drama in real life, back in 1985-86, I could track all the discrepancies. But on the whole the movie was well told and enjoyable.",
@@ -146,12 +170,12 @@ news_feed (
          "title" : "Aronian: Like Boxing, Shankland Had 11 Great Rounds&hellip; | R5 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Anastasiya Karlovich after defeating Zatonskih in Round 5 of the 2024 U.S. Women's Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-shout-out-irene-sukandar-r5-uschesschamps",
-         "pubDate" : "Thu, 17 Oct 2024 00:53:30",
-         "title" : "Tatev: Shout Out to Irene Sukandar! | R5 #USChessChamps"
+         "description" : "If the rest day was the calm before the storm, then the fifth round of the U.S. Championship was truly the storm, with a whopping ten decisive games out of twelve. In the Women's section, defending champion IM Carissa Yip extended her lead as she moved to a stunning 5/5 score. In the Open, defending champion GM Fabiano Caruana also remains in the lead, although an incident leading to a player's expulsion reshaped the leaderboard. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy Lennart Ootes/SLCC unless otherwise noted<br> <br> Women'sThe U.S. Women's Championship saw games packed with action and tension right from the start. Combative open",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-champs-yip-remains-perfect-after-five-rounds-caruana-preserves-lead-yoo-expelled-tournament",
+         "pubDate" : "Thu, 17 Oct 2024 00:00:00",
+         "title" : "U.S. Champs: Yip Remains Perfect After Five Rounds; Caruana Preserves Lead as Yoo Expelled From Tournament"
       },
       {
          "description" : "GM Arjun Erigaisi is just one win away from crossing 2800 after winning the first game of his 2024 WR Chess Masters Cup Semifinal and then surviving a scare in the second when GM Praggnanandhaa Rameshbabu missed a win on his last move. Arjun now f...",
@@ -786,14 +810,6 @@ news_feed (
          "title" : "Global Chess League: Triveni Continental Kings climb to second, PBG Alaskan Knights remain on top despite defeat"
       },
       {
-         "description" : "This week begins a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles all focus on mating attacks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-1",
-         "pubDate" : "Tue, 08 Oct 2024 00:00:00",
-         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,30 +1152,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/",
          "pubDate" : "Fri, 27 Sep 2024 01:29:21",
          "title" : "2024 Chess Olympiad: Round 11"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113710082.cms\" />Indian chess grandmaster R Praggnanandhaa expressed happiness after winning gold at the 45th Chess Olympiad and meeting Indian Prime Minister Narendra Modi. He emphasized the dedication behind this historic achievement for Indian chess. Both men's and women's teams secured gold, marking a significant milestone for India's chess community and inspiring future enthusiasts nationwide.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/conversation-with-pm-modi-went-over-an-hour-chess-olympiad-gold-medallist-r-praggnanandhaa/articleshow/113710082.cms",
-         "pubDate" : "Thu, 26 Sep 2024 16:31:29",
-         "title" : "'Conversation with PM Modi went over an hour': Praggnanandhaa"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3234",
-         "pubDate" : "Thu, 26 Sep 2024 16:06:09",
-         "title" : "Media registration for FIDE World Chess Championship 2024 is open now"
-      },
-      {
-         "description" : "In last month's Yahoos post -- see the footnote for a definition of Yahoos -- titled <A HREF=\"https://chessforallages.blogspot.com/2024/08/dna-yahoos.html\">DNA Yahoos</A> (August 2024), the stats revealed a possible new trend:- <BLOCKQUOTE> This month had 99 stories returned by Google News. Of those, 25 were old stories from previous months, compared to 10 old stories returned for the July post. Is Google struggling to find chess stories? </BLOCKQUOTE> <P> The September stats were 100 stories total including 14 stories from previous months. Later in the August post I noted, <BLOCKQUOTE> The 2024 Olympiad also had four stories, two of which were the same. Since the event didn't finish in Augu",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html",
-         "pubDate" : "Thu, 26 Sep 2024 15:38:00",
-         "title" : "Historic Olympiad Yahoos"
       }
    ]
 }
