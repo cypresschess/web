@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi and Maxime Vachier-Lagrave secured their places in the final of the WR Chess Masters Cup after winning their semifinal matches on Wednesday. Arjun defeated fellow Indian Praggnanandhaa Rameshbabu, while MVL triumphed over Alireza Firouzja in an Armageddon tiebreaker. The final, set to take place on Thursday, will feature two games played at 11.00 and 18.00 CEST. | Photo: ChessBase India / Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-masters-cup-2024-d3",
+         "pubDate" : "Thu, 17 Oct 2024 02:20:00",
+         "title" : "WR Masters Cup: Arjun and MVL advance to the finals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Awonder Liang talks to Anastasiya Karlovich after defeating Mishra in Round 5 of the 2024 U.S. Chess Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/awonder-goes-draw-%E2%80%98accidentally-wins%E2%80%99-r5-uschesschamps",
+         "pubDate" : "Thu, 17 Oct 2024 00:53:30",
+         "title" : "Awonder Goes for a Draw, 'Accidentally Wins' | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Anastasiya Karlovich after defeating Pourkashiyan in Round 5 of the 2024 U.S. Women's Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-finally-earns-first-win-r5-uschesschamps",
+         "pubDate" : "Thu, 17 Oct 2024 00:53:30",
+         "title" : "Alice Lee Finally Earns First Win! | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana defeats Christopher Yoo in Round 5 of the 2024 U.S. Chess Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-stuns-yoo-comeback-r5-uschesschamps",
+         "pubDate" : "Thu, 17 Oct 2024 00:53:30",
+         "title" : "Caruana Stuns Yoo with Comeback! | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich after defeating Shankland in Round 5 of the 2024 U.S. Chess Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-boxing-shankland-had-11-great-rounds%E2%80%A6-r5-uschesschamps",
+         "pubDate" : "Thu, 17 Oct 2024 00:53:30",
+         "title" : "Aronian: Like Boxing, Shankland Had 11 Great Rounds&hellip; | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Anastasiya Karlovich after defeating Zatonskih in Round 5 of the 2024 U.S. Women's Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev-shout-out-irene-sukandar-r5-uschesschamps",
+         "pubDate" : "Thu, 17 Oct 2024 00:53:30",
+         "title" : "Tatev: Shout Out to Irene Sukandar! | R5 #USChessChamps"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. and U.S. Women's Championships, as of before Round 5. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-4-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Car-36hkzV4.jpg?itok=gnLGxkHS\" alt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,14 +98,6 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
-         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. The semifinals bring two interesting match-ups: Arjun Erigaisi v. Praggnanandhaa and Alireza Firouzja v. Maxime Vachier-Lagrave. The participants play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
-         "pubDate" : "Wed, 16 Oct 2024 18:00:00",
-         "title" : "WR Chess Masters: live"
-      },
-      {
          "description" : "From the 14th to the 18th of October, four of the best German talents (Marius Deuer, Leonardo Costa, Hussain Besou and Christian Gl&ouml;ckler) who are supported by the WEISSENHAUS Chess Academy, will have the opportunity to compete against experienced players (Pavel Eljanov, P. Sethuruman, Christian Bauer, Sune Berg Hansen, Kaido Kualots and Benedict Krause) at the WEISSENHAUS Young Masters. After four rounds, Sethuraman leads with 3.5/4, followed by Deuer with 2.5/4. Round 5 starts at 16:00 CEST (4:00 ET). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,52 +138,12 @@ news_feed (
          "title" : "Nakamura Wins First Titled Tuesday Since August, Still Way Ahead In Titled Cup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Stacked pawns on the c-file, but WGM Tatev Abrahamyan finds this superb sequence against her opponent WGM Atousa Pourkashiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stacked-pawns-and-rockin-rooks-uschesschamps-chess-chessendgame-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cR4dvarqLDg.jpg?itok=PgvjpGT1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/stacked-pawns-and-rockin-rooks-uschesschamps-chess-chessendgame-chesstactics-chesscom",
-         "pubDate" : "Wed, 16 Oct 2024 06:53:12",
-         "title" : "Stacked Pawns and Rockin Rooks #uschesschamps #chess #chessendgame #chesstactics #chesscom"
-      },
-      {
          "description" : "The European Chess Union is pleased to announce the launch of ECU TV ecutv.eu . ECU TV will be running in&#160;trial mode for the next few months&#160;to test and improve all technical features. The development of ECU TV is a multi-project consisting of 4 main pillars: Development of visual identity, creation of a unique logo, colour scheme, and comprehensive brand book. 3D animations for transitions and a complete setup for OBS live streaming, including custom intros and outros. Development of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/press-release-launch-of-ecu-tv/",
          "pubDate" : "Wed, 16 Oct 2024 06:21:42",
          "title" : "Press Release: Launch of ECU TV "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Rose Atwell talks to Anastasiya Karlovich after defeating Zatonskih in Round 1 of the 2024 U.S. Women's Championship. 2024.10.11<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/atwell-shows-blitz-classical-no-harm-r1-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Atwell Shows Blitz Before Classical is No Harm | R1 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Paikidze in Round 1 of the 2024 U.S. Women's Championship. 2024.10.11<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim%E2%80%99s-secret-dad%E2%80%99s-good-cooking-r1-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Begim's Secret: Dad's Good Cooking? | R1 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. and U.S. Women's Championships, as of before Round 2. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-1-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L7SgCGhoN74.jpg?itok=ciTghLjR\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-1-r2-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Who is Likely to Win After Round 1? | R2 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasiya Karlovich acts as the interviewee and joins the show during Round 2 of the 2024 U.S. Chess Championships. 2024.10.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidde",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/karlovich-does-it-all-taking-photos-asking-questions-r2-uschesschamps",
-         "pubDate" : "Wed, 16 Oct 2024 03:53:10",
-         "title" : "Karlovich Does it All: Taking Photos & Asking Questions | R2 #USChessChamps"
       },
       {
          "description" : "This week's Wednesday Workout continues our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on rook endgames. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
