@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. Arjun Erigaisi and Maxime Vachier-Lagrave have reached the finals after knocking out tough opponents in previous rounds.. The participants play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
+         "description" : "The fifth round of the US Championships was overshadowed by a serious incident. After Christopher Yoo was defeated by Fabiano Caruana, he lost his nerve: he crumpled up his scoresheet and then stormed out of the tournament hall. In the process, he punched a videographer in the back. The organisers notified the police and Yoo was expelled from the tournament. His previous results were cancelled, including his defeat against Caruana. Nevertheless, Caruana is in the lead with 3 out of 4 points, ahead of Awonder Liang and Hans Niemann with 3 out of 5. In the women's tournament, Carissa Yip continued her winning streak and claimed her fifth victory in a row. | Photo: Screenshot from the Siant Lou",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
-         "pubDate" : "Thu, 17 Oct 2024 10:50:00",
-         "title" : "WR Chess Masters: live"
+         "link" : "https://en.chessbase.com/post/us-championships-2024-5",
+         "pubDate" : "Thu, 17 Oct 2024 16:00:00",
+         "title" : "US Championships: Yoo expelled after violating the code of conduct"
+      },
+      {
+         "description" : "We told you about the six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. The movie, due for broadcast today, and can also be viewed in full on the ARTE web site or on Youtube. As someone who experienced practically every minute of the drama in real life, back in 1985-86, I could track all the discrepancies. But on the whole the movie was well told and enjoyable.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arte-kasparov-vs-deep-blue-revisited",
+         "pubDate" : "Thu, 17 Oct 2024 15:10:00",
+         "title" : "ARTE: Kasparov vs Deep Blue revisited"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Goa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Panaji ,Goa on 07 &#38;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-in-panaji-goa-on-07-08-december-2024/",
+         "pubDate" : "Thu, 17 Oct 2024 15:09:49",
+         "title" : "Senior National Arbiters Seminar & Examination in Panaji ,Goa on 07 & 08 December 2024"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, The Haryana Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Karnal ,Haryana on 23",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-in-karnal-haryana-on-23-24-november-2024/",
+         "pubDate" : "Thu, 17 Oct 2024 15:07:15",
+         "title" : "Senior National Arbiters Seminar & Examination in Karnal ,Haryana on 23 & 24 November 2024"
+      },
+      {
+         "description" : " The US Chess Championships take place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Players: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Hans Moke Niemann, Ray Robson, Samuel Sevian, Sam Shankland, Awonder Liang, Grigoriy Oparin, Abhimanyu Mishra and Christopher Woojin Yoo, Women's: Carissa Yip, Irina Krush, Gulrukhbegim Tokhirjonova, Tatev Abrahamyan, Nazi Paikidze, Anna Zatonskih, Thalia Cervantes Landeiro, Atousa Pourkashiyan, Jennifer Yu, Megan Lee, Rose Atwell and Alice Lee. After his loss to Fabiano Caruana in Round 5 Christopher Yoo was involved in an incident which led to him being expelled from the tournament. More details are likely to emerge so I can't",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2024",
+         "pubDate" : "Thu, 17 Oct 2024 13:54:00",
+         "title" : "US Chess Championships 2024 - "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3266",
+         "pubDate" : "Thu, 17 Oct 2024 13:00:52",
+         "title" : "FIDE Fair Play Commission comments on the incident involving GM Kirill Shevchenko"
+      },
+      {
+         "description" : "I deplore GM Keith Arkell's deeply personal attack via Facebook on Nigel Povah, the ECF Seniors Manager. This arose following the Seniors Selection Committee's decision to give Keith the first...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-statement-world-seniors-prague-2025/",
+         "pubDate" : "Thu, 17 Oct 2024 12:53:51",
+         "title" : "ECF Statement World Seniors Prague 2025"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Official Statement From The Saint Louis Chess Club: <a href=\"https://x.com/STLChessClub/status/1846772429189693607\">https://x.com/STLChessClub/status/1846772429189693607</a> IM Kostya Kavutskiy recaps Round 5 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-mai",
@@ -63,7 +111,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-5",
          "pubDate" : "Thu, 17 Oct 2024 01:33:00",
-         "title" : "Yoo Expelled From U.S. Championship Due To Alleged \"Gross Violations\" Of Code Of Conduct"
+         "title" : "Yoo Expelled From U.S. Championship Due To \"Gross Violations\" Of Code Of Conduct"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Awonder Liang talks to Anastasiya Karlovich after defeating Mishra in Round 5 of the 2024 U.S. Chess Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
@@ -114,19 +162,11 @@ news_feed (
          "title" : "Arjun, Vachier-Lagrave In Final After Thrilling Wins Vs. Praggnanandhaa, Firouzja"
       },
       {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Wed, 16 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
-      },
-      {
          "description" : "IM Sagar Shah and IM Tania Sachdev (Check De India) defeated IM Levy Rozman and James Canty III (Team Swole) in the last quarterfinal match of the 2024 Team Chess Battle 2. After soundly unraveling the King&#39;s Indian Defense in game one, they lost ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qf-sagar-tania-win",
-         "pubDate" : "Wed, 16 Oct 2024 13:37:40",
+         "pubDate" : "Wed, 16 Oct 2024 13:37:00",
          "title" : "'Check De India' Win Armageddon Vs. 'Team Swole,' Will Face 'Oh Yes My Queen' In Semis"
       },
       {
@@ -488,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-1",
          "pubDate" : "Fri, 11 Oct 2024 20:35:00",
          "title" : "'Fischer Prize' Off The Table As U.S. Championship Gets Underway"
-      },
-      {
-         "description" : " The US Chess Championships take place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Players: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Hans Moke Niemann, Ray Robson, Samuel Sevian, Sam Shankland, Awonder Liang, Grigoriy Oparin, Abhimanyu Mishra and Christopher Woojin Yoo, Women's: Carissa Yip, Irina Krush, Gulrukhbegim Tokhirjonova, Tatev Abrahamyan, Nazi Paikidze, Anna Zatonskih, Thalia Cervantes Landeiro, Atousa Pourkashiyan, Jennifer Yu, Megan Lee, Rose Atwell and Alice Lee.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2024",
-         "pubDate" : "Fri, 11 Oct 2024 20:01:00",
-         "title" : "US Chess Championships 2024 - "
       },
       {
          "description" : "",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "50th National Championship for Women 2024"
       },
       {
-         "description" : "Please find certificates here No Name 1 Chandrajeet Singh Rajawat 2 Rohit Menaria 3 Monil Maroo 4 Dhruv Dak 5 Seema Sharma 6 Shreyas Hanamant",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-udaipur-on-21-22-september-2024/",
-         "pubDate" : "Sat, 05 Oct 2024 06:19:03",
-         "title" : "Certificates of SNA Seminar held in Udaipur on 21 & 22 September 2024"
-      },
-      {
          "description" : "A roundup of results from the second day of Global Chess League Season 2.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -912,14 +936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3243",
          "pubDate" : "Fri, 04 Oct 2024 19:06:25",
          "title" : "Global Chess League, Day 2: PBG Alaskan Knights take sole lead"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, Karnataka State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Patna on 23 &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-in-maddur-karnataka-on-23-24-november-2024/",
-         "pubDate" : "Fri, 04 Oct 2024 18:49:47",
-         "title" : "Senior National Arbiters Seminar & Examination in Maddur, Karnataka on 23 & 24 November 2024"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113947463.cms\" />Magnus Carlsen ran out of time in his match against Alireza Firouzja, leading to Triveni Continental Kings' thrashing of Alpine Sg Pipers 17-4 in the Global Chess League. Meanwhile, Viswanathan Anand lost to Maxime Vachier-Lagrave, and Anish Giri held Hikaru Nakamura to a draw, propelling PBG Alaskan Knights to the lead.",
@@ -1144,38 +1160,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html",
          "pubDate" : "Thu, 26 Sep 2024 15:38:00",
          "title" : "Historic Olympiad Yahoos"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3233",
-         "pubDate" : "Thu, 26 Sep 2024 12:55:58",
-         "title" : "FIDE Announces 2025 as the Year of Social Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3232",
-         "pubDate" : "Thu, 26 Sep 2024 12:14:05",
-         "title" : "Olympiad qualification spots for 2025 World Cup and Women's World Cup announced"
-      },
-      {
-         "description" : " The Jerusalem Masters and Open are rapid events took place Tue 24th to Wed 25th Sep 2024. Players in the Masters: Svidler, Dubov, Ivanchuk, Jorden Van Foreest, Eljanov, Rodshtein, Smirin, Postny, Boruchovsky and Gorshtein. Time control 15 minutes plus 5 seconds a move. Alongside was an open with exactly the same time control and round times. Peter Svidler sealed first place with a round to spare in the Masters, Daniil Dubov beat Svidler in the final round to take second place. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/jerusalem-masters-and-open-2024",
-         "pubDate" : "Thu, 26 Sep 2024 12:10:00",
-         "title" : "Jerusalem Masters and Open 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3231",
-         "pubDate" : "Thu, 26 Sep 2024 11:50:52",
-         "title" : "FIDE World Senior Team Championship 2025: Registration is open"
       }
    ]
 }
