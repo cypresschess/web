@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. Arjun Erigaisi and Maxime Vachier-Lagrave have reached the finals after knocking out tough opponents in previous rounds.. The participants play 2-game matches - the first game starts at 10:00 local time (5:00 ET) and the second game starts at 17:00 local time (12:00 ET). If necessary, Armageddon tiebreaks will follow at 22:00 local time (17:00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
+         "pubDate" : "Thu, 17 Oct 2024 10:50:00",
+         "title" : "WR Chess Masters: live"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Official Statement From The Saint Louis Chess Club: <a href=\"https://x.com/STLChessClub/status/1846772429189693607\">https://x.com/STLChessClub/status/1846772429189693607</a> IM Kostya Kavutskiy recaps Round 5 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-mai",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,6 +58,14 @@ news_feed (
          "title" : "WR Masters Cup: Arjun and MVL advance to the finals"
       },
       {
+         "description" : "The Saint Louis Chess Club has expelled GM Christopher Yoo from the 2024 U.S. Championship, saying in a statement after round five that the 17-year-old was guilty of &#34;gross violations&#34; of the event&#39;s &#34;Code of Conduct&#34; and the &#34;US Chess Safe Play P...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-5",
+         "pubDate" : "Thu, 17 Oct 2024 01:33:00",
+         "title" : "Yoo Expelled From U.S. Championship Due To Alleged \"Gross Violations\" Of Code Of Conduct"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Awonder Liang talks to Anastasiya Karlovich after defeating Mishra in Round 5 of the 2024 U.S. Chess Championship. 2024.10.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -90,20 +106,20 @@ news_feed (
          "title" : "Tatev: Shout Out to Irene Sukandar! | R5 #USChessChamps"
       },
       {
+         "description" : "GM Arjun Erigaisi is just one win away from crossing 2800 after winning the first game of his 2024 WR Chess Masters Cup Semifinal and then surviving a scare in the second when GM Praggnanandhaa Rameshbabu missed a win on his last move. Arjun now f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-wr-chess-masters-cup-round-sf",
+         "pubDate" : "Wed, 16 Oct 2024 23:15:00",
+         "title" : "Arjun, Vachier-Lagrave In Final After Thrilling Wins Vs. Praggnanandhaa, Firouzja"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
          "pubDate" : "Wed, 16 Oct 2024 20:00:00",
          "title" : "US Championships - Live!"
-      },
-      {
-         "description" : "From the 14th to the 18th of October, four of the best German talents (Marius Deuer, Leonardo Costa, Hussain Besou and Christian Gl&ouml;ckler) who are supported by the WEISSENHAUS Chess Academy, will have the opportunity to compete against experienced players (Pavel Eljanov, P. Sethuruman, Christian Bauer, Sune Berg Hansen, Kaido Kualots and Benedict Krause) at the WEISSENHAUS Young Masters. After four rounds, Sethuraman leads with 3.5/4, followed by Deuer with 2.5/4. Round 5 starts at 16:00 CEST (4:00 ET). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-young-masters-live",
-         "pubDate" : "Wed, 16 Oct 2024 15:15:00",
-         "title" : "WEISSENHAUS Young Masters: Live"
       },
       {
          "description" : "IM Sagar Shah and IM Tania Sachdev (Check De India) defeated IM Levy Rozman and James Canty III (Team Swole) in the last quarterfinal match of the 2024 Team Chess Battle 2. After soundly unraveling the King&#39;s Indian Defense in game one, they lost ...",
@@ -666,14 +682,6 @@ news_feed (
          "title" : "Titled Tuesday Starts Quiet Early, Goes Crazy Late"
       },
       {
-         "description" : "48-year-old CM Demis Hassabis, a former child chess prodigy and the founder of DeepMind, the company that revolutionized computer chess, has won the 2024 Nobel Prize For Chemistry. He shared half the 11m Swedish kronor ($1.06m) prize with Professo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/demis-hassabis-nobel-prize-chemistry",
-         "pubDate" : "Wed, 09 Oct 2024 07:55:01",
-         "title" : "AlphaZero Creator Demis Hassabis Wins Nobel Prize For Chemistry"
-      },
-      {
          "description" : "Shreyas Royal (above left), aged just 15, is now officially England's 41st grandmaster and the youngest ever to achieve the title. Congratulations, Shreyas! In addition, FIDE have also awarded the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/10/october-1974-1999-on-cover.html",
          "pubDate" : "Tue, 08 Oct 2024 15:36:00",
          "title" : "October 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "GM Anish Giri scored his first win on Tuesday to lead the PBG Alaskan Knights to their sixth win in seven matches as the team is on the brink of securing a spot in Saturday&#39;s final of the Tech Mahindra Global Chess League. It was a strange day tha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-6",
-         "pubDate" : "Tue, 08 Oct 2024 13:09:00",
-         "title" : "PBG Alaskan Knights Close To Reaching Final After Day Of Blunders"
       },
       {
          "description" : "A roundup of results from the fifth day of the Global Chess League Season 2.",
@@ -1176,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3231",
          "pubDate" : "Thu, 26 Sep 2024 11:50:52",
          "title" : "FIDE World Senior Team Championship 2025: Registration is open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113701561.cms\" />The Chess Olympiad 2024 in Budapest saw an unexpected moment when Pakistani chess team members were seen posing with the Indian flag during a post-tournament photo session. The video quickly went viral, sparking conversations about how chess can foster peaceful relations. India's men's and women's teams both secured top positions in the event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-pakistan-team-holds-indian-flag-during-chess-olympiad-2024/articleshow/113701561.cms",
-         "pubDate" : "Thu, 26 Sep 2024 11:27:07",
-         "title" : "Viral Video: Pak team holds Indian flag during Chess Olympiad"
       }
    ]
 }
