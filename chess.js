@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-8",
+         "pubDate" : "Fri, 18 Oct 2024 21:54:34",
+         "title" : "2024 U.S. Chess Championships: Round 8"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,20 @@ news_feed (
          "title" : "Two knights talk: Arne K&auml;hler and Johannes Fischer discuss current chess events"
       },
       {
-         "description" : "Round 6 of the US Championships saw Fabiano Caruana continuing his dominant form, securing another win to remain as sole leader in the open section. Meanwhile, Carissa Yip extended her perfect streak in the women's event, collecting her sixth consecutive victory to solidify her commanding lead. Shocking details emerged regarding Christopher Yoo's assault on a videographer, leading to his temporary suspension by the US Chess Federation. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-6",
-         "pubDate" : "Fri, 18 Oct 2024 15:30:00",
-         "title" : "US Championships: Yip on a perfect 6 out of 6!"
+         "description" : "GM Pepe Cuenca and IM David Martinez, also known as the Ratata Spanish Squad, defeated IM Eric Rosen and WGM Nemo Zhou (Oh Yes My Queen) 1.5-0.5 in the 2024 Team Chess Battle 2 Final. They earn $3,500 and bragging rights, while the runner-up team ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-final-cuenca-martinez-win",
+         "pubDate" : "Fri, 18 Oct 2024 16:11:05",
+         "title" : "Undefeated Ratata Spanish Squad Win Team Chess Battle 2"
+      },
+      {
+         "description" : "FM Luis Chan, who has been playing the variant since its inception, is your winner of the 2024 Chess.com Fog Of War Chess Championship. Chan survived a Grand Final Reset forced by FM Yihe Fu: After dropping the first match of the Finals in the dou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-fog-of-war-chess-championship-knockout-chan-wins",
+         "pubDate" : "Fri, 18 Oct 2024 15:35:37",
+         "title" : "O.G. Of Fog Of War FM Chan Wins Community Championship"
       },
       {
          "description" : "Chess.com is excited to announce that over 60,000 people have participated in the historic Vishy vs. The World vote chess match. This surpasses the number of participants in the legendary 1999 Kasparov vs. The World match. The new record highlight...",
@@ -130,6 +146,22 @@ news_feed (
          "title" : "Caruana & Carissa Win Yet Again! | Round 6 RECAP | #USChessChamps"
       },
       {
+         "description" : "The family of Christopher Yoo released a statement Friday after the grandmaster was expelled from the U.S. Championships in St. Louis. A Statement About What Happened on Wednesday in the US Championship from Christopher Yoo's ParentsFirst and foremost, Christopher wants to publicly apologize to the female videographer that was an innocent victim of his anger after his loss of a chess game. Contrary to what some have suggested, the videographer did nothing to provoke Christopher. We heard she's doing okay but we don't have any details and we pray she is doing well both physically and emotionally. Her well-being is of deep concern to all of us.Christopher offers no excuses for his behavior. He",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/yoo-family-releases-statement-after-us-championship-expulsion",
+         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
+         "title" : "Yoo Family Releases Statement after U.S. Championship Expulsion"
+      },
+      {
+         "description" : "Registration is now open for the 2022 North American Youth Chess Championship, which will be held December 18-23 at the Washington Dulles Airport Marriott --- Dulles, Virginia (USA).The age categories for the 2024 North American Youth are Under 8, Under 10, Under 12, Under 14, Under 16, and Under 18. Each category has an Open and Girls section. For this tournament, a player's age is his or her age as of Jan. 1, 2024. This event is open to players from Canada, Mexico, and the United States.Each section is a 9-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins December 18. There will also be a Blitz tournament on December 19.Medals, as ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-north-american-youth-championship-announced",
+         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
+         "title" : "2024 North American Youth Championship Announced"
+      },
+      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> For National Chess Week, at least 49 tournaments were held across the country, consisting of 2,979 players and tens of thousands of rated games. This is only including tournaments that were submitted with \"National Chess Day,\" \"National Chess Week,\" \"NCD,\" or \"NCW\" as part of the tournament name. If you organized one of these tournaments - or any non-rated chess festivities - we want to hear from you! Email John Hartmann with any photos or information if you are interested in having your event included in future magazine spreads on National Chess Day. This page will also be updated with photos from National Chess Day ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-5-r6-uschesschamps",
          "pubDate" : "Thu, 17 Oct 2024 21:53:56",
          "title" : "Who is Likely to Win After Round 5? | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 6. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-do-us-women-prepare-important-tournaments-uschesschamps",
-         "pubDate" : "Thu, 17 Oct 2024 21:53:56",
-         "title" : "How do U.S. Women Prepare for Important Tournaments? | #USChessChamps"
       },
       {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. Arjun Erigaisi and Maxime Vachier-Lagrave have reached the finals after knocking out tough opponents in previous rounds. The participants play 2-game matches - and as both games ended in a draw, an Armageddon game will decide the tournament.",
@@ -602,14 +626,6 @@ news_feed (
          "title" : "Somalia's Chess Olympiad Visa Nightmare"
       },
       {
-         "description" : "On the eve of National Chess Day, the 2024 U.S. Championship and U.S. Women's Championship kicked off at the Saint Louis Chess Club (SLCC) with two sets of ultra-competitive fields. The Open event got off to a cautious start, with nobody wanting to begin the 11-round competition with a loss, while the Women's event saw players take more chances. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Tokhirjonova won seven games in 2023. Can the top board from the American Olympiad squad beat that score this year? She's on track, as Dr. Jeanne Cairns Sinquefield rings the opening bell. (All photos courtesy Lennart Ootes/SLCC)<br> <br> Will we see more fireworks f",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-us-championships-round-one-no-fischer-prizes-open-womens-favorites-jump-out-quick-lead",
-         "pubDate" : "Sat, 12 Oct 2024 00:00:00",
-         "title" : "2024 U.S. Championships Round One: No Fischer Prizes in the Open, Women's Favorites Jump Out to Quick Lead"
-      },
-      {
          "description" : "On Friday, all eyes were on the decisive clash between Alpine Sg Pipers and Triveni Continental Kings for a place in the final.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -714,22 +730,6 @@ news_feed (
          "title" : "European Rapid and Blitz Chess Championships 2024 - Official regulations"
       },
       {
-         "description" : "After they led for most of the event, it was unsurprising to see the PBG Alaskan Knights become the first team to secure a spot in Saturday&#39;s final of the Tech Mahindra Global Chess League. The Knights defeated the Triveni Continental Kings, who n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-8",
-         "pubDate" : "Thu, 10 Oct 2024 13:42:00",
-         "title" : "PBG Alaskan Knights Secure Spot In Global Chess League Final"
-      },
-      {
-         "description" : "GM Pepe Cuenca and IM David Martinez (&#34;Ratata Spanish Squad&#34;) defeated IM Kostya Kavutskiy and IM David Pruess (&#34;ChessDojo&#34;) 2-0 in the third quarterfinal match of the 2024 Team Chess Battle 2. They slew the King&#39;s Indian Defense with a slow squee...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qfs-cuenca-martinez-win",
-         "pubDate" : "Thu, 10 Oct 2024 12:32:00",
-         "title" : "Ratata Spanish Squad Outclass ChessDojo, Progress To Semifinal Match Vs. Cramlings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-sna-held-in-karaikudi-on-21-22-september-2024/",
          "pubDate" : "Thu, 10 Oct 2024 00:36:58",
          "title" : "Certificates of SNA held in Karaikudi on 21 & 22 September 2024"
-      },
-      {
-         "description" : "Octobers in St. Louis are all about championships, even during years when the Cardinals do not make the postseason. As has become an autumnal tradition over the past two decades, the 2024 U.S. Championship and U.S. Women's Championship begin Friday, October 11, in St. Louis, with GM Fabiano Caruana and IM Carissa Yip each looking to defend their 2023 titles. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Each event will consist of a 12-player, 11-round Round Robin tournament from October 11 through 23, with playoffs (if needed) on Friday, October 24th. Games begin daily ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-us-championship-and-us-womens-championship-preview",
-         "pubDate" : "Thu, 10 Oct 2024 00:00:00",
-         "title" : "2024 U.S. Championship and U.S. Women's Championship Preview"
       },
       {
          "description" : "",
