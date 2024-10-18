@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Training tactics can be fun, but how do you use your own suite of positions and solutions to train in ChessBase? Your questions will be answered in this quick and easy lesson on video demonstrated by using the Encyclopedia of Chess Combinations. However, you can create your own as well and then use the method described. Enjoy this bite-sized tutorial!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-training-with-your-own-tactics-suite-video",
+         "pubDate" : "Fri, 18 Oct 2024 08:38:08",
+         "title" : "ChessBase in Minutes: Training with your own tactics suite (video)"
+      },
+      {
+         "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the Birmingham 37-year-old shared first prize with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant fo",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/oct/18/chess-england-gains-new-grandmaster-as-ameet-ghasi-qualifies-at-age-37",
+         "pubDate" : "Fri, 18 Oct 2024 07:00:18",
+         "title" : "Chess: England gains new grandmaster as Ameet Ghasi qualifies at age 37"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 6. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "How do U.S. Women Prepare for Important Tournaments? | #USChessChamps"
       },
       {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
@@ -1112,30 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3235",
          "pubDate" : "Fri, 27 Sep 2024 10:45:21",
          "title" : "FIDE100 Art Contest: Celebrating chess through creativity"
-      },
-      {
-         "description" : " India won the Open and Women's Olympiads in Budapest, while for the first time in history no European team reached the podium in either event India's domination of the 188-team Budapest Olympiad was complete. Their winning Open score of 21/22 was a record, they finished four points clear of the chasing pack, while their four individual golds included a 3000+ rating performance by Gukesh Dommaraju, 18, who challenges for the world crown in November. It was a seminal moment in chess history, comparable to the 1945 USA v USSR radio match when the Americans, quadruple Olympiad gold winners in the 1930s, were <a href=\"https://www.chessgames.com/perl/chess.pl?tid=82306&amp;result=1-0at\">crushed 1",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/sep/27/chess-india-win-double-gold-as-new-generation-dominates-at-olympiad",
-         "pubDate" : "Fri, 27 Sep 2024 07:00:06",
-         "title" : "Chess: India win double gold as new generation dominates at Olympiad"
-      },
-      {
-         "description" : "European Chess Union presents the new Media Guide, concerning the live coverage on major European Chess Championships. The ECU Media Guide was approved by the ECU General Assembly 2024 in Budapest, Hungary, and was added to the ECU Rulebook. ECU Media Guide contains media standards for the ECU tournaments and defines guidelines for the organisers for the live and press coverage of the European Chess Championships. The Media Guide also contains detailed information about press accreditations at the ECU tournaments, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-media-guide/",
-         "pubDate" : "Fri, 27 Sep 2024 06:54:19",
-         "title" : "ECU Media Guide"
-      },
-      {
-         "description" : "Chess is a brilliant sport, and after years of dormancy (and looking up at one man's greatness in wonder and awe), India's waking up to it again.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41451992/india-chess-boom-right-moves-game-grow-board-viswanathan-anand-arjun-erigaisi-anish-giri?device=featurephone",
-         "pubDate" : "Fri, 27 Sep 2024 04:19:54",
-         "title" : "India's chess boom: With the right moves, game can grow across the board"
       }
    ]
 }
