@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 6. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paikidze-doing-commentary-learned-so-much-uschesschamps",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "Paikidze on Doing Commentary: Learned So Much! | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Anastasiya Karlovich after defeating Atwell in Round 6 of the 2024 U.S. Women's Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-hard-not-be-happy-2-row-r6-uschesschamps",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "Krush: Hard Not to Be Happy with 2 in a Row! | R6 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-7",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "2024 U.S. Chess Championships: Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Anastasiya Karlovich after defeating Robson in Round 6 of the 2024 U.S. Chess Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shankland-after-blunders-%E2%80%98i-can-still-come-back%E2%80%99-r6-uschesschamps",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "Shankland After Blunders: 'I Can Still Come Back' | R6 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Anastasiya Karlovich after defeating Jennifer Yu in Round 6 of the 2024 U.S. Women's Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-wants-qualify-world-cup-r6-uschesschamps",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "Alice Lee Wants to Qualify for the World Cup! | R6 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Cervantes in Round 6 of the 2024 U.S. Women's Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-avoids-draws-yet-avoids-collapse-r6-uschesschamps",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "Begim Avoids Draws, Yet Avoids Collapse | R6 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich after defeating Abrahamyan in Round 6 of the 2024 U.S. Women's Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-us-women%E2%80%99s-just-one-step-grandmaster-r6-uschesschamps",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "Carissa: U.S. Women's is Just One Step to Grandmaster | R6 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 6 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-carissa-win-yet-again-round-6-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-carissa-win-yet-again-round-6-recap-uschesschamps",
+         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
+         "title" : "Caruana & Carissa Win Yet Again! | Round 6 RECAP | #USChessChamps"
+      },
+      {
          "description" : "Arjun Erigaisi won the WR Chess Masters Cup after defeating Maxime Vachier-Lagrave in Armageddon. Arjun, who won each of his earlier matches in classical chess, faced MVL, who had reached the final exclusively through Armageddon victories. After two drawn classical games, Arjun kept his composure under time pressure and won with black in the tiebreaker, securing the championship in a hard-fought contest. | Photo: ChessBase India / Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,44 +90,12 @@ news_feed (
          "title" : "How do U.S. Women Prepare for Important Tournaments? | #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Registrar Nicole Tessmer joins the show during Round 6 of the 2024 U.S. Chess Championships. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wchof%E2%80%99s-tessmer-if-it%E2%80%99s-artifact-i%E2%80%99m-charge-r6-uschesschamps",
-         "pubDate" : "Thu, 17 Oct 2024 21:53:56",
-         "title" : "WCHOF's Tessmer: If It's an Artifact, I'm in Charge! | R6 #USChessChamps"
-      },
-      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while Irina Krush and defending champion Carissa Yip are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
          "pubDate" : "Thu, 17 Oct 2024 20:00:00",
          "title" : "US Championships - Live!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 5 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Official Statement From The Saint Louis Chess Club: <a href=\"https://x.com/STLChessClub/status/1846772429189693607\">https://x.com/STLChessClub/status/1846772429189693607</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-maintains-lead-yip-fire-round-5-recap-uschesschamps",
-         "pubDate" : "Thu, 17 Oct 2024 18:53:55",
-         "title" : "Caruana Maintains Lead, Yip On Fire | Round 5 RECAP | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's most unpredictable tournament is back! Chess 9LX makes its return to Saint Louis. From October 28-30, ten players (listed below) compete for a $150,000 prize fund. With the bank rank pieces scrambled, even the world's best don't know what's coming! The action begins October 27 with the Ultimate Moves team event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-ultimate-moves-promo\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-ultimate-moves-promo",
-         "pubDate" : "Thu, 17 Oct 2024 18:53:55",
-         "title" : "2024 Chess 9LX & Ultimate Moves | PROMO"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan opens the program to read the Saint Louis Chess Club's Official Statement regarding Christopher Yoo's actions from the previous day. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-expelled-tournament-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qFEBoGRzMNE.jpg?itok=m06m5Kxb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-expelled-tournament-r6-uschesschamps",
-         "pubDate" : "Thu, 17 Oct 2024 18:53:55",
-         "title" : "Christopher Yoo Expelled from Tournament | R6 #USChessChamps"
       },
       {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. Arjun Erigaisi and Maxime Vachier-Lagrave have reached the finals after knocking out tough opponents in previous rounds. The participants play 2-game matches - and as both games ended in a draw, an Armageddon game will decide the tournament.",
@@ -74,20 +106,12 @@ news_feed (
          "title" : "WR Chess Masters: live"
       },
       {
-         "description" : "The fifth round of the US Championships was overshadowed by a serious incident. After Christopher Yoo was defeated by Fabiano Caruana, he lost his nerve: he crumpled up his scoresheet and then stormed out of the tournament hall. In the process, he punched a videographer in the back. The organisers notified the police and Yoo was expelled from the tournament. His previous results were cancelled, including his defeat against Caruana. Nevertheless, Caruana is in the lead with 3 out of 4 points, ahead of Awonder Liang and Hans Niemann with 3 out of 5. In the women's tournament, Carissa Yip continued her winning streak and claimed her fifth victory in a row. | Photo: Screenshot from the Siant Lou",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-5",
-         "pubDate" : "Thu, 17 Oct 2024 16:00:00",
-         "title" : "US Championships: Yoo expelled after violating the code of conduct"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament! You can see all the action as it unfolds live @STLChessClub from October 27th through 30th!<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-promo",
-         "pubDate" : "Thu, 17 Oct 2024 15:53:42",
-         "title" : "2024 Chess 9LX | PROMO"
+         "description" : "GM Arjun Erigaisi defeated Maxime Vachier-Lagrave in armageddon to win the 2024 WR Chess Masters Cup, picking up the &#38;euro;20,000 top prize and 27.84 FIDE Circuit points. The one thing he missed out on was crossing 2800 for the first time, after h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-2024-wr-chess-masters-cup-round",
+         "pubDate" : "Thu, 17 Oct 2024 17:45:34",
+         "title" : "Arjun Erigaisi Wins WR Chess Masters Cup But Misses Out On 2800"
       },
       {
          "description" : "We told you about the six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. The movie, due for broadcast today, and can also be viewed in full on the ARTE web site or on Youtube. As someone who experienced practically every minute of the drama in real life, back in 1985-86, I could track all the discrepancies. But on the whole the movie was well told and enjoyable.",
@@ -144,30 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-sf-rosen-nemo-win",
          "pubDate" : "Thu, 17 Oct 2024 12:27:00",
          "title" : "'Oh Yes My Queen' Sweep 'Check De India' 2-0, Progress To Final Vs. 'Ratata Spanish Squad'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Official Statement From The Saint Louis Chess Club: <a href=\"https://x.com/STLChessClub/status/1846772429189693607\">https://x.com/STLChessClub/status/1846772429189693607</a> IM Kostya Kavutskiy recaps Round 5 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-mai",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-maintains-lead-yip-fire-recap-2024-us-chess-championships-round-5",
-         "pubDate" : "Thu, 17 Oct 2024 06:53:35",
-         "title" : "Caruana Maintains Lead, Yip On Fire | RECAP | 2024 U.S. Chess Championships: Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Abhimanyu Mishra fixes one of the key issues in the French, but creates another issue against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishras-troubled-french-uschesschamps-chess-chessopenings-education-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9MMOLmFd-KY.jpg?itok=9ynQeeA-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishras-troubled-french-uschesschamps-chess-chessopenings-education-chesscom",
-         "pubDate" : "Thu, 17 Oct 2024 03:53:26",
-         "title" : "Mishra's Troubled French #uschesschamps #chess #chessopenings #education #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Caruana goes from highly favored position against Levon, and finds a way to crumble it away to a draw </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/100-winning-wth-uschesschamps-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cqc7DMFSleU.jpg?itok=18640fIe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/100-winning-wth-uschesschamps-chess-chesstactics-chessstrategy-chesscom",
-         "pubDate" : "Thu, 17 Oct 2024 03:53:26",
-         "title" : "From 100% Winning to WTH! #uschesschamps #chess #chesstactics #chessstrategy #chesscom"
       },
       {
          "description" : "The Saint Louis Chess Club has expelled GM Christopher Yoo from the 2024 U.S. Championship, saying in a statement after round five that the 17-year-old was guilty of &#34;gross violations&#34; of the event&#39;s &#34;Code of Conduct&#34; and the &#34;US Chess Safe Play P...",
@@ -730,14 +730,6 @@ news_feed (
          "title" : "Team 'Oh Yes My Queen' Wins With Queen Trap Vs. 'Dandinavian,' Advance To Semifinals"
       },
       {
-         "description" : "A week into the Tech Mahindra Global Chess League, only three teams still have a chance to reach one of the two much-coveted spots in Saturday&#39;s final. On Wednesday, the PBG Alaskan Knights lost their second match but are still three points ahead ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Wed, 09 Oct 2024 11:26:00",
-         "title" : "3 Teams Left In Fight For 2 Global Chess League Final Spots"
-      },
-      {
          "description" : "Shreyas Royal (above left), aged just 15, is now officially England's 41st grandmaster and the youngest ever to achieve the title. Congratulations, Shreyas! In addition, FIDE have also awarded the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1144,14 +1136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41451992/india-chess-boom-right-moves-game-grow-board-viswanathan-anand-arjun-erigaisi-anish-giri?device=featurephone",
          "pubDate" : "Fri, 27 Sep 2024 04:19:54",
          "title" : "India's chess boom: With the right moves, game can grow across the board"
-      },
-      {
-         "description" : " 2024 Chess Olympiad: Round 11Sunday, 23 September 2024 India wins double gold! Viswanathan Anand presenting the Gaprindashvili Award to India for combined performance. Both teams had already received their gold medals. Photo by Maria Emelianova Open The 2024 Chess Olympiad in Budapest ended with a bang as India completed its &#8220;adoption&#8221; of the opposition, winning The post <a href=\"https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/\">2024 Chess Olympiad: Round 11</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/26/2024-chess-olympiad-round-11/",
-         "pubDate" : "Fri, 27 Sep 2024 01:29:21",
-         "title" : "2024 Chess Olympiad: Round 11"
       }
    ]
 }
