@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Fri, 18 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "Two Knights Talk is the title of a new ChessBase show in which Arne K&auml;hler and Johannes Fischer chat about current and past chess events. In the first episode they talked about Christopher Yoo, good and bad losers, mental training in chess, the US Championship, Awonder Liang, Irina Krush, Carissa Yip and US record champion Bobby Fischer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "US Championships: Yip on a perfect 6 out of 6!"
       },
       {
+         "description" : "Chess.com is excited to announce that over 60,000 people have participated in the historic Vishy vs. The World vote chess match. This surpasses the number of participants in the legendary 1999 Kasparov vs. The World match. The new record highlight...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vishy-vs-the-world-record",
+         "pubDate" : "Fri, 18 Oct 2024 09:45:03",
+         "title" : "Chess.com Community And Viswanathan Anand Breaks Record In The Largest Chess Game Ever Played"
+      },
+      {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Club Cup will take place from 19-27 October in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes until the end of the game with an increment of 30 seconds per move, starting from move one. The teams in the Open section will be composed of 6 players + 2 reserve players, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,7 +42,15 @@ news_feed (
          "title" : "European Chess Club Cup 2024 starts in Vrnjacka Banja, Serbia"
       },
       {
-         "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the Birmingham 37-year-old shared first prize with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant fo",
+         "description" : "Two international masters, including last month&#39;s Chess.com Community Champion in Duck Chess, IM Nhat Minh To, and four FIDE masters were among those to qualify for the Finals of the Chess.com Fog Of War Chess Championship 2024, after the series o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-fog-of-war-chess-championship-qualifiers",
+         "pubDate" : "Fri, 18 Oct 2024 08:53:13",
+         "title" : "Chess.com Community Championships Could See Repeat Winner"
+      },
+      {
+         "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham shared first prize with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport gra",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/oct/18/chess-england-gains-new-grandmaster-as-ameet-ghasi-qualifies-at-age-37",
@@ -104,6 +128,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-carissa-win-yet-again-round-6-recap-uschesschamps",
          "pubDate" : "Fri, 18 Oct 2024 00:53:58",
          "title" : "Caruana & Carissa Win Yet Again! | Round 6 RECAP | #USChessChamps"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> For National Chess Week, at least 49 tournaments were held across the country, consisting of 2,979 players and tens of thousands of rated games. This is only including tournaments that were submitted with \"National Chess Day,\" \"National Chess Week,\" \"NCD,\" or \"NCW\" as part of the tournament name. If you organized one of these tournaments - or any non-rated chess festivities - we want to hear from you! Email John Hartmann with any photos or information if you are interested in having your event included in future magazine spreads on National Chess Day. This page will also be updated with photos from National Chess Day ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-chess-week-rewind-national-recognition-olympiad-teams-and-more",
+         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
+         "title" : "National Chess Week Rewind: National Recognition for Olympiad Teams and More"
       },
       {
          "description" : "Most major sports competitions go all-out for glamorous halftime shows full of bright lights and music reverberating throughout the stadium. Fittingly, Thursday's sixth round (of eleven) was its own halftime show of sorts. While it was the competitors themselves putting on the performance, there was plenty of dazzling chess to entertain us viewers. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Lennart Ootes/SLCC<br> <br> So, unravel that chessboard, grab a snack, and set those mental cogs into motion, as round six o",
@@ -698,22 +730,6 @@ news_feed (
          "title" : "Ratata Spanish Squad Outclass ChessDojo, Progress To Semifinal Match Vs. Cramlings"
       },
       {
-         "description" : "It&#39;s the spookiest month of the year, and with it comes the scariest event of the Chess.com Community Championships. Mark your calendars, for the Chess.com Fog of War Chess Championship is coming! The event happens on October 17 and 18 and will tr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-fog-of-war-chess-championship-2024",
-         "pubDate" : "Thu, 10 Oct 2024 07:00:00",
-         "title" : "Embrace The Darkness! Get Ready For The Chess.com Fog Of War Chess Championship"
-      },
-      {
-         "description" : "Chess.com has announced an agreement with the founders of Silver Knights Chess, Adam and Daniel Weissbarth, to transition Magnus Chess Academy to them. The deal will see one of the leading scholastic chess coaching providers in the U.S. rebrande...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-chess-academy-operations-to-transition-back-silver-knights-chess",
-         "pubDate" : "Thu, 10 Oct 2024 06:38:46",
-         "title" : "Magnus Chess Academy Operations To Transition Back To Its Original Founders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/gm-shreyas-royal-and-im-aaravamudhan-balaji/",
          "pubDate" : "Wed, 09 Oct 2024 06:53:15",
          "title" : "GM Shreyas Royal and IM Aaravamudhan Balaji!"
-      },
-      {
-         "description" : "<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce the recipients of the 2024-2025 Herbert B. Jacklyn Program. The winners, their hometowns, and colleges/universities they are attending are:Ajay Subramanian, Solon, OH, attending Babson College, Wellesley, MAKevin Flores, Palmview, TX, attending the University of Texas Rio Grande Valley, Edinburg, TXAlex Zhang, Brooklyn, NY, attending Brandeis University, Waltham, MAJessica Lee, Mountain Lakes, N",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-herbert-b-jacklyn-program-recipients-announced",
-         "pubDate" : "Wed, 09 Oct 2024 00:00:00",
-         "title" : "2024 Herbert B. Jacklyn Program Recipients Announced"
       },
       {
          "description" : "A roundup of results from the sixth day of the Global Chess League Season 2.",
