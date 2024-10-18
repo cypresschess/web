@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 39th European Chess Club Cup and the 28th European Women's Club Cup will take place from 19-27 October in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes until the end of the game with an increment of 30 seconds per move, starting from move one. The teams in the Open section will be composed of 6 players + 2 reserve players, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2024-starts-in-vrnjacka-banja-serbia/",
+         "pubDate" : "Fri, 18 Oct 2024 09:10:19",
+         "title" : "European Chess Club Cup 2024 starts in Vrnjacka Banja, Serbia"
+      },
+      {
          "description" : "Training tactics can be fun, but how do you use your own suite of positions and solutions to train in ChessBase? Your questions will be answered in this quick and easy lesson on video demonstrated by using the Encyclopedia of Chess Combinations. However, you can create your own as well and then use the method described. Enjoy this bite-sized tutorial!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/18/chess-england-gains-new-grandmaster-as-ameet-ghasi-qualifies-at-age-37",
          "pubDate" : "Fri, 18 Oct 2024 07:00:18",
          "title" : "Chess: England gains new grandmaster as Ameet Ghasi qualifies at age 37"
+      },
+      {
+         "description" : "Undeterred by his win in the previous round not being counted for the tournament score, top-seed and defending champion GM Fabiano Caruana jumped into the sole lead in the 2024 U.S. Championship with 4/5. He defeated GM Grigoriy Oparin in an impre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-6",
+         "pubDate" : "Fri, 18 Oct 2024 01:22:00",
+         "title" : "Yoo Temporarily Suspended By US Chess And Charged By Police; Caruana, Yip Lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 6. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
@@ -126,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-2024-wr-chess-masters-cup-round",
-         "pubDate" : "Thu, 17 Oct 2024 17:45:34",
+         "pubDate" : "Thu, 17 Oct 2024 17:45:00",
          "title" : "Arjun Erigaisi Wins WR Chess Masters Cup But Misses Out On 2800"
       },
       {
@@ -738,14 +754,6 @@ news_feed (
          "title" : "Global Chess League, Day 7: Mumba Masters stop PBG, Triveni and Sg Pipers close in"
       },
       {
-         "description" : "Team &#34;Oh Yes My Queen,&#34; IM Eric Rosen and WGM Nemo Zhou, won their 2024 Team Chess Battle 2 quarterfinal match 2-0 against Team &#39;Dandinavian,&#39; IM Danny Rensch and IM John Bartholomew. Although Chess.com&#39;s Chief Chess Officer blamed the outcome on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qfs-rosen-zhou-win",
-         "pubDate" : "Wed, 09 Oct 2024 12:23:00",
-         "title" : "Team 'Oh Yes My Queen' Wins With Queen Trap Vs. 'Dandinavian,' Advance To Semifinals"
-      },
-      {
          "description" : "Shreyas Royal (above left), aged just 15, is now officially England's 41st grandmaster and the youngest ever to achieve the title. Congratulations, Shreyas! In addition, FIDE have also awarded the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/27/derrick-rose-retires-chess-next/",
          "pubDate" : "Fri, 27 Sep 2024 23:44:16",
          "title" : "Derrick Rose retires&hellip; chess next?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3235",
-         "pubDate" : "Fri, 27 Sep 2024 10:45:21",
-         "title" : "FIDE100 Art Contest: Celebrating chess through creativity"
       }
    ]
 }
