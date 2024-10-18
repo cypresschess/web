@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two Knights Talk is the title of a new ChessBase show in which Arne K&auml;hler and Johannes Fischer chat about current and past chess events. In the first episode they talked about Christopher Yoo, good and bad losers, mental training in chess, the US Championship, Awonder Liang, Irina Krush, Carissa Yip and US record champion Bobby Fischer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-arne-kaehler-and-johannes-fischer-discuss-current-chess-events",
+         "pubDate" : "Fri, 18 Oct 2024 17:21:24",
+         "title" : "Two knights talk: Arne K&auml;hler and Johannes Fischer discuss current chess events"
+      },
+      {
+         "description" : "Round 6 of the US Championships saw Fabiano Caruana continuing his dominant form, securing another win to remain as sole leader in the open section. Meanwhile, Carissa Yip extended her perfect streak in the women's event, collecting her sixth consecutive victory to solidify her commanding lead. Shocking details emerged regarding Christopher Yoo's assault on a videographer, leading to his temporary suspension by the US Chess Federation. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-6",
+         "pubDate" : "Fri, 18 Oct 2024 15:30:00",
+         "title" : "US Championships: Yip on a perfect 6 out of 6!"
+      },
+      {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Club Cup will take place from 19-27 October in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes until the end of the game with an increment of 30 seconds per move, starting from move one. The teams in the Open section will be composed of 6 players + 2 reserve players, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-chess-club-cup-2024-starts-in-vrnjacka-banja-serbia/",
          "pubDate" : "Fri, 18 Oct 2024 09:10:19",
          "title" : "European Chess Club Cup 2024 starts in Vrnjacka Banja, Serbia"
-      },
-      {
-         "description" : "Training tactics can be fun, but how do you use your own suite of positions and solutions to train in ChessBase? Your questions will be answered in this quick and easy lesson on video demonstrated by using the Encyclopedia of Chess Combinations. However, you can create your own as well and then use the method described. Enjoy this bite-sized tutorial!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-training-with-your-own-tactics-suite-video",
-         "pubDate" : "Fri, 18 Oct 2024 08:38:08",
-         "title" : "ChessBase in Minutes: Training with your own tactics suite (video)"
       },
       {
          "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the Birmingham 37-year-old shared first prize with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant fo",
@@ -98,12 +106,12 @@ news_feed (
          "title" : "Caruana & Carissa Win Yet Again! | Round 6 RECAP | #USChessChamps"
       },
       {
-         "description" : "Arjun Erigaisi won the WR Chess Masters Cup after defeating Maxime Vachier-Lagrave in Armageddon. Arjun, who won each of his earlier matches in classical chess, faced MVL, who had reached the final exclusively through Armageddon victories. After two drawn classical games, Arjun kept his composure under time pressure and won with black in the tiebreaker, securing the championship in a hard-fought contest. | Photo: ChessBase India / Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-masters-cup-2024-d4",
-         "pubDate" : "Fri, 18 Oct 2024 00:40:00",
-         "title" : "Arjun beats MVL in Armageddon, wins WR Chess Masters Cup"
+         "description" : "Most major sports competitions go all-out for glamorous halftime shows full of bright lights and music reverberating throughout the stadium. Fittingly, Thursday's sixth round (of eleven) was its own halftime show of sorts. While it was the competitors themselves putting on the performance, there was plenty of dazzling chess to entertain us viewers. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Lennart Ootes/SLCC<br> <br> So, unravel that chessboard, grab a snack, and set those mental cogs into motion, as round six o",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/halftime-fireworks-yip-caruana-extend-us-champs-leads",
+         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
+         "title" : "Halftime Fireworks as Yip, Caruana Extend U.S. Champs Leads"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. and U.S. Women's Championships, as of before Round 6. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-5-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wRBF3U4LO2A.jpg?itok=4LFu2MRu\" alt",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-do-us-women-prepare-important-tournaments-uschesschamps",
          "pubDate" : "Thu, 17 Oct 2024 21:53:56",
          "title" : "How do U.S. Women Prepare for Important Tournaments? | #USChessChamps"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Thu, 17 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. Arjun Erigaisi and Maxime Vachier-Lagrave have reached the finals after knocking out tough opponents in previous rounds. The participants play 2-game matches - and as both games ended in a draw, an Armageddon game will decide the tournament.",
@@ -183,7 +183,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3266",
          "pubDate" : "Thu, 17 Oct 2024 13:00:52",
-         "title" : "FIDE Fair Play Commission comments on the incident involving GM Kirill Shevchenko"
+         "title" : "FIDE FPL and EDC actions on the incident involving GM Kirill Shevchenko"
       },
       {
          "description" : "I deplore GM Keith Arkell's deeply personal attack via Facebook on Nigel Povah, the ECF Seniors Manager. This arose following the Seniors Selection Committee's decision to give Keith the first...",
@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2024-herbert-b-jacklyn-program-recipients-announced",
          "pubDate" : "Wed, 09 Oct 2024 00:00:00",
          "title" : "2024 Herbert B. Jacklyn Program Recipients Announced"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues a series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on \"missed opportunities,\" and all answers are analysis variations that were not found in the actual games (including by and against some very strong players). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive s",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-2",
-         "pubDate" : "Wed, 09 Oct 2024 00:00:00",
-         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 2"
       },
       {
          "description" : "A roundup of results from the sixth day of the Global Chess League Season 2.",
