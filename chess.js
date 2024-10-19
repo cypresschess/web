@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The DuoBeniajan Costa C&aacute;lida team, hailing from Murcia, won the 2024 edition of the Spanish Divisi&oacute;n de Honor, the most prestigious team tournament in the Iberian country. Of the three teams that reached the final round with a chance to claim the title, only DuoBeniajan managed to secure victory, defeating Magic Extremadura thanks to wins from Jos&eacute; Cuenca and Marcos Camacho. MyInvestor Casablanca and C.A. Silla finished in second and third place, respectively. | Photos: Spanish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/duobeniajan-win-spanish-team-ch-2024",
+         "pubDate" : "Sat, 19 Oct 2024 13:00:00",
+         "title" : "Clutch win gives DuoBeniajan overall victory at Spanish Team Championship"
+      },
+      {
+         "description" : "Last week I covered India's double triumph in the Budapest Olympiad, winning gold in both the open and female section. This extraordinary success was to a great extent fuelled by the exploits of the Tiger of Madras, Viswanathan Anand, who has proved to be such an inspiration to his younger colleagues on the national team. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-tiger-of-madras/",
+         "pubDate" : "Sat, 19 Oct 2024 10:31:26",
+         "title" : "The Tiger of Madras"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> A handshake, some quick moves, and Levon and Hans completed their round in under 10 minutes. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/it-spoke-itself-8-minutes-uschesschamps-chess-hansniemann-preparation-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OhY9McuOZQQ.jpg?itok=ifS6K-Gr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/it-spoke-itself-8-minutes-uschesschamps-chess-hansniemann-preparation-chesscom",
+         "pubDate" : "Sat, 19 Oct 2024 06:54:41",
+         "title" : "It Spoke For Itself in 8 Minutes #uschesschamps #chess #hansniemann #preparation #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chirila analyzes Wesley So&#039;s d5 move against Levon Aronian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/everything-playable-uschesschamps-chess-chessopenings-education-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DTOI8o7astg.jpg?itok=Glhiw2pj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/everything-playable-uschesschamps-chess-chessopenings-education-chesscom",
+         "pubDate" : "Sat, 19 Oct 2024 06:54:41",
+         "title" : "Everything Is Playable #uschesschamps #chess #chessopenings #education #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The pieces are talking again </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-talked-my-therapist-i-speak-my-pieces-uschesschamps-chess-chesstactics-psychology-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7AIafNu05m0.jpg?itok=p5V7w6ts\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/i-talked-my-therapist-i-speak-my-pieces-uschesschamps-chess-chesstactics-psychology-chesscom",
+         "pubDate" : "Sat, 19 Oct 2024 06:54:41",
+         "title" : "I Talked To My Therapist I Speak My Pieces #uschesschamps #chess #chesstactics #psychology #chesscom"
+      },
+      {
          "description" : "In the open section of the US Championships, Awonder Liang closed in on sole leader Fabiano Caruana after defeating Grigoriy Oparin, while Caruana drew against Sam Sevian. Meanwhile, in the women's section, Carissa Yip continued her flawless run, securing her seventh consecutive victory by defeating Nazi Paikidze. Yip now holds a commanding 2-point lead, with Gulrukhbegim Tokhirjonova trailing in second. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +82,14 @@ news_feed (
          "title" : "Shankland's Test Against Leinier #uschesschamps #chess #chessopenings #chesstactics #chesscom"
       },
       {
+         "description" : "In the seventh round of the 2024 U.S. Chess Championships, GM Awonder Liang moved to 4/6 and reduced GM Fabiano Caruana&#39;s lead to half a point after toppling GM Grigoriy Oparin with the black pieces. GM Ray Robson is on a rollercoaster ride he can...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-7",
+         "pubDate" : "Sat, 19 Oct 2024 01:41:47",
+         "title" : "Yip Wins 7th Straight Game, Liang Closes Gap To Caruana"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Oparin in Round 6 of the 2024 U.S. Chess Championship. This aired during Round 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-%E2%80%98divided-emotionally%E2%80%99-will-try-recover-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fhoopdWrhps.jpg?itok=wLDfCdiB\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,22 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-77-recap-2024-us-chess-championships-round-7",
          "pubDate" : "Sat, 19 Oct 2024 00:54:39",
          "title" : "Carissa 7/7! | RECAP | 2024 U.S. Chess Championships: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Katerina turns the table on Yasser in this position between Irina Krush and Thalia Cervantes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-share-crazy-uschesschamps-chess-checkmate-education-irinakrush-thalithali2648\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A6C4W9kX9Lo.jpg?itok=iTf91yGJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lets-share-crazy-uschesschamps-chess-checkmate-education-irinakrush-thalithali2648",
-         "pubDate" : "Sat, 19 Oct 2024 00:54:39",
-         "title" : "Lets Share The Crazy #uschesschamps #chess #checkmate #education @irina_krush @thalithali2648"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-8",
-         "pubDate" : "Fri, 18 Oct 2024 21:54:34",
-         "title" : "2024 U.S. Chess Championships: Round 8"
       },
       {
          "description" : "Two Knights Talk is the title of a new ChessBase show in which Arne K&auml;hler and Johannes Fischer chat about current and past chess events. In the first episode they talked about Christopher Yoo, good and bad losers, mental training in chess, the US Championship, Awonder Liang, Irina Krush, Carissa Yip and US record champion Bobby Fischer.",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-6",
          "pubDate" : "Fri, 18 Oct 2024 01:22:00",
          "title" : "Yoo Temporarily Suspended By US Chess And Charged By Police; Caruana, Yip Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 6. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paikidze-doing-commentary-learned-so-much-uschesschamps",
-         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
-         "title" : "Paikidze on Doing Commentary: Learned So Much! | #USChessChamps"
       },
       {
          "description" : "The family of Christopher Yoo released a statement Friday after the grandmaster was expelled from the U.S. Championships in St. Louis. A Statement About What Happened on Wednesday in the US Championship from Christopher Yoo's ParentsFirst and foremost, Christopher wants to publicly apologize to the female videographer that was an innocent victim of his anger after his loss of a chess game. Contrary to what some have suggested, the videographer did nothing to provoke Christopher. We heard she's doing okay but we don't have any details and we pray she is doing well both physically and emotionally. Her well-being is of deep concern to all of us.Christopher offers no excuses for his behavior. He",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
          "pubDate" : "Fri, 11 Oct 2024 14:36:00",
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "Not GM Magnus Carlsen&#39;s Alpine Sg Pipers but GM Alireza Firouzja&#39;s Triveni Continental Kings secured the second spot in Saturday&#39;s Final of the Tech Mahindra Global Chess League. The Kings will be playing for glory against the PBG Alaskan Knights,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-9",
-         "pubDate" : "Fri, 11 Oct 2024 13:40:00",
-         "title" : "Giri's PBG Alaskan Knights To Face Firouzja's Triveni Continental Kings In Saturday's Final"
       },
       {
          "description" : "",
