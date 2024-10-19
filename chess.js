@@ -10,6 +10,38 @@ news_feed (
          "title" : "US Championships: Liang climbs to second place, Yip wins yet again"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Careful with the knight, it comes with something worse than a royal fork </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-vs-cervantes-sharing-craziness-uschesschamps-chess-checkmate-education-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A6C4W9kX9Lo.jpg?itok=iTf91yGJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-vs-cervantes-sharing-craziness-uschesschamps-chess-checkmate-education-chess",
+         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
+         "title" : "Krush vs Cervantes: Sharing The Craziness #uschesschamps #chess #checkmate #education #chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Overcoming a possible defeat, Alice Lee and Thalia Cervantes conclude their endgame with the dark squared bishops </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-bishops-uschesschamps-chess-chessendgame-education-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q-8uFeeHVNM.jpg?itok=h7Jez0Mb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgame-bishops-uschesschamps-chess-chessendgame-education-chesscom",
+         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
+         "title" : "The Endgame of Bishops #uschesschamps #chess #chessendgame #education #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The commentators having a little fun guessing Ray Robson&#039;s next move against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ive-never-seen-pattern-beforenot-uschesschamps-chess-chessendgame-chesshumor-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E_7T9RbWd6k.jpg?itok=ybwe-c8K\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ive-never-seen-pattern-beforenot-uschesschamps-chess-chessendgame-chesshumor-chess",
+         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
+         "title" : "I've Never Seen That Pattern Before...NOT #uschesschamps #chess #chessendgame #chesshumor #chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Commentators wonder why Sam Shankland is testing Leinier Dominguez with his opening decision </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shanklands-test-against-leinier-uschesschamps-chess-chessopenings-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h7aTvWpknZk.jpg?itok=ZJCCKWwS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shanklands-test-against-leinier-uschesschamps-chess-chessopenings-chesstactics-chesscom",
+         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
+         "title" : "Shankland's Test Against Leinier #uschesschamps #chess #chessopenings #chesstactics #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Oparin in Round 6 of the 2024 U.S. Chess Championship. This aired during Round 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-%E2%80%98divided-emotionally%E2%80%99-will-try-recover-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fhoopdWrhps.jpg?itok=wLDfCdiB\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -120,38 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/paikidze-doing-commentary-learned-so-much-uschesschamps",
          "pubDate" : "Fri, 18 Oct 2024 00:53:58",
          "title" : "Paikidze on Doing Commentary: Learned So Much! | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Anastasiya Karlovich after defeating Atwell in Round 6 of the 2024 U.S. Women's Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-hard-not-be-happy-2-row-r6-uschesschamps",
-         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
-         "title" : "Krush: Hard Not to Be Happy with 2 in a Row! | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-7",
-         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
-         "title" : "2024 U.S. Chess Championships: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Anastasiya Karlovich after defeating Robson in Round 6 of the 2024 U.S. Chess Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-after-blunders-%E2%80%98i-can-still-come-back%E2%80%99-r6-uschesschamps",
-         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
-         "title" : "Shankland After Blunders: 'I Can Still Come Back' | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Anastasiya Karlovich after defeating Jennifer Yu in Round 6 of the 2024 U.S. Women's Championship. 2024.10.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-wants-qualify-world-cup-r6-uschesschamps",
-         "pubDate" : "Fri, 18 Oct 2024 00:53:58",
-         "title" : "Alice Lee Wants to Qualify for the World Cup! | R6 #USChessChamps"
       },
       {
          "description" : "The family of Christopher Yoo released a statement Friday after the grandmaster was expelled from the U.S. Championships in St. Louis. A Statement About What Happened on Wednesday in the US Championship from Christopher Yoo's ParentsFirst and foremost, Christopher wants to publicly apologize to the female videographer that was an innocent victim of his anger after his loss of a chess game. Contrary to what some have suggested, the videographer did nothing to provoke Christopher. We heard she's doing okay but we don't have any details and we pray she is doing well both physically and emotionally. Her well-being is of deep concern to all of us.Christopher offers no excuses for his behavior. He",
