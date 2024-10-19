@@ -42,6 +42,14 @@ news_feed (
          "title" : "I Talked To My Therapist I Speak My Pieces #uschesschamps #chess #chesstactics #psychology #chesscom"
       },
       {
+         "description" : "In an emotional statement, GM Christopher Yoo&#39;s father Young-Kyu Yoo issued a heartfelt apology following his son&#39;s expulsion from the 2024 U.S Chess Championship after striking a videographer. &#34;Christopher offers no excuses for his behavior. He...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yoo-family-issues-apology-for-us-chess-championship-expulsion",
+         "pubDate" : "Sat, 19 Oct 2024 06:32:00",
+         "title" : "Christopher Yoo 'Very Sad And Ashamed' After Strike, Father Says In Apology"
+      },
+      {
          "description" : "In the open section of the US Championships, Awonder Liang closed in on sole leader Fabiano Caruana after defeating Grigoriy Oparin, while Caruana drew against Sam Sevian. Meanwhile, in the women's section, Carissa Yip continued her flawless run, securing her seventh consecutive victory by defeating Nazi Paikidze. Yip now holds a commanding 2-point lead, with Gulrukhbegim Tokhirjonova trailing in second. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,28 +218,12 @@ news_feed (
          "title" : "Halftime Fireworks as Yip, Caruana Extend U.S. Champs Leads"
       },
       {
-         "description" : "Immediately after the Tech Mahindra Global Chess League, a number of top players, including Anand, Firouzja and Erigaisi, compete in the WR Chess Masters (14-18 October), a knockout tournament with short classical time control. Arjun Erigaisi and Maxime Vachier-Lagrave have reached the finals after knocking out tough opponents in previous rounds. The participants play 2-game matches - and as both games ended in a draw, an Armageddon game will decide the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-live",
-         "pubDate" : "Thu, 17 Oct 2024 17:51:00",
-         "title" : "WR Chess Masters: live"
-      },
-      {
          "description" : "GM Arjun Erigaisi defeated Maxime Vachier-Lagrave in armageddon to win the 2024 WR Chess Masters Cup, picking up the &#38;euro;20,000 top prize and 27.84 FIDE Circuit points. The one thing he missed out on was crossing 2800 for the first time, after h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-2024-wr-chess-masters-cup-round",
          "pubDate" : "Thu, 17 Oct 2024 17:45:00",
          "title" : "Arjun Erigaisi Wins WR Chess Masters Cup But Misses Out On 2800"
-      },
-      {
-         "description" : "We told you about the six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. The movie, due for broadcast today, and can also be viewed in full on the ARTE web site or on Youtube. As someone who experienced practically every minute of the drama in real life, back in 1985-86, I could track all the discrepancies. But on the whole the movie was well told and enjoyable.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arte-kasparov-vs-deep-blue-revisited",
-         "pubDate" : "Thu, 17 Oct 2024 15:10:00",
-         "title" : "ARTE: Kasparov vs Deep Blue revisited"
       },
       {
          "description" : "On behalf of All India Chess Federation, Goa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Panaji ,Goa on 07 &#38;",
@@ -656,14 +648,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41744663/global-chess-league-2024-gcl-report-carlsen-firouzja-triveni-continental-kings-alpine-sg-pipers?device=featurephone",
          "pubDate" : "Fri, 11 Oct 2024 22:56:16",
          "title" : "Global Chess League: Firouzja's Triveni Continental Kings in final after win over Carlsen's Sg Pipers"
-      },
-      {
-         "description" : "Draws on all boards in round one of the 2024 U.S. Championship have already dashed the chances of a player repeating GM Bobby Fischer&#39;s perfect score in the 1964 championship, but there are clear signs that the U.S. Championship title and $55,000 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-1",
-         "pubDate" : "Fri, 11 Oct 2024 20:35:00",
-         "title" : "'Fischer Prize' Off The Table As U.S. Championship Gets Underway"
       },
       {
          "description" : "",
