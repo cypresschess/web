@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2024-10-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202410180332 target='_blank'>FBCC 2024 NATIONAL CHOCOLATE CUPCAK</a>",
 "HOUSTON","2024-10-12","331","<a href=http://www.uschess.org/msa/XtblMain.php?202410128202 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
 "HOUSTON","2024-10-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202410126442 target='_blank'>CHESSPANDA10122024SATURDAY</a>",
 "HOUSTON","2024-10-11","27","<a href=http://www.uschess.org/msa/XtblMain.php?202410115862 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-03-09","104","<a href=http://www.uschess.org/msa/XtblMain.php?202403096212 target='_blank'>2024 LONE STAR SCHOLASTIC</a>",
 "HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094452 target='_blank'>CHESSPANDA03092024SATURDAY</a>",
 "HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094282 target='_blank'>MARCH 9TH SCHOLASTIC</a>",
-"CYPRESS","2024-03-08","24","<a href=http://www.uschess.org/msa/XtblMain.php?202403084072 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
