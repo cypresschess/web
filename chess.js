@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Sat, 19 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "Please find the letter on the captioned matter here : Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/pause-in-the-election-process-of-the-athletes-commission-of-aicf/",
+         "pubDate" : "Sat, 19 Oct 2024 15:56:39",
+         "title" : "Pause in the election process of the Athletes Commission of AICF."
+      },
+      {
+         "description" : "In pursuance of Notification dated 4.10.2024, please find Notice dated 19.10.2024 along with List of Eligible Electoral College Notice and Form 2",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/list-of-eligible-electoral-college-for-election-process-of-the-athletes-commission-of-aicf/",
+         "pubDate" : "Sat, 19 Oct 2024 15:55:06",
+         "title" : "List of Eligible Electoral College for Election process of the Athletes Commission of AICF."
+      },
+      {
          "description" : "The DuoBeniajan Costa C&aacute;lida team, hailing from Murcia, won the 2024 edition of the Spanish Divisi&oacute;n de Honor, the most prestigious team tournament in the Iberian country. Of the three teams that reached the final round with a chance to claim the title, only DuoBeniajan managed to secure victory, defeating Magic Extremadura thanks to wins from Jos&eacute; Cuenca and Marcos Camacho. MyInvestor Casablanca and C.A. Silla finished in second and third place, respectively. | Photos: Spanish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,6 +144,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-77-recap-2024-us-chess-championships-round-7",
          "pubDate" : "Sat, 19 Oct 2024 00:54:39",
          "title" : "Carissa 7/7! | RECAP | 2024 U.S. Chess Championships: Round 7"
+      },
+      {
+         "description" : "Baseball announcers are a superstitious lot.They will go to great lengths to avoid saying \"no-hitter\" or \"no-hit ball\" as perfect games progress. The belief is that by merely uttering the words, they can cause a jinx, put the whammy on somebody, or otherwise negatively influence events on the field.This is why, as a long-time fan of the great American pastime, I will in what follows avoid certain phrases regarding large cash prizes, win streaks, and tournaments (largely) played in 1963.There'll be no bad juju from me.It's all eyes on IM Carissa Yip after seven rounds at the 2024 U.S. Women's Championship. With her victory over IM Nazi Paikidze, Yip kept her breakneck pace as she charged towa",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-champs-center-attention",
+         "pubDate" : "Sat, 19 Oct 2024 00:00:00",
+         "title" : "U.S. Champs: The Center of Attention"
       },
       {
          "description" : "Two Knights Talk is the title of a new ChessBase show in which Arne K&auml;hler and Johannes Fischer chat about current and past chess events. In the first episode they talked about Christopher Yoo, good and bad losers, mental training in chess, the US Championship, Awonder Liang, Irina Krush, Carissa Yip and US record champion Bobby Fischer.",
@@ -538,14 +570,6 @@ news_feed (
          "title" : "First-ever Senior National Arbiters Seminar & Exam kicks off in Port Blair on 12 & 13 October 2024"
       },
       {
-         "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Carissa Yip leads the field with a 2/2 score, but three players (including Atousa Pourkashiyan, pictured) are coming into focus behind her (All photos courtesy Crystal Fuller/SLCC)<br> <br> The second round of the 2024 U.S. Championship saw more fireworks than the first, with GM Wesley So and GM Sam Sevian becoming the first (and so far only) players to score wins. In the 2024 U.S. Women's Championship, IM Carissa Yip notched her second win in a row and now has a half-point lead over the rest of the field. However, what was more telling was who didn't win. The second round was largely a round of missed chanc",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/beautiful-games-and-missed-opportunities-round-two-us-championships",
-         "pubDate" : "Sun, 13 Oct 2024 00:00:00",
-         "title" : "Beautiful Games and Missed Opportunities in Round Two of U.S. Championships"
-      },
-      {
          "description" : "GMs Wesley So and Sam Sevian notched wins with White in round two of the 2024 U.S. Championship and have taken an early half-point lead over the pack. So won a pawn against GM Christopher Yoo and never let it go, while Sevian played creatively to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -746,14 +770,6 @@ news_feed (
          "title" : "Kings, Pipers narrow Knights' lead as Raunak ends Nihal's unbeaten run"
       },
       {
-         "description" : "Please find here certificates NO Name 1 Nagarajan Somasundaram 2 Balaji V 3 Mohana R 4 Gowtham T S 5 Gayathri K 6 Subash Sanker",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-sna-held-in-karaikudi-on-21-22-september-2024/",
-         "pubDate" : "Thu, 10 Oct 2024 00:36:58",
-         "title" : "Certificates of SNA held in Karaikudi on 21 & 22 September 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://www.thearticle.com/scholars-fate/",
          "pubDate" : "Sat, 05 Oct 2024 08:05:09",
          "title" : "Scholar's Fate"
-      },
-      {
-         "description" : "That's a significant event for Indian chess! The 50th National Women Chess Championship being inaugurated by Shri Dev A Patel, the youngest Secretary of the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/50th-national-championship-for-women-2024/",
-         "pubDate" : "Sat, 05 Oct 2024 07:13:31",
-         "title" : "50th National Championship for Women 2024"
       },
       {
          "description" : "A roundup of results from the second day of Global Chess League Season 2.",
