@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3267",
+         "pubDate" : "Sat, 19 Oct 2024 20:28:56",
+         "title" : "Aleksey Grebnev and Anna Shukhman win 2024 Asian Junior Championship"
+      },
+      {
+         "description" : "At the end of July, I set myself a challenge: 30 days, each day 6 games of 3+2 Blitz with full focus. The goal: reaching my new all time high online rating. Here is how I failed this challenge but still won 224 points in the process. Win 100 points without training. Tactics, Endgames, analyzing []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/simple-challenge/",
+         "pubDate" : "Sat, 19 Oct 2024 20:00:00",
+         "title" : "I won 200 rating points with a simple challenge"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
          "pubDate" : "Sat, 19 Oct 2024 20:00:00",
          "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Commentators wonder why Sam Shankland is testing Leinier Dominguez with his opening decision </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shanklands-najdorf-test-against-dominguez-uschesschamps-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h7aTvWpknZk.jpg?itok=ZJCCKWwS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shanklands-najdorf-test-against-dominguez-uschesschamps-chess-chessopenings-chesscom",
+         "pubDate" : "Sat, 19 Oct 2024 18:55:02",
+         "title" : "Shankland's Najdorf Test Against Dominguez #uschesschamps #chess #chessopenings #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser talking the pieces between Megan Lee and Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-what-are-they-saying-uschesschamps-chess-chesstactics-psychology-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7AIafNu05m0.jpg?itok=p5V7w6ts\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yasser-what-are-they-saying-uschesschamps-chess-chesstactics-psychology-chesscom",
+         "pubDate" : "Sat, 19 Oct 2024 18:55:02",
+         "title" : "Yasser, \"What Are They Saying?\" #uschesschamps #chess #chesstactics #psychology #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-9",
+         "pubDate" : "Sat, 19 Oct 2024 18:55:02",
+         "title" : "2024 U.S. Chess Championships: Round 9"
       },
       {
          "description" : "Please find the letter on the captioned matter here : Download",
@@ -122,31 +162,7 @@ news_feed (
          "title" : "Yip Wins 7th Straight Game, Liang Closes Gap To Caruana"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Oparin in Round 6 of the 2024 U.S. Chess Championship. This aired during Round 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-%E2%80%98divided-emotionally%E2%80%99-will-try-recover-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fhoopdWrhps.jpg?itok=wLDfCdiB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-%E2%80%98divided-emotionally%E2%80%99-will-try-recover-r6-uschesschamps",
-         "pubDate" : "Sat, 19 Oct 2024 00:54:39",
-         "title" : "Caruana 'Divided Emotionally,' Will Try to Recover | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Shankland after his hard fought battle with GM Abhimanyu Mishra </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-relieved-uschesschamps-chess-stressrelief-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U-jc20MFc3I.jpg?itok=v_pF3Rmr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-relieved-uschesschamps-chess-stressrelief-chesscom",
-         "pubDate" : "Sat, 19 Oct 2024 00:54:39",
-         "title" : "Shankland Relieved #uschesschamps #chess #stressrelief #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 7 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-77-recap-2024-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-77-recap-2024-us-chess-championships-round-7",
-         "pubDate" : "Sat, 19 Oct 2024 00:54:39",
-         "title" : "Carissa 7/7! | RECAP | 2024 U.S. Chess Championships: Round 7"
-      },
-      {
-         "description" : "Baseball announcers are a superstitious lot.They will go to great lengths to avoid saying \"no-hitter\" or \"no-hit ball\" as perfect games progress. The belief is that by merely uttering the words, they can cause a jinx, put the whammy on somebody, or otherwise negatively influence events on the field.This is why, as a long-time fan of the great American pastime, I will in what follows avoid certain phrases regarding large cash prizes, win streaks, and tournaments (largely) played in 1963.There'll be no bad juju from me.It's all eyes on IM Carissa Yip after seven rounds at the 2024 U.S. Women's Championship. With her victory over IM Nazi Paikidze, Yip kept her breakneck pace as she charged towa",
+         "description" : "Baseball announcers are a superstitious lot.They will go to great lengths to avoid saying \"no-hitter\" or \"no-hit ball\" as perfect games progress. The belief is that by merely uttering the words, they can cause a jinx, put the whammy on somebody, or otherwise negatively influence events on the field.This is why, as a long-time fan of the great American pastime, I will in what follows avoid certain phrases regarding large cash prizes, win streaks, and tournaments (largely) played in 1963.There'll be no bad juju from me. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> photo courtesy SLCC / Lennart Ootes<br> <br> <br> <br> It's all eyes on IM Carissa Yip a",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-champs-center-attention",
@@ -1104,22 +1120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-needs-special-attention-abhijit-kunte/articleshow/113779754.cms",
          "pubDate" : "Sun, 29 Sep 2024 04:45:41",
          "title" : "Women's chess needs special attention: Abhijit Kunte"
-      },
-      {
-         "description" : " Grandmaster Maurice Ashley was spotted at the Chess Olympiad in Budapest, Hungary, but he told The Chess Drum that he was not there as a delegate or captain, but merely as a chess tourist. Most will know Ashley as one of the most visible commentators of the chess world, but he has taken a hiatus The post <a href=\"https://www.thechessdrum.net/blog/2024/09/28/maurice-ashley-discusses-new-chess-initiative/\">Maurice Ashley discusses new chess initiative</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/28/maurice-ashley-discusses-new-chess-initiative/",
-         "pubDate" : "Sat, 28 Sep 2024 23:15:41",
-         "title" : "Maurice Ashley discusses new chess initiative"
-      },
-      {
-         "description" : " The 10th Vugar Gashimov Memorial took place Thu 26th to Sat 28th Sep 2024. This was a two day rapid and one day blitz tournament in Shusha, Azerbaijan in memory of Vugar Gashimov who died at the all too early age of 27. Players: Ian Nepomniachtchi, Vladislav Artemiev, Nodirbek Abdusattorov, Richard Rapport, Shakhriyar Mamedyarov, Rauf Mamedov, Aydin Suleymanli and Chithambaram Vr. Aravindh. Ian Nepomniachtchi took clear first in the combined standings with 19 points (rapid games counted double) ahead of Nodirbek Abdusattorov on 18 points and Shakhriyar Mamedyarov on 16 points.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-vugar-gashimov-memorial-2024",
-         "pubDate" : "Sat, 28 Sep 2024 21:35:00",
-         "title" : "10th Vugar Gashimov Memorial 2024 - Games and Results"
       }
    ]
 }
