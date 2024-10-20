@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 7 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-77-round-7-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-77-round-7-recap-uschesschamps",
+         "pubDate" : "Sun, 20 Oct 2024 00:55:04",
+         "title" : "Carissa 7/7! | Round 7 RECAP | #USChessChamps"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-9",
          "pubDate" : "Sat, 19 Oct 2024 18:55:02",
          "title" : "2024 U.S. Chess Championships: Round 9"
+      },
+      {
+         "description" : "GM Hikaru Nakamura posted a 303 score to win his 30th Bullet Brawl&#38;nbsp;title on Saturday and secure the $400 first prize. With 80 wins, three draws, and three losses to his name, his winning margin of 94 points over second-placed GM Oleksandr Bor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-october-19-2024",
+         "pubDate" : "Sat, 19 Oct 2024 17:35:00",
+         "title" : "Nakamura Wins Bullet Brawl By 94 Point-Margin"
       },
       {
          "description" : "Please find the letter on the captioned matter here : Download",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ive-never-seen-pattern-beforenot-uschesschamps-chess-chessendgame-chesshumor-chess",
          "pubDate" : "Sat, 19 Oct 2024 03:54:40",
          "title" : "I've Never Seen That Pattern Before...NOT #uschesschamps #chess #chessendgame #chesshumor #chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Commentators wonder why Sam Shankland is testing Leinier Dominguez with his opening decision </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shanklands-test-against-leinier-uschesschamps-chess-chessopenings-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h7aTvWpknZk.jpg?itok=ZJCCKWwS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shanklands-test-against-leinier-uschesschamps-chess-chessopenings-chesstactics-chesscom",
-         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
-         "title" : "Shankland's Test Against Leinier #uschesschamps #chess #chessopenings #chesstactics #chesscom"
       },
       {
          "description" : "In the seventh round of the 2024 U.S. Chess Championships, GM Awonder Liang moved to 4/6 and reduced GM Fabiano Caruana&#39;s lead to half a point after toppling GM Grigoriy Oparin with the black pieces. GM Ray Robson is on a rollercoaster ride he can...",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/demolishment-of-a-summary-demolishment",
          "pubDate" : "Sat, 12 Oct 2024 10:00:00",
          "title" : "Demolishment of a \"Summary Demolishment\""
-      },
-      {
-         "description" : "GM Alireza Firouzja&#39;s Triveni Continental Kings have retained their Tech Mahindra Global Chess League title after defeating GM Anish Giri&#39;s PBG Alaskan Knights 2-0 in the final. Firouzja thanked &#34;key player&#34; GM Alexandra Kosteniuk, the only player...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tech-mahindra-global-chess-league-day-final",
-         "pubDate" : "Sat, 12 Oct 2024 09:05:00",
-         "title" : "Firouzja's Triveni Continental Kings Win 2nd Global Chess League"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114164064.cms\" />Vantika Agrawal, a 21-year-old chess player from Noida, overcame significant challenges to win India's first-ever Olympiad gold in Budapest. With minimal local support, her mother played a crucial role in her success. Vantika aims to become a Grandmaster by next year, despite the financial and logistical hurdles she faces.",
