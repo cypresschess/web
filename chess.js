@@ -18,6 +18,14 @@ news_feed (
          "title" : "8/8 For Carissa! | RECAP | 2024 U.S. Chess Championships: Round 8"
       },
       {
+         "description" : "IM Carissa Yip continued her dream run with a win over WGM Atousa Pourkashiyan to race to 8/8 in the Women&#39;s championship while GM Fabiano Caruana maintained his half-a-point lead with 5/7 after a draw against GM Wesley So in the eighth round of t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-8",
+         "pubDate" : "Sun, 20 Oct 2024 03:06:33",
+         "title" : "Yip Scores 8th Straight Win, 3 Away From Fischer's Record"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 7 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-77-round-7-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/simple-challenge/",
          "pubDate" : "Sat, 19 Oct 2024 20:00:00",
          "title" : "I won 200 rating points with a simple challenge"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Sat, 19 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Commentators wonder why Sam Shankland is testing Leinier Dominguez with his opening decision </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shanklands-najdorf-test-against-dominguez-uschesschamps-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h7aTvWpknZk.jpg?itok=ZJCCKWwS\" alt=\"\" /></a></div>",
@@ -74,12 +74,12 @@ news_feed (
          "title" : "2024 U.S. Chess Championships: Round 9"
       },
       {
-         "description" : "GM Hikaru Nakamura posted a 303 score to win his 30th Bullet Brawl&#38;nbsp;title on Saturday and secure the $400 first prize. With 80 wins, three draws, and three losses to his name, his winning margin of 94 points over second-placed GM Oleksandr Bor...",
+         "description" : "GM Hikaru Nakamura posted a 303 score to win his 30th Bullet Brawl&#38;nbsp;title on Saturday and secure the $400 first prize. With 80 wins, three draws, and three losses to his name, his winning margin of 96 points over second-placed GM Oleksandr Bor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-october-19-2024",
          "pubDate" : "Sat, 19 Oct 2024 17:35:00",
-         "title" : "Nakamura Wins Bullet Brawl By 94 Point-Margin"
+         "title" : "Nakamura Wins Bullet Brawl By 96 Point-Margin"
       },
       {
          "description" : "Please find the letter on the captioned matter here : Download",
@@ -96,14 +96,6 @@ news_feed (
          "link" : "https://aicf.in/list-of-eligible-electoral-college-for-election-process-of-the-athletes-commission-of-aicf/",
          "pubDate" : "Sat, 19 Oct 2024 15:55:06",
          "title" : "List of Eligible Electoral College for Election process of the Athletes Commission of AICF."
-      },
-      {
-         "description" : "The DuoBeniajan Costa C&aacute;lida team, hailing from Murcia, won the 2024 edition of the Spanish Divisi&oacute;n de Honor, the most prestigious team tournament in the Iberian country. Of the three teams that reached the final round with a chance to claim the title, only DuoBeniajan managed to secure victory, defeating Magic Extremadura thanks to wins from Jos&eacute; Cuenca and Marcos Camacho. MyInvestor Casablanca and C.A. Silla finished in second and third place, respectively. | Photos: Spanish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/duobeniajan-win-spanish-team-ch-2024",
-         "pubDate" : "Sat, 19 Oct 2024 13:00:00",
-         "title" : "Clutch win gives DuoBeniajan overall victory at Spanish Team Championship"
       },
       {
          "description" : "Last week I covered India's double triumph in the Budapest Olympiad, winning gold in both the open and female section. This extraordinary success was to a great extent fuelled by the exploits of the Tiger of Madras, Viswanathan Anand, who has proved to be such an inspiration to his younger colleagues on the national team. []",
@@ -146,14 +138,6 @@ news_feed (
          "title" : "Christopher Yoo 'Very Sad And Ashamed' After Strike, Father Says In Apology"
       },
       {
-         "description" : "In the open section of the US Championships, Awonder Liang closed in on sole leader Fabiano Caruana after defeating Grigoriy Oparin, while Caruana drew against Sam Sevian. Meanwhile, in the women's section, Carissa Yip continued her flawless run, securing her seventh consecutive victory by defeating Nazi Paikidze. Yip now holds a commanding 2-point lead, with Gulrukhbegim Tokhirjonova trailing in second. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-7",
-         "pubDate" : "Sat, 19 Oct 2024 04:35:00",
-         "title" : "US Championships: Liang climbs to second place, Yip wins yet again"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Careful with the knight, it comes with something worse than a royal fork </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-vs-cervantes-sharing-craziness-uschesschamps-chess-checkmate-education-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A6C4W9kX9Lo.jpg?itok=iTf91yGJ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -186,14 +170,6 @@ news_feed (
          "title" : "U.S. Champs: The Center of Attention"
       },
       {
-         "description" : "Two Knights Talk is the title of a new ChessBase show in which Arne K&auml;hler and Johannes Fischer chat about current and past chess events. In the first episode they talked about Christopher Yoo, good and bad losers, mental training in chess, the US Championship, Awonder Liang, Irina Krush, Carissa Yip and US record champion Bobby Fischer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-arne-kaehler-and-johannes-fischer-discuss-current-chess-events",
-         "pubDate" : "Fri, 18 Oct 2024 17:21:24",
-         "title" : "Two knights talk: Arne K&auml;hler and Johannes Fischer discuss current chess events"
-      },
-      {
          "description" : "GM Pepe Cuenca and IM David Martinez, also known as the Ratata Spanish Squad, defeated IM Eric Rosen and WGM Nemo Zhou (Oh Yes My Queen) 1.5-0.5 in the 2024 Team Chess Battle 2 Final. They earn $3,500 and bragging rights, while the runner-up team ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,6 +184,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesscom-fog-of-war-chess-championship-knockout-chan-wins",
          "pubDate" : "Fri, 18 Oct 2024 15:35:37",
          "title" : "O.G. Of Fog Of War FM Chan Wins Community Championship"
+      },
+      {
+         "description" : "Training tactics can be fun, but how do you use your own suite of positions and solutions to train in ChessBase? Your questions will be answered in this quick and easy lesson on video demonstrated by using the Encyclopedia of Chess Combinations. However, you can create your own as well and then use the method described. Enjoy this bite-sized tutorial!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-training-with-your-own-tactics-suite-video",
+         "pubDate" : "Fri, 18 Oct 2024 15:10:00",
+         "title" : "ChessBase in Minutes: Training with your own tactics suite (video)"
       },
       {
          "description" : "Chess.com is excited to announce that over 60,000 people have participated in the historic Vishy vs. The World vote chess match. This surpasses the number of participants in the legendary 1999 Kasparov vs. The World match. The new record highlight...",
@@ -632,14 +616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3259",
          "pubDate" : "Sat, 12 Oct 2024 18:10:22",
          "title" : "Tech Mahindra Global Chess League: Triveni clinch second title in spectacular fashion"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk has cracked the Bullet Brawl&#38;nbsp;code. He outpaced GM Daniel Naroditsky to claim his second straight title and the $400 first prize on Saturday. Amassing 69 wins, seven draws, and six losses in a performance that mirrored his...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-october-12-2024",
-         "pubDate" : "Sat, 12 Oct 2024 16:33:00",
-         "title" : "Bortnyk Becomes 3rd Player To Win Back-To-Back Brawls"
       },
       {
          "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
