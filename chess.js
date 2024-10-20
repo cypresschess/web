@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
+         "pubDate" : "Sun, 20 Oct 2024 14:50:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup were officially declared opened yesterday evening in Vrnjacka Banja, Serbia. The Opening ceremony of the event took place in the playing venue, with the attendance of ECU Vice Presidents Gunnar Bjornsson and Alojzije Jankovic, FIDE Deputy President Viswanathan Anand, the President of the Serbian Chess Federation Dragan Lazic, Director of Touristic Organisation of Vrnjacka Banja Ivan Trifunovic, ECU Tournament Director Petr Pisk and other distinguished guests. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-77-round-7-recap-uschesschamps",
          "pubDate" : "Sun, 20 Oct 2024 00:55:04",
          "title" : "Carissa 7/7! | Round 7 RECAP | #USChessChamps"
+      },
+      {
+         "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Lennart Ootes/SLCC<br> <br> Today is the final rest day of the 2024 U.S. Championship and U.S. Women's Championship. With three rounds to go, IM Carissa Yip boasts a 2&frac12;-point lead over the field and is still in contention for the $64,000 Fischer Prize if she wins out. GM Fabiano Caruana still leads the open, but another draw gave GM Hans Niemann a chance to move closer to the leader. Women'sIt was another day at the office for Yip, who moves up to number 26 in the FIDE women's live ratings and improves to 17 wins, two draws, and zero losses over her last two tournaments. <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/round-eight-yip-still-perfect-niemann-makes-move",
+         "pubDate" : "Sun, 20 Oct 2024 00:00:00",
+         "title" : "Round Eight: Yip Still Perfect, Niemann Makes A Move"
       },
       {
          "description" : "",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kirill-shevchenko-expelled-spanish-team-championship",
          "pubDate" : "Mon, 14 Oct 2024 05:03:00",
          "title" : "Shevchenko Expelled From Spanish Team Championship After Phone Found In Toilet"
-      },
-      {
-         "description" : "The third round of the 2024 U.S. Championship and U.S. Women's Championship each produced three decisive results, giving us plenty to dive into today, both from a chess and leaderboard standpoint. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> A number of yesterday's victors posed for glamour shots across the street at the World Chess Hall of Fame after their games. (All photos courtesy Lennart Ootes/SLCC)<br> <br> In a scintillating rout, GM Hans Niemann put an end to GM Lenier Dominguez's unbeaten streak and joined the U.S. Championsh",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-champs-six-decisive-results-shape-standings-after-round-three",
-         "pubDate" : "Mon, 14 Oct 2024 00:00:00",
-         "title" : "U.S. Champs: Six Decisive Results Shape Standings After Round Three"
       },
       {
          "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards as if there were only 20 teams in The post <a href=\"https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-to-the-uk-open-blitz-qualifiers-to-date-from-the-london-south-west-midlands-and-north-west-events-the-remaining-three-qualifying-events-will-take-place-next-weekend-5th-and-6th-oct/",
          "pubDate" : "Mon, 30 Sep 2024 12:00:18",
          "title" : "UK Open Blitz Qualifiers - the story so far!"
-      },
-      {
-         "description" : " Ian Wilkinson, attending his 11th straight Olympiad, was re-elected as a member of the FIDE Constitutional Commission (CC). He described the vote as being &#8216;hotly contested.&#8216; Wilkinson comes with some history in FIDE, having served eight years on the Ethics Commission and even running as Vice President in the 2022 Election. Ian Wilkinson heading to the The post <a href=\"https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/\">Jamaica's Wilkinson re-elected to FIDE post</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/",
-         "pubDate" : "Sun, 29 Sep 2024 14:13:07",
-         "title" : "Jamaica's Wilkinson re-elected to FIDE post"
       }
    ]
 }
