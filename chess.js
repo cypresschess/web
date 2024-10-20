@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup were officially declared opened yesterday evening in Vrnjacka Banja, Serbia. The Opening ceremony of the event took place in the playing venue, with the attendance of ECU Vice Presidents Gunnar Bjornsson and Alojzije Jankovic, FIDE Deputy President Viswanathan Anand, the President of the Serbian Chess Federation Dragan Lazic, Director of Touristic Organisation of Vrnjacka Banja Ivan Trifunovic, ECU Tournament Director Petr Pisk and other distinguished guests. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cups-2024-officially-open-in-vrnjacka-banja-serbia/",
+         "pubDate" : "Sun, 20 Oct 2024 07:23:44",
+         "title" : "European Chess Club Cups 2024 officially open in Vrnjacka Banja, Serbia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 8 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/88-carissa-recap-2024-us-chess-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/88-carissa-recap-2024-us-chess-championships-round-8",
+         "pubDate" : "Sun, 20 Oct 2024 03:55:07",
+         "title" : "8/8 For Carissa! | RECAP | 2024 U.S. Chess Championships: Round 8"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 7 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-77-round-7-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/endgame-bishops-uschesschamps-chess-chessendgame-education-chesscom",
          "pubDate" : "Sat, 19 Oct 2024 03:54:40",
          "title" : "The Endgame of Bishops #uschesschamps #chess #chessendgame #education #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The commentators having a little fun guessing Ray Robson&#039;s next move against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ive-never-seen-pattern-beforenot-uschesschamps-chess-chessendgame-chesshumor-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E_7T9RbWd6k.jpg?itok=ybwe-c8K\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ive-never-seen-pattern-beforenot-uschesschamps-chess-chessendgame-chesshumor-chess",
-         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
-         "title" : "I've Never Seen That Pattern Before...NOT #uschesschamps #chess #chessendgame #chesshumor #chess"
       },
       {
          "description" : "In the seventh round of the 2024 U.S. Chess Championships, GM Awonder Liang moved to 4/6 and reduced GM Fabiano Caruana&#39;s lead to half a point after toppling GM Grigoriy Oparin with the black pieces. GM Ray Robson is on a rollercoaster ride he can...",
@@ -1112,14 +1120,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/09/29/jamaicas-wilkinson-re-elected-to-fide-post/",
          "pubDate" : "Sun, 29 Sep 2024 14:13:07",
          "title" : "Jamaica's Wilkinson re-elected to FIDE post"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113779754.cms\" />Abhijit Kunte, captain of the women's Olympiad gold-winning team, advocates for a comprehensive plan to enhance women's chess in India. He underscores the necessity of state government support and addresses difficulties in institutionalized coaching. Kunte also discusses sports code clarity and evaluates the team's recent achievements and challenges.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-chess-needs-special-attention-abhijit-kunte/articleshow/113779754.cms",
-         "pubDate" : "Sun, 29 Sep 2024 04:45:41",
-         "title" : "Women's chess needs special attention: Abhijit Kunte"
       }
    ]
 }
