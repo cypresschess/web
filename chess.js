@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 2023 India got its highest ever classical super tournament in the form of the Chennai Grand Masters. The tournament, with an average rating of 2711, proved to be a perfect event for fighting and high-quality chess as well as an important event in the FIDE circuit. This year the contest is back - bigger and better. Not only has the rating average of masters grown to 2729, but we also have a Challengers section with 8 talented Indian youngsters fighting for one spot in the Masters. Read on to know all the players, prize money, schedule, venue and more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-announcement",
+         "pubDate" : "Sun, 20 Oct 2024 19:00:00",
+         "title" : "The Chennai Grand Masters returns in 2024 - bigger and better"
+      },
+      {
+         "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://www.thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/10/20/remembering-emory-tate/",
+         "pubDate" : "Sun, 20 Oct 2024 18:36:19",
+         "title" : "Remembering Emory Tate"
+      },
+      {
          "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
