@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the open section of the US Championships, defending champion Fabiano Caruana drew with second seed Wesley So, maintaining a half-point lead over his closest chasers - Awonder Liang and Hans Niemann - with three rounds remaining. Meanwhile, in the women's section, Carissa Yip continued her dominant run, securing her eighth consecutive win by defeating Atousa Pourkashiyan. Yip, now 2&frac12; points ahead of her nearest rival, is just three wins away from claiming the $64,000 Bobby Fischer prize for a perfect 11/11 score. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-8",
+         "pubDate" : "Sun, 20 Oct 2024 23:00:00",
+         "title" : "US Championships: 8 out of 8 for Yip!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wrapping up here collegiate midterms, Carissa Yip warns her opponents and sends love to the G.O.A.T. Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/streak-carissa-yip-warns-opponents-uschesschamps-chess-chesstournament-competition\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w-4XQnhVuQo.jpg?itok=4pEZtJOm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/streak-carissa-yip-warns-opponents-uschesschamps-chess-chesstournament-competition",
+         "pubDate" : "Sun, 20 Oct 2024 21:55:27",
+         "title" : "The Streak: Carissa Yip Warns Opponents #uschesschamps #chess #chesstournament #competition"
+      },
+      {
          "description" : "In 2023 India got its highest ever classical super tournament in the form of the Chennai Grand Masters. The tournament, with an average rating of 2711, proved to be a perfect event for fighting and high-quality chess as well as an important event in the FIDE circuit. This year the contest is back - bigger and better. Not only has the rating average of masters grown to 2729, but we also have a Challengers section with 8 talented Indian youngsters fighting for one spot in the Masters. Read on to know all the players, prize money, schedule, venue and more!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,14 +194,6 @@ news_feed (
          "title" : "Krush vs Cervantes: Sharing The Craziness #uschesschamps #chess #checkmate #education #chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Overcoming a possible defeat, Alice Lee and Thalia Cervantes conclude their endgame with the dark squared bishops </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-bishops-uschesschamps-chess-chessendgame-education-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q-8uFeeHVNM.jpg?itok=h7Jez0Mb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgame-bishops-uschesschamps-chess-chessendgame-education-chesscom",
-         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
-         "title" : "The Endgame of Bishops #uschesschamps #chess #chessendgame #education #chesscom"
-      },
-      {
          "description" : "In the seventh round of the 2024 U.S. Chess Championships, GM Awonder Liang moved to 4/6 and reduced GM Fabiano Caruana&#39;s lead to half a point after toppling GM Grigoriy Oparin with the black pieces. GM Ray Robson is on a rollercoaster ride he can...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -250,7 +258,7 @@ news_feed (
          "title" : "Chess.com Community Championships Could See Repeat Winner"
       },
       {
-         "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham shared first prize with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport gra",
+         "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham finished third with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/oct/18/chess-england-gains-new-grandmaster-as-ameet-ghasi-qualifies-at-age-37",
