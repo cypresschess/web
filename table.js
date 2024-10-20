@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-10-19","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410190912 target='_blank'>CHESSPANDA10192024SATURDAY</a>",
+"SPRING","2024-10-18","34","<a href=http://www.uschess.org/msa/XtblMain.php?202410181282 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-10-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202410180332 target='_blank'>FBCC 2024 NATIONAL CHOCOLATE CUPCAK</a>",
 "HOUSTON","2024-10-12","331","<a href=http://www.uschess.org/msa/XtblMain.php?202410128202 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
 "HOUSTON","2024-10-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202410126442 target='_blank'>CHESSPANDA10122024SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2024-03-15","4","<a href=http://www.uschess.org/msa/XtblMain.php?202403158392 target='_blank'>FBCC 2024 SPRING BREAK OPEN</a>",
 "HOUSTON","2024-03-08  - 03-10","251","<a href=http://www.uschess.org/msa/XtblMain.php?202403106152 target='_blank'>2024 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2024-03-09","104","<a href=http://www.uschess.org/msa/XtblMain.php?202403096212 target='_blank'>2024 LONE STAR SCHOLASTIC</a>",
-"HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094452 target='_blank'>CHESSPANDA03092024SATURDAY</a>",
-"HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094282 target='_blank'>MARCH 9TH SCHOLASTIC</a>",
 ]);
