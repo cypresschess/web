@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In rook endings, the privilege of having connected passed pawns can easily make the difference. But even in this case there are many hidden resources. After our first lesson a few days ago, today we are going to study a key manoeuvre you have to know if you want to survive against two connected pawns (as in this diagram). We also bring you some historical examples to help you understand the technique. Learn and enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-rook-endings-connected-pawns-2",
+         "pubDate" : "Mon, 21 Oct 2024 08:28:37",
+         "title" : "Grivas on rook endings, connected pawns (2)"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Wrapping up here collegiate midterms, Carissa Yip warns her opponents and sends love to the G.O.A.T. Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/streak-carissa-yip-warns-opponents-uschesschamps-chess-collegeathletes-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w-4XQnhVuQo.jpg?itok=4pEZtJOm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
