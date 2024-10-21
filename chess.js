@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Mon, 21 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wrapping up here collegiate midterms, Carissa Yip warns her opponents and sends love to the G.O.A.T. Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/streak-carissa-yip-warns-her-opponents-uschesschamps-chess-collegeathletes-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w-4XQnhVuQo.jpg?itok=4pEZtJOm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/streak-carissa-yip-warns-her-opponents-uschesschamps-chess-collegeathletes-chesscom",
+         "pubDate" : "Mon, 21 Oct 2024 15:55:48",
+         "title" : "The Streak: Carissa Yip Warns Her Opponents #uschesschamps #chess #collegeathletes #chesscom"
+      },
+      {
          "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,20 +250,12 @@ news_feed (
          "title" : "Everything Is Playable #uschesschamps #chess #chessopenings #education #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The pieces are talking again </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-talked-my-therapist-i-speak-my-pieces-uschesschamps-chess-chesstactics-psychology-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7AIafNu05m0.jpg?itok=p5V7w6ts\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/i-talked-my-therapist-i-speak-my-pieces-uschesschamps-chess-chesstactics-psychology-chesscom",
-         "pubDate" : "Sat, 19 Oct 2024 06:54:41",
-         "title" : "I Talked To My Therapist I Speak My Pieces #uschesschamps #chess #chesstactics #psychology #chesscom"
-      },
-      {
-         "description" : "In an emotional statement, GM Christopher Yoo&#39;s father Young-Kyu Yoo issued a heartfelt apology following his son&#39;s expulsion from the 2024 U.S Chess Championship after striking a videographer. &#34;Christopher offers no excuses for his behavior. He...",
+         "description" : "17-year-old GM Christopher Yoo expresses deep remorse following his expulsion from the 2024 U.S Chess Championship where he struck a videographer. Update October 21: In a new statement released by Christopher Yoo, he says: I am really sorry fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yoo-family-issues-apology-for-us-chess-championship-expulsion",
          "pubDate" : "Sat, 19 Oct 2024 06:32:00",
-         "title" : "Christopher Yoo 'Very Sad And Ashamed' After Strike, Father Says In Apology"
+         "title" : "Christopher Yoo Issues Apology After Strike: 'Very Sad For What I Did'"
       },
       {
          "description" : "In the seventh round of the 2024 U.S. Chess Championships, GM Awonder Liang moved to 4/6 and reduced GM Fabiano Caruana&#39;s lead to half a point after toppling GM Grigoriy Oparin with the black pieces. GM Ray Robson is on a rollercoaster ride he can...",
@@ -330,12 +338,12 @@ news_feed (
          "title" : "Yoo Temporarily Suspended By US Chess And Charged By Police; Caruana, Yip Lead"
       },
       {
-         "description" : "The family of Christopher Yoo released a statement Friday after the grandmaster was expelled from the U.S. Championships in St. Louis. A Statement About What Happened on Wednesday in the US Championship from Christopher Yoo's ParentsFirst and foremost, Christopher wants to publicly apologize to the female videographer that was an innocent victim of his anger after his loss of a chess game. Contrary to what some have suggested, the videographer did nothing to provoke Christopher. We heard she's doing okay but we don't have any details and we pray she is doing well both physically and emotionally. Her well-being is of deep concern to all of us.Christopher offers no excuses for his behavior. He",
+         "description" : "Both Christopher Yoo and his family have released statements after the grandmaster was expelled from the U.S. Championships in St. Louis. A Statement About What Happened on Wednesday in the US Championship from Christopher Yoo's ParentsFirst and foremost, Christopher wants to publicly apologize to the female videographer that was an innocent victim of his anger after his loss of a chess game. Contrary to what some have suggested, the videographer did nothing to provoke Christopher. We heard she's doing okay but we don't have any details and we pray she is doing well both physically and emotionally. Her well-being is of deep concern to all of us.Christopher offers no excuses for his behavior.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/yoo-family-releases-statement-after-us-championship-expulsion",
          "pubDate" : "Fri, 18 Oct 2024 00:00:00",
-         "title" : "Yoo Family Releases Statement after U.S. Championship Expulsion"
+         "title" : "UPDATED: Yoo Family Releases Statement after U.S. Championship Expulsion"
       },
       {
          "description" : "Registration is now open for the 2024 North American Youth Chess Championship, which will be held December 18-23 at the Washington Dulles Airport Marriott --- Dulles, Virginia (USA).The age categories for the 2024 North American Youth are Under 8, Under 10, Under 12, Under 14, Under 16, and Under 18. Each category has an Open and Girls section. For this tournament, a player's age is his or her age as of Jan. 1, 2024. This event is open to players from Canada, Mexico, and the United States.Each section is a 9-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins December 18. There will also be a Blitz tournament on December 19.Medals, as ",
@@ -578,7 +586,7 @@ news_feed (
          "title" : "Third and final GM norm for Ameet Ghasi and first for Jonah Willow!"
       },
       {
-         "description" : " The WR Chess Masters Cup takes place in the Langham Hotel in Portland Place, London. 16 players play in this knockout. A fast classical time control 60 min for the first 30 moves, 30 min for the next 20 moves and 30 min for the rest of the game is used with a 10 minute Armageddon game to decide tied matches (a bidding system means black will have less time but draw odds). Players: Arjun Erigaisi, Santosh Gujrathi Vidit, Nodirbek Abdusattorov, Javokhir Sindarov, Alireza Firouzja, Raunak Sadhwani, Viswanthan Anand, Victor Bologan, Praggnanandhaa R 13 Shreyas Royal Parham Maghsoodloo 14 Vaishali R, Maxime Vachier-Lagrave, Alexandra Kosteniuk, Veselin Topalov and Bodhana Sivanandan.",
+         "description" : " The WR Chess Masters Cup took place in the Langham Hotel in Portland Place, London. 16 players play in this knockout. A fast classical time control 60 min for the first 30 moves, 30 min for the next 20 moves and 30 min for the rest of the game is used with a 10 minute Armageddon game to decide tied matches (a bidding system means black will have less time but draw odds). Players: Arjun Erigaisi, Santosh Gujrathi Vidit, Nodirbek Abdusattorov, Javokhir Sindarov, Alireza Firouzja, Raunak Sadhwani, Viswanthan Anand, Victor Bologan, Praggnanandhaa R 13 Shreyas Royal Parham Maghsoodloo 14 Vaishali R, Maxime Vachier-Lagrave, Alexandra Kosteniuk, Veselin Topalov and Bodhana Sivanandan. Arjun Erigai",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-cup-2024",
