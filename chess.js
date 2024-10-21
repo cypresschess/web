@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The top teams had a smooth start to the European Club Cup in Vrnjacka Banja on Sunday, but there were some individual upsets: Praggnanandhaa (2746) lost in the first round against Francois Godart (2377), and Max Lutze (2148) of the SV Erkenschwick defeated GM Vajnap Sanal (2570). | Photo: Vincent Keymer watches his colleagues from team Novy Bor | Photos: ECU and Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-favourites-win-but-praggnanandhaa-loses",
+         "pubDate" : "Mon, 21 Oct 2024 12:18:15",
+         "title" : "European Club Cup: Favourites win but Praggnanandhaa loses"
+      },
+      {
+         "description" : "The Neo-London System is an enhanced version of the classic London System, emphasizing creativity and sharper play by avoiding common black setups and exploiting the Bf5 variation's risks for Black. The course offers extensive training with interactive exercises and novelties for surprising opponents in unexplored positions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-the-neo-london-system-the-sharper-alternative-to-the-popular-london-system",
+         "pubDate" : "Mon, 21 Oct 2024 11:00:00",
+         "title" : "Elisabeth Paehtz: The Neo-London-System - The sharper alternative to the popular London System"
+      },
+      {
+         "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup officially commenced yesterday in Vrnjacka Banja, Serbia with the first round. The first round was inaugurated with the ceremonial moves made by the ECU Vice President Mr. Gunnar Bjornsson and the President of the Serbian Chess Federation Mr. Dragan Lazic. Mr. Dragan Lazic played the first move for Dommaraju Gukesh in the match between Superchess and Gambit Bonnevoie I, while the ECU Vice President Mr. Gunnar []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cups-2024-kicked-off/",
+         "pubDate" : "Mon, 21 Oct 2024 09:44:22",
+         "title" : "European Chess Club Cups 2024 kicked off"
+      },
+      {
          "description" : "In rook endings, the privilege of having connected passed pawns can easily make the difference. But even in this case there are many hidden resources. After our first lesson a few days ago, today we are going to study a key manoeuvre you have to know if you want to survive against two connected pawns (as in this diagram). We also bring you some historical examples to help you understand the technique. Learn and enjoy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/10/20/remembering-emory-tate/",
          "pubDate" : "Sun, 20 Oct 2024 18:36:19",
          "title" : "Remembering Emory Tate"
-      },
-      {
-         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
-         "pubDate" : "Sun, 20 Oct 2024 14:50:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup were officially declared opened yesterday evening in Vrnjacka Banja, Serbia. The Opening ceremony of the event took place in the playing venue, with the attendance of ECU Vice Presidents Gunnar Bjornsson and Alojzije Jankovic, FIDE Deputy President Viswanathan Anand, the President of the Serbian Chess Federation Dragan Lazic, Director of Touristic Organisation of Vrnjacka Banja Ivan Trifunovic, ECU Tournament Director Petr Pisk and other distinguished guests. []",
