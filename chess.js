@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
+         "pubDate" : "Mon, 21 Oct 2024 14:50:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
          "description" : "The top teams had a smooth start to the European Club Cup in Vrnjacka Banja on Sunday, but there were some individual upsets: Praggnanandhaa (2746) lost in the first round against Francois Godart (2377), and Max Lutze (2148) of the SV Erkenschwick defeated GM Vajnap Sanal (2570). | Photo: Vincent Keymer watches his colleagues from team Novy Bor | Photos: ECU and Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-favourites-win-but-praggnanandhaa-loses",
          "pubDate" : "Mon, 21 Oct 2024 12:18:15",
          "title" : "European Club Cup: Favourites win but Praggnanandhaa loses"
+      },
+      {
+         "description" : "The FIDE Trainers' Seminar held in Ahmedabad from 18th to 20th October 2024 was a significant milestone for chess coaching in India. Organized by the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-fide-trainers-seminar-in-ahmedabad-from18th-to-20th-october-2024/",
+         "pubDate" : "Mon, 21 Oct 2024 12:16:17",
+         "title" : "Report :FIDE Trainers Seminar in Ahmedabad from18th to 20th October 2024"
       },
       {
          "description" : "The Neo-London System is an enhanced version of the classic London System, emphasizing creativity and sharper play by avoiding common black setups and exploiting the Bf5 variation's risks for Black. The course offers extensive training with interactive exercises and novelties for surprising opponents in unexplored positions.",
@@ -32,6 +48,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-rook-endings-connected-pawns-2",
          "pubDate" : "Mon, 21 Oct 2024 08:28:37",
          "title" : "Grivas on rook endings, connected pawns (2)"
+      },
+      {
+         "description" : "Get ready for an exciting event between two generations, as Swedish chess legend GM Pia Cramling goes head-to-head against the Internet&#39;s chess teacher IM Levy Rozman in a six-day over-the-board event in Stockholm. The Battle of Generations show...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/battle-of-generations-pia-cramling-levy-rozman",
+         "pubDate" : "Mon, 21 Oct 2024 08:00:00",
+         "title" : "Chess Legend Pia Cramling To Face Off With Levy Rozman In Battle Of Generations"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) has handed GM Kirill Shevchenko&#38;nbsp;a temporary 75-day suspension following last weekend&#39;s expulsion from the Spanish Team Chess Championship, where two locked phones were found in a bathroom.&#38;nbsp; The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shevchenko-temporarily-suspended-by-fide-with-cheating-investigation-pending",
+         "pubDate" : "Mon, 21 Oct 2024 07:28:29",
+         "title" : "Shevchenko Given 75-Day Ban Amid Cheating Investigation, Misses European Club Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Wrapping up here collegiate midterms, Carissa Yip warns her opponents and sends love to the G.O.A.T. Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/streak-carissa-yip-warns-opponents-uschesschamps-chess-collegeathletes-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w-4XQnhVuQo.jpg?itok=4pEZtJOm\" alt=\"\" /></a></div>",
@@ -642,14 +674,6 @@ news_feed (
          "title" : "First-ever Senior National Arbiters Seminar & Exam kicks off in Port Blair on 12 & 13 October 2024"
       },
       {
-         "description" : "GMs Wesley So and Sam Sevian notched wins with White in round two of the 2024 U.S. Championship and have taken an early half-point lead over the pack. So won a pawn against GM Christopher Yoo and never let it go, while Sevian played creatively to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-2",
-         "pubDate" : "Sat, 12 Oct 2024 23:19:00",
-         "title" : "So, Sevian Register First Wins; Caruana, Shankland Miss Golden Opportunities"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -658,28 +682,12 @@ news_feed (
          "title" : "Happy birthday, Nana Alexandria!"
       },
       {
-         "description" : "SRM and Athens prevailed in week three of the 2024 Collegiate Chess League (CCL) Fall Season.&#38;nbsp;SRM took the sole lead as the only remaining perfect score after defeating Saint Louis. The Indian team turned in a well-rounded result to edge ahea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-athens",
-         "pubDate" : "Sat, 12 Oct 2024 18:34:00",
-         "title" : "Newcomers Take Down 4-Time Champions, Team Spirit Carries Athens To Victory"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3259",
          "pubDate" : "Sat, 12 Oct 2024 18:10:22",
          "title" : "Tech Mahindra Global Chess League: Triveni clinch second title in spectacular fashion"
-      },
-      {
-         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-youth-rapid-blitz-chess-championships-2024-in-terme-catez-slovenia-from-13th-to-17th-december-2024/",
-         "pubDate" : "Sat, 12 Oct 2024 14:00:43",
-         "title" : "FIDE World Youth Rapid & Blitz Chess Championships - 2024 in Terme Catez, Slovenia from 13th to 17th December, 2024"
       },
       {
          "description" : "Season one champions, Triveni Continental Kings, triumphed over the PBG Alaskan Knights in both final matches to secure their second title in the Global Chess League.",
@@ -1128,22 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3236",
          "pubDate" : "Tue, 01 Oct 2024 08:00:42",
          "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3237",
-         "pubDate" : "Mon, 30 Sep 2024 12:56:40",
-         "title" : "Asian Chess Federation Announces Esports Focus with Echess"
-      },
-      {
-         "description" : "Congratulations to the UK Open Blitz qualifiers to date from the London, South West, Midlands and North West events. The remaining three qualifying events will take place next weekend (5th...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-to-the-uk-open-blitz-qualifiers-to-date-from-the-london-south-west-midlands-and-north-west-events-the-remaining-three-qualifying-events-will-take-place-next-weekend-5th-and-6th-oct/",
-         "pubDate" : "Mon, 30 Sep 2024 12:00:18",
-         "title" : "UK Open Blitz Qualifiers - the story so far!"
       }
    ]
 }
