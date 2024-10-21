@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Wrapping up here collegiate midterms, Carissa Yip warns her opponents and sends love to the G.O.A.T. Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/streak-carissa-yip-warns-opponents-uschesschamps-chess-collegeathletes-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w-4XQnhVuQo.jpg?itok=4pEZtJOm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/streak-carissa-yip-warns-opponents-uschesschamps-chess-collegeathletes-chesscom",
+         "pubDate" : "Mon, 21 Oct 2024 00:55:28",
+         "title" : "The Streak: Carissa Yip Warns Opponents #uschesschamps #chess #collegeathletes #chesscom"
+      },
+      {
          "description" : "In the open section of the US Championships, defending champion Fabiano Caruana drew with second seed Wesley So, maintaining a half-point lead over his closest chasers - Awonder Liang and Hans Niemann - with three rounds remaining. Meanwhile, in the women's section, Carissa Yip continued her dominant run, securing her eighth consecutive win by defeating Atousa Pourkashiyan. Yip, now 2&frac12; points ahead of her nearest rival, is just three wins away from claiming the $64,000 Bobby Fischer prize for a perfect 11/11 score. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yoo-family-issues-apology-for-us-chess-championship-expulsion",
          "pubDate" : "Sat, 19 Oct 2024 06:32:00",
          "title" : "Christopher Yoo 'Very Sad And Ashamed' After Strike, Father Says In Apology"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Careful with the knight, it comes with something worse than a royal fork </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-vs-cervantes-sharing-craziness-uschesschamps-chess-checkmate-education-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A6C4W9kX9Lo.jpg?itok=iTf91yGJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-vs-cervantes-sharing-craziness-uschesschamps-chess-checkmate-education-chess",
-         "pubDate" : "Sat, 19 Oct 2024 03:54:40",
-         "title" : "Krush vs Cervantes: Sharing The Craziness #uschesschamps #chess #checkmate #education #chess"
       },
       {
          "description" : "In the seventh round of the 2024 U.S. Chess Championships, GM Awonder Liang moved to 4/6 and reduced GM Fabiano Caruana&#39;s lead to half a point after toppling GM Grigoriy Oparin with the black pieces. GM Ray Robson is on a rollercoaster ride he can...",
