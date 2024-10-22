@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
+         "pubDate" : "Tue, 22 Oct 2024 14:50:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 25 November 5 December 2024. In the Webinar the titles of ECU Expert Coach, or ECU Junior Coach, or ECU Novice Coach, may/will be awarded. Each participant must successfully meet the following requirements: Personal Curriculum Vitae (special Form), Participation in the Webinar (€ 100), Webinar's Test, Title Fee Payment (€ 200 or € 300). The Webinar fee will be waived for selected participants: One participant []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-5th-ecu-trainers-online-seminar/",
+         "pubDate" : "Tue, 22 Oct 2024 13:33:04",
+         "title" : "The 5th ECU Trainers Online Seminar"
+      },
+      {
          "description" : "In the open tournament of the European Club Cup, the top clubs continued to win comfortably in the second round. But on some boards, the underdogs managed to stage some upsets. Benedict Krause, for example, took a grandmaster scalp for St. Pauli. In the Women's Cup, Monte Carlo had to concede its first point. | Photo: Ivan Sokolov watches the action | Photos: European Chess Union and Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-the-favourites-dominate",
          "pubDate" : "Tue, 22 Oct 2024 13:18:20",
          "title" : "European Club Cup: The favourites dominate"
+      },
+      {
+         "description" : "After finishing the Final round in all the Formats of Chess. yesterday we witnessed a very Cheerful and delightful performance by Indians here in Philippines,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-cheerful-performance-by-indians-chess-stars-in-asian-juniors-girls-chess-championship-2024/",
+         "pubDate" : "Tue, 22 Oct 2024 12:29:52",
+         "title" : "Final Report - Cheerful Performance by Indians Chess Stars in Asian Juniors & Girls Chess Championship 2024"
       },
       {
          "description" : "Indian Grandmaster Sasikiran Krishnan (which is the actual correct name order), reflects on his remarkable chess journey, from learning the game as a child in Chennai to becoming one of India's top players. He shares personal stories about overcoming challenges both on and off the board, highlighting key moments in his career and life, like reaching 2700+ rating, winning the bronze medal at the Olympiad, and his impressive weight loss journey, where he dropped 35 kg, only to become too weak and end up in the hospital.",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://aicf.in/p-v-nandhidhaa-is-the-national-women-champion-2024/",
          "pubDate" : "Sun, 13 Oct 2024 13:27:54",
          "title" : "P V Nandhidhaa is the National Women Champion 2024"
-      },
-      {
-         "description" : "The commencement of the first-ever Senior National Arbiters Seminar in Port Blair is indeed a major development for chess arbitration in the Andaman and Nicobar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/first-ever-senior-national-arbiters-seminar-exam-kicks-off-in-port-blair-on-12-13-october-2024/",
-         "pubDate" : "Sun, 13 Oct 2024 07:40:45",
-         "title" : "First-ever Senior National Arbiters Seminar & Exam kicks off in Port Blair on 12 & 13 October 2024"
       },
       {
          "description" : "",
