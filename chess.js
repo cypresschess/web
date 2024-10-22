@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three rounds were played at the European Chess Club Cup 2024 and eight teams remained perfect in the Open section, while only two teams score maximum 6 match points in the Women's competition. Teams in the co-lead after three rounds are SuperChess, Turkish Airlines, TAJFUN SK Ljubljana, Alkaloid, Bayegan Pendik Chess Sports Club, Novy Bor Chess Club, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Sentimento Ajka BSK. The top seeded SuperChess took a convincing 5-1 victory against Azerbaijani team Vugar Gashimov []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-chess-club-cup-2024/",
+         "pubDate" : "Tue, 22 Oct 2024 23:12:56",
+         "title" : "Three rounds played at the European Chess Club Cup 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 9 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-falls-caruana-still-top-round-9-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-falls-caruana-still-top-round-9-recap-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 21:56:25",
+         "title" : "Carissa Falls, Caruana Still On Top | Round 9 RECAP | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. and U.S. Women's Championships, as of before Round 10. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-9-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zTbm7XP9Uwc.jpg?itok=pTIBRx7Q\" a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-9-r10-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 21:56:25",
+         "title" : "Who is Likely to Win After Round 9? | R10 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 10. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/defending-champ-carissa-yip-not-every-game-has-be-win-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 21:56:25",
+         "title" : "Defending Champ Carissa Yip: Not Every Game has to be a Win | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred joins the show during Round 10 of the 2024 U.S. Chess Championships. 2024.10.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/emily-allred-ten-wchof-inductions-october-29th-r10-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 21:56:25",
+         "title" : "Emily Allred: Ten WCHOF Inductions October 29th! | R10 #USChessChamps"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3268",
+         "pubDate" : "Tue, 22 Oct 2024 21:47:30",
+         "title" : "European Chess Club Cup: Multiple leaders after Round 3"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,36 +170,20 @@ news_feed (
          "title" : "Sam...Opportunity IS Knocking #uschesschamps #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Anastasiya Karlovich after defeating Abrahamyan in Round 9 of the 2024 U.S. Women's Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-time-travel-favorite-superhero-cheating-r9-uschesschamps",
-         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
-         "title" : "Jennifer Yu on Time Travel, Favorite Superhero, & Cheating! | R9 #USChessChamps"
+         "description" : "Players from 19 federations across the Americas competed in the 2024 FIDE Pan-American School Chess Championship, held October 12 through 19 in Asunci&oacute;n, Paraguay. While only three players from the United States traveled to the capital city, they returned with two gold medals (one in the classical event, and one in the rapid event). WCM Irene Fei, from Iowa, won the Under-13 Girls section as the top-rated player despite only being 11 years old. The victory earned her the WFM title and will make her the youngest WFM in the Americas. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo courtesy of the organizers<br> <br> Full results from the tourna",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/irene-fei-wins-gold-fide-pan-american-school-chess-championship",
+         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
+         "title" : "Irene Fei Wins Gold at FIDE Pan-American School Chess Championship "
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Krush in Round 9 of the 2024 U.S. Women's Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/or-begim-answers-hilarious-questions-r9-uschesschamps",
-         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
-         "title" : "This or That? Begim Answers Hilarious Questions | R9 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Megan Lee talks to Anastasiya Karlovich after defeating Carissa Yip in Round 9 of the 2024 U.S. Women's Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/megan-lee-beats-carissa-fischer-prize-table-r9-uschesschamps",
-         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
-         "title" : "Megan Lee Beats Carissa! Fischer Prize Off the Table | R9 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after defeating Sevian in Round 9 of the 2024 U.S. Chess Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-every-game-opportunity-show-your-best-r9-uschesschamps",
-         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
-         "title" : "Dominguez: Every Game is an Opportunity to Show Your Best | R9 #USChessChamps"
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 17 grant awards (up from seven last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2024 grant recipients are:All-Girls High School Chess Club (Weston, MA)Chess Cardinals (Chesterfield, MO)Chess Girls DC (Washington, DC)Chess Through Challenges Inc. (Bronx, NY)Columbus Chess Academy (Columbus, OH)FEMchess (Fremont, CA)Florida Chess Association (Palm Beach, FL)Hampton Roads Chess Association (Vi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-womens-program-awards-17-grants",
+         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
+         "title" : "US Chess Women's Program Awards 17 Grants"
       },
       {
          "description" : "This week continues a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles again focus on hanging, loose, and otherwise under-protected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -522,14 +554,6 @@ news_feed (
          "title" : "Yoo Expelled From U.S. Championship Due To \"Gross Violations\" Of Code Of Conduct"
       },
       {
-         "description" : "If the rest day was the calm before the storm, then the fifth round of the U.S. Championship was truly the storm, with a whopping ten decisive games out of twelve. In the Women's section, defending champion IM Carissa Yip extended her lead as she moved to a stunning 5/5 score. In the Open, defending champion GM Fabiano Caruana also remains in the lead, although an incident leading to a player's expulsion reshaped the leaderboard. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy Lennart Ootes/SLCC unless otherwise noted<br> <br> Women'sThe U.S. Women's Championship saw games packed with action and tension right from the start. Combative open",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-champs-yip-remains-perfect-after-five-rounds-caruana-preserves-lead-yoo-expelled-tournament",
-         "pubDate" : "Thu, 17 Oct 2024 00:00:00",
-         "title" : "U.S. Champs: Yip Remains Perfect After Five Rounds; Caruana Preserves Lead as Yoo Expelled From Tournament"
-      },
-      {
          "description" : "GM Arjun Erigaisi is just one win away from crossing 2800 after winning the first game of his 2024 WR Chess Masters Cup Semifinal and then surviving a scare in the second when GM Praggnanandhaa Rameshbabu missed a win on his last move. Arjun now f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-release-launch-of-ecu-tv/",
          "pubDate" : "Wed, 16 Oct 2024 06:21:42",
          "title" : "Press Release: Launch of ECU TV "
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on rook endgames. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-3-rook-endgames",
-         "pubDate" : "Wed, 16 Oct 2024 00:00:00",
-         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 3 (Rook Endgames)"
       },
       {
          "description" : "GM Alireza Firouzja was gifted a win when GM Raunak Sadhwani overslept their first game, before a draw in the second secured a spot in the 2024 WR Chess Masters Cup Semifinals. Firouzja will play GM Maxime Vachier-Lagrave, who beat GM Nodirbek Abd...",
@@ -1144,22 +1160,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41564559/global-chess-league-2024-preview-magnus-carlsen-viswanathan-anand-arjun-erigaisi-anish-giri-unmissable-season-2?device=featurephone",
          "pubDate" : "Wed, 2 Oct 2024 06:42:56",
          "title" : "Carlsen, Anand, Arjun, Giri and co. promise to make Global Chess League season 2 unmissable"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3239",
-         "pubDate" : "Tue, 01 Oct 2024 20:58:13",
-         "title" : "X Ibero-American Championship: Alan Pichot captures title"
-      },
-      {
-         "description" : " The Jamaican chess delegation trekked to Budapest, Hungary, for the 45th Chess Olympiad. The island nation sent two teams, with former president&#160;Ian Wilkinson&#160;as head of the delegation. The event marked the 100th anniversary of FIDE, the world's governing chess body. The Chess Drum got a chance to chat with members of the Jamaican delegation. Wilkinson The post <a href=\"https://www.thechessdrum.net/blog/2024/10/01/jamaican-chess-dons-post-olympiad-energy/\">Jamaican Chess dons post-Olympiad energy</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/10/01/jamaican-chess-dons-post-olympiad-energy/",
-         "pubDate" : "Tue, 01 Oct 2024 19:56:26",
-         "title" : "Jamaican Chess dons post-Olympiad energy"
       }
    ]
 }
