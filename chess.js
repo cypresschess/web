@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the open tournament of the European Club Cup, the top clubs continued to win comfortably in the second round. But on some boards, the underdogs managed to stage some upsets. Benedict Krause, for example, took a grandmaster scalp for St. Pauli. In the Women's Cup, Monte Carlo had to concede its first point. | Photo: Ivan Sokolov watches the action | Photos: European Chess Union and Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-the-favourites-dominate",
+         "pubDate" : "Tue, 22 Oct 2024 13:18:20",
+         "title" : "European Club Cup: The favourites dominate"
+      },
+      {
+         "description" : "Indian Grandmaster Sasikiran Krishnan (which is the actual correct name order), reflects on his remarkable chess journey, from learning the game as a child in Chennai to becoming one of India's top players. He shares personal stories about overcoming challenges both on and off the board, highlighting key moments in his career and life, like reaching 2700+ rating, winning the bronze medal at the Olympiad, and his impressive weight loss journey, where he dropped 35 kg, only to become too weak and end up in the hospital.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-sasikiran-krishnan",
+         "pubDate" : "Tue, 22 Oct 2024 12:00:00",
+         "title" : "Interview with Sasikiran Krishnan"
+      },
+      {
+         "description" : "Two rounds have been played at the European Chess Club Cups 2024 in Vrnjacka Banja, Serbia. Most of the favourites in the Open section kept the winning streak, including the top seeded SuperChess, Alkaloid, Novy Bor Chess Club, Bayegan Pendik Chess Sports Club, Turkish Airlines, who scored convincing victories. Majority of 2700+ rated players were victorious yesterday including Gukesh D, Nodirbek Abdusattorov, Arjun Erigaisi, Wei Yi, Yu Yangyi, Vidit Santosh Gujrathi, Vincent Keymer etc. Praggnandhaa struggled again, and after the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cups-2024-round-2-recap/",
+         "pubDate" : "Tue, 22 Oct 2024 10:31:14",
+         "title" : "European Chess Club Cups 2024 - Round 2 recap"
+      },
+      {
+         "description" : "Queens are very peculiar pieces. They love to attack and hate to defend. The difference in the value of this piece when attacking and defending is striking. An attacking queen is perhaps twice as valuable than a defending one. In a way, it makes a lot of sense. A queen is a very mobile and precious piece. Being mobile, it can attack very well, creating double attacks, forks, moving from one side to the other with ease. Being precious, it is barely able to cover anything. (For the same reason we don't use golden locks to protect our bicycles. Thieves would gladly steal both the bike and the lock.) The qualities of a queen are very visible in situations when it must fight less valuable pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-38-queens-just-wanna-have-fun",
+         "pubDate" : "Tue, 22 Oct 2024 10:00:00",
+         "title" : "The Winning Academy 38: Queens just wanna have fun"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 9 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-falls-caruana-still-top-recap-2024-us-chess-championships-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,11 +114,11 @@ news_feed (
          "title" : "Dominguez: Every Game is an Opportunity to Show Your Best | R9 #USChessChamps"
       },
       {
-         "description" : "GM Fabiano Caruana has taken another step towards defending his title at the 2024 U.S. Chess Championships after securing a draw with the second-placed GM Awonder Liang and moving to 5.5/8. GM Leinier Dominguez&#39;s win over GM Sam Sevian was the onl...",
+         "description" : "GM Fabiano Caruana has taken another step towards defending his title at the 2024 U.S. Chess Championships after securing a draw with second-placed GM Awonder Liang and moving to 5.5/8. GM Leinier Dominguez&#39;s win over GM Sam Sevian was the only de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-9",
-         "pubDate" : "Mon, 21 Oct 2024 23:55:26",
+         "pubDate" : "Mon, 21 Oct 2024 23:55:00",
          "title" : "Caruana Draws With Liang, Maintains Lead; Yip's Streak Is Snapped"
       },
       {
@@ -104,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu",
          "pubDate" : "Mon, 21 Oct 2024 16:08:00",
          "title" : "SRM Reaches Perfect 4/4, Saint Louis Bounces Back"
-      },
-      {
-         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
-         "pubDate" : "Mon, 21 Oct 2024 14:50:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "The top teams had a smooth start to the European Club Cup in Vrnjacka Banja on Sunday, but there were some individual upsets: Praggnanandhaa (2746) lost in the first round against Francois Godart (2377), and Max Lutze (2148) of the SV Erkenschwick defeated GM Vajnap Sanal (2570). | Photo: Vincent Keymer watches his colleagues from team Novy Bor | Photos: ECU and Gerd Densing",
@@ -206,7 +230,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-8",
-         "pubDate" : "Sun, 20 Oct 2024 03:06:33",
+         "pubDate" : "Sun, 20 Oct 2024 03:06:00",
          "title" : "Yip Scores 8th Straight Win, 3 Away From Fischer's Record"
       },
       {
@@ -278,7 +302,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-7",
-         "pubDate" : "Sat, 19 Oct 2024 01:41:47",
+         "pubDate" : "Sat, 19 Oct 2024 01:41:00",
          "title" : "Yip Wins 7th Straight Game, Liang Closes Gap To Caruana"
       },
       {
@@ -1128,22 +1152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-grassroots-fund/",
          "pubDate" : "Tue, 01 Oct 2024 15:59:41",
          "title" : "ECF Grassroots Fund"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3238",
-         "pubDate" : "Tue, 01 Oct 2024 08:33:46",
-         "title" : "Erigaisi enters top 3 Open in October 2024 rating list"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3236",
-         "pubDate" : "Tue, 01 Oct 2024 08:00:42",
-         "title" : "WFCC World Solving Championships for Youth and Cadets: Free online training sessions"
       }
    ]
 }
