@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Tue, 22 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "The papers for this coming Saturday's AGM can be found here: https://www.englishchess.org.uk/about/ecf-council-and-board/",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-papers/",
+         "pubDate" : "Tue, 22 Oct 2024 16:05:28",
+         "title" : "ECF AGM - Papers"
+      },
+      {
          "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,20 +154,28 @@ news_feed (
          "title" : "Dominguez: Every Game is an Opportunity to Show Your Best | R9 #USChessChamps"
       },
       {
+         "description" : "This week continues a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles again focus on hanging, loose, and otherwise under-protected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-3-loose-pieces-still-drop",
+         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
+         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 3 (Loose Pieces Still Drop Off)"
+      },
+      {
+         "description" : "IM Carissa Yip's perfect run ended yesterday after a fighting loss to FM Megan Lee. Her lead in the U.S. Women's Championship was narrowed to \"only\" 1&frac12; points with two rounds to go. Comparatively, the Open section was much more peaceful, with the only decisive game not influencing the race for first. GM Fabiano Caruana maintained his half-point lead over second-place GM Awonder Liang after the pair drew their head-to-head game. Women'sThree decisive games in the women's section did not technically change the rankings much, but they did end Yip's previously realistic chances of earning the $64,000 Fischer Prize with a perfect 11/11 score. Both she and FM Megan Lee came ready for a figh",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/calm-day-open-carissas-streak-broken-round-nine",
+         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
+         "title" : "Calm Day in the Open, but Carissa's Streak Broken in Round Nine"
+      },
+      {
          "description" : "GM Fabiano Caruana has taken another step towards defending his title at the 2024 U.S. Chess Championships after securing a draw with second-placed GM Awonder Liang and moving to 5.5/8. GM Leinier Dominguez&#39;s win over GM Sam Sevian was the only de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-9",
          "pubDate" : "Mon, 21 Oct 2024 23:55:00",
          "title" : "Caruana Draws With Liang, Maintains Lead; Yip's Streak Is Snapped"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Mon, 21 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "SRM extended their perfect score to 4/4 in week four of the 2024 Collegiate Chess League (CCL) Fall Season. Saint Louis defeated Virginia and continues chasing SRM from a point behind. Even with a 4/4 sweep by Athens&#39;s board one, IM Dimitris Ale...",
@@ -600,22 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-dommaraju-virtual-press-conference",
          "pubDate" : "Tue, 15 Oct 2024 11:21:00",
          "title" : "Gukesh: 'I'm Quite Eager To Start The Match'"
-      },
-      {
-         "description" : "This week continues a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles all focus on hanging, loose, and otherwise underprotected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-2-lpdo",
-         "pubDate" : "Tue, 15 Oct 2024 00:00:00",
-         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 2 (LPDO)"
-      },
-      {
-         "description" : "Round four of the 2024 U.S. Championship and U.S. Women's Championship saw last year's defending champions GM Fabiano Caruana and IM Carissa Yip each notch another victory, with a total of four more decisive games (across the two sections) to boot. Caruana climbed to the sole lead for the first time, while Yip extended her lead to a full point heading into the first rest day.Open <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Lennart Ootes/SLCC<br> <br> Of the five players tied with 2/3 heading into yesterday's round, only Caruana managed to win. Although GM Abhimanyu Mishra managed to escape the opening (the Steintz variation of the ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-championships-round-four-defending-champions-pull-ahead",
-         "pubDate" : "Tue, 15 Oct 2024 00:00:00",
-         "title" : "U.S. Championships Round Four: Defending Champions Pull Ahead"
       },
       {
          "description" : "Five leaders were whittled down to one in the fourth round of the 2024 U.S. Championship as GM Fabiano Caruana defeated GM Abhimanyu Mishra and moved to 3/4. GM Ray Robson scored the only other decisive result of the round, thwarting a dubious paw...",
@@ -1152,22 +1160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/10/01/jamaican-chess-dons-post-olympiad-energy/",
          "pubDate" : "Tue, 01 Oct 2024 19:56:26",
          "title" : "Jamaican Chess dons post-Olympiad energy"
-      },
-      {
-         "description" : " The Julius Baer Generation Cup took place Fri 27th Sep to Tue 1st Oct 2024. The event is the last qualifiying event in the online Champions Chess Tour before the finals in December. The format is the Double Elimination KO format where you have to lose two matches to be knocked out. Magnus Carlsen had to qualify but still reached the Grand Final after winning the winners final. Carlsen beat Alireza Firouzja 2.5-1.5 in the final of Division 1, Wesley So beat Denis Lazavik 3-2 in Division 2 and Fabiano Caruana beat Vincent Keymer 2.5-0.5 to win Division 3. There were no Grand Final Resets required in any of the divisions.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2024",
-         "pubDate" : "Tue, 1 Oct 2024 18:56:00",
-         "title" : "Julius Baer Generation Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "The ECF grassroots initiative was launched on 16th July this year (on the ECF website and in the July edition of ChessMoves). The fund is intended to be a multi-year...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-grassroots-fund/",
-         "pubDate" : "Tue, 01 Oct 2024 15:59:41",
-         "title" : "ECF Grassroots Fund"
       }
    ]
 }
