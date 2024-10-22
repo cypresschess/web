@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Anastasiya Karlovich after defeating Abrahamyan in Round 9 of the 2024 U.S. Women's Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-time-travel-favorite-superhero-cheating-r9-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
+         "title" : "Jennifer Yu on Time Travel, Favorite Superhero, & Cheating! | R9 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Krush in Round 9 of the 2024 U.S. Women's Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/or-begim-answers-hilarious-questions-r9-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
+         "title" : "This or That? Begim Answers Hilarious Questions | R9 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Megan Lee talks to Anastasiya Karlovich after defeating Carissa Yip in Round 9 of the 2024 U.S. Women's Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/megan-lee-beats-carissa-fischer-prize-table-r9-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
+         "title" : "Megan Lee Beats Carissa! Fischer Prize Off the Table | R9 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after defeating Sevian in Round 9 of the 2024 U.S. Chess Championship. 2024.10.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-every-game-opportunity-show-your-best-r9-uschesschamps",
+         "pubDate" : "Tue, 22 Oct 2024 00:55:58",
+         "title" : "Dominguez: Every Game is an Opportunity to Show Your Best | R9 #USChessChamps"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Mastercard Security Risk Management Vice President Henry Stephenson joins the show during Round 7 of the 2024 U.S. Chess Championships. 2024.10.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,38 +82,6 @@ news_feed (
          "title" : "Carissa 7/7! 'Not Letting Fischer Prize Affect My Play' | R7 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Megan Lee talks to Anastasiya Karlovich after defeating Alice Lee in Round 7 of the 2024 U.S. Women's Championship. 2024.10.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/megan-lee-just-trying-even-score-r7-uschesschamps",
-         "pubDate" : "Mon, 21 Oct 2024 21:55:51",
-         "title" : "Megan Lee: Just Trying for an Even Score | R7 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Anastasiya Karlovich after defeating Krush in Round 7 of the 2024 U.S. Women's Championship. 2024.10.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu%E2%80%99s-krush-ing-strategy-get-out-book-r7-uschesschamps",
-         "pubDate" : "Mon, 21 Oct 2024 21:55:51",
-         "title" : "Jennifer Yu's Krush-ing Strategy: Get Out of Book | R7 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Thalia Cervantes talks to Anastasiya Karlovich after defeating Abrahamyan in Round 7 of the 2024 U.S. Women's Championship. This aired during Round 8. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cervantes-wins-%E2%80%98typical-mess%E2%80%99-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TVtAeza-0Yo.jpg?itok=IMfg16ue\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cervantes-wins-%E2%80%98typical-mess%E2%80%99-r7-uschesschamps",
-         "pubDate" : "Mon, 21 Oct 2024 21:55:51",
-         "title" : "Cervantes: Wins with 'Typical Mess' | R7 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This aired during Round 8. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-chess-resources-most-improve-your-game-uschesschamps",
-         "pubDate" : "Mon, 21 Oct 2024 21:55:51",
-         "title" : "What Chess Resources Most Improve Your Game? | #USChessChamps"
-      },
-      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,11 +90,11 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
-         "description" : "SRM extended their perfect score to 4/4 in week four of the 2024 Collegiate Chess League (CCL) Fall Season. Saint Louis defeated Virginia and continues chasing after SRM from a point behind. Even with a 4/4 sweep by Athens&#39;s board one, IM Dimitr...",
+         "description" : "SRM extended their perfect score to 4/4 in week four of the 2024 Collegiate Chess League (CCL) Fall Season. Saint Louis defeated Virginia and continues chasing SRM from a point behind. Even with a 4/4 sweep by Athens&#39;s board one, IM Dimitris Ale...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu",
-         "pubDate" : "Mon, 21 Oct 2024 16:08:40",
+         "pubDate" : "Mon, 21 Oct 2024 16:08:00",
          "title" : "SRM Reaches Perfect 4/4, Saint Louis Bounces Back"
       },
       {
