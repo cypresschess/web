@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Women's US Championship, Carissa Yip secured her third national title with a round to spare, despite suffering two consecutive losses after a dominant start. Meanwhile, in the open section, Fabiano Caruana holds the lead going into the final round, as Awonder Liang, Sam Sevian and Hans Niemann still have theoretical chances of winning the tournament. Two games ended decisively in the open, with Ray Robson beating Abhimanyu Mishra and Sevian getting the better of Sam Shankland. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-10",
+         "pubDate" : "Wed, 23 Oct 2024 15:10:00",
+         "title" : "Carissa Yip claims third US women's title with a round to spare"
+      },
+      {
+         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
+         "pubDate" : "Wed, 23 Oct 2024 14:50:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
          "description" : "In our short interview with Sethuraman S P, the winner of the Weissenhaus Young Masters, he shares his experience of winning the bronze medal at the Chess Olympiad, a significant milestone for the Indian team. He talks about growing up in Chennai, often called the chess hub of India, where he was inspired by world champion Viswanathan Anand. The Indian GM also reflects on his ambitions to reach a 2700 rating despite the challenges of competing against a new generation of young, talented players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/weissenhaus-young-masters-playing-chess-in-a-castler",
          "pubDate" : "Wed, 23 Oct 2024 08:42:06",
          "title" : "Weissenhaus Young Masters: Playing chess in a castle"
+      },
+      {
+         "description" : "GMs Nikolas Theodorou&#38;nbsp;and Jeffery Xiong took home the Titled Tuesday tournaments of October 22, both scoring 9.5 points. It was Theodoru&#39;s first win in Titled Tuesday and Xiong&#39;s 14th since October 2020, and Xiong&#39;s third of 2024. Tiebreaks w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/theodoru-xiong-win-titled-tuesday-october-22-2024",
+         "pubDate" : "Wed, 23 Oct 2024 08:23:17",
+         "title" : "\"Cancun Carlsen\" Comes Just Short Vs. First-Time Titled Tuesday Winner; Xiong Wins Late"
       },
       {
          "description" : "The Senior National Arbiter Seminar &#38; Examination, organized by the Andaman Nicobar Chess Association on behalf of the All India Chess Federation (AICF) and the",
@@ -82,6 +106,22 @@ news_feed (
          "title" : "2024 U.S. Chess Championships: Round 11"
       },
       {
+         "description" : "This week's Wednesday Workout continues our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on endgames without rooks. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-4-more-endgames",
+         "pubDate" : "Wed, 23 Oct 2024 00:00:00",
+         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 4 (More Endgames)"
+      },
+      {
+         "description" : "With a round to spare, IM Carissa Yip has won the 2024 U.S. Women's Championship and the $35,000 first prize (plus a $5,000 winner's bonus). GM Fabiano Caruana still leads GM Awonder Liang by a half-point in the 2024 U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 U.S. Women's Champion: IM Carissa Yip (all photos courtesy Lennart Ootes/SLCC)<br> <br> This is the 21-year-old's second consecutive championship and third in four years. It is also, strangely enough, the second straight year Yip has won the championship in a round where she lost her game. Read on for all the details of a tense penultimate round in St. Louis, with ann",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-champs-yip-clinches-third-title-alice-lee-makes-her-move",
+         "pubDate" : "Wed, 23 Oct 2024 00:00:00",
+         "title" : "U.S. Champs: Yip Clinches Third Title, Alice Lee Makes Her Move"
+      },
+      {
          "description" : "Three rounds were played at the European Chess Club Cup 2024 and eight teams remained perfect in the Open section, while only two teams score maximum 6 match points in the Women's competition. Teams in the co-lead after three rounds are SuperChess, Turkish Airlines, TAJFUN SK Ljubljana, Alkaloid, Bayegan Pendik Chess Sports Club, Novy Bor Chess Club, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Sentimento Ajka BSK. The top seeded SuperChess took a convincing 5-1 victory against Azerbaijani team Vugar Gashimov []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-10",
          "pubDate" : "Tue, 22 Oct 2024 21:11:00",
          "title" : "Yip Wins Women's Championship With Round To Spare; Caruana On Cusp Of Glory"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Tue, 22 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       },
       {
          "description" : "The papers for this coming Saturday's AGM can be found here: https://www.englishchess.org.uk/about/ecf-council-and-board/",
@@ -506,22 +538,6 @@ news_feed (
          "title" : "2024 North American Youth Championship Announced"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> For National Chess Week, at least 49 tournaments were held across the country, consisting of 2,979 players and tens of thousands of rated games. This is only including tournaments that were submitted with \"National Chess Day,\" \"National Chess Week,\" \"NCD,\" or \"NCW\" as part of the tournament name. If you organized one of these tournaments - or any non-rated chess festivities - we want to hear from you! Email John Hartmann with any photos or information if you are interested in having your event included in future magazine spreads on National Chess Day. This page will also be updated with photos from National Chess Day ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-chess-week-rewind-national-recognition-olympiad-teams-and-more",
-         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
-         "title" : "National Chess Week Rewind: National Recognition for Olympiad Teams and More"
-      },
-      {
-         "description" : "Most major sports competitions go all-out for glamorous halftime shows full of bright lights and music reverberating throughout the stadium. Fittingly, Thursday's sixth round (of eleven) was its own halftime show of sorts. While it was the competitors themselves putting on the performance, there was plenty of dazzling chess to entertain us viewers. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Lennart Ootes/SLCC<br> <br> So, unravel that chessboard, grab a snack, and set those mental cogs into motion, as round six o",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/halftime-fireworks-yip-caruana-extend-us-champs-leads",
-         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
-         "title" : "Halftime Fireworks as Yip, Caruana Extend U.S. Champs Leads"
-      },
-      {
          "description" : "GM Arjun Erigaisi defeated Maxime Vachier-Lagrave in armageddon to win the 2024 WR Chess Masters Cup, picking up the &#38;euro;20,000 top prize and 27.84 FIDE Circuit points. The one thing he missed out on was crossing 2800 for the first time, after h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-4",
          "pubDate" : "Mon, 14 Oct 2024 23:29:00",
          "title" : "Caruana Beats Mishra, Assumes Sole Lead; Yip Still Perfect"
-      },
-      {
-         "description" : "Five Indian grandmasters are through to the Quarterfinals of the 2024 WR Chess Masters Cup, which will feature the all-Indian clashes GM Arjun Erigaisi vs. GM Vidit Gujrathi and GM Viswanathan Anand vs. GM Praggnanandhaa Rameshbabu. GM Raunak Sadh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-wr-chess-masters-cup-round-1",
-         "pubDate" : "Mon, 14 Oct 2024 17:50:51",
-         "title" : "5 Indian Grandmasters In WR Chess Masters Cup Quarterfinals"
       },
       {
          "description" : "",
