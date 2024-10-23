@@ -5,6 +5,7 @@ jtable([
 "SPRING","2024-10-18","34","<a href=http://www.uschess.org/msa/XtblMain.php?202410181282 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-10-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202410180332 target='_blank'>FBCC 2024 NATIONAL CHOCOLATE CUPCAK</a>",
 "HOUSTON","2024-10-12","331","<a href=http://www.uschess.org/msa/XtblMain.php?202410128202 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
+"HOUSTON","2024-10-12","11","<a href=http://www.uschess.org/msa/XtblMain.php?202410127152 target='_blank'>OCT 12 - TROPHY SCHOLASTIC ON NATIO</a>",
 "HOUSTON","2024-10-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202410126442 target='_blank'>CHESSPANDA10122024SATURDAY</a>",
 "HOUSTON","2024-10-11","27","<a href=http://www.uschess.org/msa/XtblMain.php?202410115862 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-10-04  - 10-06","55","<a href=http://www.uschess.org/msa/XtblMain.php?202410063382 target='_blank'>$2,500 OCTOBER 2024 CHAMPIONSHIP</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2024-03-15","26","<a href=http://www.uschess.org/msa/XtblMain.php?202403158532 target='_blank'>Knights of Cypress</a>",
 "SPRING","2024-03-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202403158492 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-03-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202403158402 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 15, 2024</a>",
-"SUGAR LAND","2024-03-15","4","<a href=http://www.uschess.org/msa/XtblMain.php?202403158392 target='_blank'>FBCC 2024 SPRING BREAK OPEN</a>",
 ]);
