@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In our short interview with Sethuraman S P, the winner of the Weissenhaus Young Masters, he shares his experience of winning the bronze medal at the Chess Olympiad, a significant milestone for the Indian team. He talks about growing up in Chennai, often called the chess hub of India, where he was inspired by world champion Viswanathan Anand. The Indian GM also reflects on his ambitions to reach a 2700 rating despite the challenges of competing against a new generation of young, talented players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-sethuraman-s-p-winner-of-the-weissenhaus-young-masters",
+         "pubDate" : "Wed, 23 Oct 2024 10:13:00",
+         "title" : "Interview with Sethuraman S P - Winner of the Weissenhaus Young Masters!"
+      },
+      {
+         "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiter-refresher-course-for-left-over-arbiters-2024-2025/",
+         "pubDate" : "Wed, 23 Oct 2024 09:32:41",
+         "title" : "ARBITER REFRESHER COURSE FOR LEFT OVER ARBITERS 2024-2025"
+      },
+      {
          "description" : "The Weissenhaus on the Baltic Sea coast is certainly one of the most beautiful venues for chess tournaments. Recently, the Weissenhaus Young Masters took place there. The games were played in the castle. The players were also accommodated either in the castle or in one of the houses of the ensemble. At the end of the tournament, the German national team visited.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-agm-papers/",
          "pubDate" : "Tue, 22 Oct 2024 16:05:28",
          "title" : "ECF AGM - Papers"
-      },
-      {
-         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
-         "pubDate" : "Tue, 22 Oct 2024 14:50:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 25 November 5 December 2024. In the Webinar the titles of ECU Expert Coach, or ECU Junior Coach, or ECU Novice Coach, may/will be awarded. Each participant must successfully meet the following requirements: Personal Curriculum Vitae (special Form), Participation in the Webinar (€ 100), Webinar's Test, Title Fee Payment (€ 200 or € 300). The Webinar fee will be waived for selected participants: One participant []",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3262",
          "pubDate" : "Mon, 14 Oct 2024 12:40:17",
          "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
-      },
-      {
-         "description" : "Please find certificates of Nation Junior and National Junior Girls Rank Name 1 Adireddy Arjun 2 Sourath Biswas 3 Jaiveer Mahendru 4 Madhvendra Pratap Sharma",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-junior-under-19-chess-championship-2024/",
-         "pubDate" : "Mon, 14 Oct 2024 06:07:56",
-         "title" : "Certificates of National Junior (Under 19) Chess Championship 2024"
       },
       {
          "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards as if there were only 20 teams in The post <a href=\"https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
