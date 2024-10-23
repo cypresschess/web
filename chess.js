@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win their Round 10 games in the U.S. and U.S. Women's Championships, as of before play. Statistics by Ben Underwood. Despite the graphic, Aronian (not Niemann) has the day off, </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/result-probabilities-individual-games-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/result-probabilities-individual-games-r10-uschesschamps",
+         "pubDate" : "Wed, 23 Oct 2024 00:56:27",
+         "title" : "Result Probabilities for Individual Games | R10 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 10. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/most-important-aspect-us-women%E2%80%99s-championship-uschesschamps",
+         "pubDate" : "Wed, 23 Oct 2024 00:56:27",
+         "title" : "Most Important Aspect of the U.S. Women's Championship? | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova resigns to Alice Lee, putting herself out of reach of Carissa Yip. Yip clinches while still playing Anna Zatonskih; Zatonskih would actually go on to defeat Yip. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-moment-carissa-yip-clinches-title-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OhniCRCmNJw.jpg?itok=guqnript\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/watch-moment-carissa-yip-clinches-title-r10-uschesschamps",
+         "pubDate" : "Wed, 23 Oct 2024 00:56:27",
+         "title" : "WATCH: The Moment Carissa Yip Clinches Title | R10 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and WGMs Katerina Nemcova &amp; Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-chess-championships-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-chess-championships-round-11",
+         "pubDate" : "Wed, 23 Oct 2024 00:56:27",
+         "title" : "2024 U.S. Chess Championships: Round 11"
+      },
+      {
          "description" : "Three rounds were played at the European Chess Club Cup 2024 and eight teams remained perfect in the Open section, while only two teams score maximum 6 match points in the Women's competition. Teams in the co-lead after three rounds are SuperChess, Turkish Airlines, TAJFUN SK Ljubljana, Alkaloid, Bayegan Pendik Chess Sports Club, Novy Bor Chess Club, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Sentimento Ajka BSK. The top seeded SuperChess took a convincing 5-1 victory against Azerbaijani team Vugar Gashimov []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -136,38 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nakamura-talks-strategy-uschesschamps-chess-chessstrategy-hikarunakamura",
          "pubDate" : "Tue, 22 Oct 2024 03:55:57",
          "title" : "Nakamura Talks Strategy #uschesschamps #chess #chessstrategy #hikarunakamura"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Megan Lee strikes a HUGE blow to Yip&#039;s chances of winning the Fischer Prize </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/megan-lees-brilliant-move-nf4-uschesschamps-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UgAwapIL1Tk.jpg?itok=43qIgoZ_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/megan-lees-brilliant-move-nf4-uschesschamps-chess-chesstactics-chesscom",
-         "pubDate" : "Tue, 22 Oct 2024 03:55:57",
-         "title" : "Megan Lee's Brilliant Move Nf4 #uschesschamps #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Oparin shocks the commentators as he plays a novelty against Sam Shankland </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oh-boy-oparin-novelty-uschesschamps-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RJEzp0LQgm0.jpg?itok=3Jh3dLtZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/oh-boy-oparin-novelty-uschesschamps-chess-chessopenings-chesscom",
-         "pubDate" : "Tue, 22 Oct 2024 03:55:57",
-         "title" : "Oh Boy! Oparin With the Novelty #uschesschamps #chess #chessopenings #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Awonder plays c5 &quot;The Gauntlet&quot; against Caruana to force the position in their endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/awonder-throws-gauntlet-caruana-uschesschamps-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ex_gbw0ajww.jpg?itok=Uabw9BHb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/awonder-throws-gauntlet-caruana-uschesschamps-chess-chesstactics-chessendgame-chesscom",
-         "pubDate" : "Tue, 22 Oct 2024 03:55:57",
-         "title" : "Awonder Throws A Gauntlet At Caruana #uschesschamps #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> d5 played by Dominguez, opens up another opportunity for Sam Sevian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/samopportunity-knocking-uschesschamps-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M-pJMIJiLcA.jpg?itok=lBNklTOa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/samopportunity-knocking-uschesschamps-chess-chesstactics-chesscom",
-         "pubDate" : "Tue, 22 Oct 2024 03:55:57",
-         "title" : "Sam...Opportunity IS Knocking #uschesschamps #chess #chesstactics #chesscom"
       },
       {
          "description" : "Players from 19 federations across the Americas competed in the 2024 FIDE Pan-American School Chess Championship, held October 12 through 19 in Asunci&oacute;n, Paraguay. While only three players from the United States traveled to the capital city, they returned with two gold medals (one in the classical event, and one in the rapid event). WCM Irene Fei, from Iowa, won the Under-13 Girls section as the top-rated player despite only being 11 years old. The victory earned her the WFM title and will make her the youngest WFM in the Americas. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo courtesy of the organizers<br> <br> Full results from the tourna",
