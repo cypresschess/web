@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Weissenhaus on the Baltic Sea coast is certainly one of the most beautiful venues for chess tournaments. Recently, the Weissenhaus Young Masters took place there. The games were played in the castle. The players were also accommodated either in the castle or in one of the houses of the ensemble. At the end of the tournament, the German national team visited.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-young-masters-playing-chess-in-a-castler",
+         "pubDate" : "Wed, 23 Oct 2024 08:42:06",
+         "title" : "Weissenhaus Young Masters: Playing chess in a castle"
+      },
+      {
+         "description" : "The Senior National Arbiter Seminar &#38; Examination, organized by the Andaman Nicobar Chess Association on behalf of the All India Chess Federation (AICF) and the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiters-seminar-and-examination-on-12-13-october-2024-in-port-blair-andaman-nicobar-island/",
+         "pubDate" : "Wed, 23 Oct 2024 05:16:47",
+         "title" : "Final Report - Senior National Arbiters' Seminar and Examination on 12 & 13 October 2024 in Port Blair, Andaman & Nicobar Island"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich after losing to Zatonskih, yet still clinching the title with a game to spare in Round 10 of the 2024 U.S. Women's Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-most-dejected-champion-you%E2%80%99ll-ever-meet-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oFvNZz_2WIo.jpg?itok=jfFSbrar\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-yip-most-dejected-champion-you%E2%80%99ll-ever-meet-r10-uschesschamps",
+         "pubDate" : "Wed, 23 Oct 2024 03:56:26",
+         "title" : "Carissa Yip: Most Dejected Champion You'll Ever Meet | R10 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 10 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-repeats-champ-recap-2024-us-chess-championships-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-repeats-champ-recap-2024-us-chess-championships-round-10",
+         "pubDate" : "Wed, 23 Oct 2024 03:56:26",
+         "title" : "Carissa Repeats As Champ!! | RECAP | 2024 U.S. Chess Championships: Round 10"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win their Round 10 games in the U.S. and U.S. Women's Championships, as of before play. Statistics by Ben Underwood. Despite the graphic, Aronian (not Niemann) has the day off, </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/result-probabilities-individual-games-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,6 +114,14 @@ news_feed (
          "title" : "European Chess Club Cup: Multiple leaders after Round 3"
       },
       {
+         "description" : "GM Fabiano Caruana has maintained his half-point buffer heading into the final round of the 2024 U.S. Chess Championships after three out of five games in round 10 games were drawn. GM Ray Robson, who toppled GM Abhimanyu Mishra, moved into second...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-round-10",
+         "pubDate" : "Tue, 22 Oct 2024 21:11:00",
+         "title" : "Yip Wins Women's Championship With Round To Spare; Caruana On Cusp Of Glory"
+      },
+      {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,22 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-38-queens-just-wanna-have-fun",
          "pubDate" : "Tue, 22 Oct 2024 10:00:00",
          "title" : "The Winning Academy 38: Queens just wanna have fun"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 9 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-falls-caruana-still-top-recap-2024-us-chess-championships-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-falls-caruana-still-top-recap-2024-us-chess-championships-round-9",
-         "pubDate" : "Tue, 22 Oct 2024 03:55:57",
-         "title" : "Carissa Falls, Caruana Still On Top | RECAP | 2024 U.S. Chess Championships: Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Hikaru Nakamura speaks about Yip has changed her strategy approach to chess over the past couple years. Full Interview: <a href=\"https://www.youtube.com/watch?v=B4t7LJtyg1M\">https://www.youtube.com/watch?v=B4t7LJtyg1M</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-talks-strategy-uschesschamps-chess-chessstrategy-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbna",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-talks-strategy-uschesschamps-chess-chessstrategy-hikarunakamura",
-         "pubDate" : "Tue, 22 Oct 2024 03:55:57",
-         "title" : "Nakamura Talks Strategy #uschesschamps #chess #chessstrategy #hikarunakamura"
       },
       {
          "description" : "Players from 19 federations across the Americas competed in the 2024 FIDE Pan-American School Chess Championship, held October 12 through 19 in Asunci&oacute;n, Paraguay. While only three players from the United States traveled to the capital city, they returned with two gold medals (one in the classical event, and one in the rapid event). WCM Irene Fei, from Iowa, won the Under-13 Girls section as the top-rated player despite only being 11 years old. The victory earned her the WFM title and will make her the youngest WFM in the Americas. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo courtesy of the organizers<br> <br> Full results from the tourna",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
       },
       {
-         "description" : "We&#39;re excited to announce that GM Garry Kasparov has teamed up with Chessable to upgrade a timeless classic. In addition to the written content, chess players can now enjoy My Great Predecessors Part 4 in video, presented by the legendary Kasparov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/my-great-predecessors-part-4-chessable",
-         "pubDate" : "Mon, 14 Oct 2024 07:00:00",
-         "title" : "Garry Kasparov Presents Exclusive Video Course On Bobby Fischer For My Great Predecessors Series On Chessable"
-      },
-      {
          "description" : "Please find certificates of Nation Junior and National Junior Girls Rank Name 1 Adireddy Arjun 2 Sourath Biswas 3 Jaiveer Mahendru 4 Madhvendra Pratap Sharma",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-comes-home-to-india/",
          "pubDate" : "Sun, 13 Oct 2024 16:23:09",
          "title" : "Chess comes home to India"
-      },
-      {
-         "description" : "The 50th National Women's Chess Championship concluded today at Chettinadu Public School with a thrilling finale. WGM P. V. Nandhidhaa of Tamil Nadu claimed her",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/p-v-nandhidhaa-is-the-national-women-champion-2024/",
-         "pubDate" : "Sun, 13 Oct 2024 13:27:54",
-         "title" : "P V Nandhidhaa is the National Women Champion 2024"
       },
       {
          "description" : "",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3240",
          "pubDate" : "Wed, 02 Oct 2024 19:19:31",
          "title" : "Top world chess stars gather in London for the Tech Mahindra Global Chess League"
-      },
-      {
-         "description" : "Several of India's gold-medal winning Olympiad teams will be in action - including Vidit Gujrathi, R Praggnanandhaa and R Vaishali.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41564559/global-chess-league-2024-preview-magnus-carlsen-viswanathan-anand-arjun-erigaisi-anish-giri-unmissable-season-2?device=featurephone",
-         "pubDate" : "Wed, 2 Oct 2024 06:42:56",
-         "title" : "Carlsen, Anand, Arjun, Giri and co. promise to make Global Chess League season 2 unmissable"
       }
    ]
 }
