@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
+         "pubDate" : "Wed, 23 Oct 2024 20:00:00",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 10 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-repeats-champ-round-10-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-repeats-champ-round-10-recap-uschesschamps",
+         "pubDate" : "Wed, 23 Oct 2024 15:56:31",
+         "title" : "Carissa Repeats As Champ!! | Round 10 RECAP | #USChessChamps"
+      },
+      {
          "description" : "In the Women's US Championship, Carissa Yip secured her third national title with a round to spare, despite suffering two consecutive losses after a dominant start. Meanwhile, in the open section, Fabiano Caruana holds the lead going into the final round, as Awonder Liang, Sam Sevian and Hans Niemann still have theoretical chances of winning the tournament. Two games ended decisively in the open, with Ray Robson beating Abhimanyu Mishra and Sevian getting the better of Sam Shankland. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
          "pubDate" : "Wed, 23 Oct 2024 14:50:00",
          "title" : "European Club Cup - Live!"
-      },
-      {
-         "description" : "In our short interview with Sethuraman S P, the winner of the Weissenhaus Young Masters, he shares his experience of winning the bronze medal at the Chess Olympiad, a significant milestone for the Indian team. He talks about growing up in Chennai, often called the chess hub of India, where he was inspired by world champion Viswanathan Anand. The Indian GM also reflects on his ambitions to reach a 2700 rating despite the challenges of competing against a new generation of young, talented players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-sethuraman-s-p-winner-of-the-weissenhaus-young-masters",
-         "pubDate" : "Wed, 23 Oct 2024 10:13:00",
-         "title" : "Interview with Sethuraman S P - Winner of the Weissenhaus Young Masters!"
       },
       {
          "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
@@ -154,14 +162,6 @@ news_feed (
          "title" : "Defending Champ Carissa Yip: Not Every Game has to be a Win | #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred joins the show during Round 10 of the 2024 U.S. Chess Championships. 2024.10.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/emily-allred-ten-wchof-inductions-october-29th-r10-uschesschamps",
-         "pubDate" : "Tue, 22 Oct 2024 21:56:25",
-         "title" : "Emily Allred: Ten WCHOF Inductions October 29th! | R10 #USChessChamps"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -194,14 +194,6 @@ news_feed (
          "title" : "The 5th ECU Trainers Online Seminar"
       },
       {
-         "description" : "In the open tournament of the European Club Cup, the top clubs continued to win comfortably in the second round. But on some boards, the underdogs managed to stage some upsets. Benedict Krause, for example, took a grandmaster scalp for St. Pauli. In the Women's Cup, Monte Carlo had to concede its first point. | Photo: Ivan Sokolov watches the action | Photos: European Chess Union and Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-the-favourites-dominate",
-         "pubDate" : "Tue, 22 Oct 2024 13:18:20",
-         "title" : "European Club Cup: The favourites dominate"
-      },
-      {
          "description" : "After finishing the Final round in all the Formats of Chess. yesterday we witnessed a very Cheerful and delightful performance by Indians here in Philippines,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -224,14 +216,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cups-2024-round-2-recap/",
          "pubDate" : "Tue, 22 Oct 2024 10:31:14",
          "title" : "European Chess Club Cups 2024 - Round 2 recap"
-      },
-      {
-         "description" : "Queens are very peculiar pieces. They love to attack and hate to defend. The difference in the value of this piece when attacking and defending is striking. An attacking queen is perhaps twice as valuable than a defending one. In a way, it makes a lot of sense. A queen is a very mobile and precious piece. Being mobile, it can attack very well, creating double attacks, forks, moving from one side to the other with ease. Being precious, it is barely able to cover anything. (For the same reason we don't use golden locks to protect our bicycles. Thieves would gladly steal both the bike and the lock.) The qualities of a queen are very visible in situations when it must fight less valuable pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-38-queens-just-wanna-have-fun",
-         "pubDate" : "Tue, 22 Oct 2024 10:00:00",
-         "title" : "The Winning Academy 38: Queens just wanna have fun"
       },
       {
          "description" : "Players from 19 federations across the Americas competed in the 2024 FIDE Pan-American School Chess Championship, held October 12 through 19 in Asunci&oacute;n, Paraguay. While only three players from the United States traveled to the capital city, they returned with two gold medals (one in the classical event, and one in the rapid event). WCM Irene Fei, from Iowa, won the Under-13 Girls section as the top-rated player despite only being 11 years old. The victory earned her the WFM title and will make her the youngest WFM in the Americas. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo courtesy of the organizers<br> <br> Full results from the tourna",
@@ -282,14 +266,6 @@ news_feed (
          "title" : "SRM Reaches Perfect 4/4, Saint Louis Bounces Back"
       },
       {
-         "description" : "The top teams had a smooth start to the European Club Cup in Vrnjacka Banja on Sunday, but there were some individual upsets: Praggnanandhaa (2746) lost in the first round against Francois Godart (2377), and Max Lutze (2148) of the SV Erkenschwick defeated GM Vajnap Sanal (2570). | Photo: Vincent Keymer watches his colleagues from team Novy Bor | Photos: ECU and Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-favourites-win-but-praggnanandhaa-loses",
-         "pubDate" : "Mon, 21 Oct 2024 12:18:15",
-         "title" : "European Club Cup: Favourites win but Praggnanandhaa loses"
-      },
-      {
          "description" : "The FIDE Trainers' Seminar held in Ahmedabad from 18th to 20th October 2024 was a significant milestone for chess coaching in India. Organized by the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -336,22 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shevchenko-temporarily-suspended-by-fide-with-cheating-investigation-pending",
          "pubDate" : "Mon, 21 Oct 2024 07:28:29",
          "title" : "Shevchenko Given 75-Day Ban Amid Cheating Investigation, Misses European Club Cup"
-      },
-      {
-         "description" : "In the open section of the US Championships, defending champion Fabiano Caruana drew with second seed Wesley So, maintaining a half-point lead over his closest chasers - Awonder Liang and Hans Niemann - with three rounds remaining. Meanwhile, in the women's section, Carissa Yip continued her dominant run, securing her eighth consecutive win by defeating Atousa Pourkashiyan. Yip, now 2&frac12; points ahead of her nearest rival, is just three wins away from claiming the $64,000 Bobby Fischer prize for a perfect 11/11 score. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-8",
-         "pubDate" : "Sun, 20 Oct 2024 23:00:00",
-         "title" : "US Championships: 8 out of 8 for Yip!"
-      },
-      {
-         "description" : "In 2023 India got its highest ever classical super tournament in the form of the Chennai Grand Masters. The tournament, with an average rating of 2711, proved to be a perfect event for fighting and high-quality chess as well as an important event in the FIDE circuit. This year the contest is back - bigger and better. Not only has the rating average of masters grown to 2729, but we also have a Challengers section with 8 talented Indian youngsters fighting for one spot in the Masters. Read on to know all the players, prize money, schedule, venue and more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-announcement",
-         "pubDate" : "Sun, 20 Oct 2024 19:00:00",
-         "title" : "The Chennai Grand Masters returns in 2024 - bigger and better"
       },
       {
          "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://www.thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -472,14 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesscom-fog-of-war-chess-championship-knockout-chan-wins",
          "pubDate" : "Fri, 18 Oct 2024 15:35:37",
          "title" : "O.G. Of Fog Of War FM Chan Wins Community Championship"
-      },
-      {
-         "description" : "Training tactics can be fun, but how do you use your own suite of positions and solutions to train in ChessBase? Your questions will be answered in this quick and easy lesson on video demonstrated by using the Encyclopedia of Chess Combinations. However, you can create your own as well and then use the method described. Enjoy this bite-sized tutorial!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-training-with-your-own-tactics-suite-video",
-         "pubDate" : "Fri, 18 Oct 2024 15:10:00",
-         "title" : "ChessBase in Minutes: Training with your own tactics suite (video)"
       },
       {
          "description" : "Chess.com is excited to announce that over 60,000 people have participated in the historic Vishy vs. The World vote chess match. This surpasses the number of participants in the legendary 1999 Kasparov vs. The World match. The new record highlight...",
@@ -1160,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3241",
          "pubDate" : "Thu, 03 Oct 2024 18:30:13",
          "title" : "Tickets for FIDE World Chess Championship Match 2024 are now on sale!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3240",
-         "pubDate" : "Wed, 02 Oct 2024 19:19:31",
-         "title" : "Top world chess stars gather in London for the Tech Mahindra Global Chess League"
       }
    ]
 }
