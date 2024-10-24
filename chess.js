@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alert readers of my weekly chess columns in TheArticle will have observed my predilection for such writers as Thomas Mann, Kafka, Nietzsche, Conrad, Freud, TS Eliot, Vladimir Nabokov, George Orwell, Sir Arthur Conan Doyle, Dean Swift, Stefan Zweig and John Dryden. Three of the above (Eliot, Nabokov and Zweig) even wrote directly about chess, while []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/parallel-lives-a-modern-plutarch/",
+         "pubDate" : "Thu, 24 Oct 2024 14:59:23",
+         "title" : "'Parallel Lives': a modern Plutarch"
+      },
+      {
+         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
+         "pubDate" : "Thu, 24 Oct 2024 14:50:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "The&#160;European Senior Chess Championship 2024&#160;starts tomorrow and takes place from October 25 to November 3 in Lignano Sabbiadoro, Italy. The event is played in two age categories: 50+ and 65+, open and women's sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per movestarting from move 1. Nearly 180 players coming []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2024-starts-in-italy/",
+         "pubDate" : "Thu, 24 Oct 2024 14:09:25",
+         "title" : "European Senior 2024 starts in Italy"
+      },
+      {
+         "description" : "Top favourite SuperChess suffered a surprising defeat against Turkish Airlines in round four of the European Club Cup. Both Gukesh and Praggnanandhaa (pictured) lost their games. Vincent Keymer was once again the match winner for Novy Bor, while Dinara Wagner was the match winner for her team SuperChess in the Women's Cup. | Photos: European Chess Union and Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-gukesh-and-praggnanandhaa-suffer-suprising-losses",
+         "pubDate" : "Thu, 24 Oct 2024 14:00:16",
+         "title" : "European Club Cup: Gukesh and Praggnanandhaa suffer suprising losses"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3271",
+         "pubDate" : "Thu, 24 Oct 2024 12:28:42",
+         "title" : "U.S. Championship 2024: Fabiano Caruana and Carissa Yip claim titles"
+      },
+      {
          "description" : "The inaugural FIDE World Solving Championships for Youth and Cadets are happening next month in Brazil and Italy, and FIDE, along with the WFCC, hosted a series of free online lessons to get participants ready. Alongside WFCC President Marjan Kovačevi&#263, these global webinars offered strategies, tips, and plenty of practice to help young solvers level up their game! Would you like to test your chess-solving skills against some of the best young minds in the world? Let's see how you fare with some of the problems.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist",
          "pubDate" : "Thu, 24 Oct 2024 12:01:35",
          "title" : "Mate in Two with a Twist!"
+      },
+      {
+         "description" : " National Master Lawyer Times has been running the Future Masters Chess Academy in the Boston area for nearly a decade. The 2017 Massachusetts state champion was a local standout at Boston Latin High School where his team won a national championship. Since then, he has continued his chess involvement but has been determined to pass The post <a href=\"https://www.thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/\">Lawyer Times sponsored by Celts' Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/",
+         "pubDate" : "Thu, 24 Oct 2024 11:43:31",
+         "title" : "Lawyer Times sponsored by Celts' Jaylen Brown"
       },
       {
          "description" : "In the future, the new ChessBase Fritztrainers and programmes will no longer be installed from a DVD, but using an installer downloaded from the Internet. This is faster and less complicated than installing from a DVD. Most ChessBase users have already ordered via download anyway. Nonetheless, those who previously installed by DVD can still order the programmes and Fritztrainer by post and will then receive a nice package with instructions and an activation number!",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-repeats-champ-round-11-recap-uschesschamps",
          "pubDate" : "Thu, 24 Oct 2024 06:56:49",
          "title" : "Caruana REPEATS As Champ!! | Round 11 RECAP | #USChessChamps"
+      },
+      {
+         "description" : "The wait is finally over! Chess fans can now order their English copy of The Chess Revolution by Peter Doggers, one of the world&#39;s leading chess journalists. The book is available for English readers around the world. Get your copy here! I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/book-the-chess-revolution-doggers-out-now",
+         "pubDate" : "Thu, 24 Oct 2024 06:00:00",
+         "title" : "'The Chess Revolution', For Chess Fans And Non-Chess Playing Readers, Now Available"
       },
       {
          "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 11 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-repeats-champ-recap-2024-us-chess-championships-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
@@ -106,12 +162,12 @@ news_feed (
          "title" : "Caruana's Goal Next Year: 5-Time U.S. Champion! | R11 #USChessChamps"
       },
       {
-         "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance left him with a 1.5-po...",
+         "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance gave him a 1.5-point b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-fabiano-caruana-wins",
          "pubDate" : "Wed, 23 Oct 2024 23:54:00",
-         "title" : "Caruana Wins Fourth U.S. Championship Title; Tokhirjonova Secures World Cup Spot"
+         "title" : "Caruana Wins 4th U.S. Championship Title, Tokhirjonova Secures World Cup Spot"
       },
       {
          "description" : "Four rounds have been played at the 39th European Chess Club Cup and the 28th European Women's Chess Club Cup, and only four teams co-lead the Open tournament while TAJFUN SK Ljubljana emerged as the sole leader of the Women's competition. Four teams co-leading in the Open section with perfect score of 8 match points are: Turkish Airlines, Alkaloid, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Novy Bor Chess Club. The top-seeded SuperChess in the Open tournament suffered an upset losing []",
@@ -144,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2024-10",
          "pubDate" : "Wed, 23 Oct 2024 15:10:00",
          "title" : "Carissa Yip claims third US women's title with a round to spare"
-      },
-      {
-         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
-         "pubDate" : "Wed, 23 Oct 2024 14:50:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
@@ -682,14 +730,6 @@ news_feed (
          "title" : "Ratata Spanish Squad Eliminate Cramlings, Advance To Final"
       },
       {
-         "description" : "&#34;I&#39;m really looking forward to the world championship match in Singapore,&#34; said GM Gukesh Dommaraju in a virtual press conference held on Tuesday, with journalists from different media able to ask questions in a Zoom call. Below we provide the que...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-dommaraju-virtual-press-conference",
-         "pubDate" : "Tue, 15 Oct 2024 11:21:00",
-         "title" : "Gukesh: 'I'm Quite Eager To Start The Match'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -888,14 +928,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-youth-rapid-blitz-championships/",
          "pubDate" : "Thu, 10 Oct 2024 14:34:53",
          "title" : "World Youth Rapid & Blitz Championships"
-      },
-      {
-         "description" : "The 2024 European Rapid and Blitz Chess Championships will take place from 6th-11th December at Hotel Continental Skopje, North Macedonia. European Rapid Chess Championship 2024 will be the first on the schedule, taking place on 7th and 8th of December. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2024 will be played on 9th of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championships-2024-official-regulations/",
-         "pubDate" : "Thu, 10 Oct 2024 13:47:43",
-         "title" : "European Rapid and Blitz Chess Championships 2024 - Official regulations"
       },
       {
          "description" : "",
