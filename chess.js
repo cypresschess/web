@@ -5,6 +5,78 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3270",
+         "pubDate" : "Thu, 24 Oct 2024 02:03:09",
+         "title" : "European Chess Club Cup 2024 crosses half-way mark"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa kept her promise and invited Alice for ice cream at Clementine's Naughty &amp; Nice Ice Cream right after their game! It's always heartwarming to see rivals on the board become friends off the board. Clementine's is in the space that hosted the Chess Club's tournaments in the summer and fall of 2022. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-alice-get-their-ice-cream-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-alice-get-their-ice-cream-r11-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
+         "title" : "Carissa & Alice Get Their Ice Cream! | R11 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Going for a win, Awonder Liang throws out 1.a3 in his final round game at the 2024 U.S. Chess Championship. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/awonder-plays-1a3-dominguez-baffled-r11-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
+         "title" : "Awonder Plays 1.a3?! Dominguez Baffled! | R11 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This aired during Round 11. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL S",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/overall-field-how-analyze-your-own-games-improve-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
+         "title" : "Overall Field: How to Analyze Your Own Games to Improve? | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In quick succession, Sam Sevian draws Hans Niemann and then Leinier Dominguez defeats Awonder Liang. This clinches the 2024 U.S. Chess Championship for Fabiano Caruana while he is still playing Sam Shankland. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-moment-caruana-clinches-title-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NURVIFgN4oY.jpg?itok=BI",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/watch-moment-caruana-clinches-title-r11-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
+         "title" : "WATCH: The Moment Caruana Clinches Title | R11 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Abrahamyan in Round 11 of the 2024 U.S. Women's Championship. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-punches-ticket-world-cup-r11-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
+         "title" : "Begim Punches Ticket to World Cup! | R11 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after defeating Liang in Round 11 of the 2024 U.S. Chess Championship. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-awonder-went-it-today-r11-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
+         "title" : "Dominguez: Awonder Went for It Today | R11 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Shankland in Round 11 of the 2024 U.S. Chess Championship. He is now a four-time (three-time consecutively) U.S. Chess Champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-goal-next-year-5-time-us-champion-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iq-R0QguGys.jpg?itok=cnDA",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-goal-next-year-5-time-us-champion-r11-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
+         "title" : "Caruana's Goal Next Year: 5-Time U.S. Champion! | R11 #USChessChamps"
+      },
+      {
+         "description" : "Four rounds have been played at the 39th European Chess Club Cup and the 28th European Women's Chess Club Cup, and only four teams co-lead the Open tournament while TAJFUN SK Ljubljana emerged as the sole leader of the Women's competition. Four teams co-leading in the Open section with perfect score of 8 match points are: Turkish Airlines, Alkaloid, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Novy Bor Chess Club. The top-seeded SuperChess in the Open tournament suffered an upset losing []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tajfun-sk-ljubljana-leads-at-european-womens-club-cup-2024-multiple-leaders-in-the-open-section/",
+         "pubDate" : "Wed, 23 Oct 2024 23:47:54",
+         "title" : "TAJFUN SK Ljubljana leads at European Women's Club Cup 2024; Multiple leaders in the Open section"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3269",
          "pubDate" : "Wed, 23 Oct 2024 22:18:54",
          "title" : "Chess King from China Who Defies the Odds"
@@ -32,62 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-10-r11-uschesschamps",
          "pubDate" : "Wed, 23 Oct 2024 21:56:34",
          "title" : "Who is Likely to Win After Round 10? | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Rose Atwell talks to Anastasiya Karlovich after defeating Pourkashiyan in Round 10 of the 2024 U.S. Women's Championship. This aired during Round 11. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/atwell-glad-manage-comeback-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WkN4AqbPkzw.jpg?itok=i5imOrjE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/atwell-glad-manage-comeback-r10-uschesschamps",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Atwell: Glad to Manage a Comeback | R10 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This aired during Round 11. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/approach-analyzing-your-own-games-improve-uschesschamps",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Approach to Analyzing Your Own Games to Improve? | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield joins the show during Round 11 of the 2024 U.S. Chess Championships. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-chess-9lx-levels-playing-field-world%E2%80%99s-best-r11-uschesschamps",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Rex Sinquefield: Chess 9LX Levels the Playing Field for the World's Best | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan with WGM Katerina Nemcova share a good beginner tip when analyzing your position in chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-counting-pieces-uschesschamps-chess-chessbeginners-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zPq4dB0zQvs.jpg?itok=pmrdPr0X\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-counting-pieces-uschesschamps-chess-chessbeginners-chesscom",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Chess For Beginners: Counting Pieces #uschesschamps #chess #chessbeginners #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Just because your a chess player, doesn&#039;t mean you shouldn&#039;t have style </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/awonder-liang-john-wick-chess-uschesschamps-chess-johnwick-fashion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PzP-15mL8i0.jpg?itok=MqNIu5jM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/awonder-liang-john-wick-chess-uschesschamps-chess-johnwick-fashion",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Awonder Liang - The John Wick of Chess #uschesschamps #chess #johnwick #fashion"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Anastasiya Karlovich after defeating Mishra in Round 10 of the 2024 U.S. Chess Championship. This aired during Round 11. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/robson-beat-some-strong-players-happy-finish-r10-uschesschamps",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Robson: Beat Some Strong Players, Happy with Finish | R10 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Anastasiya Karlovich after a draw against Alice Lee in Round 11 of the 2024 U.S. Women's Championship. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-alice-didn%E2%80%99t-fight-win-only-one-ice-cream-scoop-her-r11-uschesschamps",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Carissa: Alice Didn't Fight for Win, Only One Ice Cream Scoop for Her! | R11 #USChessChamps"
       },
       {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiters-seminar-and-examination-on-12-13-october-2024-in-port-blair-andaman-nicobar-island/",
          "pubDate" : "Wed, 23 Oct 2024 05:16:47",
          "title" : "Final Report - Senior National Arbiters' Seminar and Examination on 12 & 13 October 2024 in Port Blair, Andaman & Nicobar Island"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Crystal Fuller/SLCC (All other photos courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> With his final-round victory over GM Sam Shankland, GM Fabiano Caruana joined IM Carissa Yip in repeating as U.S. Champion. Caruana's 7/10 score was good for his third consecutive victory (fourth overall), while Yip's 8&frac12;/11 score netted the 21-year-old her third title in four years. After her 8/8 start, Yip boasted a gargantuan lead over the field. But consecutive losses before today's draw allowed IM Gulrukhbegim Tokhirjonova to close the gap to a single point, clinching clear second with a 7&frac1",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/yip-caruana-repeat-us-champions",
+         "pubDate" : "Wed, 23 Oct 2024 00:00:00",
+         "title" : "Yip, Caruana Repeat as U.S. Champions"
       },
       {
          "description" : "This week's Wednesday Workout continues our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on endgames without rooks. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -488,14 +512,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/yoo-family-releases-statement-after-us-championship-expulsion",
          "pubDate" : "Fri, 18 Oct 2024 00:00:00",
          "title" : "UPDATED: Yoo Family Releases Statement after U.S. Championship Expulsion"
-      },
-      {
-         "description" : "Registration is now open for the 2024 North American Youth Chess Championship, which will be held December 18-23 at the Washington Dulles Airport Marriott --- Dulles, Virginia (USA).The age categories for the 2024 North American Youth are Under 8, Under 10, Under 12, Under 14, Under 16, and Under 18. Each category has an Open and Girls section. For this tournament, a player's age is his or her age as of Jan. 1, 2024. This event is open to players from Canada, Mexico, and the United States.Each section is a 9-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins December 18. There will also be a Blitz tournament on December 19.Medals, as ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-north-american-youth-championship-announced",
-         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
-         "title" : "2024 North American Youth Championship Announced"
       },
       {
          "description" : "GM Arjun Erigaisi defeated Maxime Vachier-Lagrave in armageddon to win the 2024 WR Chess Masters Cup, picking up the &#38;euro;20,000 top prize and 27.84 FIDE Circuit points. The one thing he missed out on was crossing 2800 for the first time, after h...",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-chess-federation-book-of-the-year-2024/",
          "pubDate" : "Mon, 07 Oct 2024 09:52:58",
          "title" : "English Chess Federation Book of the Year 2024"
-      },
-      {
-         "description" : "The 24th European Women's Chess Championship will take place from 30 March to 12 April 2025 in Rhodes, Greece. The event is open to all women players representing national federations listed as ECU members, without rating or title limitations. The Championship will be played in 11 rounds, swiss system, with time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from move one. The official hotel []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-official-invitation/",
-         "pubDate" : "Mon, 07 Oct 2024 08:43:36",
-         "title" : "European Women's Chess Championship 2025 - Official invitation"
       },
       {
          "description" : "A roundup of results from the fourth day of the Global Chess League Season 2.",
