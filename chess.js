@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 US Chess Championships concluded with Fabiano Caruana and Carissa Yip emerging as outright winners in their respective sections. Caruana secured his fourth national title by defeating Sam Shankland in the final round, finishing 1&frac12; points ahead of his closest rivals. Meanwhile, Yip had already clinched her third US Women's Championship with a round to spare, despite back-to-back losses in rounds 9 and 10. In the women's section, Gulrukhbegim Tokhirjonova claimed second place thanks to her final-round victory over Tatev Abrahamyan, while Alice Lee finished third after a tightly contested final round. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2024-11",
+         "pubDate" : "Thu, 24 Oct 2024 17:25:00",
+         "title" : "Caruana beats Shankland to secure fourth US title"
+      },
+      {
          "description" : "Alert readers of my weekly chess columns in TheArticle will have observed my predilection for such writers as Thomas Mann, Kafka, Nietzsche, Conrad, Freud, TS Eliot, Vladimir Nabokov, George Orwell, Sir Arthur Conan Doyle, Dean Swift, Stefan Zweig and John Dryden. Three of the above (Eliot, Nabokov and Zweig) even wrote directly about chess, while []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3242",
          "pubDate" : "Thu, 03 Oct 2024 19:39:17",
          "title" : "Global Chess League 2024 - Day 1 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3241",
-         "pubDate" : "Thu, 03 Oct 2024 18:30:13",
-         "title" : "Tickets for FIDE World Chess Championship Match 2024 are now on sale!"
       }
    ]
 }
