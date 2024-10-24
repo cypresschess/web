@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was long in the coming, for the impatient fans that is. Arjun Erigaisi made history by cementing Vishy Anand's legacy in Indian chess by becoming the second ever Indian (and we know a third is hot on his heels) to break that elusive 2800 barrier. In just over 12 months he has added over 100 Elo and as of now is world no.3 at 2802.1 Elo. Breathtaking! (photo: Michal Walusza/FIDE.com)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-joins-the-2800-club",
+         "pubDate" : "Thu, 24 Oct 2024 23:35:00",
+         "title" : "Arjun Erigaisi joins the 2800 club!"
+      },
+      {
+         "description" : "After five played rounds at the 39th European Chess Club Cup 2024, Novy Bor Chess Club emerged as the sole leader of the Open tournament, while three teams tie for the top of the 28th European Women's Chess Club Cup. After defeating Tuxera Aquaprofit Nagykanizsai Sakk Klub with a convincing 4.5-1.5 score, Novy Bor Chess Club remained the only team with the perfect score in the tournament. GM Vidit Santosh Gujrathi (2726, Novy Bor Chess Club) was victorious against GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/novy-bor-takes-lead-in-european-chess-club-cup-2024-three-teams-leading-in-womens-section/",
+         "pubDate" : "Thu, 24 Oct 2024 23:25:19",
+         "title" : "Novy Bor takes lead in European Chess Club Cup 2024, three teams leading in Women's section"
+      },
+      {
          "description" : "The 2024 US Chess Championships concluded with Fabiano Caruana and Carissa Yip emerging as outright winners in their respective sections. Caruana secured his fourth national title by defeating Sam Shankland in the final round, finishing 1&frac12; points ahead of his closest rivals. Meanwhile, Yip had already clinched her third US Women's Championship with a round to spare, despite back-to-back losses in rounds 9 and 10. In the women's section, Gulrukhbegim Tokhirjonova claimed second place thanks to her final-round victory over Tatev Abrahamyan, while Alice Lee finished third after a tightly contested final round. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,28 +66,12 @@ news_feed (
          "title" : "U.S. Championship 2024: Fabiano Caruana and Carissa Yip claim titles"
       },
       {
-         "description" : "The inaugural FIDE World Solving Championships for Youth and Cadets are happening next month in Brazil and Italy, and FIDE, along with the WFCC, hosted a series of free online lessons to get participants ready. Alongside WFCC President Marjan Kovačevi&#263, these global webinars offered strategies, tips, and plenty of practice to help young solvers level up their game! Would you like to test your chess-solving skills against some of the best young minds in the world? Let's see how you fare with some of the problems.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist",
-         "pubDate" : "Thu, 24 Oct 2024 12:01:35",
-         "title" : "Mate in Two with a Twist!"
-      },
-      {
          "description" : " National Master Lawyer Times has been running the Future Masters Chess Academy in the Boston area for nearly a decade. The 2017 Massachusetts state champion was a local standout at Boston Latin High School where his team won a national championship. Since then, he has continued his chess involvement but has been determined to pass The post <a href=\"https://www.thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/\">Lawyer Times sponsored by Celts' Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/",
          "pubDate" : "Thu, 24 Oct 2024 11:43:31",
          "title" : "Lawyer Times sponsored by Celts' Jaylen Brown"
-      },
-      {
-         "description" : "In the future, the new ChessBase Fritztrainers and programmes will no longer be installed from a DVD, but using an installer downloaded from the Internet. This is faster and less complicated than installing from a DVD. Most ChessBase users have already ordered via download anyway. Nonetheless, those who previously installed by DVD can still order the programmes and Fritztrainer by post and will then receive a nice package with instructions and an activation number!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-fritztrainers-chessbase-programs",
-         "pubDate" : "Thu, 24 Oct 2024 09:04:27",
-         "title" : "The new Fritztrainers and ChessBase programmes"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 11 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-repeats-champ-round-11-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field",
@@ -202,28 +202,12 @@ news_feed (
          "title" : "US Championships - Live!"
       },
       {
-         "description" : "In the Women's US Championship, Carissa Yip secured her third national title with a round to spare, despite suffering two consecutive losses after a dominant start. Meanwhile, in the open section, Fabiano Caruana holds the lead going into the final round, as Awonder Liang, Sam Sevian and Hans Niemann still have theoretical chances of winning the tournament. Two games ended decisively in the open, with Ray Robson beating Abhimanyu Mishra and Sevian getting the better of Sam Shankland. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-10",
-         "pubDate" : "Wed, 23 Oct 2024 15:10:00",
-         "title" : "Carissa Yip claims third US women's title with a round to spare"
-      },
-      {
          "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/arbiter-refresher-course-for-left-over-arbiters-2024-2025/",
          "pubDate" : "Wed, 23 Oct 2024 09:32:41",
          "title" : "ARBITER REFRESHER COURSE FOR LEFT OVER ARBITERS 2024-2025"
-      },
-      {
-         "description" : "The Weissenhaus on the Baltic Sea coast is certainly one of the most beautiful venues for chess tournaments. Recently, the Weissenhaus Young Masters took place there. The games were played in the castle. The players were also accommodated either in the castle or in one of the houses of the ensemble. At the end of the tournament, the German national team visited.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-young-masters-playing-chess-in-a-castler",
-         "pubDate" : "Wed, 23 Oct 2024 08:42:06",
-         "title" : "Weissenhaus Young Masters: Playing chess in a castle"
       },
       {
          "description" : "GMs Nikolas Theodorou&#38;nbsp;and Jeffery Xiong took home the Titled Tuesday tournaments of October 22, both scoring 9.5 points. It was Theodoru&#39;s first win in Titled Tuesday and Xiong&#39;s 14th since October 2020, and Xiong&#39;s third of 2024. Tiebreaks w...",
@@ -314,14 +298,6 @@ news_feed (
          "title" : "Final Report - Cheerful Performance by Indians Chess Stars in Asian Juniors & Girls Chess Championship 2024"
       },
       {
-         "description" : "Indian Grandmaster Sasikiran Krishnan (which is the actual correct name order), reflects on his remarkable chess journey, from learning the game as a child in Chennai to becoming one of India's top players. He shares personal stories about overcoming challenges both on and off the board, highlighting key moments in his career and life, like reaching 2700+ rating, winning the bronze medal at the Olympiad, and his impressive weight loss journey, where he dropped 35 kg, only to become too weak and end up in the hospital.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-sasikiran-krishnan",
-         "pubDate" : "Tue, 22 Oct 2024 12:00:00",
-         "title" : "Interview with Sasikiran Krishnan"
-      },
-      {
          "description" : "Two rounds have been played at the European Chess Club Cups 2024 in Vrnjacka Banja, Serbia. Most of the favourites in the Open section kept the winning streak, including the top seeded SuperChess, Alkaloid, Novy Bor Chess Club, Bayegan Pendik Chess Sports Club, Turkish Airlines, who scored convincing victories. Majority of 2700+ rated players were victorious yesterday including Gukesh D, Nodirbek Abdusattorov, Arjun Erigaisi, Wei Yi, Yu Yangyi, Vidit Santosh Gujrathi, Vincent Keymer etc. Praggnandhaa struggled again, and after the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -386,28 +362,12 @@ news_feed (
          "title" : "Report :FIDE Trainers Seminar in Ahmedabad from18th to 20th October 2024"
       },
       {
-         "description" : "The Neo-London System is an enhanced version of the classic London System, emphasizing creativity and sharper play by avoiding common black setups and exploiting the Bf5 variation's risks for Black. The course offers extensive training with interactive exercises and novelties for surprising opponents in unexplored positions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-the-neo-london-system-the-sharper-alternative-to-the-popular-london-system",
-         "pubDate" : "Mon, 21 Oct 2024 11:00:00",
-         "title" : "Elisabeth Paehtz: The Neo-London-System - The sharper alternative to the popular London System"
-      },
-      {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup officially commenced yesterday in Vrnjacka Banja, Serbia with the first round. The first round was inaugurated with the ceremonial moves made by the ECU Vice President Mr. Gunnar Bjornsson and the President of the Serbian Chess Federation Mr. Dragan Lazic. Mr. Dragan Lazic played the first move for Dommaraju Gukesh in the match between Superchess and Gambit Bonnevoie I, while the ECU Vice President Mr. Gunnar []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-chess-club-cups-2024-kicked-off/",
          "pubDate" : "Mon, 21 Oct 2024 09:44:22",
          "title" : "European Chess Club Cups 2024 kicked off"
-      },
-      {
-         "description" : "In rook endings, the privilege of having connected passed pawns can easily make the difference. But even in this case there are many hidden resources. After our first lesson a few days ago, today we are going to study a key manoeuvre you have to know if you want to survive against two connected pawns (as in this diagram). We also bring you some historical examples to help you understand the technique. Learn and enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-rook-endings-connected-pawns-2",
-         "pubDate" : "Mon, 21 Oct 2024 08:28:37",
-         "title" : "Grivas on rook endings, connected pawns (2)"
       },
       {
          "description" : "Get ready for an exciting event between two generations, as Swedish chess legend GM Pia Cramling goes head-to-head against the Internet&#39;s chess teacher IM Levy Rozman in a six-day over-the-board event in Stockholm. The Battle of Generations show...",
@@ -898,14 +858,6 @@ news_feed (
          "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners: A Journey of Triumph and Transformation"
       },
       {
-         "description" : "The ECU E-Magazine September 2024 is out! In this edition of the ECU E-Magazine you may read about: The September 2024 edition of the ECU E-Magazine can be read online together with interactive links, or it can be downloaded below in PDF format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-september-2024/",
-         "pubDate" : "Fri, 11 Oct 2024 13:24:08",
-         "title" : "ECU E-Magazine September 2024"
-      },
-      {
          "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1168,14 +1120,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41598391/global-chess-league-2024-carlsen-viswanathan-anand-draw-day-1-gcl-report?device=featurephone",
          "pubDate" : "Fri, 4 Oct 2024 00:51:44",
          "title" : "Global Chess League: Anand-Carlsen draw headlines opening day of season 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3242",
-         "pubDate" : "Thu, 03 Oct 2024 19:39:17",
-         "title" : "Global Chess League 2024 - Day 1 recap"
       }
    ]
 }
