@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural FIDE World Solving Championships for Youth and Cadets are happening next month in Brazil and Italy, and FIDE, along with the WFCC, hosted a series of free online lessons to get participants ready. Alongside WFCC President Marjan Kovačevi&#263, these global webinars offered strategies, tips, and plenty of practice to help young solvers level up their game! Would you like to test your chess-solving skills against some of the best young minds in the world? Let's see how you fare with some of the problems.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist",
+         "pubDate" : "Thu, 24 Oct 2024 12:01:35",
+         "title" : "Mate in Two with a Twist!"
+      },
+      {
          "description" : "In the future, the new ChessBase Fritztrainers and programmes will no longer be installed from a DVD, but using an installer downloaded from the Internet. This is faster and less complicated than installing from a DVD. Most ChessBase users have already ordered via download anyway. Nonetheless, those who previously installed by DVD can still order the programmes and Fritztrainer by post and will then receive a nice package with instructions and an activation number!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-fritztrainers-chessbase-programs",
          "pubDate" : "Thu, 24 Oct 2024 09:04:27",
          "title" : "The new Fritztrainers and ChessBase programmes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 11 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-repeats-champ-round-11-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-repeats-champ-round-11-recap-uschesschamps",
+         "pubDate" : "Thu, 24 Oct 2024 06:56:49",
+         "title" : "Caruana REPEATS As Champ!! | Round 11 RECAP | #USChessChamps"
       },
       {
          "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 11 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-repeats-champ-recap-2024-us-chess-championships-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
@@ -94,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-us-championship-fabiano-caruana-wins",
-         "pubDate" : "Wed, 23 Oct 2024 23:54:12",
+         "pubDate" : "Wed, 23 Oct 2024 23:54:00",
          "title" : "Caruana Wins Fourth U.S. Championship Title; Tokhirjonova Secures World Cup Spot"
       },
       {
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3269",
          "pubDate" : "Wed, 23 Oct 2024 22:18:54",
          "title" : "Chess King from China Who Defies the Odds"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 10 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-repeats-champ-round-10-recap-uschesschamps-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-repeats-champ-round-10-recap-uschesschamps-0",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Carissa Repeats As Champ! | Round 10 RECAP | #USChessChamps"
       },
       {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
