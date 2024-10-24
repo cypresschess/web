@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the future, the new ChessBase Fritztrainers and programmes will no longer be installed from a DVD, but using an installer downloaded from the Internet. This is faster and less complicated than installing from a DVD. Most ChessBase users have already ordered via download anyway. Nonetheless, those who previously installed by DVD can still order the programmes and Fritztrainer by post and will then receive a nice package with instructions and an activation number!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-fritztrainers-chessbase-programs",
+         "pubDate" : "Thu, 24 Oct 2024 09:04:27",
+         "title" : "The new Fritztrainers and ChessBase programmes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 11 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-repeats-champ-recap-2024-us-chess-championships-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-repeats-champ-recap-2024-us-chess-championships-round-11",
+         "pubDate" : "Thu, 24 Oct 2024 03:56:44",
+         "title" : "Caruana REPEATS As Champ!! | RECAP | 2024 U.S. Chess Championships: Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it's time for team chess! Ultimate Moves is a casual team event where partners \"tag in\" every five moves. Saint Louis Chess Club Co-Founder Rex Sinquefield and his very rich mystery opponent draft the world's best players (rosters below) to join them on their teams. Join GM Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-ultimate-moves\"><img src=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-ultimate-moves",
+         "pubDate" : "Thu, 24 Oct 2024 03:56:44",
+         "title" : "2024 Chess 9LX: Ultimate Moves"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,6 +90,14 @@ news_feed (
          "title" : "Caruana's Goal Next Year: 5-Time U.S. Champion! | R11 #USChessChamps"
       },
       {
+         "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance left him with a 1.5-po...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-championship-fabiano-caruana-wins",
+         "pubDate" : "Wed, 23 Oct 2024 23:54:12",
+         "title" : "Caruana Wins Fourth U.S. Championship Title; Tokhirjonova Secures World Cup Spot"
+      },
+      {
          "description" : "Four rounds have been played at the 39th European Chess Club Cup and the 28th European Women's Chess Club Cup, and only four teams co-lead the Open tournament while TAJFUN SK Ljubljana emerged as the sole leader of the Women's competition. Four teams co-leading in the Open section with perfect score of 8 match points are: Turkish Airlines, Alkaloid, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Novy Bor Chess Club. The top-seeded SuperChess in the Open tournament suffered an upset losing []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -88,22 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-repeats-champ-round-10-recap-uschesschamps-0",
          "pubDate" : "Wed, 23 Oct 2024 21:56:34",
          "title" : "Carissa Repeats As Champ! | Round 10 RECAP | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Anastasiya Karlovich after defeating Tokhirjonova in Round 10 of the 2024 U.S. Women's Championship. This aired during Round 11. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-qualify-world-cup-must-beat-carissa-black-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SoMQx5De4tI.jpg?itok=IA1ez1Xj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-qualify-world-cup-must-beat-carissa-black-r10-uschesschamps",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Alice Lee: To Qualify for World Cup, Must Beat Carissa with Black | R10 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the U.S. Chess Championship, as of before Round 11. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-10-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eKlzBwU6Y8E.jpg?itok=8YWM7ARU\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-10-r11-uschesschamps",
-         "pubDate" : "Wed, 23 Oct 2024 21:56:34",
-         "title" : "Who is Likely to Win After Round 10? | R11 #USChessChamps"
       },
       {
          "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-dommaraju-virtual-press-conference",
          "pubDate" : "Tue, 15 Oct 2024 11:21:00",
          "title" : "Gukesh: 'I'm Quite Eager To Start The Match'"
-      },
-      {
-         "description" : "Five leaders were whittled down to one in the fourth round of the 2024 U.S. Championship as GM Fabiano Caruana defeated GM Abhimanyu Mishra and moved to 3/4. GM Ray Robson scored the only other decisive result of the round, thwarting a dubious paw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-4",
-         "pubDate" : "Mon, 14 Oct 2024 23:29:00",
-         "title" : "Caruana Beats Mishra, Assumes Sole Lead; Yip Still Perfect"
       },
       {
          "description" : "",
