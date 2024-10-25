@@ -1112,14 +1112,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/04/magnus-carlsen-hikaru-nakamura-and-the-chess-elite-now-playing-in-london",
          "pubDate" : "Fri, 04 Oct 2024 07:00:48",
          "title" : "Magnus Carlsen, Hikaru Nakamura and the chess elite now playing in London"
-      },
-      {
-         "description" : "A roundup of results from the opening day of Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41598391/global-chess-league-2024-carlsen-viswanathan-anand-draw-day-1-gcl-report?device=featurephone",
-         "pubDate" : "Fri, 4 Oct 2024 00:51:44",
-         "title" : "Global Chess League: Anand-Carlsen draw headlines opening day of season 2"
       }
    ]
 }
