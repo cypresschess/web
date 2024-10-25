@@ -74,6 +74,14 @@ news_feed (
          "title" : "Underpromotion Milestones"
       },
       {
+         "description" : "Gukesh has been in action, alongside a host of the world's top players, at the European Club Cup",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/41997855/gukesh-showing-mixed-form-30-days-go-world-chess-championship-ding-liren?device=featurephone",
+         "pubDate" : "Fri, 25 Oct 2024 10:43:07",
+         "title" : "Gukesh showing mixed form with 30 days to go for World Chess Championship"
+      },
+      {
          "description" : "Unlock the secrets of one of chess's most resilient openings with GM Alvar Alonso Rosell's video courses about the Caro-Kann Defence. Explore cutting-edge theory, practical insights, and strategies used by top grandmasters today. Whether you're mastering core principles or discovering new lines, these courses will give you the tools to outsmart your opponents and succeed in high-level play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,10 +154,10 @@ news_feed (
          "title" : "U.S. Championship 2024: Fabiano Caruana and Carissa Yip claim titles"
       },
       {
-         "description" : " National Master Lawyer Times has been running the Future Masters Chess Academy in the Boston area for nearly a decade. The 2017 Massachusetts state champion was a local standout at Boston Latin High School where his team won a national championship. Since then, he has continued his chess involvement but has been determined to pass The post <a href=\"https://www.thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/\">Lawyer Times sponsored by Celts' Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " National Master Lawyer Times has been running the Future Masters Chess Academy in the Boston area for nearly a decade. The 2017 Massachusetts state champion was a local standout at Boston Latin High School where his team won a national championship. Since then, he has continued his chess involvement but has been determined to pass The post <a href=\"https://thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/\">Lawyer Times sponsored by Celts' Jaylen Brown</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/",
+         "link" : "https://thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/",
          "pubDate" : "Thu, 24 Oct 2024 11:43:31",
          "title" : "Lawyer Times sponsored by Celts' Jaylen Brown"
       },
@@ -466,10 +474,10 @@ news_feed (
          "title" : "Shevchenko Given 75-Day Ban Amid Cheating Investigation, Misses European Club Cup"
       },
       {
-         "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://www.thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/10/20/remembering-emory-tate/",
+         "link" : "https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/",
          "pubDate" : "Sun, 20 Oct 2024 18:36:19",
          "title" : "Remembering Emory Tate"
       },
@@ -786,10 +794,10 @@ news_feed (
          "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
       },
       {
-         "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards as if there were only 20 teams in The post <a href=\"https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards as if there were only 20 teams in The post <a href=\"https://thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/",
+         "link" : "https://thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/",
          "pubDate" : "Sun, 13 Oct 2024 23:53:53",
          "title" : "African Diaspora @ Budapest Olympiad!"
       },
@@ -858,10 +866,10 @@ news_feed (
          "title" : "Vantika Agrawal now aims for Grandmaster title"
       },
       {
-         "description" : " Somalians look splendid at the 2016 Chess Olympiad in Baku, Azerbaijan.Photo by David Llada Somalia Chess Federation Somalia's plans to attend the 45th Chess Olympiad in Budapest, Hungary, started with excitement but ended in a nightmare. This is a recurrent theme every two years when smaller federations struggle to attend the most important chess event. The post <a href=\"https://www.thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/\">Somalia's Chess Olympiad Visa Nightmare</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Somalians look splendid at the 2016 Chess Olympiad in Baku, Azerbaijan.Photo by David Llada Somalia Chess Federation Somalia's plans to attend the 45th Chess Olympiad in Budapest, Hungary, started with excitement but ended in a nightmare. This is a recurrent theme every two years when smaller federations struggle to attend the most important chess event. The post <a href=\"https://thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/\">Somalia's Chess Olympiad Visa Nightmare</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/",
+         "link" : "https://thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/",
          "pubDate" : "Sat, 12 Oct 2024 04:42:34",
          "title" : "Somalia's Chess Olympiad Visa Nightmare"
       },
