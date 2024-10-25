@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren's journey to becoming the first Chinese World Chess Champion is a testament to resilience. Rising from modest beginnings, he became the youngest Chinese national champion at 16, leading to a series of historic achievements, including two Olympiad golds and a record-breaking 100-game unbeaten streak. However, his road was far from smooth; he faced challenges and even took a hiatus in 2024 for mental health. Ding's recent comeback showcases his determination to maintain his status among the chess elite | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-profile-2024-fide",
+         "pubDate" : "Fri, 25 Oct 2024 21:00:00",
+         "title" : "Ding Liren, the chess king from China who defies the odds"
+      },
+      {
+         "description" : " The 39th European Club Cup takes place 20th to 26th October 2024 in Vrnjacka Banja, Serbia. Erigaisi, Gukesh, Abdusattorov, Wei Yi, Praggnanandhaa, Mamedyarov, Andreikin etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
+         "pubDate" : "Fri, 25 Oct 2024 19:20:00",
+         "title" : "39th European Club Cup 2024 - Games and Results"
+      },
+      {
          "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,20 @@ news_feed (
          "title" : "Two Knights Talk: Arne K&auml;hler and Johannes Fischer talk about a tricky topic: Cheating!"
       },
       {
-         "description" : "Click this link to view the October 2024 edition of ChessMoves All the games within are presented in PGN format here but note that you will need to use ChessBase or...",
+         "description" : "Click the link to view this month's edition of ChessMoves https://www.englishchess.org.uk/wp-content/uploads/2024/10/ChessMoves-Oct-2024.pdf All the games within are presented in PGN format here: https://www.englishchess.org.uk/wp-content/uploads/2024/10/October-ChessMoves.pgn but note that you will need to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chessmoves-october-2024/",
          "pubDate" : "Fri, 25 Oct 2024 14:08:50",
          "title" : "ChessMoves October 2024"
+      },
+      {
+         "description" : "Indian star GM Arjun Erigaisi achieved a 2800+ rating for the first time on Thursday, joining a celebrated group of players to break the barrier. We knew it was just a matter of time, but on Thursday the moment finally arrived. Arjun joined the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-breaks-2800-european-club-cup",
+         "pubDate" : "Fri, 25 Oct 2024 11:45:00",
+         "title" : "Arjun Joins Exclusive 2800 Club Thanks To Stellar Performance In Serbia"
       },
       {
          "description" : "",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "Final Report (Batch 1)- Senior National Arbiters' Seminar and Examination in Jalgaon Maharashtra on 19 & 20 October 2024"
       },
       {
-         "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000. Caruana's winning margin was a ­comfortable point and a half, following a final round where he won while his ­nearest rivals all drew or lost leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang; and the established grandmasters Levon Aronian, ",
+         "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000. Caruana's winning margin was a comfortable point and a half, after a final round where he won while his nearest rivals all drew or lost, leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang; and the established grandmasters Levon Aronian, Ray R",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/oct/25/chess-fabiano-caruana-world-no-2-wins-fourth-us-championship-title",
@@ -98,14 +122,6 @@ news_feed (
          "title" : "Novy Bor takes lead in European Chess Club Cup 2024, three teams leading in Women's section"
       },
       {
-         "description" : "The 2024 US Chess Championships concluded with Fabiano Caruana and Carissa Yip emerging as outright winners in their respective sections. Caruana secured his fourth national title by defeating Sam Shankland in the final round, finishing 1&frac12; points ahead of his closest rivals. Meanwhile, Yip had already clinched her third US Women's Championship with a round to spare, despite back-to-back losses in rounds 9 and 10. In the women's section, Gulrukhbegim Tokhirjonova claimed second place thanks to her final-round victory over Tatev Abrahamyan, while Alice Lee finished third after a tightly contested final round. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-11",
-         "pubDate" : "Thu, 24 Oct 2024 17:25:00",
-         "title" : "Caruana beats Shankland to secure fourth US title"
-      },
-      {
          "description" : "Alert readers of my weekly chess columns in TheArticle will have observed my predilection for such writers as Thomas Mann, Kafka, Nietzsche, Conrad, Freud, TS Eliot, Vladimir Nabokov, George Orwell, Sir Arthur Conan Doyle, Dean Swift, Stefan Zweig and John Dryden. Three of the above (Eliot, Nabokov and Zweig) even wrote directly about chess, while []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2024-starts-in-italy/",
          "pubDate" : "Thu, 24 Oct 2024 14:09:25",
          "title" : "European Senior 2024 starts in Italy"
-      },
-      {
-         "description" : "Top favourite SuperChess suffered a surprising defeat against Turkish Airlines in round four of the European Club Cup. Both Gukesh and Praggnanandhaa (pictured) lost their games. Vincent Keymer was once again the match winner for Novy Bor, while Dinara Wagner was the match winner for her team SuperChess in the Women's Cup. | Photos: European Chess Union and Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-gukesh-and-praggnanandhaa-suffer-suprising-losses",
-         "pubDate" : "Thu, 24 Oct 2024 14:00:16",
-         "title" : "European Club Cup: Gukesh and Praggnanandhaa suffer suprising losses"
       },
       {
          "description" : "",
@@ -738,14 +746,6 @@ news_feed (
          "title" : "FIDE School Awards: Application deadline approaching"
       },
       {
-         "description" : "GM Pepe Cuenca and IM David Martinez (&#34;Ratata Spanish Squad&#34;) won 1.5-0.5 against GM Pia Cramling and WFM Anna Cramling (&#34;Team Cramling&#34;) and advance to the 2024 Team Chess Battle 2 Final.&#38;nbsp; The Cramlings lost the first game after a dubious ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-sf-cuenca-martinez-win",
-         "pubDate" : "Tue, 15 Oct 2024 15:59:00",
-         "title" : "Ratata Spanish Squad Eliminate Cramlings, Advance To Final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,22 +1136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41614703/global-chess-league-2024-carlsen-viswanathan-anand-praggnandhaa-lose-day-2-gcl-report?device=featurephone",
          "pubDate" : "Sat, 5 Oct 2024 00:26:46",
          "title" : "Global Chess League: Carlsen beaten by the clock; Anand, Pragg go down on Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3243",
-         "pubDate" : "Fri, 04 Oct 2024 19:06:25",
-         "title" : "Global Chess League, Day 2: PBG Alaskan Knights take sole lead"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113947463.cms\" />Magnus Carlsen ran out of time in his match against Alireza Firouzja, leading to Triveni Continental Kings' thrashing of Alpine Sg Pipers 17-4 in the Global Chess League. Meanwhile, Viswanathan Anand lost to Maxime Vachier-Lagrave, and Anish Giri held Hikaru Nakamura to a draw, propelling PBG Alaskan Knights to the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-beaten-by-clock-viswanathan-anand-loses-to-former-world-blitz-champion-at-global-chess-league/articleshow/113947463.cms",
-         "pubDate" : "Fri, 04 Oct 2024 17:04:33",
-         "title" : "Carlsen beaten by clock; Anand loses to former world blitz champion"
       }
    ]
 }
