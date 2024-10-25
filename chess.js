@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Unlock the secrets of one of chess's most resilient openings with GM Alvar Alonso Rosell's video courses about the Caro-Kann Defence. Explore cutting-edge theory, practical insights, and strategies used by top grandmasters today. Whether you're mastering core principles or discovering new lines, these courses will give you the tools to outsmart your opponents and succeed in high-level play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lvar-alonso-rosell-how-to-play-the-caro-kann-defence-vol-1-2",
+         "pubDate" : "Fri, 25 Oct 2024 08:00:00",
+         "title" : "Alvar Alonso Rosell: How to play the Caro- Kann Defence Vol. 1 + 2"
+      },
+      {
+         "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000 (&pound;48,000). Caruana's winning margin was a ­comfortable point and a half, following a final round where he won while his ­nearest rivals all drew or lost leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang, and the established grandmasters",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/oct/25/chess-fabiano-caruana-world-no-2-wins-fourth-us-championship-title",
+         "pubDate" : "Fri, 25 Oct 2024 07:00:13",
+         "title" : "Chess: Fabiano Caruana, world No 2, wins fourth US Championship title"
+      },
+      {
          "description" : "It was long in the coming, for the impatient fans that is. Arjun Erigaisi made history by cementing Vishy Anand's legacy in Indian chess by becoming the second ever Indian (and we know a third is hot on his heels) to break that elusive 2800 barrier. In just over 12 months he has added over 100 Elo and as of now is world no.3 at 2802.1 Elo. Breathtaking! (photo: Michal Walusza/FIDE.com)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-beaten-by-clock-viswanathan-anand-loses-to-former-world-blitz-champion-at-global-chess-league/articleshow/113947463.cms",
          "pubDate" : "Fri, 04 Oct 2024 17:04:33",
          "title" : "Carlsen beaten by clock; Anand loses to former world blitz champion"
-      },
-      {
-         "description" : " Eight of the world top 12 are competing in the Global Chess League at Friends House, Euston, from 3-12 October, with spectator tickets bookable online There is a unique opportunity to watch the world elite in action in London this week. The Tech ­Mahindra Global Chess League (GCL) has ­Norway's world No 1, Magnus Carlsen, as its absolute star, and also includes seven others from the world's top 12: Hikaru Nakamura (United States), Arjun ­Erigaisi, Praggnanandhaa Rameshbabu and Vishy Anand (India), Nodirbek Abdusattorov (Uzbekistan), Alireza Firouzja (France), and Wei Yi (China), as well as the world's top rated woman, Hou Yifan (China). Russia's world No 9 and double world title challenger,",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/oct/04/magnus-carlsen-hikaru-nakamura-and-the-chess-elite-now-playing-in-london",
-         "pubDate" : "Fri, 04 Oct 2024 07:00:48",
-         "title" : "Magnus Carlsen, Hikaru Nakamura and the chess elite now playing in London"
       }
    ]
 }
