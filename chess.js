@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
+         "pubDate" : "Fri, 25 Oct 2024 14:50:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "In their weekly review of the chess world, Arne K&auml;hler and Johannes Fischer this time discuss a sensitive and unfortunately all-too-topical subject: cheating in chess! They talk about their experiences with cheating in chess and wonder why people cheat and what to do about it. They also take a brief look at the European Club Cup, where Arjun Erigaisi has broken the 2800 Elo barrier and Vincent Keymer is in good form.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-arne-kaehler-and-johannes-fischer-talk-about-a-tricky-topic-cheating",
+         "pubDate" : "Fri, 25 Oct 2024 14:09:09",
+         "title" : "Two Knights Talk: Arne K&auml;hler and Johannes Fischer talk about a tricky topic: Cheating!"
+      },
+      {
+         "description" : "Click this link to view the October 2024 edition of ChessMoves All the games within are presented in PGN format here but note that you will need to use ChessBase or...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessmoves-october-2024/",
+         "pubDate" : "Fri, 25 Oct 2024 14:08:50",
+         "title" : "ChessMoves October 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Final Report (Batch 1)- Senior National Arbiters' Seminar and Examination in Jalgaon Maharashtra on 19 & 20 October 2024"
       },
       {
-         "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000 (&pound;48,000). Caruana's winning margin was a ­comfortable point and a half, following a final round where he won while his ­nearest rivals all drew or lost leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang, and the established grandmasters",
+         "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000. Caruana's winning margin was a ­comfortable point and a half, following a final round where he won while his ­nearest rivals all drew or lost leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang; and the established grandmasters Levon Aronian, ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/oct/25/chess-fabiano-caruana-world-no-2-wins-fourth-us-championship-title",
