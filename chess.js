@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3272",
+         "pubDate" : "Fri, 25 Oct 2024 11:24:11",
+         "title" : "FIDE Circuit 2024: Erigaisi regains lead, Caruana moves to second"
+      },
+      {
+         "description" : " The US Chess Championships took place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Four player could win the event going into the final round but when Fabiano Caruana beat Sam Shankland he ended up 1.5 points clear of half the field tied on 5.5/10. Wesley So drew all 10 of his games. In the women's section Carissa Yip won her first 8 games and got a winning position against Megan Lee too, but when that turned around she had a wobble and lost in Round 10 too (to Anna Zatonskih), fortunately for her Alice Lee beat eventual second place finisher Gulrukhbegim Tokhirjonova, which meant Yip won the title anyway. Sadly the event is likely to be remembered just as well for a very unsavory inci",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2024",
+         "pubDate" : "Fri, 25 Oct 2024 11:14:00",
+         "title" : "US Chess Championships 2024 - "
+      },
+      {
+         "description" : "Pawn underpromotions do not happen often in practical games, but they have been an important topic in study composition more than a hundred years. Recently, the famous Babson task (Black promotes to one of the four possible pieces and White must promote to the same piece in all four cases to win) has been conquered by Gady Costeff in an endgame study. Many thought it to be impossible to realize this extremely difficult task. In this first part of the three part series Harold van der Heijden describes the beginning of the story with the first underpromotions including the famous Allumwandlung.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/underpromotion-milestones",
+         "pubDate" : "Fri, 25 Oct 2024 11:00:00",
+         "title" : "Underpromotion Milestones"
+      },
+      {
          "description" : "Unlock the secrets of one of chess's most resilient openings with GM Alvar Alonso Rosell's video courses about the Caro-Kann Defence. Explore cutting-edge theory, practical insights, and strategies used by top grandmasters today. Whether you're mastering core principles or discovering new lines, these courses will give you the tools to outsmart your opponents and succeed in high-level play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/lvar-alonso-rosell-how-to-play-the-caro-kann-defence-vol-1-2",
          "pubDate" : "Fri, 25 Oct 2024 08:00:00",
          "title" : "Alvar Alonso Rosell: How to play the Caro- Kann Defence Vol. 1 + 2"
+      },
+      {
+         "description" : "Jalgaon District Chess Association and Jain Sports Academy, on behalf of All India Chess Federation and Maharashtra State Chess Association organised Senior National Arbiter Seminar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-batch-2-senior-national-arbiters-seminar-and-examination-in-jalgaon-maharashtra-on-19-20-october-2024/",
+         "pubDate" : "Fri, 25 Oct 2024 07:36:54",
+         "title" : "Final Report (Batch 2)- Senior National Arbiters' Seminar and Examination in Jalgaon Maharashtra on 19 & 20 October 2024"
+      },
+      {
+         "description" : "Jalgaon District Chess Association and Jain Sports Academy, on behalf of All India Chess Federation and Maharashtra State Chess Association organised Senior National Arbiter Seminar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-batch-1-senior-national-arbiters-seminar-and-examination-in-jalgaon-maharashtra-on-19-20-october-2024/",
+         "pubDate" : "Fri, 25 Oct 2024 07:36:44",
+         "title" : "Final Report (Batch 1)- Senior National Arbiters' Seminar and Examination in Jalgaon Maharashtra on 19 & 20 October 2024"
       },
       {
          "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000 (&pound;48,000). Caruana's winning margin was a ­comfortable point and a half, following a final round where he won while his ­nearest rivals all drew or lost leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang, and the established grandmasters",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://www.thearticle.com/parallel-lives-a-modern-plutarch/",
          "pubDate" : "Thu, 24 Oct 2024 14:59:23",
          "title" : "'Parallel Lives': a modern Plutarch"
-      },
-      {
-         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
-         "pubDate" : "Thu, 24 Oct 2024 14:50:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "The&#160;European Senior Chess Championship 2024&#160;starts tomorrow and takes place from October 25 to November 3 in Lignano Sabbiadoro, Italy. The event is played in two age categories: 50+ and 65+, open and women's sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per movestarting from move 1. Nearly 180 players coming []",
@@ -594,14 +626,6 @@ news_feed (
          "title" : "Senior National Arbiters Seminar & Examination in Karnal ,Haryana on 23 & 24 November 2024"
       },
       {
-         "description" : " The US Chess Championships take place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Players: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Levon Aronian, Hans Moke Niemann, Ray Robson, Samuel Sevian, Sam Shankland, Awonder Liang, Grigoriy Oparin, Abhimanyu Mishra and Christopher Woojin Yoo, Women's: Carissa Yip, Irina Krush, Gulrukhbegim Tokhirjonova, Tatev Abrahamyan, Nazi Paikidze, Anna Zatonskih, Thalia Cervantes Landeiro, Atousa Pourkashiyan, Jennifer Yu, Megan Lee, Rose Atwell and Alice Lee. After his loss to Fabiano Caruana in Round 5 Christopher Yoo was involved in an incident which led to him being expelled from the tournament. More details are likely to emerge so I can't",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2024",
-         "pubDate" : "Thu, 17 Oct 2024 13:54:00",
-         "title" : "US Chess Championships 2024 - "
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "'Check De India' Win Armageddon Vs. 'Team Swole,' Will Face 'Oh Yes My Queen' In Semis"
       },
       {
-         "description" : "In Girls Section: &#160;Sneha Halder of India who was in Joint lead along with WIM Sukhman Anna lost in the 4th round n Asian Junior",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round4-asian-junior-girls-chess-championship-2024-at-philippines-disappointing-performance-for-indians-at-both-top-tables/",
-         "pubDate" : "Wed, 16 Oct 2024 12:23:03",
-         "title" : "Round:4 - Asian Junior & Girls Chess Championship 2024 at Philippines- Disappointing performance for Indians at Both Top Tables."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3264",
          "pubDate" : "Tue, 15 Oct 2024 16:59:02",
          "title" : "FIDE School Awards: Application deadline approaching"
-      },
-      {
-         "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2024-25 period. Many arbiters missed the refresher course",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiter-refresher-course-for-the-year-2024-25-for-left-over-arbiter/",
-         "pubDate" : "Tue, 15 Oct 2024 15:59:26",
-         "title" : "ARBITER REFRESHER COURSE FOR THE YEAR 2024-25 FOR LEFT OVER ARBITER"
       },
       {
          "description" : "GM Pepe Cuenca and IM David Martinez (&#34;Ratata Spanish Squad&#34;) won 1.5-0.5 against GM Pia Cramling and WFM Anna Cramling (&#34;Team Cramling&#34;) and advance to the 2024 Team Chess Battle 2 Final.&#38;nbsp; The Cramlings lost the first game after a dubious ...",
