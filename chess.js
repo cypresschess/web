@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Rex Sinquefield sits down with the commentators and answers the question, &quot;Why Chess960? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bobby-fischer-invention-uschesschamps-chess-fischerrandom-bobbyfischer-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HF33fg0t3yo.jpg?itok=t_vKuo7s\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bobby-fischer-invention-uschesschamps-chess-fischerrandom-bobbyfischer-chesscom",
+         "pubDate" : "Sat, 26 Oct 2024 15:58:20",
+         "title" : "Bobby Fischer Invention #uschesschamps #chess #fischerrandom #bobbyfischer #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser explains what Awonder Liang accomplished out of his opening with his baffling first move a2 - a3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/club-chess-players-what-does-a2-a3-accomplish-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KIL9kv6CnyU.jpg?itok=DhXITY6C\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/club-chess-players-what-does-a2-a3-accomplish-uschesschamps-chess-education",
+         "pubDate" : "Sat, 26 Oct 2024 15:58:20",
+         "title" : "For Club Chess Players: What Does a2 - a3 Accomplish #uschesschamps #chess #education"
+      },
+      {
          "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,22 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/watch-moment-caruana-clinches-title-r11-uschesschamps",
          "pubDate" : "Thu, 24 Oct 2024 00:56:35",
          "title" : "WATCH: The Moment Caruana Clinches Title | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Anastasiya Karlovich after defeating Abrahamyan in Round 11 of the 2024 U.S. Women's Championship. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-punches-ticket-world-cup-r11-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
-         "title" : "Begim Punches Ticket to World Cup! | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after defeating Liang in Round 11 of the 2024 U.S. Chess Championship. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-awonder-went-it-today-r11-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
-         "title" : "Dominguez: Awonder Went for It Today | R11 #USChessChamps"
       },
       {
          "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance gave him a 1.5-point b...",
@@ -1136,14 +1136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41632882/global-chess-league-2024-carlsen-viswanathan-anand-praggnandhaa-day-3-gcl-report?device=featurephone",
          "pubDate" : "Sat, 5 Oct 2024 23:17:43",
          "title" : "Global Chess League: Alaskan Knights stay unbeaten as Anand's Ganges break losing streak"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3244",
-         "pubDate" : "Sat, 05 Oct 2024 19:27:19",
-         "title" : "Tech Mahindra Global Chess League D03: Alaskan Knights stay unbeaten as Ganges break losing streak"
       }
    ]
 }
