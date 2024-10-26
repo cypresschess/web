@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> SAINT LOUIS (October 25, 2024) - Grandmaster (GM) Fabiano Caruana and International Master (IM) Carissa Yip took top honors out of a field of elite American chess players in the 2024 U.S. Chess Championship and 2024 U.S. Women's Chess Championship, respectively. Organized by the Saint Louis Chess Club and hosted at the World Chess Hall of Fame October 11-23, the 2024 U.S. Chess Championship events featured 24 of the top chess players who competed for a purse of more than $400,000 in America's chess capital. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmaster-fabiano-caruana-claims-fourth-us-championship-title-carissa-yip-wins-third",
+         "pubDate" : "Sat, 26 Oct 2024 00:45:52",
+         "title" : "Grandmaster Fabiano Caruana Claims Fourth U.S. Championship Title; Carissa Yip Wins Third Consecutive U.S. Women's Championship"
+      },
+      {
          "description" : "Ding Liren's journey to becoming the first Chinese World Chess Champion is a testament to resilience. Rising from modest beginnings, he became the youngest Chinese national champion at 16, leading to a series of historic achievements, including two Olympiad golds and a record-breaking 100-game unbeaten streak. However, his road was far from smooth; he faced challenges and even took a hiatus in 2024 for mental health. Ding's recent comeback showcases his determination to maintain his status among the chess elite | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dominguez-awonder-went-it-today-r11-uschesschamps",
          "pubDate" : "Thu, 24 Oct 2024 00:56:35",
          "title" : "Dominguez: Awonder Went for It Today | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Shankland in Round 11 of the 2024 U.S. Chess Championship. He is now a four-time (three-time consecutively) U.S. Chess Champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-goal-next-year-5-time-us-champion-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iq-R0QguGys.jpg?itok=cnDA",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-goal-next-year-5-time-us-champion-r11-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
-         "title" : "Caruana's Goal Next Year: 5-Time U.S. Champion! | R11 #USChessChamps"
       },
       {
          "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance gave him a 1.5-point b...",
@@ -1136,14 +1136,6 @@ news_feed (
          "link" : "https://www.thearticle.com/scholars-fate/",
          "pubDate" : "Sat, 05 Oct 2024 08:05:09",
          "title" : "Scholar's Fate"
-      },
-      {
-         "description" : "A roundup of results from the second day of Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41614703/global-chess-league-2024-carlsen-viswanathan-anand-praggnandhaa-lose-day-2-gcl-report?device=featurephone",
-         "pubDate" : "Sat, 5 Oct 2024 00:26:46",
-         "title" : "Global Chess League: Carlsen beaten by the clock; Anand, Pragg go down on Day 2"
       }
    ]
 }
