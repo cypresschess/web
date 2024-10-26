@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When analysing grandmasters' opening choices, the wealth of available chess resources demands careful selection. ChessBase, a leader in opening theory, provides players with powerful tools, including the Opening Encyclopaedia 2024. With over 1,400 articles, thousands of games, and numerous new repertoire ideas, this resource allows players to build their opening strategies effectively. It highlights the importance of balancing recent trends with older, reliable lines that may have fallen out of favour but remain sound.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-review-nagesh-havanur",
+         "pubDate" : "Sat, 26 Oct 2024 10:00:00",
+         "title" : "Opening Encyclopaedia 2024: Introduction and Open Games"
+      },
+      {
+         "description" : "The penultimate round of the European Chess Club Cup 2024 concluded yesterday, and Novy Bor Chess Club remained in the sole lead of the 39th European Chess Club Cup, while TAJFUN SK Ljubljana and SuperChess tie for the top of the 28th European Women's Chess Club Cup. Novy Bor Chess Club is on their way to win the 9th medal at the European Chess Club Cup after 2 gold, 5 silver and 1 bronze medal won in the past. The []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/novy-bor-remains-in-lead-of-european-club-cup-two-teams-tie-for-the-top-in-womens-section/",
+         "pubDate" : "Sat, 26 Oct 2024 08:11:37",
+         "title" : "Novy Bor remains in lead of European Club Cup, two teams tie for the top in Women's section"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> SAINT LOUIS (October 25, 2024) - Grandmaster (GM) Fabiano Caruana and International Master (IM) Carissa Yip took top honors out of a field of elite American chess players in the 2024 U.S. Chess Championship and 2024 U.S. Women's Chess Championship, respectively. Organized by the Saint Louis Chess Club and hosted at the World Chess Hall of Fame October 11-23, the 2024 U.S. Chess Championship events featured 24 of the top chess players who competed for a purse of more than $400,000 in America's chess capital. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Nakamura Wins First Titled Tuesday Since August, Still Way Ahead In Titled Cup"
       },
       {
-         "description" : "The European Chess Union is pleased to announce the launch of ECU TV ecutv.eu . ECU TV will be running in&#160;trial mode for the next few months&#160;to test and improve all technical features. The development of ECU TV is a multi-project consisting of 4 main pillars: Development of visual identity, creation of a unique logo, colour scheme, and comprehensive brand book. 3D animations for transitions and a complete setup for OBS live streaming, including custom intros and outros. Development of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/press-release-launch-of-ecu-tv/",
-         "pubDate" : "Wed, 16 Oct 2024 06:21:42",
-         "title" : "Press Release: Launch of ECU TV "
-      },
-      {
          "description" : "GM Alireza Firouzja was gifted a win when GM Raunak Sadhwani overslept their first game, before a draw in the second secured a spot in the 2024 WR Chess Masters Cup Semifinals. Firouzja will play GM Maxime Vachier-Lagrave, who beat GM Nodirbek Abd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3244",
          "pubDate" : "Sat, 05 Oct 2024 19:27:19",
          "title" : "Tech Mahindra Global Chess League D03: Alaskan Knights stay unbeaten as Ganges break losing streak"
-      },
-      {
-         "description" : "Great excitement in the late 15th century, when it was realised that the new rules of chess (with the massively expanded powers of the Queen) meant that a player could deliver checkmate in just four moves. This catastrophe is known as Scholar's Mate. It has snared innumerable victims over the past 550 years, ever since []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/scholars-fate/",
-         "pubDate" : "Sat, 05 Oct 2024 08:05:09",
-         "title" : "Scholar's Fate"
       }
    ]
 }
