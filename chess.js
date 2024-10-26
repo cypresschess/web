@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3273",
+         "pubDate" : "Sat, 26 Oct 2024 22:30:48",
+         "title" : "European Chess Club Cup: Novy Bor TAJFUN SK Ljubljana win titles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Under time pressure, Abhimayu Mishra makes a critical mistake in this rook and pawn endgame against Niemann </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/misplaymoke-control-uschesschamps-chess-chessendgame-hansniemann-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gI2zRYIDcrg.jpg?itok=gEt4DpKC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/misplaymoke-control-uschesschamps-chess-chessendgame-hansniemann-chesscom",
+         "pubDate" : "Sat, 26 Oct 2024 21:58:27",
+         "title" : "A Misplay...Moke In Control #uschesschamps #chess #chessendgame #hansniemann #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Commentators having a bit of fun in analyzing the position between GM Irina Krush and WGM Tatev Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/katerina-too-nice-you-uschesschamps-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K5ozZFJ-ktI.jpg?itok=m0XQ0fne\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/katerina-too-nice-you-uschesschamps-chess-chesstactics-chesscom",
+         "pubDate" : "Sat, 26 Oct 2024 21:58:27",
+         "title" : "Katerina Is Too Nice To You #uschesschamps #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess Analyst GM Cristian Chirlia talks about the accomplishments of GM Sam Sevian&#039;s preparation against Hans Niemann </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-grandmaster-chess-preparation-uschesschamps-chess-education-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hNm721D4lzc.jpg?itok=kvboe_Us\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-grandmaster-chess-preparation-uschesschamps-chess-education-chesscom",
+         "pubDate" : "Sat, 26 Oct 2024 18:58:22",
+         "title" : "Chess For Beginners: Grandmaster Chess Preparation #uschesschamps #chess #education #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Rex Sinquefield sits down with the commentators and answers the question, &quot;Why Chess960? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bobby-fischer-invention-uschesschamps-chess-fischerrandom-bobbyfischer-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HF33fg0t3yo.jpg?itok=t_vKuo7s\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -256,30 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-alice-get-their-ice-cream-r11-uschesschamps",
          "pubDate" : "Thu, 24 Oct 2024 00:56:35",
          "title" : "Carissa & Alice Get Their Ice Cream! | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Going for a win, Awonder Liang throws out 1.a3 in his final round game at the 2024 U.S. Chess Championship. 2024.10.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/awonder-plays-1a3-dominguez-baffled-r11-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
-         "title" : "Awonder Plays 1.a3?! Dominguez Baffled! | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This aired during Round 11. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL S",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/overall-field-how-analyze-your-own-games-improve-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
-         "title" : "Overall Field: How to Analyze Your Own Games to Improve? | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In quick succession, Sam Sevian draws Hans Niemann and then Leinier Dominguez defeats Awonder Liang. This clinches the 2024 U.S. Chess Championship for Fabiano Caruana while he is still playing Sam Shankland. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-moment-caruana-clinches-title-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NURVIFgN4oY.jpg?itok=BI",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/watch-moment-caruana-clinches-title-r11-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
-         "title" : "WATCH: The Moment Caruana Clinches Title | R11 #USChessChamps"
       },
       {
          "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance gave him a 1.5-point b...",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41634785/world-chess-championship-gukesh-ding-liren-50-days-go-form-experience?device=featurephone",
          "pubDate" : "Sun, 6 Oct 2024 02:52:31",
          "title" : "World Chess Championship: 50 days to go, Gukesh has form but Ding the experience"
-      },
-      {
-         "description" : "A roundup of results from the third day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41632882/global-chess-league-2024-carlsen-viswanathan-anand-praggnandhaa-day-3-gcl-report?device=featurephone",
-         "pubDate" : "Sat, 5 Oct 2024 23:17:43",
-         "title" : "Global Chess League: Alaskan Knights stay unbeaten as Anand's Ganges break losing streak"
       }
    ]
 }
