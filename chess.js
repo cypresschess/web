@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
+         "pubDate" : "Sat, 26 Oct 2024 13:50:00",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "Many of my readers and students are overwhelmed. If you've spent any time following chess content online, you might think you need to memorize dozens of opening lines, master complex endgames, read every strategy book out there, and calculate ten moves ahead, all while reviewing and remembering the most important classical games in chess history. []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/important-chess-skills/",
+         "pubDate" : "Sat, 26 Oct 2024 13:00:00",
+         "title" : "The Chess Skills That Truly Matter"
+      },
+      {
          "description" : "When analysing grandmasters' opening choices, the wealth of available chess resources demands careful selection. ChessBase, a leader in opening theory, provides players with powerful tools, including the Opening Encyclopaedia 2024. With over 1,400 articles, thousands of games, and numerous new repertoire ideas, this resource allows players to build their opening strategies effectively. It highlights the importance of balancing recent trends with older, reliable lines that may have fallen out of favour but remain sound.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
          "pubDate" : "Fri, 25 Oct 2024 19:20:00",
          "title" : "39th European Club Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
-         "pubDate" : "Fri, 25 Oct 2024 14:50:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "In their weekly review of the chess world, Arne K&auml;hler and Johannes Fischer this time discuss a sensitive and unfortunately all-too-topical subject: cheating in chess! They talk about their experiences with cheating in chess and wonder why people cheat and what to do about it. They also take a brief look at the European Club Cup, where Arjun Erigaisi has broken the 2800 Elo barrier and Vincent Keymer is in good form.",
@@ -543,7 +551,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-october-19-2024",
          "pubDate" : "Sat, 19 Oct 2024 17:35:00",
-         "title" : "Nakamura Wins Bullet Brawl By 96 Point-Margin"
+         "title" : "Nakamura Wins Bullet Brawl By 96-Point Margin"
       },
       {
          "description" : "Please find the letter on the captioned matter here : Download",
