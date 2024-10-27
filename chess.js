@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup concluded yesterday in Vrnjacka Banja, Serbia. Novy Bor Chess Club emerged as the sole Winner of the Open tournament scoring impressive 13 match points. Playing in the final round against the top seeded SuperChess, Novy Bor Chess Club scored a narrow 3.5-2.5 win to ensure gold, as GM Anton David Guijarro (2667, Novy Bor) prevailed against GM Jorden Van Foreest (2697, SuperChess) and the other games []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/novy-bor-and-tajfun-sk-ljubljana-win-european-club-cups-2024/",
+         "pubDate" : "Sun, 27 Oct 2024 09:15:09",
+         "title" : "Novy Bor and TAJFUN SK Ljubljana win European Club Cups 2024"
+      },
+      {
          "description" : "Of the so called Hypermodern grandmasters, whose heyday approximately paralleled the Dada and Surrealist movements in art, Nimzowitsch, Reti, Breyer and Gr&uuml;nfeld all have specific openings or defences named in their honour. Reti has 1. Nf3 followed by the double bishop fianchetto. Breyer invented a popular variation in the Ruy Lopez or Spanish opening. Grunfeld []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vishy-vs-the-world-record",
          "pubDate" : "Fri, 18 Oct 2024 09:45:03",
          "title" : "Chess.com Community And Viswanathan Anand Breaks Record In The Largest Chess Game Ever Played"
-      },
-      {
-         "description" : "The 39th European Chess Club Cup and the 28th European Women's Club Cup will take place from 19-27 October in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes until the end of the game with an increment of 30 seconds per move, starting from move one. The teams in the Open section will be composed of 6 players + 2 reserve players, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2024-starts-in-vrnjacka-banja-serbia/",
-         "pubDate" : "Fri, 18 Oct 2024 09:10:19",
-         "title" : "European Chess Club Cup 2024 starts in Vrnjacka Banja, Serbia"
       },
       {
          "description" : "Two international masters, including last month&#39;s Chess.com Community Champion in Duck Chess, IM Nhat Minh To, and four FIDE masters were among those to qualify for the Finals of the Chess.com Fog Of War Chess Championship 2024, after the series o...",
