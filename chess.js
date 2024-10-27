@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Of the so called Hypermodern grandmasters, whose heyday approximately paralleled the Dada and Surrealist movements in art, Nimzowitsch, Reti, Breyer and Gr&uuml;nfeld all have specific openings or defences named in their honour. Reti has 1. Nf3 followed by the double bishop fianchetto. Breyer invented a popular variation in the Ruy Lopez or Spanish opening. Grunfeld []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/tartakowers-defence-life-as-experiment/",
+         "pubDate" : "Sun, 27 Oct 2024 07:21:44",
+         "title" : "Tartakower's Defence: life as experiment"
+      },
+      {
+         "description" : "Under18 1. Velammal MHSS Mugappair U-18&#160;(18 MP/0 Res.) Bo. &#160;Title Name 1 IM Aswath S 2 WFM Keerti Shree Reddy 3 &#160; Pranav K P",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-school-team-chess-championship-2024/",
+         "pubDate" : "Sun, 27 Oct 2024 06:42:37",
+         "title" : "Certificate of National School Team Chess Championship 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fellow commentators playing in the 2024 U.S. Chess Championships are supported by Chief Commentator, GM Yasser Seirawan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor-teamsupport\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/emvDB-haYKw.jpg?itok=QAEN2daW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor-teamsupport",
+         "pubDate" : "Sun, 27 Oct 2024 03:58:33",
+         "title" : "Yasser Supporting Fellow Commentators #uschesschamps #chess #chesshumor #teamsupport"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chirila is shockingly surprised with the Yasser suggested line played by Fabi against Awonder Liang...go Yasser! go Yasser! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-lous-minds-think-alike-uschesschamps-chess-chesstactics-education-fabianocaruana-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EWVgV6BJP5Q.jpg?itok=xA3iCQEY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-lous-minds-think-alike-uschesschamps-chess-chesstactics-education-fabianocaruana-chesscom",
+         "pubDate" : "Sun, 27 Oct 2024 03:58:33",
+         "title" : "Fabi-lous Minds Think Alike #uschesschamps #chess #chesstactics #education #fabianocaruana #chesscom"
+      },
+      {
          "description" : "The European Club Cup in Vrnjaƒçka Banja concluded with thrilling results in both the open and women's sections. Czech team Novy Bor dominated the open section, defeating favourites SuperChess in the final round to secure gold, with Alkaloid and Romania's Vados Chess Club completing the podium. In the women's section, TAJFUN-≈K Ljubljana emerged as champions, edging past SuperChess, who took third, while Garuda Ajka BSK clinched second with a decisive final-round win. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,28 +282,12 @@ news_feed (
          "title" : "Lawyer Times sponsored by Celts' Jaylen Brown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Round 11 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-repeats-champ-round-11-recap-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-repeats-champ-round-11-recap-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 06:56:49",
-         "title" : "Caruana REPEATS As Champ!! | Round 11 RECAP | #USChessChamps"
-      },
-      {
          "description" : "The wait is finally over! Chess fans can now order their English copy of The Chess Revolution by Peter Doggers, one of the world&#39;s leading chess journalists. The book is available for English readers around the world. Get your copy here! I...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/book-the-chess-revolution-doggers-out-now",
          "pubDate" : "Thu, 24 Oct 2024 06:00:00",
          "title" : "'The Chess Revolution', For Chess Fans And Non-Chess Playing Readers, Now Available"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Round 11 of the 2024 U.S. Chess Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-repeats-champ-recap-2024-us-chess-championships-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-repeats-champ-recap-2024-us-chess-championships-round-11",
-         "pubDate" : "Thu, 24 Oct 2024 03:56:44",
-         "title" : "Caruana REPEATS As Champ!! | RECAP | 2024 U.S. Chess Championships: Round 11"
       },
       {
          "description" : "",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-in-panaji-goa-on-07-08-december-2024/",
          "pubDate" : "Thu, 17 Oct 2024 15:09:49",
          "title" : "Senior National Arbiters Seminar & Examination in Panaji ,Goa on 07 & 08 December 2024"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The Haryana Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Karnal ,Haryana on 23",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-in-karnal-haryana-on-23-24-november-2024/",
-         "pubDate" : "Thu, 17 Oct 2024 15:07:15",
-         "title" : "Senior National Arbiters Seminar & Examination in Karnal ,Haryana on 23 & 24 November 2024"
       },
       {
          "description" : "",
