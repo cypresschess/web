@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3274",
+         "pubDate" : "Sun, 27 Oct 2024 20:39:23",
+         "title" : "From a school in Chennai to the World Championship match in Singapore"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan and WGM Katerina Nemcova analyze this double sharp position played from a Sicilian variation by GM Irina Krush and WGM Atousa Pourkashiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-position-sicilian-uschesschamps-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YrhZzh3VaWs.jpg?itok=B-m0gJ2J\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-chess-federation-book-of-the-year-2024/",
          "pubDate" : "Mon, 07 Oct 2024 09:52:58",
          "title" : "English Chess Federation Book of the Year 2024"
-      },
-      {
-         "description" : "A roundup of results from the fourth day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41653879/global-chess-league-2024-gcl-report-carlsen-viswanathan-anand-praggnandhaa-gcl-day-4?device=featurephone",
-         "pubDate" : "Sun, 6 Oct 2024 23:20:42",
-         "title" : "Global Chess League: PBG Alaskan Knights maintain perfect run as Anand's Grandmasters struggle again"
       }
    ]
 }
