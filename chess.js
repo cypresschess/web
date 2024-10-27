@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan and WGM Katerina Nemcova analyze this double sharp position played from a Sicilian variation by GM Irina Krush and WGM Atousa Pourkashiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-position-sicilian-uschesschamps-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YrhZzh3VaWs.jpg?itok=B-m0gJ2J\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-position-sicilian-uschesschamps-chess-chessopenings-education",
+         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
+         "title" : "Chess For Beginners: Position from A Sicilian #uschesschamps #chess #chessopenings #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> As the position begins to open up for white (more space for piece movement), black must come up with an alternative plan for his piece underdevelopment </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-disadvantage-underdeveloped-pieces-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RxedxkE16QY.jpg?itok=069pgs2l\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-disadvantage-underdeveloped-pieces-uschesschamps-chess-education",
+         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
+         "title" : "Chess For Beginners: Disadvantage for Underdeveloped Pieces #uschesschamps #chess #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan discusses the advantage of the two bishops in this position between IM Alice Lee and WGM Tatev Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-advantage-two-bishops-uschesschamps-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1iPbcCr7dwI.jpg?itok=-pNPxoaq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-advantage-two-bishops-uschesschamps-chess-chesstactics-education",
+         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
+         "title" : "Chess For Beginners: The Advantage of Two Bishops #uschesschamps #chess #chesstactics #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Sam Sevian decides to play the French Defense against GM Levon Aronian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-french-defense\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EQU_HpAnj6E.jpg?itok=sENNl1y4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-french-defense",
+         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
+         "title" : "Chess For Beginners: The French Defense"
+      },
+      {
+         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, starts on Monday. On Sunday, the event is inaugurated with the Ultimate Moves exhibition match. The players take turns in two teams: Team Rex v. Team Monopoly. Among those taking part will be Garry Kasparov (pictured, 2023) and main sponsor Rex Sinquefield. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ultimate-moves-2024-live",
+         "pubDate" : "Sun, 27 Oct 2024 18:50:00",
+         "title" : "Ultimate Moves in Saint Louis - Live!"
+      },
+      {
+         "description" : "The 'Kalashnikov' variation in the Sicilian Defence is an improved version of the Sveshnikov. Black sets up the system quickly and then gets many different possibilities. Fabien Libiszevsky presents the system in his recently released course. Christian Hoethe had a look at the Fritztrainer and sent us a review.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/libiszewski-master-the-kalashnikov-sicilian-review",
+         "pubDate" : "Sun, 27 Oct 2024 16:35:00",
+         "title" : "\"Master the Kalashnikov Sicilian\" by Fabien Libiszewski - A review"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fellow commentators IM Nazi Paikidze and WGM Begim Tokhirjonova are playing in the 2024 U.S. Chess Championships with Yasser&#039;s support </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commentators-playing-us-chess-championships-uschesschamps-chess-chesshumor-teamsupport\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/emvDB-haYKw.jpg?itok=QAEN2daW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/commentators-playing-us-chess-championships-uschesschamps-chess-chesshumor-teamsupport",
+         "pubDate" : "Sun, 27 Oct 2024 15:58:50",
+         "title" : "Commentators Playing U.S. Chess Championships #uschesschamps #chess #chesshumor #teamsupport"
+      },
+      {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup concluded yesterday in Vrnjacka Banja, Serbia. Novy Bor Chess Club emerged as the sole Winner of the Open tournament scoring impressive 13 match points. Playing in the final round against the top seeded SuperChess, Novy Bor Chess Club scored a narrow 3.5-2.5 win to ensure gold, as GM Anton David Guijarro (2667, Novy Bor) prevailed against GM Jorden Van Foreest (2697, SuperChess) and the other games []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -14,8 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-european-chess-club-cup",
-         "pubDate" : "Sun, 27 Oct 2024 08:20:27",
-         "title" : "Novy Bor Chess Club Win 9th Medal At 2024 European Chess Club Cup"
+         "pubDate" : "Sun, 27 Oct 2024 08:20:00",
+         "title" : "Novy Bor Win 9th Medal At 2024 European Chess Club Cup"
       },
       {
          "description" : "Of the so called Hypermodern grandmasters, whose heyday approximately paralleled the Dada and Surrealist movements in art, Nimzowitsch, Reti, Breyer and Gr&uuml;nfeld all have specific openings or defences named in their honour. Reti has 1. Nf3 followed by the double bishop fianchetto. Breyer invented a popular variation in the Ruy Lopez or Spanish opening. Grunfeld []",
@@ -90,44 +146,12 @@ news_feed (
          "title" : "A Misplay...Moke In Control #uschesschamps #chess #chessendgame #hansniemann #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Commentators having a bit of fun in analyzing the position between GM Irina Krush and WGM Tatev Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/katerina-too-nice-you-uschesschamps-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K5ozZFJ-ktI.jpg?itok=m0XQ0fne\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/katerina-too-nice-you-uschesschamps-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 26 Oct 2024 21:58:27",
-         "title" : "Katerina Is Too Nice To You #uschesschamps #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess Analyst GM Cristian Chirlia talks about the accomplishments of GM Sam Sevian&#039;s preparation against Hans Niemann </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-grandmaster-chess-preparation-uschesschamps-chess-education-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hNm721D4lzc.jpg?itok=kvboe_Us\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-grandmaster-chess-preparation-uschesschamps-chess-education-chesscom",
-         "pubDate" : "Sat, 26 Oct 2024 18:58:22",
-         "title" : "Chess For Beginners: Grandmaster Chess Preparation #uschesschamps #chess #education #chesscom"
-      },
-      {
          "description" : "GM Hikaru Nakamura came out on top in October&#39;s final Bullet Brawl after a tight race with GMs Daniel Naroditsky and Oleksandr Bortnyk on Saturday. Nakamura faced stiff resistance en route to his score of 251 and was fortunate to notch a 17-game s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-october-26-2024",
          "pubDate" : "Sat, 26 Oct 2024 17:43:00",
          "title" : "Nakamura Outscores Naroditsky, Bortnyk To Win 31st Bullet Brawl Crown"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Rex Sinquefield sits down with the commentators and answers the question, &quot;Why Chess960? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bobby-fischer-invention-uschesschamps-chess-fischerrandom-bobbyfischer-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HF33fg0t3yo.jpg?itok=t_vKuo7s\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bobby-fischer-invention-uschesschamps-chess-fischerrandom-bobbyfischer-chesscom",
-         "pubDate" : "Sat, 26 Oct 2024 15:58:20",
-         "title" : "Bobby Fischer Invention #uschesschamps #chess #fischerrandom #bobbyfischer #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser explains what Awonder Liang accomplished out of his opening with his baffling first move a2 - a3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/club-chess-players-what-does-a2-a3-accomplish-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KIL9kv6CnyU.jpg?itok=DhXITY6C\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/club-chess-players-what-does-a2-a3-accomplish-uschesschamps-chess-education",
-         "pubDate" : "Sat, 26 Oct 2024 15:58:20",
-         "title" : "For Club Chess Players: What Does a2 - a3 Accomplish #uschesschamps #chess #education"
       },
       {
          "description" : "Many of my readers and students are overwhelmed. If you've spent any time following chess content online, you might think you need to memorize dozens of opening lines, master complex endgames, read every strategy book out there, and calculate ten moves ahead, all while reviewing and remembering the most important classical games in chess history. []",
@@ -146,36 +170,12 @@ news_feed (
          "title" : "Novy Bor remains in lead of European Club Cup, two teams tie for the top in Women's section"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> SAINT LOUIS (October 25, 2024) - Grandmaster (GM) Fabiano Caruana and International Master (IM) Carissa Yip took top honors out of a field of elite American chess players in the 2024 U.S. Chess Championship and 2024 U.S. Women's Chess Championship, respectively. Organized by the Saint Louis Chess Club and hosted at the World Chess Hall of Fame October 11-23, the 2024 U.S. Chess Championship events featured 24 of the top chess players who competed for a purse of more than $400,000 in America's chess capital. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmaster-fabiano-caruana-claims-fourth-us-championship-title-carissa-yip-wins-third",
-         "pubDate" : "Sat, 26 Oct 2024 00:45:52",
-         "title" : "Grandmaster Fabiano Caruana Claims Fourth U.S. Championship Title; Carissa Yip Wins Third Consecutive U.S. Women's Championship"
-      },
-      {
-         "description" : "Ding Liren's journey to becoming the first Chinese World Chess Champion is a testament to resilience. Rising from modest beginnings, he became the youngest Chinese national champion at 16, leading to a series of historic achievements, including two Olympiad golds and a record-breaking 100-game unbeaten streak. However, his road was far from smooth; he faced challenges and even took a hiatus in 2024 for mental health. Ding's recent comeback showcases his determination to maintain his status among the chess elite | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-profile-2024-fide",
-         "pubDate" : "Fri, 25 Oct 2024 21:00:00",
-         "title" : "Ding Liren, the chess king from China who defies the odds"
-      },
-      {
          "description" : " The 39th European Club Cup takes place 20th to 26th October 2024 in Vrnjacka Banja, Serbia. Erigaisi, Gukesh, Abdusattorov, Wei Yi, Praggnanandhaa, Mamedyarov, Andreikin etc. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
          "pubDate" : "Fri, 25 Oct 2024 19:20:00",
          "title" : "39th European Club Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "In their weekly review of the chess world, Arne K&auml;hler and Johannes Fischer this time discuss a sensitive and unfortunately all-too-topical subject: cheating in chess! They talk about their experiences with cheating in chess and wonder why people cheat and what to do about it. They also take a brief look at the European Club Cup, where Arjun Erigaisi has broken the 2800 Elo barrier and Vincent Keymer is in good form.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-arne-kaehler-and-johannes-fischer-talk-about-a-tricky-topic-cheating",
-         "pubDate" : "Fri, 25 Oct 2024 14:09:09",
-         "title" : "Two Knights Talk: Arne K&auml;hler and Johannes Fischer talk about a tricky topic: Cheating!"
       },
       {
          "description" : "Click the link to view this month's edition of ChessMoves https://www.englishchess.org.uk/wp-content/uploads/2024/10/ChessMoves-Oct-2024.pdf All the games within are presented in PGN format here: https://www.englishchess.org.uk/wp-content/uploads/2024/10/October-ChessMoves.pgn but note that you will need to...",
@@ -216,14 +216,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41997855/gukesh-showing-mixed-form-30-days-go-world-chess-championship-ding-liren?device=featurephone",
          "pubDate" : "Fri, 25 Oct 2024 10:43:07",
          "title" : "Gukesh showing mixed form with 30 days to go for World Chess Championship"
-      },
-      {
-         "description" : "Unlock the secrets of one of chess's most resilient openings with GM Alvar Alonso Rosell's video courses about the Caro-Kann Defence. Explore cutting-edge theory, practical insights, and strategies used by top grandmasters today. Whether you're mastering core principles or discovering new lines, these courses will give you the tools to outsmart your opponents and succeed in high-level play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lvar-alonso-rosell-how-to-play-the-caro-kann-defence-vol-1-2",
-         "pubDate" : "Fri, 25 Oct 2024 08:00:00",
-         "title" : "Alvar Alonso Rosell: How to play the Caro- Kann Defence Vol. 1 + 2"
       },
       {
          "description" : "Jalgaon District Chess Association and Jain Sports Academy, on behalf of All India Chess Federation and Maharashtra State Chess Association organised Senior National Arbiter Seminar",
@@ -1088,22 +1080,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41653879/global-chess-league-2024-gcl-report-carlsen-viswanathan-anand-praggnandhaa-gcl-day-4?device=featurephone",
          "pubDate" : "Sun, 6 Oct 2024 23:20:42",
          "title" : "Global Chess League: PBG Alaskan Knights maintain perfect run as Anand's Grandmasters struggle again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3245",
-         "pubDate" : "Sun, 06 Oct 2024 18:54:34",
-         "title" : "Tech Mahindra Global Chess League midway through: Alaskan Knights remain unbeaten at the top"
-      },
-      {
-         "description" : "At the beginning of every month, in preparation for the monthly post on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I prepare a short list of top items sold in the previous month. The items on the short list often repeat previous posts in the series. For example, this month I had on the short list (listed from least expensive to most expensive):- <UL> <LI> A chess watch, similar to the watch shown in <A HREF=\"https://chessforallages.blogspot.com/2016/10/skeleton-marriage-chess-watch.html\">Skeleton, Marriage, Chess Watch</A> (October 2016). <LI> A bronze of cats playing chess, reminiscent of <A HREF=",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/10/wikipedia-to-trading-cards-to-ebay.html",
-         "pubDate" : "Sun, 06 Oct 2024 15:53:00",
-         "title" : "Wikipedia to Trading Cards to eBay"
       }
    ]
 }
