@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Club Cup in Vrnjaƒçka Banja concluded with thrilling results in both the open and women's sections. Czech team Novy Bor dominated the open section, defeating favourites SuperChess in the final round to secure gold, with Alkaloid and Romania's Vados Chess Club completing the podium. In the women's section, TAJFUN-≈K Ljubljana emerged as champions, edging past SuperChess, who took third, while Garuda Ajka BSK clinched second with a decisive final-round win. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2024-final-report",
+         "pubDate" : "Sun, 27 Oct 2024 01:15:00",
+         "title" : "Novy Bor and TAJFUN-SK Ljubljana are European Club Cup champions"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Foolishly asking the &quot;King of the Pawn Grubbers,&quot; GM Yasser Seirawan if wants to take a pawn </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/you-wanna-take-my-pawn-uschesschamps-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZIVBzu3giMc.jpg?itok=M6Mx8jxU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/you-wanna-take-my-pawn-uschesschamps-chess-chesstactics-chesscom",
+         "pubDate" : "Sun, 27 Oct 2024 00:58:29",
+         "title" : "You Wanna Take My Pawn? #uschesschamps #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fellow commentators are supported by Yasser in the Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/emvDB-haYKw.jpg?itok=QAEN2daW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor",
+         "pubDate" : "Sun, 27 Oct 2024 00:58:29",
+         "title" : "Yasser Supporting Fellow Commentators #uschesschamps #chess #chesshumor"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,6 +58,14 @@ news_feed (
          "title" : "Chess For Beginners: Grandmaster Chess Preparation #uschesschamps #chess #education #chesscom"
       },
       {
+         "description" : "GM Hikaru Nakamura came out on top in October&#39;s final Bullet Brawl after a tight race with GMs Daniel Naroditsky and Oleksandr Bortnyk on Saturday. Nakamura faced stiff resistance en route to his score of 251 and was fortunate to notch a 17-game s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-october-26-2024",
+         "pubDate" : "Sat, 26 Oct 2024 17:43:00",
+         "title" : "Nakamura Outscores Naroditsky, Bortnyk To Win 31st Bullet Brawl Crown"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Rex Sinquefield sits down with the commentators and answers the question, &quot;Why Chess960? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bobby-fischer-invention-uschesschamps-chess-fischerrandom-bobbyfischer-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HF33fg0t3yo.jpg?itok=t_vKuo7s\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/club-chess-players-what-does-a2-a3-accomplish-uschesschamps-chess-education",
          "pubDate" : "Sat, 26 Oct 2024 15:58:20",
          "title" : "For Club Chess Players: What Does a2 - a3 Accomplish #uschesschamps #chess #education"
-      },
-      {
-         "description" : "The European Clubs Cups are being held in Vrnjacka Banja for a week from Sunday, 20 October. This time, 84 teams are competing in the open tournament and 18 teams in the women's tournament. Fourteen players rated 2700 or above are participating, with Arjun, Gukesh and Abdusattorov the top three seeds. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-live",
-         "pubDate" : "Sat, 26 Oct 2024 13:50:00",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "Many of my readers and students are overwhelmed. If you've spent any time following chess content online, you might think you need to memorize dozens of opening lines, master complex endgames, read every strategy book out there, and calculate ten moves ahead, all while reviewing and remembering the most important classical games in chess history. []",
@@ -146,14 +170,6 @@ news_feed (
          "title" : "US Chess Championships 2024 - "
       },
       {
-         "description" : "Pawn underpromotions do not happen often in practical games, but they have been an important topic in study composition more than a hundred years. Recently, the famous Babson task (Black promotes to one of the four possible pieces and White must promote to the same piece in all four cases to win) has been conquered by Gady Costeff in an endgame study. Many thought it to be impossible to realize this extremely difficult task. In this first part of the three part series Harold van der Heijden describes the beginning of the story with the first underpromotions including the famous Allumwandlung.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/underpromotion-milestones",
-         "pubDate" : "Fri, 25 Oct 2024 11:00:00",
-         "title" : "Underpromotion Milestones"
-      },
-      {
          "description" : "Gukesh has been in action, alongside a host of the world's top players, at the European Club Cup",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/25/chess-fabiano-caruana-world-no-2-wins-fourth-us-championship-title",
          "pubDate" : "Fri, 25 Oct 2024 07:00:13",
          "title" : "Chess: Fabiano Caruana, world No 2, wins fourth US Championship title"
-      },
-      {
-         "description" : "It was long in the coming, for the impatient fans that is. Arjun Erigaisi made history by cementing Vishy Anand's legacy in Indian chess by becoming the second ever Indian (and we know a third is hot on his heels) to break that elusive 2800 barrier. In just over 12 months he has added over 100 Elo and as of now is world no.3 at 2802.1 Elo. Breathtaking! (photo: Michal Walusza/FIDE.com)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-joins-the-2800-club",
-         "pubDate" : "Thu, 24 Oct 2024 23:35:00",
-         "title" : "Arjun Erigaisi joins the 2800 club!"
       },
       {
          "description" : "After five played rounds at the 39th European Chess Club Cup 2024, Novy Bor Chess Club emerged as the sole leader of the Open tournament, while three teams tie for the top of the 28th European Women's Chess Club Cup. After defeating Tuxera Aquaprofit Nagykanizsai Sakk Klub with a convincing 4.5-1.5 score, Novy Bor Chess Club remained the only team with the perfect score in the tournament. GM Vidit Santosh Gujrathi (2726, Novy Bor Chess Club) was victorious against GM []",
@@ -266,28 +274,12 @@ news_feed (
          "title" : "Caruana REPEATS As Champ!! | RECAP | 2024 U.S. Chess Championships: Round 11"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it's time for team chess! Ultimate Moves is a casual team event where partners \"tag in\" every five moves. Saint Louis Chess Club Co-Founder Rex Sinquefield and Mr. Monopoly draft the world's best players (rosters below) to join them on their teams. Join GM Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-ultimate-moves\"><img src=\"https://saintlouischessclu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-ultimate-moves",
-         "pubDate" : "Thu, 24 Oct 2024 03:56:44",
-         "title" : "2024 Chess 9LX: Ultimate Moves"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3270",
          "pubDate" : "Thu, 24 Oct 2024 02:03:09",
          "title" : "European Chess Club Cup 2024 crosses half-way mark"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa kept her promise and invited Alice for ice cream at Clementine's Naughty &amp; Nice Ice Cream right after their game! It's always heartwarming to see rivals on the board become friends off the board. Clementine's is in the space that hosted the Chess Club's tournaments in the summer and fall of 2022. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-alice-get-their-ice-cream-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-alice-get-their-ice-cream-r11-uschesschamps",
-         "pubDate" : "Thu, 24 Oct 2024 00:56:35",
-         "title" : "Carissa & Alice Get Their Ice Cream! | R11 #USChessChamps"
       },
       {
          "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance gave him a 1.5-point b...",
@@ -762,14 +754,6 @@ news_feed (
          "title" : "Nakamura Wins First Titled Tuesday Since August, Still Way Ahead In Titled Cup"
       },
       {
-         "description" : "GM Alireza Firouzja was gifted a win when GM Raunak Sadhwani overslept their first game, before a draw in the second secured a spot in the 2024 WR Chess Masters Cup Semifinals. Firouzja will play GM Maxime Vachier-Lagrave, who beat GM Nodirbek Abd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-wr-chess-masters-cup-round-qf",
-         "pubDate" : "Tue, 15 Oct 2024 17:23:00",
-         "title" : "Firouzja Accepts Gift As MVL, Arjun, Praggnanandhaa Join Him In Semifinals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1128,14 +1112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamura-defeats-viswanathan-anand-as-ganges-grandmasters-woes-continue/articleshow/113989711.cms",
          "pubDate" : "Sun, 06 Oct 2024 15:10:33",
          "title" : "Nakamura defeats Anand as Ganges Grandmasters' woes continue"
-      },
-      {
-         "description" : "Even as Gukesh has been in the form of his life, Ding has not quite been in the best of it.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41634785/world-chess-championship-gukesh-ding-liren-50-days-go-form-experience?device=featurephone",
-         "pubDate" : "Sun, 6 Oct 2024 02:52:31",
-         "title" : "World Chess Championship: 50 days to go, Gukesh has form but Ding the experience"
       }
    ]
 }
