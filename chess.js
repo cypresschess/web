@@ -10,6 +10,14 @@ news_feed (
          "title" : "Novy Bor and TAJFUN SK Ljubljana win European Club Cups 2024"
       },
       {
+         "description" : "Third seed Novy Bor Chess Club&#38;mdash;featuring GMs Vincent Keymer, David Navara, Thai Dai Van Nguyen, David Anton Guijarro, Nils Grandelius, Vidit Gujrathi, Mateusz Bartel, and Pentala Harikrishna&#38;mdash;won the European Chess Club Cup on Saturday ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-european-chess-club-cup",
+         "pubDate" : "Sun, 27 Oct 2024 08:20:27",
+         "title" : "Novy Bor Chess Club Win 9th Medal At 2024 European Chess Club Cup"
+      },
+      {
          "description" : "Of the so called Hypermodern grandmasters, whose heyday approximately paralleled the Dada and Surrealist movements in art, Nimzowitsch, Reti, Breyer and Gr&uuml;nfeld all have specific openings or defences named in their honour. Reti has 1. Nf3 followed by the double bishop fianchetto. Breyer invented a popular variation in the Ruy Lopez or Spanish opening. Grunfeld []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/important-chess-skills/",
          "pubDate" : "Sat, 26 Oct 2024 13:00:00",
          "title" : "The Chess Skills That Truly Matter"
-      },
-      {
-         "description" : "When analysing grandmasters' opening choices, the wealth of available chess resources demands careful selection. ChessBase, a leader in opening theory, provides players with powerful tools, including the Opening Encyclopaedia 2024. With over 1,400 articles, thousands of games, and numerous new repertoire ideas, this resource allows players to build their opening strategies effectively. It highlights the importance of balancing recent trends with older, reliable lines that may have fallen out of favour but remain sound.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-review-nagesh-havanur",
-         "pubDate" : "Sat, 26 Oct 2024 10:00:00",
-         "title" : "Opening Encyclopaedia 2024: Introduction and Open Games"
       },
       {
          "description" : "The penultimate round of the European Chess Club Cup 2024 concluded yesterday, and Novy Bor Chess Club remained in the sole lead of the 39th European Chess Club Cup, while TAJFUN SK Ljubljana and SuperChess tie for the top of the 28th European Women's Chess Club Cup. Novy Bor Chess Club is on their way to win the 9th medal at the European Chess Club Cup after 2 gold, 5 silver and 1 bronze medal won in the past. The []",
@@ -754,14 +754,6 @@ news_feed (
          "title" : "2024 FIDE World Rapid & Blitz Championships: Registration Open"
       },
       {
-         "description" : "GM Hikaru Nakamura returned to the top of the Titled Tuesday standings on October 15, winning the late event with 9.5 points after finishing third in the early event, which was won by GM Jan-Krzysztof Duda with 10 points. Duda won outright, while ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-nakamura-win-titled-tuesday-october-15-2024",
-         "pubDate" : "Wed, 16 Oct 2024 09:26:09",
-         "title" : "Nakamura Wins First Titled Tuesday Since August, Still Way Ahead In Titled Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1112,14 +1104,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/10/wikipedia-to-trading-cards-to-ebay.html",
          "pubDate" : "Sun, 06 Oct 2024 15:53:00",
          "title" : "Wikipedia to Trading Cards to eBay"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/113989711.cms\" />The American Gambits, captained by Hikaru Nakamura and Elisabeth Paehtz, defeated Viswanathan Anand's Ganges Grandmasters 10-4 at the Tech Mahindra Global Chess League. This crucial victory lifts Nakamura's team, who now have two wins in four matches, while Anand's team struggles with four losses in five matches, needing a turnaround.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hikaru-nakamura-defeats-viswanathan-anand-as-ganges-grandmasters-woes-continue/articleshow/113989711.cms",
-         "pubDate" : "Sun, 06 Oct 2024 15:10:33",
-         "title" : "Nakamura defeats Anand as Ganges Grandmasters' woes continue"
       }
    ]
 }
