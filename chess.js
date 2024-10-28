@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3275",
+         "pubDate" : "Mon, 28 Oct 2024 09:01:45",
+         "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
+      },
+      {
+         "description" : "'Guess the Move' or 'Solitaire Chess' have long been favorites of players, and ChessBase has amazing tools to play them, with more than simply hiding the next move. It also comes with fantastic tools such as Assisted Calculation to help you train your visualization skills, combining great fun with top training. What more can you want? Don't miss this lightning lesson on video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-play-like-a-world-champion-video",
+         "pubDate" : "Mon, 28 Oct 2024 08:43:42",
+         "title" : "ChessBase in Minutes: Play like a World Champion! (video)"
+      },
+      {
          "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
          "pubDate" : "Fri, 25 Oct 2024 19:20:00",
          "title" : "39th European Club Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "Click the link to view this month's edition of ChessMoves https://www.englishchess.org.uk/wp-content/uploads/2024/10/ChessMoves-Oct-2024.pdf All the games within are presented in PGN format here: https://www.englishchess.org.uk/wp-content/uploads/2024/10/October-ChessMoves.pgn but note that you will need to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessmoves-october-2024/",
-         "pubDate" : "Fri, 25 Oct 2024 14:08:50",
-         "title" : "ChessMoves October 2024"
       },
       {
          "description" : "Indian star GM Arjun Erigaisi achieved a 2800+ rating for the first time on Thursday, joining a celebrated group of players to break the barrier. We knew it was just a matter of time, but on Thursday the moment finally arrived. Arjun joined the ...",
@@ -1056,30 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3248",
          "pubDate" : "Mon, 07 Oct 2024 18:24:40",
          "title" : "FIDE Council meeting and FIDE GA lists of decisions published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3247",
-         "pubDate" : "Mon, 07 Oct 2024 10:35:12",
-         "title" : "EDU Commission announces its 19th \"Preparation of Teachers\" course"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3246",
-         "pubDate" : "Mon, 07 Oct 2024 10:18:47",
-         "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners begins this week"
-      },
-      {
-         "description" : "This year's book was first published in Dutch in 2011 and was acclaimed as a classic grandmaster chess autobiography. The book was translated into English to enable this remarkable work...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-chess-federation-book-of-the-year-2024/",
-         "pubDate" : "Mon, 07 Oct 2024 09:52:58",
-         "title" : "English Chess Federation Book of the Year 2024"
       }
    ]
 }
