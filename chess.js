@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Of the many variations in the Giuoco Piano, the opening position between Carissa Yip and Tatev Abrahamyan is analyzed by Chirila </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-dubov-ious-opening-uschesschamps-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M3X9ERlTx6s.jpg?itok=5EeCllSE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-dubov-ious-opening-uschesschamps-chess-chessopenings-education",
+         "pubDate" : "Mon, 28 Oct 2024 00:59:07",
+         "title" : "Chess For Beginners: A Dubov-ious Opening #uschesschamps #chess #chessopenings #education"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3273",
          "pubDate" : "Sat, 26 Oct 2024 22:30:48",
          "title" : "European Chess Club Cup: Novy Bor TAJFUN SK Ljubljana win titles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Under time pressure, Abhimayu Mishra makes a critical mistake in this rook and pawn endgame against Niemann </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/misplaymoke-control-uschesschamps-chess-chessendgame-hansniemann-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gI2zRYIDcrg.jpg?itok=gEt4DpKC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/misplaymoke-control-uschesschamps-chess-chessendgame-hansniemann-chesscom",
-         "pubDate" : "Sat, 26 Oct 2024 21:58:27",
-         "title" : "A Misplay...Moke In Control #uschesschamps #chess #chessendgame #hansniemann #chesscom"
       },
       {
          "description" : "GM Hikaru Nakamura came out on top in October&#39;s final Bullet Brawl after a tight race with GMs Daniel Naroditsky and Oleksandr Bortnyk on Saturday. Nakamura faced stiff resistance en route to his score of 251 and was fortunate to notch a 17-game s...",
