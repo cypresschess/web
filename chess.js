@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-reportsenior-national-arbiter-seminar-in-patna-on-19-20-october-2024/",
+         "pubDate" : "Mon, 28 Oct 2024 05:35:31",
+         "title" : "Final Report:Senior National Arbiter Seminar in Patna on 19 & 20 October 2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Of the many variations in the Giuoco Piano, the opening position between Carissa Yip and Tatev Abrahamyan is analyzed by Chirila </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-dubov-ious-opening-uschesschamps-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M3X9ERlTx6s.jpg?itok=5EeCllSE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/chess-beginners-dubov-ious-opening-uschesschamps-chess-chessopenings-education",
          "pubDate" : "Mon, 28 Oct 2024 00:59:07",
          "title" : "Chess For Beginners: A Dubov-ious Opening #uschesschamps #chess #chessopenings #education"
+      },
+      {
+         "description" : "The recently released TV series Rematch, a dramatized version of the legendary matches between GM Garry Kasparov and IBM&#39;s Deep Blue, was an excellent reason for an interview with the 13th world champion. Although he hadn&#39;t see the series just yet...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasparov-interview-deep-blue-ibm-chess960",
+         "pubDate" : "Mon, 28 Oct 2024 00:12:19",
+         "title" : "Kasparov On Facing Deep Blue: 'I Was Part Of Something Really Unique'"
       },
       {
          "description" : "",
@@ -690,14 +706,6 @@ news_feed (
          "title" : "Arjun Erigaisi Wins WR Chess Masters Cup But Misses Out On 2800"
       },
       {
-         "description" : "On behalf of All India Chess Federation, Goa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Panaji ,Goa on 07 &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-in-panaji-goa-on-07-08-december-2024/",
-         "pubDate" : "Thu, 17 Oct 2024 15:09:49",
-         "title" : "Senior National Arbiters Seminar & Examination in Panaji ,Goa on 07 & 08 December 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-wr-chess-masters-cup-round-sf",
          "pubDate" : "Wed, 16 Oct 2024 23:15:00",
          "title" : "Arjun, Vachier-Lagrave In Final After Thrilling Wins Vs. Praggnanandhaa, Firouzja"
-      },
-      {
-         "description" : "IM Sagar Shah and IM Tania Sachdev (Check De India) defeated IM Levy Rozman and James Canty III (Team Swole) in the last quarterfinal match of the 2024 Team Chess Battle 2. After soundly unraveling the King&#39;s Indian Defense in game one, they lost ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-qf-sagar-tania-win",
-         "pubDate" : "Wed, 16 Oct 2024 13:37:00",
-         "title" : "'Check De India' Win Armageddon Vs. 'Team Swole,' Will Face 'Oh Yes My Queen' In Semis"
       },
       {
          "description" : "",
