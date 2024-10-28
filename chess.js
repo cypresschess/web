@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 27th Open International Bavarian Chess Championships kicked off on Saturday at Tegernsee, attracting over 550 participants from 30 nations. Top seed is German Grandmaster Dmitrij Kollars, who is one of the 57 players who started the tournament with 2.0/2. | Photos: Sandra Schmidt",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-fans-like-it-in-bavaria",
+         "pubDate" : "Mon, 28 Oct 2024 15:10:31",
+         "title" : "Chess fans like it in Bavaria"
+      },
+      {
+         "description" : " The Champions Showdown Chess 9LX takes place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This is a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. From a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year the hope is that Kasparov has prepared, at least a little, against what is an extremely tough field. I don't have the ability to actually display the games but will update a game file regularly.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-chess-9lx-2024",
+         "pubDate" : "Mon, 28 Oct 2024 15:08:00",
+         "title" : "Champions Showdown Chess 9LX 2024 - Games and Results"
+      },
+      {
+         "description" : "Eight of the world's top chess grandmasters will compete in the 2024 XTX Markets London Chess Classic (LCC) from November 29 to December 7. The line-up includes: Women's World Champion...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-at-the-emirates-britains-premier-tournament-to-be-staged-at-arsenals-iconic-stadium/",
+         "pubDate" : "Mon, 28 Oct 2024 15:07:58",
+         "title" : "Chess at the Emirates! Britain's premier tournament to be staged at Arsenal's iconic stadium"
+      },
+      {
+         "description" : "Gukesh Dommaraju, an 18-year-old prodigy from Chennai, has shattered records to become the youngest contender for the World Chess Championship, setting up a highly anticipated clash with reigning champion Ding Liren. Gukesh's rapid rise has captivated fans, from achieving his Grandmaster title at just 12, to his recent triumph at the Candidates Tournament in Toronto. With intense preparation, an unwavering work ethic, and a focus on mental balance through meditation, Gukesh stands ready to face his greatest challenge yet.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/d-gukesh-profile-2024-fide",
+         "pubDate" : "Mon, 28 Oct 2024 14:30:00",
+         "title" : "Gukesh: From a school in Chennai to the world title match in Singapore"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +48,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-play-like-a-world-champion-video",
          "pubDate" : "Mon, 28 Oct 2024 08:43:42",
          "title" : "ChessBase in Minutes: Play like a World Champion! (video)"
+      },
+      {
+         "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship",
+         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
+         "title" : "Seirawan Chess Championship Is The Next Event Of The Chess.com Community Championships"
+      },
+      {
+         "description" : "Chess.com is excited to announce its first ever baseball bot: introducing one of the sport&#39;s most valuable players, Joey Votto! Votto, a six-time All-Star and the National League Most Valuable Player in 2010, spent all 17 Major League seasons of h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-mlb-all-star-joey-votto",
+         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
+         "title" : "Play Chess Against MLB All-Star Joey Votto"
       },
       {
          "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
@@ -87,7 +135,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ultimate-moves-2024-live",
          "pubDate" : "Sun, 27 Oct 2024 18:50:00",
-         "title" : "Ultimate Moves in Saint Louis - Live!"
+         "title" : "Ultimate Moves in Saint Louis"
       },
       {
          "description" : "The 'Kalashnikov' variation in the Sicilian Defence is an improved version of the Sveshnikov. Black sets up the system quickly and then gets many different possibilities. Fabien Libiszevsky presents the system in his recently released course. Christian Hoethe had a look at the Fritztrainer and sent us a review.",
@@ -736,22 +784,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-sf-rosen-nemo-win",
          "pubDate" : "Thu, 17 Oct 2024 12:27:00",
          "title" : "'Oh Yes My Queen' Sweep 'Check De India' 2-0, Progress To Final Vs. 'Ratata Spanish Squad'"
-      },
-      {
-         "description" : "The Saint Louis Chess Club has expelled GM Christopher Yoo from the 2024 U.S. Championship, saying in a statement after round five that the 17-year-old was guilty of &#34;gross violations&#34; of the event&#39;s &#34;Code of Conduct&#34; and the &#34;US Chess Safe Play P...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-5",
-         "pubDate" : "Thu, 17 Oct 2024 01:33:00",
-         "title" : "Yoo Expelled From U.S. Championship Due To \"Gross Violations\" Of Code Of Conduct"
-      },
-      {
-         "description" : "GM Arjun Erigaisi is just one win away from crossing 2800 after winning the first game of his 2024 WR Chess Masters Cup Semifinal and then surviving a scare in the second when GM Praggnanandhaa Rameshbabu missed a win on his last move. Arjun now f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-wr-chess-masters-cup-round-sf",
-         "pubDate" : "Wed, 16 Oct 2024 23:15:00",
-         "title" : "Arjun, Vachier-Lagrave In Final After Thrilling Wins Vs. Praggnanandhaa, Firouzja"
       },
       {
          "description" : "",
