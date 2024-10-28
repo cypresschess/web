@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
+         "pubDate" : "Mon, 28 Oct 2024 18:50:00",
+         "title" : "Champions Showdown Chess 9LX - Live!"
+      },
+      {
          "description" : "The 27th Open International Bavarian Chess Championships kicked off on Saturday at Tegernsee, attracting over 550 participants from 30 nations. Top seed is German Grandmaster Dmitrij Kollars, who is one of the 57 players who started the tournament with 2.0/2. | Photos: Sandra Schmidt",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,7 +266,7 @@ news_feed (
          "title" : "Novy Bor remains in lead of European Club Cup, two teams tie for the top in Women's section"
       },
       {
-         "description" : " The 39th European Club Cup takes place 20th to 26th October 2024 in Vrnjacka Banja, Serbia. Erigaisi, Gukesh, Abdusattorov, Wei Yi, Praggnanandhaa, Mamedyarov, Andreikin etc. ",
+         "description" : " The 39th European Club Cup took place 20th to 26th October 2024. Novy Bor Chess Club won the Open event a point clear of Alkaloid and TAJFUN-SK Ljubljana the women's.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
@@ -1080,22 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3250",
          "pubDate" : "Mon, 07 Oct 2024 21:00:49",
          "title" : "Global Chess League, Day 5: PBG still on top despite first defeat"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3249",
-         "pubDate" : "Mon, 07 Oct 2024 19:19:45",
-         "title" : "FIDE World Cadet Chess Championship 2024: Registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3248",
-         "pubDate" : "Mon, 07 Oct 2024 18:24:40",
-         "title" : "FIDE Council meeting and FIDE GA lists of decisions published"
       }
    ]
 }
