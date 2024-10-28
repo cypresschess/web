@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> As the position begins to open up for white (more space for piece movement), black must come up with an alternative plan on how to develop his pieces while being attacked </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-importance-developing-pieces-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RxedxkE16QY.jpg?itok=069pgs2l\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-importance-developing-pieces-uschesschamps-chess-education",
+         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
+         "title" : "Chess For Beginners: Importance of Developing Pieces #uschesschamps #chess #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-2-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-2-fischer-random",
+         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
+         "title" : "2024 Chess 9LX: Day 2 | Fischer Random"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the final three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-3-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-3-fischer-random",
+         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
+         "title" : "2024 Chess 9LX: Day 3 | Fischer Random"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-niemann-if-you-have-dreams-you-should-least-try-uschesschamps",
+         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
+         "title" : "EXCLUSIVE! Niemann: If You Have Dreams, You Should At Least Try | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-us-women-what-chess-resources-most-improve-your-game-uschesschamps",
+         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
+         "title" : "EXCLUSIVE! U.S. Women: What Chess Resources Most Improve Your Game? | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-us-women-us-chess-future-growth-uschesschamps",
+         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
+         "title" : "EXCLUSIVE! U.S. Women: US Chess Future Growth? | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-us-overall-field-us-chess-future-growth-uschesschamps",
+         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
+         "title" : "EXCLUSIVE! U.S. Overall Field: US Chess Future Growth? | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the first three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-1-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-1-fischer-random",
+         "pubDate" : "Mon, 28 Oct 2024 18:59:46",
+         "title" : "2024 Chess 9LX: Day 1 | Fischer Random"
+      },
+      {
          "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
          "pubDate" : "Mon, 28 Oct 2024 18:50:00",
          "title" : "Champions Showdown Chess 9LX - Live!"
+      },
+      {
+         "description" : "SRM added another victory to their winning streak in week five of the 2024 Collegiate Chess League (CCL) Fall Season, reaching a perfect 5-0. Saint Louis defeated Yale and is tied for second with UT Rio Grande Valley. GM Pranesh M and IM L R Sri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu-1",
+         "pubDate" : "Mon, 28 Oct 2024 15:35:00",
+         "title" : "Saint Louis Overcomes Yale in Shocking Finish, SRM Still Perfect"
       },
       {
          "description" : "The 27th Open International Bavarian Chess Championships kicked off on Saturday at Tegernsee, attracting over 550 participants from 30 nations. Top seed is German Grandmaster Dmitrij Kollars, who is one of the 57 players who started the tournament with 2.0/2. | Photos: Sandra Schmidt",
@@ -40,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/d-gukesh-profile-2024-fide",
          "pubDate" : "Mon, 28 Oct 2024 14:30:00",
          "title" : "Gukesh: From a school in Chennai to the world title match in Singapore"
+      },
+      {
+         "description" : "GM Pia Cramling has started the Battle of Generations, her one-on-one match against IM Levy Rozman (GothamChess), with a win in the first classical game. Rozman gained the advantage with the white pieces, but spent about half his remaining time on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-1",
+         "pubDate" : "Mon, 28 Oct 2024 12:41:00",
+         "title" : "Pia Cramling Wins With Black In Game 1 Vs. GothamChess"
       },
       {
          "description" : "",
@@ -114,30 +194,6 @@ news_feed (
          "title" : "Chess For Beginners: Position from A Sicilian #uschesschamps #chess #chessopenings #education"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> As the position begins to open up for white (more space for piece movement), black must come up with an alternative plan for his piece underdevelopment </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-disadvantage-underdeveloped-pieces-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RxedxkE16QY.jpg?itok=069pgs2l\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-disadvantage-underdeveloped-pieces-uschesschamps-chess-education",
-         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
-         "title" : "Chess For Beginners: Disadvantage for Underdeveloped Pieces #uschesschamps #chess #education"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan discusses the advantage of the two bishops in this position between IM Alice Lee and WGM Tatev Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-advantage-two-bishops-uschesschamps-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1iPbcCr7dwI.jpg?itok=-pNPxoaq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-advantage-two-bishops-uschesschamps-chess-chesstactics-education",
-         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
-         "title" : "Chess For Beginners: The Advantage of Two Bishops #uschesschamps #chess #chesstactics #education"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Sam Sevian decides to play the French Defense against GM Levon Aronian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-french-defense\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EQU_HpAnj6E.jpg?itok=sENNl1y4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-french-defense",
-         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
-         "title" : "Chess For Beginners: The French Defense"
-      },
-      {
          "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, starts on Monday. On Sunday, the event is inaugurated with the Ultimate Moves exhibition match. The players take turns in two teams: Team Rex v. Team Monopoly. Among those taking part will be Garry Kasparov (pictured, 2023) and main sponsor Rex Sinquefield. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/libiszewski-master-the-kalashnikov-sicilian-review",
          "pubDate" : "Sun, 27 Oct 2024 16:35:00",
          "title" : "\"Master the Kalashnikov Sicilian\" by Fabien Libiszewski - A review"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fellow commentators IM Nazi Paikidze and WGM Begim Tokhirjonova are playing in the 2024 U.S. Chess Championships with Yasser&#039;s support </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commentators-playing-us-chess-championships-uschesschamps-chess-chesshumor-teamsupport\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/emvDB-haYKw.jpg?itok=QAEN2daW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/commentators-playing-us-chess-championships-uschesschamps-chess-chesshumor-teamsupport",
-         "pubDate" : "Sun, 27 Oct 2024 15:58:50",
-         "title" : "Commentators Playing U.S. Chess Championships #uschesschamps #chess #chesshumor #teamsupport"
       },
       {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup concluded yesterday in Vrnjacka Banja, Serbia. Novy Bor Chess Club emerged as the sole Winner of the Open tournament scoring impressive 13 match points. Playing in the final round against the top seeded SuperChess, Novy Bor Chess Club scored a narrow 3.5-2.5 win to ensure gold, as GM Anton David Guijarro (2667, Novy Bor) prevailed against GM Jorden Van Foreest (2697, SuperChess) and the other games []",
@@ -194,44 +242,12 @@ news_feed (
          "title" : "Certificate of National School Team Chess Championship 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fellow commentators playing in the 2024 U.S. Chess Championships are supported by Chief Commentator, GM Yasser Seirawan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor-teamsupport\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/emvDB-haYKw.jpg?itok=QAEN2daW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor-teamsupport",
-         "pubDate" : "Sun, 27 Oct 2024 03:58:33",
-         "title" : "Yasser Supporting Fellow Commentators #uschesschamps #chess #chesshumor #teamsupport"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chirila is shockingly surprised with the Yasser suggested line played by Fabi against Awonder Liang...go Yasser! go Yasser! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-lous-minds-think-alike-uschesschamps-chess-chesstactics-education-fabianocaruana-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EWVgV6BJP5Q.jpg?itok=xA3iCQEY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-lous-minds-think-alike-uschesschamps-chess-chesstactics-education-fabianocaruana-chesscom",
-         "pubDate" : "Sun, 27 Oct 2024 03:58:33",
-         "title" : "Fabi-lous Minds Think Alike #uschesschamps #chess #chesstactics #education #fabianocaruana #chesscom"
-      },
-      {
          "description" : "The European Club Cup in Vrnjaƒçka Banja concluded with thrilling results in both the open and women's sections. Czech team Novy Bor dominated the open section, defeating favourites SuperChess in the final round to secure gold, with Alkaloid and Romania's Vados Chess Club completing the podium. In the women's section, TAJFUN-≈K Ljubljana emerged as champions, edging past SuperChess, who took third, while Garuda Ajka BSK clinched second with a decisive final-round win. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2024-final-report",
          "pubDate" : "Sun, 27 Oct 2024 01:15:00",
          "title" : "Novy Bor and TAJFUN-SK Ljubljana are European Club Cup champions"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Foolishly asking the &quot;King of the Pawn Grubbers,&quot; GM Yasser Seirawan if wants to take a pawn </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/you-wanna-take-my-pawn-uschesschamps-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZIVBzu3giMc.jpg?itok=M6Mx8jxU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/you-wanna-take-my-pawn-uschesschamps-chess-chesstactics-chesscom",
-         "pubDate" : "Sun, 27 Oct 2024 00:58:29",
-         "title" : "You Wanna Take My Pawn? #uschesschamps #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fellow commentators are supported by Yasser in the Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/emvDB-haYKw.jpg?itok=QAEN2daW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yasser-supporting-fellow-commentators-uschesschamps-chess-chesshumor",
-         "pubDate" : "Sun, 27 Oct 2024 00:58:29",
-         "title" : "Yasser Supporting Fellow Commentators #uschesschamps #chess #chesshumor"
       },
       {
          "description" : "",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "UPDATED: Yoo Family Releases Statement after U.S. Championship Expulsion"
       },
       {
-         "description" : "GM Arjun Erigaisi defeated Maxime Vachier-Lagrave in armageddon to win the 2024 WR Chess Masters Cup, picking up the &#38;euro;20,000 top prize and 27.84 FIDE Circuit points. The one thing he missed out on was crossing 2800 for the first time, after h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-2024-wr-chess-masters-cup-round",
-         "pubDate" : "Thu, 17 Oct 2024 17:45:00",
-         "title" : "Arjun Erigaisi Wins WR Chess Masters Cup But Misses Out On 2800"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-statement-world-seniors-prague-2025/",
          "pubDate" : "Thu, 17 Oct 2024 12:53:51",
          "title" : "ECF Statement World Seniors Prague 2025"
-      },
-      {
-         "description" : "Contrary to IM Levy Rozman&#39;s prediction the day before, IM Eric Rosen and WGM Nemo Zhou (Oh Yes My Queen) swept&#38;nbsp;IM Sagar Shah and IM Tania Sachdev (Check De India) 2-0 in the&#38;nbsp;2024 Team Chess Battle 2 Semifinals. Game one was the critical...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-sf-rosen-nemo-win",
-         "pubDate" : "Thu, 17 Oct 2024 12:27:00",
-         "title" : "'Oh Yes My Queen' Sweep 'Check De India' 2-0, Progress To Final Vs. 'Ratata Spanish Squad'"
       },
       {
          "description" : "",
@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41672780/global-chess-league-2024-gcl-report-carlsen-viswanathan-anand-praggnandhaa-gcl-day-5?device=featurephone",
          "pubDate" : "Tue, 8 Oct 2024 00:06:01",
          "title" : "Global Chess League: Triveni Continental Kings climb to second, PBG Alaskan Knights remain on top despite defeat"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3250",
-         "pubDate" : "Mon, 07 Oct 2024 21:00:49",
-         "title" : "Global Chess League, Day 5: PBG still on top despite first defeat"
       }
    ]
 }
