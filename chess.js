@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Modern society faces an unprecedented rise in violence among minors, with incidents of juvenile delinquency and aggression increasing alarmingly. In this context, finding ways to prevent violence is crucial. Chess has emerged as an unexpectedly powerful tool for preventing violence and promoting positive social and personal behaviours among young people. Educator Vera Avramidou tells us how and why.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-as-a-tool-against-violence",
+         "pubDate" : "Tue, 29 Oct 2024 08:04:01",
+         "title" : "Chess as a tool against violence"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Follow the games: <a href=\"https://www.chess.com/events/2024-ultimate-moves\">https://www.chess.com/events/2024-ultimate-moves</a> Live from the World Chess Hall of Fame, before the Chess 9LX, it's time for team chess! Ultimate Moves is a casual team event where partners \"tag in\" every five moves. Saint Louis Chess Club Co-Founder Rex Sinquefield and Mr. Monopoly draft the world's best players (rosters below) to join them on their teams. These games begin from the standard position. Join GM Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-ultimate-moves-team-rex-vs-team-mr-monopoly",
+         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
+         "title" : "2024 Chess 9LX: Ultimate Moves | Team Rex vs. Team Mr. Monopoly"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was the first three rounds. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov%E2%80%99s-back-day-1-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/publi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov%E2%80%99s-back-day-1-recap-chess9lx-2024",
+         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
+         "title" : "Kasparov's Back! | Day 1 RECAP | #Chess9LX 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Begim Tokhirjonova after going 3-0 on the first day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.28<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-w",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-strikes-balance-creativity-vs-solidity-d1-chess9lx",
+         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
+         "title" : "Caruana Strikes a Balance: Creativity vs. Solidity | D1 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Begim Tokhirjonova after going 1-0-2 on the first day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.28<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-copying-black-can-be-best-way-play-d1-chess9lx",
+         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
+         "title" : "Sevian: Copying with Black Can Be Best Way to Play | D1 #Chess9LX"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The players (and Rex Sinquefield) talk to Begim Tokhirjonova before the 2024 Chess 9LX Fischer Random tournament. This aired during Day 1. 2024.10.27<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Chess For Beginners: Importance of Developing Pieces #uschesschamps #chess #education"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-2-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (pairings below). Today are the middle three rounds. Join GMs Yasser Seirawan &amp; Maurice Ashley, and IMs Nazi Paikidze &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-2-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-2-fischer-random",
@@ -34,7 +74,7 @@ news_feed (
          "title" : "2024 Chess 9LX: Day 2 | Fischer Random"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the final three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-3-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the final three rounds. Join GMs Yasser Seirawan &amp; Maurice Ashley, and IMs Nazi Paikidze &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-3-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-3-fischer-random",
@@ -48,38 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-niemann-if-you-have-dreams-you-should-least-try-uschesschamps",
          "pubDate" : "Mon, 28 Oct 2024 21:59:45",
          "title" : "EXCLUSIVE! Niemann: If You Have Dreams, You Should At Least Try | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-us-women-what-chess-resources-most-improve-your-game-uschesschamps",
-         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
-         "title" : "EXCLUSIVE! U.S. Women: What Chess Resources Most Improve Your Game? | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Women's Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-us-women-us-chess-future-growth-uschesschamps",
-         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
-         "title" : "EXCLUSIVE! U.S. Women: US Chess Future Growth? | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-us-overall-field-us-chess-future-growth-uschesschamps",
-         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
-         "title" : "EXCLUSIVE! U.S. Overall Field: US Chess Future Growth? | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the first three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-1-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-1-fischer-random",
-         "pubDate" : "Mon, 28 Oct 2024 18:59:46",
-         "title" : "2024 Chess 9LX: Day 1 | Fischer Random"
       },
       {
          "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
