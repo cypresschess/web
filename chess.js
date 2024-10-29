@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3277",
+         "pubDate" : "Tue, 29 Oct 2024 09:06:55",
+         "title" : "FIDE President visits Uzbekistan"
+      },
+      {
+         "description" : "The ECF Annual General Meeting was held on 26 October 2024. The following candidates were elected unopposed &#8212; President: Dominic Lawson Chair of Council: David Eustace Chief Executive: Mike Truran...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/results-of-the-ecf-elections-2024/",
+         "pubDate" : "Tue, 29 Oct 2024 08:58:14",
+         "title" : "Results of the ECF Elections 2024"
+      },
+      {
          "description" : "Modern society faces an unprecedented rise in violence among minors, with incidents of juvenile delinquency and aggression increasing alarmingly. In this context, finding ways to prevent violence is crucial. Chess has emerged as an unexpectedly powerful tool for preventing violence and promoting positive social and personal behaviours among young people. Educator Vera Avramidou tells us how and why.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,22 +226,6 @@ news_feed (
          "title" : "From a school in Chennai to the World Championship match in Singapore"
       },
       {
-         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, starts on Monday. On Sunday, the event is inaugurated with the Ultimate Moves exhibition match. The players take turns in two teams: Team Rex v. Team Monopoly. Among those taking part will be Garry Kasparov (pictured, 2023) and main sponsor Rex Sinquefield. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ultimate-moves-2024-live",
-         "pubDate" : "Sun, 27 Oct 2024 18:50:00",
-         "title" : "Ultimate Moves in Saint Louis"
-      },
-      {
-         "description" : "The 'Kalashnikov' variation in the Sicilian Defence is an improved version of the Sveshnikov. Black sets up the system quickly and then gets many different possibilities. Fabien Libiszevsky presents the system in his recently released course. Christian Hoethe had a look at the Fritztrainer and sent us a review.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/libiszewski-master-the-kalashnikov-sicilian-review",
-         "pubDate" : "Sun, 27 Oct 2024 16:35:00",
-         "title" : "\"Master the Kalashnikov Sicilian\" by Fabien Libiszewski - A review"
-      },
-      {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup concluded yesterday in Vrnjacka Banja, Serbia. Novy Bor Chess Club emerged as the sole Winner of the Open tournament scoring impressive 13 match points. Playing in the final round against the top seeded SuperChess, Novy Bor Chess Club scored a narrow 3.5-2.5 win to ensure gold, as GM Anton David Guijarro (2667, Novy Bor) prevailed against GM Jorden Van Foreest (2697, SuperChess) and the other games []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -256,14 +256,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-school-team-chess-championship-2024/",
          "pubDate" : "Sun, 27 Oct 2024 06:42:37",
          "title" : "Certificate of National School Team Chess Championship 2024"
-      },
-      {
-         "description" : "The European Club Cup in Vrnjačka Banja concluded with thrilling results in both the open and women's sections. Czech team Novy Bor dominated the open section, defeating favourites SuperChess in the final round to secure gold, with Alkaloid and Romania's Vados Chess Club completing the podium. In the women's section, TAJFUN-�K Ljubljana emerged as champions, edging past SuperChess, who took third, while Garuda Ajka BSK clinched second with a decisive final-round win. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2024-final-report",
-         "pubDate" : "Sun, 27 Oct 2024 01:15:00",
-         "title" : "Novy Bor and TAJFUN-SK Ljubljana are European Club Cup champions"
       },
       {
          "description" : "",
@@ -520,14 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-10",
          "pubDate" : "Tue, 22 Oct 2024 21:11:00",
          "title" : "Yip Wins Women's Championship With Round To Spare; Caruana On Cusp Of Glory"
-      },
-      {
-         "description" : "The papers for this coming Saturday's AGM can be found here: https://www.englishchess.org.uk/about/ecf-council-and-board/",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-papers/",
-         "pubDate" : "Tue, 22 Oct 2024 16:05:28",
-         "title" : "ECF AGM - Papers"
       },
       {
          "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 25 November 5 December 2024. In the Webinar the titles of ECU Expert Coach, or ECU Junior Coach, or ECU Novice Coach, may/will be awarded. Each participant must successfully meet the following requirements: Personal Curriculum Vitae (special Form), Participation in the Webinar (€ 100), Webinar's Test, Title Fee Payment (€ 200 or € 300). The Webinar fee will be waived for selected participants: One participant []",
@@ -880,6 +864,14 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-comes-home-to-india/",
          "pubDate" : "Sun, 13 Oct 2024 16:23:09",
          "title" : "Chess comes home to India"
+      },
+      {
+         "description" : "Just a few weeks ago, in a post titled <A HREF=\"https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html\">Historic Olympiad Yahoos</A> (September 2024), I noted, <BLOCKQUOTE> The 100 stories total for September had the first nine under a heading that proclaimed, 'India win historic double gold at Chess Olympiad'. I counted another 18 stories about the Olympiad for a total of 27, plus a few more stories lacking the word 'Olympiad' in the title. </BLOCKQUOTE> <P> As confirmation of that note, this month's short list for the featured monthly video had a third of its clips from the <I>ChessBase India</I> channel, a resource that currently has over two million subscribers. Altho",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/10/the-london-chess-centre-on-video.html",
+         "pubDate" : "Sun, 13 Oct 2024 15:36:00",
+         "title" : "The London Chess Centre on Video"
       },
       {
          "description" : "",
