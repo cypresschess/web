@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
+         "pubDate" : "Tue, 29 Oct 2024 18:50:00",
+         "title" : "Champions Showdown Chess 9LX - Live!"
+      },
+      {
          "description" : "The rise of chess960, Bobby Fischer's favoured variant, continues with a new edition of the Chess 9LX event in Saint Louis. Legendary Garry Kasparov returns to compete against elite players, including newly crowned US Champion Fabiano Caruana, who leads the standings after a perfect opening day. Meanwhile, top rivals Hikaru Nakamura, Sam Sevian, and Wesley So are sharing second place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-generations-levy-gotham-chess-rozman-vs-pia-cramling",
          "pubDate" : "Tue, 29 Oct 2024 12:38:51",
          "title" : "Battle of the Generations: Levy \"Gotham Chess\" Rozman vs Pia Cramling"
+      },
+      {
+         "description" : "GM Pia Cramling and IM Levy Rozman (GothamChess) drew by repetition in the second classical game of the Battle of Generations, in a game that lasted 14 moves. It turns out both players expected the other to deviate, to avoid the draw, but were stu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-2",
+         "pubDate" : "Tue, 29 Oct 2024 11:40:00",
+         "title" : "14-Move Draw Leaves Cramling In Lead"
       },
       {
          "description" : "",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Chess.com Community And Viswanathan Anand Breaks Record In The Largest Chess Game Ever Played"
       },
       {
-         "description" : "Two international masters, including last month&#39;s Chess.com Community Champion in Duck Chess, IM Nhat Minh To, and four FIDE masters were among those to qualify for the Finals of the Chess.com Fog Of War Chess Championship 2024, after the series o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-fog-of-war-chess-championship-qualifiers",
-         "pubDate" : "Fri, 18 Oct 2024 08:53:13",
-         "title" : "Chess.com Community Championships Could See Repeat Winner"
-      },
-      {
          "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham finished third with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1056,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3251",
          "pubDate" : "Tue, 08 Oct 2024 19:58:11",
          "title" : "Global Chess League, Day 6: Underdogs shake up the leaderboard"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114056187.cms\" />Indian chess Grandmaster Vidit Gujrathi highlights the lack of professionalism in the sport's scheduling, which he says negatively impacts players' well-being. He calls for an overhaul of the entire ecosystem to provide players with necessary rest periods. Despite recent successes, Gujrathi remains focused on achieving his ultimate goal of winning a world title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-always-lacked-a-bit-of-professionalism-vidit-gujrathi/articleshow/114056187.cms",
-         "pubDate" : "Tue, 08 Oct 2024 17:26:57",
-         "title" : "Chess has always lacked a bit of professionalism: Vidit Gujrathi"
-      },
-      {
-         "description" : "For last month's post, <A HREF=\"https://chessforallages.blogspot.com/2024/09/september-1974-1999-on-cover.html\">September 1974 & 1999 'On the Cover'</A> (September 2024), we saw four Americans who were newly minted IMs 50 years ago and the logo for a controversial type of FIDE World Championship played 25 years ago. This month we see the leading American GM of 50 years ago, but the FIDE event has disappeared. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oj08.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Serper Grabs World Open Title' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> U.S. Champion Walter Browne, who after winning his titl",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/10/october-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 08 Oct 2024 15:36:00",
-         "title" : "October 1974 & 1999 'On the Cover'"
       }
    ]
 }
