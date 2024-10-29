@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The players (and Rex Sinquefield) talk to Begim Tokhirjonova before the 2024 Chess 9LX Fischer Random tournament. This aired during Day 1. 2024.10.27<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/regular-chess-or-fischer-random-you-can-only-have-one-chess9lx",
+         "pubDate" : "Tue, 29 Oct 2024 00:59:47",
+         "title" : "Regular Chess or Fischer Random? You Can Only Have One! | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 1 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was the first three rounds. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov%E2%80%99s-back-2024-champions-showdown-chess-9lx-day-1-recap\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov%E2%80%99s-back-2024-champions-showdown-chess-9lx-day-1-recap",
+         "pubDate" : "Tue, 29 Oct 2024 00:59:47",
+         "title" : "Kasparov's Back! | 2024 Champions Showdown Chess 9LX | Day 1 RECAP"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> As the position begins to open up for white (more space for piece movement), black must come up with an alternative plan on how to develop his pieces while being attacked </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-importance-developing-pieces-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RxedxkE16QY.jpg?itok=069pgs2l\" alt=\"\" />",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
          "pubDate" : "Mon, 28 Oct 2024 18:50:00",
          "title" : "Champions Showdown Chess 9LX - Live!"
+      },
+      {
+         "description" : "Just days after winning the U.S. Championship for the fourth time, GM Fabiano Caruana also started his 2024 Chess 9LX tournament very well. The St. Louis resident won his three games on the first day, including against GM Hikaru Nakamura, and lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chess-9lx-day-1",
+         "pubDate" : "Mon, 28 Oct 2024 18:15:00",
+         "title" : "Caruana Leads 9LX With Perfect 3/3 As Kasparov Returns To Chess Arena"
       },
       {
          "description" : "SRM added another victory to their winning streak in week five of the 2024 Collegiate Chess League (CCL) Fall Season, reaching a perfect 5-0. Saint Louis defeated Yale and is tied for second with UT Rio Grande Valley. GM Pranesh M and IM L R Sri...",
@@ -162,14 +186,6 @@ news_feed (
          "title" : "Final Report:Senior National Arbiter Seminar in Patna on 19 & 20 October 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Of the many variations in the Giuoco Piano, the opening position between Carissa Yip and Tatev Abrahamyan is analyzed by Chirila </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-dubov-ious-opening-uschesschamps-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M3X9ERlTx6s.jpg?itok=5EeCllSE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-dubov-ious-opening-uschesschamps-chess-chessopenings-education",
-         "pubDate" : "Mon, 28 Oct 2024 00:59:07",
-         "title" : "Chess For Beginners: A Dubov-ious Opening #uschesschamps #chess #chessopenings #education"
-      },
-      {
          "description" : "The recently released TV series Rematch, a dramatized version of the legendary matches between GM Garry Kasparov and IBM&#39;s Deep Blue, was an excellent reason for an interview with the 13th world champion. Although he hadn&#39;t see the series just yet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3274",
          "pubDate" : "Sun, 27 Oct 2024 20:39:23",
          "title" : "From a school in Chennai to the World Championship match in Singapore"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan and WGM Katerina Nemcova analyze this double sharp position played from a Sicilian variation by GM Irina Krush and WGM Atousa Pourkashiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-position-sicilian-uschesschamps-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YrhZzh3VaWs.jpg?itok=B-m0gJ2J\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-position-sicilian-uschesschamps-chess-chessopenings-education",
-         "pubDate" : "Sun, 27 Oct 2024 18:58:55",
-         "title" : "Chess For Beginners: Position from A Sicilian #uschesschamps #chess #chessopenings #education"
       },
       {
          "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, starts on Monday. On Sunday, the event is inaugurated with the Ultimate Moves exhibition match. The players take turns in two teams: Team Rex v. Team Monopoly. Among those taking part will be Garry Kasparov (pictured, 2023) and main sponsor Rex Sinquefield. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
@@ -762,14 +770,6 @@ news_feed (
          "title" : "Chess: England gains new grandmaster as Ameet Ghasi qualifies at age 37"
       },
       {
-         "description" : "Undeterred by his win in the previous round not being counted for the tournament score, top-seed and defending champion GM Fabiano Caruana jumped into the sole lead in the 2024 U.S. Championship with 4/5. He defeated GM Grigoriy Oparin in an impre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-6",
-         "pubDate" : "Fri, 18 Oct 2024 01:22:00",
-         "title" : "Yoo Temporarily Suspended By US Chess And Charged By Police; Caruana, Yip Lead"
-      },
-      {
          "description" : "Both Christopher Yoo and his family have released statements after the grandmaster was expelled from the U.S. Championships in St. Louis. A Statement About What Happened on Wednesday in the US Championship from Christopher Yoo's ParentsFirst and foremost, Christopher wants to publicly apologize to the female videographer that was an innocent victim of his anger after his loss of a chess game. Contrary to what some have suggested, the videographer did nothing to provoke Christopher. We heard she's doing okay but we don't have any details and we pray she is doing well both physically and emotionally. Her well-being is of deep concern to all of us.Christopher offers no excuses for his behavior.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/10/october-1974-1999-on-cover.html",
          "pubDate" : "Tue, 08 Oct 2024 15:36:00",
          "title" : "October 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "A roundup of results from the fifth day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41672780/global-chess-league-2024-gcl-report-carlsen-viswanathan-anand-praggnandhaa-gcl-day-5?device=featurephone",
-         "pubDate" : "Tue, 8 Oct 2024 00:06:01",
-         "title" : "Global Chess League: Triveni Continental Kings climb to second, PBG Alaskan Knights remain on top despite defeat"
       }
    ]
 }
