@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The rise of chess960, Bobby Fischer's favoured variant, continues with a new edition of the Chess 9LX event in Saint Louis. Legendary Garry Kasparov returns to compete against elite players, including newly crowned US Champion Fabiano Caruana, who leads the standings after a perfect opening day. Meanwhile, top rivals Hikaru Nakamura, Sam Sevian, and Wesley So are sharing second place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2024-d1",
+         "pubDate" : "Tue, 29 Oct 2024 13:25:00",
+         "title" : "Chess 9LX: Caruana on 3/3, Kasparov beats Dominguez"
+      },
+      {
+         "description" : "With currently 5.55 million YouTube subscribers, Levy \"Gotham Chess\" Rozman is the most successful chess streamer in the world. He is an IM, his current Elo rating is 2347 and his declared goal is to become a Grandmaster. From 28 October to 3 November, he will now compete against Swedish chess Grandmaster Pia Cramling in an audience-attracting exhibition match in Stockholm. The two will play 4 classical games, 6 rapid games and 12 blitz games. The start went well for Pia Cramling: in the first classical game, she outplayed Rozman with Black to take a 3-0 lead. | Photos: chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-generations-levy-gotham-chess-rozman-vs-pia-cramling",
+         "pubDate" : "Tue, 29 Oct 2024 12:38:51",
+         "title" : "Battle of the Generations: Levy \"Gotham Chess\" Rozman vs Pia Cramling"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,6 +90,14 @@ news_feed (
          "title" : "Kasparov's Back! | 2024 Champions Showdown Chess 9LX | Day 1 RECAP"
       },
       {
+         "description" : "The Scholastic Council and the Executive Board have approved the 2024-2025 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include: 1. MAJOR CHANGE: At the K-12 Grade Nationals in December 2024 and the SuperNationals in May 2025, the \"No-Show\" or \"Forfeit\" time for late arrival in all sections has been reduced to 30 minutes. This is a change from previous years when the no-show/forfeit time was 60 minutes (Section 13.10).2. Start times for each round in the K-12, K-8, and K-6 events at SuperNationals will be published separately in pre-tournament publicity (Section 10.10.1).3. The sections in the Elementary School (K-6) Nation",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-2025-scholastics-regulations",
+         "pubDate" : "Tue, 29 Oct 2024 00:00:00",
+         "title" : "2024-2025 Scholastics Regulations"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> As the position begins to open up for white (more space for piece movement), black must come up with an alternative plan on how to develop his pieces while being attacked </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-importance-developing-pieces-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RxedxkE16QY.jpg?itok=069pgs2l\" alt=\"\" />",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-niemann-if-you-have-dreams-you-should-least-try-uschesschamps",
          "pubDate" : "Mon, 28 Oct 2024 21:59:45",
          "title" : "EXCLUSIVE! Niemann: If You Have Dreams, You Should At Least Try | #USChessChamps"
-      },
-      {
-         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
-         "pubDate" : "Mon, 28 Oct 2024 18:50:00",
-         "title" : "Champions Showdown Chess 9LX - Live!"
       },
       {
          "description" : "Just days after winning the U.S. Championship for the fourth time, GM Fabiano Caruana also started his 2024 Chess 9LX tournament very well. The St. Louis resident won his three games on the first day, including against GM Hikaru Nakamura, and lead...",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-at-the-emirates-britains-premier-tournament-to-be-staged-at-arsenals-iconic-stadium/",
          "pubDate" : "Mon, 28 Oct 2024 15:07:58",
          "title" : "Chess at the Emirates! Britain's premier tournament to be staged at Arsenal's iconic stadium"
-      },
-      {
-         "description" : "Gukesh Dommaraju, an 18-year-old prodigy from Chennai, has shattered records to become the youngest contender for the World Chess Championship, setting up a highly anticipated clash with reigning champion Ding Liren. Gukesh's rapid rise has captivated fans, from achieving his Grandmaster title at just 12, to his recent triumph at the Candidates Tournament in Toronto. With intense preparation, an unwavering work ethic, and a focus on mental balance through meditation, Gukesh stands ready to face his greatest challenge yet.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/d-gukesh-profile-2024-fide",
-         "pubDate" : "Mon, 28 Oct 2024 14:30:00",
-         "title" : "Gukesh: From a school in Chennai to the world title match in Singapore"
       },
       {
          "description" : "GM Pia Cramling has started the Battle of Generations, her one-on-one match against IM Levy Rozman (GothamChess), with a win in the first classical game. Rozman gained the advantage with the white pieces, but spent about half his remaining time on...",
@@ -742,7 +750,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vishy-vs-the-world-record",
-         "pubDate" : "Fri, 18 Oct 2024 09:45:03",
+         "pubDate" : "Fri, 18 Oct 2024 09:45:00",
          "title" : "Chess.com Community And Viswanathan Anand Breaks Record In The Largest Chess Game Ever Played"
       },
       {
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/18/chess-england-gains-new-grandmaster-as-ameet-ghasi-qualifies-at-age-37",
          "pubDate" : "Fri, 18 Oct 2024 07:00:18",
          "title" : "Chess: England gains new grandmaster as Ameet Ghasi qualifies at age 37"
-      },
-      {
-         "description" : "Both Christopher Yoo and his family have released statements after the grandmaster was expelled from the U.S. Championships in St. Louis. A Statement About What Happened on Wednesday in the US Championship from Christopher Yoo's ParentsFirst and foremost, Christopher wants to publicly apologize to the female videographer that was an innocent victim of his anger after his loss of a chess game. Contrary to what some have suggested, the videographer did nothing to provoke Christopher. We heard she's doing okay but we don't have any details and we pray she is doing well both physically and emotionally. Her well-being is of deep concern to all of us.Christopher offers no excuses for his behavior.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/yoo-family-releases-statement-after-us-championship-expulsion",
-         "pubDate" : "Fri, 18 Oct 2024 00:00:00",
-         "title" : "UPDATED: Yoo Family Releases Statement after U.S. Championship Expulsion"
       },
       {
          "description" : "",
