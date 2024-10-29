@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Chess 9LX Fischer Random tournament, as of before Rounds 4-6. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-rounds-1-3-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BVj3iUqIgyg.jpg?itok=diwOxWZ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-rounds-1-3-d2-chess9lx",
+         "pubDate" : "Tue, 29 Oct 2024 22:00:59",
+         "title" : "Who is Likely to Win After Rounds 1-3? | D2 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk to Begim Tokhirjonova before the 2024 Chess 9LX Fischer Random tournament. This aired during Day 2. 2024.10.27<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hot-takes-world-championship-ding-vs-gukesh-chess9lx",
+         "pubDate" : "Tue, 29 Oct 2024 22:00:59",
+         "title" : "Hot Takes! The World Championship: Ding vs. Gukesh | #Chess9LX"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3279",
+         "pubDate" : "Tue, 29 Oct 2024 19:48:37",
+         "title" : "Second leg of FIDE Women's Grand Prix 2024-2025 kicks off in Shymkent"
+      },
+      {
          "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Champions Showdown Chess 9LX - Live!"
       },
       {
-         "description" : "The rise of chess960, Bobby Fischer's favoured variant, continues with a new edition of the Chess 9LX event in Saint Louis. Legendary Garry Kasparov returns to compete against elite players, including newly crowned US Champion Fabiano Caruana, who leads the standings after a perfect opening day. Meanwhile, top rivals Hikaru Nakamura, Sam Sevian, and Wesley So are sharing second place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2024-d1",
-         "pubDate" : "Tue, 29 Oct 2024 13:25:00",
-         "title" : "Chess 9LX: Caruana on 3/3, Kasparov beats Dominguez"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3278",
+         "pubDate" : "Tue, 29 Oct 2024 16:16:04",
+         "title" : "World Youth Chess Championship 2024 commences in Florian&oacute;polis, Brazil"
       },
       {
          "description" : "With currently 5.55 million YouTube subscribers, Levy \"Gotham Chess\" Rozman is the most successful chess streamer in the world. He is an IM, his current Elo rating is 2347 and his declared goal is to become a Grandmaster. From 28 October to 3 November, he will now compete against Swedish chess Grandmaster Pia Cramling in an audience-attracting exhibition match in Stockholm. The two will play 4 classical games, 6 rapid games and 12 blitz games. The start went well for Pia Cramling: in the first classical game, she outplayed Rozman with Black to take a 3-0 lead. | Photos: chess.com",
@@ -106,6 +130,22 @@ news_feed (
          "title" : "Kasparov's Back! | 2024 Champions Showdown Chess 9LX | Day 1 RECAP"
       },
       {
+         "description" : "Editor's note: this story first appeared in the November 2024 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Peter Doggers is one of the elder statesmen of online chess journalism. In 2007 he launched ChessVibes, one of the best chess news and video sites of its day, and followed that with the ChessVibes Openings and ChessVibes Training subscription newsletters. He moved to Chess.com in 2013",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-peter-doggers-and-chess-revolution",
+         "pubDate" : "Tue, 29 Oct 2024 00:00:00",
+         "title" : "Inside Story: Peter Doggers and The Chess Revolution"
+      },
+      {
+         "description" : "This week concludes a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles again focus on hanging, loose, and otherwise under-protected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-4-pawn-power",
+         "pubDate" : "Tue, 29 Oct 2024 00:00:00",
+         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 4 (Pawn Power)"
+      },
+      {
          "description" : "The Scholastic Council and the Executive Board have approved the 2024-2025 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include: 1. MAJOR CHANGE: At the K-12 Grade Nationals in December 2024 and the SuperNationals in May 2025, the \"No-Show\" or \"Forfeit\" time for late arrival in all sections has been reduced to 30 minutes. This is a change from previous years when the no-show/forfeit time was 60 minutes (Section 13.10).2. Start times for each round in the K-12, K-8, and K-6 events at SuperNationals will be published separately in pre-tournament publicity (Section 10.10.1).3. The sections in the Elementary School (K-6) Nation",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -128,22 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-2-fischer-random",
          "pubDate" : "Mon, 28 Oct 2024 21:59:45",
          "title" : "2024 Chess 9LX: Day 2 | Fischer Random"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the final three rounds. Join GMs Yasser Seirawan &amp; Maurice Ashley, and IMs Nazi Paikidze &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-3-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-3-fischer-random",
-         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
-         "title" : "2024 Chess 9LX: Day 3 | Fischer Random"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Anastasiya Karlovich before the 2024 U.S. Chess Championship. This did not air on the program. 2024.10.10<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-niemann-if-you-have-dreams-you-should-least-try-uschesschamps",
-         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
-         "title" : "EXCLUSIVE! Niemann: If You Have Dreams, You Should At Least Try | #USChessChamps"
       },
       {
          "description" : "Just days after winning the U.S. Championship for the fourth time, GM Fabiano Caruana also started his 2024 Chess 9LX tournament very well. The St. Louis resident won his three games on the first day, including against GM Hikaru Nakamura, and lead...",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "Yip Scores 8th Straight Win, 3 Away From Fischer's Record"
       },
       {
-         "description" : "<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> All photos courtesy Lennart Ootes/SLCC<br> <br> Today is the final rest day of the 2024 U.S. Championship and U.S. Women's Championship. With three rounds to go, IM Carissa Yip boasts a 2&frac12;-point lead over the field and is still in contention for the $64,000 Fischer Prize if she wins out. GM Fabiano Caruana still leads the open, but another draw gave GM Hans Niemann a chance to move closer to the leader. Women'sIt was another day at the office for Yip, who moves up to number 26 in the FIDE women's live ratings and improves to 17 wins, two draws, and zero losses over her last two tournaments. <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/round-eight-yip-still-perfect-niemann-makes-move",
-         "pubDate" : "Sun, 20 Oct 2024 00:00:00",
-         "title" : "Round Eight: Yip Still Perfect, Niemann Makes A Move"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-7",
          "pubDate" : "Sat, 19 Oct 2024 01:41:00",
          "title" : "Yip Wins 7th Straight Game, Liang Closes Gap To Caruana"
-      },
-      {
-         "description" : "Baseball announcers are a superstitious lot.They will go to great lengths to avoid saying \"no-hitter\" or \"no-hit ball\" as perfect games progress. The belief is that by merely uttering the words, they can cause a jinx, put the whammy on somebody, or otherwise negatively influence events on the field.This is why, as a long-time fan of the great American pastime, I will in what follows avoid certain phrases regarding large cash prizes, win streaks, and tournaments (largely) played in 1963.There'll be no bad juju from me. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> photo courtesy SLCC / Lennart Ootes<br> <br> <br> <br> It's all eyes on IM Carissa Yip a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-champs-center-attention",
-         "pubDate" : "Sat, 19 Oct 2024 00:00:00",
-         "title" : "U.S. Champs: The Center of Attention"
       },
       {
          "description" : "GM Pepe Cuenca and IM David Martinez, also known as the Ratata Spanish Squad, defeated IM Eric Rosen and WGM Nemo Zhou (Oh Yes My Queen) 1.5-0.5 in the 2024 Team Chess Battle 2 Final. They earn $3,500 and bragging rights, while the runner-up team ...",
@@ -1048,22 +1056,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41690789/global-chess-league-2024-gcl-report-carlsen-firouzja-viswanathan-anand-praggnandhaa-gcl-day-6?device=featurephone",
          "pubDate" : "Tue, 8 Oct 2024 23:51:53",
          "title" : "Global Chess League: PBG Alaskan Knights one win away from finals, Carlsen stunned by Vachier-Lagrave"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3252",
-         "pubDate" : "Tue, 08 Oct 2024 21:52:14",
-         "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners: Day 1 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3251",
-         "pubDate" : "Tue, 08 Oct 2024 19:58:11",
-         "title" : "Global Chess League, Day 6: Underdogs shake up the leaderboard"
       }
    ]
 }
