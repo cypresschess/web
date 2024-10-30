@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Champions Showdown Chess 9LX took place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This was a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. Kasparov had a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year so the challenge was on for him. Fabiano Caruana took clear first place with 7.5/9 half a point clear of Hikaru Nakamura with Wesley So in 3rd on 5.5 points. Kasparov finished on 50% with a very respect",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-chess-9lx-2024",
+         "pubDate" : "Wed, 30 Oct 2024 23:17:00",
+         "title" : "Champions Showdown Chess 9LX 2024 - Games and Results"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Begim Tokhirjonova after going 2-0-1 on the second day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.29<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-lazy-old-players-love-chess9lx-d2-chess9lx",
+         "pubDate" : "Wed, 30 Oct 2024 22:01:19",
+         "title" : "Nakamura: Lazy Old Players Love Chess9LX | D2 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Begim Tokhirjonova after going 1-1-1 on the second day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.29<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-trouble-switching-rapid-time-d2-chess9lx",
+         "pubDate" : "Wed, 30 Oct 2024 22:01:19",
+         "title" : "Aronian: Trouble Switching to Rapid Time | D2 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grigoriy Oparin talks to Begim Tokhirjonova after going 1-0-2 on the second day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.29<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/oparin-extremely-happy-finally-win-game-d2-chess9lx",
+         "pubDate" : "Wed, 30 Oct 2024 22:01:19",
+         "title" : "Oparin: Extremely Happy to Finally Win a Game | D2 #Chess9LX"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3280",
+         "pubDate" : "Wed, 30 Oct 2024 20:06:09",
+         "title" : "A promising start: Three victories in Round 1 of WGP Shymkent"
+      },
+      {
          "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
          "pubDate" : "Wed, 30 Oct 2024 18:50:00",
          "title" : "Champions Showdown Chess 9LX - Live!"
+      },
+      {
+         "description" : "The year draws to a close, but we&#39;re in for a thrilling last couple of months with a number of chess tournaments to look forward to, headlined by the 2024 World Chess Championship. All eyes are on GM Ding Liren and GM Gukesh Dommaraju, who will ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-qatar-major-tournaments-2024",
+         "pubDate" : "Wed, 30 Oct 2024 13:59:00",
+         "title" : "From Chennai To Qatar: The Major Tournaments That Close Out 2024"
+      },
+      {
+         "description" : "Women&#39;s World Championship Challenger GM Tan Zhongyi showed she could checkmate with a knight and bishop as she ground down GM Elisabeth Paehtz in 107 moves to start the 2024 Shymkent FIDE Women&#39;s Grand Prix with a win. The only two players who al...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-1",
+         "pubDate" : "Wed, 30 Oct 2024 13:36:00",
+         "title" : "Tan, Assaubayeva, Tsolakidou Win As 2nd Women's Grand Prix Begins"
       },
       {
          "description" : "",
@@ -30,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-3",
-         "pubDate" : "Wed, 30 Oct 2024 11:55:49",
+         "pubDate" : "Wed, 30 Oct 2024 11:55:00",
          "title" : "Cramling Defends Difficult Endgame, Continues To Lead Vs. GothamChess"
       },
       {
@@ -66,7 +122,7 @@ news_feed (
          "title" : "Carlsen, Firouzja Again Share Tuesday Glory"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 2 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was rounds 4-6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 2 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was Rounds 4-6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/v",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024",
@@ -202,22 +258,6 @@ news_feed (
          "title" : "Sevian: Copying with Black Can Be Best Way to Play | D1 #Chess9LX"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The players (and Rex Sinquefield) talk to Begim Tokhirjonova before the 2024 Chess 9LX Fischer Random tournament. This aired during Day 1. 2024.10.27<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/regular-chess-or-fischer-random-you-can-only-have-one-chess9lx",
-         "pubDate" : "Tue, 29 Oct 2024 00:59:47",
-         "title" : "Regular Chess or Fischer Random? You Can Only Have One! | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 1 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was the first three rounds. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov%E2%80%99s-back-2024-champions-showdown-chess-9lx-day-1-recap\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov%E2%80%99s-back-2024-champions-showdown-chess-9lx-day-1-recap",
-         "pubDate" : "Tue, 29 Oct 2024 00:59:47",
-         "title" : "Kasparov's Back! | 2024 Champions Showdown Chess 9LX | Day 1 RECAP"
-      },
-      {
          "description" : "Editor's note: this story first appeared in the November 2024 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Peter Doggers is one of the elder statesmen of online chess journalism. In 2007 he launched ChessVibes, one of the best chess news and video sites of its day, and followed that with the ChessVibes Openings and ChessVibes Training subscription newsletters. He moved to Chess.com in 2013",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -242,14 +282,6 @@ news_feed (
          "title" : "2024-2025 Scholastics Regulations"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> As the position begins to open up for white (more space for piece movement), black must come up with an alternative plan on how to develop his pieces while being attacked </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-importance-developing-pieces-uschesschamps-chess-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RxedxkE16QY.jpg?itok=069pgs2l\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-importance-developing-pieces-uschesschamps-chess-education",
-         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
-         "title" : "Chess For Beginners: Importance of Developing Pieces #uschesschamps #chess #education"
-      },
-      {
          "description" : "Just days after winning the U.S. Championship for the fourth time, GM Fabiano Caruana also started his 2024 Chess 9LX tournament very well. The St. Louis resident won his three games on the first day, including against GM Hikaru Nakamura, and lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu-1",
          "pubDate" : "Mon, 28 Oct 2024 15:35:00",
          "title" : "Saint Louis Overcomes Yale in Shocking Finish, SRM Still Perfect"
-      },
-      {
-         "description" : " The Champions Showdown Chess 9LX takes place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This is a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. From a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year the hope is that Kasparov has prepared, at least a little, against what is an extremely tough field. I don't have the ability to actually display the games but will update a game file regularly.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-chess-9lx-2024",
-         "pubDate" : "Mon, 28 Oct 2024 15:08:00",
-         "title" : "Champions Showdown Chess 9LX 2024 - Games and Results"
       },
       {
          "description" : "Eight of the world's top chess grandmasters will compete in the 2024 XTX Markets London Chess Classic (LCC) from November 29 to December 7. The line-up includes: Women's World Champion...",
@@ -794,22 +818,6 @@ news_feed (
          "title" : "The Tiger of Madras"
       },
       {
-         "description" : "17-year-old GM Christopher Yoo expresses deep remorse following his expulsion from the 2024 U.S Chess Championship where he struck a videographer. Update October 21: In a new statement released by Christopher Yoo, he says: I am really sorry fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yoo-family-issues-apology-for-us-chess-championship-expulsion",
-         "pubDate" : "Sat, 19 Oct 2024 06:32:00",
-         "title" : "Christopher Yoo Issues Apology After Strike: 'Very Sad For What I Did'"
-      },
-      {
-         "description" : "In the seventh round of the 2024 U.S. Chess Championships, GM Awonder Liang moved to 4/6 and reduced GM Fabiano Caruana&#39;s lead to half a point after toppling GM Grigoriy Oparin with the black pieces. GM Ray Robson is on a rollercoaster ride he can...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-7",
-         "pubDate" : "Sat, 19 Oct 2024 01:41:00",
-         "title" : "Yip Wins 7th Straight Game, Liang Closes Gap To Caruana"
-      },
-      {
          "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham finished third with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kings-pipers-narrow-knights-lead-as-raunak-ends-nihals-unbeaten-run-in-global-chess-league/articleshow/114102556.cms",
          "pubDate" : "Thu, 10 Oct 2024 03:09:15",
          "title" : "Kings, Pipers narrow Knights' lead as Raunak ends Nihal's unbeaten run"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3253",
-         "pubDate" : "Wed, 09 Oct 2024 20:15:51",
-         "title" : "Global Chess League, Day 7: Mumba Masters stop PBG, Triveni and Sg Pipers close in"
       }
    ]
 }
