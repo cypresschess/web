@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3276",
+         "pubDate" : "Wed, 30 Oct 2024 12:30:17",
+         "title" : "Experience the thrill of FIDE World Chess Championship live in Singapore!"
+      },
+      {
+         "description" : "Five rounds have been already played at the European Senior Chess Championships 2024 in Lignano Sabbiadoro, Italy. All sections have co-leadership for the top as no player remained with the perfect score. FM Gosta Svenn (SWE, 2290) and FM Casper Rasmussen (DEN, 2202) tie for the top of the 50+ category, scoring 4.5 points each. They are followed by a group of five players with the score of 4 points each. As many as four players tie for the first []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/five-rounds-played-at-european-senior-chess-championships-2024/",
+         "pubDate" : "Wed, 30 Oct 2024 12:10:14",
+         "title" : "Five rounds played at European Senior Chess Championships 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-diwali-to-the-indian-chess-fraternity-2/",
+         "pubDate" : "Wed, 30 Oct 2024 11:50:26",
+         "title" : "Happy Diwali to the Indian Chess Fraternity!"
+      },
+      {
          "description" : "At the Chess9LX event in Saint Louis, Fabiano Caruana holds a narrow lead after an unbeaten run through six rounds, including a critical win over Wesley So. Hot on his heels is Hikaru Nakamura, who impressed on Tuesday with two victories and a draw against Garry Kasparov, who missed a chance to secure a win but nonetheless sits in a solid third place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fischer-vs-greece-clock-simul-1968",
          "pubDate" : "Wed, 30 Oct 2024 09:19:16",
          "title" : "Fischer vs. Greece - clock simul 1968"
+      },
+      {
+         "description" : "It was a good Titled Tuesday for the greats on October 29, with GM Magnus Carlsen and GM Alireza Firouzja claiming victory, each scoring 10 points and avoiding tiebreaks in their win. The two stars also won Titled Tuesday back on July 30 (in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-firouzja-win-titled-tuesday-october-29-2024",
+         "pubDate" : "Wed, 30 Oct 2024 07:52:09",
+         "title" : "Carlsen, Firouzja Again Share Tuesday Glory"
       },
       {
          "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 2 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was rounds 4-6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
@@ -706,14 +738,6 @@ news_feed (
          "title" : "Don't Burn the King"
       },
       {
-         "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup were officially declared opened yesterday evening in Vrnjacka Banja, Serbia. The Opening ceremony of the event took place in the playing venue, with the attendance of ECU Vice Presidents Gunnar Bjornsson and Alojzije Jankovic, FIDE Deputy President Viswanathan Anand, the President of the Serbian Chess Federation Dragan Lazic, Director of Touristic Organisation of Vrnjacka Banja Ivan Trifunovic, ECU Tournament Director Petr Pisk and other distinguished guests. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cups-2024-officially-open-in-vrnjacka-banja-serbia/",
-         "pubDate" : "Sun, 20 Oct 2024 07:23:44",
-         "title" : "European Chess Club Cups 2024 officially open in Vrnjacka Banja, Serbia"
-      },
-      {
          "description" : "IM Carissa Yip continued her dream run with a win over WGM Atousa Pourkashiyan to race to 8/8 in the Women&#39;s championship while GM Fabiano Caruana maintained his half-a-point lead with 5/7 after a draw against GM Wesley So in the eighth round of t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "Pause in the election process of the Athletes Commission of AICF."
       },
       {
-         "description" : "In pursuance of Notification dated 4.10.2024, please find Notice dated 19.10.2024 along with List of Eligible Electoral College Notice and Form 2",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/list-of-eligible-electoral-college-for-election-process-of-the-athletes-commission-of-aicf/",
-         "pubDate" : "Sat, 19 Oct 2024 15:55:06",
-         "title" : "List of Eligible Electoral College for Election process of the Athletes Commission of AICF."
-      },
-      {
          "description" : "Last week I covered India's double triumph in the Budapest Olympiad, winning gold in both the open and female section. This extraordinary success was to a great extent fuelled by the exploits of the Tiger of Madras, Viswanathan Anand, who has proved to be such an inspiration to his younger colleagues on the national team. []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-final-cuenca-martinez-win",
          "pubDate" : "Fri, 18 Oct 2024 16:11:00",
          "title" : "Undefeated Ratata Spanish Squad Win Team Chess Battle 2"
-      },
-      {
-         "description" : "FM Luis Chan, who has been playing the variant since its inception, is your winner of the 2024 Chess.com Fog Of War Chess Championship. Chan survived a Grand Final Reset forced by FM Yihe Fu: After dropping the first match of the Finals in the dou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-fog-of-war-chess-championship-knockout-chan-wins",
-         "pubDate" : "Fri, 18 Oct 2024 15:35:37",
-         "title" : "O.G. Of Fog Of War FM Chan Wins Community Championship"
       },
       {
          "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham finished third with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant f",
