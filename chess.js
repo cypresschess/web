@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3253",
          "pubDate" : "Wed, 09 Oct 2024 20:15:51",
          "title" : "Global Chess League, Day 7: Mumba Masters stop PBG, Triveni and Sg Pipers close in"
-      },
-      {
-         "description" : "Shreyas Royal (above left), aged just 15, is now officially England's 41st grandmaster and the youngest ever to achieve the title. Congratulations, Shreyas! In addition, FIDE have also awarded the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/gm-shreyas-royal-and-im-aaravamudhan-balaji/",
-         "pubDate" : "Wed, 09 Oct 2024 06:53:15",
-         "title" : "GM Shreyas Royal and IM Aaravamudhan Balaji!"
       }
    ]
 }
