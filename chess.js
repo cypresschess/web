@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 2 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was rounds 4-6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024",
+         "pubDate" : "Wed, 30 Oct 2024 01:00:54",
+         "title" : "Caruana Stays On Top, Nakamura Close! | Day 2 RECAP | #Chess9LX 2024"
+      },
+      {
+         "description" : " During the Chess Olympiad in Budapest, Hungary, Dirk Jan ten Geuzendam of New in Chess requested that The Chess Drum's Daaim Shabazz appear in the &#8220;Just Checking&#8221; segment, which has traditionally appeared on the back page. Much of what appears in this profile shows the chess personality's lighter side. The audience will have no knowledge The post <a href=\"https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/\">New in Chess profiles Daaim Shabazz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/",
+         "pubDate" : "Wed, 30 Oct 2024 00:32:06",
+         "title" : "New in Chess profiles Daaim Shabazz"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Chess 9LX Fischer Random tournament, as of before Rounds 4-6. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-rounds-1-3-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BVj3iUqIgyg.jpg?itok=diwOxWZ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
          "pubDate" : "Tue, 29 Oct 2024 18:50:00",
          "title" : "Champions Showdown Chess 9LX - Live!"
+      },
+      {
+         "description" : "GM Fabiano Caruana pulled a Houdini vs. last year&#39;s winner GM Sam Sevian to maintain a half-point lead going into the final day of the 2024 Chess 9LX tournament in St. Louis. His closest rival is GM Hikaru Nakamura, who erred twice against GM Garr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chess-9lx-day-2",
+         "pubDate" : "Tue, 29 Oct 2024 16:52:00",
+         "title" : "Caruana Escapes, Maintains Slim Lead As Kasparov Has Nakamura On The Ropes"
       },
       {
          "description" : "",
@@ -162,14 +186,6 @@ news_feed (
          "title" : "Chess For Beginners: Importance of Developing Pieces #uschesschamps #chess #education"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (pairings below). Today are the middle three rounds. Join GMs Yasser Seirawan &amp; Maurice Ashley, and IMs Nazi Paikidze &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-chess-9lx-day-2-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-day-2-fischer-random",
-         "pubDate" : "Mon, 28 Oct 2024 21:59:45",
-         "title" : "2024 Chess 9LX: Day 2 | Fischer Random"
-      },
-      {
          "description" : "Just days after winning the U.S. Championship for the fourth time, GM Fabiano Caruana also started his 2024 Chess 9LX tournament very well. The St. Louis resident won his three games on the first day, including against GM Hikaru Nakamura, and lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -262,7 +278,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kasparov-interview-deep-blue-ibm-chess960",
-         "pubDate" : "Mon, 28 Oct 2024 00:12:19",
+         "pubDate" : "Mon, 28 Oct 2024 00:12:00",
          "title" : "Kasparov On Facing Deep Blue: 'I Was Part Of Something Really Unique'"
       },
       {
@@ -770,14 +786,6 @@ news_feed (
          "title" : "O.G. Of Fog Of War FM Chan Wins Community Championship"
       },
       {
-         "description" : "Chess.com is excited to announce that over 60,000 people have participated in the historic Vishy vs. The World vote chess match. This surpasses the number of participants in the legendary 1999 Kasparov vs. The World match. The new record highlight...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vishy-vs-the-world-record",
-         "pubDate" : "Fri, 18 Oct 2024 09:45:00",
-         "title" : "Chess.com Community And Viswanathan Anand Breaks Record In The Largest Chess Game Ever Played"
-      },
-      {
          "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham finished third with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/gm-shreyas-royal-and-im-aaravamudhan-balaji/",
          "pubDate" : "Wed, 09 Oct 2024 06:53:15",
          "title" : "GM Shreyas Royal and IM Aaravamudhan Balaji!"
-      },
-      {
-         "description" : "A roundup of results from the sixth day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41690789/global-chess-league-2024-gcl-report-carlsen-firouzja-viswanathan-anand-praggnandhaa-gcl-day-6?device=featurephone",
-         "pubDate" : "Tue, 8 Oct 2024 23:51:53",
-         "title" : "Global Chess League: PBG Alaskan Knights one win away from finals, Carlsen stunned by Vachier-Lagrave"
       }
    ]
 }
