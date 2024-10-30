@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the Chess9LX event in Saint Louis, Fabiano Caruana holds a narrow lead after an unbeaten run through six rounds, including a critical win over Wesley So. Hot on his heels is Hikaru Nakamura, who impressed on Tuesday with two victories and a draw against Garry Kasparov, who missed a chance to secure a win but nonetheless sits in a solid third place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2024-d2",
+         "pubDate" : "Wed, 30 Oct 2024 11:45:00",
+         "title" : "Chess 9LX: Caruana keeps the lead, Nakamura close behind"
+      },
+      {
+         "description" : "In 1968 the Greek Chess Federation, which had organised multiple Olympiads and Zonal tournaments, invited the 25-year-old American grandmaster to play a clock simultaneous exhibition match against five strong Greek players. The historical games played in Athens have been recorded and carefully annotated by Greek grandmaster and trainer Efstratios Grivas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fischer-vs-greece-clock-simul-1968",
+         "pubDate" : "Wed, 30 Oct 2024 09:19:16",
+         "title" : "Fischer vs. Greece - clock simul 1968"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 2 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was rounds 4-6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3279",
          "pubDate" : "Tue, 29 Oct 2024 19:48:37",
          "title" : "Second leg of FIDE Women's Grand Prix 2024-2025 kicks off in Shymkent"
-      },
-      {
-         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
-         "pubDate" : "Tue, 29 Oct 2024 18:50:00",
-         "title" : "Champions Showdown Chess 9LX - Live!"
       },
       {
          "description" : "GM Fabiano Caruana pulled a Houdini vs. last year&#39;s winner GM Sam Sevian to maintain a half-point lead going into the final day of the 2024 Chess 9LX tournament in St. Louis. His closest rival is GM Hikaru Nakamura, who erred twice against GM Garr...",
@@ -688,6 +696,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/",
          "pubDate" : "Sun, 20 Oct 2024 18:36:19",
          "title" : "Remembering Emory Tate"
+      },
+      {
+         "description" : "In our monthly featured Flickr photo, sometimes we see giant chess pieces occurring naturally in nature (I know that sentence is redundant, but how to rewrite it?). For example:- <UL> <LI> <A HREF=\"https://chessforallages.blogspot.com/2017/09/chess-in-sky.html\">Chess in the Sky</A> (September 2017) <LI> <A HREF=\"https://chessforallages.blogspot.com/2022/12/chess-on-orions-belt.html\">Chess on Orion's Belt</A> (December 2022) </UL> <P> And sometimes we see giant chess pieces constructed in natural surroundings. Consider the following from 2024 <I>Burning Man</I>. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oj20.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/p",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/10/dont-burn-king.html",
+         "pubDate" : "Sun, 20 Oct 2024 15:21:00",
+         "title" : "Don't Burn the King"
       },
       {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup were officially declared opened yesterday evening in Vrnjacka Banja, Serbia. The Opening ceremony of the event took place in the playing venue, with the attendance of ECU Vice Presidents Gunnar Bjornsson and Alojzije Jankovic, FIDE Deputy President Viswanathan Anand, the President of the Serbian Chess Federation Dragan Lazic, Director of Touristic Organisation of Vrnjacka Banja Ivan Trifunovic, ECU Tournament Director Petr Pisk and other distinguished guests. []",
