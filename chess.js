@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
+         "pubDate" : "Wed, 30 Oct 2024 18:50:00",
+         "title" : "Champions Showdown Chess 9LX - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.europechess.org/five-rounds-played-at-european-senior-chess-championships-2024/",
          "pubDate" : "Wed, 30 Oct 2024 12:10:14",
          "title" : "Five rounds played at European Senior Chess Championships 2024"
+      },
+      {
+         "description" : "GM Pia Cramling continues to lead in the Battle of Generations against IM Levy Rozman (GothamChess) after a draw in the third classical game. She had some initiative in the opening with the black pieces, but Rozman&#39;s bishop pair proved to be more ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-3",
+         "pubDate" : "Wed, 30 Oct 2024 11:55:49",
+         "title" : "Cramling Defends Difficult Endgame, Continues To Lead Vs. GothamChess"
       },
       {
          "description" : "",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/",
          "pubDate" : "Wed, 30 Oct 2024 00:32:06",
          "title" : "New in Chess profiles Daaim Shabazz"
+      },
+      {
+         "description" : "This week's Wednesday Workout concludes our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week once again focuses on endgames without rooks. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-5-even-more-endgames",
+         "pubDate" : "Wed, 30 Oct 2024 00:00:00",
+         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 5 (Even More Endgames)"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Chess 9LX Fischer Random tournament, as of before Rounds 4-6. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-rounds-1-3-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BVj3iUqIgyg.jpg?itok=diwOxWZ",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu-1",
          "pubDate" : "Mon, 28 Oct 2024 15:35:00",
          "title" : "Saint Louis Overcomes Yale in Shocking Finish, SRM Still Perfect"
-      },
-      {
-         "description" : "The 27th Open International Bavarian Chess Championships kicked off on Saturday at Tegernsee, attracting over 550 participants from 30 nations. Top seed is German Grandmaster Dmitrij Kollars, who is one of the 57 players who started the tournament with 2.0/2. | Photos: Sandra Schmidt",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-fans-like-it-in-bavaria",
-         "pubDate" : "Mon, 28 Oct 2024 15:10:31",
-         "title" : "Chess fans like it in Bavaria"
       },
       {
          "description" : " The Champions Showdown Chess 9LX takes place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This is a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. From a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year the hope is that Kasparov has prepared, at least a little, against what is an extremely tough field. I don't have the ability to actually display the games but will update a game file regularly.",
@@ -666,14 +682,6 @@ news_feed (
          "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 3 (Loose Pieces Still Drop Off)"
       },
       {
-         "description" : "IM Carissa Yip's perfect run ended yesterday after a fighting loss to FM Megan Lee. Her lead in the U.S. Women's Championship was narrowed to \"only\" 1&frac12; points with two rounds to go. Comparatively, the Open section was much more peaceful, with the only decisive game not influencing the race for first. GM Fabiano Caruana maintained his half-point lead over second-place GM Awonder Liang after the pair drew their head-to-head game. Women'sThree decisive games in the women's section did not technically change the rankings much, but they did end Yip's previously realistic chances of earning the $64,000 Fischer Prize with a perfect 11/11 score. Both she and FM Megan Lee came ready for a figh",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/calm-day-open-carissas-streak-broken-round-nine",
-         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
-         "title" : "Calm Day in the Open, but Carissa's Streak Broken in Round Nine"
-      },
-      {
          "description" : "GM Fabiano Caruana has taken another step towards defending his title at the 2024 U.S. Chess Championships after securing a draw with second-placed GM Awonder Liang and moving to 5.5/8. GM Leinier Dominguez&#39;s win over GM Sam Sevian was the only de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-championship-round-7",
          "pubDate" : "Sat, 19 Oct 2024 01:41:00",
          "title" : "Yip Wins 7th Straight Game, Liang Closes Gap To Caruana"
-      },
-      {
-         "description" : "GM Pepe Cuenca and IM David Martinez, also known as the Ratata Spanish Squad, defeated IM Eric Rosen and WGM Nemo Zhou (Oh Yes My Queen) 1.5-0.5 in the 2024 Team Chess Battle 2 Final. They earn $3,500 and bragging rights, while the runner-up team ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-2-final-cuenca-martinez-win",
-         "pubDate" : "Fri, 18 Oct 2024 16:11:00",
-         "title" : "Undefeated Ratata Spanish Squad Win Team Chess Battle 2"
       },
       {
          "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham finished third with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant f",
