@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ARTE Culture, the French-German film production and TV channel, recently made a full six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. At the same time they broadcast a 50-minute portrait that traces the extraordinary life and career of the global icon. The film contains many historically interviews by personalities from the time. It is well worth watching.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arte-kasparov-chess-rebel",
+         "pubDate" : "Thu, 31 Oct 2024 08:09:34",
+         "title" : "ARTE: Kasparov - Chess Rebel"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the final three rounds. Join GMs Yasser Seirawan &amp; Maurice Ashley, and IMs Nazi Paikidze &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-2024-chess-9lx-day-3-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/defaul",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-2024-chess-9lx-day-3-fischer-random",
+         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
+         "title" : "(ORIGINAL BROADCAST) 2024 Chess 9LX: Day 3 | Fischer Random"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> So many moves between Oparin and Hikaru, IM Nazi Paikidze ask this burning question </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-tha-burn-chess9lx-chess-chesshumor-hikarunakamura-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0r2r_CnnMVw.jpg?itok=xz5LS3wl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paikidze-tha-burn-chess9lx-chess-chesshumor-hikarunakamura-fabianocaruana",
+         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
+         "title" : "Paikidze with Tha BURN!! #chess9lx #chess #chesshumor #hikarunakamura #fabianocaruana"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian has no choice in his position with the G.O.A.T. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-forces-resignation-chess9lx-chess-chesshumor-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RRVYgDPHM5Q.jpg?itok=_R7aC9Nx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-forces-resignation-chess9lx-chess-chesshumor-garrykasparov",
+         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
+         "title" : "Kasparov Forces Resignation #chess9lx #chess #chesshumor #garrykasparov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru up a knight can&#039;t break Oparin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/50-move-rule-nakamura-cant-break-oparin-chess9lx-chess-chesshistory\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DX5g9T8rajc.jpg?itok=Kqm29yuR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/50-move-rule-nakamura-cant-break-oparin-chess9lx-chess-chesshistory",
+         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
+         "title" : "50 Move Rule: Nakamura Can't Break Oparin #chess9lx #chess #chesshistory"
+      },
+      {
          "description" : "NO Name 1 Sourav Suresh 2 Subham Dubey 3 Sathiya Moorthy T 4 Srimannarayana A K S 5 Anand V R 6 Bala Krishna J",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -178,22 +218,6 @@ news_feed (
          "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 5 (Even More Endgames)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Chess 9LX Fischer Random tournament, as of before Rounds 4-6. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-rounds-1-3-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BVj3iUqIgyg.jpg?itok=diwOxWZ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-rounds-1-3-d2-chess9lx",
-         "pubDate" : "Tue, 29 Oct 2024 22:00:59",
-         "title" : "Who is Likely to Win After Rounds 1-3? | D2 #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Begim Tokhirjonova before the 2024 Chess 9LX Fischer Random tournament. This aired during Day 2. 2024.10.27<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hot-takes-world-championship-ding-vs-gukesh-chess9lx",
-         "pubDate" : "Tue, 29 Oct 2024 22:00:59",
-         "title" : "Hot Takes! The World Championship: Ding vs. Gukesh | #Chess9LX"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -223,7 +247,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/battle-of-the-generations-levy-gotham-chess-rozman-vs-pia-cramling",
          "pubDate" : "Tue, 29 Oct 2024 12:38:51",
-         "title" : "Battle of the Generations: Levy \"Gotham Chess\" Rozman vs Pia Cramling"
+         "title" : "Battle of Generations: Levy \"Gotham Chess\" Rozman vs Pia Cramling"
       },
       {
          "description" : "GM Pia Cramling and IM Levy Rozman (GothamChess) drew by repetition in the second classical game of the Battle of Generations, in a game that lasted 14 moves. It turns out both players expected the other to deviate, to avoid the draw, but were stu...",
@@ -256,22 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-as-a-tool-against-violence",
          "pubDate" : "Tue, 29 Oct 2024 08:04:01",
          "title" : "Chess as a tool against violence"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Follow the games: <a href=\"https://www.chess.com/events/2024-ultimate-moves\">https://www.chess.com/events/2024-ultimate-moves</a> Live from the World Chess Hall of Fame, before the Chess 9LX, it's time for team chess! Ultimate Moves is a casual team event where partners \"tag in\" every five moves. Saint Louis Chess Club Co-Founder Rex Sinquefield and Mr. Monopoly draft the world's best players (rosters below) to join them on their teams. These games begin from the standard position. Join GM Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-chess-9lx-ultimate-moves-team-rex-vs-team-mr-monopoly",
-         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
-         "title" : "2024 Chess 9LX: Ultimate Moves | Team Rex vs. Team Mr. Monopoly"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was the first three rounds. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov%E2%80%99s-back-day-1-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/publi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov%E2%80%99s-back-day-1-recap-chess9lx-2024",
-         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
-         "title" : "Kasparov's Back! | Day 1 RECAP | #Chess9LX 2024"
       },
       {
          "description" : "Editor's note: this story first appeared in the November 2024 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Peter Doggers is one of the elder statesmen of online chess journalism. In 2007 he launched ChessVibes, one of the best chess news and video sites of its day, and followed that with the ChessVibes Openings and ChessVibes Training subscription newsletters. He moved to Chess.com in 2013",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-youth-rapid-blitz-championships/",
          "pubDate" : "Thu, 10 Oct 2024 14:34:53",
          "title" : "World Youth Rapid & Blitz Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3254",
-         "pubDate" : "Thu, 10 Oct 2024 04:58:09",
-         "title" : "Shymkent welcomes second leg of 2024-2025 FIDE Women's Grand Prix"
       }
    ]
 }
