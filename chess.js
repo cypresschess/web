@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fresh off his US Championship win, Fabiano Caruana clinched another title with a commanding performance at the Chess 9LX Champions Showdown in Saint Louis. Caruana's 7&frac12;/9 score, with six wins and no losses, secured him the crown in the chess960 event. Behind him, Hikaru Nakamura finished half a point short, while Garry Kasparov put on a noteworthy display. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2024-d3",
+         "pubDate" : "Thu, 31 Oct 2024 15:20:00",
+         "title" : "Fabiano Caruana wins Chess 9LX Showdown in Saint Louis"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Chess 9LX Fischer Random tournament, as of before Rounds 7-9. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-rounds-4-6-d3-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m2WQ-f_oSHc.jpg?itok=fKANHNV",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-rounds-4-6-d3-chess9lx",
+         "pubDate" : "Thu, 31 Oct 2024 13:01:46",
+         "title" : "Who is Likely to Win After Rounds 4-6? | D3 #Chess9LX"
+      },
+      {
          "description" : "Rank Name 1 Nandhidhaa P V 2 Priyanka K 3 Padmini Rout 4 Kiran Manisha Mohanty 5 Saranya J 6 Chitlange Sakshi 7 Gomes Mary",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arte-kasparov-chess-rebel",
          "pubDate" : "Thu, 31 Oct 2024 08:09:34",
          "title" : "ARTE: Kasparov - Chess Rebel"
+      },
+      {
+         "description" : "Anand, India's first chess world champion, believes that Gukesh's form is a good sign ahead of the World Championship match against Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42107125/gukesh-smart-enough-chess-world-championships-won-not-elected-viswanathan-anand?device=featurephone",
+         "pubDate" : "Thu, 31 Oct 2024 05:27:47",
+         "title" : "'Gukesh smart enough to know that World Championships are won, not elected': Viswanathan Anand"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the final three rounds. Join GMs Yasser Seirawan &amp; Maurice Ashley, and IMs Nazi Paikidze &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-2024-chess-9lx-day-3-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/defaul",
@@ -170,14 +194,6 @@ news_feed (
          "title" : "Happy Diwali to the Indian Chess Fraternity!"
       },
       {
-         "description" : "At the Chess9LX event in Saint Louis, Fabiano Caruana holds a narrow lead after an unbeaten run through six rounds, including a critical win over Wesley So. Hot on his heels is Hikaru Nakamura, who impressed on Tuesday with two victories and a draw against Garry Kasparov, who missed a chance to secure a win but nonetheless sits in a solid third place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2024-d2",
-         "pubDate" : "Wed, 30 Oct 2024 11:45:00",
-         "title" : "Chess 9LX: Caruana keeps the lead, Nakamura close behind"
-      },
-      {
          "description" : "In 1968 the Greek Chess Federation, which had organised multiple Olympiads and Zonal tournaments, invited the 25-year-old American grandmaster to play a clock simultaneous exhibition match against five strong Greek players. The historical games played in Athens have been recorded and carefully annotated by Greek grandmaster and trainer Efstratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-firouzja-win-titled-tuesday-october-29-2024",
          "pubDate" : "Wed, 30 Oct 2024 07:52:09",
          "title" : "Carlsen, Firouzja Again Share Tuesday Glory"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 2 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was Rounds 4-6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-stays-top-nakamura-close-day-2-recap-chess9lx-2024",
-         "pubDate" : "Wed, 30 Oct 2024 01:00:54",
-         "title" : "Caruana Stays On Top, Nakamura Close! | Day 2 RECAP | #Chess9LX 2024"
       },
       {
          "description" : " During the Chess Olympiad in Budapest, Hungary, Dirk Jan ten Geuzendam of New in Chess requested that The Chess Drum's Daaim Shabazz appear in the &#8220;Just Checking&#8221; segment, which has traditionally appeared on the back page. Much of what appears in this profile shows the chess personality's lighter side. The audience will have no knowledge The post <a href=\"https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/\">New in Chess profiles Daaim Shabazz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -240,14 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3278",
          "pubDate" : "Tue, 29 Oct 2024 16:16:04",
          "title" : "World Youth Chess Championship 2024 commences in Florian&oacute;polis, Brazil"
-      },
-      {
-         "description" : "With currently 5.55 million YouTube subscribers, Levy \"Gotham Chess\" Rozman is the most successful chess streamer in the world. He is an IM, his current Elo rating is 2347 and his declared goal is to become a Grandmaster. From 28 October to 3 November, he will now compete against Swedish chess Grandmaster Pia Cramling in an audience-attracting exhibition match in Stockholm. The two will play 4 classical games, 6 rapid games and 12 blitz games. The start went well for Pia Cramling: in the first classical game, she outplayed Rozman with Black to take a 3-0 lead. | Photos: chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-generations-levy-gotham-chess-rozman-vs-pia-cramling",
-         "pubDate" : "Tue, 29 Oct 2024 12:38:51",
-         "title" : "Battle of Generations: Levy \"Gotham Chess\" Rozman vs Pia Cramling"
       },
       {
          "description" : "GM Pia Cramling and IM Levy Rozman (GothamChess) drew by repetition in the second classical game of the Battle of Generations, in a game that lasted 14 moves. It turns out both players expected the other to deviate, to avoid the draw, but were stu...",
@@ -344,14 +344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3275",
          "pubDate" : "Mon, 28 Oct 2024 09:01:45",
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
-      },
-      {
-         "description" : "'Guess the Move' or 'Solitaire Chess' have long been favorites of players, and ChessBase has amazing tools to play them, with more than simply hiding the next move. It also comes with fantastic tools such as Assisted Calculation to help you train your visualization skills, combining great fun with top training. What more can you want? Don't miss this lightning lesson on video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-play-like-a-world-champion-video",
-         "pubDate" : "Mon, 28 Oct 2024 08:43:42",
-         "title" : "ChessBase in Minutes: Play like a World Champion! (video)"
       },
       {
          "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
@@ -1048,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3255",
          "pubDate" : "Thu, 10 Oct 2024 21:31:20",
          "title" : "Global Chess League: PBG reach the finals as Triveni and Pipers set for showdown"
-      },
-      {
-         "description" : "Taking place in Terme Catez, Slovenia 13-17 December 2024. Registration has now opened for the above event. Whilst attendance at this tournament is not restricted, the ECF has a few...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-youth-rapid-blitz-championships/",
-         "pubDate" : "Thu, 10 Oct 2024 14:34:53",
-         "title" : "World Youth Rapid & Blitz Championships"
       }
    ]
 }
