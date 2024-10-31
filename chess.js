@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rank Name 1 Nandhidhaa P V 2 Priyanka K 3 Padmini Rout 4 Kiran Manisha Mohanty 5 Saranya J 6 Chitlange Sakshi 7 Gomes Mary",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-50th-national-women-chess-championship-2024-in-karaikudi-tamil-nadu-from-03-13-october-2024/",
+         "pubDate" : "Thu, 31 Oct 2024 09:23:41",
+         "title" : "Certificate of 50th National Women Chess Championship 2024 in Karaikudi Tamil Nadu from 03-13 October 2024"
+      },
+      {
          "description" : "ARTE Culture, the French-German film production and TV channel, recently made a full six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. At the same time they broadcast a 50-minute portrait that traces the extraordinary life and career of the global icon. The film contains many historically interviews by personalities from the time. It is well worth watching.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "The Enjoyment of Playing in Ultimate Moves & Chess 9LX? | #Chess9LX"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 3 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was rounds 7-9. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-nakamura-race-finish-day-3-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumb",
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 3 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (pairings below). Today was Rounds 7-9. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-nakamura-race-finish-day-3-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/caruana-nakamura-race-finish-day-3-recap-chess9lx-2024",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chess-9lx-day-3",
          "pubDate" : "Wed, 30 Oct 2024 20:01:00",
          "title" : "Caruana Wins 2024 9LX After Surviving Scare Vs. Kasparov"
-      },
-      {
-         "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2024-live",
-         "pubDate" : "Wed, 30 Oct 2024 18:50:00",
-         "title" : "Champions Showdown Chess 9LX - Live!"
       },
       {
          "description" : "The year draws to a close, but we&#39;re in for a thrilling last couple of months with a number of chess tournaments to look forward to, headlined by the 2024 World Chess Championship. All eyes are on GM Ding Liren and GM Gukesh Dommaraju, who will ...",
@@ -744,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu",
          "pubDate" : "Mon, 21 Oct 2024 16:08:00",
          "title" : "SRM Reaches Perfect 4/4, Saint Louis Bounces Back"
-      },
-      {
-         "description" : "The FIDE Trainers' Seminar held in Ahmedabad from 18th to 20th October 2024 was a significant milestone for chess coaching in India. Organized by the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-fide-trainers-seminar-in-ahmedabad-from18th-to-20th-october-2024/",
-         "pubDate" : "Mon, 21 Oct 2024 12:16:17",
-         "title" : "Report :FIDE Trainers Seminar in Ahmedabad from18th to 20th October 2024"
       },
       {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup officially commenced yesterday in Vrnjacka Banja, Serbia with the first round. The first round was inaugurated with the ceremonial moves made by the ECU Vice President Mr. Gunnar Bjornsson and the President of the Serbian Chess Federation Mr. Dragan Lazic. Mr. Dragan Lazic played the first move for Dommaraju Gukesh in the match between Superchess and Gambit Bonnevoie I, while the ECU Vice President Mr. Gunnar []",
