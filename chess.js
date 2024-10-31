@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Fabi puts on a masterclass in 9LX against his rival Hikaru Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-thrashes-hikaru-chess9lx-chess-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WSqviiAKRFo.jpg?itok=aCTMm00Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-thrashes-hikaru-chess9lx-chess-fabianocaruana",
+         "pubDate" : "Thu, 31 Oct 2024 16:01:52",
+         "title" : "Caruana Thrashes Hikaru #chess9LX #chess #fabianocaruana"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Begim Tokhirjonova about his victory at the 2024 Chess 9LX Fischer Random tournament. <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-it-was-race-between-hikaru-and-i-d3-chess9lx-2024",
+         "pubDate" : "Thu, 31 Oct 2024 16:01:52",
+         "title" : "Caruana: It was a race between Hikaru and I | D3 #Chess9LX 2024"
+      },
+      {
          "description" : "Fresh off his US Championship win, Fabiano Caruana clinched another title with a commanding performance at the Chess 9LX Champions Showdown in Saint Louis. Caruana's 7&frac12;/9 score, with six wins and no losses, secured him the crown in the chess960 event. Behind him, Hikaru Nakamura finished half a point short, while Garry Kasparov put on a noteworthy display. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-rounds-4-6-d3-chess9lx",
          "pubDate" : "Thu, 31 Oct 2024 13:01:46",
          "title" : "Who is Likely to Win After Rounds 4-6? | D3 #Chess9LX"
+      },
+      {
+         "description" : "Mongolian IM Batkhuyag Munguntuul scored the only win of round two of the 2024 Shymkent FIDE Women&#39;s Grand Prix after unleashing the crushing 17...Ba3!! on GM Elisabeth Paehtz, who was left with little choice but to resign after a one-hour game. G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-2",
+         "pubDate" : "Thu, 31 Oct 2024 11:39:08",
+         "title" : "17-Move Disaster For Paehtz As Tan Survives Scare Vs. Humpy"
+      },
+      {
+         "description" : "The biggest chess game in history has concluded. In just 24 moves, GM Viswanathan Anand convincingly defeated nearly 70,000 opponents in the game known simply as Vishy vs. the World. HE&#39;S DONE IT! @vishy64theking 👑🇮🇳Vishy has made chess histor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vishy-vs-the-world-chess-game-recap",
+         "pubDate" : "Thu, 31 Oct 2024 11:00:48",
+         "title" : "Anand Dominates World In Historic Game"
       },
       {
          "description" : "Rank Name 1 Nandhidhaa P V 2 Priyanka K 3 Padmini Rout 4 Kiran Manisha Mohanty 5 Saranya J 6 Chitlange Sakshi 7 Gomes Mary",
@@ -112,22 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nakamura-lazy-old-players-love-chess9lx-d2-chess9lx",
          "pubDate" : "Wed, 30 Oct 2024 22:01:19",
          "title" : "Nakamura: Lazy Old Players Love Chess9LX | D2 #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Begim Tokhirjonova after going 1-1-1 on the second day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.29<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-trouble-switching-rapid-time-d2-chess9lx",
-         "pubDate" : "Wed, 30 Oct 2024 22:01:19",
-         "title" : "Aronian: Trouble Switching to Rapid Time | D2 #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grigoriy Oparin talks to Begim Tokhirjonova after going 1-0-2 on the second day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.29<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/oparin-extremely-happy-finally-win-game-d2-chess9lx",
-         "pubDate" : "Wed, 30 Oct 2024 22:01:19",
-         "title" : "Oparin: Extremely Happy to Finally Win a Game | D2 #Chess9LX"
       },
       {
          "description" : "",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Chess Legend Pia Cramling To Face Off With Levy Rozman In Battle Of Generations"
       },
       {
-         "description" : "The International Chess Federation (FIDE) has handed GM Kirill Shevchenko&#38;nbsp;a temporary 75-day suspension following last weekend&#39;s expulsion from the Spanish Team Chess Championship, where two locked phones were found in a bathroom.&#38;nbsp; The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shevchenko-temporarily-suspended-by-fide-with-cheating-investigation-pending",
-         "pubDate" : "Mon, 21 Oct 2024 07:28:29",
-         "title" : "Shevchenko Given 75-Day Ban Amid Cheating Investigation, Misses European Club Cup"
-      },
-      {
          "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/10/dont-burn-king.html",
          "pubDate" : "Sun, 20 Oct 2024 15:21:00",
          "title" : "Don't Burn the King"
-      },
-      {
-         "description" : "IM Carissa Yip continued her dream run with a win over WGM Atousa Pourkashiyan to race to 8/8 in the Women&#39;s championship while GM Fabiano Caruana maintained his half-a-point lead with 5/7 after a draw against GM Wesley So in the eighth round of t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-8",
-         "pubDate" : "Sun, 20 Oct 2024 03:06:00",
-         "title" : "Yip Scores 8th Straight Win, 3 Away From Fischer's Record"
       },
       {
          "description" : "",
