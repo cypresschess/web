@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "NO Name 1 Sourav Suresh 2 Subham Dubey 3 Sathiya Moorthy T 4 Srimannarayana A K S 5 Anand V R 6 Bala Krishna J",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-portblair-on-12-13-october-2024/",
+         "pubDate" : "Thu, 31 Oct 2024 03:00:27",
+         "title" : "Certificates of SNA seminar held in Port Blair on 12 & 13 October 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players (and Rex Sinquefield) talk to Begim Tokhirjonova before the 2024 Chess 9LX Fischer Random tournament. This aired during Day 3 . 2024.10.27<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/enjoyment-playing-ultimate-moves-chess-9lx-chess9lx",
+         "pubDate" : "Thu, 31 Oct 2024 01:01:21",
+         "title" : "The Enjoyment of Playing in Ultimate Moves & Chess 9LX? | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy recaps Day 3 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today was rounds 7-9. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-nakamura-race-finish-day-3-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-nakamura-race-finish-day-3-recap-chess9lx-2024",
+         "pubDate" : "Thu, 31 Oct 2024 01:01:21",
+         "title" : "Caruana & Nakamura Race to The Finish | Day 3 RECAP | #Chess9LX 2024"
+      },
+      {
          "description" : " The Champions Showdown Chess 9LX took place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This was a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. Kasparov had a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year so the challenge was on for him. Fabiano Caruana took clear first place with 7.5/9 half a point clear of Hikaru Nakamura with Wesley So in 3rd on 5.5 points. Kasparov finished on 50% with a very respect",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3280",
          "pubDate" : "Wed, 30 Oct 2024 20:06:09",
          "title" : "A promising start: Three victories in Round 1 of WGP Shymkent"
+      },
+      {
+         "description" : "A week after winning his fourth U.S. title, GM Fabiano Caruana also won the 2024 Chess 9LX tournament in St. Louis. With 7.5/9 he remained half a point ahead of GM Hikaru Nakamura. Caruana won $30,000 and another $7,500 for finishing in sole first...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chess-9lx-day-3",
+         "pubDate" : "Wed, 30 Oct 2024 20:01:00",
+         "title" : "Caruana Wins 2024 9LX After Surviving Scare Vs. Kasparov"
       },
       {
          "description" : "The Chess 9LX tournament, organised by the Saint Louis Chess Club, is taking place on 28-30 October at the World Chess Hall of Fame. Top US grandmasters, including Fabiano Caruana and Hikaru Nakamura, are joined by former world champion Garry Kasparov in a rapid, chess960 (a.k.a. Fischer Random) tournament. | Follow the action live from 19.00 CET (14.00 ET, 23.30 IST).",
@@ -240,22 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparov%E2%80%99s-back-day-1-recap-chess9lx-2024",
          "pubDate" : "Tue, 29 Oct 2024 04:00:22",
          "title" : "Kasparov's Back! | Day 1 RECAP | #Chess9LX 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Begim Tokhirjonova after going 3-0 on the first day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.28<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-w",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-strikes-balance-creativity-vs-solidity-d1-chess9lx",
-         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
-         "title" : "Caruana Strikes a Balance: Creativity vs. Solidity | D1 #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Begim Tokhirjonova after going 1-0-2 on the first day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.28<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-copying-black-can-be-best-way-play-d1-chess9lx",
-         "pubDate" : "Tue, 29 Oct 2024 04:00:22",
-         "title" : "Sevian: Copying with Black Can Be Best Way to Play | D1 #Chess9LX"
       },
       {
          "description" : "Editor's note: this story first appeared in the November 2024 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Peter Doggers is one of the elder statesmen of online chess journalism. In 2007 he launched ChessVibes, one of the best chess news and video sites of its day, and followed that with the ChessVibes Openings and ChessVibes Training subscription newsletters. He moved to Chess.com in 2013",
@@ -794,22 +810,6 @@ news_feed (
          "title" : "I won 200 rating points with a simple challenge"
       },
       {
-         "description" : "GM Hikaru Nakamura posted a 303 score to win his 30th Bullet Brawl&#38;nbsp;title on Saturday and secure the $400 first prize. With 80 wins, three draws, and three losses to his name, his winning margin of 96 points over second-placed GM Oleksandr Bor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-october-19-2024",
-         "pubDate" : "Sat, 19 Oct 2024 17:35:00",
-         "title" : "Nakamura Wins Bullet Brawl By 96-Point Margin"
-      },
-      {
-         "description" : "Please find the letter on the captioned matter here : Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/pause-in-the-election-process-of-the-athletes-commission-of-aicf/",
-         "pubDate" : "Sat, 19 Oct 2024 15:56:39",
-         "title" : "Pause in the election process of the Athletes Commission of AICF."
-      },
-      {
          "description" : "Last week I covered India's double triumph in the Budapest Olympiad, winning gold in both the open and female section. This extraordinary success was to a great extent fuelled by the exploits of the Tiger of Madras, Viswanathan Anand, who has proved to be such an inspiration to his younger colleagues on the national team. []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1064,14 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3254",
          "pubDate" : "Thu, 10 Oct 2024 04:58:09",
          "title" : "Shymkent welcomes second leg of 2024-2025 FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114102556.cms\" />In the Global Chess League's eighth round, Raunak Sadhwani defeated Nihal Sarin, marking Sarin's first loss. Despite the 9-10 loss to Mumba Masters, Alaskan Knights lead the standings. Triveni Continental Kings and Alpine Pipers won their matches, closing the gap with the Knights, who remain strong contenders for the final.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kings-pipers-narrow-knights-lead-as-raunak-ends-nihals-unbeaten-run-in-global-chess-league/articleshow/114102556.cms",
-         "pubDate" : "Thu, 10 Oct 2024 03:09:15",
-         "title" : "Kings, Pipers narrow Knights' lead as Raunak ends Nihal's unbeaten run"
       }
    ]
 }
