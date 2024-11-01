@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114853301.cms\" />Three-year-old Anish Sarkar from Kolkata has become the youngest rated chess player in history. His journey began just a year ago, and he already has an initial FIDE rating of 1555. Supported by his coach, Grandmaster Dibyendu Barua, Anish is part of a special training group and remains inspired by chess wizard Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-anish-sarkar-becomes-youngest-rated-chess-prodigy-at-3-years/articleshow/114853301.cms",
+         "pubDate" : "Fri, 01 Nov 2024 14:02:40",
+         "title" : "Anish Sarkar becomes youngest rated chess prodigy at 3 years"
+      },
+      {
          "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,22 +1040,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/11/carlsen-struggles-amid-controversy-at-1m-global-chess-league-in-london",
          "pubDate" : "Fri, 11 Oct 2024 18:28:58",
          "title" : "Carlsen struggles amid controversy at $1m Global Chess League in London"
-      },
-      {
-         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The event has struggled to find a spectator friendly venue since the closure and demolition of much of Olympia in preparation for an as yet unfinished revamp. Spectators are welcome again this year and this was a huge part of the original concept of the event. The field for the closed round robin has yet to be announced and there is an open and many other side events including simultaneous exhibitions.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
-         "pubDate" : "Fri, 11 Oct 2024 14:36:00",
-         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3256",
-         "pubDate" : "Fri, 11 Oct 2024 13:28:18",
-         "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners: A Journey of Triumph and Transformation"
       }
    ]
 }
