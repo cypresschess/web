@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3284",
+         "pubDate" : "Fri, 01 Nov 2024 21:50:40",
+         "title" : "World Amateur Chess Championships 2024 reach the midpoint"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3283",
          "pubDate" : "Fri, 01 Nov 2024 18:08:58",
          "title" : "FIDE WGP Shymkent: Tan Zhongyi takes the lead after Round 3"
@@ -34,7 +42,31 @@ news_feed (
          "title" : "Anish Sarkar becomes youngest rated chess prodigy at 3 years"
       },
       {
-         "description" : "9-year-old British prodigy CM Ethan Pang reached another milestone this week when he achieved an official FIDE rating of 2303, breaking Argentinian star IM Faustino Oro&#39;s record as the youngest to pass the 2300 mark and earning the FM title. Pan...",
+         "description" : "GM Arjun Erigaisi tops the leaderboard to win the 2024 FIDE Circuit and become the first player to qualify for the 2026 FIDE Candidates Tournament, but things are complicated. The 2023 Circuit winner GM Fabiano Caruana and top-10 stars Nodirbek Ab...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-caruana-abdusattorov-firouzja-fide-circuit-race",
+         "pubDate" : "Fri, 01 Nov 2024 13:39:00",
+         "title" : "Arjun, Caruana, Abdusattorov, Firouzja Battle For FIDE Circuit Candidates Spot"
+      },
+      {
+         "description" : "After evening the score with a win the previous day, IM Levy Rozman (GothamChess) has taken a 14-10 lead in the Battle of Generations. He won three consecutive games on Friday, with rook sacrifices in two of them, but Cramling had the last laugh a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-5",
+         "pubDate" : "Fri, 01 Nov 2024 13:05:00",
+         "title" : "GothamChess Sacrifices Rooks In Back-To-Back Games, Takes 4-Point Lead Before Final Day"
+      },
+      {
+         "description" : "GM Tan Zhongyi demolished GM Kateryna Lagno in a rare line of the London System to take the sole lead on 2.5 points after three rounds of the 2024 Shymkent FIDE Women&#39;s Grand Prix. IM Batkhuyag Munguntuul had won in 17 moves in round two, but was ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-3",
+         "pubDate" : "Fri, 01 Nov 2024 12:56:00",
+         "title" : "Tan Zhongyi Takes Sole Lead; Humpy, Goryachkina Also Grab Wins"
+      },
+      {
+         "description" : "9-year-old British prodigy CM Ethan Pang reached another milestone this week when he achieved an official FIDE rating of 2303, breaking Argentinian star IM Faustino Oro&#39;s record as the youngest to pass the 2300 mark and earn the FM title. Pang g...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ethan-pang-breaks-another-faustino-oro-record",
@@ -442,20 +474,20 @@ news_feed (
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
       },
       {
-         "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship",
-         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
-         "title" : "Seirawan Chess Championship Is The Next Event Of The Chess.com Community Championships"
-      },
-      {
          "description" : "Chess.com is excited to announce its first ever baseball bot: introducing one of the sport&#39;s most valuable players, Joey Votto! Votto, a six-time All-Star and the National League Most Valuable Player in 2010, spent all 17 Major League seasons of h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/play-chess-against-mlb-all-star-joey-votto",
          "pubDate" : "Mon, 28 Oct 2024 08:00:00",
          "title" : "Play Chess Against MLB All-Star Joey Votto"
+      },
+      {
+         "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship",
+         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
+         "title" : "Seirawan Chess Championship Is The Next Event Of The Chess.com Community Championships"
       },
       {
          "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
@@ -706,14 +738,6 @@ news_feed (
          "title" : "ARBITER REFRESHER COURSE FOR LEFT OVER ARBITERS 2024-2025"
       },
       {
-         "description" : "GMs Nikolas Theodorou&#38;nbsp;and Jeffery Xiong took home the Titled Tuesday tournaments of October 22, both scoring 9.5 points. It was Theodoru&#39;s first win in Titled Tuesday and Xiong&#39;s 14th since October 2020, and Xiong&#39;s third of 2024. Tiebreaks w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/theodoru-xiong-win-titled-tuesday-october-22-2024",
-         "pubDate" : "Wed, 23 Oct 2024 08:23:17",
-         "title" : "\"Cancun Carlsen\" Comes Just Short Vs. First-Time Titled Tuesday Winner; Xiong Wins Late"
-      },
-      {
          "description" : "The Senior National Arbiter Seminar &#38; Examination, organized by the Andaman Nicobar Chess Association on behalf of the All India Chess Federation (AICF) and the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "European Chess Club Cup: Multiple leaders after Round 3"
       },
       {
-         "description" : "GM Fabiano Caruana has maintained his half-point buffer heading into the final round of the 2024 U.S. Chess Championships after three out of five games in round 10 games were drawn. GM Ray Robson, who toppled GM Abhimanyu Mishra, moved into second...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-10",
-         "pubDate" : "Tue, 22 Oct 2024 21:11:00",
-         "title" : "Yip Wins Women's Championship With Round To Spare; Caruana On Cusp Of Glory"
-      },
-      {
          "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 25 November 5 December 2024. In the Webinar the titles of ECU Expert Coach, or ECU Junior Coach, or ECU Novice Coach, may/will be awarded. Each participant must successfully meet the following requirements: Personal Curriculum Vitae (special Form), Participation in the Webinar (€ 100), Webinar's Test, Title Fee Payment (€ 200 or € 300). The Webinar fee will be waived for selected participants: One participant []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-3-loose-pieces-still-drop",
          "pubDate" : "Tue, 22 Oct 2024 00:00:00",
          "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 3 (Loose Pieces Still Drop Off)"
-      },
-      {
-         "description" : "GM Fabiano Caruana has taken another step towards defending his title at the 2024 U.S. Chess Championships after securing a draw with second-placed GM Awonder Liang and moving to 5.5/8. GM Leinier Dominguez&#39;s win over GM Sam Sevian was the only de...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-round-9",
-         "pubDate" : "Mon, 21 Oct 2024 23:55:00",
-         "title" : "Caruana Draws With Liang, Maintains Lead; Yip's Streak Is Snapped"
       },
       {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup officially commenced yesterday in Vrnjacka Banja, Serbia with the first round. The first round was inaugurated with the ceremonial moves made by the ECU Vice President Mr. Gunnar Bjornsson and the President of the Serbian Chess Federation Mr. Dragan Lazic. Mr. Dragan Lazic played the first move for Dommaraju Gukesh in the match between Superchess and Gambit Bonnevoie I, while the ECU Vice President Mr. Gunnar []",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/",
          "pubDate" : "Sat, 12 Oct 2024 04:42:34",
          "title" : "Somalia's Chess Olympiad Visa Nightmare"
-      },
-      {
-         "description" : "On Friday, all eyes were on the decisive clash between Alpine Sg Pipers and Triveni Continental Kings for a place in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41744663/global-chess-league-2024-gcl-report-carlsen-firouzja-triveni-continental-kings-alpine-sg-pipers?device=featurephone",
-         "pubDate" : "Fri, 11 Oct 2024 22:56:16",
-         "title" : "Global Chess League: Firouzja's Triveni Continental Kings in final after win over Carlsen's Sg Pipers"
       }
    ]
 }
