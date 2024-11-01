@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3283",
+         "pubDate" : "Fri, 01 Nov 2024 18:08:58",
+         "title" : "FIDE WGP Shymkent: Tan Zhongyi takes the lead after Round 3"
+      },
+      {
+         "description" : "The FIDE Circuit 2024 race saw a shake-up in the standings, with Arjun Erigaisi grabbing the lead following a strong performance at the WR Chess Masters Cup. His gains nudged Nodirbek Abdusattorov to third place, as Fabiano Caruana's recent US Championship victory moved him to second. The competition remains fierce, with Abdusattorov, Caruana and Alireza Firouzja close behind Arjun and poised to advance with fewer tournaments played. Upcoming events, including the Chennai Grand Masters Tournament, will be decisive as the FIDE Circuit inches closer to its final 2024 standings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-circuit-november-2024",
+         "pubDate" : "Fri, 01 Nov 2024 16:50:00",
+         "title" : "FIDE Circuit: Arjun regains lead, Caruana climbs to second place"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3282",
+         "pubDate" : "Fri, 01 Nov 2024 15:28:00",
+         "title" : "FIDE October 2024 rating list published"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114853301.cms\" />Three-year-old Anish Sarkar from Kolkata has become the youngest rated chess player in history. His journey began just a year ago, and he already has an initial FIDE rating of 1555. Supported by his coach, Grandmaster Dibyendu Barua, Anish is part of a special training group and remains inspired by chess wizard Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-anish-sarkar-becomes-youngest-rated-chess-prodigy-at-3-years/articleshow/114853301.cms",
          "pubDate" : "Fri, 01 Nov 2024 14:02:40",
          "title" : "Anish Sarkar becomes youngest rated chess prodigy at 3 years"
+      },
+      {
+         "description" : "9-year-old British prodigy CM Ethan Pang reached another milestone this week when he achieved an official FIDE rating of 2303, breaking Argentinian star IM Faustino Oro&#39;s record as the youngest to pass the 2300 mark and earning the FM title. Pan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ethan-pang-breaks-another-faustino-oro-record",
+         "pubDate" : "Fri, 01 Nov 2024 11:26:00",
+         "title" : "9-Year-Old Ethan Pang Breaks Faustino Oro's Record To Become Youngest-Ever 2300"
       },
       {
          "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
@@ -410,20 +442,20 @@ news_feed (
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
       },
       {
-         "description" : "Chess.com is excited to announce its first ever baseball bot: introducing one of the sport&#39;s most valuable players, Joey Votto! Votto, a six-time All-Star and the National League Most Valuable Player in 2010, spent all 17 Major League seasons of h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-mlb-all-star-joey-votto",
-         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
-         "title" : "Play Chess Against MLB All-Star Joey Votto"
-      },
-      {
          "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship",
          "pubDate" : "Mon, 28 Oct 2024 08:00:00",
          "title" : "Seirawan Chess Championship Is The Next Event Of The Chess.com Community Championships"
+      },
+      {
+         "description" : "Chess.com is excited to announce its first ever baseball bot: introducing one of the sport&#39;s most valuable players, Joey Votto! Votto, a six-time All-Star and the National League Most Valuable Player in 2010, spent all 17 Major League seasons of h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-mlb-all-star-joey-votto",
+         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
+         "title" : "Play Chess Against MLB All-Star Joey Votto"
       },
       {
          "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
@@ -794,14 +826,6 @@ news_feed (
          "title" : "Caruana Draws With Liang, Maintains Lead; Yip's Streak Is Snapped"
       },
       {
-         "description" : "SRM extended their perfect score to 4/4 in week four of the 2024 Collegiate Chess League (CCL) Fall Season. Saint Louis defeated Virginia and continues chasing SRM from a point behind. Even with a 4/4 sweep by Athens&#39;s board one, IM Dimitris Ale...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu",
-         "pubDate" : "Mon, 21 Oct 2024 16:08:00",
-         "title" : "SRM Reaches Perfect 4/4, Saint Louis Bounces Back"
-      },
-      {
          "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup officially commenced yesterday in Vrnjacka Banja, Serbia with the first round. The first round was inaugurated with the ceremonial moves made by the ECU Vice President Mr. Gunnar Bjornsson and the President of the Serbian Chess Federation Mr. Dragan Lazic. Mr. Dragan Lazic played the first move for Dommaraju Gukesh in the match between Superchess and Gambit Bonnevoie I, while the ECU Vice President Mr. Gunnar []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1024,22 +1048,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41744663/global-chess-league-2024-gcl-report-carlsen-firouzja-triveni-continental-kings-alpine-sg-pipers?device=featurephone",
          "pubDate" : "Fri, 11 Oct 2024 22:56:16",
          "title" : "Global Chess League: Firouzja's Triveni Continental Kings in final after win over Carlsen's Sg Pipers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3257",
-         "pubDate" : "Fri, 11 Oct 2024 19:29:56",
-         "title" : "Global Chess League: Defending champions Triveni reach finals after dramatic 9-7 victory over Sg Pipers"
-      },
-      {
-         "description" : " The world No 1 lost to Firouzja in round two and although he won the return game, his team failed to reach the final, in which Triveni Continental Kings face PBG Alaskan Knights The world No 1, Magnus Carlsen, has had a rare sub-par tournament in the six-team $1m Global Chess League, in which Triveni ­Continental Kings, led by France's Iran-born ­rising star, Alireza Firouzja, will meet PBG ­Alaskan Knights, whose No 1 is Anish Giri of the Netherlands, in the double-round final on Saturday (2.30pm BST start, live on <a href=\"https://kick.com/globalchessleague\">kick.com</a>). The Kings and the Pipers finished level on 18 match points, but the Kings were well ahead on the game points tie-brea",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/oct/11/carlsen-struggles-amid-controversy-at-1m-global-chess-league-in-london",
-         "pubDate" : "Fri, 11 Oct 2024 18:28:58",
-         "title" : "Carlsen struggles amid controversy at $1m Global Chess League in London"
       }
    ]
 }
