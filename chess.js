@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
+         "pubDate" : "Fri, 01 Nov 2024 10:45:00",
+         "title" : "Women's Grand Prix Shymkent - live"
+      },
+      {
+         "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy Ethan Pang became the youngest-ever to pass the 2300 rating mark in an...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/record-breaking-english-chess-prodigy-earns-master-title-and-breaks-official-2300-rating-barrier-aged-9/",
+         "pubDate" : "Fri, 01 Nov 2024 09:23:04",
+         "title" : "Record-breaking English chess prodigy earns master title and breaks official 2300 rating barrier aged 9"
+      },
+      {
+         "description" : " The former world champion scored 4.5/9 in the 9LX tournament and also revealed new details about his 1997 match with the IBM Deep Blue supercomputer Garry Kasparov, who many consider the all-time No 1 in competition with Bobby Fischer and Magnus Carlsen, has been back in action this week in the $150,000 Chess 9LX tournament at St Louis. In Chess 9LX, also known as Fischer Random, Freestyle Chess or Chess 960, the placing of the back rank pieces is decided randomly by lot. At 61, Kasparov still has it. Competing against the cream of US grandmasters, he made a 50% 4.5/9 total and missed chances to do still better due to his problems with handling the fast time limit of 20 minutes per player p",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/nov/01/chess-garry-kasparov-still-has-it-at-61-as-he-holds-his-own-against-the-us-elite",
+         "pubDate" : "Fri, 01 Nov 2024 08:00:43",
+         "title" : "Chess: Garry Kasparov still has it at 61 as he holds his own against the US elite"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Hikaru Nakamura shares his point of view about the future of Chess 9LX </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikarus-pov-chess9lx-chess-chesstalks-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WJaR--OMmHw.jpg?itok=TRGmCp2j\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1024,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3256",
          "pubDate" : "Fri, 11 Oct 2024 13:28:18",
          "title" : "4th FIDE Intercontinental Online Chess Championship for Prisoners: A Journey of Triumph and Transformation"
-      },
-      {
-         "description" : "A roundup of results from the seventh day of the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
-         "pubDate" : "Fri, 11 Oct 2024 09:46:48",
-         "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
       }
    ]
 }
