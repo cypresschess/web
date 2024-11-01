@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Hikaru Nakamura shares his point of view about the future of Chess 9LX </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikarus-pov-chess9lx-chess-chesstalks-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WJaR--OMmHw.jpg?itok=TRGmCp2j\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hikarus-pov-chess9lx-chess-chesstalks-hikarunakamura",
+         "pubDate" : "Fri, 01 Nov 2024 04:02:07",
+         "title" : "Hikaru's POV #chess9LX #chess #chesstalks #hikarunakamura"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice gets amped up Hikaru&#039;s opponent runs into time trouble even though was late </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-waits-no-position-chess9lx-chess-chesstalk-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gu6y8UoDWQY.jpg?itok=6XvJBfrt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hikaru-waits-no-position-chess9lx-chess-chesstalk-hikarunakamura",
+         "pubDate" : "Fri, 01 Nov 2024 04:02:07",
+         "title" : "Hikaru Waits For No Position #chess9LX #chess #chesstalk #hikarunakamura"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,22 +152,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-portblair-on-12-13-october-2024/",
          "pubDate" : "Thu, 31 Oct 2024 03:00:27",
          "title" : "Certificates of SNA seminar held in Port Blair on 12 & 13 October 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players (and Rex Sinquefield) talk to Begim Tokhirjonova before the 2024 Chess 9LX Fischer Random tournament. This aired during Day 3 . 2024.10.27<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/enjoyment-playing-ultimate-moves-chess-9lx-chess9lx",
-         "pubDate" : "Thu, 31 Oct 2024 01:01:21",
-         "title" : "The Enjoyment of Playing in Ultimate Moves & Chess 9LX? | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 3 of the seventh Chess 9LX. Taking place at the World Chess Hall of Fame in Saint Louis, Chess 9LX is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (pairings below). Today was Rounds 7-9. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-nakamura-race-finish-day-3-recap-chess9lx-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-nakamura-race-finish-day-3-recap-chess9lx-2024",
-         "pubDate" : "Thu, 31 Oct 2024 01:01:21",
-         "title" : "Caruana & Nakamura Race to The Finish | Day 3 RECAP | #Chess9LX 2024"
       },
       {
          "description" : " The Champions Showdown Chess 9LX took place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This was a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. Kasparov had a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year so the challenge was on for him. Fabiano Caruana took clear first place with 7.5/9 half a point clear of Hikaru Nakamura with Wesley So in 3rd on 5.5 points. Kasparov finished on 50% with a very respect",
