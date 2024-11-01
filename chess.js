@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-4",
-         "pubDate" : "Thu, 31 Oct 2024 14:41:58",
+         "pubDate" : "Thu, 31 Oct 2024 14:41:00",
          "title" : "GothamChess Wins On Time, Evens Match Score Before Rapid Games"
       },
       {
