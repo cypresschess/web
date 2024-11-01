@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3281",
+         "pubDate" : "Thu, 31 Oct 2024 19:10:25",
+         "title" : "FIDE WGP Shymkent Round 2: Munguntuul stuns Paehtz in a 17-move upset"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Caruana finds the best move in his position, that will cause havoc for rival Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-lous-his-best-chess9lx-chess-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OZGQH8b0orM.jpg?itok=hcN1MpMb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-lous-his-best-chess9lx-chess-fabianocaruana",
+         "pubDate" : "Thu, 31 Oct 2024 19:01:53",
+         "title" : "Fabi-lous At His Best #chess9LX #chess #fabianocaruana"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabi puts on a masterclass in 9LX against his rival Hikaru Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-thrashes-hikaru-chess9lx-chess-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WSqviiAKRFo.jpg?itok=aCTMm00Z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2024-d3",
          "pubDate" : "Thu, 31 Oct 2024 15:20:00",
          "title" : "Fabiano Caruana wins Chess 9LX Showdown in Saint Louis"
+      },
+      {
+         "description" : "IM Levy Rozman (GothamChess) bounced back from his loss in the first classical game to even the score 6-6 in the Battle of Generations. With the black pieces, he generated a powerful attack, but Cramling defended tenaciously to reach a drawn rook ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-4",
+         "pubDate" : "Thu, 31 Oct 2024 14:41:58",
+         "title" : "GothamChess Wins On Time, Evens Match Score Before Rapid Games"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Chess 9LX Fischer Random tournament, as of before Rounds 7-9. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-rounds-4-6-d3-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m2WQ-f_oSHc.jpg?itok=fKANHNV",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-chess-9lx-2024",
          "pubDate" : "Wed, 30 Oct 2024 23:17:00",
          "title" : "Champions Showdown Chess 9LX 2024 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Begim Tokhirjonova after going 2-0-1 on the second day of the 2024 Chess 9LX Fischer Random tournament. 2024.10.29<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-lazy-old-players-love-chess9lx-d2-chess9lx",
-         "pubDate" : "Wed, 30 Oct 2024 22:01:19",
-         "title" : "Nakamura: Lazy Old Players Love Chess9LX | D2 #Chess9LX"
       },
       {
          "description" : "",
@@ -362,20 +378,20 @@ news_feed (
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
       },
       {
-         "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship",
-         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
-         "title" : "Seirawan Chess Championship Is The Next Event Of The Chess.com Community Championships"
-      },
-      {
          "description" : "Chess.com is excited to announce its first ever baseball bot: introducing one of the sport&#39;s most valuable players, Joey Votto! Votto, a six-time All-Star and the National League Most Valuable Player in 2010, spent all 17 Major League seasons of h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/play-chess-against-mlb-all-star-joey-votto",
          "pubDate" : "Mon, 28 Oct 2024 08:00:00",
          "title" : "Play Chess Against MLB All-Star Joey Votto"
+      },
+      {
+         "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship",
+         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
+         "title" : "Seirawan Chess Championship Is The Next Event Of The Chess.com Community Championships"
       },
       {
          "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "European Chess Club Cups 2024 kicked off"
       },
       {
-         "description" : "Get ready for an exciting event between two generations, as Swedish chess legend GM Pia Cramling goes head-to-head against the Internet&#39;s chess teacher IM Levy Rozman in a six-day over-the-board event in Stockholm. The Battle of Generations show...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/battle-of-generations-pia-cramling-levy-rozman",
-         "pubDate" : "Mon, 21 Oct 2024 08:00:00",
-         "title" : "Chess Legend Pia Cramling To Face Off With Levy Rozman In Battle Of Generations"
-      },
-      {
          "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1024,22 +1032,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41709075/global-chess-league-2024-gcl-report-carlsen-nakamura-viswanathan-anand-praggnanandhaa-gcl-day-7?device=featurephone",
          "pubDate" : "Fri, 11 Oct 2024 09:46:48",
          "title" : "Global Chess League: Mumba Masters stun Alaskan Knights, Kings and Pipers improve chances of reaching finals"
-      },
-      {
-         "description" : "A roundup of results from the latest round of action at the Global Chess League Season 2.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41727638/global-chess-league-2024-gcl-report-pbg-alaskan-knights-reach-final-carlsen-beat-viswanathan-anand-october-10?device=featurephone",
-         "pubDate" : "Thu, 10 Oct 2024 22:51:54",
-         "title" : "Global Chess League: PBG Alaskan Knights reach final as Carlsen beats Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3255",
-         "pubDate" : "Thu, 10 Oct 2024 21:31:20",
-         "title" : "Global Chess League: PBG reach the finals as Triveni and Pipers set for showdown"
       }
    ]
 }
