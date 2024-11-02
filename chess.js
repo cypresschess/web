@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Maurice speaks on the effects of time pressure in Oparin&#039;s game against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-pressure-makes-fool-us-all-chess9lx-chess-timepressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PwuYNCkqklU.jpg?itok=m_ovcaVV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/time-pressure-makes-fool-us-all-chess9lx-chess-timepressure",
+         "pubDate" : "Sat, 02 Nov 2024 07:02:42",
+         "title" : "Time Pressure Makes A Fool Of Us All #chess9lx #chess #timepressure"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> From 9LX position #017, Paikidze admires Wesley&#039;s position against Sam Sevian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesleys-dream-positionchess9lx-chess-chessopenings-chesstactis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vlqhCk5g78w.jpg?itok=PPUeoem5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesleys-dream-positionchess9lx-chess-chessopenings-chesstactis",
+         "pubDate" : "Sat, 02 Nov 2024 07:02:42",
+         "title" : "Wesley's Dream Position#chess9lx #chess #chessopenings #chesstactis"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tough endgame with increment, but if the time control was different...Hikaru would demolish his opponent </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/no-incrementhikaru-could-flag-anyone-chess9lx-chess-chessendgame-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tRD3Hwu2LgI.jpg?itok=QadUXd8z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/no-incrementhikaru-could-flag-anyone-chess9lx-chess-chessendgame-hikarunakamura",
+         "pubDate" : "Sat, 02 Nov 2024 07:02:42",
+         "title" : "No Increment...Hikaru Could Flag Anyone #chess9LX #chess #chessendgame #hikarunakamura"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Careful...Wesley has a nasty little rook endgame trick </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgame-wesleys-nasty-little-trick-chess9lx-chess-chessendgames-wesleyso\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bhfnGUBMp_I.jpg?itok=Uo9eXnEx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-endgame-wesleys-nasty-little-trick-chess9lx-chess-chessendgames-wesleyso",
+         "pubDate" : "Sat, 02 Nov 2024 04:02:40",
+         "title" : "Rook Endgame: Wesley's Nasty Little Trick #chess9lx #chess #chessendgames #wesleyso"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114868078.cms\" />Anish Sarkar from Kolkata became the youngest rated chess player in history at three years, eight months, and 19 days old. He achieved his rating after several tournaments, including All Bengal Rapid Rating Open, Bengal State Under-9 Open Rating meet, and Bengal State Under-13 Open. He also played against India No. 1 Arjun Erigaisi in an exhibition match.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -23,7 +55,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3284",
          "pubDate" : "Fri, 01 Nov 2024 21:50:40",
-         "title" : "World Amateur Chess Championships 2024 reach the midpoint"
+         "title" : "World Amateur Chess Championship 2024 reach the midpoint"
       },
       {
          "description" : "",
@@ -47,7 +79,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3282",
          "pubDate" : "Fri, 01 Nov 2024 15:28:00",
-         "title" : "FIDE October 2024 rating list published"
+         "title" : "FIDE November 2024 rating list published"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114853301.cms\" />Three-year-old Anish Sarkar from Kolkata has become the youngest rated chess player in history. His journey began just a year ago, and he already has an initial FIDE rating of 1555. Supported by his coach, Grandmaster Dibyendu Barua, Anish is part of a special training group and remains inspired by chess wizard Magnus Carlsen.",
@@ -216,38 +248,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42107125/gukesh-smart-enough-chess-world-championships-won-not-elected-viswanathan-anand?device=featurephone",
          "pubDate" : "Thu, 31 Oct 2024 05:27:47",
          "title" : "'Gukesh smart enough to know that World Championships are won, not elected': Viswanathan Anand"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the seventh Chess 9LX event is a 10-player Fischer Random chess (Chess960) rapid round robin tournament (players below). Today are the final three rounds. Join GMs Yasser Seirawan &amp; Maurice Ashley, and IMs Nazi Paikidze &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-2024-chess-9lx-day-3-fischer-random\"><img src=\"https://saintlouischessclub.org/sites/defaul",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-2024-chess-9lx-day-3-fischer-random",
-         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
-         "title" : "(ORIGINAL BROADCAST) 2024 Chess 9LX: Day 3 | Fischer Random"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> So many moves between Oparin and Hikaru, IM Nazi Paikidze ask this burning question </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-tha-burn-chess9lx-chess-chesshumor-hikarunakamura-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0r2r_CnnMVw.jpg?itok=xz5LS3wl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paikidze-tha-burn-chess9lx-chess-chesshumor-hikarunakamura-fabianocaruana",
-         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
-         "title" : "Paikidze with Tha BURN!! #chess9lx #chess #chesshumor #hikarunakamura #fabianocaruana"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian has no choice in his position with the G.O.A.T. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-forces-resignation-chess9lx-chess-chesshumor-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RRVYgDPHM5Q.jpg?itok=_R7aC9Nx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-forces-resignation-chess9lx-chess-chesshumor-garrykasparov",
-         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
-         "title" : "Kasparov Forces Resignation #chess9lx #chess #chesshumor #garrykasparov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru up a knight can&#039;t break Oparin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/50-move-rule-nakamura-cant-break-oparin-chess9lx-chess-chesshistory\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DX5g9T8rajc.jpg?itok=Kqm29yuR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/50-move-rule-nakamura-cant-break-oparin-chess9lx-chess-chesshistory",
-         "pubDate" : "Thu, 31 Oct 2024 04:01:28",
-         "title" : "50 Move Rule: Nakamura Can't Break Oparin #chess9lx #chess #chesshistory"
       },
       {
          "description" : "NO Name 1 Sourav Suresh 2 Subham Dubey 3 Sathiya Moorthy T 4 Srimannarayana A K S 5 Anand V R 6 Bala Krishna J",
@@ -1040,22 +1040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/demolishment-of-a-summary-demolishment",
          "pubDate" : "Sat, 12 Oct 2024 10:00:00",
          "title" : "Demolishment of a \"Summary Demolishment\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114164064.cms\" />Vantika Agrawal, a 21-year-old chess player from Noida, overcame significant challenges to win India's first-ever Olympiad gold in Budapest. With minimal local support, her mother played a crucial role in her success. Vantika aims to become a Grandmaster by next year, despite the financial and logistical hurdles she faces.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/olympiad-gold-medallist-vantika-agrawal-now-aims-for-grandmaster-title/articleshow/114164064.cms",
-         "pubDate" : "Sat, 12 Oct 2024 04:50:47",
-         "title" : "Vantika Agrawal now aims for Grandmaster title"
-      },
-      {
-         "description" : " Somalians look splendid at the 2016 Chess Olympiad in Baku, Azerbaijan.Photo by David Llada Somalia Chess Federation Somalia's plans to attend the 45th Chess Olympiad in Budapest, Hungary, started with excitement but ended in a nightmare. This is a recurrent theme every two years when smaller federations struggle to attend the most important chess event. The post <a href=\"https://thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/\">Somalia's Chess Olympiad Visa Nightmare</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/10/12/somalias-chess-olympiad-visa-nightmare/",
-         "pubDate" : "Sat, 12 Oct 2024 04:42:34",
-         "title" : "Somalia's Chess Olympiad Visa Nightmare"
       }
    ]
 }
