@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " from October 25 to October 30th the 2024 ISF Bahrain Gymnasiade was the largest in the event's 52 year history with 5,515 athletes from 71 countries competing across...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/isf-bahrain-gymnasiade-2024/",
+         "pubDate" : "Sat, 02 Nov 2024 10:49:46",
+         "title" : "ISF Bahrain Gymnasiade 2024 - report and pictures"
+      },
+      {
+         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
+         "pubDate" : "Sat, 02 Nov 2024 10:45:00",
+         "title" : "Women's Grand Prix Shymkent - live"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Maurice speaks on the effects of time pressure in Oparin&#039;s game against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-pressure-makes-fool-us-all-chess9lx-chess-timepressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PwuYNCkqklU.jpg?itok=m_ovcaVV\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1032,14 +1048,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
          "pubDate" : "Sat, 12 Oct 2024 11:41:00",
          "title" : "TechM Global Chess League 2024 - Games and Results"
-      },
-      {
-         "description" : "In 1875 Walter Grimshaw, a composer of chess problems who was not far off master strength as a player, played at least one casual game against Steinitz at Simpson's Divan, and supposedly won in 17 moves. But was this \"summary demolishment\" actually played? Steinitz called the game, which was published in the International Chess Magazine, \"a deliberately bogus manufactured forgery.\" You can read about Grimshaw and this controversial encounter courtesy of Neil Hickman in CHESS Magazine, October 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/demolishment-of-a-summary-demolishment",
-         "pubDate" : "Sat, 12 Oct 2024 10:00:00",
-         "title" : "Demolishment of a \"Summary Demolishment\""
       }
    ]
 }
