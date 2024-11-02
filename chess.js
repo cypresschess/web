@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Considering the recent changes in the FIDE Tie Break Regulations and observing the impact of current tie-break systems used in championships/tournaments, the Arbiters Commission of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/proposal-tie-break-regulations-of-all-india-chess-federation/",
+         "pubDate" : "Sat, 02 Nov 2024 15:26:05",
+         "title" : "PROPOSAL : TIE BREAK REGULATIONS OF ALL INDIA CHESS FEDERATION"
+      },
+      {
+         "description" : "How many hours have you wasted studying chess the wrong way? \"Wow, I've wasted so much time and money on non-important things,\" is the most common reaction from my new students. Just this week, two separate students realized that what they thought was 20-30 hours of study time on chess per week was, in reality, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/study-chess-in-a-smarter-way/",
+         "pubDate" : "Sat, 02 Nov 2024 14:00:00",
+         "title" : "Why CEOs have a hard time improving their chess"
+      },
+      {
+         "description" : "The London Summit on Leadership in Crisis, held at London's Naval and Military Club on Saturday October 19, was an international gathering, dedicated to exploring the challenges and opportunities that await us in education, environment, business, politics, technology, and beyond over the next 50 years. I was invited to address this August forum by its co-organisers, Ambassador Dr Otto []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-as-a-metaphor-for-life/",
+         "pubDate" : "Sat, 02 Nov 2024 11:44:27",
+         "title" : "Chess as a metaphor for life"
+      },
+      {
          "description" : " from October 25 to October 30th the 2024 ISF Bahrain Gymnasiade was the largest in the event's 52 year history with 5,515 athletes from 71 countries competing across...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -114,7 +138,7 @@ news_feed (
          "title" : "Arjun, Caruana, Abdusattorov, Firouzja Battle For FIDE Circuit Candidates Spot"
       },
       {
-         "description" : "After evening the score with a win the previous day, IM Levy Rozman (GothamChess) has taken a 14-10 lead in the Battle of Generations. He won three consecutive games on Friday, with rook sacrifices in two of them, but Cramling had the last laugh a...",
+         "description" : "After evening the score against GM Pia Cramling with a win the previous day, IM Levy Rozman (GothamChess) has taken a 14-10 lead in the Battle of Generations. He won three consecutive games on Friday, with rook sacrifices in two of them, but Craml...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-5",
@@ -210,7 +234,7 @@ news_feed (
          "title" : "Fabiano Caruana wins Chess 9LX Showdown in Saint Louis"
       },
       {
-         "description" : "IM Levy Rozman (GothamChess) bounced back from his loss in the first classical game to even the score 6-6 in the Battle of Generations. With the black pieces, he generated a powerful attack, but Cramling defended tenaciously to reach a drawn rook ...",
+         "description" : "IM Levy Rozman (GothamChess) bounced back from his loss against GM Pia Cramling in the first classical game to even the score 6-6 in the Battle of Generations. With the black pieces, he generated a powerful attack, but Cramling defended tenaciousl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-4",
@@ -818,14 +842,6 @@ news_feed (
          "title" : "The 5th ECU Trainers Online Seminar"
       },
       {
-         "description" : "After finishing the Final round in all the Formats of Chess. yesterday we witnessed a very Cheerful and delightful performance by Indians here in Philippines,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-cheerful-performance-by-indians-chess-stars-in-asian-juniors-girls-chess-championship-2024/",
-         "pubDate" : "Tue, 22 Oct 2024 12:29:52",
-         "title" : "Final Report - Cheerful Performance by Indians Chess Stars in Asian Juniors & Girls Chess Championship 2024"
-      },
-      {
          "description" : "Two rounds have been played at the European Chess Club Cups 2024 in Vrnjacka Banja, Serbia. Most of the favourites in the Open section kept the winning streak, including the top seeded SuperChess, Alkaloid, Novy Bor Chess Club, Bayegan Pendik Chess Sports Club, Turkish Airlines, who scored convincing victories. Majority of 2700+ rated players were victorious yesterday including Gukesh D, Nodirbek Abdusattorov, Arjun Erigaisi, Wei Yi, Yu Yangyi, Vidit Santosh Gujrathi, Vincent Keymer etc. Praggnandhaa struggled again, and after the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1032,22 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3259",
          "pubDate" : "Sat, 12 Oct 2024 18:10:22",
          "title" : "Tech Mahindra Global Chess League: Triveni clinch second title in spectacular fashion"
-      },
-      {
-         "description" : "Season one champions, Triveni Continental Kings, triumphed over the PBG Alaskan Knights in both final matches to secure their second title in the Global Chess League.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41753631/global-chess-league-2024-gcl-report-final-firouzja-triveni-continental-kings-secure-second-title-spectacular-fashion?device=featurephone",
-         "pubDate" : "Sat, 12 Oct 2024 13:00:58",
-         "title" : "Global Chess League: Triveni Continental Kings secure second title in spectacular fashion"
-      },
-      {
-         "description" : " The Tech Mahindra Global Chess League took place in Friends House, London, which is across the road from Euston Station, 3rd to 12th October 2024 starting at 1pm each day. The league which had its inaugral event in Dubai was a rapid team event with just 20 minutes per player with no increment. Inspired by Indian cricket's IPL there were 6 teams with a mix of one legend, two superstar men, two superstar women and a prodigy. The teams could not honestly be much stronger with the legends Magnus Carlsen (Alpine SG Pipers), Vishy Anand (Ganges Grandmasters), Hikaru Nakamura (American Gambits), Alireza Firouzja (Triveni Continental Kings), Maxime Vachier-Lagrave (Mumba Masters) and Anish Giri (PB",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/techm-global-chess-league-2024",
-         "pubDate" : "Sat, 12 Oct 2024 11:41:00",
-         "title" : "TechM Global Chess League 2024 - Games and Results"
       }
    ]
 }
