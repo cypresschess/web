@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Levon&#039;s stylish play leaves Shankland paralyzed in this position against Aronian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-touch-rook-chess9lx-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Scvk4Kh-FiI.jpg?itok=060iWupj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-touch-rook-chess9lx-chess-chesstactics",
+         "pubDate" : "Sat, 02 Nov 2024 19:03:06",
+         "title" : "Don't Touch That Rook! #chess9lx #chess #chesstactics"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice gives a wild analysis of the position between Sam Shankland and Fabiano Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurices-shankland-attack-chess9lx-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JqQqqnD-Y-s.jpg?itok=TB1tYUn4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/maurices-shankland-attack-chess9lx-chess-chesstactics",
+         "pubDate" : "Sat, 02 Nov 2024 19:03:06",
+         "title" : "Maurice's Shankland Attack #chess9lx #chess #chesstactics"
+      },
+      {
+         "description" : "ChessBase India's week-long, free-for-all Big Diwali Chess Camp concluded on a high note. On October 26, the penultimate day, an intense chess-solving contest took centre stage. The challenge was to solve six complex chess compositions in just two hours. Carefully curated by Satanick Mukhuty, the Chess Composition Editor of ChessBase India, the tasks included four problems and two studies designed to push the participants' strategic and tactical prowess to the limit. Ultimately, among the 35 contestants, the 22-year-old Pushkar Dere secured a decisive victory with a remarkable score of 29/30. Satanick shares his insights into the contest and walks you through the solutions to all six challen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-solving-spectacle-diwali",
+         "pubDate" : "Sat, 02 Nov 2024 18:35:00",
+         "title" : "Intellectual fireworks: A glimpse into Mumbai's Diwali chess-solving spectacle!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3285",
+         "pubDate" : "Sat, 02 Nov 2024 16:35:56",
+         "title" : "FIDE Trainer Awards 2024 - Call for nominations"
+      },
+      {
+         "description" : "The Musuru District Chess Association, representing the Karnataka State Chess Association, the All India Chess Federation, and the FIDE Arbiters Commission, organized a FIDE Arbiters'",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fa-seminar-examination-from-18-to-20-october-2024-in-mysuru-karnataka/",
+         "pubDate" : "Sat, 02 Nov 2024 15:38:16",
+         "title" : "FA Seminar & Examination from 18 to 20 October 2024 in Mysuru Karnataka"
+      },
+      {
+         "description" : "Team India has celebrated Diwali with commendable scoring in the 4th round of ongoing World Youth Chess Championship in Brazil to be held from 29th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-of-4th-round-of-world-youth-chess-championship-2024-in-brazil/",
+         "pubDate" : "Sat, 02 Nov 2024 15:37:07",
+         "title" : "Report of 4th round of World Youth Chess Championship 2024 in Brazil"
+      },
+      {
          "description" : "Considering the recent changes in the FIDE Tie Break Regulations and observing the impact of current tie-break systems used in championships/tournaments, the Arbiters Commission of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://nextlevelchess.blog/study-chess-in-a-smarter-way/",
          "pubDate" : "Sat, 02 Nov 2024 14:00:00",
          "title" : "Why CEOs have a hard time improving their chess"
+      },
+      {
+         "description" : "IM Levy Rozman (GothamChess) won the Battle of Generations against GM Pia Cramling with four games to spare. Rozman came into the final day with a four-point lead, and he clinched the match with two consecutive wins after the halftime break. The f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-gothamchess-wins",
+         "pubDate" : "Sat, 02 Nov 2024 12:09:29",
+         "title" : "GothamChess Clinches Battle Of Generations With 4 Games To Spare"
       },
       {
          "description" : "The London Summit on Leadership in Crisis, held at London's Naval and Military Club on Saturday October 19, was an international gathering, dedicated to exploring the challenges and opportunities that await us in education, environment, business, politics, technology, and beyond over the next 50 years. I was invited to address this August forum by its co-organisers, Ambassador Dr Otto []",
@@ -104,14 +160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3283",
          "pubDate" : "Fri, 01 Nov 2024 18:08:58",
          "title" : "FIDE WGP Shymkent: Tan Zhongyi takes the lead after Round 3"
-      },
-      {
-         "description" : "The FIDE Circuit 2024 race saw a shake-up in the standings, with Arjun Erigaisi grabbing the lead following a strong performance at the WR Chess Masters Cup. His gains nudged Nodirbek Abdusattorov to third place, as Fabiano Caruana's recent US Championship victory moved him to second. The competition remains fierce, with Abdusattorov, Caruana and Alireza Firouzja close behind Arjun and poised to advance with fewer tournaments played. Upcoming events, including the Chennai Grand Masters Tournament, will be decisive as the FIDE Circuit inches closer to its final 2024 standings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-circuit-november-2024",
-         "pubDate" : "Fri, 01 Nov 2024 16:50:00",
-         "title" : "FIDE Circuit: Arjun regains lead, Caruana climbs to second place"
       },
       {
          "description" : "",
@@ -218,36 +266,12 @@ news_feed (
          "title" : "Caruana Thrashes Hikaru #chess9LX #chess #fabianocaruana"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Begim Tokhirjonova about his victory at the 2024 Chess 9LX Fischer Random tournament. <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-it-was-race-between-hikaru-and-i-d3-chess9lx-2024",
-         "pubDate" : "Thu, 31 Oct 2024 16:01:52",
-         "title" : "Caruana: It was a race between Hikaru and I | D3 #Chess9LX 2024"
-      },
-      {
-         "description" : "Fresh off his US Championship win, Fabiano Caruana clinched another title with a commanding performance at the Chess 9LX Champions Showdown in Saint Louis. Caruana's 7&frac12;/9 score, with six wins and no losses, secured him the crown in the chess960 event. Behind him, Hikaru Nakamura finished half a point short, while Garry Kasparov put on a noteworthy display. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2024-d3",
-         "pubDate" : "Thu, 31 Oct 2024 15:20:00",
-         "title" : "Fabiano Caruana wins Chess 9LX Showdown in Saint Louis"
-      },
-      {
          "description" : "IM Levy Rozman (GothamChess) bounced back from his loss against GM Pia Cramling in the first classical game to even the score 6-6 in the Battle of Generations. With the black pieces, he generated a powerful attack, but Cramling defended tenaciousl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-4",
          "pubDate" : "Thu, 31 Oct 2024 14:41:00",
          "title" : "GothamChess Wins On Time, Evens Match Score Before Rapid Games"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Chess 9LX Fischer Random tournament, as of before Rounds 7-9. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-rounds-4-6-d3-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m2WQ-f_oSHc.jpg?itok=fKANHNV",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-rounds-4-6-d3-chess9lx",
-         "pubDate" : "Thu, 31 Oct 2024 13:01:46",
-         "title" : "Who is Likely to Win After Rounds 4-6? | D3 #Chess9LX"
       },
       {
          "description" : "Mongolian IM Batkhuyag Munguntuul scored the only win of round two of the 2024 Shymkent FIDE Women&#39;s Grand Prix after unleashing the crushing 17...Ba3!! on GM Elisabeth Paehtz, who was left with little choice but to resign after a one-hour game. G...",
@@ -746,14 +770,6 @@ news_feed (
          "title" : "European Chess Club Cup 2024 crosses half-way mark"
       },
       {
-         "description" : "GM Fabiano Caruana successfully defended his title at the 2024 U.S. Chess Championship, notching a win over GM Sam Shankland in the final round to claim the $62,000 first prize and winner&#39;s trophy. Caruana&#39;s 7/10 performance gave him a 1.5-point b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-championship-fabiano-caruana-wins",
-         "pubDate" : "Wed, 23 Oct 2024 23:54:00",
-         "title" : "Caruana Wins 4th U.S. Championship Title, Tokhirjonova Secures World Cup Spot"
-      },
-      {
          "description" : "Four rounds have been played at the 39th European Chess Club Cup and the 28th European Women's Chess Club Cup, and only four teams co-lead the Open tournament while TAJFUN SK Ljubljana emerged as the sole leader of the Women's competition. Four teams co-leading in the Open section with perfect score of 8 match points are: Turkish Airlines, Alkaloid, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Novy Bor Chess Club. The top-seeded SuperChess in the Open tournament suffered an upset losing []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -776,22 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
          "pubDate" : "Wed, 23 Oct 2024 20:00:00",
          "title" : "US Championships - Live!"
-      },
-      {
-         "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiter-refresher-course-for-left-over-arbiters-2024-2025/",
-         "pubDate" : "Wed, 23 Oct 2024 09:32:41",
-         "title" : "ARBITER REFRESHER COURSE FOR LEFT OVER ARBITERS 2024-2025"
-      },
-      {
-         "description" : "The Senior National Arbiter Seminar &#38; Examination, organized by the Andaman Nicobar Chess Association on behalf of the All India Chess Federation (AICF) and the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiters-seminar-and-examination-on-12-13-october-2024-in-port-blair-andaman-nicobar-island/",
-         "pubDate" : "Wed, 23 Oct 2024 05:16:47",
-         "title" : "Final Report - Senior National Arbiters' Seminar and Examination on 12 & 13 October 2024 in Port Blair, Andaman & Nicobar Island"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Crystal Fuller/SLCC (All other photos courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> With his final-round victory over GM Sam Shankland, GM Fabiano Caruana joined IM Carissa Yip in repeating as U.S. Champion. Caruana's 7/10 score was good for his third consecutive victory (fourth overall), while Yip's 8&frac12;/11 score netted the 21-year-old her third title in four years. After her 8/8 start, Yip boasted a gargantuan lead over the field. But consecutive losses before today's draw allowed IM Gulrukhbegim Tokhirjonova to close the gap to a single point, clinching clear second with a 7&frac1",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3258",
          "pubDate" : "Sat, 12 Oct 2024 23:16:16",
          "title" : "Happy birthday, Nana Alexandria!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3259",
-         "pubDate" : "Sat, 12 Oct 2024 18:10:22",
-         "title" : "Tech Mahindra Global Chess League: Triveni clinch second title in spectacular fashion"
       }
    ]
 }
