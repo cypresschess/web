@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114868078.cms\" />Anish Sarkar from Kolkata became the youngest rated chess player in history at three years, eight months, and 19 days old. He achieved his rating after several tournaments, including All Bengal Rapid Rating Open, Bengal State Under-9 Open Rating meet, and Bengal State Under-13 Open. He also played against India No. 1 Arjun Erigaisi in an exhibition match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/three-year-old-kolkata-boy-becomes-youngest-fide-rated-chess-player/articleshow/114868078.cms",
+         "pubDate" : "Sat, 02 Nov 2024 02:33:21",
+         "title" : "Three-year-old Kolkata boy becomes youngest Fide-rated chess player"
+      },
+      {
+         "description" : "Top seed Tan Zhongyi has taken the lead at the Shymkent Women's Grand Prix after a second win in round 3, defeating Kateryna Lagno with the white pieces. Tan now holds 2&frac12;/3 points, followed by a quartet of players in close pursuit, including India's Humpy Koneru and Russia's Aleksandra Goryachkina, both with strong round-3 victories. Curiously, no player stands at fifty percent after three rounds. | Photo: Konstantin Chalabov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-shymkent-2024-3",
+         "pubDate" : "Sat, 02 Nov 2024 01:15:00",
+         "title" : "Shymkent GP: Tan sole leader after three rounds"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ethan-pang-breaks-another-faustino-oro-record",
          "pubDate" : "Fri, 01 Nov 2024 11:26:00",
          "title" : "9-Year-Old Ethan Pang Breaks Faustino Oro's Record To Become Youngest-Ever 2300"
-      },
-      {
-         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
-         "pubDate" : "Fri, 01 Nov 2024 10:45:00",
-         "title" : "Women's Grand Prix Shymkent - live"
       },
       {
          "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy Ethan Pang became the youngest-ever to pass the 2300 rating mark in an...",
