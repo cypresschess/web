@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Garry under time pressure has to find the best move in his position against Hikaru </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-knows-chess9lx-chess-garrykasparov-timepressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KflKI9s0DHE.jpg?itok=NDAxR8qX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-knows-chess9lx-chess-garrykasparov-timepressure",
+         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
+         "title" : "Kasparov KNOWS!! #chess9lx #chess #garrykasparov #timepressure"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> No way of turning this position in his favor, Kasparov resigns </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-defeats-kasparov-chess9lx-chess-chesspuzzle\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FTFjG7Ga0as.jpg?itok=ySJAtphB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-defeats-kasparov-chess9lx-chess-chesspuzzle",
+         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
+         "title" : "Wesley Defeats Kasparov #chess9lx #chess #chesspuzzle"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kasparov shows why he is The G.O.A.T. in his game against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-unleashes-dominguez-chess9lx-chess-chesstactics-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qmhuY2dR2s0.jpg?itok=oZQixJpu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-unleashes-dominguez-chess9lx-chess-chesstactics-garrykasparov",
+         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
+         "title" : "Kasparov Unleashes On Dominguez #chess9lx #chess #chesstactics #garrykasparov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon finds the right move with a pin, but Garry&#039;s is just BRILLIANT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sleek-and-dangerous-kasparov-such-beast-chess9lx-chess-chesstactics-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6kG6k5H4mpM.jpg?itok=MQn8fJfY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sleek-and-dangerous-kasparov-such-beast-chess9lx-chess-chesstactics-garrykasparov",
+         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
+         "title" : "Sleek and Dangerous: Kasparov Is SUCH A Beast #chess9lx #chess #chesstactics #garrykasparov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3286",
+         "pubDate" : "Sat, 02 Nov 2024 19:24:27",
+         "title" : "FIDE WGP Shymkent: Koneru and Goryachkina сlose in after Round 4"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Levon&#039;s stylish play leaves Shankland paralyzed in this position against Aronian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-touch-rook-chess9lx-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Scvk4Kh-FiI.jpg?itok=060iWupj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,11 +106,19 @@ news_feed (
          "title" : "Why CEOs have a hard time improving their chess"
       },
       {
+         "description" : "GMs Koneru Humpy and Aleksandra Goryachkina both won their second games in a row (vs. IMs Nurgyul Salimova and Stavroula Tsolakidou respectively) to catch GM Tan Zhongyi in the 2024 Shymkent FIDE Women&#39;s Grand Prix lead in round four. IM Batkhuyag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-4",
+         "pubDate" : "Sat, 02 Nov 2024 12:50:00",
+         "title" : "Humpy, Goryachkina Win Again To Catch Tan Zhongyi In Lead"
+      },
+      {
          "description" : "IM Levy Rozman (GothamChess) won the Battle of Generations against GM Pia Cramling with four games to spare. Rozman came into the final day with a four-point lead, and he clinched the match with two consecutive wins after the halftime break. The f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-battle-of-generations-gothamchess-wins",
-         "pubDate" : "Sat, 02 Nov 2024 12:09:29",
+         "pubDate" : "Sat, 02 Nov 2024 12:09:00",
          "title" : "GothamChess Clinches Battle Of Generations With 4 Games To Spare"
       },
       {
@@ -226,44 +274,12 @@ news_feed (
          "title" : "Chess: Garry Kasparov still has it at 61 as he holds his own against the US elite"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Hikaru Nakamura shares his point of view about the future of Chess 9LX </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikarus-pov-chess9lx-chess-chesstalks-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WJaR--OMmHw.jpg?itok=TRGmCp2j\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hikarus-pov-chess9lx-chess-chesstalks-hikarunakamura",
-         "pubDate" : "Fri, 01 Nov 2024 04:02:07",
-         "title" : "Hikaru's POV #chess9LX #chess #chesstalks #hikarunakamura"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice gets amped up Hikaru&#039;s opponent runs into time trouble even though was late </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-waits-no-position-chess9lx-chess-chesstalk-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gu6y8UoDWQY.jpg?itok=6XvJBfrt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hikaru-waits-no-position-chess9lx-chess-chesstalk-hikarunakamura",
-         "pubDate" : "Fri, 01 Nov 2024 04:02:07",
-         "title" : "Hikaru Waits For No Position #chess9LX #chess #chesstalk #hikarunakamura"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3281",
          "pubDate" : "Thu, 31 Oct 2024 19:10:25",
          "title" : "FIDE WGP Shymkent Round 2: Munguntuul stuns Paehtz in a 17-move upset"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Caruana finds the best move in his position, that will cause havoc for rival Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-lous-his-best-chess9lx-chess-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OZGQH8b0orM.jpg?itok=hcN1MpMb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-lous-his-best-chess9lx-chess-fabianocaruana",
-         "pubDate" : "Thu, 31 Oct 2024 19:01:53",
-         "title" : "Fabi-lous At His Best #chess9LX #chess #fabianocaruana"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabi puts on a masterclass in 9LX against his rival Hikaru Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-thrashes-hikaru-chess9lx-chess-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WSqviiAKRFo.jpg?itok=aCTMm00Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-thrashes-hikaru-chess9lx-chess-fabianocaruana",
-         "pubDate" : "Thu, 31 Oct 2024 16:01:52",
-         "title" : "Caruana Thrashes Hikaru #chess9LX #chess #fabianocaruana"
       },
       {
          "description" : "IM Levy Rozman (GothamChess) bounced back from his loss against GM Pia Cramling in the first classical game to even the score 6-6 in the Battle of Generations. With the black pieces, he generated a powerful attack, but Cramling defended tenaciousl...",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Lawyer Times sponsored by Celts' Jaylen Brown"
       },
       {
-         "description" : "The wait is finally over! Chess fans can now order their English copy of The Chess Revolution by Peter Doggers, one of the world&#39;s leading chess journalists. The book is available for English readers around the world. Get your copy here! I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/book-the-chess-revolution-doggers-out-now",
-         "pubDate" : "Thu, 24 Oct 2024 06:00:00",
-         "title" : "'The Chess Revolution', For Chess Fans And Non-Chess Playing Readers, Now Available"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/10/the-london-chess-centre-on-video.html",
          "pubDate" : "Sun, 13 Oct 2024 15:36:00",
          "title" : "The London Chess Centre on Video"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3258",
-         "pubDate" : "Sat, 12 Oct 2024 23:16:16",
-         "title" : "Happy birthday, Nana Alexandria!"
       }
    ]
 }
