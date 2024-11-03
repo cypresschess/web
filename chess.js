@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
+         "pubDate" : "Sun, 03 Nov 2024 10:45:00",
+         "title" : "Women's Grand Prix Shymkent - live"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Garry under time pressure has to find the best move in his position against Hikaru </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-knows-chess9lx-chess-garrykasparov-timepressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KflKI9s0DHE.jpg?itok=NDAxR8qX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/isf-bahrain-gymnasiade-2024/",
          "pubDate" : "Sat, 02 Nov 2024 10:49:46",
          "title" : "ISF Bahrain Gymnasiade 2024 - report and pictures"
-      },
-      {
-         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
-         "pubDate" : "Sat, 02 Nov 2024 10:45:00",
-         "title" : "Women's Grand Prix Shymkent - live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Maurice speaks on the effects of time pressure in Oparin&#039;s game against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-pressure-makes-fool-us-all-chess9lx-chess-timepressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PwuYNCkqklU.jpg?itok=m_ovcaVV\" alt=\"\" /></a></div>",
