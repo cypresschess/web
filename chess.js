@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the live games Link for Nationals Sub Junior 2024 Live Games Link : https://live.tamilchess.com/subjunior/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-nationals-sub-junior-2024/",
+         "pubDate" : "Sun, 03 Nov 2024 13:28:18",
+         "title" : "Live Games Link for Nationals Sub Junior 2024"
+      },
+      {
          "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -714,14 +722,6 @@ news_feed (
          "title" : "Final Report (Batch 2)- Senior National Arbiters' Seminar and Examination in Jalgaon Maharashtra on 19 & 20 October 2024"
       },
       {
-         "description" : "Jalgaon District Chess Association and Jain Sports Academy, on behalf of All India Chess Federation and Maharashtra State Chess Association organised Senior National Arbiter Seminar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-batch-1-senior-national-arbiters-seminar-and-examination-in-jalgaon-maharashtra-on-19-20-october-2024/",
-         "pubDate" : "Fri, 25 Oct 2024 07:36:44",
-         "title" : "Final Report (Batch 1)- Senior National Arbiters' Seminar and Examination in Jalgaon Maharashtra on 19 & 20 October 2024"
-      },
-      {
          "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000. Caruana's winning margin was a comfortable point and a half, after a final round where he won while his nearest rivals all drew or lost, leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang; and the established grandmasters Levon Aronian, Ray R",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1024,22 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3260",
          "pubDate" : "Sun, 13 Oct 2024 21:12:50",
          "title" : "Nigel Short takes part in Turkmenistan's chess festivities"
-      },
-      {
-         "description" : "The roots of chess probably go back to India of over two millennia ago. The first literary references stem from around 600 AD (CE), thus indicating that chess was already well established in the general consciousness. In 19th century chess, the Brahmin Moheschunder Bannerjee from Calcutta established a formidable reputation in numerous games against the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-comes-home-to-india/",
-         "pubDate" : "Sun, 13 Oct 2024 16:23:09",
-         "title" : "Chess comes home to India"
-      },
-      {
-         "description" : "Just a few weeks ago, in a post titled <A HREF=\"https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html\">Historic Olympiad Yahoos</A> (September 2024), I noted, <BLOCKQUOTE> The 100 stories total for September had the first nine under a heading that proclaimed, 'India win historic double gold at Chess Olympiad'. I counted another 18 stories about the Olympiad for a total of 27, plus a few more stories lacking the word 'Olympiad' in the title. </BLOCKQUOTE> <P> As confirmation of that note, this month's short list for the featured monthly video had a third of its clips from the <I>ChessBase India</I> channel, a resource that currently has over two million subscribers. Altho",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/10/the-london-chess-centre-on-video.html",
-         "pubDate" : "Sun, 13 Oct 2024 15:36:00",
-         "title" : "The London Chess Centre on Video"
       }
    ]
 }
