@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3288",
+         "pubDate" : "Sun, 03 Nov 2024 20:05:22",
+         "title" : "FIDE Book Awards 2024 - Call for nominations"
+      },
+      {
+         "description" : "Levy Rozman, also known as GothamChess, emerged victorious in a thrilling six-day chess showdown against Swedish grandmaster Pia Cramling in Stockholm. Dubbed the \"Battle of Generations\", the match saw Rozman's speed dominate in rapid and blitz games. After splitting the classical games earlier in the week, Rozman's tactical awareness secured him the match and a $6,000 prize, while Cramling, who put up a spirited fight, took home $4,000. | Image: chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levy-rozman-vs-pia-cramling-final",
+         "pubDate" : "Sun, 03 Nov 2024 19:20:00",
+         "title" : "Levy Rozman beats Pia Cramling in Battle of Generations"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kasparov turns the initiative with this brilliant move against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/garrys-brilliant-g-move-chess9lx-chess-chessstrategy-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kwbYqEo6u7I.jpg?itok=P_Odxqir\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/garrys-brilliant-g-move-chess9lx-chess-chessstrategy-garrykasparov",
+         "pubDate" : "Sun, 03 Nov 2024 19:03:42",
+         "title" : "Garry's Brilliant G - Move #chess9lx #chess #chessstrategy #garrykasparov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3287",
+         "pubDate" : "Sun, 03 Nov 2024 17:25:02",
+         "title" : "Goryachkina takes sole lead as fierce battles mark halfway point of WGP Shymkent"
+      },
+      {
+         "description" : "The 2024 European Senior Chess Championships concluded yesterday in Lignano Sabbiadoro, Italy. The event was played in two age categories: 50+ and 65+, with separate Women's 50+ competition, while the Women's 65+ section was merged with the Open and the best ranked players were crowned European Women's Senior 65+ Chess Champions. Intense final round determined the Winners in all categories. After nine played rounds, as many as three players scored 7 points each and tied for the top of the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-champions-2024-crowned-in-italy/",
+         "pubDate" : "Sun, 03 Nov 2024 17:07:11",
+         "title" : "European Senior Chess Champions 2024 crowned in Italy"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> From 9LX position #017, Paikidze admires Wesley&#039;s position against Sam Sevian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesleys-9lx-caro-kann-position-chess9lx-chess-chessopenings-chesstactics-wesleyso\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vlqhCk5g78w.jpg?itok=PPUeoem5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesleys-9lx-caro-kann-position-chess9lx-chess-chessopenings-chesstactics-wesleyso",
+         "pubDate" : "Sun, 03 Nov 2024 16:03:35",
+         "title" : "Wesley's 9LX Caro Kann Position #chess9lx #chess #chessopenings #chesstactics #wesleyso"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Using the position from Hikaru and Shankland, Yasser finds this little nasty attack on black&#039;s king </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yassers-nasty-discovery-attack-chess9lx-chess-chesstactics-checkmatevideos\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e5ZmM15Nu24.jpg?itok=gSn_Is7d\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yassers-nasty-discovery-attack-chess9lx-chess-chesstactics-checkmatevideos",
+         "pubDate" : "Sun, 03 Nov 2024 16:03:35",
+         "title" : "Yasser's Nasty Discovery Attack #chess9lx #chess #chesstactics #checkmatevideos"
+      },
+      {
          "description" : "Please find the live games Link for Nationals Sub Junior 2024 Live Games Link : https://live.tamilchess.com/subjunior/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -168,30 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/time-pressure-makes-fool-us-all-chess9lx-chess-timepressure",
          "pubDate" : "Sat, 02 Nov 2024 07:02:42",
          "title" : "Time Pressure Makes A Fool Of Us All #chess9lx #chess #timepressure"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> From 9LX position #017, Paikidze admires Wesley&#039;s position against Sam Sevian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesleys-dream-positionchess9lx-chess-chessopenings-chesstactis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vlqhCk5g78w.jpg?itok=PPUeoem5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesleys-dream-positionchess9lx-chess-chessopenings-chesstactis",
-         "pubDate" : "Sat, 02 Nov 2024 07:02:42",
-         "title" : "Wesley's Dream Position#chess9lx #chess #chessopenings #chesstactis"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tough endgame with increment, but if the time control was different...Hikaru would demolish his opponent </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/no-incrementhikaru-could-flag-anyone-chess9lx-chess-chessendgame-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tRD3Hwu2LgI.jpg?itok=QadUXd8z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/no-incrementhikaru-could-flag-anyone-chess9lx-chess-chessendgame-hikarunakamura",
-         "pubDate" : "Sat, 02 Nov 2024 07:02:42",
-         "title" : "No Increment...Hikaru Could Flag Anyone #chess9LX #chess #chessendgame #hikarunakamura"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Careful...Wesley has a nasty little rook endgame trick </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgame-wesleys-nasty-little-trick-chess9lx-chess-chessendgames-wesleyso\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bhfnGUBMp_I.jpg?itok=Uo9eXnEx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rook-endgame-wesleys-nasty-little-trick-chess9lx-chess-chessendgames-wesleyso",
-         "pubDate" : "Sat, 02 Nov 2024 04:02:40",
-         "title" : "Rook Endgame: Wesley's Nasty Little Trick #chess9lx #chess #chessendgames #wesleyso"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114868078.cms\" />Anish Sarkar from Kolkata became the youngest rated chess player in history at three years, eight months, and 19 days old. He achieved his rating after several tournaments, including All Bengal Rapid Rating Open, Bengal State Under-9 Open Rating meet, and Bengal State Under-13 Open. He also played against India No. 1 Arjun Erigaisi in an exhibition match.",
@@ -880,14 +912,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-3-loose-pieces-still-drop",
          "pubDate" : "Tue, 22 Oct 2024 00:00:00",
          "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 3 (Loose Pieces Still Drop Off)"
-      },
-      {
-         "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup officially commenced yesterday in Vrnjacka Banja, Serbia with the first round. The first round was inaugurated with the ceremonial moves made by the ECU Vice President Mr. Gunnar Bjornsson and the President of the Serbian Chess Federation Mr. Dragan Lazic. Mr. Dragan Lazic played the first move for Dommaraju Gukesh in the match between Superchess and Gambit Bonnevoie I, while the ECU Vice President Mr. Gunnar []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cups-2024-kicked-off/",
-         "pubDate" : "Mon, 21 Oct 2024 09:44:22",
-         "title" : "European Chess Club Cups 2024 kicked off"
       },
       {
          "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
