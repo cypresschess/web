@@ -66,6 +66,14 @@ news_feed (
          "title" : "Intellectual fireworks: A glimpse into Mumbai's Diwali chess-solving spectacle!"
       },
       {
+         "description" : "GM Hikaru Nakamura has captured another Bullet Brawl after scoring 71.5/77&#38;mdash;which includes a 23-game winning streak&#38;mdash;and finishing ahead of the second and third-placed GMs Oleksandr Bortnyk and Tuan Minh Le. With a winning margin of 55 p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-2-2024",
+         "pubDate" : "Sat, 02 Nov 2024 17:24:00",
+         "title" : "Nakamura Posts 23-Game Streak, Completes Bullet Brawl Hat Trick"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
          "pubDate" : "Fri, 25 Oct 2024 19:20:00",
          "title" : "39th European Club Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "Indian star GM Arjun Erigaisi achieved a 2800+ rating for the first time on Thursday, joining a celebrated group of players to break the barrier. We knew it was just a matter of time, but on Thursday the moment finally arrived. Arjun joined the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-breaks-2800-european-club-cup",
-         "pubDate" : "Fri, 25 Oct 2024 11:45:00",
-         "title" : "Arjun Joins Exclusive 2800 Club Thanks To Stellar Performance In Serbia"
       },
       {
          "description" : "",
