@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2024-11-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202411029802 target='_blank'>CHESSPANDA11022024SATURDAY</a>",
+"SPRING","2024-11-02","117","<a href=http://www.uschess.org/msa/XtblMain.php?202411020262 target='_blank'>HYDE CHESS TOURNAMENT</a>",
 "CYPRESS","2024-11-01","26","<a href=http://www.uschess.org/msa/XtblMain.php?202411019742 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-11-01","31","<a href=http://www.uschess.org/msa/XtblMain.php?202411019372 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-11-01","12","<a href=http://www.uschess.org/msa/XtblMain.php?202411019262 target='_blank'>TOURNAMENTS/FBCC 2024 HALLOWEEN OPE</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-03-05  - 03-26","22","<a href=http://www.uschess.org/msa/XtblMain.php?202403266482 target='_blank'>MARCH 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-03-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403244412 target='_blank'>QUADS - ALL AGES -SUNDAY MARCH 24 A</a>",
 "HOUSTON","2024-03-23","145","<a href=http://www.uschess.org/msa/XtblMain.php?202403233832 target='_blank'>CLEAR HORIZONS HS SCHOLASTIC</a>",
-"HOUSTON","2024-03-23","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403233612 target='_blank'>MARCH 23RD SATURDAY SWISS AT NOON</a>",
 ]);
