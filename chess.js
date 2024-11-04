@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a second-round loss, Mrittika Mallick bounced back impressively with four consecutive wins, keeping her medal hopes alive. In her latest game, she played the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-6-report-of-world-youth-chess-championship-2024-in-brazil-mrittika-mallick-is-trailing-the-leader-by-half-point-in-girls-under-16-category/",
+         "pubDate" : "Mon, 04 Nov 2024 04:21:26",
+         "title" : "Round 6 report of World Youth Chess Championship 2024 in Brazil :Mrittika Mallick is trailing the leader by Half point in Girls Under 16 category."
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows quick checkmate for beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mate-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NiZpNVYJ0lM.jpg?itok=ppIfMoYg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mate-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners",
+         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
+         "title" : "GM Ashley's A Quick Mate for Beginners: Bongloud #chess9LX #chess #checkmates #chessforbeginners"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows a simple quick mate for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mate-chess-beginners-fools-mate-chess9lx-chess-checkmates\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/richZP841s8.jpg?itok=wAZLAY7k\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mate-chess-beginners-fools-mate-chess9lx-chess-checkmates",
+         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
+         "title" : "GM Ashley's A Quick Mate For Chess Beginners: Fool's Mate #chess9LX #chess #checkmates"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice shows the smother mate for beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mate-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BghByVnmDGU.jpg?itok=QXdSmsLi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mate-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education",
+         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
+         "title" : "GM Ashley's A Quick Mate For Chess Beginners: Smothers Mate #chess9lx #chess #checkmates #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Ashley shows the preparedness of Garry Kasparov&#039;s position against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-club-players-pawn-breaks-chess9lx-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CmaaZHTkG98.jpg?itok=PKJ5djhX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-club-players-pawn-breaks-chess9lx-chess-chesstactics-education",
+         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
+         "title" : "For Chess Club Players: Pawn Breaks #chess9LX #chess #chesstactics #education"
+      },
+      {
+         "description" : " National Master Glenn Umstead was one of the most dedicated chess enthusiasts on the East Coast. &#8220;Supercoach&#8221; passed away on October 24, 2024, at his home in Atlantic City, New Jersey, and was laid to rest on November 2nd. Glenn had suffered from the effects of a stroke in 2022 and was reportedly not feeling The post <a href=\"https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/\">Glenn Umstead, &#8220;The Chess Artist&#8221; passes away</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/",
+         "pubDate" : "Mon, 04 Nov 2024 00:48:08",
+         "title" : "Glenn Umstead, \"The Chess Artist\" passes away"
+      },
+      {
          "description" : "When facing a young, ambitious opponent, it's best not to let them gain momentum. At the recent Hoogeveen Open, Surya Shekhar Ganguly learned this the hard way against Emil Frederick Schuricht, a German teenager who, despite being rated 2145, outplayed the Indian GM spectacularly on the dark squares. Meanwhile, young chess prodigies keep raising the bar - most notably 9-year-old Ethan Pang (pictured), who reached an impressive 2303 rating this month. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,14 +106,6 @@ news_feed (
          "title" : "GM Ashley's Quick Mates For Chess Beginners: Smothers Mate #chess9lx #chess #checkmates #education"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Ashley shows the preparedness of Garry Kasparov&#039;s position against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-pawns-kasparov-vs-dominguez-chess9lx-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CmaaZHTkG98.jpg?itok=PKJ5djhX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/breaking-pawns-kasparov-vs-dominguez-chess9lx-chess-chesstactics-education",
-         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
-         "title" : "Breaking Pawns: Kasparov vs Dominguez #chess9LX #chess #chesstactics #education"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,14 +122,6 @@ news_feed (
          "title" : "Levy Rozman beats Pia Cramling in Battle of Generations"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Kasparov turns the initiative with this brilliant move against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/garrys-brilliant-g-move-chess9lx-chess-chessstrategy-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kwbYqEo6u7I.jpg?itok=P_Odxqir\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/garrys-brilliant-g-move-chess9lx-chess-chessstrategy-garrykasparov",
-         "pubDate" : "Sun, 03 Nov 2024 19:03:42",
-         "title" : "Garry's Brilliant G - Move #chess9lx #chess #chessstrategy #garrykasparov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -104,22 +136,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-champions-2024-crowned-in-italy/",
          "pubDate" : "Sun, 03 Nov 2024 17:07:11",
          "title" : "European Senior Chess Champions 2024 crowned in Italy"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> From 9LX position #017, Paikidze admires Wesley&#039;s position against Sam Sevian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesleys-9lx-caro-kann-position-chess9lx-chess-chessopenings-chesstactics-wesleyso\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vlqhCk5g78w.jpg?itok=PPUeoem5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesleys-9lx-caro-kann-position-chess9lx-chess-chessopenings-chesstactics-wesleyso",
-         "pubDate" : "Sun, 03 Nov 2024 16:03:35",
-         "title" : "Wesley's 9LX Caro Kann Position #chess9lx #chess #chessopenings #chesstactics #wesleyso"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Using the position from Hikaru and Shankland, Yasser finds this little nasty attack on black&#039;s king </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yassers-nasty-discovery-attack-chess9lx-chess-chesstactics-checkmatevideos\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e5ZmM15Nu24.jpg?itok=gSn_Is7d\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yassers-nasty-discovery-attack-chess9lx-chess-chesstactics-checkmatevideos",
-         "pubDate" : "Sun, 03 Nov 2024 16:03:35",
-         "title" : "Yasser's Nasty Discovery Attack #chess9lx #chess #chesstactics #checkmatevideos"
       },
       {
          "description" : "GM Aleksandra Goryachkina outplayed top-seed GM Tan Zhongyi with a kingside attack to win a third game in a row and take the sole lead in the 2024 Shymkent FIDE Women&#39;s Grand Prix going into the rest day. Round five saw just one draw, as IM Bibisa...",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41997855/gukesh-showing-mixed-form-30-days-go-world-chess-championship-ding-liren?device=featurephone",
          "pubDate" : "Fri, 25 Oct 2024 10:43:07",
          "title" : "Gukesh showing mixed form with 30 days to go for World Chess Championship"
-      },
-      {
-         "description" : "Jalgaon District Chess Association and Jain Sports Academy, on behalf of All India Chess Federation and Maharashtra State Chess Association organised Senior National Arbiter Seminar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-batch-2-senior-national-arbiters-seminar-and-examination-in-jalgaon-maharashtra-on-19-20-october-2024/",
-         "pubDate" : "Fri, 25 Oct 2024 07:36:54",
-         "title" : "Final Report (Batch 2)- Senior National Arbiters' Seminar and Examination in Jalgaon Maharashtra on 19 & 20 October 2024"
       },
       {
          "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000. Caruana's winning margin was a comfortable point and a half, after a final round where he won while his nearest rivals all drew or lost, leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang; and the established grandmasters Levon Aronian, Ray R",
