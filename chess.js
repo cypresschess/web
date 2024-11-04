@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy, Ethan Pang, became the youngest-ever to pass the 2300 rating mark in an official list and earn the FIDE Master (FM) title. At an event last month, Ethan beat no less than three grandmasters. They come younger every year!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2300-english-fm-is-nine-years-old",
+         "pubDate" : "Mon, 04 Nov 2024 12:00:00",
+         "title" : "2300 English FM is nine years old!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3290",
+         "pubDate" : "Mon, 04 Nov 2024 11:25:40",
+         "title" : "FIDE World Cadet & Youth Rapid and Blitz Championship 2025: Registration is open"
+      },
+      {
          "description" : "Depending on how you approach the question, what you prioritize and what matters to you, the answer might seem clear-cut, but is it? Even comparing just plain ol' books to digital texts can be a divisive topic, but chess e-books also carry their own differences to make the question and arguments fresh, with considerations that are unique to them. Enjoy this article and video.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-books-or-chess-e-books-which-are-better",
          "pubDate" : "Mon, 04 Nov 2024 08:34:12",
          "title" : "Chess books or chess e-books? Which are better?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3289",
+         "pubDate" : "Mon, 04 Nov 2024 08:23:50",
+         "title" : "World Youth Championship: Leaders emerge at the halfway mark"
       },
       {
          "description" : "European Chess Union Partners with GLOBALCELL to Enhance Connectivity for Chess Players Across Europe European Chess Union (ECU) is delighted to announce an exciting partnership with the leaderof eSIM solutions - GLOBALCELL for the benefit of all ECU members and the chess community. GLOBALCELL has become the Official Telecom Provider of the ECU and will provide eSIMdata packages specifically for the benefit of ECU players, federations and officials, all acrossEurope. The sponsorship covers the provision of 550 eSIMS each loaded []",
