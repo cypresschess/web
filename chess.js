@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Depending on how you approach the question, what you prioritize and what matters to you, the answer might seem clear-cut, but is it? Even comparing just plain ol' books to digital texts can be a divisive topic, but chess e-books also carry their own differences to make the question and arguments fresh, with considerations that are unique to them. Enjoy this article and video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-books-or-chess-e-books-which-are-better",
+         "pubDate" : "Mon, 04 Nov 2024 08:34:12",
+         "title" : "Chess books or chess e-books? Which are better?"
+      },
+      {
+         "description" : "European Chess Union Partners with GLOBALCELL to Enhance Connectivity for Chess Players Across Europe European Chess Union (ECU) is delighted to announce an exciting partnership with the leaderof eSIM solutions - GLOBALCELL for the benefit of all ECU members and the chess community. GLOBALCELL has become the Official Telecom Provider of the ECU and will provide eSIMdata packages specifically for the benefit of ECU players, federations and officials, all acrossEurope. The sponsorship covers the provision of 550 eSIMS each loaded []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-partners-with-globalcell/",
+         "pubDate" : "Mon, 04 Nov 2024 08:00:38",
+         "title" : "ECU PARTNERS WITH GLOBALCELL"
+      },
+      {
          "description" : "After a second-round loss, Mrittika Mallick bounced back impressively with four consecutive wins, keeping her medal hopes alive. In her latest game, she played the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -471,7 +487,7 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/five-rounds-played-at-european-senior-chess-championships-2024/",
          "pubDate" : "Wed, 30 Oct 2024 12:10:14",
-         "title" : "Five rounds played at European Senior Chess Championships 2024"
+         "title" : "Five rounds played at European Senior Chess Championships"
       },
       {
          "description" : "GM Pia Cramling continues to lead in the Battle of Generations against IM Levy Rozman (GothamChess) after a draw in the third classical game. She had some initiative in the opening with the black pieces, but Rozman&#39;s bishop pair proved to be more ...",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://www.europechess.org/the-5th-ecu-trainers-online-seminar/",
          "pubDate" : "Tue, 22 Oct 2024 13:33:04",
          "title" : "The 5th ECU Trainers Online Seminar"
-      },
-      {
-         "description" : "Two rounds have been played at the European Chess Club Cups 2024 in Vrnjacka Banja, Serbia. Most of the favourites in the Open section kept the winning streak, including the top seeded SuperChess, Alkaloid, Novy Bor Chess Club, Bayegan Pendik Chess Sports Club, Turkish Airlines, who scored convincing victories. Majority of 2700+ rated players were victorious yesterday including Gukesh D, Nodirbek Abdusattorov, Arjun Erigaisi, Wei Yi, Yu Yangyi, Vidit Santosh Gujrathi, Vincent Keymer etc. Praggnandhaa struggled again, and after the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cups-2024-round-2-recap/",
-         "pubDate" : "Tue, 22 Oct 2024 10:31:14",
-         "title" : "European Chess Club Cups 2024 - Round 2 recap"
       },
       {
          "description" : "Players from 19 federations across the Americas competed in the 2024 FIDE Pan-American School Chess Championship, held October 12 through 19 in Asunci&oacute;n, Paraguay. While only three players from the United States traveled to the capital city, they returned with two gold medals (one in the classical event, and one in the rapid event). WCM Irene Fei, from Iowa, won the Under-13 Girls section as the top-rated player despite only being 11 years old. The victory earned her the WFM title and will make her the youngest WFM in the Americas. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo courtesy of the organizers<br> <br> Full results from the tourna",
