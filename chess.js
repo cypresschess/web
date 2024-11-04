@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation Academy has successfully kicked off on October 19, 2024, with its Preseason Trainings. The first session on What We Can Learn from the Chess Olympiad 2024 Top Games, was a success. Participants explored thrilling dynamic games and learned valuable lessons from instructive mistakes made by even the greatest players. Remember, we grow by learning from our own mistakes and those of the best!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-chess-academy-has-started",
+         "pubDate" : "Mon, 04 Nov 2024 18:00:00",
+         "title" : "Kasparov Chess Academy has started!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In this 9LX position between Hikaru and Fabi, Maurice defines &quot;superfluous knights&quot; and how they should move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superfluous-knight-battle-chess9lx-chess-chessstrategy-fischerrandom-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/66G5_aJoXbA.jpg?itok=iIBLXiTo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superfluous-knight-battle-chess9lx-chess-chessstrategy-fischerrandom-education",
+         "pubDate" : "Mon, 04 Nov 2024 16:04:08",
+         "title" : "Superfluous Knight Battle #chess9LX #chess #chessstrategy #fischerrandom #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fischer Random positions players must be mindful of smother mate ideas </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-checkmates\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DPd5HU2P2QA.jpg?itok=Wqxldo-n\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-checkmates",
+         "pubDate" : "Mon, 04 Nov 2024 16:04:08",
+         "title" : "Smothered Mate Ideas #chess9lx #chess #chesstactics #checkmates"
+      },
+      {
          "description" : "Victor Bologan is an established ChessBase author. So far his speciality has been openings and he has published 25 Fritztrainers. Now he starts a new series with \"Bologan's Chess Academy\" and in the first two episodes he focuses on \"Practical Endgames\" and \"Dynamic Play\". Stefan Liebig had a look at the two courses and was pleasantly entertained.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3290",
          "pubDate" : "Mon, 04 Nov 2024 11:25:40",
          "title" : "FIDE World Cadet & Youth Rapid and Blitz Championship 2025: Registration is open"
+      },
+      {
+         "description" : "Saint Louis B and Arizona were victorious in week six of Division II of the 2024 Collegiate Chess League (CCL) Fall Season. Trailing by a point as they entered the final round, the SLU B team struck back with three critical victories. Perfect scor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-arizona-slu-b",
+         "pubDate" : "Mon, 04 Nov 2024 08:53:00",
+         "title" : "Saint Louis B Team Stages Last-Round Comeback, Arizona Outscores Northwestern"
       },
       {
          "description" : "Depending on how you approach the question, what you prioritize and what matters to you, the answer might seem clear-cut, but is it? Even comparing just plain ol' books to digital texts can be a divisive topic, but chess e-books also carry their own differences to make the question and arguments fresh, with considerations that are unique to them. Enjoy this article and video.",
@@ -136,22 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-fischerrandom",
          "pubDate" : "Sun, 03 Nov 2024 22:03:45",
          "title" : "Smothered Mate Ideas #chess9lx #chess #chesstactics #fischerrandom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows a simple quick mate for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mates-chess-beginners-fools-mate-chess9lx-chess-checkmates\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/richZP841s8.jpg?itok=wAZLAY7k\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mates-chess-beginners-fools-mate-chess9lx-chess-checkmates",
-         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
-         "title" : "GM Ashley's Quick Mates For Chess Beginners: Fool's Mate #chess9LX #chess #checkmates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice shows the smother mate for beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mates-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BghByVnmDGU.jpg?itok=QXdSmsLi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mates-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education",
-         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
-         "title" : "GM Ashley's Quick Mates For Chess Beginners: Smothers Mate #chess9lx #chess #checkmates #education"
       },
       {
          "description" : "",
@@ -746,14 +762,6 @@ news_feed (
          "title" : "Novy Bor and TAJFUN SK Ljubljana win European Club Cups 2024"
       },
       {
-         "description" : "Third seed Novy Bor Chess Club&#38;mdash;featuring GMs Vincent Keymer, David Navara, Thai Dai Van Nguyen, David Anton Guijarro, Nils Grandelius, Vidit Gujrathi, Mateusz Bartel, and Pentala Harikrishna&#38;mdash;won the European Chess Club Cup on Saturday ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-european-chess-club-cup",
-         "pubDate" : "Sun, 27 Oct 2024 08:20:00",
-         "title" : "Novy Bor Win 9th Medal At 2024 European Chess Club Cup"
-      },
-      {
          "description" : "Of the so called Hypermodern grandmasters, whose heyday approximately paralleled the Dada and Surrealist movements in art, Nimzowitsch, Reti, Breyer and Gr&uuml;nfeld all have specific openings or defences named in their honour. Reti has 1. Nf3 followed by the double bishop fianchetto. Breyer invented a popular variation in the Ruy Lopez or Spanish opening. Grunfeld []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3264",
          "pubDate" : "Tue, 15 Oct 2024 16:59:02",
          "title" : "FIDE School Awards: Application deadline approaching"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3263",
-         "pubDate" : "Mon, 14 Oct 2024 16:46:26",
-         "title" : "Iconic Wall Street venues to host the 2024 World Rapid & Blitz Championship"
       }
    ]
 }
