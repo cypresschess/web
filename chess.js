@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Victor Bologan is an established ChessBase author. So far his speciality has been openings and he has published 25 Fritztrainers. Now he starts a new series with \"Bologan's Chess Academy\" and in the first two episodes he focuses on \"Practical Endgames\" and \"Dynamic Play\". Stefan Liebig had a look at the two courses and was pleasantly entertained.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharper-more-dynamic-more-successulf-the-pleasures-of-victor-bologan-s-chess-academy",
+         "pubDate" : "Mon, 04 Nov 2024 15:00:00",
+         "title" : "Sharper, more dynamic, more successulf - the pleasures of Victor Bologan's \"Chess Academy\""
+      },
+      {
          "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy, Ethan Pang, became the youngest-ever to pass the 2300 rating mark in an official list and earn the FIDE Master (FM) title. At an event last month, Ethan beat no less than three grandmasters. They come younger every year!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "For Chess Club Players: Pawn Breaks #chess9LX #chess #chesstactics #education"
       },
       {
-         "description" : " National Master Glenn Umstead was one of the most dedicated chess enthusiasts on the East Coast. &#8220;Supercoach&#8221; passed away on October 24, 2024, at his home in Atlantic City, New Jersey, and was laid to rest on November 2nd. Glenn had suffered from the effects of a stroke in 2022 and was reportedly not feeling The post <a href=\"https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/\">Glenn Umstead, &#8220;The Chess Artist&#8221; passes away</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " National Master Glenn Umstead was one of the most dedicated chess enthusiasts on the East Coast. &#8220;Supercoach&#8221; passed away on October 24, 2024, at his home in Atlantic City, New Jersey, and was laid to rest on November 2nd. Glenn had suffered a stroke in 2022 and was reportedly not feeling well in the weeks The post <a href=\"https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/\">Glenn Umstead, &#8220;The Chess Artist&#8221; passes away</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/",
@@ -394,6 +402,14 @@ news_feed (
          "title" : "Chess: Garry Kasparov still has it at 61 as he holds his own against the US elite"
       },
       {
+         "description" : "By 2002, it had been a long decade since the publication of our 1993 4th edition rulebook (edited by Bill Goichberg and others). The delegates had delivered what seemed like tons of new or upgraded rules. The US Chess (then USCF) office had new procedures. The Executive Board implemented what seemed like masses of new policies. Those new rules, procedures and policies were dutifully cataloged each year in the annual rating list (and its printed supplements).After almost ten years, that collection of updates took up a lot ink in those publications. It was time for a new rulebook; one that would include all those upgrades. Tim Just (moi) and Dan Burg were tagged in for the job of editing US Ch",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-why-td-tips",
+         "pubDate" : "Fri, 01 Nov 2024 00:00:00",
+         "title" : "Just the Rules: Why TD TIPS?"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -639,7 +655,7 @@ news_feed (
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2024-2025-scholastics-regulations",
          "pubDate" : "Tue, 29 Oct 2024 00:00:00",
-         "title" : "2024-2025 Scholastics Regulations"
+         "title" : "2024-2025 Scholastic Regulations"
       },
       {
          "description" : "Just days after winning the U.S. Championship for the fourth time, GM Fabiano Caruana also started his 2024 Chess 9LX tournament very well. The St. Louis resident won his three games on the first day, including against GM Hikaru Nakamura, and lead...",
@@ -954,14 +970,6 @@ news_feed (
          "title" : "US Chess Women's Program Awards 17 Grants"
       },
       {
-         "description" : "This week continues a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles again focus on hanging, loose, and otherwise under-protected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-3-loose-pieces-still-drop",
-         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
-         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 3 (Loose Pieces Still Drop Off)"
-      },
-      {
          "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1048,38 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3263",
          "pubDate" : "Mon, 14 Oct 2024 16:46:26",
          "title" : "Iconic Wall Street venues to host the 2024 World Rapid & Blitz Championship"
-      },
-      {
-         "description" : "&#8216; awesome day for English chess ' GM Keith Arkell Some good news Sunday (13/10/24) with Midlands players Jonah Willow and Ameet Ghasi finishing 2nd and 3rd, and both...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/third-and-final-gm-norm-for-ameet-ghasi-and-first-for-jonah-willow/",
-         "pubDate" : "Mon, 14 Oct 2024 14:23:08",
-         "title" : "Third and final GM norm for Ameet Ghasi and first for Jonah Willow!"
-      },
-      {
-         "description" : " The WR Chess Masters Cup took place in the Langham Hotel in Portland Place, London. 16 players play in this knockout. A fast classical time control 60 min for the first 30 moves, 30 min for the next 20 moves and 30 min for the rest of the game is used with a 10 minute Armageddon game to decide tied matches (a bidding system means black will have less time but draw odds). Players: Arjun Erigaisi, Santosh Gujrathi Vidit, Nodirbek Abdusattorov, Javokhir Sindarov, Alireza Firouzja, Raunak Sadhwani, Viswanthan Anand, Victor Bologan, Praggnanandhaa R 13 Shreyas Royal Parham Maghsoodloo 14 Vaishali R, Maxime Vachier-Lagrave, Alexandra Kosteniuk, Veselin Topalov and Bodhana Sivanandan. Arjun Erigai",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-cup-2024",
-         "pubDate" : "Mon, 14 Oct 2024 13:35:00",
-         "title" : "WR Chess Masters Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3261",
-         "pubDate" : "Mon, 14 Oct 2024 13:12:31",
-         "title" : "Kakuma Refugee Team shines in 2024 Jumuiya Ya Afrika Mashariki Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3262",
-         "pubDate" : "Mon, 14 Oct 2024 12:40:17",
-         "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
       }
    ]
 }
