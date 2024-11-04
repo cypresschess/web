@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When facing a young, ambitious opponent, it's best not to let them gain momentum. At the recent Hoogeveen Open, Surya Shekhar Ganguly learned this the hard way against Emil Frederick Schuricht, a German teenager who, despite being rated 2145, outplayed the Indian GM spectacularly on the dark squares. Meanwhile, young chess prodigies keep raising the bar - most notably 9-year-old Ethan Pang (pictured), who reached an impressive 2303 rating this month. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-221",
+         "pubDate" : "Sun, 03 Nov 2024 22:15:00",
+         "title" : "Jon Speelman: Beware ferocious chess children"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows quick checkmates </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mates-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NiZpNVYJ0lM.jpg?itok=ppIfMoYg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mates-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners",
+         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
+         "title" : "GM Ashley's Quick Mates for Beginners: Bongloud #chess9LX #chess #checkmates #chessforbeginners"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice shows the possible smothered mate in Fischer Random position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ray-robson-no-quick-mate-here-chess9lx-chess-checkmates-fischerrandom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lZfdiwN4ijc.jpg?itok=CGx-ePSS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ray-robson-no-quick-mate-here-chess9lx-chess-checkmates-fischerrandom",
+         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
+         "title" : "Ray Robson: No Quick Mate Here #chess9LX #chess #checkmates #fischerrandom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In this 9LX position between Hikaru and Fabi, Maurice defines &quot;superfluous knights&quot; and how they should move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-do-superfluous-knights-move-chess9lx-chess-chessstrategy-fischerrandom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/66G5_aJoXbA.jpg?itok=iIBLXiTo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-do-superfluous-knights-move-chess9lx-chess-chessstrategy-fischerrandom",
+         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
+         "title" : "How Do Superfluous Knights Move #chess9LX #chess #chessstrategy #fischerrandom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fischer Random positions players must be mindful of smother mate ideas </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-fischerrandom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DPd5HU2P2QA.jpg?itok=Wqxldo-n\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-fischerrandom",
+         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
+         "title" : "Smothered Mate Ideas #chess9lx #chess #chesstactics #fischerrandom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows a simple quick mate for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mates-chess-beginners-fools-mate-chess9lx-chess-checkmates\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/richZP841s8.jpg?itok=wAZLAY7k\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mates-chess-beginners-fools-mate-chess9lx-chess-checkmates",
+         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
+         "title" : "GM Ashley's Quick Mates For Chess Beginners: Fool's Mate #chess9LX #chess #checkmates"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice shows the smother mate for beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mates-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BghByVnmDGU.jpg?itok=QXdSmsLi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mates-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education",
+         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
+         "title" : "GM Ashley's Quick Mates For Chess Beginners: Smothers Mate #chess9lx #chess #checkmates #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Ashley shows the preparedness of Garry Kasparov&#039;s position against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-pawns-kasparov-vs-dominguez-chess9lx-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CmaaZHTkG98.jpg?itok=PKJ5djhX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/breaking-pawns-kasparov-vs-dominguez-chess9lx-chess-chesstactics-education",
+         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
+         "title" : "Breaking Pawns: Kasparov vs Dominguez #chess9LX #chess #chesstactics #education"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -58,6 +122,14 @@ news_feed (
          "title" : "Yasser's Nasty Discovery Attack #chess9lx #chess #chesstactics #checkmatevideos"
       },
       {
+         "description" : "GM Aleksandra Goryachkina outplayed top-seed GM Tan Zhongyi with a kingside attack to win a third game in a row and take the sole lead in the 2024 Shymkent FIDE Women&#39;s Grand Prix going into the rest day. Round five saw just one draw, as IM Bibisa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-5",
+         "pubDate" : "Sun, 03 Nov 2024 15:00:00",
+         "title" : "Goryachkina's Hat Trick Gives Her Sole Lead; Divya Scores 1st Win"
+      },
+      {
          "description" : "Please find the live games Link for Nationals Sub Junior 2024 Live Games Link : https://live.tamilchess.com/subjunior/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -74,60 +146,12 @@ news_feed (
          "title" : "Women's Grand Prix Shymkent - live"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Garry under time pressure has to find the best move in his position against Hikaru </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-knows-chess9lx-chess-garrykasparov-timepressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KflKI9s0DHE.jpg?itok=NDAxR8qX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-knows-chess9lx-chess-garrykasparov-timepressure",
-         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
-         "title" : "Kasparov KNOWS!! #chess9lx #chess #garrykasparov #timepressure"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> No way of turning this position in his favor, Kasparov resigns </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-defeats-kasparov-chess9lx-chess-chesspuzzle\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FTFjG7Ga0as.jpg?itok=ySJAtphB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-defeats-kasparov-chess9lx-chess-chesspuzzle",
-         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
-         "title" : "Wesley Defeats Kasparov #chess9lx #chess #chesspuzzle"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kasparov shows why he is The G.O.A.T. in his game against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-unleashes-dominguez-chess9lx-chess-chesstactics-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qmhuY2dR2s0.jpg?itok=oZQixJpu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-unleashes-dominguez-chess9lx-chess-chesstactics-garrykasparov",
-         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
-         "title" : "Kasparov Unleashes On Dominguez #chess9lx #chess #chesstactics #garrykasparov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon finds the right move with a pin, but Garry&#039;s is just BRILLIANT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sleek-and-dangerous-kasparov-such-beast-chess9lx-chess-chesstactics-garrykasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6kG6k5H4mpM.jpg?itok=MQn8fJfY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sleek-and-dangerous-kasparov-such-beast-chess9lx-chess-chesstactics-garrykasparov",
-         "pubDate" : "Sat, 02 Nov 2024 22:03:08",
-         "title" : "Sleek and Dangerous: Kasparov Is SUCH A Beast #chess9lx #chess #chesstactics #garrykasparov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3286",
          "pubDate" : "Sat, 02 Nov 2024 19:24:27",
          "title" : "FIDE WGP Shymkent: Koneru and Goryachkina сlose in after Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon&#039;s stylish play leaves Shankland paralyzed in this position against Aronian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-touch-rook-chess9lx-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Scvk4Kh-FiI.jpg?itok=060iWupj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-touch-rook-chess9lx-chess-chesstactics",
-         "pubDate" : "Sat, 02 Nov 2024 19:03:06",
-         "title" : "Don't Touch That Rook! #chess9lx #chess #chesstactics"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice gives a wild analysis of the position between Sam Shankland and Fabiano Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurices-shankland-attack-chess9lx-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JqQqqnD-Y-s.jpg?itok=TB1tYUn4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/maurices-shankland-attack-chess9lx-chess-chesstactics",
-         "pubDate" : "Sat, 02 Nov 2024 19:03:06",
-         "title" : "Maurice's Shankland Attack #chess9lx #chess #chesstactics"
       },
       {
          "description" : "ChessBase India's week-long, free-for-all Big Diwali Chess Camp concluded on a high note. On October 26, the penultimate day, an intense chess-solving contest took centre stage. The challenge was to solve six complex chess compositions in just two hours. Carefully curated by Satanick Mukhuty, the Chess Composition Editor of ChessBase India, the tasks included four problems and two studies designed to push the participants' strategic and tactical prowess to the limit. Ultimately, among the 35 contestants, the 22-year-old Pushkar Dere secured a decisive victory with a remarkable score of 29/30. Satanick shares his insights into the contest and walks you through the solutions to all six challen",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/isf-bahrain-gymnasiade-2024/",
          "pubDate" : "Sat, 02 Nov 2024 10:49:46",
          "title" : "ISF Bahrain Gymnasiade 2024 - report and pictures"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice speaks on the effects of time pressure in Oparin&#039;s game against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-pressure-makes-fool-us-all-chess9lx-chess-timepressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PwuYNCkqklU.jpg?itok=m_ovcaVV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/time-pressure-makes-fool-us-all-chess9lx-chess-timepressure",
-         "pubDate" : "Sat, 02 Nov 2024 07:02:42",
-         "title" : "Time Pressure Makes A Fool Of Us All #chess9lx #chess #timepressure"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114868078.cms\" />Anish Sarkar from Kolkata became the youngest rated chess player in history at three years, eight months, and 19 days old. He achieved his rating after several tournaments, including All Bengal Rapid Rating Open, Bengal State Under-9 Open Rating meet, and Bengal State Under-13 Open. He also played against India No. 1 Arjun Erigaisi in an exhibition match.",
@@ -350,7 +366,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vishy-vs-the-world-chess-game-recap",
-         "pubDate" : "Thu, 31 Oct 2024 11:00:48",
+         "pubDate" : "Thu, 31 Oct 2024 11:00:00",
          "title" : "Anand Dominates World In Historic Game"
       },
       {
@@ -690,14 +706,6 @@ news_feed (
          "title" : "European Chess Club Cup: Novy Bor TAJFUN SK Ljubljana win titles"
       },
       {
-         "description" : "GM Hikaru Nakamura came out on top in October&#39;s final Bullet Brawl after a tight race with GMs Daniel Naroditsky and Oleksandr Bortnyk on Saturday. Nakamura faced stiff resistance en route to his score of 251 and was fortunate to notch a 17-game s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-october-26-2024",
-         "pubDate" : "Sat, 26 Oct 2024 17:43:00",
-         "title" : "Nakamura Outscores Naroditsky, Bortnyk To Win 31st Bullet Brawl Crown"
-      },
-      {
          "description" : "Many of my readers and students are overwhelmed. If you've spent any time following chess content online, you might think you need to memorize dozens of opening lines, master complex endgames, read every strategy book out there, and calculate ten moves ahead, all while reviewing and remembering the most important classical games in chess history. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1032,22 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3262",
          "pubDate" : "Mon, 14 Oct 2024 12:40:17",
          "title" : "India Women's Championship: P. V. Nandhidhaa wins maiden title"
-      },
-      {
-         "description" : " The African Diaspora was again in full force to compete at the Chess Olympiad for honors. Twenty years ago, little attention was paid to smaller nations, and almost no photographs were taken of players and delegates. Photographers and mainstream chess websites focused primarily on the top boards as if there were only 20 teams in The post <a href=\"https://thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/\">African Diaspora @ Budapest Olympiad!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/10/13/african-diaspora-budapest-olympiad/",
-         "pubDate" : "Sun, 13 Oct 2024 23:53:53",
-         "title" : "African Diaspora @ Budapest Olympiad!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3260",
-         "pubDate" : "Sun, 13 Oct 2024 21:12:50",
-         "title" : "Nigel Short takes part in Turkmenistan's chess festivities"
       }
    ]
 }
