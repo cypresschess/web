@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Club players love to attack against the king. Perhaps it has something to do with the ancient hunting instincts. After all, most young footballers want to play strikers. Almost no one wants to defend. Grandmasters love to attack as well. However, they understand that there are many more creatures to be hunted, not only the king. Basically, every piece can become a prey! A professional chess player is hunting on the entire board. And he or she is satisfied with a knight or a rook if the monarch can't be trapped. With a material advantage, the mate will come. Let us have a look at several examples in which a strong player traps and hunts down a piece of the opponent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-39-there-is-an-animal-in-the-trap",
+         "pubDate" : "Tue, 05 Nov 2024 20:00:00",
+         "title" : "The Winning Academy 39: There is an Animal in the Trap!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3292",
+         "pubDate" : "Tue, 05 Nov 2024 19:21:56",
+         "title" : "WGP Shymkent Round 6: Goryachkina extends her winning streak"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Fabiano Caruana Delivers Commanding Performance<br /><br /> \tto Win 2024 Champions Showdown: Chess 9LX in Saint Louis<br /><br /> \t<br /><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Chess%209LX%20Winner%20GM%20Fabiano%20Caruana%20Day%203%20LOU03986.jpg?itok=AH9bQSNA\" alt=\"2024 Chess 9LX Winner GM Fabiano Caruana Day 3\" /></div><div class=\"field field-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-learnt-to-detach-myself-from-results-arjun-erigaisi/articleshow/114967427.cms",
          "pubDate" : "Tue, 05 Nov 2024 05:21:08",
          "title" : "I have learnt to detach myself from results: Arjun Erigaisi"
+      },
+      {
+         "description" : "This week's Tactics Tuesday highlights some resourceful tactical moments from IM Carissa Yip's 2024 U.S. Women's Championship triumph last month in St. Louis. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-yips-2024-us-womens-championship-highlights",
+         "pubDate" : "Tue, 05 Nov 2024 00:00:00",
+         "title" : "Tactics Tuesday: Yip's 2024 U.S. Women's Championship Highlights"
       },
       {
          "description" : " The Shymkent FIDE Women's Grand Prix takes place Tue 29th Oct to Sat 9th Nov 2024. Players: Aleksandra Goryachkina, Bibisara Assaubayeva, Humpy Koneru, Stavroula Tsolakidou, Zhongyi T`an, Deshmukh Divya, Batkhuyag Munguntuul, Kateryna Lagno, Nurgyul Salimova and Elisabeth Paehtz.",
@@ -962,14 +986,6 @@ news_feed (
          "title" : "Irene Fei Wins Gold at FIDE Pan-American School Chess Championship "
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce 17 grant awards (up from seven last year) under the US Chess Women's program. With support from the Saint Louis Chess Club, US Chess annually offers grants to nonprofit affiliate members who are promoting programs that support women and girls in their respective communities. The 2024 grant recipients are:All-Girls High School Chess Club (Weston, MA)Chess Cardinals (Chesterfield, MO)Chess Girls DC (Washington, DC)Chess Through Challenges Inc. (Bronx, NY)Columbus Chess Academy (Columbus, OH)FEMchess (Fremont, CA)Florida Chess Association (Palm Beach, FL)Hampton Roads Chess Association (Vi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-womens-program-awards-17-grants",
-         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
-         "title" : "US Chess Women's Program Awards 17 Grants"
-      },
-      {
          "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3265",
          "pubDate" : "Wed, 16 Oct 2024 11:25:57",
          "title" : "2024 FIDE World Rapid & Blitz Championships: Registration Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3264",
-         "pubDate" : "Tue, 15 Oct 2024 16:59:02",
-         "title" : "FIDE School Awards: Application deadline approaching"
       }
    ]
 }
