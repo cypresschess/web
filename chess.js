@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Shymkent FIDE Women's Grand Prix takes place Tue 29th Oct to Sat 9th Nov 2024. Players: Aleksandra Goryachkina, Bibisara Assaubayeva, Humpy Koneru, Stavroula Tsolakidou, Zhongyi T`an, Deshmukh Divya, Batkhuyag Munguntuul, Kateryna Lagno, Nurgyul Salimova and Elisabeth Paehtz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/shymkent-fide-womens-grand-prix-2024",
+         "pubDate" : "Mon, 4 Nov 2024 21:53:00",
+         "title" : "Shymkent FIDE Women's Grand Prix 2024 - Games and Results"
+      },
+      {
          "description" : "The Kasparov Chess Foundation Academy has successfully kicked off on October 19, 2024, with its Preseason Trainings. The first session on What We Can Learn from the Chess Olympiad 2024 Top Games, was a success. Participants explored thrilling dynamic games and learned valuable lessons from instructive mistakes made by even the greatest players. Remember, we grow by learning from our own mistakes and those of the best!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "Smothered Mate Ideas #chess9lx #chess #chesstactics #checkmates"
       },
       {
+         "description" : "In the process of winning his fourth U.S. Championship title, GM Fabiano Caruana has re-entered the 2800 club and overtaken GM Hikaru Nakamura as the world number-two. Caruana looks to have again found his flow, winning the national title with a 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/november-2024-fide-rating-list",
+         "pubDate" : "Mon, 04 Nov 2024 15:17:09",
+         "title" : "November 2024 FIDE Ratings: Caruana Returns To 2800 Club, Arjun 1 Point Short"
+      },
+      {
          "description" : "Victor Bologan is an established ChessBase author. So far his speciality has been openings and he has published 25 Fritztrainers. Now he starts a new series with \"Bologan's Chess Academy\" and in the first two episodes he focuses on \"Practical Endgames\" and \"Dynamic Play\". Stefan Liebig had a look at the two courses and was pleasantly entertained.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sharper-more-dynamic-more-successulf-the-pleasures-of-victor-bologan-s-chess-academy",
          "pubDate" : "Mon, 04 Nov 2024 15:00:00",
          "title" : "Sharper, more dynamic, more successulf - the pleasures of Victor Bologan's \"Chess Academy\""
+      },
+      {
+         "description" : "People are not much better than a coin flip at guessing if their opponent is cheating in a chess game. That&#39;s what grandmaster and economics researcher David Smerdon concluded after running two experiments to test people&#39;s ability to spot cheaters...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/smerdon-research-catching-chess-cheaters",
+         "pubDate" : "Mon, 04 Nov 2024 13:52:00",
+         "title" : "People Overestimate Their Ability To Catch Cheaters, Chess Grandmaster And Researcher Reveals"
       },
       {
          "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy, Ethan Pang, became the youngest-ever to pass the 2300 rating mark in an official list and earn the FIDE Master (FM) title. At an event last month, Ethan beat no less than three grandmasters. They come younger every year!",
@@ -50,12 +74,12 @@ news_feed (
          "title" : "FIDE World Cadet & Youth Rapid and Blitz Championship 2025: Registration is open"
       },
       {
-         "description" : "Saint Louis B and Arizona were victorious in week six of Division II of the 2024 Collegiate Chess League (CCL) Fall Season. Trailing by a point as they entered the final round, the SLU B team struck back with three critical victories. Perfect scor...",
+         "description" : "Saint Louis B and Arizona State were victorious in week six of Division II of the 2024 Collegiate Chess League (CCL) Fall Season. Trailing by a point as they entered the final round, the SLU B team struck back with three critical victories. Perfec...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-arizona-slu-b",
          "pubDate" : "Mon, 04 Nov 2024 08:53:00",
-         "title" : "Saint Louis B Team Stages Last-Round Comeback, Arizona Outscores Northwestern"
+         "title" : "Saint Louis B Team Stages Last-Round Comeback, Arizona State Outscores Northwestern"
       },
       {
          "description" : "Depending on how you approach the question, what you prioritize and what matters to you, the answer might seem clear-cut, but is it? Even comparing just plain ol' books to digital texts can be a divisive topic, but chess e-books also carry their own differences to make the question and arguments fresh, with considerations that are unique to them. Enjoy this article and video.",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-nationals-sub-junior-2024/",
          "pubDate" : "Sun, 03 Nov 2024 13:28:18",
          "title" : "Live Games Link for Nationals Sub Junior 2024"
-      },
-      {
-         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. The top seed in Shymkent is Chinese Grandmaster Tan Zhongyi, second seed is Aleksandra Goryachkina. Rounds start daily at 15.00 local time (11.00 CET, 6.00 EDT). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
-         "pubDate" : "Sun, 03 Nov 2024 10:45:00",
-         "title" : "Women's Grand Prix Shymkent - live"
       },
       {
          "description" : "",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
       },
       {
-         "description" : "Chess.com is excited to announce its first ever baseball bot: introducing one of the sport&#39;s most valuable players, Joey Votto! Votto, a six-time All-Star and the National League Most Valuable Player in 2010, spent all 17 Major League seasons of h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-mlb-all-star-joey-votto",
-         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
-         "title" : "Play Chess Against MLB All-Star Joey Votto"
-      },
-      {
          "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://aicf.in/final-reportsenior-national-arbiter-seminar-in-patna-on-19-20-october-2024/",
          "pubDate" : "Mon, 28 Oct 2024 05:35:31",
          "title" : "Final Report:Senior National Arbiter Seminar in Patna on 19 & 20 October 2024"
-      },
-      {
-         "description" : "The recently released TV series Rematch, a dramatized version of the legendary matches between GM Garry Kasparov and IBM&#39;s Deep Blue, was an excellent reason for an interview with the 13th world champion. Although he hadn&#39;t see the series just yet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kasparov-interview-deep-blue-ibm-chess960",
-         "pubDate" : "Mon, 28 Oct 2024 00:12:00",
-         "title" : "Kasparov On Facing Deep Blue: 'I Was Part Of Something Really Unique'"
       },
       {
          "description" : "",
