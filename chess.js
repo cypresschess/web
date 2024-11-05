@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Fabiano Caruana Delivers Commanding Performance<br /><br /> \tto Win 2024 Champions Showdown: Chess 9LX in Saint Louis<br /><br /> \t<br /><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Chess%209LX%20Winner%20GM%20Fabiano%20Caruana%20Day%203%20LOU03986.jpg?itok=AH9bQSNA\" alt=\"2024 Chess 9LX Winner GM Fabiano Caruana Day 3\" /></div><div class=\"field field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/grandmaster-fabiano-caruana-delivers-commanding-performance-win-2024-champions-showdown-chess",
+         "pubDate" : "Tue, 05 Nov 2024 15:53:15",
+         "title" : "Grandmaster Fabiano Caruana Delivers Commanding Performance to Win 2024 Champions Showdown: Chess 9LX in Saint Louis"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3291",
+         "pubDate" : "Tue, 05 Nov 2024 14:47:06",
+         "title" : "FIDE World Championship special: Unique events for visitors of Singapore Match"
+      },
+      {
+         "description" : "FIDE, together with the World Solving Championships for Youth and Cadets, hosted a series of free online lessons to get participants ready for the inaugural FIDE World Solving Championships. They were run by Anirudh Daga and WFCC President Marjan Kovačevi&#263. Today we bring you the solutions to the two-movers we gave you to solve last week. Were you able to solve them?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist-2",
+         "pubDate" : "Tue, 05 Nov 2024 14:00:00",
+         "title" : "Mate in Two Solutions"
+      },
+      {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
          "pubDate" : "Tue, 05 Nov 2024 10:20:00",
          "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "We&#39;re excited to announce the next installment of Kids vs. Stars, this time with a twist! On November 15, get ready to see none other than GM Anish Giri taking on four of the brightest young stars in chess&#38;mdash;all at the same time! Starting at...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-giri-vs-four-kids",
+         "pubDate" : "Tue, 05 Nov 2024 08:00:00",
+         "title" : "Anish Giri To Take On Four Young Prodigies Simultaneously In Next Kids vs. Stars"
+      },
+      {
+         "description" : "World Champion GM Ding Liren revealed that he considers himself the clear underdog in his title match against his challenger, GM Gukesh Dommaraju, admitting that he is worried that he will lose &#34;very badly.&#34; With less than three weeks to the 202...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-opens-up-clearly-i-will-be-the-underdog",
+         "pubDate" : "Tue, 05 Nov 2024 05:31:00",
+         "title" : "Ding Admits Fears Ahead Of Gukesh Match: 'I Am Worried About Losing Very Badly'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
@@ -192,14 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-do-superfluous-knights-move-chess9lx-chess-chessstrategy-fischerrandom",
          "pubDate" : "Sun, 03 Nov 2024 22:03:45",
          "title" : "How Do Superfluous Knights Move #chess9LX #chess #chessstrategy #fischerrandom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fischer Random positions players must be mindful of smother mate ideas </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-fischerrandom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DPd5HU2P2QA.jpg?itok=Wqxldo-n\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-fischerrandom",
-         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
-         "title" : "Smothered Mate Ideas #chess9lx #chess #chesstactics #fischerrandom"
       },
       {
          "description" : "",
@@ -682,28 +714,12 @@ news_feed (
          "title" : "Caruana Leads 9LX With Perfect 3/3 As Kasparov Returns To Chess Arena"
       },
       {
-         "description" : "SRM added another victory to their winning streak in week five of the 2024 Collegiate Chess League (CCL) Fall Season, reaching a perfect 5-0. Saint Louis defeated Yale and is tied for second with UT Rio Grande Valley. GM Pranesh M and IM L R Sri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-slu-1",
-         "pubDate" : "Mon, 28 Oct 2024 15:35:00",
-         "title" : "Saint Louis Overcomes Yale in Shocking Finish, SRM Still Perfect"
-      },
-      {
          "description" : "Eight of the world's top chess grandmasters will compete in the 2024 XTX Markets London Chess Classic (LCC) from November 29 to December 7. The line-up includes: Women's World Champion...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chess-at-the-emirates-britains-premier-tournament-to-be-staged-at-arsenals-iconic-stadium/",
          "pubDate" : "Mon, 28 Oct 2024 15:07:58",
          "title" : "Chess at the Emirates! Britain's premier tournament to be staged at Arsenal's iconic stadium"
-      },
-      {
-         "description" : "GM Pia Cramling has started the Battle of Generations, her one-on-one match against IM Levy Rozman (GothamChess), with a win in the first classical game. Rozman gained the advantage with the white pieces, but spent about half his remaining time on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-1",
-         "pubDate" : "Mon, 28 Oct 2024 12:41:00",
-         "title" : "Pia Cramling Wins With Black In Game 1 Vs. GothamChess"
       },
       {
          "description" : "",
