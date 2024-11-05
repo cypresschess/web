@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-learnt-to-detach-myself-from-results-arjun-erigaisi/articleshow/114967427.cms",
+         "pubDate" : "Tue, 05 Nov 2024 05:21:08",
+         "title" : "I have learnt to detach myself from results: Arjun Erigaisi"
+      },
+      {
+         "description" : "Aleksandra Goryachkina has taken the lead at the Shymkent Women's Grand Prix with a stellar performance, securing her third consecutive win by defeating former co-leader Tan Zhongyi in round 5. Goryachkina now holds 4/5 points, a half-point ahead of Kazakhstan's own Bibisara Assaubayeva, who sits in second place after a strong win against Humpy Koneru. Tied for third are Tan, Humpy and Stavroula Tsolakidou, all remaining within striking distance. | Photo: Konstantin Chalabov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-shymkent-2024-5",
+         "pubDate" : "Mon, 04 Nov 2024 22:20:00",
+         "title" : "Shymkent GP: Goryachkina wins three in a row, grabs the lead"
+      },
+      {
          "description" : " The Shymkent FIDE Women's Grand Prix takes place Tue 29th Oct to Sat 9th Nov 2024. Players: Aleksandra Goryachkina, Bibisara Assaubayeva, Humpy Koneru, Stavroula Tsolakidou, Zhongyi T`an, Deshmukh Divya, Batkhuyag Munguntuul, Kateryna Lagno, Nurgyul Salimova and Elisabeth Paehtz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "Saint Louis B Team Stages Last-Round Comeback, Arizona State Outscores Northwestern"
       },
       {
-         "description" : "Depending on how you approach the question, what you prioritize and what matters to you, the answer might seem clear-cut, but is it? Even comparing just plain ol' books to digital texts can be a divisive topic, but chess e-books also carry their own differences to make the question and arguments fresh, with considerations that are unique to them. Enjoy this article and video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-books-or-chess-e-books-which-are-better",
-         "pubDate" : "Mon, 04 Nov 2024 08:34:12",
-         "title" : "Chess books or chess e-books? Which are better?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -162,14 +170,6 @@ news_feed (
          "title" : "Glenn Umstead, \"The Chess Artist\" passes away"
       },
       {
-         "description" : "When facing a young, ambitious opponent, it's best not to let them gain momentum. At the recent Hoogeveen Open, Surya Shekhar Ganguly learned this the hard way against Emil Frederick Schuricht, a German teenager who, despite being rated 2145, outplayed the Indian GM spectacularly on the dark squares. Meanwhile, young chess prodigies keep raising the bar - most notably 9-year-old Ethan Pang (pictured), who reached an impressive 2303 rating this month. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-221",
-         "pubDate" : "Sun, 03 Nov 2024 22:15:00",
-         "title" : "Jon Speelman: Beware ferocious chess children"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows quick checkmates </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mates-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NiZpNVYJ0lM.jpg?itok=ppIfMoYg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -210,14 +210,6 @@ news_feed (
          "title" : "FIDE Book Awards 2024 - Call for nominations"
       },
       {
-         "description" : "Levy Rozman, also known as GothamChess, emerged victorious in a thrilling six-day chess showdown against Swedish grandmaster Pia Cramling in Stockholm. Dubbed the \"Battle of Generations\", the match saw Rozman's speed dominate in rapid and blitz games. After splitting the classical games earlier in the week, Rozman's tactical awareness secured him the match and a $6,000 prize, while Cramling, who put up a spirited fight, took home $4,000. | Image: chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levy-rozman-vs-pia-cramling-final",
-         "pubDate" : "Sun, 03 Nov 2024 19:20:00",
-         "title" : "Levy Rozman beats Pia Cramling in Battle of Generations"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -256,14 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3286",
          "pubDate" : "Sat, 02 Nov 2024 19:24:27",
          "title" : "FIDE WGP Shymkent: Koneru and Goryachkina сlose in after Round 4"
-      },
-      {
-         "description" : "ChessBase India's week-long, free-for-all Big Diwali Chess Camp concluded on a high note. On October 26, the penultimate day, an intense chess-solving contest took centre stage. The challenge was to solve six complex chess compositions in just two hours. Carefully curated by Satanick Mukhuty, the Chess Composition Editor of ChessBase India, the tasks included four problems and two studies designed to push the participants' strategic and tactical prowess to the limit. Ultimately, among the 35 contestants, the 22-year-old Pushkar Dere secured a decisive victory with a remarkable score of 29/30. Satanick shares his insights into the contest and walks you through the solutions to all six challen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-solving-spectacle-diwali",
-         "pubDate" : "Sat, 02 Nov 2024 18:35:00",
-         "title" : "Intellectual fireworks: A glimpse into Mumbai's Diwali chess-solving spectacle!"
       },
       {
          "description" : "GM Hikaru Nakamura has captured another Bullet Brawl after scoring 71.5/77&#38;mdash;which includes a 23-game winning streak&#38;mdash;and finishing ahead of the second and third-placed GMs Oleksandr Bortnyk and Tuan Minh Le. With a winning margin of 55 p...",
@@ -352,14 +336,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/three-year-old-kolkata-boy-becomes-youngest-fide-rated-chess-player/articleshow/114868078.cms",
          "pubDate" : "Sat, 02 Nov 2024 02:33:21",
          "title" : "Three-year-old Kolkata boy becomes youngest Fide-rated chess player"
-      },
-      {
-         "description" : "Top seed Tan Zhongyi has taken the lead at the Shymkent Women's Grand Prix after a second win in round 3, defeating Kateryna Lagno with the white pieces. Tan now holds 2&frac12;/3 points, followed by a quartet of players in close pursuit, including India's Humpy Koneru and Russia's Aleksandra Goryachkina, both with strong round-3 victories. Curiously, no player stands at fifty percent after three rounds. | Photo: Konstantin Chalabov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-shymkent-2024-3",
-         "pubDate" : "Sat, 02 Nov 2024 01:15:00",
-         "title" : "Shymkent GP: Tan sole leader after three rounds"
       },
       {
          "description" : "",
