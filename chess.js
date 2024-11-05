@@ -10,6 +10,14 @@ news_feed (
          "title" : "Shymkent FIDE Women's Grand Prix 2024 - Games and Results"
       },
       {
+         "description" : "Forget Peppa Pig and Baby Shark. Three-year-old Anish Sarkar has different idols: chess stars IM Levy Rozman and GM Magnus Carlsen. The prodigy has become the world&#39;s youngest-rated player by earning his first FIDE rating, which is 1555.&#38;nbsp; A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anish-sarkar-age-3-earns-fide-rating",
+         "pubDate" : "Mon, 04 Nov 2024 19:37:00",
+         "title" : "3-Year-Old Anish Prefers GothamChess To Peppa Pig, Earns 1555 FIDE Rating"
+      },
+      {
          "description" : "The Kasparov Chess Foundation Academy has successfully kicked off on October 19, 2024, with its Preseason Trainings. The first session on What We Can Learn from the Chess Olympiad 2024 Top Games, was a success. Participants explored thrilling dynamic games and learned valuable lessons from instructive mistakes made by even the greatest players. Remember, we grow by learning from our own mistakes and those of the best!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/november-2024-fide-rating-list",
-         "pubDate" : "Mon, 04 Nov 2024 15:17:09",
+         "pubDate" : "Mon, 04 Nov 2024 15:17:00",
          "title" : "November 2024 FIDE Ratings: Caruana Returns To 2800 Club, Arjun 1 Point Short"
       },
       {
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3275",
          "pubDate" : "Mon, 28 Oct 2024 09:01:45",
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
-      },
-      {
-         "description" : "It&#39;s about to get wild in here! Hawks and elephants are invading the chessboard for the next installment of the Chess.com Community Championship. The Chess.com Seirawan Chess Championship happens on November 7 and 8 and features a $2,000 prize fun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship",
-         "pubDate" : "Mon, 28 Oct 2024 08:00:00",
-         "title" : "Seirawan Chess Championship Is The Next Event Of The Chess.com Community Championships"
       },
       {
          "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
