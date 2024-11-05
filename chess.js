@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
+         "pubDate" : "Tue, 05 Nov 2024 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-learnt-to-detach-myself-from-results-arjun-erigaisi/articleshow/114967427.cms",
          "pubDate" : "Tue, 05 Nov 2024 05:21:08",
          "title" : "I have learnt to detach myself from results: Arjun Erigaisi"
-      },
-      {
-         "description" : "Aleksandra Goryachkina has taken the lead at the Shymkent Women's Grand Prix with a stellar performance, securing her third consecutive win by defeating former co-leader Tan Zhongyi in round 5. Goryachkina now holds 4/5 points, a half-point ahead of Kazakhstan's own Bibisara Assaubayeva, who sits in second place after a strong win against Humpy Koneru. Tied for third are Tan, Humpy and Stavroula Tsolakidou, all remaining within striking distance. | Photo: Konstantin Chalabov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-shymkent-2024-5",
-         "pubDate" : "Mon, 04 Nov 2024 22:20:00",
-         "title" : "Shymkent GP: Goryachkina wins three in a row, grabs the lead"
       },
       {
          "description" : " The Shymkent FIDE Women's Grand Prix takes place Tue 29th Oct to Sat 9th Nov 2024. Players: Aleksandra Goryachkina, Bibisara Assaubayeva, Humpy Koneru, Stavroula Tsolakidou, Zhongyi T`an, Deshmukh Divya, Batkhuyag Munguntuul, Kateryna Lagno, Nurgyul Salimova and Elisabeth Paehtz.",
