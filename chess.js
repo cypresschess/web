@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Before the final round, the team looks back at some of the sights so far from the 2024 Chess 9LX and Ultimate Moves events. 2024.10.30<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/look-back-working-together-innovation-mr-monopoly-d3-chess9lx",
+         "pubDate" : "Wed, 06 Nov 2024 01:04:24",
+         "title" : "A Look Back: Working Together, Innovation, & Mr. Monopoly | D3 #Chess9LX"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ray-robson-no-quick-mate-here-chess9lx-chess-checkmates-fischerrandom",
          "pubDate" : "Sun, 03 Nov 2024 22:03:45",
          "title" : "Ray Robson: No Quick Mate Here #chess9LX #chess #checkmates #fischerrandom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In this 9LX position between Hikaru and Fabi, Maurice defines &quot;superfluous knights&quot; and how they should move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-do-superfluous-knights-move-chess9lx-chess-chessstrategy-fischerrandom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/66G5_aJoXbA.jpg?itok=iIBLXiTo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-do-superfluous-knights-move-chess9lx-chess-chessstrategy-fischerrandom",
-         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
-         "title" : "How Do Superfluous Knights Move #chess9LX #chess #chessstrategy #fischerrandom"
       },
       {
          "description" : "",
