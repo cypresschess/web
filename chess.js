@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3293",
+         "pubDate" : "Tue, 05 Nov 2024 23:46:11",
+         "title" : "FIDE World Youth Rapid & Blitz Championship 2024: Registration deadline extended"
+      },
+      {
          "description" : "Club players love to attack against the king. Perhaps it has something to do with the ancient hunting instincts. After all, most young footballers want to play strikers. Almost no one wants to defend. Grandmasters love to attack as well. However, they understand that there are many more creatures to be hunted, not only the king. Basically, every piece can become a prey! A professional chess player is hunting on the entire board. And he or she is satisfied with a knight or a rook if the monarch can't be trapped. With a material advantage, the mate will come. Let us have a look at several examples in which a strong player traps and hunts down a piece of the opponent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist-2",
          "pubDate" : "Tue, 05 Nov 2024 14:00:00",
          "title" : "Mate in Two Solutions"
+      },
+      {
+         "description" : "The Chennai Grand Masters 2024 got off to an exciting start with six decisive games combined from both sections in the first round, with many see-saw encounters and generally enterprising play, instead of typical cautious starts in the beginning. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-1",
+         "pubDate" : "Tue, 05 Nov 2024 13:45:31",
+         "title" : "Arjun, Vachier-Lagrave Start With Contrasting Wins"
+      },
+      {
+         "description" : "GM Aleksandra Goryachkina took a one-point lead with three rounds of the 2024 Shymkent FIDE Women&#39;s Grand Prix to go after grinding out a win against the struggling GM Elisabeth Paehtz. GM Kateryna Lagno scored a first win, against second-placed I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-6",
+         "pubDate" : "Tue, 05 Nov 2024 13:09:00",
+         "title" : "Goryachkina Makes It 4-In-A-Row; Lagno, Tan, Stavroula Also Win"
       },
       {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "World Youth Chess Championship 2024 commences in Florian&oacute;polis, Brazil"
       },
       {
-         "description" : "GM Pia Cramling and IM Levy Rozman (GothamChess) drew by repetition in the second classical game of the Battle of Generations, in a game that lasted 14 moves. It turns out both players expected the other to deviate, to avoid the draw, but were stu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-2",
-         "pubDate" : "Tue, 29 Oct 2024 11:40:00",
-         "title" : "14-Move Draw Leaves Cramling In Lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2024-2025-scholastics-regulations",
          "pubDate" : "Tue, 29 Oct 2024 00:00:00",
          "title" : "2024-2025 Scholastic Regulations"
-      },
-      {
-         "description" : "Just days after winning the U.S. Championship for the fourth time, GM Fabiano Caruana also started his 2024 Chess 9LX tournament very well. The St. Louis resident won his three games on the first day, including against GM Hikaru Nakamura, and lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chess-9lx-day-1",
-         "pubDate" : "Mon, 28 Oct 2024 18:15:00",
-         "title" : "Caruana Leads 9LX With Perfect 3/3 As Kasparov Returns To Chess Arena"
       },
       {
          "description" : "Eight of the world's top chess grandmasters will compete in the 2024 XTX Markets London Chess Classic (LCC) from November 29 to December 7. The line-up includes: Women's World Champion...",
