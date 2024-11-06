@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 European Individual Chess Championship starts this Friday in Petrovac, Montenegro and will be played from 8th-19th November in ****Hotel &#8220;Palas&#8221; Petrovac. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30 seconds increment for each move starting from move one. Nearly 400 players coming from 42 European federations registered for the event, including 120 Grandmasters, 85 International []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-starts-in-montenegro/",
+         "pubDate" : "Wed, 06 Nov 2024 19:09:49",
+         "title" : "European Individual Chess Championship 2024 starts in Montenegro"
+      },
+      {
+         "description" : "Recently, the famous Babson task (Black promotes to one of the four possible pieces and White must promote to the same piece in all four cases to win) has been conquered by in an endgame study. Many thought it to be impossible to realize this extremely difficult task. In this second part of the three part series Harold van der Heijden describes how study composers progressed towards solving the problem.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/underpromotion-milestones-2",
+         "pubDate" : "Wed, 06 Nov 2024 19:00:00",
+         "title" : "Underpromotion Milestones - part two"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3295",
+         "pubDate" : "Wed, 06 Nov 2024 17:05:35",
+         "title" : "WGP Shymkent: Goryachkina and Tan top the standings after Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman (@zefcatt ) shares her thoughts on playing chess systems Beginner Breakdown<br /> Mondays at 5:30pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-playing-systems-chess-chessforbeginners-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/voc04UMHfWk.jpg?itok=pZ4JBmAk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-playing-systems-chess-chessforbeginners-education",
+         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
+         "title" : "Chess For Beginners: Playing Systems | #chess #chessforbeginners #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman (@zefcatt ) shows the crushing tactic that forces her opponent to resign Beginner Breakdown<br /> Mondays at 5:30pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-funny-looking-forkthats-tactics-chess-chessforbeginners-zefcatt\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tSCfaZuDpaY.jpg?itok=2kTtEROU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-funny-looking-forkthats-tactics-chess-chessforbeginners-zefcatt",
+         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
+         "title" : "Chess For Beginners: Funny Looking Fork...That's Tactics!! | #chess #chessforbeginners #zefcatt"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman ( @zefcatt ) gives a basic definition for weakness and outpost in chess Beginner Breakdown<br /> Mondays at 5:30 CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-chess-weaknesses-and-outposts-chess-chessforbeginners-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TmyJN2MtR0o.jpg?itok=a73Ap1Uz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-beginners-chess-weaknesses-and-outposts-chess-chessforbeginners-education",
+         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
+         "title" : "Chess For Beginners: Chess Weaknesses and Outposts | #chess #chessforbeginners #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Denes Boros talks about how to learn from your mistakes Monday Masterclass<br /> Mondays at 6:30 CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-game-practice-chess-chessforbeginners-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ewcW3exQ5iY.jpg?itok=Tb6GOZyw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-game-practice-chess-chessforbeginners-education",
+         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
+         "title" : "Chess Is A Game of Practice | #chess #chessforbeginners #education"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Denes Boros humorously talks about greedy in chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/always-be-greedy-my-friend-chess-chesstactics-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RUzWEWjYnxM.jpg?itok=sO8qND8R\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/always-be-greedy-my-friend-chess-chesstactics-chesshumor",
+         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
+         "title" : "Always Be Greedy My Friend | #chess #chesstactics #chesshumor"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tricks or tactics it doesn&#039;t matter according to GM Denes Boros Monday Masterclass<br /> Mondays at 6:30pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playing-tricks-or-tactics-chess-chesstactics-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2ISfNrBvr2Y.jpg?itok=l76SjUT-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/playing-tricks-or-tactics-chess-chesstactics-chesshumor",
+         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
+         "title" : "Playing for Tricks or Tactics | #chess #chesstactics #chesshumor"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -10,12 +82,44 @@ news_feed (
          "title" : "ECF Secondary School Chess News November 2024"
       },
       {
+         "description" : "GM Aleksandra Goryachkina brushed aside IM Batkhuyag Munguntuul to score a fifth win in a row in the 2024 Shymkent FIDE Women&#39;s Grand Prix, but her lead remained at one point as IM Nurgyul Salimova&#39;s attack backfired against GM Tan Zhongyi. The ot...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-7",
+         "pubDate" : "Wed, 06 Nov 2024 11:04:12",
+         "title" : "Goryachkina Wins 5th In A Row, Tan Zhongyi Keeps Up Chase"
+      },
+      {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
          "pubDate" : "Wed, 06 Nov 2024 10:20:00",
          "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "In response to the tragic flood that has devastated the region in Valencia, Spain, Chess.com&#39;s Spanish team organized a fundraiser to bring food, clothing, and other essential resources to those who need it. Many prominent players and personalitie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-todos-por-valencia",
+         "pubDate" : "Wed, 06 Nov 2024 10:14:00",
+         "title" : "Todos Por Valencia: Carlsen, Caruana, Rey Enigma, Fausti & Others Fundraise With Chess"
+      },
+      {
+         "description" : "GMs Leon Mendonca and Pranav Venkatesh lead the Challengers with second straight wins, while there is a three-way tie in the Masters section between GMs Arjun Erigaisi, Maxime Vachier-Lagrave, and Amin Tabatabaei, all on 1.5, at the end of the sec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-2",
+         "pubDate" : "Wed, 06 Nov 2024 09:08:26",
+         "title" : "Mendonca, Pranav Lead Challengers With 2nd Straight Wins"
+      },
+      {
+         "description" : "GMs Dmitry Andreikin and GM Hikaru Nakamura are your Titled Tuesday victors from November 5, the second straight week where both winners scored 10 points and neither winner needed the tiebreaks. In the early tournament won by Andreikin, however, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-nakamura-win-titled-tuesday-november-5-2024",
+         "pubDate" : "Wed, 06 Nov 2024 08:35:45",
+         "title" : "Decisive Tuesdays Continue As Nakamura Wins Another"
       },
       {
          "description" : "BATCH 1 BATCH 2 No Name Rank Name 1 Vivek Joshi 1 Nikhil Mahajan 2 Bakshi Mandar 2 Aniket Ajay Amane 3 Falgun D Purohit",
@@ -40,6 +144,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/look-back-working-together-innovation-mr-monopoly-d3-chess9lx",
          "pubDate" : "Wed, 06 Nov 2024 01:04:24",
          "title" : "A Look Back: Working Together, Innovation, & Mr. Monopoly | D3 #Chess9LX"
+      },
+      {
+         "description" : "This week's Wednesday Workout highlights some deeper tactical insights from the 2024 U.S. Championship and U.S. Women's Championship. All coverage of these events can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-us-chess-champs-pt-1",
+         "pubDate" : "Wed, 06 Nov 2024 00:00:00",
+         "title" : "Wednesday Workout: U.S. Chess Champs, Pt. 1"
       },
       {
          "description" : "",
@@ -234,60 +346,12 @@ news_feed (
          "title" : "Round 6 report of World Youth Chess Championship 2024 in Brazil :Mrittika Mallick is trailing the leader by Half point in Girls Under 16 category."
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows quick checkmate for beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mate-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NiZpNVYJ0lM.jpg?itok=ppIfMoYg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mate-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners",
-         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
-         "title" : "GM Ashley's A Quick Mate for Beginners: Bongloud #chess9LX #chess #checkmates #chessforbeginners"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows a simple quick mate for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mate-chess-beginners-fools-mate-chess9lx-chess-checkmates\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/richZP841s8.jpg?itok=wAZLAY7k\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mate-chess-beginners-fools-mate-chess9lx-chess-checkmates",
-         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
-         "title" : "GM Ashley's A Quick Mate For Chess Beginners: Fool's Mate #chess9LX #chess #checkmates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice shows the smother mate for beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mate-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BghByVnmDGU.jpg?itok=QXdSmsLi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mate-chess-beginners-smothers-mate-chess9lx-chess-checkmates-education",
-         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
-         "title" : "GM Ashley's A Quick Mate For Chess Beginners: Smothers Mate #chess9lx #chess #checkmates #education"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Ashley shows the preparedness of Garry Kasparov&#039;s position against Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-club-players-pawn-breaks-chess9lx-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CmaaZHTkG98.jpg?itok=PKJ5djhX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-club-players-pawn-breaks-chess9lx-chess-chesstactics-education",
-         "pubDate" : "Mon, 04 Nov 2024 01:03:53",
-         "title" : "For Chess Club Players: Pawn Breaks #chess9LX #chess #chesstactics #education"
-      },
-      {
          "description" : " National Master Glenn Umstead was one of the most dedicated chess enthusiasts on the East Coast. &#8220;Supercoach&#8221; passed away on October 24, 2024, at his home in Atlantic City, New Jersey, and was laid to rest on November 2nd. Glenn had suffered a stroke in 2022 and was reportedly not feeling well in the weeks The post <a href=\"https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/\">Glenn Umstead, &#8220;The Chess Artist&#8221; passes away</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/",
          "pubDate" : "Mon, 04 Nov 2024 00:48:08",
          "title" : "Glenn Umstead, \"The Chess Artist\" passes away"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Maurice Ashley shows quick checkmates </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-ashleys-quick-mates-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NiZpNVYJ0lM.jpg?itok=ppIfMoYg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-ashleys-quick-mates-beginners-bongloud-chess9lx-chess-checkmates-chessforbeginners",
-         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
-         "title" : "GM Ashley's Quick Mates for Beginners: Bongloud #chess9LX #chess #checkmates #chessforbeginners"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice shows the possible smothered mate in Fischer Random position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ray-robson-no-quick-mate-here-chess9lx-chess-checkmates-fischerrandom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lZfdiwN4ijc.jpg?itok=CGx-ePSS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ray-robson-no-quick-mate-here-chess9lx-chess-checkmates-fischerrandom",
-         "pubDate" : "Sun, 03 Nov 2024 22:03:45",
-         "title" : "Ray Robson: No Quick Mate Here #chess9LX #chess #checkmates #fischerrandom"
       },
       {
          "description" : "",
@@ -610,14 +674,6 @@ news_feed (
          "title" : "From Chennai To Qatar: The Major Tournaments That Close Out 2024"
       },
       {
-         "description" : "Women&#39;s World Championship Challenger GM Tan Zhongyi showed she could checkmate with a knight and bishop as she ground down GM Elisabeth Paehtz in 107 moves to start the 2024 Shymkent FIDE Women&#39;s Grand Prix with a win. The only two players who al...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-1",
-         "pubDate" : "Wed, 30 Oct 2024 13:36:00",
-         "title" : "Tan, Assaubayeva, Tsolakidou Win As 2nd Women's Grand Prix Begins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -634,14 +690,6 @@ news_feed (
          "title" : "Five rounds played at European Senior Chess Championships"
       },
       {
-         "description" : "GM Pia Cramling continues to lead in the Battle of Generations against IM Levy Rozman (GothamChess) after a draw in the third classical game. She had some initiative in the opening with the black pieces, but Rozman&#39;s bishop pair proved to be more ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-3",
-         "pubDate" : "Wed, 30 Oct 2024 11:55:00",
-         "title" : "Cramling Defends Difficult Endgame, Continues To Lead Vs. GothamChess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -656,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fischer-vs-greece-clock-simul-1968",
          "pubDate" : "Wed, 30 Oct 2024 09:19:16",
          "title" : "Fischer vs. Greece - clock simul 1968"
-      },
-      {
-         "description" : "It was a good Titled Tuesday for the greats on October 29, with GM Magnus Carlsen and GM Alireza Firouzja claiming victory, each scoring 10 points and avoiding tiebreaks in their win. The two stars also won Titled Tuesday back on July 30 (in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-firouzja-win-titled-tuesday-october-29-2024",
-         "pubDate" : "Wed, 30 Oct 2024 07:52:09",
-         "title" : "Carlsen, Firouzja Again Share Tuesday Glory"
       },
       {
          "description" : " During the Chess Olympiad in Budapest, Hungary, Dirk Jan ten Geuzendam of New in Chess requested that The Chess Drum's Daaim Shabazz appear in the &#8220;Just Checking&#8221; segment, which has traditionally appeared on the back page. Much of what appears in this profile shows the chess personality's lighter side. The audience will have no knowledge The post <a href=\"https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/\">New in Chess profiles Daaim Shabazz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -688,14 +728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3279",
          "pubDate" : "Tue, 29 Oct 2024 19:48:37",
          "title" : "Second leg of FIDE Women's Grand Prix 2024-2025 kicks off in Shymkent"
-      },
-      {
-         "description" : "GM Fabiano Caruana pulled a Houdini vs. last year&#39;s winner GM Sam Sevian to maintain a half-point lead going into the final day of the 2024 Chess 9LX tournament in St. Louis. His closest rival is GM Hikaru Nakamura, who erred twice against GM Garr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chess-9lx-day-2",
-         "pubDate" : "Tue, 29 Oct 2024 16:52:00",
-         "title" : "Caruana Escapes, Maintains Slim Lead As Kasparov Has Nakamura On The Ropes"
       },
       {
          "description" : "",
@@ -976,22 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3268",
          "pubDate" : "Tue, 22 Oct 2024 21:47:30",
          "title" : "European Chess Club Cup: Multiple leaders after Round 3"
-      },
-      {
-         "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 25 November 5 December 2024. In the Webinar the titles of ECU Expert Coach, or ECU Junior Coach, or ECU Novice Coach, may/will be awarded. Each participant must successfully meet the following requirements: Personal Curriculum Vitae (special Form), Participation in the Webinar (€ 100), Webinar's Test, Title Fee Payment (€ 200 or € 300). The Webinar fee will be waived for selected participants: One participant []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-5th-ecu-trainers-online-seminar/",
-         "pubDate" : "Tue, 22 Oct 2024 13:33:04",
-         "title" : "The 5th ECU Trainers Online Seminar"
-      },
-      {
-         "description" : "Players from 19 federations across the Americas competed in the 2024 FIDE Pan-American School Chess Championship, held October 12 through 19 in Asunci&oacute;n, Paraguay. While only three players from the United States traveled to the capital city, they returned with two gold medals (one in the classical event, and one in the rapid event). WCM Irene Fei, from Iowa, won the Under-13 Girls section as the top-rated player despite only being 11 years old. The victory earned her the WFM title and will make her the youngest WFM in the Americas. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photo courtesy of the organizers<br> <br> Full results from the tourna",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/irene-fei-wins-gold-fide-pan-american-school-chess-championship",
-         "pubDate" : "Tue, 22 Oct 2024 00:00:00",
-         "title" : "Irene Fei Wins Gold at FIDE Pan-American School Chess Championship "
       },
       {
          "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
