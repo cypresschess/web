@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "BATCH 1 BATCH 2 No Name Rank Name 1 Vivek Joshi 1 Nikhil Mahajan 2 Bakshi Mandar 2 Aniket Ajay Amane 3 Falgun D Purohit",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-jalgaonbatch-1-2-on-19-20-october-2024/",
+         "pubDate" : "Wed, 06 Nov 2024 06:03:36",
+         "title" : "Certificates of SNA Seminar held in Jalgaon(Batch 1 & 2) on 19 & 20 October 2024"
+      },
+      {
+         "description" : "The Chennai Grand Masters Chess Tournament kicked off with enthralling action in both the Masters and Challengers sections. In the Masters, Arjun Erigaisi and Maxime Vachier-Lagrave won their respective games, defeating Vidit Gujrathi and Parham Maghsoodloo respectively. Meanwhile, the Challengers section saw all four games ending decisively, with aunak Sadhwani, Abhimanyu Puranik, Leon Luke Mendonca, and Pranav Venkatesh claiming victories. The intense opening day set a strong competitive tone for the tournament ahead. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-1",
+         "pubDate" : "Wed, 06 Nov 2024 05:45:00",
+         "title" : "Chennai Masters R1: Arjun and MVL start with wins"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Before the final round, the team looks back at some of the sights so far from the 2024 Chess 9LX and Ultimate Moves events. 2024.10.30<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-6",
          "pubDate" : "Tue, 05 Nov 2024 13:09:00",
          "title" : "Goryachkina Makes It 4-In-A-Row; Lagno, Tan, Stavroula Also Win"
-      },
-      {
-         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
-         "pubDate" : "Tue, 05 Nov 2024 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "We&#39;re excited to announce the next installment of Kids vs. Stars, this time with a twist! On November 15, get ready to see none other than GM Anish Giri taking on four of the brightest young stars in chess&#38;mdash;all at the same time! Starting at...",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tartakowers-defence-life-as-experiment/",
          "pubDate" : "Sun, 27 Oct 2024 07:21:44",
          "title" : "Tartakower's Defence: life as experiment"
-      },
-      {
-         "description" : "Under18 1. Velammal MHSS Mugappair U-18&#160;(18 MP/0 Res.) Bo. &#160;Title Name 1 IM Aswath S 2 WFM Keerti Shree Reddy 3 &#160; Pranav K P",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-school-team-chess-championship-2024/",
-         "pubDate" : "Sun, 27 Oct 2024 06:42:37",
-         "title" : "Certificate of National School Team Chess Championship 2024"
       },
       {
          "description" : "",
