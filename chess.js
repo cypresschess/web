@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
+         "pubDate" : "Wed, 06 Nov 2024 14:36:35",
+         "title" : "ECF Secondary School Chess News November 2024"
+      },
+      {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,14 +162,6 @@ news_feed (
          "title" : "3-Year-Old Anish Prefers GothamChess To Peppa Pig, Earns 1555 FIDE Rating"
       },
       {
-         "description" : "The Kasparov Chess Foundation Academy has successfully kicked off on October 19, 2024, with its Preseason Trainings. The first session on What We Can Learn from the Chess Olympiad 2024 Top Games, was a success. Participants explored thrilling dynamic games and learned valuable lessons from instructive mistakes made by even the greatest players. Remember, we grow by learning from our own mistakes and those of the best!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-chess-academy-has-started",
-         "pubDate" : "Mon, 04 Nov 2024 18:00:00",
-         "title" : "Kasparov Chess Academy has started!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> In this 9LX position between Hikaru and Fabi, Maurice defines &quot;superfluous knights&quot; and how they should move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superfluous-knight-battle-chess9lx-chess-chessstrategy-fischerrandom-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/66G5_aJoXbA.jpg?itok=iIBLXiTo\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -186,28 +186,12 @@ news_feed (
          "title" : "November 2024 FIDE Ratings: Caruana Returns To 2800 Club, Arjun 1 Point Short"
       },
       {
-         "description" : "Victor Bologan is an established ChessBase author. So far his speciality has been openings and he has published 25 Fritztrainers. Now he starts a new series with \"Bologan's Chess Academy\" and in the first two episodes he focuses on \"Practical Endgames\" and \"Dynamic Play\". Stefan Liebig had a look at the two courses and was pleasantly entertained.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharper-more-dynamic-more-successulf-the-pleasures-of-victor-bologan-s-chess-academy",
-         "pubDate" : "Mon, 04 Nov 2024 15:00:00",
-         "title" : "Sharper, more dynamic, more successulf - the pleasures of Victor Bologan's \"Chess Academy\""
-      },
-      {
          "description" : "People are not much better than a coin flip at guessing if their opponent is cheating in a chess game. That&#39;s what grandmaster and economics researcher David Smerdon concluded after running two experiments to test people&#39;s ability to spot cheaters...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/smerdon-research-catching-chess-cheaters",
          "pubDate" : "Mon, 04 Nov 2024 13:52:00",
          "title" : "People Overestimate Their Ability To Catch Cheaters, Chess Grandmaster And Researcher Reveals"
-      },
-      {
-         "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy, Ethan Pang, became the youngest-ever to pass the 2300 rating mark in an official list and earn the FIDE Master (FM) title. At an event last month, Ethan beat no less than three grandmasters. They come younger every year!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2300-english-fm-is-nine-years-old",
-         "pubDate" : "Mon, 04 Nov 2024 12:00:00",
-         "title" : "2300 English FM is nine years old!"
       },
       {
          "description" : "",
