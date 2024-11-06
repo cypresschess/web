@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
+         "pubDate" : "Wed, 06 Nov 2024 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "BATCH 1 BATCH 2 No Name Rank Name 1 Vivek Joshi 1 Nikhil Mahajan 2 Bakshi Mandar 2 Aniket Ajay Amane 3 Falgun D Purohit",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Certificates of SNA Seminar held in Jalgaon(Batch 1 & 2) on 19 & 20 October 2024"
       },
       {
-         "description" : "The Chennai Grand Masters Chess Tournament kicked off with enthralling action in both the Masters and Challengers sections. In the Masters, Arjun Erigaisi and Maxime Vachier-Lagrave won their respective games, defeating Vidit Gujrathi and Parham Maghsoodloo respectively. Meanwhile, the Challengers section saw all four games ending decisively, with aunak Sadhwani, Abhimanyu Puranik, Leon Luke Mendonca, and Pranav Venkatesh claiming victories. The intense opening day set a strong competitive tone for the tournament ahead. | Photo: Aditya Sur Roy",
+         "description" : "The Chennai Grand Masters Chess Tournament kicked off with enthralling action in both the Masters and Challengers sections. In the Masters, Arjun Erigaisi and Maxime Vachier-Lagrave won their respective games, defeating Vidit Gujrathi and Parham Maghsoodloo respectively. Meanwhile, the Challengers section saw all four games ending decisively, with Raunak Sadhwani, Abhimanyu Puranik, Leon Luke Mendonca, and Pranav Venkatesh claiming victories. The intense opening day set a strong competitive tone for the tournament ahead. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-gms-2024-1",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3293",
          "pubDate" : "Tue, 05 Nov 2024 23:46:11",
          "title" : "FIDE World Youth Rapid & Blitz Championship 2024: Registration deadline extended"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3294",
+         "pubDate" : "Tue, 05 Nov 2024 20:51:16",
+         "title" : "Winners crowned at FIDE World Amateur Championship 2024"
       },
       {
          "description" : "Club players love to attack against the king. Perhaps it has something to do with the ancient hunting instincts. After all, most young footballers want to play strikers. Almost no one wants to defend. Grandmasters love to attack as well. However, they understand that there are many more creatures to be hunted, not only the king. Basically, every piece can become a prey! A professional chess player is hunting on the entire board. And he or she is satisfied with a knight or a rook if the monarch can't be trapped. With a material advantage, the mate will come. Let us have a look at several examples in which a strong player traps and hunts down a piece of the opponent.",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-statement-world-seniors-prague-2025/",
          "pubDate" : "Thu, 17 Oct 2024 12:53:51",
          "title" : "ECF Statement World Seniors Prague 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3265",
-         "pubDate" : "Wed, 16 Oct 2024 11:25:57",
-         "title" : "2024 FIDE World Rapid & Blitz Championships: Registration Open"
       }
    ]
 }
