@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the European Club Championship, some lower rated players faced some GM superstars, Like Erigaisi, Gukesh, Abdusattarov, or Praggnanandhaa. And in the very first round, Pragg had to deal with IM Francois Godart from Belgium, rated 2377. In the Sicilian Rossolimo, Godart had a pawn less, but furious counterplay. And sometimes, the moves are just playing themselves easily. Robert Ris, analysed the game for us in detail.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pragg-s-devastating-loss-the-underdog",
+         "pubDate" : "Thu, 07 Nov 2024 09:15:02",
+         "title" : "Pragg's devastating loss - The Underdog"
+      },
+      {
          "description" : "Round two of the Chennai Grand Masters Chess Tournament brought intense action in both the Masters and Challengers sections. In the Masters, Iranian players Amin Tabatabaei and Parham Maghsoodloo scored their first wins, with Tabatabaei joining Arjun Erigaisi and Maxime Vachier-Lagrave in the lead. Meanwhile, the Challengers section saw Leon Luke Mendonca and Pranav Venkatesh claim victories to now share the lead with a perfect 2/2 score. | Photos: Aditya Sur Roy and Himank Ghosh / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
