@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
+         "pubDate" : "Thu, 07 Nov 2024 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "In the European Club Championship, some lower rated players faced some GM superstars, Like Erigaisi, Gukesh, Abdusattarov, or Praggnanandhaa. And in the very first round, Pragg had to deal with IM Francois Godart from Belgium, rated 2377. In the Sicilian Rossolimo, Godart had a pawn less, but furious counterplay. And sometimes, the moves are just playing themselves easily. Robert Ris, analysed the game for us in detail.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
