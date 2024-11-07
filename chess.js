@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round two of the Chennai Grand Masters Chess Tournament brought intense action in both the Masters and Challengers sections. In the Masters, Iranian players Amin Tabatabaei and Parham Maghsoodloo scored their first wins, with Tabatabaei joining Arjun Erigaisi and Maxime Vachier-Lagrave in the lead. Meanwhile, the Challengers section saw Leon Luke Mendonca and Pranav Venkatesh claim victories to now share the lead with a perfect 2/2 score. | Photos: Aditya Sur Roy and Himank Ghosh / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-2",
+         "pubDate" : "Thu, 07 Nov 2024 01:30:00",
+         "title" : "Chennai Masters R2: Tabatabaei joins the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru is good at a lot of things, especially doing this Grandmaster Psychology with GM Denes Boros<br /> Wednesdays @ 5:00pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-especially-good-chess-hikaru\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yvp0broSUbA.jpg?itok=lxUwGOo_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hikaru-especially-good-chess-hikaru",
+         "pubDate" : "Thu, 07 Nov 2024 01:05:12",
+         "title" : "Hikaru Is ESPECIALLY Good | #chess #hikaru"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Denes talks about the possible hype of different chess openings Grandmaster Psychology with GM Denes Boros<br /> Wednesdays @ 5:00pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-hype-berlin-or-najdorf-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gKDiSn1xpao.jpg?itok=01_dqJo-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-opening-hype-berlin-or-najdorf-chess-chessopenings-education",
+         "pubDate" : "Thu, 07 Nov 2024 01:05:12",
+         "title" : "Chess Opening Hype: Berlin or Najdorf | #chess #chessopenings #education"
+      },
+      {
          "description" : "The 2024 European Individual Chess Championship starts this Friday in Petrovac, Montenegro and will be played from 8th-19th November in ****Hotel &#8220;Palas&#8221; Petrovac. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30 seconds increment for each move starting from move one. Nearly 400 players coming from 42 European federations registered for the event, including 120 Grandmasters, 85 International []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-7",
          "pubDate" : "Wed, 06 Nov 2024 11:04:12",
          "title" : "Goryachkina Wins 5th In A Row, Tan Zhongyi Keeps Up Chase"
-      },
-      {
-         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
-         "pubDate" : "Wed, 06 Nov 2024 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "In response to the tragic flood that has devastated the region in Valencia, Spain, Chess.com&#39;s Spanish team organized a fundraiser to bring food, clothing, and other essential resources to those who need it. Many prominent players and personalitie...",
@@ -272,22 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anish-sarkar-age-3-earns-fide-rating",
          "pubDate" : "Mon, 04 Nov 2024 19:37:00",
          "title" : "3-Year-Old Anish Prefers GothamChess To Peppa Pig, Earns 1555 FIDE Rating"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In this 9LX position between Hikaru and Fabi, Maurice defines &quot;superfluous knights&quot; and how they should move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superfluous-knight-battle-chess9lx-chess-chessstrategy-fischerrandom-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/66G5_aJoXbA.jpg?itok=iIBLXiTo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superfluous-knight-battle-chess9lx-chess-chessstrategy-fischerrandom-education",
-         "pubDate" : "Mon, 04 Nov 2024 16:04:08",
-         "title" : "Superfluous Knight Battle #chess9LX #chess #chessstrategy #fischerrandom #education"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fischer Random positions players must be mindful of smother mate ideas </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-checkmates\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DPd5HU2P2QA.jpg?itok=Wqxldo-n\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/smothered-mate-ideas-chess9lx-chess-chesstactics-checkmates",
-         "pubDate" : "Mon, 04 Nov 2024 16:04:08",
-         "title" : "Smothered Mate Ideas #chess9lx #chess #chesstactics #checkmates"
       },
       {
          "description" : "In the process of winning his fourth U.S. Championship title, GM Fabiano Caruana has re-entered the 2800 club and overtaken GM Hikaru Nakamura as the world number-two. Caruana looks to have again found his flow, winning the national title with a 1...",
