@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3296",
+         "pubDate" : "Thu, 07 Nov 2024 18:36:14",
+         "title" : "WGP Shymkent: Salimova scores her first win in a day full of draws; Goryachkina maintains lead"
+      },
+      {
+         "description" : "In part two of his review of the ChessBase Opening Encyclopaedia 2024, Nagesh Havanur explores the nuanced world of Semi-Open games, focusing on the Sicilian Defence and French Defence. From the explosive Najdorf Sicilian, favoured by Fischer and Kasparov, to the sharp Sicilian Dragon, each line offers distinct challenges and strategies. As our author transitions to Closed Games in his next instalment, he offers much practical advice for the aspiring tournament player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-review-nagesh-havanur-2",
+         "pubDate" : "Thu, 07 Nov 2024 18:00:00",
+         "title" : "Opening Encyclopaedia 2024: Semi-Open Games"
+      },
+      {
          "description" : " FM Shreyas Smith won his fifth Jamaican national title with a scintillating performance. At 27, he was the &#8220;senior&#8221; member of the national team in Budapest Olympiad and one of the mainstays on the national scene. FM Shreyas SmithPhoto Shreyas Smith (lichess.org) At the 2024 Jamaica National Championship, Smith scorched the field with 9/9, beating The post <a href=\"https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/\">Shreyas Smith takes Jamaican title with 9/9</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/",
          "pubDate" : "Thu, 07 Nov 2024 14:55:16",
          "title" : "Shreyas Smith takes Jamaican title with 9/9"
+      },
+      {
+         "description" : "The third-round encounter between GMs Arjun Erigaisi and GM Alexey Sarana at the Chennai Grand Masters 2024 had two distinct phases: the first 23 moves, flawlessly played by both sides, and the rest marred by tactical errors. But what mattered was...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-3",
+         "pubDate" : "Thu, 07 Nov 2024 10:56:29",
+         "title" : "Arjun Becomes 2nd In World In Live Ratings After Chaotic Game"
       },
       {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
@@ -31,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/giri-vidit-predict-ding-vs-gukesh-match",
          "pubDate" : "Thu, 07 Nov 2024 07:34:39",
-         "title" : "Who Will Win The World Championship? Vidit And Giri Predict Gukesh Dominance Over Ding"
+         "title" : "Who Will Win The World Championship? Vidit, Giri Predict Gukesh Dominance Over Ding"
       },
       {
          "description" : "Round two of the Chennai Grand Masters Chess Tournament brought intense action in both the Masters and Challengers sections. In the Masters, Iranian players Amin Tabatabaei and Parham Maghsoodloo scored their first wins, with Tabatabaei joining Arjun Erigaisi and Maxime Vachier-Lagrave in the lead. Meanwhile, the Challengers section saw Leon Luke Mendonca and Pranav Venkatesh claim victories to now share the lead with a perfect 2/2 score. | Photos: Aditya Sur Roy and Himank Ghosh / ChessBase India",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3280",
          "pubDate" : "Wed, 30 Oct 2024 20:06:09",
          "title" : "A promising start: Three victories in Round 1 of WGP Shymkent"
-      },
-      {
-         "description" : "A week after winning his fourth U.S. title, GM Fabiano Caruana also won the 2024 Chess 9LX tournament in St. Louis. With 7.5/9 he remained half a point ahead of GM Hikaru Nakamura. Caruana won $30,000 and another $7,500 for finishing in sole first...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chess-9lx-day-3",
-         "pubDate" : "Wed, 30 Oct 2024 20:01:00",
-         "title" : "Caruana Wins 2024 9LX After Surviving Scare Vs. Kasparov"
       },
       {
          "description" : "",
