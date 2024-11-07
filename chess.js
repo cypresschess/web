@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FM Shreyas Smith won his fifth Jamaican national title with a scintillating performance. At 27, he was the &#8220;senior&#8221; member of the national team in Budapest Olympiad and one of the mainstays on the national scene. FM Shreyas SmithPhoto Shreyas Smith (lichess.org) At the 2024 Jamaica National Championship, Smith scorched the field with 9/9, beating The post <a href=\"https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/\">Shreyas Smith takes Jamaican title with 9/9</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/",
+         "pubDate" : "Thu, 07 Nov 2024 14:55:16",
+         "title" : "Shreyas Smith takes Jamaican title with 9/9"
+      },
+      {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Chennai Grand Masters - Live!"
       },
       {
-         "description" : "In the European Club Championship, some lower rated players faced some GM superstars, Like Erigaisi, Gukesh, Abdusattarov, or Praggnanandhaa. And in the very first round, Pragg had to deal with IM Francois Godart from Belgium, rated 2377. In the Sicilian Rossolimo, Godart had a pawn less, but furious counterplay. And sometimes, the moves are just playing themselves easily. Robert Ris, analysed the game for us in detail.",
+         "description" : "In the European Club Championship, lower rated players occasionally faced GM superstars, such as Erigaisi, Gukesh, Abdusattarov, Praggnanandhaa or others. And in the very first round, Pragg had to deal with IM Francois Godart from Belgium, rated 2377. In a Sicilian Rossolimo, Godart had a pawn less, but strong counterplay. Counterplay that was so strong that the strong moves seemed to play themselves. Robert Ris took a closer look.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pragg-s-devastating-loss-the-underdog",
          "pubDate" : "Thu, 07 Nov 2024 09:15:02",
          "title" : "Pragg's devastating loss - The Underdog"
+      },
+      {
+         "description" : "GMs Anish Giri and Vidit Gujrathi consider GM Gukesh Dommaraju a big favorite to defeat the reigning World Champion GM Ding Liren. The two friends shared their candid predictions for the 2024 FIDE World Championship, set to begin in Singapore on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/giri-vidit-predict-ding-vs-gukesh-match",
+         "pubDate" : "Thu, 07 Nov 2024 07:34:39",
+         "title" : "Who Will Win The World Championship? Vidit And Giri Predict Gukesh Dominance Over Ding"
       },
       {
          "description" : "Round two of the Chennai Grand Masters Chess Tournament brought intense action in both the Masters and Challengers sections. In the Masters, Iranian players Amin Tabatabaei and Parham Maghsoodloo scored their first wins, with Tabatabaei joining Arjun Erigaisi and Maxime Vachier-Lagrave in the lead. Meanwhile, the Challengers section saw Leon Luke Mendonca and Pranav Venkatesh claim victories to now share the lead with a perfect 2/2 score. | Photos: Aditya Sur Roy and Himank Ghosh / ChessBase India",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "Caruana Wins 2024 9LX After Surviving Scare Vs. Kasparov"
       },
       {
-         "description" : "The year draws to a close, but we&#39;re in for a thrilling last couple of months with a number of chess tournaments to look forward to, headlined by the 2024 World Chess Championship. All eyes are on GM Ding Liren and GM Gukesh Dommaraju, who will ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-qatar-major-tournaments-2024",
-         "pubDate" : "Wed, 30 Oct 2024 13:59:00",
-         "title" : "From Chennai To Qatar: The Major Tournaments That Close Out 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,22 +1080,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/18/chess-england-gains-new-grandmaster-as-ameet-ghasi-qualifies-at-age-37",
          "pubDate" : "Fri, 18 Oct 2024 07:00:18",
          "title" : "Chess: England gains new grandmaster as Ameet Ghasi qualifies at age 37"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3266",
-         "pubDate" : "Thu, 17 Oct 2024 13:00:52",
-         "title" : "FIDE FPL and EDC actions on the incident involving GM Kirill Shevchenko"
-      },
-      {
-         "description" : "I deplore GM Keith Arkell's deeply personal attack via Facebook on Nigel Povah, the ECF Seniors Manager. This arose following the Seniors Selection Committee's decision to give Keith the first...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-statement-world-seniors-prague-2025/",
-         "pubDate" : "Thu, 17 Oct 2024 12:53:51",
-         "title" : "ECF Statement World Seniors Prague 2025"
       }
    ]
 }
