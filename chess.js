@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In the ninth and final round, only Fabiano Caruana and Hikaru Nakamura could still achieve 1st Place. Caruana led Nakamura by a half point, and so with mathematical tiebreaks, Fabi would secure a victory with just a draw. Nakamura would have to win his game, and Fabiano would have to lose for Hikaru to win Chess 9LX. At this moment, Nakamura has defeated Shankland. Fabiano's fate is in his own hands against Robson. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/watch-caruana-secures-tournament-title-d3-chess9lx",
+         "pubDate" : "Thu, 07 Nov 2024 22:05:48",
+         "title" : "WATCH: Caruana Secures Tournament Title! | D3 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy introduces Fischer Random chess, also known as Chess960 (although it's referred to in the feature by the Saint Louis Chess Club event name \"Chess 9LX\"). This was a part of Day 2's program, but due to technical issues, it was not seen until the VOD was uploaded. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-fischer-random-chess-chess9lx-todayinchess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-fischer-random-chess-chess9lx-todayinchess",
+         "pubDate" : "Thu, 07 Nov 2024 22:05:48",
+         "title" : "What is Fischer Random Chess? | #Chess9LX #TodayInChess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3297",
+         "pubDate" : "Thu, 07 Nov 2024 21:40:58",
+         "title" : "European Chess Championship 2024 starts in Montenegro"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,12 +42,20 @@ news_feed (
          "title" : "Opening Encyclopaedia 2024: Semi-Open Games"
       },
       {
-         "description" : " FM Shreyas Smith won his fifth Jamaican national title with a scintillating performance. At 27, he was the &#8220;senior&#8221; member of the national team in Budapest Olympiad and one of the mainstays on the national scene. FM Shreyas SmithPhoto Shreyas Smith (lichess.org) At the 2024 Jamaica National Championship, Smith scorched the field with 9/9, beating The post <a href=\"https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/\">Shreyas Smith takes Jamaican title with 9/9</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " FM Shreyas Smith won his fifth Jamaican national title with a scintillating performance. At 27, he was the &#8220;senior&#8221; member of the national team in Budapest Olympiad. Smith is also one of the mainstays on the national scene. FM Shreyas SmithPhoto Shreyas Smith (lichess.org) At the 2024 Jamaica National Championship, Smith scorched the field with The post <a href=\"https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/\">Shreyas Smith takes Jamaican title with 9/9</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/",
          "pubDate" : "Thu, 07 Nov 2024 14:55:16",
          "title" : "Shreyas Smith takes Jamaican title with 9/9"
+      },
+      {
+         "description" : "IM Nurgyul Salimova&#39;s win over IM Batkhuyag Munguntuul was the only decisive game of round eight of the 2024 Shymkent FIDE Women&#39;s Grand Prix. GM Aleksandra Goryachkina&#39;s five-game winning streak was ended by GM Koneru Humpy, but when GM Tan Zhong...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-8",
+         "pubDate" : "Thu, 07 Nov 2024 12:25:00",
+         "title" : "Salimova Scores 1st Win; Goryachkina On Brink Of Overall Victory"
       },
       {
          "description" : "The third-round encounter between GMs Arjun Erigaisi and GM Alexey Sarana at the Chennai Grand Masters 2024 had two distinct phases: the first 23 moves, flawlessly played by both sides, and the rest marred by tactical errors. But what mattered was...",
@@ -80,6 +112,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-opening-hype-berlin-or-najdorf-chess-chessopenings-education",
          "pubDate" : "Thu, 07 Nov 2024 01:05:12",
          "title" : "Chess Opening Hype: Berlin or Najdorf | #chess #chessopenings #education"
+      },
+      {
+         "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship earlier this fall on the weekend of August 30 through September 1. The state championship was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary created by the Alabama chess community that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' standing in Alabama chess hist",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/rachels-returns-wins-sixth-alabama-championship-video",
+         "pubDate" : "Thu, 07 Nov 2024 00:00:00",
+         "title" : "Rachels Returns, Wins Sixth Alabama Championship (Video)"
       },
       {
          "description" : "The 2024 European Individual Chess Championship starts this Friday in Petrovac, Montenegro and will be played from 8th-19th November in ****Hotel &#8220;Palas&#8221; Petrovac. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30 seconds increment for each move starting from move one. Nearly 400 players coming from 42 European federations registered for the event, including 120 Grandmasters, 85 International []",
@@ -210,14 +250,6 @@ news_feed (
          "title" : "Chennai Masters R1: Arjun and MVL start with wins"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Before the final round, the team looks back at some of the sights so far from the 2024 Chess 9LX and Ultimate Moves events. 2024.10.30<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/look-back-working-together-innovation-mr-monopoly-d3-chess9lx",
-         "pubDate" : "Wed, 06 Nov 2024 01:04:24",
-         "title" : "A Look Back: Working Together, Innovation, & Mr. Monopoly | D3 #Chess9LX"
-      },
-      {
          "description" : "This week's Wednesday Workout highlights some deeper tactical insights from the 2024 U.S. Championship and U.S. Women's Championship. All coverage of these events can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3292",
          "pubDate" : "Tue, 05 Nov 2024 19:21:56",
          "title" : "WGP Shymkent Round 6: Goryachkina extends her winning streak"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Fabiano Caruana Delivers Commanding Performance<br /><br /> \tto Win 2024 Champions Showdown: Chess 9LX in Saint Louis<br /><br /> \t<br /><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Chess%209LX%20Winner%20GM%20Fabiano%20Caruana%20Day%203%20LOU03986.jpg?itok=AH9bQSNA\" alt=\"2024 Chess 9LX Winner GM Fabiano Caruana Day 3\" /></div><div class=\"field field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/news/grandmaster-fabiano-caruana-delivers-commanding-performance-win-2024-champions-showdown-chess",
-         "pubDate" : "Tue, 05 Nov 2024 15:53:15",
-         "title" : "Grandmaster Fabiano Caruana Delivers Commanding Performance to Win 2024 Champions Showdown: Chess 9LX in Saint Louis"
       },
       {
          "description" : "",
@@ -658,14 +682,6 @@ news_feed (
          "title" : "17-Move Disaster For Paehtz As Tan Survives Scare Vs. Humpy"
       },
       {
-         "description" : "The biggest chess game in history has concluded. In just 24 moves, GM Viswanathan Anand convincingly defeated nearly 70,000 opponents in the game known simply as Vishy vs. the World. HE&#39;S DONE IT! @vishy64theking 👑🇮🇳Vishy has made chess histor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vishy-vs-the-world-chess-game-recap",
-         "pubDate" : "Thu, 31 Oct 2024 11:00:00",
-         "title" : "Anand Dominates World In Historic Game"
-      },
-      {
          "description" : "Rank Name 1 Nandhidhaa P V 2 Priyanka K 3 Padmini Rout 4 Kiran Manisha Mohanty 5 Saranya J 6 Chitlange Sakshi 7 Gomes Mary",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-4-more-endgames",
          "pubDate" : "Wed, 23 Oct 2024 00:00:00",
          "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 4 (More Endgames)"
-      },
-      {
-         "description" : "With a round to spare, IM Carissa Yip has won the 2024 U.S. Women's Championship and the $35,000 first prize (plus a $5,000 winner's bonus). GM Fabiano Caruana still leads GM Awonder Liang by a half-point in the 2024 U.S. Championship. <br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 U.S. Women's Champion: IM Carissa Yip (all photos courtesy Lennart Ootes/SLCC)<br> <br> This is the 21-year-old's second consecutive championship and third in four years. It is also, strangely enough, the second straight year Yip has won the championship in a round where she lost her game. Read on for all the details of a tense penultimate round in St. Louis, with ann",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-champs-yip-clinches-third-title-alice-lee-makes-her-move",
-         "pubDate" : "Wed, 23 Oct 2024 00:00:00",
-         "title" : "U.S. Champs: Yip Clinches Third Title, Alice Lee Makes Her Move"
       },
       {
          "description" : "Three rounds were played at the European Chess Club Cup 2024 and eight teams remained perfect in the Open section, while only two teams score maximum 6 match points in the Women's competition. Teams in the co-lead after three rounds are SuperChess, Turkish Airlines, TAJFUN SK Ljubljana, Alkaloid, Bayegan Pendik Chess Sports Club, Novy Bor Chess Club, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Sentimento Ajka BSK. The top seeded SuperChess took a convincing 5-1 victory against Azerbaijani team Vugar Gashimov []",
