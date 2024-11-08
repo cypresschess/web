@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the Certificates here SL.NO Name 1 Palak Sinha 2 Abhishek Raj 3 Meera Kumari 4 Harsh, Himanshu 5 Ashish Singhal 6 Pammi, Rani",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-patna-on-19-20-october-2024/",
+         "pubDate" : "Fri, 08 Nov 2024 03:40:05",
+         "title" : "Certificate of SNA seminar held in Patna on 19 & 20 October 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115069332.cms\" />Indian chess grandmaster D Harika, currently ranked No. 2 in India, talks about the challenges and triumphs of motherhood and her chess career. Despite the difficulties of balancing both, Harika emphasizes the importance of her mission to represent India and inspire young girls to pursue chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dealing-with-mom-guilt-harika-battles-on/articleshow/115069332.cms",
+         "pubDate" : "Fri, 08 Nov 2024 03:29:05",
+         "title" : "Dealing with 'mom guilt', Harika battles on"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> In the ninth and final round, only Fabiano Caruana and Hikaru Nakamura could still achieve 1st Place. Caruana led Nakamura by a half point, and so with mathematical tiebreaks, Fabi would secure a victory with just a draw. Nakamura would have to win his game, and Fabiano would have to lose for Hikaru to win Chess 9LX. At this moment, Nakamura has defeated Shankland. Fabiano's fate is in his own hands against Robson. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wa",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -63,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-3",
          "pubDate" : "Thu, 07 Nov 2024 10:56:29",
-         "title" : "Arjun Becomes 2nd In World In Live Ratings After Chaotic Game"
+         "title" : "Arjun Becomes 2nd In World In Live Ratings After Chaotic Win"
       },
       {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3275",
          "pubDate" : "Mon, 28 Oct 2024 09:01:45",
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
-      },
-      {
-         "description" : "The Senior National Arbiters' Seminar &#38; Examination organized by the All Bihar Chess Association, on behalf of the AICF and its Arbiters' Commission, took place",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-reportsenior-national-arbiter-seminar-in-patna-on-19-20-october-2024/",
-         "pubDate" : "Mon, 28 Oct 2024 05:35:31",
-         "title" : "Final Report:Senior National Arbiter Seminar in Patna on 19 & 20 October 2024"
       },
       {
          "description" : "",
