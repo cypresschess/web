@@ -34,6 +34,22 @@ news_feed (
          "title" : "Chennai Grand Masters - Live!"
       },
       {
+         "description" : "The fourth round brought the two joint leaders to face each other: GM Amin Tabatabaei vs. GM Arjun Erigaisi, and it proved to be another big fight where Arjun prevailed to continue to lead the Chennai Grand Masters 2024 Masters section with 3.5/4....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-4",
+         "pubDate" : "Fri, 08 Nov 2024 09:59:00",
+         "title" : "Arjun Wins Again To Reach 2809.3; Pranav Makes It 4/4"
+      },
+      {
+         "description" : "Eight players have qualified for the Seirawan Chess Championship 2024 Knockout, the penultimate event of the Community Chess Championships. They are, in chronological order of when they qualified: Arian Rahimpour, IM Kacper Drozdowski, GM Mitrabha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-seirawan-chess-championship-qualifiers",
+         "pubDate" : "Fri, 08 Nov 2024 08:30:00",
+         "title" : "Yasser Seirawan Himself Qualifies For Seirawan Chess Championship"
+      },
+      {
          "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -47,7 +63,15 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goryachkina-wins-2024-fide-womens-grand-prix-shymkent",
          "pubDate" : "Fri, 08 Nov 2024 07:28:38",
-         "title" : "Goryachkina Wins The Shymkent FIDE Women's Grand Prix"
+         "title" : "Goryachkina Wins Shymkent FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "\"I will be the underdog approaching this match,\" said World Champion Ding Liren",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42264924/ding-liren-d-gukesh-chess-world-championships-worried-losing-badly?device=featurephone",
+         "pubDate" : "Fri, 8 Nov 2024 06:23:39",
+         "title" : "'Worried about losing very badly': Ding Liren on World Championship vs D Gukesh"
       },
       {
          "description" : "Please find the Certificates here SL.NO Name 1 Palak Sinha 2 Abhishek Raj 3 Meera Kumari 4 Harsh, Himanshu 5 Ashish Singhal 6 Pammi, Rani",
@@ -642,14 +666,6 @@ news_feed (
          "title" : "Tan Zhongyi Takes Sole Lead; Humpy, Goryachkina Also Grab Wins"
       },
       {
-         "description" : "9-year-old British prodigy CM Ethan Pang reached another milestone this week when he achieved an official FIDE rating of 2303, breaking Argentinian star IM Faustino Oro&#39;s record as the youngest to pass the 2300 mark and earn the FM title. Pang g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ethan-pang-breaks-another-faustino-oro-record",
-         "pubDate" : "Fri, 01 Nov 2024 11:26:00",
-         "title" : "9-Year-Old Ethan Pang Breaks Faustino Oro's Record To Become Youngest-Ever 2300"
-      },
-      {
          "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy Ethan Pang became the youngest-ever to pass the 2300 rating mark in an...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3281",
          "pubDate" : "Thu, 31 Oct 2024 19:10:25",
          "title" : "FIDE WGP Shymkent Round 2: Munguntuul stuns Paehtz in a 17-move upset"
-      },
-      {
-         "description" : "IM Levy Rozman (GothamChess) bounced back from his loss against GM Pia Cramling in the first classical game to even the score 6-6 in the Battle of Generations. With the black pieces, he generated a powerful attack, but Cramling defended tenaciousl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-4",
-         "pubDate" : "Thu, 31 Oct 2024 14:41:00",
-         "title" : "GothamChess Wins On Time, Evens Match Score Before Rapid Games"
       },
       {
          "description" : "Rank Name 1 Nandhidhaa P V 2 Priyanka K 3 Padmini Rout 4 Kiran Manisha Mohanty 5 Saranya J 6 Chitlange Sakshi 7 Gomes Mary",
