@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the latest episode of their weekly show \"Two Knights Talk\" Arne K&auml;hler and Johannes Fischer invited Matthias W&uuml;llenweber to talk about the possibilities and new features of ChessBase 18, which will be released in a few days. Then they came back to the topic of cheating, since the Australian grandmaster David Smerdon presented an interesting experiment a few days ago in the C-Squared podcast by Cristian Chirila and Fabiano Caruana: the first 'cheating tournament' in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-matthias-wuellenweber-on-the-functions-and-novelties-of-chessbase-18",
+         "pubDate" : "Fri, 08 Nov 2024 15:17:29",
+         "title" : "Two Knights Talk: Matthias W&uuml;llenweber on the functions and novelties of ChessBase 18"
+      },
+      {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). Top seed is Vladimir Fedoseev. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/europaeinzelmeisterschaft-live",
+         "pubDate" : "Fri, 08 Nov 2024 14:57:35",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3298",
+         "pubDate" : "Fri, 08 Nov 2024 14:45:17",
+         "title" : "FIDE WGP Shymkent: Goryachkina clinches victory"
+      },
+      {
          "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +34,20 @@ news_feed (
          "title" : "Chennai Grand Masters - Live!"
       },
       {
-         "description" : "Round 3 of the Chennai Grand Masters delivered compelling games across both the Masters and Challengers sections. In the Masters, Arjun Erigaisi continued his stellar form with a win over Alexey Sarana, joining Amin Tabatabaei in the lead, while climbing to second place in the live world rankings. In the Challengers, Pranav Venkatesh emerged as the sole leader after defeating Karthikeyan Murali, extending his perfect record. | Photos: Aditya Sur Roy and Anmol Bhargav / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-3",
-         "pubDate" : "Fri, 08 Nov 2024 08:50:00",
-         "title" : "Chennai Masters R3: Arjun climbs to world number 2, shares the lead with Tabatabaei"
-      },
-      {
          "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/nov/08/chess-england-out-of-the-medals-at-european-senior-championships",
          "pubDate" : "Fri, 08 Nov 2024 08:00:04",
          "title" : "Chess: England out of the medals at European senior championships"
+      },
+      {
+         "description" : "GM Aleksandra Goryachkina has won the 2024 Shymkent FIDE Women&#39;s Grand Prix, 130 Grand Prix points, and &#38;euro;18,000 after making a draw with IM Nurgyul Salimova in the final round for a 7/9 score. GM Tan Zhongyi finished just half a point behind ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goryachkina-wins-2024-fide-womens-grand-prix-shymkent",
+         "pubDate" : "Fri, 08 Nov 2024 07:28:38",
+         "title" : "Goryachkina Wins The Shymkent FIDE Women's Grand Prix"
       },
       {
          "description" : "Please find the Certificates here SL.NO Name 1 Palak Sinha 2 Abhishek Raj 3 Meera Kumari 4 Harsh, Himanshu 5 Ashish Singhal 6 Pammi, Rani",
@@ -102,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/giri-vidit-predict-ding-vs-gukesh-match",
-         "pubDate" : "Thu, 07 Nov 2024 07:34:39",
+         "pubDate" : "Thu, 07 Nov 2024 07:34:00",
          "title" : "Who Will Win The World Championship? Vidit, Giri Predict Gukesh Dominance Over Ding"
       },
       {
@@ -122,7 +146,7 @@ news_feed (
          "title" : "Chess Opening Hype: Berlin or Najdorf | #chess #chessopenings #education"
       },
       {
-         "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship earlier this fall on the weekend of August 30 through September 1. The state championship was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary created by the Alabama chess community that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' standing in Alabama chess hist",
+         "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' standing in Alabama chess history - is ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/rachels-returns-wins-sixth-alabama-championship-video",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-4",
          "pubDate" : "Thu, 31 Oct 2024 14:41:00",
          "title" : "GothamChess Wins On Time, Evens Match Score Before Rapid Games"
-      },
-      {
-         "description" : "Mongolian IM Batkhuyag Munguntuul scored the only win of round two of the 2024 Shymkent FIDE Women&#39;s Grand Prix after unleashing the crushing 17...Ba3!! on GM Elisabeth Paehtz, who was left with little choice but to resign after a one-hour game. G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-2",
-         "pubDate" : "Thu, 31 Oct 2024 11:39:08",
-         "title" : "17-Move Disaster For Paehtz As Tan Survives Scare Vs. Humpy"
       },
       {
          "description" : "Rank Name 1 Nandhidhaa P V 2 Priyanka K 3 Padmini Rout 4 Kiran Manisha Mohanty 5 Saranya J 6 Chitlange Sakshi 7 Gomes Mary",
