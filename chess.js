@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
+         "pubDate" : "Fri, 08 Nov 2024 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "Round 3 of the Chennai Grand Masters delivered compelling games across both the Masters and Challengers sections. In the Masters, Arjun Erigaisi continued his stellar form with a win over Alexey Sarana, joining Amin Tabatabaei in the lead, while climbing to second place in the live world rankings. In the Challengers, Pranav Venkatesh emerged as the sole leader after defeating Karthikeyan Murali, extending his perfect record. | Photos: Aditya Sur Roy and Anmol Bhargav / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,15 +18,7 @@ news_feed (
          "title" : "Chennai Masters R3: Arjun climbs to world number 2, shares the lead with Tabatabaei"
       },
       {
-         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. After eight rounds second seed Aleksandra Goryachkina leads with 6.5/8, one point ahead of the number one seed, Tan Zhongyi with 5.5/8. The ninth and final round starts at 13.00 local time (9.00 CET, 3.00 EST). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
-         "pubDate" : "Fri, 08 Nov 2024 08:45:00",
-         "title" : "Women's Grand Prix Shymkent - live"
-      },
-      {
-         "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in Northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
+         "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/nov/08/chess-england-out-of-the-medals-at-european-senior-championships",
@@ -74,14 +74,6 @@ news_feed (
          "title" : "WGP Shymkent: Salimova scores her first win in a day full of draws; Goryachkina maintains lead"
       },
       {
-         "description" : "In part two of his review of the ChessBase Opening Encyclopaedia 2024, Nagesh Havanur explores the nuanced world of Semi-Open games, focusing on the Sicilian Defence and French Defence. From the explosive Najdorf Sicilian, favoured by Fischer and Kasparov, to the sharp Sicilian Dragon, each line offers distinct challenges and strategies. As our author transitions to Closed Games in his next instalment, he offers much practical advice for the aspiring tournament player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-review-nagesh-havanur-2",
-         "pubDate" : "Thu, 07 Nov 2024 18:00:00",
-         "title" : "Opening Encyclopaedia 2024: Semi-Open Games"
-      },
-      {
          "description" : " FM Shreyas Smith won his fifth Jamaican national title with a scintillating performance. At 27, he was the &#8220;senior&#8221; member of the national team in Budapest Olympiad. Smith is also one of the mainstays on the national scene. FM Shreyas SmithPhoto Shreyas Smith (lichess.org) At the 2024 Jamaica National Championship, Smith scorched the field with The post <a href=\"https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/\">Shreyas Smith takes Jamaican title with 9/9</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -112,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/giri-vidit-predict-ding-vs-gukesh-match",
          "pubDate" : "Thu, 07 Nov 2024 07:34:39",
          "title" : "Who Will Win The World Championship? Vidit, Giri Predict Gukesh Dominance Over Ding"
-      },
-      {
-         "description" : "Round two of the Chennai Grand Masters Chess Tournament brought intense action in both the Masters and Challengers sections. In the Masters, Iranian players Amin Tabatabaei and Parham Maghsoodloo scored their first wins, with Tabatabaei joining Arjun Erigaisi and Maxime Vachier-Lagrave in the lead. Meanwhile, the Challengers section saw Leon Luke Mendonca and Pranav Venkatesh claim victories to now share the lead with a perfect 2/2 score. | Photos: Aditya Sur Roy and Himank Ghosh / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-2",
-         "pubDate" : "Thu, 07 Nov 2024 01:30:00",
-         "title" : "Chennai Masters R2: Tabatabaei joins the lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Hikaru is good at a lot of things, especially doing this Grandmaster Psychology with GM Denes Boros<br /> Wednesdays @ 5:00pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-especially-good-chess-hikaru\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yvp0broSUbA.jpg?itok=lxUwGOo_\" alt=\"\" /></a></div>",
@@ -266,14 +250,6 @@ news_feed (
          "title" : "Certificates of SNA Seminar held in Jalgaon(Batch 1 & 2) on 19 & 20 October 2024"
       },
       {
-         "description" : "The Chennai Grand Masters Chess Tournament kicked off with enthralling action in both the Masters and Challengers sections. In the Masters, Arjun Erigaisi and Maxime Vachier-Lagrave won their respective games, defeating Vidit Gujrathi and Parham Maghsoodloo respectively. Meanwhile, the Challengers section saw all four games ending decisively, with Raunak Sadhwani, Abhimanyu Puranik, Leon Luke Mendonca, and Pranav Venkatesh claiming victories. The intense opening day set a strong competitive tone for the tournament ahead. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-1",
-         "pubDate" : "Wed, 06 Nov 2024 05:45:00",
-         "title" : "Chennai Masters R1: Arjun and MVL start with wins"
-      },
-      {
          "description" : "This week's Wednesday Workout highlights some deeper tactical insights from the 2024 U.S. Championship and U.S. Women's Championship. All coverage of these events can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -296,14 +272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3294",
          "pubDate" : "Tue, 05 Nov 2024 20:51:16",
          "title" : "Winners crowned at FIDE World Amateur Championship 2024"
-      },
-      {
-         "description" : "Club players love to attack against the king. Perhaps it has something to do with the ancient hunting instincts. After all, most young footballers want to play strikers. Almost no one wants to defend. Grandmasters love to attack as well. However, they understand that there are many more creatures to be hunted, not only the king. Basically, every piece can become a prey! A professional chess player is hunting on the entire board. And he or she is satisfied with a knight or a rook if the monarch can't be trapped. With a material advantage, the mate will come. Let us have a look at several examples in which a strong player traps and hunts down a piece of the opponent.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-39-there-is-an-animal-in-the-trap",
-         "pubDate" : "Tue, 05 Nov 2024 20:00:00",
-         "title" : "The Winning Academy 39: There is an Animal in the Trap!"
       },
       {
          "description" : "",
