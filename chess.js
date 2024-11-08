@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 3 of the Chennai Grand Masters delivered compelling games across both the Masters and Challengers sections. In the Masters, Arjun Erigaisi continued his stellar form with a win over Alexey Sarana, joining Amin Tabatabaei in the lead, while climbing to second place in the live world rankings. In the Challengers, Pranav Venkatesh emerged as the sole leader after defeating Karthikeyan Murali, extending his perfect record. | Photos: Aditya Sur Roy and Anmol Bhargav / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-3",
+         "pubDate" : "Fri, 08 Nov 2024 08:50:00",
+         "title" : "Chennai Masters R3: Arjun climbs to world number 2, shares the lead with Tabatabaei"
+      },
+      {
+         "description" : "The second tournament of the 2024-25 Women's Grand Prix Series takes place in Shymkent, Kazakhstan. It's a ten-player-round-robin, the best two players in the Grand Prix series qualify for the next Women's Candidates Tournament. After eight rounds second seed Aleksandra Goryachkina leads with 6.5/8, one point ahead of the number one seed, Tan Zhongyi with 5.5/8. The ninth and final round starts at 13.00 local time (9.00 CET, 3.00 EST). Follow the games live with commentary. | Photo: FIDE / Konstantin Chalabov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-shymkent-live",
+         "pubDate" : "Fri, 08 Nov 2024 08:45:00",
+         "title" : "Women's Grand Prix Shymkent - live"
+      },
+      {
+         "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in Northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/nov/08/chess-england-out-of-the-medals-at-european-senior-championships",
+         "pubDate" : "Fri, 08 Nov 2024 08:00:04",
+         "title" : "Chess: England out of the medals at European senior championships"
+      },
+      {
          "description" : "Please find the Certificates here SL.NO Name 1 Palak Sinha 2 Abhishek Raj 3 Meera Kumari 4 Harsh, Himanshu 5 Ashish Singhal 6 Pammi, Rani",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -80,22 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-3",
          "pubDate" : "Thu, 07 Nov 2024 10:56:29",
          "title" : "Arjun Becomes 2nd In World In Live Ratings After Chaotic Win"
-      },
-      {
-         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
-         "pubDate" : "Thu, 07 Nov 2024 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
-      },
-      {
-         "description" : "In the European Club Championship, lower rated players occasionally faced GM superstars, such as Erigaisi, Gukesh, Abdusattarov, Praggnanandhaa or others. And in the very first round, Pragg had to deal with IM Francois Godart from Belgium, rated 2377. In a Sicilian Rossolimo, Godart had a pawn less, but strong counterplay. Counterplay that was so strong that the strong moves seemed to play themselves. Robert Ris took a closer look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pragg-s-devastating-loss-the-underdog",
-         "pubDate" : "Thu, 07 Nov 2024 09:15:02",
-         "title" : "Pragg's devastating loss - The Underdog"
       },
       {
          "description" : "GMs Anish Giri and Vidit Gujrathi consider GM Gukesh Dommaraju a big favorite to defeat the reigning World Champion GM Ding Liren. The two friends shared their candid predictions for the 2024 FIDE World Championship, set to begin in Singapore on...",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-tiger-of-madras/",
          "pubDate" : "Sat, 19 Oct 2024 10:31:26",
          "title" : "The Tiger of Madras"
-      },
-      {
-         "description" : " The Birmingham amateur achieved his title in Norway after years of trying, while Jonah Willow, 21, became the latest from the young generation to score a GM norm Ameet Ghasi became England's 42nd and latest grandmaster last weekend when the 37-year-old from Birmingham finished third with 6.5/9 in the international tournament at Fagernes, Norway. Ghasi, an amateur who works full-time for Biogen, is the oldest English player ever to qualify for the GM title, which requires three norms at 2600 level plus a published Fide rating of 2500. He has been trying for his final norm for a few years now, and the decisive trigger came from help from the new Department for Culture, Media and Sport grant f",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/oct/18/chess-england-gains-new-grandmaster-as-ameet-ghasi-qualifies-at-age-37",
-         "pubDate" : "Fri, 18 Oct 2024 07:00:18",
-         "title" : "Chess: England gains new grandmaster as Ameet Ghasi qualifies at age 37"
       }
    ]
 }
