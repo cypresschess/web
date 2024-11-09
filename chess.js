@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The upcoming FIDE World Championship Match in Singapore, presented by Google, promises a grand chess celebration featuring elite players, chess legends and AI insights. Beyond the main event, visitors can enjoy interactive exhibitions, masterclasses, and simul games against grandmasters. Legends like Xie Jun and Boris Gelfand, alongside AI expert Nenad Tomašev, will provide fascinating perspectives on the game's evolution. The Singapore International Open, held alongside the match, offers an arena for aspiring players to compete.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-events-visitors",
+         "pubDate" : "Sat, 09 Nov 2024 16:00:00",
+         "title" : "Unique events for visitors of Singapore World Championship match"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115119997.cms\" />Raunak Sadhwani halted Pranav V's winning streak with a draw in the Chennai Grand Masters chess tournament. Levon Aronian defeated Maxime Vachier-Lagrave and moved closer to leader Arjun Erigaisi, who drew with Parham Maghsoodloo. Vidit Gujarathi and Amin Tabatabaei, as well as Alexey Sarana and Aravindh Chithambaram, also drew their matches.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-holds-top-spot-as-levon-aronian-closes-in-at-chennai-grand-masters/articleshow/115119997.cms",
+         "pubDate" : "Sat, 09 Nov 2024 15:35:49",
+         "title" : "Erigaisi holds top spot as Aronian closes in at Chennai Grand Masters"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Bhubaneshwar ,Odisha on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-at-bhubaneshwar-odisha-on-16-17-december-2024/",
+         "pubDate" : "Sat, 09 Nov 2024 15:22:00",
+         "title" : "Senior National Arbiters Seminar & Exam at Bhubaneshwar ,Odisha on 16 & 17 December 2024"
+      },
+      {
+         "description" : "I've committed to running my first Half-Marathon in 2025. How fast will I be? How exactly will I train? How hard will it be? Honestly, I have no idea. Sometimes, that's the best way to start: feel the inspiration, take the leap, hold yourself accountable, and figure it out as you go. I've Wanted to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/take-a-leap/",
+         "pubDate" : "Sat, 09 Nov 2024 14:00:00",
+         "title" : "From Thinking to Doing: Your most important move"
+      },
+      {
+         "description" : " The 2024 World Chess Championship will take place in Singapore starting November 25th and lasting three weeks until December 15th. The match will feature China's World Champion Ding Liren (Lizhen) against India's Dommaraju Gukesh. The two most populous countries will join the millions following the match with great anticipation as the match features one of The post <a href=\"https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/\">Preview of WCC 2024 Ding-Gukesh</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/",
+         "pubDate" : "Sat, 09 Nov 2024 12:45:41",
+         "title" : "Preview of WCC 2024&hellip; Ding-Gukesh"
+      },
+      {
          "description" : "Wilhelm Steinitz, the chess equivalent of Karl Marx and Charles Darwin combined, was the great strategic systematic chess thinker from the latter part of the 19th century. One of the major Steinitzian strategic precepts was to delay castling in order to establish the location of the enemy king. Once that had been determined, the strategic []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -768,14 +808,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42107125/gukesh-smart-enough-chess-world-championships-won-not-elected-viswanathan-anand?device=featurephone",
          "pubDate" : "Thu, 31 Oct 2024 05:27:47",
          "title" : "'Gukesh smart enough to know that World Championships are won, not elected': Viswanathan Anand"
-      },
-      {
-         "description" : "NO Name 1 Sourav Suresh 2 Subham Dubey 3 Sathiya Moorthy T 4 Srimannarayana A K S 5 Anand V R 6 Bala Krishna J",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-portblair-on-12-13-october-2024/",
-         "pubDate" : "Thu, 31 Oct 2024 03:00:27",
-         "title" : "Certificates of SNA seminar held in Port Blair on 12 & 13 October 2024"
       },
       {
          "description" : " The Champions Showdown Chess 9LX took place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This was a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. Kasparov had a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year so the challenge was on for him. Fabiano Caruana took clear first place with 7.5/9 half a point clear of Hikaru Nakamura with Wesley So in 3rd on 5.5 points. Kasparov finished on 50% with a very respect",
