@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115101862.cms\" />Indian chess grandmaster Arjun Erigaisi secured a victory against Amin Tabatabaei in the Chennai Grandmasters Chess tournament, propelling him to the top of the leaderboard with 3.5 points. Erigaisi's aggressive playing style and strategic execution earned him his third win, bringing his live rating closer to world No. 1 Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-takes-irans-amin-in-stride-to-take-sole-lead-in-chennai-grandmasters-chess-meet/articleshow/115101862.cms",
+         "pubDate" : "Sat, 09 Nov 2024 02:16:00",
+         "title" : "Arjun Erigaisi takes Iran's Amin in stride to take sole lead in Chennai"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, The Andhra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at SNA Seminar &#38; Exam",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-rajahmundry-andhra-pradesh-on-30-november-01-december-2024/",
+         "pubDate" : "Sat, 09 Nov 2024 01:25:50",
+         "title" : "SNA Seminar & Exam in Rajahmundry , Andhra Pradesh on 30 November & 01 December 2024"
+      },
+      {
          "description" : "The 2024 European Individual Chess Championship commenced today in Petrovac, Montenegro. The Opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Alojzije Jankovic, Deputy Prime Minister for Infrastructure and Regional Development of Montenegro Mr. Milun Zogovic, Mr. Vladimir Obradovic on behalf of the Ministry of Sports and Youth of Montenegro, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,11 +26,11 @@ news_feed (
          "title" : "European Individual Chess Championship 2024 commenced in Montenegro"
       },
       {
-         "description" : "GM Awonder Liang defeated GM Jeffery Xiong 2.5-1.5 in the Grand Final to win the Seirawan Chess Championship 2024 and $600. It was an exciting clash between two friends who, together, won the Bughouse Chess Championship earlier this year. GM Yasse...",
+         "description" : "GM Awonder Liang defeated GM Jeffery Xiong 2.5-1.5 in the Grand Final to win the Seirawan Chess Championship 2024 and $600. It was an exciting clash between the two friends who together won the Bughouse Chess Championship earlier this year. GM Yas...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-seirawan-chess-championship-liang-wins",
-         "pubDate" : "Fri, 08 Nov 2024 16:24:44",
+         "pubDate" : "Fri, 08 Nov 2024 16:24:00",
          "title" : "Liang Wins S-Chess Championship, Beats Ex-Bughouse-Partner Xiong In Grand Final"
       },
       {
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://www.europechess.org/five-rounds-played-at-european-senior-chess-championships-2024/",
          "pubDate" : "Wed, 30 Oct 2024 12:10:14",
          "title" : "Five rounds played at European Senior Chess Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-diwali-to-the-indian-chess-fraternity-2/",
-         "pubDate" : "Wed, 30 Oct 2024 11:50:26",
-         "title" : "Happy Diwali to the Indian Chess Fraternity!"
       },
       {
          "description" : "In 1968 the Greek Chess Federation, which had organised multiple Olympiads and Zonal tournaments, invited the 25-year-old American grandmaster to play a clock simultaneous exhibition match against five strong Greek players. The historical games played in Athens have been recorded and carefully annotated by Greek grandmaster and trainer Efstratios Grivas.",
