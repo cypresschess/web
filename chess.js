@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 European Individual Chess Championship commenced today in Petrovac, Montenegro. The Opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Alojzije Jankovic, Deputy Prime Minister for Infrastructure and Regional Development of Montenegro Mr. Milun Zogovic, Mr. Vladimir Obradovic on behalf of the Ministry of Sports and Youth of Montenegro, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-commenced-in-montenegro/",
+         "pubDate" : "Fri, 08 Nov 2024 22:44:01",
+         "title" : "European Individual Chess Championship 2024 commenced in Montenegro"
+      },
+      {
+         "description" : "GM Awonder Liang defeated GM Jeffery Xiong 2.5-1.5 in the Grand Final to win the Seirawan Chess Championship 2024 and $600. It was an exciting clash between two friends who, together, won the Bughouse Chess Championship earlier this year. GM Yasse...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-seirawan-chess-championship-liang-wins",
+         "pubDate" : "Fri, 08 Nov 2024 16:24:44",
+         "title" : "Liang Wins S-Chess Championship, Beats Ex-Bughouse-Partner Xiong In Grand Final"
+      },
+      {
          "description" : "In the latest episode of their weekly show \"Two Knights Talk\" Arne K&auml;hler and Johannes Fischer invited Matthias W&uuml;llenweber to talk about the possibilities and new features of ChessBase 18, which will be released in a few days. Then they came back to the topic of cheating, since the Australian grandmaster David Smerdon presented an interesting experiment a few days ago in the C-Squared podcast by Cristian Chirila and Fabiano Caruana: the first 'cheating tournament' in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-seirawan-chess-championship-qualifiers",
          "pubDate" : "Fri, 08 Nov 2024 08:30:00",
-         "title" : "Yasser Seirawan Himself Qualifies For Seirawan Chess Championship"
+         "title" : "Yasser Seirawan Himself Qualifies For Seirawan Chess Championship Final"
       },
       {
          "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
@@ -658,14 +674,6 @@ news_feed (
          "title" : "GothamChess Sacrifices Rooks In Back-To-Back Games, Takes 4-Point Lead Before Final Day"
       },
       {
-         "description" : "GM Tan Zhongyi demolished GM Kateryna Lagno in a rare line of the London System to take the sole lead on 2.5 points after three rounds of the 2024 Shymkent FIDE Women&#39;s Grand Prix. IM Batkhuyag Munguntuul had won in 17 moves in round two, but was ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-3",
-         "pubDate" : "Fri, 01 Nov 2024 12:56:00",
-         "title" : "Tan Zhongyi Takes Sole Lead; Humpy, Goryachkina Also Grab Wins"
-      },
-      {
          "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy Ethan Pang became the youngest-ever to pass the 2300 rating mark in an...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-4-more-endgames",
          "pubDate" : "Wed, 23 Oct 2024 00:00:00",
          "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 4 (More Endgames)"
-      },
-      {
-         "description" : "Three rounds were played at the European Chess Club Cup 2024 and eight teams remained perfect in the Open section, while only two teams score maximum 6 match points in the Women's competition. Teams in the co-lead after three rounds are SuperChess, Turkish Airlines, TAJFUN SK Ljubljana, Alkaloid, Bayegan Pendik Chess Sports Club, Novy Bor Chess Club, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Sentimento Ajka BSK. The top seeded SuperChess took a convincing 5-1 victory against Azerbaijani team Vugar Gashimov []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-chess-club-cup-2024/",
-         "pubDate" : "Tue, 22 Oct 2024 23:12:56",
-         "title" : "Three rounds played at the European Chess Club Cup 2024"
       },
       {
          "description" : "",
