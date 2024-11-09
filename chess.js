@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Bhubaneshwar ,Odisha on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-in-bhubaneshwar-odisha-on-16-17-december-2024/",
+         "pubDate" : "Sat, 09 Nov 2024 17:28:10",
+         "title" : "Senior National Arbiter Seminar & Exam in Bhubaneshwar ,Odisha on 16 & 17 December 2024"
+      },
+      {
          "description" : "The upcoming FIDE World Championship Match in Singapore, presented by Google, promises a grand chess celebration featuring elite players, chess legends and AI insights. Beyond the main event, visitors can enjoy interactive exhibitions, masterclasses, and simul games against grandmasters. Legends like Xie Jun and Boris Gelfand, alongside AI expert Nenad Tomašev, will provide fascinating perspectives on the game's evolution. The Singapore International Open, held alongside the match, offers an arena for aspiring players to compete.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-holds-top-spot-as-levon-aronian-closes-in-at-chennai-grand-masters/articleshow/115119997.cms",
          "pubDate" : "Sat, 09 Nov 2024 15:35:49",
          "title" : "Erigaisi holds top spot as Aronian closes in at Chennai Grand Masters"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Bhubaneshwar ,Odisha on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-at-bhubaneshwar-odisha-on-16-17-december-2024/",
-         "pubDate" : "Sat, 09 Nov 2024 15:22:00",
-         "title" : "Senior National Arbiters Seminar & Exam at Bhubaneshwar ,Odisha on 16 & 17 December 2024"
       },
       {
          "description" : "I've committed to running my first Half-Marathon in 2025. How fast will I be? How exactly will I train? How hard will it be? Honestly, I have no idea. Sometimes, that's the best way to start: feel the inspiration, take the leap, hold yourself accountable, and figure it out as you go. I've Wanted to []",
@@ -72,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-shymkent-2024-9",
          "pubDate" : "Sat, 09 Nov 2024 09:45:00",
          "title" : "Goryachkina scores 7/9, obtains convincing victory in Shymkent"
+      },
+      {
+         "description" : "GM Arjun Erigaisi continues to lead the Masters section of the Chennai Grand Masters 2024 with four points after a draw with GM Parham Maghsoodloo in the fifth round. Trailing him by half a point is GM Levon Aronian who defeated GM Maxime Vachier-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-5",
+         "pubDate" : "Sat, 09 Nov 2024 08:40:00",
+         "title" : "Aronian Defeats Vachier-Lagrave, Trails Arjun By Half-Point"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115101862.cms\" />Indian chess grandmaster Arjun Erigaisi secured a victory against Amin Tabatabaei in the Chennai Grandmasters Chess tournament, propelling him to the top of the leaderboard with 3.5 points. Erigaisi's aggressive playing style and strategic execution earned him his third win, bringing his live rating closer to world No. 1 Magnus Carlsen.",
@@ -746,14 +754,6 @@ news_feed (
          "title" : "Arjun, Caruana, Abdusattorov, Firouzja Battle For FIDE Circuit Candidates Spot"
       },
       {
-         "description" : "After evening the score against GM Pia Cramling with a win the previous day, IM Levy Rozman (GothamChess) has taken a 14-10 lead in the Battle of Generations. He won three consecutive games on Friday, with rook sacrifices in two of them, but Craml...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-day-5",
-         "pubDate" : "Fri, 01 Nov 2024 13:05:00",
-         "title" : "GothamChess Sacrifices Rooks In Back-To-Back Games, Takes 4-Point Lead Before Final Day"
-      },
-      {
          "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy Ethan Pang became the youngest-ever to pass the 2300 rating mark in an...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1144,22 +1144,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/10/dont-burn-king.html",
          "pubDate" : "Sun, 20 Oct 2024 15:21:00",
          "title" : "Don't Burn the King"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3267",
-         "pubDate" : "Sat, 19 Oct 2024 20:28:56",
-         "title" : "Aleksey Grebnev and Anna Shukhman win 2024 Asian Junior Championship"
-      },
-      {
-         "description" : "At the end of July, I set myself a challenge: 30 days, each day 6 games of 3+2 Blitz with full focus. The goal: reaching my new all time high online rating. Here is how I failed this challenge but still won 224 points in the process. Win 100 points without training. Tactics, Endgames, analyzing []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/simple-challenge/",
-         "pubDate" : "Sat, 19 Oct 2024 20:00:00",
-         "title" : "I won 200 rating points with a simple challenge"
       }
    ]
 }
