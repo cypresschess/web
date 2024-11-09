@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wilhelm Steinitz, the chess equivalent of Karl Marx and Charles Darwin combined, was the great strategic systematic chess thinker from the latter part of the 19th century. One of the major Steinitzian strategic precepts was to delay castling in order to establish the location of the enemy king. Once that had been determined, the strategic []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/war-games-of-the-german-intelligentsia/",
+         "pubDate" : "Sat, 09 Nov 2024 12:15:12",
+         "title" : "War games of the German intelligentsia"
+      },
+      {
+         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
+         "pubDate" : "Sat, 09 Nov 2024 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3299",
+         "pubDate" : "Sat, 09 Nov 2024 10:11:54",
+         "title" : "European Chess Championship 2024 kicks off in Montenegro"
+      },
+      {
+         "description" : "Aleksandra Goryachkina triumphed at the Shymkent Women's Grand Prix, clinching first place with a remarkable 7/9 score, finishing just ahead of top seed Tan Zhongyi. Goryachkina's performance included five consecutive wins, which positioned her as the clear leader going into the final round. Tan finished in sole second, while Kazakhstan's Bibisara Assaubayeva tied for third with Stavroula Tsolakidou, placing Assaubayeva atop the overall series standings. | Photo: Konstantin Chalabov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-shymkent-2024-9",
+         "pubDate" : "Sat, 09 Nov 2024 09:45:00",
+         "title" : "Goryachkina scores 7/9, obtains convincing victory in Shymkent"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115101862.cms\" />Indian chess grandmaster Arjun Erigaisi secured a victory against Amin Tabatabaei in the Chennai Grandmasters Chess tournament, propelling him to the top of the leaderboard with 3.5 points. Erigaisi's aggressive playing style and strategic execution earned him his third win, bringing his live rating closer to world No. 1 Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,6 +58,14 @@ news_feed (
          "title" : "European Individual Chess Championship 2024 commenced in Montenegro"
       },
       {
+         "description" : " The 24th European Individual Championship takes place 8th to 20th November 2024. Vladimir Fedoseev is the top seed ahead of Bogdan-Daniel Deac, Jorden Van Foreest, Haik Martirosyan, David Navara, Ivan Saric, Nikita Vitiugov, Shant Sargyan, Jonas Buhl Bjerre, Matthias Bluebaum, Fredrik Svane, Etienne Bacrot, Ruslan Ponomariov etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/24th-european-individual-championship-2024",
+         "pubDate" : "Fri, 8 Nov 2024 19:12:00",
+         "title" : "24th European Individual Championship 2024 - Games and Results"
+      },
+      {
          "description" : "GM Awonder Liang defeated GM Jeffery Xiong 2.5-1.5 in the Grand Final to win the Seirawan Chess Championship 2024 and $600. It was an exciting clash between the two friends who together won the Bughouse Chess Championship earlier this year. GM Yas...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,28 +82,12 @@ news_feed (
          "title" : "Two Knights Talk: Matthias W&uuml;llenweber on the functions and novelties of ChessBase 18"
       },
       {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). Top seed is Vladimir Fedoseev. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/europaeinzelmeisterschaft-live",
-         "pubDate" : "Fri, 08 Nov 2024 14:57:35",
-         "title" : "European Championship in Montenegro: Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3298",
          "pubDate" : "Fri, 08 Nov 2024 14:45:17",
          "title" : "FIDE WGP Shymkent: Goryachkina clinches victory"
-      },
-      {
-         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
-         "pubDate" : "Fri, 08 Nov 2024 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "The fourth round brought the two joint leaders to face each other: GM Amin Tabatabaei vs. GM Arjun Erigaisi, and it proved to be another big fight where Arjun prevailed to continue to lead the Chennai Grand Masters 2024 Masters section with 3.5/4....",
@@ -96,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/goryachkina-wins-2024-fide-womens-grand-prix-shymkent",
          "pubDate" : "Fri, 08 Nov 2024 07:28:00",
          "title" : "Goryachkina Wins Shymkent FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "\"I will be the underdog approaching this match,\" said World Champion Ding Liren",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42264924/ding-liren-d-gukesh-chess-world-championships-worried-losing-badly?device=featurephone",
+         "pubDate" : "Fri, 8 Nov 2024 06:23:39",
+         "title" : "'Worried about losing very badly': Ding Liren on World Championship vs D Gukesh"
       },
       {
          "description" : "Please find the Certificates here SL.NO Name 1 Palak Sinha 2 Abhishek Raj 3 Meera Kumari 4 Harsh, Himanshu 5 Ashish Singhal 6 Pammi, Rani",
@@ -1096,14 +1128,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/simple-challenge/",
          "pubDate" : "Sat, 19 Oct 2024 20:00:00",
          "title" : "I won 200 rating points with a simple challenge"
-      },
-      {
-         "description" : "Last week I covered India's double triumph in the Budapest Olympiad, winning gold in both the open and female section. This extraordinary success was to a great extent fuelled by the exploits of the Tiger of Madras, Viswanathan Anand, who has proved to be such an inspiration to his younger colleagues on the national team. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-tiger-of-madras/",
-         "pubDate" : "Sat, 19 Oct 2024 10:31:26",
-         "title" : "The Tiger of Madras"
       }
    ]
 }
