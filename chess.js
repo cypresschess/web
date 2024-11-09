@@ -94,16 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goryachkina-wins-2024-fide-womens-grand-prix-shymkent",
-         "pubDate" : "Fri, 08 Nov 2024 07:28:38",
+         "pubDate" : "Fri, 08 Nov 2024 07:28:00",
          "title" : "Goryachkina Wins Shymkent FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "\"I will be the underdog approaching this match,\" said World Champion Ding Liren",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42264924/ding-liren-d-gukesh-chess-world-championships-worried-losing-badly?device=featurephone",
-         "pubDate" : "Fri, 8 Nov 2024 06:23:39",
-         "title" : "'Worried about losing very badly': Ding Liren on World Championship vs D Gukesh"
       },
       {
          "description" : "Please find the Certificates here SL.NO Name 1 Palak Sinha 2 Abhishek Raj 3 Meera Kumari 4 Harsh, Himanshu 5 Ashish Singhal 6 Pammi, Rani",
