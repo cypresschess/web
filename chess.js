@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes just after he barely missing a GM norm at the Zadar GM Norm Tournament in Croatia. Elmi scored his first IM norm at the Kragero Resort Chess International in February 2023. The improvement has The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3300",
+         "pubDate" : "Sun, 10 Nov 2024 10:25:44",
+         "title" : "Champions Crowned at 36th FIDE World Youth Championship"
+      },
+      {
+         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
+         "pubDate" : "Sun, 10 Nov 2024 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes months after he earned his 2nd IM norm (barely missing a GM norm) at the Zadar GM Norm Tournament in Croatia. Elmi scored his first IM norm at the Kragero Resort Chess International in The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/",
