@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes just after he barely missing a GM norm at the Zadar GM Norm Tournament in Croatia. Elmi scored his first IM norm at the Kragero Resort Chess International in February 2023. The improvement has The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/",
+         "pubDate" : "Sun, 10 Nov 2024 04:11:02",
+         "title" : "Saad Elmi clinches IM title at World U18!"
+      },
+      {
+         "description" : "Round 5 of the Chennai Grand Masters Tournament saw Indian grandmaster Arjun Erigaisi remain in the lead in the Masters section, signing a draw with Iran's Parham Maghsoodloo. Arjun now has a half-point edge over Levon Aronian, who defeated Maxime Vachier-Lagrave in the day's only decisive game. In the Challengers section, Pranav Venkatesh's perfect record ended as he drew with Raunak Sadhwani, yet he retained his full-point lead over Leon Luke Mendonca. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-5",
+         "pubDate" : "Sun, 10 Nov 2024 01:35:00",
+         "title" : "Chennai Masters R5: Aronian beats MVL, now in sole second place"
+      },
+      {
          "description" : "The second round of the European Individual Chess Championship 2024 took place today in Petrovac, Montenego and as many as 47 players score perfect 2/2 points for an early co-lead in the event. The round was opened by ECU Chief Executive Officer Mr. Erald Dervishi who made the first ceremonial move in the game between GM Vladimir Fedoseev (SLO, 2712) and GM Evgenios Ioannidis (GRE, 2497). Most of the favourites in the second round scored wins, with a few upsets []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-in-bhubaneshwar-odisha-on-16-17-december-2024/",
          "pubDate" : "Sat, 09 Nov 2024 17:28:10",
          "title" : "Senior National Arbiter Seminar & Exam in Bhubaneshwar ,Odisha on 16 & 17 December 2024"
+      },
+      {
+         "description" : "Two and a half decades after GM Maurice Ashley became the first African American grandmaster, GM-elect Brewington Hardaway has climbed to the top of the mountain. Born in the Bronx, New York, 15-year-old Hardaway has completed the requirements to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-gm-title",
+         "pubDate" : "Sat, 09 Nov 2024 16:39:00",
+         "title" : "Brewington Hardaway Earns Historic Title, Set To Become 1st U.S.-Born Black Grandmaster"
+      },
+      {
+         "description" : "GM Daniel Naroditsky, who celebrated his 29th birthday on Saturday, showed that with age comes wisdom as he won his 24th Bullet Brawl&#38;nbsp;and the $400 first prize ahead of GMs Hikaru Nakamura and Andrew Tang. Naroditsky notched 77.5/83 and scored...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-november-9-2024",
+         "pubDate" : "Sat, 09 Nov 2024 16:29:00",
+         "title" : "Naroditsky Wins Birthday Bullet Brawl Ahead Of Nakamura, Tang"
       },
       {
          "description" : "The upcoming FIDE World Championship Match in Singapore, presented by Google, promises a grand chess celebration featuring elite players, chess legends and AI insights. Beyond the main event, visitors can enjoy interactive exhibitions, masterclasses, and simul games against grandmasters. Legends like Xie Jun and Boris Gelfand, alongside AI expert Nenad Tomašev, will provide fascinating perspectives on the game's evolution. The Singapore International Open, held alongside the match, offers an arena for aspiring players to compete.",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.thearticle.com/war-games-of-the-german-intelligentsia/",
          "pubDate" : "Sat, 09 Nov 2024 12:15:12",
          "title" : "War games of the German intelligentsia"
-      },
-      {
-         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
-         "pubDate" : "Sat, 09 Nov 2024 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
       },
       {
          "description" : "",
@@ -690,14 +714,6 @@ news_feed (
          "title" : "Humpy, Goryachkina Win Again To Catch Tan Zhongyi In Lead"
       },
       {
-         "description" : "IM Levy Rozman (GothamChess) won the Battle of Generations against GM Pia Cramling with four games to spare. Rozman came into the final day with a four-point lead, and he clinched the match with two consecutive wins after the halftime break. The f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-battle-of-generations-gothamchess-wins",
-         "pubDate" : "Sat, 02 Nov 2024 12:09:00",
-         "title" : "GothamChess Clinches Battle Of Generations With 4 Games To Spare"
-      },
-      {
          "description" : "The London Summit on Leadership in Crisis, held at London's Naval and Military Club on Saturday October 19, was an international gathering, dedicated to exploring the challenges and opportunities that await us in education, environment, business, politics, technology, and beyond over the next 50 years. I was invited to address this August forum by its co-organisers, Ambassador Dr Otto []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-anish-sarkar-becomes-youngest-rated-chess-prodigy-at-3-years/articleshow/114853301.cms",
          "pubDate" : "Fri, 01 Nov 2024 14:02:40",
          "title" : "Anish Sarkar becomes youngest rated chess prodigy at 3 years"
-      },
-      {
-         "description" : "GM Arjun Erigaisi tops the leaderboard to win the 2024 FIDE Circuit and become the first player to qualify for the 2026 FIDE Candidates Tournament, but things are complicated. The 2023 Circuit winner GM Fabiano Caruana and top-10 stars Nodirbek Ab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-caruana-abdusattorov-firouzja-fide-circuit-race",
-         "pubDate" : "Fri, 01 Nov 2024 13:39:00",
-         "title" : "Arjun, Caruana, Abdusattorov, Firouzja Battle For FIDE Circuit Candidates Spot"
       },
       {
          "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy Ethan Pang became the youngest-ever to pass the 2300 rating mark in an...",
