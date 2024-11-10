@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Can you find the continuation in this line for white? Puzzler&#039;s Paradise with GM Varuzhan Akobian<br /> Sundays at 4:00pm CST </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-kasparov-white-move-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ivk2necUBwE.jpg?itok=6SM_gfn0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-kasparov-white-move-chess-chesstactics",
+         "pubDate" : "Sun, 10 Nov 2024 19:06:57",
+         "title" : "Play Like Kasparov: White to Move | #chess #chesstactics"
+      },
+      {
+         "description" : "National Under 11 Rank Name 1 Madhvendra Pratap Sharma 2 Advik Amit Agrawal 3 Aarav A 4 Cyrus Eldho 5 Mehul Sondhi 6 Daniel Ajish",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-under-11-chess-championship-2024/",
+         "pubDate" : "Sun, 10 Nov 2024 18:02:50",
+         "title" : "Certificate of National Under 11 Chess Championship 2024"
+      },
+      {
+         "description" : "With 11 rounds World Youth Chess Championship ended here in Florianopolis starting from 29th Oct but Indians had little disappointing performance as far as medals",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-world-youth-chess-championship-2024/",
+         "pubDate" : "Sun, 10 Nov 2024 17:36:16",
+         "title" : "Final Report- World Youth Chess Championship 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115149181.cms\" />Grandmaster M Aravindh Chithambaram defeated Arjun Erigaisi in the Chennai Grand Masters chess tournament, ending Erigaisi's unbeaten streak. Aravindh and Amin Tabatabaei are now half a point behind Erigaisi and Levon Aronian, who share the lead with four points each. In the Challengers category, Pranav V maintained his lead despite two consecutive draws.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-hands-arjun-erigaisi-his-first-tournament-loss/articleshow/115149181.cms",
+         "pubDate" : "Sun, 10 Nov 2024 16:48:36",
+         "title" : "Aravindh Chithambaram hands Arjun Erigaisi his first tournament loss"
+      },
+      {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). Top seed is Vladimir Fedoseev. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
          "pubDate" : "Sun, 10 Nov 2024 10:20:00",
          "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "GM Aravindh Chithambaram&#39;s first win of the tournament in the sixth and penultimate round handed GM Arjun Erigaisi his first loss of the tournament, thus enabling GM Levon Aronian to join Arjun in the lead with four points in the Masters section o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-6",
+         "pubDate" : "Sun, 10 Nov 2024 08:30:00",
+         "title" : "Aravindh Beats Arjun, Tense Last Round Beckons"
       },
       {
          "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes months after he earned his 2nd IM norm (barely missing a GM norm) at the Zadar GM Norm Tournament in Croatia. Elmi&#160;scored his first IM norm&#160;at the Kragero Resort Chess International in The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -394,22 +434,6 @@ news_feed (
          "title" : "Chess Is A Game of Practice | #chess #chessforbeginners #education"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Denes Boros humorously talks about greedy in chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/always-be-greedy-my-friend-chess-chesstactics-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RUzWEWjYnxM.jpg?itok=sO8qND8R\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/always-be-greedy-my-friend-chess-chesstactics-chesshumor",
-         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
-         "title" : "Always Be Greedy My Friend | #chess #chesstactics #chesshumor"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tricks or tactics it doesn&#039;t matter according to GM Denes Boros Monday Masterclass<br /> Mondays at 6:30pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playing-tricks-or-tactics-chess-chesstactics-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2ISfNrBvr2Y.jpg?itok=l76SjUT-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/playing-tricks-or-tactics-chess-chesstactics-chesshumor",
-         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
-         "title" : "Playing for Tricks or Tactics | #chess #chesstactics #chesshumor"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -714,28 +738,12 @@ news_feed (
          "title" : "Report of 4th round of World Youth Chess Championship 2024 in Brazil"
       },
       {
-         "description" : "Considering the recent changes in the FIDE Tie Break Regulations and observing the impact of current tie-break systems used in championships/tournaments, the Arbiters Commission of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/proposal-tie-break-regulations-of-all-india-chess-federation/",
-         "pubDate" : "Sat, 02 Nov 2024 15:26:05",
-         "title" : "PROPOSAL : TIE BREAK REGULATIONS OF ALL INDIA CHESS FEDERATION"
-      },
-      {
          "description" : "How many hours have you wasted studying chess the wrong way? \"Wow, I've wasted so much time and money on non-important things,\" is the most common reaction from my new students. Just this week, two separate students realized that what they thought was 20-30 hours of study time on chess per week was, in reality, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/study-chess-in-a-smarter-way/",
          "pubDate" : "Sat, 02 Nov 2024 14:00:00",
          "title" : "Why CEOs have a hard time improving their chess"
-      },
-      {
-         "description" : "GMs Koneru Humpy and Aleksandra Goryachkina both won their second games in a row (vs. IMs Nurgyul Salimova and Stavroula Tsolakidou respectively) to catch GM Tan Zhongyi in the 2024 Shymkent FIDE Women&#39;s Grand Prix lead in round four. IM Batkhuyag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-4",
-         "pubDate" : "Sat, 02 Nov 2024 12:50:00",
-         "title" : "Humpy, Goryachkina Win Again To Catch Tan Zhongyi In Lead"
       },
       {
          "description" : "The London Summit on Leadership in Crisis, held at London's Naval and Military Club on Saturday October 19, was an international gathering, dedicated to exploring the challenges and opportunities that await us in education, environment, business, politics, technology, and beyond over the next 50 years. I was invited to address this August forum by its co-organisers, Ambassador Dr Otto []",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3281",
          "pubDate" : "Thu, 31 Oct 2024 19:10:25",
          "title" : "FIDE WGP Shymkent Round 2: Munguntuul stuns Paehtz in a 17-move upset"
-      },
-      {
-         "description" : "Rank Name 1 Nandhidhaa P V 2 Priyanka K 3 Padmini Rout 4 Kiran Manisha Mohanty 5 Saranya J 6 Chitlange Sakshi 7 Gomes Mary",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-50th-national-women-chess-championship-2024-in-karaikudi-tamil-nadu-from-03-13-october-2024/",
-         "pubDate" : "Thu, 31 Oct 2024 09:23:41",
-         "title" : "Certificate of 50th National Women Chess Championship 2024 in Karaikudi Tamil Nadu from 03-13 October 2024"
       },
       {
          "description" : "ARTE Culture, the French-German film production and TV channel, recently made a full six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. At the same time they broadcast a 50-minute portrait that traces the extraordinary life and career of the global icon. The film contains many historically interviews by personalities from the time. It is well worth watching.",
@@ -1160,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3268",
          "pubDate" : "Tue, 22 Oct 2024 21:47:30",
          "title" : "European Chess Club Cup: Multiple leaders after Round 3"
-      },
-      {
-         "description" : " It has been nine years since International Master Emory Tate passed away on October 17, 2015, while competing in the Sam Shankland Open tournament. He was a lifelong loyalist to chess, a brilliant tactician, and displayed immense passion. This earned him a huge following. Emory Tate vacationing in MexicoPhoto by Ed Lewis Tate's bold pronouncements The post <a href=\"https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/\">Remembering Emory Tate</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/",
-         "pubDate" : "Sun, 20 Oct 2024 18:36:19",
-         "title" : "Remembering Emory Tate"
       }
    ]
 }
