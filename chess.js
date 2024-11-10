@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). Top seed is Vladimir Fedoseev. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/europaeinzelmeisterschaft-live",
+         "pubDate" : "Sun, 10 Nov 2024 14:55:00",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Chennai Grand Masters - Live!"
       },
       {
-         "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes months after he earned his 2nd IM norm (barely missing a GM norm) at the Zadar GM Norm Tournament in Croatia. Elmi scored his first IM norm at the Kragero Resort Chess International in The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes months after he earned his 2nd IM norm (barely missing a GM norm) at the Zadar GM Norm Tournament in Croatia. Elmi&#160;scored his first IM norm&#160;at the Kragero Resort Chess International in The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-gm-title",
          "pubDate" : "Sat, 09 Nov 2024 16:39:00",
-         "title" : "Brewington Hardaway Earns Historic Title, Set To Become 1st U.S.-Born Black Grandmaster"
+         "title" : "Brewington Hardaway Earns Historic Title, Set To Become 1st U.S.-Born African American Grandmaster"
       },
       {
          "description" : "GM Daniel Naroditsky, who celebrated his 29th birthday on Saturday, showed that with age comes wisdom as he won his 24th Bullet Brawl&#38;nbsp;and the $400 first prize ahead of GMs Hikaru Nakamura and Andrew Tang. Naroditsky notched 77.5/83 and scored...",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/10/20/remembering-emory-tate/",
          "pubDate" : "Sun, 20 Oct 2024 18:36:19",
          "title" : "Remembering Emory Tate"
-      },
-      {
-         "description" : "In our monthly featured Flickr photo, sometimes we see giant chess pieces occurring naturally in nature (I know that sentence is redundant, but how to rewrite it?). For example:- <UL> <LI> <A HREF=\"https://chessforallages.blogspot.com/2017/09/chess-in-sky.html\">Chess in the Sky</A> (September 2017) <LI> <A HREF=\"https://chessforallages.blogspot.com/2022/12/chess-on-orions-belt.html\">Chess on Orion's Belt</A> (December 2022) </UL> <P> And sometimes we see giant chess pieces constructed in natural surroundings. Consider the following from 2024 <I>Burning Man</I>. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oj20.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/p",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/10/dont-burn-king.html",
-         "pubDate" : "Sun, 20 Oct 2024 15:21:00",
-         "title" : "Don't Burn the King"
       }
    ]
 }
