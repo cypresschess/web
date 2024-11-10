@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-11-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202411094172 target='_blank'>CHESSPANDA11092024SATURDAY</a>",
+"SPRING","2024-11-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202411083422 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-11-08","6","<a href=http://www.uschess.org/msa/XtblMain.php?202411083262 target='_blank'>FBCC 2024 NATIONAL STEM DAY OPEN</a>",
 "HOUSTON","2024-11-01  - 11-03","23","<a href=http://www.uschess.org/msa/XtblMain.php?202411031932 target='_blank'>$2,000 NOVEMBER 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-11-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202411029802 target='_blank'>CHESSPANDA11022024SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2024-03-29","32","<a href=http://www.uschess.org/msa/XtblMain.php?202403298062 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-03-08  - 03-29","7","<a href=http://www.uschess.org/msa/XtblMain.php?202403297942 target='_blank'>REBECCA CHESS CLUB MARCH 2024 MONTHLY SWISS</a>",
 "HOUSTON","2024-03-29","16","<a href=http://www.uschess.org/msa/XtblMain.php?202403297922 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 29,2024</a>",
-"CYPRESS","2024-03-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202403297902 target='_blank'>Knights of Cypress</a>",
-"HOUSTON","2024-03-05  - 03-26","22","<a href=http://www.uschess.org/msa/XtblMain.php?202403266482 target='_blank'>MARCH 2024 TUESDAY NIGHT SWISS</a>",
 ]);
