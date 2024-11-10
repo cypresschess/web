@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the European Individual Chess Championship 2024 took place today in Petrovac, Montenego and as many as 47 players score perfect 2/2 points for an early co-lead in the event. The round was opened by ECU Chief Executive Officer Mr. Erald Dervishi who made the first ceremonial move in the game between GM Vladimir Fedoseev (SLO, 2712) and GM Evgenios Ioannidis (GRE, 2497). Most of the favourites in the second round scored wins, with a few upsets []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-round-2-recap/",
+         "pubDate" : "Sat, 09 Nov 2024 22:45:48",
+         "title" : "European Individual Chess Championship 2024 - Round 2 recap"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Bhubaneshwar ,Odisha on",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3270",
          "pubDate" : "Thu, 24 Oct 2024 02:03:09",
          "title" : "European Chess Club Cup 2024 crosses half-way mark"
-      },
-      {
-         "description" : "Four rounds have been played at the 39th European Chess Club Cup and the 28th European Women's Chess Club Cup, and only four teams co-lead the Open tournament while TAJFUN SK Ljubljana emerged as the sole leader of the Women's competition. Four teams co-leading in the Open section with perfect score of 8 match points are: Turkish Airlines, Alkaloid, Tuxera Aquaprofit Nagykanizsai Sakk Klub, and Novy Bor Chess Club. The top-seeded SuperChess in the Open tournament suffered an upset losing []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tajfun-sk-ljubljana-leads-at-european-womens-club-cup-2024-multiple-leaders-in-the-open-section/",
-         "pubDate" : "Wed, 23 Oct 2024 23:47:54",
-         "title" : "TAJFUN SK Ljubljana leads at European Women's Club Cup 2024; Multiple leaders in the Open section"
       },
       {
          "description" : "",
