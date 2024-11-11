@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After four played rounds at the European Individual Chess Championship 2024, GM Frederik Svane (GER, 2654) and GM Maksim Chigaev (ESP, 2604) emerged on the top as the only two players in the tournament with the perfect score of 4/4 points. GM Frederik Svane (GER, 2654) was victorious today against GM Nikolas Theodorou (GRE, 2612). A balanced game got complicated after Svane sacrificed a pawn, and Theodorou accepted the sacrifice entering a slightly worse position. Pushing for a win, Svane []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/frederik-svane-and-maksim-chigaev-emerged-on-the-top-of-the-eicc2024/",
+         "pubDate" : "Mon, 11 Nov 2024 20:06:28",
+         "title" : "Frederik Svane and Maksim Chigaev emerged on the top of the EICC2024"
+      },
+      {
          "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except prints, vouchers and ducats). The premium offer is the brand-new and revolutionary ChessBase 18, which has access to many billions of online games. It provides completely new ways to analyse your own and your opponent's playing style, listing weaknesses and strengths. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3302",
          "pubDate" : "Mon, 11 Nov 2024 13:22:04",
          "title" : "Gala in Barcelona celebrates 100th anniversary of Catalan Chess Federation"
+      },
+      {
+         "description" : "GM Aravindh Chithambaram emerged as the winner of the 2024 Chennai Grand Masters&#38;nbsp;after tying for first place with GMs Levon Aronian and Arjun Erigaisi and defeating Aronian in the final of the tiebreak with a 1.5-0.5 score. The format of the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aravindh-wins-2024-chennai-grand-masters",
+         "pubDate" : "Mon, 11 Nov 2024 09:42:00",
+         "title" : "Aravindh Wins Chennai Grand Masters Through Tiebreak"
       },
       {
          "description" : "The latest version of the standard chess study program has received a major update. It now allows you to evaluate your opponents, study their repertoire, their strengths and weaknesses, all at a click of the mouse. It draws its conclusions by replaying all their games - it has access to many billions of online games. Head programmer Matthias Wuellenweber has written about the new program in the latest issue of ChessBase Magazine. Check out the details and decide whether you can afford not to have the program.",
@@ -402,7 +418,7 @@ news_feed (
          "title" : "Hikaru Is ESPECIALLY Good | #chess #hikaru"
       },
       {
-         "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' standing in Alabama chess history - is ",
+         "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship - hosted by the Mobile Chess Club - was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' sta",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/rachels-returns-wins-sixth-alabama-championship-video",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-champions-2024-crowned-in-italy/",
          "pubDate" : "Sun, 03 Nov 2024 17:07:11",
          "title" : "European Senior Chess Champions 2024 crowned in Italy"
-      },
-      {
-         "description" : "GM Aleksandra Goryachkina outplayed top-seed GM Tan Zhongyi with a kingside attack to win a third game in a row and take the sole lead in the 2024 Shymkent FIDE Women&#39;s Grand Prix going into the rest day. Round five saw just one draw, as IM Bibisa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-5",
-         "pubDate" : "Sun, 03 Nov 2024 15:00:00",
-         "title" : "Goryachkina's Hat Trick Gives Her Sole Lead; Divya Scores 1st Win"
       },
       {
          "description" : "Please find the live games Link for Nationals Sub Junior 2024 Live Games Link : https://live.tamilchess.com/subjunior/index.html",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/25/chess-fabiano-caruana-world-no-2-wins-fourth-us-championship-title",
          "pubDate" : "Fri, 25 Oct 2024 07:00:13",
          "title" : "Chess: Fabiano Caruana, world No 2, wins fourth US Championship title"
-      },
-      {
-         "description" : "After five played rounds at the 39th European Chess Club Cup 2024, Novy Bor Chess Club emerged as the sole leader of the Open tournament, while three teams tie for the top of the 28th European Women's Chess Club Cup. After defeating Tuxera Aquaprofit Nagykanizsai Sakk Klub with a convincing 4.5-1.5 score, Novy Bor Chess Club remained the only team with the perfect score in the tournament. GM Vidit Santosh Gujrathi (2726, Novy Bor Chess Club) was victorious against GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/novy-bor-takes-lead-in-european-chess-club-cup-2024-three-teams-leading-in-womens-section/",
-         "pubDate" : "Thu, 24 Oct 2024 23:25:19",
-         "title" : "Novy Bor takes lead in European Chess Club Cup 2024, three teams leading in Women's section"
       },
       {
          "description" : "Alert readers of my weekly chess columns in TheArticle will have observed my predilection for such writers as Thomas Mann, Kafka, Nietzsche, Conrad, Freud, TS Eliot, Vladimir Nabokov, George Orwell, Sir Arthur Conan Doyle, Dean Swift, Stefan Zweig and John Dryden. Three of the above (Eliot, Nabokov and Zweig) even wrote directly about chess, while []",
