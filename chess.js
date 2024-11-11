@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The latest version of the standard chess study program has received a major update. It now allows you to evaluate your opponents, study their repertoire, their strengths and weaknesses, all at a click of the mouse. It draws its conclusions from many billions of online games to which it has access. Head programmer Matthias Wuellenweber has written about the new program in the latest issue of ChessBase Magazine. Check out the details and decide whether you can afford not to have the program.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-new-dimensions-in-study-and-preparation",
+         "pubDate" : "Mon, 11 Nov 2024 08:00:20",
+         "title" : "ChessBase 18: New dimensions in study and preparation"
+      },
+      {
          "description" : "In round 6 of the Masters section in Chennai, Arjun Erigaisi's first loss of the event - against Aravindh Chithambaram - left him tied with Levon Aronian for the lead as the tournament heads into a crucial final round. Meanwhile, in the Challengers, the title will be decided in a head-to-head clash between Pranav Venkatesh and Leon Luke Mendonca, as Pranav's long-time lead has narrowed to just half a point. Both sections promise thrilling finales at the Anna Centenary Library. | Photos: Anmol Bhargav",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-hands-arjun-erigaisi-his-first-tournament-loss/articleshow/115149181.cms",
          "pubDate" : "Sun, 10 Nov 2024 16:48:36",
          "title" : "Aravindh Chithambaram hands Arjun Erigaisi his first tournament loss"
-      },
-      {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). Top seed is Vladimir Fedoseev. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/europaeinzelmeisterschaft-live",
-         "pubDate" : "Sun, 10 Nov 2024 14:55:00",
-         "title" : "European Championship in Montenegro: Live"
       },
       {
          "description" : "",
