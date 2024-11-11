@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 6 of the Masters section in Chennai, Arjun Erigaisi's first loss of the event - against Aravindh Chithambaram - left him tied with Levon Aronian for the lead as the tournament heads into a crucial final round. Meanwhile, in the Challengers, the title will be decided in a head-to-head clash between Pranav Venkatesh and Leon Luke Mendonca, as Pranav's long-time lead has narrowed to just half a point. Both sections promise thrilling finales at the Anna Centenary Library. | Photos: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2024-6",
+         "pubDate" : "Mon, 11 Nov 2024 01:30:00",
+         "title" : "Chennai Masters R6: Aravindh stuns Arjun, Aronian shares the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> White is in trouble and must draw. Puzzler&#039;s Paradise with GM Var Akobian<br /> Sundays at 4:00pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rated-players-2000-white-needs-draw-chess-chessstrategy\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mf_izI8_alc.jpg?itok=kl2os5yA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rated-players-2000-white-needs-draw-chess-chessstrategy",
+         "pubDate" : "Mon, 11 Nov 2024 01:07:03",
+         "title" : "Rated Players 2000+ : White Needs To Draw | | #chess #chessstrategy"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Missed little detail and its a draw Double Exclam with GM Var Akobian<br /> Sundays at 5:00pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/var-got-us-one-chess-chessendgames-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u164msdKVVw.jpg?itok=U4hwc6Od\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/var-got-us-one-chess-chessendgames-chesstactics",
+         "pubDate" : "Mon, 11 Nov 2024 01:07:03",
+         "title" : "Var Got Us With This One | #chess #chessendgames #chesstactics"
+      },
+      {
          "description" : "After three played rounds at the European Individual Chess Championship 2024, 10 players emerged on the top scoring maximum 3/3 points. The early co-leaders are GM Bogdan-Daniel Deac (ROU, 2687), GM Matthias Bluebaum (GER, 2654), GM Frederik Svane (GER, 2654), GM Ivan Cheparinov (BUL, 2632), GM Robert Hovhannisyan (ARM, 2613), GM Nikolas Theodorou (GRE, 2612), GM Daniel Dardha (BEL, 2606), GM Maksim Chigaev (ESP, 2605), GM Yagiz Kaan Erdogmus (TUR, 2604) and GM Yahli Sokolovsky (ISR, 2516), followed by a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -82,14 +106,6 @@ news_feed (
          "title" : "Champions Crowned at 36th FIDE World Youth Championship"
       },
       {
-         "description" : "The second edition of the Chennai Grand Masters is taking place on 5-11 November at the Anna Centenary Library in Chennai. The tournament, which will play a key role in the FIDE circuit race, is an 8-player single round-robin with a classical time control. Arjun Erigaisi heads the field, which also includes the likes of Levon Aronian, Vidit Gujrathi and Maxime Vachier-Lagrave. | Follow the action live with expert commentary starting at 10.30 CET (4.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-live",
-         "pubDate" : "Sun, 10 Nov 2024 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
-      },
-      {
          "description" : "GM Aravindh Chithambaram&#39;s first win of the tournament in the sixth and penultimate round handed GM Arjun Erigaisi his first loss of the tournament, thus enabling GM Levon Aronian to join Arjun in the lead with four points in the Masters section o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/",
          "pubDate" : "Sun, 10 Nov 2024 04:11:02",
          "title" : "Saad Elmi clinches IM title at World U18!"
-      },
-      {
-         "description" : "Round 5 of the Chennai Grand Masters Tournament saw Indian grandmaster Arjun Erigaisi remain in the lead in the Masters section, signing a draw with Iran's Parham Maghsoodloo. Arjun now has a half-point edge over Levon Aronian, who defeated Maxime Vachier-Lagrave in the day's only decisive game. In the Challengers section, Pranav Venkatesh's perfect record ended as he drew with Raunak Sadhwani, yet he retained his full-point lead over Leon Luke Mendonca. | Photos: Anmol Bhargav",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-5",
-         "pubDate" : "Sun, 10 Nov 2024 01:35:00",
-         "title" : "Chennai Masters R5: Aronian beats MVL, now in sole second place"
       },
       {
          "description" : "The second round of the European Individual Chess Championship 2024 took place today in Petrovac, Montenego and as many as 47 players score perfect 2/2 points for an early co-lead in the event. The round was opened by ECU Chief Executive Officer Mr. Erald Dervishi who made the first ceremonial move in the game between GM Vladimir Fedoseev (SLO, 2712) and GM Evgenios Ioannidis (GRE, 2497). Most of the favourites in the second round scored wins, with a few upsets []",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-november-9-2024",
          "pubDate" : "Sat, 09 Nov 2024 16:29:00",
          "title" : "Naroditsky Wins Birthday Bullet Brawl Ahead Of Nakamura, Tang"
-      },
-      {
-         "description" : "The upcoming FIDE World Championship Match in Singapore, presented by Google, promises a grand chess celebration featuring elite players, chess legends and AI insights. Beyond the main event, visitors can enjoy interactive exhibitions, masterclasses, and simul games against grandmasters. Legends like Xie Jun and Boris Gelfand, alongside AI expert Nenad Tomašev, will provide fascinating perspectives on the game's evolution. The Singapore International Open, held alongside the match, offers an arena for aspiring players to compete.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-events-visitors",
-         "pubDate" : "Sat, 09 Nov 2024 16:00:00",
-         "title" : "Unique events for visitors of Singapore World Championship match"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115119997.cms\" />Raunak Sadhwani halted Pranav V's winning streak with a draw in the Chennai Grand Masters chess tournament. Levon Aronian defeated Maxime Vachier-Lagrave and moved closer to leader Arjun Erigaisi, who drew with Parham Maghsoodloo. Vidit Gujarathi and Amin Tabatabaei, as well as Alexey Sarana and Aravindh Chithambaram, also drew their matches.",
@@ -192,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3299",
          "pubDate" : "Sat, 09 Nov 2024 10:11:54",
          "title" : "European Chess Championship 2024 kicks off in Montenegro"
-      },
-      {
-         "description" : "Aleksandra Goryachkina triumphed at the Shymkent Women's Grand Prix, clinching first place with a remarkable 7/9 score, finishing just ahead of top seed Tan Zhongyi. Goryachkina's performance included five consecutive wins, which positioned her as the clear leader going into the final round. Tan finished in sole second, while Kazakhstan's Bibisara Assaubayeva tied for third with Stavroula Tsolakidou, placing Assaubayeva atop the overall series standings. | Photo: Konstantin Chalabov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-shymkent-2024-9",
-         "pubDate" : "Sat, 09 Nov 2024 09:45:00",
-         "title" : "Goryachkina scores 7/9, obtains convincing victory in Shymkent"
       },
       {
          "description" : "GM Arjun Erigaisi continues to lead the Masters section of the Chennai Grand Masters 2024 with four points after a draw with GM Parham Maghsoodloo in the fifth round. Trailing him by half a point is GM Levon Aronian who defeated GM Maxime Vachier-...",
@@ -248,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesscom-seirawan-chess-championship-liang-wins",
          "pubDate" : "Fri, 08 Nov 2024 16:24:00",
          "title" : "Liang Wins S-Chess Championship, Beats Ex-Bughouse-Partner Xiong In Grand Final"
-      },
-      {
-         "description" : "In the latest episode of their weekly show \"Two Knights Talk\" Arne K&auml;hler and Johannes Fischer invited Matthias W&uuml;llenweber to talk about the possibilities and new features of ChessBase 18, which will be released in a few days. Then they came back to the topic of cheating, since the Australian grandmaster David Smerdon presented an interesting experiment a few days ago in the C-Squared podcast by Cristian Chirila and Fabiano Caruana: the first 'cheating tournament' in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-matthias-wuellenweber-on-the-functions-and-novelties-of-chessbase-18",
-         "pubDate" : "Fri, 08 Nov 2024 15:17:29",
-         "title" : "Two Knights Talk: Matthias W&uuml;llenweber on the functions and novelties of ChessBase 18"
       },
       {
          "description" : "",
@@ -394,14 +378,6 @@ news_feed (
          "title" : "Hikaru Is ESPECIALLY Good | #chess #hikaru"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Denes talks about the possible hype of different chess openings Grandmaster Psychology with GM Denes Boros<br /> Wednesdays @ 5:00pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-hype-berlin-or-najdorf-chess-chessopenings-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gKDiSn1xpao.jpg?itok=01_dqJo-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-opening-hype-berlin-or-najdorf-chess-chessopenings-education",
-         "pubDate" : "Thu, 07 Nov 2024 01:05:12",
-         "title" : "Chess Opening Hype: Berlin or Najdorf | #chess #chessopenings #education"
-      },
-      {
          "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' standing in Alabama chess history - is ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -432,14 +408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3295",
          "pubDate" : "Wed, 06 Nov 2024 17:05:35",
          "title" : "WGP Shymkent: Goryachkina and Tan top the standings after Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman (@zefcatt ) shares her thoughts on playing chess systems Beginner Breakdown<br /> Mondays at 5:30pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-playing-systems-chess-chessforbeginners-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/voc04UMHfWk.jpg?itok=pZ4JBmAk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-playing-systems-chess-chessforbeginners-education",
-         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
-         "title" : "Chess For Beginners: Playing Systems | #chess #chessforbeginners #education"
       },
       {
          "description" : "",
