@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three played rounds at the European Individual Chess Championship 2024, 10 players emerged on the top scoring maximum 3/3 points. The early co-leaders are GM Bogdan-Daniel Deac (ROU, 2687), GM Matthias Bluebaum (GER, 2654), GM Frederik Svane (GER, 2654), GM Ivan Cheparinov (BUL, 2632), GM Robert Hovhannisyan (ARM, 2613), GM Nikolas Theodorou (GRE, 2612), GM Daniel Dardha (BEL, 2606), GM Maksim Chigaev (ESP, 2605), GM Yagiz Kaan Erdogmus (TUR, 2604) and GM Yahli Sokolovsky (ISR, 2516), followed by a []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/10-players-with-maximum-score-at-the-european-individual-chess-championship-2024/",
+         "pubDate" : "Sun, 10 Nov 2024 23:50:16",
+         "title" : "10 players with maximum score at the European Individual Chess Championship 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Can you find the continuation in this line for white? Puzzler&#039;s Paradise with GM Varuzhan Akobian<br /> Sundays at 4:00pm CST </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rated-players-2000-play-kasparov-white-move-chess-chesstactics-twitch-kasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ivk2necUBwE.jpg?itok=6SM_gfn0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rated-players-2000-play-kasparov-white-move-chess-chesstactics-twitch-kasparov",
+         "pubDate" : "Sun, 10 Nov 2024 22:07:01",
+         "title" : "Rated Players 2000+ : Play Like Kasparov: White to Move | #chess #chesstactics #twitch #kasparov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Find the brilliant move in this close endgame? White to play </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bishop-and-pawn-endgame-chess-chessendgames\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/86lxQ69FLDY.jpg?itok=kgDYx6DU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bishop-and-pawn-endgame-chess-chessendgames",
+         "pubDate" : "Sun, 10 Nov 2024 22:07:01",
+         "title" : "Bishop and Pawn Endgame #chess #chessendgames"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3301",
+         "pubDate" : "Sun, 10 Nov 2024 20:57:43",
+         "title" : "Gukesh Dommaraju: \"I just want to enjoy the experience\""
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Can you find the continuation in this line for white? Puzzler&#039;s Paradise with GM Varuzhan Akobian<br /> Sundays at 4:00pm CST </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-kasparov-white-move-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ivk2necUBwE.jpg?itok=6SM_gfn0\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -103,7 +135,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-gm-title",
          "pubDate" : "Sat, 09 Nov 2024 16:39:00",
-         "title" : "Brewington Hardaway Earns Historic Title, Set To Become 1st U.S.-Born African American Grandmaster"
+         "title" : "Brewington Hardaway Earns Grandmaster Title, 2nd African American GM In History"
       },
       {
          "description" : "GM Daniel Naroditsky, who celebrated his 29th birthday on Saturday, showed that with age comes wisdom as he won his 24th Bullet Brawl&#38;nbsp;and the $400 first prize ahead of GMs Hikaru Nakamura and Andrew Tang. Naroditsky notched 77.5/83 and scored...",
@@ -408,30 +440,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-beginners-playing-systems-chess-chessforbeginners-education",
          "pubDate" : "Wed, 06 Nov 2024 16:05:01",
          "title" : "Chess For Beginners: Playing Systems | #chess #chessforbeginners #education"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman (@zefcatt ) shows the crushing tactic that forces her opponent to resign Beginner Breakdown<br /> Mondays at 5:30pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-funny-looking-forkthats-tactics-chess-chessforbeginners-zefcatt\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tSCfaZuDpaY.jpg?itok=2kTtEROU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-funny-looking-forkthats-tactics-chess-chessforbeginners-zefcatt",
-         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
-         "title" : "Chess For Beginners: Funny Looking Fork...That's Tactics!! | #chess #chessforbeginners #zefcatt"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman ( @zefcatt ) gives a basic definition for weakness and outpost in chess Beginner Breakdown<br /> Mondays at 5:30 CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-beginners-chess-weaknesses-and-outposts-chess-chessforbeginners-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TmyJN2MtR0o.jpg?itok=a73Ap1Uz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-beginners-chess-weaknesses-and-outposts-chess-chessforbeginners-education",
-         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
-         "title" : "Chess For Beginners: Chess Weaknesses and Outposts | #chess #chessforbeginners #education"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Denes Boros talks about how to learn from your mistakes Monday Masterclass<br /> Mondays at 6:30 CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-game-practice-chess-chessforbeginners-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ewcW3exQ5iY.jpg?itok=Tb6GOZyw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-game-practice-chess-chessforbeginners-education",
-         "pubDate" : "Wed, 06 Nov 2024 16:05:01",
-         "title" : "Chess Is A Game of Practice | #chess #chessforbeginners #education"
       },
       {
          "description" : "",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.thearticle.com/parallel-lives-a-modern-plutarch/",
          "pubDate" : "Thu, 24 Oct 2024 14:59:23",
          "title" : "'Parallel Lives': a modern Plutarch"
-      },
-      {
-         "description" : "The&#160;European Senior Chess Championship 2024&#160;starts tomorrow and takes place from October 25 to November 3 in Lignano Sabbiadoro, Italy. The event is played in two age categories: 50+ and 65+, open and women's sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per movestarting from move 1. Nearly 180 players coming []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2024-starts-in-italy/",
-         "pubDate" : "Thu, 24 Oct 2024 14:09:25",
-         "title" : "European Senior 2024 starts in Italy"
       },
       {
          "description" : "",
