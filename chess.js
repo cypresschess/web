@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The latest version of the standard chess study program has received a major update. It now allows you to evaluate your opponents, study their repertoire, their strengths and weaknesses, all at a click of the mouse. It draws its conclusions from many billions of online games to which it has access. Head programmer Matthias Wuellenweber has written about the new program in the latest issue of ChessBase Magazine. Check out the details and decide whether you can afford not to have the program.",
+         "description" : "The latest version of the standard chess study program has received a major update. It now allows you to evaluate your opponents, study their repertoire, their strengths and weaknesses, all at a click of the mouse. It draws its conclusions by replaying all their games - it has access to many billions of online games. Head programmer Matthias Wuellenweber has written about the new program in the latest issue of ChessBase Magazine. Check out the details and decide whether you can afford not to have the program.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-18-new-dimensions-in-study-and-preparation",
