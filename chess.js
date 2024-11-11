@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except prints, vouchers and ducats). The premium offer is the brand-new and revolutionary ChessBase 18, which has access to many billions of online games. It provides completely new ways to analyse your own and your opponent's playing style, listing weaknesses and strengths. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/everything-25-off-on-discount-day-4",
+         "pubDate" : "Mon, 11 Nov 2024 14:00:00",
+         "title" : "Everything 25% off on Discount Day!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3302",
+         "pubDate" : "Mon, 11 Nov 2024 13:22:04",
+         "title" : "Gala in Barcelona celebrates 100th anniversary of Catalan Chess Federation"
+      },
+      {
          "description" : "The latest version of the standard chess study program has received a major update. It now allows you to evaluate your opponents, study their repertoire, their strengths and weaknesses, all at a click of the mouse. It draws its conclusions by replaying all their games - it has access to many billions of online games. Head programmer Matthias Wuellenweber has written about the new program in the latest issue of ChessBase Magazine. Check out the details and decide whether you can afford not to have the program.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-18-new-dimensions-in-study-and-preparation",
          "pubDate" : "Mon, 11 Nov 2024 08:00:20",
          "title" : "ChessBase 18: New dimensions in study and preparation"
+      },
+      {
+         "description" : "Kyla Zhao brings her own experiences to life in her new novel May The Best Player Win, delving into gender inequality and stereotypes, captivating readers within and beyond the chess community. &#38;ldquo;I just want to remind people that there are ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kyla-zhao-may-the-best-player-win",
+         "pubDate" : "Mon, 11 Nov 2024 05:52:22",
+         "title" : "Forbes Honoree's 'Game-Changing' Chess Novel Tackling Gender Bias Gains Acclaim"
       },
       {
          "description" : "In round 6 of the Masters section in Chennai, Arjun Erigaisi's first loss of the event - against Aravindh Chithambaram - left him tied with Levon Aronian for the lead as the tournament heads into a crucial final round. Meanwhile, in the Challengers, the title will be decided in a head-to-head clash between Pranav Venkatesh and Leon Luke Mendonca, as Pranav's long-time lead has narrowed to just half a point. Both sections promise thrilling finales at the Anna Centenary Library. | Photos: Anmol Bhargav",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3286",
          "pubDate" : "Sat, 02 Nov 2024 19:24:27",
          "title" : "FIDE WGP Shymkent: Koneru and Goryachkina сlose in after Round 4"
-      },
-      {
-         "description" : "GM Hikaru Nakamura has captured another Bullet Brawl after scoring 71.5/77&#38;mdash;which includes a 23-game winning streak&#38;mdash;and finishing ahead of the second and third-placed GMs Oleksandr Bortnyk and Tuan Minh Le. With a winning margin of 55 p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-2-2024",
-         "pubDate" : "Sat, 02 Nov 2024 17:24:00",
-         "title" : "Nakamura Posts 23-Game Streak, Completes Bullet Brawl Hat Trick"
       },
       {
          "description" : "",
