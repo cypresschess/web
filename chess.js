@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the first-ever Saint Louis Masters is a nine-round Swiss that features up to 60 internationally ranked players, including top grandmasters and rising stars from around the globe. Join GMs Yasser Seirawan, IM Nazi Paikidze, and WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-day-1-rounds-1-2",
+         "pubDate" : "Tue, 12 Nov 2024 04:07:47",
+         "title" : "Saint Louis Masters 2024: Day 1 | Rounds 1-2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/moving-beginner-level-im-tianqi-wang-chess-chessendgames-twitch\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NvIKf4ycq-I.jpg?itok=a3vnpLiw\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kyla-zhao-may-the-best-player-win",
          "pubDate" : "Mon, 11 Nov 2024 05:52:22",
          "title" : "Forbes Honoree's 'Game-Changing' Chess Novel Tackling Gender Bias Gains Acclaim"
-      },
-      {
-         "description" : "In round 6 of the Masters section in Chennai, Arjun Erigaisi's first loss of the event - against Aravindh Chithambaram - left him tied with Levon Aronian for the lead as the tournament heads into a crucial final round. Meanwhile, in the Challengers, the title will be decided in a head-to-head clash between Pranav Venkatesh and Leon Luke Mendonca, as Pranav's long-time lead has narrowed to just half a point. Both sections promise thrilling finales at the Anna Centenary Library. | Photos: Anmol Bhargav",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2024-6",
-         "pubDate" : "Mon, 11 Nov 2024 01:30:00",
-         "title" : "Chennai Masters R6: Aravindh stuns Arjun, Aronian shares the lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> White is in trouble and must draw. Puzzler&#039;s Paradise with GM Var Akobian<br /> Sundays at 4:00pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rated-players-2000-white-needs-draw-chess-chessstrategy\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mf_izI8_alc.jpg?itok=kl2os5yA\" alt=\"\" /></a></div>",
