@@ -74,7 +74,7 @@ news_feed (
          "title" : "Gala in Barcelona celebrates 100th anniversary of Catalan Chess Federation"
       },
       {
-         "description" : "GM Aravindh Chithambaram emerged as the winner of the 2024 Chennai Grand Masters&#38;nbsp;after tying for first place with GMs Levon Aronian and Arjun Erigaisi and defeating Aronian in the final of the tiebreak with a 1.5-0.5 score. The format of the ...",
+         "description" : "GM Aravindh Chithambaram emerged as the winner of the 2024 Chennai Grand Masters&#38;nbsp;after tying for first place with GMs Levon Aronian and Arjun Erigaisi and defeating Aronian in the final of the tiebreak with a 2-0 score. The format of the thre...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aravindh-wins-2024-chennai-grand-masters",
