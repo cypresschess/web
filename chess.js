@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maurice Ashley is establishing a new initiative aimed at nurturing the talents of young chess players from underserved communities in the United States. Ashley has made his move to address the persistent underrepresentation of African America...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maurice-ashley-establishes-new-fellowship-to-nurture-chess-talents",
+         "pubDate" : "Tue, 12 Nov 2024 07:39:00",
+         "title" : "Maurice Ashley Establishes Groundbreaking Chess Initiative, Pledges $20,000"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the first-ever Saint Louis Masters is a nine-round Swiss that features up to 60 internationally ranked players, including top grandmasters and rising stars from around the globe. Join GMs Yasser Seirawan, IM Nazi Paikidze, and WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/november-2024-fide-rating-list",
          "pubDate" : "Mon, 04 Nov 2024 15:17:00",
          "title" : "November 2024 FIDE Ratings: Caruana Returns To 2800 Club, Arjun 1 Point Short"
-      },
-      {
-         "description" : "People are not much better than a coin flip at guessing if their opponent is cheating in a chess game. That&#39;s what grandmaster and economics researcher David Smerdon concluded after running two experiments to test people&#39;s ability to spot cheaters...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/smerdon-research-catching-chess-cheaters",
-         "pubDate" : "Mon, 04 Nov 2024 13:52:00",
-         "title" : "People Overestimate Their Ability To Catch Cheaters, Chess Grandmaster And Researcher Reveals"
       },
       {
          "description" : "",
