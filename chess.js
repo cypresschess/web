@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " For decades, Grandmaster Maurice Ashley has been on the cutting edge of chess news, whether through championship coaching, giving exciting commentary, delivering training courses, or organizing million-dollar tournaments. While he can still be seen giving guest lectures and doing commentary, he is now embarking on a bold, new initiative. Ashley addressing FIDE Congress on Chess The post <a href=\"https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/\">Maurice Ashley's new chess initiative announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/",
+         "pubDate" : "Mon, 11 Nov 2024 23:30:00",
+         "title" : "Maurice Ashley's new chess initiative announced!"
+      },
+      {
          "description" : "After four played rounds at the European Individual Chess Championship 2024, GM Frederik Svane (GER, 2654) and GM Maksim Chigaev (ESP, 2604) emerged on the top as the only two players in the tournament with the perfect score of 4/4 points. GM Frederik Svane (GER, 2654) was victorious today against GM Nikolas Theodorou (GRE, 2612). A balanced game got complicated after Svane sacrificed a pawn, and Theodorou accepted the sacrifice entering a slightly worse position. Pushing for a win, Svane []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/frederik-svane-and-maksim-chigaev-emerged-on-the-top-of-the-eicc2024/",
          "pubDate" : "Mon, 11 Nov 2024 20:06:28",
          "title" : "Frederik Svane and Maksim Chigaev emerged on the top of the EICC2024"
+      },
+      {
+         "description" : "SRM&#38;nbsp;clinched first in Division I of the 2024 Collegiate Chess League (CCL) Fall Season in the last week of the regular season. In Division II, UCLA defeated Illinois with a round to spare. SRM&#39;s top three boards, IM A Ra Harikrishnan, IM Sr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-ucla",
+         "pubDate" : "Mon, 11 Nov 2024 15:43:00",
+         "title" : "SRM Leaps Back Into First, UCLA Defeats Illinois"
       },
       {
          "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except prints, vouchers and ducats). The premium offer is the brand-new and revolutionary ChessBase 18, which has access to many billions of online games. It provides completely new ways to analyse your own and your opponent's playing style, listing weaknesses and strengths. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3290",
          "pubDate" : "Mon, 04 Nov 2024 11:25:40",
          "title" : "FIDE World Cadet & Youth Rapid and Blitz Championship 2025: Registration is open"
-      },
-      {
-         "description" : "Saint Louis B and Arizona State were victorious in week six of Division II of the 2024 Collegiate Chess League (CCL) Fall Season. Trailing by a point as they entered the final round, the SLU B team struck back with three critical victories. Perfec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-arizona-slu-b",
-         "pubDate" : "Mon, 04 Nov 2024 08:53:00",
-         "title" : "Saint Louis B Team Stages Last-Round Comeback, Arizona State Outscores Northwestern"
       },
       {
          "description" : "",
