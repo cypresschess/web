@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/youre-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JP3lpLat-xE.jpg?itok=i5JjrKAT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/youre-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners",
+         "pubDate" : "Tue, 12 Nov 2024 16:07:57",
+         "title" : "You're Out Numbered in a Rook Endgame - IM Tianqi Wang | #chess #chessendgames #chessforbeginners"
+      },
+      {
          "description" : "GM Maurice Ashley is establishing a new initiative aimed at nurturing the talents of young chess players from underserved communities in the United States. Ashley has made his move to address the persistent underrepresentation of African America...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/message-beginner-players-gm-denes-boros-chess-chessopenings-twitch",
          "pubDate" : "Tue, 12 Nov 2024 01:07:42",
          "title" : "A Message for Beginner Players - GM Denes Boros | #chess #chessopenings #twitch"
+      },
+      {
+         "description" : "This week's puzzles again come from the 2024 U.S. Women's Championship, with a focus on the second- and third-place finishers: IMs Begim Tokhirjonova and Alice Lee (respectively). All coverage from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-womens-championship-pt-2",
+         "pubDate" : "Tue, 12 Nov 2024 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Women's Championship, Pt. 2"
       },
       {
          "description" : " For decades, Grandmaster Maurice Ashley has been on the cutting edge of chess news, whether through championship coaching, giving exciting commentary, delivering training courses, or organizing million-dollar tournaments. While he can still be seen giving guest lectures and doing commentary, he is now embarking on a bold, new initiative. Ashley addressing FIDE Congress on Chess The post <a href=\"https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/\">Maurice Ashley's new chess initiative announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3301",
          "pubDate" : "Sun, 10 Nov 2024 20:57:43",
          "title" : "Gukesh Dommaraju: \"I just want to enjoy the experience\""
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Can you find the continuation in this line for white? Puzzler&#039;s Paradise with GM Varuzhan Akobian<br /> Sundays at 4:00pm CST </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-kasparov-white-move-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ivk2necUBwE.jpg?itok=6SM_gfn0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-kasparov-white-move-chess-chesstactics",
-         "pubDate" : "Sun, 10 Nov 2024 19:06:57",
-         "title" : "Play Like Kasparov: White to Move | #chess #chesstactics"
       },
       {
          "description" : "National Under 11 Rank Name 1 Madhvendra Pratap Sharma 2 Advik Amit Agrawal 3 Aarav A 4 Cyrus Eldho 5 Mehul Sondhi 6 Daniel Ajish",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/yip-caruana-repeat-us-champions",
          "pubDate" : "Wed, 23 Oct 2024 00:00:00",
          "title" : "Yip, Caruana Repeat as U.S. Champions"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week focuses on endgames without rooks. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-4-more-endgames",
-         "pubDate" : "Wed, 23 Oct 2024 00:00:00",
-         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 4 (More Endgames)"
       },
       {
          "description" : "",
