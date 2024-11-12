@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/moving-beginner-level-im-tianqi-wang-chess-chessendgames-twitch\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NvIKf4ycq-I.jpg?itok=a3vnpLiw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/moving-beginner-level-im-tianqi-wang-chess-chessendgames-twitch",
+         "pubDate" : "Tue, 12 Nov 2024 01:07:42",
+         "title" : "Moving From The Beginner Level - IM Tianqi Wang | #chess #chessendgames #twitch"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-your-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JP3lpLat-xE.jpg?itok=i5JjrKAT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/when-your-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners",
+         "pubDate" : "Tue, 12 Nov 2024 01:07:42",
+         "title" : "When Your Out Numbered in a Rook Endgame - IM Tianqi Wang | #chess #chessendgames #chessforbeginners"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Monday Masterclass with GM Denes Boros<br /> Mondays at 6:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/message-beginner-players-gm-denes-boros-chess-chessopenings-twitch\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9_p6DMZsgqc.jpg?itok=ZfXVVZaY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/message-beginner-players-gm-denes-boros-chess-chessopenings-twitch",
+         "pubDate" : "Tue, 12 Nov 2024 01:07:42",
+         "title" : "A Message for Beginner Players - GM Denes Boros | #chess #chessopenings #twitch"
+      },
+      {
          "description" : " For decades, Grandmaster Maurice Ashley has been on the cutting edge of chess news, whether through championship coaching, giving exciting commentary, delivering training courses, or organizing million-dollar tournaments. While he can still be seen giving guest lectures and doing commentary, he is now embarking on a bold, new initiative. Ashley addressing FIDE Congress on Chess The post <a href=\"https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/\">Maurice Ashley's new chess initiative announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Frederik Svane and Maksim Chigaev emerged on the top of the EICC2024"
       },
       {
-         "description" : "SRM&#38;nbsp;clinched first in Division I of the 2024 Collegiate Chess League (CCL) Fall Season in the last week of the regular season. In Division II, UCLA defeated Illinois with a round to spare. SRM&#39;s top three boards, IM A Ra Harikrishnan, IM Sr...",
+         "description" : "SRM clinched first place in Division I of the 2024 Collegiate Chess League (CCL) Fall Season in the last week of the regular season. In Division II, UCLA defeated Illinois with a round to spare. SRM&#39;s top three boards, IM A Ra Harikrishnan, IM S...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-ucla",
@@ -362,22 +386,6 @@ news_feed (
          "title" : "Dealing with 'mom guilt', Harika battles on"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> In the ninth and final round, only Fabiano Caruana and Hikaru Nakamura could still achieve 1st Place. Caruana led Nakamura by a half point, and so with mathematical tiebreaks, Fabi would secure a victory with just a draw. Nakamura would have to win his game, and Fabiano would have to lose for Hikaru to win Chess 9LX. At this moment, Nakamura has defeated Shankland. Fabiano's fate is in his own hands against Robson. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/watch-caruana-secures-tournament-title-d3-chess9lx",
-         "pubDate" : "Thu, 07 Nov 2024 22:05:48",
-         "title" : "WATCH: Caruana Secures Tournament Title! | D3 #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy introduces Fischer Random chess, also known as Chess960 (although it's referred to in the feature by the Saint Louis Chess Club event name \"Chess 9LX\"). This was a part of Day 2's program, but due to technical issues, it was not seen until the VOD was uploaded. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-fischer-random-chess-chess9lx-todayinchess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-fischer-random-chess-chess9lx-todayinchess",
-         "pubDate" : "Thu, 07 Nov 2024 22:05:48",
-         "title" : "What is Fischer Random Chess? | #Chess9LX #TodayInChess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -424,14 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/giri-vidit-predict-ding-vs-gukesh-match",
          "pubDate" : "Thu, 07 Nov 2024 07:34:00",
          "title" : "Who Will Win The World Championship? Vidit, Giri Predict Gukesh Dominance Over Ding"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru is good at a lot of things, especially doing this Grandmaster Psychology with GM Denes Boros<br /> Wednesdays @ 5:00pm CDT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-especially-good-chess-hikaru\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yvp0broSUbA.jpg?itok=lxUwGOo_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hikaru-especially-good-chess-hikaru",
-         "pubDate" : "Thu, 07 Nov 2024 01:05:12",
-         "title" : "Hikaru Is ESPECIALLY Good | #chess #hikaru"
       },
       {
          "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship - hosted by the Mobile Chess Club - was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' sta",
