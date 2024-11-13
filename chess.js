@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Bhasa Bhawan Auditorium at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After five rounds four players share the lead with 4.5/5 each. Half a point behind follow no less than 28(!) players with 4.0/5 each. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
+         "pubDate" : "Wed, 13 Nov 2024 14:45:00",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, The Nagaland Chess Association is organizing first ever Senior National Arbiters Seminar &#38; Exam at Tourist Lodge, Dimapur",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-exam-on-the-28th-and-29th-of-january-2024-at-tourist-lodge-dimapur-nagaland/",
+         "pubDate" : "Wed, 13 Nov 2024 14:43:57",
+         "title" : "Senior National Arbiter Seminar and Exam on the 28th and 29th of January 2024 at Tourist Lodge, Dimapur Nagaland."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3304",
+         "pubDate" : "Wed, 13 Nov 2024 14:24:09",
+         "title" : "Al Ain Chess and Mind Games Club present Echess Championship: The Road to Al Ain"
+      },
+      {
+         "description" : "Round five of the European Chess Championship saw Ivan Cheparinov and Aleksandar Indjic joining Frederik Svane and Maksim Chigaev in the lead after scoring crucial wins. While Svane and Chigaev quickly agreed to a draw, Cheparinov battled through a gruelling 106 moves to defeat Nikita Petrov, while Indjic secured a swift checkmate against Felix Blohberger in only 29 moves. These four co-leaders will face each other in round six, with 28 closely trailing players, including top seeds Vladimir Fedoseev and Bogdan-Daniel Deac, eager to challenge for the top. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2024-5",
+         "pubDate" : "Wed, 13 Nov 2024 13:00:00",
+         "title" : "European Championship: Cheparinov and Indjic join the lead"
+      },
+      {
+         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
@@ -776,14 +808,6 @@ news_feed (
          "link" : "https://aicf.in/fa-seminar-examination-from-18-to-20-october-2024-in-mysuru-karnataka/",
          "pubDate" : "Sat, 02 Nov 2024 15:38:16",
          "title" : "FA Seminar & Examination from 18 to 20 October 2024 in Mysuru Karnataka"
-      },
-      {
-         "description" : "Team India has celebrated Diwali with commendable scoring in the 4th round of ongoing World Youth Chess Championship in Brazil to be held from 29th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-of-4th-round-of-world-youth-chess-championship-2024-in-brazil/",
-         "pubDate" : "Sat, 02 Nov 2024 15:37:07",
-         "title" : "Report of 4th round of World Youth Chess Championship 2024 in Brazil"
       },
       {
          "description" : "How many hours have you wasted studying chess the wrong way? \"Wow, I've wasted so much time and money on non-important things,\" is the most common reaction from my new students. Just this week, two separate students realized that what they thought was 20-30 hours of study time on chess per week was, in reality, []",
