@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Bhasa Bhawan Auditorium at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
+         "pubDate" : "Wed, 13 Nov 2024 09:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3303",
+         "pubDate" : "Wed, 13 Nov 2024 08:53:03",
+         "title" : "Ding Liren ahead of his World Championship showdown with Gukesh: \"A match is a match\""
+      },
+      {
          "description" : " The Tata Steel Chess India tournament takes place Wed 13th to Sun 17th Nov 2024 in Kolkata. This is a Rapid and Blitz tournament with play starting at 2pm local time which is 08:30 GMT . Players men's event: Magnus Carlsen, Nodirbek Abdusattorov, Wesley So, Arjun Erigaisi, Daniil Dubov, Sarin Nihal, R Praggnanandhaa, Santosh Gujrathi Vidit, Vincent Keymer and S L Narayanan. Women's event: Aleksandra Goryachkina, Kateryna Lagno, Alexsandra Kosteniuk, Nana Dzagnidze, Valentina Gunina, Koneru Humpy, Harika Dronavalli, Divya Deshmukh, Vaishali R and Vantika Agrawal.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-ucla",
          "pubDate" : "Mon, 11 Nov 2024 15:43:00",
          "title" : "SRM Leaps Back Into First, UCLA Defeats Illinois"
-      },
-      {
-         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except prints, vouchers and ducats). The premium offer is the brand-new and revolutionary ChessBase 18, which has access to many billions of online games. It provides completely new ways to analyse your own and your opponent's playing style, listing weaknesses and strengths. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/everything-25-off-on-discount-day-4",
-         "pubDate" : "Mon, 11 Nov 2024 14:00:00",
-         "title" : "Everything 25% off on Discount Day!"
       },
       {
          "description" : "",
@@ -872,6 +880,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3281",
          "pubDate" : "Thu, 31 Oct 2024 19:10:25",
          "title" : "FIDE WGP Shymkent Round 2: Munguntuul stuns Paehtz in a 17-move upset"
+      },
+      {
+         "description" : "Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html\">Historic Olympiad Yahoos</A> (September 2024; see the footnote below for an explanation of Yahoos), had a single subject as the most important chess topic of the month:- <BLOCKQUOTE> The 100 stories total for September had the first nine under a heading that proclaimed, 'India win historic double gold at Chess Olympiad'. I counted another 18 stories about the Olympiad for a total of 27, plus a few more stories lacking the word 'Olympiad' in the title. </BLOCKQUOTE> <P> This month's 97 stories -- 10 of them old stories from previous months -- lacked a clear favorite. Eight of the 97 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html",
+         "pubDate" : "Thu, 31 Oct 2024 16:14:00",
+         "title" : "A Press of Yahoos"
       },
       {
          "description" : "ARTE Culture, the French-German film production and TV channel, recently made a full six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. At the same time they broadcast a 50-minute portrait that traces the extraordinary life and career of the global icon. The film contains many historically interviews by personalities from the time. It is well worth watching.",
