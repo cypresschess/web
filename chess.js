@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess was invented in India, and brought to Europe in the 9th Century by the Arabs - who also introduced the first \"mansuba\" - middle or endgame puzzles with well-defined tasks, with stories and legends surrounding them. Today we give you three of the oldest mansuba to solve - in your head or against our live chess diagrams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ancient-chess-problems-to-solve",
+         "pubDate" : "Wed, 13 Nov 2024 20:00:00",
+         "title" : "Ancient chess problems to solve"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115266333.cms\" />Uzbekistan's Abdusattorov Nodirbek takes the lead on Day 1 of the Tata Steel India Open Rapid and Blitz chess tournament. India's Vantika Agrawal shares the lead in the women's section. Indian players had mixed results, with SL Narayanan performing well while others struggled to secure victories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/abdusattorov-nodirbek-leads-magnus-carlsen-close-behind-in-india-open-chess/articleshow/115266333.cms",
+         "pubDate" : "Wed, 13 Nov 2024 18:11:33",
+         "title" : "Nodirbek leads, Carlsen close behind in India Open chess"
+      },
+      {
+         "description" : "The UK Open Blitz Finals will be taking place this Saturday 16th November at the Woodland Grange Hotel Leamington Spa with two 16-player all-play-all competitions. The finals will decide the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-saturday-16th-november/",
+         "pubDate" : "Wed, 13 Nov 2024 17:02:11",
+         "title" : "UK Open Blitz Finals - Saturday 16th November"
+      },
+      {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After five rounds four players share the lead with 4.5/5 each. Half a point behind follow no less than 28(!) players with 4.0/5 each. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +39,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/senior-national-arbiter-seminar-and-exam-on-the-28th-and-29th-of-january-2024-at-tourist-lodge-dimapur-nagaland/",
          "pubDate" : "Wed, 13 Nov 2024 14:43:57",
-         "title" : "Senior National Arbiter Seminar and Exam on the 28th and 29th of January 2024 at Tourist Lodge, Dimapur Nagaland."
+         "title" : "Senior National Arbiter Seminar and Exam on the 28th and 29th of November 2024 at Tourist Lodge, Dimapur Nagaland."
       },
       {
          "description" : "",
@@ -34,6 +58,22 @@ news_feed (
          "title" : "European Championship: Cheparinov and Indjic join the lead"
       },
       {
+         "description" : "The 2024 Collegiate Chess League (CCL) playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Can Saint Louis defend their championship title for the fourth time in a row, or will SRM IST from India win it all ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fall-ccl-prediction-bracket-challenge",
+         "pubDate" : "Wed, 13 Nov 2024 11:57:18",
+         "title" : "Win Diamond Memberships In The Fall 2024 Collegiate Chess League Predictions Challenge"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov is the sole leader of the 2024 Tata Steel Chess India Open Rapid after beating GMs Vincent Keymer and Praggnanandhaa Rameshbabu on day one to score 2.5/3 in Kolkata. GMs Magnus Carlsen, Wesley So, and Narayanan S.L. are ju...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-1",
+         "pubDate" : "Wed, 13 Nov 2024 09:49:00",
+         "title" : "Abdusattorov Leads Carlsen, So, Narayanan As Tata Steel Chess India Begins"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +88,22 @@ news_feed (
          "link" : "https://www.fide.com/news/3303",
          "pubDate" : "Wed, 13 Nov 2024 08:53:03",
          "title" : "Ding Liren ahead of his World Championship showdown with Gukesh: \"A match is a match\""
+      },
+      {
+         "description" : "GM Hikaru Nakamura has done it again, winning both tournaments of Titled Tuesday on November 12. It is his eighth time achieving the feat of double victory since the second weekly event was added in February 2022&#38;mdash;no one else has done it more...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-12-2024",
+         "pubDate" : "Wed, 13 Nov 2024 08:37:02",
+         "title" : "How Sweep It Is, As Nakamura Takes Double Victory"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our coverage of some deeper tactical insights from the 2024 U.S. Championship and U.S. Women's Championship. All coverage can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-us-championships-pt-2",
+         "pubDate" : "Wed, 13 Nov 2024 00:00:00",
+         "title" : "Wednesday Workout: U.S. Championships, Pt. 2"
       },
       {
          "description" : " The Tata Steel Chess India tournament takes place Wed 13th to Sun 17th Nov 2024 in Kolkata. This is a Rapid and Blitz tournament with play starting at 2pm local time which is 08:30 GMT . Players men's event: Magnus Carlsen, Nodirbek Abdusattorov, Wesley So, Arjun Erigaisi, Daniil Dubov, Sarin Nihal, R Praggnanandhaa, Santosh Gujrathi Vidit, Vincent Keymer and S L Narayanan. Women's event: Aleksandra Goryachkina, Kateryna Lagno, Alexsandra Kosteniuk, Nana Dzagnidze, Valentina Gunina, Koneru Humpy, Harika Dronavalli, Divya Deshmukh, Vaishali R and Vantika Agrawal.",
@@ -255,7 +311,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-hands-arjun-erigaisi-his-first-tournament-loss/articleshow/115149181.cms",
          "pubDate" : "Sun, 10 Nov 2024 16:48:36",
-         "title" : "Aravindh Chithambaram hands Arjun Erigaisi his first tournament loss"
+         "title" : "Chithambaram hands Arjun Erigaisi his first tournament loss"
       },
       {
          "description" : "",
@@ -666,14 +722,6 @@ news_feed (
          "title" : "Anish Giri To Take On Four Young Prodigies Simultaneously In Next Kids vs. Stars"
       },
       {
-         "description" : "World Champion GM Ding Liren revealed that he considers himself the clear underdog in his title match against his challenger, GM Gukesh Dommaraju, admitting that he is worried that he will lose &#34;very badly.&#34; With less than three weeks to the 202...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-opens-up-clearly-i-will-be-the-underdog",
-         "pubDate" : "Tue, 05 Nov 2024 05:31:00",
-         "title" : "Ding Admits Fears Ahead Of Gukesh Match: 'I Am Worried About Losing Very Badly'"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,22 +744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/shymkent-fide-womens-grand-prix-2024",
          "pubDate" : "Mon, 4 Nov 2024 21:53:00",
          "title" : "Shymkent FIDE Women's Grand Prix 2024 - Games and Results"
-      },
-      {
-         "description" : "Forget Peppa Pig and Baby Shark. Three-year-old Anish Sarkar has different idols: chess stars IM Levy Rozman and GM Magnus Carlsen. The prodigy has become the world&#39;s youngest-rated player by earning his first FIDE rating, which is 1555.&#38;nbsp; A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anish-sarkar-age-3-earns-fide-rating",
-         "pubDate" : "Mon, 04 Nov 2024 19:37:00",
-         "title" : "3-Year-Old Anish Prefers GothamChess To Peppa Pig, Earns 1555 FIDE Rating"
-      },
-      {
-         "description" : "In the process of winning his fourth U.S. Championship title, GM Fabiano Caruana has re-entered the 2800 club and overtaken GM Hikaru Nakamura as the world number-two. Caruana looks to have again found his flow, winning the national title with a 1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/november-2024-fide-rating-list",
-         "pubDate" : "Mon, 04 Nov 2024 15:17:00",
-         "title" : "November 2024 FIDE Ratings: Caruana Returns To 2800 Club, Arjun 1 Point Short"
       },
       {
          "description" : "",
@@ -1184,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3269",
          "pubDate" : "Wed, 23 Oct 2024 22:18:54",
          "title" : "Chess King from China Who Defies the Odds"
-      },
-      {
-         "description" : "The US Chess Championships are taking place on 11-24 October at the World Chess Hall of Fame in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So are the top seeds in the open section, while defending champion Carissa Yip and Alice Lee are the highest-rated players in the women's category. | Follow the action live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2024-live",
-         "pubDate" : "Wed, 23 Oct 2024 20:00:00",
-         "title" : "US Championships - Live!"
       }
    ]
 }
