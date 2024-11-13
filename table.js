@@ -1,6 +1,7 @@
 jtable([
 "HOUSTON","2024-11-10","44","<a href=http://www.uschess.org/msa/XtblMain.php?202411106082 target='_blank'>SRI MEENAKSHI TEMPLE 11-10-2024</a>",
 "HOUSTON","2024-11-08  - 11-10","216","<a href=http://www.uschess.org/msa/XtblMain.php?202411105792 target='_blank'>2024 HOUSTON OPEN CHESS CHAMPIONSHI</a>",
+"HOUSTON","2024-11-09","39","<a href=http://www.uschess.org/msa/XtblMain.php?202411095582 target='_blank'>SATURDAY TROPHY SCHOLASTIC NOV. 9TH</a>",
 "HOUSTON","2024-11-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202411094172 target='_blank'>CHESSPANDA11092024SATURDAY</a>",
 "SPRING","2024-11-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202411083422 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-11-08","6","<a href=http://www.uschess.org/msa/XtblMain.php?202411083262 target='_blank'>FBCC 2024 NATIONAL STEM DAY OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308632 target='_blank'>ADULTS ONLY - MARCH 30TH SATURDAY S</a>",
 "HOUSTON","2024-03-30","105","<a href=http://www.uschess.org/msa/XtblMain.php?202403308402 target='_blank'>TCR: EASTER BUNNY BLAST</a>",
 "HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308222 target='_blank'>CHESSPANDA03302024SATURDAY</a>",
-"SPRING","2024-03-29","32","<a href=http://www.uschess.org/msa/XtblMain.php?202403298062 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
