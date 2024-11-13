@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tata Steel Chess India tournament takes place Wed 13th to Sun 17th Nov 2024 in Kolkata. This is a Rapid and Blitz tournament with play starting at 2pm local time which is 08:30 GMT . Players men's event: Magnus Carlsen, Nodirbek Abdusattorov, Wesley So, Arjun Erigaisi, Daniil Dubov, Sarin Nihal, R Praggnanandhaa, Santosh Gujrathi Vidit, Vincent Keymer and S L Narayanan. Women's event: Aleksandra Goryachkina, Kateryna Lagno, Alexsandra Kosteniuk, Nana Dzagnidze, Valentina Gunina, Koneru Humpy, Harika Dronavalli, Divya Deshmukh, Vaishali R and Vantika Agrawal.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-chess-india-2024",
+         "pubDate" : "Tue, 12 Nov 2024 22:35:00",
+         "title" : "Tata Steel Chess India 2024 - Games and Results"
+      },
+      {
+         "description" : " Brewington Hardaway has qualified for the title of &#8220;International Grandmaster&#8221; after reaching the required 2500 FIDE rating during the New York Fall GM Invitational. At the tournament, Hardaway finished with an undefeated 6/9 ending with five draws. Hardaway completed all of his norms for the IM (#1, #2, #3) and GM titles (#1, #2, #3) The post <a href=\"https://thechessdrum.net/blog/2024/11/12/brewington-hardaway-is-now-a-chess-grandmaster/\">Brewington Hardaway is now a Chess Grandmaster!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/12/brewington-hardaway-is-now-a-chess-grandmaster/",
+         "pubDate" : "Tue, 12 Nov 2024 21:15:51",
+         "title" : "Brewington Hardaway is now a Chess Grandmaster!"
+      },
+      {
+         "description" : "Five rounds have been played at the European Individual Chess Championship 2024 in Petrovac, Montenegro, and no player remained perfect in the tournament. Four players tie for the top scoring 4.5 points: GM Frederik Svane (GER, 2654), GM Maksim Chigaev (ESP, 2605), GM Ivan Cheparinov (BUL, 2632) and GM Aleksandar Indjic (SRB, 2623). The co-leaders from the previous round GM Maksim Chigaev (ESP, 2605) and GM Frederik Svane (GER, 2654) drew against each-other in relatively short game which concluded after []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/five-rounds-played-at-european-individual-chess-championship-2024/",
+         "pubDate" : "Tue, 12 Nov 2024 20:55:37",
+         "title" : "Five rounds played at European Individual Chess Championship 2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/youre-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JP3lpLat-xE.jpg?itok=i5JjrKAT\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -266,7 +290,7 @@ news_feed (
          "title" : "From Thinking to Doing: Your most important move"
       },
       {
-         "description" : " The 2024 World Chess Championship will take place in Singapore starting November 25th and lasting three weeks until December 15th. The match will feature China's World Champion Ding Liren (Lizhen) against India's Dommaraju Gukesh. The two most populous countries will join the millions following the match with great anticipation as the match features one of The post <a href=\"https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/\">Preview of WCC 2024 Ding-Gukesh</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The 2024 World Chess Championship (WCC 2024) will take place in Singapore starting November 25th and lasting three weeks until December 15th. The match will feature China's World Champion Ding Liren (Lizhen) against India's Dommaraju Gukesh. The two most populous countries will join the millions following the match with great anticipation as the match features The post <a href=\"https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/\">Preview of WCC 2024 Ding-Gukesh</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/",
@@ -1042,14 +1066,6 @@ news_feed (
          "title" : "The Chess Skills That Truly Matter"
       },
       {
-         "description" : "The penultimate round of the European Chess Club Cup 2024 concluded yesterday, and Novy Bor Chess Club remained in the sole lead of the 39th European Chess Club Cup, while TAJFUN SK Ljubljana and SuperChess tie for the top of the 28th European Women's Chess Club Cup. Novy Bor Chess Club is on their way to win the 9th medal at the European Chess Club Cup after 2 gold, 5 silver and 1 bronze medal won in the past. The []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/novy-bor-remains-in-lead-of-european-club-cup-two-teams-tie-for-the-top-in-womens-section/",
-         "pubDate" : "Sat, 26 Oct 2024 08:11:37",
-         "title" : "Novy Bor remains in lead of European Club Cup, two teams tie for the top in Women's section"
-      },
-      {
          "description" : " The 39th European Club Cup took place 20th to 26th October 2024. Novy Bor Chess Club won the Open event a point clear of Alkaloid and TAJFUN-SK Ljubljana the women's.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1136,22 +1152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2024-live",
          "pubDate" : "Wed, 23 Oct 2024 20:00:00",
          "title" : "US Championships - Live!"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Crystal Fuller/SLCC (All other photos courtesy Lennart Ootes/SLCC)<br> <br> <br> <br> With his final-round victory over GM Sam Shankland, GM Fabiano Caruana joined IM Carissa Yip in repeating as U.S. Champion. Caruana's 7/10 score was good for his third consecutive victory (fourth overall), while Yip's 8&frac12;/11 score netted the 21-year-old her third title in four years. After her 8/8 start, Yip boasted a gargantuan lead over the field. But consecutive losses before today's draw allowed IM Gulrukhbegim Tokhirjonova to close the gap to a single point, clinching clear second with a 7&frac1",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/yip-caruana-repeat-us-champions",
-         "pubDate" : "Wed, 23 Oct 2024 00:00:00",
-         "title" : "Yip, Caruana Repeat as U.S. Champions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3268",
-         "pubDate" : "Tue, 22 Oct 2024 21:47:30",
-         "title" : "European Chess Club Cup: Multiple leaders after Round 3"
       }
    ]
 }
