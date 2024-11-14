@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115294662.cms\" />Three-year-old chess prodigy Anish Sarkar, the youngest-rated player in history, met his idol, Magnus Carlsen, who offered encouragement and advice. Carlsen, impressed by Anish's abilities, emphasised the importance of enjoying the game over focusing on ratings and titles. Mentored by GM Dibyendu Barua, Anish's exceptional talent has propelled him to achieve remarkable milestones at a young age.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-anish-sarkar-chess-tata-steel-india-rapid-blitz-tournament/articleshow/115294662.cms",
+         "pubDate" : "Thu, 14 Nov 2024 10:15:54",
+         "title" : "Carlsen meets 3-year-old chess prodigy Anish: 'Amazing to see his level'"
+      },
+      {
+         "description" : "Six rounds have been played at the European Individual Chess Championship 2024 and the event reached its midway point. GM Aleksandar Indjic (SRB, 2623) heads to tournament's only free day as the sole leader of the event with the score of 5.5 points. Indjic defeated GM Maksim Chigaev (ESP, 2605) yesterday after a very interesting but solid game. The position was equal until Chigaev's mistake 35Bd5? when the Serbian representative gained a significant advantage and stalemated his opponent's pieces in []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/aleksandar-indjic-takes-sole-lead-at-european-individual-chess-championship-2024/",
+         "pubDate" : "Thu, 14 Nov 2024 09:34:48",
+         "title" : "Aleksandar Indjic takes sole lead at European Individual Chess Championship 2024"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "From a school in Chennai to the World Championship match in Singapore"
       },
       {
-         "description" : "The 39th European Chess Club Cup and the 28th European Women's Chess Club Cup concluded yesterday in Vrnjacka Banja, Serbia. Novy Bor Chess Club emerged as the sole Winner of the Open tournament scoring impressive 13 match points. Playing in the final round against the top seeded SuperChess, Novy Bor Chess Club scored a narrow 3.5-2.5 win to ensure gold, as GM Anton David Guijarro (2667, Novy Bor) prevailed against GM Jorden Van Foreest (2697, SuperChess) and the other games []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/novy-bor-and-tajfun-sk-ljubljana-win-european-club-cups-2024/",
-         "pubDate" : "Sun, 27 Oct 2024 09:15:09",
-         "title" : "Novy Bor and TAJFUN SK Ljubljana win European Club Cups 2024"
-      },
-      {
          "description" : "Of the so called Hypermodern grandmasters, whose heyday approximately paralleled the Dada and Surrealist movements in art, Nimzowitsch, Reti, Breyer and Gr&uuml;nfeld all have specific openings or defences named in their honour. Reti has 1. Nf3 followed by the double bishop fianchetto. Breyer invented a popular variation in the Ruy Lopez or Spanish opening. Grunfeld []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1200,22 +1208,6 @@ news_feed (
          "link" : "https://www.thearticle.com/parallel-lives-a-modern-plutarch/",
          "pubDate" : "Thu, 24 Oct 2024 14:59:23",
          "title" : "'Parallel Lives': a modern Plutarch"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3271",
-         "pubDate" : "Thu, 24 Oct 2024 12:28:42",
-         "title" : "U.S. Championship 2024: Fabiano Caruana and Carissa Yip claim titles"
-      },
-      {
-         "description" : " National Master Lawyer Times has been running the Future Masters Chess Academy in the Boston area for nearly a decade. The 2017 Massachusetts state champion was a local standout at Boston Latin High School where his team won a national championship. Since then, he has continued his chess involvement but has been determined to pass The post <a href=\"https://thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/\">Lawyer Times sponsored by Celts' Jaylen Brown</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/",
-         "pubDate" : "Thu, 24 Oct 2024 11:43:31",
-         "title" : "Lawyer Times sponsored by Celts' Jaylen Brown"
       }
    ]
 }
