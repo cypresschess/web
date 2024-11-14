@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3305",
+         "pubDate" : "Wed, 13 Nov 2024 21:16:43",
+         "title" : "European Individual Championship 2024 reaches midpoint"
+      },
+      {
          "description" : "Chess was invented in India, and brought to Europe in the 9th Century by the Arabs - who also introduced the first \"mansuba\" - middle or endgame puzzles with well-defined tasks, with stories and legends surrounding them. Today we give you three of the oldest mansuba to solve - in your head or against our live chess diagrams.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1208,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3270",
          "pubDate" : "Thu, 24 Oct 2024 02:03:09",
          "title" : "European Chess Club Cup 2024 crosses half-way mark"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3269",
-         "pubDate" : "Wed, 23 Oct 2024 22:18:54",
-         "title" : "Chess King from China Who Defies the Odds"
       }
    ]
 }
