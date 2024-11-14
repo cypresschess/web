@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
+         "pubDate" : "Thu, 14 Nov 2024 09:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "Reading about the latest and greatest new features in ChessBase is exciting, but if you can barely use the basics, then it can also be frustrating. But worry not! You can learn them all in under 20 minutes, and even how to customize the work space, in this crystal clear video tutorial.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-ultimate-chessbase-tutorial-learn-the-basics-in-less-than-20-minutes",
+         "pubDate" : "Thu, 14 Nov 2024 08:14:26",
+         "title" : "The ULTIMATE ChessBase tutorial: Learn the basics in less than 20 minutes"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-1",
          "pubDate" : "Wed, 13 Nov 2024 09:49:00",
          "title" : "Abdusattorov Leads Carlsen, So, Narayanan As Tata Steel Chess India Begins"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
-         "pubDate" : "Wed, 13 Nov 2024 09:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "",
