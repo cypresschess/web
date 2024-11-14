@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/10/24/lawyer-times-sponsored-by-celts-jaylen-brown/",
          "pubDate" : "Thu, 24 Oct 2024 11:43:31",
          "title" : "Lawyer Times sponsored by Celts' Jaylen Brown"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3270",
-         "pubDate" : "Thu, 24 Oct 2024 02:03:09",
-         "title" : "European Chess Club Cup 2024 crosses half-way mark"
       }
    ]
 }
