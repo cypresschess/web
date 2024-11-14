@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union (ECU) is an independent association for the interests of European chess. It is an affiliated organisation to FIDE, the oldest and strongest continental chess power, founded in 1985. The ECU Trainers Commission (ETC) is the youngest body, founded in late 2022, with its main mission to support the training programs and development in European chess. Here are the regulations and details of the courses for chess coaches.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ecu-trainers-and-coaches-3",
+         "pubDate" : "Thu, 14 Nov 2024 20:27:52",
+         "title" : "ECU Trainers and Coaches"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115308083.cms\" />Magnus Carlsen wins against S L Narayanan, Wesley So and Arjun Erigaisi. Carlsen leads the Tata Steel Chess India Rapid tournament. Aleksandra Goryachkina leads the women's division. Nodirbek Abdusattorov trails Carlsen by half a point. Nana Dzagnidze holds second position in the women's category.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-takes-sole-lead-in-tata-steel-india-chess-tournament/articleshow/115308083.cms",
+         "pubDate" : "Thu, 14 Nov 2024 17:12:59",
+         "title" : "Carlsen takes sole lead in Tata Steel India Chess tournament"
+      },
+      {
+         "description" : "&#34;Today couldn&#39;t have gone better!&#34; said GM Magnus Carlsen as he powered to wins over GMs Narayanan S.L., Wesley So, and Arjun Erigaisi to take the sole lead after day two of the 2024 Tata Steel Chess India Open Rapid. GM Nodirbek Abdusattorov is j...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-2",
+         "pubDate" : "Thu, 14 Nov 2024 11:15:00",
+         "title" : "Carlsen Beats So, Arjun To Snatch Sole Lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115294662.cms\" />Three-year-old chess prodigy Anish Sarkar, the youngest-rated player in history, met his idol, Magnus Carlsen, who offered encouragement and advice. Carlsen, impressed by Anish's abilities, emphasised the importance of enjoying the game over focusing on ratings and titles. Mentored by GM Dibyendu Barua, Anish's exceptional talent has propelled him to achieve remarkable milestones at a young age.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -744,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-6",
          "pubDate" : "Tue, 05 Nov 2024 13:09:00",
          "title" : "Goryachkina Makes It 4-In-A-Row; Lagno, Tan, Stavroula Also Win"
-      },
-      {
-         "description" : "We&#39;re excited to announce the next installment of Kids vs. Stars, this time with a twist! On November 15, get ready to see none other than GM Anish Giri taking on four of the brightest young stars in chess&#38;mdash;all at the same time! Starting at...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-giri-vs-four-kids",
-         "pubDate" : "Tue, 05 Nov 2024 08:00:00",
-         "title" : "Anish Giri To Take On Four Young Prodigies Simultaneously In Next Kids vs. Stars"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
