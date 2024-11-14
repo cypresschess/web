@@ -1200,14 +1200,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/oct/25/chess-fabiano-caruana-world-no-2-wins-fourth-us-championship-title",
          "pubDate" : "Fri, 25 Oct 2024 07:00:13",
          "title" : "Chess: Fabiano Caruana, world No 2, wins fourth US Championship title"
-      },
-      {
-         "description" : "Alert readers of my weekly chess columns in TheArticle will have observed my predilection for such writers as Thomas Mann, Kafka, Nietzsche, Conrad, Freud, TS Eliot, Vladimir Nabokov, George Orwell, Sir Arthur Conan Doyle, Dean Swift, Stefan Zweig and John Dryden. Three of the above (Eliot, Nabokov and Zweig) even wrote directly about chess, while []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/parallel-lives-a-modern-plutarch/",
-         "pubDate" : "Thu, 24 Oct 2024 14:59:23",
-         "title" : "'Parallel Lives': a modern Plutarch"
       }
    ]
 }
