@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115321192.cms\" />Magnus Carlsen surged to the top of the Tata Steel India Open Rapid chess tournament after winning three consecutive games on Thursday, reaching five points. Former World Rapid champion Nodirbek Abdusattorov trails closely behind with 4.5 points. In the women's section, Aleksandra Goryachkina leads with five points after securing three victories. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-three-in-a-row-to-take-sole-lead-at-india-open/articleshow/115321192.cms",
+         "pubDate" : "Fri, 15 Nov 2024 03:23:19",
+         "title" : "Magnus Carlsen wins three in a row to take sole lead at India Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Yaro Zherebukh from the 2017 U.S. Chess Championship in Saint Louis. 2024.11.14<br /> Yaroslav Zherebukh vs Varuzhan Akobian, United States Championship (2017): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870231\">https://www.chessgames.com/perl/chessgame?gid=1870231</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-live-gm-varuzhan-akobian\"><img sr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-live-gm-varuzhan-akobian",
+         "pubDate" : "Fri, 15 Nov 2024 01:09:27",
+         "title" : "Prepare Like A Pro LIVE! - GM Varuzhan Akobian"
+      },
+      {
          "description" : "Day two of the Tata Steel Chess India Rapid tournament saw Magnus Carlsen and Aleksandra Goryachkina rise to sole leads in the open and women's sections, respectively. Carlsen, with victories over top players including Wesley So and Arjun Erigaisi, holds a half-point edge over Nodirbek Abdusattorov, setting up a tense final day of rapid play. Goryachkina's dominance, including three wins on Thursday, has placed her a full point ahead of Nana Dzagnidze in the women's event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -320,14 +336,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rated-players-2000-play-kasparov-white-move-chess-chesstactics-twitch-kasparov",
          "pubDate" : "Sun, 10 Nov 2024 22:07:01",
          "title" : "Rated Players 2000+ : Play Like Kasparov: White to Move | #chess #chesstactics #twitch #kasparov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Find the brilliant move in this close endgame? White to play </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bishop-and-pawn-endgame-chess-chessendgames\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/86lxQ69FLDY.jpg?itok=kgDYx6DU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bishop-and-pawn-endgame-chess-chessendgames",
-         "pubDate" : "Sun, 10 Nov 2024 22:07:01",
-         "title" : "Bishop and Pawn Endgame #chess #chessendgames"
       },
       {
          "description" : "",
