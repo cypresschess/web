@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We have been waiting for a while, but she is finally back! WIM Svitlana Demchenko had to work and study, but returns with a fun, attacking lesson! Well-known chess author, Joe Gallagher, wrote the book \"101 Attacking Ideas In Chess\". Svitlana took some examples of this book, and it covers plenty of rules for the attacking player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-valuable-lessons-for-the-attacking-player",
+         "pubDate" : "Fri, 15 Nov 2024 19:00:00",
+         "title" : "Svitlana's Smart Moves - Valuable lessons for the attacking player"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3306",
+         "pubDate" : "Fri, 15 Nov 2024 17:55:34",
+         "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
+      },
+      {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After six of eleven rounds (and the rest day) the Serbian Grandmaster Aleksandar Indjic leads with 5.5/6, half a point ahead of eight players with 5.0/6 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Ding Liren: \"A match is a match\""
       },
       {
-         "description" : "World number-one Magnus Carlsen was on fire as he completed a six-game winning streak to win the 2024 Tata Steel Chess India Open Rapid with a round to spare. A thrilling battle against GM Vincent Keymer was followed by a grinding win against GM D...",
+         "description" : "World number-one Magnus Carlsen was on fire as he posted a six-game winning streak to win the 2024 Tata Steel Chess India Open Rapid with a round to spare. A thrilling battle against GM Vincent Keymer was followed by a grinding win against GM Dani...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-3",
@@ -90,11 +106,19 @@ news_feed (
          "title" : "Tata Steel Chess India: Carlsen sole leader, Abdusattorov close behind"
       },
       {
+         "description" : "The 2024 FIDE World Youth Chess Championship concluded last week in Florianopolis, Brazil, and the 2024 FIDE World Cadet Chess Championship begins today in Montesilvano, Italy. Below is a recap of the former event and preview of the latter. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Vivian Passig/FIDE<br> <br> <br> <br> World Youth Recap16 Americans competed across the six sections of the 2024 FIDE World Youth Chess Championship (WYCC, held October 28 through November 10 in Florianopolis, Brazil.The event boasted a total of 520 players representing 62 federations vying for championships and direct titles in both Open and Girls secti",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fide-world-youth-recap-and-world-cadet-preview",
+         "pubDate" : "Fri, 15 Nov 2024 00:00:00",
+         "title" : "FIDE World Youth Recap and World Cadet Preview"
+      },
+      {
          "description" : "Only one Indian has ever been world champion. No one has been world champion as a teenager (or at 20, or 21). Can Gukesh change all that?",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/42386445/d-gukesh-chess-world-championship-2024-youngest-prince-king?device=featurephone",
-         "pubDate" : "Fri, 15 Nov 2024 00:15:39",
+         "pubDate" : "Thu, 14 Nov 2024 22:31:02",
          "title" : "D Gukesh: The Prince who would be King"
       },
       {
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 4 (Pawn Power)"
       },
       {
-         "description" : "The Scholastic Council and the Executive Board have approved the 2024-2025 Scholastic Regulations. This year's regulations can be found here. Substantive changes in this year's regulations include: 1. MAJOR CHANGE: At the K-12 Grade Nationals in December 2024 and the SuperNationals in May 2025, the \"No-Show\" or \"Forfeit\" time for late arrival in all sections has been reduced to 30 minutes. This is a change from previous years when the no-show/forfeit time was 60 minutes (Section 13.10).2. Start times for each round in the K-12, K-8, and K-6 events at SuperNationals will be published separately in pre-tournament publicity (Section 10.10.1).3. The sections in the Elementary School (K-6) Nation",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-2025-scholastics-regulations",
-         "pubDate" : "Tue, 29 Oct 2024 00:00:00",
-         "title" : "2024-2025 Scholastic Regulations"
-      },
-      {
          "description" : "Eight of the world's top chess grandmasters will compete in the 2024 XTX Markets London Chess Classic (LCC) from November 29 to December 7. The line-up includes: Women's World Champion...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1224,14 +1240,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/important-chess-skills/",
          "pubDate" : "Sat, 26 Oct 2024 13:00:00",
          "title" : "The Chess Skills That Truly Matter"
-      },
-      {
-         "description" : " The 39th European Club Cup took place 20th to 26th October 2024. Novy Bor Chess Club won the Open event a point clear of Alkaloid and TAJFUN-SK Ljubljana the women's.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
-         "pubDate" : "Fri, 25 Oct 2024 19:20:00",
-         "title" : "39th European Club Cup 2024 - Games and Results"
       }
    ]
 }
