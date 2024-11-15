@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess in Schools and Communities is delighted to announce that two free spectator tickets for this year's XTX Markets London Chess Classic are being offered to every chess club in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/free-spectator-tickets-for-this-years-xtx-markets-london-chess-classic/",
+         "pubDate" : "Fri, 15 Nov 2024 11:23:04",
+         "title" : "Free spectator tickets for this year's XTX Markets London Chess Classic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
+         "pubDate" : "Fri, 15 Nov 2024 11:14:01",
+         "title" : "ECF Level 1 Arbiter Course - January 2025"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Ding Liren: \"A match is a match\""
       },
       {
-         "description" : " The 32-player open and women's championships include four GMs, while juniors make up nearly half the field, including a nine-year-old top seed Finals of the annual UK Blitz Championships take place in Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of over 500, who competed at eight regional qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny Gormally, the 2490-rated top seed; the veteran Peter Wells, and England's youngest GM Shreyas R",
+         "description" : " The 32-player open and women's championships include four GMs, while juniors make up nearly half the field, including a nine-year-old top seed Finals of the annual UK Blitz ­Championships take place in ­Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of more than 500, who competed at eight regional ­qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny ­Gormally, the 2490-rated top seed; the veteran Peter Wells, and ­England's youngest GM",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/nov/15/uk-blitz-chess-final-pits-grandmasters-against-golden-generation",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/42386445/d-gukesh-chess-world-championship-2024-youngest-prince-king?device=featurephone",
-         "pubDate" : "Thu, 14 Nov 2024 22:31:02",
+         "pubDate" : "Fri, 15 Nov 2024 00:15:39",
          "title" : "D Gukesh: The Prince who would be King"
       },
       {
@@ -1208,30 +1224,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/39th-european-club-cup-2024",
          "pubDate" : "Fri, 25 Oct 2024 19:20:00",
          "title" : "39th European Club Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3272",
-         "pubDate" : "Fri, 25 Oct 2024 11:24:11",
-         "title" : "FIDE Circuit 2024: Erigaisi regains lead, Caruana moves to second"
-      },
-      {
-         "description" : " The US Chess Championships took place in Saint Louis Fri 11th Oct to Thu 24th Oct 2024. Four player could win the event going into the final round but when Fabiano Caruana beat Sam Shankland he ended up 1.5 points clear of half the field tied on 5.5/10. Wesley So drew all 10 of his games. In the women's section Carissa Yip won her first 8 games and got a winning position against Megan Lee too, but when that turned around she had a wobble and lost in Round 10 too (to Anna Zatonskih), fortunately for her Alice Lee beat eventual second place finisher Gulrukhbegim Tokhirjonova, which meant Yip won the title anyway. Sadly the event is likely to be remembered just as well for a very unsavory inci",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2024",
-         "pubDate" : "Fri, 25 Oct 2024 11:14:00",
-         "title" : "US Chess Championships 2024 - "
-      },
-      {
-         "description" : "Gukesh has been in action, alongside a host of the world's top players, at the European Club Cup",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/41997855/gukesh-showing-mixed-form-30-days-go-world-chess-championship-ding-liren?device=featurephone",
-         "pubDate" : "Fri, 25 Oct 2024 10:43:07",
-         "title" : "Gukesh showing mixed form with 30 days to go for World Chess Championship"
       }
    ]
 }
