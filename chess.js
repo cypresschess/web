@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day two of the Tata Steel Chess India Rapid tournament saw Magnus Carlsen and Aleksandra Goryachkina rise to sole leads in the open and women's sections, respectively. Carlsen, with victories over top players including Wesley So and Arjun Erigaisi, holds a half-point edge over Nodirbek Abdusattorov, setting up a tense final day of rapid play. Goryachkina's dominance, including three wins on Thursday, has placed her a full point ahead of Nana Dzagnidze in the women's event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d2",
+         "pubDate" : "Fri, 15 Nov 2024 00:25:00",
+         "title" : "Tata Steel Chess India: Carlsen sole leader, Abdusattorov close behind"
+      },
+      {
          "description" : "The European Chess Union (ECU) is an independent association for the interests of European chess. It is an affiliated organisation to FIDE, the oldest and strongest continental chess power, founded in 1985. The ECU Trainers Commission (ETC) is the youngest body, founded in late 2022, with its main mission to support the training programs and development in European chess. Here are the regulations and details of the courses for chess coaches.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/aleksandar-indjic-takes-sole-lead-at-european-individual-chess-championship-2024/",
          "pubDate" : "Thu, 14 Nov 2024 09:34:48",
          "title" : "Aleksandar Indjic takes sole lead at European Individual Chess Championship 2024"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
-         "pubDate" : "Thu, 14 Nov 2024 09:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "Reading about the latest and greatest new features in ChessBase is exciting, but if you can barely use the basics, then it can also be frustrating. But worry not! You can learn them all in under 20 minutes, and even how to customize the work space, in this crystal clear video tutorial.",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3304",
          "pubDate" : "Wed, 13 Nov 2024 14:24:09",
          "title" : "Al Ain Chess and Mind Games Club present Echess Championship: The Road to Al Ain"
-      },
-      {
-         "description" : "Round five of the European Chess Championship saw Ivan Cheparinov and Aleksandar Indjic joining Frederik Svane and Maksim Chigaev in the lead after scoring crucial wins. While Svane and Chigaev quickly agreed to a draw, Cheparinov battled through a gruelling 106 moves to defeat Nikita Petrov, while Indjic secured a swift checkmate against Felix Blohberger in only 29 moves. These four co-leaders will face each other in round six, with 28 closely trailing players, including top seeds Vladimir Fedoseev and Bogdan-Daniel Deac, eager to challenge for the top. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2024-5",
-         "pubDate" : "Wed, 13 Nov 2024 13:00:00",
-         "title" : "European Championship: Cheparinov and Indjic join the lead"
       },
       {
          "description" : "The 2024 Collegiate Chess League (CCL) playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Can Saint Louis defend their championship title for the fourth time in a row, or will SRM IST from India win it all ...",
