@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After six of eleven rounds (and the rest day) the Serbian Grandmaster Aleksandar Indjic leads with 5.5/6, half a point ahead of eight players with 5.0/6 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
+         "pubDate" : "Fri, 15 Nov 2024 14:45:00",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
+         "description" : " Juniors make up nearly half the field, including a nine-year-old top seed, while in Kolkata Magnus Carlsen surged to victory in the Tata Steel Rapid Finals of the annual UK Blitz Championships take place in Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of more than 500, who competed at eight regional qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny Gormally, the 2490-rated top seed; the veteran Peter Wells, and England's youngest G",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/nov/15/uk-blitz-chess-final-pits-grandmasters-against-golden-generation",
+         "pubDate" : "Fri, 15 Nov 2024 14:10:10",
+         "title" : "UK Blitz chess final pits grandmasters against a golden generation"
+      },
+      {
+         "description" : "49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship 2024 jointly organised by Ananthi Chess Academy and Viyugam Chess Academy on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/im-ilamparthi-a-r-and-wcm-prishita-gupta-champions-of-49th-national-sub-junior-open-and-40th-national-sub-junior-girls-chess-championship-2024/",
+         "pubDate" : "Fri, 15 Nov 2024 13:42:24",
+         "title" : "IM Ilamparthi A R and WCM Prishita Gupta , Champions of 49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship-2024"
+      },
+      {
          "description" : "Chess in Schools and Communities is delighted to announce that two free spectator tickets for this year's XTX Markets London Chess Classic are being offered to every chess club in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Ding Liren: \"A match is a match\""
       },
       {
-         "description" : " The 32-player open and women's championships include four GMs, while juniors make up nearly half the field, including a nine-year-old top seed Finals of the annual UK Blitz ­Championships take place in ­Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of more than 500, who competed at eight regional ­qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny ­Gormally, the 2490-rated top seed; the veteran Peter Wells, and ­England's youngest GM",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/nov/15/uk-blitz-chess-final-pits-grandmasters-against-golden-generation",
-         "pubDate" : "Fri, 15 Nov 2024 08:00:23",
-         "title" : "UK Blitz chess final pits grandmasters against a golden generation"
+         "description" : "World number-one Magnus Carlsen was on fire as he completed a six-game winning streak to win the 2024 Tata Steel Chess India Open Rapid with a round to spare. A thrilling battle against GM Vincent Keymer was followed by a grinding win against GM D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-3",
+         "pubDate" : "Fri, 15 Nov 2024 04:56:00",
+         "title" : "Carlsen, Goryachkina Win Tata Steel India Rapid With Round To Spare"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115321192.cms\" />Magnus Carlsen surged to the top of the Tata Steel India Open Rapid chess tournament after winning three consecutive games on Thursday, reaching five points. Former World Rapid champion Nodirbek Abdusattorov trails closely behind with 4.5 points. In the women's section, Aleksandra Goryachkina leads with five points after securing three victories. ",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "Arjun, Vachier-Lagrave Start With Contrasting Wins"
       },
       {
-         "description" : "GM Aleksandra Goryachkina took a one-point lead with three rounds of the 2024 Shymkent FIDE Women&#39;s Grand Prix to go after grinding out a win against the struggling GM Elisabeth Paehtz. GM Kateryna Lagno scored a first win, against second-placed I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-6",
-         "pubDate" : "Tue, 05 Nov 2024 13:09:00",
-         "title" : "Goryachkina Makes It 4-In-A-Row; Lagno, Tan, Stavroula Also Win"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3285",
          "pubDate" : "Sat, 02 Nov 2024 16:35:56",
          "title" : "FIDE Trainer Awards 2024 - Call for nominations"
-      },
-      {
-         "description" : "The Musuru District Chess Association, representing the Karnataka State Chess Association, the All India Chess Federation, and the FIDE Arbiters Commission, organized a FIDE Arbiters'",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fa-seminar-examination-from-18-to-20-october-2024-in-mysuru-karnataka/",
-         "pubDate" : "Sat, 02 Nov 2024 15:38:16",
-         "title" : "FA Seminar & Examination from 18 to 20 October 2024 in Mysuru Karnataka"
       },
       {
          "description" : "How many hours have you wasted studying chess the wrong way? \"Wow, I've wasted so much time and money on non-important things,\" is the most common reaction from my new students. Just this week, two separate students realized that what they thought was 20-30 hours of study time on chess per week was, in reality, []",
