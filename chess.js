@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
+         "pubDate" : "Fri, 15 Nov 2024 09:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "In the run-up to the FIDE World Chess Championship at the end of November, where he will play against 18-year-old Dommaraju Gukesh, the reigning World Champion from China, Ding Liren, gave an interview where he spoke about the challenges he faces, both on and off the board. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-a-match-is-a-match",
+         "pubDate" : "Fri, 15 Nov 2024 08:46:15",
+         "title" : "Ding Liren: \"A match is a match\""
+      },
+      {
+         "description" : " The 32-player open and women's championships include four GMs, while juniors make up nearly half the field, including a nine-year-old top seed Finals of the annual UK Blitz Championships take place in Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of over 500, who competed at eight regional qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny Gormally, the 2490-rated top seed; the veteran Peter Wells, and England's youngest GM Shreyas R",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/nov/15/uk-blitz-chess-final-pits-grandmasters-against-golden-generation",
+         "pubDate" : "Fri, 15 Nov 2024 08:00:23",
+         "title" : "UK Blitz chess final pits grandmasters against a golden generation"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115321192.cms\" />Magnus Carlsen surged to the top of the Tata Steel India Open Rapid chess tournament after winning three consecutive games on Thursday, reaching five points. Former World Rapid champion Nodirbek Abdusattorov trails closely behind with 4.5 points. In the women's section, Aleksandra Goryachkina leads with five points after securing three victories. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d2",
          "pubDate" : "Fri, 15 Nov 2024 00:25:00",
          "title" : "Tata Steel Chess India: Carlsen sole leader, Abdusattorov close behind"
+      },
+      {
+         "description" : "Only one Indian has ever been world champion. No one has been world champion as a teenager (or at 20, or 21). Can Gukesh change all that?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42386445/d-gukesh-chess-world-championship-2024-youngest-prince-king?device=featurephone",
+         "pubDate" : "Thu, 14 Nov 2024 22:31:02",
+         "title" : "D Gukesh: The Prince who would be King"
       },
       {
          "description" : "The European Chess Union (ECU) is an independent association for the interests of European chess. It is an affiliated organisation to FIDE, the oldest and strongest continental chess power, founded in 1985. The ECU Trainers Commission (ETC) is the youngest body, founded in late 2022, with its main mission to support the training programs and development in European chess. Here are the regulations and details of the courses for chess coaches.",
@@ -104,14 +136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-saturday-16th-november/",
          "pubDate" : "Wed, 13 Nov 2024 17:02:11",
          "title" : "UK Open Blitz Finals - Saturday 16th November"
-      },
-      {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After five rounds four players share the lead with 4.5/5 each. Half a point behind follow no less than 28(!) players with 4.0/5 each. The rounds start daily at 15.00 local time. Follow the games live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
-         "pubDate" : "Wed, 13 Nov 2024 14:45:00",
-         "title" : "European Championship in Montenegro: Live"
       },
       {
          "description" : "On behalf of All India Chess Federation, The Nagaland Chess Association is organizing first ever Senior National Arbiters Seminar &#38; Exam at Tourist Lodge, Dimapur",
@@ -1208,14 +1232,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/41997855/gukesh-showing-mixed-form-30-days-go-world-chess-championship-ding-liren?device=featurephone",
          "pubDate" : "Fri, 25 Oct 2024 10:43:07",
          "title" : "Gukesh showing mixed form with 30 days to go for World Chess Championship"
-      },
-      {
-         "description" : " Caruana showed his clear superiority in the open event at St Louis, while Carissa Yip won her first eight games in the women's championship Fabiano Caruana, the world No 2, retained his national title on Wednesday when he scored an unbeaten 7/10 in the US Championship at St Louis. First prize was $62,000. Caruana's winning margin was a comfortable point and a half, after a final round where he won while his nearest rivals all drew or lost, leading to a six-way tie for second on 5.5/10. The runners-up included the controversial Hans Niemann, who cemented his place among the world top 20, the rising talents Samuel Sevian and Awonder Liang; and the established grandmasters Levon Aronian, Ray R",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/oct/25/chess-fabiano-caruana-world-no-2-wins-fourth-us-championship-title",
-         "pubDate" : "Fri, 25 Oct 2024 07:00:13",
-         "title" : "Chess: Fabiano Caruana, world No 2, wins fourth US Championship title"
       }
    ]
 }
