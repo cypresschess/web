@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 6.5/7, a full point ahead of thirteen players with 5.5/7 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
+         "pubDate" : "Sat, 16 Nov 2024 14:45:00",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
+         "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and slipped into a coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus News 4 Engagement The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/",
+         "pubDate" : "Sat, 16 Nov 2024 13:55:21",
+         "title" : "Chess activist Ernest Levert still healing after aneurysm"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115363719.cms\" />World No. 1 Magnus Carlsen leads the Open section with 6.5 points at the halfway point of the Tata Steel Chess India Blitz 2024 tournament. India's R Praggnanandhaa trails closely behind with 6 points. In the Women's section, Kateryna Lagno maintains a clean sheet with 7 points, followed by Valentina Gunina with 6 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-continues-to-lead-r-praggnanandhaa-close-second-at-india-blitz-2024-chess-tournament/articleshow/115363719.cms",
+         "pubDate" : "Sat, 16 Nov 2024 13:44:23",
+         "title" : "Carlsen continues to lead; Pragg close second at India Blitz 2024"
+      },
+      {
          "description" : "​In 1964, I won the British under-18 championship , while still eligible for the under-16 section. At the time, this was regarded as remarkable precocity; twelve years later, at the age of 28, I secured the Grandmaster title. Nowadays these feats would have indicated that I was hopelessly retarded as a chess player. Thus, Ethan Pang, a nine []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
-         "pubDate" : "Sat, 16 Nov 2024 09:25:00",
+         "pubDate" : "Sat, 16 Nov 2024 08:25:00",
          "title" : "Tata Steel Chess India - Live!"
       },
       {
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-giri-vs-4-super-talents",
          "pubDate" : "Fri, 15 Nov 2024 15:28:00",
          "title" : "Giri Scores 1st-Ever Victory For 'Stars,' Drops Only Loss To Alice Lee"
-      },
-      {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After six of eleven rounds (and the rest day) the Serbian Grandmaster Aleksandar Indjic leads with 5.5/6, half a point ahead of eight players with 5.0/6 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
-         "pubDate" : "Fri, 15 Nov 2024 14:45:00",
-         "title" : "European Championship in Montenegro: Live"
       },
       {
          "description" : " Juniors make up nearly half the field, including a nine-year-old top seed, while in Kolkata Magnus Carlsen surged to victory in the Tata Steel Rapid Finals of the annual UK Blitz Championships take place in Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of more than 500, who competed at eight regional qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny Gormally, the 2490-rated top seed; the veteran Peter Wells, and England's youngest G",
@@ -1248,14 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3273",
          "pubDate" : "Sat, 26 Oct 2024 22:30:48",
          "title" : "European Chess Club Cup: Novy Bor TAJFUN SK Ljubljana win titles"
-      },
-      {
-         "description" : "Many of my readers and students are overwhelmed. If you've spent any time following chess content online, you might think you need to memorize dozens of opening lines, master complex endgames, read every strategy book out there, and calculate ten moves ahead, all while reviewing and remembering the most important classical games in chess history. []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/important-chess-skills/",
-         "pubDate" : "Sat, 26 Oct 2024 13:00:00",
-         "title" : "The Chess Skills That Truly Matter"
       }
    ]
 }
