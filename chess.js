@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Aleksandar Indjic (SRB, 2623) expanded his lead in the European Individual Chess Championship 2024 after defeating the top seeded GM Vladimir Fedoseev (SLO, 2712). Playing with black pieces, Aleksandar Indjic reached an equal position straight after the opening. He improved it to gain a slight advantage and started repeating the moves. However, Fedoseev refused a three-fold repetition, and entered a worse position which Indjic used to create a beautiful mating motive on Fedoseev's weakened kingside. Taking a win today, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/gm-aleksandar-indjic-expands-his-lead-in-the-european-individual-chess-championship-2024/",
+         "pubDate" : "Fri, 15 Nov 2024 20:54:53",
+         "title" : "GM Aleksandar Indjic expands his lead in the European Individual Chess Championship 2024"
+      },
+      {
          "description" : "We have been waiting for a while, but she is finally back! WIM Svitlana Demchenko had to work and study, but returns with a fun, attacking lesson! Well-known chess author, Joe Gallagher, wrote the book \"101 Attacking Ideas In Chess\". Svitlana took some examples of this book, and it covers plenty of rules for the attacking player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3306",
          "pubDate" : "Fri, 15 Nov 2024 17:55:34",
          "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
+      },
+      {
+         "description" : "GM Anish Giri defeated IM Alice Lee, IM Ryo Chen, GM Shreyas Royal, and GM Andy Woodward 2.5-1.5 in the third edition of Kids vs. Stars 2024, a simul where he played all four of them at the same time. Never before has the Star has won a match in t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-giri-vs-4-super-talents",
+         "pubDate" : "Fri, 15 Nov 2024 15:28:01",
+         "title" : "Giri Scores 1st-Ever Victory For 'Stars,' Drops Only Loss To Alice Lee"
       },
       {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After six of eleven rounds (and the rest day) the Serbian Grandmaster Aleksandar Indjic leads with 5.5/6, half a point ahead of eight players with 5.0/6 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
@@ -98,12 +114,12 @@ news_feed (
          "title" : "Prepare Like A Pro LIVE! - GM Varuzhan Akobian"
       },
       {
-         "description" : "Day two of the Tata Steel Chess India Rapid tournament saw Magnus Carlsen and Aleksandra Goryachkina rise to sole leads in the open and women's sections, respectively. Carlsen, with victories over top players including Wesley So and Arjun Erigaisi, holds a half-point edge over Nodirbek Abdusattorov, setting up a tense final day of rapid play. Goryachkina's dominance, including three wins on Thursday, has placed her a full point ahead of Nana Dzagnidze in the women's event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d2",
-         "pubDate" : "Fri, 15 Nov 2024 00:25:00",
-         "title" : "Tata Steel Chess India: Carlsen sole leader, Abdusattorov close behind"
+         "description" : "Only one Indian has ever been world champion. No one has been world champion as a teenager (or at 20, or 21). Can Gukesh change all that?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42386445/d-gukesh-chess-world-championship-2024-youngest-prince-king?device=featurephone",
+         "pubDate" : "Fri, 15 Nov 2024 00:15:39",
+         "title" : "D Gukesh: The Prince who would be King"
       },
       {
          "description" : "The 2024 FIDE World Youth Chess Championship concluded last week in Florianopolis, Brazil, and the 2024 FIDE World Cadet Chess Championship begins today in Montesilvano, Italy. Below is a recap of the former event and preview of the latter. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Vivian Passig/FIDE<br> <br> <br> <br> World Youth Recap16 Americans competed across the six sections of the 2024 FIDE World Youth Chess Championship (WYCC, held October 28 through November 10 in Florianopolis, Brazil.The event boasted a total of 520 players representing 62 federations vying for championships and direct titles in both Open and Girls secti",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/fide-world-youth-recap-and-world-cadet-preview",
          "pubDate" : "Fri, 15 Nov 2024 00:00:00",
          "title" : "FIDE World Youth Recap and World Cadet Preview"
-      },
-      {
-         "description" : "Only one Indian has ever been world champion. No one has been world champion as a teenager (or at 20, or 21). Can Gukesh change all that?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42386445/d-gukesh-chess-world-championship-2024-youngest-prince-king?device=featurephone",
-         "pubDate" : "Thu, 14 Nov 2024 22:31:02",
-         "title" : "D Gukesh: The Prince who would be King"
       },
       {
          "description" : "The European Chess Union (ECU) is an independent association for the interests of European chess. It is an affiliated organisation to FIDE, the oldest and strongest continental chess power, founded in 1985. The ECU Trainers Commission (ETC) is the youngest body, founded in late 2022, with its main mission to support the training programs and development in European chess. Here are the regulations and details of the courses for chess coaches.",
@@ -842,14 +850,6 @@ news_feed (
          "title" : "Mate in Two Solutions"
       },
       {
-         "description" : "The Chennai Grand Masters 2024 got off to an exciting start with six decisive games combined from both sections in the first round, with many see-saw encounters and generally enterprising play, instead of typical cautious starts in the beginning. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-1",
-         "pubDate" : "Tue, 05 Nov 2024 13:45:31",
-         "title" : "Arjun, Vachier-Lagrave Start With Contrasting Wins"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1104,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3276",
          "pubDate" : "Wed, 30 Oct 2024 12:30:17",
          "title" : "Experience the thrill of FIDE World Chess Championship live in Singapore!"
-      },
-      {
-         "description" : "Five rounds have been already played at the European Senior Chess Championships 2024 in Lignano Sabbiadoro, Italy. All sections have co-leadership for the top as no player remained with the perfect score. FM Gosta Svenn (SWE, 2290) and FM Casper Rasmussen (DEN, 2202) tie for the top of the 50+ category, scoring 4.5 points each. They are followed by a group of five players with the score of 4 points each. As many as four players tie for the first []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/five-rounds-played-at-european-senior-chess-championships-2024/",
-         "pubDate" : "Wed, 30 Oct 2024 12:10:14",
-         "title" : "Five rounds played at European Senior Chess Championships"
       },
       {
          "description" : "In 1968 the Greek Chess Federation, which had organised multiple Olympiads and Zonal tournaments, invited the 25-year-old American grandmaster to play a clock simultaneous exhibition match against five strong Greek players. The historical games played in Athens have been recorded and carefully annotated by Greek grandmaster and trainer Efstratios Grivas.",
