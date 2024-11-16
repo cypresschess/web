@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/indjic-remains-in-the-sole-lead-chigaev-and-cheparinov-get-closer-to-the-top-of-eicc2024/",
+         "pubDate" : "Sat, 16 Nov 2024 20:22:48",
+         "title" : "Indjic remains in the sole lead, Chigaev and Cheparinov get closer to the top of EICC2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Yaro Zherebukh from the 2017 U.S. Chess Championship in Saint Louis. 2024.11.14<br /> Yaroslav Zherebukh vs Varuzhan Akobian, United States Championship (2017): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870231\">https://www.chessgames.com/perl/chessgame?gid=1870231</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-varuzhan-akobian\"><img src=\"ht",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-varuzhan-akobian",
+         "pubDate" : "Sat, 16 Nov 2024 19:10:44",
+         "title" : "Prepare Like A Pro - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "The World Cadet Chess Championship 2024, sponsored by WR Logistics, has kicked off in Montesilvano, Italy, uniting 716 young players from 82 countries under one roof. Hosted at the spacious Pala Dean Martin Congress Centre, the event ensures convenience with nearby hotels and offers a fully live-streamed experience for the first time in its history. With live broadcasts, a parents' zone, and spaces for game analysis, this championship celebrates the talent and passion of U8, U10, and U12 players. | Photos: Patricia Claros Aguilar and Niklesh Jain (ChessBase India)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cadet-championship-2024-beginning",
+         "pubDate" : "Sat, 16 Nov 2024 17:10:00",
+         "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
+      },
+      {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 6.5/7, a full point ahead of thirteen players with 5.5/7 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "European Championship in Montenegro: Live"
       },
       {
-         "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and slipped into a coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus News 4 Engagement The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and slipped into a coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus NBC 4 Engagement The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/",
@@ -38,8 +62,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
-         "pubDate" : "Sat, 16 Nov 2024 08:25:00",
+         "pubDate" : "Sat, 16 Nov 2024 09:15:00",
          "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "When GM Magnus Carlsen began with 5.5/6, crossed 2900, and took the sole lead in the 2024 Tata Steel Chess India Open Blitz it looked like another perfect day at the office, but the world number-one ended with a 20-move loss to GM Arjun Erigaisi a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-4",
+         "pubDate" : "Sat, 16 Nov 2024 08:56:00",
+         "title" : "Carlsen Crosses 2900 But Arjun, Praggnanandhaa Hit Back"
       },
       {
          "description" : "The Tata Steel Chess India Rapid tournament concluded with dominant performances by Magnus Carlsen and Aleksandra Goryachkina. Both players remained undefeated and secured their respective titles with a round to spare, finishing with 7/9 scores. Carlsen claimed his ninth tournament victory of 2024, while Goryachkina triumphed by finishing 1&frac12; points ahead of her closest rival, Nana Dzagnidze. The competition now shifts to the blitz section, a double round-robin with a 3+2 time control. | Photo: Lennart Ootes",
@@ -826,14 +858,6 @@ news_feed (
          "title" : "Mendonca, Pranav Lead Challengers With 2nd Straight Wins"
       },
       {
-         "description" : "GMs Dmitry Andreikin and GM Hikaru Nakamura are your Titled Tuesday victors from November 5, the second straight week where both winners scored 10 points and neither winner needed the tiebreaks. In the early tournament won by Andreikin, however, t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-nakamura-win-titled-tuesday-november-5-2024",
-         "pubDate" : "Wed, 06 Nov 2024 08:35:45",
-         "title" : "Decisive Tuesdays Continue As Nakamura Wins Another"
-      },
-      {
          "description" : "BATCH 1 BATCH 2 No Name Rank Name 1 Vivek Joshi 1 Nikhil Mahajan 2 Bakshi Mandar 2 Aniket Ajay Amane 3 Falgun D Purohit",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -968,14 +992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3287",
          "pubDate" : "Sun, 03 Nov 2024 17:25:02",
          "title" : "Goryachkina takes sole lead as fierce battles mark halfway point of WGP Shymkent"
-      },
-      {
-         "description" : "The 2024 European Senior Chess Championships concluded yesterday in Lignano Sabbiadoro, Italy. The event was played in two age categories: 50+ and 65+, with separate Women's 50+ competition, while the Women's 65+ section was merged with the Open and the best ranked players were crowned European Women's Senior 65+ Chess Champions. Intense final round determined the Winners in all categories. After nine played rounds, as many as three players scored 7 points each and tied for the top of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-champions-2024-crowned-in-italy/",
-         "pubDate" : "Sun, 03 Nov 2024 17:07:11",
-         "title" : "European Senior Chess Champions 2024 crowned in Italy"
       },
       {
          "description" : "Please find the live games Link for Nationals Sub Junior 2024 Live Games Link : https://live.tamilchess.com/subjunior/index.html",
