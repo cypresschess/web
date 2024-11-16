@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
+         "pubDate" : "Sat, 16 Nov 2024 09:25:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "The Tata Steel Chess India Rapid tournament concluded with dominant performances by Magnus Carlsen and Aleksandra Goryachkina. Both players remained undefeated and secured their respective titles with a round to spare, finishing with 7/9 scores. Carlsen claimed his ninth tournament victory of 2024, while Goryachkina triumphed by finishing 1&frac12; points ahead of her closest rival, Nana Dzagnidze. The competition now shifts to the blitz section, a double round-robin with a 3+2 time control. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d3",
+         "pubDate" : "Sat, 16 Nov 2024 08:10:00",
+         "title" : "Carlsen and Goryachkina clear winners at Tata Steel India Rapid"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115350200.cms\" />Magnus Carlsen triumphed at the Tata Steel India Open Rapid chess tournament in Kolkata, securing victory with a round to spare. Despite a late surge by Nodirbek Abdusattorov, Carlsen maintained his composure to finish with 7.5 points. Indian Grandmaster R Praggnanandhaa secured second place ahead of Wesley So due to a superior tie-break score.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Fri, 15 Nov 2024 11:14:01",
          "title" : "ECF Level 1 Arbiter Course - January 2025"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The first three days see the players fighting in a single round-robin with a 25+10 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
-         "pubDate" : "Fri, 15 Nov 2024 09:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "In the run-up to the FIDE World Chess Championship at the end of November, where he will play against 18-year-old Dommaraju Gukesh, the reigning World Champion from China, Ding Liren, gave an interview where he spoke about the challenges he faces, both on and off the board. | Photo: Stev Bonhage",
