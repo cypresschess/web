@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115350200.cms\" />Magnus Carlsen triumphed at the Tata Steel India Open Rapid chess tournament in Kolkata, securing victory with a round to spare. Despite a late surge by Nodirbek Abdusattorov, Carlsen maintained his composure to finish with 7.5 points. Indian Grandmaster R Praggnanandhaa secured second place ahead of Wesley So due to a superior tie-break score.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dominant-magnus-carlsen-reigns-supreme-at-india-open/articleshow/115350200.cms",
+         "pubDate" : "Sat, 16 Nov 2024 03:07:39",
+         "title" : "Dominant Magnus Carlsen reigns supreme at India Open"
+      },
+      {
          "description" : "GM Aleksandar Indjic (SRB, 2623) expanded his lead in the European Individual Chess Championship 2024 after defeating the top seeded GM Vladimir Fedoseev (SLO, 2712). Playing with black pieces, Aleksandar Indjic reached an equal position straight after the opening. He improved it to gain a slight advantage and started repeating the moves. However, Fedoseev refused a three-fold repetition, and entered a worse position which Indjic used to create a beautiful mating motive on Fedoseev's weakened kingside. Taking a win today, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,11 +34,11 @@ news_feed (
          "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
       },
       {
-         "description" : "GM Anish Giri defeated IM Alice Lee, IM Ryo Chen, GM Shreyas Royal, and GM Andy Woodward 2.5-1.5 in the third edition of Kids vs. Stars 2024, a simul where he played all four of them at the same time. Never before has the Star has won a match in t...",
+         "description" : "GM Anish Giri defeated IM Alice Lee, IM Ryo Chen, GM Shreyas Royal, and GM Andy Woodward 2.5-1.5 in the third edition of Kids vs. Stars 2024, a simul where he played all four of them at the same time. Never before has the Star won a match in this ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-giri-vs-4-super-talents",
-         "pubDate" : "Fri, 15 Nov 2024 15:28:01",
+         "pubDate" : "Fri, 15 Nov 2024 15:28:00",
          "title" : "Giri Scores 1st-Ever Victory For 'Stars,' Drops Only Loss To Alice Lee"
       },
       {
