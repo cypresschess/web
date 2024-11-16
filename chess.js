@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "​In 1964, I won the British under-18 championship , while still eligible for the under-16 section. At the time, this was regarded as remarkable precocity; twelve years later, at the age of 28, I secured the Grandmaster title. Nowadays these feats would have indicated that I was hopelessly retarded as a chess player. Thus, Ethan Pang, a nine []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/prodigies-ethan-anish-and-bodhana/",
+         "pubDate" : "Sat, 16 Nov 2024 11:25:03",
+         "title" : "Prodigies: Ethan, Anish and Bodhana"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
