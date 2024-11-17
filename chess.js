@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel India Blitz tournament began with fast-paced, exciting action in Kolkata, as Magnus Carlsen and Kateryna Lagno (pictured) took the lead in the open and women's sections, respectively. Carlsen, fresh off his rapid triumph, scored 6&frac12;/9 on Saturday despite a key loss to Arjun Erigaisi, while Lagno impressed with an undefeated 7/9, securing five wins and four draws. Close behind, Praggnanandhaa Rameshbabu and Valentina Gunina sit in second place in their respective sections. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d4",
+         "pubDate" : "Sat, 16 Nov 2024 22:15:00",
+         "title" : "Tata Steel Chess India: Carlsen and Lagno lead after nine rounds of blitz"
+      },
+      {
          "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,15 +34,7 @@ news_feed (
          "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
       },
       {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 6.5/7, a full point ahead of thirteen players with 5.5/7 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
-         "pubDate" : "Sat, 16 Nov 2024 14:45:00",
-         "title" : "European Championship in Montenegro: Live"
-      },
-      {
-         "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and slipped into a coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus NBC 4 Engagement The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and was put in a medically-induced coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus NBC The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/",
@@ -58,20 +58,20 @@ news_feed (
          "title" : "Prodigies: Ethan, Anish and Bodhana"
       },
       {
-         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
-         "pubDate" : "Sat, 16 Nov 2024 09:15:00",
-         "title" : "Tata Steel Chess India - Live!"
-      },
-      {
-         "description" : "When GM Magnus Carlsen began with 5.5/6, crossed 2900, and took the sole lead in the 2024 Tata Steel Chess India Open Blitz it looked like another perfect day at the office, but the world number-one ended with a 20-move loss to GM Arjun Erigaisi a...",
+         "description" : "When GM Magnus Carlsen began with 5.5/6, crossed 2900, and took the sole lead in the 2024 Tata Steel Chess India Open Blitz, it looked like another perfect day at the office, but the world number-one ended with a 20-move loss to GM Arjun Erigaisi ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-4",
          "pubDate" : "Sat, 16 Nov 2024 08:56:00",
          "title" : "Carlsen Crosses 2900 But Arjun, Praggnanandhaa Hit Back"
+      },
+      {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 6.5/7, a full point ahead of thirteen players with 5.5/7 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
+         "pubDate" : "Sat, 16 Nov 2024 08:45:00",
+         "title" : "European Championship in Montenegro: Live"
       },
       {
          "description" : "The Tata Steel Chess India Rapid tournament concluded with dominant performances by Magnus Carlsen and Aleksandra Goryachkina. Both players remained undefeated and secured their respective titles with a round to spare, finishing with 7/9 scores. Carlsen claimed his ninth tournament victory of 2024, while Goryachkina triumphed by finishing 1&frac12; points ahead of her closest rival, Nana Dzagnidze. The competition now shifts to the blitz section, a double round-robin with a 3+2 time control. | Photo: Lennart Ootes",
@@ -1272,14 +1272,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tartakowers-defence-life-as-experiment/",
          "pubDate" : "Sun, 27 Oct 2024 07:21:44",
          "title" : "Tartakower's Defence: life as experiment"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3273",
-         "pubDate" : "Sat, 26 Oct 2024 22:30:48",
-         "title" : "European Chess Club Cup: Novy Bor TAJFUN SK Ljubljana win titles"
       }
    ]
 }
