@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Assessing technical setup for stream...round 2 of the Ultimate Battle between Illia and Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/missed-round-2-ultimate-battle-chess-chessopenings-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZGte2iVc6o8.jpg?itok=w5o6JULf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/missed-round-2-ultimate-battle-chess-chessopenings-chesshumor",
+         "pubDate" : "Sun, 17 Nov 2024 19:11:08",
+         "title" : "Missed Round 2 of the Ultimate Battle | #chess #chessopenings #chesshumor"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115388633.cms\" />Chess grandmaster Magnus Carlsen has done it again, clinching both the rapid and blitz titles at the Tata Steel Chess India tournament. Carlsen's victory in Kolkata marks his second double win at the event. The tournament saw Filipino-American Grandmaster Wesley So making a strong comeback to secure second place. Indian players also shone, with Arjun Erigaisi taking third place.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/42441814/world-championship-bizarre-history-hypnotists-toiletgate?device=featurephone",
-         "pubDate" : "Sun, 17 Nov 2024 09:54:42",
+         "pubDate" : "Sun, 17 Nov 2024 10:17:37",
          "title" : "The unexpected bizarreness of a chess World Championship"
       },
       {
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rated-players-2000-white-needs-draw-chess-chessstrategy",
          "pubDate" : "Mon, 11 Nov 2024 01:07:03",
          "title" : "Rated Players 2000+ : White Needs To Draw | | #chess #chessstrategy"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Missed little detail and its a draw Double Exclam with GM Var Akobian<br /> Sundays at 5:00pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/var-got-us-one-chess-chessendgames-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u164msdKVVw.jpg?itok=U4hwc6Od\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/var-got-us-one-chess-chessendgames-chesstactics",
-         "pubDate" : "Mon, 11 Nov 2024 01:07:03",
-         "title" : "Var Got Us With This One | #chess #chessendgames #chesstactics"
       },
       {
          "description" : "After three played rounds at the European Individual Chess Championship 2024, 10 players emerged on the top scoring maximum 3/3 points. The early co-leaders are GM Bogdan-Daniel Deac (ROU, 2687), GM Matthias Bluebaum (GER, 2654), GM Frederik Svane (GER, 2654), GM Ivan Cheparinov (BUL, 2632), GM Robert Hovhannisyan (ARM, 2613), GM Nikolas Theodorou (GRE, 2612), GM Daniel Dardha (BEL, 2606), GM Maksim Chigaev (ESP, 2605), GM Yagiz Kaan Erdogmus (TUR, 2604) and GM Yahli Sokolovsky (ISR, 2516), followed by a []",
