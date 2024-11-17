@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
+         "pubDate" : "Sun, 17 Nov 2024 09:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> No need to waste time when you know the opening and your playing against a friend </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ultimate-battle-gm-benjamin-bok-vs-gm-illia-nyzhnyk-chess-chessopening-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8im5Ufd9hkk.jpg?itok=mXrRyfoo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ultimate-battle-gm-benjamin-bok-vs-gm-illia-nyzhnyk-chess-chessopening-chesshumor",
+         "pubDate" : "Sun, 17 Nov 2024 07:10:56",
+         "title" : "The ULTIMATE Battle: GM Benjamin Bok vs GM Illia Nyzhnyk #chess #chessopening #chesshumor"
+      },
+      {
+         "description" : "Round 1 Report of 20 players across 6 categories, Indian Contingent scored 14 wins, 5 draws and faced 1 loss U8 Open 2.Ayaan Phutane started",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cadet-chess-championship-2024-kicked-off-at-montesilvano-italy/",
+         "pubDate" : "Sun, 17 Nov 2024 04:32:48",
+         "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
+      },
+      {
          "description" : "The Tata Steel India Blitz tournament began with fast-paced, exciting action in Kolkata, as Magnus Carlsen and Kateryna Lagno (pictured) took the lead in the open and women's sections, respectively. Carlsen, fresh off his rapid triumph, scored 6&frac12;/9 on Saturday despite a key loss to Arjun Erigaisi, while Lagno impressed with an undefeated 7/9, securing five wins and four draws. Close behind, Praggnanandhaa Rameshbabu and Valentina Gunina sit in second place in their respective sections. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -514,14 +538,6 @@ news_feed (
          "title" : "10 players with maximum score at the European Individual Chess Championship 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Can you find the continuation in this line for white? Puzzler&#039;s Paradise with GM Varuzhan Akobian<br /> Sundays at 4:00pm CST </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rated-players-2000-play-kasparov-white-move-chess-chesstactics-twitch-kasparov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ivk2necUBwE.jpg?itok=6SM_gfn0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rated-players-2000-play-kasparov-white-move-chess-chesstactics-twitch-kasparov",
-         "pubDate" : "Sun, 10 Nov 2024 22:07:01",
-         "title" : "Rated Players 2000+ : Play Like Kasparov: White to Move | #chess #chesstactics #twitch #kasparov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -994,14 +1010,6 @@ news_feed (
          "title" : "Goryachkina takes sole lead as fierce battles mark halfway point of WGP Shymkent"
       },
       {
-         "description" : "Please find the live games Link for Nationals Sub Junior 2024 Live Games Link : https://live.tamilchess.com/subjunior/index.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-nationals-sub-junior-2024/",
-         "pubDate" : "Sun, 03 Nov 2024 13:28:18",
-         "title" : "Live Games Link for Nationals Sub Junior 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3274",
          "pubDate" : "Sun, 27 Oct 2024 20:39:23",
          "title" : "From a school in Chennai to the World Championship match in Singapore"
-      },
-      {
-         "description" : "Of the so called Hypermodern grandmasters, whose heyday approximately paralleled the Dada and Surrealist movements in art, Nimzowitsch, Reti, Breyer and Gr&uuml;nfeld all have specific openings or defences named in their honour. Reti has 1. Nf3 followed by the double bishop fianchetto. Breyer invented a popular variation in the Ruy Lopez or Spanish opening. Grunfeld []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/tartakowers-defence-life-as-experiment/",
-         "pubDate" : "Sun, 27 Oct 2024 07:21:44",
-         "title" : "Tartakower's Defence: life as experiment"
       }
    ]
 }
