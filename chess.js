@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115388633.cms\" />Chess grandmaster Magnus Carlsen has done it again, clinching both the rapid and blitz titles at the Tata Steel Chess India tournament. Carlsen's victory in Kolkata marks his second double win at the event. The tournament saw Filipino-American Grandmaster Wesley So making a strong comeback to secure second place. Indian players also shone, with Arjun Erigaisi taking third place.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-bags-remarkable-double-after-winning-india-blitz-2024-title-with-a-round-to-spare/articleshow/115388633.cms",
+         "pubDate" : "Sun, 17 Nov 2024 15:05:22",
+         "title" : "Magnus Carlsen bags remarkable double with India Blitz 2024 title"
+      },
+      {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 7/8, a half point ahead of Ivan Cheparinov and Maksim Chigaev with 6.5/8 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 9 live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
+         "pubDate" : "Sun, 17 Nov 2024 14:45:00",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
+         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's a selection of the most iconic and bizarre moments in the tournament's history.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42441814/world-championship-bizarre-history-hypnotists-toiletgate?device=featurephone",
+         "pubDate" : "Sun, 17 Nov 2024 09:54:42",
+         "title" : "The unexpected bizarreness of a chess World Championship"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-5",
-         "pubDate" : "Sun, 17 Nov 2024 04:24:44",
+         "pubDate" : "Sun, 17 Nov 2024 04:24:00",
          "title" : "Carlsen Beats Arjun To Win Double Gold; Lagno Takes Women's Blitz"
       },
       {
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-4",
          "pubDate" : "Sat, 16 Nov 2024 08:56:00",
          "title" : "Carlsen Crosses 2900 But Arjun, Praggnanandhaa Hit Back"
-      },
-      {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 6.5/7, a full point ahead of thirteen players with 5.5/7 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 7 live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
-         "pubDate" : "Sat, 16 Nov 2024 08:45:00",
-         "title" : "European Championship in Montenegro: Live"
       },
       {
          "description" : "The Tata Steel Chess India Rapid tournament concluded with dominant performances by Magnus Carlsen and Aleksandra Goryachkina. Both players remained undefeated and secured their respective titles with a round to spare, finishing with 7/9 scores. Carlsen claimed his ninth tournament victory of 2024, while Goryachkina triumphed by finishing 1&frac12; points ahead of her closest rival, Nana Dzagnidze. The competition now shifts to the blitz section, a double round-robin with a 3+2 time control. | Photo: Lennart Ootes",
