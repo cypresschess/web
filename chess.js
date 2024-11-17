@@ -26,6 +26,22 @@ news_feed (
          "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
       },
       {
+         "description" : "GM Magnus Carlsen has added the 2024 Tata Steel Chess India Open Blitz title to his Rapid crown after beating GM Arjun Erigaisi in the penultimate round. He confessed it was a &#34;really, really nervy day,&#34; since a five-game drawing streak enabled Ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-5",
+         "pubDate" : "Sun, 17 Nov 2024 04:24:44",
+         "title" : "Carlsen Beats Arjun To Win Double Gold; Lagno Takes Women's Blitz"
+      },
+      {
+         "description" : "Anand's five world titles are the story of a non-Soviet, non-Westerner who dared to take on the established seat of authority in the sport, and succeeded in toppling it.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42436603/how-viswanathan-anand-won-five-world-chess-championship-titles?device=featurephone",
+         "pubDate" : "Sun, 17 Nov 2024 00:49:56",
+         "title" : "How Viswanathan Anand won his five world chess championship titles"
+      },
+      {
          "description" : "The Tata Steel India Blitz tournament began with fast-paced, exciting action in Kolkata, as Magnus Carlsen and Kateryna Lagno (pictured) took the lead in the open and women's sections, respectively. Carlsen, fresh off his rapid triumph, scored 6&frac12;/9 on Saturday despite a key loss to Arjun Erigaisi, while Lagno impressed with an undefeated 7/9, securing five wins and four draws. Close behind, Praggnanandhaa Rameshbabu and Valentina Gunina sit in second place in their respective sections. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
          "pubDate" : "Wed, 06 Nov 2024 14:36:35",
          "title" : "ECF Secondary School Chess News November 2024"
-      },
-      {
-         "description" : "GM Aleksandra Goryachkina brushed aside IM Batkhuyag Munguntuul to score a fifth win in a row in the 2024 Shymkent FIDE Women&#39;s Grand Prix, but her lead remained at one point as IM Nurgyul Salimova&#39;s attack backfired against GM Tan Zhongyi. The ot...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-7",
-         "pubDate" : "Wed, 06 Nov 2024 11:04:12",
-         "title" : "Goryachkina Wins 5th In A Row, Tan Zhongyi Keeps Up Chase"
       },
       {
          "description" : "BATCH 1 BATCH 2 No Name Rank Name 1 Vivek Joshi 1 Nikhil Mahajan 2 Bakshi Mandar 2 Aniket Ajay Amane 3 Falgun D Purohit",
