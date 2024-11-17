@@ -26,12 +26,28 @@ news_feed (
          "title" : "Prepare Like A Pro - GM Varuzhan Akobian"
       },
       {
+         "description" : "Missouri and Saint Louis were victorious in the Quarterfinals of the 2024 Collegiate Chess League (CCL) Fall Season on Saturday. Missouri scored 9-3 vs. Yale, supported by 3-0 scores from GM Mikhail Antipov and IM Isik Can. GM Dambasuren Batsure...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-qf-mizzou-slu",
+         "pubDate" : "Sat, 16 Nov 2024 18:30:00",
+         "title" : "Missouri, Saint Louis Advance To Semifinals"
+      },
+      {
          "description" : "The World Cadet Chess Championship 2024, sponsored by WR Logistics, has kicked off in Montesilvano, Italy, uniting 716 young players from 82 countries under one roof. Hosted at the spacious Pala Dean Martin Congress Centre, the event ensures convenience with nearby hotels and offers a fully live-streamed experience for the first time in its history. With live broadcasts, a parents' zone, and spaces for game analysis, this championship celebrates the talent and passion of U8, U10, and U12 players. | Photos: Patricia Claros Aguilar and Niklesh Jain (ChessBase India)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cadet-championship-2024-beginning",
          "pubDate" : "Sat, 16 Nov 2024 17:10:00",
          "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
+      },
+      {
+         "description" : "GM Hikaru Nakamura has made Chess.com history by becoming the first player to win Bullet Brawl&#38;nbsp;and both editions of Titled Tuesday in the same week. Nakamura capped off a perfect week and secured a 33rd crown after scoring 252 points on Satur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-16-2024",
+         "pubDate" : "Sat, 16 Nov 2024 16:25:00",
+         "title" : "Nakamura Secures Historic Bullet Brawl And Titled Tuesday Trifecta"
       },
       {
          "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and was put in a medically-induced coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus NBC The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -840,22 +856,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-7",
          "pubDate" : "Wed, 06 Nov 2024 11:04:12",
          "title" : "Goryachkina Wins 5th In A Row, Tan Zhongyi Keeps Up Chase"
-      },
-      {
-         "description" : "In response to the tragic flood that has devastated the region in Valencia, Spain, Chess.com&#39;s Spanish team organized a fundraiser to bring food, clothing, and other essential resources to those who need it. Many prominent players and personalitie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-todos-por-valencia",
-         "pubDate" : "Wed, 06 Nov 2024 10:14:00",
-         "title" : "Todos Por Valencia: Carlsen, Caruana, Rey Enigma, Fausti & Others Fundraise With Chess"
-      },
-      {
-         "description" : "GMs Leon Mendonca and Pranav Venkatesh lead the Challengers with second straight wins, while there is a three-way tie in the Masters section between GMs Arjun Erigaisi, Maxime Vachier-Lagrave, and Amin Tabatabaei, all on 1.5, at the end of the sec...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-2",
-         "pubDate" : "Wed, 06 Nov 2024 09:08:26",
-         "title" : "Mendonca, Pranav Lead Challengers With 2nd Straight Wins"
       },
       {
          "description" : "BATCH 1 BATCH 2 No Name Rank Name 1 Vivek Joshi 1 Nikhil Mahajan 2 Bakshi Mandar 2 Aniket Ajay Amane 3 Falgun D Purohit",
