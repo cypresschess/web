@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Assessing technical setup for stream...round 2 of the Ultimate Battle between Illia and Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ultimate-battle-round-2-chess-chessopenings-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZGte2iVc6o8.jpg?itok=w5o6JULf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ultimate-battle-round-2-chess-chessopenings-chesshumor",
+         "pubDate" : "Mon, 18 Nov 2024 04:11:21",
+         "title" : "Ultimate Battle - Round 2 | #chess #chessopenings #chesshumor"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Understanding the strategy and solving complex but brilliant puzzles with Grandmaster in Residence, GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lcH8bRjMwtg.jpg?itok=nHxFTCKp\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/when-your-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners",
          "pubDate" : "Tue, 12 Nov 2024 01:07:42",
          "title" : "When Your Out Numbered in a Rook Endgame - IM Tianqi Wang | #chess #chessendgames #chessforbeginners"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Monday Masterclass with GM Denes Boros<br /> Mondays at 6:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/message-beginner-players-gm-denes-boros-chess-chessopenings-twitch\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9_p6DMZsgqc.jpg?itok=ZfXVVZaY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/message-beginner-players-gm-denes-boros-chess-chessopenings-twitch",
-         "pubDate" : "Tue, 12 Nov 2024 01:07:42",
-         "title" : "A Message for Beginner Players - GM Denes Boros | #chess #chessopenings #twitch"
       },
       {
          "description" : "This week's puzzles again come from the 2024 U.S. Women's Championship, with a focus on the second- and third-place finishers: IMs Begim Tokhirjonova and Alice Lee (respectively). All coverage from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
