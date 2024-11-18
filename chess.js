@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Understanding the strategy and solving complex but brilliant puzzles with Grandmaster in Residence, GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lcH8bRjMwtg.jpg?itok=nHxFTCKp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education",
+         "pubDate" : "Mon, 18 Nov 2024 01:11:13",
+         "title" : "1800+ or higher: Tactics and Strategy with GM Var Akobian | #chess #chesstactics #education"
+      },
+      {
          "description" : "At the European Championship in Petrovac - not far from the famous Sveti Stefan island (pictured) - the German Chess Federation is well represented in terms of quality and quantity. In addition to the top German grandmasters, ambitious amateurs are also taking part, e.g. Roger Lorenz, well known to readers of this site from his interesting articles. Here are his impressions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
          "pubDate" : "Sun, 17 Nov 2024 14:45:00",
          "title" : "European Championship in Montenegro: Live"
+      },
+      {
+         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's a selection of the most iconic and bizarre moments in the tournament's history.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42441814/world-championship-bizarre-history-hypnotists-toiletgate?device=featurephone",
+         "pubDate" : "Sun, 17 Nov 2024 10:17:37",
+         "title" : "The unexpected bizarreness of a chess World Championship"
       },
       {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kyla-zhao-may-the-best-player-win",
          "pubDate" : "Mon, 11 Nov 2024 05:52:22",
          "title" : "Forbes Honoree's 'Game-Changing' Chess Novel Tackling Gender Bias Gains Acclaim"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> White is in trouble and must draw. Puzzler&#039;s Paradise with GM Var Akobian<br /> Sundays at 4:00pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rated-players-2000-white-needs-draw-chess-chessstrategy\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mf_izI8_alc.jpg?itok=kl2os5yA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rated-players-2000-white-needs-draw-chess-chessstrategy",
-         "pubDate" : "Mon, 11 Nov 2024 01:07:03",
-         "title" : "Rated Players 2000+ : White Needs To Draw | | #chess #chessstrategy"
       },
       {
          "description" : "After three played rounds at the European Individual Chess Championship 2024, 10 players emerged on the top scoring maximum 3/3 points. The early co-leaders are GM Bogdan-Daniel Deac (ROU, 2687), GM Matthias Bluebaum (GER, 2654), GM Frederik Svane (GER, 2654), GM Ivan Cheparinov (BUL, 2632), GM Robert Hovhannisyan (ARM, 2613), GM Nikolas Theodorou (GRE, 2612), GM Daniel Dardha (BEL, 2606), GM Maksim Chigaev (ESP, 2605), GM Yagiz Kaan Erdogmus (TUR, 2604) and GM Yahli Sokolovsky (ISR, 2516), followed by a []",
