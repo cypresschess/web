@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU E-Magazine October 2024 is out! In this edition of the ECU E-Magazine you may read about: The October 2024 edition of the ECU Magazine can be read online with interactive links or can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-october-2024/",
+         "pubDate" : "Mon, 18 Nov 2024 11:56:39",
+         "title" : "ECU E-Magazine October 2024"
+      },
+      {
+         "description" : "The Tata Steel Chess India tournament concluded with Magnus Carlsen and Kateryna Lagno winning the blitz sections. Carlsen secured double gold, winning both the rapid and blitz events in the open section, much like he did in 2019. While Carlsen prevailed by a 1&frac12;-point margin over Wesley So, Lagno edged out Valentina Gunina by half a point, though she had already secured overall victory with a round to spare. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d5",
+         "pubDate" : "Mon, 18 Nov 2024 11:00:00",
+         "title" : "Carlsen and Lagno claim convincing victories at Tata Steel India Blitz"
+      },
+      {
+         "description" : "New entries are being sought for an iconic edition of Britain's most prestigious chess event, the 2024 XTX Markets London Chess Classic, starting on November 29 at Arsenal FC's Emirates Stadium. The event's FIDE Masters tournament, which will take place alongside the main tournament, is open to amateur and professional players alike and currently has an impressive line-up of strong masters. Like to join in? Here's your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/33-500-fide-masters-event-at-arsenal",
+         "pubDate" : "Mon, 18 Nov 2024 10:44:01",
+         "title" : "&pound;33,500 FIDE Masters event at Arsenal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3307",
+         "pubDate" : "Mon, 18 Nov 2024 10:36:52",
+         "title" : "World Senior Championship 2024 starts in Porto Santo, Portugal"
+      },
+      {
+         "description" : "GM Aleksandar Indjic (SRB, 2623) continues with great play at the European Individual Chess Championship 2024 and remains in the sole lead with only two rounds to go! Defeating GM Ivan Cheparinov (BUL, 2632) with black pieces yesterday, Indjic again expanded his lead in the event, to be a full point ahead over the runner ups. Aleksandar Indjic opted for very sharp and dynamical position yesterday and converted it into a winning endgame with an exchange up. Passing the time []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/gm-aleksandar-indjic-keeps-the-lead-at-eicc2024-with-only-two-rounds-to-go/",
+         "pubDate" : "Mon, 18 Nov 2024 10:26:31",
+         "title" : "GM Aleksandar Indjic keeps the lead at EICC2024 with only two rounds to go"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Assessing technical setup for stream...round 2 of the Ultimate Battle between Illia and Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ultimate-battle-round-2-chess-chessopenings-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZGte2iVc6o8.jpg?itok=w5o6JULf\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,14 +146,6 @@ news_feed (
          "title" : "Hardaway Crosses 2500 FIDE, Becomes GM-Elect"
       },
       {
-         "description" : "The Tata Steel India Blitz tournament began with fast-paced, exciting action in Kolkata, as Magnus Carlsen and Kateryna Lagno (pictured) took the lead in the open and women's sections, respectively. Carlsen, fresh off his rapid triumph, scored 6&frac12;/9 on Saturday despite a key loss to Arjun Erigaisi, while Lagno impressed with an undefeated 7/9, securing five wins and four draws. Close behind, Praggnanandhaa Rameshbabu and Valentina Gunina sit in second place in their respective sections. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d4",
-         "pubDate" : "Sat, 16 Nov 2024 22:15:00",
-         "title" : "Tata Steel Chess India: Carlsen and Lagno lead after nine rounds of blitz"
-      },
-      {
          "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-qf-mizzou-slu",
          "pubDate" : "Sat, 16 Nov 2024 18:30:00",
          "title" : "Missouri, Saint Louis Advance To Semifinals"
-      },
-      {
-         "description" : "The World Cadet Chess Championship 2024, sponsored by WR Logistics, has kicked off in Montesilvano, Italy, uniting 716 young players from 82 countries under one roof. Hosted at the spacious Pala Dean Martin Congress Centre, the event ensures convenience with nearby hotels and offers a fully live-streamed experience for the first time in its history. With live broadcasts, a parents' zone, and spaces for game analysis, this championship celebrates the talent and passion of U8, U10, and U12 players. | Photos: Patricia Claros Aguilar and Niklesh Jain (ChessBase India)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cadet-championship-2024-beginning",
-         "pubDate" : "Sat, 16 Nov 2024 17:10:00",
-         "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
       },
       {
          "description" : "GM Hikaru Nakamura has made Chess.com history by becoming the first player to win Bullet Brawl&#38;nbsp;and both editions of Titled Tuesday in the same week. Nakamura capped off a perfect week and secured a 33rd crown after scoring 252 points on Satur...",
@@ -186,14 +210,6 @@ news_feed (
          "title" : "Carlsen Crosses 2900 But Arjun, Praggnanandhaa Hit Back"
       },
       {
-         "description" : "The Tata Steel Chess India Rapid tournament concluded with dominant performances by Magnus Carlsen and Aleksandra Goryachkina. Both players remained undefeated and secured their respective titles with a round to spare, finishing with 7/9 scores. Carlsen claimed his ninth tournament victory of 2024, while Goryachkina triumphed by finishing 1&frac12; points ahead of her closest rival, Nana Dzagnidze. The competition now shifts to the blitz section, a double round-robin with a 3+2 time control. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d3",
-         "pubDate" : "Sat, 16 Nov 2024 08:10:00",
-         "title" : "Carlsen and Goryachkina clear winners at Tata Steel India Rapid"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115350200.cms\" />Magnus Carlsen triumphed at the Tata Steel India Open Rapid chess tournament in Kolkata, securing victory with a round to spare. Despite a late surge by Nodirbek Abdusattorov, Carlsen maintained his composure to finish with 7.5 points. Indian Grandmaster R Praggnanandhaa secured second place ahead of Wesley So due to a superior tie-break score.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -208,14 +224,6 @@ news_feed (
          "link" : "https://www.europechess.org/gm-aleksandar-indjic-expands-his-lead-in-the-european-individual-chess-championship-2024/",
          "pubDate" : "Fri, 15 Nov 2024 20:54:53",
          "title" : "GM Aleksandar Indjic expands his lead in the European Individual Chess Championship 2024"
-      },
-      {
-         "description" : "We have been waiting for a while, but she is finally back! WIM Svitlana Demchenko had to work and study, but returns with a fun, attacking lesson! Well-known chess author, Joe Gallagher, wrote the book \"101 Attacking Ideas In Chess\". Svitlana took some examples of this book, and it covers plenty of rules for the attacking player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-valuable-lessons-for-the-attacking-player",
-         "pubDate" : "Fri, 15 Nov 2024 19:00:00",
-         "title" : "Svitlana's Smart Moves - Valuable lessons for the attacking player"
       },
       {
          "description" : "",
@@ -266,14 +274,6 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course - January 2025"
       },
       {
-         "description" : "In the run-up to the FIDE World Chess Championship at the end of November, where he will play against 18-year-old Dommaraju Gukesh, the reigning World Champion from China, Ding Liren, gave an interview where he spoke about the challenges he faces, both on and off the board. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-a-match-is-a-match",
-         "pubDate" : "Fri, 15 Nov 2024 08:46:15",
-         "title" : "Ding Liren: \"A match is a match\""
-      },
-      {
          "description" : "World number-one Magnus Carlsen was on fire as he posted a six-game winning streak to win the 2024 Tata Steel Chess India Open Rapid with a round to spare. A thrilling battle against GM Vincent Keymer was followed by a grinding win against GM Dani...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,14 +312,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/fide-world-youth-recap-and-world-cadet-preview",
          "pubDate" : "Fri, 15 Nov 2024 00:00:00",
          "title" : "FIDE World Youth Recap and World Cadet Preview"
-      },
-      {
-         "description" : "The European Chess Union (ECU) is an independent association for the interests of European chess. It is an affiliated organisation to FIDE, the oldest and strongest continental chess power, founded in 1985. The ECU Trainers Commission (ETC) is the youngest body, founded in late 2022, with its main mission to support the training programs and development in European chess. Here are the regulations and details of the courses for chess coaches.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ecu-trainers-and-coaches-3",
-         "pubDate" : "Thu, 14 Nov 2024 20:27:52",
-         "title" : "ECU Trainers and Coaches"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115308083.cms\" />Magnus Carlsen wins against S L Narayanan, Wesley So and Arjun Erigaisi. Carlsen leads the Tata Steel Chess India Rapid tournament. Aleksandra Goryachkina leads the women's division. Nodirbek Abdusattorov trails Carlsen by half a point. Nana Dzagnidze holds second position in the women's category.",
@@ -882,14 +874,6 @@ news_feed (
          "title" : "Rachels Returns, Wins Sixth Alabama Championship (Video)"
       },
       {
-         "description" : "The 2024 European Individual Chess Championship starts this Friday in Petrovac, Montenegro and will be played from 8th-19th November in ****Hotel &#8220;Palas&#8221; Petrovac. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30 seconds increment for each move starting from move one. Nearly 400 players coming from 42 European federations registered for the event, including 120 Grandmasters, 85 International []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-starts-in-montenegro/",
-         "pubDate" : "Wed, 06 Nov 2024 19:09:49",
-         "title" : "European Individual Chess Championship 2024 starts in Montenegro"
-      },
-      {
          "description" : "Recently, the famous Babson task (Black promotes to one of the four possible pieces and White must promote to the same piece in all four cases to win) has been conquered by in an endgame study. Many thought it to be impossible to realize this extremely difficult task. In this second part of the three part series Harold van der Heijden describes how study composers progressed towards solving the problem.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1010,14 +994,6 @@ news_feed (
          "title" : "World Youth Championship: Leaders emerge at the halfway mark"
       },
       {
-         "description" : "European Chess Union Partners with GLOBALCELL to Enhance Connectivity for Chess Players Across Europe European Chess Union (ECU) is delighted to announce an exciting partnership with the leaderof eSIM solutions - GLOBALCELL for the benefit of all ECU members and the chess community. GLOBALCELL has become the Official Telecom Provider of the ECU and will provide eSIMdata packages specifically for the benefit of ECU players, federations and officials, all acrossEurope. The sponsorship covers the provision of 550 eSIMS each loaded []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-partners-with-globalcell/",
-         "pubDate" : "Mon, 04 Nov 2024 08:00:38",
-         "title" : "ECU PARTNERS WITH GLOBALCELL"
-      },
-      {
          "description" : "After a second-round loss, Mrittika Mallick bounced back impressively with four consecutive wins, keeping her medal hopes alive. In her latest game, she played the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1048,6 +1024,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3287",
          "pubDate" : "Sun, 03 Nov 2024 17:25:02",
          "title" : "Goryachkina takes sole lead as fierce battles mark halfway point of WGP Shymkent"
+      },
+      {
+         "description" : "I've been posting about the series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), for so long -- 15 years next March -- that I can barely remember all the different bits and pieces of info behind each post. Consider the following item. <P> Titled 'Piggybanx 1/1 Chess Piece Matte Variation Moneky D. Luffy', it sold for 'US $2,000.00 or Best Offer'. It was higher in the list of sold items than another chess item that sold for $1826 after 35 bids, so we can accept that the real price was higher than that. <P> 'Piggybanx'. Where have we seen that before on this blog? It turns out that I featured another it",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/more-piggybanx-chess.html",
+         "pubDate" : "Sun, 03 Nov 2024 16:05:00",
+         "title" : "More Piggybanx Chess"
       },
       {
          "description" : "",
@@ -1288,14 +1272,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-at-the-emirates-britains-premier-tournament-to-be-staged-at-arsenals-iconic-stadium/",
          "pubDate" : "Mon, 28 Oct 2024 15:07:58",
          "title" : "Chess at the Emirates! Britain's premier tournament to be staged at Arsenal's iconic stadium"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3275",
-         "pubDate" : "Mon, 28 Oct 2024 09:01:45",
-         "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
       }
    ]
 }
