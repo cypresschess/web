@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the European Championship in Petrovac - not far from the famous Sveti Stefan island (pictured) - the German Chess Federation is well represented in terms of quality and quantity. In addition to the top German grandmasters, ambitious amateurs are also taking part, e.g. Roger Lorenz, well known to readers of this site from his interesting articles. Here are his impressions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eindruecke-aus-petrovac",
+         "pubDate" : "Sun, 17 Nov 2024 21:20:00",
+         "title" : "Snapshots from Petrovac"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Assessing technical setup for stream...round 2 of the Ultimate Battle between Illia and Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/missed-round-2-ultimate-battle-chess-chessopenings-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZGte2iVc6o8.jpg?itok=w5o6JULf\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
          "pubDate" : "Sun, 17 Nov 2024 14:45:00",
          "title" : "European Championship in Montenegro: Live"
-      },
-      {
-         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's a selection of the most iconic and bizarre moments in the tournament's history.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42441814/world-championship-bizarre-history-hypnotists-toiletgate?device=featurephone",
-         "pubDate" : "Sun, 17 Nov 2024 10:17:37",
-         "title" : "The unexpected bizarreness of a chess World Championship"
       },
       {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
@@ -72,6 +72,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42436603/how-viswanathan-anand-won-five-world-chess-championship-titles?device=featurephone",
          "pubDate" : "Sun, 17 Nov 2024 00:49:56",
          "title" : "How Viswanathan Anand won his five world chess championship titles"
+      },
+      {
+         "description" : "From November 7 through 11, NYC Chess Norms hosted its 19th invitational, consisting of two GM and two IM Round Robins as well as a fifth Scheveningen section. Despite no GM norms, each of the GM-A and GM-B section produced some big news.In the GM-A section, GM Pawel Teclaf and IM Brewington Hardaway tied for first with 6/9 scores. Hardaway entered the event with all three GM norms already under his belt, and the big question was whether he could break the 2500 FIDE rating threshold needed to become eligible for the GM title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Two recent heroes of the NYC Chess Norms invitationals: Hardaway emerged victori",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/hardaway-crosses-2500-fide-becomes-gm-elect",
+         "pubDate" : "Sun, 17 Nov 2024 00:00:00",
+         "title" : "Hardaway Crosses 2500 FIDE, Becomes GM-Elect"
       },
       {
          "description" : "The Tata Steel India Blitz tournament began with fast-paced, exciting action in Kolkata, as Magnus Carlsen and Kateryna Lagno (pictured) took the lead in the open and women's sections, respectively. Carlsen, fresh off his rapid triumph, scored 6&frac12;/9 on Saturday despite a key loss to Arjun Erigaisi, while Lagno impressed with an undefeated 7/9, securing five wins and four draws. Close behind, Praggnanandhaa Rameshbabu and Valentina Gunina sit in second place in their respective sections. | Photo: Lennart Ootes",
@@ -1266,14 +1274,6 @@ news_feed (
          "title" : "Inside Story: Peter Doggers and The Chess Revolution"
       },
       {
-         "description" : "This week concludes a series of tactical highlights from the 45th FIDE Olympiad. All of our coverage of the American teams' double-podium finish is available here. This series highlights games from matches between other nations, including a number of educational themes for players of all rating levels. This week's puzzles again focus on hanging, loose, and otherwise under-protected pieces. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-45th-fide-olympiad-pt-4-pawn-power",
-         "pubDate" : "Tue, 29 Oct 2024 00:00:00",
-         "title" : "Tactics Tuesday: 45th FIDE Olympiad, Pt. 4 (Pawn Power)"
-      },
-      {
          "description" : "Eight of the world's top chess grandmasters will compete in the 2024 XTX Markets London Chess Classic (LCC) from November 29 to December 7. The line-up includes: Women's World Champion...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1288,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3275",
          "pubDate" : "Mon, 28 Oct 2024 09:01:45",
          "title" : "World Amateur Chess Championship 2024 begins in Rhodes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3274",
-         "pubDate" : "Sun, 27 Oct 2024 20:39:23",
-         "title" : "From a school in Chennai to the World Championship match in Singapore"
       }
    ]
 }
