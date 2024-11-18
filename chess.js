@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The President Cup returns for its third edition from 21 to 28 November in Tashkent, Uzbekistan. Featuring two 9-round Swiss opens and a $69,000 prize fund, the event will showcase some of the region's finest talent, including Uzbekistan's Olympiad stars Nodirbek Abdusattorov and Javokhir Sindarov, alongside Iran's Parham Maghsoodloo and Amin Tabatabaei. Adding to the excitement is a strong Indian contingent, featuring the likes of Nihal Sarin and Abhimanyu Puranik.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/president-cup-2024-preview",
+         "pubDate" : "Mon, 18 Nov 2024 20:25:00",
+         "title" : "President Cup in Uzbekistan: Abdusattorov and Maghsoodloo head field in strong open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3308",
+         "pubDate" : "Mon, 18 Nov 2024 16:45:53",
+         "title" : "4th FIDE Council meeting list of decisions published"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115422760.cms\" />Indian chess player Bristy Mukherjee won the All India Women Rapid event at the Tata Steel Chess India Festival 2024. During the award ceremony, she touched the feet of chess legend Magnus Carlsen as a sign of respect, surprising him. Carlsen also emerged victorious in the rapid and blitz categories, solidifying his dominance in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-october-2024/",
          "pubDate" : "Mon, 18 Nov 2024 11:56:39",
          "title" : "ECU E-Magazine October 2024"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournament concluded with Magnus Carlsen and Kateryna Lagno winning the blitz sections. Carlsen secured double gold, winning both the rapid and blitz events in the open section, much like he did in 2019. While Carlsen prevailed by a 1&frac12;-point margin over Wesley So, Lagno edged out Valentina Gunina by half a point, though she had already secured overall victory with a round to spare. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-d5",
-         "pubDate" : "Mon, 18 Nov 2024 11:00:00",
-         "title" : "Carlsen and Lagno claim convincing victories at Tata Steel India Blitz"
       },
       {
          "description" : "New entries are being sought for an iconic edition of Britain's most prestigious chess event, the 2024 XTX Markets London Chess Classic, starting on November 29 at Arsenal FC's Emirates Stadium. The event's FIDE Masters tournament, which will take place alongside the main tournament, is open to amateur and professional players alike and currently has an impressive line-up of strong masters. Like to join in? Here's your chance.",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education",
          "pubDate" : "Mon, 18 Nov 2024 01:11:13",
          "title" : "1800+ or higher: Tactics and Strategy with GM Var Akobian | #chess #chesstactics #education"
+      },
+      {
+         "description" : "Editor's note: This story first appeared in the November 2024 issue of Chess Life. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The first Chinese world champion defends his title this month against a grandmaster who is looking to become - by far - the youngest champ ever.The W",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-fide-world-championship-preview",
+         "pubDate" : "Mon, 18 Nov 2024 00:00:00",
+         "title" : "Inside Story: FIDE World Championship Preview"
       },
       {
          "description" : "At the European Championship in Petrovac - not far from the famous Sveti Stefan island (pictured) - the German Chess Federation is well represented in terms of quality and quantity. In addition to the top German grandmasters, ambitious amateurs are also taking part, e.g. Roger Lorenz, well known to readers of this site from his interesting articles. Here are his impressions.",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-as-a-tool-against-violence",
          "pubDate" : "Tue, 29 Oct 2024 08:04:01",
          "title" : "Chess as a tool against violence"
-      },
-      {
-         "description" : "Editor's note: this story first appeared in the November 2024 issue of Chess Life magazine. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.Peter Doggers is one of the elder statesmen of online chess journalism. In 2007 he launched ChessVibes, one of the best chess news and video sites of its day, and followed that with the ChessVibes Openings and ChessVibes Training subscription newsletters. He moved to Chess.com in 2013",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-peter-doggers-and-chess-revolution",
-         "pubDate" : "Tue, 29 Oct 2024 00:00:00",
-         "title" : "Inside Story: Peter Doggers and The Chess Revolution"
       }
    ]
 }
