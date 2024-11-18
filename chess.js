@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115422760.cms\" />Indian chess player Bristy Mukherjee won the All India Women Rapid event at the Tata Steel Chess India Festival 2024. During the award ceremony, she touched the feet of chess legend Magnus Carlsen as a sign of respect, surprising him. Carlsen also emerged victorious in the rapid and blitz categories, solidifying his dominance in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-magnus-carlsen-left-clueless-as-indian-female-chess-player-touches-his-feet/articleshow/115422760.cms",
+         "pubDate" : "Mon, 18 Nov 2024 14:57:16",
+         "title" : "Viral Video: Carlsen left clueless as Indian female player touches feet"
+      },
+      {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 8/9, a full point ahead of a six-player chasing pack. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 10 live with the official commentary of the ECU.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
+         "pubDate" : "Mon, 18 Nov 2024 14:45:00",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
          "description" : "The ECU E-Magazine October 2024 is out! In this edition of the ECU E-Magazine you may read about: The October 2024 edition of the ECU Magazine can be read online with interactive links or can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-bags-remarkable-double-after-winning-india-blitz-2024-title-with-a-round-to-spare/articleshow/115388633.cms",
          "pubDate" : "Sun, 17 Nov 2024 15:05:22",
          "title" : "Magnus Carlsen bags remarkable double with India Blitz 2024 title"
-      },
-      {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 7/8, a half point ahead of Ivan Cheparinov and Maksim Chigaev with 6.5/8 each. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 9 live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
-         "pubDate" : "Sun, 17 Nov 2024 14:45:00",
-         "title" : "European Championship in Montenegro: Live"
       },
       {
          "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's a selection of the most iconic and bizarre moments in the tournament's history.",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-peter-doggers-and-chess-revolution",
          "pubDate" : "Tue, 29 Oct 2024 00:00:00",
          "title" : "Inside Story: Peter Doggers and The Chess Revolution"
-      },
-      {
-         "description" : "Eight of the world's top chess grandmasters will compete in the 2024 XTX Markets London Chess Classic (LCC) from November 29 to December 7. The line-up includes: Women's World Champion...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-at-the-emirates-britains-premier-tournament-to-be-staged-at-arsenals-iconic-stadium/",
-         "pubDate" : "Mon, 28 Oct 2024 15:07:58",
-         "title" : "Chess at the Emirates! Britain's premier tournament to be staged at Arsenal's iconic stadium"
       }
    ]
 }
