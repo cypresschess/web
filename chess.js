@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 FIDE World Championship match, sponsored by Google, will unfold in Singapore from November 23 to December 13, pitting reigning champion Ding Liren against 18-year-old prodigy Dommaraju Gukesh. The duo will battle across 14 classical games for the lion's share of a $2.5 million prize fund. Ding, a seasoned champion, faces Gukesh, the youngest-ever challenger and a rising star in chess. With high stakes, expert analysis and unpredictable outcomes, this clash promises to captivate chess enthusiasts worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/showdown-singapore-2024-fide",
+         "pubDate" : "Tue, 19 Nov 2024 17:00:00",
+         "title" : "Showdown in Singapore: Ding Liren v. Dommaraju Gukesh"
+      },
+      {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After ten of eleven rounds, the Serbian GM Aleksandar Indjic leads with an 8&frac12;/10 score, while Daniel Dardha stands in sole second place a half point back. The 20 best players qualify for the World Cup. The final round starts at 13.00 local time. Follow it live with the official commentary of the European Chess Union.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3310",
          "pubDate" : "Tue, 19 Nov 2024 07:09:29",
          "title" : "Showdown in Singapore: Ding Liren vs Gukesh "
+      },
+      {
+         "description" : "The 2025 Tata Steel Chess Tournament&#39;s Masters group has 2020 winner GM Fabiano Caruana as the top seed in a field that includes five top 10 players. Many eyes will be on the 11-year-old IM Faustino Oro from Argentina, who will be playing in the C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-tournament-2025-participants",
+         "pubDate" : "Tue, 19 Nov 2024 05:44:00",
+         "title" : "Caruana Tops Tata Steel Chess Tournament 2025 Lineup; Oro (11) Plays Challengers"
       },
       {
          "description" : "",
@@ -914,14 +930,6 @@ news_feed (
          "title" : "Arjun Becomes 2nd In World In Live Ratings After Chaotic Win"
       },
       {
-         "description" : "GMs Anish Giri and Vidit Gujrathi consider GM Gukesh Dommaraju a big favorite to defeat the reigning World Champion GM Ding Liren. The two friends shared their candid predictions for the 2024 FIDE World Championship, set to begin in Singapore on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/giri-vidit-predict-ding-vs-gukesh-match",
-         "pubDate" : "Thu, 07 Nov 2024 07:34:00",
-         "title" : "Who Will Win The World Championship? Vidit, Giri Predict Gukesh Dominance Over Ding"
-      },
-      {
          "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship - hosted by the Mobile Chess Club - was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' sta",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3279",
          "pubDate" : "Tue, 29 Oct 2024 19:48:37",
          "title" : "Second leg of FIDE Women's Grand Prix 2024-2025 kicks off in Shymkent"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3278",
-         "pubDate" : "Tue, 29 Oct 2024 16:16:04",
-         "title" : "World Youth Chess Championship 2024 commences in Florian&oacute;polis, Brazil"
       }
    ]
 }
