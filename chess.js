@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the European Chess Championship heads into its final round, Serbian GM Aleksandar Indjic leads the pack with 8&frac12; points, closely followed by 19-year-old Belgian GM Daniel Dardha on 8 points. Both have secured spots in the FIDE World Cup, but the title and €20,000 top prize remain up for grabs. With nine players on 7&frac12; points and 16 others on 7, the race for qualification intensifies, while underdogs like Armenian FM Erik Gasparyan aim to make a final push. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2024-10",
+         "pubDate" : "Tue, 19 Nov 2024 07:40:00",
+         "title" : "European Championship: Indjic enters final round as sole leader"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3310",
+         "pubDate" : "Tue, 19 Nov 2024 07:09:29",
+         "title" : "Showdown in Singapore: Ding Liren vs Gukesh "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3309",
+         "pubDate" : "Tue, 19 Nov 2024 05:28:54",
+         "title" : "World Chess and FIDE open up Elite Chess Sponsorship to small businesses"
+      },
+      {
          "description" : "Ten rounds were played at the European Individual Chess Championship 2024 in Petrovac, Montegro, and the new Champion will be crowned tomorrow! GM Aleksandar Indjic (SRB, 2623) kept the sole lead in the tournament after today's draw against GM Daniil Yuffa (ESP, 2631). Indjic now scores 8.5 points, and enters the last round with half a point advantage over GM Daniel Dardha (BEL, 2606) who is in clear second place scoring 8 points. GM Daniel Dardha (BEL, 2606) was victorious []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-magnus-carlsen-left-clueless-as-indian-female-chess-player-touches-his-feet/articleshow/115422760.cms",
          "pubDate" : "Mon, 18 Nov 2024 14:57:16",
          "title" : "Viral Video: Carlsen left clueless as Indian female player touches feet"
-      },
-      {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After seven of eleven rounds the Serbian Grandmaster Aleksandar Indjic leads with 8/9, a full point ahead of a six-player chasing pack. The 20 best players qualify for the World Cup. The rounds start daily at 15.00 local time. Follow round 10 live with the official commentary of the ECU.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
-         "pubDate" : "Mon, 18 Nov 2024 14:45:00",
-         "title" : "European Championship in Montenegro: Live"
       },
       {
          "description" : "The ECU E-Magazine October 2024 is out! In this edition of the ECU E-Magazine you may read about: The October 2024 edition of the ECU Magazine can be read online with interactive links or can be downloaded in PDF format below.",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/results-of-the-ecf-elections-2024/",
          "pubDate" : "Tue, 29 Oct 2024 08:58:14",
          "title" : "Results of the ECF Elections 2024"
-      },
-      {
-         "description" : "Modern society faces an unprecedented rise in violence among minors, with incidents of juvenile delinquency and aggression increasing alarmingly. In this context, finding ways to prevent violence is crucial. Chess has emerged as an unexpectedly powerful tool for preventing violence and promoting positive social and personal behaviours among young people. Educator Vera Avramidou tells us how and why.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-as-a-tool-against-violence",
-         "pubDate" : "Tue, 29 Oct 2024 08:04:01",
-         "title" : "Chess as a tool against violence"
       }
    ]
 }
