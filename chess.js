@@ -18,12 +18,44 @@ news_feed (
          "title" : "European Championship in Montenegro: Live"
       },
       {
+         "description" : "Four-time Serbian National Champion GM Aleksandar Indjic convincingly won the 2024 European Chess Championship with 9/11 and a performance of 2820. The champion, undefeated, led the tournament from round six all the way to the end, at one point sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-european-chess-championship",
+         "pubDate" : "Tue, 19 Nov 2024 12:18:20",
+         "title" : "Indjic Wins European Chess Championship, Top 20 Qualify For 2025 World Cup"
+      },
+      {
          "description" : "This exceptionally clear and concise video will show you not only all the features of the newly released ChessBase 18, but demonstrates how they can be used by amateurs and pros alike (not to mention some that are just plain fun). Even the new mobile app is on display in full live action with the database, repertoires and opening stats all available.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-quick-and-complete-review-and-overview-of-chessbase-18",
          "pubDate" : "Tue, 19 Nov 2024 11:00:00",
          "title" : "A quick and complete review and overview of ChessBase 18"
+      },
+      {
+         "description" : "Chess.com and partner CloseUp360 are excited to announce a bot for one of the National Basketball Association&#38;rsquo;s rising stars, Jaime Jaquez Jr.! To celebrate, Chess.com and Jaime are teaming up for a special blitz tournament on November 19t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-nba-star-jaime-jaquez-jr",
+         "pubDate" : "Tue, 19 Nov 2024 10:00:00",
+         "title" : "Play Chess Against NBA Star Jaime Jaquez Jr.!"
+      },
+      {
+         "description" : "Ahead of the Chess World Championship, let's break down the complex sport of chess in the simplest way possible.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42482386/chess-101-explaining-sport-novice?device=featurephone",
+         "pubDate" : "Tue, 19 Nov 2024 09:09:00",
+         "title" : "Chess 101: Explaining the sport"
+      },
+      {
+         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's what it takes to be the champ",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42482615/chess-world-championship-takes-crown-king-gukesh-ding-liren?device=featurephone",
+         "pubDate" : "Tue, 19 Nov 2024 08:11:10",
+         "title" : "Chess World Championship: What it takes to be crowned king"
       },
       {
          "description" : "As the European Chess Championship heads into its final round, Serbian GM Aleksandar Indjic leads the pack with 8&frac12; points, closely followed by 19-year-old Belgian GM Daniel Dardha on 8 points. Both have secured spots in the FIDE World Cup, but the title and €20,000 top prize remain up for grabs. With nine players on 7&frac12; points and 16 others on 7, the race for qualification intensifies, while underdogs like Armenian FM Erik Gasparyan aim to make a final push. | Photo: European Chess Union",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3309",
          "pubDate" : "Tue, 19 Nov 2024 05:28:54",
          "title" : "World Chess and FIDE open up Elite Chess Sponsorship to small businesses"
+      },
+      {
+         "description" : "This week's puzzles again come from the 2024 U.S. Women's Championship (as well as a few from the 2024 U.S. Championship, won by GM Fabiano Caruana). All coverage from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-us-championships-pt-3",
+         "pubDate" : "Tue, 19 Nov 2024 00:00:00",
+         "title" : "Tactics Tuesday: U.S. Championships, Pt. 3"
       },
       {
          "description" : "Ten rounds were played at the European Individual Chess Championship 2024 in Petrovac, Montegro, and the new Champion will be crowned tomorrow! GM Aleksandar Indjic (SRB, 2623) kept the sole lead in the tournament after today's draw against GM Daniil Yuffa (ESP, 2631). Indjic now scores 8.5 points, and enters the last round with half a point advantage over GM Daniel Dardha (BEL, 2606) who is in clear second place scoring 8 points. GM Daniel Dardha (BEL, 2606) was victorious []",
@@ -914,22 +954,6 @@ news_feed (
          "title" : "Shreyas Smith takes Jamaican title with 9/9"
       },
       {
-         "description" : "IM Nurgyul Salimova&#39;s win over IM Batkhuyag Munguntuul was the only decisive game of round eight of the 2024 Shymkent FIDE Women&#39;s Grand Prix. GM Aleksandra Goryachkina&#39;s five-game winning streak was ended by GM Koneru Humpy, but when GM Tan Zhong...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-shymkent-round-8",
-         "pubDate" : "Thu, 07 Nov 2024 12:25:00",
-         "title" : "Salimova Scores 1st Win; Goryachkina On Brink Of Overall Victory"
-      },
-      {
-         "description" : "The third-round encounter between GMs Arjun Erigaisi and GM Alexey Sarana at the Chennai Grand Masters 2024 had two distinct phases: the first 23 moves, flawlessly played by both sides, and the rest marred by tactical errors. But what mattered was...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-3",
-         "pubDate" : "Thu, 07 Nov 2024 10:56:29",
-         "title" : "Arjun Becomes 2nd In World In Live Ratings After Chaotic Win"
-      },
-      {
          "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship - hosted by the Mobile Chess Club - was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' sta",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1272,22 +1296,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/",
          "pubDate" : "Wed, 30 Oct 2024 00:32:06",
          "title" : "New in Chess profiles Daaim Shabazz"
-      },
-      {
-         "description" : "This week's Wednesday Workout concludes our series highlighting exciting moments from the 45th FIDE Chess Olympiad, held last month in Budapest, Hungary. All of Chess Life Online's coverage of the American teams can be found here, and this series will focus on the games of competitors from other nations. Some of these worksheets will be more thematically grouped than others. This week once again focuses on endgames without rooks. Have fun! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-45th-fide-olympiad-pt-5-even-more-endgames",
-         "pubDate" : "Wed, 30 Oct 2024 00:00:00",
-         "title" : "Wednesday Workout: 45th FIDE Olympiad, Pt. 5 (Even More Endgames)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3279",
-         "pubDate" : "Tue, 29 Oct 2024 19:48:37",
-         "title" : "Second leg of FIDE Women's Grand Prix 2024-2025 kicks off in Shymkent"
       }
    ]
 }
