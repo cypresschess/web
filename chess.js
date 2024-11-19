@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten rounds were played at the European Individual Chess Championship 2024 in Petrovac, Montegro, and the new Champion will be crowned tomorrow! GM Aleksandar Indjic (SRB, 2623) kept the sole lead in the tournament after today's draw against GM Daniil Yuffa (ESP, 2631). Indjic now scores 8.5 points, and enters the last round with half a point advantage over GM Daniel Dardha (BEL, 2606) who is in clear second place scoring 8 points. GM Daniel Dardha (BEL, 2606) was victorious []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/indjic-keeps-the-sole-lead-dardha-keeps-his-chances-for-gold-in-the-final-round-of-eicc2024/",
+         "pubDate" : "Mon, 18 Nov 2024 21:01:35",
+         "title" : "Indjic maintains the sole lead, Dardha keeps his chances for gold in the Final round of EICC2024"
+      },
+      {
          "description" : "The President Cup returns for its third edition from 21 to 28 November in Tashkent, Uzbekistan. Featuring two 9-round Swiss opens and a $69,000 prize fund, the event will showcase some of the region's finest talent, including Uzbekistan's Olympiad stars Nodirbek Abdusattorov and Javokhir Sindarov, alongside Iran's Parham Maghsoodloo and Amin Tabatabaei. Adding to the excitement is a strong Indian contingent, featuring the likes of Nihal Sarin and Abhimanyu Puranik.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Ultimate Battle - Round 2 | #chess #chessopenings #chesshumor"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Understanding the strategy and solving complex but brilliant puzzles with Grandmaster in Residence, GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lcH8bRjMwtg.jpg?itok=nHxFTCKp\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Solving complex tactics and strategy studies with Grandmaster in Residence, GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lcH8bRjMwtg.jpg?itok=nHxFTCKp\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education",
@@ -466,7 +474,7 @@ news_feed (
          "title" : "Wednesday Workout: U.S. Championships, Pt. 2"
       },
       {
-         "description" : " The Tata Steel Chess India tournament takes place Wed 13th to Sun 17th Nov 2024 in Kolkata. This is a Rapid and Blitz tournament with play starting at 2pm local time which is 08:30 GMT . Players men's event: Magnus Carlsen, Nodirbek Abdusattorov, Wesley So, Arjun Erigaisi, Daniil Dubov, Sarin Nihal, R Praggnanandhaa, Santosh Gujrathi Vidit, Vincent Keymer and S L Narayanan. Women's event: Aleksandra Goryachkina, Kateryna Lagno, Alexsandra Kosteniuk, Nana Dzagnidze, Valentina Gunina, Koneru Humpy, Harika Dronavalli, Divya Deshmukh, Vaishali R and Vantika Agrawal.",
+         "description" : " The Tata Steel Chess India tournament took place Wed 13th to Sun 17th Nov 2024 in Kolkata. This was a Rapid and Blitz tournament. Players men's event: Magnus Carlsen, Nodirbek Abdusattorov, Wesley So, Arjun Erigaisi, Daniil Dubov, Sarin Nihal, R Praggnanandhaa, Santosh Gujrathi Vidit, Vincent Keymer and S L Narayanan. Women's event: Aleksandra Goryachkina, Kateryna Lagno, Alexsandra Kosteniuk, Nana Dzagnidze, Valentina Gunina, Koneru Humpy, Harika Dronavalli, Divya Deshmukh, Vaishali R and Vantika Agrawal. Magnus Carlsen dominated and won both the rapid and blitz. Aleksandra Goryachkina won the women's rapid and Kateryna Lagno the women's blitz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/tata-steel-chess-india-2024",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-rajahmundry-andhra-pradesh-on-30-november-01-december-2024/",
          "pubDate" : "Sat, 09 Nov 2024 01:25:50",
          "title" : "SNA Seminar & Exam in Rajahmundry , Andhra Pradesh on 30 November & 01 December 2024"
-      },
-      {
-         "description" : "The 2024 European Individual Chess Championship commenced today in Petrovac, Montenegro. The Opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Alojzije Jankovic, Deputy Prime Minister for Infrastructure and Regional Development of Montenegro Mr. Milun Zogovic, Mr. Vladimir Obradovic on behalf of the Ministry of Sports and Youth of Montenegro, President of the Montenegro Chess Federation Mr. Jovan Milovic, ECU []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-commenced-in-montenegro/",
-         "pubDate" : "Fri, 08 Nov 2024 22:44:01",
-         "title" : "European Individual Chess Championship 2024 commenced in Montenegro"
       },
       {
          "description" : " The 24th European Individual Championship takes place 8th to 20th November 2024. Vladimir Fedoseev is the top seed ahead of Bogdan-Daniel Deac, Jorden Van Foreest, Haik Martirosyan, David Navara, Ivan Saric, Nikita Vitiugov, Shant Sargyan, Jonas Buhl Bjerre, Matthias Bluebaum, Fredrik Svane, Etienne Bacrot, Ruslan Ponomariov etc",
