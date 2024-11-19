@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After ten of eleven rounds, the Serbian GM Aleksandar Indjic leads with an 8&frac12;/10 score, while Daniel Dardha stands in sole second place a half point back. The 20 best players qualify for the World Cup. The final round starts at 13.00 local time. Follow it live with the official commentary of the European Chess Union.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
+         "pubDate" : "Tue, 19 Nov 2024 12:45:00",
+         "title" : "European Championship in Montenegro: Live"
+      },
+      {
+         "description" : "This exceptionally clear and concise video will show you not only all the features of the newly released ChessBase 18, but demonstrates how they can be used by amateurs and pros alike (not to mention some that are just plain fun). Even the new mobile app is on display in full live action with the database, repertoires and opening stats all available.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-quick-and-complete-review-and-overview-of-chessbase-18",
+         "pubDate" : "Tue, 19 Nov 2024 11:00:00",
+         "title" : "A quick and complete review and overview of ChessBase 18"
+      },
+      {
          "description" : "As the European Chess Championship heads into its final round, Serbian GM Aleksandar Indjic leads the pack with 8&frac12; points, closely followed by 19-year-old Belgian GM Daniel Dardha on 8 points. Both have secured spots in the FIDE World Cup, but the title and €20,000 top prize remain up for grabs. With nine players on 7&frac12; points and 16 others on 7, the race for qualification intensifies, while underdogs like Armenian FM Erik Gasparyan aim to make a final push. | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,22 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3278",
          "pubDate" : "Tue, 29 Oct 2024 16:16:04",
          "title" : "World Youth Chess Championship 2024 commences in Florian&oacute;polis, Brazil"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3277",
-         "pubDate" : "Tue, 29 Oct 2024 09:06:55",
-         "title" : "FIDE President visits Uzbekistan"
-      },
-      {
-         "description" : "The ECF Annual General Meeting was held on 26 October 2024. The following candidates were elected unopposed &#8212; President: Dominic Lawson Chair of Council: David Eustace Chief Executive: Mike Truran...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/results-of-the-ecf-elections-2024/",
-         "pubDate" : "Tue, 29 Oct 2024 08:58:14",
-         "title" : "Results of the ECF Elections 2024"
       }
    ]
 }
