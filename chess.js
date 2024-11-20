@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 20 November Magnus Carlsen and Tania Sachdev will play two Freestyle (Chess960) \"Hand and Brain\" games with a time control of 10+10 against Fabiano Caruana and Maurice Ashley. On 21 and 22 November, Carlsen and Caruana will play a small Freestyle match of two games with a time control of 60+30. Follow the \"Hand and Brain\" match live with commentary by Daniel Rensch and Sagar Shah.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-summit-live",
+         "pubDate" : "Wed, 20 Nov 2024 16:41:27",
+         "title" : "Freestyle Chess Summit: Live"
+      },
+      {
          "description" : "The 87th Tata Steel Chess Tournament returns to Wijk aan Zee, Netherlands, from 17 January to 2 February 2025, promising an electrifying start to the chess calendar. With five players from the world's top ten, including past champions Fabiano Caruana, Anish Giri and Wei Yi, the field is stacked with talent. India's Dommaraju Gukesh, the youngest challenger for the World Championship in history, will also feature after his title clash in Singapore. Rising stars like junior world champions Kazybek Nogerbek and Divya Deshmukh, alongside prodigies Faustino Oro and Lu Miaoyi, will be playing in the Challengers. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
