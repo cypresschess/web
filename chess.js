@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3311",
+         "pubDate" : "Tue, 19 Nov 2024 23:03:59",
+         "title" : "Aleksandar Indjic wins 2024 European Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Yaro Zherebukh from the 2017 U.S. Chess Championship in Saint Louis. 2024.11.14<br /> Yaroslav Zherebukh vs Varuzhan Akobian, United States Championship (2017): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870231\">https://www.chessgames.com/perl/chessgame?gid=1870231</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zapping-zherebukh-2017-us-champs-prepare-pro-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zapping-zherebukh-2017-us-champs-prepare-pro-gm-varuzhan-akobian",
+         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
+         "title" : "Zapping Zherebukh at 2017 U.S. Champs! | Prepare Like A Pro - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian presents complex tactics and strategy studies. 2024.11.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-1800-or-higher-puzzlers-paradisedouble-exclam-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lcH8bRjMwtg.jpg?itok=nHxFTCKp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-1800-or-higher-puzzlers-paradisedouble-exclam-gm-varuzhan-akobian",
+         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
+         "title" : "Tactics and Strategy for 1800+ or Higher | Puzzler's Paradise/Double Exclam!! - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Sam Shankland from the 2017 U.S. Chess Championship in Saint Louis. Today is Akobian&#039;s birthday, which he shares with Jose Raul Capablanca. 2024.11.14<br /> Varuzhan Akobian vs Sam Shankland, United States Championship (2017): D43 Queen&#039;s Gambit Declined semi-Slav, Hastings variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870039\">https://www.chessgames.com/perl/chessgame?gid=1870039</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vars-big-birthday-bash-grandmasters-choice-gm-varuzhan-akobian",
+         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
+         "title" : "Var's Big Birthday Bash! | Grandmaster's Choice - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Tianqi &quot;Steve&quot; Wang debuts on YouTube as the new chess instructor for Road to 2000. 2024.11.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/new-era-begins-road-2000-im-tianqi-steve-wang\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qo-8mJCseXI.jpg?itok=mkwwRZUL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/new-era-begins-road-2000-im-tianqi-steve-wang",
+         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
+         "title" : "A New Era Begins! | Road to 2000 - IM Tianqi \"Steve\" Wang"
+      },
+      {
+         "description" : "The 2024 European Individual Chess Championship concluded in Petrovac, Montegro. GM Aleksandar Indjic (SRB, 2623) emerged as the sole Winner of the tournament scoring unbeaten 9/11 points. GM Daniel Dardha (BEL, 2606) came second with 8.5/11 points, and GM Frederik Svane (GER, 2654) won bronze. In a last-round direct encounter for the first place, Aleksandar Indjic drew with black against GM Daniel Dardha (BEL, 2606), secured sole first place, and clinched his maiden title. GM Daniel Dardha was in chance []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/aleksandar-indjic-wins-european-individual-chess-championship-2024/",
+         "pubDate" : "Tue, 19 Nov 2024 20:55:12",
+         "title" : "Aleksandar Indjic wins European Individual Chess Championship 2024"
+      },
+      {
          "description" : "The 2024 FIDE World Championship match, sponsored by Google, will unfold in Singapore from November 23 to December 13, pitting reigning champion Ding Liren against 18-year-old prodigy Dommaraju Gukesh. The duo will battle across 14 classical games for the lion's share of a $2.5 million prize fund. Ding, a seasoned champion, faces Gukesh, the youngest-ever challenger and a rising star in chess. With high stakes, expert analysis and unpredictable outcomes, this clash promises to captivate chess enthusiasts worldwide.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -586,44 +634,12 @@ news_feed (
          "title" : "Five rounds played at European Individual Chess Championship 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/youre-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JP3lpLat-xE.jpg?itok=i5JjrKAT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/youre-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners",
-         "pubDate" : "Tue, 12 Nov 2024 16:07:57",
-         "title" : "You're Out Numbered in a Rook Endgame - IM Tianqi Wang | #chess #chessendgames #chessforbeginners"
-      },
-      {
          "description" : "GM Maurice Ashley is establishing a new initiative aimed at nurturing the talents of young chess players from underserved communities in the United States. Ashley has made his move to address the persistent underrepresentation of African America...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/maurice-ashley-establishes-new-fellowship-to-nurture-chess-talents",
          "pubDate" : "Tue, 12 Nov 2024 07:39:00",
          "title" : "Maurice Ashley Establishes Groundbreaking Chess Initiative, Pledges $20,000"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the first-ever Saint Louis Masters is a nine-round Swiss that features up to 60 internationally ranked players, including top grandmasters and rising stars from around the globe. Join GMs Yasser Seirawan, IM Nazi Paikidze, and WGM Katerina Nemcova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-day-1-rounds-1-2",
-         "pubDate" : "Tue, 12 Nov 2024 04:07:47",
-         "title" : "Saint Louis Masters 2024: Day 1 | Rounds 1-2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/moving-beginner-level-im-tianqi-wang-chess-chessendgames-twitch\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NvIKf4ycq-I.jpg?itok=a3vnpLiw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/moving-beginner-level-im-tianqi-wang-chess-chessendgames-twitch",
-         "pubDate" : "Tue, 12 Nov 2024 01:07:42",
-         "title" : "Moving From The Beginner Level - IM Tianqi Wang | #chess #chessendgames #twitch"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Mondays with the Masters: Beginner Breakdown with IM Tianqi Wang<br /> Mondays at 5:30pm CST on twitch.tv/stlchessclub </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-your-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JP3lpLat-xE.jpg?itok=i5JjrKAT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/when-your-out-numbered-rook-endgame-im-tianqi-wang-chess-chessendgames-chessforbeginners",
-         "pubDate" : "Tue, 12 Nov 2024 01:07:42",
-         "title" : "When Your Out Numbered in a Rook Endgame - IM Tianqi Wang | #chess #chessendgames #chessforbeginners"
       },
       {
          "description" : "This week's puzzles again come from the 2024 U.S. Women's Championship, with a focus on the second- and third-place finishers: IMs Begim Tokhirjonova and Alice Lee (respectively). All coverage from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/",
          "pubDate" : "Sun, 10 Nov 2024 04:11:02",
          "title" : "Saad Elmi clinches IM title at World U18!"
-      },
-      {
-         "description" : "The second round of the European Individual Chess Championship 2024 took place today in Petrovac, Montenego and as many as 47 players score perfect 2/2 points for an early co-lead in the event. The round was opened by ECU Chief Executive Officer Mr. Erald Dervishi who made the first ceremonial move in the game between GM Vladimir Fedoseev (SLO, 2712) and GM Evgenios Ioannidis (GRE, 2497). Most of the favourites in the second round scored wins, with a few upsets []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-round-2-recap/",
-         "pubDate" : "Sat, 09 Nov 2024 22:45:48",
-         "title" : "European Individual Chess Championship 2024 - Round 2 recap"
       },
       {
          "description" : "On behalf of All India Chess Federation, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Bhubaneshwar ,Odisha on",
