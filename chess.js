@@ -10,12 +10,12 @@ news_feed (
          "title" : "Freestyle Chess Summit: Live"
       },
       {
-         "description" : "The 87th Tata Steel Chess Tournament returns to Wijk aan Zee, Netherlands, from 17 January to 2 February 2025, promising an electrifying start to the chess calendar. With five players from the world's top ten, including past champions Fabiano Caruana, Anish Giri and Wei Yi, the field is stacked with talent. India's Dommaraju Gukesh, the youngest challenger for the World Championship in history, will also feature after his title clash in Singapore. Rising stars like junior world champions Kazybek Nogerbek and Divya Deshmukh, alongside prodigies Faustino Oro and Lu Miaoyi, will be playing in the Challengers. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-announcement",
-         "pubDate" : "Wed, 20 Nov 2024 12:45:00",
-         "title" : "Tata Steel Chess 2025: Caruana, Gukesh and Wei amid stellar field"
+         "description" : "GM Magnus Carlsen and IM Tania Sachdev proved to be the dream team in &#34;Head &#38;amp; Hand&#34; as the duo defeated GMs Fabiano Caruana and Maurice Ashley 2-0. Day one was a promotional event for the Freestyle Chess Match: Carlsen vs. Caruana in Singapore...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-match-carlsen-caruana-day-1",
+         "pubDate" : "Wed, 20 Nov 2024 10:31:00",
+         "title" : "Carlsen, Tania Dream Team Scores 2-0 Vs. Caruana, Ashley"
       },
       {
          "description" : "",
@@ -32,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecu-etc-titles-5th-online-webinar/",
          "pubDate" : "Wed, 20 Nov 2024 10:19:46",
          "title" : "ECU / ETC Titles 5th Online Webinar"
+      },
+      {
+         "description" : "On November 19, GM Hikaru Nakamura became the first player ever to win four straight Titled Tuesdays, and nearly became the first to win five in a row and sweep two consecutive weeks. Nakamura was able to just squeak out a win on tiebreaks over GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-firouzja-win-titled-tuesday-november-19-2024",
+         "pubDate" : "Wed, 20 Nov 2024 09:20:36",
+         "title" : "Connect Four! Hikaru Wins 4th Straight Tuesday"
       },
       {
          "description" : "Romanian Chess Federation and European Chess Union have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the European Individual Chess Championship 2025 which will be organized in Romania, Eforie-Nord, from 14th March (arrival) to 27th March (departure). European Individual Chess Championship 2025 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of ECU []",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/win-these-opposite-color-bishop-endgames-road-2000-im-tianqi-steve-wang",
          "pubDate" : "Wed, 20 Nov 2024 01:12:59",
          "title" : "Win These Opposite-Color Bishop Endgames! | Road to 2000 - IM Tianqi \"Steve\" Wang"
+      },
+      {
+         "description" : "With GM Ding Liren set to defend his title against GM Gukesh Dommaraju beginning on Monday, November 25, this week's Wednesday Workout looks back through our coverage of his 2023 victory over GM Ian Nepomniachtchi. Follow Chess Life Online for daily recaps and coverage of this year's match! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-2023-world-championship-lookback",
+         "pubDate" : "Wed, 20 Nov 2024 00:00:00",
+         "title" : "Wednesday Workout: 2023 World Championship Lookback"
       },
       {
          "description" : "",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Aleksandar Indjic wins European Individual Chess Championship 2024"
       },
       {
-         "description" : "The 2024 FIDE World Championship match, sponsored by Google, will unfold in Singapore from November 23 to December 13, pitting reigning champion Ding Liren against 18-year-old prodigy Dommaraju Gukesh. The duo will battle across 14 classical games for the lion's share of a $2.5 million prize fund. Ding, a seasoned champion, faces Gukesh, the youngest-ever challenger and a rising star in chess. With high stakes, expert analysis and unpredictable outcomes, this clash promises to captivate chess enthusiasts worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/showdown-singapore-2024-fide",
-         "pubDate" : "Tue, 19 Nov 2024 17:00:00",
-         "title" : "Showdown in Singapore: Ding Liren v. Dommaraju Gukesh"
-      },
-      {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After ten of eleven rounds, the Serbian GM Aleksandar Indjic leads with an 8&frac12;/10 score, while Daniel Dardha stands in sole second place a half point back. The 20 best players qualify for the World Cup. The final round starts at 13.00 local time. Follow it live with the official commentary of the European Chess Union.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,14 +178,6 @@ news_feed (
          "title" : "Chess World Championship: What it takes to be crowned king"
       },
       {
-         "description" : "As the European Chess Championship heads into its final round, Serbian GM Aleksandar Indjic leads the pack with 8&frac12; points, closely followed by 19-year-old Belgian GM Daniel Dardha on 8 points. Both have secured spots in the FIDE World Cup, but the title and â‚¬20,000 top prize remain up for grabs. With nine players on 7&frac12; points and 16 others on 7, the race for qualification intensifies, while underdogs like Armenian FM Erik Gasparyan aim to make a final push. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2024-10",
-         "pubDate" : "Tue, 19 Nov 2024 07:40:00",
-         "title" : "European Championship: Indjic enters final round as sole leader"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -216,14 +216,6 @@ news_feed (
          "link" : "https://www.europechess.org/indjic-keeps-the-sole-lead-dardha-keeps-his-chances-for-gold-in-the-final-round-of-eicc2024/",
          "pubDate" : "Mon, 18 Nov 2024 21:01:35",
          "title" : "Indjic maintains the sole lead, Dardha keeps his chances for gold in the Final round of EICC2024"
-      },
-      {
-         "description" : "The President Cup returns for its third edition from 21 to 28 November in Tashkent, Uzbekistan. Featuring two 9-round Swiss opens and a $69,000 prize fund, the event will showcase some of the region's finest talent, including Uzbekistan's Olympiad stars Nodirbek Abdusattorov and Javokhir Sindarov, alongside Iran's Parham Maghsoodloo and Amin Tabatabaei. Adding to the excitement is a strong Indian contingent, featuring the likes of Nihal Sarin and Abhimanyu Puranik.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/president-cup-2024-preview",
-         "pubDate" : "Mon, 18 Nov 2024 20:25:00",
-         "title" : "President Cup in Uzbekistan: Abdusattorov and Maghsoodloo head field in strong open"
       },
       {
          "description" : "",
@@ -296,14 +288,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/inside-story-fide-world-championship-preview",
          "pubDate" : "Mon, 18 Nov 2024 00:00:00",
          "title" : "Inside Story: FIDE World Championship Preview"
-      },
-      {
-         "description" : "At the European Championship in Petrovac - not far from the famous Sveti Stefan island (pictured) - the German Chess Federation is well represented in terms of quality and quantity. In addition to the top German grandmasters, ambitious amateurs are also taking part, e.g. Roger Lorenz, well known to readers of this site from his interesting articles. Here are his impressions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eindruecke-aus-petrovac",
-         "pubDate" : "Sun, 17 Nov 2024 21:20:00",
-         "title" : "Snapshots from Petrovac"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Assessing technical setup for stream...round 2 of the Ultimate Battle between Illia and Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/missed-round-2-ultimate-battle-chess-chessopenings-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZGte2iVc6o8.jpg?itok=w5o6JULf\" alt=\"\" /></a></div>",
@@ -930,28 +914,12 @@ news_feed (
          "title" : "Arjun Wins Again To Reach 2809.3; Pranav Makes It 4/4"
       },
       {
-         "description" : "Eight players have qualified for the Seirawan Chess Championship 2024 Knockout, the penultimate event of the Community Chess Championships. They are, in chronological order of when they qualified: Arian Rahimpour, IM Kacper Drozdowski, GM Mitrabha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-seirawan-chess-championship-qualifiers",
-         "pubDate" : "Fri, 08 Nov 2024 08:30:00",
-         "title" : "Yasser Seirawan Himself Qualifies For Seirawan Chess Championship Final"
-      },
-      {
          "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/nov/08/chess-england-out-of-the-medals-at-european-senior-championships",
          "pubDate" : "Fri, 08 Nov 2024 08:00:04",
          "title" : "Chess: England out of the medals at European senior championships"
-      },
-      {
-         "description" : "GM Aleksandra Goryachkina has won the 2024 Shymkent FIDE Women&#39;s Grand Prix, 130 Grand Prix points, and &#38;euro;18,000 after making a draw with IM Nurgyul Salimova in the final round for a 7/9 score. GM Tan Zhongyi finished just half a point behind ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goryachkina-wins-2024-fide-womens-grand-prix-shymkent",
-         "pubDate" : "Fri, 08 Nov 2024 07:28:00",
-         "title" : "Goryachkina Wins Shymkent FIDE Women's Grand Prix"
       },
       {
          "description" : "\"I will be the underdog approaching this match,\" said World Champion Ding Liren",
@@ -1266,14 +1234,6 @@ news_feed (
          "title" : "Chess: Garry Kasparov still has it at 61 as he holds his own against the US elite"
       },
       {
-         "description" : "By 2002, it had been a long decade since the publication of our 1993 4th edition rulebook (edited by Bill Goichberg and others). The delegates had delivered what seemed like tons of new or upgraded rules. The US Chess (then USCF) office had new procedures. The Executive Board implemented what seemed like masses of new policies. Those new rules, procedures and policies were dutifully cataloged each year in the annual rating list (and its printed supplements).After almost ten years, that collection of updates took up a lot ink in those publications. It was time for a new rulebook; one that would include all those upgrades. Tim Just (moi) and Dan Burg were tagged in for the job of editing US Ch",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-why-td-tips",
-         "pubDate" : "Fri, 01 Nov 2024 00:00:00",
-         "title" : "Just the Rules: Why TD TIPS?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1312,14 +1272,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-chess-9lx-2024",
          "pubDate" : "Wed, 30 Oct 2024 23:17:00",
          "title" : "Champions Showdown Chess 9LX 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3280",
-         "pubDate" : "Wed, 30 Oct 2024 20:06:09",
-         "title" : "A promising start: Three victories in Round 1 of WGP Shymkent"
       }
    ]
 }
