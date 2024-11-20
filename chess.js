@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Romanian Chess Federation and European Chess Union have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the European Individual Chess Championship 2025 which will be organized in Romania, Eforie-Nord, from 14th March (arrival) to 27th March (departure). European Individual Chess Championship 2025 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of ECU []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-official-invitation/",
+         "pubDate" : "Wed, 20 Nov 2024 07:26:08",
+         "title" : "European Individual Chess Championship 2025 - Official invitation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3312",
+         "pubDate" : "Wed, 20 Nov 2024 05:39:33",
+         "title" : "FIDE and Google create the Efficient Chess AI Challenge, hosted on Kaggle"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115469928.cms\" />Indian chess grandmaster D Gukesh's journey to the World Chess Championship is a tale of resilience and seizing opportunities. The war in Ukraine, a well-timed tournament win, and timely mentorship all played a role in his qualification. He now faces reigning champion Ding Liren, who himself earned the title after a hard-fought battle against Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -104,6 +120,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-against-nba-star-jaime-jaquez-jr",
          "pubDate" : "Tue, 19 Nov 2024 10:00:00",
          "title" : "Play Chess Against NBA Star Jaime Jaquez Jr.!"
+      },
+      {
+         "description" : "Ahead of the Chess World Championship, let's break down the complex sport of chess in the simplest way possible.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42482386/chess-101-explaining-sport-novice?device=featurephone",
+         "pubDate" : "Tue, 19 Nov 2024 09:09:00",
+         "title" : "Chess 101: Explaining the sport"
+      },
+      {
+         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's what it takes to be the champ",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42482615/chess-world-championship-takes-crown-king-gukesh-ding-liren?device=featurephone",
+         "pubDate" : "Tue, 19 Nov 2024 08:11:10",
+         "title" : "Chess World Championship: What it takes to be crowned king"
       },
       {
          "description" : "As the European Chess Championship heads into its final round, Serbian GM Aleksandar Indjic leads the pack with 8&frac12; points, closely followed by 19-year-old Belgian GM Daniel Dardha on 8 points. Both have secured spots in the FIDE World Cup, but the title and €20,000 top prize remain up for grabs. With nine players on 7&frac12; points and 16 others on 7, the race for qualification intensifies, while underdogs like Armenian FM Erik Gasparyan aim to make a final push. | Photo: European Chess Union",
@@ -696,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kyla-zhao-may-the-best-player-win",
          "pubDate" : "Mon, 11 Nov 2024 05:52:22",
          "title" : "Forbes Honoree's 'Game-Changing' Chess Novel Tackling Gender Bias Gains Acclaim"
-      },
-      {
-         "description" : "After three played rounds at the European Individual Chess Championship 2024, 10 players emerged on the top scoring maximum 3/3 points. The early co-leaders are GM Bogdan-Daniel Deac (ROU, 2687), GM Matthias Bluebaum (GER, 2654), GM Frederik Svane (GER, 2654), GM Ivan Cheparinov (BUL, 2632), GM Robert Hovhannisyan (ARM, 2613), GM Nikolas Theodorou (GRE, 2612), GM Daniel Dardha (BEL, 2606), GM Maksim Chigaev (ESP, 2605), GM Yagiz Kaan Erdogmus (TUR, 2604) and GM Yahli Sokolovsky (ISR, 2516), followed by a []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/10-players-with-maximum-score-at-the-european-individual-chess-championship-2024/",
-         "pubDate" : "Sun, 10 Nov 2024 23:50:16",
-         "title" : "10 players with maximum score at the European Individual Chess Championship 2024"
       },
       {
          "description" : "",
