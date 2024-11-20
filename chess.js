@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115469928.cms\" />Indian chess grandmaster D Gukesh's journey to the World Chess Championship is a tale of resilience and seizing opportunities. The war in Ukraine, a well-timed tournament win, and timely mentorship all played a role in his qualification. He now faces reigning champion Ding Liren, who himself earned the title after a hard-fought battle against Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-men-or-destinys-children-how-quirk-of-fate-played-a-role-in-setting-up-ding-vs-gukesh-world-chess-battle/articleshow/115469928.cms",
+         "pubDate" : "Wed, 20 Nov 2024 03:21:58",
+         "title" : "How quirk of fate played a role in setting up Ding vs Gukesh world chess battle"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Tianqi &quot;Steve&quot; Wang debuts on YouTube as the new chess instructor for Road to 2000. 2024.11.19<br /> Tianqi Wang as White, 2024: A37 English, symmetrical variation<br /> Julian Proleiko as White, ???: E06 Catalan, closed, 5.Nf3<br /> Jun Xie vs Alisa Galliamova, World Championship (Women) (1999): B33 Sicilian, Pelikan, Chelyabinsk variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/win-these-opposite-color-bishop-endgames-road-2",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/win-these-opposite-color-bishop-endgames-road-2000-im-tianqi-steve-wang",
+         "pubDate" : "Wed, 20 Nov 2024 01:12:59",
+         "title" : "Win These Opposite-Color Bishop Endgames! | Road to 2000 - IM Tianqi \"Steve\" Wang"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -71,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-european-chess-championship",
          "pubDate" : "Tue, 19 Nov 2024 12:18:20",
-         "title" : "Indjic Wins European Chess Championship, Top 20 Qualify For 2025 World Cup"
+         "title" : "Indjic Wins European Chess Championship, 20 Qualify For 2025 World Cup"
       },
       {
          "description" : "This exceptionally clear and concise video will show you not only all the features of the newly released ChessBase 18, but demonstrates how they can be used by amateurs and pros alike (not to mention some that are just plain fun). Even the new mobile app is on display in full live action with the database, repertoires and opening stats all available.",
@@ -88,22 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-against-nba-star-jaime-jaquez-jr",
          "pubDate" : "Tue, 19 Nov 2024 10:00:00",
          "title" : "Play Chess Against NBA Star Jaime Jaquez Jr.!"
-      },
-      {
-         "description" : "Ahead of the Chess World Championship, let's break down the complex sport of chess in the simplest way possible.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42482386/chess-101-explaining-sport-novice?device=featurephone",
-         "pubDate" : "Tue, 19 Nov 2024 09:09:00",
-         "title" : "Chess 101: Explaining the sport"
-      },
-      {
-         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's what it takes to be the champ",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42482615/chess-world-championship-takes-crown-king-gukesh-ding-liren?device=featurephone",
-         "pubDate" : "Tue, 19 Nov 2024 08:11:10",
-         "title" : "Chess World Championship: What it takes to be crowned king"
       },
       {
          "description" : "As the European Chess Championship heads into its final round, Serbian GM Aleksandar Indjic leads the pack with 8&frac12; points, closely followed by 19-year-old Belgian GM Daniel Dardha on 8 points. Both have secured spots in the FIDE World Cup, but the title and €20,000 top prize remain up for grabs. With nine players on 7&frac12; points and 16 others on 7, the race for qualification intensifies, while underdogs like Armenian FM Erik Gasparyan aim to make a final push. | Photo: European Chess Union",
@@ -456,14 +456,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-three-in-a-row-to-take-sole-lead-at-india-open/articleshow/115321192.cms",
          "pubDate" : "Fri, 15 Nov 2024 03:23:19",
          "title" : "Magnus Carlsen wins three in a row to take sole lead at India Open"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Yaro Zherebukh from the 2017 U.S. Chess Championship in Saint Louis. 2024.11.14<br /> Yaroslav Zherebukh vs Varuzhan Akobian, United States Championship (2017): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870231\">https://www.chessgames.com/perl/chessgame?gid=1870231</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-live-gm-varuzhan-akobian\"><img sr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-live-gm-varuzhan-akobian",
-         "pubDate" : "Fri, 15 Nov 2024 01:09:27",
-         "title" : "Prepare Like A Pro LIVE! - GM Varuzhan Akobian"
       },
       {
          "description" : "Only one Indian has ever been world champion. No one has been world champion as a teenager (or at 20, or 21). Can Gukesh change all that?",
@@ -1296,14 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fischer-vs-greece-clock-simul-1968",
          "pubDate" : "Wed, 30 Oct 2024 09:19:16",
          "title" : "Fischer vs. Greece - clock simul 1968"
-      },
-      {
-         "description" : " During the Chess Olympiad in Budapest, Hungary, Dirk Jan ten Geuzendam of New in Chess requested that The Chess Drum's Daaim Shabazz appear in the &#8220;Just Checking&#8221; segment, which has traditionally appeared on the back page. Much of what appears in this profile shows the chess personality's lighter side. The audience will have no knowledge The post <a href=\"https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/\">New in Chess profiles Daaim Shabazz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/10/29/new-in-chess-profiles-daaim-shabazz/",
-         "pubDate" : "Wed, 30 Oct 2024 00:32:06",
-         "title" : "New in Chess profiles Daaim Shabazz"
       }
    ]
 }
