@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 87th Tata Steel Chess Tournament returns to Wijk aan Zee, Netherlands, from 17 January to 2 February 2025, promising an electrifying start to the chess calendar. With five players from the world's top ten, including past champions Fabiano Caruana, Anish Giri and Wei Yi, the field is stacked with talent. India's Dommaraju Gukesh, the youngest challenger for the World Championship in history, will also feature after his title clash in Singapore. Rising stars like junior world champions Kazybek Nogerbek and Divya Deshmukh, alongside prodigies Faustino Oro and Lu Miaoyi, will be playing in the Challengers. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-announcement",
+         "pubDate" : "Wed, 20 Nov 2024 12:45:00",
+         "title" : "Tata Steel Chess 2025: Caruana, Gukesh and Wei amid stellar field"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2024/",
+         "pubDate" : "Wed, 20 Nov 2024 10:30:11",
+         "title" : "UK Open Blitz Finals with photography and commentary"
+      },
+      {
+         "description" : "The ECU ETC announces the 5th 2024 Webinar (via Zoom) for trainers' education &#38; titles. In the webinar the titles of ECU Expert Coach, ECU Junior Coach, or ECU...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecu-etc-titles-5th-online-webinar/",
+         "pubDate" : "Wed, 20 Nov 2024 10:19:46",
+         "title" : "ECU / ETC Titles 5th Online Webinar"
+      },
+      {
          "description" : "Romanian Chess Federation and European Chess Union have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the European Individual Chess Championship 2025 which will be organized in Romania, Eforie-Nord, from 14th March (arrival) to 27th March (departure). European Individual Chess Championship 2025 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of ECU []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -568,14 +592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/abdusattorov-nodirbek-leads-magnus-carlsen-close-behind-in-india-open-chess/articleshow/115266333.cms",
          "pubDate" : "Wed, 13 Nov 2024 18:11:33",
          "title" : "Nodirbek leads, Carlsen close behind in India Open chess"
-      },
-      {
-         "description" : "The UK Open Blitz Finals will be taking place this Saturday 16th November at the Woodland Grange Hotel Leamington Spa with two 16-player all-play-all competitions. The finals will decide the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-saturday-16th-november/",
-         "pubDate" : "Wed, 13 Nov 2024 17:02:11",
-         "title" : "UK Open Blitz Finals - Saturday 16th November"
       },
       {
          "description" : "On behalf of All India Chess Federation, The Nagaland Chess Association is organizing first ever Senior National Arbiters Seminar &#38; Exam at Tourist Lodge, Dimapur",
@@ -1296,22 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3280",
          "pubDate" : "Wed, 30 Oct 2024 20:06:09",
          "title" : "A promising start: Three victories in Round 1 of WGP Shymkent"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3276",
-         "pubDate" : "Wed, 30 Oct 2024 12:30:17",
-         "title" : "Experience the thrill of FIDE World Chess Championship live in Singapore!"
-      },
-      {
-         "description" : "In 1968 the Greek Chess Federation, which had organised multiple Olympiads and Zonal tournaments, invited the 25-year-old American grandmaster to play a clock simultaneous exhibition match against five strong Greek players. The historical games played in Athens have been recorded and carefully annotated by Greek grandmaster and trainer Efstratios Grivas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fischer-vs-greece-clock-simul-1968",
-         "pubDate" : "Wed, 30 Oct 2024 09:19:16",
-         "title" : "Fischer vs. Greece - clock simul 1968"
       }
    ]
 }
