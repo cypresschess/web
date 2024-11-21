@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "On 20 November Magnus Carlsen and Tania Sachdev will play two Freestyle (Chess960) \"Hand and Brain\" games with a time control of 10+10 against Fabiano Caruana and Maurice Ashley. On 21 and 22 November, Carlsen and Caruana will play a small Freestyle match of two games with a time control of 60+30. Follow the \"Hand and Brain\" match live with commentary by Daniel Rensch and Sagar Shah.",
+         "description" : "<div class=\"body text-secondary\"> twitch.tv/stlchessclub #shorts </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/excuse-me-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_v_tNmHOd6A.jpg?itok=rgSalzpH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/excuse-me-chess",
+         "pubDate" : "Wed, 20 Nov 2024 22:13:32",
+         "title" : "Excuse Me?! #chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis Masters Chess Tournament to Showcase<br /><br /> \tTop U.S. and Global Talent with $100,000 Prize Fund</strong><br /><br /> \t<br /><br /> \tSAINT LOUIS, November 20, 2024 - The Saint Louis Chess Club is proud to announce the inaugural 2024 Saint Louis Masters, a premier chess event that will bring together up to 60 of the world's top players in a high-stakes tournament with a prize fund of $100,000. The event will take place from December 3-7, 2024, at the Chase Park Plaza Hotel in Saint Louis, Missouri. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/2024-Saint-Louis-Masters-Press",
+         "pubDate" : "Wed, 20 Nov 2024 22:12:53",
+         "title" : "Saint Louis Masters Chess Tournament to Showcase Top U.S. and Global Talent with $100,000 Prize Fund"
+      },
+      {
+         "description" : "In the 1960s and 1970s, Lev Polugaevsky was one of the best players in the world. He played in the USSR team in the 'USSR vs. the Rest of the World' competition, and was a multiple World Chess Championship candidate. He would have been 90 years old today. | Photo: Anefo / Croes, R.C.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memory-of-lev-polugaevsky",
+         "pubDate" : "Wed, 20 Nov 2024 22:00:00",
+         "title" : "In memory of Lev Polugaevsky"
+      },
+      {
+         "description" : "The 2024 European Individual Chess Championship concluded in Petrovac, Montenegro, with Serbian GM Aleksandar Indjic emerging as the sole winner. Seeded 33rd, Indjic delivered a stunning performance, scoring 9/11 points and remaining unbeaten throughout the tournament. Belgian GM Daniel Dardha claimed silver with 8&frac12;/11, while German GM Frederik Svane secured bronze, thanks to the best Buchholz tiebreaker among 11 players tied on 8 points. | Photos: Stefana Milutinovic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2024-11",
+         "pubDate" : "Wed, 20 Nov 2024 21:30:00",
+         "title" : "Aleksandar Indjic wins 2024 European Championship"
+      },
+      {
+         "description" : "The European Corporate Chess Championship 2024, organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union, is taking place from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-corporate-chess-championship-starts-in-paris/",
+         "pubDate" : "Wed, 20 Nov 2024 20:40:13",
+         "title" : "European Corporate Chess Championship starts in Paris"
+      },
+      {
+         "description" : "On 20 November Magnus Carlsen and Tania Sachdev will play two Freestyle (Chess960) \"Hand and Head\" games with a time control of 10+10 against Fabiano Caruana and Maurice Ashley. On 21 and 22 November, Carlsen and Caruana will play a small Freestyle match of two games with a time control of 60+30. Follow the \"Hand and Head\" match live with commentary by Daniel Rensch and Sagar Shah.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freestyle-chess-summit-live",
@@ -142,16 +182,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-european-chess-championship",
-         "pubDate" : "Tue, 19 Nov 2024 12:18:20",
+         "pubDate" : "Tue, 19 Nov 2024 12:18:00",
          "title" : "Indjic Wins European Chess Championship, 20 Qualify For 2025 World Cup"
-      },
-      {
-         "description" : "This exceptionally clear and concise video will show you not only all the features of the newly released ChessBase 18, but demonstrates how they can be used by amateurs and pros alike (not to mention some that are just plain fun). Even the new mobile app is on display in full live action with the database, repertoires and opening stats all available.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-quick-and-complete-review-and-overview-of-chessbase-18",
-         "pubDate" : "Tue, 19 Nov 2024 11:00:00",
-         "title" : "A quick and complete review and overview of ChessBase 18"
       },
       {
          "description" : "Chess.com and partner CloseUp360 are excited to announce a bot for one of the National Basketball Association&#38;rsquo;s rising stars, Jaime Jaquez Jr.! To celebrate, Chess.com and Jaime are teaming up for a special blitz tournament on November 19t...",
@@ -322,14 +354,6 @@ news_feed (
          "title" : "Tata Steel Chess India - Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> No need to waste time when you know the opening and your playing against a friend </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ultimate-battle-gm-benjamin-bok-vs-gm-illia-nyzhnyk-chess-chessopening-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8im5Ufd9hkk.jpg?itok=mXrRyfoo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ultimate-battle-gm-benjamin-bok-vs-gm-illia-nyzhnyk-chess-chessopening-chesshumor",
-         "pubDate" : "Sun, 17 Nov 2024 07:10:56",
-         "title" : "The ULTIMATE Battle: GM Benjamin Bok vs GM Illia Nyzhnyk #chess #chessopening #chesshumor"
-      },
-      {
          "description" : "Round 1 Report of 20 players across 6 categories, Indian Contingent scored 14 wins, 5 draws and faced 1 loss U8 Open 2.Ayaan Phutane started",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://www.europechess.org/indjic-remains-in-the-sole-lead-chigaev-and-cheparinov-get-closer-to-the-top-of-eicc2024/",
          "pubDate" : "Sat, 16 Nov 2024 20:22:48",
          "title" : "Indjic remains in the sole lead, Chigaev and Cheparinov get closer to the top of EICC2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Yaro Zherebukh from the 2017 U.S. Chess Championship in Saint Louis. 2024.11.14<br /> Yaroslav Zherebukh vs Varuzhan Akobian, United States Championship (2017): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870231\">https://www.chessgames.com/perl/chessgame?gid=1870231</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-varuzhan-akobian\"><img src=\"ht",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-varuzhan-akobian",
-         "pubDate" : "Sat, 16 Nov 2024 19:10:44",
-         "title" : "Prepare Like A Pro - GM Varuzhan Akobian"
       },
       {
          "description" : "Missouri and Saint Louis were victorious in the Quarterfinals of the 2024 Collegiate Chess League (CCL) Fall Season on Saturday. Missouri scored 9-3 vs. Yale, supported by 3-0 scores from GM Mikhail Antipov and IM Isik Can. GM Dambasuren Batsure...",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/",
          "pubDate" : "Mon, 11 Nov 2024 23:30:00",
          "title" : "Maurice Ashley's new chess initiative announced!"
-      },
-      {
-         "description" : "After four played rounds at the European Individual Chess Championship 2024, GM Frederik Svane (GER, 2654) and GM Maksim Chigaev (ESP, 2604) emerged on the top as the only two players in the tournament with the perfect score of 4/4 points. GM Frederik Svane (GER, 2654) was victorious today against GM Nikolas Theodorou (GRE, 2612). A balanced game got complicated after Svane sacrificed a pawn, and Theodorou accepted the sacrifice entering a slightly worse position. Pushing for a win, Svane []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/frederik-svane-and-maksim-chigaev-emerged-on-the-top-of-the-eicc2024/",
-         "pubDate" : "Mon, 11 Nov 2024 20:06:28",
-         "title" : "Frederik Svane and Maksim Chigaev emerged on the top of the EICC2024"
       },
       {
          "description" : "SRM clinched first place in Division I of the 2024 Collegiate Chess League (CCL) Fall Season in the last week of the regular season. In Division II, UCLA defeated Illinois with a round to spare. SRM&#39;s top three boards, IM A Ra Harikrishnan, IM S...",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42107125/gukesh-smart-enough-chess-world-championships-won-not-elected-viswanathan-anand?device=featurephone",
          "pubDate" : "Thu, 31 Oct 2024 05:27:47",
          "title" : "'Gukesh smart enough to know that World Championships are won, not elected': Viswanathan Anand"
-      },
-      {
-         "description" : " The Champions Showdown Chess 9LX took place in Saint Louis 28th to 30th October 2024. Players: Garry Kasparov, Hikaru Nakamura, Fabiano Caruana, Leinier Dominguez Perez, Levon Aronian, Ray Robson, Samuel Sevian, Sam Shankland, Grigoriy Oparin and Wesley So. This was a rapid Fischer Random (Chess960 or 9LX as styled here) tournament and is the last event Kasparov regularly plays in. Kasparov had a decent plus score in 2021 to a terrible 0.5/9 in 2022 and the only slightly better 3/9 last year so the challenge was on for him. Fabiano Caruana took clear first place with 7.5/9 half a point clear of Hikaru Nakamura with Wesley So in 3rd on 5.5 points. Kasparov finished on 50% with a very respect",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-chess-9lx-2024",
-         "pubDate" : "Wed, 30 Oct 2024 23:17:00",
-         "title" : "Champions Showdown Chess 9LX 2024 - Games and Results"
       }
    ]
 }
