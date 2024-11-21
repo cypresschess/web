@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3314",
+         "pubDate" : "Thu, 21 Nov 2024 15:47:43",
+         "title" : "World Cadet Championship 2024 reaches midpoint"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3313",
+         "pubDate" : "Thu, 21 Nov 2024 14:53:11",
+         "title" : "Chess stars come to New York for the strongest chess tournament in U.S. history"
+      },
+      {
+         "description" : " The Freestyle Chess Match Carlsen vs. Caruana takes place Wed 20th Nov to Fri 22nd Nov 2024 in Singapore. There was an opening hand and brain event before a two game 90m+30spm match between Magnus Carlsen and Fabiano Caruana in Chess960 which is being rebranded for this series as Freestyle Chess. Carlsen won the first game rather quickly. I have the games for download but not displayed.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-match-carlsen-vs.-caruana-2024",
+         "pubDate" : "Thu, 21 Nov 2024 14:29:00",
+         "title" : "Freestyle Chess Match: Carlsen vs. Caruana 2024 - Games and Results"
+      },
+      {
          "description" : "On 21 and 22 November Magnus Carlsen and Fabiano Caruana, the world's number 1 and the world's number 2, clash in the \"Freestyle Chess Summit\" in Singapore. Just before the start of the World Chess Championship match between Gukesh D and Ding Liren, Carlsen and Caruana play two freestyle games with a time limit of 60 minutes for the whole game and 30 seconds increment per move. The games start at 20.00 local time (13.00 CET, 7.00 ET). Follow the event live with commentary by Tania Sachdev and Danny Rensch.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1240,14 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3281",
          "pubDate" : "Thu, 31 Oct 2024 19:10:25",
          "title" : "FIDE WGP Shymkent Round 2: Munguntuul stuns Paehtz in a 17-move upset"
-      },
-      {
-         "description" : "Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/09/historic-olympiad-yahoos.html\">Historic Olympiad Yahoos</A> (September 2024; see the footnote below for an explanation of Yahoos), had a single subject as the most important chess topic of the month:- <BLOCKQUOTE> The 100 stories total for September had the first nine under a heading that proclaimed, 'India win historic double gold at Chess Olympiad'. I counted another 18 stories about the Olympiad for a total of 27, plus a few more stories lacking the word 'Olympiad' in the title. </BLOCKQUOTE> <P> This month's 97 stories -- 10 of them old stories from previous months -- lacked a clear favorite. Eight of the 97 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html",
-         "pubDate" : "Thu, 31 Oct 2024 16:14:00",
-         "title" : "A Press of Yahoos"
       }
    ]
 }
