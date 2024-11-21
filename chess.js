@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen emerged victorious in the opening game of the Freestyle Chess Summit, defeating Fabiano Caruana aboard the luxurious SilentWorld yacht. Carlsen's dynamic play with the white pieces outshone Caruana's strategies in a double-edged, entertaining encounters. The two rivals are rekindling their fierce competition from the 2018 World Championship, a few days before the start of the match for the world crown in Singapore. | Photo: Abhyudaya Ram / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-summit-2024-g1",
+         "pubDate" : "Thu, 21 Nov 2024 20:00:00",
+         "title" : "Freestyle Summit: Carlsen wins wild first game"
+      },
+      {
+         "description" : "ChessBase 18 now provides insights into players that go beyond mere opening statistics. Evaluating players is a somewhat delicate matter, and mistakes could be embarrassing. However, the Style Report hits the mark surprisingly well. For historical stars whose styles are well-known, all the classic clich&eacute;s are spot-on. Most importantly, you can learn something about your next opponent-or about the most important player of all: yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/style-report-in-chessbase-18",
+         "pubDate" : "Thu, 21 Nov 2024 18:00:00",
+         "title" : "Style Report in ChessBase 18"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,20 +42,28 @@ news_feed (
          "title" : "Freestyle Chess Match: Carlsen vs. Caruana 2024 - Games and Results"
       },
       {
-         "description" : "On 21 and 22 November Magnus Carlsen and Fabiano Caruana, the world's number 1 and the world's number 2, clash in the \"Freestyle Chess Summit\" in Singapore. Just before the start of the World Chess Championship match between Gukesh D and Ding Liren, Carlsen and Caruana play two freestyle games with a time limit of 60 minutes for the whole game and 30 seconds increment per move. The games start at 20.00 local time (13.00 CET, 7.00 ET). Follow the event live with commentary by Tania Sachdev and Danny Rensch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-summit-live-2",
-         "pubDate" : "Thu, 21 Nov 2024 12:45:00",
-         "title" : "Freestyle Chess Summit: Carlsen and Caruana freestyle in Singapore"
-      },
-      {
          "description" : "IM Hannes Langrock had a look at one of our latest Fritztrainers, 'How to play the Caro-Kann' by Spanish GM Alvar Alonso Rosell, and stumbled across the realisation quoted above. Modern engines judge precisely, but explain nothing. Alvar Alonso Rosell, on the other hand, explains ideas and plans in great detail, says Hannes Langrock.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/alvar-alonso-caro-kann-review",
          "pubDate" : "Thu, 21 Nov 2024 11:00:00",
          "title" : "\"As the engines get better, the engines get stupider\": Alvar Alonso on the Caro-Kann Defence"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the first game, of two, in his Freestyle Chess Match against Fabiano Caruana. It was a full-fledged war on the 64 squares after Caruana sacrificed a pawn on move 11, but Carlsen found his groove: The game just flowed&#38;mdash;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-match-carlsen-caruana-game-1",
+         "pubDate" : "Thu, 21 Nov 2024 09:23:00",
+         "title" : "Carlsen Wins Game 1 Slugfest In Freestyle Match Vs. Caruana"
+      },
+      {
+         "description" : "Here's a brief overview of their strengths and weaknesses, and how proceedings could transpire on the board over the course of 14 potential games.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42522170/gukesh-vs-ding-world-chess-championships-preview-strengths-weakness-singapore?device=featurephone",
+         "pubDate" : "Thu, 21 Nov 2024 08:38:37",
+         "title" : "Gukesh vs Ding: previewing the World Chess Championship 2024"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Sam Shankland from the 2017 U.S. Chess Championship in Saint Louis. Today is Akobian&#039;s birthday, which he shares with Jose Raul Capablanca. 2024.11.14<br /> Varuzhan Akobian vs Sam Shankland, United States Championship (2017): D43 Queen&#039;s Gambit Declined semi-Slav, Hastings variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870039\">https://www.chessgames.com/perl/chessgame?gid=1870039</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
@@ -930,14 +954,6 @@ news_feed (
          "title" : "FIDE WGP Shymkent: Goryachkina clinches victory"
       },
       {
-         "description" : "The fourth round brought the two joint leaders to face each other: GM Amin Tabatabaei vs. GM Arjun Erigaisi, and it proved to be another big fight where Arjun prevailed to continue to lead the Chennai Grand Masters 2024 Masters section with 3.5/4....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-4",
-         "pubDate" : "Fri, 08 Nov 2024 09:59:00",
-         "title" : "Arjun Wins Again To Reach 2809.3; Pranav Makes It 4/4"
-      },
-      {
          "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1256,14 +1272,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/nov/01/chess-garry-kasparov-still-has-it-at-61-as-he-holds-his-own-against-the-us-elite",
          "pubDate" : "Fri, 01 Nov 2024 08:00:43",
          "title" : "Chess: Garry Kasparov still has it at 61 as he holds his own against the US elite"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3281",
-         "pubDate" : "Thu, 31 Oct 2024 19:10:25",
-         "title" : "FIDE WGP Shymkent Round 2: Munguntuul stuns Paehtz in a 17-move upset"
       }
    ]
 }
