@@ -1256,22 +1256,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html",
          "pubDate" : "Thu, 31 Oct 2024 16:14:00",
          "title" : "A Press of Yahoos"
-      },
-      {
-         "description" : "ARTE Culture, the French-German film production and TV channel, recently made a full six-part dramatic re-enactment of the epic 1997 match between Garry Kasparov and the super-computer Deep Blue. At the same time they broadcast a 50-minute portrait that traces the extraordinary life and career of the global icon. The film contains many historically interviews by personalities from the time. It is well worth watching.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arte-kasparov-chess-rebel",
-         "pubDate" : "Thu, 31 Oct 2024 08:09:34",
-         "title" : "ARTE: Kasparov - Chess Rebel"
-      },
-      {
-         "description" : "Anand, India's first chess world champion, believes that Gukesh's form is a good sign ahead of the World Championship match against Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42107125/gukesh-smart-enough-chess-world-championships-won-not-elected-viswanathan-anand?device=featurephone",
-         "pubDate" : "Thu, 31 Oct 2024 05:27:47",
-         "title" : "'Gukesh smart enough to know that World Championships are won, not elected': Viswanathan Anand"
       }
    ]
 }
