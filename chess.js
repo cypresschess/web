@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 21 and 22 November Magnus Carlsen and Fabiano Caruana, the world's number 1 and the world's number 2, clash in the \"Freestyle Chess Summit\" in Singapore. Just before the start of the World Chess Championship match between Gukesh D and Ding Liren, Carlsen and Caruana play two freestyle games with a time limit of 60 minutes for the whole game and 30 seconds increment per move. The games start at 20.00 local time (13.00 CET, 7.00 ET). Follow the event live with commentary by Tania Sachdev and Danny Rensch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-summit-live-2",
+         "pubDate" : "Thu, 21 Nov 2024 12:45:00",
+         "title" : "Freestyle Chess Summit: Carlsen and Caruana freestyle in Singapore"
+      },
+      {
+         "description" : "IM Hannes Langrock had a look at one of our latest Fritztrainers, 'How to play the Caro-Kann' by Spanish GM Alvar Alonso Rosell, and stumbled across the realisation quoted above. Modern engines judge precisely, but explain nothing. Alvar Alonso Rosell, on the other hand, explains ideas and plans in great detail, says Hannes Langrock.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alvar-alonso-caro-kann-review",
+         "pubDate" : "Thu, 21 Nov 2024 11:00:00",
+         "title" : "\"As the engines get better, the engines get stupider\": Alvar Alonso on the Caro-Kann Defence"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Sam Shankland from the 2017 U.S. Chess Championship in Saint Louis. Today is Akobian&#039;s birthday, which he shares with Jose Raul Capablanca. 2024.11.14<br /> Varuzhan Akobian vs Sam Shankland, United States Championship (2017): D43 Queen&#039;s Gambit Declined semi-Slav, Hastings variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870039\">https://www.chessgames.com/perl/chessgame?gid=1870039</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,36 +58,12 @@ news_feed (
          "title" : "Saint Louis Masters Chess Tournament to Showcase Top U.S. and Global Talent with $100,000 Prize Fund"
       },
       {
-         "description" : "In the 1960s and 1970s, Lev Polugaevsky was one of the best players in the world. He played in the USSR team in the 'USSR vs. the Rest of the World' competition, and was a multiple World Chess Championship candidate. He would have been 90 years old today. | Photo: Anefo / Croes, R.C.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memory-of-lev-polugaevsky",
-         "pubDate" : "Wed, 20 Nov 2024 22:00:00",
-         "title" : "In memory of Lev Polugaevsky"
-      },
-      {
-         "description" : "The 2024 European Individual Chess Championship concluded in Petrovac, Montenegro, with Serbian GM Aleksandar Indjic emerging as the sole winner. Seeded 33rd, Indjic delivered a stunning performance, scoring 9/11 points and remaining unbeaten throughout the tournament. Belgian GM Daniel Dardha claimed silver with 8&frac12;/11, while German GM Frederik Svane secured bronze, thanks to the best Buchholz tiebreaker among 11 players tied on 8 points. | Photos: Stefana Milutinovic",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2024-11",
-         "pubDate" : "Wed, 20 Nov 2024 21:30:00",
-         "title" : "Aleksandar Indjic wins 2024 European Championship"
-      },
-      {
          "description" : "The European Corporate Chess Championship 2024, organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union, is taking place from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-corporate-chess-championship-starts-in-paris/",
          "pubDate" : "Wed, 20 Nov 2024 20:40:13",
          "title" : "European Corporate Chess Championship starts in Paris"
-      },
-      {
-         "description" : "On 20 November Magnus Carlsen and Tania Sachdev will play two Freestyle (Chess960) \"Hand and Head\" games with a time control of 10+10 against Fabiano Caruana and Maurice Ashley. On 21 and 22 November, Carlsen and Caruana will play a small Freestyle match of two games with a time control of 60+30. Follow the \"Hand and Head\" match live with commentary by Daniel Rensch and Sagar Shah.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-summit-live",
-         "pubDate" : "Wed, 20 Nov 2024 16:41:27",
-         "title" : "Freestyle Chess Summit: Live"
       },
       {
          "description" : "GM Magnus Carlsen and IM Tania Sachdev proved to be the dream team in &#34;Head &#38;amp; Hand&#34; as the duo defeated GMs Fabiano Caruana and Maurice Ashley 2-0. Day one was a promotional event for the Freestyle Chess Match: Carlsen vs. Caruana in Singapore...",
