@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Sam Shankland from the 2017 U.S. Chess Championship in Saint Louis. Today is Akobian&#039;s birthday, which he shares with Jose Raul Capablanca. 2024.11.14<br /> Varuzhan Akobian vs Sam Shankland, United States Championship (2017): D43 Queen&#039;s Gambit Declined semi-Slav, Hastings variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870039\">https://www.chessgames.com/perl/chessgame?gid=1870039</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sam-shankland-goes-down-2017-us-champs-grandmasters-choice-gm-varuzhan-akobian",
+         "pubDate" : "Thu, 21 Nov 2024 04:14:17",
+         "title" : "Sam Shankland Goes Down at the 2017 U.S. Champs! | Grandmaster's Choice - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In the mind of all you ELO - tistical players 2024.11.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IN1emf4F2-Q.jpg?itok=BSM18bQ9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmaster-psychology-gm-denes-boros",
+         "pubDate" : "Thu, 21 Nov 2024 04:14:17",
+         "title" : "Grandmaster Psychology - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In the mind of all you ELO - tistical players </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmaster-psychology-gm-denes-boros-chess-chessanalysis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IN1emf4F2-Q.jpg?itok=BSM18bQ9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmaster-psychology-gm-denes-boros-chess-chessanalysis",
+         "pubDate" : "Thu, 21 Nov 2024 01:13:46",
+         "title" : "Grandmaster Psychology with GM Denes Boros | #chess #chessanalysis"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> twitch.tv/stlchessclub #shorts </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/excuse-me-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_v_tNmHOd6A.jpg?itok=rgSalzpH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -298,36 +322,12 @@ news_feed (
          "title" : "GM Aleksandar Indjic keeps the lead at EICC2024 with only two rounds to go"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Assessing technical setup for stream...round 2 of the Ultimate Battle between Illia and Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ultimate-battle-round-2-chess-chessopenings-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZGte2iVc6o8.jpg?itok=w5o6JULf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ultimate-battle-round-2-chess-chessopenings-chesshumor",
-         "pubDate" : "Mon, 18 Nov 2024 04:11:21",
-         "title" : "Ultimate Battle - Round 2 | #chess #chessopenings #chesshumor"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Solving complex tactics and strategy studies with Grandmaster in Residence, GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lcH8bRjMwtg.jpg?itok=nHxFTCKp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1800-or-higher-tactics-and-strategy-gm-var-akobian-chess-chesstactics-education",
-         "pubDate" : "Mon, 18 Nov 2024 01:11:13",
-         "title" : "1800+ or higher: Tactics and Strategy with GM Var Akobian | #chess #chesstactics #education"
-      },
-      {
          "description" : "Editor's note: This story first appeared in the November 2024 issue of Chess Life. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The first Chinese world champion defends his title this month against a grandmaster who is looking to become - by far - the youngest champ ever.The W",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/inside-story-fide-world-championship-preview",
          "pubDate" : "Mon, 18 Nov 2024 00:00:00",
          "title" : "Inside Story: FIDE World Championship Preview"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Assessing technical setup for stream...round 2 of the Ultimate Battle between Illia and Benjamin </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/missed-round-2-ultimate-battle-chess-chessopenings-chesshumor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZGte2iVc6o8.jpg?itok=w5o6JULf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/missed-round-2-ultimate-battle-chess-chessopenings-chesshumor",
-         "pubDate" : "Sun, 17 Nov 2024 19:11:08",
-         "title" : "Missed Round 2 of the Ultimate Battle | #chess #chessopenings #chesshumor"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115388633.cms\" />Chess grandmaster Magnus Carlsen has done it again, clinching both the rapid and blitz titles at the Tata Steel Chess India tournament. Carlsen's victory in Kolkata marks his second double win at the event. The tournament saw Filipino-American Grandmaster Wesley So making a strong comeback to secure second place. Indian players also shone, with Arjun Erigaisi taking third place.",
