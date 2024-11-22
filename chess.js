@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are tactical motifs which are continuously repeated and can be learned exactly like we learn opening theory. I feel that the correct approach is to collect thematic, nearly identical positions which are involved on similar patterns which you should look for. In this survey I will present an often met tactical motif I call the \"Shirov Killer.\" It was wonderfully demonstrated by legendary GM Alexei Shirov in an Internet blitz game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/learning-the-shirov-killer",
+         "pubDate" : "Fri, 22 Nov 2024 09:19:35",
+         "title" : "Learning the Shirov Killer"
+      },
+      {
+         "description" : " The Chinese and Indian grandmasters will compete over 14 games in Singapore for a $2.6m prize fund, with Gukesh 1-5 favourite to win China's world champion Ding Liren, 32, and his Indian rival Gukesh Dommaraju, at 18 the youngest ever title challenger, meet for the opening ceremony of their $2.6m 14-game title match in Singapore on Saturday, with the first game scheduled to start at 9am GMT (17.00 local time) on Monday. This will be the 50th contest for the crown since 1886, and the first where both contestants are Asian. The No1 player of the time was almost always a participant, but not in 2023 or 2024. Currently Gukesh is No5 in the rankings, while Ding languishes at No23. The world cham",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/nov/22/champion-ding-and-challenger-gukesh-prepare-for-world-title-battle",
+         "pubDate" : "Fri, 22 Nov 2024 08:00:08",
+         "title" : "Champion Ding and challenger Gukesh prepare for world title battle"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115546135.cms\" />Indian chess prodigy D Gukesh is set to challenge reigning champion Ding Liren for the World Championship title. The 14-game match begins in Singapore on Monday. Gukesh, currently ranked world No. 5, enters the match as the favorite against Ding, ranked No. 23. Gukesh's recent form and aggressive playing style are expected to test Ding.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -88,6 +104,22 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42522170/gukesh-vs-ding-world-chess-championships-preview-strengths-weakness-singapore?device=featurephone",
          "pubDate" : "Thu, 21 Nov 2024 08:38:37",
          "title" : "Gukesh vs Ding: previewing the World Chess Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3310",
+         "pubDate" : "Thu, 21 Nov 2024 07:09:29",
+         "title" : "Showdown in Singapore: Ding Liren vs Gukesh "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3315",
+         "pubDate" : "Thu, 21 Nov 2024 06:39:45",
+         "title" : "Inspiring refugee girls through chess in Kakuma"
       },
       {
          "description" : "",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42482615/chess-world-championship-takes-crown-king-gukesh-ding-liren?device=featurephone",
          "pubDate" : "Tue, 19 Nov 2024 08:11:10",
          "title" : "Chess World Championship: What it takes to be crowned king"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3310",
-         "pubDate" : "Tue, 19 Nov 2024 07:09:29",
-         "title" : "Showdown in Singapore: Ding Liren vs Gukesh "
       },
       {
          "description" : "The 2025 Tata Steel Chess Tournament&#39;s Masters group has 2020 winner GM Fabiano Caruana as the top seed in a field that includes five top 10 players. Many eyes will be on the 11-year-old IM Faustino Oro from Argentina, who will be playing in the C...",
@@ -1272,14 +1296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/record-breaking-english-chess-prodigy-earns-master-title-and-breaks-official-2300-rating-barrier-aged-9/",
          "pubDate" : "Fri, 01 Nov 2024 09:23:04",
          "title" : "Record-breaking English chess prodigy earns master title and breaks official 2300 rating barrier aged 9"
-      },
-      {
-         "description" : " The former world champion scored 4.5/9 in the 9LX tournament and also revealed new details about his 1997 match with the IBM Deep Blue supercomputer Garry Kasparov, who many consider the all-time No 1 in competition with Bobby Fischer and Magnus Carlsen, has been back in action this week in the $150,000 Chess 9LX tournament at St Louis. In Chess 9LX, also known as Fischer Random, Freestyle Chess or Chess 960, the placing of the back rank pieces is decided randomly by lot. At 61, Kasparov still has it. Competing against the cream of US grandmasters, he made a 50% 4.5/9 total and missed chances to do still better due to his problems with handling the fast time limit of 20 minutes per player p",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/nov/01/chess-garry-kasparov-still-has-it-at-61-as-he-holds-his-own-against-the-us-elite",
-         "pubDate" : "Fri, 01 Nov 2024 08:00:43",
-         "title" : "Chess: Garry Kasparov still has it at 61 as he holds his own against the US elite"
       }
    ]
 }
