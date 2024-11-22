@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115546135.cms\" />Indian chess prodigy D Gukesh is set to challenge reigning champion Ding Liren for the World Championship title. The 14-game match begins in Singapore on Monday. Gukesh, currently ranked world No. 5, enters the match as the favorite against Ding, ranked No. 23. Gukesh's recent form and aggressive playing style are expected to test Ding.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-can-experienced-ding-liren-surprise-d-gukesh/articleshow/115546135.cms",
+         "pubDate" : "Fri, 22 Nov 2024 01:01:32",
+         "title" : "World Chess C'ship: Can experienced Ding Liren surprise D Gukesh?"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> A brand-new tournament comes to America's Chess Capital! The Saint Louis Masters is a nine-round Swiss tournament from December 3-7. Up to 60 players compete, including Fabiano Caruana, Sam Sevian, and Alice Lee. Join GM Yasser Seirawan, IM Nazi Paikidze, and WGMs Katerina Nemcova &amp; Sabina Foisor for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/sty",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42522170/gukesh-vs-ding-world-chess-championships-preview-strengths-weakness-singapore?device=featurephone",
          "pubDate" : "Thu, 21 Nov 2024 08:38:37",
          "title" : "Gukesh vs Ding: previewing the World Chess Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3312",
+         "pubDate" : "Thu, 21 Nov 2024 05:39:33",
+         "title" : "FIDE and Google create the Efficient Chess AI Challenge, hosted on Kaggle"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Sam Shankland from the 2017 U.S. Chess Championship in Saint Louis. Today is Akobian&#039;s birthday, which he shares with Jose Raul Capablanca. 2024.11.14<br /> Varuzhan Akobian vs Sam Shankland, United States Championship (2017): D43 Queen&#039;s Gambit Declined semi-Slav, Hastings variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870039\">https://www.chessgames.com/perl/chessgame?gid=1870039</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2025-official-invitation/",
          "pubDate" : "Wed, 20 Nov 2024 07:26:08",
          "title" : "European Individual Chess Championship 2025 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3312",
-         "pubDate" : "Wed, 20 Nov 2024 05:39:33",
-         "title" : "FIDE and Google create the Efficient Chess AI Challenge, hosted on Kaggle"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115469928.cms\" />Indian chess grandmaster D Gukesh's journey to the World Chess Championship is a tale of resilience and seizing opportunities. The war in Ukraine, a well-timed tournament win, and timely mentorship all played a role in his qualification. He now faces reigning champion Ding Liren, who himself earned the title after a hard-fought battle against Ian Nepomniachtchi.",
