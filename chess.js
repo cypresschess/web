@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 21 and 22 November Magnus Carlsen and Fabiano Caruana, the world's number 1 and the world's number 2, clash in the \"Freestyle Chess Summit\" in Singapore. Just before the start of the World Chess Championship match between Gukesh D and Ding Liren, Carlsen and Caruana play two freestyle games with a time limit of 60 minutes for the whole game and 30 seconds increment per move. The games start at 20.00 local time (13.00 CET, 7.00 ET). Follow the event live with commentary by Tania Sachdev and Danny Rensch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-summit-live-2",
+         "pubDate" : "Fri, 22 Nov 2024 12:45:00",
+         "title" : "Freestyle Chess Summit: Carlsen and Caruana freestyle in Singapore"
+      },
+      {
+         "description" : "ChessBase 18 now provides insights into players that go beyond mere opening statistics. Evaluating players is a somewhat delicate matter, and mistakes could be embarrassing. However, the Style Report hits the mark surprisingly well. For historical stars whose styles are well-known, all the classic clich&eacute;s are spot-on. Most importantly, you can learn something about your next opponent-or about the most important player of all: yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/style-report-in-chessbase-18",
+         "pubDate" : "Fri, 22 Nov 2024 09:00:00",
+         "title" : "Style Report in ChessBase 18"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115559627.cms\" />India's chess prodigy D Gukesh, 18, is set to challenge reigning champion Ding Liren of China for the World Chess Championship title in Singapore. The highly anticipated match, starting November 25th, will see Gukesh aiming to become the second Indian to achieve the prestigious title after Viswanathan Anand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-complete-list-of-winners-as-d-gukesh-takes-on-ding-liren-in-singapore/articleshow/115559627.cms",
+         "pubDate" : "Fri, 22 Nov 2024 08:35:07",
+         "title" : "World Chess C'ship: Complete list of winners as Gukesh takes on Ding"
+      },
+      {
          "description" : "There are tactical motifs which are continuously repeated and can be learned exactly like we learn opening theory. I feel that the correct approach is to collect thematic, nearly identical positions which are involved on similar patterns which you should look for. In this survey I will present an often met tactical motif I call the \"Shirov Killer.\" It was wonderfully demonstrated by legendary GM Alexei Shirov in an Internet blitz game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/learning-the-shirov-killer",
-         "pubDate" : "Fri, 22 Nov 2024 09:19:35",
+         "pubDate" : "Fri, 22 Nov 2024 08:19:35",
          "title" : "Learning the Shirov Killer"
       },
       {
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/nov/22/champion-ding-and-challenger-gukesh-prepare-for-world-title-battle",
          "pubDate" : "Fri, 22 Nov 2024 08:00:08",
          "title" : "Champion Ding and challenger Gukesh prepare for world title battle"
+      },
+      {
+         "description" : "&#38;ldquo;We could see a bloodbath!&#38;rdquo; said GM Magnus Carlsen on the likelihood of decisive games in the Ding-Gukesh FIDE World Championship that starts Monday in Singapore, with most grandmasters predicting an early knockout in favor of GM Gukes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-ding-gukesh-world-championship-predictions",
+         "pubDate" : "Fri, 22 Nov 2024 04:00:04",
+         "title" : "\"We could see a bloodbath!\" Carlsen & Co. On Ding-Gukesh"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115546135.cms\" />Indian chess prodigy D Gukesh is set to challenge reigning champion Ding Liren for the World Championship title. The 14-game match begins in Singapore on Monday. Gukesh, currently ranked world No. 5, enters the match as the favorite against Ding, ranked No. 23. Gukesh's recent form and aggressive playing style are expected to test Ding.",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freestyle-summit-2024-g1",
          "pubDate" : "Thu, 21 Nov 2024 20:00:00",
          "title" : "Freestyle Summit: Carlsen wins wild first game"
-      },
-      {
-         "description" : "ChessBase 18 now provides insights into players that go beyond mere opening statistics. Evaluating players is a somewhat delicate matter, and mistakes could be embarrassing. However, the Style Report hits the mark surprisingly well. For historical stars whose styles are well-known, all the classic clich&eacute;s are spot-on. Most importantly, you can learn something about your next opponent-or about the most important player of all: yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/style-report-in-chessbase-18",
-         "pubDate" : "Thu, 21 Nov 2024 18:00:00",
-         "title" : "Style Report in ChessBase 18"
       },
       {
          "description" : "",
@@ -970,14 +994,6 @@ news_feed (
          "title" : "24th European Individual Championship 2024 - Games and Results"
       },
       {
-         "description" : "GM Awonder Liang defeated GM Jeffery Xiong 2.5-1.5 in the Grand Final to win the Seirawan Chess Championship 2024 and $600. It was an exciting clash between the two friends who together won the Bughouse Chess Championship earlier this year. GM Yas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-seirawan-chess-championship-liang-wins",
-         "pubDate" : "Fri, 08 Nov 2024 16:24:00",
-         "title" : "Liang Wins S-Chess Championship, Beats Ex-Bughouse-Partner Xiong In Grand Final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1154,6 +1170,14 @@ news_feed (
          "title" : "Shymkent FIDE Women's Grand Prix 2024 - Games and Results"
       },
       {
+         "description" : "Over the last six months my blogging has dropped to minimum activity -- five posts a month on this blog, one post a month on my chess960 blog, and nothing at all on my World Championship blog (WCCB). I would like to improve that. <P> Starting in April, external factors having nothing to do with chess took over my free time, but they have now subsided considerably. It's time to increase the frequency of posts. <P> Recent posts on this current blog are a continuation of ongoing series that I've been doing for many years. Two shorter term series were interrupted and could be restarted:- <UL> <LI> 2024-04-22: <A HREF=\"https://chessforallages.blogspot.com/2024/04/vikings-as-ai-stereotypes.html\">V",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/where-was-i.html",
+         "pubDate" : "Mon, 04 Nov 2024 16:06:00",
+         "title" : "Where Was I?"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1312,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-anish-sarkar-becomes-youngest-rated-chess-prodigy-at-3-years/articleshow/114853301.cms",
          "pubDate" : "Fri, 01 Nov 2024 14:02:40",
          "title" : "Anish Sarkar becomes youngest rated chess prodigy at 3 years"
-      },
-      {
-         "description" : "England's record-breaking crop of chess talents scored another incredible milestone this week when nine-year-old north London schoolboy Ethan Pang became the youngest-ever to pass the 2300 rating mark in an...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/record-breaking-english-chess-prodigy-earns-master-title-and-breaks-official-2300-rating-barrier-aged-9/",
-         "pubDate" : "Fri, 01 Nov 2024 09:23:04",
-         "title" : "Record-breaking English chess prodigy earns master title and breaks official 2300 rating barrier aged 9"
       }
    ]
 }
