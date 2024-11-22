@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In celebration of Monopoly St. Louis Edition, Mr. Monopoly pays a visit to the World Chess Hall of Fame to shake things up before Chess 9LX! <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mr-monopoly-visits-world-chess-hall-fame",
+         "pubDate" : "Fri, 22 Nov 2024 19:15:46",
+         "title" : "Mr. Monopoly Visits the World Chess Hall of Fame"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PLAY AGAINST GM AKOBIAN: twitch.tv/stlchessclub #shorts </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-var-akobian-missed-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ktQYvlQbW-A.jpg?itok=Z4ikNZoX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-var-akobian-missed-chess",
+         "pubDate" : "Fri, 22 Nov 2024 16:15:39",
+         "title" : "GM Var Akobian Missed This! #chess"
+      },
+      {
+         "description" : "In the latest episode of \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer discuss the World Championship match between defending champion Ding Liren and challenger Gukesh D, which starts on Monday 25th November in Singapore. Eighteen-year-old Gukesh is a heavy favourite and has good chances of becoming the youngest World Champion of all time. But the \"Two Knights\" wonder if things are as clear-cut as they seem, talk about the appeal and addictive nature of World Championship matches, and venture a prediction on the outcome of the upcoming match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-who-will-win-the-world-chess-championship-match-2024",
+         "pubDate" : "Fri, 22 Nov 2024 15:09:13",
+         "title" : "Two Knights Talk: Who will win the World Chess Championship match 2024?"
+      },
+      {
          "description" : "On 21 and 22 November Magnus Carlsen and Fabiano Caruana, the world's number 1 and the world's number 2, clash in the \"Freestyle Chess Summit\" in Singapore. Just before the start of the World Chess Championship match between Gukesh D and Ding Liren, Carlsen and Caruana play two freestyle games with a time limit of 60 minutes for the whole game and 30 seconds increment per move. The games start at 20.00 local time (13.00 CET, 7.00 ET). Follow the event live with commentary by Tania Sachdev and Danny Rensch.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/style-report-in-chessbase-18",
          "pubDate" : "Fri, 22 Nov 2024 09:00:00",
          "title" : "Style Report in ChessBase 18"
+      },
+      {
+         "description" : "After holding a draw with the black pieces, GM Magnus Carlsen won the Freestyle Chess Match against Fabiano Caruana 1.5-0.5, without a single loss. In the final game, Caruana achieved a dream position with a space advantage and the bishop pair, bu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-match-carlsen-wins",
+         "pubDate" : "Fri, 22 Nov 2024 08:40:00",
+         "title" : "Carlsen Wins Freestyle Chess Grand Slam Match Vs. Caruana After Surviving Game 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115559627.cms\" />India's chess prodigy D Gukesh, 18, is set to challenge reigning champion Ding Liren of China for the World Chess Championship title in Singapore. The highly anticipated match, starting November 25th, will see Gukesh aiming to become the second Indian to achieve the prestigious title after Viswanathan Anand.",
@@ -55,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-ding-gukesh-world-championship-predictions",
          "pubDate" : "Fri, 22 Nov 2024 04:00:00",
-         "title" : "\"We could see a bloodbath!\" Carlsen & Co. On Ding-Gukesh"
+         "title" : "'We Could See A Bloodbath!' Carlsen & Co. On Ding-Gukesh"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115546135.cms\" />Indian chess prodigy D Gukesh is set to challenge reigning champion Ding Liren for the World Championship title. The 14-game match begins in Singapore on Monday. Gukesh, currently ranked world No. 5, enters the match as the favorite against Ding, ranked No. 23. Gukesh's recent form and aggressive playing style are expected to test Ding.",
@@ -280,22 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3311",
          "pubDate" : "Tue, 19 Nov 2024 23:03:59",
          "title" : "Aleksandar Indjic wins 2024 European Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Yaro Zherebukh from the 2017 U.S. Chess Championship in Saint Louis. 2024.11.14<br /> Yaroslav Zherebukh vs Varuzhan Akobian, United States Championship (2017): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870231\">https://www.chessgames.com/perl/chessgame?gid=1870231</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zapping-zherebukh-2017-us-champs-prepare-pro-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zapping-zherebukh-2017-us-champs-prepare-pro-gm-varuzhan-akobian",
-         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
-         "title" : "Zapping Zherebukh at 2017 U.S. Champs! | Prepare Like A Pro - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian presents complex tactics and strategy studies. 2024.11.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-1800-or-higher-puzzlers-paradisedouble-exclam-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lcH8bRjMwtg.jpg?itok=nHxFTCKp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-1800-or-higher-puzzlers-paradisedouble-exclam-gm-varuzhan-akobian",
-         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
-         "title" : "Tactics and Strategy for 1800+ or Higher | Puzzler's Paradise/Double Exclam!! - GM Varuzhan Akobian"
       },
       {
          "description" : "The 2024 European Individual Chess Championship concluded in Petrovac, Montegro. GM Aleksandar Indjic (SRB, 2623) emerged as the sole Winner of the tournament scoring unbeaten 9/11 points. GM Daniel Dardha (BEL, 2606) came second with 8.5/11 points, and GM Frederik Svane (GER, 2654) won bronze. In a last-round direct encounter for the first place, Aleksandar Indjic drew with black against GM Daniel Dardha (BEL, 2606), secured sole first place, and clinched his maiden title. GM Daniel Dardha was in chance []",
@@ -922,14 +938,6 @@ news_feed (
          "title" : "Brewington Hardaway Earns Grandmaster Title, 2nd African American GM In History"
       },
       {
-         "description" : "GM Daniel Naroditsky, who celebrated his 29th birthday on Saturday, showed that with age comes wisdom as he won his 24th Bullet Brawl&#38;nbsp;and the $400 first prize ahead of GMs Hikaru Nakamura and Andrew Tang. Naroditsky notched 77.5/83 and scored...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-november-9-2024",
-         "pubDate" : "Sat, 09 Nov 2024 16:29:00",
-         "title" : "Naroditsky Wins Birthday Bullet Brawl Ahead Of Nakamura, Tang"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115119997.cms\" />Raunak Sadhwani halted Pranav V's winning streak with a draw in the Chennai Grand Masters chess tournament. Levon Aronian defeated Maxime Vachier-Lagrave and moved closer to leader Arjun Erigaisi, who drew with Parham Maghsoodloo. Vidit Gujarathi and Amin Tabatabaei, as well as Alexey Sarana and Aravindh Chithambaram, also drew their matches.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3284",
          "pubDate" : "Fri, 01 Nov 2024 21:50:40",
          "title" : "World Amateur Chess Championship 2024 reach the midpoint"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3283",
-         "pubDate" : "Fri, 01 Nov 2024 18:08:58",
-         "title" : "FIDE WGP Shymkent: Tan Zhongyi takes the lead after Round 3"
       }
    ]
 }
