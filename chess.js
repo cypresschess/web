@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> A brand-new tournament comes to America's Chess Capital! The Saint Louis Masters is a nine-round Swiss tournament from December 3-7. Up to 60 players compete, including Fabiano Caruana, Sam Sevian, and Alice Lee. Join GM Yasser Seirawan, IM Nazi Paikidze, and WGMs Katerina Nemcova &amp; Sabina Foisor for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/sty",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-promo",
+         "pubDate" : "Thu, 21 Nov 2024 22:14:53",
+         "title" : "Saint Louis Masters 2024 | PROMO"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> twitch.tv/stlchessclub #shorts </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-akobian-shocks-himself-checkmate-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JUDi8SSJ_1U.jpg?itok=eMc562GW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-akobian-shocks-himself-checkmate-chess",
+         "pubDate" : "Thu, 21 Nov 2024 22:14:53",
+         "title" : "GM Akobian Shocks Himself with Checkmate!!! #chess"
+      },
+      {
          "description" : "Magnus Carlsen emerged victorious in the opening game of the Freestyle Chess Summit, defeating Fabiano Caruana aboard the luxurious SilentWorld yacht. Carlsen's dynamic play with the white pieces outshone Caruana's strategies in a double-edged, entertaining encounters. The two rivals are rekindling their fierce competition from the 2018 World Championship, a few days before the start of the match for the world crown in Singapore. | Photo: Abhyudaya Ram / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,22 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-1800-or-higher-puzzlers-paradisedouble-exclam-gm-varuzhan-akobian",
          "pubDate" : "Tue, 19 Nov 2024 22:12:55",
          "title" : "Tactics and Strategy for 1800+ or Higher | Puzzler's Paradise/Double Exclam!! - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Sam Shankland from the 2017 U.S. Chess Championship in Saint Louis. Today is Akobian&#039;s birthday, which he shares with Jose Raul Capablanca. 2024.11.14<br /> Varuzhan Akobian vs Sam Shankland, United States Championship (2017): D43 Queen&#039;s Gambit Declined semi-Slav, Hastings variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870039\">https://www.chessgames.com/perl/chessgame?gid=1870039</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vars-big-birthday-bash-grandmasters-choice-gm-varuzhan-akobian",
-         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
-         "title" : "Var's Big Birthday Bash! | Grandmaster's Choice - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Tianqi &quot;Steve&quot; Wang debuts on YouTube as the new chess instructor for Road to 2000. 2024.11.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/new-era-begins-road-2000-im-tianqi-steve-wang\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qo-8mJCseXI.jpg?itok=mkwwRZUL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/new-era-begins-road-2000-im-tianqi-steve-wang",
-         "pubDate" : "Tue, 19 Nov 2024 22:12:55",
-         "title" : "A New Era Begins! | Road to 2000 - IM Tianqi \"Steve\" Wang"
       },
       {
          "description" : "The 2024 European Individual Chess Championship concluded in Petrovac, Montegro. GM Aleksandar Indjic (SRB, 2623) emerged as the sole Winner of the tournament scoring unbeaten 9/11 points. GM Daniel Dardha (BEL, 2606) came second with 8.5/11 points, and GM Frederik Svane (GER, 2654) won bronze. In a last-round direct encounter for the first place, Aleksandar Indjic drew with black against GM Daniel Dardha (BEL, 2606), secured sole first place, and clinched his maiden title. GM Daniel Dardha was in chance []",
