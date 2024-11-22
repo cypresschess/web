@@ -34,7 +34,7 @@ news_feed (
          "title" : "Learning the Shirov Killer"
       },
       {
-         "description" : " The Chinese and Indian grandmasters will compete over 14 games in Singapore for a $2.6m prize fund, with Gukesh 1-5 favourite to win China's world champion Ding Liren, 32, and his Indian rival Gukesh Dommaraju, at 18 the youngest ever title challenger, meet for the opening ceremony of their $2.6m 14-game title match in Singapore on Saturday, with the first game scheduled to start at 9am GMT (17.00 local time) on Monday. This will be the 50th contest for the crown since 1886, and the first where both contestants are Asian. The No1 player of the time was almost always a participant, but not in 2023 or 2024. Currently Gukesh is No5 in the rankings, while Ding languishes at No23. The world cham",
+         "description" : " The Chinese and Indian grandmasters will compete over 14 games in Singapore for a $2.6m prize fund, with Gukesh 1-5 favourite to win China's world champion, Ding Liren, 32, and his Indian rival Gukesh Dommaraju, at 18 the youngest ever title challenger, meet for the opening ceremony of their $2.6m 14-game title match in Singapore on Saturday, with the first game scheduled to start at 9am GMT (17.00 local time) on Monday. This will be the 50th contest for the crown since 1886, and the first where both contestants are Asian. The No 1 player of the time was almost always a participant, but not in 2023 or 2024. Currently Gukesh is No 5 in the rankings, while Ding languishes at No 23. The world ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/nov/22/champion-ding-and-challenger-gukesh-prepare-for-world-title-battle",
@@ -42,11 +42,19 @@ news_feed (
          "title" : "Champion Ding and challenger Gukesh prepare for world title battle"
       },
       {
-         "description" : "&#38;ldquo;We could see a bloodbath!&#38;rdquo; said GM Magnus Carlsen on the likelihood of decisive games in the Ding-Gukesh FIDE World Championship that starts Monday in Singapore, with most grandmasters predicting an early knockout in favor of GM Gukes...",
+         "description" : "It&#39;s time to go crazy over the chessboard with the next edition of the Chess.com Community Championships! The Chess.com Crazyhouse Chess Championship will take place between December 2 and 6 and feature an increased $7,500 prize fund. Crazyhouse...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2024",
+         "pubDate" : "Fri, 22 Nov 2024 08:00:00",
+         "title" : "Insanity Awaits! Get Ready For The Chess.com Crazyhouse Chess Championship"
+      },
+      {
+         "description" : "&#34;We could see a bloodbath!&#34; said GM Magnus Carlsen on the likelihood of decisive games in the Ding-Gukesh FIDE World Championship that starts Monday in Singapore, with most grandmasters predicting an early knockout in favor of GM Gukesh Dommaraju,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-ding-gukesh-world-championship-predictions",
-         "pubDate" : "Fri, 22 Nov 2024 04:00:04",
+         "pubDate" : "Fri, 22 Nov 2024 04:00:00",
          "title" : "\"We could see a bloodbath!\" Carlsen & Co. On Ding-Gukesh"
       },
       {
@@ -962,14 +970,6 @@ news_feed (
          "title" : "European Chess Championship 2024 kicks off in Montenegro"
       },
       {
-         "description" : "GM Arjun Erigaisi continues to lead the Masters section of the Chennai Grand Masters 2024 with four points after a draw with GM Parham Maghsoodloo in the fifth round. Trailing him by half a point is GM Levon Aronian who defeated GM Maxime Vachier-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-5",
-         "pubDate" : "Sat, 09 Nov 2024 08:40:00",
-         "title" : "Aronian Defeats Vachier-Lagrave, Trails Arjun By Half-Point"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115101862.cms\" />Indian chess grandmaster Arjun Erigaisi secured a victory against Amin Tabatabaei in the Chennai Grandmasters Chess tournament, propelling him to the top of the leaderboard with 3.5 points. Erigaisi's aggressive playing style and strategic execution earned him his third win, bringing his live rating closer to world No. 1 Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1296,22 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3283",
          "pubDate" : "Fri, 01 Nov 2024 18:08:58",
          "title" : "FIDE WGP Shymkent: Tan Zhongyi takes the lead after Round 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3282",
-         "pubDate" : "Fri, 01 Nov 2024 15:28:00",
-         "title" : "FIDE November 2024 rating list published"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114853301.cms\" />Three-year-old Anish Sarkar from Kolkata has become the youngest rated chess player in history. His journey began just a year ago, and he already has an initial FIDE rating of 1555. Supported by his coach, Grandmaster Dibyendu Barua, Anish is part of a special training group and remains inspired by chess wizard Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkatas-anish-sarkar-becomes-youngest-rated-chess-prodigy-at-3-years/articleshow/114853301.cms",
-         "pubDate" : "Fri, 01 Nov 2024 14:02:40",
-         "title" : "Anish Sarkar becomes youngest rated chess prodigy at 3 years"
       }
    ]
 }
