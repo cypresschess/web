@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"We are going to give our best and see what happens\". This afternoon's fantastic chess experience in Singapore began with the first official press conference with the World Champion Ding Liren and the challenger Gukesh D, moderated by one of the event's official commentators and master of ceremonies, GM Maurice Ashley. The panel also featured Arkady Dvorkovich, FIDE President and GM Kevin Goh Wei Ming, CEO of the Singapore Chess Federation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-championship-opening-press-conference",
+         "pubDate" : "Sat, 23 Nov 2024 19:00:00",
+         "title" : "FIDE World Championship: Opening press conference"
+      },
+      {
          "description" : "The World Chess Championship 2024 is finally upon us. Svitlana had an in-depth look at the last game, that Gukesh had against Ding Liren in 2024. Then, it was the World Champion who had the upper end. Although the Indian super star is the clear favourite to become the new World Champion, Svitlana and Arne hope for interesting games, and a tough fight!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1344,22 +1352,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/more-piggybanx-chess.html",
          "pubDate" : "Sun, 03 Nov 2024 16:05:00",
          "title" : "More Piggybanx Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3286",
-         "pubDate" : "Sat, 02 Nov 2024 19:24:27",
-         "title" : "FIDE WGP Shymkent: Koneru and Goryachkina сlose in after Round 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3285",
-         "pubDate" : "Sat, 02 Nov 2024 16:35:56",
-         "title" : "FIDE Trainer Awards 2024 - Call for nominations"
       }
    ]
 }
