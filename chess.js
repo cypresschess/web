@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-ding-liren-deception-play-acting-et-al-the-other-side-of-the-chequered-game/articleshow/115584143.cms",
+         "pubDate" : "Sat, 23 Nov 2024 01:23:15",
+         "title" : "D Gukesh vs Ding Liren: Deception, play-acting, et al - The other side of the chequered game"
+      },
+      {
+         "description" : "Magnus Carlsen emerged victorious in an entertaining two-game Freestyle Chess match against Fabiano Caruana, held at two stunning venues. The Norwegian claimed a wild first game with white before defending a tense 74-move battle in game two to secure the overall win. Sponsored by Jan-Henric Buettner, the event dazzled with luxury, including a $44 million golden chess set. Just days before the World Championship match between Ding Liren and Dommaraju Gukesh, this exhibition showcased Carlsen's brilliance in this innovative format. | Photo: Aditya Sur Roy / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-summit-2024-g2",
+         "pubDate" : "Sat, 23 Nov 2024 01:15:00",
+         "title" : "Freestyle Summit: Carlsen holds draw with black, beats Caruana 1&frac12;-&frac12;"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> In celebration of Monopoly St. Louis Edition, Mr. Monopoly pays a visit to the World Chess Hall of Fame to shake things up before Chess 9LX! <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-knights-talk-who-will-win-the-world-chess-championship-match-2024",
          "pubDate" : "Fri, 22 Nov 2024 15:09:13",
          "title" : "Two Knights Talk: Who will win the World Chess Championship match 2024?"
-      },
-      {
-         "description" : "On 21 and 22 November Magnus Carlsen and Fabiano Caruana, the world's number 1 and the world's number 2, clash in the \"Freestyle Chess Summit\" in Singapore. Just before the start of the World Chess Championship match between Gukesh D and Ding Liren, Carlsen and Caruana play two freestyle games with a time limit of 60 minutes for the whole game and 30 seconds increment per move. The games start at 20.00 local time (13.00 CET, 7.00 ET). Follow the event live with commentary by Tania Sachdev and Danny Rensch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-summit-live-2",
-         "pubDate" : "Fri, 22 Nov 2024 12:45:00",
-         "title" : "Freestyle Chess Summit: Carlsen and Caruana freestyle in Singapore"
       },
       {
          "description" : "ChessBase 18 now provides insights into players that go beyond mere opening statistics. Evaluating players is a somewhat delicate matter, and mistakes could be embarrassing. However, the Style Report hits the mark surprisingly well. For historical stars whose styles are well-known, all the classic clich&eacute;s are spot-on. Most importantly, you can learn something about your next opponent-or about the most important player of all: yourself.",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/isf-bahrain-gymnasiade-2024/",
          "pubDate" : "Sat, 02 Nov 2024 10:49:46",
          "title" : "ISF Bahrain Gymnasiade 2024 - report and pictures"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114868078.cms\" />Anish Sarkar from Kolkata became the youngest rated chess player in history at three years, eight months, and 19 days old. He achieved his rating after several tournaments, including All Bengal Rapid Rating Open, Bengal State Under-9 Open Rating meet, and Bengal State Under-13 Open. He also played against India No. 1 Arjun Erigaisi in an exhibition match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/three-year-old-kolkata-boy-becomes-youngest-fide-rated-chess-player/articleshow/114868078.cms",
-         "pubDate" : "Sat, 02 Nov 2024 02:33:21",
-         "title" : "Three-year-old Kolkata boy becomes youngest Fide-rated chess player"
       }
    ]
 }
