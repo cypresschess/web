@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship 2024 is finally upon us. Svitlana had an in-depth look at the last game, that Gukesh had against Ding Liren in 2024. Then, it was the World Champion who had the upper end. Although the Indian super star is the clear favourite to become the new World Champion, Svitlana and Arne hope for interesting games, and a tough fight!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-when-ding-liren-won-against-gukesh",
+         "pubDate" : "Sat, 23 Nov 2024 16:00:00",
+         "title" : "Svitlana's Smart Moves - When Ding Liren won against Gukesh"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3318",
+         "pubDate" : "Sat, 23 Nov 2024 15:47:08",
+         "title" : "2024 FIDE World Championship: Opening press conference"
+      },
+      {
+         "description" : "Dutch chess friend Ardjan Langedijk lived in Central Asia for a while and was fascinated by the landscapes, culture and people there. Now he shares his enthusiasm with others and organises trips to Central Asia, most recently a chess trip to Uzbekistan. Here is his report.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-adventures-in-uzbekistan",
+         "pubDate" : "Sat, 23 Nov 2024 15:00:00",
+         "title" : "Chess adventures in Uzbekistan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3317",
+         "pubDate" : "Sat, 23 Nov 2024 14:44:12",
+         "title" : "2024 FIDE World Championship - Gukesh draws White in the first game"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115601350.cms\" />Indian chess prodigy Gukesh Dommaraju, at just 18 years old, has made history by becoming the youngest player ever to qualify for the FIDE World Chess Championship. His impressive victory at the 2024 Candidates Tournament, where he defeated top-ranked players, has set the stage for a thrilling championship match against reigning champion Ding Liren in Singapore this November.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-d-gukesh-the-youngest-player-ever-to-qualify-for-the-fide-world-chess-championship-final/articleshow/115601350.cms",
+         "pubDate" : "Sat, 23 Nov 2024 12:35:22",
+         "title" : "Who is D Gukesh: The youngest player ever to qualify for the FIDE World Chess Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,12 +50,28 @@ news_feed (
          "title" : "World Senior Championship 2024 crosses halfway mark"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115600869.cms\" />Ding Liren, a chess prodigy from China, has become the first Chinese Classical World Chess Champion. Starting his journey at the age of four, Ding rapidly rose through the ranks, claiming victory in the Chinese Chess Championship at the young age of 16.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-ding-liren-chinas-first-fide-world-chess-champion-and-d-gukeshs-final-opponent/articleshow/115600869.cms",
+         "pubDate" : "Sat, 23 Nov 2024 12:12:27",
+         "title" : "Who is Ding Liren: China's first FIDE World Chess Champion and D Gukesh's opponent"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115600458.cms\" />India's chess prodigy D. Gukesh is on the verge of making history as he prepares to face reigning champion Ding Liren for the World Chess Championship title. The highly anticipated match, scheduled for November 25 to December 13 in Singapore, could see Gukesh become the youngest-ever World Champion at just 18 years old.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-2024-d-gukesh-vs-ding-liren-all-you-need-to-know/articleshow/115600458.cms",
          "pubDate" : "Sat, 23 Nov 2024 11:57:29",
          "title" : "World Chess Championship 2024: D Gukesh vs Ding Liren - All you need to know"
+      },
+      {
+         "description" : " The FIDE World Chess Championship takes place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Play is 3 days on, one off and starts at 17:00 local time 09:00GMT. Defending champion is 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April last year. 18 year old Gukesh Dommaraju is his challenger after winning the Candidates tournament earlier in the year. Two shadows overhang the match, World number one Magnus Carlsen gave up the title last year and is still probably (but not definitely) the best classical player and is absolutely the dominant rapid and blitz player now. No one player can be bigger than the game, and life goes on, this period feels similar to that betw",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024",
+         "pubDate" : "Sat, 23 Nov 2024 11:40:00",
+         "title" : "FIDE World Chess Championship 2024 - Games and Results"
       },
       {
          "description" : "The opening ceremony of the World Chess Championship match takes place today in Singapore. Hosted by the Singapore Chess Federation, supported by the Government of Singapore, under auspices of the FIDÉ, the World Chess Federation, the match will feature the defending champion Ding Liren from China and the challenger Dommaraju Gukesh from India. The match will start on Monday and could continue until December 15, []",
@@ -32,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/strongest-chess-tournament-in-u-s-history",
          "pubDate" : "Sat, 23 Nov 2024 11:00:00",
          "title" : "Strongest chess tournament in U.S. history"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju will have the white pieces against GM Ding Liren for Monday&#39;s game one of the 2024 FIDE World Championship after the opening ceremony concluded in the Capitol Theatre in Singapore. At an earlier press conference Ding, who&#39;s aga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-white-ding-liren-game-1",
+         "pubDate" : "Sat, 23 Nov 2024 06:45:00",
+         "title" : "Gukesh White Vs. 'At Peace' Ding Liren For Game 1 Of World Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
@@ -986,14 +1050,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Exam in Bhubaneshwar ,Odisha on 16 & 17 December 2024"
       },
       {
-         "description" : "Two and a half decades after GM Maurice Ashley became the first African American grandmaster, GM-elect Brewington Hardaway has climbed to the top of the mountain. Born in the Bronx, New York, 15-year-old Hardaway has completed the requirements to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-gm-title",
-         "pubDate" : "Sat, 09 Nov 2024 16:39:00",
-         "title" : "Brewington Hardaway Earns Grandmaster Title, 2nd African American GM In History"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115119997.cms\" />Raunak Sadhwani halted Pranav V's winning streak with a draw in the Chennai Grand Masters chess tournament. Levon Aronian defeated Maxime Vachier-Lagrave and moved closer to leader Arjun Erigaisi, who drew with Parham Maghsoodloo. Vidit Gujarathi and Amin Tabatabaei, as well as Alexey Sarana and Aravindh Chithambaram, also drew their matches.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1304,14 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3285",
          "pubDate" : "Sat, 02 Nov 2024 16:35:56",
          "title" : "FIDE Trainer Awards 2024 - Call for nominations"
-      },
-      {
-         "description" : "How many hours have you wasted studying chess the wrong way? \"Wow, I've wasted so much time and money on non-important things,\" is the most common reaction from my new students. Just this week, two separate students realized that what they thought was 20-30 hours of study time on chess per week was, in reality, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/study-chess-in-a-smarter-way/",
-         "pubDate" : "Sat, 02 Nov 2024 14:00:00",
-         "title" : "Why CEOs have a hard time improving their chess"
       }
    ]
 }
