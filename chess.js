@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3316",
+         "pubDate" : "Sat, 23 Nov 2024 12:17:43",
+         "title" : "World Senior Championship 2024 crosses halfway mark"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115600458.cms\" />India's chess prodigy D. Gukesh is on the verge of making history as he prepares to face reigning champion Ding Liren for the World Chess Championship title. The highly anticipated match, scheduled for November 25 to December 13 in Singapore, could see Gukesh become the youngest-ever World Champion at just 18 years old.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-2024-d-gukesh-vs-ding-liren-all-you-need-to-know/articleshow/115600458.cms",
+         "pubDate" : "Sat, 23 Nov 2024 11:57:29",
+         "title" : "World Chess Championship 2024: D Gukesh vs Ding Liren - All you need to know"
+      },
+      {
+         "description" : "The opening ceremony of the World Chess Championship match takes place today in Singapore. Hosted by the Singapore Chess Federation, supported by the Government of Singapore, under auspices of the FIDÉ, the World Chess Federation, the match will feature the defending champion Ding Liren from China and the challenger Dommaraju Gukesh from India. The match will start on Monday and could continue until December 15, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/who-will-be-world-king-of-chess-ding-or-gukesh/",
+         "pubDate" : "Sat, 23 Nov 2024 11:19:24",
+         "title" : "Who will be world king of chess: Ding or Gukesh?"
+      },
+      {
+         "description" : "Most of the world's top players - including world number one Magnus Carlsen - have confirmed their participation in the World Rapid & Blitz Championship. With a spectacular line-up, a prize fund of nearly $1.5 million, and the electrifying rapid format, this promises to be the most thrilling chess event of the year. The event takes place from December 26-31, 2024. FIDE press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strongest-chess-tournament-in-u-s-history",
+         "pubDate" : "Sat, 23 Nov 2024 11:00:00",
+         "title" : "Strongest chess tournament in U.S. history"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -98,7 +130,7 @@ news_feed (
          "title" : "Insanity Awaits! Get Ready For The Chess.com Crazyhouse Chess Championship"
       },
       {
-         "description" : "&#34;We could see a bloodbath!&#34; said GM Magnus Carlsen on the likelihood of decisive games in the Ding-Gukesh FIDE World Championship that starts Monday in Singapore, with most grandmasters predicting an early knockout in favor of GM Gukesh Dommaraju,...",
+         "description" : "&#34;We could see a bloodbath!&#34; said GM Magnus Carlsen on the likelihood of decisive games in the Ding-Gukesh 2024 FIDE World Championship that starts Monday in Singapore, with most grandmasters predicting an early knockout in favor of GM Gukesh Domma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-ding-gukesh-world-championship-predictions",
@@ -1280,22 +1312,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/study-chess-in-a-smarter-way/",
          "pubDate" : "Sat, 02 Nov 2024 14:00:00",
          "title" : "Why CEOs have a hard time improving their chess"
-      },
-      {
-         "description" : "The London Summit on Leadership in Crisis, held at London's Naval and Military Club on Saturday October 19, was an international gathering, dedicated to exploring the challenges and opportunities that await us in education, environment, business, politics, technology, and beyond over the next 50 years. I was invited to address this August forum by its co-organisers, Ambassador Dr Otto []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-as-a-metaphor-for-life/",
-         "pubDate" : "Sat, 02 Nov 2024 11:44:27",
-         "title" : "Chess as a metaphor for life"
-      },
-      {
-         "description" : " from October 25 to October 30th the 2024 ISF Bahrain Gymnasiade was the largest in the event's 52 year history with 5,515 athletes from 71 countries competing across...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/isf-bahrain-gymnasiade-2024/",
-         "pubDate" : "Sat, 02 Nov 2024 10:49:46",
-         "title" : "ISF Bahrain Gymnasiade 2024 - report and pictures"
       }
    ]
 }
