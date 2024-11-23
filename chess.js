@@ -42,6 +42,14 @@ news_feed (
          "title" : "Style Report in ChessBase 18"
       },
       {
+         "description" : "Here's all essential information of chess' ultimate match: schedule, format, timings, form, rules and more.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42542032/world-chess-championship-2024-all-need-know-d-gukesh-vs-ding-liren?device=featurephone",
+         "pubDate" : "Fri, 22 Nov 2024 08:58:31",
+         "title" : "World Chess Championship 2024: All you need to know about Gukesh vs Ding"
+      },
+      {
          "description" : "After holding a draw with the black pieces, GM Magnus Carlsen won the Freestyle Chess Match against Fabiano Caruana 1.5-0.5, without a single loss. In the final game, Caruana achieved a dream position with a space advantage and the bishop pair, bu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-can-experienced-ding-liren-surprise-d-gukesh/articleshow/115546135.cms",
          "pubDate" : "Fri, 22 Nov 2024 01:01:32",
          "title" : "World Chess C'ship: Can experienced Ding Liren surprise D Gukesh?"
+      },
+      {
+         "description" : "US Chess is seeking volunteers to assist at the 2024 National K-12 Grade Championships from December 5-8 in National Harbor, Maryland. If you're a local chess enthusiast, seeking national events experience, or a parent with a few hours to spare, we could use your help! Click here to sign up to be a volunteer! Volunteers must:Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus!This is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes insights into what comprises our national events.To sign up, please complete all fields in this form and submit b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/volunteers-wanted-2024-national-k-12-grade-championships",
+         "pubDate" : "Fri, 22 Nov 2024 00:00:00",
+         "title" : "Volunteers Wanted for 2024 National K-12 Grade Championships"
       },
       {
          "description" : "<div class=\"body text-secondary\"> A brand-new tournament comes to America's Chess Capital! The Saint Louis Masters is a nine-round Swiss tournament from December 3-7. Up to 60 players compete, including Fabiano Caruana, Sam Sevian, and Alice Lee. Join GM Yasser Seirawan, IM Nazi Paikidze, and WGMs Katerina Nemcova &amp; Sabina Foisor for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/sty",
@@ -1162,14 +1178,6 @@ news_feed (
          "title" : "I have learnt to detach myself from results: Arjun Erigaisi"
       },
       {
-         "description" : "This week's Tactics Tuesday highlights some resourceful tactical moments from IM Carissa Yip's 2024 U.S. Women's Championship triumph last month in St. Louis. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-yips-2024-us-womens-championship-highlights",
-         "pubDate" : "Tue, 05 Nov 2024 00:00:00",
-         "title" : "Tactics Tuesday: Yip's 2024 U.S. Women's Championship Highlights"
-      },
-      {
          "description" : " The Shymkent FIDE Women's Grand Prix takes place Tue 29th Oct to Sat 9th Nov 2024. Players: Aleksandra Goryachkina, Bibisara Assaubayeva, Humpy Koneru, Stavroula Tsolakidou, Zhongyi T`an, Deshmukh Divya, Batkhuyag Munguntuul, Kateryna Lagno, Nurgyul Salimova and Elisabeth Paehtz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/three-year-old-kolkata-boy-becomes-youngest-fide-rated-chess-player/articleshow/114868078.cms",
          "pubDate" : "Sat, 02 Nov 2024 02:33:21",
          "title" : "Three-year-old Kolkata boy becomes youngest Fide-rated chess player"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3284",
-         "pubDate" : "Fri, 01 Nov 2024 21:50:40",
-         "title" : "World Amateur Chess Championship 2024 reach the midpoint"
       }
    ]
 }
