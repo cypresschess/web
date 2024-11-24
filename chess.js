@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115614800.cms\" />World Chess Champion Ding Liren expresses confidence and peace ahead of his title defense against 18-year-old Indian prodigy D Gukesh in Singapore. Despite recent setbacks, Ding aims to regain his form, while Gukesh, mentored by Viswanathan Anand, exudes composure and focus, ready to seize his chance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-its-d-gukesh-vs-ding-liren-in-singapore-showdown/articleshow/115614800.cms",
+         "pubDate" : "Sun, 24 Nov 2024 01:07:31",
+         "title" : "World Chess Championship: It's D Gukesh vs Ding Liren in Singapore showdown"
+      },
+      {
          "description" : "The 2024 FIDE World Championship match between Ding Liren and Gukesh D kicked off this afternoon with the opening ceremony. Packed to the brim with more than 400 guests, the magnificent Capitol Theatre, an architectural and lifestyle gem in the heart of Singapore's civic and cultural district, hosted the festivities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-championship-opening-press-conference",
          "pubDate" : "Sat, 23 Nov 2024 19:00:00",
          "title" : "FIDE World Championship: Opening press conference"
+      },
+      {
+         "description" : "GM Alireza Firouzja won his first Bullet Brawl title and $400 on Saturday after posting a 42-game winning streak that saw him skyrocket to 254 points and eclipse 33-time winner GM Hikaru Nakamura. 196 titled players stood between Firouzja and vict...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-november-23-2024",
+         "pubDate" : "Sat, 23 Nov 2024 17:05:00",
+         "title" : "Firouzja Posts 42-Game Streak, Outpaces Nakamura"
       },
       {
          "description" : "The World Chess Championship 2024 is finally upon us. Svitlana had an in-depth look at the last game, that Gukesh had against Ding Liren in 2024. Then, it was the World Champion who had the upper end. Although the Indian super star is the clear favourite to become the new World Champion, Svitlana and Arne hope for interesting games, and a tough fight!",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "Champions Crowned at 36th FIDE World Youth Championship"
       },
       {
-         "description" : "GM Aravindh Chithambaram&#39;s first win of the tournament in the sixth and penultimate round handed GM Arjun Erigaisi his first loss of the tournament, thus enabling GM Levon Aronian to join Arjun in the lead with four points in the Masters section o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chennai-grand-masters-round-6",
-         "pubDate" : "Sun, 10 Nov 2024 08:30:00",
-         "title" : "Aravindh Beats Arjun, Tense Last Round Beckons"
-      },
-      {
          "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes months after he earned his 2nd IM norm (barely missing a GM norm) at the Zadar GM Norm Tournament in Croatia. Elmi&#160;scored his first IM norm&#160;at the Kragero Resort Chess International in The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist-2",
          "pubDate" : "Tue, 05 Nov 2024 14:00:00",
          "title" : "Mate in Two Solutions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/114967427.cms\" />Indian chess prodigy Arjun Erigaisi, after overcoming a challenging year marked by near misses in the Candidates tournament, has emerged stronger and more resilient. He attributes his newfound mental fortitude to a shift in perspective, prioritizing enjoyment and self-improvement over outcome-driven pressure.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-learnt-to-detach-myself-from-results-arjun-erigaisi/articleshow/114967427.cms",
-         "pubDate" : "Tue, 05 Nov 2024 05:21:08",
-         "title" : "I have learnt to detach myself from results: Arjun Erigaisi"
       },
       {
          "description" : " The Shymkent FIDE Women's Grand Prix takes place Tue 29th Oct to Sat 9th Nov 2024. Players: Aleksandra Goryachkina, Bibisara Assaubayeva, Humpy Koneru, Stavroula Tsolakidou, Zhongyi T`an, Deshmukh Divya, Batkhuyag Munguntuul, Kateryna Lagno, Nurgyul Salimova and Elisabeth Paehtz.",
