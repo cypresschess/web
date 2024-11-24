@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 FIDE World Championship match between Ding Liren and Gukesh D kicked off this afternoon with the opening ceremony. Packed to the brim with more than 400 guests, the magnificent Capitol Theatre, an architectural and lifestyle gem in the heart of Singapore's civic and cultural district, hosted the festivities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-draws-white-in-the-first-game",
+         "pubDate" : "Sat, 23 Nov 2024 22:10:00",
+         "title" : "Gukesh draws White in the first game"
+      },
+      {
          "description" : "\"We are going to give our best and see what happens\". This afternoon's fantastic chess experience in Singapore began with the first official press conference with the World Champion Ding Liren and the challenger Gukesh D, moderated by one of the event's official commentators and master of ceremonies, GM Maurice Ashley. The panel also featured Arkady Dvorkovich, FIDE President and GM Kevin Goh Wei Ming, CEO of the Singapore Chess Federation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,6 +82,14 @@ news_feed (
          "title" : "World Chess Championship 2024: D Gukesh vs Ding Liren - All you need to know"
       },
       {
+         "description" : "Ding Liren noted he was at peace and 'with a lot of energy' as he prepared to take on the youngest ever challenger to the World Championship crown.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42562485/best-world-decade-d-gukesh-not-fooled-ding-liren-poor-form-ahead-fide-world-chess-championship-2024?device=featurephone",
+         "pubDate" : "Sat, 23 Nov 2024 11:52:43",
+         "title" : "'One of the best in the world for a decade' - Gukesh not fooled by Ding's poor form ahead of World Chess Championship"
+      },
+      {
          "description" : " The FIDE World Chess Championship takes place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Play is 3 days on, one off and starts at 17:00 local time 09:00GMT. Defending champion is 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April last year. 18 year old Gukesh Dommaraju is his challenger after winning the Candidates tournament earlier in the year. Two shadows overhang the match, World number one Magnus Carlsen gave up the title last year and is still probably (but not definitely) the best classical player and is absolutely the dominant rapid and blitz player now. No one player can be bigger than the game, and life goes on, this period feels similar to that betw",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -96,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/strongest-chess-tournament-in-u-s-history",
          "pubDate" : "Sat, 23 Nov 2024 11:00:00",
          "title" : "Strongest chess tournament in U.S. history"
+      },
+      {
+         "description" : "Meet most important person in D Gukesh's life other than his parents, his second Grzegorz Gajewski.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42560071/how-vishy-anand-created-d-gukesh-grzegorz-gajewski-team-shaken-chess-world?device=featurephone",
+         "pubDate" : "Sat, 23 Nov 2024 08:38:43",
+         "title" : "'Love at first sight' - How Anand created the Gukesh-Gajewski team that's shaken the chess world"
       },
       {
          "description" : "GM Gukesh Dommaraju will have the white pieces against GM Ding Liren for Monday&#39;s game one of the 2024 FIDE World Championship after the opening ceremony concluded in the Capitol Theatre in Singapore. At an earlier press conference Ding, who&#39;s aga...",
