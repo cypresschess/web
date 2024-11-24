@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship Match between Dommaraju Gukesh and Ding Liren starts tomorrow in Singapore. Ding Liren defends the World Chess Champion title, and 18-year-old Gukesh D is the youngest challenger in history. The Match will be played from 25 November to 12 December, with 14 games. The player who scores 7.5 points or more wins the Match. If the score is equal after 14 games, the winner will be decided by a tiebreak which will be played on 13 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/world-chess-championship-2024-starts-in-singapore/",
+         "pubDate" : "Sun, 24 Nov 2024 14:08:51",
+         "title" : "World Chess Championship 2024 starts in Singapore"
+      },
+      {
          "description" : "Just in time for the great event, a new chess puzzle game, inspired by the incredibly popular 'Wordle', is being released. It was developed by a young lad from Singapore, a problem expert, together with a member of the ChessBase family. Today we will show you how it works, on Monday, November 25, you will get a daily puzzle to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://www.europechess.org/europe-echecs-clinches-european-corporate-chess-championship-2024/",
          "pubDate" : "Sun, 24 Nov 2024 09:10:24",
          "title" : "Europe Echecs clinches European Corporate Chess Championship 2024"
+      },
+      {
+         "description" : "Singapore is hosting the ever world championship being contested between two Asian players.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42578834/gukesh-ding-chess-world-championship-singapore-calm-crown?device=featurephone",
+         "pubDate" : "Sun, 24 Nov 2024 07:02:54",
+         "title" : "Gukesh vs Ding: Chess crown on the line, all serene in Singapore"
+      },
+      {
+         "description" : "GM Ding Liren said at the 2024 FIDE World Championship opening press conference he&#39;d been preparing for just three weeks. A slip of the tongue? No! In an exclusive interview with FM Mike Klein the reigning world champion confirmed he meant it, tho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-liren-rapport-interview",
+         "pubDate" : "Sun, 24 Nov 2024 07:02:00",
+         "title" : "Ding On Rapport And 3 Weeks Of World Championship Prep"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115614800.cms\" />World Chess Champion Ding Liren expresses confidence and peace ahead of his title defense against 18-year-old Indian prodigy D Gukesh in Singapore. Despite recent setbacks, Ding aims to regain his form, while Gukesh, mentored by Viswanathan Anand, exudes composure and focus, ready to seize his chance.",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "Carlsen meets 3-year-old chess prodigy Anish: 'Amazing to see his level'"
       },
       {
-         "description" : "Six rounds have been played at the European Individual Chess Championship 2024 and the event reached its midway point. GM Aleksandar Indjic (SRB, 2623) heads to tournament's only free day as the sole leader of the event with the score of 5.5 points. Indjic defeated GM Maksim Chigaev (ESP, 2605) yesterday after a very interesting but solid game. The position was equal until Chigaev's mistake 35Bd5? when the Serbian representative gained a significant advantage and stalemated his opponent's pieces in []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/aleksandar-indjic-takes-sole-lead-at-european-individual-chess-championship-2024/",
-         "pubDate" : "Thu, 14 Nov 2024 09:34:48",
-         "title" : "Aleksandar Indjic takes sole lead at European Individual Chess Championship 2024"
-      },
-      {
          "description" : "Reading about the latest and greatest new features in ChessBase is exciting, but if you can barely use the basics, then it can also be frustrating. But worry not! You can learn them all in under 20 minutes, and even how to customize the work space, in this crystal clear video tutorial.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3302",
          "pubDate" : "Mon, 11 Nov 2024 13:22:04",
          "title" : "Gala in Barcelona celebrates 100th anniversary of Catalan Chess Federation"
-      },
-      {
-         "description" : "GM Aravindh Chithambaram emerged as the winner of the 2024 Chennai Grand Masters&#38;nbsp;after tying for first place with GMs Levon Aronian and Arjun Erigaisi and defeating Aronian in the final of the tiebreak with a 2-0 score. The format of the thre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aravindh-wins-2024-chennai-grand-masters",
-         "pubDate" : "Mon, 11 Nov 2024 09:42:00",
-         "title" : "Aravindh Wins Chennai Grand Masters Through Tiebreak"
       },
       {
          "description" : "The latest version of the standard chess study program has received a major update. It now allows you to evaluate your opponents, study their repertoire, their strengths and weaknesses, all at a click of the mouse. It draws its conclusions by replaying all their games - it has access to many billions of online games. Head programmer Matthias Wuellenweber has written about the new program in the latest issue of ChessBase Magazine. Check out the details and decide whether you can afford not to have the program.",
@@ -1384,14 +1392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3287",
          "pubDate" : "Sun, 03 Nov 2024 17:25:02",
          "title" : "Goryachkina takes sole lead as fierce battles mark halfway point of WGP Shymkent"
-      },
-      {
-         "description" : "I've been posting about the series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), for so long -- 15 years next March -- that I can barely remember all the different bits and pieces of info behind each post. Consider the following item. <P> Titled 'Piggybanx 1/1 Chess Piece Matte Variation Moneky D. Luffy', it sold for 'US $2,000.00 or Best Offer'. It was higher in the list of sold items than another chess item that sold for $1826 after 35 bids, so we can accept that the real price was higher than that. <P> 'Piggybanx'. Where have we seen that before on this blog? It turns out that I featured another it",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/more-piggybanx-chess.html",
-         "pubDate" : "Sun, 03 Nov 2024 16:05:00",
-         "title" : "More Piggybanx Chess"
       }
    ]
 }
