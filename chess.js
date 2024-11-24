@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 16 videos lasting up to twenty minutes each, the famed coach and former world-class player Ivan Sokolov takes the viewer on a journey into the depths of King's Indian middlegame strategies. A review by Stefan Liebig.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-kings-indian-review",
+         "pubDate" : "Sun, 24 Nov 2024 18:45:00",
+         "title" : "Ivan Sokolov explains how to handle the King's Indian successfully"
+      },
+      {
          "description" : "The World Chess Championship Match between Dommaraju Gukesh and Ding Liren starts tomorrow in Singapore. Ding Liren defends the World Chess Champion title, and 18-year-old Gukesh D is the youngest challenger in history. The Match will be played from 25 November to 12 December, with 14 games. The player who scores 7.5 points or more wins the Match. If the score is equal after 14 games, the winner will be decided by a tiebreak which will be played on 13 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,20 +26,28 @@ news_feed (
          "title" : "CheckMatle - the World Championship game"
       },
       {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju begins on Monday, November 25, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Gukesh will have t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
+         "pubDate" : "Sun, 24 Nov 2024 10:02:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 1"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju goes into the 2024 FIDE World Championship against GM Ding Liren never having beaten the World Champion in classical chess, but in an exclusive interview with FM Mike Klein he talks about following in the footsteps of 11th Worl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-bobby-fischer-interview",
+         "pubDate" : "Sun, 24 Nov 2024 09:30:00",
+         "title" : "Gukesh: 'Huge Honor To Be In The Same Sentence As Bobby Fischer'"
+      },
+      {
          "description" : "The 2024 European Corporate Chess Championship concluded yesterday in Asnieres sur Seine, Paris, France. The Closing ceremony of the event took place yesterday evening in the City venue of Asnieres sur Seine with the attendance of the Mayor of Asnieres Mr. Manuel Aeschlimann, Deputy Mayor of Asnieres Mr. Frederic Sitbon, ECU Secretary General Mr. Theodoros Tsorbatzoglou, Chairman of the ECU Social Commission Mr. Franck Droin, Vice President of the French Chess Federation Mrs. Laurie Delorme, Tournament Director Mr. Jean-Claude Moingt, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/europe-echecs-clinches-european-corporate-chess-championship-2024/",
          "pubDate" : "Sun, 24 Nov 2024 09:10:24",
          "title" : "Europe Echecs clinches European Corporate Chess Championship 2024"
-      },
-      {
-         "description" : "Singapore is hosting the ever world championship being contested between two Asian players.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42578834/gukesh-ding-chess-world-championship-singapore-calm-crown?device=featurephone",
-         "pubDate" : "Sun, 24 Nov 2024 07:02:54",
-         "title" : "Gukesh vs Ding: Chess crown on the line, all serene in Singapore"
       },
       {
          "description" : "GM Ding Liren said at the 2024 FIDE World Championship opening press conference he&#39;d been preparing for just three weeks. A slip of the tongue? No! In an exclusive interview with FM Mike Klein the reigning world champion confirmed he meant it, tho...",
@@ -1002,14 +1018,6 @@ news_feed (
          "title" : "Brewington Hardaway is now a Chess Grandmaster!"
       },
       {
-         "description" : "GM Maurice Ashley is establishing a new initiative aimed at nurturing the talents of young chess players from underserved communities in the United States. Ashley has made his move to address the persistent underrepresentation of African America...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maurice-ashley-establishes-new-fellowship-to-nurture-chess-talents",
-         "pubDate" : "Tue, 12 Nov 2024 07:39:00",
-         "title" : "Maurice Ashley Establishes Groundbreaking Chess Initiative, Pledges $20,000"
-      },
-      {
          "description" : "This week's puzzles again come from the 2024 U.S. Women's Championship, with a focus on the second- and third-place finishers: IMs Begim Tokhirjonova and Alice Lee (respectively). All coverage from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/",
          "pubDate" : "Mon, 11 Nov 2024 23:30:00",
          "title" : "Maurice Ashley's new chess initiative announced!"
-      },
-      {
-         "description" : "SRM clinched first place in Division I of the 2024 Collegiate Chess League (CCL) Fall Season in the last week of the regular season. In Division II, UCLA defeated Illinois with a round to spare. SRM&#39;s top three boards, IM A Ra Harikrishnan, IM S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-srm-ucla",
-         "pubDate" : "Mon, 11 Nov 2024 15:43:00",
-         "title" : "SRM Leaps Back Into First, UCLA Defeats Illinois"
       },
       {
          "description" : "",
@@ -1376,22 +1376,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/",
          "pubDate" : "Mon, 04 Nov 2024 00:48:08",
          "title" : "Glenn Umstead, \"The Chess Artist\" passes away"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3288",
-         "pubDate" : "Sun, 03 Nov 2024 20:05:22",
-         "title" : "FIDE Book Awards 2024 - Call for nominations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3287",
-         "pubDate" : "Sun, 03 Nov 2024 17:25:02",
-         "title" : "Goryachkina takes sole lead as fierce battles mark halfway point of WGP Shymkent"
       }
    ]
 }
