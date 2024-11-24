@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Chess Championship: It's D Gukesh vs Ding Liren in Singapore showdown"
       },
       {
+         "description" : "Saint Louis and Missouri defeated critical rivals in the Semifinals of the 2024 Collegiate Chess League (CCL) Fall Season on Saturday. In a close match, SLU overcame SRM with a well-rounded performance by their entire team. Missouri&#39;s board four...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-sf-slu-mizzou",
+         "pubDate" : "Sat, 23 Nov 2024 22:13:14",
+         "title" : "Saint Louis Prevails vs. SRM, Will Face Missouri in Final"
+      },
+      {
          "description" : "The 2024 FIDE World Championship match between Ding Liren and Gukesh D kicked off this afternoon with the opening ceremony. Packed to the brim with more than 400 guests, the magnificent Capitol Theatre, an architectural and lifestyle gem in the heart of Singapore's civic and cultural district, hosted the festivities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -370,7 +378,7 @@ news_feed (
          "title" : "Sam Shankland Goes Down at the 2017 U.S. Champs! | Grandmaster's Choice - GM Varuzhan Akobian"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> In the mind of all you ELO - tistical players 2024.11.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IN1emf4F2-Q.jpg?itok=BSM18bQ9\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> 2024.11.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IN1emf4F2-Q.jpg?itok=BSM18bQ9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/grandmaster-psychology-gm-denes-boros",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-18-new-dimensions-in-study-and-preparation",
          "pubDate" : "Mon, 11 Nov 2024 08:00:20",
          "title" : "ChessBase 18: New dimensions in study and preparation"
-      },
-      {
-         "description" : "Kyla Zhao brings her own experiences to life in her new novel May The Best Player Win, delving into gender inequality and stereotypes, captivating readers within and beyond the chess community. &#38;ldquo;I just want to remind people that there are ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kyla-zhao-may-the-best-player-win",
-         "pubDate" : "Mon, 11 Nov 2024 05:52:22",
-         "title" : "Forbes Honoree's 'Game-Changing' Chess Novel Tackling Gender Bias Gains Acclaim"
       },
       {
          "description" : "",
