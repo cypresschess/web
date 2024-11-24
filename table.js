@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2024-11-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202411233782 target='_blank'>ADULTS ONLY NOV 23RD SATURDAY SWISS</a>",
+"HOUSTON","2024-11-23","9","<a href=http://www.uschess.org/msa/XtblMain.php?202411233682 target='_blank'>CHESSPANDA11232024SATURDAY</a>",
+"CYPRESS","2024-11-22","23","<a href=http://www.uschess.org/msa/XtblMain.php?202411223722 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2024-11-22","48","<a href=http://www.uschess.org/msa/XtblMain.php?202411223022 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-11-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202411222952 target='_blank'>FBCC TURKEY OPEN</a>",
 "SPRING","2024-11-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202411181762 target='_blank'>TOURN</a>",
 "HOUSTON","2024-11-16","10","<a href=http://www.uschess.org/msa/XtblMain.php?202411168642 target='_blank'>NOV. 16TH  SATURDAY SWISS AT NOON</a>",
 "HOUSTON","2024-11-16","11","<a href=http://www.uschess.org/msa/XtblMain.php?202411168542 target='_blank'>CHESSPANDA11162024SATURDAY</a>",
@@ -194,9 +199,4 @@ jtable([
 "SUGAR LAND","2024-04-19","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404190852 target='_blank'>FBCC 2024 NATIONAL GARLIC DAY OPEN.</a>",
 "HOUSTON","2024-04-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202404149382 target='_blank'>$10 CHEAPO - ADULTS ONLY</a>",
 "HOUSTON","2024-04-13","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404136662 target='_blank'>CHESSPANDA04132024SATURDAY</a>",
-"HOUSTON","2024-04-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202404136442 target='_blank'>APRIL 13TH TROPHY SCHOLASTIC</a>",
-"LEAGUE CITY","2024-04-13","6","<a href=http://www.uschess.org/msa/XtblMain.php?202404130412 target='_blank'>2024 TEXAS DENKER/BARBER/ROCKEFELLER QUALIFIERS</a>",
-"CYPRESS","2024-04-12","30","<a href=http://www.uschess.org/msa/XtblMain.php?202404125942 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-04-12","38","<a href=http://www.uschess.org/msa/XtblMain.php?202404125902 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-04-12","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404125882 target='_blank'>FBCC 2024 STORMY APRIL OPEN</a>",
 ]);
