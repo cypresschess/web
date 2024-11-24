@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just in time for the great event, a new chess puzzle game, inspired by the incredibly popular 'Wordle', is being released. It was developed by a young lad from Singapore, a problem expert, together with a member of the ChessBase family. Today we will show you how it works, on Monday, November 25, you will get a daily puzzle to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmatle-the-world-championship-game",
+         "pubDate" : "Sun, 24 Nov 2024 10:30:00",
+         "title" : "CheckMatle - the World Championship game"
+      },
+      {
+         "description" : "The 2024 European Corporate Chess Championship concluded yesterday in Asnieres sur Seine, Paris, France. The Closing ceremony of the event took place yesterday evening in the City venue of Asnieres sur Seine with the attendance of the Mayor of Asnieres Mr. Manuel Aeschlimann, Deputy Mayor of Asnieres Mr. Frederic Sitbon, ECU Secretary General Mr. Theodoros Tsorbatzoglou, Chairman of the ECU Social Commission Mr. Franck Droin, Vice President of the French Chess Federation Mrs. Laurie Delorme, Tournament Director Mr. Jean-Claude Moingt, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/europe-echecs-clinches-european-corporate-chess-championship-2024/",
+         "pubDate" : "Sun, 24 Nov 2024 09:10:24",
+         "title" : "Europe Echecs clinches European Corporate Chess Championship 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115614800.cms\" />World Chess Champion Ding Liren expresses confidence and peace ahead of his title defense against 18-year-old Indian prodigy D Gukesh in Singapore. Despite recent setbacks, Ding aims to regain his form, while Gukesh, mentored by Viswanathan Anand, exudes composure and focus, ready to seize his chance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,11 +26,11 @@ news_feed (
          "title" : "World Chess Championship: It's D Gukesh vs Ding Liren in Singapore showdown"
       },
       {
-         "description" : "Saint Louis and Missouri defeated critical rivals in the Semifinals of the 2024 Collegiate Chess League (CCL) Fall Season on Saturday. In a close match, SLU overcame SRM with a well-rounded performance by their entire team. Missouri&#39;s board four...",
+         "description" : "Saint Louis and Missouri defeated critical rivals in the Semifinals of the 2024 Collegiate Chess League (CCL) Fall Season on Saturday. In a close match, SLU overcame SRM with a well-rounded performance by their entire team. Missouri&#39;s board-four...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-sf-slu-mizzou",
-         "pubDate" : "Sat, 23 Nov 2024 22:13:14",
+         "pubDate" : "Sat, 23 Nov 2024 22:13:00",
          "title" : "Saint Louis Prevails vs. SRM, Will Face Missouri in Final"
       },
       {
@@ -970,14 +986,6 @@ news_feed (
          "title" : "Brewington Hardaway is now a Chess Grandmaster!"
       },
       {
-         "description" : "Five rounds have been played at the European Individual Chess Championship 2024 in Petrovac, Montenegro, and no player remained perfect in the tournament. Four players tie for the top scoring 4.5 points: GM Frederik Svane (GER, 2654), GM Maksim Chigaev (ESP, 2605), GM Ivan Cheparinov (BUL, 2632) and GM Aleksandar Indjic (SRB, 2623). The co-leaders from the previous round GM Maksim Chigaev (ESP, 2605) and GM Frederik Svane (GER, 2654) drew against each-other in relatively short game which concluded after []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/five-rounds-played-at-european-individual-chess-championship-2024/",
-         "pubDate" : "Tue, 12 Nov 2024 20:55:37",
-         "title" : "Five rounds played at European Individual Chess Championship 2024"
-      },
-      {
          "description" : "GM Maurice Ashley is establishing a new initiative aimed at nurturing the talents of young chess players from underserved communities in the United States. Ashley has made his move to address the persistent underrepresentation of African America...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1288,6 +1296,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3292",
          "pubDate" : "Tue, 05 Nov 2024 19:21:56",
          "title" : "WGP Shymkent Round 6: Goryachkina extends her winning streak"
+      },
+      {
+         "description" : "Today is election day in the USA. As with past elections, let's go slightly off-topic to immortalize the day. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok05.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Donald Trump and Kamala Harris play chess in the Oval Office'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> For previous posts in the same direction, see:- <UL> <LI> 2016-11-08: <A HREF=\"https://chessforallages.blogspot.com/2016/11/election-special.html\">Election Special</A> <LI> 2022-11-08: <A HREF=\"https://chessforallages.blogspot.com/2022/11/election-special-2022.html\">Election Special 2022</A> </UL> <P> While some pundits are calling the Presidential rac",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/election-special-2024.html",
+         "pubDate" : "Tue, 05 Nov 2024 16:21:00",
+         "title" : "Election Special 2024"
       },
       {
          "description" : "",
