@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115640661.cms\" />The upcoming World Chess Championship will see a unique dynamic as India's Gukesh, known for his computer-like precision, faces China's Ding Liren, who has shown vulnerability under pressure. Experts believe the early games will be crucial for both players. While Gukesh has been in top form, Ding's experience and ability to bounce back cannot be discounted.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-human-ding-liren-must-unsettle-brilliantly-wired-d-gukesh-to-retain-world-chess-crown/articleshow/115640661.cms",
+         "pubDate" : "Mon, 25 Nov 2024 01:49:31",
+         "title" : "Human Ding Liren must unsettle brilliantly-wired D Gukesh to retain World chess crown"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-silent-deadly-moves-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-silent-deadly-moves-gm-var-akobian",
+         "pubDate" : "Mon, 25 Nov 2024 01:17:22",
+         "title" : "Tactics and Strategy: Silent But Deadly Moves - GM Var Akobian"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ivan-sokolov-kings-indian-review",
          "pubDate" : "Sun, 24 Nov 2024 18:45:00",
          "title" : "Ivan Sokolov explains how to handle the King's Indian successfully"
+      },
+      {
+         "description" : "Missouri triumphed vs. Saint Louis in the Final of the 2024 Collegiate Chess League (CCL) Fall Season on Sunday. GM Mikhail Antipov led Mizzou to their second CCL team title with a score of 3.5/4.&#38;nbsp; UT Rio Grande Valley defeated SRM 11-5 to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-f-utrgv-mizzou",
+         "pubDate" : "Sun, 24 Nov 2024 18:28:00",
+         "title" : "Missouri Wins 2nd CCL Championship, UT Rio Grande Valley Takes 3rd"
       },
       {
          "description" : "The World Chess Championship Match between Dommaraju Gukesh and Ding Liren starts tomorrow in Singapore. Ding Liren defends the World Chess Champion title, and 18-year-old Gukesh D is the youngest challenger in history. The Match will be played from 25 November to 12 December, with 14 games. The player who scores 7.5 points or more wins the Match. If the score is equal after 14 games, the winner will be decided by a tiebreak which will be played on 13 []",
@@ -472,14 +496,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/excuse-me-chess",
          "pubDate" : "Wed, 20 Nov 2024 22:13:32",
          "title" : "Excuse Me?! #chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis Masters Chess Tournament to Showcase<br /><br /> \tTop U.S. and Global Talent with $100,000 Prize Fund</strong><br /><br /> \t<br /><br /> \tSAINT LOUIS, November 20, 2024 - The Saint Louis Chess Club is proud to announce the inaugural 2024 Saint Louis Masters, a premier chess event that will bring together up to 60 of the world's top players in a high-stakes tournament with a prize fund of $100,000. The event will take place from December 3-7, 2024, at the Chase Park Plaza Hotel in Saint Louis, Missouri. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/news/2024-Saint-Louis-Masters-Press",
-         "pubDate" : "Wed, 20 Nov 2024 22:12:53",
-         "title" : "Saint Louis Masters Chess Tournament to Showcase Top U.S. and Global Talent with $100,000 Prize Fund"
       },
       {
          "description" : "The European Corporate Chess Championship 2024, organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union, is taking place from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 []",
@@ -994,14 +1010,6 @@ news_feed (
          "title" : "Ding Liren ahead of his World Championship showdown with Gukesh: \"A match is a match\""
       },
       {
-         "description" : "GM Hikaru Nakamura has done it again, winning both tournaments of Titled Tuesday on November 12. It is his eighth time achieving the feat of double victory since the second weekly event was added in February 2022&#38;mdash;no one else has done it more...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-12-2024",
-         "pubDate" : "Wed, 13 Nov 2024 08:37:02",
-         "title" : "How Sweep It Is, As Nakamura Takes Double Victory"
-      },
-      {
          "description" : "This week's Wednesday Workout continues our coverage of some deeper tactical insights from the 2024 U.S. Championship and U.S. Women's Championship. All coverage can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1210,14 +1218,6 @@ news_feed (
          "title" : "Certificate of SNA seminar held in Patna on 19 & 20 October 2024"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115069332.cms\" />Indian chess grandmaster D Harika, currently ranked No. 2 in India, talks about the challenges and triumphs of motherhood and her chess career. Despite the difficulties of balancing both, Harika emphasizes the importance of her mission to represent India and inspire young girls to pursue chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dealing-with-mom-guilt-harika-battles-on/articleshow/115069332.cms",
-         "pubDate" : "Fri, 08 Nov 2024 03:29:05",
-         "title" : "Dealing with 'mom guilt', Harika battles on"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1368,22 +1368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3289",
          "pubDate" : "Mon, 04 Nov 2024 08:23:50",
          "title" : "World Youth Championship: Leaders emerge at the halfway mark"
-      },
-      {
-         "description" : "After a second-round loss, Mrittika Mallick bounced back impressively with four consecutive wins, keeping her medal hopes alive. In her latest game, she played the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-6-report-of-world-youth-chess-championship-2024-in-brazil-mrittika-mallick-is-trailing-the-leader-by-half-point-in-girls-under-16-category/",
-         "pubDate" : "Mon, 04 Nov 2024 04:21:26",
-         "title" : "Round 6 report of World Youth Chess Championship 2024 in Brazil :Mrittika Mallick is trailing the leader by Half point in Girls Under 16 category."
-      },
-      {
-         "description" : " National Master Glenn Umstead was one of the most dedicated chess enthusiasts on the East Coast. &#8220;Supercoach&#8221; passed away on October 24, 2024, at his home in Atlantic City, New Jersey, and was laid to rest on November 2nd. Glenn had suffered a stroke in 2022 and was reportedly not feeling well in the weeks The post <a href=\"https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/\">Glenn Umstead, &#8220;The Chess Artist&#8221; passes away</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/03/glenn-umstead-the-chess-artist-passes-away/",
-         "pubDate" : "Mon, 04 Nov 2024 00:48:08",
-         "title" : "Glenn Umstead, \"The Chess Artist\" passes away"
       }
    ]
 }
