@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-liren-wins-game-one-of-his-title-defence-against-gukesh",
+         "pubDate" : "Mon, 25 Nov 2024 15:24:00",
+         "title" : "Ding Liren wins game one of his title defence against Gukesh - 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3320",
+         "pubDate" : "Mon, 25 Nov 2024 15:23:08",
+         "title" : "Ding Liren takes down Gukesh in the first game of title match"
+      },
+      {
          "description" : "Today, 25 November 2024, 17.00 local time (10.00 CET, 4.00 EST) the World Championship Match between title defender Ding Liren from China and challenger Gukesh D from India starts in Singapore. The match is over 14 games, the winner is the first player to reach 7.5 points. If the match is tied after 14 games, a tiebreak will follow. Gukesh starts with White. Follow the first game of the match live with commentary by David Howell and Jovanka Houska and ChessBase India.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "1800 or Higher: Silent Moves - GM Var Akobian"
       },
       {
+         "description" : "Would you rather play chess online or over the board? You don&#39;t have to choose one or the other anymore! We&#39;re excited to announce that we have partnered with ChessUp for the official launch of the new ChessUp 2, the smart chess set that now conne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessup-2-special-discount",
+         "pubDate" : "Mon, 25 Nov 2024 06:20:44",
+         "title" : "Play On Chess.com Using A Physical Board: Get Your ChessUp 2 Smart Board With A Special Holiday Discount"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,6 +72,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-silent-deadly-moves-gm-var-akobian",
          "pubDate" : "Mon, 25 Nov 2024 01:17:22",
          "title" : "Tactics and Strategy: Silent But Deadly Moves - GM Var Akobian"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed beginning at noon CST on Wednesday, November 27 for Thanksgiving. Offices will reopen at 8 a.m. CST on Monday, December 2. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. Thank you for your understanding, and happy holidays. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-noon-nov-27-through-december-1",
+         "pubDate" : "Mon, 25 Nov 2024 00:00:00",
+         "title" : "US Chess Offices Closed Noon Nov 27 through December 1"
+      },
+      {
+         "description" : "Follow along for live updates from match 1 of the Chess World Championship between Gukesh vs Ding Liren right here",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42588014/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-1?device=featurephone",
+         "pubDate" : "Sun, 24 Nov 2024 22:30:37",
+         "title" : "LIVE: Gukesh vs Ding Liren, match 1"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
@@ -1018,14 +1058,6 @@ news_feed (
          "title" : "Win Diamond Memberships In The Fall 2024 Collegiate Chess League Predictions Challenge"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov is the sole leader of the 2024 Tata Steel Chess India Open Rapid after beating GMs Vincent Keymer and Praggnanandhaa Rameshbabu on day one to score 2.5/3 in Kolkata. GMs Magnus Carlsen, Wesley So, and Narayanan S.L. are ju...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-1",
-         "pubDate" : "Wed, 13 Nov 2024 09:49:00",
-         "title" : "Abdusattorov Leads Carlsen, So, Narayanan As Tata Steel Chess India Begins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1306,14 +1338,6 @@ news_feed (
          "title" : "Certificates of SNA Seminar held in Jalgaon(Batch 1 & 2) on 19 & 20 October 2024"
       },
       {
-         "description" : "This week's Wednesday Workout highlights some deeper tactical insights from the 2024 U.S. Championship and U.S. Women's Championship. All coverage of these events can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-us-chess-champs-pt-1",
-         "pubDate" : "Wed, 06 Nov 2024 00:00:00",
-         "title" : "Wednesday Workout: U.S. Chess Champs, Pt. 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1368,14 +1392,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/shymkent-fide-womens-grand-prix-2024",
          "pubDate" : "Mon, 4 Nov 2024 21:53:00",
          "title" : "Shymkent FIDE Women's Grand Prix 2024 - Games and Results"
-      },
-      {
-         "description" : "Over the last six months my blogging has dropped to minimum activity -- five posts a month on this blog, one post a month on my chess960 blog, and nothing at all on my World Championship blog (WCCB). I would like to improve that. <P> Starting in April, external factors having nothing to do with chess took over my free time, but they have now subsided considerably. It's time to increase the frequency of posts. <P> Recent posts on this current blog are a continuation of ongoing series that I've been doing for many years. Two shorter term series were interrupted and could be restarted:- <UL> <LI> 2024-04-22: <A HREF=\"https://chessforallages.blogspot.com/2024/04/vikings-as-ai-stereotypes.html\">V",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/where-was-i.html",
-         "pubDate" : "Mon, 04 Nov 2024 16:06:00",
-         "title" : "Where Was I?"
       }
    ]
 }
