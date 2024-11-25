@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The number of opinions and evaluations of the two world championship title fighters has been legion, but have you ever wondered what world number one, Magnus Carlsen, really thinks of the play of both players? In a set of two short videos, he sits down with GM David Howell and rates each player on every aspect of play, from tactics and calculation, to opening preparation. Fascinating stuff!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-rates-the-play-of-gukesh-and-ding",
+         "pubDate" : "Mon, 25 Nov 2024 08:55:00",
+         "title" : "Magnus Carlsen rates the play of Gukesh and Ding"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-silent-moves-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1800-or-higher-silent-moves-gm-var-akobian",
+         "pubDate" : "Mon, 25 Nov 2024 07:17:33",
+         "title" : "1800 or Higher: Silent Moves - GM Var Akobian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3319",
+         "pubDate" : "Mon, 25 Nov 2024 05:11:41",
+         "title" : "Beyond the board: A virtual exhibition by FIDE and Google"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115640661.cms\" />The upcoming World Chess Championship will see a unique dynamic as India's Gukesh, known for his computer-like precision, faces China's Ding Liren, who has shown vulnerability under pressure. Experts believe the early games will be crucial for both players. While Gukesh has been in top form, Ding's experience and ability to bounce back cannot be discounted.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian",
          "pubDate" : "Sun, 24 Nov 2024 22:17:18",
          "title" : "Tactics and Strategy | Puzzler's Paradise / Double Exclam - GM Var Akobian"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju begins on Monday, November 25, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Gukesh will have t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
+         "pubDate" : "Sun, 24 Nov 2024 19:02:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 1"
       },
       {
          "description" : "In 16 videos lasting up to twenty minutes each, the famed coach and former world-class player Ivan Sokolov takes the viewer on a journey into the depths of King's Indian middlegame strategies. A review by Stefan Liebig.",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/checkmatle-the-world-championship-game",
          "pubDate" : "Sun, 24 Nov 2024 10:30:00",
          "title" : "CheckMatle - the World Championship game"
-      },
-      {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju begins on Monday, November 25, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Gukesh will have t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
-         "pubDate" : "Sun, 24 Nov 2024 10:02:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 1"
       },
       {
          "description" : "GM Gukesh Dommaraju goes into the 2024 FIDE World Championship against GM Ding Liren never having beaten the World Champion in classical chess, but in an exclusive interview with FM Mike Klein he talks about following in the footsteps of 11th Worl...",
@@ -488,14 +512,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grandmaster-psychology-gm-denes-boros-chess-chessanalysis",
          "pubDate" : "Thu, 21 Nov 2024 01:13:46",
          "title" : "Grandmaster Psychology with GM Denes Boros | #chess #chessanalysis"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> twitch.tv/stlchessclub #shorts </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/excuse-me-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_v_tNmHOd6A.jpg?itok=rgSalzpH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/excuse-me-chess",
-         "pubDate" : "Wed, 20 Nov 2024 22:13:32",
-         "title" : "Excuse Me?! #chess"
       },
       {
          "description" : "The European Corporate Chess Championship 2024, organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union, is taking place from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 []",
@@ -1360,14 +1376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3290",
          "pubDate" : "Mon, 04 Nov 2024 11:25:40",
          "title" : "FIDE World Cadet & Youth Rapid and Blitz Championship 2025: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3289",
-         "pubDate" : "Mon, 04 Nov 2024 08:23:50",
-         "title" : "World Youth Championship: Leaders emerge at the halfway mark"
       }
    ]
 }
