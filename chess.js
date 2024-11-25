@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship in Singapore began with a bang as reigning champion Ding Liren delivered a stunning victory over 18-year-old challenger Gukesh D in game 1. Despite entering the match as an underdog, Ding's bold strategy and strategic brilliance with the black pieces earned him an early lead. While the young Indian prodigy struggled with nerves, his resilience and steady rise suggest he is far from out of contention. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g1",
+         "pubDate" : "Mon, 25 Nov 2024 18:00:00",
+         "title" : "World Championship Game 1: A shocking start, as Ding takes bold approach to win with black"
+      },
+      {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "Ding Liren takes down Gukesh in the first game of title match"
       },
       {
-         "description" : "Today, 25 November 2024, 17.00 local time (10.00 CET, 4.00 EST) the World Championship Match between title defender Ding Liren from China and challenger Gukesh D from India starts in Singapore. The match is over 14 games, the winner is the first player to reach 7.5 points. If the match is tied after 14 games, a tiebreak will follow. Gukesh starts with White. Follow the first game of the match live with commentary by David Howell and Jovanka Houska and ChessBase India.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Mon, 25 Nov 2024 09:30:00",
-         "title" : "World Championship Match Ding Liren vs Gukesh D, Game 1 - live!"
+         "description" : "Ding's middle-game was absolutely incredible, as move-by-move, he tilted the scales in his favour.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42603684/chess-world-championship-ding-liren-champion-craft-gukesh-answers-game-1?device=featurephone",
+         "pubDate" : "Mon, 25 Nov 2024 12:29:38",
+         "title" : "Ding's champion craft leaves Gukesh without answers in game 1 of World Championship"
       },
       {
          "description" : "The number of opinions and evaluations of the two world championship title fighters has been legion, but have you ever wondered what world number one, Magnus Carlsen, really thinks of the play of both players? In a set of two short videos, he sits down with GM David Howell and rates each player on every aspect of play, from tactics and calculation, to opening preparation. Fascinating stuff!",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-rates-the-play-of-gukesh-and-ding",
          "pubDate" : "Mon, 25 Nov 2024 08:55:00",
          "title" : "Magnus Carlsen rates the play of Gukesh and Ding"
+      },
+      {
+         "description" : "Ding Liren played a patient game to take the win in game 1. He leads the 14-game match 1-0",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42588014/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-1?device=featurephone",
+         "pubDate" : "Mon, 25 Nov 2024 08:46:06",
+         "title" : "Ding Liren beats Gukesh with commanding display in game 1 of World Championship"
+      },
+      {
+         "description" : "World Champion Ding Liren&#39;s first classical win in 304 days has given him the early lead in the 2024 FIDE World Championship in Singapore. Pre-event favorite GM Gukesh Dommaraju looked in command as Ding played the French Defense and burned up 27 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
+         "pubDate" : "Mon, 25 Nov 2024 08:35:00",
+         "title" : "Ding Stuns Gukesh To Win Game 1 Of 2024 World Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-silent-moves-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
@@ -82,28 +106,12 @@ news_feed (
          "title" : "US Chess Offices Closed Noon Nov 27 through December 1"
       },
       {
-         "description" : "Follow along for live updates from match 1 of the Chess World Championship between Gukesh vs Ding Liren right here",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42588014/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-1?device=featurephone",
-         "pubDate" : "Sun, 24 Nov 2024 22:30:37",
-         "title" : "LIVE: Gukesh vs Ding Liren, match 1"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian",
          "pubDate" : "Sun, 24 Nov 2024 22:17:18",
          "title" : "Tactics and Strategy | Puzzler's Paradise / Double Exclam - GM Var Akobian"
-      },
-      {
-         "description" : "World Champion Ding Liren&#39;s first classical win in 304 days has given him the early lead in the 2024 FIDE World Championship in Singapore. Pre-event favorite GM Gukesh Dommaraju looked in command as Ding played the French Defense and burned up 27 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
-         "pubDate" : "Sun, 24 Nov 2024 19:02:00",
-         "title" : "Ding Stuns Gukesh To Win Game 1 Of 2024 World Championship"
       },
       {
          "description" : "In 16 videos lasting up to twenty minutes each, the famed coach and former world-class player Ivan Sokolov takes the viewer on a journey into the depths of King's Indian middlegame strategies. A review by Stefan Liebig.",
@@ -208,6 +216,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-november-23-2024",
          "pubDate" : "Sat, 23 Nov 2024 17:05:00",
          "title" : "Firouzja Posts 42-Game Streak, Outpaces Nakamura"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3313",
+         "pubDate" : "Sat, 23 Nov 2024 16:53:11",
+         "title" : "Chess stars come to New York for the strongest chess tournament in U.S. history"
       },
       {
          "description" : "The World Chess Championship 2024 is finally upon us. Svitlana had an in-depth look at the last game, that Gukesh had against Ding Liren in 2024. Then, it was the World Champion who had the upper end. Although the Indian super star is the clear favourite to become the new World Champion, Svitlana and Arne hope for interesting games, and a tough fight!",
@@ -474,15 +490,7 @@ news_feed (
          "title" : "World Cadet Championship 2024 reaches midpoint"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3313",
-         "pubDate" : "Thu, 21 Nov 2024 14:53:11",
-         "title" : "Chess stars come to New York for the strongest chess tournament in U.S. history"
-      },
-      {
-         "description" : " The Freestyle Chess Match Carlsen vs. Caruana takes place Wed 20th Nov to Fri 22nd Nov 2024 in Singapore. There was an opening hand and brain event before a two game 90m+30spm match between Magnus Carlsen and Fabiano Caruana in Chess960 which is being rebranded for this series as Freestyle Chess. Carlsen won the first game rather quickly. I have the games for download but not displayed.",
+         "description" : " The Freestyle Chess Match Carlsen vs. Caruana took place Wed 20th Nov to Fri 22nd Nov 2024 in Singapore. There was an opening hand and brain event before a two game 90m+30spm match between Magnus Carlsen and Fabiano Caruana in Chess960 which is being rebranded for this series as Freestyle Chess. Carlsen won the first game rather quickly and the second game was drawn.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-match-carlsen-vs.-caruana-2024",
@@ -1234,7 +1242,7 @@ news_feed (
          "title" : "SNA Seminar & Exam in Rajahmundry , Andhra Pradesh on 30 November & 01 December 2024"
       },
       {
-         "description" : " The 24th European Individual Championship takes place 8th to 20th November 2024. Vladimir Fedoseev is the top seed ahead of Bogdan-Daniel Deac, Jorden Van Foreest, Haik Martirosyan, David Navara, Ivan Saric, Nikita Vitiugov, Shant Sargyan, Jonas Buhl Bjerre, Matthias Bluebaum, Fredrik Svane, Etienne Bacrot, Ruslan Ponomariov etc",
+         "description" : " The 24th European Individual Championship took place 8th to 20th November 2024. Alexander Indjic was the clear winner with 9/11 half a point clear of Daniel Dardha on 8.5pts, Frederik Svane was third ahead of a big group on tie-break all scoring 8 points. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/24th-european-individual-championship-2024",
