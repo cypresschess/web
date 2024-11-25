@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian",
+         "pubDate" : "Sun, 24 Nov 2024 22:17:18",
+         "title" : "Tactics and Strategy | Puzzler's Paradise / Double Exclam - GM Var Akobian"
+      },
+      {
          "description" : "In 16 videos lasting up to twenty minutes each, the famed coach and former world-class player Ivan Sokolov takes the viewer on a journey into the depths of King's Indian middlegame strategies. A review by Stefan Liebig.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.europechess.org/europe-echecs-clinches-european-corporate-chess-championship-2024/",
          "pubDate" : "Sun, 24 Nov 2024 09:10:24",
          "title" : "Europe Echecs clinches European Corporate Chess Championship 2024"
+      },
+      {
+         "description" : "Singapore is hosting the ever world championship being contested between two Asian players.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42578834/gukesh-ding-chess-world-championship-singapore-calm-crown?device=featurephone",
+         "pubDate" : "Sun, 24 Nov 2024 07:02:54",
+         "title" : "Gukesh vs Ding: Chess crown on the line, all serene in Singapore"
       },
       {
          "description" : "GM Ding Liren said at the 2024 FIDE World Championship opening press conference he&#39;d been preparing for just three weeks. A slip of the tongue? No! In an exclusive interview with FM Mike Klein the reigning world champion confirmed he meant it, tho...",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-men-or-destinys-children-how-quirk-of-fate-played-a-role-in-setting-up-ding-vs-gukesh-world-chess-battle/articleshow/115469928.cms",
          "pubDate" : "Wed, 20 Nov 2024 03:21:58",
          "title" : "How quirk of fate played a role in setting up Ding vs Gukesh world chess battle"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Tianqi &quot;Steve&quot; Wang debuts on YouTube as the new chess instructor for Road to 2000. 2024.11.19<br /> Tianqi Wang as White, 2024: A37 English, symmetrical variation<br /> Julian Proleiko as White, ???: E06 Catalan, closed, 5.Nf3<br /> Jun Xie vs Alisa Galliamova, World Championship (Women) (1999): B33 Sicilian, Pelikan, Chelyabinsk variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/win-these-opposite-color-bishop-endgames-road-2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/win-these-opposite-color-bishop-endgames-road-2000-im-tianqi-steve-wang",
-         "pubDate" : "Wed, 20 Nov 2024 01:12:59",
-         "title" : "Win These Opposite-Color Bishop Endgames! | Road to 2000 - IM Tianqi \"Steve\" Wang"
       },
       {
          "description" : "With GM Ding Liren set to defend his title against GM Gukesh Dommaraju beginning on Monday, November 25, this week's Wednesday Workout looks back through our coverage of his 2023 victory over GM Ian Nepomniachtchi. Follow Chess Life Online for daily recaps and coverage of this year's match! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
