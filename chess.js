@@ -58,12 +58,12 @@ news_feed (
          "title" : "Tactics and Strategy | Puzzler's Paradise / Double Exclam - GM Var Akobian"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju begins on Monday, November 25, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Gukesh will have t...",
+         "description" : "World Champion Ding Liren&#39;s first classical win in 304 days has given him the early lead in the 2024 FIDE World Championship in Singapore. Pre-event favorite GM Gukesh Dommaraju looked in command as Ding played the French Defense and burned up 27 ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
          "pubDate" : "Sun, 24 Nov 2024 19:02:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 1"
+         "title" : "Ding Stuns Gukesh To Win Game 1 Of 2024 World Championship"
       },
       {
          "description" : "In 16 videos lasting up to twenty minutes each, the famed coach and former world-class player Ivan Sokolov takes the viewer on a journey into the depths of King's Indian middlegame strategies. A review by Stefan Liebig.",
