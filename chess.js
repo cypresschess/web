@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, 25 November 2024, 17.00 local time (10.00 CET, 4.00 EST) the World Championship Match between title defender Ding Liren from China and challenger Gukesh D from India starts in Singapore. The match is over 14 games, the winner is the first player to reach 7.5 points. If the match is tied after 14 games, a tiebreak will follow. Gukesh starts with White. Follow the first game of the match live with commentary by David Howell and Jovanka Houska and ChessBase India.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Mon, 25 Nov 2024 09:30:00",
+         "title" : "World Championship Match Ding Liren vs Gukesh D, Game 1 - live!"
+      },
+      {
          "description" : "The number of opinions and evaluations of the two world championship title fighters has been legion, but have you ever wondered what world number one, Magnus Carlsen, really thinks of the play of both players? In a set of two short videos, he sits down with GM David Howell and rates each player on every aspect of play, from tactics and calculation, to opening preparation. Fascinating stuff!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,7 +98,7 @@ news_feed (
          "title" : "CheckMatle - the World Championship game"
       },
       {
-         "description" : "GM Gukesh Dommaraju goes into the 2024 FIDE World Championship against GM Ding Liren never having beaten the World Champion in classical chess, but in an exclusive interview with FM Mike Klein he talks about following in the footsteps of 11th Worl...",
+         "description" : "GM Gukesh Dommaraju goes into the 2024 FIDE World Championship against GM Ding Liren never having beaten the world champion in classical chess, but in an exclusive interview with FM Mike Klein he talks about following in the footsteps of 11th Worl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-bobby-fischer-interview",
@@ -1368,14 +1376,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/where-was-i.html",
          "pubDate" : "Mon, 04 Nov 2024 16:06:00",
          "title" : "Where Was I?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3290",
-         "pubDate" : "Mon, 04 Nov 2024 11:25:40",
-         "title" : "FIDE World Cadet & Youth Rapid and Blitz Championship 2025: Registration is open"
       }
    ]
 }
