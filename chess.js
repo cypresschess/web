@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. Game 1 saw Ding upsetting his 18-year-old opponent with the black pieces to take an early lead. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115704462.cms\" />D Gukesh drew his second game against Ding Liren in the World Chess Championship. Gukesh, playing black, recovered from a difficult start. He aims to become the youngest world champion. He is grateful for his second's support. Gukesh represents India. He is focusing on each game. A win would be a significant achievement. He is determined to play well.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hoping-for-many-more-good-days-d-gukesh-after-drawing-second-world-chess-championship-game/articleshow/115704462.cms",
+         "pubDate" : "Tue, 26 Nov 2024 15:53:08",
+         "title" : "'Hoping for many more good days': Gukesh after drawing 2nd game"
+      },
+      {
+         "description" : " The second game of the FIDE World Chess Championship between Ding Liren and Gukesh D was drawn in just 23 moves. \"My basic idea was to play carefully, and I was fine with a draw.\" Ding said. The variation was a Giuoco Pianissimo and Ding tried to fix the queenside and then exploit weaknesses there. This was not the level of deep preparation we saw from, for example, Anand and Gelfand a decade ago, Ding admitted that he was on his own by move 14 and whilst I'm sure Gukesh was sweating for a while, after 20.Ne2?! (20.h4!? is maybe last chance for white to do anything) the game was just equal and a draw was the natural result. Matches are about momentum and confidence, it has been often seen t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-takes-no-risks-at-all-in-drawn-game-two",
+         "pubDate" : "Tue, 26 Nov 2024 15:46:00",
+         "title" : "Ding takes no risks at all in drawn game two - 2"
+      },
+      {
+         "description" : "On Monday, Ding Liren, the reigning world champion, began a match in Singapore to defend the title against the 18-year-old player Gukesh Dommaraju. According to many of the world's best players, and Ding himself, he is the underdog in the match. Never has a chess world championship titleholder seemed as vulnerable. But now Ding is up on the scoreboard after a remarkable win on opening day. This is what the New York Times published before the start of the match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-might-not-be-close",
+         "pubDate" : "Tue, 26 Nov 2024 14:00:00",
+         "title" : "It might not be close"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3322",
+         "pubDate" : "Tue, 26 Nov 2024 13:37:41",
+         "title" : "Gukesh: Today was a good day!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115699654.cms\" />Indian chess prodigy D Gukesh secured a draw against reigning champion Ding Liren in the second game of the World Chess Championship. Playing with black pieces, Gukesh rebounded from his opening game loss. The 18-year-old aims to become the first Indian since Viswanathan Anand to win the title. Liren expressed satisfaction with his performance in the second round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-d-gukesh-holds-ding-liren-to-a-draw-in-second-game/articleshow/115699654.cms",
+         "pubDate" : "Tue, 26 Nov 2024 12:47:24",
+         "title" : "World Championship: D Gukesh holds Ding Liren to a draw"
+      },
+      {
+         "description" : "Following a wild first game, the contenders for the world title played more carefully in Tuesday's second encounter. Out of an Italian Opening, the queens left the board on move 12. The position was still tense, with two rooks and two knights per side. However, Ding Liren, playing white, decided to keep it safe and offered a simplification which was followed by a threefold repetition. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Tue, 26 Nov 2024 09:30:00",
-         "title" : "World Championship: Game 2 - Live!"
+         "title" : "World Championship: A 23-move draw in game 2"
+      },
+      {
+         "description" : "As millions of people eagerly keep an eye on the 2024 FIDE World Championship match between reigning champion GM Ding Liren and 18-year-old Indian challenger GM Gukesh Dommaraju, Chess.com, ChessBase India, Nodwin Gaming, and Samay Raina are thril...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-gukesh-live-broadcast-mumbai",
+         "pubDate" : "Tue, 26 Nov 2024 07:40:43",
+         "title" : "Ding-Gukesh Match, India's Biggest Chess Moment In A Generation, To Be Broadcast Live In Mumbai"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The one, two ULTIMATE combo </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-sara-herman-and-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jpg?itok=aG4M7ktg\" alt=\"\" /></a></div>",
@@ -26,20 +74,20 @@ news_feed (
          "title" : "5 ways to explore chess during 2024 World Chess Championship"
       },
       {
+         "description" : "Call for Nominations2025 US Chess Executive Board ElectionThe US Chess Federation (US Chess) will hold an election in 2025 for four at-large positions on the Executive Board. The top four vote-getters will be elected for a term of four years expiring in 2029.Any current US Chess member who is not a current US Chess employee or designated contractor (as defined in the US Chess bylaws) may be nominated for election to the Executive Board.Nominations must be made by submitting a petition containing the signatures of 50 or more members of US Chess who are either registered or eligible to register to vote, and by paying a $100 filing fee to the US Chess Federation.The members signing the nominati",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/call-nominations-2025-us-chess-executive-board-election",
+         "pubDate" : "Tue, 26 Nov 2024 00:00:00",
+         "title" : "Call for Nominations: 2025 US Chess Executive Board Election "
+      },
+      {
          "description" : "If you are a Gukesh fan, this image illustrates not only his feelings of dismay and disbelief after the opening loss, but yours as well. If you were rooting for Ding, then euphoric cheering and fist pumping are likely yours. Regardless, the lengthy history of the World Championship in chess has seen more than one such that ended in redemption for the early loser. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/opening-losses-and-world-championship-nerves",
          "pubDate" : "Mon, 25 Nov 2024 23:50:00",
          "title" : "Opening losses and World Championship nerves"
-      },
-      {
-         "description" : "Can Gukesh level the scores up against world champion Ding Liren? Find out right here.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
-         "pubDate" : "Mon, 25 Nov 2024 22:30:52",
-         "title" : "LIVE: Gukesh vs Ding in game 2"
       },
       {
          "description" : "The World Chess Championship in Singapore began with a bang as reigning champion Ding Liren delivered a stunning victory over 18-year-old challenger Gukesh D in game 1. Despite entering the match as an underdog, Ding's bold strategy and strategic brilliance with the black pieces earned him an early lead. While the young Indian prodigy struggled with nerves, his resilience and steady rise suggest he is far from out of contention. | Photo: FIDE / Eng Chin An",
@@ -186,14 +234,6 @@ news_feed (
          "title" : "World Chess Championship 2024 starts in Singapore"
       },
       {
-         "description" : "Just in time for the great event, a new chess puzzle game, inspired by the incredibly popular 'Wordle', is being released. It was developed by a young lad from Singapore, a problem expert, together with a member of the ChessBase family. Today we will show you how it works, on Monday, November 25, you will get a daily puzzle to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmatle-the-world-championship-game",
-         "pubDate" : "Sun, 24 Nov 2024 10:30:00",
-         "title" : "CheckMatle - the World Championship game"
-      },
-      {
          "description" : "GM Gukesh Dommaraju goes into the 2024 FIDE World Championship against GM Ding Liren never having beaten the world champion in classical chess, but in an exclusive interview with FM Mike Klein he talks about following in the footsteps of 11th Worl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,22 +282,6 @@ news_feed (
          "title" : "Saint Louis Prevails vs. SRM, Will Face Missouri in Final"
       },
       {
-         "description" : "The 2024 FIDE World Championship match between Ding Liren and Gukesh D kicked off this afternoon with the opening ceremony. Packed to the brim with more than 400 guests, the magnificent Capitol Theatre, an architectural and lifestyle gem in the heart of Singapore's civic and cultural district, hosted the festivities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-draws-white-in-the-first-game",
-         "pubDate" : "Sat, 23 Nov 2024 22:10:00",
-         "title" : "Gukesh draws White in the first game"
-      },
-      {
-         "description" : "\"We are going to give our best and see what happens\". This afternoon's fantastic chess experience in Singapore began with the first official press conference with the World Champion Ding Liren and the challenger Gukesh D, moderated by one of the event's official commentators and master of ceremonies, GM Maurice Ashley. The panel also featured Arkady Dvorkovich, FIDE President and GM Kevin Goh Wei Ming, CEO of the Singapore Chess Federation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-championship-opening-press-conference",
-         "pubDate" : "Sat, 23 Nov 2024 19:00:00",
-         "title" : "FIDE World Championship: Opening press conference"
-      },
-      {
          "description" : "GM Alireza Firouzja won his first Bullet Brawl title and $400 on Saturday after posting a 42-game winning streak that saw him skyrocket to 254 points and eclipse 33-time winner GM Hikaru Nakamura. 196 titled players stood between Firouzja and vict...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -274,28 +298,12 @@ news_feed (
          "title" : "Chess stars come to New York for the strongest chess tournament in U.S. history"
       },
       {
-         "description" : "The World Chess Championship 2024 is finally upon us. Svitlana had an in-depth look at the last game, that Gukesh had against Ding Liren in 2024. Then, it was the World Champion who had the upper end. Although the Indian super star is the clear favourite to become the new World Champion, Svitlana and Arne hope for interesting games, and a tough fight!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-when-ding-liren-won-against-gukesh",
-         "pubDate" : "Sat, 23 Nov 2024 16:00:00",
-         "title" : "Svitlana's Smart Moves - When Ding Liren won against Gukesh"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3318",
          "pubDate" : "Sat, 23 Nov 2024 15:47:08",
          "title" : "2024 FIDE World Championship: Opening press conference"
-      },
-      {
-         "description" : "Dutch chess friend Ardjan Langedijk lived in Central Asia for a while and was fascinated by the landscapes, culture and people there. Now he shares his enthusiasm with others and organises trips to Central Asia, most recently a chess trip to Uzbekistan. Here is his report.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-adventures-in-uzbekistan",
-         "pubDate" : "Sat, 23 Nov 2024 15:00:00",
-         "title" : "Chess adventures in Uzbekistan"
       },
       {
          "description" : "",
@@ -362,14 +370,6 @@ news_feed (
          "title" : "Who will be world king of chess: Ding or Gukesh?"
       },
       {
-         "description" : "Most of the world's top players - including world number one Magnus Carlsen - have confirmed their participation in the World Rapid & Blitz Championship. With a spectacular line-up, a prize fund of nearly $1.5 million, and the electrifying rapid format, this promises to be the most thrilling chess event of the year. The event takes place from December 26-31, 2024. FIDE press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strongest-chess-tournament-in-u-s-history",
-         "pubDate" : "Sat, 23 Nov 2024 11:00:00",
-         "title" : "Strongest chess tournament in U.S. history"
-      },
-      {
          "description" : "Meet most important person in D Gukesh's life other than his parents, his second Grzegorz Gajewski.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -394,14 +394,6 @@ news_feed (
          "title" : "D Gukesh vs Ding Liren: Deception, play-acting, et al - The other side of the chequered game"
       },
       {
-         "description" : "Magnus Carlsen emerged victorious in an entertaining two-game Freestyle Chess match against Fabiano Caruana, held at two stunning venues. The Norwegian claimed a wild first game with white before defending a tense 74-move battle in game two to secure the overall win. Sponsored by Jan-Henric Buettner, the event dazzled with luxury, including a $44 million golden chess set. Just days before the World Championship match between Ding Liren and Dommaraju Gukesh, this exhibition showcased Carlsen's brilliance in this innovative format. | Photo: Aditya Sur Roy / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-summit-2024-g2",
-         "pubDate" : "Sat, 23 Nov 2024 01:15:00",
-         "title" : "Freestyle Summit: Carlsen holds draw with black, beats Caruana 1&frac12;-&frac12;"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> In celebration of Monopoly St. Louis Edition, Mr. Monopoly pays a visit to the World Chess Hall of Fame to shake things up before Chess 9LX! <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -416,22 +408,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/gm-var-akobian-missed-chess",
          "pubDate" : "Fri, 22 Nov 2024 16:15:39",
          "title" : "GM Var Akobian Missed This! #chess"
-      },
-      {
-         "description" : "In the latest episode of \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer discuss the World Championship match between defending champion Ding Liren and challenger Gukesh D, which starts on Monday 25th November in Singapore. Eighteen-year-old Gukesh is a heavy favourite and has good chances of becoming the youngest World Champion of all time. But the \"Two Knights\" wonder if things are as clear-cut as they seem, talk about the appeal and addictive nature of World Championship matches, and venture a prediction on the outcome of the upcoming match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-who-will-win-the-world-chess-championship-match-2024",
-         "pubDate" : "Fri, 22 Nov 2024 15:09:13",
-         "title" : "Two Knights Talk: Who will win the World Chess Championship match 2024?"
-      },
-      {
-         "description" : "ChessBase 18 now provides insights into players that go beyond mere opening statistics. Evaluating players is a somewhat delicate matter, and mistakes could be embarrassing. However, the Style Report hits the mark surprisingly well. For historical stars whose styles are well-known, all the classic clich&eacute;s are spot-on. Most importantly, you can learn something about your next opponent-or about the most important player of all: yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/style-report-in-chessbase-18",
-         "pubDate" : "Fri, 22 Nov 2024 09:00:00",
-         "title" : "Style Report in ChessBase 18"
       },
       {
          "description" : "Here's all essential information of chess' ultimate match: schedule, format, timings, form, rules and more.",
@@ -522,14 +498,6 @@ news_feed (
          "title" : "GM Akobian Shocks Himself with Checkmate!!! #chess"
       },
       {
-         "description" : "Magnus Carlsen emerged victorious in the opening game of the Freestyle Chess Summit, defeating Fabiano Caruana aboard the luxurious SilentWorld yacht. Carlsen's dynamic play with the white pieces outshone Caruana's strategies in a double-edged, entertaining encounters. The two rivals are rekindling their fierce competition from the 2018 World Championship, a few days before the start of the match for the world crown in Singapore. | Photo: Abhyudaya Ram / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-summit-2024-g1",
-         "pubDate" : "Thu, 21 Nov 2024 20:00:00",
-         "title" : "Freestyle Summit: Carlsen wins wild first game"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -544,14 +512,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-match-carlsen-vs.-caruana-2024",
          "pubDate" : "Thu, 21 Nov 2024 14:29:00",
          "title" : "Freestyle Chess Match: Carlsen vs. Caruana 2024 - Games and Results"
-      },
-      {
-         "description" : "IM Hannes Langrock had a look at one of our latest Fritztrainers, 'How to play the Caro-Kann' by Spanish GM Alvar Alonso Rosell, and stumbled across the realisation quoted above. Modern engines judge precisely, but explain nothing. Alvar Alonso Rosell, on the other hand, explains ideas and plans in great detail, says Hannes Langrock.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alvar-alonso-caro-kann-review",
-         "pubDate" : "Thu, 21 Nov 2024 11:00:00",
-         "title" : "\"As the engines get better, the engines get stupider\": Alvar Alonso on the Caro-Kann Defence"
       },
       {
          "description" : "GM Magnus Carlsen won the first game, of two, in his Freestyle Chess Match against Fabiano Caruana. It was a full-fledged war on the 64 squares after Caruana sacrificed a pawn on move 11, but Carlsen found his groove: The game just flowed&#38;mdash;...",
@@ -1034,14 +994,6 @@ news_feed (
          "title" : "Carlsen takes sole lead in Tata Steel India Chess tournament"
       },
       {
-         "description" : "&#34;Today couldn&#39;t have gone better!&#34; said GM Magnus Carlsen as he powered to wins over GMs Narayanan S.L., Wesley So, and Arjun Erigaisi to take the sole lead after day two of the 2024 Tata Steel Chess India Open Rapid. GM Nodirbek Abdusattorov is j...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-2",
-         "pubDate" : "Thu, 14 Nov 2024 11:15:00",
-         "title" : "Carlsen Beats So, Arjun To Snatch Sole Lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115294662.cms\" />Three-year-old chess prodigy Anish Sarkar, the youngest-rated player in history, met his idol, Magnus Carlsen, who offered encouragement and advice. Carlsen, impressed by Anish's abilities, emphasised the importance of enjoying the game over focusing on ratings and titles. Mentored by GM Dibyendu Barua, Anish's exceptional talent has propelled him to achieve remarkable milestones at a young age.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1218,14 +1170,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Exam in Bhubaneshwar ,Odisha on 16 & 17 December 2024"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115119997.cms\" />Raunak Sadhwani halted Pranav V's winning streak with a draw in the Chennai Grand Masters chess tournament. Levon Aronian defeated Maxime Vachier-Lagrave and moved closer to leader Arjun Erigaisi, who drew with Parham Maghsoodloo. Vidit Gujarathi and Amin Tabatabaei, as well as Alexey Sarana and Aravindh Chithambaram, also drew their matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-holds-top-spot-as-levon-aronian-closes-in-at-chennai-grand-masters/articleshow/115119997.cms",
-         "pubDate" : "Sat, 09 Nov 2024 15:35:49",
-         "title" : "Erigaisi holds top spot as Aronian closes in at Chennai Grand Masters"
-      },
-      {
          "description" : "I've committed to running my first Half-Marathon in 2025. How fast will I be? How exactly will I train? How hard will it be? Honestly, I have no idea. Sometimes, that's the best way to start: feel the inspiration, take the leap, hold yourself accountable, and figure it out as you go. I've Wanted to []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1256,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3299",
          "pubDate" : "Sat, 09 Nov 2024 10:11:54",
          "title" : "European Chess Championship 2024 kicks off in Montenegro"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115101862.cms\" />Indian chess grandmaster Arjun Erigaisi secured a victory against Amin Tabatabaei in the Chennai Grandmasters Chess tournament, propelling him to the top of the leaderboard with 3.5 points. Erigaisi's aggressive playing style and strategic execution earned him his third win, bringing his live rating closer to world No. 1 Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-takes-irans-amin-in-stride-to-take-sole-lead-in-chennai-grandmasters-chess-meet/articleshow/115101862.cms",
-         "pubDate" : "Sat, 09 Nov 2024 02:16:00",
-         "title" : "Arjun Erigaisi takes Iran's Amin in stride to take sole lead in Chennai"
       },
       {
          "description" : "On behalf of All India Chess Federation, The Andhra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at SNA Seminar &#38; Exam",
@@ -1338,14 +1274,6 @@ news_feed (
          "title" : "Shreyas Smith takes Jamaican title with 9/9"
       },
       {
-         "description" : "Earlier this fall, IM Stuart Rachels won his sixth Alabama state championship on the weekend of August 30 through September 1. The state championship - hosted by the Mobile Chess Club - was held at Spring Hill College in Mobile for the first time in 40 years.In that 1984 tournament, a then-12-year-old Rachels won his third consecutive state championship. Rachels won two more state titles but then stopped competing in his home state until, seemingly out of the blue, he emerged this year! This comeback is the subject of a documentary - created by Cynara Inman and Tyler Dickerson - that was shared earlier this week: This fantastic interview-rich oral history - of both the event and Rachels' sta",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/rachels-returns-wins-sixth-alabama-championship-video",
-         "pubDate" : "Thu, 07 Nov 2024 00:00:00",
-         "title" : "Rachels Returns, Wins Sixth Alabama Championship (Video)"
-      },
-      {
          "description" : "Recently, the famous Babson task (Black promotes to one of the four possible pieces and White must promote to the same piece in all four cases to win) has been conquered by in an endgame study. Many thought it to be impossible to realize this extremely difficult task. In this second part of the three part series Harold van der Heijden describes how study composers progressed towards solving the problem.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,30 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3292",
          "pubDate" : "Tue, 05 Nov 2024 19:21:56",
          "title" : "WGP Shymkent Round 6: Goryachkina extends her winning streak"
-      },
-      {
-         "description" : "Today is election day in the USA. As with past elections, let's go slightly off-topic to immortalize the day. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok05.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Donald Trump and Kamala Harris play chess in the Oval Office'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> For previous posts in the same direction, see:- <UL> <LI> 2016-11-08: <A HREF=\"https://chessforallages.blogspot.com/2016/11/election-special.html\">Election Special</A> <LI> 2022-11-08: <A HREF=\"https://chessforallages.blogspot.com/2022/11/election-special-2022.html\">Election Special 2022</A> </UL> <P> While some pundits are calling the Presidential rac",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/election-special-2024.html",
-         "pubDate" : "Tue, 05 Nov 2024 16:21:00",
-         "title" : "Election Special 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3291",
-         "pubDate" : "Tue, 05 Nov 2024 14:47:06",
-         "title" : "FIDE World Championship special: Unique events for visitors of Singapore Match"
-      },
-      {
-         "description" : "FIDE, together with the World Solving Championships for Youth and Cadets, hosted a series of free online lessons to get participants ready for the inaugural FIDE World Solving Championships. They were run by Anirudh Daga and WFCC President Marjan Kovačevi&#263. Today we bring you the solutions to the two-movers we gave you to solve last week. Were you able to solve them?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist-2",
-         "pubDate" : "Tue, 05 Nov 2024 14:00:00",
-         "title" : "Mate in Two Solutions"
       }
    ]
 }
