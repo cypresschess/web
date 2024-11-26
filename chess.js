@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. Game 1 saw Ding upsetting his 18-year-old opponent with the black pieces to take an early lead. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Tue, 26 Nov 2024 09:30:00",
+         "title" : "World Championship: Game 2 - Live!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The one, two ULTIMATE combo </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-sara-herman-and-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jpg?itok=aG4M7ktg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opening-losses-and-world-championship-nerves",
          "pubDate" : "Mon, 25 Nov 2024 23:50:00",
          "title" : "Opening losses and World Championship nerves"
+      },
+      {
+         "description" : "Can Gukesh level the scores up against world champion Ding Liren? Find out right here.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
+         "pubDate" : "Mon, 25 Nov 2024 22:30:52",
+         "title" : "LIVE: Gukesh vs Ding in game 2"
       },
       {
          "description" : "The World Chess Championship in Singapore began with a bang as reigning champion Ding Liren delivered a stunning victory over 18-year-old challenger Gukesh D in game 1. Despite entering the match as an underdog, Ding's bold strategy and strategic brilliance with the black pieces earned him an early lead. While the young Indian prodigy struggled with nerves, his resilience and steady rise suggest he is far from out of contention. | Photo: FIDE / Eng Chin An",
@@ -50,12 +66,12 @@ news_feed (
          "title" : "Ding Liren takes down Gukesh in the first game of title match"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, November 26, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 5:00 p.m. local time in Singapore. Ding will have the white piece...",
+         "description" : "World Champion Ding Liren played the first new move in the opening of game two of the 2024 FIDE World Championship, but GM Gukesh Dommaraju defended carefully and ultimately made a 23-move, three-hour draw by repetition to claim his first half-poi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-2",
          "pubDate" : "Mon, 25 Nov 2024 14:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 2"
+         "title" : "Ding Leads 1.5-0.5 After Tense 23-Move Draw In Game 2"
       },
       {
          "description" : "Ding's middle-game was absolutely incredible, as move-by-move, he tilted the scales in his favour.",
