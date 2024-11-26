@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you are a Gukesh fan, this image illustrates not only his feelings of dismay and disbelief after the opening loss, but yours as well. If you were rooting for Ding, then euphoric cheering and fist pumping are likely yours. Regardless, the lengthy history of the World Championship in chess has seen more than one such that ended in redemption for the early loser. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-losses-and-world-championship-nerves",
+         "pubDate" : "Mon, 25 Nov 2024 23:50:00",
+         "title" : "Opening losses and World Championship nerves"
+      },
+      {
          "description" : "The World Chess Championship in Singapore began with a bang as reigning champion Ding Liren delivered a stunning victory over 18-year-old challenger Gukesh D in game 1. Despite entering the match as an underdog, Ding's bold strategy and strategic brilliance with the black pieces earned him an early lead. While the young Indian prodigy struggled with nerves, his resilience and steady rise suggest he is far from out of contention. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3320",
          "pubDate" : "Mon, 25 Nov 2024 15:23:08",
          "title" : "Ding Liren takes down Gukesh in the first game of title match"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, November 26, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 5:00 p.m. local time in Singapore. Ding will have the white piece...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-2",
+         "pubDate" : "Mon, 25 Nov 2024 14:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 2"
       },
       {
          "description" : "Ding's middle-game was absolutely incredible, as move-by-move, he tilted the scales in his favour.",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "Al Ain Chess and Mind Games Club present Echess Championship: The Road to Al Ain"
       },
       {
-         "description" : "The 2024 Collegiate Chess League (CCL) playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Can Saint Louis defend their championship title for the fourth time in a row, or will SRM IST from India win it all ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fall-ccl-prediction-bracket-challenge",
-         "pubDate" : "Wed, 13 Nov 2024 11:57:18",
-         "title" : "Win Diamond Memberships In The Fall 2024 Collegiate Chess League Predictions Challenge"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mate-in-two-with-a-twist-2",
          "pubDate" : "Tue, 05 Nov 2024 14:00:00",
          "title" : "Mate in Two Solutions"
-      },
-      {
-         "description" : " The Shymkent FIDE Women's Grand Prix takes place Tue 29th Oct to Sat 9th Nov 2024. Players: Aleksandra Goryachkina, Bibisara Assaubayeva, Humpy Koneru, Stavroula Tsolakidou, Zhongyi T`an, Deshmukh Divya, Batkhuyag Munguntuul, Kateryna Lagno, Nurgyul Salimova and Elisabeth Paehtz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/shymkent-fide-womens-grand-prix-2024",
-         "pubDate" : "Mon, 4 Nov 2024 21:53:00",
-         "title" : "Shymkent FIDE Women's Grand Prix 2024 - Games and Results"
       }
    ]
 }
