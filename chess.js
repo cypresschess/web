@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's safe to say that a *lot* of digital ink has been spilt on Game One, and deservingly so. A casual scan of YouTube alone will turn up summaries and game analysis by every amateur and professional streamer under the sun. But in that tsunami of content some pearls really stand out, and one of those is the C-Squared video with incredibly insightful commentary by Fabiano Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fabiano-caruana-analyzes-game-one-in-depth",
+         "pubDate" : "Tue, 26 Nov 2024 20:20:00",
+         "title" : "Fabiano Caruana analyses Game One in depth"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-foot-soldiers-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xwmPUp1wNHw.jpg?itok=3gIZH9tV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/little-foot-soldiers-chess",
+         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
+         "title" : "The Little Foot Soldiers of Chess"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bishops-are-better\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrpIPmrzIeY.jpg?itok=eRfs-XE9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bishops-are-better",
+         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
+         "title" : "Bishops Are Better"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-chains\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgC00LIfizk.jpg?itok=bmUqn5Bh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawn-chains",
+         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
+         "title" : "Pawn Chains"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-weakness\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_iOxglwZRXw.jpg?itok=MvsS_62W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawn-weakness",
+         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
+         "title" : "Pawn Weakness"
+      },
+      {
+         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 1&frac12; Gukesh 0 &frac12; The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
+         "pubDate" : "Tue, 26 Nov 2024 17:32:13",
+         "title" : "2024 World Chess Championship (Singapore City)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jpg?",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros",
+         "pubDate" : "Tue, 26 Nov 2024 16:18:12",
+         "title" : "Monday Knight Mayhem : Beginner Breakdown and Masterclass - Sara Herman and GM Denes Boros |"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115704462.cms\" />D Gukesh drew his second game against Ding Liren in the World Chess Championship. Gukesh, playing black, recovered from a difficult start. He aims to become the youngest world champion. He is grateful for his second's support. Gukesh represents India. He is focusing on each game. A win would be a significant achievement. He is determined to play well.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,6 +130,22 @@ news_feed (
          "title" : "5 ways to explore chess during 2024 World Chess Championship"
       },
       {
+         "description" : "Editor's note: This article will be updated shortly with annotated games from the event.Three USA players made podium finishes at the 2024 FIDE World Cadet Chess Championships, held from November 15 through 26 in Montesilvano, Italy. Zooming out a bit, roughly a quarter of the players representing the American delegation finished in the top 10 of their respective section, with eight more players finishing in the top 10 (including tiebreaks) and two more finishing tied for ninth, but outside the top 10 on tiebreaks.Overall, 46 American players - the largest of any delegation - took the trip to Montesilvano, Italy to compete across the three Open (U-12, U-10, U-8) and three Girls (U-12, U-10, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/usa-delegation-wins-three-medals-and-much-more-2024-fide-world-cadet-championships",
+         "pubDate" : "Tue, 26 Nov 2024 00:00:00",
+         "title" : "USA Delegation Wins Three Medals and Much More at 2024 FIDE World Cadet Championships"
+      },
+      {
+         "description" : "This week's puzzles come from the 2024 FIDE World Youth Championships, held earlier this month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships (which ended earlier today in Italy) over the next few weeks. You can see our CLO coverage of the World Youth here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-youth-champs-pt-1",
+         "pubDate" : "Tue, 26 Nov 2024 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Youth Champs, Pt. 1"
+      },
+      {
          "description" : "Call for Nominations2025 US Chess Executive Board ElectionThe US Chess Federation (US Chess) will hold an election in 2025 for four at-large positions on the Executive Board. The top four vote-getters will be elected for a term of four years expiring in 2029.Any current US Chess member who is not a current US Chess employee or designated contractor (as defined in the US Chess bylaws) may be nominated for election to the Executive Board.Nominations must be made by submitting a petition containing the signatures of 50 or more members of US Chess who are either registered or eligible to register to vote, and by paying a $100 filing fee to the US Chess Federation.The members signing the nominati",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -88,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opening-losses-and-world-championship-nerves",
          "pubDate" : "Mon, 25 Nov 2024 23:50:00",
          "title" : "Opening losses and World Championship nerves"
+      },
+      {
+         "description" : "Can Gukesh level the scores up against world champion Ding Liren? Find out right here.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
+         "pubDate" : "Mon, 25 Nov 2024 22:30:52",
+         "title" : "LIVE: Gukesh vs Ding in game 2"
       },
       {
          "description" : "The World Chess Championship in Singapore began with a bang as reigning champion Ding Liren delivered a stunning victory over 18-year-old challenger Gukesh D in game 1. Despite entering the match as an underdog, Ding's bold strategy and strategic brilliance with the black pieces earned him an early lead. While the young Indian prodigy struggled with nerves, his resilience and steady rise suggest he is far from out of contention. | Photo: FIDE / Eng Chin An",
@@ -402,14 +482,6 @@ news_feed (
          "title" : "Mr. Monopoly Visits the World Chess Hall of Fame"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> PLAY AGAINST GM AKOBIAN: twitch.tv/stlchessclub #shorts </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-var-akobian-missed-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ktQYvlQbW-A.jpg?itok=Z4ikNZoX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-var-akobian-missed-chess",
-         "pubDate" : "Fri, 22 Nov 2024 16:15:39",
-         "title" : "GM Var Akobian Missed This! #chess"
-      },
-      {
          "description" : "Here's all essential information of chess' ultimate match: schedule, format, timings, form, rules and more.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -482,22 +554,6 @@ news_feed (
          "title" : "Volunteers Wanted for 2024 National K-12 Grade Championships"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> A brand-new tournament comes to America's Chess Capital! The Saint Louis Masters is a nine-round Swiss tournament from December 3-7. Up to 60 players compete, including Fabiano Caruana, Sam Sevian, and Alice Lee. Join GM Yasser Seirawan, IM Nazi Paikidze, and WGMs Katerina Nemcova &amp; Sabina Foisor for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/sty",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-promo",
-         "pubDate" : "Thu, 21 Nov 2024 22:14:53",
-         "title" : "Saint Louis Masters 2024 | PROMO"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> twitch.tv/stlchessclub #shorts </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-akobian-shocks-himself-checkmate-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JUDi8SSJ_1U.jpg?itok=eMc562GW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-akobian-shocks-himself-checkmate-chess",
-         "pubDate" : "Thu, 21 Nov 2024 22:14:53",
-         "title" : "GM Akobian Shocks Himself with Checkmate!!! #chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -552,22 +608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3312",
          "pubDate" : "Thu, 21 Nov 2024 05:39:33",
          "title" : "FIDE and Google create the Efficient Chess AI Challenge, hosted on Kaggle"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian analyzes his game against Sam Shankland from the 2017 U.S. Chess Championship in Saint Louis. Today is Akobian&#039;s birthday, which he shares with Jose Raul Capablanca. 2024.11.14<br /> Varuzhan Akobian vs Sam Shankland, United States Championship (2017): D43 Queen&#039;s Gambit Declined semi-Slav, Hastings variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1870039\">https://www.chessgames.com/perl/chessgame?gid=1870039</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sam-shankland-goes-down-2017-us-champs-grandmasters-choice-gm-varuzhan-akobian",
-         "pubDate" : "Thu, 21 Nov 2024 04:14:17",
-         "title" : "Sam Shankland Goes Down at the 2017 U.S. Champs! | Grandmaster's Choice - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2024.11.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IN1emf4F2-Q.jpg?itok=BSM18bQ9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmaster-psychology-gm-denes-boros",
-         "pubDate" : "Thu, 21 Nov 2024 04:14:17",
-         "title" : "Grandmaster Psychology - GM Denes Boros"
       },
       {
          "description" : "The European Corporate Chess Championship 2024, organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union, is taking place from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 []",
@@ -1058,14 +1098,6 @@ news_feed (
          "title" : "Ding Liren ahead of his World Championship showdown with Gukesh: \"A match is a match\""
       },
       {
-         "description" : "This week's Wednesday Workout continues our coverage of some deeper tactical insights from the 2024 U.S. Championship and U.S. Women's Championship. All coverage can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-us-championships-pt-2",
-         "pubDate" : "Wed, 13 Nov 2024 00:00:00",
-         "title" : "Wednesday Workout: U.S. Championships, Pt. 2"
-      },
-      {
          "description" : " The Tata Steel Chess India tournament took place Wed 13th to Sun 17th Nov 2024 in Kolkata. This was a Rapid and Blitz tournament. Players men's event: Magnus Carlsen, Nodirbek Abdusattorov, Wesley So, Arjun Erigaisi, Daniil Dubov, Sarin Nihal, R Praggnanandhaa, Santosh Gujrathi Vidit, Vincent Keymer and S L Narayanan. Women's event: Aleksandra Goryachkina, Kateryna Lagno, Alexsandra Kosteniuk, Nana Dzagnidze, Valentina Gunina, Koneru Humpy, Harika Dronavalli, Divya Deshmukh, Vaishali R and Vantika Agrawal. Magnus Carlsen dominated and won both the rapid and blitz. Aleksandra Goryachkina won the women's rapid and Kateryna Lagno the women's blitz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1080,14 +1112,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/12/brewington-hardaway-is-now-a-chess-grandmaster/",
          "pubDate" : "Tue, 12 Nov 2024 21:15:51",
          "title" : "Brewington Hardaway is now a Chess Grandmaster!"
-      },
-      {
-         "description" : "This week's puzzles again come from the 2024 U.S. Women's Championship, with a focus on the second- and third-place finishers: IMs Begim Tokhirjonova and Alice Lee (respectively). All coverage from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-womens-championship-pt-2",
-         "pubDate" : "Tue, 12 Nov 2024 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Women's Championship, Pt. 2"
       },
       {
          "description" : " For decades, Grandmaster Maurice Ashley has been on the cutting edge of chess news, whether through championship coaching, giving exciting commentary, delivering training courses, or organizing million-dollar tournaments. While he can still be seen giving guest lectures and doing commentary, he is now embarking on a bold, new initiative. Ashley addressing FIDE Congress on Chess The post <a href=\"https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/\">Maurice Ashley's new chess initiative announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1320,14 +1344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3294",
          "pubDate" : "Tue, 05 Nov 2024 20:51:16",
          "title" : "Winners crowned at FIDE World Amateur Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3292",
-         "pubDate" : "Tue, 05 Nov 2024 19:21:56",
-         "title" : "WGP Shymkent Round 6: Goryachkina extends her winning streak"
       }
    ]
 }
