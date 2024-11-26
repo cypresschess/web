@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The one, two ULTIMATE combo </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-sara-herman-and-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jpg?itok=aG4M7ktg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-sara-herman-and-gm-denes-boros-lichessorg",
+         "pubDate" : "Tue, 26 Nov 2024 01:18:00",
+         "title" : "Monday Knight Mayhem | Sara Herman and GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3321",
+         "pubDate" : "Tue, 26 Nov 2024 01:00:35",
+         "title" : "5 ways to explore chess during 2024 World Chess Championship"
+      },
+      {
          "description" : "If you are a Gukesh fan, this image illustrates not only his feelings of dismay and disbelief after the opening loss, but yours as well. If you were rooting for Ding, then euphoric cheering and fist pumping are likely yours. Regardless, the lengthy history of the World Championship in chess has seen more than one such that ended in redemption for the early loser. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grandmaster-psychology-gm-denes-boros",
          "pubDate" : "Thu, 21 Nov 2024 04:14:17",
          "title" : "Grandmaster Psychology - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In the mind of all you ELO - tistical players </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmaster-psychology-gm-denes-boros-chess-chessanalysis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IN1emf4F2-Q.jpg?itok=BSM18bQ9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmaster-psychology-gm-denes-boros-chess-chessanalysis",
-         "pubDate" : "Thu, 21 Nov 2024 01:13:46",
-         "title" : "Grandmaster Psychology with GM Denes Boros | #chess #chessanalysis"
       },
       {
          "description" : "The European Corporate Chess Championship 2024, organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union, is taking place from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 []",
