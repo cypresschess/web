@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. After the first two games, Ding has a 1-point lead thanks to his win on the first day of action. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Wed, 27 Nov 2024 09:45:00",
+         "title" : "World Championship: Game 3 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115727184.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-2024-game-3-live-updates-gukesh-dommaraju-vs-ding-liren-round-3-today/liveblog/115727184.cms",
+         "pubDate" : "Wed, 27 Nov 2024 08:40:35",
+         "title" : "World Chess Championship Live: D Gukesh vs Ding Liren in Round 3"
+      },
+      {
          "description" : "Explore the fascinating world of chess like never before with \"Beyond the Board\", a new digital exhibition by FIDE and Google on the Google Arts & Culture platform. Curated by WGM Anna Burtasova, this interactive journey delves into the royal game's rich history, from its ancient origins to the era of Artificial Intelligence. Discover pivotal moments, influential players, and the game's cultural impact, as well as its role in shaping AI innovation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,6 +106,14 @@ news_feed (
          "title" : "Bad Bad Bishops! | Road to 2000 - GM Denes Boros"
       },
       {
+         "description" : "Can D Gukesh level up scores in game 3 with a win against Ding Liren?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42627880/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-3?device=featurephone",
+         "pubDate" : "Tue, 26 Nov 2024 22:30:10",
+         "title" : "Live: Gukesh vs Ding Liren in game 3"
+      },
+      {
          "description" : "It's safe to say that a *lot* of digital ink has been spilt on Game One, and deservingly so. A casual scan of YouTube alone will turn up summaries and game analysis by every amateur and professional streamer under the sun. But in that tsunami of content some pearls really stand out, and one of those is the C-Squared video with incredibly insightful commentary by Fabiano Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,6 +186,22 @@ news_feed (
          "title" : "World Championship: D Gukesh holds Ding Liren to a draw"
       },
       {
+         "description" : "D Gukesh drew with Ding Liren to get on the scoreboard in game 2 of the chess World Championship",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42621486/chess-world-championship-d-gukesh-ding-liren-never-do-stupid-mark?device=featurephone",
+         "pubDate" : "Tue, 26 Nov 2024 10:08:40",
+         "title" : "'Was never going to do anything stupid': Gukesh off the mark with solid draw in game 2"
+      },
+      {
+         "description" : "The score now reads Ding Liren 1.5 - 0.5 Gukesh",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
+         "pubDate" : "Tue, 26 Nov 2024 10:01:18",
+         "title" : "Gukesh draws Ding in game 2 to register first score of World Championship"
+      },
+      {
          "description" : "As millions of people eagerly keep an eye on the 2024 FIDE World Championship match between reigning champion GM Ding Liren and 18-year-old Indian challenger GM Gukesh Dommaraju, Chess.com, ChessBase India, Nodwin Gaming, and Samay Raina are thril...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opening-losses-and-world-championship-nerves",
          "pubDate" : "Mon, 25 Nov 2024 23:50:00",
          "title" : "Opening losses and World Championship nerves"
-      },
-      {
-         "description" : "Can Gukesh level the scores up against world champion Ding Liren? Find out right here.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
-         "pubDate" : "Mon, 25 Nov 2024 22:30:52",
-         "title" : "LIVE: Gukesh vs Ding in game 2"
       },
       {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
@@ -1146,12 +1178,12 @@ news_feed (
          "title" : "Final Report- World Youth Chess Championship 2024"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115149181.cms\" />Grandmaster M Aravindh Chithambaram defeated Arjun Erigaisi in the Chennai Grand Masters chess tournament, ending Erigaisi's unbeaten streak. Aravindh and Amin Tabatabaei are now half a point behind Erigaisi and Levon Aronian, who share the lead with four points each. In the Challengers category, Pranav V maintained his lead despite two consecutive draws.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-hands-arjun-erigaisi-his-first-tournament-loss/articleshow/115149181.cms",
-         "pubDate" : "Sun, 10 Nov 2024 16:48:36",
-         "title" : "Chithambaram hands Arjun Erigaisi his first tournament loss"
+         "description" : "'Take Take Take'? Where have I heard that in reference to chess before? It turns out that it was just a few weeks ago in <A HREF=\"https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html\">A Press of Yahoos</A> (October 2024). There I quoted a press report, <BLOCKQUOTE> 2024-10-25: <B>After 20 years at the top of chess, Magnus Carlsen is making his next move</B> (apnews.com; Mark Lewis) &#149; 'Offering a new way to interact with the game, Carlsen on Friday launched his application, <I>Take Take Take</I>, which will follow live games and players, explaining matches in an accessible way that, Carlsen says, is sometimes missing from streaming platforms like YouTube and Twitch. \"It wi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/carlsen-ding-liren-nakamura-on-wcc-2024.html",
+         "pubDate" : "Sun, 10 Nov 2024 16:51:00",
+         "title" : "Carlsen, Ding Liren, Nakamura on WCC 2024"
       },
       {
          "description" : "",
