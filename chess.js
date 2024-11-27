@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship in Singapore is heating up as reigning champion Ding Liren leads 1&frac12;-&frac12; after two games. Tuesday's second encounter ended in a 23-move draw, allowing 18-year-old challenger Gukesh D to steady his nerves following a tough loss in the opening game. With Ding pacing himself wisely and Gukesh ready to strike back with the white pieces in game three, the stage is set for an intense battle before the first rest day. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g2",
+         "pubDate" : "Tue, 26 Nov 2024 22:40:00",
+         "title" : "World Championship Game 2: A 23-move draw to cool things off"
+      },
+      {
          "description" : "It's safe to say that a *lot* of digital ink has been spilt on Game One, and deservingly so. A casual scan of YouTube alone will turn up summaries and game analysis by every amateur and professional streamer under the sun. But in that tsunami of content some pearls really stand out, and one of those is the C-Squared video with incredibly insightful commentary by Fabiano Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,6 +82,14 @@ news_feed (
          "title" : "Ding takes no risks at all in drawn game two - 2"
       },
       {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Wednesday, November 27, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 5:00 p.m. local time in Singapore. It is their last game before t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
+         "pubDate" : "Tue, 26 Nov 2024 14:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 3"
+      },
+      {
          "description" : "On Monday, Ding Liren, the reigning world champion, began a match in Singapore to defend the title against the 18-year-old player Gukesh Dommaraju. According to many of the world's best players, and Ding himself, he is the underdog in the match. Never has a chess world championship titleholder seemed as vulnerable. But now Ding is up on the scoreboard after a remarkable win on opening day. This is what the New York Times published before the start of the match.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,12 +114,20 @@ news_feed (
          "title" : "World Championship: D Gukesh holds Ding Liren to a draw"
       },
       {
-         "description" : "Following a wild first game, the contenders for the world title played more carefully in Tuesday's second encounter. Out of an Italian Opening, the queens left the board on move 12. The position was still tense, with two rooks and two knights per side. However, Ding Liren, playing white, decided to keep it safe and offered a simplification which was followed by a threefold repetition. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Tue, 26 Nov 2024 09:30:00",
-         "title" : "World Championship: A 23-move draw in game 2"
+         "description" : "D Gukesh drew with Ding Liren to get on the scoreboard in game 2 of the chess World Championship",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42621486/chess-world-championship-d-gukesh-ding-liren-never-do-stupid-mark?device=featurephone",
+         "pubDate" : "Tue, 26 Nov 2024 10:08:40",
+         "title" : "'Was never going to do anything stupid': Gukesh off the mark with solid draw in game 2"
+      },
+      {
+         "description" : "The score now reads Ding Liren 1.5 - 0.5 Gukesh",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
+         "pubDate" : "Tue, 26 Nov 2024 10:01:18",
+         "title" : "Gukesh draws Ding in game 2 to register first score of World Championship"
       },
       {
          "description" : "As millions of people eagerly keep an eye on the 2024 FIDE World Championship match between reigning champion GM Ding Liren and 18-year-old Indian challenger GM Gukesh Dommaraju, Chess.com, ChessBase India, Nodwin Gaming, and Samay Raina are thril...",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opening-losses-and-world-championship-nerves",
          "pubDate" : "Mon, 25 Nov 2024 23:50:00",
          "title" : "Opening losses and World Championship nerves"
-      },
-      {
-         "description" : "Can Gukesh level the scores up against world champion Ding Liren? Find out right here.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
-         "pubDate" : "Mon, 25 Nov 2024 22:30:52",
-         "title" : "LIVE: Gukesh vs Ding in game 2"
       },
       {
          "description" : "The World Chess Championship in Singapore began with a bang as reigning champion Ding Liren delivered a stunning victory over 18-year-old challenger Gukesh D in game 1. Despite entering the match as an underdog, Ding's bold strategy and strategic brilliance with the black pieces earned him an early lead. While the young Indian prodigy struggled with nerves, his resilience and steady rise suggest he is far from out of contention. | Photo: FIDE / Eng Chin An",
@@ -994,14 +1010,6 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course - January 2025"
       },
       {
-         "description" : "World number-one Magnus Carlsen was on fire as he posted a six-game winning streak to win the 2024 Tata Steel Chess India Open Rapid with a round to spare. A thrilling battle against GM Vincent Keymer was followed by a grinding win against GM Dani...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-3",
-         "pubDate" : "Fri, 15 Nov 2024 04:56:00",
-         "title" : "Carlsen, Goryachkina Win Tata Steel India Rapid With Round To Spare"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115321192.cms\" />Magnus Carlsen surged to the top of the Tata Steel India Open Rapid chess tournament after winning three consecutive games on Thursday, reaching five points. Former World Rapid champion Nodirbek Abdusattorov trails closely behind with 4.5 points. In the women's section, Aleksandra Goryachkina leads with five points after securing three victories. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1328,22 +1336,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-jalgaonbatch-1-2-on-19-20-october-2024/",
          "pubDate" : "Wed, 06 Nov 2024 06:03:36",
          "title" : "Certificates of SNA Seminar held in Jalgaon(Batch 1 & 2) on 19 & 20 October 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3293",
-         "pubDate" : "Tue, 05 Nov 2024 23:46:11",
-         "title" : "FIDE World Youth Rapid & Blitz Championship 2024: Registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3294",
-         "pubDate" : "Tue, 05 Nov 2024 20:51:16",
-         "title" : "Winners crowned at FIDE World Amateur Championship 2024"
       }
    ]
 }
