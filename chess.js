@@ -2,20 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. After the first two games, Ding has a 1-point lead thanks to his win on the first day of action. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115740369.cms\" />Indian chess prodigy D Gukesh secured his first victory against defending champion Ding Liren in the World Chess Championship in Singapore on Wednesday. Gukesh equalised the score after the third game, capitalizing on Liren's time constraint and positional mistakes. Gukesh expressed satisfaction with his improved play and outplaying his opponent. Liren admitted overlooking a crucial move, contributing to his loss.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/outplaying-opponent-is-very-nice-gukesh-after-first-win-in-world-chess-championship/articleshow/115740369.cms",
+         "pubDate" : "Wed, 27 Nov 2024 15:59:37",
+         "title" : "'Outplaying opponent is very nice': Gukesh after first win at Worlds"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3323",
+         "pubDate" : "Wed, 27 Nov 2024 14:11:45",
+         "title" : "Gukesh strikes back to tie FIDE World Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115736592.cms\" />Indian Grandmaster D. Gukesh defeated defending champion Ding Liren in the third round of the World Chess Championship, leveling the score at 1.5 points each. Gukesh's strong opening preparation and superior time management allowed him to outplay Liren in 37 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-logs-first-win-against-defending-champion-ding-liren-in-world-chess-championship/articleshow/115736592.cms",
+         "pubDate" : "Wed, 27 Nov 2024 13:06:45",
+         "title" : "World Championship: Gukesh logs first win vs Ding Liren"
+      },
+      {
+         "description" : "Game 3 of the World Championship match in Singapore saw Gukesh D scoring a convincing victory with the white pieces to level the score against Ding Liren. The game ended with Ding losing on time, as he had difficulties dealing with a sharp position out of the opening and spent up to 33 minutes on a single decision early on. This decisive result comes before the first rest day for the contenders. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Wed, 27 Nov 2024 09:45:00",
-         "title" : "World Championship: Game 3 - Live!"
+         "title" : "World Championship: A first win for Gukesh"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115727184.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-2024-game-3-live-updates-gukesh-dommaraju-vs-ding-liren-round-3-today/liveblog/115727184.cms",
-         "pubDate" : "Wed, 27 Nov 2024 08:40:35",
-         "title" : "World Chess Championship Live: D Gukesh vs Ding Liren in Round 3"
+         "description" : "GM Gukesh Dommaraju has scored his first classical win over World Champion Ding Liren to level the scores at 1.5-1.5 going into the first rest day of the 2024 FIDE World Championship. Gukesh posed tough problems in the opening of game three, but j...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
+         "pubDate" : "Wed, 27 Nov 2024 08:20:00",
+         "title" : "Gukesh Beats Ding To Level The Scores After Game 3"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Christopher Yoo were the Titled Tuesday victors on November 26. Carlsen, who won outright on 10 points, got his first Titled Tuesday win of November in the last week of November&#38;mdash;and now has at least one win every month...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-yoo-win-titled-tuesday-november-26-2024",
+         "pubDate" : "Wed, 27 Nov 2024 07:50:20",
+         "title" : "It's Tuesdays With Magzy As Carlsen Returns To Win Column"
       },
       {
          "description" : "Explore the fascinating world of chess like never before with \"Beyond the Board\", a new digital exhibition by FIDE and Google on the Google Arts & Culture platform. Curated by WGM Anna Burtasova, this interactive journey delves into the royal game's rich history, from its ancient origins to the era of Artificial Intelligence. Discover pivotal moments, influential players, and the game's cultural impact, as well as its role in shaping AI innovation.",
@@ -106,15 +138,7 @@ news_feed (
          "title" : "Bad Bad Bishops! | Road to 2000 - GM Denes Boros"
       },
       {
-         "description" : "Can D Gukesh level up scores in game 3 with a win against Ding Liren?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42627880/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-3?device=featurephone",
-         "pubDate" : "Tue, 26 Nov 2024 22:30:10",
-         "title" : "Live: Gukesh vs Ding Liren in game 3"
-      },
-      {
-         "description" : "It's safe to say that a *lot* of digital ink has been spilt on Game One, and deservingly so. A casual scan of YouTube alone will turn up summaries and game analysis by every amateur and professional streamer under the sun. But in that tsunami of content some pearls really stand out, and one of those is the C-Squared video with incredibly insightful commentary by Fabiano Caruana.",
+         "description" : "It's safe to say that a *lot* of digital ink has been spilt on Game One, and deservedly so. A casual scan of YouTube alone will turn up summaries and game analysis by every amateur and professional streamer under the sun. But in that tsunami of content some pearls really stand out, and one of those is the C-Squared video with incredibly insightful commentary by Fabiano Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fabiano-caruana-analyzes-game-one-in-depth",
@@ -130,7 +154,7 @@ news_feed (
          "title" : "The Little Foot Soldiers of Chess"
       },
       {
-         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 1&frac12; Gukesh 0 &frac12; The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 1&frac12; Gukesh 0 &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-takes-no-risks-at-all-in-drawn-game-two",
          "pubDate" : "Tue, 26 Nov 2024 15:46:00",
          "title" : "Ding takes no risks at all in drawn game two - 2"
-      },
-      {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Wednesday, November 27, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. This is the la...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
-         "pubDate" : "Tue, 26 Nov 2024 14:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 3"
       },
       {
          "description" : "On Monday, Ding Liren, the reigning world champion, began a match in Singapore to defend the title against the 18-year-old player Gukesh Dommaraju. According to many of the world's best players, and Ding himself, he is the underdog in the match. Never has a chess world championship titleholder seemed as vulnerable. But now Ding is up on the scoreboard after a remarkable win on opening day. This is what the New York Times published before the start of the match.",
@@ -978,14 +994,6 @@ news_feed (
          "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
       },
       {
-         "description" : "GM Anish Giri defeated IM Alice Lee, IM Ryo Chen, GM Shreyas Royal, and GM Andy Woodward 2.5-1.5 in the third edition of Kids vs. Stars 2024, a simul where he played all four of them at the same time. Never before has the Star won a match in this ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-giri-vs-4-super-talents",
-         "pubDate" : "Fri, 15 Nov 2024 15:28:00",
-         "title" : "Giri Scores 1st-Ever Victory For 'Stars,' Drops Only Loss To Alice Lee"
-      },
-      {
          "description" : " Juniors make up nearly half the field, including a nine-year-old top seed, while in Kolkata Magnus Carlsen surged to victory in the Tata Steel Rapid Finals of the annual UK Blitz Championships take place in Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of more than 500, who competed at eight regional qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny Gormally, the 2490-rated top seed; the veteran Peter Wells, and England's youngest G",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ancient-chess-problems-to-solve",
          "pubDate" : "Wed, 13 Nov 2024 20:00:00",
          "title" : "Ancient chess problems to solve"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115266333.cms\" />Uzbekistan's Abdusattorov Nodirbek takes the lead on Day 1 of the Tata Steel India Open Rapid and Blitz chess tournament. India's Vantika Agrawal shares the lead in the women's section. Indian players had mixed results, with SL Narayanan performing well while others struggled to secure victories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/abdusattorov-nodirbek-leads-magnus-carlsen-close-behind-in-india-open-chess/articleshow/115266333.cms",
-         "pubDate" : "Wed, 13 Nov 2024 18:11:33",
-         "title" : "Nodirbek leads, Carlsen close behind in India Open chess"
       },
       {
          "description" : "On behalf of All India Chess Federation, The Nagaland Chess Association is organizing first ever Senior National Arbiters Seminar &#38; Exam at Tourist Lodge, Dimapur",
@@ -1328,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3295",
          "pubDate" : "Wed, 06 Nov 2024 17:05:35",
          "title" : "WGP Shymkent: Goryachkina and Tan top the standings after Round 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
-         "pubDate" : "Wed, 06 Nov 2024 14:36:35",
-         "title" : "ECF Secondary School Chess News November 2024"
       }
    ]
 }
