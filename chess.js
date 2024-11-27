@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-little-foot-soldiers\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xwmPUp1wNHw.jpg?itok=3gIZH9tV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-little-foot-soldiers",
+         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
+         "title" : "Chessbits for Beginners: The Little Foot Soldiers"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-bishops-are-better\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrpIPmrzIeY.jpg?itok=eRfs-XE9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-bishops-are-better",
+         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
+         "title" : "Chessbits for Beginners: Bishops Are Better"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-pawn-chains\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgC00LIfizk.jpg?itok=bmUqn5Bh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-pawn-chains",
+         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
+         "title" : "Chessbits for Beginners: Pawn Chains"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-pawn-weakness\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_iOxglwZRXw.jpg?itok=MvsS_62W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-pawn-weakness",
+         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
+         "title" : "Chessbits for Beginners: Pawn Weakness"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros substitutes for Road to 2000, and his class is all about bishops. 2024.11.26<br /> Guha Mitrabha vs Edvin Trost, Teplice Open (2023): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2675856\">https://www.chessgames.com/perl/chessgame?gid=2675856</a><br /> Pavel Tregubov vs Nils Grandelius, World Blitz Championship (2016): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1857089\">https://www.chessgames.com/perl/chessgame?gid=1857089</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bad-bad-bishops-road-2000-gm-denes-boros",
+         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
+         "title" : "Bad Bad Bishops! | Road to 2000 - GM Denes Boros"
+      },
+      {
          "description" : "The World Chess Championship in Singapore is heating up as reigning champion Ding Liren leads 1&frac12;-&frac12; after two games. Tuesday's second encounter ended in a 23-move draw, allowing 18-year-old challenger Gukesh D to steady his nerves following a tough loss in the opening game. With Ding pacing himself wisely and Gukesh ready to strike back with the white pieces in game three, the stage is set for an intense battle before the first rest day. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,14 +178,6 @@ news_feed (
          "title" : "Ding-Gukesh Match, India's Biggest Chess Moment In A Generation, To Be Broadcast Live In Mumbai"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The one, two ULTIMATE combo </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-sara-herman-and-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jpg?itok=aG4M7ktg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-sara-herman-and-gm-denes-boros-lichessorg",
-         "pubDate" : "Tue, 26 Nov 2024 01:18:00",
-         "title" : "Monday Knight Mayhem | Sara Herman and GM Denes Boros | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -250,14 +282,6 @@ news_feed (
          "title" : "Ding Stuns Gukesh To Win Game 1 Of 2024 World Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-silent-moves-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1800-or-higher-silent-moves-gm-var-akobian",
-         "pubDate" : "Mon, 25 Nov 2024 07:17:33",
-         "title" : "1800 or Higher: Silent Moves - GM Var Akobian"
-      },
-      {
          "description" : "Would you rather play chess online or over the board? You don&#39;t have to choose one or the other anymore! We&#39;re excited to announce that we have partnered with ChessUp for the official launch of the new ChessUp 2, the smart chess set that now conne...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -282,28 +306,12 @@ news_feed (
          "title" : "Human Ding Liren must unsettle brilliantly-wired D Gukesh to retain World chess crown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-silent-deadly-moves-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-silent-deadly-moves-gm-var-akobian",
-         "pubDate" : "Mon, 25 Nov 2024 01:17:22",
-         "title" : "Tactics and Strategy: Silent But Deadly Moves - GM Var Akobian"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed beginning at noon CST on Wednesday, November 27 for Thanksgiving. Offices will reopen at 8 a.m. CST on Monday, December 2. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. Thank you for your understanding, and happy holidays. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-noon-nov-27-through-december-1",
          "pubDate" : "Mon, 25 Nov 2024 00:00:00",
          "title" : "US Chess Offices Closed Noon Nov 27 through December 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Learn how to be creative and brilliant in all chess positions with GM Var Akobian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactics-and-strategy-puzzlers-paradise-double-exclam-gm-var-akobian",
-         "pubDate" : "Sun, 24 Nov 2024 22:17:18",
-         "title" : "Tactics and Strategy | Puzzler's Paradise / Double Exclam - GM Var Akobian"
       },
       {
          "description" : "In 16 videos lasting up to twenty minutes each, the famed coach and former world-class player Ivan Sokolov takes the viewer on a journey into the depths of King's Indian middlegame strategies. A review by Stefan Liebig.",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-ding-liren-deception-play-acting-et-al-the-other-side-of-the-chequered-game/articleshow/115584143.cms",
          "pubDate" : "Sat, 23 Nov 2024 01:23:15",
          "title" : "D Gukesh vs Ding Liren: Deception, play-acting, et al - The other side of the chequered game"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In celebration of Monopoly St. Louis Edition, Mr. Monopoly pays a visit to the World Chess Hall of Fame to shake things up before Chess 9LX! <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mr-monopoly-visits-world-chess-hall-fame",
-         "pubDate" : "Fri, 22 Nov 2024 19:15:46",
-         "title" : "Mr. Monopoly Visits the World Chess Hall of Fame"
       },
       {
          "description" : "Here's all essential information of chess' ultimate match: schedule, format, timings, form, rules and more.",
