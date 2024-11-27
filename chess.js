@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Explore the fascinating world of chess like never before with \"Beyond the Board\", a new digital exhibition by FIDE and Google on the Google Arts & Culture platform. Curated by WGM Anna Burtasova, this interactive journey delves into the royal game's rich history, from its ancient origins to the era of Artificial Intelligence. Discover pivotal moments, influential players, and the game's cultural impact, as well as its role in shaping AI innovation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beyond-the-board-exhibition-fide-google",
+         "pubDate" : "Wed, 27 Nov 2024 07:10:00",
+         "title" : "Beyond the board: A virtual exhibition by FIDE and Google"
+      },
+      {
+         "description" : "From 15th to 17th November 2024, a FIDE Arbiters' Seminar was successfully organized in Ranchi, Jharkhand, by the All India Chess Federation, under the auspices",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-fide-arbiters-seminar-in-ranchi-from-15-17-november-2024/",
+         "pubDate" : "Wed, 27 Nov 2024 06:48:46",
+         "title" : "Final Report :FIDE Arbiters' Seminar in Ranchi from 15-17 November 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman talks about how pawns move and defend for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-little-foot-soldiers-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xwmPUp1wNHw.jpg?itok=3gIZH9tV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-little-foot-soldiers-chess",
+         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
+         "title" : "A Chess Bit for Beginners: The Little Foot Soldiers of Chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman explains the benefits of bishops versus the knights </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-why-bishops-are-better-knights\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrpIPmrzIeY.jpg?itok=eRfs-XE9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-why-bishops-are-better-knights",
+         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
+         "title" : "A Chess Bit for Beginners: Why Bishops Are Better Than Knights"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman defines &quot;pawn chains&quot; for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-pawn-chains\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgC00LIfizk.jpg?itok=bmUqn5Bh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-pawn-chains",
+         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
+         "title" : "A Chess Bit for Beginners: Pawn Chains"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman gives a general overview of what is a weakness...especially with pawns. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-pawn-weakness\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_iOxglwZRXw.jpg?itok=MvsS_62W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-pawn-weakness",
+         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
+         "title" : "A Chess Bit for Beginners: Pawn Weakness"
+      },
+      {
          "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-little-foot-soldiers\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xwmPUp1wNHw.jpg?itok=3gIZH9tV\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,14 +90,6 @@ news_feed (
          "title" : "Bad Bad Bishops! | Road to 2000 - GM Denes Boros"
       },
       {
-         "description" : "The World Chess Championship in Singapore is heating up as reigning champion Ding Liren leads 1&frac12;-&frac12; after two games. Tuesday's second encounter ended in a 23-move draw, allowing 18-year-old challenger Gukesh D to steady his nerves following a tough loss in the opening game. With Ding pacing himself wisely and Gukesh ready to strike back with the white pieces in game three, the stage is set for an intense battle before the first rest day. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g2",
-         "pubDate" : "Tue, 26 Nov 2024 22:40:00",
-         "title" : "World Championship Game 2: A 23-move draw to cool things off"
-      },
-      {
          "description" : "It's safe to say that a *lot* of digital ink has been spilt on Game One, and deservingly so. A casual scan of YouTube alone will turn up summaries and game analysis by every amateur and professional streamer under the sun. But in that tsunami of content some pearls really stand out, and one of those is the C-Squared video with incredibly insightful commentary by Fabiano Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,44 +106,12 @@ news_feed (
          "title" : "The Little Foot Soldiers of Chess"
       },
       {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bishops-are-better\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrpIPmrzIeY.jpg?itok=eRfs-XE9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bishops-are-better",
-         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
-         "title" : "Bishops Are Better"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-chains\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgC00LIfizk.jpg?itok=bmUqn5Bh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawn-chains",
-         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
-         "title" : "Pawn Chains"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-weakness\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_iOxglwZRXw.jpg?itok=MvsS_62W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawn-weakness",
-         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
-         "title" : "Pawn Weakness"
-      },
-      {
          "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 1&frac12; Gukesh 0 &frac12; The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
          "pubDate" : "Tue, 26 Nov 2024 17:32:13",
          "title" : "2024 World Chess Championship (Singapore City)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jpg?",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros",
-         "pubDate" : "Tue, 26 Nov 2024 16:18:12",
-         "title" : "Monday Knight Mayhem : Beginner Breakdown and Masterclass - Sara Herman and GM Denes Boros |"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115704462.cms\" />D Gukesh drew his second game against Ding Liren in the World Chess Championship. Gukesh, playing black, recovered from a difficult start. He aims to become the youngest world champion. He is grateful for his second's support. Gukesh represents India. He is focusing on each game. A win would be a significant achievement. He is determined to play well.",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Ding takes no risks at all in drawn game two - 2"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Wednesday, November 27, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 5:00 p.m. local time in Singapore. It is their last game before t...",
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Wednesday, November 27, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. This is the la...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
@@ -152,22 +160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-d-gukesh-holds-ding-liren-to-a-draw-in-second-game/articleshow/115699654.cms",
          "pubDate" : "Tue, 26 Nov 2024 12:47:24",
          "title" : "World Championship: D Gukesh holds Ding Liren to a draw"
-      },
-      {
-         "description" : "D Gukesh drew with Ding Liren to get on the scoreboard in game 2 of the chess World Championship",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42621486/chess-world-championship-d-gukesh-ding-liren-never-do-stupid-mark?device=featurephone",
-         "pubDate" : "Tue, 26 Nov 2024 10:08:40",
-         "title" : "'Was never going to do anything stupid': Gukesh off the mark with solid draw in game 2"
-      },
-      {
-         "description" : "The score now reads Ding Liren 1.5 - 0.5 Gukesh",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
-         "pubDate" : "Tue, 26 Nov 2024 10:01:18",
-         "title" : "Gukesh draws Ding in game 2 to register first score of World Championship"
       },
       {
          "description" : "As millions of people eagerly keep an eye on the 2024 FIDE World Championship match between reigning champion GM Ding Liren and 18-year-old Indian challenger GM Gukesh Dommaraju, Chess.com, ChessBase India, Nodwin Gaming, and Samay Raina are thril...",
@@ -218,12 +210,12 @@ news_feed (
          "title" : "Opening losses and World Championship nerves"
       },
       {
-         "description" : "The World Chess Championship in Singapore began with a bang as reigning champion Ding Liren delivered a stunning victory over 18-year-old challenger Gukesh D in game 1. Despite entering the match as an underdog, Ding's bold strategy and strategic brilliance with the black pieces earned him an early lead. While the young Indian prodigy struggled with nerves, his resilience and steady rise suggest he is far from out of contention. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g1",
-         "pubDate" : "Mon, 25 Nov 2024 18:00:00",
-         "title" : "World Championship Game 1: A shocking start, as Ding takes bold approach to win with black"
+         "description" : "Can Gukesh level the scores up against world champion Ding Liren? Find out right here.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
+         "pubDate" : "Mon, 25 Nov 2024 22:30:52",
+         "title" : "LIVE: Gukesh vs Ding in game 2"
       },
       {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
@@ -247,7 +239,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-2",
          "pubDate" : "Mon, 25 Nov 2024 14:00:00",
-         "title" : "Ding Leads 1.5-0.5 After Tense 23-Move Draw In Game 2"
+         "title" : "Ding Leads Gukesh 1.5-0.5 After Tense 23-Move Draw In Game 2"
       },
       {
          "description" : "Ding's middle-game was absolutely incredible, as move-by-move, he tilted the scales in his favour.",
@@ -256,14 +248,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42603684/chess-world-championship-ding-liren-champion-craft-gukesh-answers-game-1?device=featurephone",
          "pubDate" : "Mon, 25 Nov 2024 12:29:38",
          "title" : "Ding's champion craft leaves Gukesh without answers in game 1 of World Championship"
-      },
-      {
-         "description" : "The number of opinions and evaluations of the two world championship title fighters has been legion, but have you ever wondered what world number one, Magnus Carlsen, really thinks of the play of both players? In a set of two short videos, he sits down with GM David Howell and rates each player on every aspect of play, from tactics and calculation, to opening preparation. Fascinating stuff!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-rates-the-play-of-gukesh-and-ding",
-         "pubDate" : "Mon, 25 Nov 2024 08:55:00",
-         "title" : "Magnus Carlsen rates the play of Gukesh and Ding"
       },
       {
          "description" : "Ding Liren played a patient game to take the win in game 1. He leads the 14-game match 1-0",
@@ -312,14 +296,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-noon-nov-27-through-december-1",
          "pubDate" : "Mon, 25 Nov 2024 00:00:00",
          "title" : "US Chess Offices Closed Noon Nov 27 through December 1"
-      },
-      {
-         "description" : "In 16 videos lasting up to twenty minutes each, the famed coach and former world-class player Ivan Sokolov takes the viewer on a journey into the depths of King's Indian middlegame strategies. A review by Stefan Liebig.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-kings-indian-review",
-         "pubDate" : "Sun, 24 Nov 2024 18:45:00",
-         "title" : "Ivan Sokolov explains how to handle the King's Indian successfully"
       },
       {
          "description" : "Missouri triumphed vs. Saint Louis in the Final of the 2024 Collegiate Chess League (CCL) Fall Season on Sunday. GM Mikhail Antipov led Mizzou to their second CCL team title with a score of 3.5/4.&#38;nbsp; UT Rio Grande Valley defeated SRM 11-5 to ...",
@@ -1328,14 +1304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
          "pubDate" : "Wed, 06 Nov 2024 14:36:35",
          "title" : "ECF Secondary School Chess News November 2024"
-      },
-      {
-         "description" : "BATCH 1 BATCH 2 No Name Rank Name 1 Vivek Joshi 1 Nikhil Mahajan 2 Bakshi Mandar 2 Aniket Ajay Amane 3 Falgun D Purohit",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-sna-seminar-held-in-jalgaonbatch-1-2-on-19-20-october-2024/",
-         "pubDate" : "Wed, 06 Nov 2024 06:03:36",
-         "title" : "Certificates of SNA Seminar held in Jalgaon(Batch 1 & 2) on 19 & 20 October 2024"
       }
    ]
 }
