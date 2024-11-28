@@ -10,6 +10,22 @@ news_feed (
          "title" : "Wall Street Gambit: Where chess meets finance"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3326",
+         "pubDate" : "Thu, 28 Nov 2024 18:08:00",
+         "title" : "World Junior and Cadet Solving Championships: Girls prove their equality"
+      },
+      {
+         "description" : " 2024 World Chess Championship: Game 2Tuesday, 26 November 2024 Tense draw excitement ratcheting up Game 2 of the World Chess Championship ended peacefully after a rousing start of the match. After Ding Liren won the first game of the match, many wondered if they had been &#8220;snookered.&#8221; Ding kept sounding like he wasn't sure of The post <a href=\"https://thechessdrum.net/blog/2024/11/28/2024-world-chess-championship-game-2/\">2024 World Chess Championship: Game 2</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/28/2024-world-chess-championship-game-2/",
+         "pubDate" : "Thu, 28 Nov 2024 17:13:09",
+         "title" : "2024 World Chess Championship: Game 2"
+      },
+      {
          "description" : "Every complex piece of software has hidden gems that aren't immediately obvious. For example, the reference search in ChessBase 18 has a new superpower that's easy to overlook. Do you know the best way to prepare your teammates for a match? What is the crucial innovation that Rasmus Svane brought to the program? And why does Malcolm Pein never walk alone?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3297",
          "pubDate" : "Thu, 07 Nov 2024 21:40:58",
          "title" : "European Chess Championship 2024 starts in Montenegro"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3296",
-         "pubDate" : "Thu, 07 Nov 2024 18:36:14",
-         "title" : "WGP Shymkent: Salimova scores her first win in a day full of draws; Goryachkina maintains lead"
       }
    ]
 }
