@@ -10,6 +10,38 @@ news_feed (
          "title" : "Wall Street Gambit: Where chess meets finance"
       },
       {
+         "description" : "Finally, in this three-part series, we come to the first full Babson task endgame study, composed by Gady Costeff. Many thought it was not possible to fulfil this extremely difficult task. Harold van der Heijden describes the full story. But one problem remains: the position is not legal. Costeff had already constructed it in 2011 and tried in vain to find a legal version. So this is still an open problem. Maybe you can give it a try?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/underpromotion-milestones-part-three",
+         "pubDate" : "Thu, 28 Nov 2024 09:00:00",
+         "title" : "Underpromotion Milestones - part 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros proclaims his love for pure classical (long time control) chess. 2024.11.20<br /> Leonid Yudasin vs Jeroen Piket, m NED vs ISR 30&#039; ICC (1995): C55 Two knights defence (Modern bishop&#039;s opening)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1109014\">https://www.chessgames.com/perl/chessgame?gid=1109014</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yudasin-vs-piket-you-cant-beat-classical-chess-grandmaster-psychol",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yudasin-vs-piket-you-cant-beat-classical-chess-grandmaster-psychology-gm-denes-boros",
+         "pubDate" : "Thu, 28 Nov 2024 07:19:25",
+         "title" : "Yudasin vs. Piket: You Can't Beat Classical Chess! | Grandmaster Psychology - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros substitutes for Road to 2000, and his class is all about bad bishops. 2024.11.26<br /> Guha Mitrabha vs Edvin Trost, Teplice Open (2023): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2675856\">https://www.chessgames.com/perl/chessgame?gid=2675856</a><br /> Pavel Tregubov vs Nils Grandelius, World Blitz Championship (2016): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1857089\">https://www.chessgames.com/perl/chessgame?gid=1857089</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bad-bad-bishops-nimzo-road-2000-gm-denes-boros",
+         "pubDate" : "Thu, 28 Nov 2024 07:19:25",
+         "title" : "Bad Bad Bishops in the Nimzo! | Road to 2000 - GM Denes Boros"
+      },
+      {
+         "description" : "The International Chess Federation and Google are calling on developers worldwide to reimagine chess-playing AI with efficiency at its core. As part of Google's sponsorship of the FIDE World Chess Championship 2024, this competition challenges participants to create smart, resource-light chess engines that perform impressively without relying on powerful computers or extensive data. Hosted on Kaggle, with a $50,000 prize fund, the initiative draws inspiration from Claude Shannon's vision of AI as a problem-solving tool.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/efficient-chess-ai-challenge-kaggle",
+         "pubDate" : "Thu, 28 Nov 2024 07:00:00",
+         "title" : "FIDE and Google create the Efficient Chess AI Challenge, hosted on Kaggle"
+      },
+      {
          "description" : "Nihal Sarin (photo) and Javokhir Sindarov are sharing the lead after seven rounds at the third edition of the President Cup in Tashkent, Uzbekistan. The two youngsters are leading amid a field of 250 players. The total prize money of the event is USD 75,000. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +130,7 @@ news_feed (
          "title" : "Gukesh draws level in World Championship after impressive win over Ding Liren in game 3"
       },
       {
-         "description" : " GM Gukesh Dommaraju has scored his first classical win over World Champion Ding Liren to level the scores at 1.5-1.5 going into the first rest day of the 2024 FIDE World Championship. Gukesh posed tough problems in the opening of game three, but...",
+         "description" : "GM Gukesh Dommaraju has scored his first classical win over World Champion Ding Liren to level the scores at 1.5-1.5 going into the first rest day of the 2024 FIDE World Championship. Gukesh posed tough problems in the opening of game three, but j...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
@@ -178,20 +210,12 @@ news_feed (
          "title" : "Chessbits for Beginners: Pawn Chains"
       },
       {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-pawn-weakness\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_iOxglwZRXw.jpg?itok=MvsS_62W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-pawn-weakness",
-         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
-         "title" : "Chessbits for Beginners: Pawn Weakness"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros substitutes for Road to 2000, and his class is all about bishops. 2024.11.26<br /> Guha Mitrabha vs Edvin Trost, Teplice Open (2023): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2675856\">https://www.chessgames.com/perl/chessgame?gid=2675856</a><br /> Pavel Tregubov vs Nils Grandelius, World Blitz Championship (2016): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1857089\">https://www.chessgames.com/perl/chessgame?gid=1857089</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bad-bad-bishops-road-2000-gm-denes-boros",
-         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
-         "title" : "Bad Bad Bishops! | Road to 2000 - GM Denes Boros"
+         "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wcc-games-1-3-ding-defies-expectations-gukesh-bounces-back",
+         "pubDate" : "Wed, 27 Nov 2024 00:00:00",
+         "title" : "WCC Games 1-3: Ding Defies Expectations, Gukesh Bounces Back"
       },
       {
          "description" : "This week's puzzles come from the 2024 FIDE World Youth Championships, held earlier this month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships over the next few weeks. You can see our CLO coverage of the World Youth here and the World Cadet here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
@@ -936,14 +960,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42436603/how-viswanathan-anand-won-five-world-chess-championship-titles?device=featurephone",
          "pubDate" : "Sun, 17 Nov 2024 00:49:56",
          "title" : "How Viswanathan Anand won his five world chess championship titles"
-      },
-      {
-         "description" : "From November 7 through 11, NYC Chess Norms hosted its 19th invitational, consisting of two GM and two IM Round Robins as well as a fifth Scheveningen section. Despite no GM norms, each of the GM-A and GM-B section produced some big news.In the GM-A section, GM Pawel Teclaf and IM Brewington Hardaway tied for first with 6/9 scores. Hardaway entered the event with all three GM norms already under his belt, and the big question was whether he could break the 2500 FIDE rating threshold needed to become eligible for the GM title. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Two recent heroes of the NYC Chess Norms invitationals: Hardaway emerged victori",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/hardaway-crosses-2500-fide-becomes-gm-elect",
-         "pubDate" : "Sun, 17 Nov 2024 00:00:00",
-         "title" : "Hardaway Crosses 2500 FIDE, Becomes GM-Elect"
       },
       {
          "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
