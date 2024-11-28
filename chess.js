@@ -10,6 +10,14 @@ news_feed (
          "title" : "Wall Street Gambit: Where chess meets finance"
       },
       {
+         "description" : "ChessBase Magazine Extra is the ideal supplement to ChessBase Magazine. In the new Extra #222: Videos by Felix Blohberger on the Reti Opening and Nico Zwirs on the Najdorf. Plus the 'Olympiad Special' with 21 top-class analyses by David Howell, Georg Meier, Thai Dai Van Nguyen, Yannick Pelletier, Alan Pichot, Jorden Van Foreest, Nikita Vitiugov, Radoslaw Wojtaszek and many more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-222-with-olympia-special",
+         "pubDate" : "Thu, 28 Nov 2024 10:04:27",
+         "title" : "New: CBM Extra #222 with 'Olympia Special'"
+      },
+      {
          "description" : "Finally, in this three-part series, we come to the first full Babson task endgame study, composed by Gady Costeff. Many thought it was not possible to fulfil this extremely difficult task. Harold van der Heijden describes the full story. But one problem remains: the position is not legal. Costeff had already constructed it in 2011 and tried in vain to find a legal version. So this is still an open problem. Maybe you can give it a try?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruanabrings-da-pain-grandmaster-psychology-gm-denes-boros",
          "pubDate" : "Thu, 28 Nov 2024 01:19:10",
          "title" : "CARUANA...Brings Da Pain | Grandmaster Psychology - GM Denes Boros"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Friday, November 29, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore after a rest day o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-4",
+         "pubDate" : "Thu, 28 Nov 2024 01:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 4"
       },
       {
          "description" : " Gukesh won the third game of the World Chess Championship match in Singapore against Ding Liren. This was an important theoretical strike too, I for one will need a line to meet it. In the Exchange Variation of the Queen's Gambit Gukesh chose to allow the line 6.Qc2 g6 which is a key part of many opening repertoires for black these days given that there are fairly clear paths to equality after the regular 7.Bg5. Rather strangely last year there were a small number of high level games starting with a Kramnik rapid game using 7.h3 with the idea of 7...Bf5 8.Qb3 Qb6 9.g4. Given that the main line is regarded is very OK for black it's a surprise this move hasn't been tried more often. The resul",
@@ -1010,14 +1026,6 @@ news_feed (
          "title" : "Prodigies: Ethan, Anish and Bodhana"
       },
       {
-         "description" : "When GM Magnus Carlsen began with 5.5/6, crossed 2900, and took the sole lead in the 2024 Tata Steel Chess India Open Blitz, it looked like another perfect day at the office, but the world number-one ended with a 20-move loss to GM Arjun Erigaisi ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-4",
-         "pubDate" : "Sat, 16 Nov 2024 08:56:00",
-         "title" : "Carlsen Crosses 2900 But Arjun, Praggnanandhaa Hit Back"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115350200.cms\" />Magnus Carlsen triumphed at the Tata Steel India Open Rapid chess tournament in Kolkata, securing victory with a round to spare. Despite a late surge by Nodirbek Abdusattorov, Carlsen maintained his composure to finish with 7.5 points. Indian Grandmaster R Praggnanandhaa secured second place ahead of Wesley So due to a superior tie-break score.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1176,6 +1184,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/",
          "pubDate" : "Mon, 11 Nov 2024 23:30:00",
          "title" : "Maurice Ashley's new chess initiative announced!"
+      },
+      {
+         "description" : "According to the recent post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/where-was-i.html\">Where Was I?</A> (November 2024), Mondays could be for a new series on AI comics. Sounds good to me, but on what theme? <P> While I was preparing that post, I browsed bookmarks that had accumulated since I cut back on blogging almost six months ago. One in particular caught my attention: <A HREF=\"https://en.chessbase.com/post/elon-musk-criticizes-chess-again\">Elon Musk criticizes chess... again!</A> (chessbase.com; Albert Silver):- <BLOCKQUOTE> In what is now a recurring theme, Elon Musk, the world's richest man, once again took to his now owned Twitter/X to rain hell and fire on the royal g",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/elon-musk-goes-trolling.html",
+         "pubDate" : "Mon, 11 Nov 2024 16:17:00",
+         "title" : "Elon Musk Goes Trolling"
       },
       {
          "description" : "",
