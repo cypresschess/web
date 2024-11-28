@@ -62,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/42627880/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-3?device=featurephone",
-         "pubDate" : "Wed, 27 Nov 2024 08:31:20",
+         "pubDate" : "Wed, 27 Nov 2024 09:46:53",
          "title" : "Gukesh draws level in World Championship after impressive win over Ding Liren in game 3"
       },
       {
