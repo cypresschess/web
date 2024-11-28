@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3325",
+         "pubDate" : "Thu, 28 Nov 2024 20:31:41",
+         "title" : "Wall Street Gambit: Where chess meets finance"
+      },
+      {
+         "description" : "Nihal Sarin (photo) and Javokhir Sindarov are sharing the lead after seven rounds at the third edition of the President Cup in Tashkent, Uzbekistan. The two youngsters are leading amid a field of 250 players. The total prize money of the event is USD 75,000. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/president-cup-2024-r7",
+         "pubDate" : "Thu, 28 Nov 2024 02:15:00",
+         "title" : "Sindarov and Nihal share the lead at the President Cup in Uzbekistan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> See what happens when your prep goes wrong against one of the world&#039;s best </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanabrings-da-pain-grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DALHKEe4Uos.jpg?itok=ljvby_rD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruanabrings-da-pain-grandmaster-psychology-gm-denes-boros",
+         "pubDate" : "Thu, 28 Nov 2024 01:19:10",
+         "title" : "CARUANA...Brings Da Pain | Grandmaster Psychology - GM Denes Boros"
+      },
+      {
          "description" : " Gukesh won the third game of the World Chess Championship match in Singapore against Ding Liren. This was an important theoretical strike too, I for one will need a line to meet it. In the Exchange Variation of the Queen's Gambit Gukesh chose to allow the line 6.Qc2 g6 which is a key part of many opening repertoires for black these days given that there are fairly clear paths to equality after the regular 7.Bg5. Rather strangely last year there were a small number of high level games starting with a Kramnik rapid game using 7.h3 with the idea of 7...Bf5 8.Qb3 Qb6 9.g4. Given that the main line is regarded is very OK for black it's a surprise this move hasn't been tried more often. The resul",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -58,6 +82,14 @@ news_feed (
          "title" : "World Championship: Gukesh logs first win vs Ding Liren"
       },
       {
+         "description" : "Just as the World Championship heads into its first rest day, Gukesh's win is significant, both in its manner and its timing.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42643524/gukesh-feels-great-outplays-ding-liren-grab-first-victory-fide-chess-world-championship-2024?device=featurephone",
+         "pubDate" : "Wed, 27 Nov 2024 11:36:20",
+         "title" : "Gukesh 'feels great', outplays Ding to grab first victory of Chess World Championship"
+      },
+      {
          "description" : "Ding Liren ran out of time in the 37th move, with Gukesh in advantage for much of the game.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -66,20 +98,20 @@ news_feed (
          "title" : "Gukesh draws level in World Championship after impressive win over Ding Liren in game 3"
       },
       {
+         "description" : " GM Gukesh Dommaraju has scored his first classical win over World Champion Ding Liren to level the scores at 1.5-1.5 going into the first rest day of the 2024 FIDE World Championship. Gukesh posed tough problems in the opening of game three, but...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
+         "pubDate" : "Wed, 27 Nov 2024 08:35:00",
+         "title" : "Gukesh Beats Ding To Level The Scores After Game 3"
+      },
+      {
          "description" : "GMs Magnus Carlsen and Christopher Yoo were the Titled Tuesday victors on November 26. Carlsen, who won outright on 10 points, got his first Titled Tuesday win of November in the last week of November&#38;mdash;and now has at least one win every month...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-yoo-win-titled-tuesday-november-26-2024",
          "pubDate" : "Wed, 27 Nov 2024 07:50:20",
          "title" : "It's Tuesdays With Magzy As Carlsen Returns To Win Column"
-      },
-      {
-         "description" : "Explore the fascinating world of chess like never before with \"Beyond the Board\", a new digital exhibition by FIDE and Google on the Google Arts & Culture platform. Curated by WGM Anna Burtasova, this interactive journey delves into the royal game's rich history, from its ancient origins to the era of Artificial Intelligence. Discover pivotal moments, influential players, and the game's cultural impact, as well as its role in shaping AI innovation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beyond-the-board-exhibition-fide-google",
-         "pubDate" : "Wed, 27 Nov 2024 07:10:00",
-         "title" : "Beyond the board: A virtual exhibition by FIDE and Google"
       },
       {
          "description" : "From 15th to 17th November 2024, a FIDE Arbiters' Seminar was successfully organized in Ranchi, Jharkhand, by the All India Chess Federation, under the auspices",
@@ -170,22 +202,6 @@ news_feed (
          "title" : "Wednesday Workout: Subtle Details from the World Youth Champs"
       },
       {
-         "description" : "It's safe to say that a *lot* of digital ink has been spilt on Game One, and deservedly so. A casual scan of YouTube alone will turn up summaries and game analysis by every amateur and professional streamer under the sun. But in that tsunami of content some pearls really stand out, and one of those is the C-Squared video with incredibly insightful commentary by Fabiano Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fabiano-caruana-analyzes-game-one-in-depth",
-         "pubDate" : "Tue, 26 Nov 2024 20:20:00",
-         "title" : "Fabiano Caruana analyses Game One in depth"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-foot-soldiers-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xwmPUp1wNHw.jpg?itok=3gIZH9tV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/little-foot-soldiers-chess",
-         "pubDate" : "Tue, 26 Nov 2024 19:18:29",
-         "title" : "The Little Foot Soldiers of Chess"
-      },
-      {
          "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 1&frac12; Gukesh 0 &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -208,22 +224,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-takes-no-risks-at-all-in-drawn-game-two",
          "pubDate" : "Tue, 26 Nov 2024 15:46:00",
          "title" : "Ding takes no risks at all in drawn game two - 2"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju has scored his first classical win over World Champion Ding Liren to level the scores at 1.5-1.5 going into the first rest day of the 2024 FIDE World Championship. Gukesh posed tough problems in the opening of game three, but j...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
-         "pubDate" : "Tue, 26 Nov 2024 14:00:00",
-         "title" : "Gukesh Beats Ding To Level The Scores After Game 3"
-      },
-      {
-         "description" : "On Monday, Ding Liren, the reigning world champion, began a match in Singapore to defend the title against the 18-year-old player Gukesh Dommaraju. According to many of the world's best players, and Ding himself, he is the underdog in the match. Never has a chess world championship titleholder seemed as vulnerable. But now Ding is up on the scoreboard after a remarkable win on opening day. This is what the New York Times published before the start of the match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-might-not-be-close",
-         "pubDate" : "Tue, 26 Nov 2024 14:00:00",
-         "title" : "It might not be close"
       },
       {
          "description" : "",
@@ -296,14 +296,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/call-nominations-2025-us-chess-executive-board-election",
          "pubDate" : "Tue, 26 Nov 2024 00:00:00",
          "title" : "Call for Nominations: 2025 US Chess Executive Board Election "
-      },
-      {
-         "description" : "If you are a Gukesh fan, this image illustrates not only his feelings of dismay and disbelief after the opening loss, but yours as well. If you were rooting for Ding, then euphoric cheering and fist pumping are likely yours. Regardless, the lengthy history of the World Championship in chess has seen more than one such that ended in redemption for the early loser. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-losses-and-world-championship-nerves",
-         "pubDate" : "Mon, 25 Nov 2024 23:50:00",
-         "title" : "Opening losses and World Championship nerves"
       },
       {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
