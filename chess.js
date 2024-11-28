@@ -10,12 +10,20 @@ news_feed (
          "title" : "Wall Street Gambit: Where chess meets finance"
       },
       {
+         "description" : "Every complex piece of software has hidden gems that aren't immediately obvious. For example, the reference search in ChessBase 18 has a new superpower that's easy to overlook. Do you know the best way to prepare your teammates for a match? What is the crucial innovation that Rasmus Svane brought to the program? And why does Malcolm Pein never walk alone?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tips-and-tricks-for-chessbase-18",
+         "pubDate" : "Thu, 28 Nov 2024 15:30:00",
+         "title" : "Tips and Tricks for ChessBase 18"
+      },
+      {
          "description" : "ChessBase Magazine Extra is the ideal supplement to ChessBase Magazine. In the new Extra #222: Videos by Felix Blohberger on the Reti Opening and Nico Zwirs on the Najdorf. Plus the 'Olympiad Special' with 21 top-class analyses by David Howell, Georg Meier, Thai Dai Van Nguyen, Yannick Pelletier, Alan Pichot, Jorden Van Foreest, Nikita Vitiugov, Radoslaw Wojtaszek and many more!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-cbm-extra-222-with-olympia-special",
          "pubDate" : "Thu, 28 Nov 2024 10:04:27",
-         "title" : "New: CBM Extra #222 with 'Olympia Special'"
+         "title" : "New: CBM Extra #222 with 'Olympiad Special'"
       },
       {
          "description" : "Finally, in this three-part series, we come to the first full Babson task endgame study, composed by Gady Costeff. Many thought it was not possible to fulfil this extremely difficult task. Harold van der Heijden describes the full story. But one problem remains: the position is not legal. Costeff had already constructed it in 2011 and tried in vain to find a legal version. So this is still an open problem. Maybe you can give it a try?",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/underpromotion-milestones-part-three",
          "pubDate" : "Thu, 28 Nov 2024 09:00:00",
          "title" : "Underpromotion Milestones - part 3"
+      },
+      {
+         "description" : "When asked whether he missed playing in a world championship, Carlsen's answer was unambiguous: \"No.\"",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42659836/missing-magnus-carlsen-world-best-player-not-fide-world-championship-chess-worried?device=featurephone",
+         "pubDate" : "Thu, 28 Nov 2024 08:55:14",
+         "title" : "Missing Magnus: The world's best player is not at the world championship, should chess be worried?"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros proclaims his love for pure classical (long time control) chess. 2024.11.20<br /> Leonid Yudasin vs Jeroen Piket, m NED vs ISR 30&#039; ICC (1995): C55 Two knights defence (Modern bishop&#039;s opening)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1109014\">https://www.chessgames.com/perl/chessgame?gid=1109014</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yudasin-vs-piket-you-cant-beat-classical-chess-grandmaster-psychol",
@@ -1360,14 +1376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3296",
          "pubDate" : "Thu, 07 Nov 2024 18:36:14",
          "title" : "WGP Shymkent: Salimova scores her first win in a day full of draws; Goryachkina maintains lead"
-      },
-      {
-         "description" : " FM Shreyas Smith won his fifth Jamaican national title with a scintillating performance. At 27, he was the &#8220;senior&#8221; member of the national team in Budapest Olympiad. Smith is also one of the mainstays on the national scene. FM Shreyas SmithPhoto Shreyas Smith (lichess.org) At the 2024 Jamaica National Championship, Smith scorched the field with The post <a href=\"https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/\">Shreyas Smith takes Jamaican title with 9/9</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/07/shreyas-smith-takes-jamaican-title-with-9-9/",
-         "pubDate" : "Thu, 07 Nov 2024 14:55:16",
-         "title" : "Shreyas Smith takes Jamaican title with 9/9"
       }
    ]
 }
