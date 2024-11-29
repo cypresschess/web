@@ -58,6 +58,14 @@ news_feed (
          "title" : "Underpromotion Milestones - part 3"
       },
       {
+         "description" : "When asked whether he missed playing in a world championship, Carlsen's answer was unambiguous: \"No.\"",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42659836/missing-magnus-carlsen-world-best-player-not-fide-world-championship-chess-worried?device=featurephone",
+         "pubDate" : "Thu, 28 Nov 2024 08:55:14",
+         "title" : "Missing Magnus: The world's best player is not at the world championship, should chess be worried?"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros proclaims his love for pure classical (long time control) chess. 2024.11.20<br /> Leonid Yudasin vs Jeroen Piket, m NED vs ISR 30&#039; ICC (1995): C55 Two knights defence (Modern bishop&#039;s opening)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1109014\">https://www.chessgames.com/perl/chessgame?gid=1109014</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yudasin-vs-piket-you-cant-beat-classical-chess-grandmaster-psychol",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42264924/ding-liren-d-gukesh-chess-world-championships-worried-losing-badly?device=featurephone",
          "pubDate" : "Fri, 8 Nov 2024 06:23:39",
          "title" : "'Worried about losing very badly': Ding Liren on World Championship vs D Gukesh"
-      },
-      {
-         "description" : "Please find the Certificates here SL.NO Name 1 Palak Sinha 2 Abhishek Raj 3 Meera Kumari 4 Harsh, Himanshu 5 Ashish Singhal 6 Pammi, Rani",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-patna-on-19-20-october-2024/",
-         "pubDate" : "Fri, 08 Nov 2024 03:40:05",
-         "title" : "Certificate of SNA seminar held in Patna on 19 & 20 October 2024"
       }
    ]
 }
