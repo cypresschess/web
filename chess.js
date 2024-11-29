@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is an exciting World Championship. Whereas previous matches had started with five, six and even twelve draws, Ding vs Gukesh had two decisive games - and one tense draw - in the first three. We have provided full live commentary, and a good deal of post-game analysis. Up for some more? Here are all three games with comments from a leading chess trainer. There is a lot to learn from his view of things.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-games-1-3",
+         "pubDate" : "Fri, 29 Nov 2024 21:00:00",
+         "title" : "World Championship games 1-3"
+      },
+      {
+         "description" : "The World Chess Championship in Singapore remains tied after four games, with Gukesh D holding reigning champion Ding Liren to a draw in their latest encounter. Ding's creative opening, influenced by his second Richard Rapport, tested the young challenger, but Gukesh aptly navigated the complications to secure a solid result with the black pieces. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g4",
+         "pubDate" : "Fri, 29 Nov 2024 18:35:00",
+         "title" : "World Championship Game 4: Gukesh reacts well to Ding's opening surprise, draws"
+      },
+      {
+         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The event has struggled to find a spectator friendly venue since the closure and demolition of much of Olympia in preparation for an as yet unfinished revamp. Spectators are welcome again this year and this was a huge part of the original concept of the event. The field for the closed round robin has yet to be announced and there is an open and many other side events including simultaneous exhibitions.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
+         "pubDate" : "Fri, 29 Nov 2024 16:32:00",
+         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> By using strong examples, GM Var Akobian demonstrates how players have the stealthiness of preparing or interposing moves that can not prevent the inevitable. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-silent-moves-gm-var-akobian-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1800-or-higher-silent-moves-gm-var-akobian-0",
+         "pubDate" : "Fri, 29 Nov 2024 16:20:12",
+         "title" : "1800+ or Higher: Silent Moves - GM Var Akobian"
+      },
+      {
          "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -42,20 +74,28 @@ news_feed (
          "title" : "Gukesh and Ding tied in world chess title clash as England's best pitch up at Emirates"
       },
       {
+         "description" : "GM Nihal Sarin won the 3rd President Cup, a strong, nine-round Swiss held in Tashkent, Uzbekistan. He earned the $25,000 first prize after scoring 7.5/9 undefeated with a performance rating of 2809.&#38;nbsp; Final Standings | Top 15 Rk. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-president-cup-nihal-wins",
+         "pubDate" : "Fri, 29 Nov 2024 11:49:00",
+         "title" : "Undefeated Nihal Wins 2024 President Cup"
+      },
+      {
+         "description" : "Seventeen-year-old GM Christopher Yoo has been slapped with a one-year suspension from national tournaments following his expulsion from the 2024 US Chess Championship. In a statement to Chess.com, the teenager&#39;s father calls the sanction &#34;tough b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/christopher-yoo-handed-one-year-ban-following-strike",
+         "pubDate" : "Fri, 29 Nov 2024 11:30:00",
+         "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
-      },
-      {
-         "description" : "The two games in which Gukesh D had the black pieces so far in the World Championship match have ended drawn. In game 4, Ding Liren surprised his opponent with 1.Nf3 and a rather unusual opening system. Gukesh reacted well, though, and managed to keep the balance until signing a 42-move draw. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Fri, 29 Nov 2024 09:45:00",
-         "title" : "World Championship: Gukesh holds draw with black"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
@@ -82,15 +122,7 @@ news_feed (
          "title" : "2024 World Chess Championship: Game 3"
       },
       {
-         "description" : "Italian organiser Claudio Selleri captures the vibrant spirit of the 2024 World Cadet Chess Championship, where 710 young players from 77 nations competed across six categories. Unlike the reserved atmosphere of other tournaments, this event brimmed with joyful spontaneity, blending serious gameplay with infectious enthusiasm. Organised by GM Roberto Mogranzini and Unichess, it boasted world-class facilities, interactive side events and a dazzling venue enriched by giant chess pieces and cultural flair. Distinguished guests, including Andrea Bocelli, added to the grandeur of what FIDE hailed as a landmark tournament. | Photos by Claudio Selleri and Patria Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cadet-championship-2024-report",
-         "pubDate" : "Fri, 29 Nov 2024 06:00:00",
-         "title" : "World Cadet Championships in Montesilvano: Happiness and spontaneity!"
-      },
-      {
-         "description" : "World Champion Ding Liren was joined by GM Richard Rapport on the way to game four of the 2024 FIDE World Championship, and 1.Nf3 and the offbeat opening that followed was right out of the Rapport playbook. GM Gukesh Dommaraju reacted quickly and ...",
+         "description" : "World Champion Ding Liren was joined by GM Richard Rapport on the way to game four of the 2024 FIDE World Championship, and 1.Nf3 and the offbeat opening that followed felt right out of the Rapport playbook. GM Gukesh Dommaraju reacted quickly and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-4",
@@ -106,12 +138,12 @@ news_feed (
          "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
       },
       {
-         "description" : "This December, the 2024 FIDE World Rapid & Blitz Championships bring chess to the heart of Wall Street, alongside an extraordinary new event: Wall Street Gambit. Blending the strategic worlds of chess and finance, the conference features keynote speakers like Kenneth Rogoff and D. Sculley, blitz matches against legends Magnus Carlsen, Viswanathan Anand and Fabiano Caruana, and unparalleled networking opportunities. Held at Cipriani 55 Wall Street on December 29, this one-of-a-kind gathering promises to unite sharp minds from chess, finance and AI.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wall-street-gambit-chess-finance",
-         "pubDate" : "Fri, 29 Nov 2024 01:10:00",
-         "title" : "Wall Street Gambit: Where chess meets finance"
+         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
+         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
+         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/28/2024-world-chess-championship-game-2/",
          "pubDate" : "Thu, 28 Nov 2024 17:13:09",
          "title" : "2024 World Chess Championship: Game 2"
-      },
-      {
-         "description" : "ChessBase Magazine Extra is the ideal supplement to ChessBase Magazine. In the new Extra #222: Videos by Felix Blohberger on the Reti Opening and Nico Zwirs on the Najdorf. Plus the 'Olympiad Special' with 21 top-class analyses by David Howell, Georg Meier, Thai Dai Van Nguyen, Yannick Pelletier, Alan Pichot, Jorden Van Foreest, Nikita Vitiugov, Radoslaw Wojtaszek and many more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-222-with-olympia-special",
-         "pubDate" : "Thu, 28 Nov 2024 10:04:27",
-         "title" : "New: CBM Extra #222 with 'Olympiad Special'"
       },
       {
          "description" : "Finally, in this three-part series, we come to the first full Babson task endgame study, composed by Gady Costeff. Many thought it was not possible to fulfil this extremely difficult task. Harold van der Heijden describes the full story. But one problem remains: the position is not legal. Costeff had already constructed it in 2011 and tried in vain to find a legal version. So this is still an open problem. Maybe you can give it a try?",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-little-foot-soldiers",
          "pubDate" : "Wed, 27 Nov 2024 01:18:33",
          "title" : "Chessbits for Beginners: The Little Foot Soldiers"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-bishops-are-better\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrpIPmrzIeY.jpg?itok=eRfs-XE9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-bishops-are-better",
-         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
-         "title" : "Chessbits for Beginners: Bishops Are Better"
       },
       {
          "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
       },
       {
-         "description" : "GM Magnus Carlsen has added the 2024 Tata Steel Chess India Open Blitz title to his Rapid crown after beating GM Arjun Erigaisi in the penultimate round. He confessed it was a &#34;really, really nervy day,&#34; since a five-game drawing streak enabled Ar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-india-day-5",
-         "pubDate" : "Sun, 17 Nov 2024 04:24:00",
-         "title" : "Carlsen Beats Arjun To Win Double Gold; Lagno Takes Women's Blitz"
-      },
-      {
          "description" : "Anand's five world titles are the story of a non-Soviet, non-Westerner who dared to take on the established seat of authority in the sport, and succeeded in toppling it.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.europechess.org/indjic-remains-in-the-sole-lead-chigaev-and-cheparinov-get-closer-to-the-top-of-eicc2024/",
          "pubDate" : "Sat, 16 Nov 2024 20:22:48",
          "title" : "Indjic remains in the sole lead, Chigaev and Cheparinov get closer to the top of EICC2024"
-      },
-      {
-         "description" : "Missouri and Saint Louis were victorious in the Quarterfinals of the 2024 Collegiate Chess League (CCL) Fall Season on Saturday. Missouri scored 9-3 vs. Yale, supported by 3-0 scores from GM Mikhail Antipov and IM Isik Can. GM Dambasuren Batsure...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-qf-mizzou-slu",
-         "pubDate" : "Sat, 16 Nov 2024 18:30:00",
-         "title" : "Missouri, Saint Louis Advance To Semifinals"
       },
       {
          "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and was put in a medically-induced coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus NBC The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1384,14 +1384,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-rajahmundry-andhra-pradesh-on-30-november-01-december-2024/",
          "pubDate" : "Sat, 09 Nov 2024 01:25:50",
          "title" : "SNA Seminar & Exam in Rajahmundry , Andhra Pradesh on 30 November & 01 December 2024"
-      },
-      {
-         "description" : " The 24th European Individual Championship took place 8th to 20th November 2024. Alexander Indjic was the clear winner with 9/11 half a point clear of Daniel Dardha on 8.5pts, Frederik Svane was third ahead of a big group on tie-break all scoring 8 points. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/24th-european-individual-championship-2024",
-         "pubDate" : "Fri, 8 Nov 2024 19:12:00",
-         "title" : "24th European Individual Championship 2024 - Games and Results"
       }
    ]
 }
