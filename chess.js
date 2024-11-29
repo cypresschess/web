@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With Gukesh Dommaraju and Ding Liren set for game four, English talents prepare to take on overseas rivals China's Ding Liren, the current champion, and India's Gukesh Dommaraju, 18, are level at 1.5-1.5 after three of their scheduled best-of-14 games World Chess Championship match in Singapore. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=131517&amp;pid=52629\">Ding won their first game</a> before Gukesh, the challenger, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2807569\">levelled in game three</a> when Ding, in a hopeless position, lost on time while making his 37th move. Game four on Friday starts at 9am GMT, and is expected to last around four or five hours. You can ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/nov/29/gukesh-dommaraju-ding-liren-world-chess-championship-englands-best-emirates",
+         "pubDate" : "Fri, 29 Nov 2024 08:00:05",
+         "title" : "Gukesh and Ding tied in world chess title clash as England's best pitch up at Emirates"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0",
+         "pubDate" : "Fri, 29 Nov 2024 07:20:02",
+         "title" : "Monday Knight Mayhem: Beginner Breakdown and Masterclass - Sara Herman and GM Denes Boros"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation and Arbiters' Commission AICF, Karnataka State Chess Association was organized a Senior National Arbiters Seminar &#38; Exam at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-maddur-mandya-karnataka-from-23-to-24-november-2024/",
+         "pubDate" : "Fri, 29 Nov 2024 06:40:51",
+         "title" : "Final Report :SNA Seminar, Maddur, Mandya, Karnataka from 23 to 24 November 2024"
+      },
+      {
+         "description" : " 2024 World Chess Championship: Game 3Wednesday, 26 November 2024 Gukesh breaks through evens the score! Dommaraju Gukesh won Game 3 of the World Championship match with an impressive win over Ding Liren. This game rode on a razor's edge when Ding was close to stealing the initiative. The game went down normal channels and followed The post <a href=\"https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/\">2024 World Chess Championship: Game 3</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/",
+         "pubDate" : "Fri, 29 Nov 2024 06:21:14",
+         "title" : "2024 World Chess Championship: Game 3"
+      },
+      {
+         "description" : "Italian organiser Claudio Selleri captures the vibrant spirit of the 2024 World Cadet Chess Championship, where 710 young players from 77 nations competed across six categories. Unlike the reserved atmosphere of other tournaments, this event brimmed with joyful spontaneity, blending serious gameplay with infectious enthusiasm. Organised by GM Roberto Mogranzini and Unichess, it boasted world-class facilities, interactive side events and a dazzling venue enriched by giant chess pieces and cultural flair. Distinguished guests, including Andrea Bocelli, added to the grandeur of what FIDE hailed as a landmark tournament. | Photos by Claudia Selleri and Patria Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cadet-championship-2024-report",
+         "pubDate" : "Fri, 29 Nov 2024 06:00:00",
+         "title" : "World Cadet Championships in Montesilvano: Happiness and spontaneity!"
+      },
+      {
          "description" : "This December, the 2024 FIDE World Rapid & Blitz Championships bring chess to the heart of Wall Street, alongside an extraordinary new event: Wall Street Gambit. Blending the strategic worlds of chess and finance, the conference features keynote speakers like Kenneth Rogoff and D. Sculley, blitz matches against legends Magnus Carlsen, Viswanathan Anand and Fabiano Caruana, and unparalleled networking opportunities. Held at Cipriani 55 Wall Street on December 29, this one-of-a-kind gathering promises to unite sharp minds from chess, finance and AI.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -232,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-bishops-are-better",
          "pubDate" : "Wed, 27 Nov 2024 01:18:33",
          "title" : "Chessbits for Beginners: Bishops Are Better"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-pawn-chains\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgC00LIfizk.jpg?itok=bmUqn5Bh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-pawn-chains",
-         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
-         "title" : "Chessbits for Beginners: Pawn Chains"
       },
       {
          "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
@@ -1336,22 +1368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3298",
          "pubDate" : "Fri, 08 Nov 2024 14:45:17",
          "title" : "FIDE WGP Shymkent: Goryachkina clinches victory"
-      },
-      {
-         "description" : " England has been the most successful nation in senior events, but competition has become stiffer in Europe, while the US has won the world over-50 teams two years running England's success in senior events has been outstanding in recent years, but there are indications that the golden era, which was already ­challenged by US over-50 team victories in 2023 and 2024, may be undermined ­further by individuals and teams from Eastern Europe. At the European individual 65+ championship in Lignano Sabbiadoro, on the Adriatic coast in northern Italy, the holder, GM John Nunn, was the strong favourite, but finished only sixth with 6.5/9. The grand ­master and eminent author from Bude in ­Cornwall wa",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/nov/08/chess-england-out-of-the-medals-at-european-senior-championships",
-         "pubDate" : "Fri, 08 Nov 2024 08:00:04",
-         "title" : "Chess: England out of the medals at European senior championships"
-      },
-      {
-         "description" : "\"I will be the underdog approaching this match,\" said World Champion Ding Liren",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42264924/ding-liren-d-gukesh-chess-world-championships-worried-losing-badly?device=featurephone",
-         "pubDate" : "Fri, 8 Nov 2024 06:23:39",
-         "title" : "'Worried about losing very badly': Ding Liren on World Championship vs D Gukesh"
       }
    ]
 }
