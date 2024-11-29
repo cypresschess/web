@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-from-23-to-24-november-2024-at-karnal-haryana/",
+         "pubDate" : "Fri, 29 Nov 2024 15:34:28",
+         "title" : "Final Report: Senior National Arbiter Seminar & Examination from 23 to 24 November 2024 at Karnal, Haryana ."
+      },
+      {
+         "description" : " Ding Liren played a very quiet flank opening against Gukesh in Game 4 of the World Chess Championship in Singapore. Gukesh did admit to being somewhat surprised but he did recall seeing such a setup in the past and chose a sort of reverse London (I think the London System reminds me of some black setups so maybe this is a reverse, reverse something). Anyhow after 12.Nd4 white had a very nice knight and a minority attack on the Queenside, not super scary but at least something. Gukesh is known for his very concrete calculative approach and 13.... Ne5! was sort of asking for f4 in the next few moves, but when is came to it f4 didn't seem very appetizing to Ding, mostly because this pawn push ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-puts-very-little-pressure-on-gukesh-in-drawn-game-4",
+         "pubDate" : "Fri, 29 Nov 2024 14:20:00",
+         "title" : "Ding puts very little pressure on Gukesh in drawn Game 4 - 4"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3328",
+         "pubDate" : "Fri, 29 Nov 2024 13:40:30",
+         "title" : "100% accuracy for Ding Liren and Gukesh in their 4th game draw"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115810708.cms\" />In Game 4 of the World Chess Championship final, India's Gukesh Dommaraju drew with reigning champion Ding Liren of China. Gukesh effectively managed Ding's unexpected Reti Opening, resulting in a balanced position. After 42 moves of cautious play and strategic manoeuvring, the game concluded in a draw. The score stands at 2-2 with Game 5 scheduled for Saturday. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-indias-d-gukesh-holds-ding-liren-in-game-4-remains-level-on-points/articleshow/115810708.cms",
+         "pubDate" : "Fri, 29 Nov 2024 13:15:49",
+         "title" : "World Championship: India's Gukesh holds Liren in Game 4"
+      },
+      {
+         "description" : " After Gukesh Dommaraju and Ding Liren draw game four, English talents prepare to take on overseas rivals China's Ding Liren, the world champion, and India's Gukesh Dommaraju, 18, are level at 2-2 after four of their scheduled best-of-14 games title match in Singapore. Ding <a href=\"https://www.chessgames.com/perl/chess.pl?tid=131517&amp;amp;pid=52629\">won their first game</a> before Gukesh, the challenger, levelled in game three when Ding, in a hopeless position, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2807569\">lost on time</a> while making his 37th move. Friday's game four was a calm draw by repetition of position in 42 moves, with frequent exchanges which finally <a href=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/nov/29/gukesh-dommaraju-ding-liren-world-chess-championship-englands-best-emirates",
+         "pubDate" : "Fri, 29 Nov 2024 13:11:45",
+         "title" : "Gukesh and Ding tied in world chess title clash as England's best pitch up at Emirates"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,20 +50,12 @@ news_feed (
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
       },
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. After three games, the score is tied following Gukesh's win on Wednesday. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "The two games in which Gukesh D had the black pieces so far in the World Championship match have ended drawn. In game 4, Ding Liren surprised his opponent with 1.Nf3 and a rather unusual opening system. Gukesh reacted well, though, and managed to keep the balance until signing a 42-move draw. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Fri, 29 Nov 2024 09:45:00",
-         "title" : "World Championship: Game 4 - Live!"
-      },
-      {
-         "description" : " With Gukesh Dommaraju and Ding Liren set for game four, English talents prepare to take on overseas rivals China's Ding Liren, the current champion, and India's Gukesh Dommaraju, 18, are level at 1.5-1.5 after three of their scheduled best-of-14 games World Chess Championship match in Singapore. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=131517&amp;pid=52629\">Ding won their first game</a> before Gukesh, the challenger, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2807569\">levelled in game three</a> when Ding, in a hopeless position, lost on time while making his 37th move. Game four on Friday starts at 9am GMT, and is expected to last around four or five hours. You can ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/nov/29/gukesh-dommaraju-ding-liren-world-chess-championship-englands-best-emirates",
-         "pubDate" : "Fri, 29 Nov 2024 08:00:05",
-         "title" : "Gukesh and Ding tied in world chess title clash as England's best pitch up at Emirates"
+         "title" : "World Championship: Gukesh holds draw with black"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wall-street-gambit-chess-finance",
          "pubDate" : "Fri, 29 Nov 2024 01:10:00",
          "title" : "Wall Street Gambit: Where chess meets finance"
-      },
-      {
-         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
-         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
-         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Carlsen takes sole lead in Tata Steel India Chess tournament"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115294662.cms\" />Three-year-old chess prodigy Anish Sarkar, the youngest-rated player in history, met his idol, Magnus Carlsen, who offered encouragement and advice. Carlsen, impressed by Anish's abilities, emphasised the importance of enjoying the game over focusing on ratings and titles. Mentored by GM Dibyendu Barua, Anish's exceptional talent has propelled him to achieve remarkable milestones at a young age.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-anish-sarkar-chess-tata-steel-india-rapid-blitz-tournament/articleshow/115294662.cms",
-         "pubDate" : "Thu, 14 Nov 2024 10:15:54",
-         "title" : "Carlsen meets 3-year-old chess prodigy Anish: 'Amazing to see his level'"
-      },
-      {
          "description" : "Reading about the latest and greatest new features in ChessBase is exciting, but if you can barely use the basics, then it can also be frustrating. But worry not! You can learn them all in under 20 minutes, and even how to customize the work space, in this crystal clear video tutorial.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1376,14 +1392,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/24th-european-individual-championship-2024",
          "pubDate" : "Fri, 8 Nov 2024 19:12:00",
          "title" : "24th European Individual Championship 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3298",
-         "pubDate" : "Fri, 08 Nov 2024 14:45:17",
-         "title" : "FIDE WGP Shymkent: Goryachkina clinches victory"
       }
    ]
 }
