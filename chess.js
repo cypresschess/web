@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This December, the 2024 FIDE World Rapid & Blitz Championships bring chess to the heart of Wall Street, alongside an extraordinary new event: Wall Street Gambit. Blending the strategic worlds of chess and finance, the conference features keynote speakers like Kenneth Rogoff and D. Sculley, blitz matches against legends Magnus Carlsen, Viswanathan Anand and Fabiano Caruana, and unparalleled networking opportunities. Held at Cipriani 55 Wall Street on December 29, this one-of-a-kind gathering promises to unite sharp minds from chess, finance and AI.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wall-street-gambit-chess-finance",
+         "pubDate" : "Fri, 29 Nov 2024 01:10:00",
+         "title" : "Wall Street Gambit: Where chess meets finance"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Underpromotion Milestones - part 3"
       },
       {
-         "description" : "When asked whether he missed playing in a world championship, Carlsen's answer was unambiguous: \"No.\"",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42659836/missing-magnus-carlsen-world-best-player-not-fide-world-championship-chess-worried?device=featurephone",
-         "pubDate" : "Thu, 28 Nov 2024 08:55:14",
-         "title" : "Missing Magnus: The world's best player is not at the world championship, should chess be worried?"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros proclaims his love for pure classical (long time control) chess. 2024.11.20<br /> Leonid Yudasin vs Jeroen Piket, m NED vs ISR 30&#039; ICC (1995): C55 Two knights defence (Modern bishop&#039;s opening)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1109014\">https://www.chessgames.com/perl/chessgame?gid=1109014</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yudasin-vs-piket-you-cant-beat-classical-chess-grandmaster-psychol",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -72,22 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/bad-bad-bishops-nimzo-road-2000-gm-denes-boros",
          "pubDate" : "Thu, 28 Nov 2024 07:19:25",
          "title" : "Bad Bad Bishops in the Nimzo! | Road to 2000 - GM Denes Boros"
-      },
-      {
-         "description" : "The International Chess Federation and Google are calling on developers worldwide to reimagine chess-playing AI with efficiency at its core. As part of Google's sponsorship of the FIDE World Chess Championship 2024, this competition challenges participants to create smart, resource-light chess engines that perform impressively without relying on powerful computers or extensive data. Hosted on Kaggle, with a $50,000 prize fund, the initiative draws inspiration from Claude Shannon's vision of AI as a problem-solving tool.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/efficient-chess-ai-challenge-kaggle",
-         "pubDate" : "Thu, 28 Nov 2024 07:00:00",
-         "title" : "FIDE and Google create the Efficient Chess AI Challenge, hosted on Kaggle"
-      },
-      {
-         "description" : "Nihal Sarin (photo) and Javokhir Sindarov are sharing the lead after seven rounds at the third edition of the President Cup in Tashkent, Uzbekistan. The two youngsters are leading amid a field of 250 players. The total prize money of the event is USD 75,000. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/president-cup-2024-r7",
-         "pubDate" : "Thu, 28 Nov 2024 02:15:00",
-         "title" : "Sindarov and Nihal share the lead at the President Cup in Uzbekistan"
       },
       {
          "description" : "<div class=\"body text-secondary\"> See what happens when your prep goes wrong against one of the world&#039;s best </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanabrings-da-pain-grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DALHKEe4Uos.jpg?itok=ljvby_rD\" alt=\"\" /></a></div>",
@@ -128,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3324",
          "pubDate" : "Wed, 27 Nov 2024 18:11:40",
          "title" : "Winners crowned at FIDE World Cadet Championship 2024"
-      },
-      {
-         "description" : "The World Chess Championship in Singapore is now level at 1&frac12;-1&frac12; after 18-year-old Gukesh D claimed a commanding victory in Game 3. The youngest challenger in history showcased effective opening preparation and flawless technique to overcome Ding Liren, who struggled with time pressure in the critical phase. With this win, Gukesh has regained momentum ahead of the first rest day, resetting the narrative in a match many predicted he would dominate. Ding, on his part, has proven his resilience in the previous match for the crown. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g3",
-         "pubDate" : "Wed, 27 Nov 2024 17:50:00",
-         "title" : "World Championship Game 3: Gukesh grabs first win, evens the score"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115740369.cms\" />Indian chess prodigy D Gukesh secured his first victory against defending champion Ding Liren in the World Chess Championship in Singapore on Wednesday. Gukesh equalised the score after the third game, capitalizing on Liren's time constraint and positional mistakes. Gukesh expressed satisfaction with his improved play and outplaying his opponent. Liren admitted overlooking a crucial move, contributing to his loss.",
@@ -1376,14 +1352,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-patna-on-19-20-october-2024/",
          "pubDate" : "Fri, 08 Nov 2024 03:40:05",
          "title" : "Certificate of SNA seminar held in Patna on 19 & 20 October 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3297",
-         "pubDate" : "Thu, 07 Nov 2024 21:40:58",
-         "title" : "European Chess Championship 2024 starts in Montenegro"
       }
    ]
 }
