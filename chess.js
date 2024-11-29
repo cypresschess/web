@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3327",
+         "pubDate" : "Fri, 29 Nov 2024 10:13:48",
+         "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
+      },
+      {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. After three games, the score is tied following Gukesh's win on Wednesday. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Fri, 29 Nov 2024 09:45:00",
+         "title" : "World Championship: Game 4 - Live!"
+      },
+      {
          "description" : " With Gukesh Dommaraju and Ding Liren set for game four, English talents prepare to take on overseas rivals China's Ding Liren, the current champion, and India's Gukesh Dommaraju, 18, are level at 1.5-1.5 after three of their scheduled best-of-14 games World Chess Championship match in Singapore. <a href=\"https://www.chessgames.com/perl/chess.pl?tid=131517&amp;pid=52629\">Ding won their first game</a> before Gukesh, the challenger, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2807569\">levelled in game three</a> when Ding, in a hopeless position, lost on time while making his 37th move. Game four on Friday starts at 9am GMT, and is expected to last around four or five hours. You can ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -34,12 +50,28 @@ news_feed (
          "title" : "2024 World Chess Championship: Game 3"
       },
       {
-         "description" : "Italian organiser Claudio Selleri captures the vibrant spirit of the 2024 World Cadet Chess Championship, where 710 young players from 77 nations competed across six categories. Unlike the reserved atmosphere of other tournaments, this event brimmed with joyful spontaneity, blending serious gameplay with infectious enthusiasm. Organised by GM Roberto Mogranzini and Unichess, it boasted world-class facilities, interactive side events and a dazzling venue enriched by giant chess pieces and cultural flair. Distinguished guests, including Andrea Bocelli, added to the grandeur of what FIDE hailed as a landmark tournament. | Photos by Claudia Selleri and Patria Claros",
+         "description" : "Italian organiser Claudio Selleri captures the vibrant spirit of the 2024 World Cadet Chess Championship, where 710 young players from 77 nations competed across six categories. Unlike the reserved atmosphere of other tournaments, this event brimmed with joyful spontaneity, blending serious gameplay with infectious enthusiasm. Organised by GM Roberto Mogranzini and Unichess, it boasted world-class facilities, interactive side events and a dazzling venue enriched by giant chess pieces and cultural flair. Distinguished guests, including Andrea Bocelli, added to the grandeur of what FIDE hailed as a landmark tournament. | Photos by Claudio Selleri and Patria Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cadet-championship-2024-report",
          "pubDate" : "Fri, 29 Nov 2024 06:00:00",
          "title" : "World Cadet Championships in Montesilvano: Happiness and spontaneity!"
+      },
+      {
+         "description" : "World Champion Ding Liren was joined by GM Richard Rapport on the way to game four of the 2024 FIDE World Championship, and 1.Nf3 and the offbeat opening that followed was right out of the Rapport playbook. GM Gukesh Dommaraju reacted quickly and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-4",
+         "pubDate" : "Fri, 29 Nov 2024 04:25:00",
+         "title" : "Gukesh Defuses Ding's 1.Nf3 Surprise As Game 4 Ends In Draw"
+      },
+      {
+         "description" : "Four winners were crowned on Thursday at the FIDE World Seniors Championships in Porto Santo, Portugal. GM Alexander Shabalov (U.S.) won the Open 50+ section, GM Rainer Knaak (Germany) came first in the Open 65+ section, IM Masha Klinova (Israel) ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
+         "pubDate" : "Fri, 29 Nov 2024 02:27:41",
+         "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
       },
       {
          "description" : "This December, the 2024 FIDE World Rapid & Blitz Championships bring chess to the heart of Wall Street, alongside an extraordinary new event: Wall Street Gambit. Blending the strategic worlds of chess and finance, the conference features keynote speakers like Kenneth Rogoff and D. Sculley, blitz matches against legends Magnus Carlsen, Viswanathan Anand and Fabiano Caruana, and unparalleled networking opportunities. Held at Cipriani 55 Wall Street on December 29, this one-of-a-kind gathering promises to unite sharp minds from chess, finance and AI.",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wall-street-gambit-chess-finance",
          "pubDate" : "Fri, 29 Nov 2024 01:10:00",
          "title" : "Wall Street Gambit: Where chess meets finance"
+      },
+      {
+         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
+         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
+         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/28/2024-world-chess-championship-game-2/",
          "pubDate" : "Thu, 28 Nov 2024 17:13:09",
          "title" : "2024 World Chess Championship: Game 2"
-      },
-      {
-         "description" : "Every complex piece of software has hidden gems that aren't immediately obvious. For example, the reference search in ChessBase 18 has a new superpower that's easy to overlook. Do you know the best way to prepare your teammates for a match? What is the crucial innovation that Rasmus Svane brought to the program? And why does Malcolm Pein never walk alone?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tips-and-tricks-for-chessbase-18",
-         "pubDate" : "Thu, 28 Nov 2024 15:30:00",
-         "title" : "Tips and Tricks for ChessBase 18"
       },
       {
          "description" : "ChessBase Magazine Extra is the ideal supplement to ChessBase Magazine. In the new Extra #222: Videos by Felix Blohberger on the Reti Opening and Nico Zwirs on the Najdorf. Plus the 'Olympiad Special' with 21 top-class analyses by David Howell, Georg Meier, Thai Dai Van Nguyen, Yannick Pelletier, Alan Pichot, Jorden Van Foreest, Nikita Vitiugov, Radoslaw Wojtaszek and many more!",
@@ -128,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruanabrings-da-pain-grandmaster-psychology-gm-denes-boros",
          "pubDate" : "Thu, 28 Nov 2024 01:19:10",
          "title" : "CARUANA...Brings Da Pain | Grandmaster Psychology - GM Denes Boros"
-      },
-      {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Friday, November 29, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore after a rest day o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-4",
-         "pubDate" : "Thu, 28 Nov 2024 01:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 4"
       },
       {
          "description" : " Gukesh won the third game of the World Chess Championship match in Singapore against Ding Liren. This was an important theoretical strike too, I for one will need a line to meet it. In the Exchange Variation of the Queen's Gambit Gukesh chose to allow the line 6.Qc2 g6 which is a key part of many opening repertoires for black these days given that there are fairly clear paths to equality after the regular 7.Bg5. Rather strangely last year there were a small number of high level games starting with a Kramnik rapid game using 7.h3 with the idea of 7...Bf5 8.Qb3 Qb6 9.g4. Given that the main line is regarded is very OK for black it's a surprise this move hasn't been tried more often. The resul",
@@ -290,7 +314,7 @@ news_feed (
          "title" : "Wednesday Workout: Subtle Details from the World Youth Champs"
       },
       {
-         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 1&frac12; Gukesh 0 &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 2 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
@@ -1040,14 +1064,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-qf-mizzou-slu",
          "pubDate" : "Sat, 16 Nov 2024 18:30:00",
          "title" : "Missouri, Saint Louis Advance To Semifinals"
-      },
-      {
-         "description" : "GM Hikaru Nakamura has made Chess.com history by becoming the first player to win Bullet Brawl&#38;nbsp;and both editions of Titled Tuesday in the same week. Nakamura capped off a perfect week and secured a 33rd crown after scoring 252 points on Satur...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-16-2024",
-         "pubDate" : "Sat, 16 Nov 2024 16:25:00",
-         "title" : "Nakamura Secures Historic Bullet Brawl And Titled Tuesday Trifecta"
       },
       {
          "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and was put in a medically-induced coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus NBC The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
