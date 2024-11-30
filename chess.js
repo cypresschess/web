@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "It is an exciting World Championship. Whereas previous matches had started with five, six and even twelve draws, Ding vs Gukesh had two decisive games - and one tense draw - in the first three. We have provided full live commentary, and a good deal of post-game analysis. Up for some more? Here are all three games with comments from a leading chess trainer. There is a lot to learn from his view of things.",
+         "description" : "<div class=\"body text-secondary\"> December 3rd is Giving Tuesday, an international day of giving, and we invite you to consider making a gift to the Saint Louis Chess Club to ensure that students all across Saint Louis and beyond continue to receive the amazing benefits that chess has to offer. Thank you for your support! #givingtuesday #chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giving-tuesday-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giving-tuesday-2024",
+         "pubDate" : "Fri, 29 Nov 2024 22:20:18",
+         "title" : "Giving Tuesday 2024"
+      },
+      {
+         "description" : "It is an exciting World Championship. Whereas previous matches had started with five, six and even twelve draws, Ding vs Gukesh had two decisive games - and two tense draws - in the first four. We have provided full live commentary, and a good deal of post-game analysis. Up for some more? Here are all three games with comments from a leading chess trainer. There is a lot to learn from his view of things.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-games-1-3",
+         "link" : "https://en.chessbase.com/post/world-championship-games-1-4",
          "pubDate" : "Fri, 29 Nov 2024 21:00:00",
-         "title" : "World Championship games 1-3"
+         "title" : "World Championship games 1-4"
+      },
+      {
+         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin is Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Spectators are welcome again this year and this was a huge part of the original concept of the event. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
+         "pubDate" : "Fri, 29 Nov 2024 20:40:00",
+         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       },
       {
          "description" : "The World Chess Championship in Singapore remains tied after four games, with Gukesh D holding reigning champion Ding Liren to a draw in their latest encounter. Ding's creative opening, influenced by his second Richard Rapport, tested the young challenger, but Gukesh aptly navigated the complications to secure a solid result with the black pieces. | Photo: FIDE / Eng Chin An",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2024-g4",
          "pubDate" : "Fri, 29 Nov 2024 18:35:00",
          "title" : "World Championship Game 4: Gukesh reacts well to Ding's opening surprise, draws"
-      },
-      {
-         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The event has struggled to find a spectator friendly venue since the closure and demolition of much of Olympia in preparation for an as yet unfinished revamp. Spectators are welcome again this year and this was a huge part of the original concept of the event. The field for the closed round robin has yet to be announced and there is an open and many other side events including simultaneous exhibitions.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
-         "pubDate" : "Fri, 29 Nov 2024 16:32:00",
-         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> By using strong examples, GM Var Akobian demonstrates how players have the stealthiness of preparing or interposing moves that can not prevent the inevitable. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-silent-moves-gm-var-akobian-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
          "pubDate" : "Fri, 29 Nov 2024 02:27:41",
          "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
-      },
-      {
-         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
-         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
-         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -328,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-pawn-weakness",
          "pubDate" : "Wed, 27 Nov 2024 04:18:38",
          "title" : "A Chess Bit for Beginners: Pawn Weakness"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chessbits-beginners-little-foot-soldiers\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xwmPUp1wNHw.jpg?itok=3gIZH9tV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chessbits-beginners-little-foot-soldiers",
-         "pubDate" : "Wed, 27 Nov 2024 01:18:33",
-         "title" : "Chessbits for Beginners: The Little Foot Soldiers"
       },
       {
          "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
