@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The score in the match for the World Championship remains tied, as Gukesh D and Ding Liren drew their fifth game. Ding, played the French Defence with black and missed a crucial chance in a favourable endgame after Gukesh failed to foresee a strong knight manoeuvre. With one game left before the second rest day, we are reaching the midpoint of what continues to be a tense, exciting struggle. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g5",
+         "pubDate" : "Sat, 30 Nov 2024 19:00:00",
+         "title" : "World Championship Game 5: A missed chance for Ding"
+      },
+      {
+         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live with computer-assisted analysis starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
+         "pubDate" : "Sat, 30 Nov 2024 16:45:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.thearticle.com/le-lionnais-the-vanishing-virtuoso/",
          "pubDate" : "Sat, 30 Nov 2024 11:25:24",
          "title" : "Le Lionnais, the vanishing virtuoso"
-      },
-      {
-         "description" : "Ding Liren opted for a French Defence with black once again at the World Championship match in Singapore. Gukesh D mishandled the position and found himself dealing with a difficult middlegame. Ding, however, failed to make the most of his chances and the game ended in a 40-move draw. The score remains tied after five games. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Sat, 30 Nov 2024 09:45:00",
-         "title" : "World Championship: Gukesh struggles with white, still draws"
       },
       {
          "description" : "The Indian contingent showcased an outstanding performance at the World Cadet Chess Championship 2024, winning two medals: India's impressive medal tally of 1 Gold and",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
          "pubDate" : "Fri, 29 Nov 2024 20:40:00",
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "The World Chess Championship in Singapore remains tied after four games, with Gukesh D holding reigning champion Ding Liren to a draw in their latest encounter. Ding's creative opening, influenced by his second Richard Rapport, tested the young challenger, but Gukesh aptly navigated the complications to secure a solid result with the black pieces. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g4",
-         "pubDate" : "Fri, 29 Nov 2024 18:35:00",
-         "title" : "World Championship Game 4: Gukesh reacts well to Ding's opening surprise, draws"
       },
       {
          "description" : "<div class=\"body text-secondary\"> By using strong examples, GM Var Akobian demonstrates how players have the stealthiness of preparing or interposing moves that can not prevent the inevitable. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-silent-moves-gm-var-akobian-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
@@ -1400,14 +1400,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/",
          "pubDate" : "Sun, 10 Nov 2024 04:11:02",
          "title" : "Saad Elmi clinches IM title at World U18!"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Bhubaneshwar ,Odisha on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-in-bhubaneshwar-odisha-on-16-17-december-2024/",
-         "pubDate" : "Sat, 09 Nov 2024 17:28:10",
-         "title" : "Senior National Arbiter Seminar & Exam in Bhubaneshwar ,Odisha on 16 & 17 December 2024"
       }
    ]
 }
