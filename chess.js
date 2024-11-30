@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Championship update: at the time of writing, Ding and Gukesh are tied on 2-2, with one win each and two draws. In today's fifth game, Gukesh has White. My colleague Adam Black, in the course of his research into the games of Marcel Duchamp, has long extolled the virtues of Le Lionnais; this French polymath, whose infuriatingly rare, but evidently eminent credentials are all too []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/le-lionnais-the-vanishing-virtuoso/",
+         "pubDate" : "Sat, 30 Nov 2024 11:25:24",
+         "title" : "Le Lionnais, the vanishing virtuoso"
+      },
+      {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score is tied after four games, as the contenders grabbed a win each so far. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Sat, 30 Nov 2024 09:45:00",
+         "title" : "World Championship: Game 5 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115837622.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-2024-game-5-live-updates-gukesh-dommaraju-vs-ding-liren-today/liveblog/115837622.cms",
+         "pubDate" : "Sat, 30 Nov 2024 09:13:27",
+         "title" : "World Chess Championship 2024 Game 5 Live: Gukesh, Liren settle for draw"
+      },
+      {
+         "description" : "The Indian contingent showcased an outstanding performance at the World Cadet Chess Championship 2024, winning two medals: India's impressive medal tally of 1 Gold and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-world-cadet-chess-championship-2024-held-at-montesilvano-italy-from14th-november-to-27th-november-2024/",
+         "pubDate" : "Sat, 30 Nov 2024 09:12:25",
+         "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
+      },
+      {
          "description" : "Chess fans revel in dazzling sacrifices and intricate checkmates, but the true essence of tactical mastery lies in the understated brilliance of \"small combinations\". Coined by Jos&eacute; Ra&uacute;l Capablanca, this term refers to concise, 2-3 move tactics, often easy to spot but just as easy to miss. Even grandmasters rely heavily on such calculations, scanning for subtle opportunities in every position. Dive into these examples to uncover the hidden gems of chess strategy and elevate your play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,6 +82,14 @@ news_feed (
          "title" : "Chess IS..."
       },
       {
+         "description" : "Catch all the LIVE updates from Game 5 of the World Chess Championship between D Gukesh and Ding Liren,",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42678805/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-5?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 22:30:52",
+         "title" : "Chess World Championship: Gukesh vs Ding Liren Live updates, score, commentary, news from Game 5"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> December 3rd is Giving Tuesday, an international day of giving, and we invite you to consider making a gift to the Saint Louis Chess Club to ensure that students all across Saint Louis and beyond continue to receive the amazing benefits that chess has to offer. Thank you for your support! #givingtuesday #chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giving-tuesday-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,12 +98,12 @@ news_feed (
          "title" : "Giving Tuesday 2024"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Saturday, November 30, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Gukesh made a...",
+         "description" : "World Champion Ding Liren was unable to punish GM Gukesh Dommaraju after the Indian star blundered in game five of the 2024 FIDE World Championship, leaving the scores tied at 2.5-2.5 with nine games to go. Gukesh surprised observers by picking th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-5",
-         "pubDate" : "Fri, 29 Nov 2024 22:14:36",
-         "title" : "How To Watch FIDE World Championship 2024 Game 5"
+         "pubDate" : "Fri, 29 Nov 2024 22:14:00",
+         "title" : "Gukesh Blunders But Ding Lets Him Off Easily In Game 5"
       },
       {
          "description" : "It is an exciting World Championship. Whereas previous matches had started with five, six and even twelve draws, Ding vs Gukesh had two decisive games - and two tense draws - in the first four. We have provided full live commentary, and a good deal of post-game analysis. Up for some more? Here are all three games with comments from a leading chess trainer. There is a lot to learn from his view of things.",
@@ -154,12 +194,28 @@ news_feed (
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
       },
       {
+         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
+         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
+      },
+      {
+         "description" : "Gukesh saw off Ding's unorthodox opening to get a solid draw with black.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 08:57:38",
+         "title" : "Gukesh, Ding Liren draw game 4 of World Championship, scores remain level at 2-2"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
@@ -200,14 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
          "pubDate" : "Fri, 29 Nov 2024 02:27:41",
          "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
-      },
-      {
-         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
-         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
-         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -1186,14 +1234,6 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course - January 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115321192.cms\" />Magnus Carlsen surged to the top of the Tata Steel India Open Rapid chess tournament after winning three consecutive games on Thursday, reaching five points. Former World Rapid champion Nodirbek Abdusattorov trails closely behind with 4.5 points. In the women's section, Aleksandra Goryachkina leads with five points after securing three victories. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-three-in-a-row-to-take-sole-lead-at-india-open/articleshow/115321192.cms",
-         "pubDate" : "Fri, 15 Nov 2024 03:23:19",
-         "title" : "Magnus Carlsen wins three in a row to take sole lead at India Open"
-      },
-      {
          "description" : "Only one Indian has ever been world champion. No one has been world champion as a teenager (or at 20, or 21). Can Gukesh change all that?",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1368,22 +1408,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/",
          "pubDate" : "Sat, 09 Nov 2024 12:45:41",
          "title" : "Preview of WCC 2024&hellip; Ding-Gukesh"
-      },
-      {
-         "description" : "Wilhelm Steinitz, the chess equivalent of Karl Marx and Charles Darwin combined, was the great strategic systematic chess thinker from the latter part of the 19th century. One of the major Steinitzian strategic precepts was to delay castling in order to establish the location of the enemy king. Once that had been determined, the strategic []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/war-games-of-the-german-intelligentsia/",
-         "pubDate" : "Sat, 09 Nov 2024 12:15:12",
-         "title" : "War games of the German intelligentsia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3299",
-         "pubDate" : "Sat, 09 Nov 2024 10:11:54",
-         "title" : "European Chess Championship 2024 kicks off in Montenegro"
       }
    ]
 }
