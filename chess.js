@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3329",
+         "pubDate" : "Sat, 30 Nov 2024 14:21:35",
+         "title" : "World Championship Game 5: Ding Liren lets Gukesh off the hook"
+      },
+      {
+         "description" : "When I started, chess improvement was simpler-not just for kids like me but for adult improvers too. Take my Dad, for example. He taught me the rules but never studied the game himself. Because he accompanied me to tournaments, he decided to play in them too. Despite putting minimal effort into training, he reached a []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/simplify-your-chess-training/",
+         "pubDate" : "Sat, 30 Nov 2024 14:00:00",
+         "title" : "The Simple Path to 1500: Lessons From My Dad's Chess Journey"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115843000.cms\" />In the fifth game of the World Chess Championship, India's 18-year-old D Gukesh and China's defending champion Ding Liren ended with a draw after 40 moves. Both players now have 2.5 points each. Gukesh, using the King's pawn opening, aimed for an imbalanced position, but the game concluded in a balanced endgame with no progress in sight.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-ding-liren-game-5-ends-in-draw-scores-level-at-2-5-2-5-at-world-chess-championship/articleshow/115843000.cms",
+         "pubDate" : "Sat, 30 Nov 2024 12:36:55",
+         "title" : "Gukesh vs Ding Liren Game 5 ends in draw"
+      },
+      {
          "description" : "World Chess Championship update: at the time of writing, Ding and Gukesh are tied on 2-2, with one win each and two draws. In today's fifth game, Gukesh has White. My colleague Adam Black, in the course of his research into the games of Marcel Duchamp, has long extolled the virtues of Le Lionnais; this French polymath, whose infuriatingly rare, but evidently eminent credentials are all too []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -10,20 +34,12 @@ news_feed (
          "title" : "Le Lionnais, the vanishing virtuoso"
       },
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score is tied after four games, as the contenders grabbed a win each so far. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "Ding Liren opted for a French Defence with black once again at the World Championship match in Singapore. Gukesh D mishandled the position and found himself dealing with a difficult middlegame. Ding, however, failed to make the most of his chances and the game ended in a 40-move draw. The score remains tied after five games. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Sat, 30 Nov 2024 09:45:00",
-         "title" : "World Championship: Game 5 - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115837622.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-2024-game-5-live-updates-gukesh-dommaraju-vs-ding-liren-today/liveblog/115837622.cms",
-         "pubDate" : "Sat, 30 Nov 2024 09:13:27",
-         "title" : "World Chess Championship 2024 Game 5 Live: Gukesh, Liren settle for draw"
+         "title" : "World Championship: Gukesh struggles with white, still draws"
       },
       {
          "description" : "The Indian contingent showcased an outstanding performance at the World Cadet Chess Championship 2024, winning two medals: India's impressive medal tally of 1 Gold and",
@@ -1392,22 +1408,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-in-bhubaneshwar-odisha-on-16-17-december-2024/",
          "pubDate" : "Sat, 09 Nov 2024 17:28:10",
          "title" : "Senior National Arbiter Seminar & Exam in Bhubaneshwar ,Odisha on 16 & 17 December 2024"
-      },
-      {
-         "description" : "I've committed to running my first Half-Marathon in 2025. How fast will I be? How exactly will I train? How hard will it be? Honestly, I have no idea. Sometimes, that's the best way to start: feel the inspiration, take the leap, hold yourself accountable, and figure it out as you go. I've Wanted to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/take-a-leap/",
-         "pubDate" : "Sat, 09 Nov 2024 14:00:00",
-         "title" : "From Thinking to Doing: Your most important move"
-      },
-      {
-         "description" : " The 2024 World Chess Championship (WCC 2024) will take place in Singapore starting November 25th and lasting three weeks until December 15th. The match will feature China's World Champion Ding Liren (Lizhen) against India's Dommaraju Gukesh. The two most populous countries will join the millions following the match with great anticipation as the match features The post <a href=\"https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/\">Preview of WCC 2024 Ding-Gukesh</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/09/preview-of-wcc-2024-ding-gukesh/",
-         "pubDate" : "Sat, 09 Nov 2024 12:45:41",
-         "title" : "Preview of WCC 2024&hellip; Ding-Gukesh"
       }
    ]
 }
