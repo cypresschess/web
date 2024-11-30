@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess fans revel in dazzling sacrifices and intricate checkmates, but the true essence of tactical mastery lies in the understated brilliance of \"small combinations\". Coined by Jos&eacute; Ra&uacute;l Capablanca, this term refers to concise, 2-3 move tactics, often easy to spot but just as easy to miss. Even grandmasters rely heavily on such calculations, scanning for subtle opportunities in every position. Dive into these examples to uncover the hidden gems of chess strategy and elevate your play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-40-small-combinatios-are-the-spice-of-chess",
+         "pubDate" : "Sat, 30 Nov 2024 07:00:00",
+         "title" : "The Winning Academy 40: Small combinations are the spice of chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115830347.cms\" />In the fourth game of their World Chess Championship match, challenger D Gukesh and reigning champion Ding Liren played a quiet draw. Gukesh managed to equalize despite Ding's semi-surprise move in the Reti Opening. The score remains tied at 2-2, with Gukesh's confident play being notable.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-fourth-game-drawn-d-gukesh-plays-with-white-pieces-today-against-ding-liren/articleshow/115830347.cms",
+         "pubDate" : "Sat, 30 Nov 2024 04:45:05",
+         "title" : "World C'ship: Fourth game drawn; Gukesh plays with white pieces today"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silent-move\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oLhbGlmvuaI.jpg?itok=UbWtpO4f\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/silent-move",
+         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
+         "title" : "A Silent Move"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-blob-reference\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/42wZttnp3Fw.jpg?itok=OoqvHVrx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawn-blob-reference",
+         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
+         "title" : "The Pawn Blob Reference"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/iqp-gobble-it\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JF4FuU9Tnus.jpg?itok=7LpzyfFy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/iqp-gobble-it",
+         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
+         "title" : "I.Q.P. ? Gobble It Up!"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O0q-lzIh8R4.jpg?itok=oyHLphMt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess",
+         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
+         "title" : "Chess IS..."
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> December 3rd is Giving Tuesday, an international day of giving, and we invite you to consider making a gift to the Saint Louis Chess Club to ensure that students all across Saint Louis and beyond continue to receive the amazing benefits that chess has to offer. Thank you for your support! #givingtuesday #chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giving-tuesday-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/giving-tuesday-2024",
          "pubDate" : "Fri, 29 Nov 2024 22:20:18",
          "title" : "Giving Tuesday 2024"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Saturday, November 30, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Gukesh made a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-5",
+         "pubDate" : "Fri, 29 Nov 2024 22:14:36",
+         "title" : "How To Watch FIDE World Championship 2024 Game 5"
       },
       {
          "description" : "It is an exciting World Championship. Whereas previous matches had started with five, six and even twelve draws, Ding vs Gukesh had two decisive games - and two tense draws - in the first four. We have provided full live commentary, and a good deal of post-game analysis. Up for some more? Here are all three games with comments from a leading chess trainer. There is a lot to learn from his view of things.",
@@ -98,28 +154,12 @@ news_feed (
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
       },
       {
-         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
-         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
-      },
-      {
-         "description" : "Gukesh saw off Ding's unorthodox opening to get a solid draw with black.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 08:57:38",
-         "title" : "Gukesh, Ding Liren draw game 4 of World Championship, scores remain level at 2-2"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
@@ -160,6 +200,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
          "pubDate" : "Fri, 29 Nov 2024 02:27:41",
          "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
+      },
+      {
+         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
+         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
+         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -312,38 +360,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-fide-arbiters-seminar-in-ranchi-from-15-17-november-2024/",
          "pubDate" : "Wed, 27 Nov 2024 06:48:46",
          "title" : "Final Report :FIDE Arbiters' Seminar in Ranchi from 15-17 November 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman talks about how pawns move and defend for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-little-foot-soldiers-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xwmPUp1wNHw.jpg?itok=3gIZH9tV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-little-foot-soldiers-chess",
-         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
-         "title" : "A Chess Bit for Beginners: The Little Foot Soldiers of Chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman explains the benefits of bishops versus the knights </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-why-bishops-are-better-knights\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrpIPmrzIeY.jpg?itok=eRfs-XE9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-why-bishops-are-better-knights",
-         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
-         "title" : "A Chess Bit for Beginners: Why Bishops Are Better Than Knights"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman defines &quot;pawn chains&quot; for chess beginners </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-pawn-chains\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgC00LIfizk.jpg?itok=bmUqn5Bh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-pawn-chains",
-         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
-         "title" : "A Chess Bit for Beginners: Pawn Chains"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman gives a general overview of what is a weakness...especially with pawns. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-beginners-pawn-weakness\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_iOxglwZRXw.jpg?itok=MvsS_62W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-bit-beginners-pawn-weakness",
-         "pubDate" : "Wed, 27 Nov 2024 04:18:38",
-         "title" : "A Chess Bit for Beginners: Pawn Weakness"
       },
       {
          "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
@@ -962,14 +978,6 @@ news_feed (
          "title" : "Chess World Championship: What it takes to be crowned king"
       },
       {
-         "description" : "The 2025 Tata Steel Chess Tournament&#39;s Masters group has 2020 winner GM Fabiano Caruana as the top seed in a field that includes five top 10 players. Many eyes will be on the 11-year-old IM Faustino Oro from Argentina, who will be playing in the C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-tournament-2025-participants",
-         "pubDate" : "Tue, 19 Nov 2024 05:44:00",
-         "title" : "Caruana Tops Tata Steel Chess Tournament 2025 Lineup; Oro (11) Plays Challengers"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42386445/d-gukesh-chess-world-championship-2024-youngest-prince-king?device=featurephone",
          "pubDate" : "Fri, 15 Nov 2024 00:15:39",
          "title" : "D Gukesh: The Prince who would be King"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115308083.cms\" />Magnus Carlsen wins against S L Narayanan, Wesley So and Arjun Erigaisi. Carlsen leads the Tata Steel Chess India Rapid tournament. Aleksandra Goryachkina leads the women's division. Nodirbek Abdusattorov trails Carlsen by half a point. Nana Dzagnidze holds second position in the women's category.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-takes-sole-lead-in-tata-steel-india-chess-tournament/articleshow/115308083.cms",
-         "pubDate" : "Thu, 14 Nov 2024 17:12:59",
-         "title" : "Carlsen takes sole lead in Tata Steel India Chess tournament"
       },
       {
          "description" : "Reading about the latest and greatest new features in ChessBase is exciting, but if you can barely use the basics, then it can also be frustrating. But worry not! You can learn them all in under 20 minutes, and even how to customize the work space, in this crystal clear video tutorial.",
