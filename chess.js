@@ -98,12 +98,28 @@ news_feed (
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
       },
       {
+         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
+         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
+      },
+      {
+         "description" : "Gukesh saw off Ding's unorthodox opening to get a solid draw with black.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 08:57:38",
+         "title" : "Gukesh, Ding Liren draw game 4 of World Championship, scores remain level at 2-2"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3299",
          "pubDate" : "Sat, 09 Nov 2024 10:11:54",
          "title" : "European Chess Championship 2024 kicks off in Montenegro"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The Andhra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at SNA Seminar &#38; Exam",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-in-rajahmundry-andhra-pradesh-on-30-november-01-december-2024/",
-         "pubDate" : "Sat, 09 Nov 2024 01:25:50",
-         "title" : "SNA Seminar & Exam in Rajahmundry , Andhra Pradesh on 30 November & 01 December 2024"
       }
    ]
 }
