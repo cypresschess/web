@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remote-engine-in-chessbase-18-power-everywhere",
+         "pubDate" : "Sun, 01 Dec 2024 00:28:22",
+         "title" : "Remote Engine in ChessBase 18: Power Everywhere"
+      },
+      {
          "description" : "The score in the match for the World Championship remains tied, as Gukesh D and Ding Liren drew their fifth game. Ding, played the French Defence with black and missed a crucial chance in a favourable endgame after Gukesh failed to foresee a strong knight manoeuvre. With one game left before the second rest day, we are reaching the midpoint of what continues to be a tense, exciting struggle. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://nextlevelchess.blog/simplify-your-chess-training/",
          "pubDate" : "Sat, 30 Nov 2024 14:00:00",
          "title" : "The Simple Path to 1500: Lessons From My Dad's Chess Journey"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Sunday, December 1, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. The score is eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-6",
+         "pubDate" : "Sat, 30 Nov 2024 14:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 6"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115843000.cms\" />In the fifth game of the World Chess Championship, India's 18-year-old D Gukesh and China's defending champion Ding Liren ended with a draw after 40 moves. Both players now have 2.5 points each. Gukesh, using the King's pawn opening, aimed for an imbalanced position, but the game concluded in a balanced endgame with no progress in sight.",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-european-chess-championship",
          "pubDate" : "Tue, 19 Nov 2024 12:18:00",
          "title" : "Indjic Wins European Chess Championship, 20 Qualify For 2025 World Cup"
-      },
-      {
-         "description" : "Chess.com and partner CloseUp360 are excited to announce a bot for one of the National Basketball Association&#38;rsquo;s rising stars, Jaime Jaquez Jr.! To celebrate, Chess.com and Jaime are teaming up for a special blitz tournament on November 19t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-nba-star-jaime-jaquez-jr",
-         "pubDate" : "Tue, 19 Nov 2024 10:00:00",
-         "title" : "Play Chess Against NBA Star Jaime Jaquez Jr.!"
       },
       {
          "description" : "Ahead of the Chess World Championship, let's break down the complex sport of chess in the simplest way possible.",
