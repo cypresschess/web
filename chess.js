@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115867023.cms\" />Arjun Erigaisi has become the second Indian, after Viswanathan Anand, and the 16th worldwide to reach the prestigious ELO rating of 2800. The 21-year-old Grandmaster, who also won gold at the Chess Olympiad, now ranks fourth in the world. He trails Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura in the global chess standings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-becomes-second-indian-to-achieve-2800-elo-rating-in-chess/articleshow/115867023.cms",
+         "pubDate" : "Sun, 01 Dec 2024 10:50:20",
+         "title" : "Arjun Erigaisi becomes second Indian to achieve 2800 ELO rating in chess"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, The Chhattisgarh State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam &#160;Hotel Grand Imperia, VIP Road,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-in-hotel-grand-imperia-vip-road-raipur-chhattisgarh-on-04-05-january-2025/",
+         "pubDate" : "Sun, 01 Dec 2024 10:34:46",
+         "title" : "Senior National Arbiters Seminar & Exam in Hotel Grand Imperia, VIP Road, Raipur Chhattisgarh on 04 & 05 January 2025"
+      },
+      {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied after five games, as the contenders scored a win each so far. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Sun, 01 Dec 2024 09:45:00",
+         "title" : "World Championship: Game 6 - Live!"
+      },
+      {
+         "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remote-engine-in-chessbase-18-power-everywhere",
+         "pubDate" : "Sun, 01 Dec 2024 09:30:00",
+         "title" : "Remote Engine in ChessBase 18: Power Everywhere"
+      },
+      {
          "description" : "In the Spotlight article of the ECU magazine we were introduced to the women but also men working behind the scene, doing a fantastic work to support women in chess. They play a key role as players, arbiters, coaches, volunteers, says Antonina Gora from Ireland.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +50,12 @@ news_feed (
          "title" : "Below-par Gukesh heads to 6th Game on even ground"
       },
       {
-         "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remote-engine-in-chessbase-18-power-everywhere",
-         "pubDate" : "Sun, 01 Dec 2024 00:28:22",
-         "title" : "Remote Engine in ChessBase 18: Power Everywhere"
+         "description" : "Catch all the updates from Game 6 of the World Chess Championship between D Gukesh and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42696572/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-6?device=featurephone",
+         "pubDate" : "Sat, 30 Nov 2024 22:46:59",
+         "title" : "Chess World Championship: Gukesh vs Ding Liren match 6 live"
       },
       {
          "description" : "The score in the match for the World Championship remains tied, as Gukesh D and Ding Liren drew their fifth game. Ding, played the French Defence with black and missed a crucial chance in a favourable endgame after Gukesh failed to foresee a strong knight manoeuvre. With one game left before the second rest day, we are reaching the midpoint of what continues to be a tense, exciting struggle. | Photo: FIDE / Eng Chin An",
@@ -1194,14 +1226,6 @@ news_feed (
          "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
       },
       {
-         "description" : "Anand's five world titles are the story of a non-Soviet, non-Westerner who dared to take on the established seat of authority in the sport, and succeeded in toppling it.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42436603/how-viswanathan-anand-won-five-world-chess-championship-titles?device=featurephone",
-         "pubDate" : "Sun, 17 Nov 2024 00:49:56",
-         "title" : "How Viswanathan Anand won his five world chess championship titles"
-      },
-      {
          "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1216,14 +1240,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/",
          "pubDate" : "Sat, 16 Nov 2024 13:55:21",
          "title" : "Chess activist Ernest Levert still healing after aneurysm"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115363719.cms\" />World No. 1 Magnus Carlsen leads the Open section with 6.5 points at the halfway point of the Tata Steel Chess India Blitz 2024 tournament. India's R Praggnanandhaa trails closely behind with 6 points. In the Women's section, Kateryna Lagno maintains a clean sheet with 7 points, followed by Valentina Gunina with 6 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-continues-to-lead-r-praggnanandhaa-close-second-at-india-blitz-2024-chess-tournament/articleshow/115363719.cms",
-         "pubDate" : "Sat, 16 Nov 2024 13:44:23",
-         "title" : "Carlsen continues to lead; Pragg close second at India Blitz 2024"
       },
       {
          "description" : "​In 1964, I won the British under-18 championship , while still eligible for the under-16 section. At the time, this was regarded as remarkable precocity; twelve years later, at the age of 28, I secured the Grandmaster title. Nowadays these feats would have indicated that I was hopelessly retarded as a chess player. Thus, Ethan Pang, a nine []",
@@ -1408,14 +1424,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/carlsen-ding-liren-nakamura-on-wcc-2024.html",
          "pubDate" : "Sun, 10 Nov 2024 16:51:00",
          "title" : "Carlsen, Ding Liren, Nakamura on WCC 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3300",
-         "pubDate" : "Sun, 10 Nov 2024 10:25:44",
-         "title" : "Champions Crowned at 36th FIDE World Youth Championship"
       }
    ]
 }
