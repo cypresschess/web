@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115859132.cms\" />Ding Liren achieved a draw with black against D Gukesh in the fifth game of the World Chess Championship. Despite having a potential advantage, Ding's cautious approach ended in a stalemate. The match stands tied at 2.5 points each, with Ding playing with white in the next game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/below-par-gukesh-heads-to-6th-game-on-even-ground/articleshow/115859132.cms",
+         "pubDate" : "Sun, 01 Dec 2024 03:45:54",
+         "title" : "Below-par Gukesh heads to 6th Game on even ground"
+      },
+      {
          "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
          "pubDate" : "Sat, 30 Nov 2024 16:45:00",
          "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "13 months of silver and bronze medals have come to an end for GM Jose Martinez, who rose to capture his fourth Bullet Brawl title and the $400 first prize in Saturday&#39;s event. Battling against GMs Hikaru Nakamura, GM Daniel Naroditsky, and 188 oth...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jose-martinez-wins-bullet-brawl-november-30-2024",
+         "pubDate" : "Sat, 30 Nov 2024 16:41:00",
+         "title" : "Martinez Captures 4th Bullet Brawl Title Ahead Of Nakamura, Naroditsky, Tang"
       },
       {
          "description" : "",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "Chess IS..."
       },
       {
-         "description" : "Catch all the LIVE updates from Game 5 of the World Chess Championship between D Gukesh and Ding Liren,",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42678805/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-5?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 22:30:52",
-         "title" : "Chess World Championship: Gukesh vs Ding Liren Live updates, score, commentary, news from Game 5"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> December 3rd is Giving Tuesday, an international day of giving, and we invite you to consider making a gift to the Saint Louis Chess Club to ensure that students all across Saint Louis and beyond continue to receive the amazing benefits that chess has to offer. Thank you for your support! #givingtuesday #chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giving-tuesday-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -226,28 +234,12 @@ news_feed (
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
       },
       {
-         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
-         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
-      },
-      {
-         "description" : "Gukesh saw off Ding's unorthodox opening to get a solid draw with black.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 08:57:38",
-         "title" : "Gukesh, Ding Liren draw game 4 of World Championship, scores remain level at 2-2"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
@@ -288,6 +280,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
          "pubDate" : "Fri, 29 Nov 2024 02:27:41",
          "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
+      },
+      {
+         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
+         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
+         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -1026,14 +1026,6 @@ news_feed (
          "title" : "European Championship in Montenegro: Live"
       },
       {
-         "description" : "Four-time Serbian National Champion GM Aleksandar Indjic convincingly won the 2024 European Chess Championship with 9/11 and a performance of 2820. The champion, undefeated, led the tournament from round six all the way to the end, at one point sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-european-chess-championship",
-         "pubDate" : "Tue, 19 Nov 2024 12:18:00",
-         "title" : "Indjic Wins European Chess Championship, 20 Qualify For 2025 World Cup"
-      },
-      {
          "description" : "Ahead of the Chess World Championship, let's break down the complex sport of chess in the simplest way possible.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1200,14 +1192,6 @@ news_feed (
          "link" : "https://www.thearticle.com/prodigies-ethan-anish-and-bodhana/",
          "pubDate" : "Sat, 16 Nov 2024 11:25:03",
          "title" : "Prodigies: Ethan, Anish and Bodhana"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115350200.cms\" />Magnus Carlsen triumphed at the Tata Steel India Open Rapid chess tournament in Kolkata, securing victory with a round to spare. Despite a late surge by Nodirbek Abdusattorov, Carlsen maintained his composure to finish with 7.5 points. Indian Grandmaster R Praggnanandhaa secured second place ahead of Wesley So due to a superior tie-break score.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dominant-magnus-carlsen-reigns-supreme-at-india-open/articleshow/115350200.cms",
-         "pubDate" : "Sat, 16 Nov 2024 03:07:39",
-         "title" : "Dominant Magnus Carlsen reigns supreme at India Open"
       },
       {
          "description" : "GM Aleksandar Indjic (SRB, 2623) expanded his lead in the European Individual Chess Championship 2024 after defeating the top seeded GM Vladimir Fedoseev (SLO, 2712). Playing with black pieces, Aleksandar Indjic reached an equal position straight after the opening. He improved it to gain a slight advantage and started repeating the moves. However, Fedoseev refused a three-fold repetition, and entered a worse position which Indjic used to create a beautiful mating motive on Fedoseev's weakened kingside. Taking a win today, []",
@@ -1400,14 +1384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3300",
          "pubDate" : "Sun, 10 Nov 2024 10:25:44",
          "title" : "Champions Crowned at 36th FIDE World Youth Championship"
-      },
-      {
-         "description" : " Saad Abobaker Elmi of Norway earned his final IM norm at the World Youth under-18 in Brazil after finishing 7.5/11. This result comes months after he earned his 2nd IM norm (barely missing a GM norm) at the Zadar GM Norm Tournament in Croatia. Elmi&#160;scored his first IM norm&#160;at the Kragero Resort Chess International in The post <a href=\"https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/\">Saad Elmi clinches IM title at World U18!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/09/saad-elmi-clinches-im-title-at-world-u18/",
-         "pubDate" : "Sun, 10 Nov 2024 04:11:02",
-         "title" : "Saad Elmi clinches IM title at World U18!"
       }
    ]
 }
