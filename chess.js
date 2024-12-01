@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3330",
+         "pubDate" : "Sun, 01 Dec 2024 15:06:28",
+         "title" : "World Championship Game 6: Gukesh's accurate defense secures another draw"
+      },
+      {
+         "description" : " Ding Liren tried a side-line of the London System that seemed to catch Gukesh somewhat off-guard. Ding had himself faced this last year against Magnus Carlsen in the Tata Steel tournament. Gukesh was not in any trouble but did use plenty of time whilst Ding was clearly in preparation. That prep probably ran out about move 20 and pretty soon Ding was seeking a draw. Gukesh saw no reason to end the game and turning down a draw offer such as this has psychological value. If the computers still favoured Ding it was not really very likely that he would cause problems in reality, 34.Qg5 with the idea of h4 was the way to keep an edge, after 34.Kc2 the position was at least equal for black and per",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-draw-game-6-of-the-world-chess-championship",
+         "pubDate" : "Sun, 1 Dec 2024 14:31:00",
+         "title" : "Ding and Gukesh draw game 6 of the World Chess Championship - 6"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115870011.cms\" />In a thrilling Game 6 of the World Chess Championship, 18-year-old Indian challenger D Gukesh drew with the defending champion Ding Liren of China after 46 moves. Both are level at 3 points each, needing 4.5 points to win. The match continues with eight games remaining, and Ding Liren appears to be gaining confidence.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-forces-draw-against-ding-liren-in-game-6-of-world-chess-championship/articleshow/115870011.cms",
+         "pubDate" : "Sun, 01 Dec 2024 13:59:37",
+         "title" : "D Gukesh forces draw against Ding Liren in Game 6"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115867023.cms\" />Arjun Erigaisi has become the second Indian, after Viswanathan Anand, and the 16th worldwide to reach the prestigious ELO rating of 2800. The 21-year-old Grandmaster, who also won gold at the Chess Olympiad, now ranks fourth in the world. He trails Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura in the global chess standings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,20 +34,12 @@ news_feed (
          "title" : "Arjun Erigaisi becomes second Indian to achieve 2800 ELO rating in chess"
       },
       {
-         "description" : "On behalf of All India Chess Federation, The Chhattisgarh State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam &#160;Hotel Grand Imperia, VIP Road,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-in-hotel-grand-imperia-vip-road-raipur-chhattisgarh-on-04-05-january-2025/",
-         "pubDate" : "Sun, 01 Dec 2024 10:34:46",
-         "title" : "Senior National Arbiters Seminar & Exam in Hotel Grand Imperia, VIP Road, Raipur Chhattisgarh on 04 & 05 January 2025"
-      },
-      {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied after five games, as the contenders scored a win each so far. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "The score remains tied after six games at the World Championship match in Singapore. Sunday's game ended drawn, with Ding Liren getting an edge with white and Gukesh D showing resourcefulness to keep the balance. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Sun, 01 Dec 2024 09:45:00",
-         "title" : "World Championship: Game 6 - Live!"
+         "title" : "World Championship: A tension-filled draw"
       },
       {
          "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/females-and-males-working-behind-the-scene",
          "pubDate" : "Sun, 01 Dec 2024 08:00:00",
          "title" : "Females and Males Working Behind The Scene"
+      },
+      {
+         "description" : "Indian GM Gukesh Dommaraju boldly rejected a draw by repetition in game six of the 2024 FIDE World Championship and looked in some danger of being punished by World Champion Ding Liren, but instead a fierce struggle ended in a 46-move draw. The sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-6",
+         "pubDate" : "Sun, 01 Dec 2024 05:20:00",
+         "title" : "Gukesh Gambles But Game 6 Also Ends In Draw"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115859132.cms\" />Ding Liren achieved a draw with black against D Gukesh in the fifth game of the World Chess Championship. Despite having a potential advantage, Ding's cautious approach ended in a stalemate. The match stands tied at 2.5 points each, with Ding playing with white in the next game.",
@@ -82,6 +106,14 @@ news_feed (
          "title" : "Martinez Captures 4th Bullet Brawl Title Ahead Of Nakamura, Naroditsky, Tang"
       },
       {
+         "description" : " Ding Liren showed a little of why he's such a respected player in outplaying Gukesh with black in an Exchange French in game 5 of the World Chess Championship, also the way he spoiled this chance in only a few of moves is rather typical of his current problems. Nevertheless after a really insipid performance in game four there were definitely signs of life in the Ding campaign today. Game Summary below. Score Ding 2.5 - Gukesh 2.5 Game 6 Ding-Gukesh Sunday 1st December. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-has-a-brief-chance-to-push-for-a-win-against-gukesh-in-drawn-game-5",
+         "pubDate" : "Sat, 30 Nov 2024 14:44:00",
+         "title" : "Ding has a brief chance to push for a win against Gukesh in drawn game 5 - 5"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/simplify-your-chess-training/",
          "pubDate" : "Sat, 30 Nov 2024 14:00:00",
          "title" : "The Simple Path to 1500: Lessons From My Dad's Chess Journey"
-      },
-      {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Sunday, December 1, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. The score is eve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-6",
-         "pubDate" : "Sat, 30 Nov 2024 14:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 6"
       },
       {
          "description" : "How was the champ's assessment during the game was so far off what the actual position was?",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.thearticle.com/le-lionnais-the-vanishing-virtuoso/",
          "pubDate" : "Sat, 30 Nov 2024 11:25:24",
          "title" : "Le Lionnais, the vanishing virtuoso"
-      },
-      {
-         "description" : "The Indian contingent showcased an outstanding performance at the World Cadet Chess Championship 2024, winning two medals: India's impressive medal tally of 1 Gold and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-world-cadet-chess-championship-2024-held-at-montesilvano-italy-from14th-november-to-27th-november-2024/",
-         "pubDate" : "Sat, 30 Nov 2024 09:12:25",
-         "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
       },
       {
          "description" : "The score remains tied at 2.5-2.5 after game 5",
@@ -234,14 +250,6 @@ news_feed (
          "title" : "1800+ or Higher: Silent Moves - GM Var Akobian"
       },
       {
-         "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-from-23-to-24-november-2024-at-karnal-haryana/",
-         "pubDate" : "Fri, 29 Nov 2024 15:34:28",
-         "title" : "Final Report: Senior National Arbiter Seminar & Examination from 23 to 24 November 2024 at Karnal, Haryana ."
-      },
-      {
          "description" : " Ding Liren played a very quiet flank opening against Gukesh in Game 4 of the World Chess Championship in Singapore. Gukesh did admit to being somewhat surprised but he did recall seeing such a setup in the past and chose a sort of reverse London (I think the London System reminds me of some black setups so maybe this is a reverse, reverse something). Anyhow after 12.Nd4 white had a very nice knight and a minority attack on the Queenside, not super scary but at least something. Gukesh is known for his very concrete calculative approach and 13.... Ne5! was sort of asking for f4 in the next few moves, but when is came to it f4 didn't seem very appetizing to Ding, mostly because this pawn push ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -320,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0",
          "pubDate" : "Fri, 29 Nov 2024 07:20:02",
          "title" : "Monday Knight Mayhem: Beginner Breakdown and Masterclass - Sara Herman and GM Denes Boros"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation and Arbiters' Commission AICF, Karnataka State Chess Association was organized a Senior National Arbiters Seminar &#38; Exam at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-maddur-mandya-karnataka-from-23-to-24-november-2024/",
-         "pubDate" : "Fri, 29 Nov 2024 06:40:51",
-         "title" : "Final Report :SNA Seminar, Maddur, Mandya, Karnataka from 23 to 24 November 2024"
       },
       {
          "description" : " 2024 World Chess Championship: Game 3Wednesday, 26 November 2024 Gukesh breaks through evens the score! Dommaraju Gukesh won Game 3 of the World Championship match with an impressive win over Ding Liren. This game rode on a razor's edge when Ding was close to stealing the initiative. The game went down normal channels and followed The post <a href=\"https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/\">2024 World Chess Championship: Game 3</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -496,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-yoo-win-titled-tuesday-november-26-2024",
          "pubDate" : "Wed, 27 Nov 2024 07:50:20",
          "title" : "It's Tuesdays With Magzy As Carlsen Returns To Win Column"
-      },
-      {
-         "description" : "From 15th to 17th November 2024, a FIDE Arbiters' Seminar was successfully organized in Ranchi, Jharkhand, by the All India Chess Federation, under the auspices",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-fide-arbiters-seminar-in-ranchi-from-15-17-november-2024/",
-         "pubDate" : "Wed, 27 Nov 2024 06:48:46",
-         "title" : "Final Report :FIDE Arbiters' Seminar in Ranchi from 15-17 November 2024"
       },
       {
          "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
@@ -1194,14 +1186,6 @@ news_feed (
          "title" : "Not the Official World Championship Set"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115388633.cms\" />Chess grandmaster Magnus Carlsen has done it again, clinching both the rapid and blitz titles at the Tata Steel Chess India tournament. Carlsen's victory in Kolkata marks his second double win at the event. The tournament saw Filipino-American Grandmaster Wesley So making a strong comeback to secure second place. Indian players also shone, with Arjun Erigaisi taking third place.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-bags-remarkable-double-after-winning-india-blitz-2024-title-with-a-round-to-spare/articleshow/115388633.cms",
-         "pubDate" : "Sun, 17 Nov 2024 15:05:22",
-         "title" : "Magnus Carlsen bags remarkable double with India Blitz 2024 title"
-      },
-      {
          "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's a selection of the most iconic and bizarre moments in the tournament's history.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1216,14 +1200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
          "pubDate" : "Sun, 17 Nov 2024 09:15:00",
          "title" : "Tata Steel Chess India - Live!"
-      },
-      {
-         "description" : "Round 1 Report of 20 players across 6 categories, Indian Contingent scored 14 wins, 5 draws and faced 1 loss U8 Open 2.Ayaan Phutane started",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cadet-chess-championship-2024-kicked-off-at-montesilvano-italy/",
-         "pubDate" : "Sun, 17 Nov 2024 04:32:48",
-         "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
       },
       {
          "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
@@ -1274,14 +1250,6 @@ news_feed (
          "title" : "UK Blitz chess final pits grandmasters against a golden generation"
       },
       {
-         "description" : "49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship 2024 jointly organised by Ananthi Chess Academy and Viyugam Chess Academy on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/im-ilamparthi-a-r-and-wcm-prishita-gupta-champions-of-49th-national-sub-junior-open-and-40th-national-sub-junior-girls-chess-championship-2024/",
-         "pubDate" : "Fri, 15 Nov 2024 13:42:24",
-         "title" : "IM Ilamparthi A R and WCM Prishita Gupta , Champions of 49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship-2024"
-      },
-      {
          "description" : "Chess in Schools and Communities is delighted to announce that two free spectator tickets for this year's XTX Markets London Chess Classic are being offered to every chess club in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1320,14 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ancient-chess-problems-to-solve",
          "pubDate" : "Wed, 13 Nov 2024 20:00:00",
          "title" : "Ancient chess problems to solve"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The Nagaland Chess Association is organizing first ever Senior National Arbiters Seminar &#38; Exam at Tourist Lodge, Dimapur",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-exam-on-the-28th-and-29th-of-january-2024-at-tourist-lodge-dimapur-nagaland/",
-         "pubDate" : "Wed, 13 Nov 2024 14:43:57",
-         "title" : "Senior National Arbiter Seminar and Exam on the 28th and 29th of November 2024 at Tourist Lodge, Dimapur Nagaland."
       },
       {
          "description" : "",
@@ -1400,22 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3301",
          "pubDate" : "Sun, 10 Nov 2024 20:57:43",
          "title" : "Gukesh Dommaraju: \"I just want to enjoy the experience\""
-      },
-      {
-         "description" : "National Under 11 Rank Name 1 Madhvendra Pratap Sharma 2 Advik Amit Agrawal 3 Aarav A 4 Cyrus Eldho 5 Mehul Sondhi 6 Daniel Ajish",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-under-11-chess-championship-2024/",
-         "pubDate" : "Sun, 10 Nov 2024 18:02:50",
-         "title" : "Certificate of National Under 11 Chess Championship 2024"
-      },
-      {
-         "description" : "With 11 rounds World Youth Chess Championship ended here in Florianopolis starting from 29th Oct but Indians had little disappointing performance as far as medals",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-world-youth-chess-championship-2024/",
-         "pubDate" : "Sun, 10 Nov 2024 17:36:16",
-         "title" : "Final Report- World Youth Chess Championship 2024"
       },
       {
          "description" : "'Take Take Take'? Where have I heard that in reference to chess before? It turns out that it was just a few weeks ago in <A HREF=\"https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html\">A Press of Yahoos</A> (October 2024). There I quoted a press report, <BLOCKQUOTE> 2024-10-25: <B>After 20 years at the top of chess, Magnus Carlsen is making his next move</B> (apnews.com; Mark Lewis) &#149; 'Offering a new way to interact with the game, Carlsen on Friday launched his application, <I>Take Take Take</I>, which will follow live games and players, explaining matches in an accessible way that, Carlsen says, is sometimes missing from streaming platforms like YouTube and Twitch. \"It wi",
