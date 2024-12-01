@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Spotlight article of the ECU magazine we were introduced to the women but also men working behind the scene, doing a fantastic work to support women in chess. They play a key role as players, arbiters, coaches, volunteers, says Antonina Gora from Ireland.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/females-and-males-working-behind-the-scene",
+         "pubDate" : "Sun, 01 Dec 2024 08:00:00",
+         "title" : "Females and Males Working Behind The Scene"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115859132.cms\" />Ding Liren achieved a draw with black against D Gukesh in the fifth game of the World Chess Championship. Despite having a potential advantage, Ding's cautious approach ended in a stalemate. The match stands tied at 2.5 points each, with Ding playing with white in the next game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,6 +74,14 @@ news_feed (
          "title" : "How To Watch FIDE World Championship 2024 Game 6"
       },
       {
+         "description" : "How was the champ's assessment during the game was so far off what the actual position was?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42696396/gukesh-ding-liren-2024-problem-miss-advantage-game-5-chess-world-championship?device=featurephone",
+         "pubDate" : "Sat, 30 Nov 2024 13:38:23",
+         "title" : "Ding's big 2024 problem sees him miss advantage against Gukesh in game 5"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115843000.cms\" />In the fifth game of the World Chess Championship, India's 18-year-old D Gukesh and China's defending champion Ding Liren ended with a draw after 40 moves. Both players now have 2.5 points each. Gukesh, using the King's pawn opening, aimed for an imbalanced position, but the game concluded in a balanced endgame with no progress in sight.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-world-cadet-chess-championship-2024-held-at-montesilvano-italy-from14th-november-to-27th-november-2024/",
          "pubDate" : "Sat, 30 Nov 2024 09:12:25",
          "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
+      },
+      {
+         "description" : "The score remains tied at 2.5-2.5 after game 5",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42678805/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-5?device=featurephone",
+         "pubDate" : "Sat, 30 Nov 2024 07:29:13",
+         "title" : "Chess World Championship: Gukesh's defensive nous ensures draw in game 5"
       },
       {
          "description" : "Chess fans revel in dazzling sacrifices and intricate checkmates, but the true essence of tactical mastery lies in the understated brilliance of \"small combinations\". Coined by Jos&eacute; Ra&uacute;l Capablanca, this term refers to concise, 2-3 move tactics, often easy to spot but just as easy to miss. Even grandmasters rely heavily on such calculations, scanning for subtle opportunities in every position. Dive into these examples to uncover the hidden gems of chess strategy and elevate your play.",
@@ -234,12 +258,28 @@ news_feed (
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
       },
       {
+         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
+         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
+      },
+      {
+         "description" : "Gukesh saw off Ding's unorthodox opening to get a solid draw with black.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 08:57:38",
+         "title" : "Gukesh, Ding Liren draw game 4 of World Championship, scores remain level at 2-2"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
@@ -280,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
          "pubDate" : "Fri, 29 Nov 2024 02:27:41",
          "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
-      },
-      {
-         "description" : "Catch all the LIVE updates from Game 4 of the World Chess Championship between D Gukesh and Ding Liren",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
-         "pubDate" : "Thu, 28 Nov 2024 22:36:02",
-         "title" : "Chess World Championship D Gukesh vs Ding Liren LIVE Game 4"
       },
       {
          "description" : "",
@@ -1122,6 +1154,14 @@ news_feed (
          "title" : "Inside Story: FIDE World Championship Preview"
       },
       {
+         "description" : "Not even close. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok17.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/wistreize/54093224892/\">Artisanal chess board...</A> &#169; Flickr user <I>wistreize</I> under <A HREF=\"https://creativecommons.org/licenses/by-sa/2.0/\">Creative Commons</A>.<BR> <P> The title of the photo, which was also the description, continued, <BLOCKQUOTE> ...with a fantastic hand, Arcana Festival, Morges, Switzerland 2024. </BLOCKQUOTE> <P> The 'business cards' to the right of the board say, 'Seb's Customs, Artiste Sculpteur'. I found a site at <A HREF=\"https://sebscustoms.jimdofree.com/\">Seb's Customs</A> (sebscustoms.jimdofree.com)",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/not-official-world-championship-set.html",
+         "pubDate" : "Sun, 17 Nov 2024 16:12:00",
+         "title" : "Not the Official World Championship Set"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115388633.cms\" />Chess grandmaster Magnus Carlsen has done it again, clinching both the rapid and blitz titles at the Tata Steel Chess India tournament. Carlsen's victory in Kolkata marks his second double win at the event. The tournament saw Filipino-American Grandmaster Wesley So making a strong comeback to secure second place. Indian players also shone, with Arjun Erigaisi taking third place.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1240,14 +1280,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Fri, 15 Nov 2024 11:14:01",
          "title" : "ECF Level 1 Arbiter Course - January 2025"
-      },
-      {
-         "description" : "Only one Indian has ever been world champion. No one has been world champion as a teenager (or at 20, or 21). Can Gukesh change all that?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42386445/d-gukesh-chess-world-championship-2024-youngest-prince-king?device=featurephone",
-         "pubDate" : "Fri, 15 Nov 2024 00:15:39",
-         "title" : "D Gukesh: The Prince who would be King"
       },
       {
          "description" : "Reading about the latest and greatest new features in ChessBase is exciting, but if you can barely use the basics, then it can also be frustrating. But worry not! You can learn them all in under 20 minutes, and even how to customize the work space, in this crystal clear video tutorial.",
