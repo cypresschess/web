@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2024-11-29","23","<a href=http://www.uschess.org/msa/XtblMain.php?202411297012 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-11-05  - 11-26","13","<a href=http://www.uschess.org/msa/XtblMain.php?202411266842 target='_blank'>NOVEMBER 2024 TUESDAY NIGHT SWISS</a>",
 "SUGAR LAND","2024-11-24","4","<a href=http://www.uschess.org/msa/XtblMain.php?202411245612 target='_blank'>CYGA11242024</a>",
 "HOUSTON","2024-11-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202411233782 target='_blank'>ADULTS ONLY NOV 23RD SATURDAY SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-04-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404201332 target='_blank'>CHESSPANDA04202024SATURDAY</a>",
 "CYPRESS","2024-04-19","26","<a href=http://www.uschess.org/msa/XtblMain.php?202404190972 target='_blank'>KNIGHTS OFCYPRESS</a>",
 "SPRING","2024-04-19","27","<a href=http://www.uschess.org/msa/XtblMain.php?202404190892 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-04-19","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404190852 target='_blank'>FBCC 2024 NATIONAL GARLIC DAY OPEN.</a>",
 ]);
