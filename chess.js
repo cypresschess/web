@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship in Singapore continues to thrill, with game 6 delivering another intense and closely contested draw. Ding Liren's choice of the London System and strong preparation put early pressure on Gukesh D, but the young challenger's resourceful play neutralised the reigning champion's advantage. A surprising decision by Gukesh to avoid a draw repetition added intrigue, as both players navigated the complexities of a double-rook endgame with precision. As the match enters its second rest day, the score remains tied, with game 7 set to resume the action on Tuesday. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g6",
+         "pubDate" : "Sun, 01 Dec 2024 19:40:00",
+         "title" : "World Championship Game 6: Another hard-fought draw, the tension rises"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,20 +42,20 @@ news_feed (
          "title" : "Arjun Erigaisi becomes second Indian to achieve 2800 ELO rating in chess"
       },
       {
-         "description" : "The score remains tied after six games at the World Championship match in Singapore. Sunday's game ended drawn, with Ding Liren getting an edge with white and Gukesh D showing resourcefulness to keep the balance. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Sun, 01 Dec 2024 09:45:00",
-         "title" : "World Championship: A tension-filled draw"
-      },
-      {
          "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/remote-engine-in-chessbase-18-power-everywhere",
          "pubDate" : "Sun, 01 Dec 2024 09:30:00",
          "title" : "Remote Engine in ChessBase 18: Power Everywhere"
+      },
+      {
+         "description" : "Catch all the updates from Game 6 of the World Chess Championship between D Gukesh and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42696572/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-6?device=featurephone",
+         "pubDate" : "Sun, 1 Dec 2024 08:39:18",
+         "title" : "Ding lets Gukesh off the hook as game 6 ends in another draw"
       },
       {
          "description" : "In the Spotlight article of the ECU magazine we were introduced to the women but also men working behind the scene, doing a fantastic work to support women in chess. They play a key role as players, arbiters, coaches, volunteers, says Antonina Gora from Ireland.",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Females and Males Working Behind The Scene"
       },
       {
-         "description" : "Indian GM Gukesh Dommaraju boldly rejected a draw by repetition in game six of the 2024 FIDE World Championship and looked in some danger of being punished by World Champion Ding Liren, but instead a fierce struggle ended in a 46-move draw. The sc...",
+         "description" : "&#34;I just like playing chess!&#34; said Indian GM Gukesh Dommaraju after rejecting a draw by repetition in game six of the 2024 FIDE World Championship. It was a decision that could have backfired, as World Champion Ding Liren had chances to push for a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-6",
@@ -74,28 +82,12 @@ news_feed (
          "title" : "Below-par Gukesh heads to 6th Game on even ground"
       },
       {
-         "description" : "Catch all the updates from Game 6 of the World Chess Championship between D Gukesh and Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42696572/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-6?device=featurephone",
-         "pubDate" : "Sat, 30 Nov 2024 22:46:59",
-         "title" : "Chess World Championship: Gukesh vs Ding Liren match 6 live"
-      },
-      {
          "description" : "The score in the match for the World Championship remains tied, as Gukesh D and Ding Liren drew their fifth game. Ding, played the French Defence with black and missed a crucial chance in a favourable endgame after Gukesh failed to foresee a strong knight manoeuvre. With one game left before the second rest day, we are reaching the midpoint of what continues to be a tense, exciting struggle. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2024-g5",
          "pubDate" : "Sat, 30 Nov 2024 19:00:00",
          "title" : "World Championship Game 5: A missed chance for Ding"
-      },
-      {
-         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live with computer-assisted analysis starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
-         "pubDate" : "Sat, 30 Nov 2024 16:45:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "13 months of silver and bronze medals have come to an end for GM Jose Martinez, who rose to capture his fourth Bullet Brawl title and the $400 first prize in Saturday&#39;s event. Battling against GMs Hikaru Nakamura, GM Daniel Naroditsky, and 188 oth...",
@@ -1360,14 +1352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3301",
          "pubDate" : "Sun, 10 Nov 2024 20:57:43",
          "title" : "Gukesh Dommaraju: \"I just want to enjoy the experience\""
-      },
-      {
-         "description" : "'Take Take Take'? Where have I heard that in reference to chess before? It turns out that it was just a few weeks ago in <A HREF=\"https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html\">A Press of Yahoos</A> (October 2024). There I quoted a press report, <BLOCKQUOTE> 2024-10-25: <B>After 20 years at the top of chess, Magnus Carlsen is making his next move</B> (apnews.com; Mark Lewis) &#149; 'Offering a new way to interact with the game, Carlsen on Friday launched his application, <I>Take Take Take</I>, which will follow live games and players, explaining matches in an accessible way that, Carlsen says, is sometimes missing from streaming platforms like YouTube and Twitch. \"It wi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/carlsen-ding-liren-nakamura-on-wcc-2024.html",
-         "pubDate" : "Sun, 10 Nov 2024 16:51:00",
-         "title" : "Carlsen, Ding Liren, Nakamura on WCC 2024"
       }
    ]
 }
