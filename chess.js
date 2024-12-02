@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Going to the second free day, the match for the FIDE World Championship 2024, between the World Champion Ding Liren and the Challenger D. Gukesh, is tied on 3-3 after six games. Ding seems to be in charge by now, as he has lost a number of opportunities to gain a one or two points lead already! International chess trainer GM Efstratios Grivas provides his take on games five and six.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-games-five-and-six",
+         "pubDate" : "Mon, 02 Dec 2024 08:30:18",
+         "title" : "Grivas on games five and six"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, December 3, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore, after a rest day ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
+         "pubDate" : "Mon, 02 Dec 2024 00:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 7"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "ECU / ETC Titles 5th Online Webinar"
       },
       {
-         "description" : "On November 19, GM Hikaru Nakamura became the first player ever to win four straight Titled Tuesdays, and nearly became the first to win five in a row and sweep two consecutive weeks. Nakamura was able to just squeak out a win on tiebreaks over GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-firouzja-win-titled-tuesday-november-19-2024",
-         "pubDate" : "Wed, 20 Nov 2024 09:20:36",
-         "title" : "Connect Four! Hikaru Wins 4th Straight Tuesday"
-      },
-      {
          "description" : "Romanian Chess Federation and European Chess Union have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the European Individual Chess Championship 2025 which will be organized in Romania, Eforie-Nord, from 14th March (arrival) to 27th March (departure). European Individual Chess Championship 2025 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of ECU []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3302",
          "pubDate" : "Mon, 11 Nov 2024 13:22:04",
          "title" : "Gala in Barcelona celebrates 100th anniversary of Catalan Chess Federation"
-      },
-      {
-         "description" : "The latest version of the standard chess study program has received a major update. It now allows you to evaluate your opponents, study their repertoire, their strengths and weaknesses, all at a click of the mouse. It draws its conclusions by replaying all their games - it has access to many billions of online games. Head programmer Matthias Wuellenweber has written about the new program in the latest issue of ChessBase Magazine. Check out the details and decide whether you can afford not to have the program.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-new-dimensions-in-study-and-preparation",
-         "pubDate" : "Mon, 11 Nov 2024 08:00:20",
-         "title" : "ChessBase 18: New dimensions in study and preparation"
       }
    ]
 }
