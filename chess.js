@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nihal Sarin drew with elite GM Nodirbek Abdusattorov in the final round to claim outright victory at the third edition of the President Cup in Uzbekistan. Nihal had a sensational run in Tashkent, ending the event with a 7&frac12;/9 score and a 2809 performance (TPR). Javokhir Sindarov, Parham Maghsoodloo and Shamsiddin Vokhidov scored 7/9 points each. They secured second, third and fourth places respectively according to tiebreaks. | Photos: Uzbekistan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/president-cup-2024-r9",
+         "pubDate" : "Mon, 02 Dec 2024 15:00:00",
+         "title" : "Nihal Sarin wins President Cup with sensational 2809 TPR"
+      },
+      {
          "description" : "Arjun Erigaisi is now officially another player over 2800 behind Carlsen, Caruana and Nakamura in the December FIDE world rankings. Four Chinese players continue to lead the women's ranking and Gukesh D, the world's best junior might soon also be World Champion. Bibisara Assaubayeva is the world's best female junior.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-december-2025",
          "pubDate" : "Mon, 02 Dec 2024 13:20:58",
          "title" : "FIDE ratings - December 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3332",
+         "pubDate" : "Mon, 02 Dec 2024 12:57:28",
+         "title" : "Qualification paths for FIDE Women's Candidates Tournament 2026 finalized"
       },
       {
          "description" : "Please find the live links of 15th KIIT International Chess Festival 2024 (Category &#8216;A') https://lichess.org/broadcast/15th-kiit-international-chess-festival-2024/round-1/EYnd1ykS",
@@ -26,11 +42,19 @@ news_feed (
          "title" : "Grivas on games five and six"
       },
       {
+         "description" : "For India's future chess stars, Anand is not just a spiritual inspiration as a mythical figure who went to places that no other Indian before him did. He's there for them first-hand.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42733514/viswanathan-anand-hands-godfather-indian-chess-making-right-moves-world-championship-2024-gukesh-ding?device=featurephone",
+         "pubDate" : "Mon, 2 Dec 2024 06:41:28",
+         "title" : "Viswanathan Anand, hands-on godfather of Indian chess, still making the right moves"
+      },
+      {
          "description" : "GM Arjun Erigaisi became the 16th player in history to break the 2800 Elo barrier in standard chess ratings and only the second Indian player to do so after GM Viswanathan Anand. With 2801, Arjun is the world number-four on the December 2024 FIDE ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/december-2024-fide-ratings-arjun-erigaisi",
-         "pubDate" : "Mon, 02 Dec 2024 02:31:49",
+         "pubDate" : "Mon, 02 Dec 2024 02:31:00",
          "title" : "Arjun Officially Joins Carlsen, Caruana, Nakamura In 2800 Club"
       },
       {
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3331",
          "pubDate" : "Sun, 01 Dec 2024 21:31:30",
          "title" : "Arjun Erigaisi crosses 2800 in December 2024 rating list"
-      },
-      {
-         "description" : "The World Chess Championship in Singapore continues to thrill, with game 6 delivering another intense and closely contested draw. Ding Liren's choice of the London System and strong preparation put early pressure on Gukesh D, but the young challenger's resourceful play neutralised the reigning champion's advantage. A surprising decision by Gukesh to avoid a draw repetition added intrigue, as both players navigated the complexities of a double-rook endgame with precision. As the match enters its second rest day, the score remains tied, with game 7 set to resume the action on Tuesday. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g6",
-         "pubDate" : "Sun, 01 Dec 2024 19:40:00",
-         "title" : "World Championship Game 6: Another hard-fought draw, the tension rises"
       },
       {
          "description" : "",
@@ -306,6 +322,14 @@ news_feed (
          "title" : "Final Report: Senior National Arbiter Seminar & Examination from 23 to 24 November 2024 at Karnal, Haryana ."
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3325",
+         "pubDate" : "Fri, 29 Nov 2024 14:31:41",
+         "title" : "Wall Street Gambit: Where chess meets finance"
+      },
+      {
          "description" : " Ding Liren played a very quiet flank opening against Gukesh in Game 4 of the World Chess Championship in Singapore. Gukesh did admit to being somewhat surprised but he did recall seeing such a setup in the past and chose a sort of reverse London (I think the London System reminds me of some black setups so maybe this is a reverse, reverse something). Anyhow after 12.Nd4 white had a very nice knight and a minority attack on the Queenside, not super scary but at least something. Gukesh is known for his very concrete calculative approach and 13.... Ne5! was sort of asking for f4 in the next few moves, but when is came to it f4 didn't seem very appetizing to Ding, mostly because this pawn push ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -416,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
          "pubDate" : "Fri, 29 Nov 2024 02:27:41",
          "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3325",
-         "pubDate" : "Thu, 28 Nov 2024 20:31:41",
-         "title" : "Wall Street Gambit: Where chess meets finance"
       },
       {
          "description" : "",
@@ -1146,14 +1162,6 @@ news_feed (
          "title" : "Chess 101: Explaining the sport"
       },
       {
-         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's what it takes to be the champ",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42482615/chess-world-championship-takes-crown-king-gukesh-ding-liren?device=featurephone",
-         "pubDate" : "Tue, 19 Nov 2024 08:11:10",
-         "title" : "Chess World Championship: What it takes to be crowned king"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1392,22 +1400,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/",
          "pubDate" : "Mon, 11 Nov 2024 23:30:00",
          "title" : "Maurice Ashley's new chess initiative announced!"
-      },
-      {
-         "description" : "According to the recent post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/where-was-i.html\">Where Was I?</A> (November 2024), Mondays could be for a new series on AI comics. Sounds good to me, but on what theme? <P> While I was preparing that post, I browsed bookmarks that had accumulated since I cut back on blogging almost six months ago. One in particular caught my attention: <A HREF=\"https://en.chessbase.com/post/elon-musk-criticizes-chess-again\">Elon Musk criticizes chess... again!</A> (chessbase.com; Albert Silver):- <BLOCKQUOTE> In what is now a recurring theme, Elon Musk, the world's richest man, once again took to his now owned Twitter/X to rain hell and fire on the royal g",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/elon-musk-goes-trolling.html",
-         "pubDate" : "Mon, 11 Nov 2024 16:17:00",
-         "title" : "Elon Musk Goes Trolling"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3302",
-         "pubDate" : "Mon, 11 Nov 2024 13:22:04",
-         "title" : "Gala in Barcelona celebrates 100th anniversary of Catalan Chess Federation"
       }
    ]
 }
