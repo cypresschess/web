@@ -58,6 +58,14 @@ news_feed (
          "title" : "Arjun Erigaisi becomes second Indian to achieve 2800 ELO rating in chess"
       },
       {
+         "description" : "On behalf of All India Chess Federation, The Chhattisgarh State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam &#160;Hotel Grand Imperia, VIP Road,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-in-hotel-grand-imperia-vip-road-raipur-chhattisgarh-on-04-05-january-2025/",
+         "pubDate" : "Sun, 01 Dec 2024 10:34:46",
+         "title" : "Senior National Arbiters Seminar & Exam in Hotel Grand Imperia, VIP Road, Raipur Chhattisgarh on 04 & 05 January 2025"
+      },
+      {
          "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/below-par-gukesh-heads-to-6th-game-on-even-ground/articleshow/115859132.cms",
          "pubDate" : "Sun, 01 Dec 2024 03:45:54",
          "title" : "Below-par Gukesh heads to 6th Game on even ground"
+      },
+      {
+         "description" : "There was a time not very long ago that three consecutive draws in a world championship match was not newsworthy. But, after two decisive results in the first three rounds of the 2024 FIDE World Chess Championship match, it looked like we were headed toward a continuation of the one-sided massacre in 2021 and the back-and-forth bloodbath from 2023, where decisive games ran rampant.Instead, reigning World Champion GM Ding Liren and challenger GM Gukesh Dommaraju are now mired in the second-longest stretch of classical draws in a championship match since the 19-game classical winless streak that lasted from the 11th round of the 2016 match through the fifth game of the 2021 match.We dive into ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wcc-games-4-6-three-draws-ramp-tension",
+         "pubDate" : "Sun, 01 Dec 2024 00:00:00",
+         "title" : "WCC Games 4-6: Three Draws Ramp Up the Tension"
       },
       {
          "description" : "The score in the match for the World Championship remains tied, as Gukesh D and Ding Liren drew their fifth game. Ding, played the French Defence with black and missed a crucial chance in a favourable endgame after Gukesh failed to foresee a strong knight manoeuvre. With one game left before the second rest day, we are reaching the midpoint of what continues to be a tense, exciting struggle. | Photo: FIDE / Eng Chin An",
@@ -160,6 +176,14 @@ news_feed (
          "link" : "https://www.thearticle.com/le-lionnais-the-vanishing-virtuoso/",
          "pubDate" : "Sat, 30 Nov 2024 11:25:24",
          "title" : "Le Lionnais, the vanishing virtuoso"
+      },
+      {
+         "description" : "The Indian contingent showcased an outstanding performance at the World Cadet Chess Championship 2024, winning two medals: India's impressive medal tally of 1 Gold and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-world-cadet-chess-championship-2024-held-at-montesilvano-italy-from14th-november-to-27th-november-2024/",
+         "pubDate" : "Sat, 30 Nov 2024 09:12:25",
+         "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
       },
       {
          "description" : "The score remains tied at 2.5-2.5 after game 5",
@@ -258,6 +282,14 @@ news_feed (
          "title" : "1800+ or Higher: Silent Moves - GM Var Akobian"
       },
       {
+         "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-from-23-to-24-november-2024-at-karnal-haryana/",
+         "pubDate" : "Fri, 29 Nov 2024 15:34:28",
+         "title" : "Final Report: Senior National Arbiter Seminar & Examination from 23 to 24 November 2024 at Karnal, Haryana ."
+      },
+      {
          "description" : " Ding Liren played a very quiet flank opening against Gukesh in Game 4 of the World Chess Championship in Singapore. Gukesh did admit to being somewhat surprised but he did recall seeing such a setup in the past and chose a sort of reverse London (I think the London System reminds me of some black setups so maybe this is a reverse, reverse something). Anyhow after 12.Nd4 white had a very nice knight and a minority attack on the Queenside, not super scary but at least something. Gukesh is known for his very concrete calculative approach and 13.... Ne5! was sort of asking for f4 in the next few moves, but when is came to it f4 didn't seem very appetizing to Ding, mostly because this pawn push ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -336,6 +368,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0",
          "pubDate" : "Fri, 29 Nov 2024 07:20:02",
          "title" : "Monday Knight Mayhem: Beginner Breakdown and Masterclass - Sara Herman and GM Denes Boros"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation and Arbiters' Commission AICF, Karnataka State Chess Association was organized a Senior National Arbiters Seminar &#38; Exam at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-maddur-mandya-karnataka-from-23-to-24-november-2024/",
+         "pubDate" : "Fri, 29 Nov 2024 06:40:51",
+         "title" : "Final Report :SNA Seminar, Maddur, Mandya, Karnataka from 23 to 24 November 2024"
       },
       {
          "description" : " 2024 World Chess Championship: Game 3Wednesday, 26 November 2024 Gukesh breaks through evens the score! Dommaraju Gukesh won Game 3 of the World Championship match with an impressive win over Ding Liren. This game rode on a razor's edge when Ding was close to stealing the initiative. The game went down normal channels and followed The post <a href=\"https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/\">2024 World Chess Championship: Game 3</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -504,6 +544,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-yoo-win-titled-tuesday-november-26-2024",
          "pubDate" : "Wed, 27 Nov 2024 07:50:20",
          "title" : "It's Tuesdays With Magzy As Carlsen Returns To Win Column"
+      },
+      {
+         "description" : "From 15th to 17th November 2024, a FIDE Arbiters' Seminar was successfully organized in Ranchi, Jharkhand, by the All India Chess Federation, under the auspices",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-fide-arbiters-seminar-in-ranchi-from-15-17-november-2024/",
+         "pubDate" : "Wed, 27 Nov 2024 06:48:46",
+         "title" : "Final Report :FIDE Arbiters' Seminar in Ranchi from 15-17 November 2024"
       },
       {
          "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
@@ -1178,14 +1226,6 @@ news_feed (
          "title" : "GM Aleksandar Indjic keeps the lead at EICC2024 with only two rounds to go"
       },
       {
-         "description" : "Editor's note: This story first appeared in the November 2024 issue of Chess Life. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee.We also provide a pdf version of the article for those interested in reading it in full layout.<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The first Chinese world champion defends his title this month against a grandmaster who is looking to become - by far - the youngest champ ever.The W",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-fide-world-championship-preview",
-         "pubDate" : "Mon, 18 Nov 2024 00:00:00",
-         "title" : "Inside Story: FIDE World Championship Preview"
-      },
-      {
          "description" : "Not even close. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok17.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/wistreize/54093224892/\">Artisanal chess board...</A> &#169; Flickr user <I>wistreize</I> under <A HREF=\"https://creativecommons.org/licenses/by-sa/2.0/\">Creative Commons</A>.<BR> <P> The title of the photo, which was also the description, continued, <BLOCKQUOTE> ...with a fantastic hand, Arcana Festival, Morges, Switzerland 2024. </BLOCKQUOTE> <P> The 'business cards' to the right of the board say, 'Seb's Customs, Artiste Sculpteur'. I found a site at <A HREF=\"https://sebscustoms.jimdofree.com/\">Seb's Customs</A> (sebscustoms.jimdofree.com)",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1200,6 +1240,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
          "pubDate" : "Sun, 17 Nov 2024 09:15:00",
          "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "Round 1 Report of 20 players across 6 categories, Indian Contingent scored 14 wins, 5 draws and faced 1 loss U8 Open 2.Ayaan Phutane started",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cadet-chess-championship-2024-kicked-off-at-montesilvano-italy/",
+         "pubDate" : "Sun, 17 Nov 2024 04:32:48",
+         "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
       },
       {
          "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
@@ -1250,6 +1298,14 @@ news_feed (
          "title" : "UK Blitz chess final pits grandmasters against a golden generation"
       },
       {
+         "description" : "49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship 2024 jointly organised by Ananthi Chess Academy and Viyugam Chess Academy on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/im-ilamparthi-a-r-and-wcm-prishita-gupta-champions-of-49th-national-sub-junior-open-and-40th-national-sub-junior-girls-chess-championship-2024/",
+         "pubDate" : "Fri, 15 Nov 2024 13:42:24",
+         "title" : "IM Ilamparthi A R and WCM Prishita Gupta , Champions of 49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship-2024"
+      },
+      {
          "description" : "Chess in Schools and Communities is delighted to announce that two free spectator tickets for this year's XTX Markets London Chess Classic are being offered to every chess club in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1288,6 +1344,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ancient-chess-problems-to-solve",
          "pubDate" : "Wed, 13 Nov 2024 20:00:00",
          "title" : "Ancient chess problems to solve"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, The Nagaland Chess Association is organizing first ever Senior National Arbiters Seminar &#38; Exam at Tourist Lodge, Dimapur",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-exam-on-the-28th-and-29th-of-january-2024-at-tourist-lodge-dimapur-nagaland/",
+         "pubDate" : "Wed, 13 Nov 2024 14:43:57",
+         "title" : "Senior National Arbiter Seminar and Exam on the 28th and 29th of November 2024 at Tourist Lodge, Dimapur Nagaland."
       },
       {
          "description" : "",
