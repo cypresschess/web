@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi is now officially another player over 2800 behind Carlsen, Caruana and Nakamura in the December FIDE world rankings. Four Chinese players continue to lead the women's ranking and Gukesh D, the world's best junior might soon also be World Champion. Bibisara Assaubayeva is the world's best female junior.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-december-2025",
+         "pubDate" : "Mon, 02 Dec 2024 13:20:58",
+         "title" : "FIDE ratings - December 2025"
+      },
+      {
+         "description" : "Please find the live links of 15th KIIT International Chess Festival 2024 (Category &#8216;A') https://lichess.org/broadcast/15th-kiit-international-chess-festival-2024/round-1/EYnd1ykS",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-links15th-kiit-international-chess-festival-2024-category-a/",
+         "pubDate" : "Mon, 02 Dec 2024 11:00:17",
+         "title" : "Live Game links:15th KIIT International Chess Festival 2024 (Category 'A')"
+      },
+      {
          "description" : "Going to the second free day, the match for the FIDE World Championship 2024, between the World Champion Ding Liren and the Challenger D. Gukesh, is tied on 3-3 after six games. Ding seems to be in charge by now, as he has lost a number of opportunities to gain a one or two points lead already! International chess trainer GM Efstratios Grivas provides his take on games five and six.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-on-games-five-and-six",
          "pubDate" : "Mon, 02 Dec 2024 08:30:18",
          "title" : "Grivas on games five and six"
+      },
+      {
+         "description" : "GM Arjun Erigaisi became the 16th player in history to break the 2800 Elo barrier in standard chess ratings and only the second Indian player to do so after GM Viswanathan Anand. With 2801, Arjun is the world number-four on the December 2024 FIDE ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/december-2024-fide-ratings-arjun-erigaisi",
+         "pubDate" : "Mon, 02 Dec 2024 02:31:49",
+         "title" : "Arjun Officially Joins Carlsen, Caruana, Nakamura In 2800 Club"
       },
       {
          "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, December 3, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore, after a rest day ...",
@@ -130,14 +154,6 @@ news_feed (
          "title" : "WCC Games 4-6: Three Draws Ramp Up the Tension"
       },
       {
-         "description" : "The score in the match for the World Championship remains tied, as Gukesh D and Ding Liren drew their fifth game. Ding, played the French Defence with black and missed a crucial chance in a favourable endgame after Gukesh failed to foresee a strong knight manoeuvre. With one game left before the second rest day, we are reaching the midpoint of what continues to be a tense, exciting struggle. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g5",
-         "pubDate" : "Sat, 30 Nov 2024 19:00:00",
-         "title" : "World Championship Game 5: A missed chance for Ding"
-      },
-      {
          "description" : "13 months of silver and bronze medals have come to an end for GM Jose Martinez, who rose to capture his fourth Bullet Brawl title and the $400 first prize in Saturday&#39;s event. Battling against GMs Hikaru Nakamura, GM Daniel Naroditsky, and 188 oth...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -210,14 +226,6 @@ news_feed (
          "title" : "Chess World Championship: Gukesh's defensive nous ensures draw in game 5"
       },
       {
-         "description" : "Chess fans revel in dazzling sacrifices and intricate checkmates, but the true essence of tactical mastery lies in the understated brilliance of \"small combinations\". Coined by Jos&eacute; Ra&uacute;l Capablanca, this term refers to concise, 2-3 move tactics, often easy to spot but just as easy to miss. Even grandmasters rely heavily on such calculations, scanning for subtle opportunities in every position. Dive into these examples to uncover the hidden gems of chess strategy and elevate your play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-40-small-combinatios-are-the-spice-of-chess",
-         "pubDate" : "Sat, 30 Nov 2024 07:00:00",
-         "title" : "The Winning Academy 40: Small combinations are the spice of chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115830347.cms\" />In the fourth game of their World Chess Championship match, challenger D Gukesh and reigning champion Ding Liren played a quiet draw. Gukesh managed to equalize despite Ding's semi-surprise move in the Reti Opening. The score remains tied at 2-2, with Gukesh's confident play being notable.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-5",
          "pubDate" : "Fri, 29 Nov 2024 22:14:00",
          "title" : "Gukesh Blunders But Ding Lets Him Off Easily In Game 5"
-      },
-      {
-         "description" : "It is an exciting World Championship. Whereas previous matches had started with five, six and even twelve draws, Ding vs Gukesh had two decisive games - and two tense draws - in the first four. We have provided full live commentary, and a good deal of post-game analysis. Up for some more? Here are all three games with comments from a leading chess trainer. There is a lot to learn from his view of things.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-games-1-4",
-         "pubDate" : "Fri, 29 Nov 2024 21:00:00",
-         "title" : "World Championship games 1-4"
       },
       {
          "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin is Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Spectators are welcome again this year and this was a huge part of the original concept of the event. ",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-starts-in-paris/",
          "pubDate" : "Wed, 20 Nov 2024 20:40:13",
          "title" : "European Corporate Chess Championship starts in Paris"
-      },
-      {
-         "description" : "GM Magnus Carlsen and IM Tania Sachdev proved to be the dream team in &#34;Head &#38;amp; Hand&#34; as the duo defeated GMs Fabiano Caruana and Maurice Ashley 2-0. Day one was a promotional event for the Freestyle Chess Match: Carlsen vs. Caruana in Singapore...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-match-carlsen-caruana-day-1",
-         "pubDate" : "Wed, 20 Nov 2024 10:31:00",
-         "title" : "Carlsen, Tania Dream Team Scores 2-0 Vs. Caruana, Ashley"
       },
       {
          "description" : "",
