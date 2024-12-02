@@ -34,6 +34,14 @@ news_feed (
          "title" : "Live Game links:15th KIIT International Chess Festival 2024 (Category 'A')"
       },
       {
+         "description" : "Do you hear what I hear? It&#38;rsquo;s the sound of Chess.com&#38;rsquo;s Holiday Bots! Santa and some familiar favorites are back and ready to challenge you to some chess games as the year wraps up. Find out if you&#38;rsquo;re naughty or nice by taking o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/holiday-bots-2024",
+         "pubDate" : "Mon, 02 Dec 2024 09:56:56",
+         "title" : "Play Against Chess.com's Holiday Bots"
+      },
+      {
          "description" : "Going to the second free day, the match for the FIDE World Championship 2024, between the World Champion Ding Liren and the Challenger D. Gukesh, is tied on 3-3 after six games. Ding seems to be in charge by now, as he has lost a number of opportunities to gain a one or two points lead already! International chess trainer GM Efstratios Grivas provides his take on games five and six.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
          "pubDate" : "Mon, 02 Dec 2024 00:00:00",
          "title" : "How To Watch FIDE World Championship 2024 Game 7"
+      },
+      {
+         "description" : "US Chess tournaments have their rules. FIDE tournaments have their separate rules. And then we have the US Chess Scholastic Regulations, via the Scholastic Council and the Executive Board. Kids are not adults. Kids are not mini adults, either, despite how they look. Their brains are struggling to connect the dots so that the world around them makes sense. Their chess universe is filled with individual/team chess, coaches and chess parents. Our national scholastic chess scene leans heavily on the US Chess rulebook, adjusted to meet the needs of youthful wood-pushers, also known as the US Chess Scholastic Regulations. Let's do some exploring: Truth in Advertising: The Scholastic Regulations go",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-scholastic-chess-regulations",
+         "pubDate" : "Mon, 02 Dec 2024 00:00:00",
+         "title" : "Just the Rules: Scholastic Chess Regulations"
+      },
+      {
+         "description" : "GM Alexander Shabalov won the 32nd FIDE World Senior (50+) Championship with an 8&frac12;/11 score ahead of Polish GM Michal Krasenkow on tiebreaks. The 57-year-old became only the second American to claim the World Senior title, joining GM Larry Kaufman (2008). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy Federacao Portuguesa de Xadrez<br> <br> <br> <br> Held in Porto Santo, Portugal from November 17 through 28, the 11-round Swiss featured 202 players representing 48 different federations across three sections (50+, 65+, and Women's).Shabalov was one of 11 Americans competing, joining his World Senior Team teammate GM Gregory Ka",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/shabalov-wins-2024-fide-world-senior-50-championship",
+         "pubDate" : "Mon, 02 Dec 2024 00:00:00",
+         "title" : "Shabalov Wins 2024 FIDE World Senior (50+) Championship"
       },
       {
          "description" : "",
@@ -1042,14 +1066,6 @@ news_feed (
          "title" : "Freestyle Chess Match: Carlsen vs. Caruana 2024 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen won the first game, of two, in his Freestyle Chess Match against Fabiano Caruana. It was a full-fledged war on the 64 squares after Caruana sacrificed a pawn on move 11, but Carlsen found his groove: The game just flowed&#38;mdash;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-match-carlsen-caruana-game-1",
-         "pubDate" : "Thu, 21 Nov 2024 09:23:00",
-         "title" : "Carlsen Wins Game 1 Slugfest In Freestyle Match Vs. Caruana"
-      },
-      {
          "description" : "Here's a brief overview of their strengths and weaknesses, and how proceedings could transpire on the board over the course of 14 potential games.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "How quirk of fate played a role in setting up Ding vs Gukesh world chess battle"
       },
       {
-         "description" : "With GM Ding Liren set to defend his title against GM Gukesh Dommaraju beginning on Monday, November 25, this week's Wednesday Workout looks back through our coverage of his 2023 victory over GM Ian Nepomniachtchi. Follow Chess Life Online for daily recaps and coverage of this year's match! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-2023-world-championship-lookback",
-         "pubDate" : "Wed, 20 Nov 2024 00:00:00",
-         "title" : "Wednesday Workout: 2023 World Championship Lookback"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3309",
          "pubDate" : "Tue, 19 Nov 2024 05:28:54",
          "title" : "World Chess and FIDE open up Elite Chess Sponsorship to small businesses"
-      },
-      {
-         "description" : "This week's puzzles again come from the 2024 U.S. Women's Championship (as well as a few from the 2024 U.S. Championship, won by GM Fabiano Caruana). All coverage from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-us-championships-pt-3",
-         "pubDate" : "Tue, 19 Nov 2024 00:00:00",
-         "title" : "Tactics Tuesday: U.S. Championships, Pt. 3"
       },
       {
          "description" : "Ten rounds were played at the European Individual Chess Championship 2024 in Petrovac, Montegro, and the new Champion will be crowned tomorrow! GM Aleksandar Indjic (SRB, 2623) kept the sole lead in the tournament after today's draw against GM Daniil Yuffa (ESP, 2631). Indjic now scores 8.5 points, and enters the last round with half a point advantage over GM Daniel Dardha (BEL, 2606) who is in clear second place scoring 8 points. GM Daniel Dardha (BEL, 2606) was victorious []",
