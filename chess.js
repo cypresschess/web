@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3331",
+         "pubDate" : "Sun, 01 Dec 2024 21:31:30",
+         "title" : "Arjun Erigaisi crosses 2800 in December 2024 rating list"
+      },
+      {
          "description" : "The World Chess Championship in Singapore continues to thrill, with game 6 delivering another intense and closely contested draw. Ding Liren's choice of the London System and strong preparation put early pressure on Gukesh D, but the young challenger's resourceful play neutralised the reigning champion's advantage. A surprising decision by Gukesh to avoid a draw repetition added intrigue, as both players navigated the complexities of a double-rook endgame with precision. As the match enters its second rest day, the score remains tied, with game 7 set to resume the action on Tuesday. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-forces-draw-against-ding-liren-in-game-6-of-world-chess-championship/articleshow/115870011.cms",
          "pubDate" : "Sun, 01 Dec 2024 13:59:37",
          "title" : "D Gukesh forces draw against Ding Liren in Game 6"
+      },
+      {
+         "description" : "Gukesh's move to not accept the draw early came as a shock, but what does it say about the young challenger?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42716570/gukesh-ding-liren-entertain-champion-temperament-questions-game-6-chess-world-championship-2024?device=featurephone",
+         "pubDate" : "Sun, 1 Dec 2024 12:30:36",
+         "title" : "Gukesh opts to entertain in game 6, but raises questions over champion temperament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115867023.cms\" />Arjun Erigaisi has become the second Indian, after Viswanathan Anand, and the 16th worldwide to reach the prestigious ELO rating of 2800. The 21-year-old Grandmaster, who also won gold at the Chess Olympiad, now ranks fourth in the world. He trails Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura in the global chess standings.",
@@ -1178,14 +1194,6 @@ news_feed (
          "title" : "Not the Official World Championship Set"
       },
       {
-         "description" : "As India's D Gukesh gears up to take on Ding Liren in the 2024 chess World Championship, here's a selection of the most iconic and bizarre moments in the tournament's history.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42441814/world-championship-bizarre-history-hypnotists-toiletgate?device=featurephone",
-         "pubDate" : "Sun, 17 Nov 2024 10:17:37",
-         "title" : "The unexpected bizarreness of a chess World Championship"
-      },
-      {
          "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-18-new-dimensions-in-study-and-preparation",
          "pubDate" : "Mon, 11 Nov 2024 08:00:20",
          "title" : "ChessBase 18: New dimensions in study and preparation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3301",
-         "pubDate" : "Sun, 10 Nov 2024 20:57:43",
-         "title" : "Gukesh Dommaraju: \"I just want to enjoy the experience\""
       }
    ]
 }
