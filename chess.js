@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian uses strong examples to demonstrate the stealthiness of preparing or interposing moves that cannot prevent the inevitable. 2024.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silent-moves-1800-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/silent-moves-1800-puzzlers-paradise-double-exclam-gm-var-akobian",
+         "pubDate" : "Tue, 03 Dec 2024 19:22:01",
+         "title" : "Silent Moves for 1800+ | Puzzler's Paradise & Double Exclam!! - GM Var Akobian"
+      },
+      {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
          "pubDate" : "Tue, 03 Dec 2024 16:45:00",
          "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : " The seventh game of the World Chess Championship match between Ding Liren and Gukesh in Singapore ended in a draw after 5 hours 20 of play. Gukesh had the white pieces and went back to an old love, the Reti, and came up with a rare variation 7.Re1 which had been mostly played in blitz games. This presented Ding Liren with the problem of finding a correct setup, and whilst it must have been uncomfortable for him it doesn't seem to me he was in that much trouble until he missed the very accurate 23...c3. That's to brush over a lot of decisions that had to be taken to that point but his position started to deteriorate rather quickly after that. Gukesh then took Queens off and damaged Ding's Ki",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-allows-ding-to-escape-with-a-draw-in-world-championship-game-7",
+         "pubDate" : "Tue, 3 Dec 2024 16:30:00",
+         "title" : "Gukesh allows Ding to escape with a draw in World Championship game 7 - 7"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115941800.cms\" />In the seventh game of the World Chess Championship, defending champion Ding Liren of China and Indian challenger D Gukesh fought for over five hours, ending in a draw after 72 moves. Despite Gukesh gaining an early advantage, Ding's resilient defence and strategic play levelled the game, tying both players at 3.5 points each. ",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "World Championship Game 7: Ding Liren escapes by the skin of his teeth"
       },
       {
+         "description" : "Make no mistake, Gukesh's advantage here in game 7 against Ding Liren was significant; but he let it slip",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42757010/gukesh-ding-liren-nearly-never-enough-game-7-chess-world-championship-2024?device=featurephone",
+         "pubDate" : "Tue, 3 Dec 2024 12:39:39",
+         "title" : "Gukesh finds out that in World Championships, nearly is never enough"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,36 +66,44 @@ news_feed (
          "title" : "FIDE Circuit 2024: Erigaisi still in the lead, Caruana closes in"
       },
       {
-         "description" : "A gripping encounter lasting 72 moves and close to 5 and a half hours ended drawn as the World Championship match reached the half point in Singapore. Gukesh D, playing white, obtained a favourable queenless position after showing strong preparation. The Indian's edge further increased after Ding Liren faltered on move 40. However, the challenger failed to convert his advantage into a win, as Ding showed great defensive skills in the endgame. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Tue, 03 Dec 2024 09:45:00",
-         "title" : "World Championship: Ding escapes with a draw"
+         "description" : "India&#39;s GM Gukesh Dommaraju had Chinese World Champion Ding Liren on the ropes in game seven of the 2024 FIDE World Championship, with a heartbreaking move-40 blunder looking likely to cost Ding the game even after he&#39;d found a way to survive. He ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
+         "pubDate" : "Tue, 03 Dec 2024 10:00:00",
+         "title" : "Ding Escapes In Game 7 Thriller To Tie Gukesh At Halfway"
+      },
+      {
+         "description" : "At 3.5 - 3.5, the scores remain tied between Ding Liren and D Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42738118/gukesh-vs-ding-liren-live-updates-score-commentary-news-match-7-chess-world-championship?device=featurephone",
+         "pubDate" : "Tue, 3 Dec 2024 09:39:05",
+         "title" : "Gukesh slips up, allows Ding to wrestle draw in game 7 of World Championship"
+      },
+      {
+         "description" : "NM Isaac Chiu and NM Jalen Wang respectively won Qualifiers 1 and 2 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. Qualifier 3 is on Tuesday, December 3, at 1:30 p.m. ET/19:30 CET/12:00 a.m. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-1-2",
+         "pubDate" : "Tue, 03 Dec 2024 09:00:00",
+         "title" : "National Masters Chiu, Wang Take Crazyhouse Qualifiers 1 & 2"
       },
       {
          "description" : "A new conference during the 2024 FIDE World Rapid &#38;amp; Blitz Championships in New York is set to bridge the world of chess and finance. The event is bound to be a treat for anyone able to afford the $1,000 ticket&#38;mdash;or the $5,000 VIP tickets t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-meets-finance-in-new-york",
-         "pubDate" : "Tue, 03 Dec 2024 07:38:14",
-         "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, And The Financial Elite"
+         "pubDate" : "Tue, 03 Dec 2024 07:38:00",
+         "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, Financial Elite"
       },
       {
-         "description" : "India&#39;s GM Gukesh Dommaraju had Chinese World Champion Ding Liren on the ropes in game seven of the 2024 FIDE World Championship, with a heartbreaking move-40 blunder looking likely to cost Ding the game even after he&#39;d found a way to survive. He ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
-         "pubDate" : "Tue, 03 Dec 2024 01:00:00",
-         "title" : "Ding Escapes In Game 7 Thriller To Tie Gukesh At Halfway"
-      },
-      {
-         "description" : "Catch all the updates from Game 7 of the World Chess Championship between D Gukesh and Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42738118/gukesh-vs-ding-liren-live-updates-score-commentary-news-match-7-chess-world-championship?device=featurephone",
-         "pubDate" : "Mon, 2 Dec 2024 22:58:36",
-         "title" : "Chess World Championship: Gukesh vs Ding Liren Live updates, score, commentary, news from match 7"
+         "description" : "This week's puzzles continue our series on the 2024 FIDE World Youth Championships, held last month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships over the next few weeks. You can see our CLO coverage of the World Youth here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-youth-champs-pt-2",
+         "pubDate" : "Tue, 03 Dec 2024 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Youth Champs, Pt. 2"
       },
       {
          "description" : "Nihal Sarin drew with elite GM Nodirbek Abdusattorov in the final round to claim outright victory at the third edition of the President Cup in Uzbekistan. Nihal had a sensational run in Tashkent, ending the event with a 7&frac12;/9 score and a 2809 performance (TPR). Javokhir Sindarov, Parham Maghsoodloo and Shamsiddin Vokhidov scored 7/9 points each. They secured second, third and fourth places respectively according to tiebreaks. | Photos: Uzbekistan Chess Federation",
@@ -586,14 +618,6 @@ news_feed (
          "title" : "Bad Bad Bishops in the Nimzo! | Road to 2000 - GM Denes Boros"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> See what happens when your prep goes wrong against one of the world&#039;s best </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanabrings-da-pain-grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DALHKEe4Uos.jpg?itok=ljvby_rD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruanabrings-da-pain-grandmaster-psychology-gm-denes-boros",
-         "pubDate" : "Thu, 28 Nov 2024 01:19:10",
-         "title" : "CARUANA...Brings Da Pain | Grandmaster Psychology - GM Denes Boros"
-      },
-      {
          "description" : " Gukesh won the third game of the World Chess Championship match in Singapore against Ding Liren. This was an important theoretical strike too, I for one will need a line to meet it. In the Exchange Variation of the Queen's Gambit Gukesh chose to allow the line 6.Qc2 g6 which is a key part of many opening repertoires for black these days given that there are fairly clear paths to equality after the regular 7.Bg5. Rather strangely last year there were a small number of high level games starting with a Kramnik rapid game using 7.h3 with the idea of 7...Bf5 8.Qb3 Qb6 9.g4. Given that the main line is regarded is very OK for black it's a surprise this move hasn't been tried more often. The resul",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -846,7 +870,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chessup-2-special-discount",
-         "pubDate" : "Mon, 25 Nov 2024 06:20:44",
+         "pubDate" : "Mon, 25 Nov 2024 06:20:00",
          "title" : "Play On Chess.com Using A Physical Board: Get Your ChessUp 2 Smart Board With A Special Holiday Discount"
       },
       {
@@ -1058,14 +1082,6 @@ news_feed (
          "title" : "World Chess Championship 2024: All you need to know about Gukesh vs Ding"
       },
       {
-         "description" : "After holding a draw with the black pieces, GM Magnus Carlsen won the Freestyle Chess Match against Fabiano Caruana 1.5-0.5, without a single loss. In the final game, Caruana achieved a dream position with a space advantage and the bishop pair, bu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-match-carlsen-wins",
-         "pubDate" : "Fri, 22 Nov 2024 08:40:00",
-         "title" : "Carlsen Wins Freestyle Chess Grand Slam Match Vs. Caruana After Surviving Game 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115559627.cms\" />India's chess prodigy D Gukesh, 18, is set to challenge reigning champion Ding Liren of China for the World Chess Championship title in Singapore. The highly anticipated match, starting November 25th, will see Gukesh aiming to become the second Indian to achieve the prestigious title after Viswanathan Anand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1098,14 +1114,6 @@ news_feed (
          "title" : "World Chess C'ship: Can experienced Ding Liren surprise D Gukesh?"
       },
       {
-         "description" : "US Chess is seeking volunteers to assist at the 2024 National K-12 Grade Championships from December 5-8 in National Harbor, Maryland. If you're a local chess enthusiast, seeking national events experience, or a parent with a few hours to spare, we could use your help! Click here to sign up to be a volunteer! Volunteers must:Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus!This is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes insights into what comprises our national events.To sign up, please complete all fields in this form and submit b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/volunteers-wanted-2024-national-k-12-grade-championships",
-         "pubDate" : "Fri, 22 Nov 2024 00:00:00",
-         "title" : "Volunteers Wanted for 2024 National K-12 Grade Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-match-carlsen-vs.-caruana-2024",
          "pubDate" : "Thu, 21 Nov 2024 14:29:00",
          "title" : "Freestyle Chess Match: Carlsen vs. Caruana 2024 - Games and Results"
-      },
-      {
-         "description" : "Here's a brief overview of their strengths and weaknesses, and how proceedings could transpire on the board over the course of 14 potential games.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42522170/gukesh-vs-ding-world-chess-championships-preview-strengths-weakness-singapore?device=featurephone",
-         "pubDate" : "Thu, 21 Nov 2024 08:38:37",
-         "title" : "Gukesh vs Ding: previewing the World Chess Championship 2024"
       },
       {
          "description" : "",
