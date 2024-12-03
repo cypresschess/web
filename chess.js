@@ -2,28 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied after six games. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-stories-now-in-english",
+         "pubDate" : "Tue, 03 Dec 2024 17:00:00",
+         "title" : "Chess Stories - now in English!"
+      },
+      {
+         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live with computer-assisted analysis starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
+         "pubDate" : "Tue, 03 Dec 2024 16:45:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115941800.cms\" />In the seventh game of the World Chess Championship, defending champion Ding Liren of China and Indian challenger D Gukesh fought for over five hours, ending in a draw after 72 moves. Despite Gukesh gaining an early advantage, Ding's resilient defence and strategic play levelled the game, tying both players at 3.5 points each. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-stunned-by-ding-lirens-defence-in-another-draw-at-world-chess-championship/articleshow/115941800.cms",
+         "pubDate" : "Tue, 03 Dec 2024 15:17:30",
+         "title" : "D Gukesh stunned by Ding's defence at World Chess C'ship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3334",
+         "pubDate" : "Tue, 03 Dec 2024 14:49:21",
+         "title" : "World Championship Game 7: Ding Liren escapes by the skin of his teeth"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3333",
+         "pubDate" : "Tue, 03 Dec 2024 10:50:13",
+         "title" : "FIDE Circuit 2024: Erigaisi still in the lead, Caruana closes in"
+      },
+      {
+         "description" : "A gripping encounter lasting 72 moves and close to 5 and a half hours ended drawn as the World Championship match reached the half point in Singapore. Gukesh D, playing white, obtained a favourable queenless position after showing strong preparation. The Indian's edge further increased after Ding Liren faltered on move 40. However, the challenger failed to convert his advantage into a win, as Ding showed great defensive skills in the endgame. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Tue, 03 Dec 2024 09:45:00",
-         "title" : "World Championship: Game 7 - Live!"
+         "title" : "World Championship: Ding escapes with a draw"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115929997.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/gukesh-d-vs-ding-liren-live-updates-world-chess-championship-match-7-live-streaming-updates-singapore/liveblog/115929997.cms",
-         "pubDate" : "Tue, 03 Dec 2024 08:59:16",
-         "title" : "World C'ship: Gukesh Vs Ding Liren Game 7 Live Updates"
+         "description" : "A new conference during the 2024 FIDE World Rapid &#38;amp; Blitz Championships in New York is set to bridge the world of chess and finance. The event is bound to be a treat for anyone able to afford the $1,000 ticket&#38;mdash;or the $5,000 VIP tickets t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-meets-finance-in-new-york",
+         "pubDate" : "Tue, 03 Dec 2024 07:38:14",
+         "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, And The Financial Elite"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, December 3, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore, after a rest day ...",
+         "description" : "India&#39;s GM Gukesh Dommaraju had Chinese World Champion Ding Liren on the ropes in game seven of the 2024 FIDE World Championship, with a heartbreaking move-40 blunder looking likely to cost Ding the game even after he&#39;d found a way to survive. He ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
          "pubDate" : "Tue, 03 Dec 2024 01:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 7"
+         "title" : "Ding Escapes In Game 7 Thriller To Tie Gukesh At Halfway"
       },
       {
          "description" : "Catch all the updates from Game 7 of the World Chess Championship between D Gukesh and Ding Liren.",
@@ -98,7 +138,7 @@ news_feed (
          "title" : "Viswanathan Anand, hands-on godfather of Indian chess, still making the right moves"
       },
       {
-         "description" : "GM Arjun Erigaisi became the 16th player in history to break the 2800 Elo barrier in standard chess ratings and only the second Indian player to do so after GM Viswanathan Anand. With 2801, Arjun is the world number-four on the December 2024 FIDE ...",
+         "description" : "GM Arjun Erigaisi became the 15th player in history to break the 2800 Elo barrier in standard chess ratings and only the second Indian player to do so after GM Viswanathan Anand. With 2801, Arjun is the world number-four on the December 2024 FIDE ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/december-2024-fide-ratings-arjun-erigaisi",
@@ -730,7 +770,7 @@ news_feed (
          "title" : "5 ways to explore chess during 2024 World Chess Championship"
       },
       {
-         "description" : "Editor's note: This article will be updated shortly with annotated games from the event.Three USA players made podium finishes at the 2024 FIDE World Cadet Chess Championships, held from November 15 through 26 in Montesilvano, Italy. Zooming out a bit, roughly a quarter of the players representing the American delegation finished in the top 10 of their respective section, with eight more players finishing in the top 10 (including tiebreaks) and two more finishing tied for ninth, but outside the top 10 on tiebreaks.Overall, 46 American players - the largest of any delegation - took the trip to Montesilvano, Italy to compete across the three Open (U-12, U-10, U-8) and three Girls (U-12, U-10, ",
+         "description" : "Editor's note: Selected games from this event have been collected here.Three USA players made podium finishes at the 2024 FIDE World Cadet Chess Championships, held from November 15 through 26 in Montesilvano, Italy. Zooming out a bit, roughly a quarter of the players representing the American delegation finished in the top 10 of their respective section, with eight more players finishing in the top 10 (including tiebreaks) and two more finishing tied for ninth, but outside the top 10 on tiebreaks.Overall, 46 American players - the largest of any delegation - took the trip to Montesilvano, Italy to compete across the three Open (U-12, U-10, U-8) and three Girls (U-12, U-10, U-8) sections of ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/usa-delegation-wins-three-medals-and-much-more-2024-fide-world-cadet-championships",
@@ -1048,14 +1088,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/nov/22/champion-ding-and-challenger-gukesh-prepare-for-world-title-battle",
          "pubDate" : "Fri, 22 Nov 2024 08:00:08",
          "title" : "Champion Ding and challenger Gukesh prepare for world title battle"
-      },
-      {
-         "description" : "It&#39;s time to go crazy over the chessboard with the next edition of the Chess.com Community Championships! The Chess.com Crazyhouse Chess Championship will take place between December 2 and 6 and feature an increased $7,500 prize fund. Crazyhouse...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2024",
-         "pubDate" : "Fri, 22 Nov 2024 08:00:00",
-         "title" : "Insanity Awaits! Get Ready For The Chess.com Crazyhouse Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115546135.cms\" />Indian chess prodigy D Gukesh is set to challenge reigning champion Ding Liren for the World Championship title. The 14-game match begins in Singapore on Monday. Gukesh, currently ranked world No. 5, enters the match as the favorite against Ding, ranked No. 23. Gukesh's recent form and aggressive playing style are expected to test Ding.",
