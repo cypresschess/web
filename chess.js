@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied after six games. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Tue, 03 Dec 2024 09:45:00",
+         "title" : "World Championship: Game 7 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115929997.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/gukesh-d-vs-ding-liren-live-updates-world-chess-championship-match-7-live-streaming-updates-singapore/liveblog/115929997.cms",
+         "pubDate" : "Tue, 03 Dec 2024 08:59:16",
+         "title" : "World C'ship: Gukesh Vs Ding Liren Game 7 Live Updates"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, December 3, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore, after a rest day ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
+         "pubDate" : "Tue, 03 Dec 2024 01:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 7"
+      },
+      {
+         "description" : "Catch all the updates from Game 7 of the World Chess Championship between D Gukesh and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42738118/gukesh-vs-ding-liren-live-updates-score-commentary-news-match-7-chess-world-championship?device=featurephone",
+         "pubDate" : "Mon, 2 Dec 2024 22:58:36",
+         "title" : "Chess World Championship: Gukesh vs Ding Liren Live updates, score, commentary, news from match 7"
+      },
+      {
          "description" : "Nihal Sarin drew with elite GM Nodirbek Abdusattorov in the final round to claim outright victory at the third edition of the President Cup in Uzbekistan. Nihal had a sensational run in Tashkent, ending the event with a 7&frac12;/9 score and a 2809 performance (TPR). Javokhir Sindarov, Parham Maghsoodloo and Shamsiddin Vokhidov scored 7/9 points each. They secured second, third and fourth places respectively according to tiebreaks. | Photos: Uzbekistan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/december-2024-fide-ratings-arjun-erigaisi",
          "pubDate" : "Mon, 02 Dec 2024 02:31:00",
          "title" : "Arjun Erigaisi Officially Joins Carlsen, Caruana, Nakamura In 2800 Club"
-      },
-      {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, December 3, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore, after a rest day ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
-         "pubDate" : "Mon, 02 Dec 2024 00:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 7"
       },
       {
          "description" : "US Chess tournaments have their rules. FIDE tournaments have their separate rules. And then we have the US Chess Scholastic Regulations, via the Scholastic Council and the Executive Board. Kids are not adults. Kids are not mini adults, either, despite how they look. Their brains are struggling to connect the dots so that the world around them makes sense. Their chess universe is filled with individual/team chess, coaches and chess parents. Our national scholastic chess scene leans heavily on the US Chess rulebook, adjusted to meet the needs of youthful wood-pushers, also known as the US Chess Scholastic Regulations. Let's do some exploring: Truth in Advertising: The Scholastic Regulations go",
@@ -1162,14 +1186,6 @@ news_feed (
          "title" : "European Championship in Montenegro: Live"
       },
       {
-         "description" : "Ahead of the Chess World Championship, let's break down the complex sport of chess in the simplest way possible.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42482386/chess-101-explaining-sport-novice?device=featurephone",
-         "pubDate" : "Tue, 19 Nov 2024 09:09:00",
-         "title" : "Chess 101: Explaining the sport"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3308",
          "pubDate" : "Mon, 18 Nov 2024 16:45:53",
          "title" : "4th FIDE Council meeting list of decisions published"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115422760.cms\" />Indian chess player Bristy Mukherjee won the All India Women Rapid event at the Tata Steel Chess India Festival 2024. During the award ceremony, she touched the feet of chess legend Magnus Carlsen as a sign of respect, surprising him. Carlsen also emerged victorious in the rapid and blitz categories, solidifying his dominance in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viral-video-magnus-carlsen-left-clueless-as-indian-female-chess-player-touches-his-feet/articleshow/115422760.cms",
-         "pubDate" : "Mon, 18 Nov 2024 14:57:16",
-         "title" : "Viral Video: Carlsen left clueless as Indian female player touches feet"
       },
       {
          "description" : "The ECU E-Magazine October 2024 is out! In this edition of the ECU E-Magazine you may read about: The October 2024 edition of the ECU Magazine can be read online with interactive links or can be downloaded in PDF format below.",
