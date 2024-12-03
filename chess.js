@@ -71,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/december-2024-fide-ratings-arjun-erigaisi",
          "pubDate" : "Mon, 02 Dec 2024 02:31:00",
-         "title" : "Arjun Officially Joins Carlsen, Caruana, Nakamura In 2800 Club"
+         "title" : "Arjun Erigaisi Officially Joins Carlsen, Caruana, Nakamura In 2800 Club"
       },
       {
          "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Tuesday, December 3, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore, after a rest day ...",
