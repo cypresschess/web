@@ -10,6 +10,14 @@ news_feed (
          "title" : "Nihal Sarin wins President Cup with sensational 2809 TPR"
       },
       {
+         "description" : "GM Fabiano Caruana won the 2024 U.S. Masters with 8/9, winning all of his games except for a loss in round six against GM Nikolas Theodorou, who finished in clear second. Besides receiving $7,500 plus a trophy, Caruana also gains 17.11 FIDE Circui...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-us-masters-caruana-wins",
+         "pubDate" : "Mon, 02 Dec 2024 13:59:00",
+         "title" : "Caruana Wins 2024 U.S. Masters, Trails Arjun In FIDE Circuit By 1 Point"
+      },
+      {
          "description" : "Arjun Erigaisi is now officially another player over 2800 behind Carlsen, Caruana and Nakamura in the December FIDE world rankings. Four Chinese players continue to lead the women's ranking and Gukesh D, the world's best junior might soon also be World Champion. Bibisara Assaubayeva is the world's best female junior.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1026,14 +1034,6 @@ news_feed (
          "title" : "Insanity Awaits! Get Ready For The Chess.com Crazyhouse Chess Championship"
       },
       {
-         "description" : "&#34;We could see a bloodbath!&#34; said GM Magnus Carlsen on the likelihood of decisive games in the Ding-Gukesh 2024 FIDE World Championship that starts Monday in Singapore, with most grandmasters predicting an early knockout in favor of GM Gukesh Domma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-ding-gukesh-world-championship-predictions",
-         "pubDate" : "Fri, 22 Nov 2024 04:00:00",
-         "title" : "'We Could See A Bloodbath!' Carlsen & Co. On Ding-Gukesh"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115546135.cms\" />Indian chess prodigy D Gukesh is set to challenge reigning champion Ding Liren for the World Championship title. The 14-game match begins in Singapore on Monday. Gukesh, currently ranked world No. 5, enters the match as the favorite against Ding, ranked No. 23. Gukesh's recent form and aggressive playing style are expected to test Ding.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1392,14 +1392,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/12/brewington-hardaway-is-now-a-chess-grandmaster/",
          "pubDate" : "Tue, 12 Nov 2024 21:15:51",
          "title" : "Brewington Hardaway is now a Chess Grandmaster!"
-      },
-      {
-         "description" : " For decades, Grandmaster Maurice Ashley has been on the cutting edge of chess news, whether through championship coaching, giving exciting commentary, delivering training courses, or organizing million-dollar tournaments. While he can still be seen giving guest lectures and doing commentary, he is now embarking on a bold, new initiative. Ashley addressing FIDE Congress on Chess The post <a href=\"https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/\">Maurice Ashley's new chess initiative announced!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/11/maurice-ashleys-new-chess-initiative-announced/",
-         "pubDate" : "Mon, 11 Nov 2024 23:30:00",
-         "title" : "Maurice Ashley's new chess initiative announced!"
       }
    ]
 }
