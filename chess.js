@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Fabiano Caruana speaks with Sabina Foisor following his Round 1 victory in Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-im-not-going-keep-any-secrets-saint-louis-masters-2024-day-1",
+         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
+         "title" : "Caruana: I'm Not Going To Keep Any Secrets | Saint Louis Masters 2024: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Nikolas Theodorou tells Sabina Foisor his hopes for the rest of the tournament following Round 1 of Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/theodorou-looking-forward-playing-some-more-exciting-games-saint-louis-masters-2024-day-1",
+         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
+         "title" : "Theodorou: Looking Forward To Playing Some More Exciting Games | Saint Louis Masters 2024: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Elshan Moradiabadi speaks with Sabina Foisor following his Round 1 victory in Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/moradiabadi-always-great-players-here-its-inspiring-saint-louis-masters-2024-day-1",
+         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
+         "title" : "Moradiabadi: Always Great Players Here, It's Inspiring | Saint Louis Masters 2024: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Technical Director Tony Rich explains how Saint Louis Masters 2024 came to be and how it works. 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-saint-louis-masters-2024",
+         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
+         "title" : "What is Saint Louis Masters 2024?"
+      },
+      {
          "description" : "The 2023 London Chess Classic has brought world-class chess to Arsenal's Emirates Stadium. Featuring eight top grandmasters, including England's prodigy Shreyas Royal and international stars like Vidit Gujrathi and Ju Wenjun, the tournament has seen intense battles over five rounds. With two games left, Gawain Jones leads the pack with 3&frac12; points. Vidit Gujrathi and Shakhriyar Mamedyarov are sharing second place, a half point back. | Photos: London Chess Classic's Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,30 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-4-saint-louis-masters-2024-day-1-rounds-1-2",
          "pubDate" : "Tue, 03 Dec 2024 22:22:04",
          "title" : "(ORIGINAL BROADCAST, Part 4) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-5-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-5-saint-louis-masters-2024-day-1-rounds-1-2",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "(ORIGINAL BROADCAST, Part 5) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-6-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-6-saint-louis-masters-2024-day-1-rounds-1-2",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "(ORIGINAL BROADCAST, Part 6) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian uses strong examples to demonstrate the stealthiness of preparing or interposing moves that cannot prevent the inevitable. 2024.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silent-moves-1800-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/silent-moves-1800-puzzlers-paradise-double-exclam-gm-var-akobian",
-         "pubDate" : "Tue, 03 Dec 2024 19:22:01",
-         "title" : "Silent Moves for 1800+ | Puzzler's Paradise & Double Exclam!! - GM Var Akobian"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -168,6 +176,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-meets-finance-in-new-york",
          "pubDate" : "Tue, 03 Dec 2024 07:38:00",
          "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, Financial Elite"
+      },
+      {
+         "description" : "GamesIn this issue of Check is in the Mail all of the games are miniatures. Miniatures, as you may know, are games that end in 25 moves or less. Unless otherwise noted, all games have gone thru a ChessBase Tactical Analysis using the Fritz 19 chess engine, at which time annotations and variations are added. Game 1This game was played by Wayne Lambert and John Baily using the Catalan Bogo-Indian (3. g3 Bb4+). From the Golden Knights Section 24N08 tournament, John forced a resignation in 21 moves. Game 2This game was played by David Will and Jon S. Leisner using the Sicilian Najdorf: Unusual White 6th moves, 6. Be3 Ng4 and 6. Be3 e5. From the USCF/WS/24W12 tournament, Jon forced a resignation ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-december-all-miniatures",
+         "pubDate" : "Tue, 03 Dec 2024 00:00:00",
+         "title" : "Check is in the Mail, December: All Miniatures"
       },
       {
          "description" : "Eight Americans traveled to Dominican Republic for the 15th Women's Continental Chess Championship, with three sweeping the podium! Held November 23 through 30 at the Dominican Olympic Hostel (Albergue Olimpico Dominicano), the nine-round Swiss tournament was open to all American continent chess federation women players.With a qualification spot in the 2025 FIDE Women's World Cup on the line, a number of regulars from the U.S. Women's Championship and other flagship American events showed up in Santo Domingo with their eyes on the top prize.WGM Thalia Cervantes Landeiro and FM Zoey Tang entered the tournament as the second- and third-highest rated players, respectively, trailing only Peruvia",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-fourth-game-drawn-d-gukesh-plays-with-white-pieces-today-against-ding-liren/articleshow/115830347.cms",
          "pubDate" : "Sat, 30 Nov 2024 04:45:05",
          "title" : "World C'ship: Fourth game drawn; Gukesh plays with white pieces today"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silent-move\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oLhbGlmvuaI.jpg?itok=UbWtpO4f\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/silent-move",
-         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
-         "title" : "A Silent Move"
       },
       {
          "description" : "World Champion Ding Liren was unable to punish GM Gukesh Dommaraju after the Indian star blundered in game five of the 2024 FIDE World Championship, leaving the scores tied at 2.5-2.5 with nine games to go. Gukesh surprised observers by picking th...",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-youth-champs-pt-1",
          "pubDate" : "Tue, 26 Nov 2024 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Youth Champs, Pt. 1"
-      },
-      {
-         "description" : "Call for Nominations2025 US Chess Executive Board ElectionThe US Chess Federation (US Chess) will hold an election in 2025 for four at-large positions on the Executive Board. The top four vote-getters will be elected for a term of four years expiring in 2029.Any current US Chess member who is not a current US Chess employee or designated contractor (as defined in the US Chess bylaws) may be nominated for election to the Executive Board.Nominations must be made by submitting a petition containing the signatures of 50 or more members of US Chess who are either registered or eligible to register to vote, and by paying a $100 filing fee to the US Chess Federation.The members signing the nominati",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/call-nominations-2025-us-chess-executive-board-election",
-         "pubDate" : "Tue, 26 Nov 2024 00:00:00",
-         "title" : "Call for Nominations: 2025 US Chess Executive Board Election "
       },
       {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
