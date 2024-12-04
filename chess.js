@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3336",
+         "pubDate" : "Wed, 04 Dec 2024 15:22:13",
+         "title" : "World Championship Game 8: A thrilling battle ends in a draw"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115978265.cms\" />Indian chess prodigy D Gukesh and reigning champion Ding Liren battled to their fifth draw in eight games of the World Chess Championship. The score remains tied at 4 points each, with Gukesh missing a chance for an advantage in the latest game. With six games left, the $2.5 million championship hangs in the balance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-gukesh-ding-liren-settle-for-yet-another-draw-in-8th-game/articleshow/115978265.cms",
+         "pubDate" : "Wed, 04 Dec 2024 15:08:22",
+         "title" : "World Chess C'ship: Gukesh, Liren settle for yet another draw"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3335",
+         "pubDate" : "Wed, 04 Dec 2024 13:36:50",
+         "title" : "Extended list of participants for 2024 WRB announced"
+      },
+      {
          "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -10,12 +34,20 @@ news_feed (
          "title" : "IM Adam Hunt RIP"
       },
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied after seven games - Ding won game 1, while Gukesh bounced back in game 3. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "Both Ding Liren and Gukesh D missed chances in an exciting eighth game at the World Championship match in Singapore. Thus, the score remains tied with six games to go. The ninth encounter of the tension-filled match will take place on Thursday, before the contenders get a third rest day to regroup and get ready for the final stages of the confrontation. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Wed, 04 Dec 2024 09:45:00",
-         "title" : "World Championship: Game 8 - Live!"
+         "title" : "World Championship: Double-edged game ends drawn"
+      },
+      {
+         "description" : "Both Gukesh and Ding spurned great opportunities to win, in a wild game that eventually resulted with both players level at 4-4 overall.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
+         "pubDate" : "Wed, 4 Dec 2024 09:18:25",
+         "title" : "Gukesh salvages draw against Ding in rollercoaster Game 8 of World Championship"
       },
       {
          "description" : "Besides the World Chess Championship, some other important chess tournaments are currently going on. The US Chess Masters in Charlotte was crucial for Fabiano Caruana, to qualify for the candidates in 2026! He started with 5 out of 5, until he faced Nikolas Theodorou! The Greek GM also had 5 points, and got a nice king-side attack against Caruana in the English opening. Robert Ris has the full analysis of this fascinating game!",
@@ -98,14 +130,6 @@ news_feed (
          "title" : "London Chess Classic: Jones leads with two rounds to go"
       },
       {
-         "description" : "Catch all the updates from Game 8 of the FIDE World Chess Championship 2024 between D Gukesh and Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
-         "pubDate" : "Tue, 3 Dec 2024 22:36:04",
-         "title" : "LIVE: D Gukesh vs Ding Liren, game 8 of the chess World Championship"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at Fabiano Caruana&#039;s game against Viktor Erdos from the 2024 Italian Team Championship. 2024.11.27<br /> Fabiano Caruana vs Viktor Erdos, Italian Team Championship (2014): C80 Ruy Lopez, open, 6.d4<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1754002\">https://www.chessgames.com/perl/chessgame?gid=1754002</a><br /> Ediz Gurel vs Velimir Ivic, FIDE World Cup (2023): C83 Ruy Lopez, open, 9...Be7, 10.Re1<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2550825\">https://www.chessgames.com/perl/chessgame?gid=2550825</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -162,12 +186,12 @@ news_feed (
          "title" : "World Championship Game 7: Ding Liren escapes by the skin of his teeth"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Wednesday, December 4, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Ding will hav...",
+         "description" : "Both GM Gukesh Dommaraju and World Champion Ding Liren missed wins as game eight of the 2024 FIDE World Championship ended in a 51-move draw. Ding switched to 1.c4, was again surprised in the opening, but had stabilized just when he blundered into...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-8",
          "pubDate" : "Tue, 03 Dec 2024 14:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 8"
+         "title" : "Gukesh And Ding Both Miss Wins In Crazy Game 8 Draw"
       },
       {
          "description" : "Make no mistake, Gukesh's advantage here in game 7 against Ding Liren was significant; but he let it slip",
@@ -1210,14 +1234,6 @@ news_feed (
          "title" : "European Individual Chess Championship 2025 - Official invitation"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115469928.cms\" />Indian chess grandmaster D Gukesh's journey to the World Chess Championship is a tale of resilience and seizing opportunities. The war in Ukraine, a well-timed tournament win, and timely mentorship all played a role in his qualification. He now faces reigning champion Ding Liren, who himself earned the title after a hard-fought battle against Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-men-or-destinys-children-how-quirk-of-fate-played-a-role-in-setting-up-ding-vs-gukesh-world-chess-battle/articleshow/115469928.cms",
-         "pubDate" : "Wed, 20 Nov 2024 03:21:58",
-         "title" : "How quirk of fate played a role in setting up Ding vs Gukesh world chess battle"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1232,6 +1248,14 @@ news_feed (
          "link" : "https://www.europechess.org/aleksandar-indjic-wins-european-individual-chess-championship-2024/",
          "pubDate" : "Tue, 19 Nov 2024 20:55:12",
          "title" : "Aleksandar Indjic wins European Individual Chess Championship 2024"
+      },
+      {
+         "description" : "For the second month in a row, after <A HREF=\"https://chessforallages.blogspot.com/2024/10/october-1974-1999-on-cover.html\">October 1974 & 1999 'On the Cover'</A> (October 2024), top U.S. tournaments dominated the covers of American chess magazines both 50 and 25 years ago. Artwork was also a recurring theme. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok19.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Knights, one and all...' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Pal Benko (left) and Vlastimil Hort, co-winners of the U.S. Open. Story and games [inside]. Photos by Burt Hochberg. </BLOCKQUOTE> <P> 'Story and games [inside]' c",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/november-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 19 Nov 2024 16:32:00",
+         "title" : "November 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After ten of eleven rounds, the Serbian GM Aleksandar Indjic leads with an 8&frac12;/10 score, while Daniel Dardha stands in sole second place a half point back. The 20 best players qualify for the World Cup. The final round starts at 13.00 local time. Follow it live with the official commentary of the European Chess Union.",
@@ -1416,22 +1440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ancient-chess-problems-to-solve",
          "pubDate" : "Wed, 13 Nov 2024 20:00:00",
          "title" : "Ancient chess problems to solve"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The Nagaland Chess Association is organizing first ever Senior National Arbiters Seminar &#38; Exam at Tourist Lodge, Dimapur",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-exam-on-the-28th-and-29th-of-january-2024-at-tourist-lodge-dimapur-nagaland/",
-         "pubDate" : "Wed, 13 Nov 2024 14:43:57",
-         "title" : "Senior National Arbiter Seminar and Exam on the 28th and 29th of November 2024 at Tourist Lodge, Dimapur Nagaland."
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3304",
-         "pubDate" : "Wed, 13 Nov 2024 14:24:09",
-         "title" : "Al Ain Chess and Mind Games Club present Echess Championship: The Road to Al Ain"
       }
    ]
 }
