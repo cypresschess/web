@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Besides the World Chess Championship, some other important chess tournaments are currently going on. The US Chess Masters in Charlotte was crucial for Fabiano Caruana, to qualify for the candidates in 2026! He started with 5 out of 5, until he faced Nikolas Theodorou! The Greek GM also had 5 points, and got a nice king-side attack against Caruana in the English opening. Robert Ris has the full analysis of this fascinating game!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-caruana-fell-apart-against-theodorou-the-underdog",
+         "pubDate" : "Wed, 04 Dec 2024 08:25:29",
+         "title" : "How Caruana fell apart against Theodorou - The Underdog"
+      },
+      {
+         "description" : "Grandmaster Jon Speelman delves into the ongoing World Chess Championship match in Singapore, offering insightful analysis and drawing fascinating parallels to historic encounters like Botvinnik v. Petrosian in 1963. With Gukesh and Ding trading psychological blows as much as tactical ones, Speelman highlights critical moments that reveal each player's mindset and strategy under immense pressure. From Gukesh's bold refusal of a threefold repetition to Ding's cautious attempts to regain control, Speelman's commentary illuminates the evolving dynamics of a closely contested match. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-222",
+         "pubDate" : "Wed, 04 Dec 2024 07:25:00",
+         "title" : "Jon Speelman: Remember 1963 (plus other worthy exhortations and an assertion)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Aram Hakobyan discusses his Round 1 win at Saint Louis Masters 2024 with Sabina Foisor! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hakobyan-there-were-lot-sacrifices-saint-louis-masters-2024-day-1",
+         "pubDate" : "Wed, 04 Dec 2024 04:22:08",
+         "title" : "Hakobyan: There Were a Lot of Sacrifices | Saint Louis Masters 2024: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy talks with Sabina Foisor following the first round of Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kavutskiy-st-louis-place-be-saint-louis-masters-2024-day-1",
+         "pubDate" : "Wed, 04 Dec 2024 04:22:08",
+         "title" : "Kavutskiy: St. Louis is the Place to Be | Saint Louis Masters 2024: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Nico Chasin speaks with Sabina Foisor following his Round 1 draw with GM Nikolas Theodorou in Saint Louis Masters 2024! 2024.12.03 <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chasin-swiss-norm-one-things-i-need-saint-louis-masters-2024-day-1",
+         "pubDate" : "Wed, 04 Dec 2024 04:22:08",
+         "title" : "Chasin: A Swiss Norm is One of the Things I Need | Saint Louis Masters 2024: Day 1"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Fabiano Caruana speaks with Sabina Foisor following his Round 1 victory in Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,30 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-1-saint-louis-masters-2024-day-1-rounds-1-2",
          "pubDate" : "Tue, 03 Dec 2024 22:22:04",
          "title" : "(ORIGINAL BROADCAST, Part 1) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-2-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-2-saint-louis-masters-2024-day-1-rounds-1-2",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "(ORIGINAL BROADCAST, Part 2) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-3-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-3-saint-louis-masters-2024-day-1-rounds-1-2",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "(ORIGINAL BROADCAST, Part 3) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-4-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-4-saint-louis-masters-2024-day-1-rounds-1-2",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "(ORIGINAL BROADCAST, Part 4) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -215,7 +231,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-december-2025",
          "pubDate" : "Mon, 02 Dec 2024 13:20:58",
-         "title" : "FIDE ratings - December 2025"
+         "title" : "FIDE ratings - December 2024"
       },
       {
          "description" : "",
