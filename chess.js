@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 London Chess Classic has brought world-class chess to Arsenal's Emirates Stadium. Featuring eight top grandmasters, including England's prodigy Shreyas Royal and international stars like Vidit Gujrathi and Ju Wenjun, the tournament has seen intense battles over five rounds. With two games left, Gawain Jones leads the pack with 3&frac12; points. Vidit Gujrathi and Shakhriyar Mamedyarov are sharing second place, a half point back. | Photos: London Chess Classic's Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-r5",
+         "pubDate" : "Wed, 04 Dec 2024 01:00:00",
+         "title" : "London Chess Classic: Jones leads with two rounds to go"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at Fabiano Caruana&#039;s game against Viktor Erdos from the 2024 Italian Team Championship. 2024.11.27<br /> Fabiano Caruana vs Viktor Erdos, Italian Team Championship (2014): C80 Ruy Lopez, open, 6.d4<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1754002\">https://www.chessgames.com/perl/chessgame?gid=1754002</a><br /> Ediz Gurel vs Velimir Ivic, FIDE World Cup (2023): C83 Ruy Lopez, open, 9...Be7, 10.Re1<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2550825\">https://www.chessgames.com/perl/chessgame?gid=2550825</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-brings-da-pain-vs-erdos-2014-grandmaster-psychology-gm-denes-boros",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "CARUANA Brings Da Pain! vs. Erdos, 2014 | Grandmaster Psychology - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-day-2-rounds-3-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbna",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-day-2-rounds-3-4",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "Saint Louis Masters 2024: Day 2 | Rounds 3-4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-1-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-1-saint-louis-masters-2024-day-1-rounds-1-2",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "(ORIGINAL BROADCAST, Part 1) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-2-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-2-saint-louis-masters-2024-day-1-rounds-1-2",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "(ORIGINAL BROADCAST, Part 2) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-3-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-3-saint-louis-masters-2024-day-1-rounds-1-2",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "(ORIGINAL BROADCAST, Part 3) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-4-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-4-saint-louis-masters-2024-day-1-rounds-1-2",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "(ORIGINAL BROADCAST, Part 4) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-5-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-5-saint-louis-masters-2024-day-1-rounds-1-2",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "(ORIGINAL BROADCAST, Part 5) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-6-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-6-saint-louis-masters-2024-day-1-rounds-1-2",
+         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
+         "title" : "(ORIGINAL BROADCAST, Part 6) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Var Akobian uses strong examples to demonstrate the stealthiness of preparing or interposing moves that cannot prevent the inevitable. 2024.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silent-moves-1800-puzzlers-paradise-double-exclam-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-stories-now-in-english",
          "pubDate" : "Tue, 03 Dec 2024 17:00:00",
          "title" : "Chess Stories - now in English!"
-      },
-      {
-         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live with computer-assisted analysis starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
-         "pubDate" : "Tue, 03 Dec 2024 16:45:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : " The seventh game of the World Chess Championship match between Ding Liren and Gukesh in Singapore ended in a draw after 5 hours 20 of play. Gukesh had the white pieces and went back to an old love, the Reti, and came up with a rare variation 7.Re1 which had been mostly played in blitz games. This presented Ding Liren with the problem of finding a correct setup, and whilst it must have been uncomfortable for him it doesn't seem to me he was in that much trouble until he missed the very accurate 23...c3. That's to brush over a lot of decisions that had to be taken to that point but his position started to deteriorate rather quickly after that. Gukesh then took Queens off and damaged Ding's Ki",
@@ -48,6 +112,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3334",
          "pubDate" : "Tue, 03 Dec 2024 14:49:21",
          "title" : "World Championship Game 7: Ding Liren escapes by the skin of his teeth"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Wednesday, December 4, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Ding will hav...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-8",
+         "pubDate" : "Tue, 03 Dec 2024 14:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 8"
       },
       {
          "description" : "Make no mistake, Gukesh's advantage here in game 7 against Ding Liren was significant; but he let it slip",
@@ -98,20 +170,20 @@ news_feed (
          "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, Financial Elite"
       },
       {
+         "description" : "Eight Americans traveled to Dominican Republic for the 15th Women's Continental Chess Championship, with three sweeping the podium! Held November 23 through 30 at the Dominican Olympic Hostel (Albergue Olimpico Dominicano), the nine-round Swiss tournament was open to all American continent chess federation women players.With a qualification spot in the 2025 FIDE Women's World Cup on the line, a number of regulars from the U.S. Women's Championship and other flagship American events showed up in Santo Domingo with their eyes on the top prize.WGM Thalia Cervantes Landeiro and FM Zoey Tang entered the tournament as the second- and third-highest rated players, respectively, trailing only Peruvia",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/15th-womens-continental-pourkashiyan-punches-world-cup-ticket-americans-sweep-podium",
+         "pubDate" : "Tue, 03 Dec 2024 00:00:00",
+         "title" : "15th Women's Continental: Pourkashiyan Punches World Cup Ticket as Americans Sweep Podium"
+      },
+      {
          "description" : "This week's puzzles continue our series on the 2024 FIDE World Youth Championships, held last month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships over the next few weeks. You can see our CLO coverage of the World Youth here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-youth-champs-pt-2",
          "pubDate" : "Tue, 03 Dec 2024 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Youth Champs, Pt. 2"
-      },
-      {
-         "description" : "Nihal Sarin drew with elite GM Nodirbek Abdusattorov in the final round to claim outright victory at the third edition of the President Cup in Uzbekistan. Nihal had a sensational run in Tashkent, ending the event with a 7&frac12;/9 score and a 2809 performance (TPR). Javokhir Sindarov, Parham Maghsoodloo and Shamsiddin Vokhidov scored 7/9 points each. They secured second, third and fourth places respectively according to tiebreaks. | Photos: Uzbekistan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/president-cup-2024-r9",
-         "pubDate" : "Mon, 02 Dec 2024 15:00:00",
-         "title" : "Nihal Sarin wins President Cup with sensational 2809 TPR"
       },
       {
          "description" : "GM Fabiano Caruana won the 2024 U.S. Masters with 8/9, winning all of his games except for a loss in round six against GM Nikolas Theodorou, who finished in clear second. Besides receiving $7,500 plus a trophy, Caruana also gains 17.11 FIDE Circui...",
@@ -386,38 +458,6 @@ news_feed (
          "title" : "A Silent Move"
       },
       {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-blob-reference\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/42wZttnp3Fw.jpg?itok=OoqvHVrx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawn-blob-reference",
-         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
-         "title" : "The Pawn Blob Reference"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/iqp-gobble-it\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JF4FuU9Tnus.jpg?itok=7LpzyfFy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/iqp-gobble-it",
-         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
-         "title" : "I.Q.P. ? Gobble It Up!"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O0q-lzIh8R4.jpg?itok=oyHLphMt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess",
-         "pubDate" : "Sat, 30 Nov 2024 04:20:24",
-         "title" : "Chess IS..."
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> December 3rd is Giving Tuesday, an international day of giving, and we invite you to consider making a gift to the Saint Louis Chess Club to ensure that students all across Saint Louis and beyond continue to receive the amazing benefits that chess has to offer. Thank you for your support! #givingtuesday #chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giving-tuesday-2024\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giving-tuesday-2024",
-         "pubDate" : "Fri, 29 Nov 2024 22:20:18",
-         "title" : "Giving Tuesday 2024"
-      },
-      {
          "description" : "World Champion Ding Liren was unable to punish GM Gukesh Dommaraju after the Indian star blundered in game five of the 2024 FIDE World Championship, leaving the scores tied at 2.5-2.5 with nine games to go. Gukesh surprised observers by picking th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -432,14 +472,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
          "pubDate" : "Fri, 29 Nov 2024 20:40:00",
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> By using strong examples, GM Var Akobian demonstrates how players have the stealthiness of preparing or interposing moves that can not prevent the inevitable. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1800-or-higher-silent-moves-gm-var-akobian-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OIUuSdg7344.jpg?itok=BY-K_BmQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1800-or-higher-silent-moves-gm-var-akobian-0",
-         "pubDate" : "Fri, 29 Nov 2024 16:20:12",
-         "title" : "1800+ or Higher: Silent Moves - GM Var Akobian"
       },
       {
          "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Gukesh, Ding Liren draw game 4 of World Championship, scores remain level at 2-2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For beginners to masters, the dynamic duo of Sara Herman (@zefcatt) and GM Denes Boros provide the knockout content for Monday night&#039;s Beginner Breakdown and Monday Masterclass. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4xjCkrIWi_g.jp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/monday-knight-mayhem-beginner-breakdown-and-masterclass-sara-herman-and-gm-denes-boros-0",
-         "pubDate" : "Fri, 29 Nov 2024 07:20:02",
-         "title" : "Monday Knight Mayhem: Beginner Breakdown and Masterclass - Sara Herman and GM Denes Boros"
-      },
-      {
          "description" : "On behalf of All India Chess Federation and Arbiters' Commission AICF, Karnataka State Chess Association was organized a Senior National Arbiters Seminar &#38; Exam at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -600,22 +624,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42659836/missing-magnus-carlsen-world-best-player-not-fide-world-championship-chess-worried?device=featurephone",
          "pubDate" : "Thu, 28 Nov 2024 08:55:14",
          "title" : "Missing Magnus: The world's best player is not at the world championship, should chess be worried?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros proclaims his love for pure classical (long time control) chess. 2024.11.20<br /> Leonid Yudasin vs Jeroen Piket, m NED vs ISR 30&#039; ICC (1995): C55 Two knights defence (Modern bishop&#039;s opening)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1109014\">https://www.chessgames.com/perl/chessgame?gid=1109014</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yudasin-vs-piket-you-cant-beat-classical-chess-grandmaster-psychol",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yudasin-vs-piket-you-cant-beat-classical-chess-grandmaster-psychology-gm-denes-boros",
-         "pubDate" : "Thu, 28 Nov 2024 07:19:25",
-         "title" : "Yudasin vs. Piket: You Can't Beat Classical Chess! | Grandmaster Psychology - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros substitutes for Road to 2000, and his class is all about bad bishops. 2024.11.26<br /> Guha Mitrabha vs Edvin Trost, Teplice Open (2023): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2675856\">https://www.chessgames.com/perl/chessgame?gid=2675856</a><br /> Pavel Tregubov vs Nils Grandelius, World Blitz Championship (2016): E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1857089\">https://www.chessgames.com/perl/chessgame?gid=1857089</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bad-bad-bishops-nimzo-road-2000-gm-denes-boros",
-         "pubDate" : "Thu, 28 Nov 2024 07:19:25",
-         "title" : "Bad Bad Bishops in the Nimzo! | Road to 2000 - GM Denes Boros"
       },
       {
          "description" : " Gukesh won the third game of the World Chess Championship match in Singapore against Ding Liren. This was an important theoretical strike too, I for one will need a line to meet it. In the Exchange Variation of the Queen's Gambit Gukesh chose to allow the line 6.Qc2 g6 which is a key part of many opening repertoires for black these days given that there are fairly clear paths to equality after the regular 7.Bg5. Rather strangely last year there were a small number of high level games starting with a Kramnik rapid game using 7.h3 with the idea of 7...Bf5 8.Qb3 Qb6 9.g4. Given that the main line is regarded is very OK for black it's a surprise this move hasn't been tried more often. The resul",
@@ -890,14 +898,6 @@ news_feed (
          "title" : "Human Ding Liren must unsettle brilliantly-wired D Gukesh to retain World chess crown"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed beginning at noon CST on Wednesday, November 27 for Thanksgiving. Offices will reopen at 8 a.m. CST on Monday, December 2. All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. Thank you for your understanding, and happy holidays. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-noon-nov-27-through-december-1",
-         "pubDate" : "Mon, 25 Nov 2024 00:00:00",
-         "title" : "US Chess Offices Closed Noon Nov 27 through December 1"
-      },
-      {
          "description" : "Missouri triumphed vs. Saint Louis in the Final of the 2024 Collegiate Chess League (CCL) Fall Season on Sunday. GM Mikhail Antipov led Mizzou to their second CCL team title with a score of 3.5/4.&#38;nbsp; UT Rio Grande Valley defeated SRM 11-5 to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42560071/how-vishy-anand-created-d-gukesh-grzegorz-gajewski-team-shaken-chess-world?device=featurephone",
          "pubDate" : "Sat, 23 Nov 2024 08:38:43",
          "title" : "'Love at first sight' - How Anand created the Gukesh-Gajewski team that's shaken the chess world"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju will have the white pieces against GM Ding Liren for Monday&#39;s game one of the 2024 FIDE World Championship after the opening ceremony concluded in the Capitol Theatre in Singapore. At an earlier press conference Ding, who&#39;s aga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-white-ding-liren-game-1",
-         "pubDate" : "Sat, 23 Nov 2024 06:45:00",
-         "title" : "Gukesh White Vs. 'At Peace' Ding Liren For Game 1 Of World Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
@@ -1416,22 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3303",
          "pubDate" : "Wed, 13 Nov 2024 08:53:03",
          "title" : "Ding Liren ahead of his World Championship showdown with Gukesh: \"A match is a match\""
-      },
-      {
-         "description" : " The Tata Steel Chess India tournament took place Wed 13th to Sun 17th Nov 2024 in Kolkata. This was a Rapid and Blitz tournament. Players men's event: Magnus Carlsen, Nodirbek Abdusattorov, Wesley So, Arjun Erigaisi, Daniil Dubov, Sarin Nihal, R Praggnanandhaa, Santosh Gujrathi Vidit, Vincent Keymer and S L Narayanan. Women's event: Aleksandra Goryachkina, Kateryna Lagno, Alexsandra Kosteniuk, Nana Dzagnidze, Valentina Gunina, Koneru Humpy, Harika Dronavalli, Divya Deshmukh, Vaishali R and Vantika Agrawal. Magnus Carlsen dominated and won both the rapid and blitz. Aleksandra Goryachkina won the women's rapid and Kateryna Lagno the women's blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-chess-india-2024",
-         "pubDate" : "Tue, 12 Nov 2024 22:35:00",
-         "title" : "Tata Steel Chess India 2024 - Games and Results"
-      },
-      {
-         "description" : " Brewington Hardaway has qualified for the title of &#8220;International Grandmaster&#8221; after reaching the required 2500 FIDE rating during the New York Fall GM Invitational. At the tournament, Hardaway finished with an undefeated 6/9 ending with five draws. Hardaway completed all of his norms for the IM (#1, #2, #3) and GM titles (#1, #2, #3) The post <a href=\"https://thechessdrum.net/blog/2024/11/12/brewington-hardaway-is-now-a-chess-grandmaster/\">Brewington Hardaway is now a Chess Grandmaster!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/12/brewington-hardaway-is-now-a-chess-grandmaster/",
-         "pubDate" : "Tue, 12 Nov 2024 21:15:51",
-         "title" : "Brewington Hardaway is now a Chess Grandmaster!"
       }
    ]
 }
