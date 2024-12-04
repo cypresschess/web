@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/im-adam-hunt-rip/",
+         "pubDate" : "Wed, 04 Dec 2024 10:41:20",
+         "title" : "IM Adam Hunt RIP"
+      },
+      {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied after seven games - Ding won game 1, while Gukesh bounced back in game 3. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Wed, 04 Dec 2024 09:45:00",
+         "title" : "World Championship: Game 8 - Live!"
+      },
+      {
          "description" : "Besides the World Chess Championship, some other important chess tournaments are currently going on. The US Chess Masters in Charlotte was crucial for Fabiano Caruana, to qualify for the candidates in 2026! He started with 5 out of 5, until he faced Nikolas Theodorou! The Greek GM also had 5 points, and got a nice king-side attack against Caruana in the English opening. Robert Ris has the full analysis of this fascinating game!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2024-r5",
          "pubDate" : "Wed, 04 Dec 2024 01:00:00",
          "title" : "London Chess Classic: Jones leads with two rounds to go"
+      },
+      {
+         "description" : "Catch all the updates from Game 8 of the FIDE World Chess Championship 2024 between D Gukesh and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
+         "pubDate" : "Tue, 3 Dec 2024 22:36:04",
+         "title" : "LIVE: D Gukesh vs Ding Liren, game 8 of the chess World Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at Fabiano Caruana&#039;s game against Viktor Erdos from the 2024 Italian Team Championship. 2024.11.27<br /> Fabiano Caruana vs Viktor Erdos, Italian Team Championship (2014): C80 Ruy Lopez, open, 6.d4<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1754002\">https://www.chessgames.com/perl/chessgame?gid=1754002</a><br /> Ediz Gurel vs Velimir Ivic, FIDE World Cup (2023): C83 Ruy Lopez, open, 9...Be7, 10.Re1<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2550825\">https://www.chessgames.com/perl/chessgame?gid=2550825</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
@@ -1082,14 +1106,6 @@ news_feed (
          "title" : "D Gukesh vs Ding Liren: Deception, play-acting, et al - The other side of the chequered game"
       },
       {
-         "description" : "Here's all essential information of chess' ultimate match: schedule, format, timings, form, rules and more.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42542032/world-chess-championship-2024-all-need-know-d-gukesh-vs-ding-liren?device=featurephone",
-         "pubDate" : "Fri, 22 Nov 2024 08:58:31",
-         "title" : "World Chess Championship 2024: All you need to know about Gukesh vs Ding"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115559627.cms\" />India's chess prodigy D Gukesh, 18, is set to challenge reigning champion Ding Liren of China for the World Chess Championship title in Singapore. The highly anticipated match, starting November 25th, will see Gukesh aiming to become the second Indian to achieve the prestigious title after Viswanathan Anand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3304",
          "pubDate" : "Wed, 13 Nov 2024 14:24:09",
          "title" : "Al Ain Chess and Mind Games Club present Echess Championship: The Road to Al Ain"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3303",
-         "pubDate" : "Wed, 13 Nov 2024 08:53:03",
-         "title" : "Ding Liren ahead of his World Championship showdown with Gukesh: \"A match is a match\""
       }
    ]
 }
