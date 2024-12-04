@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship in Singapore continues to thrill fans as game 8 delivered yet another dramatic encounter. Both Ding Liren and Gukesh D missed opportunities to secure a crucial win, with the game ultimately ending in a hard-fought 51-move draw. Gukesh introduced a prepared novelty, gaining an early advantage, but Ding's resourcefulness turned the tables. Despite a tense battle featuring bold strategies and critical time pressure, neither contender could break the deadlock. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g8",
+         "pubDate" : "Wed, 04 Dec 2024 20:10:00",
+         "title" : "World Championship Game 8: More missed chances in dramatic draw"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Sabina Foisor after defeating Gleb Dudin in Round 1 of the first Saint Louis Masters tournament. In the broadcast, the last portion of this interview wasn't shown. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/extended-cut-caruana-tight-race-candidates-qualification-d1-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UIrFqfCDO-A.jpg?itok=Rs8QI",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/extended-cut-caruana-tight-race-candidates-qualification-d1-stlmasters",
+         "pubDate" : "Wed, 04 Dec 2024 19:22:28",
+         "title" : "EXTENDED CUT: Caruana in 'Tight Race' for Candidates Qualification | D1 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nikolas Theodorou talks to Sabina Foisor after a draw against Nico Chasin in Round 1 of the first Saint Louis Masters tournament. 2024.12.03<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/theodorou-make-some-quick-draws-save-energy-d1-stlmasters",
+         "pubDate" : "Wed, 04 Dec 2024 19:22:28",
+         "title" : "Theodorou: Make Some Quick Draws, Save Energy | D1 #STLMasters"
+      },
+      {
+         "description" : " The FIDE World Chess Championship match between defending champion Ding Liren and Gukesh D is tied at 4-4 after 8 games. Neither player seemed particularly disappointed as they drew a very difficult game where the engines showed that both players had a winning positions at different moments. Ding is jumping around from opening to opening so that he is a moving target, a strategy of opening surprises which in itself is not a surprise. Today Gukesh thanked his seconds as he got in a novelty first with 7...f6 after Ding chose the English. What happened is that the game took on a fairly unique direction, Ding had a Rook exposed in the middle of board, there was a very unusual pawn structure. Al",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-both-have-chances-to-win-a-difficult-world-championship-game-8",
+         "pubDate" : "Wed, 4 Dec 2024 19:01:00",
+         "title" : "Ding and Gukesh both have chances to win a difficult World Championship game 8 - 8"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,6 +58,14 @@ news_feed (
          "title" : "Extended list of participants for 2024 WRB announced"
       },
       {
+         "description" : "Call it ambition, call it false optimism, or just the exuberance of youth, it made for a fascinating game 8 of the FIDE World Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42775682/gukesh-vs-ding-game-8-unwillingness-draw-makes-chess-world-championship-2024-fascinating-watch?device=featurephone",
+         "pubDate" : "Wed, 4 Dec 2024 12:00:32",
+         "title" : "Gukesh's unwillingness to draw makes Chess World Championship a fascinating watch"
+      },
+      {
          "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,12 +74,12 @@ news_feed (
          "title" : "IM Adam Hunt RIP"
       },
       {
-         "description" : "Both Ding Liren and Gukesh D missed chances in an exciting eighth game at the World Championship match in Singapore. Thus, the score remains tied with six games to go. The ninth encounter of the tension-filled match will take place on Thursday, before the contenders get a third rest day to regroup and get ready for the final stages of the confrontation. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Wed, 04 Dec 2024 09:45:00",
-         "title" : "World Championship: Double-edged game ends drawn"
+         "description" : "IM Mark Plotkin and NM Janak Awatramani, both from Canada, respectively won Qualifiers 3 and 4 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. Half the seats in the Knockout are taken, and the r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-3-4",
+         "pubDate" : "Wed, 04 Dec 2024 09:38:39",
+         "title" : "Canadian Masters Plotkin, Awatramani Win Crazyhouse Qualfiiers 3 & 4"
       },
       {
          "description" : "Both Gukesh and Ding spurned great opportunities to win, in a wild game that eventually resulted with both players level at 4-4 overall.",
@@ -56,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-caruana-fell-apart-against-theodorou-the-underdog",
          "pubDate" : "Wed, 04 Dec 2024 08:25:29",
          "title" : "How Caruana fell apart against Theodorou - The Underdog"
+      },
+      {
+         "description" : "Both Titled Tuesday events of December 3 went down to the wire, with GM Denis Lazavik emerging ahead of GMs Javokhir Sindarov and Matthias Bluebaum in the early tournament on tiebreaks, and GM Hikaru Nakamura getting the tiebreak over GM Alireza F...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-nakamura-win-titled-tuesday-december-3-2024",
+         "pubDate" : "Wed, 04 Dec 2024 08:20:06",
+         "title" : "Nakamura, Firouzja Battle It Out In Titled Tuesday"
       },
       {
          "description" : "Grandmaster Jon Speelman delves into the ongoing World Chess Championship match in Singapore, offering insightful analysis and drawing fascinating parallels to historic encounters like Botvinnik v. Petrosian in 1963. With Gukesh and Ding trading psychological blows as much as tactical ones, Speelman highlights critical moments that reveal each player's mindset and strategy under immense pressure. From Gukesh's bold refusal of a threefold repetition to Ding's cautious attempts to regain control, Speelman's commentary illuminates the evolving dynamics of a closely contested match. | Photo: FIDE / Eng Chin An",
@@ -130,28 +178,20 @@ news_feed (
          "title" : "London Chess Classic: Jones leads with two rounds to go"
       },
       {
+         "description" : "This week's puzzles continue our series from the 2024 FIDE World Youth Championships, held last month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships over the next few weeks. You can see our CLO coverage of the World Youth here and the World Cadet here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-world-youth-championships-pt-2",
+         "pubDate" : "Wed, 04 Dec 2024 00:00:00",
+         "title" : "Wednesday Workout: World Youth Championships, Pt. 2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at Fabiano Caruana&#039;s game against Viktor Erdos from the 2024 Italian Team Championship. 2024.11.27<br /> Fabiano Caruana vs Viktor Erdos, Italian Team Championship (2014): C80 Ruy Lopez, open, 6.d4<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1754002\">https://www.chessgames.com/perl/chessgame?gid=1754002</a><br /> Ediz Gurel vs Velimir Ivic, FIDE World Cup (2023): C83 Ruy Lopez, open, 9...Be7, 10.Re1<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2550825\">https://www.chessgames.com/perl/chessgame?gid=2550825</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/caruana-brings-da-pain-vs-erdos-2014-grandmaster-psychology-gm-denes-boros",
          "pubDate" : "Tue, 03 Dec 2024 22:22:04",
          "title" : "CARUANA Brings Da Pain! vs. Erdos, 2014 | Grandmaster Psychology - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-day-2-rounds-3-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbna",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-day-2-rounds-3-4",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "Saint Louis Masters 2024: Day 2 | Rounds 3-4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-1-saint-louis-masters-2024-day-1-rounds-1-2\"><img src=\"https://saintlouischessclub.org/sites/default",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-part-1-saint-louis-masters-2024-day-1-rounds-1-2",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "(ORIGINAL BROADCAST, Part 1) Saint Louis Masters 2024: Day 1 | Rounds 1-2"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -191,7 +231,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-8",
          "pubDate" : "Tue, 03 Dec 2024 14:00:00",
-         "title" : "Gukesh And Ding Both Miss Wins In Crazy Game 8 Draw"
+         "title" : "Gukesh, Ding Both Miss Wins In Crazy Game 8 Draw"
       },
       {
          "description" : "Make no mistake, Gukesh's advantage here in game 7 against Ding Liren was significant; but he let it slip",
@@ -882,14 +922,6 @@ news_feed (
          "title" : "USA Delegation Wins Three Medals and Much More at 2024 FIDE World Cadet Championships"
       },
       {
-         "description" : "This week's puzzles come from the 2024 FIDE World Youth Championships, held earlier this month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships (which ended earlier today in Italy) over the next few weeks. You can see our CLO coverage of the World Youth here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-youth-champs-pt-1",
-         "pubDate" : "Tue, 26 Nov 2024 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Youth Champs, Pt. 1"
-      },
-      {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1018,22 +1050,6 @@ news_feed (
          "title" : "World Chess Championship: It's D Gukesh vs Ding Liren in Singapore showdown"
       },
       {
-         "description" : "Saint Louis and Missouri defeated critical rivals in the Semifinals of the 2024 Collegiate Chess League (CCL) Fall Season on Saturday. In a close match, SLU overcame SRM with a well-rounded performance by their entire team. Missouri&#39;s board-four...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-fall-sf-slu-mizzou",
-         "pubDate" : "Sat, 23 Nov 2024 22:13:00",
-         "title" : "Saint Louis Prevails vs. SRM, Will Face Missouri in Final"
-      },
-      {
-         "description" : "GM Alireza Firouzja won his first Bullet Brawl title and $400 on Saturday after posting a 42-game winning streak that saw him skyrocket to 254 points and eclipse 33-time winner GM Hikaru Nakamura. 196 titled players stood between Firouzja and vict...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-november-23-2024",
-         "pubDate" : "Sat, 23 Nov 2024 17:05:00",
-         "title" : "Firouzja Posts 42-Game Streak, Outpaces Nakamura"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/who-will-be-world-king-of-chess-ding-or-gukesh/",
          "pubDate" : "Sat, 23 Nov 2024 11:19:24",
          "title" : "Who will be world king of chess: Ding or Gukesh?"
-      },
-      {
-         "description" : "Meet most important person in D Gukesh's life other than his parents, his second Grzegorz Gajewski.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42560071/how-vishy-anand-created-d-gukesh-grzegorz-gajewski-team-shaken-chess-world?device=featurephone",
-         "pubDate" : "Sat, 23 Nov 2024 08:38:43",
-         "title" : "'Love at first sight' - How Anand created the Gukesh-Gajewski team that's shaken the chess world"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3305",
          "pubDate" : "Wed, 13 Nov 2024 21:16:43",
          "title" : "European Individual Championship 2024 reaches midpoint"
-      },
-      {
-         "description" : "Chess was invented in India, and brought to Europe in the 9th Century by the Arabs - who also introduced the first \"mansuba\" - middle or endgame puzzles with well-defined tasks, with stories and legends surrounding them. Today we give you three of the oldest mansuba to solve - in your head or against our live chess diagrams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ancient-chess-problems-to-solve",
-         "pubDate" : "Wed, 13 Nov 2024 20:00:00",
-         "title" : "Ancient chess problems to solve"
       }
    ]
 }
