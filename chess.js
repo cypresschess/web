@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Aram Hakobyan discusses his Round 1 win over Oleksii Bilych with Sabina Foisor at the Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-hakobyan-there-were-lot-sacrifices-d1-stlmasters",
+         "pubDate" : "Thu, 05 Dec 2024 04:22:35",
+         "title" : "EXCLUSIVE! Hakobyan: There Were a Lot of Sacrifices | D1 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy talks with Sabina Foisor following his first round loss to Robby Kevlishvili at the Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-kavutskiy-st-louis-place-be-d1-stlmasters",
+         "pubDate" : "Thu, 05 Dec 2024 04:22:35",
+         "title" : "EXCLUSIVE! Kavutskiy: St. Louis is the Place to Be | D1 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nico Chasin speaks with Sabina Foisor following his Round 1 draw against Theodorou in the Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-chasin-swiss-norm-one-things-i-need-d1-stlmasters",
+         "pubDate" : "Thu, 05 Dec 2024 04:22:35",
+         "title" : "EXCLUSIVE! Chasin: A Swiss Norm is One of the Things I Need | D1 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Sabina Foisor after defeating Abrahamyan in Round 2 of the first Saint Louis Masters tournament. Due to technical issues, the interview ended early. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ray-robson-tatev-very-strong-when-she%E2%80%99s-attacking-d1-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4lrT1wRVgbg.jpg?itok=tDAN3oML\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ray-robson-tatev-very-strong-when-she%E2%80%99s-attacking-d1-stlmasters",
+         "pubDate" : "Thu, 05 Dec 2024 04:22:35",
+         "title" : "Ray Robson: Tatev is Very Strong When She's Attacking | D1 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Anna Sargsyan speaks with Sabina Foisor following her Round 3 victory in Saint Louis Masters 2024! 2024.12.04<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sargsyan-i-knew-tournament-was-going-be-very-strong-one-d2-stlmasters",
+         "pubDate" : "Thu, 05 Dec 2024 01:22:38",
+         "title" : "Sargsyan: I Knew This Tournament Was Going To Be A Very Strong One | D2 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-day-3-rounds-5-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbna",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-day-3-rounds-5-6",
+         "pubDate" : "Thu, 05 Dec 2024 01:22:38",
+         "title" : "Saint Louis Masters 2024: Day 3 | Rounds 5-6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Sabina Foisor before the Saint Louis Masters 2024 tournament. This aired during Day 1. 2024.12.02<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev-less-pressure-being-lower-rated-stlmasters",
+         "pubDate" : "Thu, 05 Dec 2024 01:22:38",
+         "title" : "Tatev: Less Pressure Being Lower Rated | #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Andy Woodward talks to Sabina Foisor after a draw against Guillermo Vazquez in Round 2 of the first Saint Louis Masters tournament. Due to technical issues, the interview was split into two and ended early. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/andy-woodward-why-i-didn%E2%80%99t-become-gm-sooner-d1-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lfArqaSd1Kg.j",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/andy-woodward-why-i-didn%E2%80%99t-become-gm-sooner-d1-stlmasters",
+         "pubDate" : "Thu, 05 Dec 2024 01:22:38",
+         "title" : "Andy Woodward: Why I Didn't Become GM Sooner | D1 #STLMasters"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Sam Khanin speaks with Sabina Foisor about Saint Louis Masters 2024 following his Round 3 draw against GM Illia Nyzhnyk! 2024.12.04<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,22 +82,6 @@ news_feed (
          "title" : "Nyzhnyk: This Is A Once In A Lifetime Opportunity | D2 #STLMasters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Sabina Foisor before the Saint Louis Masters 2024 tournament. This aired during Day 1. 2024.12.02<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-if-you-know-who%E2%80%99s-playing-it%E2%80%99s-much-easier-prepare-stlmasters",
-         "pubDate" : "Wed, 04 Dec 2024 22:22:31",
-         "title" : "Sevian: If You Know Who's Playing, It's Much Easier to Prepare! | #STLMasters"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Using 15,000 simulations, the team looks at which players have the best chances of winning the Saint Louis Masters 2024 before play begins. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-play-d1-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ulCvtfr9ois.jpg?itok=2fSYFLex\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-play-d1-stlmasters",
-         "pubDate" : "Wed, 04 Dec 2024 22:22:31",
-         "title" : "Who is Likely to Win Before Play? | D1 #STLMasters"
-      },
-      {
          "description" : "The error report in ChessBase is a powerful analysis tool that evaluates a player's calculation accuracy based on their performance in games. By analyzing mistakes in various situations-such as complex positions, moments of attack, or defense-the tool not only identifies error patterns but also estimates the player's Elo rating. The analysis considers factors like position complexity, game phase, and the impact of mistakes to create a detailed profile of the player's strengths and weaknesses. This makes the error report an invaluable resource for both preparing against opponents and assessing personal performance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,22 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2024-g8",
          "pubDate" : "Wed, 04 Dec 2024 20:10:00",
          "title" : "World Championship Game 8: More missed chances in dramatic draw"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Sabina Foisor after defeating Gleb Dudin in Round 1 of the first Saint Louis Masters tournament. In the broadcast, the last portion of this interview wasn't shown. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/extended-cut-caruana-tight-race-candidates-qualification-d1-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UIrFqfCDO-A.jpg?itok=Rs8QI",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/extended-cut-caruana-tight-race-candidates-qualification-d1-stlmasters",
-         "pubDate" : "Wed, 04 Dec 2024 19:22:28",
-         "title" : "EXTENDED CUT: Caruana in 'Tight Race' for Candidates Qualification | D1 #STLMasters"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nikolas Theodorou talks to Sabina Foisor after a draw against Nico Chasin in Round 1 of the first Saint Louis Masters tournament. 2024.12.03<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/theodorou-make-some-quick-draws-save-energy-d1-stlmasters",
-         "pubDate" : "Wed, 04 Dec 2024 19:22:28",
-         "title" : "Theodorou: Make Some Quick Draws, Save Energy | D1 #STLMasters"
       },
       {
          "description" : " The FIDE World Chess Championship match between defending champion Ding Liren and Gukesh D is tied at 4-4 after 8 games. Neither player seemed particularly disappointed as they drew a very difficult game where the engines showed that both players had a winning positions at different moments. Ding is jumping around from opening to opening so that he is a moving target, a strategy of opening surprises which in itself is not a surprise. Today Gukesh thanked his seconds as he got in a novelty first with 7...f6 after Ding chose the English. What happened is that the game took on a fairly unique direction, Ding had a Rook exposed in the middle of board, there was a very unusual pawn structure. Al",
@@ -168,38 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-222",
          "pubDate" : "Wed, 04 Dec 2024 07:25:00",
          "title" : "Jon Speelman: Remember 1963 (plus other worthy exhortations and an assertion)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Aram Hakobyan discusses his Round 1 win at Saint Louis Masters 2024 with Sabina Foisor! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hakobyan-there-were-lot-sacrifices-saint-louis-masters-2024-day-1",
-         "pubDate" : "Wed, 04 Dec 2024 04:22:08",
-         "title" : "Hakobyan: There Were a Lot of Sacrifices | Saint Louis Masters 2024: Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Kostya Kavutskiy talks with Sabina Foisor following the first round of Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kavutskiy-st-louis-place-be-saint-louis-masters-2024-day-1",
-         "pubDate" : "Wed, 04 Dec 2024 04:22:08",
-         "title" : "Kavutskiy: St. Louis is the Place to Be | Saint Louis Masters 2024: Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Nico Chasin speaks with Sabina Foisor following his Round 1 draw with GM Nikolas Theodorou in Saint Louis Masters 2024! 2024.12.03 <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chasin-swiss-norm-one-things-i-need-saint-louis-masters-2024-day-1",
-         "pubDate" : "Wed, 04 Dec 2024 04:22:08",
-         "title" : "Chasin: A Swiss Norm is One of the Things I Need | Saint Louis Masters 2024: Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Fabiano Caruana speaks with Sabina Foisor following his Round 1 victory in Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-im-not-going-keep-any-secrets-saint-louis-masters-2024-day-1",
-         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
-         "title" : "Caruana: I'm Not Going To Keep Any Secrets | Saint Louis Masters 2024: Day 1"
       },
       {
          "description" : "The 2023 London Chess Classic has brought world-class chess to Arsenal's Emirates Stadium. Featuring eight top grandmasters, including England's prodigy Shreyas Royal and international stars like Vidit Gujrathi and Ju Wenjun, the tournament has seen intense battles over five rounds. With two games left, Gawain Jones leads the pack with 3&frac12; points. Vidit Gujrathi and Shakhriyar Mamedyarov are sharing second place, a half point back. | Photos: London Chess Classic's Facebook page",
