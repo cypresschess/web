@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Sam Khanin speaks with Sabina Foisor about Saint Louis Masters 2024 following his Round 3 draw against GM Illia Nyzhnyk! 2024.12.04<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khanin-there-are-so-many-strong-players-d2-stlmasters",
+         "pubDate" : "Wed, 04 Dec 2024 22:22:31",
+         "title" : "Khanin: There Are So Many Strong Players | D2 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk speaks with Sabina Foisor about Saint Louis Masters 2024 following his Round 3 draw against GM Sam Khanin! 2024.12.04<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nyzhnyk-once-lifetime-opportunity-d2-stlmasters",
+         "pubDate" : "Wed, 04 Dec 2024 22:22:31",
+         "title" : "Nyzhnyk: This Is A Once In A Lifetime Opportunity | D2 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Sabina Foisor before the Saint Louis Masters 2024 tournament. This aired during Day 1. 2024.12.02<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-if-you-know-who%E2%80%99s-playing-it%E2%80%99s-much-easier-prepare-stlmasters",
+         "pubDate" : "Wed, 04 Dec 2024 22:22:31",
+         "title" : "Sevian: If You Know Who's Playing, It's Much Easier to Prepare! | #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Using 15,000 simulations, the team looks at which players have the best chances of winning the Saint Louis Masters 2024 before play begins. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-play-d1-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ulCvtfr9ois.jpg?itok=2fSYFLex\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-play-d1-stlmasters",
+         "pubDate" : "Wed, 04 Dec 2024 22:22:31",
+         "title" : "Who is Likely to Win Before Play? | D1 #STLMasters"
+      },
+      {
+         "description" : "The error report in ChessBase is a powerful analysis tool that evaluates a player's calculation accuracy based on their performance in games. By analyzing mistakes in various situations-such as complex positions, moments of attack, or defense-the tool not only identifies error patterns but also estimates the player's Elo rating. The analysis considers factors like position complexity, game phase, and the impact of mistakes to create a detailed profile of the player's strengths and weaknesses. This makes the error report an invaluable resource for both preparing against opponents and assessing personal performance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-error-report-what-is-your-blunder-elo",
+         "pubDate" : "Wed, 04 Dec 2024 22:00:00",
+         "title" : "ChessBase 18 error report - What is your Blunder Elo?"
+      },
+      {
          "description" : "The World Chess Championship in Singapore continues to thrill fans as game 8 delivered yet another dramatic encounter. Both Ding Liren and Gukesh D missed opportunities to secure a crucial win, with the game ultimately ending in a hard-fought 51-move draw. Gukesh introduced a prepared novelty, gaining an early advantage, but Ding's resourcefulness turned the tables. Despite a tense battle featuring bold strategies and critical time pressure, neither contender could break the deadlock. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,6 +90,14 @@ news_feed (
          "title" : "World Chess C'ship: Gukesh, Liren settle for yet another draw"
       },
       {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Thursday, December 5, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. This will be the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-9",
+         "pubDate" : "Wed, 04 Dec 2024 14:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 9"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,12 +122,20 @@ news_feed (
          "title" : "IM Adam Hunt RIP"
       },
       {
+         "description" : "Both GM Gukesh Dommaraju and World Champion Ding Liren missed wins as game eight of the 2024 FIDE World Championship ended in a 51-move draw. Ding switched to 1.c4, was again surprised in the opening, but had stabilized just when he blundered into...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-8",
+         "pubDate" : "Wed, 04 Dec 2024 10:30:00",
+         "title" : "Gukesh, Ding Both Miss Wins In Crazy Game 8 Draw"
+      },
+      {
          "description" : "IM Mark Plotkin and NM Janak Awatramani, both from Canada, respectively won Qualifiers 3 and 4 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. Half the seats in the Knockout are taken, and the r...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-3-4",
-         "pubDate" : "Wed, 04 Dec 2024 09:38:39",
-         "title" : "Canadian Masters Plotkin, Awatramani Win Crazyhouse Qualfiiers 3 & 4"
+         "pubDate" : "Wed, 04 Dec 2024 09:38:00",
+         "title" : "Canadian Masters Plotkin, Awatramani Win Crazyhouse Qualifiers 3 & 4"
       },
       {
          "description" : "Both Gukesh and Ding spurned great opportunities to win, in a wild game that eventually resulted with both players level at 4-4 overall.",
@@ -146,30 +202,6 @@ news_feed (
          "title" : "Caruana: I'm Not Going To Keep Any Secrets | Saint Louis Masters 2024: Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Nikolas Theodorou tells Sabina Foisor his hopes for the rest of the tournament following Round 1 of Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/theodorou-looking-forward-playing-some-more-exciting-games-saint-louis-masters-2024-day-1",
-         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
-         "title" : "Theodorou: Looking Forward To Playing Some More Exciting Games | Saint Louis Masters 2024: Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Elshan Moradiabadi speaks with Sabina Foisor following his Round 1 victory in Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/moradiabadi-always-great-players-here-its-inspiring-saint-louis-masters-2024-day-1",
-         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
-         "title" : "Moradiabadi: Always Great Players Here, It's Inspiring | Saint Louis Masters 2024: Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Technical Director Tony Rich explains how Saint Louis Masters 2024 came to be and how it works. 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-saint-louis-masters-2024",
-         "pubDate" : "Wed, 04 Dec 2024 01:22:05",
-         "title" : "What is Saint Louis Masters 2024?"
-      },
-      {
          "description" : "The 2023 London Chess Classic has brought world-class chess to Arsenal's Emirates Stadium. Featuring eight top grandmasters, including England's prodigy Shreyas Royal and international stars like Vidit Gujrathi and Ju Wenjun, the tournament has seen intense battles over five rounds. With two games left, Gawain Jones leads the pack with 3&frac12; points. Vidit Gujrathi and Shakhriyar Mamedyarov are sharing second place, a half point back. | Photos: London Chess Classic's Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-world-youth-championships-pt-2",
          "pubDate" : "Wed, 04 Dec 2024 00:00:00",
          "title" : "Wednesday Workout: World Youth Championships, Pt. 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at Fabiano Caruana&#039;s game against Viktor Erdos from the 2024 Italian Team Championship. 2024.11.27<br /> Fabiano Caruana vs Viktor Erdos, Italian Team Championship (2014): C80 Ruy Lopez, open, 6.d4<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1754002\">https://www.chessgames.com/perl/chessgame?gid=1754002</a><br /> Ediz Gurel vs Velimir Ivic, FIDE World Cup (2023): C83 Ruy Lopez, open, 9...Be7, 10.Re1<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2550825\">https://www.chessgames.com/perl/chessgame?gid=2550825</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-brings-da-pain-vs-erdos-2014-grandmaster-psychology-gm-denes-boros",
-         "pubDate" : "Tue, 03 Dec 2024 22:22:04",
-         "title" : "CARUANA Brings Da Pain! vs. Erdos, 2014 | Grandmaster Psychology - GM Denes Boros"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3334",
          "pubDate" : "Tue, 03 Dec 2024 14:49:21",
          "title" : "World Championship Game 7: Ding Liren escapes by the skin of his teeth"
-      },
-      {
-         "description" : "Both GM Gukesh Dommaraju and World Champion Ding Liren missed wins as game eight of the 2024 FIDE World Championship ended in a 51-move draw. Ding switched to 1.c4, was again surprised in the opening, but had stabilized just when he blundered into...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-8",
-         "pubDate" : "Tue, 03 Dec 2024 14:00:00",
-         "title" : "Gukesh, Ding Both Miss Wins In Crazy Game 8 Draw"
       },
       {
          "description" : "Make no mistake, Gukesh's advantage here in game 7 against Ding Liren was significant; but he let it slip",
@@ -1034,14 +1050,6 @@ news_feed (
          "title" : "Gukesh vs Ding: Chess crown on the line, all serene in Singapore"
       },
       {
-         "description" : "GM Ding Liren said at the 2024 FIDE World Championship opening press conference he&#39;d been preparing for just three weeks. A slip of the tongue? No! In an exclusive interview with FM Mike Klein the reigning world champion confirmed he meant it, tho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-liren-rapport-interview",
-         "pubDate" : "Sun, 24 Nov 2024 07:02:00",
-         "title" : "Ding On Rapport And 3 Weeks Of World Championship Prep"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115614800.cms\" />World Chess Champion Ding Liren expresses confidence and peace ahead of his title defense against 18-year-old Indian prodigy D Gukesh in Singapore. Despite recent setbacks, Ding aims to regain his form, while Gukesh, mentored by Viswanathan Anand, exudes composure and focus, ready to seize his chance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-ultimate-chessbase-tutorial-learn-the-basics-in-less-than-20-minutes",
          "pubDate" : "Thu, 14 Nov 2024 08:14:26",
          "title" : "The ULTIMATE ChessBase tutorial: Learn the basics in less than 20 minutes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3305",
-         "pubDate" : "Wed, 13 Nov 2024 21:16:43",
-         "title" : "European Individual Championship 2024 reaches midpoint"
       }
    ]
 }
