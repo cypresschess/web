@@ -10,12 +10,28 @@ news_feed (
          "title" : "Gukesh and Ding draw a well played Catalan in World Championship Game 9 - 9"
       },
       {
+         "description" : "On December 15, elections will be held within the Greek Chess Federation to elect its new Presidential Board. From 1982 to 2021, the President of the Federation was Mr. Giorgos Makropoulos (IM), who, for many years, held the position of Deputy President of FIDE. Precisely for this reason, since the legislation in Greece prohibits presidential terms for more than 12 years, he was succeeded by Mr. Stathis Efstathopoulos - from 2021 to the present - without, however, moving outside the shadow of his predecessor. Mr. Christos Pilalis (pictured), IA, FI, IO, candidate for President of the Federation, aspires to assume the responsibility of its administration, claiming that Mr. Makropoulos and his",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elections-in-the-greek-chess-federation",
+         "pubDate" : "Thu, 05 Dec 2024 18:00:00",
+         "title" : "Elections in the Greek Chess Federation"
+      },
+      {
          "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live with computer-assisted analysis starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
          "pubDate" : "Thu, 05 Dec 2024 16:45:00",
          "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "On behalf of the All India Chess Federation (AICF) and the AICF Arbiters' Commission, the Nagaland Chess Association, North East Indian Chess Association, and AICF",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-sna-seminar-and-examination-at-dimapur-nagaland-from-28-to-29-november-2024/",
+         "pubDate" : "Thu, 05 Dec 2024 16:38:48",
+         "title" : "Final Report of SNA Seminar and Examination at Dimapur, Nagaland from 28 to 29 November 2024 ."
       },
       {
          "description" : "Game 9 of the World Chess Championship in Singapore brought a more measured yet strategic encounter, ending in a draw after 54 moves. Playing with the white pieces, Gukesh D applied early pressure in a Catalan Opening, but Ding Liren's precise defence kept the balance. Gukesh, who described the game as \"very precise from both sides\", managed to build a lead on the clock but could not capitalise in the critical moments. With the score tied and only five games left, the match resumes on Saturday. | Photo: FIDE / Eng Chin An",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2024-start-in-skopje/",
          "pubDate" : "Thu, 05 Dec 2024 09:15:22",
          "title" : "European Rapid & Blitz Chess Championships 2024 start in Skopje"
+      },
+      {
+         "description" : "GM Jeffery Xiong won Qualifier 5, and FM Roee Aroesti won Qualifier 6 of the 2024 Crazyhouse Championship, the final event of this year&#39;s Chess.com Community Championship series. There are just two more qualifying spots open for the Knockout on Fr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-5-6",
+         "pubDate" : "Thu, 05 Dec 2024 09:09:00",
+         "title" : "Xiong, Aroesti Top Crazyhouse Qualifiers 5 & 6"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Aram Hakobyan discusses his Round 1 win over Oleksii Bilych with Sabina Foisor at the Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
@@ -1040,14 +1064,6 @@ news_feed (
          "link" : "https://www.europechess.org/world-chess-championship-2024-starts-in-singapore/",
          "pubDate" : "Sun, 24 Nov 2024 14:08:51",
          "title" : "World Chess Championship 2024 starts in Singapore"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju goes into the 2024 FIDE World Championship against GM Ding Liren never having beaten the world champion in classical chess, but in an exclusive interview with FM Mike Klein he talks about following in the footsteps of 11th Worl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-bobby-fischer-interview",
-         "pubDate" : "Sun, 24 Nov 2024 09:30:00",
-         "title" : "Gukesh: 'Huge Honor To Be In The Same Sentence As Bobby Fischer'"
       },
       {
          "description" : "The 2024 European Corporate Chess Championship concluded yesterday in Asnieres sur Seine, Paris, France. The Closing ceremony of the event took place yesterday evening in the City venue of Asnieres sur Seine with the attendance of the Mayor of Asnieres Mr. Manuel Aeschlimann, Deputy Mayor of Asnieres Mr. Frederic Sitbon, ECU Secretary General Mr. Theodoros Tsorbatzoglou, Chairman of the ECU Social Commission Mr. Franck Droin, Vice President of the French Chess Federation Mrs. Laurie Delorme, Tournament Director Mr. Jean-Claude Moingt, []",
