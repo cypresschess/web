@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Both Ding Liren and Gukesh D missed chances in an exciting eighth game at the World Championship match in Singapore. Thus, the score remains tied with six games to go. The ninth encounter of the tension-filled match will take place on Thursday, before the contenders get a third rest day to regroup and get ready for the final stages of the confrontation. | Full report to follow shortly.",
+         "description" : " The FIDE World Chess Championship match in Singapore between Ding Liren and Gukesh D heads to its third rest day on Friday with the players tied at 4.5-4.5. After the rollercoaster ride that was game 8 today was a Catalan, an opening that's generally well understood by the leading players these days. 10.Bc3 from Gukesh was a little wrinkle which had been played a few times at the top level. 13.b4 looked aggressive and it provoked complications, black seemed to have a few ideas to equalise, and Ding seemed to have seen a couple of them, as it was 20.Qb5 was a tiny bit inaccurate and after the sequence 20...Rxa2 21.Nxb6 Qa7 22.Qb1 Rb8 Ding had solved all his problems and the rest of the game ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-and-ding-draw-a-well-played-catalan-in-world-championship-game-9",
+         "pubDate" : "Thu, 5 Dec 2024 19:01:00",
+         "title" : "Gukesh and Ding draw a well played Catalan in World Championship Game 9 - 9"
+      },
+      {
+         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live with computer-assisted analysis starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Thu, 05 Dec 2024 09:45:00",
-         "title" : "World Championship: Game 9 - Live!"
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
+         "pubDate" : "Thu, 05 Dec 2024 16:45:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "Game 9 of the World Chess Championship in Singapore brought a more measured yet strategic encounter, ending in a draw after 54 moves. Playing with the white pieces, Gukesh D applied early pressure in a Catalan Opening, but Ding Liren's precise defence kept the balance. Gukesh, who described the game as \"very precise from both sides\", managed to build a lead on the clock but could not capitalise in the critical moments. With the score tied and only five games left, the match resumes on Saturday. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g9",
+         "pubDate" : "Thu, 05 Dec 2024 16:20:00",
+         "title" : "World Championship Game 9: A \"very precise\" draw"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3337",
+         "pubDate" : "Thu, 05 Dec 2024 14:16:11",
+         "title" : "FIDE World Championship Game 9: The calm after the storm"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116012017.cms\" />The World Chess Championship between D Gukesh and Ding Liren remains deadlocked after nine games, with the latest match ending in a draw. Gukesh opted for the Catalan Opening, but Liren's strong defence neutralized any potential advantage. With the score tied at 4.5 points each, the final five classical games will be crucial in determining the champion. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-ding-liren-play-out-another-draw-as-game-9-ends-with-bare-kings-at-world-chess-championship/articleshow/116012017.cms",
+         "pubDate" : "Thu, 05 Dec 2024 13:37:36",
+         "title" : "Gukesh, Liren play out draw as Game 9 ends with bare kings"
       },
       {
          "description" : "The European Rapid &#38; Blitz Chess Championships start in Skopje, North Macedonia, and will take place from 6-11 December at ****Hotel Continental. European Rapid Chess Championship 2024 will be the first event on the schedule, taking place on 7-8 December. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2024 will be played on 9th of []",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2024-start-in-skopje/",
          "pubDate" : "Thu, 05 Dec 2024 09:15:22",
          "title" : "European Rapid & Blitz Chess Championships 2024 start in Skopje"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116000514.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-live-updates-d-gukesh-vs-ding-liren-game-9-live-streaming-singapore/liveblog/116000514.cms",
-         "pubDate" : "Thu, 05 Dec 2024 08:24:00",
-         "title" : "D Gukesh vs Ding Liren Game 9 LIVE: Are we nearing another draw?"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Aram Hakobyan discusses his Round 1 win over Oleksii Bilych with Sabina Foisor at the Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
@@ -90,6 +114,22 @@ news_feed (
          "title" : "Andy Woodward: Why I Didn't Become GM Sooner | D1 #STLMasters"
       },
       {
+         "description" : "With more than 2,700 players across 13 sections, this weekend's 2024 K-12 Grade Championships in National Harbor, Maryland, promise to do more than just break records.The 2024 K-12 is the largest in history, and there's an event list to match. From bughouse to blitz, with ChessKid and a guest GM, there will be something in National Harbor for everyone.Some of America's best scholastic players will be in attendance, hoping to take home a national title. Top seeds include IMs Eric Chang Liu, Ming Lu, Evan Park, and Liran Zhou; FMs Erick Zhao and Isaac Wang, and dozens of masters and experts. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/going-national-previewing-k-12-grade-championships",
+         "pubDate" : "Thu, 05 Dec 2024 00:00:00",
+         "title" : "Going National: Previewing the K-12 Grade Championships"
+      },
+      {
+         "description" : "Follow live updates from match 9 of the 2024 FIDE World Chess Championship, with Ding Liren and D Gukesh tied at 4-4.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42785113/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-9?device=featurephone",
+         "pubDate" : "Wed, 4 Dec 2024 22:30:57",
+         "title" : "Gukesh vs Ding LIVE: Game 9 of World Chess Championship"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Sam Khanin speaks with Sabina Foisor about Saint Louis Masters 2024 following his Round 3 draw against GM Illia Nyzhnyk! 2024.12.04<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -146,12 +186,12 @@ news_feed (
          "title" : "World Chess C'ship: Gukesh, Liren settle for yet another draw"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Thursday, December 5, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. This will be the...",
+         "description" : "GM Gukesh Dommaraju slipped in a promising position in game nine to allow World Champion Ding Liren to liquidate to a draw and leave the 2024 FIDE World Championship tied at 4.5-4.5 with just five games to go. The players now have a rest day on Fr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-9",
          "pubDate" : "Wed, 04 Dec 2024 14:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 9"
+         "title" : "Deadlock Continues As Gukesh Fails To Press Ding In Game 9"
       },
       {
          "description" : "",
@@ -202,36 +242,12 @@ news_feed (
          "title" : "Gukesh salvages draw against Ding in rollercoaster Game 8 of World Championship"
       },
       {
-         "description" : "Besides the World Chess Championship, some other important chess tournaments are currently going on. The US Chess Masters in Charlotte was crucial for Fabiano Caruana, to qualify for the candidates in 2026! He started with 5 out of 5, until he faced Nikolas Theodorou! The Greek GM also had 5 points, and got a nice king-side attack against Caruana in the English opening. Robert Ris has the full analysis of this fascinating game!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-caruana-fell-apart-against-theodorou-the-underdog",
-         "pubDate" : "Wed, 04 Dec 2024 08:25:29",
-         "title" : "How Caruana fell apart against Theodorou - The Underdog"
-      },
-      {
          "description" : "Both Titled Tuesday events of December 3 went down to the wire, with GM Denis Lazavik emerging ahead of GMs Javokhir Sindarov and Matthias Bluebaum in the early tournament on tiebreaks, and GM Hikaru Nakamura getting the tiebreak over GM Alireza F...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lazavik-nakamura-win-titled-tuesday-december-3-2024",
          "pubDate" : "Wed, 04 Dec 2024 08:20:06",
          "title" : "Nakamura, Firouzja Battle It Out In Titled Tuesday"
-      },
-      {
-         "description" : "Grandmaster Jon Speelman delves into the ongoing World Chess Championship match in Singapore, offering insightful analysis and drawing fascinating parallels to historic encounters like Botvinnik v. Petrosian in 1963. With Gukesh and Ding trading psychological blows as much as tactical ones, Speelman highlights critical moments that reveal each player's mindset and strategy under immense pressure. From Gukesh's bold refusal of a threefold repetition to Ding's cautious attempts to regain control, Speelman's commentary illuminates the evolving dynamics of a closely contested match. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-222",
-         "pubDate" : "Wed, 04 Dec 2024 07:25:00",
-         "title" : "Jon Speelman: Remember 1963 (plus other worthy exhortations and an assertion)"
-      },
-      {
-         "description" : "The 2023 London Chess Classic has brought world-class chess to Arsenal's Emirates Stadium. Featuring eight top grandmasters, including England's prodigy Shreyas Royal and international stars like Vidit Gujrathi and Ju Wenjun, the tournament has seen intense battles over five rounds. With two games left, Gawain Jones leads the pack with 3&frac12; points. Vidit Gujrathi and Shakhriyar Mamedyarov are sharing second place, a half point back. | Photos: London Chess Classic's Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-r5",
-         "pubDate" : "Wed, 04 Dec 2024 01:00:00",
-         "title" : "London Chess Classic: Jones leads with two rounds to go"
       },
       {
          "description" : "This week's puzzles continue our series from the 2024 FIDE World Youth Championships, held last month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships over the next few weeks. You can see our CLO coverage of the World Youth here and the World Cadet here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -306,7 +322,7 @@ news_feed (
          "title" : "Gukesh slips up, allows Ding to wrestle draw in game 7 of World Championship"
       },
       {
-         "description" : "NM Isaac Chiu and NM Jalen Wang respectively won Qualifiers 1 and 2 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. Qualifier 3 is on Tuesday, December 3, at 1:30 p.m. ET/19:30 CET/12:00 a.m. ...",
+         "description" : "NM Isaac Chiu and NM Jalen Wang respectively won Qualifiers 1 and 2 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. There are six qualifying spots left for the Knockout on Friday. [Updated on ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-1-2",
@@ -354,14 +370,6 @@ news_feed (
          "title" : "Caruana Wins 2024 U.S. Masters, Trails Arjun In FIDE Circuit By 1 Point"
       },
       {
-         "description" : "Arjun Erigaisi is now officially another player over 2800 behind Carlsen, Caruana and Nakamura in the December FIDE world rankings. Four Chinese players continue to lead the women's ranking and Gukesh D, the world's best junior might soon also be World Champion. Bibisara Assaubayeva is the world's best female junior.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-december-2025",
-         "pubDate" : "Mon, 02 Dec 2024 13:20:58",
-         "title" : "FIDE ratings - December 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -384,14 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/holiday-bots-2024",
          "pubDate" : "Mon, 02 Dec 2024 09:56:56",
          "title" : "Play Against Chess.com's Holiday Bots"
-      },
-      {
-         "description" : "Going to the second free day, the match for the FIDE World Championship 2024, between the World Champion Ding Liren and the Challenger D. Gukesh, is tied on 3-3 after six games. Ding seems to be in charge by now, as he has lost a number of opportunities to gain a one or two points lead already! International chess trainer GM Efstratios Grivas provides his take on games five and six.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-games-five-and-six",
-         "pubDate" : "Mon, 02 Dec 2024 08:30:18",
-         "title" : "Grivas on games five and six"
       },
       {
          "description" : "For India's future chess stars, Anand is not just a spiritual inspiration as a mythical figure who went to places that no other Indian before him did. He's there for them first-hand.",
@@ -954,14 +954,6 @@ news_feed (
          "title" : "5 ways to explore chess during 2024 World Chess Championship"
       },
       {
-         "description" : "Editor's note: Selected games from this event have been collected here.Three USA players made podium finishes at the 2024 FIDE World Cadet Chess Championships, held from November 15 through 26 in Montesilvano, Italy. Zooming out a bit, roughly a quarter of the players representing the American delegation finished in the top 10 of their respective section, with eight more players finishing in the top 10 (including tiebreaks) and two more finishing tied for ninth, but outside the top 10 on tiebreaks.Overall, 46 American players - the largest of any delegation - took the trip to Montesilvano, Italy to compete across the three Open (U-12, U-10, U-8) and three Girls (U-12, U-10, U-8) sections of ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/usa-delegation-wins-three-medals-and-much-more-2024-fide-world-cadet-championships",
-         "pubDate" : "Tue, 26 Nov 2024 00:00:00",
-         "title" : "USA Delegation Wins Three Medals and Much More at 2024 FIDE World Cadet Championships"
-      },
-      {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1136,14 +1128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-2024-d-gukesh-vs-ding-liren-all-you-need-to-know/articleshow/115600458.cms",
          "pubDate" : "Sat, 23 Nov 2024 11:57:29",
          "title" : "World Chess Championship 2024: D Gukesh vs Ding Liren - All you need to know"
-      },
-      {
-         "description" : "Ding Liren noted he was at peace and 'with a lot of energy' as he prepared to take on the youngest ever challenger to the World Championship crown.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42562485/best-world-decade-d-gukesh-not-fooled-ding-liren-poor-form-ahead-fide-world-chess-championship-2024?device=featurephone",
-         "pubDate" : "Sat, 23 Nov 2024 11:52:43",
-         "title" : "'One of the best in the world for a decade' - Gukesh not fooled by Ding's poor form ahead of World Chess Championship"
       },
       {
          "description" : " The FIDE World Chess Championship takes place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Play is 3 days on, one off and starts at 17:00 local time 09:00GMT. Defending champion is 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April last year. 18 year old Gukesh Dommaraju is his challenger after winning the Candidates tournament earlier in the year. Two shadows overhang the match, World number one Magnus Carlsen gave up the title last year and is still probably (but not definitely) the best classical player and is absolutely the dominant rapid and blitz player now. No one player can be bigger than the game, and life goes on, this period feels similar to that betw",
