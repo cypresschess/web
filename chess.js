@@ -138,14 +138,6 @@ news_feed (
          "title" : "Extended list of participants for 2024 WRB announced"
       },
       {
-         "description" : "Call it ambition, call it false optimism, or just the exuberance of youth, it made for a fascinating game 8 of the FIDE World Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42775682/gukesh-vs-ding-game-8-unwillingness-draw-makes-chess-world-championship-2024-fascinating-watch?device=featurephone",
-         "pubDate" : "Wed, 4 Dec 2024 12:00:32",
-         "title" : "Gukesh's unwillingness to draw makes Chess World Championship a fascinating watch"
-      },
-      {
          "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -168,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-3-4",
          "pubDate" : "Wed, 04 Dec 2024 09:38:00",
          "title" : "Canadian Masters Plotkin, Awatramani Win Crazyhouse Qualifiers 3 & 4"
-      },
-      {
-         "description" : "Both Gukesh and Ding spurned great opportunities to win, in a wild game that eventually resulted with both players level at 4-4 overall.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
-         "pubDate" : "Wed, 4 Dec 2024 09:18:25",
-         "title" : "Gukesh salvages draw against Ding in rollercoaster Game 8 of World Championship"
       },
       {
          "description" : "Besides the World Chess Championship, some other important chess tournaments are currently going on. The US Chess Masters in Charlotte was crucial for Fabiano Caruana, to qualify for the candidates in 2026! He started with 5 out of 5, until he faced Nikolas Theodorou! The Greek GM also had 5 points, and got a nice king-side attack against Caruana in the English opening. Robert Ris has the full analysis of this fascinating game!",
@@ -216,6 +200,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-world-youth-championships-pt-2",
          "pubDate" : "Wed, 04 Dec 2024 00:00:00",
          "title" : "Wednesday Workout: World Youth Championships, Pt. 2"
+      },
+      {
+         "description" : "Catch all the updates from Game 8 of the FIDE World Chess Championship 2024 between D Gukesh and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
+         "pubDate" : "Tue, 3 Dec 2024 22:36:04",
+         "title" : "LIVE: D Gukesh vs Ding Liren, game 8 of the chess World Championship"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -1138,6 +1130,14 @@ news_feed (
          "title" : "Who will be world king of chess: Ding or Gukesh?"
       },
       {
+         "description" : "Meet most important person in D Gukesh's life other than his parents, his second Grzegorz Gajewski.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42560071/how-vishy-anand-created-d-gukesh-grzegorz-gajewski-team-shaken-chess-world?device=featurephone",
+         "pubDate" : "Sat, 23 Nov 2024 08:38:43",
+         "title" : "'Love at first sight' - How Anand created the Gukesh-Gajewski team that's shaken the chess world"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1432,14 +1432,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Fri, 15 Nov 2024 11:14:01",
          "title" : "ECF Level 1 Arbiter Course - January 2025"
-      },
-      {
-         "description" : "Reading about the latest and greatest new features in ChessBase is exciting, but if you can barely use the basics, then it can also be frustrating. But worry not! You can learn them all in under 20 minutes, and even how to customize the work space, in this crystal clear video tutorial.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-ultimate-chessbase-tutorial-learn-the-basics-in-less-than-20-minutes",
-         "pubDate" : "Thu, 14 Nov 2024 08:14:26",
-         "title" : "The ULTIMATE ChessBase tutorial: Learn the basics in less than 20 minutes"
       }
    ]
 }
