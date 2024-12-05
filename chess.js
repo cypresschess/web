@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Both Ding Liren and Gukesh D missed chances in an exciting eighth game at the World Championship match in Singapore. Thus, the score remains tied with six games to go. The ninth encounter of the tension-filled match will take place on Thursday, before the contenders get a third rest day to regroup and get ready for the final stages of the confrontation. | Full report to follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Thu, 05 Dec 2024 09:45:00",
+         "title" : "World Championship: Game 9 - Live!"
+      },
+      {
+         "description" : "The European Rapid &#38; Blitz Chess Championships start in Skopje, North Macedonia, and will take place from 6-11 December at ****Hotel Continental. European Rapid Chess Championship 2024 will be the first event on the schedule, taking place on 7-8 December. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2024 will be played on 9th of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2024-start-in-skopje/",
+         "pubDate" : "Thu, 05 Dec 2024 09:15:22",
+         "title" : "European Rapid & Blitz Chess Championships 2024 start in Skopje"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116000514.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-live-updates-d-gukesh-vs-ding-liren-game-9-live-streaming-singapore/liveblog/116000514.cms",
+         "pubDate" : "Thu, 05 Dec 2024 08:24:00",
+         "title" : "D Gukesh vs Ding Liren Game 9 LIVE: Are we nearing another draw?"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Aram Hakobyan discusses his Round 1 win over Oleksii Bilych with Sabina Foisor at the Saint Louis Masters 2024! 2024.12.03<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -138,6 +162,14 @@ news_feed (
          "title" : "Extended list of participants for 2024 WRB announced"
       },
       {
+         "description" : "Call it ambition, call it false optimism, or just the exuberance of youth, it made for a fascinating game 8 of the FIDE World Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42775682/gukesh-vs-ding-game-8-unwillingness-draw-makes-chess-world-championship-2024-fascinating-watch?device=featurephone",
+         "pubDate" : "Wed, 4 Dec 2024 12:00:32",
+         "title" : "Gukesh's unwillingness to draw makes Chess World Championship a fascinating watch"
+      },
+      {
          "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -160,6 +192,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-3-4",
          "pubDate" : "Wed, 04 Dec 2024 09:38:00",
          "title" : "Canadian Masters Plotkin, Awatramani Win Crazyhouse Qualifiers 3 & 4"
+      },
+      {
+         "description" : "Both Gukesh and Ding spurned great opportunities to win, in a wild game that eventually resulted with both players level at 4-4 overall.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
+         "pubDate" : "Wed, 4 Dec 2024 09:18:25",
+         "title" : "Gukesh salvages draw against Ding in rollercoaster Game 8 of World Championship"
       },
       {
          "description" : "Besides the World Chess Championship, some other important chess tournaments are currently going on. The US Chess Masters in Charlotte was crucial for Fabiano Caruana, to qualify for the candidates in 2026! He started with 5 out of 5, until he faced Nikolas Theodorou! The Greek GM also had 5 points, and got a nice king-side attack against Caruana in the English opening. Robert Ris has the full analysis of this fascinating game!",
@@ -200,14 +240,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-world-youth-championships-pt-2",
          "pubDate" : "Wed, 04 Dec 2024 00:00:00",
          "title" : "Wednesday Workout: World Youth Championships, Pt. 2"
-      },
-      {
-         "description" : "Catch all the updates from Game 8 of the FIDE World Chess Championship 2024 between D Gukesh and Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
-         "pubDate" : "Tue, 3 Dec 2024 22:36:04",
-         "title" : "LIVE: D Gukesh vs Ding Liren, game 8 of the chess World Championship"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -1130,14 +1162,6 @@ news_feed (
          "title" : "Who will be world king of chess: Ding or Gukesh?"
       },
       {
-         "description" : "Meet most important person in D Gukesh's life other than his parents, his second Grzegorz Gajewski.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42560071/how-vishy-anand-created-d-gukesh-grzegorz-gajewski-team-shaken-chess-world?device=featurephone",
-         "pubDate" : "Sat, 23 Nov 2024 08:38:43",
-         "title" : "'Love at first sight' - How Anand created the Gukesh-Gajewski team that's shaken the chess world"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1168,14 +1192,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/nov/22/champion-ding-and-challenger-gukesh-prepare-for-world-title-battle",
          "pubDate" : "Fri, 22 Nov 2024 08:00:08",
          "title" : "Champion Ding and challenger Gukesh prepare for world title battle"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115546135.cms\" />Indian chess prodigy D Gukesh is set to challenge reigning champion Ding Liren for the World Championship title. The 14-game match begins in Singapore on Monday. Gukesh, currently ranked world No. 5, enters the match as the favorite against Ding, ranked No. 23. Gukesh's recent form and aggressive playing style are expected to test Ding.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-can-experienced-ding-liren-surprise-d-gukesh/articleshow/115546135.cms",
-         "pubDate" : "Fri, 22 Nov 2024 01:01:32",
-         "title" : "World Chess C'ship: Can experienced Ding Liren surprise D Gukesh?"
       },
       {
          "description" : "",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://www.thearticle.com/prodigies-ethan-anish-and-bodhana/",
          "pubDate" : "Sat, 16 Nov 2024 11:25:03",
          "title" : "Prodigies: Ethan, Anish and Bodhana"
-      },
-      {
-         "description" : "GM Aleksandar Indjic (SRB, 2623) expanded his lead in the European Individual Chess Championship 2024 after defeating the top seeded GM Vladimir Fedoseev (SLO, 2712). Playing with black pieces, Aleksandar Indjic reached an equal position straight after the opening. He improved it to gain a slight advantage and started repeating the moves. However, Fedoseev refused a three-fold repetition, and entered a worse position which Indjic used to create a beautiful mating motive on Fedoseev's weakened kingside. Taking a win today, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/gm-aleksandar-indjic-expands-his-lead-in-the-european-individual-chess-championship-2024/",
-         "pubDate" : "Fri, 15 Nov 2024 20:54:53",
-         "title" : "GM Aleksandar Indjic expands his lead in the European Individual Chess Championship 2024"
       },
       {
          "description" : "",
