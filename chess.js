@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> WGM Tatev Abrahamyan speaks with Sabina Foisor following her Round 6 win in Saint Louis Masters 2024. <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/abrahamyan-its-very-difficult-tournament-ive-played-so-many-grandmasters-d3-stlmasters",
+         "pubDate" : "Fri, 06 Dec 2024 19:23:30",
+         "title" : "Abrahamyan: It's a Very Difficult Tournament, I've Played So Many Grandmasters | D3 #STLMasters"
+      },
+      {
          "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live and with commentary by Peter Svidler and Lawrence Trent, starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "FIDE has published the list of participants in the Rapid and Blitz World Championships"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Grigoriy Oparin speaks with Sabina Foisor about his Round 5 win at Saint Louis Masters 2024 and the tournament so far. 2024.12.05<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapp",
+         "description" : "<div class=\"body text-secondary\"> GM Grigoriy Oparin speaks with WGM Sabina Foisor about his Round 5 win at Saint Louis Masters 2024 and the tournament so far. 2024.12.05<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-w",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/oparin-tournament-started-very-badly-me-then-i-recovered-d3-stlmasters",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "Average Rating of Similar 2024 Swiss Tournaments | D2 #STLMasters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Mark Heimann discusses his Round 5 draw against Hakobyan at the Saint Louis Masters 2024 with Sabina Foisor. 2024.12.05<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "description" : "<div class=\"body text-secondary\"> IM Mark Heimann discusses his Round 5 draw against GM Hakobyan at the Saint Louis Masters 2024 with WGM Sabina Foisor. 2024.12.05<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/heimann-i-just-need-one-more-norm-d3-stlmasters",
@@ -114,20 +122,20 @@ news_feed (
          "title" : "Meet The Faces in the Crowd | #STLMasters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Abhimanyu Mishra talks to Sabina Foisor before the Saint Louis Masters 2024 tournament. This aired during Day 2. 2024.12.02<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra-fixing-my-problem-areas-expanding-my-openings-stlmasters",
-         "pubDate" : "Fri, 06 Dec 2024 01:23:04",
-         "title" : "Mishra: Fixing My Problem Areas, Expanding My Openings | #STLMasters"
-      },
-      {
          "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Saturday, December 7, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Friday, December...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-10",
          "pubDate" : "Fri, 06 Dec 2024 00:00:00",
          "title" : "How To Watch FIDE World Championship 2024 Game 10"
+      },
+      {
+         "description" : "Caruana Wins Massive U.S. Masters, Six Norms Earned in CharlotteSpending Thanksgiving weekend in Charlotte, North Carolina has become something of a tradition for amateur, expert, and professional chess players alike.As the rare event open exclusively to players rated 2200+ US Chess (or 2000+ for juniors, or FIDE equivalents), the U.S. Masters has become a fixture of the Charlotte chess calendar thanks to the organizational and promotional prowess of the Charlotte Chess Center (CCC). By running the event concurrently with the NC Open, hundreds of additional chess-nuts get to be a part of the celebration. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/titled-thanksgiving-caruana-comes-clutch-charlotte",
+         "pubDate" : "Fri, 06 Dec 2024 00:00:00",
+         "title" : "Titled Thanksgiving: Caruana Comes Up Clutch in Charlotte"
       },
       {
          "description" : "If chess becomes boring for Magnus Carlsen, what chance do the rest of us have?",
@@ -954,14 +962,6 @@ news_feed (
          "title" : "Final Report :FIDE Arbiters' Seminar in Ranchi from 15-17 November 2024"
       },
       {
-         "description" : "Entering the first rest day in Singapore, GMs Ding Liren and Gukesh D are tied in the 2024 FIDE World Chess Championship at 1&frac12; - 1&frac12;. Far from the slow start that some expected (and even further from the one-sided match between the rising Gukesh and trailing Ding that many others predicted), both players have shown ample fighting spirit and each already has a win to their name.For comparison, there were only two decisive games total out of each of the 12-game match 2012 match between GMs Vladimir Kramnik and Vishwanathan Anand and the 12-game 2016 match between GMs Magnus Carlsen and Sergey Karjakin. Plus, the 2018 match between Carlsen and GM Fabiano Caruana saw zero decisive g",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wcc-games-1-3-ding-defies-expectations-gukesh-bounces-back",
-         "pubDate" : "Wed, 27 Nov 2024 00:00:00",
-         "title" : "WCC Games 1-3: Ding Defies Expectations, Gukesh Bounces Back"
-      },
-      {
          "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 2 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://www.thearticle.com/prodigies-ethan-anish-and-bodhana/",
          "pubDate" : "Sat, 16 Nov 2024 11:25:03",
          "title" : "Prodigies: Ethan, Anish and Bodhana"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3306",
-         "pubDate" : "Fri, 15 Nov 2024 17:55:34",
-         "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
       }
    ]
 }
