@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live and with commentary by Peter Svidler and Lawrence Trent, starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
+         "pubDate" : "Fri, 06 Dec 2024 16:45:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "In the latest episode of their show \"Two Knights Talk\" show Arne K&auml;hler and Johannes Fischer - how could it be otherwise - talk about the World Championship match between challenger Gukesh D and defending champion Ding Liren in Singapore. The two \"knights\" reveal how and why they enjoy the match, talk about nervousness during a chess match and what can be done about it, and speculate on the winner of the match. They also invite viewers to identify the players and circumstances of one of the most famous positions in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-the-pleasures-of-following-the-world-championship",
+         "pubDate" : "Fri, 06 Dec 2024 15:50:36",
+         "title" : "Two Knights Talk: The pleasures of following the World Championship"
+      },
+      {
          "description" : " World champion and 18-year-old challenger are deadlocked at 4.5-4.5 in their best-of-14 series which finishes next week China's world champion, Ding Liren, and his Indian opponent, Gukesh Dommaraju, at 18 the youngest ever title challenger, are deadlocked at 4.5-4.5 after nine of their scheduled best of 14 games in Singapore. Game 10 starts at 9am GMT on Saturday. If they are still level after their 14th and final classical game next Thursday, half-hour rapid and, if needed, three-minute blitz tie-breakers will decide the winner next Friday. <a href=\"https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax\">Continue reading...",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -162,19 +178,11 @@ news_feed (
          "title" : "Final Report of SNA Seminar and Examination at Dimapur, Nagaland from 28 to 29 November 2024 ."
       },
       {
-         "description" : "Game 9 of the World Chess Championship in Singapore brought a more measured yet strategic encounter, ending in a draw after 54 moves. Playing with the white pieces, Gukesh D applied early pressure in a Catalan Opening, but Ding Liren's precise defence kept the balance. Gukesh, who described the game as \"very precise from both sides\", managed to build a lead on the clock but could not capitalise in the critical moments. With the score tied and only five games left, the match resumes on Saturday. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g9",
-         "pubDate" : "Thu, 05 Dec 2024 16:20:00",
-         "title" : "World Championship Game 9: A \"very precise\" draw"
-      },
-      {
          "description" : "Have you ever been on a streak? If you win more than 10 games in a row do you sense the statistics police peering into your game history? Has an opponent called your brilliant move a little too brilliant? GM Hikaru Nakamura is proud to announce...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2024-tournament-of-accused",
-         "pubDate" : "Thu, 05 Dec 2024 14:43:56",
+         "pubDate" : "Thu, 05 Dec 2024 14:43:00",
          "title" : "Announcing Kick's Tournament Of The Accused With GMHikaru"
       },
       {
@@ -248,22 +256,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/going-national-previewing-k-12-grade-championships",
          "pubDate" : "Thu, 05 Dec 2024 00:00:00",
          "title" : "Going National: Previewing the K-12 Grade Championships"
-      },
-      {
-         "description" : "The error report in ChessBase is a powerful analysis tool that evaluates a player's calculation accuracy based on their performance in games. By analyzing mistakes in various situations-such as complex positions, moments of attack, or defense-the tool not only identifies error patterns but also estimates the player's Elo rating. The analysis considers factors like position complexity, game phase, and the impact of mistakes to create a detailed profile of the player's strengths and weaknesses. This makes the error report an invaluable resource for both preparing against opponents and assessing personal performance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-error-report-what-is-your-blunder-elo",
-         "pubDate" : "Wed, 04 Dec 2024 22:00:00",
-         "title" : "ChessBase 18 error report - What is your Blunder Elo?"
-      },
-      {
-         "description" : "The World Chess Championship in Singapore continues to thrill fans as game 8 delivered yet another dramatic encounter. Both Ding Liren and Gukesh D missed opportunities to secure a crucial win, with the game ultimately ending in a hard-fought 51-move draw. Gukesh introduced a prepared novelty, gaining an early advantage, but Ding's resourcefulness turned the tables. Despite a tense battle featuring bold strategies and critical time pressure, neither contender could break the deadlock. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g8",
-         "pubDate" : "Wed, 04 Dec 2024 20:10:00",
-         "title" : "World Championship Game 8: More missed chances in dramatic draw"
       },
       {
          "description" : " The FIDE World Chess Championship match between defending champion Ding Liren and Gukesh D is tied at 4-4 after 8 games. Neither player seemed particularly disappointed as they drew a very difficult game where the engines showed that both players had a winning positions at different moments. Ding is jumping around from opening to opening so that he is a moving target, a strategy of opening surprises which in itself is not a surprise. Today Gukesh thanked his seconds as he got in a novelty first with 7...f6 after Ding chose the English. What happened is that the game took on a fairly unique direction, Ding had a Rook exposed in the middle of board, there was a very unusual pawn structure. Al",
@@ -434,7 +426,7 @@ news_feed (
          "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, Financial Elite"
       },
       {
-         "description" : "GamesIn this issue of Check is in the Mail all of the games are miniatures. Miniatures, as you may know, are games that end in 25 moves or less. Unless otherwise noted, all games have gone thru a ChessBase Tactical Analysis using the Fritz 19 chess engine, at which time annotations and variations are added. Game 1This game was played by Wayne Lambert and John Baily using the Catalan Bogo-Indian (3. g3 Bb4+). From the Golden Knights Section 24N08 tournament, John forced a resignation in 21 moves. Game 2This game was played by David Will and Jon S. Leisner using the Sicilian Najdorf: Unusual White 6th moves, 6. Be3 Ng4 and 6. Be3 e5. From the USCF/WS/24W12 tournament, Jon forced a resignation ",
+         "description" : "In this issue of Check is in the Mail all of the games are miniatures. Miniatures, as you may know, are games that end in 25 moves or less. Unless otherwise noted, all games have gone thru a ChessBase Tactical Analysis using the Fritz 19 chess engine, at which time annotations and variations are added.GamesGame 1This game was played by Wayne Lambert and John Baily using the Catalan Bogo-Indian (3. g3 Bb4+). From the Golden Knights Section 24N08 tournament, John forced a resignation in 21 moves. Game 2This game was played by David Will and Jon S. Leisner using the Sicilian Najdorf: Unusual White 6th moves, 6. Be3 Ng4 and 6. Be3 e5. From the USCF/WS/24W12 tournament, Jon forced a resignation i",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/check-mail-december-all-miniatures",
@@ -1330,6 +1322,14 @@ news_feed (
          "title" : "4th FIDE Council meeting list of decisions published"
       },
       {
+         "description" : "First Donald Trump beat Kamala Harris in <A HREF=\"https://chessforallages.blogspot.com/2024/11/election-special-2024.html\">Election Special 2024</A> (November 2024), then Elon Musk beat a troll in <A HREF=\"https://chessforallages.blogspot.com/2024/11/elon-musk-goes-trolling.html\">Elon Musk Goes Trolling</A> (ditto). The two billionaires are slated to square off in a high stakes contest for the <I>Championship of the One-Percenters</I>. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok18.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Donald Trump and Elon Musk play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> If the match is tied after two games, the winne",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/kings-of-news-cycle.html",
+         "pubDate" : "Mon, 18 Nov 2024 16:05:00",
+         "title" : "Kings of the News Cycle"
+      },
+      {
          "description" : "The ECU E-Magazine October 2024 is out! In this edition of the ECU E-Magazine you may read about: The October 2024 edition of the ECU Magazine can be read online with interactive links or can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1416,22 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3306",
          "pubDate" : "Fri, 15 Nov 2024 17:55:34",
          "title" : "World Cadet Championship 2024 begins in Montesilvano, Italy"
-      },
-      {
-         "description" : " Juniors make up nearly half the field, including a nine-year-old top seed, while in Kolkata Magnus Carlsen surged to victory in the Tata Steel Rapid Finals of the annual UK Blitz Championships take place in Leamington Spa on Saturday (noon start), when the open and women's titles will be decided by two 16-player all-play-all competitions and 15 rounds of speed chess. The 32 finalists are survivors from an original entry of more than 500, who competed at eight regional qualifying competitions across the UK. Four grandmasters are in the field: Eldar Gasanov of Ukraine, the 2472-rated defending champion; Danny Gormally, the 2490-rated top seed; the veteran Peter Wells, and England's youngest G",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/nov/15/uk-blitz-chess-final-pits-grandmasters-against-golden-generation",
-         "pubDate" : "Fri, 15 Nov 2024 14:10:10",
-         "title" : "UK Blitz chess final pits grandmasters against a golden generation"
-      },
-      {
-         "description" : "49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship 2024 jointly organised by Ananthi Chess Academy and Viyugam Chess Academy on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/im-ilamparthi-a-r-and-wcm-prishita-gupta-champions-of-49th-national-sub-junior-open-and-40th-national-sub-junior-girls-chess-championship-2024/",
-         "pubDate" : "Fri, 15 Nov 2024 13:42:24",
-         "title" : "IM Ilamparthi A R and WCM Prishita Gupta , Champions of 49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship-2024"
       }
    ]
 }
