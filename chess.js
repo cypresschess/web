@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Grigoriy Oparin speaks with Sabina Foisor about his Round 5 win at Saint Louis Masters 2024 and the tournament so far. 2024.12.05<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/oparin-tournament-started-very-badly-me-then-i-recovered-d3-stlmasters",
+         "pubDate" : "Fri, 06 Dec 2024 04:23:08",
+         "title" : "Oparin: The Tournament Started Very Badly For Me... But Then I Recovered | D3 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grigoriy Oparin talks to Sabina Foisor after a draw against Isik Can in Round 6 of the first Saint Louis Masters tournament. Technical issues ended the interview early. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oparin-analyzes-win-over-stremavicius-quick-draw-d3-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sAFDIiBwKXs.jpg?itok=Z9V9Kcxa\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/oparin-analyzes-win-over-stremavicius-quick-draw-d3-stlmasters",
+         "pubDate" : "Fri, 06 Dec 2024 04:23:08",
+         "title" : "Oparin Analyzes Win Over Stremavicius & Quick Draw | D3 #STLMasters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila talks to Sabina Foisor before the Saint Louis Masters 2024 tournament. This aired during Day 3. 2024.12.02<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chirila-trying-prove-i-can-still-move-pieces-stlmasters",
+         "pubDate" : "Fri, 06 Dec 2024 04:23:08",
+         "title" : "Chirila: Trying to Prove I Can Still Move the Pieces | #STLMasters"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alexander Donchenko discusses his Round 5 win over Nyzhnyk at the Saint Louis Masters 2024 with Sabina Foisor. 2024.12.05<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,28 +82,28 @@ news_feed (
          "title" : "Mishra: Fixing My Problem Areas, Expanding My Openings | #STLMasters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Zhao Jianchao talks to Sabina Foisor after defeating Woodward in Round 4 of the first Saint Louis Masters tournament. 2024.12.04<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zhou-jianchao-strong-standing-among-strong-players-d2-stlmasters",
-         "pubDate" : "Fri, 06 Dec 2024 01:23:04",
-         "title" : "Zhou Jianchao: Strong Standing Among Strong Players | D2 #STLMasters"
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Saturday, December 7, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Friday, December...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-10",
+         "pubDate" : "Fri, 06 Dec 2024 00:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 10"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Sabina Foisor after defeating Shankland in Round 4 of the first Saint Louis Masters tournament. 2024.12.04<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-takes-down-shankland-top-showdown-d2-stlmasters",
-         "pubDate" : "Fri, 06 Dec 2024 01:23:04",
-         "title" : "Caruana Takes Down Shankland in Top Showdown | D2 #STLMasters"
+         "description" : "If chess becomes boring for Magnus Carlsen, what chance do the rest of us have?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42804902/bored-games-six-straight-draws-chess-world-championship-tweak-format-gukesh-ding-fide-2024?device=featurephone",
+         "pubDate" : "Thu, 5 Dec 2024 22:21:23",
+         "title" : "Bored games: After six straight draws, time for chess world championship to tweak the format"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Cristian Chirila talks to Sabina Foisor after defeating Tani Adewumi in Round 4 of the first Saint Louis Masters tournament. 2024.12.04<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chirila-sets-example-role-model-yasser-d2-stlmasters",
-         "pubDate" : "Fri, 06 Dec 2024 01:23:04",
-         "title" : "Chirila Sets Example as Role Model for Yasser! | D2 #STLMasters"
+         "description" : "Hastened by the worldwide pandemic-enforced lockdowns and hit show The Queen's Gambit, chess is online all the time now. Before all of that happened, though, Eric Rosen was there.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42791458/eric-rosen-og-streamer-world-chess-championship-chance-play-very-best?device=featurephone",
+         "pubDate" : "Thu, 5 Dec 2024 21:50:31",
+         "title" : "Eric Rosen, the OG chess streamer, now has a chance to play the very best"
       },
       {
          "description" : " The FIDE World Chess Championship match in Singapore between Ding Liren and Gukesh D heads to its third rest day on Friday with the players tied at 4.5-4.5. After the rollercoaster ride that was game 8 today was a Catalan, an opening that's generally well understood by the leading players these days. 10.Bc3 from Gukesh was a little wrinkle which had been played a few times at the top level. 13.b4 looked aggressive and it provoked complications, black seemed to have a few ideas to equalise, and Ding seemed to have seen a couple of them, as it was 20.Qb5 was a tiny bit inaccurate and after the sequence 20...Rxa2 21.Nxb6 Qa7 22.Qb1 Rb8 Ding had solved all his problems and the rest of the game ",
@@ -90,19 +114,19 @@ news_feed (
          "title" : "Gukesh and Ding draw a well played Catalan in World Championship Game 9 - 9"
       },
       {
-         "description" : "On December 15, elections will be held within the Greek Chess Federation to elect its new Presidential Board. From 1982 to 2021, the President of the Federation was Mr. Giorgos Makropoulos (IM), who, for many years, held the position of Deputy President of FIDE. Precisely for this reason, since the legislation in Greece prohibits presidential terms for more than 12 years, he was succeeded by Mr. Stathis Efstathopoulos - from 2021 to the present - without, however, moving outside the shadow of his predecessor. Mr. Christos Pilalis (pictured), IA, FI, IO, candidate for President of the Federation, aspires to assume the responsibility of its administration, claiming that Mr. Makropoulos and his",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elections-in-the-greek-chess-federation",
+         "description" : "GM Gukesh Dommaraju slipped in a promising position in game nine to allow World Champion Ding Liren to liquidate to a draw and leave the 2024 FIDE World Championship tied at 4.5-4.5 with just five games to go. The players now have a rest day on Fr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-9",
          "pubDate" : "Thu, 05 Dec 2024 18:00:00",
-         "title" : "Elections in the Greek Chess Federation"
+         "title" : "Deadlock Continues As Gukesh Fails To Press Ding In Game 9"
       },
       {
          "description" : "GM Lars Oskar Hauge won Qualifier 7 and GM Andrew Tang won Qualifier 8 to fill the last two spots available in the 2024 Crazyhouse Championship Knockout Final. They join the other six players who will participate in the double-elimination Knockout...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-7-8",
-         "pubDate" : "Thu, 05 Dec 2024 17:10:31",
+         "pubDate" : "Thu, 05 Dec 2024 17:10:00",
          "title" : "GMs Hauge, Tang Claim Final 2 Spots In Crazyhouse Championship"
       },
       {
@@ -162,14 +186,6 @@ news_feed (
          "title" : "State of play: Draws, missed chances and what it means for Gukesh after WC game 9"
       },
       {
-         "description" : "GM Gukesh Dommaraju slipped in a promising position in game nine to allow World Champion Ding Liren to liquidate to a draw and leave the 2024 FIDE World Championship tied at 4.5-4.5 with just five games to go. The players now have a rest day on Fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-9",
-         "pubDate" : "Thu, 05 Dec 2024 09:30:00",
-         "title" : "Deadlock Continues As Gukesh Fails To Press Ding In Game 9"
-      },
-      {
          "description" : "The European Rapid &#38; Blitz Chess Championships start in Skopje, North Macedonia, and will take place from 6-11 December at ****Hotel Continental. European Rapid Chess Championship 2024 will be the first event on the schedule, taking place on 7-8 December. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2024 will be played on 9th of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -192,6 +208,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42785113/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-9?device=featurephone",
          "pubDate" : "Thu, 5 Dec 2024 08:44:06",
          "title" : "Unerring Gukesh and Ding grind out another draw in game 9 of World Championship"
+      },
+      {
+         "description" : "No. Name 1 JOTISH JOY 2 SUSHANT TIWARI 3 TAMANNA VERMA 4 SHUBHAM SHUKLA 5 CHIRAG ARORA 6 VIVEK MEHTO 7 ARJUN VEER SINGH 8",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-senior-national-arbiter-at-karnal-haryana-from-23-to-24-november-2024/",
+         "pubDate" : "Thu, 05 Dec 2024 06:23:37",
+         "title" : "Certificate of Senior National Arbiter at Karnal ,Haryana from 23 to 24 November 2024"
       },
       {
          "description" : "The 2024 FIDE World Chess Championship remains knotted up at 4&frac12;-4&frac12; after nine rounds of the 14-game match. After trading victories in the first and third games, GMs Ding Liren and Gukesh Dommaraju have now played six consecutive draws. While Ding had some chances in games five and six, Gukesh had some serious chances during this block of games. Below are all three games, with annotations by IM Robert Shlyakhtenko. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The four phases of salvaging a draw in a worse position (Photos",
@@ -1024,30 +1048,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-2",
          "pubDate" : "Mon, 25 Nov 2024 14:00:00",
          "title" : "Ding Leads Gukesh 1.5-0.5 After Tense 23-Move Draw In Game 2"
-      },
-      {
-         "description" : "Ding's middle-game was absolutely incredible, as move-by-move, he tilted the scales in his favour.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42603684/chess-world-championship-ding-liren-champion-craft-gukesh-answers-game-1?device=featurephone",
-         "pubDate" : "Mon, 25 Nov 2024 12:29:38",
-         "title" : "Ding's champion craft leaves Gukesh without answers in game 1 of World Championship"
-      },
-      {
-         "description" : "Ding Liren played a patient game to take the win in game 1. He leads the 14-game match 1-0",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42588014/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-1?device=featurephone",
-         "pubDate" : "Mon, 25 Nov 2024 08:46:06",
-         "title" : "Ding Liren beats Gukesh with commanding display in game 1 of World Championship"
-      },
-      {
-         "description" : "World Champion Ding Liren&#39;s first classical win in 304 days has given him the early lead in the 2024 FIDE World Championship in Singapore. Pre-event favorite GM Gukesh Dommaraju looked in command as Ding played the French Defense and burned up 27 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-1",
-         "pubDate" : "Mon, 25 Nov 2024 08:35:00",
-         "title" : "Ding Stuns Gukesh To Win Game 1 Of 2024 World Championship"
       },
       {
          "description" : "",
