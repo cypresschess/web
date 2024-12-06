@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " World champion and 18-year-old challenger are deadlocked at 4.5-4.5 in their best-of-14 series which finishes next week China's world champion, Ding Liren, and his Indian opponent, Gukesh Dommaraju, at 18 the youngest ever title challenger, are deadlocked at 4.5-4.5 after nine of their scheduled best of 14 games in Singapore. Game 10 starts at 9am GMT on Saturday. If they are still level after their 14th and final classical game next Thursday, half-hour rapid and, if needed, three-minute blitz tie-breakers will decide the winner next Friday. <a href=\"https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax\">Continue reading...",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax",
+         "pubDate" : "Fri, 06 Dec 2024 12:00:54",
+         "title" : "Ding and Gukesh miss wins as World Chess Championship nears climax"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116042891.cms\" />The World Chess Championship between D Gukesh and Ding Liren is now a 50-50 contest, according to Magnus Carlsen. Tied at 4.5-4.5 after nine games, the players have five classical games remaining to decide the champion. Gukesh's missed opportunities in recent games have allowed Liren to stay competitive. Tie-breakers, favoring Liren, loom if the deadlock persists.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-is-not-a-favourite-against-ding-liren-anymore-magnus-carlsen-gives-world-chess-championship-verdict/articleshow/116042891.cms",
+         "pubDate" : "Fri, 06 Dec 2024 10:41:08",
+         "title" : "'Gukesh not a favourite against Ding anymore': Carlsen"
+      },
+      {
+         "description" : "FIDE has published the participants in the Rapid and Blitz World Championships. 300 players will take part. Magnus Carlsen and Ju Wenjun top the seeding lists which are full of world class players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-has-published-the-list-of-participants-in-the-rapid-and-blitz-world-championships",
+         "pubDate" : "Fri, 06 Dec 2024 09:55:39",
+         "title" : "FIDE has published the list of participants in the Rapid and Blitz World Championships"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Grigoriy Oparin speaks with Sabina Foisor about his Round 5 win at Saint Louis Masters 2024 and the tournament so far. 2024.12.05<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapp",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-7-8",
          "pubDate" : "Thu, 05 Dec 2024 17:10:00",
          "title" : "GMs Hauge, Tang Claim Final 2 Spots In Crazyhouse Championship"
-      },
-      {
-         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live with computer-assisted analysis starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
-         "pubDate" : "Thu, 05 Dec 2024 16:45:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "On behalf of the All India Chess Federation (AICF) and the AICF Arbiters' Commission, the Nagaland Chess Association, North East Indian Chess Association, and AICF",
@@ -1170,14 +1186,6 @@ news_feed (
          "title" : "D Gukesh vs Ding Liren: Deception, play-acting, et al - The other side of the chequered game"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115559627.cms\" />India's chess prodigy D Gukesh, 18, is set to challenge reigning champion Ding Liren of China for the World Chess Championship title in Singapore. The highly anticipated match, starting November 25th, will see Gukesh aiming to become the second Indian to achieve the prestigious title after Viswanathan Anand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-complete-list-of-winners-as-d-gukesh-takes-on-ding-liren-in-singapore/articleshow/115559627.cms",
-         "pubDate" : "Fri, 22 Nov 2024 08:35:07",
-         "title" : "World Chess C'ship: Complete list of winners as Gukesh takes on Ding"
-      },
-      {
          "description" : "There are tactical motifs which are continuously repeated and can be learned exactly like we learn opening theory. I feel that the correct approach is to collect thematic, nearly identical positions which are involved on similar patterns which you should look for. In this survey I will present an often met tactical motif I call the \"Shirov Killer.\" It was wonderfully demonstrated by legendary GM Alexei Shirov in an Internet blitz game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1424,22 +1432,6 @@ news_feed (
          "link" : "https://aicf.in/im-ilamparthi-a-r-and-wcm-prishita-gupta-champions-of-49th-national-sub-junior-open-and-40th-national-sub-junior-girls-chess-championship-2024/",
          "pubDate" : "Fri, 15 Nov 2024 13:42:24",
          "title" : "IM Ilamparthi A R and WCM Prishita Gupta , Champions of 49th National Sub Junior Open and 40th National Sub Junior Girls Chess Championship-2024"
-      },
-      {
-         "description" : "Chess in Schools and Communities is delighted to announce that two free spectator tickets for this year's XTX Markets London Chess Classic are being offered to every chess club in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/free-spectator-tickets-for-this-years-xtx-markets-london-chess-classic/",
-         "pubDate" : "Fri, 15 Nov 2024 11:23:04",
-         "title" : "Free spectator tickets for this year's XTX Markets London Chess Classic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
-         "pubDate" : "Fri, 15 Nov 2024 11:14:01",
-         "title" : "ECF Level 1 Arbiter Course - January 2025"
       }
    ]
 }
