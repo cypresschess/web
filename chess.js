@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116061830.cms\" />The World Chess Championship between Ding Liren and D Gukesh is level at 4.5 points each after nine games. Gukesh has shown stronger opening preparation, but Ding excels in complex positions. Though Gukesh has been more dominant, he hasn't secured a decisive win, raising concerns as Ding's experience and rapid skills pose a threat if the match goes to tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-d-gukesh-searches-high-and-low-for-one-against-wily-ding/articleshow/116061830.cms",
+         "pubDate" : "Sat, 07 Dec 2024 01:40:01",
+         "title" : "Gukesh searches high and low for one against Wily Ding"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chief Arbiter IA Chris Bird shares some details about the 2024 Saint Louis Masters during Round 7. 2024.12.06<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/arbiter-chris-bird-sometimes-decision-you-cant-please-both-players-d4-stlmasters",
+         "pubDate" : "Sat, 07 Dec 2024 01:23:42",
+         "title" : "Arbiter Chris Bird: Sometimes With a Decision, You Can't Please Both Players | D4 #STLMasters"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Using 15,000 simulations, the team looks at which players have the best chances of winning the Saint Louis Masters 2024 before Round 6. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-round-6-d3-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DZItGBY811k.jpg?itok=qvRyAl3d\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,14 +90,6 @@ news_feed (
          "title" : "Caruana DONE Improving at Chess?! | D3 #STLMasters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-masters-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-masters-2024-day-5-round-9",
-         "pubDate" : "Fri, 06 Dec 2024 22:23:38",
-         "title" : "Saint Louis Masters 2024: Day 5 | Round 9"
-      },
-      {
          "description" : "After the second rest day, three draws followed in the FIDE World Championship 2024, making the match score 4&frac12;-4&frac12;. D. Gukesh missed good chances to prevail in games seven and eight, while game nine was probably the 'quietest' and most 'correct' game of the championship. We are entering the dangerous zone, where every mistake counts double, as there are only six games remaining. The general feeling by now is that D. Gukesh has lost more chances to take the lead than his opponent, and he is fighting more (even sometimes unjustifiably) to take the initiative. My takes. | All photos by Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -110,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/awatramani-wins-2024-crazyhouse-chess-championship",
-         "pubDate" : "Fri, 06 Dec 2024 14:11:03",
+         "pubDate" : "Fri, 06 Dec 2024 14:11:00",
          "title" : "Awatramani Wins 2024 Crazyhouse Championship"
       },
       {
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.thearticle.com/who-will-be-world-king-of-chess-ding-or-gukesh/",
          "pubDate" : "Sat, 23 Nov 2024 11:19:24",
          "title" : "Who will be world king of chess: Ding or Gukesh?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115584143.cms\" />The upcoming World Chess Championship match between China's Ding Liren and India's D Gukesh has sparked intrigue due to Ding's openness about his mental state. While some question if it's a strategy, many believe Ding is genuinely struggling. Gukesh, known for his stoic demeanor, presents a stark contrast, making it difficult to gauge his emotions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-ding-liren-deception-play-acting-et-al-the-other-side-of-the-chequered-game/articleshow/115584143.cms",
-         "pubDate" : "Sat, 23 Nov 2024 01:23:15",
-         "title" : "D Gukesh vs Ding Liren: Deception, play-acting, et al - The other side of the chequered game"
       },
       {
          "description" : "There are tactical motifs which are continuously repeated and can be learned exactly like we learn opening theory. I feel that the correct approach is to collect thematic, nearly identical positions which are involved on similar patterns which you should look for. In this survey I will present an often met tactical motif I call the \"Shirov Killer.\" It was wonderfully demonstrated by legendary GM Alexei Shirov in an Internet blitz game.",
