@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Ding Liren chose the London System against Gukesh in Game 10 of the World Chess Championship. Ding was trying for a very tiny edge and after 10...Nh5 which cost Gukesh a bit of time on the clock it became apparent Ding had no ideas at all to cause trouble. By move 16 it was impossible to imagine anything other than a draw and that happened on move 36. Score Ding 5 Gukesh 5 Game 11 Gukesh-Ding Sunday 8th Dec. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/damp-squib-of-an-opening-from-ding-means-that-world-championship-game-10-was-drawn-quickly",
+         "pubDate" : "Sat, 7 Dec 2024 11:49:00",
+         "title" : "Damp squib of an opening from Ding means that World Championship Game 10 was drawn quickly - 10"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Sabina Foisor after defeating Kacharava in Round 8 of the first Saint Louis Masters tournament. 2024.12.06<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian%E2%80%99s-win-over-kacharava-sets-caruana-showdown-d4-stlmasters",
+         "pubDate" : "Sat, 07 Dec 2024 10:23:42",
+         "title" : "Sevian's Win Over Kacharava Sets Up Caruana Showdown | D4 #STLMasters"
+      },
+      {
+         "description" : "The ninth game of the World Championship match ended in a 54-move draw. The two contenders showed they knew their way around the Catalan Opening, though Ding Liren, playing black, fell behind on the clock at the start of the middlegame. With five games to go, the score remains tied. After the rest day on Friday, Ding has White in game 10, which starts at 17.00 local time (10.00 CET, 4.00 EDT). Follow the game with live commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Sat, 07 Dec 2024 09:45:00",
+         "title" : "World Championship: Game 10 - Live!"
+      },
+      {
+         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
+         "pubDate" : "Sat, 7 Dec 2024 08:44:00",
+         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
+      },
+      {
          "description" : "No Candidate Name 1 Avinash Choori 2 Parvathi M Bhat 3 A Saravana Kumar 4 Dhanyashree P 5 Jaladurgam Venkataramana 6 M S Sumeetkumar 7",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/saric-likes-when-opponents-don%E2%80%99t-have-time-prepare-d4-stlmasters",
          "pubDate" : "Sat, 07 Dec 2024 07:23:42",
          "title" : "Saric Likes When Opponents Don't Have Time to Prepare | D4 #STLMasters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116066687.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-live-updates-d-gukesh-vs-ding-liren-game-10-live-streaming-singapore/liveblog/116066687.cms",
+         "pubDate" : "Sat, 07 Dec 2024 06:09:01",
+         "title" : "World C'ship Game 10 Live: Gukesh, Ding agree to seventh draw"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Chief Arbiter IA Chris Bird shares some details about the 2024 Saint Louis Masters during Round 7. 2024.12.06<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><",
@@ -82,12 +122,12 @@ news_feed (
          "title" : "Arbiter Chris Bird: Sometimes With a Decision, You Can't Please Both Players | D4 #STLMasters"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju continues on Saturday, December 7, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Singapore. Friday, December...",
+         "description" : "World Champion Ding Liren hesitated on move one against GM Gukesh Dommaraju in game 10 of the 2024 FIDE World Championship, but then he repeated 1.d4 and the London System and got a risk-free position with a small edge. He failed to apply any pres...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-10",
          "pubDate" : "Fri, 06 Dec 2024 22:30:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 10"
+         "title" : "7th Draw In A Row Leaves Ding-Gukesh Level With 4 Games To Go"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Using 15,000 simulations, the team looks at which players have the best chances of winning the Saint Louis Masters 2024 before Round 6. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-round-6-d3-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DZItGBY811k.jpg?itok=qvRyAl3d\" alt=\"\" /></a></div>",
@@ -96,14 +136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/who-likely-win-round-6-d3-stlmasters",
          "pubDate" : "Fri, 06 Dec 2024 22:23:38",
          "title" : "Who is Likely to Win Before Round 6? | D3 #STLMasters"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Robby Kevlishvili talks to Sabina Foisor after a draw against Donchenko in Round 6 of the first Saint Louis Masters tournament. 2024.12.05<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kevlishvili-slu%E2%80%99s-masters-program-works-masters-d3-stlmasters",
-         "pubDate" : "Fri, 06 Dec 2024 22:23:38",
-         "title" : "Kevlishvili: SLU's Masters Program Works with This Masters | D3 #STLMasters"
       },
       {
          "description" : "After the second rest day, three draws followed in the FIDE World Championship 2024, making the match score 4&frac12;-4&frac12;. D. Gukesh missed good chances to prevail in games seven and eight, while game nine was probably the 'quietest' and most 'correct' game of the championship. We are entering the dangerous zone, where every mistake counts double, as there are only six games remaining. The general feeling by now is that D. Gukesh has lost more chances to take the lead than his opponent, and he is fighting more (even sometimes unjustifiably) to take the initiative. My takes. | All photos by Maria Emelianova",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "Gukesh Blunders But Ding Lets Him Off Easily In Game 5"
       },
       {
-         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin is Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Spectators are welcome again this year and this was a huge part of the original concept of the event. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
-         "pubDate" : "Fri, 29 Nov 2024 20:40:00",
-         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
          "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1162,14 +1186,6 @@ news_feed (
          "title" : "Who is Ding Liren: China's first FIDE World Chess Champion and D Gukesh's opponent"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115600458.cms\" />India's chess prodigy D. Gukesh is on the verge of making history as he prepares to face reigning champion Ding Liren for the World Chess Championship title. The highly anticipated match, scheduled for November 25 to December 13 in Singapore, could see Gukesh become the youngest-ever World Champion at just 18 years old.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-2024-d-gukesh-vs-ding-liren-all-you-need-to-know/articleshow/115600458.cms",
-         "pubDate" : "Sat, 23 Nov 2024 11:57:29",
-         "title" : "World Chess Championship 2024: D Gukesh vs Ding Liren - All you need to know"
-      },
-      {
          "description" : " The FIDE World Chess Championship takes place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Play is 3 days on, one off and starts at 17:00 local time 09:00GMT. Defending champion is 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April last year. 18 year old Gukesh Dommaraju is his challenger after winning the Candidates tournament earlier in the year. Two shadows overhang the match, World number one Magnus Carlsen gave up the title last year and is still probably (but not definitely) the best classical player and is absolutely the dominant rapid and blitz player now. No one player can be bigger than the game, and life goes on, this period feels similar to that betw",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1408,14 +1424,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/",
          "pubDate" : "Sat, 16 Nov 2024 13:55:21",
          "title" : "Chess activist Ernest Levert still healing after aneurysm"
-      },
-      {
-         "description" : "​In 1964, I won the British under-18 championship , while still eligible for the under-16 section. At the time, this was regarded as remarkable precocity; twelve years later, at the age of 28, I secured the Grandmaster title. Nowadays these feats would have indicated that I was hopelessly retarded as a chess player. Thus, Ethan Pang, a nine []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/prodigies-ethan-anish-and-bodhana/",
-         "pubDate" : "Sat, 16 Nov 2024 11:25:03",
-         "title" : "Prodigies: Ethan, Anish and Bodhana"
       }
    ]
 }
