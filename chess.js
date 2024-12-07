@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Rapid Chess Championship 2024 commenced today in Skopje, North Macedonia. The first round of the event was inaugurated with the ceremonial move played by ECU Vice President Mr. Alojzije Jankovic on the top board game between GM Vladimir Fedoseev and Mitar Djukanovic. The Opening ceremony of the European Rapid and Blitz Chess Championships 2024 took place yesterday evening with the attendance of the ECU Vice President Mr. Alojzije Jankovic who officially declared the event opened. With the presence of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-chess-championship-2024-commenced-in-skopje/",
+         "pubDate" : "Sat, 07 Dec 2024 16:17:50",
+         "title" : "European Rapid Chess Championship 2024 commenced in Skopje"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3340",
+         "pubDate" : "Sat, 07 Dec 2024 15:31:44",
+         "title" : "Argentine Championship 2024: Sandro Mareco claims second title"
+      },
+      {
+         "description" : "World Chess Championship update: after nine games in Singapore, Ding Liren and his challenger Gukesh are tied on 4.5 points each. They have won one game apiece but the last six games have all been hard-fought draws. The tenth game will be played today. With typical anagrammatic humour, Marcel Duchamp - in my opinion the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chips-with-a-pinch-of-salt-duchamp-and-le-lionnais/",
+         "pubDate" : "Sat, 07 Dec 2024 14:55:46",
+         "title" : "Chips with a pinch of salt: Duchamp and Le Lionnais"
+      },
+      {
+         "description" : "Gawain Jones (pictured with his two kids) delivered a brilliant performance at the 2024 London Chess Classic, winning the tournament with an undefeated 5/7 score. The 36-year-old grandmaster topped a strong field, gaining 15 rating points and securing a stellar 2795 Tournament Performance Rating. Jones, who led from start to finish, clinched victory with a final-round win over women's world champion Ju Wenjun. | Photos: London Chess Classic's Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-r7",
+         "pubDate" : "Sat, 07 Dec 2024 14:10:00",
+         "title" : "Gawain Jones shines at London Chess Classic with 2795 TPR"
+      },
+      {
+         "description" : "Many chess improvers are frustrated. If you were fully satisfied with your progress, you wouldn't be here reading this. More than the lack of results, I believe a wrong mindset is the main cause of this frustration. As you'll soon see, even someone winning 200 points a year probably has a mostly negative experience with []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/enjoy-the-process/",
+         "pubDate" : "Sat, 07 Dec 2024 14:00:00",
+         "title" : "The Secret to Loving Chess Even During a Plateau"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3339",
+         "pubDate" : "Sat, 07 Dec 2024 13:33:01",
+         "title" : "FIDE World Championship Game 10: Ding hits a brick wall as match stands at 5-5"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3338",
+         "pubDate" : "Sat, 07 Dec 2024 13:01:01",
+         "title" : "FIDE Council approves extension of FIDE Flag Representation"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116077820.cms\" />The Game 10 of the World Chess Championship ended in a draw. Ding Liren and D Gukesh remain tied at 5 points each. This was the seventh consecutive draw. Four games remain in the championship. Gukesh will play white in the next game. The winner will take home $2.5 million.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-and-ding-liren-remain-tied-after-game-10-ends-in-draw-at-world-chess-championship/articleshow/116077820.cms",
+         "pubDate" : "Sat, 07 Dec 2024 12:41:46",
+         "title" : "World C'ship: Gukesh, Ding remain tied after draw in Game 10"
+      },
+      {
          "description" : " Ding Liren chose the London System against Gukesh in Game 10 of the World Chess Championship. Ding was trying for a very tiny edge and after 10...Nh5 which cost Gukesh a bit of time on the clock it became apparent Ding had no ideas at all to cause trouble. By move 16 it was impossible to imagine anything other than a draw and that happened on move 36. Score Ding 5 Gukesh 5 Game 11 Gukesh-Ding Sunday 8th Dec. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,12 +82,12 @@ news_feed (
          "title" : "Sevian's Win Over Kacharava Sets Up Caruana Showdown | D4 #STLMasters"
       },
       {
-         "description" : "The ninth game of the World Championship match ended in a 54-move draw. The two contenders showed they knew their way around the Catalan Opening, though Ding Liren, playing black, fell behind on the clock at the start of the middlegame. With five games to go, the score remains tied. After the rest day on Friday, Ding has White in game 10, which starts at 17.00 local time (10.00 CET, 4.00 EDT). Follow the game with live commentary.",
+         "description" : "A rather quiet draw - the seventh in a row - was seen in game 10 of the World Championship match in Singapore. Ding Liren played the London System once again, and though Gukesh D hesitated a bit in the early middlegame, there were no real winning chances for the reigning world champion in the ensuing struggle. The score remains tied with four classical games to go. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Sat, 07 Dec 2024 09:45:00",
-         "title" : "World Championship: Game 10 - Live!"
+         "title" : "World Championship: A safe draw"
       },
       {
          "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. ",
@@ -40,6 +104,14 @@ news_feed (
          "link" : "https://aicf.in/certificate-senior-national-arbiter-seminar-exam-in-maddur-karnataka-from-23-24-november-2024/",
          "pubDate" : "Sat, 07 Dec 2024 07:38:05",
          "title" : "Certificate :Senior National Arbiter Seminar & Exam in Maddur Karnataka from 23 -24 November 2024"
+      },
+      {
+         "description" : "Game 10 was the quickest draw of the World Championship, which is now tied at 5 points each after seven consecutive draws.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42819455/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-10?device=featurephone",
+         "pubDate" : "Sat, 7 Dec 2024 07:30:53",
+         "title" : "Gukesh and Ding play out conservative draw in game 10 of WCC"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grigoriy Oparin talks to Sabina Foisor after a draw against Caruana in Round 8 of the first Saint Louis Masters tournament. 2024.12.06<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
@@ -74,14 +146,6 @@ news_feed (
          "title" : "Saric Likes When Opponents Don't Have Time to Prepare | D4 #STLMasters"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116066687.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-live-updates-d-gukesh-vs-ding-liren-game-10-live-streaming-singapore/liveblog/116066687.cms",
-         "pubDate" : "Sat, 07 Dec 2024 06:09:01",
-         "title" : "World C'ship Game 10 Live: Gukesh, Ding agree to seventh draw"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Chief Arbiter IA Chris Bird shares some details about the 2024 Saint Louis Masters during Round 7. 2024.12.06<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -104,6 +168,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/who-likely-win-round-8-d4-stlmasters",
          "pubDate" : "Sat, 07 Dec 2024 04:23:44",
          "title" : "Who is Likely to Win Before Round 8? | D4 #STLMasters"
+      },
+      {
+         "description" : "ESPN India spoke to the Singapore Chess Federation's CEO Kevin Goh on the work that has gone on behind the scenes to allow D Gukesh and Ding Liren to just concentrate on playing their best chess.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42826153/gukesh-vs-ding-story-singapore-pulled-world-chess-championship?device=featurephone",
+         "pubDate" : "Sat, 7 Dec 2024 02:27:59",
+         "title" : "The inside story of how Singapore pulled off the World Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116061830.cms\" />The World Chess Championship between Ding Liren and D Gukesh is level at 4.5 points each after nine games. Gukesh has shown stronger opening preparation, but Ding excels in complex positions. Though Gukesh has been more dominant, he hasn't secured a decisive win, raising concerns as Ding's experience and rapid skills pose a threat if the match goes to tiebreaks.",
@@ -442,6 +514,14 @@ news_feed (
          "title" : "World Championship Game 7: Ding Liren escapes by the skin of his teeth"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3332",
+         "pubDate" : "Tue, 03 Dec 2024 12:57:28",
+         "title" : "Qualification paths for FIDE Women's Candidates Tournament 2026 finalized"
+      },
+      {
          "description" : "Make no mistake, Gukesh's advantage here in game 7 against Ding Liren was significant; but he let it slip",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -520,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-us-masters-caruana-wins",
          "pubDate" : "Mon, 02 Dec 2024 13:59:00",
          "title" : "Caruana Wins 2024 U.S. Masters, Trails Arjun In FIDE Circuit By 1 Point"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3332",
-         "pubDate" : "Mon, 02 Dec 2024 12:57:28",
-         "title" : "Qualification paths for FIDE Women's Candidates Tournament 2026 finalized"
       },
       {
          "description" : "Please find the live links of 15th KIIT International Chess Festival 2024 (Category &#8216;A') https://lichess.org/broadcast/15th-kiit-international-chess-festival-2024/round-1/EYnd1ykS",
@@ -1050,22 +1122,6 @@ news_feed (
          "title" : "World Championship: D Gukesh holds Ding Liren to a draw"
       },
       {
-         "description" : "D Gukesh drew with Ding Liren to get on the scoreboard in game 2 of the chess World Championship",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42621486/chess-world-championship-d-gukesh-ding-liren-never-do-stupid-mark?device=featurephone",
-         "pubDate" : "Tue, 26 Nov 2024 10:08:40",
-         "title" : "'Was never going to do anything stupid': Gukesh off the mark with solid draw in game 2"
-      },
-      {
-         "description" : "The score now reads Ding Liren 1.5 - 0.5 Gukesh",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42609353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-game-2?device=featurephone",
-         "pubDate" : "Tue, 26 Nov 2024 10:01:18",
-         "title" : "Gukesh draws Ding in game 2 to register first score of World Championship"
-      },
-      {
          "description" : "As millions of people eagerly keep an eye on the 2024 FIDE World Championship match between reigning champion GM Ding Liren and 18-year-old Indian challenger GM Gukesh Dommaraju, Chess.com, ChessBase India, Nodwin Gaming, and Samay Raina are thril...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1408,22 +1464,6 @@ news_feed (
          "link" : "https://aicf.in/world-cadet-chess-championship-2024-kicked-off-at-montesilvano-italy/",
          "pubDate" : "Sun, 17 Nov 2024 04:32:48",
          "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
-      },
-      {
-         "description" : "Eight rounds have been played at the European Individual Chess Championship 2024 and there are only three rounds to go before the announcement of the new European Champion. GM Aleksandar Indjic (SRB, 2623) remains in the sole lead of the event after today's draw against the second-seeded player in the event GM Bogdan-Daniel Deac (ROU, 2687). Indjic opted for a very solid opening with whites, and the position quickly transformed into a drawish endgame. Playing on the fourth board, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/indjic-remains-in-the-sole-lead-chigaev-and-cheparinov-get-closer-to-the-top-of-eicc2024/",
-         "pubDate" : "Sat, 16 Nov 2024 20:22:48",
-         "title" : "Indjic remains in the sole lead, Chigaev and Cheparinov get closer to the top of EICC2024"
-      },
-      {
-         "description" : " Back in April, social chess activist Ernest &#8220;Ern&#8221; Levert, Jr. of Columbus, Ohio suffered a brain aneurysm and was put in a medically-induced coma. Once he regained consciousness, his life and those of his family members changed forever. The Columbus community was devastated at the news. Local news covered the story. Video by Columbus NBC The post <a href=\"https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/\">Chess activist Ernest Levert still healing after aneurysm</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/16/ernest-levert-still-healing-from-devastating-aneurysm/",
-         "pubDate" : "Sat, 16 Nov 2024 13:55:21",
-         "title" : "Chess activist Ernest Levert still healing after aneurysm"
       }
    ]
 }
