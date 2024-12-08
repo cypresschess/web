@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-12-07","357","<a href=http://www.uschess.org/msa/XtblMain.php?202412070572 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
+"HOUSTON","2024-12-06","40","<a href=http://www.uschess.org/msa/XtblMain.php?202412069882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-11-30","45","<a href=http://www.uschess.org/msa/XtblMain.php?202411307662 target='_blank'>2024 TEXAS 'QUICK CHESS' STATE CHAM</a>",
 "SPRING","2024-11-29","23","<a href=http://www.uschess.org/msa/XtblMain.php?202411297012 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-11-05  - 11-26","13","<a href=http://www.uschess.org/msa/XtblMain.php?202411266842 target='_blank'>NOVEMBER 2024 TUESDAY NIGHT SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2024-04-20","29","<a href=http://www.uschess.org/msa/XtblMain.php?202404202062 target='_blank'>KINGWOOD BLITZ 20 APR 24</a>",
 "HOUSTON","2024-04-20","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404202042 target='_blank'>APRIL 20 SATURDAY CHESS/ SATURNIGHT</a>",
 "HOUSTON","2024-04-20","59","<a href=http://www.uschess.org/msa/XtblMain.php?202404201522 target='_blank'>RUCC SPRING 2024 USCF TOURNAMENT</a>",
-"HOUSTON","2024-04-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404201332 target='_blank'>CHESSPANDA04202024SATURDAY</a>",
-"CYPRESS","2024-04-19","26","<a href=http://www.uschess.org/msa/XtblMain.php?202404190972 target='_blank'>KNIGHTS OFCYPRESS</a>",
 ]);
