@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sandro Mareco triumphed in the 99th Argentine Championship, held in Buenos Aires from November 26 to December 6. Mareco secured his second national title, finishing with a commanding 8&frac12;/11 after defeating Pablo Ismael Acosta in the final round. Top-seeded Mareco edged out defending champion Fernando Peralta, who claimed second place with 8/11, while Diego Flores finished third. Notably, 11-year-old prodigy Faustino Oro impressed on his debut, scoring 6&frac12;/11 and finishing fourth. | Photos: Argentine Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/argentine-championship-2024-report",
+         "pubDate" : "Sun, 08 Dec 2024 07:00:00",
+         "title" : "Mareco claims second Argentine title, Oro impresses"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2024 Saint Louis Masters Tournament was a premier chess event featuring top international players competing over nine intense rounds. With a prize fund of $100,000, this tournament promised high-stakes action and thrilling games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-masters-retrospective-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6C",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-masters-retrospective-stlmasters",
+         "pubDate" : "Sun, 08 Dec 2024 04:24:00",
+         "title" : "The 2024 Saint Louis Masters: A Retrospective #STLMasters"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-master-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_i",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-hakobyan-hope-not-last-time-such-strong-event-here-stlmasters",
          "pubDate" : "Sun, 08 Dec 2024 01:24:00",
          "title" : "EXCLUSIVE! Hakobyan: Hope This is Not the Last Time for Such a Strong Event Here | #STLMasters"
+      },
+      {
+         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju is level at 5-5 and continues with Game 11 on Sunday, December 8, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-11",
+         "pubDate" : "Sat, 07 Dec 2024 23:00:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 11"
+      },
+      {
+         "description" : "Follow along for live updates and commentary from game 11 of the FIDE World Championship between Gukesh and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42840445/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-11?device=featurephone",
+         "pubDate" : "Sat, 7 Dec 2024 22:30:31",
+         "title" : "LIVE: Gukesh vs Ding in game 11 of World Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-1-saint-louis-masters-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
@@ -74,14 +106,6 @@ news_feed (
          "title" : "Who is Likely to Win Before Final Round? | D5 #STLMasters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Anna Sargsyan talks to Sabina Foisor before the Saint Louis Masters 2024 tournament. This aired during Day 5. 2024.12.02<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL S",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anna-sarsyan-beware-underrated-kids-open-events-stlmasters",
-         "pubDate" : "Sat, 07 Dec 2024 19:23:49",
-         "title" : "Anna Sarsyan: Beware of Underrated Kids at Open Events! | #STLMasters"
-      },
-      {
          "description" : "ChessBase 18 now offers direct access to lichess.org and chess.com. Simply enter your account name, select the type of game and the time period, and ChessBase will promptly deliver your desired game list from the 7 billion lichess games. The donation-funded lichess servers are buffered by a huge cache on ChessBase database servers, so that multiple requests do not create a load there. Chess.com games can also be accessed quickly and easily. This provides you with access to your own games, and of course, it's also useful to know the online games of other players when preparing your own! Chief developer Matthias W&uuml;llenweber shows you how it's done in the video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,14 +162,6 @@ news_feed (
          "title" : "The Secret to Loving Chess Even During a Plateau"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju is level at 5-5 and continues with Game 11 on Sunday, December 8, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-11",
-         "pubDate" : "Sat, 07 Dec 2024 14:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 11"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -176,6 +192,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/damp-squib-of-an-opening-from-ding-means-that-world-championship-game-10-was-drawn-quickly",
          "pubDate" : "Sat, 7 Dec 2024 11:49:00",
          "title" : "Damp squib of an opening from Ding means that World Championship Game 10 was drawn quickly - 10"
+      },
+      {
+         "description" : "The 2024 World Chess Championship is tied at 5 points each, with Ding Liren and D Gukesh playing their seventh consecutive draw in game 10.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42833151/onus-d-gukesh-white-skills-ding-liren-eagerness-draw-game-10-world-chess-championship-2024?device=featurephone",
+         "pubDate" : "Sat, 7 Dec 2024 10:50:26",
+         "title" : "Onus on Gukesh's white skills after Ding's eagerness to draw in game 10 of WCC"
       },
       {
          "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. ",
@@ -1058,22 +1082,6 @@ news_feed (
          "title" : "World Championship: Gukesh logs first win vs Ding Liren"
       },
       {
-         "description" : "Just as the World Championship heads into its first rest day, Gukesh's win is significant, both in its manner and its timing.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42643524/gukesh-feels-great-outplays-ding-liren-grab-first-victory-fide-chess-world-championship-2024?device=featurephone",
-         "pubDate" : "Wed, 27 Nov 2024 11:36:20",
-         "title" : "Gukesh 'feels great', outplays Ding to grab first victory of Chess World Championship"
-      },
-      {
-         "description" : "Ding Liren ran out of time in the 37th move, with Gukesh in advantage for much of the game.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42627880/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-3?device=featurephone",
-         "pubDate" : "Wed, 27 Nov 2024 09:46:53",
-         "title" : "Gukesh draws level in World Championship after impressive win over Ding Liren in game 3"
-      },
-      {
          "description" : "GM Gukesh Dommaraju has scored his first classical win over World Champion Ding Liren to level the scores at 1.5-1.5 going into the first rest day of the 2024 FIDE World Championship. Gukesh posed tough problems in the opening of game three, but j...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1456,14 +1464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
          "pubDate" : "Sun, 17 Nov 2024 09:15:00",
          "title" : "Tata Steel Chess India - Live!"
-      },
-      {
-         "description" : "Round 1 Report of 20 players across 6 categories, Indian Contingent scored 14 wins, 5 draws and faced 1 loss U8 Open 2.Ayaan Phutane started",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cadet-chess-championship-2024-kicked-off-at-montesilvano-italy/",
-         "pubDate" : "Sun, 17 Nov 2024 04:32:48",
-         "title" : "World Cadet Chess Championship 2024 kicked off at Montesilvano, Italy."
       }
    ]
 }
