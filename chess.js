@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana invites us to discover invisible moves! Those moves are extraordinary, and hidden from our chess-pattern-trained eyes. Nonetheless, it is important to always lookout for a creative way to win a piece, save your queen, or even dodge a checkmate. Creativity is a strong factor to finding invisible moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-invisible-moves",
+         "pubDate" : "Sun, 08 Dec 2024 18:00:00",
+         "title" : "Svitlana's Smart Moves - Invisible Moves!"
+      },
+      {
          "description" : " Alpha Phi Alpha Fraternity, Inc. was founded in December 4, 1906 at Cornell University, just celebrating its 118th anniversary. The 290,000-member has always promoted academic excellence and scholarship, and the organization has national programs, including &#8220;Project Alpha&#8221; and &#8220;Go-to-Highschool-Go-to-College.&#8221; It is the first Black intercollegiate fraternity with more than 700 chapters across the world. Tony The post <a href=\"https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/\">Alpha Phi Alpha's Dunlap touts Chess Initiative</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -26,6 +34,22 @@ news_feed (
          "title" : " Gukesh defeats Ding, closes in on world champion title "
       },
       {
+         "description" : " The eleventh game of the FIDE World Chess Championship saw Gukesh strike potentially a fatal blow to Ding's chances in the match. This was completely different to yesterday's game, Gukesh chose the Reti and Ding chose a sharp variation which got him into trouble as he didn't seem to fancy the complications when he got there. Ding thought for about an hour over his fourth and fifth moves and put himself in time trouble right from the start. This was clearly a sign of indecision. Gukesh's 5.a3 was shown to him last night and he actually lost his advantage quite quickly, 9.d3=. Gukesh caught up on the clock with a huge think to find 11.g3 but then after 15.Rd1?! e6 or 15....Qb8 would have left",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-blunders-in-a-game-of-extraordinary-mutual-tension-world-championship-game-11",
+         "pubDate" : "Sun, 8 Dec 2024 11:49:00",
+         "title" : "Ding blunders in a game of extraordinary mutual tension - World Championship Game 11 - 11"
+      },
+      {
+         "description" : "In winning game 11 the way he's done, Gukesh has given the chess world another demonstration of why he's a worthy challenger, and why he'll be a worthy world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42852518/gukesh-shows-maturity-champion-beating-ding-liren-steps-closer-being-crowned-king-world-championship-game-11?device=featurephone",
+         "pubDate" : "Sun, 8 Dec 2024 11:18:05",
+         "title" : "Gukesh shows maturity of a champion in beating Ding; steps closer to being crowned king"
+      },
+      {
          "description" : "Gukesh D has taken the lead at the World Championship match in Singapore after scoring a win with white in game 11. The Indian prodigy saw his opponent, reigning champion Ding Liren, making a one-move blunder in an already difficult position. Ding must recover quickly from this setback, as there are only three classical games remaining in the match for the world title. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/gawain-jones-wins-london-chess-classic-at-the-emirates-as-english-stars-dominate/",
          "pubDate" : "Sun, 08 Dec 2024 08:41:44",
          "title" : "Gawain Jones wins London Chess Classic at the Emirates as English stars dominate"
+      },
+      {
+         "description" : "Gukesh leads 6-5 overall with three games to go, and will become the youngest world champion with three draws.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42840445/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-11?device=featurephone",
+         "pubDate" : "Sun, 8 Dec 2024 08:36:01",
+         "title" : "Gukesh defeats Ding in game 11 to take crucial lead in Chess World Championship"
       },
       {
          "description" : "Sandro Mareco triumphed in the 99th Argentine Championship, held in Buenos Aires from November 26 to December 6. Mareco secured his second national title, finishing with a commanding 8&frac12;/11 after defeating Pablo Ismael Acosta in the final round. Top-seeded Mareco edged out defending champion Fernando Peralta, who claimed second place with 8/11, while Diego Flores finished third. Notably, 11-year-old prodigy Faustino Oro impressed on his debut, scoring 6&frac12;/11 and finishing fourth. | Photos: Argentine Chess Federation",
@@ -82,20 +114,12 @@ news_feed (
          "title" : "K-12 Grades: Pivotal Pairings Set for Championship Sunday"
       },
       {
-         "description" : "Indian 18-year-old GM Gukesh Dommaraju has taken a 6-5 lead with just three games to go after a blunder by World Champion Ding Liren suddenly ended a thrilling game 11 of the 2024 FIDE World Championship. Gukesh&#39;s hyper-aggressive opening looked t...",
+         "description" : "Indian 18-year-old GM Gukesh Dommaraju has taken a 6-5 lead with just three games to go after a blunder by Chinese World Champion Ding Liren (32) suddenly ended the thrilling game 11 of the 2024 FIDE World Championship. Gukesh&#39;s hyperaggressive op...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-11",
          "pubDate" : "Sat, 07 Dec 2024 23:00:00",
-         "title" : "Gukesh Leads World Championship After Ding Blunder Ends Game 11 Thriller"
-      },
-      {
-         "description" : "Follow along for live updates and commentary from game 11 of the FIDE World Championship between Gukesh and Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42840445/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-11?device=featurephone",
-         "pubDate" : "Sat, 7 Dec 2024 22:30:31",
-         "title" : "LIVE: Gukesh vs Ding in game 11 of World Championship"
+         "title" : "Gukesh Leads World Championship After Ding's Blunder Ends Game 11 Thriller"
       },
       {
          "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-1-saint-louis-masters-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
@@ -1064,14 +1088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/underpromotion-milestones-part-three",
          "pubDate" : "Thu, 28 Nov 2024 09:00:00",
          "title" : "Underpromotion Milestones - part 3"
-      },
-      {
-         "description" : "When asked whether he missed playing in a world championship, Carlsen's answer was unambiguous: \"No.\"",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42659836/missing-magnus-carlsen-world-best-player-not-fide-world-championship-chess-worried?device=featurephone",
-         "pubDate" : "Thu, 28 Nov 2024 08:55:14",
-         "title" : "Missing Magnus: The world's best player is not at the world championship, should chess be worried?"
       },
       {
          "description" : " Gukesh won the third game of the World Chess Championship match in Singapore against Ding Liren. This was an important theoretical strike too, I for one will need a line to meet it. In the Exchange Variation of the Queen's Gambit Gukesh chose to allow the line 6.Qc2 g6 which is a key part of many opening repertoires for black these days given that there are fairly clear paths to equality after the regular 7.Bg5. Rather strangely last year there were a small number of high level games starting with a Kramnik rapid game using 7.h3 with the idea of 7...Bf5 8.Qb3 Qb6 9.g4. Given that the main line is regarded is very OK for black it's a surprise this move hasn't been tried more often. The resul",
