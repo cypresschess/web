@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied with only four classical games to go. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : " Alpha Phi Alpha Fraternity, Inc. was founded in December 4, 1906 at Cornell University, just celebrating its 118th anniversary. The 290,000-member has always promoted academic excellence and scholarship, and the organization has national programs, including &#8220;Project Alpha&#8221; and &#8220;Go-to-Highschool-Go-to-College.&#8221; It is the first Black intercollegiate fraternity with more than 700 chapters across the world. Tony The post <a href=\"https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/\">Alpha Phi Alpha's Dunlap touts Chess Initiative</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/",
+         "pubDate" : "Sun, 08 Dec 2024 14:34:18",
+         "title" : "Alpha Phi Alpha's Dunlap touts Chess Initiative"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3341",
+         "pubDate" : "Sun, 08 Dec 2024 14:26:59",
+         "title" : "FIDE World Championship Game 11: Ding collapses under pressure as Gukesh takes the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116108489.cms\" />Indian Grandmaster D Gukesh defeated Ding Liren in the 11th Game of the World Chess Championship, taking a 6-5 lead. This marks Gukesh's first lead in the match, putting him in a strong position to potentially become the youngest world champion. Liren's unconventional opening backfired, and despite a temporary advantage, a critical blunder cost him the game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-defeats-ding-liren-in-game-11-marches-towards-becoming-youngest-world-chess-champion/articleshow/116108489.cms",
+         "pubDate" : "Sun, 08 Dec 2024 13:56:57",
+         "title" : " Gukesh defeats Ding, closes in on world champion title "
+      },
+      {
+         "description" : "Gukesh D has taken the lead at the World Championship match in Singapore after scoring a win with white in game 11. The Indian prodigy saw his opponent, reigning champion Ding Liren, making a one-move blunder in an already difficult position. Ding must recover quickly from this setback, as there are only three classical games remaining in the match for the world title. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Sun, 08 Dec 2024 09:45:00",
-         "title" : "World Championship: Game 11 - Live!"
+         "title" : "World Championship: Gukesh scores"
       },
       {
          "description" : "English chess stars pulled off an unprecedented 1-2-3 in the 2024 XTX Markets London Chess Classic against a world-class field at Arsenal FC's Emirates Stadium as Grandmaster Gawain Jones was...",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/gawain-jones-wins-london-chess-classic-at-the-emirates-as-english-stars-dominate/",
          "pubDate" : "Sun, 08 Dec 2024 08:41:44",
          "title" : "Gawain Jones wins London Chess Classic at the Emirates as English stars dominate"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116101261.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-live-updates-d-gukesh-vs-ding-liren-game-11-live-streaming-singapore/liveblog/116101261.cms",
-         "pubDate" : "Sun, 08 Dec 2024 08:09:07",
-         "title" : "World C'ship Live: Gukesh makes comeback in Game 11"
       },
       {
          "description" : "Sandro Mareco triumphed in the 99th Argentine Championship, held in Buenos Aires from November 26 to December 6. Mareco secured his second national title, finishing with a commanding 8&frac12;/11 after defeating Pablo Ismael Acosta in the final round. Top-seeded Mareco edged out defending champion Fernando Peralta, who claimed second place with 8/11, while Diego Flores finished third. Notably, 11-year-old prodigy Faustino Oro impressed on his debut, scoring 6&frac12;/11 and finishing fourth. | Photos: Argentine Chess Federation",
@@ -58,12 +74,20 @@ news_feed (
          "title" : "EXCLUSIVE! Hakobyan: Hope This is Not the Last Time for Such a Strong Event Here | #STLMasters"
       },
       {
-         "description" : "The 2024 FIDE World Championship between defending World Champion Ding Liren and Challenger Gukesh Dommaraju is level at 5-5 and continues with Game 11 on Sunday, December 8, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time...",
+         "description" : "Editor's note: This article has been updated with photographs from the top boards of each section.The triple-round day is in the books at the 2024 K-12 Grade National Championships in National Harbor, Maryland. With only two rounds to go, we are hours away from crowning our next set of national champions for all 13 grades.Several sections are already out of players with perfect scores, with many more having only one or two remaining. Only the first-grade section has more than three perfect scores remaining. And that's not to mention the team standings, where some sections feature multiple teams tied at the top and several others see only a half-point of separation. <br> <br> <br> <br> Image<",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/k-12-grades-pivotal-pairings-set-championship-sunday",
+         "pubDate" : "Sun, 08 Dec 2024 00:00:00",
+         "title" : "K-12 Grades: Pivotal Pairings Set for Championship Sunday"
+      },
+      {
+         "description" : "Indian 18-year-old GM Gukesh Dommaraju has taken a 6-5 lead with just three games to go after a blunder by World Champion Ding Liren suddenly ended a thrilling game 11 of the 2024 FIDE World Championship. Gukesh&#39;s hyper-aggressive opening looked t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-11",
          "pubDate" : "Sat, 07 Dec 2024 23:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 11"
+         "title" : "Gukesh Leads World Championship After Ding Blunder Ends Game 11 Thriller"
       },
       {
          "description" : "Follow along for live updates and commentary from game 11 of the FIDE World Championship between Gukesh and Ding Liren.",
@@ -712,14 +736,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-scholastic-chess-regulations",
          "pubDate" : "Mon, 02 Dec 2024 00:00:00",
          "title" : "Just the Rules: Scholastic Chess Regulations"
-      },
-      {
-         "description" : "GM Alexander Shabalov won the 32nd FIDE World Senior (50+) Championship with an 8&frac12;/11 score ahead of Polish GM Michal Krasenkow on tiebreaks. The 57-year-old became only the second American to claim the World Senior title, joining GM Larry Kaufman (2008). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy Federacao Portuguesa de Xadrez<br> <br> <br> <br> Held in Porto Santo, Portugal from November 17 through 28, the 11-round Swiss featured 202 players representing 48 different federations across three sections (50+, 65+, and Women's).Shabalov was one of 11 Americans competing, joining his World Senior Team teammate GM Gregory Ka",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/shabalov-wins-2024-fide-world-senior-50-championship",
-         "pubDate" : "Mon, 02 Dec 2024 00:00:00",
-         "title" : "Shabalov Wins 2024 FIDE World Senior (50+) Championship"
       },
       {
          "description" : "",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "https://www.europechess.org/gm-aleksandar-indjic-keeps-the-lead-at-eicc2024-with-only-two-rounds-to-go/",
          "pubDate" : "Mon, 18 Nov 2024 10:26:31",
          "title" : "GM Aleksandar Indjic keeps the lead at EICC2024 with only two rounds to go"
-      },
-      {
-         "description" : "Not even close. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok17.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/wistreize/54093224892/\">Artisanal chess board...</A> &#169; Flickr user <I>wistreize</I> under <A HREF=\"https://creativecommons.org/licenses/by-sa/2.0/\">Creative Commons</A>.<BR> <P> The title of the photo, which was also the description, continued, <BLOCKQUOTE> ...with a fantastic hand, Arcana Festival, Morges, Switzerland 2024. </BLOCKQUOTE> <P> The 'business cards' to the right of the board say, 'Seb's Customs, Artiste Sculpteur'. I found a site at <A HREF=\"https://sebscustoms.jimdofree.com/\">Seb's Customs</A> (sebscustoms.jimdofree.com)",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/not-official-world-championship-set.html",
-         "pubDate" : "Sun, 17 Nov 2024 16:12:00",
-         "title" : "Not the Official World Championship Set"
       }
    ]
 }
