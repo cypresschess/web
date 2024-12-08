@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. The score remains tied with only four classical games to go. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Sun, 08 Dec 2024 09:45:00",
+         "title" : "World Championship: Game 11 - Live!"
+      },
+      {
+         "description" : "English chess stars pulled off an unprecedented 1-2-3 in the 2024 XTX Markets London Chess Classic against a world-class field at Arsenal FC's Emirates Stadium as Grandmaster Gawain Jones was...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/gawain-jones-wins-london-chess-classic-at-the-emirates-as-english-stars-dominate/",
+         "pubDate" : "Sun, 08 Dec 2024 08:41:44",
+         "title" : "Gawain Jones wins London Chess Classic at the Emirates as English stars dominate"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116101261.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-live-updates-d-gukesh-vs-ding-liren-game-11-live-streaming-singapore/liveblog/116101261.cms",
+         "pubDate" : "Sun, 08 Dec 2024 08:09:07",
+         "title" : "World C'ship Live: Gukesh makes comeback in Game 11"
+      },
+      {
          "description" : "Sandro Mareco triumphed in the 99th Argentine Championship, held in Buenos Aires from November 26 to December 6. Mareco secured his second national title, finishing with a commanding 8&frac12;/11 after defeating Pablo Ismael Acosta in the final round. Top-seeded Mareco edged out defending champion Fernando Peralta, who claimed second place with 8/11, while Diego Flores finished third. Notably, 11-year-old prodigy Faustino Oro impressed on his debut, scoring 6&frac12;/11 and finishing fourth. | Photos: Argentine Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1242,14 +1266,6 @@ news_feed (
          "title" : "World Senior Championship 2024 crosses halfway mark"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115600869.cms\" />Ding Liren, a chess prodigy from China, has become the first Chinese Classical World Chess Champion. Starting his journey at the age of four, Ding rapidly rose through the ranks, claiming victory in the Chinese Chess Championship at the young age of 16.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-ding-liren-chinas-first-fide-world-chess-champion-and-d-gukeshs-final-opponent/articleshow/115600869.cms",
-         "pubDate" : "Sat, 23 Nov 2024 12:12:27",
-         "title" : "Who is Ding Liren: China's first FIDE World Chess Champion and D Gukesh's opponent"
-      },
-      {
          "description" : " The FIDE World Chess Championship takes place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Play is 3 days on, one off and starts at 17:00 local time 09:00GMT. Defending champion is 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April last year. 18 year old Gukesh Dommaraju is his challenger after winning the Candidates tournament earlier in the year. Two shadows overhang the match, World number one Magnus Carlsen gave up the title last year and is still probably (but not definitely) the best classical player and is absolutely the dominant rapid and blitz player now. No one player can be bigger than the game, and life goes on, this period feels similar to that betw",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1456,14 +1472,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/not-official-world-championship-set.html",
          "pubDate" : "Sun, 17 Nov 2024 16:12:00",
          "title" : "Not the Official World Championship Set"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place on 13-17 at the Dhono Dhanyo Auditorium in Kolkata. An open tournament and a women's tournament run concurrently. Rapid and blitz take place one after another. The last two days see the players fighting in a double round-robin with a 3+2 time control. | Follow the games live with expert commentary starting at 9.30 CEST (4.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2024-live",
-         "pubDate" : "Sun, 17 Nov 2024 09:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       }
    ]
 }
