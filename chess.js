@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-master-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-master-2024-day-5-round-9",
+         "pubDate" : "Sun, 08 Dec 2024 01:24:00",
+         "title" : "Saint Louis Master 2024: Day 5 | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Aram Hakobyan talks to Sabina Foisor before the Saint Louis Masters 2024 tournament. This did not air during the program. 2024.12.02<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-hakobyan-hope-not-last-time-such-strong-event-here-stlmasters",
+         "pubDate" : "Sun, 08 Dec 2024 01:24:00",
+         "title" : "EXCLUSIVE! Hakobyan: Hope This is Not the Last Time for Such a Strong Event Here | #STLMasters"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-1-saint-louis-masters-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,28 +82,20 @@ news_feed (
          "title" : "Anna Sarsyan: Beware of Underrated Kids at Open Events! | #STLMasters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova speaks with Sabina Foisor after her Round 7 draw against Julian Proleiko at the 2024 Saint Louis Masters Tournament. 2024.12.06<br /> <a href=\"https://uschesschamps.com\">https://uschesschamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-fighting-draw-julian-i-it-d4-stlmasters",
-         "pubDate" : "Sat, 07 Dec 2024 19:23:49",
-         "title" : "Begim: A Fighting Draw with Julian... I Like It | D4 #STLMasters"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After achieving his third Grandmaster norm, International Master Mark Heimann joins Sabina Foisor to be presented his ceremonial certificate by Saint Louis Chess Club Technical Director Tony Rich. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mark-heimann-achieves-3rd-grandmaster-norm-d5-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tTGIpropPqQ.jpg?itok=BRl53iqo\" a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mark-heimann-achieves-3rd-grandmaster-norm-d5-stlmasters",
-         "pubDate" : "Sat, 07 Dec 2024 19:23:49",
-         "title" : "Mark Heimann Achieves 3rd Grandmaster Norm! | D5 #STLMasters"
-      },
-      {
          "description" : "ChessBase 18 now offers direct access to lichess.org and chess.com. Simply enter your account name, select the type of game and the time period, and ChessBase will promptly deliver your desired game list from the 7 billion lichess games. The donation-funded lichess servers are buffered by a huge cache on ChessBase database servers, so that multiple requests do not create a load there. Chess.com games can also be accessed quickly and easily. This provides you with access to your own games, and of course, it's also useful to know the online games of other players when preparing your own! Chief developer Matthias W&uuml;llenweber shows you how it's done in the video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-18-how-to-download-games-from-lichess-org-and-chess-com",
          "pubDate" : "Sat, 07 Dec 2024 18:00:00",
          "title" : "ChessBase 18: How to download games from lichess.org and chess.com"
+      },
+      {
+         "description" : "A spirited performance by GM Hikaru Nakamura in Saturday&#39;s Bullet Brawl saw him return to the throne and collect the $400 first prize after consecutive second-place finishes in November. 72 wins, 28 of which were part of a timely winning streak,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-7-2024",
+         "pubDate" : "Sat, 07 Dec 2024 16:39:00",
+         "title" : "Nakamura Outshines 8 Former Bullet Brawl Winners, Claims 34th Title"
       },
       {
          "description" : "European Rapid Chess Championship 2024 commenced today in Skopje, North Macedonia. The first round of the event was inaugurated with the ceremonial move played by ECU Vice President Mr. Alojzije Jankovic on the top board game between GM Vladimir Fedoseev and Mitar Djukanovic. The Opening ceremony of the European Rapid and Blitz Chess Championships 2024 took place yesterday evening with the attendance of the ECU Vice President Mr. Alojzije Jankovic who officially declared the event opened. With the presence of []",
@@ -186,6 +194,14 @@ news_feed (
          "title" : "Certificate :Senior National Arbiter Seminar & Exam in Maddur Karnataka from 23 -24 November 2024"
       },
       {
+         "description" : "Game 10 was the quickest draw of the World Championship, which is now tied at 5 points each after seven consecutive draws.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42819455/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-10?device=featurephone",
+         "pubDate" : "Sat, 7 Dec 2024 07:30:53",
+         "title" : "Gukesh and Ding play out conservative draw in game 10 of WCC"
+      },
+      {
          "description" : "ESPN India spoke to the Singapore Chess Federation's CEO Kevin Goh on the work that has gone on behind the scenes to allow D Gukesh and Ding Liren to just concentrate on playing their best chess.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-d-gukesh-searches-high-and-low-for-one-against-wily-ding/articleshow/116061830.cms",
          "pubDate" : "Sat, 07 Dec 2024 01:40:01",
          "title" : "Gukesh searches high and low for one against Wily Ding"
-      },
-      {
-         "description" : "Who will take the upper hand in game 10 of the 2024 FIDE World Chess Championship?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42819455/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-10?device=featurephone",
-         "pubDate" : "Sat, 7 Dec 2024 00:04:44",
-         "title" : "LIVE: Gukesh vs Ding Liren in game 10 of 2024 World Championship"
       },
       {
          "description" : "2,700+ in National HarborMost chess players come to realize early on in their playing careers that they might never reach the \"Super-GM\" strength of a 2700 rating. But, in National Harbor, Maryland, all 2,704 chess players - ranging from kindergarteners to high school seniors - are part of a different record-setting 2,700+ club at this year's National K-12 Grade Championships.Held from December 6 through 8, this year's scholastic eclipsed the 2022 attendance record by over 200 participants. Registration for many sections had been full for weeks leading up to the event, making it a hot ticket. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Sarah Ransom",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
          "pubDate" : "Wed, 27 Nov 2024 08:35:00",
          "title" : "Gukesh Beats Ding To Level The Scores After Game 3"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Christopher Yoo were the Titled Tuesday victors on November 26. Carlsen, who won outright on 10 points, got his first Titled Tuesday win of November in the last week of November&#38;mdash;and now has at least one win every month...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-yoo-win-titled-tuesday-november-26-2024",
-         "pubDate" : "Wed, 27 Nov 2024 07:50:20",
-         "title" : "It's Tuesdays With Magzy As Carlsen Returns To Win Column"
       },
       {
          "description" : "From 15th to 17th November 2024, a FIDE Arbiters' Seminar was successfully organized in Ranchi, Jharkhand, by the All India Chess Federation, under the auspices",
