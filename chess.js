@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. With three games to go, Gukesh has a 1-point lead after winning a rollercoaster game on Sunday. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Mon, 09 Dec 2024 09:45:00",
+         "title" : "World Championship: Game 12 - Live!"
+      },
+      {
          "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "World Championship Game 11: Gukesh wins rollercoaster game, seizes the lead"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3342",
+         "pubDate" : "Sun, 08 Dec 2024 20:30:13",
+         "title" : "Italian Championship: Francesco Sonis and Marina Brunello capture titles"
+      },
+      {
          "description" : " Alpha Phi Alpha Fraternity, Inc. was founded in December 4, 1906 at Cornell University, just celebrating its 118th anniversary. The 290,000-member has always promoted academic excellence and scholarship, and the organization has national programs, including &#8220;Project Alpha&#8221; and &#8220;Go-to-Highschool-Go-to-College.&#8221; It is the first Black intercollegiate fraternity with more than 700 chapters across the world. Tony The post <a href=\"https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/\">Alpha Phi Alpha's Dunlap touts Chess Initiative</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-12",
-         "pubDate" : "Sun, 08 Dec 2024 14:30:17",
+         "pubDate" : "Sun, 08 Dec 2024 14:30:00",
          "title" : "How To Watch FIDE World Championship 2024 Game 12"
       },
       {
@@ -1282,6 +1298,14 @@ news_feed (
          "title" : "Who will be world king of chess: Ding or Gukesh?"
       },
       {
+         "description" : "In a recent post, <A HREF=\"https://worldchesschampionship.blogspot.com/2024/11/2024-ding-liren-gukesh-players.html\">2024 Ding Liren - Gukesh, the Players</A> (November 2024), I promised, '[In 2022-23] I featured Ding Liren [so] I'll start a similar series for Gukesh in a few days.' And here we are. <P> That Ding Liren series started with one post on his rise to the World Championship and one post on his early mentions in TWIC. Here I'll combine those two ideas into a single post. The following screen capture shows Gukesh's participation in World Championship qualifying events prior to the current cycle. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok22.gif\" WIDTH=320 HEIGHT",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/gukeshs-debuts-in-wcc-cycle-and-in-twic.html",
+         "pubDate" : "Fri, 22 Nov 2024 16:31:00",
+         "title" : "Gukesh Debuts in a WCC Cycle and in TWIC"
+      },
+      {
          "description" : "There are tactical motifs which are continuously repeated and can be learned exactly like we learn opening theory. I feel that the correct approach is to collect thematic, nearly identical positions which are involved on similar patterns which you should look for. In this survey I will present an often met tactical motif I call the \"Shirov Killer.\" It was wonderfully demonstrated by legendary GM Alexei Shirov in an Internet blitz game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1432,38 +1456,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/kings-of-news-cycle.html",
          "pubDate" : "Mon, 18 Nov 2024 16:05:00",
          "title" : "Kings of the News Cycle"
-      },
-      {
-         "description" : "The ECU E-Magazine October 2024 is out! In this edition of the ECU E-Magazine you may read about: The October 2024 edition of the ECU Magazine can be read online with interactive links or can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-october-2024/",
-         "pubDate" : "Mon, 18 Nov 2024 11:56:39",
-         "title" : "ECU E-Magazine October 2024"
-      },
-      {
-         "description" : "New entries are being sought for an iconic edition of Britain's most prestigious chess event, the 2024 XTX Markets London Chess Classic, starting on November 29 at Arsenal FC's Emirates Stadium. The event's FIDE Masters tournament, which will take place alongside the main tournament, is open to amateur and professional players alike and currently has an impressive line-up of strong masters. Like to join in? Here's your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/33-500-fide-masters-event-at-arsenal",
-         "pubDate" : "Mon, 18 Nov 2024 10:44:01",
-         "title" : "&pound;33,500 FIDE Masters event at Arsenal"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3307",
-         "pubDate" : "Mon, 18 Nov 2024 10:36:52",
-         "title" : "World Senior Championship 2024 starts in Porto Santo, Portugal"
-      },
-      {
-         "description" : "GM Aleksandar Indjic (SRB, 2623) continues with great play at the European Individual Chess Championship 2024 and remains in the sole lead with only two rounds to go! Defeating GM Ivan Cheparinov (BUL, 2632) with black pieces yesterday, Indjic again expanded his lead in the event, to be a full point ahead over the runner ups. Aleksandar Indjic opted for very sharp and dynamical position yesterday and converted it into a winning endgame with an exchange up. Passing the time []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/gm-aleksandar-indjic-keeps-the-lead-at-eicc2024-with-only-two-rounds-to-go/",
-         "pubDate" : "Mon, 18 Nov 2024 10:26:31",
-         "title" : "GM Aleksandar Indjic keeps the lead at EICC2024 with only two rounds to go"
       }
    ]
 }
