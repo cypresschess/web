@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. With three games to go, Gukesh has a 1-point lead after winning a rollercoaster game on Sunday. Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116146476.cms\" />Indian chess grandmaster D Gukesh lost the 12th game of the World Chess Championship to Ding Liren. The match is now tied at six points each. Gukesh expressed disappointment but remains determined. He stated he had several opportunities in the second half. Two games remain in this thrilling championship match. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-many-chances-in-second-half-gukesh-after-losing-game-12-against-ding-liren/articleshow/116146476.cms",
+         "pubDate" : "Mon, 09 Dec 2024 15:56:16",
+         "title" : "'I had many chances in second half': Gukesh after losing Game 12"
+      },
+      {
+         "description" : "How would it be if you knew the Lichess games of your next opponent and could prepare for him with these games? An enticing idea! But to do that, you would have to know your Lichess account! ChessBase 18 now offers exactly this powerful method of preparing against your opponent! ChessBase 18 can derive the possible Lichess account from a Lichess team! You will receive a report on the most likely Lichess accounts that could belong to this player from the relevant team. Chief developer Matthias W&uuml;llenweber shows how it works in the video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-opponent-preparation-with-lichess-games",
+         "pubDate" : "Mon, 09 Dec 2024 15:08:39",
+         "title" : "ChessBase 18: Opponent preparation with Lichess games"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3344",
+         "pubDate" : "Mon, 09 Dec 2024 14:47:50",
+         "title" : "FIDE World Championship Game 12: Ding Liren takes down Gukesh D to tie the match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3343",
+         "pubDate" : "Mon, 09 Dec 2024 14:27:45",
+         "title" : "FIDE World Junior U20 Championship 2025: Registration is open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116143548.cms\" />Indian grandmaster D Gukesh lost the 12th game of the World Chess Championship against Ding Liren, leveling the score at 6-6. Gukesh's earlier win had given him a brief lead, but Liren's victory with white pieces brought the match to a tie. With two games remaining, the championship is likely headed for tiebreakers.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-succumbs-to-ding-liren-in-12th-game-of-world-chess-championship-players-locked-at-6-points/articleshow/116143548.cms",
+         "pubDate" : "Mon, 09 Dec 2024 13:50:43",
+         "title" : "Gukesh succumbs to Liren in 12th game of World Chess C'ship"
+      },
+      {
+         "description" : " Ding Liren won game 12 of the FIDE World Chess Championship in Singapore and immediately leveled the match up after his loss yesterday. Ding had the white pieces and again we had a very sharp flank opening after Gukesh chose 4...d4. There are certainly safer ways to play. What we saw was an unbalanced English where Gukesh made a number of concessions until he was busted by move 23. 13...Rb8?!, 16...Nd7?! and the losing move 22...Bg5? were the key moments. It only slowly dawned on Ding that his position was \"much, much better\" after 23.Nf4, when Gukesh felt it necessary to play 23...Bxf4, losing all the dark squares on the board, the game was as good as over, and Ding didn't make any mistake",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-scores-a-crushing-win-against-gukesh-to-level-the-world-championship-match-at-6-6",
+         "pubDate" : "Mon, 9 Dec 2024 11:49:00",
+         "title" : "Ding scores a crushing win against Gukesh to level the World Championship match at 6-6 - 12"
+      },
+      {
+         "description" : "The score is again tied at the World Championship match in Singapore, as Ding Liren bounced right back from his loss on Sunday by beating Gukesh D in a remarkable game. Ding showed excellent preparation in the opening, and once he got a clear strategic edge, continued to up the pressure until getting the win. The last two classical games of the match are scheduled for Wednesday and Thursday. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Mon, 09 Dec 2024 09:45:00",
-         "title" : "World Championship: Game 12 - Live!"
+         "title" : "World Championship: Ding bounces right back"
       },
       {
          "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
@@ -50,12 +98,12 @@ news_feed (
          "title" : "Alpha Phi Alpha's Dunlap touts Chess Initiative"
       },
       {
-         "description" : "Challenger Gukesh Dommaraju leads the 2024 FIDE World Championship against World Champion Ding Liren 6-5 with only three games to go. Game 12 is on Monday, December 9, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Sin...",
+         "description" : "World Champion Ding Liren played a flawless game from start to finish to beat GM Gukesh Dommaraju and level the scores in the 2024 FIDE World Championship at 6-6 with just two games to go. When Gukesh played fast in a seemingly quiet opening, ever...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-12",
          "pubDate" : "Sun, 08 Dec 2024 14:30:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 12"
+         "title" : "Ding Liren Strikes Back To Beat Gukesh In Perfect Game 12"
       },
       {
          "description" : "",
@@ -1234,14 +1282,6 @@ news_feed (
          "title" : "Europe Echecs clinches European Corporate Chess Championship 2024"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115614800.cms\" />World Chess Champion Ding Liren expresses confidence and peace ahead of his title defense against 18-year-old Indian prodigy D Gukesh in Singapore. Despite recent setbacks, Ding aims to regain his form, while Gukesh, mentored by Viswanathan Anand, exudes composure and focus, ready to seize his chance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-its-d-gukesh-vs-ding-liren-in-singapore-showdown/articleshow/115614800.cms",
-         "pubDate" : "Sun, 24 Nov 2024 01:07:31",
-         "title" : "World Chess Championship: It's D Gukesh vs Ding Liren in Singapore showdown"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1264,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3317",
          "pubDate" : "Sat, 23 Nov 2024 14:44:12",
          "title" : "2024 FIDE World Championship - Gukesh draws White in the first game"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115601350.cms\" />Indian chess prodigy Gukesh Dommaraju, at just 18 years old, has made history by becoming the youngest player ever to qualify for the FIDE World Chess Championship. His impressive victory at the 2024 Candidates Tournament, where he defeated top-ranked players, has set the stage for a thrilling championship match against reigning champion Ding Liren in Singapore this November.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/who-is-d-gukesh-the-youngest-player-ever-to-qualify-for-the-fide-world-chess-championship-final/articleshow/115601350.cms",
-         "pubDate" : "Sat, 23 Nov 2024 12:35:22",
-         "title" : "Who is D Gukesh: The youngest player ever to qualify for the FIDE World Chess Championship"
       },
       {
          "description" : "",
@@ -1448,14 +1480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3308",
          "pubDate" : "Mon, 18 Nov 2024 16:45:53",
          "title" : "4th FIDE Council meeting list of decisions published"
-      },
-      {
-         "description" : "First Donald Trump beat Kamala Harris in <A HREF=\"https://chessforallages.blogspot.com/2024/11/election-special-2024.html\">Election Special 2024</A> (November 2024), then Elon Musk beat a troll in <A HREF=\"https://chessforallages.blogspot.com/2024/11/elon-musk-goes-trolling.html\">Elon Musk Goes Trolling</A> (ditto). The two billionaires are slated to square off in a high stakes contest for the <I>Championship of the One-Percenters</I>. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok18.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Donald Trump and Elon Musk play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> If the match is tied after two games, the winne",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/kings-of-news-cycle.html",
-         "pubDate" : "Mon, 18 Nov 2024 16:05:00",
-         "title" : "Kings of the News Cycle"
       }
    ]
 }
