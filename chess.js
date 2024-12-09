@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/espn-love-at-first-sight",
+         "pubDate" : "Mon, 09 Dec 2024 08:10:00",
+         "title" : "ESPN: 'Love at first sight'"
+      },
+      {
+         "description" : "Follow live updates from game 12 of the 2024 World Chess Championship, with D Gukesh leading Ding Liren 6-5.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
+         "pubDate" : "Sun, 8 Dec 2024 22:30:23",
+         "title" : "LIVE: Gukesh vs Ding - Game 12 of World Chess Championship"
+      },
+      {
          "description" : "Game 11 of the World Chess Championship in Singapore brought a dramatic twist as 18-year-old Gukesh D defeated reigning champion Ding Liren to take a one-point lead with just three games remaining. The thrilling 29-move battle saw both players falter, but it was Ding's blunder in mutual time trouble that sealed his fate. With the stakes higher than ever, Ding faces the daunting task of mounting a comeback to defend his title. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2024-g11",
          "pubDate" : "Sun, 08 Dec 2024 21:45:00",
          "title" : "World Championship Game 11: Gukesh wins rollercoaster game, seizes the lead"
-      },
-      {
-         "description" : "Svitlana invites us to discover invisible moves! Those moves are extraordinary, and hidden from our chess-pattern-trained eyes. Nonetheless, it is important to always lookout for a creative way to win a piece, save your queen, or even dodge a checkmate. Creativity is a strong factor to finding invisible moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-invisible-moves",
-         "pubDate" : "Sun, 08 Dec 2024 18:00:00",
-         "title" : "Svitlana's Smart Moves - Invisible Moves!"
       },
       {
          "description" : " Alpha Phi Alpha Fraternity, Inc. was founded in December 4, 1906 at Cornell University, just celebrating its 118th anniversary. The 290,000-member has always promoted academic excellence and scholarship, and the organization has national programs, including &#8220;Project Alpha&#8221; and &#8220;Go-to-Highschool-Go-to-College.&#8221; It is the first Black intercollegiate fraternity with more than 700 chapters across the world. Tony The post <a href=\"https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/\">Alpha Phi Alpha's Dunlap touts Chess Initiative</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42840445/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-11?device=featurephone",
          "pubDate" : "Sun, 8 Dec 2024 08:36:01",
          "title" : "Gukesh defeats Ding in game 11 to take crucial lead in Chess World Championship"
-      },
-      {
-         "description" : "Sandro Mareco triumphed in the 99th Argentine Championship, held in Buenos Aires from November 26 to December 6. Mareco secured his second national title, finishing with a commanding 8&frac12;/11 after defeating Pablo Ismael Acosta in the final round. Top-seeded Mareco edged out defending champion Fernando Peralta, who claimed second place with 8/11, while Diego Flores finished third. Notably, 11-year-old prodigy Faustino Oro impressed on his debut, scoring 6&frac12;/11 and finishing fourth. | Photos: Argentine Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/argentine-championship-2024-report",
-         "pubDate" : "Sun, 08 Dec 2024 07:00:00",
-         "title" : "Mareco claims second Argentine title, Oro impresses"
       },
       {
          "description" : "Indian 18-year-old GM Gukesh Dommaraju has taken a 6-5 lead with just three games to go after a blunder by Chinese World Champion Ding Liren (32) suddenly ended the thrilling game 11 of the 2024 FIDE World Championship. Gukesh&#39;s hyperaggressive op...",
@@ -234,14 +234,6 @@ news_feed (
          "title" : "Chips with a pinch of salt: Duchamp and Le Lionnais"
       },
       {
-         "description" : "Gawain Jones (pictured with his two kids) delivered a brilliant performance at the 2024 London Chess Classic, winning the tournament with an undefeated 5/7 score. The 36-year-old grandmaster topped a strong field, gaining 15 rating points and securing a stellar 2795 Tournament Performance Rating. Jones, who led from start to finish, clinched victory with a final-round win over women's world champion Ju Wenjun. | Photos: London Chess Classic's Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-r7",
-         "pubDate" : "Sat, 07 Dec 2024 14:10:00",
-         "title" : "Gawain Jones shines at London Chess Classic with 2795 TPR"
-      },
-      {
          "description" : "Many chess improvers are frustrated. If you were fully satisfied with your progress, you wouldn't be here reading this. More than the lack of results, I believe a wrong mindset is the main cause of this frustration. As you'll soon see, even someone winning 200 points a year probably has a mostly negative experience with []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -346,28 +338,12 @@ news_feed (
          "title" : "7th Draw In A Row Leaves Ding-Gukesh Level With 4 Games To Go"
       },
       {
-         "description" : "After the second rest day, three draws followed in the FIDE World Championship 2024, making the match score 4&frac12;-4&frac12;. D. Gukesh missed good chances to prevail in games seven and eight, while game nine was probably the 'quietest' and most 'correct' game of the championship. We are entering the dangerous zone, where every mistake counts double, as there are only six games remaining. The general feeling by now is that D. Gukesh has lost more chances to take the lead than his opponent, and he is fighting more (even sometimes unjustifiably) to take the initiative. My takes. | All photos by Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-ding-gukesh-games-7-2",
-         "pubDate" : "Fri, 06 Dec 2024 16:50:00",
-         "title" : "Grivas on Ding-Gukesh games 7-9"
-      },
-      {
          "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live and with commentary by Peter Svidler and Lawrence Trent, starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
          "pubDate" : "Fri, 06 Dec 2024 16:45:00",
          "title" : "London Chess Classic - Live!"
-      },
-      {
-         "description" : "In the latest episode of their show \"Two Knights Talk\" show Arne K&auml;hler and Johannes Fischer - how could it be otherwise - talk about the World Championship match between challenger Gukesh D and defending champion Ding Liren in Singapore. The two \"knights\" reveal how and why they enjoy the match, talk about nervousness during a chess match and what can be done about it, and speculate on the winner of the match. They also invite viewers to identify the players and circumstances of one of the most famous positions in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-the-pleasures-of-following-the-world-championship",
-         "pubDate" : "Fri, 06 Dec 2024 15:50:36",
-         "title" : "Two Knights Talk: The pleasures of following the World Championship"
       },
       {
          "description" : "NM Janak Awatramani won the 2024 Crazyhouse Championship after defeating GM Lars Oskar Hauge 4.5-2.5 in the Grand Final, earning $2,000 in the last event of the 2024 Community Chess Championships. The tournament series occurred once a month with a...",
@@ -1032,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
-      },
-      {
-         "description" : "Gukesh saw off Ding's unorthodox opening to get a solid draw with black.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42662743/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-4?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 08:57:38",
-         "title" : "Gukesh, Ding Liren draw game 4 of World Championship, scores remain level at 2-2"
       },
       {
          "description" : "On behalf of All India Chess Federation and Arbiters' Commission AICF, Karnataka State Chess Association was organized a Senior National Arbiters Seminar &#38; Exam at",
