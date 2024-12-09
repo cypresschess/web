@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren delivered a stunning performance in game 12 of the World Chess Championship match in Singapore, levelling the score at 6-6 against Gukesh D with two classical games remaining. The reigning champion, who described the victory as \"the best game I have played in recent times\", showed impeccable strategic prowess to outmanoeuvre his younger rival in 39 moves. Both players now face immense pressure as they battle for the ultimate chess crown. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g12",
+         "pubDate" : "Mon, 09 Dec 2024 21:00:00",
+         "title" : "World Championship Game 12: Ding levels the score with resounding win"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation announces the fifth annual KCF University Cup, which will take place, February 1-2, 2025. The KCF University Cup is an international online tournament, which is open to teams from a post-secondary school (university, college, community college, etc.). All participating students must be enrolled in at least one class in the January 2025 semester.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-global-online-chess-showdown",
+         "pubDate" : "Mon, 09 Dec 2024 19:00:00",
+         "title" : "KCF Global Online Chess Showdown"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116146476.cms\" />Indian chess grandmaster D Gukesh lost the 12th game of the World Chess Championship to Ding Liren. The match is now tied at six points each. Gukesh expressed disappointment but remains determined. He stated he had several opportunities in the second half. Two games remain in this thrilling championship match. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,20 +66,20 @@ news_feed (
          "title" : "Ding scores a crushing win against Gukesh to level the World Championship match at 6-6 - 12"
       },
       {
-         "description" : "The score is again tied at the World Championship match in Singapore, as Ding Liren bounced right back from his loss on Sunday by beating Gukesh D in a remarkable game. Ding showed excellent preparation in the opening, and once he got a clear strategic edge, continued to up the pressure until getting the win. The last two classical games of the match are scheduled for Wednesday and Thursday. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Mon, 09 Dec 2024 09:45:00",
-         "title" : "World Championship: Ding bounces right back"
-      },
-      {
          "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/espn-love-at-first-sight",
          "pubDate" : "Mon, 09 Dec 2024 08:10:00",
          "title" : "ESPN: 'Love at first sight'"
+      },
+      {
+         "description" : "29 players earned the honor of being named National (Co-)Champion in National Harbor, Maryland on Sunday, December 8. Across 13 sections (determined by grade level, from kindergarten through 12th grade), over 2,700 players contributed to the record-breaking event. Read on for game highlights from our various champions. Photographs for individual and team winners from Sunday's awards ceremony are available on our Flash Report. All results can be found here. Co-Champions are discussed in tiebreak order unless otherwise noted. 12th GradeIllinois's FM Avi Kaplan and Virginia's Arnav Gupta closed out their final K-12 Grade Championship as Co-Champions, each finishing with 6/7 scores. Kaplan and G",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-champions-crowned-national-harbor-0",
+         "pubDate" : "Mon, 09 Dec 2024 00:00:00",
+         "title" : "National Champions Crowned in National Harbor"
       },
       {
          "description" : "Follow live updates from game 12 of the 2024 World Chess Championship, with D Gukesh leading Ding Liren 6-5.",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/15th-womens-continental-pourkashiyan-punches-world-cup-ticket-americans-sweep-podium",
          "pubDate" : "Tue, 03 Dec 2024 00:00:00",
          "title" : "15th Women's Continental: Pourkashiyan Punches World Cup Ticket as Americans Sweep Podium"
-      },
-      {
-         "description" : "This week's puzzles continue our series on the 2024 FIDE World Youth Championships, held last month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships over the next few weeks. You can see our CLO coverage of the World Youth here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-youth-champs-pt-2",
-         "pubDate" : "Tue, 03 Dec 2024 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Youth Champs, Pt. 2"
       },
       {
          "description" : "GM Fabiano Caruana won the 2024 U.S. Masters with 8/9, winning all of his games except for a loss in round six against GM Nikolas Theodorou, who finished in clear second. Besides receiving $7,500 plus a trophy, Caruana also gains 17.11 FIDE Circui...",
@@ -1472,14 +1480,6 @@ news_feed (
          "link" : "https://www.europechess.org/indjic-keeps-the-sole-lead-dardha-keeps-his-chances-for-gold-in-the-final-round-of-eicc2024/",
          "pubDate" : "Mon, 18 Nov 2024 21:01:35",
          "title" : "Indjic maintains the sole lead, Dardha keeps his chances for gold in the Final round of EICC2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3308",
-         "pubDate" : "Mon, 18 Nov 2024 16:45:53",
-         "title" : "4th FIDE Council meeting list of decisions published"
       }
    ]
 }
