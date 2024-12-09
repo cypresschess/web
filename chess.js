@@ -122,6 +122,14 @@ news_feed (
          "title" : "EXCLUSIVE! Hakobyan: Hope This is Not the Last Time for Such a Strong Event Here | #STLMasters"
       },
       {
+         "description" : "The 2024 National K-12 Grade Championships took place from December 6-8 at the Gaylord National Resort &amp; Convention Center in National Harbor, Maryland. Individual and team champions were crowned in grades K through 12. With more than 2,700 players in attendance from 45 states, this was the largest K-12 Grade Championships in US Chess history!Below are the individual and team winners by grade. When co-champions are listed, they are in tiebreak order. All photos are by Caroline King for US Chess. 12th GradeIndividual: FM Avi Kaplan (Lane Tech College Prep, Chicago, IL), Arnav Gupta (Thomas Jefferson HS, Alexandria, VA), 6/7.<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-2024-national-k-12-grade-championships",
+         "pubDate" : "Sun, 08 Dec 2024 00:00:00",
+         "title" : "Flash Report: 2024 National K-12 Grade Championships"
+      },
+      {
          "description" : "Editor's note: This article has been updated with photographs from the top boards of each section.The triple-round day is in the books at the 2024 K-12 Grade National Championships in National Harbor, Maryland. With only two rounds to go, we are hours away from crowning our next set of national champions for all 13 grades.Several sections are already out of players with perfect scores, with many more having only one or two remaining. Only the first-grade section has more than three perfect scores remaining. And that's not to mention the team standings, where some sections feature multiple teams tied at the top and several others see only a half-point of separation. <br> <br> <br> <br> Image<",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/december-2024-fide-ratings-arjun-erigaisi",
          "pubDate" : "Mon, 02 Dec 2024 02:31:00",
          "title" : "Arjun Erigaisi Officially Joins Carlsen, Caruana, Nakamura In 2800 Club"
-      },
-      {
-         "description" : "US Chess tournaments have their rules. FIDE tournaments have their separate rules. And then we have the US Chess Scholastic Regulations, via the Scholastic Council and the Executive Board. Kids are not adults. Kids are not mini adults, either, despite how they look. Their brains are struggling to connect the dots so that the world around them makes sense. Their chess universe is filled with individual/team chess, coaches and chess parents. Our national scholastic chess scene leans heavily on the US Chess rulebook, adjusted to meet the needs of youthful wood-pushers, also known as the US Chess Scholastic Regulations. Let's do some exploring: Truth in Advertising: The Scholastic Regulations go",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-scholastic-chess-regulations",
-         "pubDate" : "Mon, 02 Dec 2024 00:00:00",
-         "title" : "Just the Rules: Scholastic Chess Regulations"
       },
       {
          "description" : "",
