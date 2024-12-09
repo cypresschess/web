@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Game 11 of the World Chess Championship in Singapore brought a dramatic twist as 18-year-old Gukesh D defeated reigning champion Ding Liren to take a one-point lead with just three games remaining. The thrilling 29-move battle saw both players falter, but it was Ding's blunder in mutual time trouble that sealed his fate. With the stakes higher than ever, Ding faces the daunting task of mounting a comeback to defend his title. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g11",
+         "pubDate" : "Sun, 08 Dec 2024 21:45:00",
+         "title" : "World Championship Game 11: Gukesh wins rollercoaster game, seizes the lead"
+      },
+      {
          "description" : "Svitlana invites us to discover invisible moves! Those moves are extraordinary, and hidden from our chess-pattern-trained eyes. Nonetheless, it is important to always lookout for a creative way to win a piece, save your queen, or even dodge a checkmate. Creativity is a strong factor to finding invisible moves.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/",
          "pubDate" : "Sun, 08 Dec 2024 14:34:18",
          "title" : "Alpha Phi Alpha's Dunlap touts Chess Initiative"
+      },
+      {
+         "description" : "Challenger Gukesh Dommaraju leads the 2024 FIDE World Championship against World Champion Ding Liren 6-5 with only three games to go. Game 12 is on Monday, December 9, at 4:00 a.m. ET / 10:00 CET /&#38;nbsp; 2:30 p.m. IST / 5:00 p.m. local time in Sin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-12",
+         "pubDate" : "Sun, 08 Dec 2024 14:30:17",
+         "title" : "How To Watch FIDE World Championship 2024 Game 12"
       },
       {
          "description" : "",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "Gukesh shows maturity of a champion in beating Ding; steps closer to being crowned king"
       },
       {
-         "description" : "Gukesh D has taken the lead at the World Championship match in Singapore after scoring a win with white in game 11. The Indian prodigy saw his opponent, reigning champion Ding Liren, making a one-move blunder in an already difficult position. Ding must recover quickly from this setback, as there are only three classical games remaining in the match for the world title. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Sun, 08 Dec 2024 09:45:00",
-         "title" : "World Championship: Gukesh scores"
-      },
-      {
          "description" : "English chess stars pulled off an unprecedented 1-2-3 in the 2024 XTX Markets London Chess Classic against a world-class field at Arsenal FC's Emirates Stadium as Grandmaster Gawain Jones was...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/argentine-championship-2024-report",
          "pubDate" : "Sun, 08 Dec 2024 07:00:00",
          "title" : "Mareco claims second Argentine title, Oro impresses"
+      },
+      {
+         "description" : "Indian 18-year-old GM Gukesh Dommaraju has taken a 6-5 lead with just three games to go after a blunder by Chinese World Champion Ding Liren (32) suddenly ended the thrilling game 11 of the 2024 FIDE World Championship. Gukesh&#39;s hyperaggressive op...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-11",
+         "pubDate" : "Sun, 08 Dec 2024 04:30:00",
+         "title" : "Gukesh Leads World Championship After Ding's Blunder Ends Game 11 Thriller"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2024 Saint Louis Masters Tournament was a premier chess event featuring top international players competing over nine intense rounds. With a prize fund of $100,000, this tournament promised high-stakes action and thrilling games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-masters-retrospective-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6C",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/k-12-grades-pivotal-pairings-set-championship-sunday",
          "pubDate" : "Sun, 08 Dec 2024 00:00:00",
          "title" : "K-12 Grades: Pivotal Pairings Set for Championship Sunday"
-      },
-      {
-         "description" : "Indian 18-year-old GM Gukesh Dommaraju has taken a 6-5 lead with just three games to go after a blunder by Chinese World Champion Ding Liren (32) suddenly ended the thrilling game 11 of the 2024 FIDE World Championship. Gukesh&#39;s hyperaggressive op...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-11",
-         "pubDate" : "Sat, 07 Dec 2024 23:00:00",
-         "title" : "Gukesh Leads World Championship After Ding's Blunder Ends Game 11 Thriller"
       },
       {
          "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-part-1-saint-louis-masters-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-logs-first-win-against-defending-champion-ding-liren-in-world-chess-championship/articleshow/115736592.cms",
          "pubDate" : "Wed, 27 Nov 2024 13:06:45",
          "title" : "World Championship: Gukesh logs first win vs Ding Liren"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju has scored his first classical win over World Champion Ding Liren to level the scores at 1.5-1.5 going into the first rest day of the 2024 FIDE World Championship. Gukesh posed tough problems in the opening of game three, but j...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-3",
-         "pubDate" : "Wed, 27 Nov 2024 08:35:00",
-         "title" : "Gukesh Beats Ding To Level The Scores After Game 3"
       },
       {
          "description" : "From 15th to 17th November 2024, a FIDE Arbiters' Seminar was successfully organized in Ranchi, Jharkhand, by the All India Chess Federation, under the auspices",
