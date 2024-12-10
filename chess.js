@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The 2024 Saint Louis Masters Tournament was a premier Swiss chess event featuring top international players competing over nine intense rounds. With a prize fund of $100,000, this tournament promised high-stakes action and thrilling games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-masters-retrospective-stlmasters-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-masters-retrospective-stlmasters-0",
+         "pubDate" : "Mon, 09 Dec 2024 22:24:36",
+         "title" : "The 2024 Saint Louis Masters: A Retrospective | #STLMasters"
+      },
+      {
          "description" : "Ding Liren delivered a stunning performance in game 12 of the World Chess Championship match in Singapore, levelling the score at 6-6 against Gukesh D with two classical games remaining. The reigning champion, who described the victory as \"the best game I have played in recent times\", showed impeccable strategic prowess to outmanoeuvre his younger rival in 39 moves. Both players now face immense pressure as they battle for the ultimate chess crown. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +66,22 @@ news_feed (
          "title" : "Gukesh succumbs to Liren in 12th game of World Chess C'ship"
       },
       {
+         "description" : "World Champion Ding Liren played a flawless game from start to finish to beat GM Gukesh Dommaraju and level the scores in the 2024 FIDE World Championship at 6-6 with just two games to go. When Gukesh played fast in a seemingly quiet opening, ever...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-12",
+         "pubDate" : "Mon, 09 Dec 2024 13:00:00",
+         "title" : "Ding Liren Strikes Back To Beat Gukesh In Perfect Game 12"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Alexander Donchenko won the inaugural 2024 Saint Louis Masters with 6.5/9, each earning $17,500 without any tiebreaks. For Caruana, the reigning U.S. Champion, it was a bittersweet ending. He led the nine-round tournament...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-donchenko-win-2024-saint-louis-masters",
+         "pubDate" : "Mon, 09 Dec 2024 12:44:23",
+         "title" : "Caruana, Donchenko Tie For 1st In Saint Louis Masters, Caruana Leads FIDE Circuit"
+      },
+      {
          "description" : " Ding Liren won game 12 of the FIDE World Chess Championship in Singapore and immediately leveled the match up after his loss yesterday. Ding had the white pieces and again we had a very sharp flank opening after Gukesh chose 4...d4. There are certainly safer ways to play. What we saw was an unbalanced English where Gukesh made a number of concessions until he was busted by move 23. 13...Rb8?!, 16...Nd7?! and the losing move 22...Bg5? were the key moments. It only slowly dawned on Ding that his position was \"much, much better\" after 23.Nf4, when Gukesh felt it necessary to play 23...Bxf4, losing all the dark squares on the board, the game was as good as over, and Ding didn't make any mistake",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/",
          "pubDate" : "Sun, 08 Dec 2024 14:34:18",
          "title" : "Alpha Phi Alpha's Dunlap touts Chess Initiative"
-      },
-      {
-         "description" : "World Champion Ding Liren played a flawless game from start to finish to beat GM Gukesh Dommaraju and level the scores in the 2024 FIDE World Championship at 6-6 with just two games to go. When Gukesh played fast in a seemingly quiet opening, ever...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-12",
-         "pubDate" : "Sun, 08 Dec 2024 14:30:00",
-         "title" : "Ding Liren Strikes Back To Beat Gukesh In Perfect Game 12"
       },
       {
          "description" : "",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/part-2-saint-louis-masters-2024-day-5-round-9",
          "pubDate" : "Sat, 07 Dec 2024 19:23:49",
          "title" : "(Part 2) Saint Louis Masters 2024: Day 5 | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Using 15,000 simulations, the team looks at which players have the best chances of winning the Saint Louis Masters 2024 before Round 9. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-final-round-d5-stlmasters\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Aw6n5PX6Cmw.jpg?itok=2rTJuN4f\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-final-round-d5-stlmasters",
-         "pubDate" : "Sat, 07 Dec 2024 19:23:49",
-         "title" : "Who is Likely to Win Before Final Round? | D5 #STLMasters"
       },
       {
          "description" : "ChessBase 18 now offers direct access to lichess.org and chess.com. Simply enter your account name, select the type of game and the time period, and ChessBase will promptly deliver your desired game list from the 7 billion lichess games. The donation-funded lichess servers are buffered by a huge cache on ChessBase database servers, so that multiple requests do not create a load there. Chess.com games can also be accessed quickly and easily. This provides you with access to your own games, and of course, it's also useful to know the online games of other players when preparing your own! Chief developer Matthias W&uuml;llenweber shows you how it's done in the video!",
@@ -1106,14 +1114,6 @@ news_feed (
          "title" : "Gukesh Defuses Ding's 1.Nf3 Surprise As Game 4 Ends In Draw"
       },
       {
-         "description" : "Four winners were crowned on Thursday at the FIDE World Seniors Championships in Porto Santo, Portugal. GM Alexander Shabalov (U.S.) won the Open 50+ section, GM Rainer Knaak (Germany) came first in the Open 65+ section, IM Masha Klinova (Israel) ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shabalov-knaak-klinova-burchardt-win-2024-world-senior-championships",
-         "pubDate" : "Fri, 29 Nov 2024 02:27:41",
-         "title" : "Shabalov, Knaak, Klinova, Burchardt Winners At World Senior Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1472,14 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3309",
          "pubDate" : "Tue, 19 Nov 2024 05:28:54",
          "title" : "World Chess and FIDE open up Elite Chess Sponsorship to small businesses"
-      },
-      {
-         "description" : "Ten rounds were played at the European Individual Chess Championship 2024 in Petrovac, Montegro, and the new Champion will be crowned tomorrow! GM Aleksandar Indjic (SRB, 2623) kept the sole lead in the tournament after today's draw against GM Daniil Yuffa (ESP, 2631). Indjic now scores 8.5 points, and enters the last round with half a point advantage over GM Daniel Dardha (BEL, 2606) who is in clear second place scoring 8 points. GM Daniel Dardha (BEL, 2606) was victorious []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/indjic-keeps-the-sole-lead-dardha-keeps-his-chances-for-gold-in-the-final-round-of-eicc2024/",
-         "pubDate" : "Mon, 18 Nov 2024 21:01:35",
-         "title" : "Indjic maintains the sole lead, Dardha keeps his chances for gold in the Final round of EICC2024"
       }
    ]
 }
