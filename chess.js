@@ -34,6 +34,14 @@ news_feed (
          "title" : "Grivas on Ding-Gukesh 10-12"
       },
       {
+         "description" : "On the final rest day, here's a look at the way ahead for Gukesh and Ding as the chess World Championship nears the finish line.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42888854/gukesh-vs-ding-liren-chess-world-championship-final-home-stretch-preview?device=featurephone",
+         "pubDate" : "Tue, 10 Dec 2024 07:36:19",
+         "title" : "Gukesh's ambition vs Ding's momentum: What to expect from chess World Championship's home stretch"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116162175.cms\" />The World Chess Championship hangs in the balance, tied 6-6 between 18-year-old Indian prodigy D Gukesh and defending champion Ding Liren. Gukesh, despite a setback in the 12th game, aims for an aggressive approach with white pieces in the crucial 13th game. Ding, praised for his recent performance, seeks to leverage his experience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1042,14 +1050,6 @@ news_feed (
          "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
       },
       {
-         "description" : "The score remains tied at 2.5-2.5 after game 5",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42678805/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-2024-match-5?device=featurephone",
-         "pubDate" : "Sat, 30 Nov 2024 07:29:13",
-         "title" : "Chess World Championship: Gukesh's defensive nous ensures draw in game 5"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115830347.cms\" />In the fourth game of their World Chess Championship match, challenger D Gukesh and reigning champion Ding Liren played a quiet draw. Gukesh managed to equalize despite Ding's semi-surprise move in the Reti Opening. The score remains tied at 2-2, with Gukesh's confident play being notable.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1488,14 +1488,6 @@ news_feed (
          "link" : "https://www.europechess.org/aleksandar-indjic-wins-european-individual-chess-championship-2024/",
          "pubDate" : "Tue, 19 Nov 2024 20:55:12",
          "title" : "Aleksandar Indjic wins European Individual Chess Championship 2024"
-      },
-      {
-         "description" : "For the second month in a row, after <A HREF=\"https://chessforallages.blogspot.com/2024/10/october-1974-1999-on-cover.html\">October 1974 & 1999 'On the Cover'</A> (October 2024), top U.S. tournaments dominated the covers of American chess magazines both 50 and 25 years ago. Artwork was also a recurring theme. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok19.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Knights, one and all...' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Pal Benko (left) and Vlastimil Hort, co-winners of the U.S. Open. Story and games [inside]. Photos by Burt Hochberg. </BLOCKQUOTE> <P> 'Story and games [inside]' c",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/november-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 19 Nov 2024 16:32:00",
-         "title" : "November 1974 & 1999 'On the Cover'"
       }
    ]
 }
