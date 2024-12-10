@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yes, it is that time of the year again. Time to leave your copy of CHESS Magazine open, 'non-suspiciously', hoping that the family will take the hint and place a big order at Chess & Bridge. If the hint is not taken, then just order one or more of the items yourself, safe in the knowledge that there are much worse things you could be doing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stocking-fillers-from-boy-to-man-chessbase-18",
+         "pubDate" : "Tue, 10 Dec 2024 12:00:00",
+         "title" : "Stocking fillers: From Boy to Man, ChessBase 18"
+      },
+      {
+         "description" : "The 10th game wasn't anything but a boring draw, but games eleven and twelve were quite exiting, where the two opponents exchanged wins, preserving still the balance on 6-6, with two classical games remaining (after the third free day). L.Diren played miserably the 11th game (while he missed some very good chances indeed), where D.Gukesh lost the 12th game without a real fight! The match looks to be quite balanced and nobody can give anymore any prediction. The mistakes by both opponents are plenty, and although the quality is a bit low, the fighting spirit is high! | All photos by Eng Chin An.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-ding-gukesh-10-12",
+         "pubDate" : "Tue, 10 Dec 2024 11:30:30",
+         "title" : "Grivas on Ding-Gukesh 10-12"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116162175.cms\" />The World Chess Championship hangs in the balance, tied 6-6 between 18-year-old Indian prodigy D Gukesh and defending champion Ding Liren. Gukesh, despite a setback in the 12th game, aims for an aggressive approach with white pieces in the crucial 13th game. Ding, praised for his recent performance, seeks to leverage his experience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-gukesh-faces-high-stakes-battle-against-ding-liren-in-penultimate-game/articleshow/116162175.cms",
          "pubDate" : "Tue, 10 Dec 2024 06:45:15",
          "title" : "Gukesh faces high-stakes battle against Ding Liren in penultimate game"
+      },
+      {
+         "description" : "World Champion Ding Liren rebounded with victory in the 2024 FIDE World Championship against Challenger Gukesh Dommaraju immediately after losing the previous game, evening the score at 6-6. After a rest day on Tuesday, December 10,&#38;nbsp; Game 13 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-13",
+         "pubDate" : "Tue, 10 Dec 2024 00:45:00",
+         "title" : "How To Watch FIDE World Championship 2024 Game 13"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2024 Saint Louis Masters Tournament was a premier Swiss chess event featuring top international players competing over nine intense rounds. With a prize fund of $100,000, this tournament promised high-stakes action and thrilling games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-masters-retrospective-stlmasters-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yo",
@@ -98,6 +122,22 @@ news_feed (
          "title" : "Ding scores a crushing win against Gukesh to level the World Championship match at 6-6 - 12"
       },
       {
+         "description" : "With his best game since becoming world champion, Ding Liren tied the World Chess Championship match 6-6.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42874460/ding-liren-shows-gukesh-world-chess-why-champion-match-12?device=featurephone",
+         "pubDate" : "Mon, 9 Dec 2024 11:23:07",
+         "title" : "Ding Liren shows Gukesh, and the world, why he is champion"
+      },
+      {
+         "description" : "Ding Liren won his first game with white in the championship, making it 6-6 overall.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
+         "pubDate" : "Mon, 9 Dec 2024 08:52:05",
+         "title" : "Ding Liren roars back into contention with game 12 win, drawing level in CWC"
+      },
+      {
          "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-champions-crowned-national-harbor-0",
          "pubDate" : "Mon, 09 Dec 2024 00:00:00",
          "title" : "National Champions Crowned in National Harbor"
-      },
-      {
-         "description" : "Follow live updates from game 12 of the 2024 World Chess Championship, with D Gukesh leading Ding Liren 6-5.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
-         "pubDate" : "Sun, 8 Dec 2024 22:30:23",
-         "title" : "LIVE: Gukesh vs Ding - Game 12 of World Chess Championship"
       },
       {
          "description" : "Game 11 of the World Chess Championship in Singapore brought a dramatic twist as 18-year-old Gukesh D defeated reigning champion Ding Liren to take a one-point lead with just three games remaining. The thrilling 29-move battle saw both players falter, but it was Ding's blunder in mutual time trouble that sealed his fate. With the stakes higher than ever, Ding faces the daunting task of mounting a comeback to defend his title. | Photo: FIDE / Eng Chin An",
@@ -1082,14 +1114,6 @@ news_feed (
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
       },
       {
-         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
-         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/",
          "pubDate" : "Fri, 29 Nov 2024 06:21:14",
          "title" : "2024 World Chess Championship: Game 3"
-      },
-      {
-         "description" : "World Champion Ding Liren was joined by GM Richard Rapport on the way to game four of the 2024 FIDE World Championship, and 1.Nf3 and the offbeat opening that followed felt right out of the Rapport playbook. GM Gukesh Dommaraju reacted quickly and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-4",
-         "pubDate" : "Fri, 29 Nov 2024 04:25:00",
-         "title" : "Gukesh Defuses Ding's 1.Nf3 Surprise As Game 4 Ends In Draw"
       },
       {
          "description" : "",
@@ -1248,6 +1264,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3321",
          "pubDate" : "Tue, 26 Nov 2024 01:00:35",
          "title" : "5 ways to explore chess during 2024 World Chess Championship"
+      },
+      {
+         "description" : "This being Thanksgiving week in the USA and me wanting an easy post that continues the AI comics series, please forgive me more nonsense. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok25.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Turkeys play Thanksgiving chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> For the previous post in the series, see <A HREF=\"https://chessforallages.blogspot.com/2024/11/kings-of-news-cycle.html\">Kings of the News Cycle</A> (November 2024). ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/why-are-comics-rarely-funny.html",
+         "pubDate" : "Mon, 25 Nov 2024 16:24:00",
+         "title" : "Why Are 'Comics' Rarely Funny?"
       },
       {
          "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
