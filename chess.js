@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116162175.cms\" />The World Chess Championship hangs in the balance, tied 6-6 between 18-year-old Indian prodigy D Gukesh and defending champion Ding Liren. Gukesh, despite a setback in the 12th game, aims for an aggressive approach with white pieces in the crucial 13th game. Ding, praised for his recent performance, seeks to leverage his experience.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-gukesh-faces-high-stakes-battle-against-ding-liren-in-penultimate-game/articleshow/116162175.cms",
+         "pubDate" : "Tue, 10 Dec 2024 06:45:15",
+         "title" : "Gukesh faces high-stakes battle against Ding Liren in penultimate game"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The 2024 Saint Louis Masters Tournament was a premier Swiss chess event featuring top international players competing over nine intense rounds. With a prize fund of $100,000, this tournament promised high-stakes action and thrilling games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-masters-retrospective-stlmasters-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yo",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -90,22 +98,6 @@ news_feed (
          "title" : "Ding scores a crushing win against Gukesh to level the World Championship match at 6-6 - 12"
       },
       {
-         "description" : "With his best game since becoming world champion, Ding Liren tied the World Chess Championship match 6-6.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42874460/ding-liren-shows-gukesh-world-chess-why-champion-match-12?device=featurephone",
-         "pubDate" : "Mon, 9 Dec 2024 11:23:07",
-         "title" : "Ding Liren shows Gukesh, and the world, why he is champion"
-      },
-      {
-         "description" : "Ding Liren won his first game with white in the championship, making it 6-6 overall.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
-         "pubDate" : "Mon, 9 Dec 2024 08:52:05",
-         "title" : "Ding Liren roars back into contention with game 12 win, drawing level in CWC"
-      },
-      {
          "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,6 +112,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-champions-crowned-national-harbor-0",
          "pubDate" : "Mon, 09 Dec 2024 00:00:00",
          "title" : "National Champions Crowned in National Harbor"
+      },
+      {
+         "description" : "Follow live updates from game 12 of the 2024 World Chess Championship, with D Gukesh leading Ding Liren 6-5.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
+         "pubDate" : "Sun, 8 Dec 2024 22:30:23",
+         "title" : "LIVE: Gukesh vs Ding - Game 12 of World Chess Championship"
       },
       {
          "description" : "Game 11 of the World Chess Championship in Singapore brought a dramatic twist as 18-year-old Gukesh D defeated reigning champion Ding Liren to take a one-point lead with just three games remaining. The thrilling 29-move battle saw both players falter, but it was Ding's blunder in mutual time trouble that sealed his fate. With the stakes higher than ever, Ding faces the daunting task of mounting a comeback to defend his title. | Photo: FIDE / Eng Chin An",
@@ -1082,6 +1082,14 @@ news_feed (
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
       },
       {
+         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
+         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
+         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3319",
          "pubDate" : "Mon, 25 Nov 2024 05:11:41",
          "title" : "Beyond the board: A virtual exhibition by FIDE and Google"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115640661.cms\" />The upcoming World Chess Championship will see a unique dynamic as India's Gukesh, known for his computer-like precision, faces China's Ding Liren, who has shown vulnerability under pressure. Experts believe the early games will be crucial for both players. While Gukesh has been in top form, Ding's experience and ability to bounce back cannot be discounted.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-human-ding-liren-must-unsettle-brilliantly-wired-d-gukesh-to-retain-world-chess-crown/articleshow/115640661.cms",
-         "pubDate" : "Mon, 25 Nov 2024 01:49:31",
-         "title" : "Human Ding Liren must unsettle brilliantly-wired D Gukesh to retain World chess crown"
       },
       {
          "description" : "The World Chess Championship Match between Dommaraju Gukesh and Ding Liren starts tomorrow in Singapore. Ding Liren defends the World Chess Champion title, and 18-year-old Gukesh D is the youngest challenger in history. The Match will be played from 25 November to 12 December, with 14 games. The player who scores 7.5 points or more wins the Match. If the score is equal after 14 games, the winner will be decided by a tiebreak which will be played on 13 []",
@@ -1464,14 +1464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
          "pubDate" : "Tue, 19 Nov 2024 12:45:00",
          "title" : "European Championship in Montenegro: Live"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3309",
-         "pubDate" : "Tue, 19 Nov 2024 05:28:54",
-         "title" : "World Chess and FIDE open up Elite Chess Sponsorship to small businesses"
       }
    ]
 }
