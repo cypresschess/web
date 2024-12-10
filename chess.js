@@ -74,11 +74,11 @@ news_feed (
          "title" : "Ding Liren Strikes Back To Beat Gukesh In Perfect Game 12"
       },
       {
-         "description" : "GMs Fabiano Caruana and Alexander Donchenko won the inaugural 2024 Saint Louis Masters with 6.5/9, each earning $17,500 without any tiebreaks. For Caruana, the reigning U.S. Champion, it was a bittersweet ending. He led the nine-round tournament...",
+         "description" : "GMs Fabiano Caruana and Alexander Donchenko won the inaugural 2024 Saint Louis Masters with 6.5/9, each earning $17,500 without any tiebreaks. For Caruana, the reigning U.S. Champion, it was a bittersweet ending. He had led the nine-round tourna...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-donchenko-win-2024-saint-louis-masters",
-         "pubDate" : "Mon, 09 Dec 2024 12:44:23",
+         "pubDate" : "Mon, 09 Dec 2024 12:44:00",
          "title" : "Caruana, Donchenko Tie For 1st In Saint Louis Masters, Caruana Leads FIDE Circuit"
       },
       {
@@ -88,6 +88,22 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-scores-a-crushing-win-against-gukesh-to-level-the-world-championship-match-at-6-6",
          "pubDate" : "Mon, 9 Dec 2024 11:49:00",
          "title" : "Ding scores a crushing win against Gukesh to level the World Championship match at 6-6 - 12"
+      },
+      {
+         "description" : "With his best game since becoming world champion, Ding Liren tied the World Chess Championship match 6-6.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42874460/ding-liren-shows-gukesh-world-chess-why-champion-match-12?device=featurephone",
+         "pubDate" : "Mon, 9 Dec 2024 11:23:07",
+         "title" : "Ding Liren shows Gukesh, and the world, why he is champion"
+      },
+      {
+         "description" : "Ding Liren won his first game with white in the championship, making it 6-6 overall.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
+         "pubDate" : "Mon, 9 Dec 2024 08:52:05",
+         "title" : "Ding Liren roars back into contention with game 12 win, drawing level in CWC"
       },
       {
          "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/national-champions-crowned-national-harbor-0",
          "pubDate" : "Mon, 09 Dec 2024 00:00:00",
          "title" : "National Champions Crowned in National Harbor"
-      },
-      {
-         "description" : "Follow live updates from game 12 of the 2024 World Chess Championship, with D Gukesh leading Ding Liren 6-5.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
-         "pubDate" : "Sun, 8 Dec 2024 22:30:23",
-         "title" : "LIVE: Gukesh vs Ding - Game 12 of World Chess Championship"
       },
       {
          "description" : "Game 11 of the World Chess Championship in Singapore brought a dramatic twist as 18-year-old Gukesh D defeated reigning champion Ding Liren to take a one-point lead with just three games remaining. The thrilling 29-move battle saw both players falter, but it was Ding's blunder in mutual time trouble that sealed his fate. With the stakes higher than ever, Ding faces the daunting task of mounting a comeback to defend his title. | Photo: FIDE / Eng Chin An",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/christopher-yoo-handed-one-year-ban-following-strike",
          "pubDate" : "Fri, 29 Nov 2024 11:30:00",
          "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
-      },
-      {
-         "description" : "Gukesh's games with white have been driven by preparation, but the games with black have shown his problem-solving ability",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42678087/chess-world-championship-gukesh-vs-ding-liren-draw-solutions-board-again-game-4?device=featurephone",
-         "pubDate" : "Fri, 29 Nov 2024 10:42:52",
-         "title" : "Gukesh finds solutions on the board (again) to keep Ding Liren at bay"
       },
       {
          "description" : "",
