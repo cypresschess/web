@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Currently, World Champion Ding Liren and Challenger Gukesh D fight for the World Championship in Singapore. They will certainly be keen to have the right equipment - board, pieces, and, perhaps underrated, chairs. Which chair will sit right with them? A question that is probably as old as the World Championship matches. Let's have a closer look back, filled with some nostalgia. | Photo: Chess paradise in Formentera, Spain, from the annual Sunway Formentera Festival, official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/love-is-in-the-chair-chess-ergonomics-from-earlier-world-championship-and-challenger-matches",
+         "pubDate" : "Tue, 10 Dec 2024 16:00:00",
+         "title" : "Love is in the Chair - Chess ergonomics from earlier World Championship and Challenger matches"
+      },
+      {
+         "description" : "The 2024 European Rapid and Blitz Chess Championships took place from 7-9 December in Skopje, North Macedonia, with the participation of 400 players coming from 38 European federations. European Rapid Chess Championship 2024 was played on 7-8 December in 11 rounds, swiss system, with the total prize fund of 20.000 EUR + 1.000 EUR of Modern chess vouchers. GM Vladimir Fedoseev (SLO, 2731 rapid rtg) emerged as the sole Winner of the event scoring 9.5 points. Fedoseev started the event []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-champions-2024-crowned-in-north-macedonia/",
+         "pubDate" : "Tue, 10 Dec 2024 14:19:14",
+         "title" : "European Rapid and Blitz Chess Champions 2024 crowned in North Macedonia"
+      },
+      {
          "description" : "Yes, it is that time of the year again. Time to leave your copy of CHESS Magazine open, 'non-suspiciously', hoping that the family will take the hint and place a big order at Chess & Bridge. If the hint is not taken, then just order one or more of the items yourself, safe in the knowledge that there are much worse things you could be doing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-13",
          "pubDate" : "Tue, 10 Dec 2024 00:45:00",
          "title" : "How To Watch FIDE World Championship 2024 Game 13"
+      },
+      {
+         "description" : "US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are due no later than December 31, 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/rfps-merchandise-and-sales-licensing-apparel-awards-and-chess-store-vendors",
+         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
+         "title" : "RFPs: Merchandise and Sales Licensing + Apparel, Awards, and Chess Store Vendors"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2024 Saint Louis Masters Tournament was a premier Swiss chess event featuring top international players competing over nine intense rounds. With a prize fund of $100,000, this tournament promised high-stakes action and thrilling games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-masters-retrospective-stlmasters-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yo",
@@ -498,6 +522,14 @@ news_feed (
          "title" : "'Gukesh not a favourite against Ding anymore': Carlsen"
       },
       {
+         "description" : "The second U.S. Senior Women's Championship will take place this weekend from December 13 through 15 at the TownePlace Suites in Murray, Utah. This will be an official US Chess National Championship with an $8,000 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, December 13.The Utah State Chess Association and David Day are listed as affiliates fo",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2nd-us-senior-womens-championship-preview",
+         "pubDate" : "Fri, 06 Dec 2024 00:00:00",
+         "title" : "2nd U.S. Senior Women's Championship Preview"
+      },
+      {
          "description" : "Caruana Wins Massive U.S. Masters, Six Norms Earned in CharlotteSpending Thanksgiving weekend in Charlotte, North Carolina has become something of a tradition for amateur, expert, and professional chess players alike.As the rare event open exclusively to players rated 2200+ US Chess (or 2000+ for juniors, or FIDE equivalents), the U.S. Masters has become a fixture of the Charlotte chess calendar thanks to the organizational and promotional prowess of the Charlotte Chess Center (CCC). By running the event concurrently with the NC Open, hundreds of additional chess-nuts get to be a part of the celebration. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -808,22 +840,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-meets-finance-in-new-york",
          "pubDate" : "Tue, 03 Dec 2024 07:38:00",
          "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, Financial Elite"
-      },
-      {
-         "description" : "In this issue of Check is in the Mail all of the games are miniatures. Miniatures, as you may know, are games that end in 25 moves or less. Unless otherwise noted, all games have gone thru a ChessBase Tactical Analysis using the Fritz 19 chess engine, at which time annotations and variations are added.GamesGame 1This game was played by Wayne Lambert and John Baily using the Catalan Bogo-Indian (3. g3 Bb4+). From the Golden Knights Section 24N08 tournament, John forced a resignation in 21 moves. Game 2This game was played by David Will and Jon S. Leisner using the Sicilian Najdorf: Unusual White 6th moves, 6. Be3 Ng4 and 6. Be3 e5. From the USCF/WS/24W12 tournament, Jon forced a resignation i",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-december-all-miniatures",
-         "pubDate" : "Tue, 03 Dec 2024 00:00:00",
-         "title" : "Check is in the Mail, December: All Miniatures"
-      },
-      {
-         "description" : "Eight Americans traveled to Dominican Republic for the 15th Women's Continental Chess Championship, with three sweeping the podium! Held November 23 through 30 at the Dominican Olympic Hostel (Albergue Olimpico Dominicano), the nine-round Swiss tournament was open to all American continent chess federation women players.With a qualification spot in the 2025 FIDE Women's World Cup on the line, a number of regulars from the U.S. Women's Championship and other flagship American events showed up in Santo Domingo with their eyes on the top prize.WGM Thalia Cervantes Landeiro and FM Zoey Tang entered the tournament as the second- and third-highest rated players, respectively, trailing only Peruvia",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/15th-womens-continental-pourkashiyan-punches-world-cup-ticket-americans-sweep-podium",
-         "pubDate" : "Tue, 03 Dec 2024 00:00:00",
-         "title" : "15th Women's Continental: Pourkashiyan Punches World Cup Ticket as Americans Sweep Podium"
       },
       {
          "description" : "GM Fabiano Caruana won the 2024 U.S. Masters with 8/9, winning all of his games except for a loss in round six against GM Nikolas Theodorou, who finished in clear second. Besides receiving $7,500 plus a trophy, Caruana also gains 17.11 FIDE Circui...",
@@ -1480,14 +1496,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/november-1974-1999-on-cover.html",
          "pubDate" : "Tue, 19 Nov 2024 16:32:00",
          "title" : "November 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "Almost 400 players will take part in the European Individual Championship 2024 (8 to 19 November) in Petrovac (Montenegro). After ten of eleven rounds, the Serbian GM Aleksandar Indjic leads with an 8&frac12;/10 score, while Daniel Dardha stands in sole second place a half point back. The 20 best players qualify for the World Cup. The final round starts at 13.00 local time. Follow it live with the official commentary of the European Chess Union.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-in-montenegro-live",
-         "pubDate" : "Tue, 19 Nov 2024 12:45:00",
-         "title" : "European Championship in Montenegro: Live"
       }
    ]
 }
