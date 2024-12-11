@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " British champion completed a remarkable treble a year after the death of his wife Sue Maroroa Jones Gawain Jones, the British and English champion, who turns 37 on Wednesday, completed a remarkable year of recovery from tragedy when he won the &pound;25,000 first prize in the XTX Markets London Classic, played at the Emirates Stadium. Last year Jones's wife, Sue Maroroa Jones, died following complications after the birth of their second child, and he withdrew from competitive play for several months. <a href=\"https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy",
+         "pubDate" : "Wed, 11 Dec 2024 08:00:44",
+         "title" : "Chess: Gawain Jones wins London Classic amid recovery from tragedy"
+      },
+      {
+         "description" : "Please find the list here: Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/list-of-left-over-arbiters-undergone-aicf-refresher-seminar-2024-25-on-18-20-november-2024/",
+         "pubDate" : "Wed, 11 Dec 2024 05:18:19",
+         "title" : "LIST OF LEFT OVER ARBITERS UNDERGONE AICF REFRESHER SEMINAR 2024-25 ON 18-20 NOVEMBER 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116194534.cms\" />The World Chess Championship between Ding Liren and D Gukesh is poised for a thrilling finish. With two classical games left, Gukesh needs a victory to avoid tiebreaks. Historical trends suggest tiebreaks favor the champion, while Ding's five career WCC losses put him in rare company.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1258,7 +1274,7 @@ news_feed (
          "title" : "Final Report :FIDE Arbiters' Seminar in Ranchi from 15-17 November 2024"
       },
       {
-         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 2 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 0 1 6 Gukesh 0 &frac12; 1 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
@@ -1480,14 +1496,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecu-etc-titles-5th-online-webinar/",
          "pubDate" : "Wed, 20 Nov 2024 10:19:46",
          "title" : "ECU / ETC Titles 5th Online Webinar"
-      },
-      {
-         "description" : "Romanian Chess Federation and European Chess Union have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the European Individual Chess Championship 2025 which will be organized in Romania, Eforie-Nord, from 14th March (arrival) to 27th March (departure). European Individual Chess Championship 2025 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of ECU []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-official-invitation/",
-         "pubDate" : "Wed, 20 Nov 2024 07:26:08",
-         "title" : "European Individual Chess Championship 2025 - Official invitation"
       }
    ]
 }
