@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Ding Liren won against Gukesh in game 12 of the World Championship, chess players are talking about the Chinese comeback mentality. But the Indian GM also has some comeback abilities. Svitlana is showing us two examples by the two extraordinary players from a couple of years ago.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-brilliant-comebacks",
+         "pubDate" : "Tue, 10 Dec 2024 22:00:00",
+         "title" : "Svitlana's Smart Moves - Brilliant comebacks"
+      },
+      {
+         "description" : " 2024 World Chess Championship: Game 12Monday, 9 December 2024 Ding scores clutch win, score tied 6-6! China's Ding Liren won a thrilling game over India's Gukesh Dommaraju to tie the world chess championship match at 6-6. There are two classical games remaining with tiebreaks waiting in the event of a 7-7 tie. When hearing the The post <a href=\"https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/\">Ding strikes back in Game 12 match tied 6-6!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/",
+         "pubDate" : "Tue, 10 Dec 2024 20:41:43",
+         "title" : "Ding strikes back in Game 12&hellip; match tied 6-6!"
+      },
+      {
          "description" : "Currently, World Champion Ding Liren and Challenger Gukesh D fight for the World Championship in Singapore. They will certainly be keen to have the right equipment - board, pieces, and, perhaps underrated, chairs. Which chair will sit right with them? A question that is probably as old as the World Championship matches. Let's have a closer look back, filled with some nostalgia. | Photo: Chess paradise in Formentera, Spain, from the annual Sunway Formentera Festival, official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-champions-2024-crowned-in-north-macedonia/",
          "pubDate" : "Tue, 10 Dec 2024 14:19:14",
          "title" : "European Rapid and Blitz Chess Champions 2024 crowned in North Macedonia"
+      },
+      {
+         "description" : "For the first time, the FIDE World Rapid &#38;amp; Blitz Championships are taking place in the United States. The premier speed chess tournaments will be held on Wall Street in New York City with a brand new format including a knockout in the Blitz. B...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcement-2024-fide-world-rapid-blitz",
+         "pubDate" : "Tue, 10 Dec 2024 14:00:49",
+         "title" : "New Format, New Year: FIDE World Rapid & Blitz Championships Come To Wall Street"
       },
       {
          "description" : "Yes, it is that time of the year again. Time to leave your copy of CHESS Magazine open, 'non-suspiciously', hoping that the family will take the hint and place a big order at Chess & Bridge. If the hint is not taken, then just order one or more of the items yourself, safe in the knowledge that there are much worse things you could be doing.",
@@ -56,6 +80,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-13",
          "pubDate" : "Tue, 10 Dec 2024 00:45:00",
          "title" : "How To Watch FIDE World Championship 2024 Game 13"
+      },
+      {
+         "description" : "This week's Tactics Tuesday highlights key moments from the USA delegation's games in the U-8 Open and Girls sections of the 2024 FIDE World Cadet Championships. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadet-champs-pt-1",
+         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 1"
+      },
+      {
+         "description" : "Effective Jan. 1, 2025, US Chess will implement revisions to its membership pricing structure. We encourage members who will soon be due for renewal, as well as those whose membership has recently lapsed, to renew your membership now before these revised membership rates take effect. The following text was published in the October issue of Chess Life magazine. Changes to US Chess MembershipsChuck Unruh, vice president of finance at US Chess, says the increase in membership dues is necessary to maintain the financial health of the organization: \"Over the last three years, US Chess was fortunate with more sponsored and endowed events and programs. Although the financial reports stated yearly s",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/revised-us-chess-membership-rates-take-effect-january-1-2025",
+         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
+         "title" : "Revised US Chess Membership Rates Take Effect January 1, 2025"
       },
       {
          "description" : "US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are due no later than December 31, 2024.",
@@ -666,14 +706,6 @@ news_feed (
          "title" : "WCC Games 7-9: Gukesh Misses Multiple Opportunities"
       },
       {
-         "description" : "With more than 2,700 players across 13 sections, this weekend's 2024 K-12 Grade Championships in National Harbor, Maryland, promise to do more than just break records.The 2024 K-12 is the largest in history, and there's an event list to match. From bughouse to blitz, with ChessKid and a guest GM, there will be something in National Harbor for everyone.Some of America's best scholastic players will be in attendance, hoping to take home a national title. Top seeds include IMs Eric Chang Liu, Ming Lu, Evan Park, and Liran Zhou; FMs Erick Zhao and Isaac Wang, and dozens of masters and experts. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/going-national-previewing-k-12-grade-championships",
-         "pubDate" : "Thu, 05 Dec 2024 00:00:00",
-         "title" : "Going National: Previewing the K-12 Grade Championships"
-      },
-      {
          "description" : " The FIDE World Chess Championship match between defending champion Ding Liren and Gukesh D is tied at 4-4 after 8 games. Neither player seemed particularly disappointed as they drew a very difficult game where the engines showed that both players had a winning positions at different moments. Ding is jumping around from opening to opening so that he is a moving target, a strategy of opening surprises which in itself is not a surprise. Today Gukesh thanked his seconds as he got in a novelty first with 7...f6 after Ding chose the English. What happened is that the game took on a fairly unique direction, Ding had a Rook exposed in the middle of board, there was a very unusual pawn structure. Al",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -752,14 +784,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lazavik-nakamura-win-titled-tuesday-december-3-2024",
          "pubDate" : "Wed, 04 Dec 2024 08:20:06",
          "title" : "Nakamura, Firouzja Battle It Out In Titled Tuesday"
-      },
-      {
-         "description" : "This week's puzzles continue our series from the 2024 FIDE World Youth Championships, held last month in Brazil. Keep an eye out for more exercises from this tournament and the 2024 FIDE World Cadet Championships over the next few weeks. You can see our CLO coverage of the World Youth here and the World Cadet here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-world-youth-championships-pt-2",
-         "pubDate" : "Wed, 04 Dec 2024 00:00:00",
-         "title" : "Wednesday Workout: World Youth Championships, Pt. 2"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "Undefeated Nihal Wins 2024 President Cup"
       },
       {
-         "description" : "Seventeen-year-old GM Christopher Yoo has been slapped with a one-year suspension from national tournaments following his expulsion from the 2024 US Chess Championship. In a statement to Chess.com, the teenager&#39;s father calls the sanction &#34;tough b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/christopher-yoo-handed-one-year-ban-following-strike",
-         "pubDate" : "Fri, 29 Nov 2024 11:30:00",
-         "title" : "'Tough But Fair:' Christopher Yoo Handed One-Year Ban Following Videographer Assault"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1472,22 +1488,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2025-official-invitation/",
          "pubDate" : "Wed, 20 Nov 2024 07:26:08",
          "title" : "European Individual Chess Championship 2025 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3311",
-         "pubDate" : "Tue, 19 Nov 2024 23:03:59",
-         "title" : "Aleksandar Indjic wins 2024 European Championship"
-      },
-      {
-         "description" : "The 2024 European Individual Chess Championship concluded in Petrovac, Montegro. GM Aleksandar Indjic (SRB, 2623) emerged as the sole Winner of the tournament scoring unbeaten 9/11 points. GM Daniel Dardha (BEL, 2606) came second with 8.5/11 points, and GM Frederik Svane (GER, 2654) won bronze. In a last-round direct encounter for the first place, Aleksandar Indjic drew with black against GM Daniel Dardha (BEL, 2606), secured sole first place, and clinched his maiden title. GM Daniel Dardha was in chance []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/aleksandar-indjic-wins-european-individual-chess-championship-2024/",
-         "pubDate" : "Tue, 19 Nov 2024 20:55:12",
-         "title" : "Aleksandar Indjic wins European Individual Chess Championship 2024"
       }
    ]
 }
