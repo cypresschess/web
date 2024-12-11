@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2024-12-06  - 12-08","44","<a href=http://www.uschess.org/msa/XtblMain.php?202412081512 target='_blank'>$2,000 DECEMBER 2024 CHAMPIONSHIP</a>",
+"SUGAR LAND","2024-12-07","4","<a href=http://www.uschess.org/msa/XtblMain.php?202412079922 target='_blank'>FBCC 2024 NATIONAL GAZPACHO DAY OPE</a>",
 "HOUSTON","2024-12-07","357","<a href=http://www.uschess.org/msa/XtblMain.php?202412070572 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
 "HOUSTON","2024-12-06","40","<a href=http://www.uschess.org/msa/XtblMain.php?202412069882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-11-30","45","<a href=http://www.uschess.org/msa/XtblMain.php?202411307662 target='_blank'>2024 TEXAS 'QUICK CHESS' STATE CHAM</a>",
@@ -198,5 +199,4 @@ jtable([
 "LEAGUE CITY","2024-04-03  - 04-24","13","<a href=http://www.uschess.org/msa/XtblMain.php?202404244332 target='_blank'>CLCC FAREWELL</a>",
 "HOUSTON","2024-04-20","590","<a href=http://www.uschess.org/msa/XtblMain.php?202404202232 target='_blank'>T H ROGERS SCHOLASTIC APRIL 2024</a>",
 "HOUSTON","2024-04-20","29","<a href=http://www.uschess.org/msa/XtblMain.php?202404202062 target='_blank'>KINGWOOD BLITZ 20 APR 24</a>",
-"HOUSTON","2024-04-20","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404202042 target='_blank'>APRIL 20 SATURDAY CHESS/ SATURNIGHT</a>",
 ]);
