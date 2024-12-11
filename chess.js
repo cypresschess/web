@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116194534.cms\" />The World Chess Championship between Ding Liren and D Gukesh is poised for a thrilling finish. With two classical games left, Gukesh needs a victory to avoid tiebreaks. Historical trends suggest tiebreaks favor the champion, while Ding's five career WCC losses put him in rare company.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-ding-liren-world-chess-championship-on-razors-edge-with-two-games-to-play/articleshow/116194534.cms",
+         "pubDate" : "Wed, 11 Dec 2024 03:18:57",
+         "title" : "World Chess Championship on razor's edge with 2 games to play"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Tianqi &quot;Steve&quot; Wang teaches a chess class about bishops. 2024.12.10<br /> Lajos Asztalos vs Aron Nimzowitsch, Bled (1931): B15 Caro-Kann, Tartakower (Nimzovich) variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1030492\">https://www.chessgames.com/perl/chessgame?gid=1030492</a><br /> Rudolf Spielmann vs Aron Nimzowitsch, Bled (1931): B10 Caro-Kann, two knights variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1030584\">https://www.chessgames.com/perl/chessgame?gid=1030584</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/targeting-colors-bishop-class-road-2000-im-tianqi-wang",
+         "pubDate" : "Wed, 11 Dec 2024 01:25:13",
+         "title" : "Targeting Colors: A Bishop Class | Road to 2000 - IM Tianqi Wang"
+      },
+      {
          "description" : "After Ding Liren won against Gukesh in game 12 of the World Championship, chess players are talking about the Chinese comeback mentality. But the Indian GM also has some comeback abilities. Svitlana is showing us two examples by the two extraordinary players from a couple of years ago.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-13",
          "pubDate" : "Tue, 10 Dec 2024 00:45:00",
          "title" : "How To Watch FIDE World Championship 2024 Game 13"
+      },
+      {
+         "description" : "The 2024 FIDE World Chess Championship match between GM Ding Liren and GM Gukesh Dommaraju is deadlocked at 6-6 as the players enter a pivotal penultimate round beginning at 3:00 a.m. CST on Wednesday, December 11. Concerns of an impending dull trudge toward the rapid tiebreakers were amplified following a very tame game 10 on Saturday. These notions were firmly disabused in the two games that followed, though, with Gukesh and Ding trading wins in a pair of ambitious, albeit nervous, games. All three games are annotated below by WGM Tatev Abrahamyan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Not even GM Hou Yifan's help was enough to save Ding in",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wcc-games-10-12-gukesh-ding-trade-blows-tension-boils-over",
+         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
+         "title" : "WCC Games 10-12: Gukesh, Ding Trade Blows as Tension Boils Over"
       },
       {
          "description" : "This week's Tactics Tuesday highlights key moments from the USA delegation's games in the U-8 Open and Girls sections of the 2024 FIDE World Cadet Championships. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -386,14 +410,6 @@ news_feed (
          "title" : "(Part 1) Saint Louis Masters 2024: Day 5 | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> PAIRINGS: <a href=\"https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES\">https://chess-results.com/tnr1063679.aspx?lan=1&amp;turdet=YES</a><br /> GAMES: <a href=\"https://www.chess.com/events/2024-saint-louis-masters/games\">https://www.chess.com/events/2024-saint-louis-masters/games</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/part-2-saint-louis-masters-2024-day-5-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/part-2-saint-louis-masters-2024-day-5-round-9",
-         "pubDate" : "Sat, 07 Dec 2024 19:23:49",
-         "title" : "(Part 2) Saint Louis Masters 2024: Day 5 | Round 9"
-      },
-      {
          "description" : "ChessBase 18 now offers direct access to lichess.org and chess.com. Simply enter your account name, select the type of game and the time period, and ChessBase will promptly deliver your desired game list from the 7 billion lichess games. The donation-funded lichess servers are buffered by a huge cache on ChessBase database servers, so that multiple requests do not create a load there. Chess.com games can also be accessed quickly and easily. This provides you with access to your own games, and of course, it's also useful to know the online games of other players when preparing your own! Chief developer Matthias W&uuml;llenweber shows you how it's done in the video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-senior-national-arbiter-at-karnal-haryana-from-23-to-24-november-2024/",
          "pubDate" : "Thu, 05 Dec 2024 06:23:37",
          "title" : "Certificate of Senior National Arbiter at Karnal ,Haryana from 23 to 24 November 2024"
-      },
-      {
-         "description" : "The 2024 FIDE World Chess Championship remains knotted up at 4&frac12;-4&frac12; after nine rounds of the 14-game match. After trading victories in the first and third games, GMs Ding Liren and Gukesh Dommaraju have now played six consecutive draws. While Ding had some chances in games five and six, Gukesh had some serious chances during this block of games. Below are all three games, with annotations by IM Robert Shlyakhtenko. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> The four phases of salvaging a draw in a worse position (Photos",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wcc-games-7-9-gukesh-misses-multiple-opportunities",
-         "pubDate" : "Thu, 05 Dec 2024 00:00:00",
-         "title" : "WCC Games 7-9: Gukesh Misses Multiple Opportunities"
       },
       {
          "description" : " The FIDE World Chess Championship match between defending champion Ding Liren and Gukesh D is tied at 4-4 after 8 games. Neither player seemed particularly disappointed as they drew a very difficult game where the engines showed that both players had a winning positions at different moments. Ding is jumping around from opening to opening so that he is a moving target, a strategy of opening surprises which in itself is not a surprise. Today Gukesh thanked his seconds as he got in a novelty first with 7...f6 after Ding chose the English. What happened is that the game took on a fairly unique direction, Ding had a Rook exposed in the middle of board, there was a very unusual pawn structure. Al",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
          "pubDate" : "Tue, 26 Nov 2024 17:32:13",
          "title" : "2024 World Chess Championship (Singapore City)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115704462.cms\" />D Gukesh drew his second game against Ding Liren in the World Chess Championship. Gukesh, playing black, recovered from a difficult start. He aims to become the youngest world champion. He is grateful for his second's support. Gukesh represents India. He is focusing on each game. A win would be a significant achievement. He is determined to play well.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hoping-for-many-more-good-days-d-gukesh-after-drawing-second-world-chess-championship-game/articleshow/115704462.cms",
-         "pubDate" : "Tue, 26 Nov 2024 15:53:08",
-         "title" : "'Hoping for many more good days': Gukesh after drawing 2nd game"
       },
       {
          "description" : " The second game of the FIDE World Chess Championship between Ding Liren and Gukesh D was drawn in just 23 moves. \"My basic idea was to play carefully, and I was fine with a draw.\" Ding said. The variation was a Giuoco Pianissimo and Ding tried to fix the queenside and then exploit weaknesses there. This was not the level of deep preparation we saw from, for example, Anand and Gelfand a decade ago, Ding admitted that he was on his own by move 14 and whilst I'm sure Gukesh was sweating for a while, after 20.Ne2?! (20.h4!? is maybe last chance for white to do anything) the game was just equal and a draw was the natural result. Matches are about momentum and confidence, it has been often seen t",
