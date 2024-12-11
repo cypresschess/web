@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 12 games the score is again tied at the World Championship match in Singapore, as Ding Liren defeated Gukesh D in a remarkable game 12. The last two classical games of the match are scheduled for Wednesday and Thursday. Game 13, in which Gukesh has White, starts at 17.00 local time (10.00 CET, 4.00 EDT). Follow the game live with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+         "pubDate" : "Wed, 11 Dec 2024 09:45:00",
+         "title" : "World Championship, Game 13 - live with commentary"
+      },
+      {
          "description" : " British champion completed a remarkable treble a year after the death of his wife Sue Maroroa Jones Gawain Jones, the British and English champion, who turns 37 on Wednesday, completed a remarkable year of recovery from tragedy when he won the &pound;25,000 first prize in the XTX Markets London Classic, played at the Emirates Stadium. Last year Jones's wife, Sue Maroroa Jones, died following complications after the birth of their second child, and he withdrew from competitive play for several months. <a href=\"https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "World Chess Championship on razor's edge with 2 games to play"
       },
       {
+         "description" : "GM Daniel Naroditsky on Monday won the Tournament of the Accused, an event organized by runner-up GM Hikaru Nakamura and sponsored by streaming platform Kick.com. Several of the participants had been &#34;accused&#34; according to Nakamura: they were play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-wins-tournament-of-the-accused",
+         "pubDate" : "Wed, 11 Dec 2024 01:35:38",
+         "title" : "Naroditsky Wins Tournament Of The Accused Ahead Of Organizer Nakamura"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Tianqi &quot;Steve&quot; Wang teaches a chess class about bishops. 2024.12.10<br /> Lajos Asztalos vs Aron Nimzowitsch, Bled (1931): B15 Caro-Kann, Tartakower (Nimzovich) variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1030492\">https://www.chessgames.com/perl/chessgame?gid=1030492</a><br /> Rudolf Spielmann vs Aron Nimzowitsch, Bled (1931): B10 Caro-Kann, two knights variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1030584\">https://www.chessgames.com/perl/chessgame?gid=1030584</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/targeting-colors-bishop-class-road-2000-im-tianqi-wang",
          "pubDate" : "Wed, 11 Dec 2024 01:25:13",
          "title" : "Targeting Colors: A Bishop Class | Road to 2000 - IM Tianqi Wang"
+      },
+      {
+         "description" : "Follow live updates from game 13 of the world chess championship, with Gukesh and Ding tied at 6 points apiece.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42902007/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-13?device=featurephone",
+         "pubDate" : "Tue, 10 Dec 2024 22:30:07",
+         "title" : "LIVE: Gukesh vs Ding in game 13 of World Chess Championship"
       },
       {
          "description" : "After Ding Liren won against Gukesh in game 12 of the World Championship, chess players are talking about the Chinese comeback mentality. But the Indian GM also has some comeback abilities. Svitlana is showing us two examples by the two extraordinary players from a couple of years ago.",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Stocking fillers: From Boy to Man, ChessBase 18"
       },
       {
-         "description" : "The 10th game wasn't anything but a boring draw, but games eleven and twelve were quite exiting, where the two opponents exchanged wins, preserving still the balance on 6-6, with two classical games remaining (after the third free day). L.Diren played miserably the 11th game (while he missed some very good chances indeed), where D.Gukesh lost the 12th game without a real fight! The match looks to be quite balanced and nobody can give anymore any prediction. The mistakes by both opponents are plenty, and although the quality is a bit low, the fighting spirit is high! | All photos by Eng Chin An.",
+         "description" : "The tenth game was nothing more than a boring draw, but games eleven and twelve were quite exciting as the two opponents traded wins to keep the score at 6-6 with two classic games left (after the third day off). Ding Liren played the eleventh game miserably (although he missed some good chances), while Gukesh D. lost the twelfth game without any real fight! The match seems to be quite balanced and nobody can make any predictions. There are plenty of mistakes made by both opponents and although the quality is low, the fighting spirit is high! | All photos by Eng Chin An.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-on-ding-gukesh-10-12",
@@ -1066,14 +1090,6 @@ news_feed (
          "title" : "The Simple Path to 1500: Lessons From My Dad's Chess Journey"
       },
       {
-         "description" : "How was the champ's assessment during the game was so far off what the actual position was?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42696396/gukesh-ding-liren-2024-problem-miss-advantage-game-5-chess-world-championship?device=featurephone",
-         "pubDate" : "Sat, 30 Nov 2024 13:38:23",
-         "title" : "Ding's big 2024 problem sees him miss advantage against Gukesh in game 5"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115843000.cms\" />In the fifth game of the World Chess Championship, India's 18-year-old D Gukesh and China's defending champion Ding Liren ended with a draw after 40 moves. Both players now have 2.5 points each. Gukesh, using the King's pawn opening, aimed for an imbalanced position, but the game concluded in a balanced endgame with no progress in sight.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/nov/29/gukesh-dommaraju-ding-liren-world-chess-championship-englands-best-emirates",
          "pubDate" : "Fri, 29 Nov 2024 13:11:45",
          "title" : "Gukesh and Ding tied in world chess title clash as England's best pitch up at Emirates"
-      },
-      {
-         "description" : "GM Nihal Sarin won the 3rd President Cup, a strong, nine-round Swiss held in Tashkent, Uzbekistan. He earned the $25,000 first prize after scoring 7.5/9 undefeated with a performance rating of 2809.&#38;nbsp; Final Standings | Top 15 Rk. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-president-cup-nihal-wins",
-         "pubDate" : "Fri, 29 Nov 2024 11:49:00",
-         "title" : "Undefeated Nihal Wins 2024 President Cup"
       },
       {
          "description" : "",
@@ -1480,22 +1488,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-starts-in-paris/",
          "pubDate" : "Wed, 20 Nov 2024 20:40:13",
          "title" : "European Corporate Chess Championship starts in Paris"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2024/",
-         "pubDate" : "Wed, 20 Nov 2024 10:30:11",
-         "title" : "UK Open Blitz Finals with photography and commentary"
-      },
-      {
-         "description" : "The ECU ETC announces the 5th 2024 Webinar (via Zoom) for trainers' education &#38; titles. In the webinar the titles of ECU Expert Coach, ECU Junior Coach, or ECU...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecu-etc-titles-5th-online-webinar/",
-         "pubDate" : "Wed, 20 Nov 2024 10:19:46",
-         "title" : "ECU / ETC Titles 5th Online Webinar"
       }
    ]
 }
