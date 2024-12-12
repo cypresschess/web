@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a historic conclusion to the World Chess Championship in Singapore, 18-year-old Gukesh Dommaraju defeated reigning champion Ding Liren in the final game, becoming the youngest undisputed world chess champion in history. With this monumental victory, the title returns to India for the first time since Viswanathan Anand lost it in 2013. Gukesh's triumph, sealed after Ding blundered in a technical endgame, cements his place among chess legends. The victory also highlights India's rise as a global chess powerhouse. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-g14",
+         "pubDate" : "Thu, 12 Dec 2024 19:25:00",
+         "title" : "Gukesh becomes 18th undisputed world chess champion at 18!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116260716.cms\" />D Gukesh won the World Chess Championship. He defeated Ding Liren in a thrilling final match. The 18-year-old made history. He became the youngest world chess champion. Gukesh secured victory after a crucial error by Ding. Gukesh is the second Indian to win the title. He joins the legendary Viswanathan Anand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -80,6 +88,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-beats-ding-liren-to-become-youngest-world-chess-champion/articleshow/116257286.cms",
          "pubDate" : "Thu, 12 Dec 2024 13:36:35",
          "title" : "D Gukesh beats Ding Liren to become youngest world chess champion"
+      },
+      {
+         "description" : "D Gukesh defeated Ding Liren to become world champion after a dramatic victory in the final game of the championship.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42932410/a-new-king-crowned-stunned-silence-chaos-tears-d-gukesh-wins-world-title-chess-champion-ding-liren?device=featurephone",
+         "pubDate" : "Thu, 12 Dec 2024 12:12:31",
+         "title" : "A new king crowned: Stunned silence, then chaos and tears as Gukesh wins world title"
+      },
+      {
+         "description" : "The new world champion is also happy that he is the one who got back the title after Viswanathan Anand (five-time champion) lost to Magnus Carlsen in their home town in Chennai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42931363/chess-world-championship-gukesh-ding-liren-quotes-youngest-champion-living-moment-6?device=featurephone",
+         "pubDate" : "Thu, 12 Dec 2024 11:10:34",
+         "title" : "'I've been living this moment since I was 6' - Gukesh after becoming youngest chess champion"
       },
       {
          "description" : "A catastropic blunder from Ding Liren on move 55 saw Gukesh capitalise and follow Viswanathan Anand in becoming the second world champion from India.",
@@ -970,14 +994,6 @@ news_feed (
          "title" : "Ding Escapes In Game 7 Thriller To Tie Gukesh At Halfway"
       },
       {
-         "description" : "At 3.5 - 3.5, the scores remain tied between Ding Liren and D Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42738118/gukesh-vs-ding-liren-live-updates-score-commentary-news-match-7-chess-world-championship?device=featurephone",
-         "pubDate" : "Tue, 3 Dec 2024 09:39:05",
-         "title" : "Gukesh slips up, allows Ding to wrestle draw in game 7 of World Championship"
-      },
-      {
          "description" : "NM Isaac Chiu and NM Jalen Wang respectively won Qualifiers 1 and 2 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. There are six qualifying spots left for the Knockout on Friday. [Updated on ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/holiday-bots-2024",
          "pubDate" : "Mon, 02 Dec 2024 09:56:56",
          "title" : "Play Against Chess.com's Holiday Bots"
-      },
-      {
-         "description" : "For India's future chess stars, Anand is not just a spiritual inspiration as a mythical figure who went to places that no other Indian before him did. He's there for them first-hand.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42733514/viswanathan-anand-hands-godfather-indian-chess-making-right-moves-world-championship-2024-gukesh-ding?device=featurephone",
-         "pubDate" : "Mon, 2 Dec 2024 06:41:28",
-         "title" : "Viswanathan Anand, hands-on godfather of Indian chess, still making the right moves"
       },
       {
          "description" : "",
