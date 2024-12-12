@@ -130,6 +130,22 @@ news_feed (
          "title" : "18-Year-Old Gukesh Becomes Youngest-Ever Undisputed Chess World Champion"
       },
       {
+         "description" : "GM Andrey Esipenko on Thursday won the $25,000 first prize at the Qatar Masters, one of the strongest opens of the year. GM Arjun Erigaisi could only draw his final round game and finished in a tie for second place, which means GM Fabiano Caruana ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/esipenko-wins-2024-qatar-masters",
+         "pubDate" : "Thu, 12 Dec 2024 07:45:00",
+         "title" : "Esipenko Wins Qatar Masters; Arjun Misses Chance To Catch Caruana In FIDE Circuit"
+      },
+      {
+         "description" : "The London Chess Classic (LCC) was one of the first tournaments I heard of when I first entered the chess world in 2020. Previously hosted in West London at the Kensington Olympia, a place I had only ever visited for Christmas markets, the Classic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-back-and-more-british-than-ever",
+         "pubDate" : "Thu, 12 Dec 2024 07:34:00",
+         "title" : "The London Chess Classic Is Back And More British Than Ever"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116238559.cms\" />The World Chess Championship between D Gukesh and Ding Liren is level at 6.5 points each after 13 games. With one game remaining, the 18-year-old Indian challenger aims to secure victory in the final classical game to avoid tiebreakers, where the reigning champion, Liren, holds a significant advantage due to his superior rapid and blitz rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1010,28 +1026,12 @@ news_feed (
          "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, Financial Elite"
       },
       {
-         "description" : "GM Fabiano Caruana won the 2024 U.S. Masters with 8/9, winning all of his games except for a loss in round six against GM Nikolas Theodorou, who finished in clear second. Besides receiving $7,500 plus a trophy, Caruana also gains 17.11 FIDE Circui...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-us-masters-caruana-wins",
-         "pubDate" : "Mon, 02 Dec 2024 13:59:00",
-         "title" : "Caruana Wins 2024 U.S. Masters, Trails Arjun In FIDE Circuit By 1 Point"
-      },
-      {
          "description" : "Please find the live links of 15th KIIT International Chess Festival 2024 (Category &#8216;A') https://lichess.org/broadcast/15th-kiit-international-chess-festival-2024/round-1/EYnd1ykS",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-game-links15th-kiit-international-chess-festival-2024-category-a/",
          "pubDate" : "Mon, 02 Dec 2024 11:00:17",
          "title" : "Live Game links:15th KIIT International Chess Festival 2024 (Category 'A')"
-      },
-      {
-         "description" : "Do you hear what I hear? It&#38;rsquo;s the sound of Chess.com&#38;rsquo;s Holiday Bots! Santa and some familiar favorites are back and ready to challenge you to some chess games as the year wraps up. Find out if you&#38;rsquo;re naughty or nice by taking o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/holiday-bots-2024",
-         "pubDate" : "Mon, 02 Dec 2024 09:56:56",
-         "title" : "Play Against Chess.com's Holiday Bots"
       },
       {
          "description" : "",
