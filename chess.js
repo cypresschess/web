@@ -2,20 +2,108 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Chess Championship is taking place from 25 November to 13 December in Singapore. Reigning champion Ding Liren faces challenger Gukesh D in a 14-game match. The player who reaches 7&frac12; points wins the world crown. Going into the final classical game, the score is tied after Ding saved a draw from an inferior position on Wednesday. | Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116260716.cms\" />D Gukesh won the World Chess Championship. He defeated Ding Liren in a thrilling final match. The 18-year-old made history. He became the youngest world chess champion. Gukesh secured victory after a crucial error by Ding. Gukesh is the second Indian to win the title. He joins the legendary Viswanathan Anand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-ding-liren-blunder-that-made-d-gukesh-youngest-ever-world-chess-champion/articleshow/116260716.cms",
+         "pubDate" : "Thu, 12 Dec 2024 15:49:21",
+         "title" : "The Ding Liren blunder that made Gukesh world champion"
+      },
+      {
+         "description" : "Indian chess prodigy Grandmaster D. Gukesh has achieved a monumental milestone by defeating reigning champion Ding Liren in the 14th and decisive game of the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/d-gukesh-beats-ding-liren-to-become-youngest-world-chess-champion/",
+         "pubDate" : "Thu, 12 Dec 2024 15:38:58",
+         "title" : "D Gukesh beats Ding Liren to become youngest World Chess Champion"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116259918.cms\" />18-year-old Indian Grandmaster D Gukesh achieved his lifelong dream, becoming the youngest world chess champion by defeating Ding Liren. He secured victory with 7.5 points against 6.5 in a closely fought final game in Singapore. Gukesh fulfilled his childhood ambition, claiming the prestigious title and a $1.3 million prize, surpassing Garry Kasparov's previous record.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/11-year-old-d-gukesh-reveals-youngest-world-champion-ambition-in-viral-video-watch/articleshow/116259918.cms",
+         "pubDate" : "Thu, 12 Dec 2024 15:33:47",
+         "title" : "D Gukesh reveals 'youngest world champion' ambition in viral video"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116258960.cms\" />18-year-old Indian chess prodigy Gukesh Dommaraju defeated Ding Liren to become the youngest undisputed World Chess Champion. His victory in Singapore concluded with a score of 7.5-6.5. Gukesh's aggressive strategy paid off, securing his place in history and inspiring a new generation of chess players in India. Prime Minister Modi and President Murmu lauded his historic achievement.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-the-result-of-pm-modi-congratulates-d-gukesh-on-becoming-youngest-ever-world-chess-champion/articleshow/116258960.cms",
+         "pubDate" : "Thu, 12 Dec 2024 15:07:21",
+         "title" : "'This is the result of ... ': PM Modi congratulates D Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116258173.cms\" />D Gukesh, after a decade-long pursuit, achieved his childhood dream by becoming the youngest world chess champion. He expressed emotional disbelief after defeating Ding Liren in a closely fought 14-game match. Gukesh acknowledged Liren's sportsmanship and thanked his parents for their unwavering support. Liren, while disappointed, accepted the outcome gracefully, acknowledging Gukesh's deserved victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/to-see-the-indian-flag-next-to-me-was-the-best-moment-d-gukesh/articleshow/116258173.cms",
+         "pubDate" : "Thu, 12 Dec 2024 14:23:49",
+         "title" : "'To see the Indian flag next to me was the best moment': D Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257860.cms\" />18-year-old Indian Grandmaster D Gukesh etched his name in history, becoming the youngest world chess champion by defeating Ding Liren. Overwhelmed with emotion, Gukesh celebrated his victory with a unique gesture, resetting the pieces on the board. His 7.5 points to Ding's 6.5 secured the title in the 14th game, surpassing Garry Kasparov's record. Gukesh graciously acknowledged Ding's valiant fight.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-puts-his-pieces-back-in-a-unique-victory-celebration-watch/articleshow/116257860.cms",
+         "pubDate" : "Thu, 12 Dec 2024 14:02:37",
+         "title" : "D Gukesh puts his pieces back in a unique victory celebration. Watch"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3347",
+         "pubDate" : "Thu, 12 Dec 2024 14:02:01",
+         "title" : "FIDE World Championship Game 14: Gukesh D crowned 18th World Champion"
+      },
+      {
+         "description" : " 18 year old Gukesh Dommaraju became the youngest World Champion after defeating Ding Liren in the 14th and final game of the World Championship in Singapore. Just as we were preparing for a rapid tie-break on Friday Gukesh was the recipient of a gift of a whole point in the final game when a draw should have been well within Ding's capabilities. Ding only has himself to blame as he didn't even have be in a drawish endgame as awkward as this. Ding tried 1.Nf3 and 2.g3 and Gukesh surprised him with a very rare variation. The game followed the course of many others where the positions were a bit murky and hard to judge, even if there wasn't much in them. 19.Bxd4 would have been much better tha",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-is-the-new-world-chess-champion-after-ding-makes-an-extraordinarily-simple-blunder",
+         "pubDate" : "Thu, 12 Dec 2024 14:01:00",
+         "title" : "Gukesh is the new World Chess Champion after Ding makes an extraordinarily simple blunder - 14"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257378.cms\" />Indian Grandmaster D Gukesh made history by becoming the youngest-ever World Chess champion at 18, dethroning Ding Liren in a thrilling final game in Singapore. Gukesh's victory with black pieces followed Ding's critical blunder, securing the title 7.5-6.5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-reduced-to-tears-as-he-becomes-the-youngest-world-chess-champion-watch/articleshow/116257378.cms",
+         "pubDate" : "Thu, 12 Dec 2024 13:39:46",
+         "title" : "D Gukesh reduced to tears as he becomes youngest World Chess champion"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257286.cms\" />18-year-old Indian chess prodigy D Gukesh has made history, becoming the youngest-ever world chess champion. In a thrilling final match in Singapore, Gukesh defeated reigning champion Ding Liren, securing the title with a score of 7.5 to 6.5. He surpasses the previous record held by Garry Kasparov, who won the championship at age 22.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-beats-ding-liren-to-become-youngest-world-chess-champion/articleshow/116257286.cms",
+         "pubDate" : "Thu, 12 Dec 2024 13:36:35",
+         "title" : "D Gukesh beats Ding Liren to become youngest world chess champion"
+      },
+      {
+         "description" : "A catastropic blunder from Ding Liren on move 55 saw Gukesh capitalise and follow Viswanathan Anand in becoming the second world champion from India.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42921797/chess-world-championship-gukesh-ding-liren-live-score-updates-commentary-news-match-14?device=featurephone",
+         "pubDate" : "Thu, 12 Dec 2024 10:00:46",
+         "title" : "D Gukesh becomes youngest-ever world champion of chess, defeats Ding Liren with last-gasp victory"
+      },
+      {
+         "description" : "Gukesh D became the youngest-ever undisputed world chess champion after beating Ding Liren in the last classical encounter of their 14-game match in Singapore. Ding voluntarily entered a pawn-down endgame which was objectively drawn, but a blunder by the Chinese GM on move 52 meant Gukesh would take the title by winning the match with a 7&frac12;-6&frac12; score. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Thu, 12 Dec 2024 09:45:00",
-         "title" : "World Championship, Game 14 - Live!"
+         "title" : "World Championship: Gukesh takes the title!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116244716.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/world-chess-championship-2024-live-updates-game-14-d-gukesh-vs-ding-liren-streaming/liveblog/116244716.cms",
-         "pubDate" : "Thu, 12 Dec 2024 07:47:11",
-         "title" : "World Chess C'ship 2024, Game 14 LIVE: Gukesh nears result vs Ding"
+         "description" : "18-year-old Indian GM Gukesh Dommaraju is the world champion after the defending title holder GM Ding Liren (32) from China collapsed in game 14 of the 2024 FIDE World Championship. Gukesh won 7.5-6.5, taking $1.35 million, after a game where Ding...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-14",
+         "pubDate" : "Thu, 12 Dec 2024 08:00:00",
+         "title" : "18-Year-Old Gukesh Becomes Youngest-Ever Undisputed Chess World Champion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116238559.cms\" />The World Chess Championship between D Gukesh and Ding Liren is level at 6.5 points each after 13 games. With one game remaining, the 18-year-old Indian challenger aims to secure victory in the final classical game to avoid tiebreakers, where the reigning champion, Liren, holds a significant advantage due to his superior rapid and blitz rankings.",
@@ -24,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-why-d-gukesh-will-prefer-winning-the-world-chess-championship-in-game-14-itself/articleshow/116238559.cms",
          "pubDate" : "Thu, 12 Dec 2024 05:46:09",
          "title" : "EXPLAINED: Why Gukesh wants to end Liren's reign in Game 14 itself"
+      },
+      {
+         "description" : "Chess is not the only sport forced to deal with cheating. Now the world of backgammon is rocked by its own scandal. The U.S. Backgammon Federation (USBGF) announced their decision last week, following an investigation into cheating during the 20...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/backgammon-world-rocked-by-cheating-scandal",
+         "pubDate" : "Thu, 12 Dec 2024 05:12:00",
+         "title" : "Backgammon Faces Cheating Scandal As U.S. Player Is Banned"
       },
       {
          "description" : " 2024 World Chess Championship: Game 13Tuesday, 11 December 2024 A heavyweight battle ends in a drawtension high on even of final game The Ding-Gukesh draw today held the chess world in suspense. FIDE President Arkady Dvorkovich made the ceremonial move and saw that the future of chess is in good hands. Ding Liren and Gukesh The post <a href=\"https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/\">Ding-Gukesh draw in thrilling battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -40,14 +136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42911871/gukesh-lets-golden-chance-slip-vs-ding-liren-penultimate-game-chess-world-championship?device=featurephone",
          "pubDate" : "Wed, 11 Dec 2024 22:33:58",
          "title" : "Gukesh lets golden chance slip in penultimate game of chess World Championship"
-      },
-      {
-         "description" : "Follow game 14 of the world chess championship LIVE, with Gukesh and Ding tied at 6.5 points apiece.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42921797/chess-world-championship-gukesh-ding-liren-live-score-updates-commentary-news-match-14?device=featurephone",
-         "pubDate" : "Wed, 11 Dec 2024 22:30:46",
-         "title" : "LIVE: Gukesh vs Ding, game 14 of World Championship"
       },
       {
          "description" : "The tension in Singapore continues to mount as the World Chess Championship match heads into its final classical game with the score tied at 6.5-6.5. In a gripping 13th game, Gukesh D created significant pressure with the white pieces in a French Defence but missed critical chances to convert his advantage, allowing Ding Liren to hold a draw after 68 moves. The reigning champion showed remarkable defensive skill under time pressure, while Gukesh remained undeterred despite his missed opportunity. | Photo: FIDE / Eric Rosen",
@@ -104,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3345",
          "pubDate" : "Wed, 11 Dec 2024 14:54:16",
          "title" : "FIDE World Championships 2025, 2026 and 2027: Call for bids"
-      },
-      {
-         "description" : "The 2024 FIDE World Championship between World Champion Ding Liren and Challenger Gukesh Dommaraju is deadlocked 6.5-6.5 after Ding held game 13 with the black pieces. Game 14, the last classical game of the match, is on Thursday, December 12, at ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-14",
-         "pubDate" : "Wed, 11 Dec 2024 14:00:00",
-         "title" : "How To Watch FIDE World Championship 2024 Game 14"
       },
       {
          "description" : "Follow live updates from game 13 of the world chess championship, with Gukesh and Ding tied at 6 points apiece.",
@@ -946,14 +1026,6 @@ news_feed (
          "title" : "Viswanathan Anand, hands-on godfather of Indian chess, still making the right moves"
       },
       {
-         "description" : "GM Arjun Erigaisi became the 15th player in history to break the 2800 Elo barrier in standard chess ratings and only the second Indian player to do so after GM Viswanathan Anand. With 2801, Arjun is the world number-four on the December 2024 FIDE ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/december-2024-fide-ratings-arjun-erigaisi",
-         "pubDate" : "Mon, 02 Dec 2024 02:31:00",
-         "title" : "Arjun Erigaisi Officially Joins Carlsen, Caruana, Nakamura In 2800 Club"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -976,22 +1048,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-draw-game-6-of-the-world-chess-championship",
          "pubDate" : "Sun, 1 Dec 2024 14:31:00",
          "title" : "Ding and Gukesh draw game 6 of the World Chess Championship - 6"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115870011.cms\" />In a thrilling Game 6 of the World Chess Championship, 18-year-old Indian challenger D Gukesh drew with the defending champion Ding Liren of China after 46 moves. Both are level at 3 points each, needing 4.5 points to win. The match continues with eight games remaining, and Ding Liren appears to be gaining confidence.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-forces-draw-against-ding-liren-in-game-6-of-world-chess-championship/articleshow/115870011.cms",
-         "pubDate" : "Sun, 01 Dec 2024 13:59:37",
-         "title" : "D Gukesh forces draw against Ding Liren in Game 6"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115867023.cms\" />Arjun Erigaisi has become the second Indian, after Viswanathan Anand, and the 16th worldwide to reach the prestigious ELO rating of 2800. The 21-year-old Grandmaster, who also won gold at the Chess Olympiad, now ranks fourth in the world. He trails Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura in the global chess standings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-becomes-second-indian-to-achieve-2800-elo-rating-in-chess/articleshow/115867023.cms",
-         "pubDate" : "Sun, 01 Dec 2024 10:50:20",
-         "title" : "Arjun Erigaisi becomes second Indian to achieve 2800 ELO rating in chess"
       },
       {
          "description" : "On behalf of All India Chess Federation, The Chhattisgarh State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam &#160;Hotel Grand Imperia, VIP Road,",
@@ -1018,14 +1074,6 @@ news_feed (
          "title" : "Females and Males Working Behind The Scene"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115859132.cms\" />Ding Liren achieved a draw with black against D Gukesh in the fifth game of the World Chess Championship. Despite having a potential advantage, Ding's cautious approach ended in a stalemate. The match stands tied at 2.5 points each, with Ding playing with white in the next game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/below-par-gukesh-heads-to-6th-game-on-even-ground/articleshow/115859132.cms",
-         "pubDate" : "Sun, 01 Dec 2024 03:45:54",
-         "title" : "Below-par Gukesh heads to 6th Game on even ground"
-      },
-      {
          "description" : " Ding Liren showed a little of why he's such a respected player in outplaying Gukesh with black in an Exchange French in game 5 of the World Chess Championship, also the way he spoiled this chance in only a few of moves is rather typical of his current problems. Nevertheless after a really insipid performance in game four there were definitely signs of life in the Ding campaign today. Game Summary below. Score Ding 2.5 - Gukesh 2.5 Game 6 Ding-Gukesh Sunday 1st December. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1050,14 +1098,6 @@ news_feed (
          "title" : "The Simple Path to 1500: Lessons From My Dad's Chess Journey"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115843000.cms\" />In the fifth game of the World Chess Championship, India's 18-year-old D Gukesh and China's defending champion Ding Liren ended with a draw after 40 moves. Both players now have 2.5 points each. Gukesh, using the King's pawn opening, aimed for an imbalanced position, but the game concluded in a balanced endgame with no progress in sight.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-ding-liren-game-5-ends-in-draw-scores-level-at-2-5-2-5-at-world-chess-championship/articleshow/115843000.cms",
-         "pubDate" : "Sat, 30 Nov 2024 12:36:55",
-         "title" : "Gukesh vs Ding Liren Game 5 ends in draw"
-      },
-      {
          "description" : "World Chess Championship update: at the time of writing, Ding and Gukesh are tied on 2-2, with one win each and two draws. In today's fifth game, Gukesh has White. My colleague Adam Black, in the course of his research into the games of Marcel Duchamp, has long extolled the virtues of Le Lionnais; this French polymath, whose infuriatingly rare, but evidently eminent credentials are all too []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1072,14 +1112,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-world-cadet-chess-championship-2024-held-at-montesilvano-italy-from14th-november-to-27th-november-2024/",
          "pubDate" : "Sat, 30 Nov 2024 09:12:25",
          "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115830347.cms\" />In the fourth game of their World Chess Championship match, challenger D Gukesh and reigning champion Ding Liren played a quiet draw. Gukesh managed to equalize despite Ding's semi-surprise move in the Reti Opening. The score remains tied at 2-2, with Gukesh's confident play being notable.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-fourth-game-drawn-d-gukesh-plays-with-white-pieces-today-against-ding-liren/articleshow/115830347.cms",
-         "pubDate" : "Sat, 30 Nov 2024 04:45:05",
-         "title" : "World C'ship: Fourth game drawn; Gukesh plays with white pieces today"
       },
       {
          "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
@@ -1114,14 +1146,6 @@ news_feed (
          "title" : "100% accuracy for Ding Liren and Gukesh in their 4th game draw"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115810708.cms\" />In Game 4 of the World Chess Championship final, India's Gukesh Dommaraju drew with reigning champion Ding Liren of China. Gukesh effectively managed Ding's unexpected Reti Opening, resulting in a balanced position. After 42 moves of cautious play and strategic manoeuvring, the game concluded in a draw. The score stands at 2-2 with Game 5 scheduled for Saturday. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-indias-d-gukesh-holds-ding-liren-in-game-4-remains-level-on-points/articleshow/115810708.cms",
-         "pubDate" : "Fri, 29 Nov 2024 13:15:49",
-         "title" : "World Championship: India's Gukesh holds Liren in Game 4"
-      },
-      {
          "description" : " After Gukesh Dommaraju and Ding Liren draw game four, English talents prepare to take on overseas rivals China's Ding Liren, the world champion, and India's Gukesh Dommaraju, 18, are level at 2-2 after four of their scheduled best-of-14 games title match in Singapore. Ding <a href=\"https://www.chessgames.com/perl/chess.pl?tid=131517&amp;amp;pid=52629\">won their first game</a> before Gukesh, the challenger, levelled in game three when Ding, in a hopeless position, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2807569\">lost on time</a> while making his 37th move. Friday's game four was a calm draw by repetition of position in 42 moves, with frequent exchanges which finally <a href=\"h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1136,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation and Arbiters' Commission AICF, Karnataka State Chess Association was organized a Senior National Arbiters Seminar &#38; Exam at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-maddur-mandya-karnataka-from-23-to-24-november-2024/",
-         "pubDate" : "Fri, 29 Nov 2024 06:40:51",
-         "title" : "Final Report :SNA Seminar, Maddur, Mandya, Karnataka from 23 to 24 November 2024"
       },
       {
          "description" : " 2024 World Chess Championship: Game 3Wednesday, 26 November 2024 Gukesh breaks through evens the score! Dommaraju Gukesh won Game 3 of the World Championship match with an impressive win over Ding Liren. This game rode on a razor's edge when Ding was close to stealing the initiative. The game went down normal channels and followed The post <a href=\"https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/\">2024 World Chess Championship: Game 3</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1168,6 +1184,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/28/2024-world-chess-championship-game-2/",
          "pubDate" : "Thu, 28 Nov 2024 17:13:09",
          "title" : "2024 World Chess Championship: Game 2"
+      },
+      {
+         "description" : "For last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html\">A Press of Yahoos</A> (October 2024; if you're wondering, 'What means \"Yahoos\"'?; see the footnote), I wrote, <BLOCKQUOTE> This month's 97 stories -- 10 of them old stories from previous months -- lacked a clear favorite. </BLOCKQUOTE> <P> This month's post had more than 100 stories on the World Chess Championship (WCC) that started this week in Singapore and zero old stories. How can there be more than 100 WCC stories when the footnote says 'top-100 (or so)'? <P> That's an easy calculation: the first page of results had 91 stories, of which 37 were not about the WCC, leaving 54 WCC st",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/world-championship-yahoos-2024-12.html",
+         "pubDate" : "Thu, 28 Nov 2024 16:32:00",
+         "title" : "World Championship Yahoos 2024 (1/2)"
       },
       {
          "description" : "Finally, in this three-part series, we come to the first full Babson task endgame study, composed by Gady Costeff. Many thought it was not possible to fulfil this extremely difficult task. Harold van der Heijden describes the full story. But one problem remains: the position is not legal. Costeff had already constructed it in 2011 and tried in vain to find a legal version. So this is still an open problem. Maybe you can give it a try?",
@@ -1360,22 +1384,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/nov/22/champion-ding-and-challenger-gukesh-prepare-for-world-title-battle",
          "pubDate" : "Fri, 22 Nov 2024 08:00:08",
          "title" : "Champion Ding and challenger Gukesh prepare for world title battle"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3314",
-         "pubDate" : "Thu, 21 Nov 2024 15:47:43",
-         "title" : "World Cadet Championship 2024 reaches midpoint"
-      },
-      {
-         "description" : " The Freestyle Chess Match Carlsen vs. Caruana took place Wed 20th Nov to Fri 22nd Nov 2024 in Singapore. There was an opening hand and brain event before a two game 90m+30spm match between Magnus Carlsen and Fabiano Caruana in Chess960 which is being rebranded for this series as Freestyle Chess. Carlsen won the first game rather quickly and the second game was drawn.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/freestyle-chess-match-carlsen-vs.-caruana-2024",
-         "pubDate" : "Thu, 21 Nov 2024 14:29:00",
-         "title" : "Freestyle Chess Match: Carlsen vs. Caruana 2024 - Games and Results"
       }
    ]
 }
