@@ -82,6 +82,14 @@ news_feed (
          "title" : "D Gukesh beats Ding Liren to become youngest world chess champion"
       },
       {
+         "description" : "The new world champion is also happy that he is the one who got back the title after Viswanathan Anand (five-time champion) lost to Magnus Carlsen in their home town in Chennai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42931363/chess-world-championship-gukesh-ding-liren-quotes-youngest-champion-living-moment-6?device=featurephone",
+         "pubDate" : "Thu, 12 Dec 2024 11:10:34",
+         "title" : "'I've been living this moment since I was 6' - Gukesh after becoming youngest chess champion"
+      },
+      {
          "description" : "A catastropic blunder from Ding Liren on move 55 saw Gukesh capitalise and follow Viswanathan Anand in becoming the second world champion from India.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/holiday-bots-2024",
          "pubDate" : "Mon, 02 Dec 2024 09:56:56",
          "title" : "Play Against Chess.com's Holiday Bots"
-      },
-      {
-         "description" : "For India's future chess stars, Anand is not just a spiritual inspiration as a mythical figure who went to places that no other Indian before him did. He's there for them first-hand.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42733514/viswanathan-anand-hands-godfather-indian-chess-making-right-moves-world-championship-2024-gukesh-ding?device=featurephone",
-         "pubDate" : "Mon, 2 Dec 2024 06:41:28",
-         "title" : "Viswanathan Anand, hands-on godfather of Indian chess, still making the right moves"
       },
       {
          "description" : "",
