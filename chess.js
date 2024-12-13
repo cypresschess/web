@@ -170,6 +170,22 @@ news_feed (
          "title" : "Ding-Gukesh draw in thrilling battle!"
       },
       {
+         "description" : "18 for 18: 18-year-old Gukesh Dommaraju Becomes 18th Undisputed World Chess Champion <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Eng Chin An/FIDE<br> <br> <br> <br> Indian GM Gukesh Dommaraju defeated reigning FIDE World Champion GM Ding Liren (China) in the 14th and final game of the 2024 FIDE World Chess Championship, winning the match 7&frac12;-6&frac12; on Thursday, December 12 after two-and-a-half weeks of play. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/gukesh-wins-2024-fide-world-chess-championship-stunning-last-round-victory",
+         "pubDate" : "Thu, 12 Dec 2024 00:00:00",
+         "title" : "Gukesh Wins 2024 FIDE World Chess Championship with Stunning Last-Round Victory"
+      },
+      {
+         "description" : "Less than two weeks ago, we reported on IM Mark Heimann earning his second GM norm at the U.S. Masters in Charlotte. And yet, less than a week after the conclusion of the Masters, Heimann earned his final GM norm and enough FIDE rating points to cross the 2500 threshold, making him eligible for the GM title and the next FIDE Congress. View this post on Instagram A post shared by Mark Heimann (@lastgoodcaesar) The Saint Louis Masters - held from December 3 through 7 at the Royal Sonesta Chase Park Plaza Hotel in St. Louis, MIssouri - featured 59 strong players competing for FIDE Circuit points and a share of a $100,000 prize fund. GMs Fabiano Caruana and Alexander Donchenko (Germany) tied for",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/another-one-mark-heimann-earns-gm-title-days-after-second-norm",
+         "pubDate" : "Thu, 12 Dec 2024 00:00:00",
+         "title" : "Another One! Mark Heimann Earns GM Title Days After Second Norm"
+      },
+      {
          "description" : "A well-prepared Gukesh had all the advantage in game 13 but one slight misjudgment meant Ding defended his way back for a draw.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Flash Report: 2024 National K-12 Grade Championships"
       },
       {
-         "description" : "Editor's note: This article has been updated with photographs from the top boards of each section.The triple-round day is in the books at the 2024 K-12 Grade National Championships in National Harbor, Maryland. With only two rounds to go, we are hours away from crowning our next set of national champions for all 13 grades.Several sections are already out of players with perfect scores, with many more having only one or two remaining. Only the first-grade section has more than three perfect scores remaining. And that's not to mention the team standings, where some sections feature multiple teams tied at the top and several others see only a half-point of separation. <br> <br> <br> <br> Image<",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/k-12-grades-pivotal-pairings-set-championship-sunday",
-         "pubDate" : "Sun, 08 Dec 2024 00:00:00",
-         "title" : "K-12 Grades: Pivotal Pairings Set for Championship Sunday"
-      },
-      {
          "description" : "A spirited performance by GM Hikaru Nakamura in Saturday&#39;s Bullet Brawl saw him return to the throne and collect the $400 first prize after consecutive second-place finishes in November. 72 wins, 28 of which were part of a timely winning streak,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-d-gukesh-searches-high-and-low-for-one-against-wily-ding/articleshow/116061830.cms",
          "pubDate" : "Sat, 07 Dec 2024 01:40:01",
          "title" : "Gukesh searches high and low for one against Wily Ding"
-      },
-      {
-         "description" : "2,700+ in National HarborMost chess players come to realize early on in their playing careers that they might never reach the \"Super-GM\" strength of a 2700 rating. But, in National Harbor, Maryland, all 2,704 chess players - ranging from kindergarteners to high school seniors - are part of a different record-setting 2,700+ club at this year's National K-12 Grade Championships.Held from December 6 through 8, this year's scholastic eclipsed the 2022 attendance record by over 200 participants. Registration for many sections had been full for weeks leading up to the event, making it a hot ticket. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Sarah Ransom",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/over-2700-compete-maryland-k-12-grades-kick",
-         "pubDate" : "Sat, 07 Dec 2024 00:00:00",
-         "title" : "Over 2,700 Compete in Maryland as K-12 Grades Kick Off"
       },
       {
          "description" : "World Champion Ding Liren hesitated on move one against GM Gukesh Dommaraju in game 10 of the 2024 FIDE World Championship, but then he repeated 1.d4 and the London System and got a risk-free position with a small edge. He failed to apply any pres...",
