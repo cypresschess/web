@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's all over. After a tense battle that swayed from side to side, the final games were decisive. They were exciting - but also very instructive. Who better to explain them than world-class trainer GM Efstratios Grivas. He provides us with deep analysis from which there is a lot to learn. For amateurs and strong players alike. | Photo Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-wch-games-13-14",
+         "pubDate" : "Fri, 13 Dec 2024 08:32:52",
+         "title" : "Grivas on WCh games 13 + 14"
+      },
+      {
+         "description" : "The 15th KIIT International Chess Festival 2024, organized by KIIT University, Bhubaneswar, under the aegis of the All India Chess Federation (AICF), concluded successfully on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-savchenko-boris-winner15th-kiit-international-chess-festival-2024/",
+         "pubDate" : "Fri, 13 Dec 2024 06:13:09",
+         "title" : "GM Savchenko Boris Emerges Champion at 15th KIIT International Chess Festival 2024"
+      },
+      {
          "description" : " 2024 World Chess Championship: Game 14Thursday, 13 December 2024 Gukesh wins world title after Ding blunders A triumphant Gukesh celebrates his historic victoryPhoto by Eng Chin An While Gukesh Dommaraju was considered the favorite in the match, there were serious doubts going into the 14th game. The teenager came off of a devastating loss and The post <a href=\"https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/\">Gukesh shocks Ding in finale, wins title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
       },
       {
-         "description" : "The Karan Nagari Chess Association successfully organized its first-ever Senior National Arbiter Seminar under the aegis of the Haryana Chess Association and on behalf of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiter-seminar-examination-from-23-to-24-november-2024-at-karnal-haryana/",
-         "pubDate" : "Fri, 29 Nov 2024 15:34:28",
-         "title" : "Final Report: Senior National Arbiter Seminar & Examination from 23 to 24 November 2024 at Karnal, Haryana ."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1384,22 +1392,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/gukeshs-debuts-in-wcc-cycle-and-in-twic.html",
          "pubDate" : "Fri, 22 Nov 2024 16:31:00",
          "title" : "Gukesh Debuts in a WCC Cycle and in TWIC"
-      },
-      {
-         "description" : "There are tactical motifs which are continuously repeated and can be learned exactly like we learn opening theory. I feel that the correct approach is to collect thematic, nearly identical positions which are involved on similar patterns which you should look for. In this survey I will present an often met tactical motif I call the \"Shirov Killer.\" It was wonderfully demonstrated by legendary GM Alexei Shirov in an Internet blitz game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/learning-the-shirov-killer",
-         "pubDate" : "Fri, 22 Nov 2024 08:19:35",
-         "title" : "Learning the Shirov Killer"
-      },
-      {
-         "description" : " The Chinese and Indian grandmasters will compete over 14 games in Singapore for a $2.6m prize fund, with Gukesh 1-5 favourite to win China's world champion, Ding Liren, 32, and his Indian rival Gukesh Dommaraju, at 18 the youngest ever title challenger, meet for the opening ceremony of their $2.6m 14-game title match in Singapore on Saturday, with the first game scheduled to start at 9am GMT (17.00 local time) on Monday. This will be the 50th contest for the crown since 1886, and the first where both contestants are Asian. The No 1 player of the time was almost always a participant, but not in 2023 or 2024. Currently Gukesh is No 5 in the rankings, while Ding languishes at No 23. The world ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/nov/22/champion-ding-and-challenger-gukesh-prepare-for-world-title-battle",
-         "pubDate" : "Fri, 22 Nov 2024 08:00:08",
-         "title" : "Champion Ding and challenger Gukesh prepare for world title battle"
       }
    ]
 }
