@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Completely new possibilities for strategy training: ChessBase 18 searches games for you according to 30 (!) different strategic themes! In the new search mask you can select strategic themes from 3 categories. In the category 'Structure' you will find topics such as 'Space advantage' or 'Majority on the queenside'. The 'Pieces' section deals with the value of individual pieces, i.e. 'opposite coloured bishops' or 'strong rooks'. And under 'Plans' you can search for 'Attack weakness', 'Successful defence' or 'King's attack'. ChessBase 18 then provides a list of games sorted according to the importance of the strategic theme and when you click on it, ChessBase 18 jumps to the relevant part of ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/search-for-strategic-topics-with-chessbase-18",
+         "pubDate" : "Fri, 13 Dec 2024 19:00:00",
+         "title" : "Search for strategic topics with ChessBase 18!"
+      },
+      {
+         "description" : "The young Russian grandmaster Andrey Esipenko (photo) won the highly competitive Qatar Masters with 7&frac12; points after 9 rounds of play. Second and third place were shared by Arjun Erigaisi and Nodirbek Abdusattorov, each with 7 points. Arjun missed the opportunity to overtake Fabiano Caruana in the FIDE Circuit. Whoever has the most FIDE Circuit points at the end of the year will qualify for the 2026 Candidates Tournament. | Photo: Anna Shtourman / Qatar Masters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrey-esipenko-wins-qatar-masters-2024",
+         "pubDate" : "Fri, 13 Dec 2024 17:40:00",
+         "title" : "Andrey Esipenko wins Qatar Masters"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116295261.cms\" />Newly crowned chess world champion, 18-year-old D Gukesh, dismisses criticism of his match quality against Ding Liren. Gukesh emphasized willpower and character as key factors in his victory, becoming the youngest world champion. While acknowledging the subpar quality of some games, he attributed it to the pressure of the new experience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Watch: Emotional moment as Gukesh hands trophy to his mother"
       },
       {
+         "description" : "We&#39;re excited to announce the 2025 Chess.com Chess Improvement Challenge! This is your chance to join a community of like-minded Chess.com members and coaches, reach your chess improvement goals, and win prizes! Sign up for the challenge and set...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2025",
+         "pubDate" : "Fri, 13 Dec 2024 12:00:18",
+         "title" : "Level Up Your Chess And Win Prizes In The 2025 Chess Improvement Challenge"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116288641.cms\" />Chess legend Garry Kasparov congratulated D Gukesh on becoming the youngest world champion, surpassing Kasparov's own record. Gukesh's victory over Ding Liren in Singapore marked a historic moment for India. Kasparov dismissed criticisms of the match quality, highlighting the inevitable blunders in high-pressure championships.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,12 +74,36 @@ news_feed (
          "title" : "Certificate: National Sub Junior & Subjunior Girls (Under 15) Chess Championship 2024"
       },
       {
+         "description" : "\"Most athletes don't become world champions when they win the final, they arrive there at the start as champions,\" Upton said.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42948838/paddy-upton-gukesh-chess-champion-helping-hand-video-calls-temperature-controls-last-minute-flight-out?device=featurephone",
+         "pubDate" : "Fri, 13 Dec 2024 10:17:43",
+         "title" : "Paddy Upton's helping hand to Gukesh: Video calls, temperature controls, last-minute flight out"
+      },
+      {
          "description" : "It's all over. After a tense battle that swayed from side to side, the final games were decisive. They were exciting - but also very instructive. Who better to explain them than world-class trainer GM Efstratios Grivas. He provides us with deep analysis from which there is a lot to learn. For amateurs and strong players alike. | Photo Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-on-wch-games-13-14",
          "pubDate" : "Fri, 13 Dec 2024 08:32:52",
          "title" : "Grivas on WCh games 13 + 14"
+      },
+      {
+         "description" : "Chess.com is happy to announce a new partnership with Freestyle Chess to support the 2025 Freestyle Chess Grand Slam Tour. Chess.com will host the live coverage of the Tour and offer a qualification path for each event to any of our members, with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-grand-slam-tour-2025-partnership",
+         "pubDate" : "Fri, 13 Dec 2024 08:30:00",
+         "title" : "Chess.com Officially Partners With Freestyle Chess To Support 2025 Grand Slam Tour"
+      },
+      {
+         "description" : "It was a moment that, he said, he had replayed millions of times in his head.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42947193/d-gukesh-beats-ding-lire-becomes-world-champion-gets-trophy?device=featurephone",
+         "pubDate" : "Fri, 13 Dec 2024 07:45:50",
+         "title" : "Gukesh gets his trophy: 'This moment was why I did every little thing so far'"
       },
       {
          "description" : "If you play chess, chances are you&#39;ve heard of IM Levy Rozman. Known as GothamChess, Levy is the world&#39;s biggest chess content creator, with millions of fans all around the planet. A Youtuber, commentator, and writer, Levy is now embarking on his ...",
@@ -962,14 +1010,6 @@ news_feed (
          "title" : "Extended list of participants for 2024 WRB announced"
       },
       {
-         "description" : "Call it ambition, call it false optimism, or just the exuberance of youth, it made for a fascinating game 8 of the FIDE World Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42775682/gukesh-vs-ding-game-8-unwillingness-draw-makes-chess-world-championship-2024-fascinating-watch?device=featurephone",
-         "pubDate" : "Wed, 4 Dec 2024 12:00:32",
-         "title" : "Gukesh's unwillingness to draw makes Chess World Championship a fascinating watch"
-      },
-      {
          "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -992,22 +1032,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-3-4",
          "pubDate" : "Wed, 04 Dec 2024 09:38:00",
          "title" : "Canadian Masters Plotkin, Awatramani Win Crazyhouse Qualifiers 3 & 4"
-      },
-      {
-         "description" : "Both Gukesh and Ding spurned great opportunities to win, in a wild game that eventually resulted with both players level at 4-4 overall.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42761546/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-8?device=featurephone",
-         "pubDate" : "Wed, 4 Dec 2024 09:18:25",
-         "title" : "Gukesh salvages draw against Ding in rollercoaster Game 8 of World Championship"
-      },
-      {
-         "description" : "Both Titled Tuesday events of December 3 went down to the wire, with GM Denis Lazavik emerging ahead of GMs Javokhir Sindarov and Matthias Bluebaum in the early tournament on tiebreaks, and GM Hikaru Nakamura getting the tiebreak over GM Alireza F...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-nakamura-win-titled-tuesday-december-3-2024",
-         "pubDate" : "Wed, 04 Dec 2024 08:20:06",
-         "title" : "Nakamura, Firouzja Battle It Out In Titled Tuesday"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3333",
          "pubDate" : "Tue, 03 Dec 2024 10:50:13",
          "title" : "FIDE Circuit 2024: Erigaisi still in the lead, Caruana closes in"
-      },
-      {
-         "description" : "India&#39;s GM Gukesh Dommaraju had Chinese World Champion Ding Liren on the ropes in game seven of the 2024 FIDE World Championship, with a heartbreaking move-40 blunder looking likely to cost Ding the game even after he&#39;d found a way to survive. He ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
-         "pubDate" : "Tue, 03 Dec 2024 10:00:00",
-         "title" : "Ding Escapes In Game 7 Thriller To Tie Gukesh At Halfway"
       },
       {
          "description" : "Please find the live links of 15th KIIT International Chess Festival 2024 (Category &#8216;A') https://lichess.org/broadcast/15th-kiit-international-chess-festival-2024/round-1/EYnd1ykS",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://www.thearticle.com/who-will-be-world-king-of-chess-ding-or-gukesh/",
          "pubDate" : "Sat, 23 Nov 2024 11:19:24",
          "title" : "Who will be world king of chess: Ding or Gukesh?"
-      },
-      {
-         "description" : "In a recent post, <A HREF=\"https://worldchesschampionship.blogspot.com/2024/11/2024-ding-liren-gukesh-players.html\">2024 Ding Liren - Gukesh, the Players</A> (November 2024), I promised, '[In 2022-23] I featured Ding Liren [so] I'll start a similar series for Gukesh in a few days.' And here we are. <P> That Ding Liren series started with one post on his rise to the World Championship and one post on his early mentions in TWIC. Here I'll combine those two ideas into a single post. The following screen capture shows Gukesh's participation in World Championship qualifying events prior to the current cycle. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok22.gif\" WIDTH=320 HEIGHT",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/gukeshs-debuts-in-wcc-cycle-and-in-twic.html",
-         "pubDate" : "Fri, 22 Nov 2024 16:31:00",
-         "title" : "Gukesh Debuts in a WCC Cycle and in TWIC"
       }
    ]
 }
