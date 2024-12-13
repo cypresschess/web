@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116295261.cms\" />Newly crowned chess world champion, 18-year-old D Gukesh, dismisses criticism of his match quality against Ding Liren. Gukesh emphasized willpower and character as key factors in his victory, becoming the youngest world champion. While acknowledging the subpar quality of some games, he attributed it to the pressure of the new experience.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-unfazed-by-carlsen-kramnik-criticism-says-world-championship-decided-not-just-by-/articleshow/116295261.cms",
+         "pubDate" : "Fri, 13 Dec 2024 15:33:13",
+         "title" : "Gukesh unfazed by Carlsen, Kramnik criticism, says..."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3348",
+         "pubDate" : "Fri, 13 Dec 2024 14:58:29",
+         "title" : "Gukesh D crowned 18th FIDE World Champion"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation Academy has announced the start of its second season, featuring an enhanced format with more instructional hours and additional lessons from top players and trainers, including special sessions from the Legendary World Champion, Garry Kasparov himself. The KCF announcement contains twelve instructive endgames for you to study.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-season-two",
+         "pubDate" : "Fri, 13 Dec 2024 14:00:00",
+         "title" : "KCF Academy season two"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116292864.cms\" />Overwhelmed with joy, D Gukesh's mother, J Padmakumari, recounts the family's sacrifices after his World Chess Championship victory. Her husband left his surgical career to support Gukesh's travels, while she became the sole provider. Financial struggles led to friends sponsoring Gukesh's tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-emotional-moment-as-d-gukesh-hands-trophy-to-his-proud-mother/articleshow/116292864.cms",
+         "pubDate" : "Fri, 13 Dec 2024 13:34:09",
+         "title" : "Watch: Emotional moment as Gukesh hands trophy to his mother"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116288641.cms\" />Chess legend Garry Kasparov congratulated D Gukesh on becoming the youngest world champion, surpassing Kasparov's own record. Gukesh's victory over Ding Liren in Singapore marked a historic moment for India. Kasparov dismissed criticisms of the match quality, highlighting the inevitable blunders in high-pressure championships.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,6 +58,22 @@ news_feed (
          "title" : "Grivas on WCh games 13 + 14"
       },
       {
+         "description" : "If you play chess, chances are you&#39;ve heard of IM Levy Rozman. Known as GothamChess, Levy is the world&#39;s biggest chess content creator, with millions of fans all around the planet. A Youtuber, commentator, and writer, Levy is now embarking on his ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-european-tour-may-2025",
+         "pubDate" : "Fri, 13 Dec 2024 07:00:00",
+         "title" : "GothamChess To Meet Fans In Person In First-Ever European Tour Starting May 2025"
+      },
+      {
+         "description" : "Another season of the Collegiate Chess League (CCL) is just around the corner, and we are excited to announce that registrations for the Spring 2025 season are now open! The CCL will once again feature a robust $25,000 prize fund, the popular four...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2025-registration",
+         "pubDate" : "Fri, 13 Dec 2024 06:30:00",
+         "title" : "Collegiate Chess League Spring 2025 Registration"
+      },
+      {
          "description" : "The 15th KIIT International Chess Festival 2024, organized by KIIT University, Bhubaneswar, under the aegis of the All India Chess Federation (AICF), concluded successfully on",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -34,7 +82,15 @@ news_feed (
          "title" : "GM Savchenko Boris Emerges Champion at 15th KIIT International Chess Festival 2024"
       },
       {
-         "description" : " 2024 World Chess Championship: Game 14Thursday, 13 December 2024 Gukesh wins world title after Ding blunders A triumphant Gukesh celebrates his historic victoryPhoto by Eng Chin An While Gukesh Dommaraju was considered the favorite in the match, there were serious doubts going into the 14th game. The teenager came off of a devastating loss and The post <a href=\"https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/\">Gukesh shocks Ding in finale, wins title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "Although the final moments may have been dramatic, so it seemed Gukesh had manufactured a win, this was all thought out well before the world championship even began.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42945249/d-gukesh-becomes-world-champion-beats-ding-liren-simple-heist-one-plan?device=featurephone",
+         "pubDate" : "Fri, 13 Dec 2024 05:25:22",
+         "title" : "The simple heist: There was only one plan, for Gukesh to be Gukesh"
+      },
+      {
+         "description" : " 2024 World Chess Championship: Game 14Thursday, 12 December 2024 Gukesh wins world title after Ding blunders A triumphant Gukesh celebrates his historic victoryPhoto by Eng Chin An While Gukesh Dommaraju was considered the favorite in the match, there were serious doubts going into the 14th game. The teenager came off of a devastating loss and The post <a href=\"https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/\">Gukesh shocks Ding in finale, wins title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
@@ -234,14 +290,6 @@ news_feed (
          "title" : "Gukesh lets golden chance slip in penultimate game of chess World Championship"
       },
       {
-         "description" : "The tension in Singapore continues to mount as the World Chess Championship match heads into its final classical game with the score tied at 6.5-6.5. In a gripping 13th game, Gukesh D created significant pressure with the white pieces in a French Defence but missed critical chances to convert his advantage, allowing Ding Liren to hold a draw after 68 moves. The reigning champion showed remarkable defensive skill under time pressure, while Gukesh remained undeterred despite his missed opportunity. | Photo: FIDE / Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g13",
-         "pubDate" : "Wed, 11 Dec 2024 20:20:00",
-         "title" : "World Championship Game 13: Ding saves draw, score tied before final classical game"
-      },
-      {
          "description" : " The thirteenth game of the World Chess Championship in Singapore between Gukesh D and Ding Liren ended in a draw after 68 moves. Gukesh surprised Ding in the opening and had him on the back foot for much of the game, there was a concrete chance missed on move 31, unfortunately for Gukesh the move he played looked like it might do the trick too. Gukesh returned to 1.e4 and the French Defence was again played by Ding. 7.a3 was already rare, \"a move order trick\" according to Ding and the players were soon on their own. The position became extremely unbalanced after 10...Nc4 11.Bxc4. Maybe Gukesh should have tried 12.Qg4, the engine's preference but over the board he didn't see its merits. 17.Q",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -368,14 +416,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-world-cadet-champs-pt-1",
          "pubDate" : "Wed, 11 Dec 2024 00:00:00",
          "title" : "Wednesday Workout: World Cadet Champs, Pt. 1"
-      },
-      {
-         "description" : "After Ding Liren won against Gukesh in game 12 of the World Championship, chess players are talking about the Chinese comeback mentality. But the Indian GM also has some comeback abilities. Svitlana is showing us two examples by the two extraordinary players from a couple of years ago.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-brilliant-comebacks",
-         "pubDate" : "Tue, 10 Dec 2024 22:00:00",
-         "title" : "Svitlana's Smart Moves - Brilliant comebacks"
       },
       {
          "description" : " 2024 World Chess Championship: Game 12Monday, 9 December 2024 Ding scores clutch win, score tied 6-6! China's Ding Liren won a thrilling game over India's Gukesh Dommaraju to tie the world chess championship match at 6-6. There are two classical games remaining with tiebreaks waiting in the event of a 7-7 tie. When hearing the The post <a href=\"https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/\">Ding strikes back in Game 12 match tied 6-6!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -858,14 +898,6 @@ news_feed (
          "title" : "FIDE World Championship Game 9: The calm after the storm"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116012017.cms\" />The World Chess Championship between D Gukesh and Ding Liren remains deadlocked after nine games, with the latest match ending in a draw. Gukesh opted for the Catalan Opening, but Liren's strong defence neutralized any potential advantage. With the score tied at 4.5 points each, the final five classical games will be crucial in determining the champion. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-ding-liren-play-out-another-draw-as-game-9-ends-with-bare-kings-at-world-chess-championship/articleshow/116012017.cms",
-         "pubDate" : "Thu, 05 Dec 2024 13:37:36",
-         "title" : "Gukesh, Liren play out draw as Game 9 ends with bare kings"
-      },
-      {
          "description" : "Would Gukesh have to force a win in the next five games?",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -920,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3336",
          "pubDate" : "Wed, 04 Dec 2024 15:22:13",
          "title" : "World Championship Game 8: A thrilling battle ends in a draw"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115978265.cms\" />Indian chess prodigy D Gukesh and reigning champion Ding Liren battled to their fifth draw in eight games of the World Chess Championship. The score remains tied at 4 points each, with Gukesh missing a chance for an advantage in the latest game. With six games left, the $2.5 million championship hangs in the balance.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-gukesh-ding-liren-settle-for-yet-another-draw-in-8th-game/articleshow/115978265.cms",
-         "pubDate" : "Wed, 04 Dec 2024 15:08:22",
-         "title" : "World Chess C'ship: Gukesh, Liren settle for yet another draw"
       },
       {
          "description" : "",
@@ -1018,14 +1042,6 @@ news_feed (
          "title" : "Qualification paths for FIDE Women's Candidates Tournament 2026 finalized"
       },
       {
-         "description" : "Make no mistake, Gukesh's advantage here in game 7 against Ding Liren was significant; but he let it slip",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42757010/gukesh-ding-liren-nearly-never-enough-game-7-chess-world-championship-2024?device=featurephone",
-         "pubDate" : "Tue, 3 Dec 2024 12:39:39",
-         "title" : "Gukesh finds out that in World Championships, nearly is never enough"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1040,22 +1056,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-7",
          "pubDate" : "Tue, 03 Dec 2024 10:00:00",
          "title" : "Ding Escapes In Game 7 Thriller To Tie Gukesh At Halfway"
-      },
-      {
-         "description" : "NM Isaac Chiu and NM Jalen Wang respectively won Qualifiers 1 and 2 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. There are six qualifying spots left for the Knockout on Friday. [Updated on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-1-2",
-         "pubDate" : "Tue, 03 Dec 2024 09:00:00",
-         "title" : "National Masters Chiu, Wang Take Crazyhouse Qualifiers 1 & 2"
-      },
-      {
-         "description" : "A new conference during the 2024 FIDE World Rapid &#38;amp; Blitz Championships in New York is set to bridge the world of chess and finance. The event is bound to be a treat for anyone able to afford the $1,000 ticket&#38;mdash;or the $5,000 VIP tickets t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-meets-finance-in-new-york",
-         "pubDate" : "Tue, 03 Dec 2024 07:38:00",
-         "title" : "Wall Street Gambit: $5,000 Tickets, Chess Legends, Financial Elite"
       },
       {
          "description" : "Please find the live links of 15th KIIT International Chess Festival 2024 (Category &#8216;A') https://lichess.org/broadcast/15th-kiit-international-chess-festival-2024/round-1/EYnd1ykS",
