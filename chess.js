@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116288641.cms\" />Chess legend Garry Kasparov congratulated D Gukesh on becoming the youngest world champion, surpassing Kasparov's own record. Gukesh's victory over Ding Liren in Singapore marked a historic moment for India. Kasparov dismissed criticisms of the match quality, highlighting the inevitable blunders in high-pressure championships.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/blunders-are-part-of-every-championship-kasparov-rejects-kramniks-end-of-chess-claim/articleshow/116288641.cms",
+         "pubDate" : "Fri, 13 Dec 2024 11:01:11",
+         "title" : "Kasparov rejects Kramnik's 'end of chess' claim"
+      },
+      {
+         "description" : "Sub Junior 1 Ilamparthi A R2 Vaz Ethan3 Sherla Prathamesh4 Madhvendra Pratap Sharma5 Jaiveer Mahendru6 Shashish Subbiah7 Advik Amit Agrawal8 Reyan Md.9 Aakash G10 Bhoir",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-national-sub-junior-subjunior-girls-chess-championship-2024/",
+         "pubDate" : "Fri, 13 Dec 2024 10:25:02",
+         "title" : "Certificate: National Sub Junior & Subjunior Girls (Under 15) Chess Championship 2024"
+      },
+      {
          "description" : "It's all over. After a tense battle that swayed from side to side, the final games were decisive. They were exciting - but also very instructive. Who better to explain them than world-class trainer GM Efstratios Grivas. He provides us with deep analysis from which there is a lot to learn. For amateurs and strong players alike. | Photo Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "Gukesh allows Ding to escape with a draw in World Championship game 7 - 7"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/115941800.cms\" />In the seventh game of the World Chess Championship, defending champion Ding Liren of China and Indian challenger D Gukesh fought for over five hours, ending in a draw after 72 moves. Despite Gukesh gaining an early advantage, Ding's resilient defence and strategic play levelled the game, tying both players at 3.5 points each. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-stunned-by-ding-lirens-defence-in-another-draw-at-world-chess-championship/articleshow/115941800.cms",
-         "pubDate" : "Tue, 03 Dec 2024 15:17:30",
-         "title" : "D Gukesh stunned by Ding's defence at World Chess C'ship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1138,14 +1146,6 @@ news_feed (
          "title" : "Le Lionnais, the vanishing virtuoso"
       },
       {
-         "description" : "The Indian contingent showcased an outstanding performance at the World Cadet Chess Championship 2024, winning two medals: India's impressive medal tally of 1 Gold and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-world-cadet-chess-championship-2024-held-at-montesilvano-italy-from14th-november-to-27th-november-2024/",
-         "pubDate" : "Sat, 30 Nov 2024 09:12:25",
-         "title" : "Final Report of World Cadet Chess Championship 2024 held at Montesilvano, Italy from14th November to 27th November 2024."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1258,7 +1258,7 @@ news_feed (
          "title" : "Gukesh strikes back to tie FIDE World Championship"
       },
       {
-         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 0 1 &frac12; 6&frac12; Gukesh 0 &frac12; 1 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 0 1 &frac12; 0 6&frac12; Gukesh 0 &frac12; 1 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
