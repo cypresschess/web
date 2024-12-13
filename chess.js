@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2024 World Chess Championship: Game 14Thursday, 13 December 2024 Gukesh wins world title after Ding blunders A triumphant Gukesh celebrates his historic victoryPhoto by Eng Chin An While Gukesh Dommaraju was considered the favorite in the match, there were serious doubts going into the 14th game. The teenager came off of a devastating loss and The post <a href=\"https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/\">Gukesh shocks Ding in finale, wins title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
+         "pubDate" : "Fri, 13 Dec 2024 03:10:53",
+         "title" : "Gukesh shocks Ding in finale, wins title!"
+      },
+      {
          "description" : "In a historic conclusion to the World Chess Championship in Singapore, 18-year-old Gukesh Dommaraju defeated reigning champion Ding Liren in the final game, becoming the youngest undisputed world chess champion in history. With this monumental victory, the title returns to India for the first time since Viswanathan Anand lost it in 2013. Gukesh's triumph, sealed after Ding blundered in a technical endgame, cements his place among chess legends. The victory also highlights India's rise as a global chess powerhouse. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
