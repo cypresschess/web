@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Monday the 2024 Nobel Prizes were awarded in a Stockholm, Sweden. The prize for chemistry went to three scientists, one of whom has an illustrious background in chess. Demis Hassabis was a chess prodigy with a 2300 rating at the age of 13. He founded DeepMind, a subsidiary of Google, and went on to develop the groundbreaking artificial intelligence program AlphaZero. Frederic Friedel has known Demis since he was 17. | Photo European Biotechology/Nanaka Adachi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-demis-i-know",
+         "pubDate" : "Sat, 14 Dec 2024 13:00:00",
+         "title" : "The Demis I know"
+      },
+      {
+         "description" : "​World Chess Championship update: on Thursday the Indian challenger Gukesh Dommaraju defeated the reigning champion, Ding Liren, of China in the 14th and final game to win the match 7.5 to 6.5. Aged just 18, Gukesh thereby becomes the youngest ever World Champion, surpassing by four years the previous record set by Garry Kasparov. While []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/from-overpromotion-to-regicide/",
+         "pubDate" : "Sat, 14 Dec 2024 11:05:15",
+         "title" : "From overpromotion to regicide"
+      },
+      {
+         "description" : "The new ChessBase Training Course 'Modern Classics' by GM Dorian Rogozenco presents 33 important games from modern chess history (1935-1999) and offers an excellent basis for deepening your own understanding of chess through detailed explanations, background information and interactive tools. He continues the tradition of his predecessor course and makes important parts of chess culture accessible to players of all levels.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-modern-classics",
+         "pubDate" : "Sat, 14 Dec 2024 11:00:00",
+         "title" : "Dorian Rogozenco - Modern Classics"
+      },
+      {
          "description" : "Sl No Candidate Name1 James Ruokuoselhou2 Rezabul Hoque3 Shanjothung Ngullie4 Nandan Buragohain5 Khoveto Vero6 Mrinal Kakati7 Dhrubajyoti Saha8 Shankar Barooah9 Thomas Lorin10 Dipankar Ghosh11 Rokozono",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/final-report-2nd-asian-chess-championship-for-disabilities-2024/",
          "pubDate" : "Sat, 14 Dec 2024 05:29:19",
          "title" : "Final report :2nd Asian Chess Championship for Disabilities 2024"
+      },
+      {
+         "description" : "The era of India&#39;s GM Gukesh Dommaraju as chess world champion has begun, after an incredibly hard-fought 2024 FIDE World Championship in Singapore suddenly ended when the Chinese reigning champion GM Ding Liren blundered in the final classical ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-2024-chess-world-championship-13-conclusions",
+         "pubDate" : "Sat, 14 Dec 2024 03:14:46",
+         "title" : "Gukesh Wins 2024 FIDE World Championship - 13 Conclusions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305520.cms\" />Garry Kasparov congratulated D Gukesh on becoming the youngest world chess champion, marking a phenomenal year for India. Kasparov acknowledged Viswanathan Anand's influence, stating that the \"era of Vishy's children\" has arrived. He praised Gukesh's performance and the high level of play in the championship match against Ding Liren.",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "'Gukesh always willing to accept his mistakes'"
       },
       {
-         "description" : "Completely new possibilities for strategy training: ChessBase 18 searches games for you according to 30 (!) different strategic themes! In the new search mask you can select strategic themes from 3 categories. In the category 'Structure' you will find topics such as 'Space advantage' or 'Majority on the queenside'. The 'Pieces' section deals with the value of individual pieces, i.e. 'opposite coloured bishops' or 'strong rooks'. And under 'Plans' you can search for 'Attack weakness', 'Successful defence' or 'King's attack'. ChessBase 18 then provides a list of games sorted according to the importance of the strategic theme and when you click on it, ChessBase 18 jumps to the relevant part of ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/search-for-strategic-topics-with-chessbase-18",
-         "pubDate" : "Fri, 13 Dec 2024 19:00:00",
-         "title" : "Search for strategic topics with ChessBase 18!"
-      },
-      {
          "description" : "The young Russian grandmaster Andrey Esipenko (photo) won the highly competitive Qatar Masters with 7&frac12; points after 9 rounds of play. Second and third place were shared by Arjun Erigaisi and Nodirbek Abdusattorov, each with 7 points. Arjun missed the opportunity to overtake Fabiano Caruana in the FIDE Circuit. Whoever has the most FIDE Circuit points at the end of the year will qualify for the 2026 Candidates Tournament. | Photo: Anna Shtourman / Qatar Masters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3348",
          "pubDate" : "Fri, 13 Dec 2024 14:58:29",
          "title" : "Gukesh D crowned 18th FIDE World Champion"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Academy has announced the start of its second season, featuring an enhanced format with more instructional hours and additional lessons from top players and trainers, including special sessions from the Legendary World Champion, Garry Kasparov himself. The KCF announcement contains twelve instructive endgames for you to study.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-season-two",
-         "pubDate" : "Fri, 13 Dec 2024 14:00:00",
-         "title" : "KCF Academy season two"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116292864.cms\" />Overwhelmed with joy, D Gukesh's mother, J Padmakumari, recounts the family's sacrifices after his World Chess Championship victory. Her husband left his surgical career to support Gukesh's travels, while she became the sole provider. Financial struggles led to friends sponsoring Gukesh's tournaments.",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42948838/paddy-upton-gukesh-chess-champion-helping-hand-video-calls-temperature-controls-last-minute-flight-out?device=featurephone",
          "pubDate" : "Fri, 13 Dec 2024 10:17:43",
          "title" : "Paddy Upton's helping hand to Gukesh: Video calls, temperature controls, last-minute flight out"
-      },
-      {
-         "description" : "It's all over. After a tense battle that swayed from side to side, the final games were decisive. They were exciting - but also very instructive. Who better to explain them than world-class trainer GM Efstratios Grivas. He provides us with deep analysis from which there is a lot to learn. For amateurs and strong players alike. | Photo Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-wch-games-13-14",
-         "pubDate" : "Fri, 13 Dec 2024 08:32:52",
-         "title" : "Grivas on WCh games 13 + 14"
       },
       {
          "description" : "Chess.com is happy to announce a new partnership with Freestyle Chess to support the 2025 Freestyle Chess Grand Slam Tour. Chess.com will host the live coverage of the Tour and offer a qualification path for each event to any of our members, with ...",
@@ -410,14 +418,6 @@ news_feed (
          "title" : "FIDE World Championship Game 13: Ding dodges a bullet"
       },
       {
-         "description" : "Want to send a game to friends as a QR code? Or print out a worksheet with tactics exercises for training and add the solution as a QR code? Or print the games as a QR code in the club magazine for replay on your mobile phone? You can do all this with ChessBase 18. In the video, head developer Matthias W&uuml;llenweber shows how quickly and easily it can be done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-qr-codes-for-worksheets-social-media-and-club-magazines",
-         "pubDate" : "Wed, 11 Dec 2024 15:51:45",
-         "title" : "ChessBase 18: QR codes for worksheets, social media and club magazines!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116219033.cms\" />18-year-old Indian grandmaster D Gukesh fought extremely hard but couldn't overcome defending champion Ding Liren in game 13 of the World Chess Championship. The draw leaves the score tied at 6.5-6.5 with one classical game left. Gukesh, playing white, explored a novel opening idea but couldn't gain a significant advantage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,14 +600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-many-chances-in-second-half-gukesh-after-losing-game-12-against-ding-liren/articleshow/116146476.cms",
          "pubDate" : "Mon, 09 Dec 2024 15:56:16",
          "title" : "'I had many chances in second half': Gukesh after losing Game 12"
-      },
-      {
-         "description" : "How would it be if you knew the Lichess games of your next opponent and could prepare for him with these games? An enticing idea! But to do that, you would have to know your Lichess account! ChessBase 18 now offers exactly this powerful method of preparing against your opponent! ChessBase 18 can derive the possible Lichess account from a Lichess team! You will receive a report on the most likely Lichess accounts that could belong to this player from the relevant team. Chief developer Matthias W&uuml;llenweber shows how it works in the video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-opponent-preparation-with-lichess-games",
-         "pubDate" : "Mon, 09 Dec 2024 15:08:39",
-         "title" : "ChessBase 18: Opponent preparation with Lichess games"
       },
       {
          "description" : "",
@@ -1042,14 +1034,6 @@ news_feed (
          "title" : "IM Adam Hunt RIP"
       },
       {
-         "description" : "Both GM Gukesh Dommaraju and World Champion Ding Liren missed wins as game eight of the 2024 FIDE World Championship ended in a 51-move draw. Ding switched to 1.c4, was again surprised in the opening, but had stabilized just when he blundered into...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-8",
-         "pubDate" : "Wed, 04 Dec 2024 10:30:00",
-         "title" : "Gukesh, Ding Both Miss Wins In Crazy Game 8 Draw"
-      },
-      {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,6 +1144,14 @@ news_feed (
          "link" : "https://www.thearticle.com/le-lionnais-the-vanishing-virtuoso/",
          "pubDate" : "Sat, 30 Nov 2024 11:25:24",
          "title" : "Le Lionnais, the vanishing virtuoso"
+      },
+      {
+         "description" : "In the previous post on the early career of Gukesh Dommaraju, <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukeshs-debuts-in-wcc-cycle-and-in-twic.html\">Gukesh Debuts in a WCC Cycle and in TWIC</A> (November 2024), I listed a half-dozen tournaments played through the end of 2017. Here's the continuation of that list:- <UL> <LI> <B>TWIC 1208</B> &#149; Bhopal International Open; Thu 21st Dec 2017; Thu 28th Dec 2017; Bhopal; IND; 10 Rounds; Swiss; Time Control: 90m+30spm(1) <LI> <B>TWIC 1208</B> &#149; 3rd IIFL Wealth Mumbai Op; Sat 30th Dec 2017; Sun 7th Jan 2018; Mumbai; IND; 9 Rounds; Swiss; Time Control: 90m:30m+30spm(1) <LI> <B>TWIC 1210</B> &#149; 16th Delhi Open 2018; Tue 9th J",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html",
+         "pubDate" : "Fri, 29 Nov 2024 16:26:00",
+         "title" : "Gukesh in 2018 (age 12)"
       },
       {
          "description" : "",
@@ -1376,30 +1368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3317",
          "pubDate" : "Sat, 23 Nov 2024 14:44:12",
          "title" : "2024 FIDE World Championship - Gukesh draws White in the first game"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3316",
-         "pubDate" : "Sat, 23 Nov 2024 12:17:43",
-         "title" : "World Senior Championship 2024 crosses halfway mark"
-      },
-      {
-         "description" : " The FIDE World Chess Championship takes place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Play is 3 days on, one off and starts at 17:00 local time 09:00GMT. Defending champion is 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April last year. 18 year old Gukesh Dommaraju is his challenger after winning the Candidates tournament earlier in the year. Two shadows overhang the match, World number one Magnus Carlsen gave up the title last year and is still probably (but not definitely) the best classical player and is absolutely the dominant rapid and blitz player now. No one player can be bigger than the game, and life goes on, this period feels similar to that betw",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024",
-         "pubDate" : "Sat, 23 Nov 2024 11:40:00",
-         "title" : "FIDE World Chess Championship 2024 - Games and Results"
-      },
-      {
-         "description" : "The opening ceremony of the World Chess Championship match takes place today in Singapore. Hosted by the Singapore Chess Federation, supported by the Government of Singapore, under auspices of the FIDÉ, the World Chess Federation, the match will feature the defending champion Ding Liren from China and the challenger Dommaraju Gukesh from India. The match will start on Monday and could continue until December 15, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/who-will-be-world-king-of-chess-ding-or-gukesh/",
-         "pubDate" : "Sat, 23 Nov 2024 11:19:24",
-         "title" : "Who will be world king of chess: Ding or Gukesh?"
       }
    ]
 }
