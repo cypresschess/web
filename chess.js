@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116322346.cms\" />Elon Musk congratulated Gukesh Dommaraju, who became the youngest World Chess Champion after defeating Ding Liren. Gukesh secured victory in the final game, culminating a tense championship match. The win, which Gukesh called the \"best moment of his life,\" followed his Candidates Tournament victory in April. Ding Liren acknowledged his defeat gracefully.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/elon-musk-congratulates-new-world-chess-champion-d-gukesh-on-historic-win/articleshow/116322346.cms",
+         "pubDate" : "Sat, 14 Dec 2024 16:06:17",
+         "title" : "Elon Musk congratulates new world chess champion D Gukesh on historic win"
+      },
+      {
+         "description" : "Improving at chess can feel like running on a treadmill-you're working hard, but getting nowhere. You study openings, grind tactics, and watch endless YouTube videos, yet your progress is painfully slow. Two years ago, I released Next Level Training, a course designed to help players simplify their chess improvement and make real progress. Since then, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/improvement-score/",
+         "pubDate" : "Sat, 14 Dec 2024 14:00:00",
+         "title" : "Supercharge Your Chess Improvement in 2025"
+      },
+      {
          "description" : "On Monday the 2024 Nobel Prizes were awarded in a Stockholm, Sweden. The prize for chemistry went to three scientists, one of whom has an illustrious background in chess. Demis Hassabis was a chess prodigy with a 2300 rating at the age of 13. He founded DeepMind, a subsidiary of Google, and went on to develop the groundbreaking artificial intelligence program AlphaZero. Frederic Friedel has known Demis since he was 17. | Photo European Biotechology/Nanaka Adachi",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-2024-chess-world-championship-13-conclusions",
-         "pubDate" : "Sat, 14 Dec 2024 03:14:46",
+         "pubDate" : "Sat, 14 Dec 2024 03:14:00",
          "title" : "Gukesh Wins 2024 FIDE World Championship - 13 Conclusions"
       },
       {
@@ -706,14 +722,6 @@ news_feed (
          "title" : "FIDE World Championship Game 11: Ding collapses under pressure as Gukesh takes the lead"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116108489.cms\" />Indian Grandmaster D Gukesh defeated Ding Liren in the 11th Game of the World Chess Championship, taking a 6-5 lead. This marks Gukesh's first lead in the match, putting him in a strong position to potentially become the youngest world champion. Liren's unconventional opening backfired, and despite a temporary advantage, a critical blunder cost him the game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-defeats-ding-liren-in-game-11-marches-towards-becoming-youngest-world-chess-champion/articleshow/116108489.cms",
-         "pubDate" : "Sun, 08 Dec 2024 13:56:57",
-         "title" : " Gukesh defeats Ding, closes in on world champion title "
-      },
-      {
          "description" : " The eleventh game of the FIDE World Chess Championship saw Gukesh strike potentially a fatal blow to Ding's chances in the match. This was completely different to yesterday's game, Gukesh chose the Reti and Ding chose a sharp variation which got him into trouble as he didn't seem to fancy the complications when he got there. Ding thought for about an hour over his fourth and fifth moves and put himself in time trouble right from the start. This was clearly a sign of indecision. Gukesh's 5.a3 was shown to him last night and he actually lost his advantage quite quickly, 9.d3=. Gukesh caught up on the clock with a huge think to find 11.g3 but then after 15.Rd1?! e6 or 15....Qb8 would have left",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1352,22 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3313",
          "pubDate" : "Sat, 23 Nov 2024 16:53:11",
          "title" : "Chess stars come to New York for the strongest chess tournament in U.S. history"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3318",
-         "pubDate" : "Sat, 23 Nov 2024 15:47:08",
-         "title" : "2024 FIDE World Championship: Opening press conference"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3317",
-         "pubDate" : "Sat, 23 Nov 2024 14:44:12",
-         "title" : "2024 FIDE World Championship - Gukesh draws White in the first game"
       }
    ]
 }
