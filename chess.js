@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305520.cms\" />Garry Kasparov congratulated D Gukesh on becoming the youngest world chess champion, marking a phenomenal year for India. Kasparov acknowledged Viswanathan Anand's influence, stating that the \"era of Vishy's children\" has arrived. He praised Gukesh's performance and the high level of play in the championship match against Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-hails-d-gukesh-defends-ding-blunder/articleshow/116305520.cms",
+         "pubDate" : "Sat, 14 Dec 2024 02:45:56",
+         "title" : "Garry Kasparov hails D Gukesh, defends Ding blunder"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305468.cms\" />Ding Liren's heartbreaking blunder in the World Chess Championship final against Ian Nepomniachtchi has sparked debate. While some, like Vladimir Kramnik, lament the declining quality of elite chess, others, including Magnus Carlsen, attribute it to the pressures of modern time controls and extensive preparation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-hue-and-cry-over-a-blunder/articleshow/116305468.cms",
+         "pubDate" : "Sat, 14 Dec 2024 02:37:12",
+         "title" : "The hue and cry over a blunder"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305308.cms\" />Eighteen-year-old chess champion D Gukesh's coach, Grzegorz Gajewski, reveals the secrets to his success. Gukesh's remarkable composure under pressure, relentless drive for improvement, and a holistic training approach focusing on openings, time management, and decision-making paved his path to victory. Even after winning the World Championship, Gukesh's focus remained on refining his skills, showcasing a rare level of self-awareness.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-always-willing-to-accept-his-mistakes/articleshow/116305308.cms",
+         "pubDate" : "Sat, 14 Dec 2024 02:23:25",
+         "title" : "'Gukesh always willing to accept his mistakes'"
+      },
+      {
          "description" : "Completely new possibilities for strategy training: ChessBase 18 searches games for you according to 30 (!) different strategic themes! In the new search mask you can select strategic themes from 3 categories. In the category 'Structure' you will find topics such as 'Space advantage' or 'Majority on the queenside'. The 'Pieces' section deals with the value of individual pieces, i.e. 'opposite coloured bishops' or 'strong rooks'. And under 'Plans' you can search for 'Attack weakness', 'Successful defence' or 'King's attack'. ChessBase 18 then provides a list of games sorted according to the importance of the strategic theme and when you click on it, ChessBase 18 jumps to the relevant part of ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -786,14 +810,6 @@ news_feed (
          "title" : "FIDE Council approves extension of FIDE Flag Representation"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116077820.cms\" />The Game 10 of the World Chess Championship ended in a draw. Ding Liren and D Gukesh remain tied at 5 points each. This was the seventh consecutive draw. Four games remain in the championship. Gukesh will play white in the next game. The winner will take home $2.5 million.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-and-ding-liren-remain-tied-after-game-10-ends-in-draw-at-world-chess-championship/articleshow/116077820.cms",
-         "pubDate" : "Sat, 07 Dec 2024 12:41:46",
-         "title" : "World C'ship: Gukesh, Ding remain tied after draw in Game 10"
-      },
-      {
          "description" : " Ding Liren chose the London System against Gukesh in Game 10 of the World Chess Championship. Ding was trying for a very tiny edge and after 10...Nh5 which cost Gukesh a bit of time on the clock it became apparent Ding had no ideas at all to cause trouble. By move 16 it was impossible to imagine anything other than a draw and that happened on move 36. Score Ding 5 Gukesh 5 Game 11 Gukesh-Ding Sunday 8th Dec. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "The inside story of how Singapore pulled off the World Chess Championship"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116061830.cms\" />The World Chess Championship between Ding Liren and D Gukesh is level at 4.5 points each after nine games. Gukesh has shown stronger opening preparation, but Ding excels in complex positions. Though Gukesh has been more dominant, he hasn't secured a decisive win, raising concerns as Ding's experience and rapid skills pose a threat if the match goes to tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-d-gukesh-searches-high-and-low-for-one-against-wily-ding/articleshow/116061830.cms",
-         "pubDate" : "Sat, 07 Dec 2024 01:40:01",
-         "title" : "Gukesh searches high and low for one against Wily Ding"
-      },
-      {
          "description" : "World Champion Ding Liren hesitated on move one against GM Gukesh Dommaraju in game 10 of the 2024 FIDE World Championship, but then he repeated 1.d4 and the London System and got a risk-free position with a small edge. He failed to apply any pres...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax",
          "pubDate" : "Fri, 06 Dec 2024 12:00:54",
          "title" : "Ding and Gukesh miss wins as World Chess Championship nears climax"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116042891.cms\" />The World Chess Championship between D Gukesh and Ding Liren is now a 50-50 contest, according to Magnus Carlsen. Tied at 4.5-4.5 after nine games, the players have five classical games remaining to decide the champion. Gukesh's missed opportunities in recent games have allowed Liren to stay competitive. Tie-breakers, favoring Liren, loom if the deadlock persists.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-is-not-a-favourite-against-ding-liren-anymore-magnus-carlsen-gives-world-chess-championship-verdict/articleshow/116042891.cms",
-         "pubDate" : "Fri, 06 Dec 2024 10:41:08",
-         "title" : "'Gukesh not a favourite against Ding anymore': Carlsen"
       },
       {
          "description" : "If chess becomes boring for Magnus Carlsen, what chance do the rest of us have?",
