@@ -50,11 +50,19 @@ news_feed (
          "title" : "Watch: Emotional moment as Gukesh hands trophy to his mother"
       },
       {
+         "description" : "The 2024 Champions Chess Tour concludes with the CCT Finals, held from December 17 to December 21, 2024, at Screen Studios in Oslo, Norway. The event brings together eight of the world&#39;s best chess players to compete for a $500,000 prize fund and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-cct-finals-2024",
+         "pubDate" : "Fri, 13 Dec 2024 13:00:00",
+         "title" : "Champions Chess Tour $500,000 Finals Kicks Off On December 17 In Oslo, Norway"
+      },
+      {
          "description" : "We&#39;re excited to announce the 2025 Chess.com Chess Improvement Challenge! This is your chance to join a community of like-minded Chess.com members and coaches, reach your chess improvement goals, and win prizes! Sign up for the challenge and set...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2025",
-         "pubDate" : "Fri, 13 Dec 2024 12:00:18",
+         "pubDate" : "Fri, 13 Dec 2024 12:00:00",
          "title" : "Level Up Your Chess And Win Prizes In The 2025 Chess Improvement Challenge"
       },
       {
@@ -538,7 +546,7 @@ news_feed (
          "title" : "Revised US Chess Membership Rates Take Effect January 1, 2025"
       },
       {
-         "description" : "US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are due no later than December 31, 2024.",
+         "description" : "US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are now due no later than December 31, 2024.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/rfps-merchandise-and-sales-licensing-apparel-awards-and-chess-store-vendors",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-8",
          "pubDate" : "Wed, 04 Dec 2024 10:30:00",
          "title" : "Gukesh, Ding Both Miss Wins In Crazy Game 8 Draw"
-      },
-      {
-         "description" : "IM Mark Plotkin and NM Janak Awatramani, both from Canada, respectively won Qualifiers 3 and 4 of the 2024 Crazyhouse Championship, the final event of the Chess.com Community Championship series. Half the seats in the Knockout are taken, and the r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-3-4",
-         "pubDate" : "Wed, 04 Dec 2024 09:38:00",
-         "title" : "Canadian Masters Plotkin, Awatramani Win Crazyhouse Qualifiers 3 & 4"
       },
       {
          "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
