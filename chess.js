@@ -50,6 +50,14 @@ news_feed (
          "title" : "Certificate of SNA seminar held in DImapur of 28 & 29 November 2024"
       },
       {
+         "description" : "Belief. It's the one quality that describes Gukesh -- and with him, elite Indian sport -- the best.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/42961042/gukesh-neeraj-pant-vinesh-anand-walks-footsteps-champions-defied-odds-ignored-convention?device=featurephone",
+         "pubDate" : "Sat, 14 Dec 2024 06:07:51",
+         "title" : "Neeraj, Pant, Vinesh, Vishy...Gukesh walks in footsteps of champions who defied odds, ignored convention"
+      },
+      {
          "description" : "Date&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : November 10-18, 2024Location&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Bishkek, KyrgyzstanEvent Dates&#160;&#160;&#160;&#160;&#160;&#160; : November 11-17, 2024Tournament Format: Swiss System, 9 RoundsDelegate&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Tamizharasan MuruganCountry&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : INDIA Medal Winners",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-always-willing-to-accept-his-mistakes/articleshow/116305308.cms",
          "pubDate" : "Sat, 14 Dec 2024 02:23:25",
          "title" : "'Gukesh always willing to accept his mistakes'"
+      },
+      {
+         "description" : "Editor's note: This article will be updated with more photos, as well as interviews with the players and clips from the live broadcast. Return to UtahThe 2024 U.S. Senior Women's Championship began Friday night, December 13, in Murray, Utah. For five of us participating in this year's championship, Utah reminds us of past U.S. Women's Championships. WGM Anjelina Belakovskaia won the 1999 U.S. Women's Championship in Salt Lake City, a tournament where WIM Olga Sagalchik finished tied for third and fourth and WIM Beatriz Marinello tied for 6th through 8th places. Ten players participated. Shernaz Kennedy and I (Alexey Root) are also on a return chess visit to Utah. In 1981, Kennedy and I playe",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-us-senior-womens-championship-begins-utah",
+         "pubDate" : "Sat, 14 Dec 2024 00:00:00",
+         "title" : "2024 U.S. Senior Women's Championship Begins in Utah"
       },
       {
          "description" : "The young Russian grandmaster Andrey Esipenko (photo) won the highly competitive Qatar Masters with 7&frac12; points after 9 rounds of play. Second and third place were shared by Arjun Erigaisi and Nodirbek Abdusattorov, each with 7 points. Arjun missed the opportunity to overtake Fabiano Caruana in the FIDE Circuit. Whoever has the most FIDE Circuit points at the end of the year will qualify for the 2026 Candidates Tournament. | Photo: Anna Shtourman / Qatar Masters",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Gukesh Leads World Championship After Ding's Blunder Ends Game 11 Thriller"
       },
       {
-         "description" : "The 2024 National K-12 Grade Championships took place from December 6-8 at the Gaylord National Resort &amp; Convention Center in National Harbor, Maryland. Individual and team champions were crowned in grades K through 12. With more than 2,700 players in attendance from 45 states, this was the largest K-12 Grade Championships in US Chess history!Below are the individual and team winners by grade. When co-champions are listed, they are in tiebreak order. All photos are by Caroline King for US Chess. 12th GradeIndividual: FM Avi Kaplan (Lane Tech College Prep, Chicago, IL), Arnav Gupta (Thomas Jefferson HS, Alexandria, VA), 6/7.<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/flash-report-2024-national-k-12-grade-championships",
-         "pubDate" : "Sun, 08 Dec 2024 00:00:00",
-         "title" : "Flash Report: 2024 National K-12 Grade Championships"
-      },
-      {
          "description" : "A spirited performance by GM Hikaru Nakamura in Saturday&#39;s Bullet Brawl saw him return to the throne and collect the $400 first prize after consecutive second-place finishes in November. 72 wins, 28 of which were part of a timely winning streak,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-5-6",
          "pubDate" : "Thu, 05 Dec 2024 09:09:00",
          "title" : "Xiong, Aroesti Top Crazyhouse Qualifiers 5 & 6"
-      },
-      {
-         "description" : "Match 10 of the 2024 FIDE World Chess Championship saw another draw, with Ding Liren and D Gukesh tied at 4.5-4.5",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42785113/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-9?device=featurephone",
-         "pubDate" : "Thu, 5 Dec 2024 08:44:06",
-         "title" : "Unerring Gukesh and Ding grind out another draw in game 9 of World Championship"
       },
       {
          "description" : "No. Name 1 JOTISH JOY 2 SUSHANT TIWARI 3 TAMANNA VERMA 4 SHUBHAM SHUKLA 5 CHIRAG ARORA 6 VIVEK MEHTO 7 ARJUN VEER SINGH 8",
@@ -1352,14 +1352,6 @@ news_feed (
          "link" : "https://www.europechess.org/europe-echecs-clinches-european-corporate-chess-championship-2024/",
          "pubDate" : "Sun, 24 Nov 2024 09:10:24",
          "title" : "Europe Echecs clinches European Corporate Chess Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3313",
-         "pubDate" : "Sat, 23 Nov 2024 16:53:11",
-         "title" : "Chess stars come to New York for the strongest chess tournament in U.S. history"
       }
    ]
 }
