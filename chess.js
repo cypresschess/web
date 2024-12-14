@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sl No Candidate Name1 James Ruokuoselhou2 Rezabul Hoque3 Shanjothung Ngullie4 Nandan Buragohain5 Khoveto Vero6 Mrinal Kakati7 Dhrubajyoti Saha8 Shankar Barooah9 Thomas Lorin10 Dipankar Ghosh11 Rokozono",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-dimapur-of-28-29-november-2024/",
+         "pubDate" : "Sat, 14 Dec 2024 07:05:35",
+         "title" : "Certificate of SNA seminar held in DImapur of 28 & 29 November 2024"
+      },
+      {
+         "description" : "Date&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : November 10-18, 2024Location&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Bishkek, KyrgyzstanEvent Dates&#160;&#160;&#160;&#160;&#160;&#160; : November 11-17, 2024Tournament Format: Swiss System, 9 RoundsDelegate&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Tamizharasan MuruganCountry&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : INDIA Medal Winners",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-2nd-asian-chess-championship-for-disabilities-2024/",
+         "pubDate" : "Sat, 14 Dec 2024 05:29:19",
+         "title" : "Final report :2nd Asian Chess Championship for Disabilities 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305520.cms\" />Garry Kasparov congratulated D Gukesh on becoming the youngest world chess champion, marking a phenomenal year for India. Kasparov acknowledged Viswanathan Anand's influence, stating that the \"era of Vishy's children\" has arrived. He praised Gukesh's performance and the high level of play in the championship match against Ding Liren.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1074,14 +1090,6 @@ news_feed (
          "title" : "FIDE Circuit 2024: Erigaisi still in the lead, Caruana closes in"
       },
       {
-         "description" : "Please find the live links of 15th KIIT International Chess Festival 2024 (Category &#8216;A') https://lichess.org/broadcast/15th-kiit-international-chess-festival-2024/round-1/EYnd1ykS",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-links15th-kiit-international-chess-festival-2024-category-a/",
-         "pubDate" : "Mon, 02 Dec 2024 11:00:17",
-         "title" : "Live Game links:15th KIIT International Chess Festival 2024 (Category 'A')"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-draw-game-6-of-the-world-chess-championship",
          "pubDate" : "Sun, 1 Dec 2024 14:31:00",
          "title" : "Ding and Gukesh draw game 6 of the World Chess Championship - 6"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, The Chhattisgarh State Chess Association is organizing Senior National Arbiters Seminar &#38; Exam &#160;Hotel Grand Imperia, VIP Road,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-in-hotel-grand-imperia-vip-road-raipur-chhattisgarh-on-04-05-january-2025/",
-         "pubDate" : "Sun, 01 Dec 2024 10:34:46",
-         "title" : "Senior National Arbiters Seminar & Exam in Hotel Grand Imperia, VIP Road, Raipur Chhattisgarh on 04 & 05 January 2025"
       },
       {
          "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
