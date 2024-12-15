@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116332598.cms\" />Eighteen-year-old D Gukesh, the new World Chess Champion, credits his parents' sacrifices for his historic win against Ding Liren. His mother's constant reminder to be a good person alongside a great chess player has shaped his journey. Facing financial hardships, his parents, an ENT surgeon turned supportive father and a microbiologist mother, made immense sacrifices to fuel his dream.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-youngest-world-chess-champion-shares-life-lessons-by-his-mother/articleshow/116332598.cms",
+         "pubDate" : "Sun, 15 Dec 2024 06:52:59",
+         "title" : "D Gukesh: World champion shares life lessons by his mother"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116331661.cms\" />Music star Diljit Dosanjh dedicated his Chandigarh concert to 18-year-old chess prodigy D Gukesh, who recently became the youngest-ever world chess champion. Gukesh defeated Ding Liren in a thrilling final match in Singapore, securing the title and breaking Garry Kasparov's 39-year-old record. The Chennai native achieved his decade-long dream, earning $1.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dedicated-to-d-gukesh-diljit-dosanjh-hails-youngest-ever-world-chess-champion-at-chandigarh-concert-watch/articleshow/116331661.cms",
+         "pubDate" : "Sun, 15 Dec 2024 04:55:23",
+         "title" : "Watch: Diljit hails D Gukesh at Chandigarh concert"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116330023.cms\" />Vincent Keymer, a German Grandmaster, played a crucial role as Gukesh's openings specialist during the World Chess Championship in Malaga. Keymer's fresh ideas, particularly his analysis of the French Defence after an initial setback, proved invaluable. The team prepared for tie-breaks even as Gukesh pushed for victory in the final game, celebrating his eventual triumph with relief and joy.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "Gukesh's ambition vs Ding's momentum: What to expect from chess World Championship's home stretch"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116162175.cms\" />The World Chess Championship hangs in the balance, tied 6-6 between 18-year-old Indian prodigy D Gukesh and defending champion Ding Liren. Gukesh, despite a setback in the 12th game, aims for an aggressive approach with white pieces in the crucial 13th game. Ding, praised for his recent performance, seeks to leverage his experience.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-gukesh-faces-high-stakes-battle-against-ding-liren-in-penultimate-game/articleshow/116162175.cms",
-         "pubDate" : "Tue, 10 Dec 2024 06:45:15",
-         "title" : "Gukesh faces high-stakes battle against Ding Liren in penultimate game"
-      },
-      {
          "description" : "The 2024 FIDE World Chess Championship match between GM Ding Liren and GM Gukesh Dommaraju is deadlocked at 6-6 as the players enter a pivotal penultimate round beginning at 3:00 a.m. CST on Wednesday, December 11. Concerns of an impending dull trudge toward the rapid tiebreakers were amplified following a very tame game 10 on Saturday. These notions were firmly disabused in the two games that followed, though, with Gukesh and Ding trading wins in a pair of ambitious, albeit nervous, games. All three games are annotated below by WGM Tatev Abrahamyan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Not even GM Hou Yifan's help was enough to save Ding in",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3343",
          "pubDate" : "Mon, 09 Dec 2024 14:27:45",
          "title" : "FIDE World Junior U20 Championship 2025: Registration is open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116143548.cms\" />Indian grandmaster D Gukesh lost the 12th game of the World Chess Championship against Ding Liren, leveling the score at 6-6. Gukesh's earlier win had given him a brief lead, but Liren's victory with white pieces brought the match to a tie. With two games remaining, the championship is likely headed for tiebreakers.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-succumbs-to-ding-liren-in-12th-game-of-world-chess-championship-players-locked-at-6-points/articleshow/116143548.cms",
-         "pubDate" : "Mon, 09 Dec 2024 13:50:43",
-         "title" : "Gukesh succumbs to Liren in 12th game of World Chess C'ship"
       },
       {
          "description" : "World Champion Ding Liren played a flawless game from start to finish to beat GM Gukesh Dommaraju and level the scores in the 2024 FIDE World Championship at 6-6 with just two games to go. When Gukesh played fast in a seemingly quiet opening, ever...",
