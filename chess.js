@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3349",
+         "pubDate" : "Sun, 15 Dec 2024 09:38:35",
+         "title" : "World Youth Rapid & Blitz Championship 2024 kicks off in Terme Čatež, Slovenia"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116332598.cms\" />Eighteen-year-old D Gukesh, the new World Chess Champion, credits his parents' sacrifices for his historic win against Ding Liren. His mother's constant reminder to be a good person alongside a great chess player has shaped his journey. Facing financial hardships, his parents, an ENT surgeon turned supportive father and a microbiologist mother, made immense sacrifices to fuel his dream.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Watch: Diljit hails D Gukesh at Chandigarh concert"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116330023.cms\" />Vincent Keymer, a German Grandmaster, played a crucial role as Gukesh's openings specialist during the World Chess Championship in Malaga. Keymer's fresh ideas, particularly his analysis of the French Defence after an initial setback, proved invaluable. The team prepared for tie-breaks even as Gukesh pushed for victory in the final game, celebrating his eventual triumph with relief and joy.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116330023.cms\" />Vincent Keymer, a German Grandmaster, played a crucial role as Gukesh's openings specialist during the World Chess Championship in Singapore. Keymer's fresh ideas, particularly his analysis of the French Defence after an initial setback, proved invaluable. The team prepared for tie-breaks even as Gukesh pushed for victory in the final game, celebrating his eventual triumph with relief and joy.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/after-opening-game-defeat-german-second-vincent-keymer-worked-on-opening-variations/articleshow/116330023.cms",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://www.europechess.org/world-chess-championship-2024-starts-in-singapore/",
          "pubDate" : "Sun, 24 Nov 2024 14:08:51",
          "title" : "World Chess Championship 2024 starts in Singapore"
-      },
-      {
-         "description" : "The 2024 European Corporate Chess Championship concluded yesterday in Asnieres sur Seine, Paris, France. The Closing ceremony of the event took place yesterday evening in the City venue of Asnieres sur Seine with the attendance of the Mayor of Asnieres Mr. Manuel Aeschlimann, Deputy Mayor of Asnieres Mr. Frederic Sitbon, ECU Secretary General Mr. Theodoros Tsorbatzoglou, Chairman of the ECU Social Commission Mr. Franck Droin, Vice President of the French Chess Federation Mrs. Laurie Delorme, Tournament Director Mr. Jean-Claude Moingt, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/europe-echecs-clinches-european-corporate-chess-championship-2024/",
-         "pubDate" : "Sun, 24 Nov 2024 09:10:24",
-         "title" : "Europe Echecs clinches European Corporate Chess Championship 2024"
       }
    ]
 }
