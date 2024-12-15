@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2024-12-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202412144872 target='_blank'>CHESSPANDA12142024SATURDAY</a>",
+"SPRING","2024-12-13","34","<a href=http://www.uschess.org/msa/XtblMain.php?202412134512 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-12-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202412134462 target='_blank'>FBCC NATIONAL VIOLIN DAY OPEN</a>",
 "CYPRESS","2024-12-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202412134342 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-12-06  - 12-08","44","<a href=http://www.uschess.org/msa/XtblMain.php?202412081512 target='_blank'>$2,000 DECEMBER 2024 CHAMPIONSHIP</a>",
 "SUGAR LAND","2024-12-07","4","<a href=http://www.uschess.org/msa/XtblMain.php?202412079922 target='_blank'>FBCC 2024 NATIONAL GAZPACHO DAY OPE</a>",
@@ -196,7 +199,4 @@ jtable([
 "SUGAR LAND","2024-04-28","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404289542 target='_blank'>CYGA04282024</a>",
 "HOUSTON","2024-04-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404278122 target='_blank'>CHESSPANDA04272024SATURDAY</a>",
 "CYPRESS","2024-04-26","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404267902 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2024-04-26","34","<a href=http://www.uschess.org/msa/XtblMain.php?202404267692 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-04-26","14","<a href=http://www.uschess.org/msa/XtblMain.php?202404267622 target='_blank'>FBCC 2024 NATIONAL PRETZEL DAY OPEN</a>",
-"LEAGUE CITY","2024-04-03  - 04-24","13","<a href=http://www.uschess.org/msa/XtblMain.php?202404244332 target='_blank'>CLCC FAREWELL</a>",
 ]);
