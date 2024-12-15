@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a stunning culmination of skill, resilience, and determination, 18-year-old Gukesh Dommaraju of Chennai lifted the coveted world chess champion's trophy in Singapore's exquisite Equarius Hotel Sentosa. Over a month of thrilling play, Gukesh's creativity and poise captivated fans worldwide, as he triumphed against defending champion Ding Liren in a fiercely contested 14-game match. The gala closing ceremony celebrated not just his extraordinary victory, but also the spirit of chess, uniting players and spectators across borders. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-interview-gukesh",
+         "pubDate" : "Sun, 15 Dec 2024 17:00:00",
+         "title" : "Gukesh crowned 18th world champion: \"I'm still this kid who loves chess\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/after-opening-game-defeat-german-second-vincent-keymer-worked-on-opening-variations/articleshow/116330023.cms",
          "pubDate" : "Sun, 15 Dec 2024 02:32:06",
          "title" : "After opening game defeat, Keymer worked on opening variations"
+      },
+      {
+         "description" : "After two days and three rounds, WFM Natalya Tsodikova leads the 2024 U.S. Senior Women's Championship with a perfect score. In round 1, as White, Tsodikova defeated Brenda Nardi. In round 2, as Black, she defeated the 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia. In round 3, as Black, she won against Jayashree Sekar. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Defending champion Anjelina Belakovskaia (L) lost her second-round game against Natalia Tsodikova. Tsodikova now leads the tournament entering round 4 (Photo by Alexey Root)<br> <br> <br> <br> Meet the Queen of UpsetsA newcomer to the U.S. Senior Women's Championship, Jayashre",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-us-senior-womens-championship-day-2-upsets-long-games-and-quick-bites",
+         "pubDate" : "Sun, 15 Dec 2024 00:00:00",
+         "title" : "2024 U.S. Senior Women's Championship, Day 2: Upsets, Long Games, and Quick Bites"
       },
       {
          "description" : "GM Sam Sevian became the 12th player to win one of 83 Bullet Brawl&#39;s held since January 2023 after scoring 66 wins, three draws, and 11 losses during Saturday&#39;s event. In preparation for the 2024 FIDE World Rapid &#38;amp; Blitz Championships, Sevian ...",
@@ -138,7 +154,7 @@ news_feed (
          "title" : "'Gukesh always willing to accept his mistakes'"
       },
       {
-         "description" : "Editor's note: This article will be updated with more photos, as well as interviews with the players and clips from the live broadcast. Return to UtahThe 2024 U.S. Senior Women's Championship began Friday night, December 13, in Murray, Utah. For five of us participating in this year's championship, Utah reminds us of past U.S. Women's Championships. WGM Anjelina Belakovskaia won the 1999 U.S. Women's Championship in Salt Lake City, a tournament where WIM Olga Sagalchik finished tied for third and fourth and WIM Beatriz Marinello tied for 6th through 8th places. Ten players participated. Shernaz Kennedy and I (Alexey Root) are also on a return chess visit to Utah. In 1981, Kennedy and I playe",
+         "description" : "Editor's note: This article will be updated with more photos, and a selection of interviews can be found here.Return to UtahThe 2024 U.S. Senior Women's Championship began Friday night, December 13, in Murray, Utah. For five of us participating in this year's championship, Utah reminds us of past U.S. Women's Championships. WGM Anjelina Belakovskaia won the 1999 U.S. Women's Championship in Salt Lake City, a tournament where WIM Olga Sagalchik finished tied for third and fourth and WIM Beatriz Marinello tied for 6th through 8th places. Ten players participated. Shernaz Kennedy and I (Alexey Root) are also on a return chess visit to Utah. In 1981, Kennedy and I played in the U.S. Women's Cham",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2024-us-senior-womens-championship-begins-utah",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/espn-love-at-first-sight",
          "pubDate" : "Mon, 09 Dec 2024 08:10:00",
          "title" : "ESPN: 'Love at first sight'"
-      },
-      {
-         "description" : "29 players earned the honor of being named National (Co-)Champion in National Harbor, Maryland on Sunday, December 8. Across 13 sections (determined by grade level, from kindergarten through 12th grade), over 2,700 players contributed to the record-breaking event. Read on for game highlights from our various champions. Photographs for individual and team winners from Sunday's awards ceremony are available on our Flash Report. All results can be found here. Co-Champions are discussed in tiebreak order unless otherwise noted. 12th GradeIllinois's FM Avi Kaplan and Virginia's Arnav Gupta closed out their final K-12 Grade Championship as Co-Champions, each finishing with 6/7 scores. Kaplan and G",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-champions-crowned-national-harbor-0",
-         "pubDate" : "Mon, 09 Dec 2024 00:00:00",
-         "title" : "National Champions Crowned in National Harbor"
       },
       {
          "description" : "",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3319",
          "pubDate" : "Mon, 25 Nov 2024 05:11:41",
          "title" : "Beyond the board: A virtual exhibition by FIDE and Google"
-      },
-      {
-         "description" : "The World Chess Championship Match between Dommaraju Gukesh and Ding Liren starts tomorrow in Singapore. Ding Liren defends the World Chess Champion title, and 18-year-old Gukesh D is the youngest challenger in history. The Match will be played from 25 November to 12 December, with 14 games. The player who scores 7.5 points or more wins the Match. If the score is equal after 14 games, the winner will be decided by a tiebreak which will be played on 13 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/world-chess-championship-2024-starts-in-singapore/",
-         "pubDate" : "Sun, 24 Nov 2024 14:08:51",
-         "title" : "World Chess Championship 2024 starts in Singapore"
       }
    ]
 }
