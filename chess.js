@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116330023.cms\" />Vincent Keymer, a German Grandmaster, played a crucial role as Gukesh's openings specialist during the World Chess Championship in Malaga. Keymer's fresh ideas, particularly his analysis of the French Defence after an initial setback, proved invaluable. The team prepared for tie-breaks even as Gukesh pushed for victory in the final game, celebrating his eventual triumph with relief and joy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-opening-game-defeat-german-second-vincent-keymer-worked-on-opening-variations/articleshow/116330023.cms",
+         "pubDate" : "Sun, 15 Dec 2024 02:32:06",
+         "title" : "After opening game defeat, Keymer worked on opening variations"
+      },
+      {
+         "description" : "GM Sam Sevian became the 12th player to win one of 83 Bullet Brawl&#39;s held since January 2023 after scoring 66 wins, three draws, and 11 losses during Saturday&#39;s event. In preparation for the 2024 FIDE World Rapid &#38;amp; Blitz Championships, Sevian ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sam-sevian-wins-bullet-brawl-december-14-2024",
+         "pubDate" : "Sat, 14 Dec 2024 17:24:00",
+         "title" : "Sevian Wins 1st Bullet Brawl Title Ahead Of FIDE World Rapid & Blitz Championships"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116322346.cms\" />Elon Musk congratulated Gukesh Dommaraju, who became the youngest World Chess Champion after defeating Ding Liren. Gukesh secured victory in the final game, culminating a tense championship match. The win, which Gukesh called the \"best moment of his life,\" followed his Candidates Tournament victory in April. Ding Liren acknowledged his defeat gracefully.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "RFPs: Merchandise and Sales Licensing + Apparel, Awards, and Chess Store Vendors"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116146476.cms\" />Indian chess grandmaster D Gukesh lost the 12th game of the World Chess Championship to Ding Liren. The match is now tied at six points each. Gukesh expressed disappointment but remains determined. He stated he had several opportunities in the second half. Two games remain in this thrilling championship match. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-had-many-chances-in-second-half-gukesh-after-losing-game-12-against-ding-liren/articleshow/116146476.cms",
-         "pubDate" : "Mon, 09 Dec 2024 15:56:16",
-         "title" : "'I had many chances in second half': Gukesh after losing Game 12"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2024-start-in-skopje/",
          "pubDate" : "Thu, 05 Dec 2024 09:15:22",
          "title" : "European Rapid & Blitz Chess Championships 2024 start in Skopje"
-      },
-      {
-         "description" : "GM Jeffery Xiong won Qualifier 5, and FM Roee Aroesti won Qualifier 6 of the 2024 Crazyhouse Championship, the final event of this year&#39;s Chess.com Community Championship series. There are just two more qualifying spots open for the Knockout on Fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-5-6",
-         "pubDate" : "Thu, 05 Dec 2024 09:09:00",
-         "title" : "Xiong, Aroesti Top Crazyhouse Qualifiers 5 & 6"
       },
       {
          "description" : "No. Name 1 JOTISH JOY 2 SUSHANT TIWARI 3 TAMANNA VERMA 4 SHUBHAM SHUKLA 5 CHIRAG ARORA 6 VIVEK MEHTO 7 ARJUN VEER SINGH 8",
