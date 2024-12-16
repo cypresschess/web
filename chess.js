@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116352964.cms\" />D Gukesh's World Championship victory secures his spot in the 2026 title match. This win elevates India's chess stature with six players in the top 26, promising future title contenders. Gukesh's rapid ascent, aided by Viswanathan Anand's mentorship, contrasts with Anand's own challenging path to the world title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-d-gukeshs-crown-is-super-special-for-indian-chess/articleshow/116352964.cms",
+         "pubDate" : "Mon, 16 Dec 2024 04:01:44",
+         "title" : "Why D Gukesh's crown is super special for Indian chess"
+      },
+      {
          "description" : "In a stunning culmination of skill, resilience, and determination, 18-year-old Gukesh Dommaraju of Chennai lifted the coveted world chess champion's trophy in Singapore's exquisite Equarius Hotel Sentosa. Over a month of thrilling play, Gukesh's creativity and poise captivated fans worldwide, as he triumphed against defending champion Ding Liren in a fiercely contested 14-game match. The gala closing ceremony celebrated not just his extraordinary victory, but also the spirit of chess, uniting players and spectators across borders. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,28 +82,12 @@ news_feed (
          "title" : "Supercharge Your Chess Improvement in 2025"
       },
       {
-         "description" : "On Monday the 2024 Nobel Prizes were awarded in a Stockholm, Sweden. The prize for chemistry went to three scientists, one of whom has an illustrious background in chess. Demis Hassabis was a chess prodigy with a 2300 rating at the age of 13. He founded DeepMind, a subsidiary of Google, and went on to develop the groundbreaking artificial intelligence program AlphaZero. Frederic Friedel has known Demis since he was 17. | Photo European Biotechology/Nanaka Adachi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-demis-i-know",
-         "pubDate" : "Sat, 14 Dec 2024 13:00:00",
-         "title" : "The Demis I know"
-      },
-      {
          "description" : "​World Chess Championship update: on Thursday the Indian challenger Gukesh Dommaraju defeated the reigning champion, Ding Liren, of China in the 14th and final game to win the match 7.5 to 6.5. Aged just 18, Gukesh thereby becomes the youngest ever World Champion, surpassing by four years the previous record set by Garry Kasparov. While []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/from-overpromotion-to-regicide/",
          "pubDate" : "Sat, 14 Dec 2024 11:05:15",
          "title" : "From overpromotion to regicide"
-      },
-      {
-         "description" : "The new ChessBase Training Course 'Modern Classics' by GM Dorian Rogozenco presents 33 important games from modern chess history (1935-1999) and offers an excellent basis for deepening your own understanding of chess through detailed explanations, background information and interactive tools. He continues the tradition of his predecessor course and makes important parts of chess culture accessible to players of all levels.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-modern-classics",
-         "pubDate" : "Sat, 14 Dec 2024 11:00:00",
-         "title" : "Dorian Rogozenco - Modern Classics"
       },
       {
          "description" : "Sl No Candidate Name1 James Ruokuoselhou2 Rezabul Hoque3 Shanjothung Ngullie4 Nandan Buragohain5 Khoveto Vero6 Mrinal Kakati7 Dhrubajyoti Saha8 Shankar Barooah9 Thomas Lorin10 Dipankar Ghosh11 Rokozono",
@@ -568,14 +560,6 @@ news_feed (
          "link" : "https://aicf.in/list-of-left-over-arbiters-undergone-aicf-refresher-seminar-2024-25-on-18-20-november-2024/",
          "pubDate" : "Wed, 11 Dec 2024 05:18:19",
          "title" : "LIST OF LEFT OVER ARBITERS UNDERGONE AICF REFRESHER SEMINAR 2024-25 ON 18-20 NOVEMBER 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116194534.cms\" />The World Chess Championship between Ding Liren and D Gukesh is poised for a thrilling finish. With two classical games left, Gukesh needs a victory to avoid tiebreaks. Historical trends suggest tiebreaks favor the champion, while Ding's five career WCC losses put him in rare company.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-ding-liren-world-chess-championship-on-razors-edge-with-two-games-to-play/articleshow/116194534.cms",
-         "pubDate" : "Wed, 11 Dec 2024 03:18:57",
-         "title" : "World Chess Championship on razor's edge with 2 games to play"
       },
       {
          "description" : "GM Daniel Naroditsky on Monday won the Tournament of the Accused, an event organized by runner-up GM Hikaru Nakamura and sponsored by streaming platform Kick.com. Several of the participants had been &#34;accused&#34;: they were players whose recent resul...",
