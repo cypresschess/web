@@ -34,6 +34,14 @@ news_feed (
          "title" : "'Excited to face': Gukesh to take on Magnus Carlsen in Norway"
       },
       {
+         "description" : "Before leaving Singapore, new World Champion Gukesh Dommaraju fulfilled his promise to bungee jump, but in terms of danger it seemed like nothing compared to the crush that greeted him in the airport when he arrived home a hero in Chennai, India. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-ding-homecoming-bunjee-jump",
+         "pubDate" : "Mon, 16 Dec 2024 12:09:22",
+         "title" : "Gukesh Bungee Jumps, Gets Hero's Welcome Back In India"
+      },
+      {
          "description" : " The FIDE World Chess Championship took place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Defending champion was 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April 2023. The Challenger was 18 year old Gukesh Dommaraju who won the right to play the match after winning the Candidates tournament earlier in the year. Much was made of the poor form of Ding Liren who had admitted to depression but he played better than anyone had any right to expect. Ding won the first game but the match was soon level again after Gukesh won game 3. There were then seven draws in a row before Gukesh won a fluctuating struggle in game 11 where Ding stood well before losing the advantag",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-9",
          "pubDate" : "Thu, 05 Dec 2024 18:00:00",
          "title" : "Deadlock Continues As Gukesh Fails To Press Ding In Game 9"
-      },
-      {
-         "description" : "GM Lars Oskar Hauge won Qualifier 7 and GM Andrew Tang won Qualifier 8 to fill the last two spots available in the 2024 Crazyhouse Championship Knockout Final. They join the other six players who will participate in the double-elimination Knockout...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-crazyhouse-chess-championship-qualifiers-7-8",
-         "pubDate" : "Thu, 05 Dec 2024 17:10:00",
-         "title" : "GMs Hauge, Tang Claim Final 2 Spots In Crazyhouse Championship"
       },
       {
          "description" : "On behalf of the All India Chess Federation (AICF) and the AICF Arbiters' Commission, the Nagaland Chess Association, North East Indian Chess Association, and AICF",
