@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116357057.cms\" />18-year-old Indian chess prodigy Gukesh D has become the youngest world chess champion, but his victory comes with a Rs 4.67 crore tax bill, exceeding MS Dhoni's IPL salary. His Rs 11.34 crore prize money from the World Chess Championship triggers a hefty tax liability due to India's tax laws.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-to-pay-more-taxes-than-ms-dhonis-current-ipl-salary/articleshow/116357057.cms",
+         "pubDate" : "Mon, 16 Dec 2024 07:01:53",
+         "title" : "Gukesh to pay more taxes than MS Dhoni's current IPL salary"
+      },
+      {
+         "description" : "The 11th Sunway Sitges Chess Festival is delivering thrilling action in the picturesque town of Sitges, near Barcelona. Surprises have already shaken the standings. Edward Song pulled off an upset against top seed Kirill Alekseenko (pictured), joining Ido Gorshtein and Anwesh Upadhyaya as the only players with perfect scores after four rounds. With side events, culinary workshops and a Tuesday rest day conference by Ivanchuk, the festival blends fierce competition with rich cultural experiences. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2024-r4",
+         "pubDate" : "Mon, 16 Dec 2024 06:30:00",
+         "title" : "Sunway Sitges: Three players on 4/4"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116352964.cms\" />D Gukesh's World Championship victory secures his spot in the 2026 title match. This win elevates India's chess stature with six players in the top 26, promising future title contenders. Gukesh's rapid ascent, aided by Viswanathan Anand's mentorship, contrasts with Anand's own challenging path to the world title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3346",
          "pubDate" : "Wed, 11 Dec 2024 16:20:53",
          "title" : "FIDE World Championship Game 13: Ding dodges a bullet"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116219033.cms\" />18-year-old Indian grandmaster D Gukesh fought extremely hard but couldn't overcome defending champion Ding Liren in game 13 of the World Chess Championship. The draw leaves the score tied at 6.5-6.5 with one classical game left. Gukesh, playing white, explored a novel opening idea but couldn't gain a significant advantage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-d-gukeshs-fight-with-white-pieces-ends-in-vain-as-ding-liren-forces-draw-in-game-13/articleshow/116219033.cms",
-         "pubDate" : "Wed, 11 Dec 2024 15:25:57",
-         "title" : "D Gukesh's fight ends in vain as Ding Liren forces draw in Game 13"
       },
       {
          "description" : "",
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3320",
          "pubDate" : "Mon, 25 Nov 2024 15:23:08",
          "title" : "Ding Liren takes down Gukesh in the first game of title match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3319",
-         "pubDate" : "Mon, 25 Nov 2024 05:11:41",
-         "title" : "Beyond the board: A virtual exhibition by FIDE and Google"
       }
    ]
 }
