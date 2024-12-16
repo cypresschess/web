@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116375364.cms\" />D Gukesh, 18-year-old chess prodigy, celebrated his recent World Championship victory with a thrilling bungee jump. Gukesh, who triumphed over Ding Liren in Singapore, shared a video of his adventurous feat on social media. This win makes him the second Indian World Champion after Viswanathan Anand, and follows his successes at the Tata Steel Masters and Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-did-it-world-champion-d-gukesh-takes-the-plunge-with-bungee-jumping-watch/articleshow/116375364.cms",
+         "pubDate" : "Mon, 16 Dec 2024 15:59:48",
+         "title" : "Watch: D Gukesh takes the plunge with bungee jumping "
+      },
+      {
+         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion in an electrifying showdown at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. This year, a live audience will have the chance to follow the action up close in Oslo.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-preview",
+         "pubDate" : "Mon, 16 Dec 2024 15:25:00",
+         "title" : "Starting Tuesday: Champions Chess Tour Finals in Oslo"
+      },
+      {
+         "description" : "Please find the live link for ODISHA OPEN Category &#8216;A' (1900 &#38; above) # (The 15th International Grandmasters Chess Festival 2024-25) Link:&#160;https://lichess.org/broadcast/odisha-open/round-2/6OOBHVt8",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-links-odisha-open-category-a/",
+         "pubDate" : "Mon, 16 Dec 2024 12:42:05",
+         "title" : "Live Game links: ODISHA OPEN (Category 'A')"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116370408.cms\" />Newly crowned World Chess Champion, 18-year-old Gukesh Dommaraju, is set for a thrilling showdown against top-ranked Magnus Carlsen at the 2025 Norway Chess tournament. Gukesh, fresh off victories at the Tata Steel Masters, Chess Olympiad, Candidates Tournament, and the World Championship, will face Carlsen on his home turf in Stavanger.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/excited-to-face-the-strongest-players-world-chess-champion-gukesh-to-take-on-magnus-carlsen-in-norway/articleshow/116370408.cms",
+         "pubDate" : "Mon, 16 Dec 2024 12:34:01",
+         "title" : "'Excited to face': Gukesh to take on Magnus Carlsen in Norway"
+      },
+      {
          "description" : " The FIDE World Chess Championship took place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Defending champion was 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April 2023. The Challenger was 18 year old Gukesh Dommaraju who won the right to play the match after winning the Candidates tournament earlier in the year. Much was made of the poor form of Ding Liren who had admitted to depression but he played better than anyone had any right to expect. Ding won the first game but the match was soon level again after Gukesh won game 3. There were then seven draws in a row before Gukesh won a fluctuating struggle in game 11 where Ding stood well before losing the advantag",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,6 +58,14 @@ news_feed (
          "title" : "'In a world championship, it's not only about chess': D Gukesh"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3350",
+         "pubDate" : "Mon, 16 Dec 2024 09:44:40",
+         "title" : "FIDE Circuit 2024: Caruana seizes the lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116363074.cms\" />18-year-old D Gukesh returned to India as a hero after becoming the youngest-ever world chess champion, surpassing Garry Kasparov's record. He defeated Ding Liren in Singapore, securing India's second world title after Viswanathan Anand. Gukesh received a grand welcome in Chennai, with a planned celebration and a ₹5 crore prize from the Tamil Nadu CM.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-to-pay-more-taxes-than-ms-dhonis-current-ipl-salary/articleshow/116357057.cms",
          "pubDate" : "Mon, 16 Dec 2024 07:01:53",
          "title" : "Gukesh to pay more taxes than MS Dhoni's current IPL salary"
+      },
+      {
+         "description" : "We&#39;re excited to announce that the Chess.com Community Championships will continue next year with more events and a total of $40,000 in prizes! The 2025 cycle begins on January 13 with the Chess.com Puzzles Championship and will feature a differen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-community-championships-2025",
+         "pubDate" : "Mon, 16 Dec 2024 07:00:00",
+         "title" : "Chess.com Community Championships 2025 Cycle Kicks Off January And Features 12 Events"
       },
       {
          "description" : "The 11th Sunway Sitges Chess Festival is delivering thrilling action in the picturesque town of Sitges, near Barcelona. Surprises have already shaken the standings. Edward Song pulled off an upset against top seed Kirill Alekseenko (pictured), joining Ido Gorshtein and Anwesh Upadhyaya as the only players with perfect scores after four rounds. With side events, culinary workshops and a Tuesday rest day conference by Ivanchuk, the festival blends fierce competition with rich cultural experiences. | Photo: Official website",
@@ -354,22 +402,6 @@ news_feed (
          "title" : "D Gukesh beats Ding Liren to become youngest World Chess Champion"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116259918.cms\" />18-year-old Indian Grandmaster D Gukesh achieved his lifelong dream, becoming the youngest world chess champion by defeating Ding Liren. He secured victory with 7.5 points against 6.5 in a closely fought final game in Singapore. Gukesh fulfilled his childhood ambition, claiming the prestigious title and a $1.3 million prize, surpassing Garry Kasparov's previous record.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/11-year-old-d-gukesh-reveals-youngest-world-champion-ambition-in-viral-video-watch/articleshow/116259918.cms",
-         "pubDate" : "Thu, 12 Dec 2024 15:33:47",
-         "title" : "D Gukesh reveals 'youngest world champion' ambition in viral video"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116258960.cms\" />18-year-old Indian chess prodigy Gukesh Dommaraju defeated Ding Liren to become the youngest undisputed World Chess Champion. His victory in Singapore concluded with a score of 7.5-6.5. Gukesh's aggressive strategy paid off, securing his place in history and inspiring a new generation of chess players in India. Prime Minister Modi and President Murmu lauded his historic achievement.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-is-the-result-of-pm-modi-congratulates-d-gukesh-on-becoming-youngest-ever-world-chess-champion/articleshow/116258960.cms",
-         "pubDate" : "Thu, 12 Dec 2024 15:07:21",
-         "title" : "'This is the result of ... ': PM Modi congratulates D Gukesh"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257860.cms\" />18-year-old Indian Grandmaster D Gukesh etched his name in history, becoming the youngest world chess champion by defeating Ding Liren. Overwhelmed with emotion, Gukesh celebrated his victory with a unique gesture, resetting the pieces on the board. His 7.5 points to Ding's 6.5 secured the title in the 14th game, surpassing Garry Kasparov's record. Gukesh graciously acknowledged Ding's valiant fight.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -674,7 +706,7 @@ news_feed (
          "title" : "Revised US Chess Membership Rates Take Effect January 1, 2025"
       },
       {
-         "description" : "Update 12/15/2024, 4:06 p.m. CST: This post has been updated to reflect the new, extended deadline for the following RFPs. Due to increased interest and requests for an extension of time, we are extending the deadline to apply until January 13, 2025. US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are now due no later than December 31, 2024.",
+         "description" : "Update 12/15/2024, 4:06 p.m. CST: This post has been updated to reflect the new, extended deadline for the following RFPs. Due to increased interest and requests for an extension of time, we are extending the deadline to apply until January 13, 2025. US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are now due no later than January 13, 2025.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/rfps-merchandise-and-sales-licensing-apparel-awards-and-chess-store-vendors",
@@ -994,14 +1026,6 @@ news_feed (
          "title" : "Final Report of SNA Seminar and Examination at Dimapur, Nagaland from 28 to 29 November 2024 ."
       },
       {
-         "description" : "Have you ever been on a streak? If you win more than 10 games in a row do you sense the statistics police peering into your game history? Has an opponent called your brilliant move a little too brilliant? GM Hikaru Nakamura is proud to announce...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2024-tournament-of-accused",
-         "pubDate" : "Thu, 05 Dec 2024 14:43:00",
-         "title" : "Announcing Kick's Tournament Of The Accused With GMHikaru"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1024,14 +1048,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2024-start-in-skopje/",
          "pubDate" : "Thu, 05 Dec 2024 09:15:22",
          "title" : "European Rapid & Blitz Chess Championships 2024 start in Skopje"
-      },
-      {
-         "description" : "No. Name 1 JOTISH JOY 2 SUSHANT TIWARI 3 TAMANNA VERMA 4 SHUBHAM SHUKLA 5 CHIRAG ARORA 6 VIVEK MEHTO 7 ARJUN VEER SINGH 8",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-senior-national-arbiter-at-karnal-haryana-from-23-to-24-november-2024/",
-         "pubDate" : "Thu, 05 Dec 2024 06:23:37",
-         "title" : "Certificate of Senior National Arbiter at Karnal ,Haryana from 23 to 24 November 2024"
       },
       {
          "description" : " The FIDE World Chess Championship match between defending champion Ding Liren and Gukesh D is tied at 4-4 after 8 games. Neither player seemed particularly disappointed as they drew a very difficult game where the engines showed that both players had a winning positions at different moments. Ding is jumping around from opening to opening so that he is a moving target, a strategy of opening surprises which in itself is not a surprise. Today Gukesh thanked his seconds as he got in a novelty first with 7...f6 after Ding chose the English. What happened is that the game took on a fairly unique direction, Ding had a Rook exposed in the middle of board, there was a very unusual pawn structure. Al",
@@ -1328,30 +1344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3321",
          "pubDate" : "Tue, 26 Nov 2024 01:00:35",
          "title" : "5 ways to explore chess during 2024 World Chess Championship"
-      },
-      {
-         "description" : "This being Thanksgiving week in the USA and me wanting an easy post that continues the AI comics series, please forgive me more nonsense. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ok25.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Turkeys play Thanksgiving chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> For the previous post in the series, see <A HREF=\"https://chessforallages.blogspot.com/2024/11/kings-of-news-cycle.html\">Kings of the News Cycle</A> (November 2024). ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/why-are-comics-rarely-funny.html",
-         "pubDate" : "Mon, 25 Nov 2024 16:24:00",
-         "title" : "Why Are 'Comics' Rarely Funny?"
-      },
-      {
-         "description" : " Ding Liren won a nervy first game against Gukesh in the World Chess Championship held in the Resorts World Sentosa, Singapore. Ding, playing with the black pieces, tried to surprise Gukesh with the French Defence but it was he who had to spend time trying to get an acceptable position. Maybe that dominant start slightly lured Gukesh into a false sense of safety and there followed a number of inaccurate and then bad moves from him. Gukesh had one chance to get back into the game later on but time trouble and a bad position sealed his fate. This result will surely have done wonders for Ding's confidence having not won a classical game since January but both will surely hope to play better tha",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-liren-wins-game-one-of-his-title-defence-against-gukesh",
-         "pubDate" : "Mon, 25 Nov 2024 15:24:00",
-         "title" : "Ding Liren wins game one of his title defence against Gukesh - 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3320",
-         "pubDate" : "Mon, 25 Nov 2024 15:23:08",
-         "title" : "Ding Liren takes down Gukesh in the first game of title match"
       }
    ]
 }
