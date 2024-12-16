@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE World Chess Championship took place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Defending champion was 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April 2023. The Challenger was 18 year old Gukesh Dommaraju who won the right to play the match after winning the Candidates tournament earlier in the year. Much was made of the poor form of Ding Liren who had admitted to depression but he played better than anyone had any right to expect. Ding won the first game but the match was soon level again after Gukesh won game 3. There were then seven draws in a row before Gukesh won a fluctuating struggle in game 11 where Ding stood well before losing the advantag",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024",
+         "pubDate" : "Mon, 16 Dec 2024 12:01:00",
+         "title" : "FIDE World Chess Championship 2024 - Games and Results"
+      },
+      {
+         "description" : "The ECU E-Magazine November 2024 is out! In this edition of the ECU E-Magazine you may read about: The November edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or can be downloaded below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-november-2024/",
+         "pubDate" : "Mon, 16 Dec 2024 10:44:22",
+         "title" : "ECU E-Magazine November 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116364624.cms\" />D Gukesh, an 18-year-old Indian, won the world chess championship. He is the youngest player to achieve this feat. Gukesh's mental conditioning coach, Paddy Upton, played a key role in his victory. Upton helped Gukesh manage the pressure of the tournament. Upton has worked with other successful athletes. Gukesh's mental strength helped him stay focused throughout the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-a-world-championship-its-not-only-about-chess-d-gukesh/articleshow/116364624.cms",
+         "pubDate" : "Mon, 16 Dec 2024 09:50:55",
+         "title" : "'In a world championship, it's not only about chess': D Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116363074.cms\" />18-year-old D Gukesh returned to India as a hero after becoming the youngest-ever world chess champion, surpassing Garry Kasparov's record. He defeated Ding Liren in Singapore, securing India's second world title after Viswanathan Anand. Gukesh received a grand welcome in Chennai, with a planned celebration and a ₹5 crore prize from the Tamil Nadu CM.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-arrives-in-chennai-to-rapturous-welcome-watch/articleshow/116363074.cms",
+         "pubDate" : "Mon, 16 Dec 2024 09:28:53",
+         "title" : "D Gukesh arrives in Chennai to rapturous welcome - WATCH"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116357057.cms\" />18-year-old Indian chess prodigy Gukesh D has become the youngest world chess champion, but his victory comes with a Rs 4.67 crore tax bill, exceeding MS Dhoni's IPL salary. His Rs 11.34 crore prize money from the World Chess Championship triggers a hefty tax liability due to India's tax laws.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -338,14 +370,6 @@ news_feed (
          "title" : "'This is the result of ... ': PM Modi congratulates D Gukesh"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116258173.cms\" />D Gukesh, after a decade-long pursuit, achieved his childhood dream by becoming the youngest world chess champion. He expressed emotional disbelief after defeating Ding Liren in a closely fought 14-game match. Gukesh acknowledged Liren's sportsmanship and thanked his parents for their unwavering support. Liren, while disappointed, accepted the outcome gracefully, acknowledging Gukesh's deserved victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/to-see-the-indian-flag-next-to-me-was-the-best-moment-d-gukesh/articleshow/116258173.cms",
-         "pubDate" : "Thu, 12 Dec 2024 14:23:49",
-         "title" : "'To see the Indian flag next to me was the best moment': D Gukesh"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257860.cms\" />18-year-old Indian Grandmaster D Gukesh etched his name in history, becoming the youngest world chess champion by defeating Ding Liren. Overwhelmed with emotion, Gukesh celebrated his victory with a unique gesture, resetting the pieces on the board. His 7.5 points to Ding's 6.5 secured the title in the 14th game, surpassing Garry Kasparov's record. Gukesh graciously acknowledged Ding's valiant fight.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -440,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-back-and-more-british-than-ever",
          "pubDate" : "Thu, 12 Dec 2024 07:34:00",
          "title" : "The London Chess Classic Is Back And More British Than Ever"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116238559.cms\" />The World Chess Championship between D Gukesh and Ding Liren is level at 6.5 points each after 13 games. With one game remaining, the 18-year-old Indian challenger aims to secure victory in the final classical game to avoid tiebreakers, where the reigning champion, Liren, holds a significant advantage due to his superior rapid and blitz rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-why-d-gukesh-will-prefer-winning-the-world-chess-championship-in-game-14-itself/articleshow/116238559.cms",
-         "pubDate" : "Thu, 12 Dec 2024 05:46:09",
-         "title" : "EXPLAINED: Why Gukesh wants to end Liren's reign in Game 14 itself"
       },
       {
          "description" : "Chess is not the only sport forced to deal with cheating. Now the world of backgammon is rocked by its own scandal. The U.S. Backgammon Federation (USBGF) announced their decision last week, following an investigation into cheating during the 20...",
