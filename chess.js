@@ -666,7 +666,7 @@ news_feed (
          "title" : "Revised US Chess Membership Rates Take Effect January 1, 2025"
       },
       {
-         "description" : "US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are now due no later than December 31, 2024.",
+         "description" : "Update 12/15/2024, 4:06 p.m. CST: This post has been updated to reflect the new, extended deadline for the following RFPs. Due to increased interest and requests for an extension of time, we are extending the deadline to apply until January 13, 2025. US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are now due no later than December 31, 2024.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/rfps-merchandise-and-sales-licensing-apparel-awards-and-chess-store-vendors",
