@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 18 offers a feature called \"Identify Player\" that allows you to discover the real-life identity of a strong Grandmaster playing on a chess server. By comparing a player's online games with the Mega Database, you can identify who they are by matching their game patterns and ELO rating. This function can also be used to compare your own games with other players in the same rating range, helping you find your \"chess twin.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-find-a-player-behind-their-online-profile-with-chessbase-18",
+         "pubDate" : "Tue, 17 Dec 2024 11:59:34",
+         "title" : "How to find a player behind their online profile with ChessBase 18!"
+      },
+      {
+         "description" : "Please find the live games link for the 37th National Under 13 and Girls Chess Championship 2024 which is scheduled from December 17th to 23rd",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-37th-national-under-13-open-and-girls-chess-championship-2024/",
+         "pubDate" : "Tue, 17 Dec 2024 11:45:39",
+         "title" : "Live Games Link for 37th National Under 13 Open and Girls Chess Championship 2024"
+      },
+      {
          "description" : "If you play 1.e4, you need a variation against the Caro-Kann. The Advance Variation is popular and successful: White puts Black under pressure from the outset. In his ChessBase FritzTrainer \"Understanding Middlegame Strategies, Volume 10\", the successful coach and author Ivan Sokolov has analysed and explained the most important ideas and strategic concepts of this system. Hannes Langrock watched the course and was impressed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -994,14 +1010,6 @@ news_feed (
          "title" : "Deadlock Continues As Gukesh Fails To Press Ding In Game 9"
       },
       {
-         "description" : "On behalf of the All India Chess Federation (AICF) and the AICF Arbiters' Commission, the Nagaland Chess Association, North East Indian Chess Association, and AICF",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-and-examination-at-dimapur-nagaland-from-28-to-29-november-2024/",
-         "pubDate" : "Thu, 05 Dec 2024 16:38:48",
-         "title" : "Final Report of SNA Seminar and Examination at Dimapur, Nagaland from 28 to 29 November 2024 ."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1104,6 +1112,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3331",
          "pubDate" : "Sun, 01 Dec 2024 21:31:30",
          "title" : "Arjun Erigaisi crosses 2800 in December 2024 rating list"
+      },
+      {
+         "description" : "We don't often see books for the monthly post in the long-running series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010). The visuals are seldom attractive and the narrative is rarely compelling. <P> Although I had plenty of more attractive choices on this month's short list, I have a soft spot for the second World Champion. Titled, '1940 SIGNED by Emanuel LASKER INSCRIBED to Lotte JACOBI Society Chess Book RARE', the Lasker book pictured below sold for $850.00, 'Buy It Now'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol01.jpg\" WIDTH=400 HEIGHT=300> <P> The description was written ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/laskers-future-community.html",
+         "pubDate" : "Sun, 01 Dec 2024 16:31:00",
+         "title" : "Lasker's Future Community"
       },
       {
          "description" : "",
