@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-ding-homecoming-bunjee-jump",
-         "pubDate" : "Mon, 16 Dec 2024 12:09:22",
+         "pubDate" : "Mon, 16 Dec 2024 12:09:00",
          "title" : "Gukesh Bungee Jumps, Gets Hero's Welcome Back In India"
       },
       {
@@ -112,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/why-d-gukeshs-crown-is-super-special-for-indian-chess/articleshow/116352964.cms",
          "pubDate" : "Mon, 16 Dec 2024 04:01:44",
          "title" : "Why D Gukesh's crown is super special for Indian chess"
+      },
+      {
+         "description" : "The United States Chess Federation is pleased to announce the 2025 All-America Chess Team. Team members will receive team jackets and plaques by mail.The All-America Chess Team was created in 1987 to honor the very best players ages 18 and under. The team, one of the highest national honors attainable by a young chess player, is selected on the basis of age, rating, and chess activity during that year, similar to the selection process of \"all conference\" sports teams. This year's candidates were selected based on their age as of January 1, 2024, and their peak post-tournament rating from July 1, 2023 through June 30, 2024. Since this award is a \"post-season\" selection, the minimum rating lim",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-us-chess-federation-all-america-chess-team-announced",
+         "pubDate" : "Mon, 16 Dec 2024 00:00:00",
+         "title" : "2025 US Chess Federation All-America Chess Team Announced"
       },
       {
          "description" : "In a stunning culmination of skill, resilience, and determination, 18-year-old Gukesh Dommaraju of Chennai lifted the coveted world chess champion's trophy in Singapore's exquisite Equarius Hotel Sentosa. Over a month of thrilling play, Gukesh's creativity and poise captivated fans worldwide, as he triumphed against defending champion Ding Liren in a fiercely contested 14-game match. The gala closing ceremony celebrated not just his extraordinary victory, but also the spirit of chess, uniting players and spectators across borders. | Photo: FIDE / Eng Chin An",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/revised-us-chess-membership-rates-take-effect-january-1-2025",
          "pubDate" : "Tue, 10 Dec 2024 00:00:00",
          "title" : "Revised US Chess Membership Rates Take Effect January 1, 2025"
-      },
-      {
-         "description" : "Update 12/15/2024, 4:06 p.m. CST: This post has been updated to reflect the new, extended deadline for the following RFPs. Due to increased interest and requests for an extension of time, we are extending the deadline to apply until January 13, 2025. US Chess has released its Request for Proposals (RFP) to solicit proposals for Merchandise and Sales Licensing as well as three separate RFPs for Apparel Vendor, Awards Vendor, and Chess Store Vendor. More information about these RFPs can be found here.Proposing organizations are encouraged to reach out per instructions in the RFP. Proposals are now due no later than January 13, 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/rfps-merchandise-and-sales-licensing-apparel-awards-and-chess-store-vendors",
-         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
-         "title" : "RFPs: Merchandise and Sales Licensing + Apparel, Awards, and Chess Store Vendors"
       },
       {
          "description" : "",
