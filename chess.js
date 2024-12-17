@@ -1336,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3322",
          "pubDate" : "Tue, 26 Nov 2024 13:37:41",
          "title" : "Gukesh: Today was a good day!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3321",
-         "pubDate" : "Tue, 26 Nov 2024 01:00:35",
-         "title" : "5 ways to explore chess during 2024 World Chess Championship"
       }
    ]
 }
