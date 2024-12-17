@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you play 1.e4, you need a variation against the Caro-Kann. The Advance Variation is popular and successful: White puts Black under pressure from the outset. In his ChessBase FritzTrainer \"Understanding Middlegame Strategies, Volume 10\", the successful coach and author Ivan Sokolov has analysed and explained the most important ideas and strategic concepts of this system. Hannes Langrock watched the course and was impressed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/inspiration-advanced-caro-kann",
+         "pubDate" : "Tue, 17 Dec 2024 08:00:00",
+         "title" : "Inspiration in the Advance Variation of the Caro-Kann"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116375364.cms\" />D Gukesh, 18-year-old chess prodigy, celebrated his recent World Championship victory with a thrilling bungee jump. Gukesh, who triumphed over Ding Liren in Singapore, shared a video of his adventurous feat on social media. This win makes him the second Indian World Champion after Viswanathan Anand, and follows his successes at the Tata Steel Masters and Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -98,14 +106,6 @@ news_feed (
          "title" : "Chess.com Community Championships 2025 Cycle Kicks Off January And Features 12 Events"
       },
       {
-         "description" : "The 11th Sunway Sitges Chess Festival is delivering thrilling action in the picturesque town of Sitges, near Barcelona. Surprises have already shaken the standings. Edward Song pulled off an upset against top seed Kirill Alekseenko (pictured), joining Ido Gorshtein and Anwesh Upadhyaya as the only players with perfect scores after four rounds. With side events, culinary workshops and a Tuesday rest day conference by Ivanchuk, the festival blends fierce competition with rich cultural experiences. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2024-r4",
-         "pubDate" : "Mon, 16 Dec 2024 06:30:00",
-         "title" : "Sunway Sitges: Three players on 4/4"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116352964.cms\" />D Gukesh's World Championship victory secures his spot in the 2026 title match. This win elevates India's chess stature with six players in the top 26, promising future title contenders. Gukesh's rapid ascent, aided by Viswanathan Anand's mentorship, contrasts with Anand's own challenging path to the world title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -120,14 +120,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-us-chess-federation-all-america-chess-team-announced",
          "pubDate" : "Mon, 16 Dec 2024 00:00:00",
          "title" : "2025 US Chess Federation All-America Chess Team Announced"
-      },
-      {
-         "description" : "In a stunning culmination of skill, resilience, and determination, 18-year-old Gukesh Dommaraju of Chennai lifted the coveted world chess champion's trophy in Singapore's exquisite Equarius Hotel Sentosa. Over a month of thrilling play, Gukesh's creativity and poise captivated fans worldwide, as he triumphed against defending champion Ding Liren in a fiercely contested 14-game match. The gala closing ceremony celebrated not just his extraordinary victory, but also the spirit of chess, uniting players and spectators across borders. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-interview-gukesh",
-         "pubDate" : "Sun, 15 Dec 2024 17:00:00",
-         "title" : "Gukesh crowned 18th world champion: \"I'm still this kid who loves chess\""
       },
       {
          "description" : "",
@@ -266,14 +258,6 @@ news_feed (
          "title" : "2024 U.S. Senior Women's Championship Begins in Utah"
       },
       {
-         "description" : "The young Russian grandmaster Andrey Esipenko (photo) won the highly competitive Qatar Masters with 7&frac12; points after 9 rounds of play. Second and third place were shared by Arjun Erigaisi and Nodirbek Abdusattorov, each with 7 points. Arjun missed the opportunity to overtake Fabiano Caruana in the FIDE Circuit. Whoever has the most FIDE Circuit points at the end of the year will qualify for the 2026 Candidates Tournament. | Photo: Anna Shtourman / Qatar Masters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrey-esipenko-wins-qatar-masters-2024",
-         "pubDate" : "Fri, 13 Dec 2024 17:40:00",
-         "title" : "Andrey Esipenko wins Qatar Masters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116295261.cms\" />Newly crowned chess world champion, 18-year-old D Gukesh, dismisses criticism of his match quality against Ding Liren. Gukesh emphasized willpower and character as key factors in his victory, becoming the youngest world champion. While acknowledging the subpar quality of some games, he attributed it to the pressure of the new experience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -392,14 +376,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
          "pubDate" : "Fri, 13 Dec 2024 03:10:53",
          "title" : "Gukesh shocks Ding in finale, wins title!"
-      },
-      {
-         "description" : "In a historic conclusion to the World Chess Championship in Singapore, 18-year-old Gukesh Dommaraju defeated reigning champion Ding Liren in the final game, becoming the youngest undisputed world chess champion in history. With this monumental victory, the title returns to India for the first time since Viswanathan Anand lost it in 2013. Gukesh's triumph, sealed after Ding blundered in a technical endgame, cements his place among chess legends. The victory also highlights India's rise as a global chess powerhouse. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-g14",
-         "pubDate" : "Thu, 12 Dec 2024 19:25:00",
-         "title" : "Gukesh becomes 18th undisputed world chess champion at 18!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116260716.cms\" />D Gukesh won the World Chess Championship. He defeated Ding Liren in a thrilling final match. The 18-year-old made history. He became the youngest world chess champion. Gukesh secured victory after a crucial error by Ding. Gukesh is the second Indian to win the title. He joins the legendary Viswanathan Anand.",
