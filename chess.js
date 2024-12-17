@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Champions Chess Tour Finals take place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There is then a final chance Survival Stage for players placed 3rd-6th in the Round Robin, these are followed by semi-finals on December 20th and and finals to decide the title on the 21st. Time control 10m +2spm. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
+         "pubDate" : "Tue, 17 Dec 2024 18:11:00",
+         "title" : "Champions Chess Tour Finals 2024 - Games and Results"
+      },
+      {
+         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
+         "pubDate" : "Tue, 17 Dec 2024 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116407901.cms\" />Tamil Nadu Chief Minister M.K. Stalin felicitated 18-year-old D. Gukesh, the world's youngest chess champion, with ₹5 crore and announced the establishment of a chess academy. Stalin praised Gukesh's achievement, calling him an inspiration for aspiring youth. Gukesh expressed gratitude for the government's support and acknowledged Viswanathan Anand as his role model.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/inspiration-advanced-caro-kann",
          "pubDate" : "Tue, 17 Dec 2024 08:00:00",
          "title" : "Inspiration in the Advance Variation of the Caro-Kann"
+      },
+      {
+         "description" : "This week's Tactics Tuesday continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadet-champs-pt-2",
+         "pubDate" : "Tue, 17 Dec 2024 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116375364.cms\" />D Gukesh, 18-year-old chess prodigy, celebrated his recent World Championship victory with a thrilling bungee jump. Gukesh, who triumphed over Ding Liren in Singapore, shared a video of his adventurous feat on social media. This win makes him the second Indian World Champion after Viswanathan Anand, and follows his successes at the Tata Steel Masters and Chess Olympiad.",
@@ -186,7 +210,7 @@ news_feed (
          "title" : "2025 US Chess Federation All-America Chess Team Announced"
       },
       {
-         "description" : "Tsodikova Wins 2024 U.S. Senior Women's Championship <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Natalya Tsodikova is the 2024 U.S. Senior Women's Champion (Photo by Ryan Rampton Photography)<br> <br> <br> <br> At the end of round 4, with a perfect 4/4 score, WFM Natalya Tsodikova clinched the 2024 U.S. Senior Women's Championship. A point-and-a-half ahead of the field, she could have lost her fifth round and still taken clear first. Instead, she drew against WIM Beatriz Marinello to finish with 4&frac12;/5. Here is her fourth-round win over WFM Olga Sagalchik, with annotations by JJ Lang: Helpful to Tsodikova's quest for clear first place was the ",
+         "description" : "Tsodikova Wins 2024 U.S. Senior Women's Championship <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Natalya Tsodikova is the 2024 U.S. Senior Women's Champion (Photo by Whitney Arave)<br> <br> <br> <br> At the end of round 4, with a perfect 4/4 score, WFM Natalya Tsodikova clinched the 2024 U.S. Senior Women's Championship. A point-and-a-half ahead of the field, she could have lost her fifth round and still taken clear first. Instead, she drew against WIM Beatriz Marinello to finish with 4&frac12;/5. Here is her fourth-round win over WFM Olga Sagalchik, with annotations by JJ Lang: Helpful to Tsodikova's quest for clear first place was the fourth-roun",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/natalya-tsodikova-wins-2024-us-senior-womens-championship-round-spare",
@@ -736,14 +760,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wcc-games-10-12-gukesh-ding-trade-blows-tension-boils-over",
          "pubDate" : "Tue, 10 Dec 2024 00:00:00",
          "title" : "WCC Games 10-12: Gukesh, Ding Trade Blows as Tension Boils Over"
-      },
-      {
-         "description" : "This week's Tactics Tuesday highlights key moments from the USA delegation's games in the U-8 Open and Girls sections of the 2024 FIDE World Cadet Championships. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadet-champs-pt-1",
-         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 1"
       },
       {
          "description" : "",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3323",
          "pubDate" : "Wed, 27 Nov 2024 14:11:45",
          "title" : "Gukesh strikes back to tie FIDE World Championship"
-      },
-      {
-         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 0 1 &frac12; 0 6&frac12; Gukesh 0 &frac12; 1 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/\">2024 World Chess Championship (Singapore City)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
-         "pubDate" : "Tue, 26 Nov 2024 17:32:13",
-         "title" : "2024 World Chess Championship (Singapore City)"
       }
    ]
 }
