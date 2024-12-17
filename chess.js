@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116407901.cms\" />Tamil Nadu Chief Minister M.K. Stalin felicitated 18-year-old D. Gukesh, the world's youngest chess champion, with ₹5 crore and announced the establishment of a chess academy. Stalin praised Gukesh's achievement, calling him an inspiration for aspiring youth. Gukesh expressed gratitude for the government's support and acknowledged Viswanathan Anand as his role model.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-5-crore-award-for-gukesh-tamil-nadu-cm-felicitates-world-chess-champion/articleshow/116407901.cms",
+         "pubDate" : "Tue, 17 Dec 2024 16:23:22",
+         "title" : "Rs 5 crore award for Gukesh! Tamil Nadu CM felicitates"
+      },
+      {
+         "description" : "The Call of Interest for arbiters who wish to be appointed as match arbiters in European events in 2025 is here! We are addressing International and FIDE Arbiters (IAs and FAs) who are under the flag of federations that are affiliated to the European Chess Union. As ECU Arbiters' Council, we appoint now 30% of the match arbiters in each European event and select them based on their skills, experience and tournament preferences. You can find the regulations here. Call of Interest 2025 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/call-of-interest-for-ecu-arbiters-2025/",
+         "pubDate" : "Tue, 17 Dec 2024 16:14:01",
+         "title" : "Call of Interest for ECU Arbiters 2025"
+      },
+      {
+         "description" : "Chess is booming in India and Sagar Shah, founder and driving force behind ChessBase India, has played a major role in this process. ChessBase India has also followed the career of Gukesh, the new world champion, from the very beginning. In an extensive, almost three-hour interview, Sagar Shah and Gukesh now talk about Gukesh's path to the World Championship, the 14 games of the competition and the choice of his seconds, among other things. Gukesh also reveals how and why Vincent Keymer, who is actually a rival of Gukesh, became part of the team in this revealing interview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/inside-story-sagar-shah-interviews-gukesh",
+         "pubDate" : "Tue, 17 Dec 2024 16:00:00",
+         "title" : "The inside story: Sagar Shah interviews Gukesh"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3335",
+         "pubDate" : "Tue, 17 Dec 2024 13:36:50",
+         "title" : "Extended list of participants for 2024 WRB announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116403684.cms\" />Tamil Nadu Chief Minister M.K. Stalin will honor newly crowned World Chess Champion D. Gukesh with a ₹5 crore cheque on Tuesday. Gukesh, 18, returned to Chennai after his historic victory against Ding Liren in Singapore, becoming the youngest World Champion ever.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-comes-to-standstill-as-world-champion-d-gukesh-participates-in-ceremonial-parade/articleshow/116403684.cms",
+         "pubDate" : "Tue, 17 Dec 2024 13:15:04",
+         "title" : "Chennai comes to standstill as Gukesh participates in parade"
+      },
+      {
+         "description" : "&#160;All India Chess Federation (AICF), in collaboration with the Mizoram Chess Association, organized a Grandmaster Coaching Camp in Aizawl, Mizoram. The camp was conducted by",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/grandmaster-chess-camp-in-aizawl-mizoram-2024-from-09-13-december-2024/",
+         "pubDate" : "Tue, 17 Dec 2024 12:41:03",
+         "title" : "Grandmaster Chess Camp in Aizawl, Mizoram from 09-13 December 2024"
+      },
+      {
          "description" : "ChessBase 18 offers a feature called \"Identify Player\" that allows you to discover the real-life identity of a strong Grandmaster playing on a chess server. By comparing a player's online games with the Mega Database, you can identify who they are by matching their game patterns and ELO rating. This function can also be used to compare your own games with other players in the same rating range, helping you find your \"chess twin.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,6 +184,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-us-chess-federation-all-america-chess-team-announced",
          "pubDate" : "Mon, 16 Dec 2024 00:00:00",
          "title" : "2025 US Chess Federation All-America Chess Team Announced"
+      },
+      {
+         "description" : "Tsodikova Wins 2024 U.S. Senior Women's Championship <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Natalya Tsodikova is the 2024 U.S. Senior Women's Champion (Photo by Ryan Rampton Photography)<br> <br> <br> <br> At the end of round 4, with a perfect 4/4 score, WFM Natalya Tsodikova clinched the 2024 U.S. Senior Women's Championship. A point-and-a-half ahead of the field, she could have lost her fifth round and still taken clear first. Instead, she drew against WIM Beatriz Marinello to finish with 4&frac12;/5. Here is her fourth-round win over WFM Olga Sagalchik, with annotations by JJ Lang: Helpful to Tsodikova's quest for clear first place was the ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/natalya-tsodikova-wins-2024-us-senior-womens-championship-round-spare",
+         "pubDate" : "Mon, 16 Dec 2024 00:00:00",
+         "title" : "Natalya Tsodikova Wins 2024 U.S. Senior Women's Championship With Round To Spare"
       },
       {
          "description" : "",
@@ -410,14 +466,6 @@ news_feed (
          "title" : "D Gukesh beats Ding Liren to become youngest World Chess Champion"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257860.cms\" />18-year-old Indian Grandmaster D Gukesh etched his name in history, becoming the youngest world chess champion by defeating Ding Liren. Overwhelmed with emotion, Gukesh celebrated his victory with a unique gesture, resetting the pieces on the board. His 7.5 points to Ding's 6.5 secured the title in the 14th game, surpassing Garry Kasparov's record. Gukesh graciously acknowledged Ding's valiant fight.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-puts-his-pieces-back-in-a-unique-victory-celebration-watch/articleshow/116257860.cms",
-         "pubDate" : "Thu, 12 Dec 2024 14:02:37",
-         "title" : "D Gukesh puts his pieces back in a unique victory celebration. Watch"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -432,14 +480,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-is-the-new-world-chess-champion-after-ding-makes-an-extraordinarily-simple-blunder",
          "pubDate" : "Thu, 12 Dec 2024 14:01:00",
          "title" : "Gukesh is the new World Chess Champion after Ding makes an extraordinarily simple blunder - 14"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257378.cms\" />Indian Grandmaster D Gukesh made history by becoming the youngest-ever World Chess champion at 18, dethroning Ding Liren in a thrilling final game in Singapore. Gukesh's victory with black pieces followed Ding's critical blunder, securing the title 7.5-6.5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-reduced-to-tears-as-he-becomes-the-youngest-world-chess-champion-watch/articleshow/116257378.cms",
-         "pubDate" : "Thu, 12 Dec 2024 13:39:46",
-         "title" : "D Gukesh reduced to tears as he becomes youngest World Chess champion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257286.cms\" />18-year-old Indian chess prodigy D Gukesh has made history, becoming the youngest-ever world chess champion. In a thrilling final match in Singapore, Gukesh defeated reigning champion Ding Liren, securing the title with a score of 7.5 to 6.5. He surpasses the previous record held by Garry Kasparov, who won the championship at age 22.",
@@ -706,14 +746,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 1"
       },
       {
-         "description" : "Effective Jan. 1, 2025, US Chess will implement revisions to its membership pricing structure. We encourage members who will soon be due for renewal, as well as those whose membership has recently lapsed, to renew your membership now before these revised membership rates take effect. The following text was published in the October issue of Chess Life magazine. Changes to US Chess MembershipsChuck Unruh, vice president of finance at US Chess, says the increase in membership dues is necessary to maintain the financial health of the organization: \"Over the last three years, US Chess was fortunate with more sponsored and endowed events and programs. Although the financial reports stated yearly s",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/revised-us-chess-membership-rates-take-effect-january-1-2025",
-         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
-         "title" : "Revised US Chess Membership Rates Take Effect January 1, 2025"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -922,14 +954,6 @@ news_feed (
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       },
       {
-         "description" : "No Candidate Name 1 Avinash Choori 2 Parvathi M Bhat 3 A Saravana Kumar 4 Dhanyashree P 5 Jaladurgam Venkataramana 6 M S Sumeetkumar 7",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-senior-national-arbiter-seminar-exam-in-maddur-karnataka-from-23-24-november-2024/",
-         "pubDate" : "Sat, 07 Dec 2024 07:38:05",
-         "title" : "Certificate :Senior National Arbiter Seminar & Exam in Maddur Karnataka from 23 -24 November 2024"
-      },
-      {
          "description" : "Game 10 was the quickest draw of the World Championship, which is now tied at 5 points each after seven consecutive draws.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3336",
          "pubDate" : "Wed, 04 Dec 2024 15:22:13",
          "title" : "World Championship Game 8: A thrilling battle ends in a draw"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3335",
-         "pubDate" : "Wed, 04 Dec 2024 13:36:50",
-         "title" : "Extended list of participants for 2024 WRB announced"
       },
       {
          "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
@@ -1312,22 +1328,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/26/2024-world-chess-championship-singapore-city/",
          "pubDate" : "Tue, 26 Nov 2024 17:32:13",
          "title" : "2024 World Chess Championship (Singapore City)"
-      },
-      {
-         "description" : " The second game of the FIDE World Chess Championship between Ding Liren and Gukesh D was drawn in just 23 moves. \"My basic idea was to play carefully, and I was fine with a draw.\" Ding said. The variation was a Giuoco Pianissimo and Ding tried to fix the queenside and then exploit weaknesses there. This was not the level of deep preparation we saw from, for example, Anand and Gelfand a decade ago, Ding admitted that he was on his own by move 14 and whilst I'm sure Gukesh was sweating for a while, after 20.Ne2?! (20.h4!? is maybe last chance for white to do anything) the game was just equal and a draw was the natural result. Matches are about momentum and confidence, it has been often seen t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-takes-no-risks-at-all-in-drawn-game-two",
-         "pubDate" : "Tue, 26 Nov 2024 15:46:00",
-         "title" : "Ding takes no risks at all in drawn game two - 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3322",
-         "pubDate" : "Tue, 26 Nov 2024 13:37:41",
-         "title" : "Gukesh: Today was a good day!"
       }
    ]
 }
