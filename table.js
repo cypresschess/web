@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-12-03  - 12-17","13","<a href=http://www.uschess.org/msa/XtblMain.php?202412178022 target='_blank'>DECEMBER 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-12-14","63","<a href=http://www.uschess.org/msa/XtblMain.php?202412146592 target='_blank'>DEC 14TH - TROPHY SCHOLASTIC</a>",
 "HOUSTON","2024-12-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202412144872 target='_blank'>CHESSPANDA12142024SATURDAY</a>",
 "SPRING","2024-12-13","34","<a href=http://www.uschess.org/msa/XtblMain.php?202412134512 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-04-02  - 04-30","22","<a href=http://www.uschess.org/msa/XtblMain.php?202404300932 target='_blank'>APRIL 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-04-28","17","<a href=http://www.uschess.org/msa/XtblMain.php?202404289942 target='_blank'>FREE THE US VIRGIN ISLANDS BENEFIT</a>",
 "SUGAR LAND","2024-04-28","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404289542 target='_blank'>CYGA04282024</a>",
-"HOUSTON","2024-04-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404278122 target='_blank'>CHESSPANDA04272024SATURDAY</a>",
 ]);
