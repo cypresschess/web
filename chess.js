@@ -70,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-makes-historic-debut-at-esports-world-cup-2025-with-1-5-million-prize-pool",
-         "pubDate" : "Tue, 17 Dec 2024 13:55:32",
+         "pubDate" : "Tue, 17 Dec 2024 13:55:00",
          "title" : "Chess Makes Historic Debut at Esports World Cup 2025 with $1.5 Million Prize Pool"
       },
       {
