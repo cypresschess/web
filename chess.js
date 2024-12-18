@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Champions Chess Tour Finals kicked off in Oslo, featuring eight of the world's top players battling it out over-the-board. With noise-cancelling headphones allowing the audience to react freely, the first day saw three rounds of round-robin action. Magnus Carlsen and rising star Denis Lazavik shone brightest, finishing undefeated to share the lead. Meanwhile, Levon Aronian endured a tough day, losing all three of his games. | Pictured: Levon Aronian and Maxime Vachier-Lagrave | Photo: Maria Emelianova / chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-d1",
+         "pubDate" : "Wed, 18 Dec 2024 14:45:00",
+         "title" : "CCT Finals: Carlsen and Lazavik share the lead with 3/3"
+      },
+      {
          "description" : "Goa Chess Association, on behalf of All Chess Federation, organized a Senior National Arbiter seminar, followed by an examination at Panjim , Goa on 7th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-examination-in-panjim-goa-on-7th-and-8th-december-2024/",
          "pubDate" : "Wed, 18 Dec 2024 12:27:44",
          "title" : "Final Report of Senior National Arbiter Seminar & Examination in Panjim Goa on 7th and 8th December 2024"
+      },
+      {
+         "description" : "Two of the world&#38;#039;s best blitz players added Titled Tuesday winner to their list of 2024 accomplishments on December 17, with GM Parham Maghsoodloo winning the early tournament outright on 10 points, followed by GM Daniel Naroditsky scoring 9....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-naroditsky-win-titled-tuesday-december-17-2024",
+         "pubDate" : "Wed, 18 Dec 2024 08:05:00",
+         "title" : "Fresh Faces Finish First In Titled Tuesday"
+      },
+      {
+         "description" : "Chess.com is pumped and excited to announce a premier partnership for our premier event: Take Take Take, a new app cofounded by GM Magnus Carlsen, has joined as an official partner for this year&#38;#039;s Champions Chess Tour (CCT) Finals. The CCT Fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-carlsen-partner-cct-finals",
+         "pubDate" : "Wed, 18 Dec 2024 07:00:00",
+         "title" : "Chess.com, Magnus Carlsen's Take Take Take App Partner For CCT Finals"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed for the holidays on Tuesday, December 24 and Wednesday, December 25, and again on Tuesday, December 31 and Wednesday, January 1, 2025.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting materials by noon CST on the Monday preceding the office closure. Thank you for your understanding, and happy holidays. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/US-Chess-Offices-Holiday-Closure-Dates",
+         "pubDate" : "Wed, 18 Dec 2024 00:00:00",
+         "title" : "US Chess Offices Holiday Closure Dates"
       },
       {
          "description" : "",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "Live Games Link for 37th National Under 13 Open and Girls Chess Championship 2024"
       },
       {
-         "description" : "If you play 1.e4, you need a variation against the Caro-Kann. The Advance Variation is popular and successful: White puts Black under pressure from the outset. In his ChessBase FritzTrainer \"Understanding Middlegame Strategies, Volume 10\", the successful coach and author Ivan Sokolov has analysed and explained the most important ideas and strategic concepts of this system. Hannes Langrock watched the course and was impressed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/inspiration-advanced-caro-kann",
-         "pubDate" : "Tue, 17 Dec 2024 08:00:00",
-         "title" : "Inspiration in the Advance Variation of the Caro-Kann"
-      },
-      {
          "description" : "This week's Tactics Tuesday continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-did-it-world-champion-d-gukesh-takes-the-plunge-with-bungee-jumping-watch/articleshow/116375364.cms",
          "pubDate" : "Mon, 16 Dec 2024 15:59:48",
          "title" : "Watch: D Gukesh takes the plunge with bungee jumping "
-      },
-      {
-         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion in an electrifying showdown at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. This year, a live audience will have the chance to follow the action up close in Oslo.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-preview",
-         "pubDate" : "Mon, 16 Dec 2024 15:25:00",
-         "title" : "Starting Tuesday: Champions Chess Tour Finals in Oslo"
       },
       {
          "description" : "Please find the live link for ODISHA OPEN Category &#8216;A' (1900 &#38; above) # (The 15th International Grandmasters Chess Festival 2024-25) Link:&#160;https://lichess.org/broadcast/odisha-open/round-2/6OOBHVt8",
@@ -778,14 +794,6 @@ news_feed (
          "title" : "Gukesh's ambition vs Ding's momentum: What to expect from chess World Championship's home stretch"
       },
       {
-         "description" : "The 2024 FIDE World Chess Championship match between GM Ding Liren and GM Gukesh Dommaraju is deadlocked at 6-6 as the players enter a pivotal penultimate round beginning at 3:00 a.m. CST on Wednesday, December 11. Concerns of an impending dull trudge toward the rapid tiebreakers were amplified following a very tame game 10 on Saturday. These notions were firmly disabused in the two games that followed, though, with Gukesh and Ding trading wins in a pair of ambitious, albeit nervous, games. All three games are annotated below by WGM Tatev Abrahamyan. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Not even GM Hou Yifan's help was enough to save Ding in",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wcc-games-10-12-gukesh-ding-trade-blows-tension-boils-over",
-         "pubDate" : "Tue, 10 Dec 2024 00:00:00",
-         "title" : "WCC Games 10-12: Gukesh, Ding Trade Blows as Tension Boils Over"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -904,22 +912,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42840445/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-11?device=featurephone",
          "pubDate" : "Sun, 8 Dec 2024 08:36:01",
          "title" : "Gukesh defeats Ding in game 11 to take crucial lead in Chess World Championship"
-      },
-      {
-         "description" : "Indian 18-year-old GM Gukesh Dommaraju has taken a 6-5 lead with just three games to go after a blunder by Chinese World Champion Ding Liren (32) suddenly ended the thrilling game 11 of the 2024 FIDE World Championship. Gukesh&#39;s hyperaggressive op...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-11",
-         "pubDate" : "Sun, 08 Dec 2024 04:30:00",
-         "title" : "Gukesh Leads World Championship After Ding's Blunder Ends Game 11 Thriller"
-      },
-      {
-         "description" : "A spirited performance by GM Hikaru Nakamura in Saturday&#39;s Bullet Brawl saw him return to the throne and collect the $400 first prize after consecutive second-place finishes in November. 72 wins, 28 of which were part of a timely winning streak,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-7-2024",
-         "pubDate" : "Sat, 07 Dec 2024 16:39:00",
-         "title" : "Nakamura Outshines 8 Former Bullet Brawl Winners, Claims 34th Title"
       },
       {
          "description" : "European Rapid Chess Championship 2024 commenced today in Skopje, North Macedonia. The first round of the event was inaugurated with the ceremonial move played by ECU Vice President Mr. Alojzije Jankovic on the top board game between GM Vladimir Fedoseev and Mitar Djukanovic. The Opening ceremony of the European Rapid and Blitz Chess Championships 2024 took place yesterday evening with the attendance of the ECU Vice President Mr. Alojzije Jankovic who officially declared the event opened. With the presence of []",
@@ -1336,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3324",
          "pubDate" : "Wed, 27 Nov 2024 18:11:40",
          "title" : "Winners crowned at FIDE World Cadet Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3323",
-         "pubDate" : "Wed, 27 Nov 2024 14:11:45",
-         "title" : "Gukesh strikes back to tie FIDE World Championship"
       }
    ]
 }
