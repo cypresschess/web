@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Goa Chess Association, on behalf of All Chess Federation, organized a Senior National Arbiter seminar, followed by an examination at Panjim , Goa on 7th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-examination-in-panjim-goa-on-7th-and-8th-december-2024/",
+         "pubDate" : "Wed, 18 Dec 2024 12:27:44",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination in Panjim Goa on 7th and 8th December 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
          "pubDate" : "Tue, 17 Dec 2024 18:11:00",
          "title" : "Champions Chess Tour Finals 2024 - Games and Results"
-      },
-      {
-         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
-         "pubDate" : "Tue, 17 Dec 2024 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116407901.cms\" />Tamil Nadu Chief Minister M.K. Stalin felicitated 18-year-old D. Gukesh, the world's youngest chess champion, with ₹5 crore and announced the establishment of a chess academy. Stalin praised Gukesh's achievement, calling him an inspiration for aspiring youth. Gukesh expressed gratitude for the government's support and acknowledged Viswanathan Anand as his role model.",
@@ -714,14 +714,6 @@ news_feed (
          "title" : "Turn Positional Play Into Second Nature With Chessable's New Woodpecker Method 2: Positional Play"
       },
       {
-         "description" : "Please find the list here: Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/list-of-left-over-arbiters-undergone-aicf-refresher-seminar-2024-25-on-18-20-november-2024/",
-         "pubDate" : "Wed, 11 Dec 2024 05:18:19",
-         "title" : "LIST OF LEFT OVER ARBITERS UNDERGONE AICF REFRESHER SEMINAR 2024-25 ON 18-20 NOVEMBER 2024"
-      },
-      {
          "description" : "GM Daniel Naroditsky on Monday won the Tournament of the Accused, an event organized by runner-up GM Hikaru Nakamura and sponsored by streaming platform Kick.com. Several of the participants had been &#34;accused&#34;: they were players whose recent resul...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1144,6 +1136,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3333",
          "pubDate" : "Tue, 03 Dec 2024 10:50:13",
          "title" : "FIDE Circuit 2024: Erigaisi still in the lead, Caruana closes in"
+      },
+      {
+         "description" : "The previous post in the weekly AI comics series investigated the burning question <A HREF=\"https://chessforallages.blogspot.com/2024/11/why-are-comics-rarely-funny.html\">Why Are 'Comics' Rarely Funny?</A> (November 2024). This post explores the World Championship match currently being played in Singapore, last seen on this blog in <A HREF=\"https://chessforallages.blogspot.com/2024/11/world-championship-yahoos-2024-12.html\">World Championship Yahoos 2024</A> (November 2024). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol02.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Ding Liren and Gukesh play chess in Singapore.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/world-class-asian-players.html",
+         "pubDate" : "Mon, 02 Dec 2024 16:47:00",
+         "title" : "World Class Asian Players"
       },
       {
          "description" : "",
