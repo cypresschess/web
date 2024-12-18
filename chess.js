@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3351",
+         "pubDate" : "Tue, 17 Dec 2024 21:11:59",
+         "title" : "Young talents shine at World Youth Rapid & Blitz Championship in Slovenia"
+      },
+      {
          "description" : " The Champions Chess Tour Finals take place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There is then a final chance Survival Stage for players placed 3rd-6th in the Round Robin, these are followed by semi-finals on December 20th and and finals to decide the title on the 21st. Time control 10m +2spm. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,6 +48,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/inside-story-sagar-shah-interviews-gukesh",
          "pubDate" : "Tue, 17 Dec 2024 16:00:00",
          "title" : "The inside story: Sagar Shah interviews Gukesh"
+      },
+      {
+         "description" : "The 2025 Chess.com Daily Chess Championship (DCC) is now open for registration! Start the new year right and join thousands of your fellow players in one of the world&#39;s biggest chess events. Join the 2025 DCC What is the Daily Chess Champion...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-daily-chess-championship-registration",
+         "pubDate" : "Tue, 17 Dec 2024 15:01:12",
+         "title" : "Register Now For the 2025 Daily Chess Championship"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Denis Lazavik lead the 2024 Champions Chess Tour Finals round-robin after three rounds on the opening day, with perfect scores. GM Wesley So came as close as you can get to defeating the world-number one without actually win...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-day-1",
+         "pubDate" : "Tue, 17 Dec 2024 13:57:00",
+         "title" : "Lazavik, Carlsen On Perfect 3/3 After Surviving Rollercoaster 3rd Round"
+      },
+      {
+         "description" : "Chess.com and GM Magnus Carlsen have announced a major partnership with the Esports World Cup Foundation (EWCF), which means that competitive chess will be featured for the first time in the 2025 Esports World Cup (EWC), the world&#38;rsquo;s largest ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-makes-historic-debut-at-esports-world-cup-2025-with-1-5-million-prize-pool",
+         "pubDate" : "Tue, 17 Dec 2024 13:55:32",
+         "title" : "Chess Makes Historic Debut at Esports World Cup 2025 with $1.5 Million Prize Pool"
       },
       {
          "description" : "",
@@ -986,28 +1018,12 @@ news_feed (
          "title" : "The inside story of how Singapore pulled off the World Chess Championship"
       },
       {
-         "description" : "World Champion Ding Liren hesitated on move one against GM Gukesh Dommaraju in game 10 of the 2024 FIDE World Championship, but then he repeated 1.d4 and the London System and got a risk-free position with a small edge. He failed to apply any pres...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-10",
-         "pubDate" : "Fri, 06 Dec 2024 22:30:00",
-         "title" : "7th Draw In A Row Leaves Ding-Gukesh Level With 4 Games To Go"
-      },
-      {
          "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live and with commentary by Peter Svidler and Lawrence Trent, starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
          "pubDate" : "Fri, 06 Dec 2024 16:45:00",
          "title" : "London Chess Classic - Live!"
-      },
-      {
-         "description" : "NM Janak Awatramani won the 2024 Crazyhouse Championship after defeating GM Lars Oskar Hauge 4.5-2.5 in the Grand Final, earning $2,000 in the last event of the 2024 Community Chess Championships. The tournament series occurred once a month with a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/awatramani-wins-2024-crazyhouse-chess-championship",
-         "pubDate" : "Fri, 06 Dec 2024 14:11:00",
-         "title" : "Awatramani Wins 2024 Crazyhouse Championship"
       },
       {
          "description" : " World champion and 18-year-old challenger are deadlocked at 4.5-4.5 in their best-of-14 series which finishes next week China's world champion, Ding Liren, and his Indian opponent, Gukesh Dommaraju, at 18 the youngest ever title challenger, are deadlocked at 4.5-4.5 after nine of their scheduled best of 14 games in Singapore. Game 10 starts at 9am GMT on Saturday. If they are still level after their 14th and final classical game next Thursday, half-hour rapid and, if needed, three-minute blitz tie-breakers will decide the winner next Friday. <a href=\"https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax\">Continue reading...",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-and-ding-draw-a-well-played-catalan-in-world-championship-game-9",
          "pubDate" : "Thu, 5 Dec 2024 19:01:00",
          "title" : "Gukesh and Ding draw a well played Catalan in World Championship Game 9 - 9"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju slipped in a promising position in game nine to allow World Champion Ding Liren to liquidate to a draw and leave the 2024 FIDE World Championship tied at 4.5-4.5 with just five games to go. The players now have a rest day on Fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-9",
-         "pubDate" : "Thu, 05 Dec 2024 18:00:00",
-         "title" : "Deadlock Continues As Gukesh Fails To Press Ding In Game 9"
       },
       {
          "description" : "",
