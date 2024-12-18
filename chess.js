@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
+         "pubDate" : "Wed, 18 Dec 2024 17:45:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3352",
+         "pubDate" : "Wed, 18 Dec 2024 17:37:24",
+         "title" : "Kenya Championship 2024: Mclingeyo and Mongeli claim titles"
+      },
+      {
          "description" : "The 2024 Champions Chess Tour Finals kicked off in Oslo, featuring eight of the world's top players battling it out over-the-board. With noise-cancelling headphones allowing the audience to react freely, the first day saw three rounds of round-robin action. Magnus Carlsen and rising star Denis Lazavik shone brightest, finishing undefeated to share the lead. Meanwhile, Levon Aronian endured a tough day, losing all three of his games. | Pictured: Levon Aronian and Maxime Vachier-Lagrave | Photo: Maria Emelianova / chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination in Panjim Goa on 7th and 8th December 2024"
       },
       {
-         "description" : "Two of the world&#38;#039;s best blitz players added Titled Tuesday winner to their list of 2024 accomplishments on December 17, with GM Parham Maghsoodloo winning the early tournament outright on 10 points, followed by GM Daniel Naroditsky scoring 9....",
+         "description" : "Two of the world&#39;s best blitz players added Titled Tuesday winner to their list of 2024 accomplishments on December 17, with GM Parham Maghsoodloo winning the early tournament outright on 10 points, followed by GM Daniel Naroditsky scoring 9.5 poi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/maghsoodloo-naroditsky-win-titled-tuesday-december-17-2024",
@@ -26,12 +42,20 @@ news_feed (
          "title" : "Fresh Faces Finish First In Titled Tuesday"
       },
       {
-         "description" : "Chess.com is pumped and excited to announce a premier partnership for our premier event: Take Take Take, a new app cofounded by GM Magnus Carlsen, has joined as an official partner for this year&#38;#039;s Champions Chess Tour (CCT) Finals. The CCT Fi...",
+         "description" : "Chess.com is pumped and excited to announce a premier partnership for our premier event: Take Take Take, a new app cofounded by GM Magnus Carlsen, has joined as an official partner for this year&#39;s Champions Chess Tour (CCT) Finals. The CCT Finals ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-carlsen-partner-cct-finals",
          "pubDate" : "Wed, 18 Dec 2024 07:00:00",
          "title" : "Chess.com, Magnus Carlsen's Take Take Take App Partner For CCT Finals"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-world-cadet-champs-pt-2",
+         "pubDate" : "Wed, 18 Dec 2024 00:00:00",
+         "title" : "Wednesday Workout: World Cadet Champs, Pt. 2"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed for the holidays on Tuesday, December 24 and Wednesday, December 25, and again on Tuesday, December 31 and Wednesday, January 1, 2025.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting materials by noon CST on the Monday preceding the office closure. Thank you for your understanding, and happy holidays. ",
@@ -86,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-daily-chess-championship-registration",
-         "pubDate" : "Tue, 17 Dec 2024 15:01:12",
+         "pubDate" : "Tue, 17 Dec 2024 15:01:00",
          "title" : "Register Now For the 2025 Daily Chess Championship"
       },
       {
@@ -746,14 +770,6 @@ news_feed (
          "title" : "2nd U.S. Senior Women's Championship Preview"
       },
       {
-         "description" : "This week's Wednesday Workout highlights key moments from the USA delegation's games in the U-8 Open and Girls sections of the 2024 FIDE World Cadet Championships. Our report from the event is available here, and yesterday's Tactics Tuesday from the same section is here. Generally speaking, Tactics Tuesday worksheets are aimed for readers of Chess Life Kids while Wednesday Workout worksheets are more challenging. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-world-cadet-champs-pt-1",
-         "pubDate" : "Wed, 11 Dec 2024 00:00:00",
-         "title" : "Wednesday Workout: World Cadet Champs, Pt. 1"
-      },
-      {
          "description" : " 2024 World Chess Championship: Game 12Monday, 9 December 2024 Ding scores clutch win, score tied 6-6! China's Ding Liren won a thrilling game over India's Gukesh Dommaraju to tie the world chess championship match at 6-6. There are two classical games remaining with tiebreaks waiting in the event of a 7-7 tie. When hearing the The post <a href=\"https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/\">Ding strikes back in Game 12 match tied 6-6!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1304,30 +1320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/underpromotion-milestones-part-three",
          "pubDate" : "Thu, 28 Nov 2024 09:00:00",
          "title" : "Underpromotion Milestones - part 3"
-      },
-      {
-         "description" : " Gukesh won the third game of the World Chess Championship match in Singapore against Ding Liren. This was an important theoretical strike too, I for one will need a line to meet it. In the Exchange Variation of the Queen's Gambit Gukesh chose to allow the line 6.Qc2 g6 which is a key part of many opening repertoires for black these days given that there are fairly clear paths to equality after the regular 7.Bg5. Rather strangely last year there were a small number of high level games starting with a Kramnik rapid game using 7.h3 with the idea of 7...Bf5 8.Qb3 Qb6 9.g4. Given that the main line is regarded is very OK for black it's a surprise this move hasn't been tried more often. The resul",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-wins-his-first-game-to-level-up-against-ding-in-world-championship-game-3",
-         "pubDate" : "Wed, 27 Nov 2024 20:13:00",
-         "title" : "Gukesh wins his first game to level up against Ding in World Championship game 3 - 3"
-      },
-      {
-         "description" : " 2024 World Chess Championship: Game 1Monday, 25 November 2024 Ding Liren wins the first game, quiets naysayers The World Chess Championship match has begun! Prior to the match, most everyone, including top Grandmasters, picked Dommaraju Gukesh as the favorite over Ding Liren despite his lack of match experience. They predicated their idea on recent form The post <a href=\"https://thechessdrum.net/blog/2024/11/27/2024-world-chess-championship-game-1/\">2024 World Chess Championship: Game 1</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/27/2024-world-chess-championship-game-1/",
-         "pubDate" : "Wed, 27 Nov 2024 19:56:00",
-         "title" : "2024 World Chess Championship: Game 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3324",
-         "pubDate" : "Wed, 27 Nov 2024 18:11:40",
-         "title" : "Winners crowned at FIDE World Cadet Championship 2024"
       }
    ]
 }
