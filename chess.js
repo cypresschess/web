@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 18 has many spectacular new features, but also hidden innovations: The new superpower in the reference search provides knowledge you need: Do you know the best way to prepare your team-mates for a team match? How do you find typical draw variations? Which opening variations are currently played in amateur chess?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-new-functions-in-the-reference-search",
+         "pubDate" : "Thu, 19 Dec 2024 11:53:29",
+         "title" : "ChessBase 18: New functions in the reference search"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3353",
+         "pubDate" : "Thu, 19 Dec 2024 10:24:25",
+         "title" : "FIDE and World Chess Present the Limited Edition FIDE 2024 Rapid and Blitz Championships Collection"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116467940.cms\" />18-year-old Indian chess prodigy D Gukesh claimed the World Chess Championship title, defeating Ding Liren in a thrilling 7.5-6.5 victory. Gukesh's mental conditioning coach, Paddy Upton, played a key role in his preparation, spending over 40 hours on video calls over six months. This win makes Gukesh the youngest World Champion in history, breaking Garry Kasparov's long-standing record.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-spent-over-40-hours-on-weekly-90-minute-video-calls-with-d-gukesh-paddy-upton/articleshow/116467940.cms",
+         "pubDate" : "Thu, 19 Dec 2024 09:05:52",
+         "title" : "'I spent over 40 hours on weekly 90-minute video calls with Gukesh'"
+      },
+      {
          "description" : "The Kasparov Chess Foundation is thrilled to announce the lineup for the KCF Academy Premium Package Lecture Series in January 2025! This month's program features an extraordinary roster of world-class chess legends who will share their insights, strategies, and personal experiences to help elevate your game to new heights.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Exclusive January Lecture Series at KCF Academy"
       },
       {
-         "description" : "European Chess Union and ECU Trainers Commission publish the games with analysis of the 2024 World Chess Championship. In-depth 100-page analysis of all the World Championship Match between Ding Liren and Gukesh D includes expert commentary and insights by ECU Trainers Commission Secretary, world renowned trainer and Grandmaster Efstratios Grivas. The 100-page Analysis can be downloaded below as a free Christmas offer to all chess fans. Featured photo by FIDE/ Eng Chin An",
+         "description" : "European Chess Union and ECU Trainers Commission publish the games with analysis of the 2024 World Chess Championship. In-depth 100-page analysis of all the World Championship Match between Ding Liren and Gukesh D includes expert commentary and insights by ECU Trainers Commission Secretary, world renowned trainer and Grandmaster Efstratios Grivas. The 100-page Analysis can be downloaded below as a Christmas gift to all chess fans. Featured photo by FIDE/ Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/analysis-of-the-2024-world-chess-championship-games-by-gm-efstratios-grivas/",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
          "pubDate" : "Fri, 13 Dec 2024 03:10:53",
          "title" : "Gukesh shocks Ding in finale, wins title!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116260716.cms\" />D Gukesh won the World Chess Championship. He defeated Ding Liren in a thrilling final match. The 18-year-old made history. He became the youngest world chess champion. Gukesh secured victory after a crucial error by Ding. Gukesh is the second Indian to win the title. He joins the legendary Viswanathan Anand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-ding-liren-blunder-that-made-d-gukesh-youngest-ever-world-chess-champion/articleshow/116260716.cms",
-         "pubDate" : "Thu, 12 Dec 2024 15:49:21",
-         "title" : "The Ding Liren blunder that made Gukesh world champion"
       },
       {
          "description" : "Indian chess prodigy Grandmaster D. Gukesh has achieved a monumental milestone by defeating reigning champion Ding Liren in the 14th and decisive game of the",
@@ -1328,14 +1344,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/11/world-championship-yahoos-2024-12.html",
          "pubDate" : "Thu, 28 Nov 2024 16:32:00",
          "title" : "World Championship Yahoos 2024 (1/2)"
-      },
-      {
-         "description" : "Finally, in this three-part series, we come to the first full Babson task endgame study, composed by Gady Costeff. Many thought it was not possible to fulfil this extremely difficult task. Harold van der Heijden describes the full story. But one problem remains: the position is not legal. Costeff had already constructed it in 2011 and tried in vain to find a legal version. So this is still an open problem. Maybe you can give it a try?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/underpromotion-milestones-part-three",
-         "pubDate" : "Thu, 28 Nov 2024 09:00:00",
-         "title" : "Underpromotion Milestones - part 3"
       }
    ]
 }
