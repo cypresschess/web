@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Championship match between Ding Liren and Gukesh in Singapore ended with a blunder: In a drawn position, Ding wanted to simplify and allowed his opponent to liquidate into a winning pawn ending - making Gukesh the youngest World Champion ever. In the latest episode of \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer use Ding's mistake as a starting point to talk about incredible blunders, errors and inexplicable oversights in the history of the World Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-hard-to-believe-blunders-and-errors-at-world-championships",
+         "pubDate" : "Thu, 19 Dec 2024 16:06:27",
+         "title" : "Two Knights Talk: Hard to believe - blunders and errors at World Championships"
+      },
+      {
          "description" : "ChessBase 18 has many spectacular new features, but also hidden innovations: The new superpower in the reference search provides knowledge you need: Do you know the best way to prepare your team-mates for a team match? How do you find typical draw variations? Which opening variations are currently played in amateur chess?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
