@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116454769.cms\" />Chess legend Viswanathan Anand praised retiring cricketer Ravichandran Ashwin's strategic mind, comparing his spin bowling to a chess game. Anand, relating to Ashwin's decision, reflected on his own career transition. He acknowledged Ashwin's impressive achievements and wished him well in his future endeavors, recalling a recent pleasant conversation they shared on a flight.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/maybe-chess-helped-ashwin-outfox-batters-anand/articleshow/116454769.cms",
+         "pubDate" : "Thu, 19 Dec 2024 01:23:58",
+         "title" : "Maybe chess helped Ashwin outfox batters: Anand"
+      },
+      {
          "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-is-the-new-world-chess-champion-after-ding-makes-an-extraordinarily-simple-blunder",
          "pubDate" : "Thu, 12 Dec 2024 14:01:00",
          "title" : "Gukesh is the new World Chess Champion after Ding makes an extraordinarily simple blunder - 14"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116257286.cms\" />18-year-old Indian chess prodigy D Gukesh has made history, becoming the youngest-ever world chess champion. In a thrilling final match in Singapore, Gukesh defeated reigning champion Ding Liren, securing the title with a score of 7.5 to 6.5. He surpasses the previous record held by Garry Kasparov, who won the championship at age 22.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-beats-ding-liren-to-become-youngest-world-chess-champion/articleshow/116257286.cms",
-         "pubDate" : "Thu, 12 Dec 2024 13:36:35",
-         "title" : "D Gukesh beats Ding Liren to become youngest world chess champion"
       },
       {
          "description" : "D Gukesh defeated Ding Liren to become world champion after a dramatic victory in the final game of the championship.",
