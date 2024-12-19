@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation is thrilled to announce the lineup for the KCF Academy Premium Package Lecture Series in January 2025! This month's program features an extraordinary roster of world-class chess legends who will share their insights, strategies, and personal experiences to help elevate your game to new heights.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/exclusive-january-lecture-series-at-kcf-academy",
+         "pubDate" : "Thu, 19 Dec 2024 08:49:21",
+         "title" : "Exclusive January Lecture Series at KCF Academy"
+      },
+      {
+         "description" : "European Chess Union and ECU Trainers Commission publish the games with analysis of the 2024 World Chess Championship. In-depth 100-page analysis of all the World Championship Match between Ding Liren and Gukesh D includes expert commentary and insights by ECU Trainers Commission Secretary, world renowned trainer and Grandmaster Efstratios Grivas. The 100-page Analysis can be downloaded below as a free Christmas offer to all chess fans. Featured photo by FIDE/ Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/analysis-of-the-2024-world-chess-championship-games-by-gm-efstratios-grivas/",
+         "pubDate" : "Thu, 19 Dec 2024 07:45:07",
+         "title" : "Analysis of the 2024 World Chess Championship Games by GM Efstratios Grivas"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116454769.cms\" />Chess legend Viswanathan Anand praised retiring cricketer Ravichandran Ashwin's strategic mind, comparing his spin bowling to a chess game. Anand, relating to Ashwin's decision, reflected on his own career transition. He acknowledged Ashwin's impressive achievements and wished him well in his future endeavors, recalling a recent pleasant conversation they shared on a flight.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
