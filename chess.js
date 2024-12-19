@@ -26,6 +26,14 @@ news_feed (
          "title" : "CCT Finals: Carlsen and Lazavik share the lead with 3/3"
       },
       {
+         "description" : "GM Magnus Carlsen leads the 2024 Champions Chess Tour Finals Round-Robin with 5/6, despite dropping one loss to Alireza Firouzja on Wednesday. Three players follow just one point behind: GMs Firouzja, Denis Lazavik, and Ian Nepomniachtchi.&#38;nbsp; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-day-2",
+         "pubDate" : "Wed, 18 Dec 2024 14:21:00",
+         "title" : "Firouzja Ends Carlsen's Streak, Still Trails By 1 With Lazavik, Nepomniachtchi"
+      },
+      {
          "description" : "Goa Chess Association, on behalf of All Chess Federation, organized a Senior National Arbiter seminar, followed by an examination at Panjim , Goa on 7th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-12",
          "pubDate" : "Mon, 09 Dec 2024 13:00:00",
          "title" : "Ding Liren Strikes Back To Beat Gukesh In Perfect Game 12"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Alexander Donchenko won the inaugural 2024 Saint Louis Masters with 6.5/9, each earning $17,500 without any tiebreaks. For Caruana, the reigning U.S. Champion, it was a bittersweet ending. He had led the nine-round tourna...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-donchenko-win-2024-saint-louis-masters",
-         "pubDate" : "Mon, 09 Dec 2024 12:44:00",
-         "title" : "Caruana, Donchenko Tie For 1st In Saint Louis Masters, Caruana Leads FIDE Circuit"
       },
       {
          "description" : " Ding Liren won game 12 of the FIDE World Chess Championship in Singapore and immediately leveled the match up after his loss yesterday. Ding had the white pieces and again we had a very sharp flank opening after Gukesh chose 4...d4. There are certainly safer ways to play. What we saw was an unbalanced English where Gukesh made a number of concessions until he was busted by move 23. 13...Rb8?!, 16...Nd7?! and the losing move 22...Bg5? were the key moments. It only slowly dawned on Ding that his position was \"much, much better\" after 23.Nf4, when Gukesh felt it necessary to play 23...Bxf4, losing all the dark squares on the board, the game was as good as over, and Ding didn't make any mistake",
