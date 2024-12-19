@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
+         "pubDate" : "Thu, 19 Dec 2024 17:45:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "The World Championship match between Ding Liren and Gukesh in Singapore ended with a blunder: In a drawn position, Ding wanted to simplify and allowed his opponent to liquidate into a winning pawn ending - making Gukesh the youngest World Champion ever. In the latest episode of \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer use Ding's mistake as a starting point to talk about incredible blunders, errors and inexplicable oversights in the history of the World Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +66,12 @@ news_feed (
          "title" : "Maybe chess helped Ashwin outfox batters: Anand"
       },
       {
-         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
-         "pubDate" : "Wed, 18 Dec 2024 17:45:00",
-         "title" : "Champions Chess Tour Finals - Live!"
+         "description" : "The KCF University Cup Will Take Place on February 1 - 2, 2025, on lichess.org platform.New York, NY, Dec. 3, 2024 - The Kasparov Chess Foundation announces the fifth annual KCF University Cup, which will take place, February 1 and 2, 2025. The KCF University Cup is an international online tournament, which is open to teams from a post-secondary school (university, college, community college, etc.). All participating students must be enrolled in at least one class in the January 2025 semester.KCF's University Cup features a nine-round team, Swiss system format over the two days, with a rapid time control, and will be played on the free and non-commercial chess platform, lichess.org.Each team",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/global-online-chess-showdown-kcf-announces-fifth-annual-kcf-university-cup",
+         "pubDate" : "Thu, 19 Dec 2024 00:00:00",
+         "title" : "Global Online Chess Showdown: KCF Announces Fifth Annual KCF University Cup"
       },
       {
          "description" : "",
@@ -810,14 +818,6 @@ news_feed (
          "title" : "Naroditsky Wins Tournament Of The Accused Ahead Of Organizer Nakamura"
       },
       {
-         "description" : "The second U.S. Senior Women's Championship will take place this weekend from December 13 through 15 at the TownePlace Suites in Murray, Utah. This will be an official US Chess National Championship with an $8,000 prize fund. The FIDE-rated, five-round Swiss tournament will be played at the classical time control of game-in-90 minutes with a 30-second increment beginning on move one. Games will be broadcast live, and Chess Life Online will have daily recaps from WIM Dr. Alexey Root. WGM Sabina Foisor will also be streaming live commentary on the US Chess Twitch channel beginning at 7:00 p.m. MST on Friday, December 13.The Utah State Chess Association and David Day are listed as affiliates fo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2nd-us-senior-womens-championship-preview",
-         "pubDate" : "Wed, 11 Dec 2024 00:00:00",
-         "title" : "2nd U.S. Senior Women's Championship Preview"
-      },
-      {
          "description" : " 2024 World Chess Championship: Game 12Monday, 9 December 2024 Ding scores clutch win, score tied 6-6! China's Ding Liren won a thrilling game over India's Gukesh Dommaraju to tie the world chess championship match at 6-6. There are two classical games remaining with tiebreaks waiting in the event of a 7-7 tie. When hearing the The post <a href=\"https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/\">Ding strikes back in Game 12 match tied 6-6!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1328,30 +1328,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/",
          "pubDate" : "Fri, 29 Nov 2024 06:21:14",
          "title" : "2024 World Chess Championship: Game 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3326",
-         "pubDate" : "Thu, 28 Nov 2024 18:08:00",
-         "title" : "World Junior and Cadet Solving Championships: Girls prove their equality"
-      },
-      {
-         "description" : " 2024 World Chess Championship: Game 2Tuesday, 26 November 2024 Tense draw excitement ratcheting up Game 2 of the World Chess Championship ended peacefully after a rousing start of the match. After Ding Liren won the first game of the match, many wondered if they had been &#8220;snookered.&#8221; Ding kept sounding like he wasn't sure of The post <a href=\"https://thechessdrum.net/blog/2024/11/28/2024-world-chess-championship-game-2/\">2024 World Chess Championship: Game 2</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/28/2024-world-chess-championship-game-2/",
-         "pubDate" : "Thu, 28 Nov 2024 17:13:09",
-         "title" : "2024 World Chess Championship: Game 2"
-      },
-      {
-         "description" : "For last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/10/a-press-of-yahoos.html\">A Press of Yahoos</A> (October 2024; if you're wondering, 'What means \"Yahoos\"'?; see the footnote), I wrote, <BLOCKQUOTE> This month's 97 stories -- 10 of them old stories from previous months -- lacked a clear favorite. </BLOCKQUOTE> <P> This month's post had more than 100 stories on the World Chess Championship (WCC) that started this week in Singapore and zero old stories. How can there be more than 100 WCC stories when the footnote says 'top-100 (or so)'? <P> That's an easy calculation: the first page of results had 91 stories, of which 37 were not about the WCC, leaving 54 WCC st",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/world-championship-yahoos-2024-12.html",
-         "pubDate" : "Thu, 28 Nov 2024 16:32:00",
-         "title" : "World Championship Yahoos 2024 (1/2)"
       }
    ]
 }
