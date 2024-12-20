@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3354",
+         "pubDate" : "Thu, 19 Dec 2024 21:02:22",
+         "title" : "Aleksandr Volodin and Margareth Olde crowned Estonian champions"
+      },
+      {
          "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-knights-talk-hard-to-believe-blunders-and-errors-at-world-championships",
          "pubDate" : "Thu, 19 Dec 2024 16:06:27",
          "title" : "Two Knights Talk: Hard to believe - blunders and errors at World Championships"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Alireza Firouzja made it to the 2024 Champions Chess Tour Finals Semifinals by finishing as numbers one and two in the round-robin, while GMs Ian Nepomniachtchi and Maxime Vachier-Lagrave advanced through the Survival Stage....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-day-3",
+         "pubDate" : "Thu, 19 Dec 2024 13:12:00",
+         "title" : "Vachier-Lagrave To Play Carlsen In Semifinals, Firouzja Faces Nepomniachtchi"
       },
       {
          "description" : "ChessBase 18 has many spectacular new features, but also hidden innovations: The new superpower in the reference search provides knowledge you need: Do you know the best way to prepare your team-mates for a team match? How do you find typical draw variations? Which opening variations are currently played in amateur chess?",
@@ -146,7 +162,7 @@ news_feed (
          "title" : "Young talents shine at World Youth Rapid & Blitz Championship in Slovenia"
       },
       {
-         "description" : " The Champions Chess Tour Finals take place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There is then a final chance Survival Stage for players placed 3rd-6th in the Round Robin, these are followed by semi-finals on December 20th and and finals to decide the title on the 21st. Time control 10m +2spm. ",
+         "description" : " The Champions Chess Tour Finals take place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There was then a final chance in the Survival Stage for players placed 3rd-6th in the Round Robin. Ian Nepomniachtchi beat Denis Lazavik in the Winners final to take one place. MVL beat Vincent Keymer and then Lazavik who had a second chance, in the Losers final. This meant t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3343",
          "pubDate" : "Mon, 09 Dec 2024 14:27:45",
          "title" : "FIDE World Junior U20 Championship 2025: Registration is open"
-      },
-      {
-         "description" : "World Champion Ding Liren played a flawless game from start to finish to beat GM Gukesh Dommaraju and level the scores in the 2024 FIDE World Championship at 6-6 with just two games to go. When Gukesh played fast in a seemingly quiet opening, ever...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-12",
-         "pubDate" : "Mon, 09 Dec 2024 13:00:00",
-         "title" : "Ding Liren Strikes Back To Beat Gukesh In Perfect Game 12"
       },
       {
          "description" : " Ding Liren won game 12 of the FIDE World Chess Championship in Singapore and immediately leveled the match up after his loss yesterday. Ding had the white pieces and again we had a very sharp flank opening after Gukesh chose 4...d4. There are certainly safer ways to play. What we saw was an unbalanced English where Gukesh made a number of concessions until he was busted by move 23. 13...Rb8?!, 16...Nd7?! and the losing move 22...Bg5? were the key moments. It only slowly dawned on Ding that his position was \"much, much better\" after 23.Nf4, when Gukesh felt it necessary to play 23...Bxf4, losing all the dark squares on the board, the game was as good as over, and Ding didn't make any mistake",
