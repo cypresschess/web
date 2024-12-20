@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Caro-Kann Defence was once considered a quiet, safe and somewhat drawish opening. But this view has changed fundamentally. With many different variations and structures, the Caro-Kann actually offers exciting positions and winning chances for both sides. Alvar Alonso Rosell presents the opening on two new Fritz trainers. Christian Hoethe has taken a look at the course - and liked it!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lvar-alonso-rosell-rosell-how-to-play-the-caro-kann-defence-1-and-2-a-review",
+         "pubDate" : "Fri, 20 Dec 2024 15:00:00",
+         "title" : "Alvar Alonso Rosell Rosell: How to play the Caro-Kann Defence 1 and 2 - A review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3356",
+         "pubDate" : "Fri, 20 Dec 2024 14:55:32",
+         "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
+      },
+      {
+         "description" : "The Champions Chess Tour Finals in Oslo are heading into the semifinals after an action-packed Thursday that saw the conclusion of the round-robin and the intense survival stage. Magnus Carlsen dominated the all-play-all phase to secure first place, with Alireza Firouzja taking the second direct semifinal spot. Ian Nepomniachtchi (pictured) and Maxime Vachier-Lagrave emerged victorious in the survival stage, completing the final four. Carlsen has chosen to face Vachier-Lagrave in the semis, while Firouzja will battle Nepomniachtchi. | Photo: Maria Emelianova / chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-d3",
+         "pubDate" : "Fri, 20 Dec 2024 11:50:00",
+         "title" : "CCT Finals: Carlsen to face MVL, Firouzja to play Nepo in semis"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3355",
+         "pubDate" : "Fri, 20 Dec 2024 11:06:44",
+         "title" : "Spanish Championship: Daniil Yuffa and Sabrina Vega claim titles"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116498460.cms\" />Chess grandmaster Magnus Carlsen stirred the pot by declaring faster chess formats the \"pure sport\", criticising classical chess for being \"too forgiving\". He argued that rapid and blitz chess better reflect a player's all-around skills. Carlsen also critiqued the recent World Championship match between Gukesh and Ding, deeming the quality subpar.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/classical-chess-probably-the-worst-world-no-1-magnus-carlsen-after-d-gukesh-crowned-world-champion/articleshow/116498460.cms",
+         "pubDate" : "Fri, 20 Dec 2024 09:33:44",
+         "title" : "'Classical chess probably the worst': Magnus Carlsen"
+      },
+      {
          "description" : "The opening tournament of the 2025 Freestyle Grand Slam Tour begins in WEISSENHAUS on 7 February. The current world champion, Gukesh Dommaraju, will be competing, along with two of his predecessors, Magnus Carlsen and Viswanathan Anand. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +58,28 @@ news_feed (
          "title" : "Chess: Gukesh and India celebrate after win but new challenges are emerging"
       },
       {
+         "description" : "We&#38;rsquo;re excited to announce another official partner for the Champions Chess Tour Finals, currently underway in Olso, Norway! Rubik&#38;rsquo;s Cube, the company behind the most iconic puzzle in the world, is once more teaming up with Chess.com to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-rubiks-cct-finals-2024-giveaway",
+         "pubDate" : "Fri, 20 Dec 2024 07:00:00",
+         "title" : "Rubik's Cube, Chess.com, And Logic Team Up For The CCT Finals And A Special Giveaway!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116487349.cms\" />Newly crowned World Chess Champion, 18-year-old D Gukesh, displays remarkable humility, acknowledging his journey's just begun. Viswanathan Anand praises Gukesh's grounded attitude and predicts a unique path filled with diverse goals. With rising Indian stars like Praggnanandhaa and Erigaisi, Anand envisions a potential all-Indian World Chess Championship final in 2026, a landmark moment for Indian chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-a-lot-left-to-achieve-attitude-is-absolutely-terrific-says-anand/articleshow/116487349.cms",
          "pubDate" : "Fri, 20 Dec 2024 02:53:16",
          "title" : "Gukesh's 'a lot left to achieve' attitude is absolutely terrific, says Anand"
+      },
+      {
+         "description" : "2024 FIDE Rapid &amp; Blitz World Championship PreviewEditor's note: This story first appeared in the December 2024 issue of Chess Life magazine, and is re-published here with updates including information about the participants and the FIDE Circuit standings. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 World Rapid and Blitz Championship is coming to the Big Apple. Here's what you need to know.Where is the tournament?It's a big-mone",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-welcome-new-york",
+         "pubDate" : "Fri, 20 Dec 2024 00:00:00",
+         "title" : "Inside Story: Welcome to New York"
       },
       {
          "description" : "",
@@ -74,7 +130,7 @@ news_feed (
          "title" : "Maybe chess helped Ashwin outfox batters: Anand"
       },
       {
-         "description" : "The KCF University Cup Will Take Place on February 1 - 2, 2025, on lichess.org platform.New York, NY, Dec. 3, 2024 - The Kasparov Chess Foundation announces the fifth annual KCF University Cup, which will take place, February 1 and 2, 2025. The KCF University Cup is an international online tournament, which is open to teams from a post-secondary school (university, college, community college, etc.). All participating students must be enrolled in at least one class in the January 2025 semester.KCF's University Cup features a nine-round team, Swiss system format over the two days, with a rapid time control, and will be played on the free and non-commercial chess platform, lichess.org.Each team",
+         "description" : "The KCF University Cup Will Take Place on February 1 - 2, 2025, on lichess.org platform. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Kasparov Chess Foundation announces the fifth annual KCF University Cup, which will take place, February 1 and 2, 2025. The KCF University Cup is an international online tournament, which is open to teams from a post-secondary school (university, college, community college, etc.). All participating students must be enrolled in at least one class in the January 2025 semester.KCF's University Cup features a nine-round team, Swiss system format over the two days, with a rapid time control, and will be played on the free and non-commer",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/global-online-chess-showdown-kcf-announces-fifth-annual-kcf-university-cup",
@@ -498,14 +554,6 @@ news_feed (
          "title" : "Gukesh D crowned 18th FIDE World Champion"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116292864.cms\" />Overwhelmed with joy, D Gukesh's mother, J Padmakumari, recounts the family's sacrifices after his World Chess Championship victory. Her husband left his surgical career to support Gukesh's travels, while she became the sole provider. Financial struggles led to friends sponsoring Gukesh's tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-emotional-moment-as-d-gukesh-hands-trophy-to-his-proud-mother/articleshow/116292864.cms",
-         "pubDate" : "Fri, 13 Dec 2024 13:34:09",
-         "title" : "Watch: Emotional moment as Gukesh hands trophy to his mother"
-      },
-      {
          "description" : "The 2024 Champions Chess Tour concludes with the CCT Finals, held from December 17 to December 21, 2024, at Screen Studios in Oslo, Norway. The event brings together eight of the world&#39;s best chess players to compete for a $500,000 prize fund and ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -698,14 +746,6 @@ news_feed (
          "title" : "Gukesh Wins 2024 FIDE World Chess Championship with Stunning Last-Round Victory"
       },
       {
-         "description" : "Less than two weeks ago, we reported on IM Mark Heimann earning his second GM norm at the U.S. Masters in Charlotte. And yet, less than a week after the conclusion of the Masters, Heimann earned his final GM norm and enough FIDE rating points to cross the 2500 threshold, making him eligible for the GM title and the next FIDE Congress. View this post on Instagram A post shared by Mark Heimann (@lastgoodcaesar) The Saint Louis Masters - held from December 3 through 7 at the Royal Sonesta Chase Park Plaza Hotel in St. Louis, MIssouri - featured 59 strong players competing for FIDE Circuit points and a share of a $100,000 prize fund. GMs Fabiano Caruana and Alexander Donchenko (Germany) tied for",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/another-one-mark-heimann-earns-gm-title-days-after-second-norm",
-         "pubDate" : "Thu, 12 Dec 2024 00:00:00",
-         "title" : "Another One! Mark Heimann Earns GM Title Days After Second Norm"
-      },
-      {
          "description" : "A well-prepared Gukesh had all the advantage in game 13 but one slight misjudgment meant Ding defended his way back for a draw.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -808,14 +848,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-champions-2024-crowned-in-north-macedonia/",
          "pubDate" : "Tue, 10 Dec 2024 14:19:14",
          "title" : "European Rapid and Blitz Chess Champions 2024 crowned in North Macedonia"
-      },
-      {
-         "description" : "For the first time, the FIDE World Rapid &#38;amp; Blitz Championships are taking place in the United States. The premier speed chess tournaments will be held on Wall Street in New York City with a brand new format including a knockout in the Blitz. B...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcement-2024-fide-world-rapid-blitz",
-         "pubDate" : "Tue, 10 Dec 2024 14:00:49",
-         "title" : "New Format, New Year: FIDE World Rapid & Blitz Championships Come To Wall Street"
       },
       {
          "description" : "Yes, it is that time of the year again. Time to leave your copy of CHESS Magazine open, 'non-suspiciously', hoping that the family will take the hint and place a big order at Chess & Bridge. If the hint is not taken, then just order one or more of the items yourself, safe in the knowledge that there are much worse things you could be doing.",
@@ -1240,54 +1272,6 @@ news_feed (
          "link" : "https://www.thearticle.com/le-lionnais-the-vanishing-virtuoso/",
          "pubDate" : "Sat, 30 Nov 2024 11:25:24",
          "title" : "Le Lionnais, the vanishing virtuoso"
-      },
-      {
-         "description" : "In the previous post on the early career of Gukesh Dommaraju, <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukeshs-debuts-in-wcc-cycle-and-in-twic.html\">Gukesh Debuts in a WCC Cycle and in TWIC</A> (November 2024), I listed a half-dozen tournaments played through the end of 2017. Here's the continuation of that list:- <UL> <LI> <B>TWIC 1208</B> &#149; Bhopal International Open; Thu 21st Dec 2017; Thu 28th Dec 2017; Bhopal; IND; 10 Rounds; Swiss; Time Control: 90m+30spm(1) <LI> <B>TWIC 1208</B> &#149; 3rd IIFL Wealth Mumbai Op; Sat 30th Dec 2017; Sun 7th Jan 2018; Mumbai; IND; 9 Rounds; Swiss; Time Control: 90m:30m+30spm(1) <LI> <B>TWIC 1210</B> &#149; 16th Delhi Open 2018; Tue 9th J",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html",
-         "pubDate" : "Fri, 29 Nov 2024 16:26:00",
-         "title" : "Gukesh in 2018 (age 12)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3325",
-         "pubDate" : "Fri, 29 Nov 2024 14:31:41",
-         "title" : "Wall Street Gambit: Where chess meets finance"
-      },
-      {
-         "description" : " Ding Liren played a very quiet flank opening against Gukesh in Game 4 of the World Chess Championship in Singapore. Gukesh did admit to being somewhat surprised but he did recall seeing such a setup in the past and chose a sort of reverse London (I think the London System reminds me of some black setups so maybe this is a reverse, reverse something). Anyhow after 12.Nd4 white had a very nice knight and a minority attack on the Queenside, not super scary but at least something. Gukesh is known for his very concrete calculative approach and 13.... Ne5! was sort of asking for f4 in the next few moves, but when is came to it f4 didn't seem very appetizing to Ding, mostly because this pawn push ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-puts-very-little-pressure-on-gukesh-in-drawn-game-4",
-         "pubDate" : "Fri, 29 Nov 2024 14:20:00",
-         "title" : "Ding puts very little pressure on Gukesh in drawn Game 4 - 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3328",
-         "pubDate" : "Fri, 29 Nov 2024 13:40:30",
-         "title" : "100% accuracy for Ding Liren and Gukesh in their 4th game draw"
-      },
-      {
-         "description" : " After Gukesh Dommaraju and Ding Liren draw game four, English talents prepare to take on overseas rivals China's Ding Liren, the world champion, and India's Gukesh Dommaraju, 18, are level at 2-2 after four of their scheduled best-of-14 games title match in Singapore. Ding <a href=\"https://www.chessgames.com/perl/chess.pl?tid=131517&amp;amp;pid=52629\">won their first game</a> before Gukesh, the challenger, levelled in game three when Ding, in a hopeless position, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2807569\">lost on time</a> while making his 37th move. Friday's game four was a calm draw by repetition of position in 42 moves, with frequent exchanges which finally <a href=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/nov/29/gukesh-dommaraju-ding-liren-world-chess-championship-englands-best-emirates",
-         "pubDate" : "Fri, 29 Nov 2024 13:11:45",
-         "title" : "Gukesh and Ding tied in world chess title clash as England's best pitch up at Emirates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3327",
-         "pubDate" : "Fri, 29 Nov 2024 10:13:48",
-         "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
       }
    ]
 }
