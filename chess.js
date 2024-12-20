@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116487349.cms\" />Newly crowned World Chess Champion, 18-year-old D Gukesh, displays remarkable humility, acknowledging his journey's just begun. Viswanathan Anand praises Gukesh's grounded attitude and predicts a unique path filled with diverse goals. With rising Indian stars like Praggnanandhaa and Erigaisi, Anand envisions a potential all-Indian World Chess Championship final in 2026, a landmark moment for Indian chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-a-lot-left-to-achieve-attitude-is-absolutely-terrific-says-anand/articleshow/116487349.cms",
+         "pubDate" : "Fri, 20 Dec 2024 02:53:16",
+         "title" : "Gukesh's 'a lot left to achieve' attitude is absolutely terrific, says Anand"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2025",
          "pubDate" : "Fri, 13 Dec 2024 12:00:00",
          "title" : "Level Up Your Chess And Win Prizes In The 2025 Chess Improvement Challenge"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116288641.cms\" />Chess legend Garry Kasparov congratulated D Gukesh on becoming the youngest world champion, surpassing Kasparov's own record. Gukesh's victory over Ding Liren in Singapore marked a historic moment for India. Kasparov dismissed criticisms of the match quality, highlighting the inevitable blunders in high-pressure championships.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/blunders-are-part-of-every-championship-kasparov-rejects-kramniks-end-of-chess-claim/articleshow/116288641.cms",
-         "pubDate" : "Fri, 13 Dec 2024 11:01:11",
-         "title" : "Kasparov rejects Kramnik's 'end of chess' claim"
       },
       {
          "description" : "Sub Junior 1 Ilamparthi A R2 Vaz Ethan3 Sherla Prathamesh4 Madhvendra Pratap Sharma5 Jaiveer Mahendru6 Shashish Subbiah7 Advik Amit Agrawal8 Reyan Md.9 Aakash G10 Bhoir",
