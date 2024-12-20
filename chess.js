@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The opening tournament of the 2025 Freestyle Grand Slam Tour begins in WEISSENHAUS on 7 February. The current world champion, Gukesh Dommaraju, will be competing, along with two of his predecessors, Magnus Carlsen and Viswanathan Anand. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-tour-2025-kicks-off-with-gukesh-carlsen-and-anand",
+         "pubDate" : "Fri, 20 Dec 2024 08:56:52",
+         "title" : "Freestyle Chess Grand Slam Tour 2025 kicks off - with Gukesh, Carlsen and Anand"
+      },
+      {
+         "description" : " The youngest ever undisputed world champion, 18, had a rapturous reception on his return to Chennai, but his new status will be tested at Wijk aan Zee in January Gukesh Dommaraju, 18, had a rapturous reception from Indian fans when he flew back to Chennai after ­deposing China's Ding Liren for the world title 7.5-6.5 by winning their 14th and final game in Singapore. It was an occasion which, in Indian terms, could have been surpassed in intensity only by a winning IPL cricket team, while its English equivalent would be a home city football celebration for Premier or Champions League winners. <a href=\"https://www.theguardian.com/sport/2024/dec/20/chess-gukesh-and-india-celebrate-after-win-b",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/dec/20/chess-gukesh-and-india-celebrate-after-win-but-new-challenges-are-emerging",
+         "pubDate" : "Fri, 20 Dec 2024 08:00:07",
+         "title" : "Chess: Gukesh and India celebrate after win but new challenges are emerging"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116487349.cms\" />Newly crowned World Chess Champion, 18-year-old D Gukesh, displays remarkable humility, acknowledging his journey's just begun. Viswanathan Anand praises Gukesh's grounded attitude and predicts a unique path filled with diverse goals. With rising Indian stars like Praggnanandhaa and Erigaisi, Anand envisions a potential all-Indian World Chess Championship final in 2026, a landmark moment for Indian chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,36 +34,12 @@ news_feed (
          "title" : "Aleksandr Volodin and Margareth Olde crowned Estonian champions"
       },
       {
-         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
-         "pubDate" : "Thu, 19 Dec 2024 17:45:00",
-         "title" : "Champions Chess Tour Finals - Live!"
-      },
-      {
-         "description" : "The World Championship match between Ding Liren and Gukesh in Singapore ended with a blunder: In a drawn position, Ding wanted to simplify and allowed his opponent to liquidate into a winning pawn ending - making Gukesh the youngest World Champion ever. In the latest episode of \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer use Ding's mistake as a starting point to talk about incredible blunders, errors and inexplicable oversights in the history of the World Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-hard-to-believe-blunders-and-errors-at-world-championships",
-         "pubDate" : "Thu, 19 Dec 2024 16:06:27",
-         "title" : "Two Knights Talk: Hard to believe - blunders and errors at World Championships"
-      },
-      {
          "description" : "GMs Magnus Carlsen and Alireza Firouzja made it to the 2024 Champions Chess Tour Finals Semifinals by finishing as numbers one and two in the round-robin, while GMs Ian Nepomniachtchi and Maxime Vachier-Lagrave advanced through the Survival Stage....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-day-3",
          "pubDate" : "Thu, 19 Dec 2024 13:12:00",
          "title" : "Vachier-Lagrave To Play Carlsen In Semifinals, Firouzja Faces Nepomniachtchi"
-      },
-      {
-         "description" : "ChessBase 18 has many spectacular new features, but also hidden innovations: The new superpower in the reference search provides knowledge you need: Do you know the best way to prepare your team-mates for a team match? How do you find typical draw variations? Which opening variations are currently played in amateur chess?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-new-functions-in-the-reference-search",
-         "pubDate" : "Thu, 19 Dec 2024 11:53:29",
-         "title" : "ChessBase 18: New functions in the reference search"
       },
       {
          "description" : "",
@@ -64,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-spent-over-40-hours-on-weekly-90-minute-video-calls-with-d-gukesh-paddy-upton/articleshow/116467940.cms",
          "pubDate" : "Thu, 19 Dec 2024 09:05:52",
          "title" : "'I spent over 40 hours on weekly 90-minute video calls with Gukesh'"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation is thrilled to announce the lineup for the KCF Academy Premium Package Lecture Series in January 2025! This month's program features an extraordinary roster of world-class chess legends who will share their insights, strategies, and personal experiences to help elevate your game to new heights.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/exclusive-january-lecture-series-at-kcf-academy",
-         "pubDate" : "Thu, 19 Dec 2024 08:49:21",
-         "title" : "Exclusive January Lecture Series at KCF Academy"
       },
       {
          "description" : "European Chess Union and ECU Trainers Commission publish the games with analysis of the 2024 World Chess Championship. In-depth 100-page analysis of all the World Championship Match between Ding Liren and Gukesh D includes expert commentary and insights by ECU Trainers Commission Secretary, world renowned trainer and Grandmaster Efstratios Grivas. The 100-page Analysis can be downloaded below as a Christmas gift to all chess fans. Featured photo by FIDE/ Eng Chin An",
@@ -104,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3352",
          "pubDate" : "Wed, 18 Dec 2024 17:37:24",
          "title" : "Kenya Championship 2024: Mclingeyo and Mongeli claim titles"
-      },
-      {
-         "description" : "The 2024 Champions Chess Tour Finals kicked off in Oslo, featuring eight of the world's top players battling it out over-the-board. With noise-cancelling headphones allowing the audience to react freely, the first day saw three rounds of round-robin action. Magnus Carlsen and rising star Denis Lazavik shone brightest, finishing undefeated to share the lead. Meanwhile, Levon Aronian endured a tough day, losing all three of his games. | Pictured: Levon Aronian and Maxime Vachier-Lagrave | Photo: Maria Emelianova / chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-d1",
-         "pubDate" : "Wed, 18 Dec 2024 14:45:00",
-         "title" : "CCT Finals: Carlsen and Lazavik share the lead with 3/3"
       },
       {
          "description" : "GM Magnus Carlsen leads the 2024 Champions Chess Tour Finals Round-Robin with 5/6, despite dropping one loss to Alireza Firouzja on Wednesday. Three players follow just one point behind: GMs Firouzja, Denis Lazavik, and Ian Nepomniachtchi.&#38;nbsp; ...",
@@ -194,14 +170,6 @@ news_feed (
          "title" : "Call of Interest for ECU Arbiters 2025"
       },
       {
-         "description" : "Chess is booming in India and Sagar Shah, founder and driving force behind ChessBase India, has played a major role in this process. ChessBase India has also followed the career of Gukesh, the new world champion, from the very beginning. In an extensive, almost three-hour interview, Sagar Shah and Gukesh now talk about Gukesh's path to the World Championship, the 14 games of the competition and the choice of his seconds, among other things. Gukesh also reveals how and why Vincent Keymer, who is actually a rival of Gukesh, became part of the team in this revealing interview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/inside-story-sagar-shah-interviews-gukesh",
-         "pubDate" : "Tue, 17 Dec 2024 16:00:00",
-         "title" : "The inside story: Sagar Shah interviews Gukesh"
-      },
-      {
          "description" : "The 2025 Chess.com Daily Chess Championship (DCC) is now open for registration! Start the new year right and join thousands of your fellow players in one of the world&#39;s biggest chess events. Join the 2025 DCC What is the Daily Chess Champion...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,14 +216,6 @@ news_feed (
          "link" : "https://aicf.in/grandmaster-chess-camp-in-aizawl-mizoram-2024-from-09-13-december-2024/",
          "pubDate" : "Tue, 17 Dec 2024 12:41:03",
          "title" : "Grandmaster Chess Camp in Aizawl, Mizoram from 09-13 December 2024"
-      },
-      {
-         "description" : "ChessBase 18 offers a feature called \"Identify Player\" that allows you to discover the real-life identity of a strong Grandmaster playing on a chess server. By comparing a player's online games with the Mega Database, you can identify who they are by matching their game patterns and ELO rating. This function can also be used to compare your own games with other players in the same rating range, helping you find your \"chess twin.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-find-a-player-behind-their-online-profile-with-chessbase-18",
-         "pubDate" : "Tue, 17 Dec 2024 11:59:34",
-         "title" : "How to find a player behind their online profile with ChessBase 18!"
       },
       {
          "description" : "Please find the live games link for the 37th National Under 13 and Girls Chess Championship 2024 which is scheduled from December 17th to 23rd",
@@ -1328,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3327",
          "pubDate" : "Fri, 29 Nov 2024 10:13:48",
          "title" : "Shabalov, Kaak, Klinova and Burchardt crowned on the Golden Island"
-      },
-      {
-         "description" : " 2024 World Chess Championship: Game 3Wednesday, 26 November 2024 Gukesh breaks through evens the score! Dommaraju Gukesh won Game 3 of the World Championship match with an impressive win over Ding Liren. This game rode on a razor's edge when Ding was close to stealing the initiative. The game went down normal channels and followed The post <a href=\"https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/\">2024 World Chess Championship: Game 3</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/11/29/2024-world-chess-championship-game-3/",
-         "pubDate" : "Fri, 29 Nov 2024 06:21:14",
-         "title" : "2024 World Chess Championship: Game 3"
       }
    ]
 }
