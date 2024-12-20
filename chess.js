@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116513227.cms\" />Indian chess prodigy Arjun Erigaisi urgently appeals for his passport's return after visa processing delays. He needs it to travel to New York City for the World Rapid & Blitz Championships, starting December 26th. The prestigious tournament boasts a $1.5 million prize pool and a revamped format, attracting top players like Magnus Carlsen and Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-no-1-chess-player-arjun-erigaisi-faces-us-visa-trouble-urges-embassy-to-expedite-process/articleshow/116513227.cms",
+         "pubDate" : "Fri, 20 Dec 2024 17:50:34",
+         "title" : "India's no.1 chess player faces US visa trouble, urges embassy to expedite process"
+      },
+      {
          "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3356",
          "pubDate" : "Fri, 20 Dec 2024 14:55:32",
          "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi advance to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two threat he could have played in the final game. Nep...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-semifinals",
+         "pubDate" : "Fri, 20 Dec 2024 12:03:21",
+         "title" : "Nepomniachtchi Beats Firouzja With 2 Games To Spare, Carlsen Eliminates Vachier-Lagrave"
       },
       {
          "description" : "The Champions Chess Tour Finals in Oslo are heading into the semifinals after an action-packed Thursday that saw the conclusion of the round-robin and the intense survival stage. Magnus Carlsen dominated the all-play-all phase to secure first place, with Alireza Firouzja taking the second direct semifinal spot. Ian Nepomniachtchi (pictured) and Maxime Vachier-Lagrave emerged victorious in the survival stage, completing the final four. Carlsen has chosen to face Vachier-Lagrave in the semis, while Firouzja will battle Nepomniachtchi. | Photo: Maria Emelianova / chess.com",
@@ -538,14 +554,6 @@ news_feed (
          "title" : "2024 U.S. Senior Women's Championship Begins in Utah"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116295261.cms\" />Newly crowned chess world champion, 18-year-old D Gukesh, dismisses criticism of his match quality against Ding Liren. Gukesh emphasized willpower and character as key factors in his victory, becoming the youngest world champion. While acknowledging the subpar quality of some games, he attributed it to the pressure of the new experience.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-unfazed-by-carlsen-kramnik-criticism-says-world-championship-decided-not-just-by-/articleshow/116295261.cms",
-         "pubDate" : "Fri, 13 Dec 2024 15:33:13",
-         "title" : "Gukesh unfazed by Carlsen, Kramnik criticism, says..."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/woodpecker-method-2-chessable",
          "pubDate" : "Wed, 11 Dec 2024 08:00:00",
          "title" : "Turn Positional Play Into Second Nature With Chessable's New Woodpecker Method 2: Positional Play"
-      },
-      {
-         "description" : "GM Daniel Naroditsky on Monday won the Tournament of the Accused, an event organized by runner-up GM Hikaru Nakamura and sponsored by streaming platform Kick.com. Several of the participants had been &#34;accused&#34;: they were players whose recent resul...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-wins-tournament-of-the-accused",
-         "pubDate" : "Wed, 11 Dec 2024 01:35:00",
-         "title" : "Naroditsky Wins Tournament Of The Accused Ahead Of Organizer Nakamura"
       },
       {
          "description" : " 2024 World Chess Championship: Game 12Monday, 9 December 2024 Ding scores clutch win, score tied 6-6! China's Ding Liren won a thrilling game over India's Gukesh Dommaraju to tie the world chess championship match at 6-6. There are two classical games remaining with tiebreaks waiting in the event of a 7-7 tie. When hearing the The post <a href=\"https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/\">Ding strikes back in Game 12 match tied 6-6!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
