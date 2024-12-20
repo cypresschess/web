@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
+         "pubDate" : "Fri, 20 Dec 2024 17:45:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "The Caro-Kann Defence was once considered a quiet, safe and somewhat drawish opening. But this view has changed fundamentally. With many different variations and structures, the Caro-Kann actually offers exciting positions and winning chances for both sides. Alvar Alonso Rosell presents the opening on two new Fritz trainers. Christian Hoethe has taken a look at the course - and liked it!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "Freestyle Chess Grand Slam Tour 2025 kicks off - with Gukesh, Carlsen and Anand"
       },
       {
-         "description" : " The youngest ever undisputed world champion, 18, had a rapturous reception on his return to Chennai, but his new status will be tested at Wijk aan Zee in January Gukesh Dommaraju, 18, had a rapturous reception from Indian fans when he flew back to Chennai after ­deposing China's Ding Liren for the world title 7.5-6.5 by winning their 14th and final game in Singapore. It was an occasion which, in Indian terms, could have been surpassed in intensity only by a winning IPL cricket team, while its English equivalent would be a home city football celebration for Premier or Champions League winners. <a href=\"https://www.theguardian.com/sport/2024/dec/20/chess-gukesh-and-india-celebrate-after-win-b",
+         "description" : " The youngest ever undisputed world champion, 18, had a rapturous reception on his return to Chennai, but his new status will be tested at Wijk aan Zee in January Gukesh Dommaraju, 18, had a rapturous reception from Indian fans when he flew back to Chennai after deposing China's Ding Liren for the world title 7.5-6.5 by winning their 14th and final game in Singapore. It was <a href=\"https://www.theguardian.com/sport/video/2024/dec/17/world-chess-champion-gukesh-dommaraju-mobbed-at-chennai-airport-video\">an occasion</a> which, in Indian terms, could only have been surpassed in intensity by a winning IPL cricket team, while its English equivalent would be a home city football celebration for P",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/dec/20/chess-gukesh-and-india-celebrate-after-win-but-new-challenges-are-emerging",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-a-lot-left-to-achieve-attitude-is-absolutely-terrific-says-anand/articleshow/116487349.cms",
          "pubDate" : "Fri, 20 Dec 2024 02:53:16",
          "title" : "Gukesh's 'a lot left to achieve' attitude is absolutely terrific, says Anand"
-      },
-      {
-         "description" : "2024 FIDE Rapid &amp; Blitz World Championship PreviewEditor's note: This story first appeared in the December 2024 issue of Chess Life magazine, and is re-published here with updates including information about the participants and the FIDE Circuit standings. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 World Rapid and Blitz Championship is coming to the Big Apple. Here's what you need to know.Where is the tournament?It's a big-mone",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-welcome-new-york",
-         "pubDate" : "Fri, 20 Dec 2024 00:00:00",
-         "title" : "Inside Story: Welcome to New York"
       },
       {
          "description" : "",
@@ -744,6 +744,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/gukesh-wins-2024-fide-world-chess-championship-stunning-last-round-victory",
          "pubDate" : "Thu, 12 Dec 2024 00:00:00",
          "title" : "Gukesh Wins 2024 FIDE World Chess Championship with Stunning Last-Round Victory"
+      },
+      {
+         "description" : "Less than two weeks ago, we reported on IM Mark Heimann earning his second GM norm at the U.S. Masters in Charlotte. And yet, less than a week after the conclusion of the Masters, Heimann earned his final GM norm and enough FIDE rating points to cross the 2500 threshold, making him eligible for the GM title and the next FIDE Congress. View this post on Instagram A post shared by Mark Heimann (@lastgoodcaesar) The Saint Louis Masters - held from December 3 through 7 at the Royal Sonesta Chase Park Plaza Hotel in St. Louis, MIssouri - featured 59 strong players competing for FIDE Circuit points and a share of a $100,000 prize fund. GMs Fabiano Caruana and Alexander Donchenko (Germany) tied for",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/another-one-mark-heimann-earns-gm-title-days-after-second-norm",
+         "pubDate" : "Thu, 12 Dec 2024 00:00:00",
+         "title" : "Another One! Mark Heimann Earns GM Title Days After Second Norm"
       },
       {
          "description" : "A well-prepared Gukesh had all the advantage in game 13 but one slight misjudgment meant Ding defended his way back for a draw.",
