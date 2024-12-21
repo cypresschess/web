@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116522267.cms\" />D Gukesh, the 18-year-old world chess champion, embraces the challenges of his title with a focus on enjoying the game. Exempted from the Candidates Tournament, he reflects on the mental resilience required during his World Championship victory against Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/now-i-can-enjoy-and-play-more-freely-d-gukesh/articleshow/116522267.cms",
+         "pubDate" : "Sat, 21 Dec 2024 02:24:43",
+         "title" : "Now, I can enjoy and play more freely: D Gukesh"
+      },
+      {
+         "description" : "The stage is set for a thrilling final encounter at the Champions Chess Tour Finals in Oslo, as Magnus Carlsen and Ian Nepomniachtchi stormed into the title match with commanding semifinal wins. Carlsen defeated Maxime Vachier-Lagrave 3&frac12;-1&frac12;, showcasing his trademark composure in critical moments. Nepomniachtchi delivered an even more dominant performance, crushing Alireza Firouzja with two games to spare. The two rivals, who contested the 2021 World Chess Championship, are set to clash again on Saturday in what promises to be a hard-fought battle for the title. | Photo: Maria Emelianova / chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-d4",
+         "pubDate" : "Sat, 21 Dec 2024 01:30:00",
+         "title" : "CCT Finals: Carlsen and Nepo grab convincing victories"
+      },
+      {
          "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year old from Benue State bested a field of veterans and titled players to become the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -18,14 +34,6 @@ news_feed (
          "title" : "India's no.1 chess player faces US visa trouble, urges embassy to expedite process"
       },
       {
-         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
-         "pubDate" : "Fri, 20 Dec 2024 17:45:00",
-         "title" : "Champions Chess Tour Finals - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
       },
       {
-         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi advance to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated GM Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two threat he could have played in the final game. ...",
+         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have advanced to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated GM Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two threat he could have played in the final ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-semifinals",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-a-lot-left-to-achieve-attitude-is-absolutely-terrific-says-anand/articleshow/116487349.cms",
          "pubDate" : "Fri, 20 Dec 2024 02:53:16",
          "title" : "Gukesh's 'a lot left to achieve' attitude is absolutely terrific, says Anand"
+      },
+      {
+         "description" : "US Chess is excited to announce that registration is open for SuperNationals VIII, to be held in Orlando, Fla., May 9-11, 2025.In recent months US Chess has initiated changes to the entry fee structure for our national events, and with SuperNationals we are instituting a change in how tournament hotel rooms are blocked and booked. This change is a response to a shift in the hotel and meeting industries' approach to cancellation penalties since 2021. (See the October 2024 issue of Chess Life for a fuller discussion on why this change is necessary.)These changes are significant, so please read the following to the end.Different hotels have different policies, so be aware before booking a room.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/supernationals2025-registration-open",
+         "pubDate" : "Fri, 20 Dec 2024 00:00:00",
+         "title" : "SuperNationals Registration is Open!"
       },
       {
          "description" : "2024 FIDE Rapid &amp; Blitz World Championship PreviewEditor's note: This story first appeared in the December 2024 issue of Chess Life magazine, and is re-published here with updates including information about the participants and the FIDE Circuit standings. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 World Rapid and Blitz Championship is coming to the Big Apple. Here's what you need to know.Where is the tournament?It's a big-mone",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "Garry Kasparov hails D Gukesh, defends Ding blunder"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305468.cms\" />Ding Liren's heartbreaking blunder in the World Chess Championship final against Ian Nepomniachtchi has sparked debate. While some, like Vladimir Kramnik, lament the declining quality of elite chess, others, including Magnus Carlsen, attribute it to the pressures of modern time controls and extensive preparation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-hue-and-cry-over-a-blunder/articleshow/116305468.cms",
-         "pubDate" : "Sat, 14 Dec 2024 02:37:12",
-         "title" : "The hue and cry over a blunder"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305308.cms\" />Eighteen-year-old chess champion D Gukesh's coach, Grzegorz Gajewski, reveals the secrets to his success. Gukesh's remarkable composure under pressure, relentless drive for improvement, and a holistic training approach focusing on openings, time management, and decision-making paved his path to victory. Even after winning the World Championship, Gukesh's focus remained on refining his skills, showcasing a rare level of self-awareness.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/",
          "pubDate" : "Thu, 12 Dec 2024 04:48:51",
          "title" : "Ding-Gukesh draw in thrilling battle!"
-      },
-      {
-         "description" : "18 for 18: 18-year-old Gukesh Dommaraju Becomes 18th Undisputed World Chess Champion <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy Eng Chin An/FIDE<br> <br> <br> <br> Indian GM Gukesh Dommaraju defeated reigning FIDE World Champion GM Ding Liren (China) in the 14th and final game of the 2024 FIDE World Chess Championship, winning the match 7&frac12;-6&frac12; on Thursday, December 12 after two-and-a-half weeks of play. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/gukesh-wins-2024-fide-world-chess-championship-stunning-last-round-victory",
-         "pubDate" : "Thu, 12 Dec 2024 00:00:00",
-         "title" : "Gukesh Wins 2024 FIDE World Chess Championship with Stunning Last-Round Victory"
       },
       {
          "description" : "A well-prepared Gukesh had all the advantage in game 13 but one slight misjudgment meant Ding defended his way back for a draw.",
