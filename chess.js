@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Why You're Stuck in Chess-and How to Break Through in 2025: Part 2 Understanding the &#8220;What&#8221; in Chess Improvement In Part 1 of this series, we introduced the Chess Improvement Equation: What * How * Time = Improvement Score This simple formula is your blueprint for understanding why you're stuck and how to fix it. []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/the-what-score/",
+         "pubDate" : "Sat, 21 Dec 2024 14:00:00",
+         "title" : "Supercharge Your Chess Improvement in 2025: Part 2"
+      },
+      {
+         "description" : "​On Thursday 12th December, Gukesh Dommaraju (India) became the youngest ever winner of the world chess championship with his fourteenth unrelenting game against the defending champion, Ding Liren (China). Playing Black, Gukesh, as he has managed in all the games, exerted enormous time and positional pressures on his opponent, who as the contest progressed, became ever more pensive and unambitious. In last week's column we have already []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/gukesh-a-worthy-world-champion/",
+         "pubDate" : "Sat, 21 Dec 2024 13:24:14",
+         "title" : "Gukesh: a worthy world champion"
+      },
+      {
          "description" : "Daniil Yuffa and Sabrina Vega triumphed in the 2024 Spanish Chess Championship, held in Marbella from December 11-19. Yuffa claimed his maiden national title with a stellar performance, securing decisive victories in critical rounds and holding off top-seeded GM David Ant&oacute;n in the final game. In the women's rankings, Vega clinched her ninth championship title with 6&frac12;/9, continuing her legacy. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1066,6 +1082,14 @@ news_feed (
          "title" : "London Chess Classic - Live!"
       },
       {
+         "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (November 2024), about the early career of the new World Champion Gukesh Dommaraju, I neglected to record the young prodigy's score and rating for the 17 events in the list. For this current post, I corrected the oversight. <P> It's worth explaining why six of the events are still missing the final score. These are events where a result was reported by TWIC on two consecutive weeks (a partial result, then the complete result), and where Gukesh was listed in the first report, but not in the second. This is because his final score was less than TWIC's cutoff to lim",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/gukesh-in-2018-scores-rating.html",
+         "pubDate" : "Fri, 06 Dec 2024 16:22:00",
+         "title" : "Gukesh in 2018 (Scores & Rating)"
+      },
+      {
          "description" : " World champion and 18-year-old challenger are deadlocked at 4.5-4.5 in their best-of-14 series which finishes next week China's world champion, Ding Liren, and his Indian opponent, Gukesh Dommaraju, at 18 the youngest ever title challenger, are deadlocked at 4.5-4.5 after nine of their scheduled best of 14 games in Singapore. Game 10 starts at 9am GMT on Saturday. If they are still level after their 14th and final classical game next Thursday, half-hour rapid and, if needed, three-minute blitz tie-breakers will decide the winner next Friday. <a href=\"https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax\">Continue reading...",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1240,30 +1264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/females-and-males-working-behind-the-scene",
          "pubDate" : "Sun, 01 Dec 2024 08:00:00",
          "title" : "Females and Males Working Behind The Scene"
-      },
-      {
-         "description" : " Ding Liren showed a little of why he's such a respected player in outplaying Gukesh with black in an Exchange French in game 5 of the World Chess Championship, also the way he spoiled this chance in only a few of moves is rather typical of his current problems. Nevertheless after a really insipid performance in game four there were definitely signs of life in the Ding campaign today. Game Summary below. Score Ding 2.5 - Gukesh 2.5 Game 6 Ding-Gukesh Sunday 1st December. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-has-a-brief-chance-to-push-for-a-win-against-gukesh-in-drawn-game-5",
-         "pubDate" : "Sat, 30 Nov 2024 14:44:00",
-         "title" : "Ding has a brief chance to push for a win against Gukesh in drawn game 5 - 5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3329",
-         "pubDate" : "Sat, 30 Nov 2024 14:21:35",
-         "title" : "World Championship Game 5: Ding Liren lets Gukesh off the hook"
-      },
-      {
-         "description" : "When I started, chess improvement was simpler-not just for kids like me but for adult improvers too. Take my Dad, for example. He taught me the rules but never studied the game himself. Because he accompanied me to tournaments, he decided to play in them too. Despite putting minimal effort into training, he reached a []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/simplify-your-chess-training/",
-         "pubDate" : "Sat, 30 Nov 2024 14:00:00",
-         "title" : "The Simple Path to 1500: Lessons From My Dad's Chess Journey"
       }
    ]
 }
