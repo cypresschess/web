@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
+         "pubDate" : "Sat, 21 Dec 2024 17:45:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "Why You're Stuck in Chess-and How to Break Through in 2025: Part 2 Understanding the &#8220;What&#8221; in Chess Improvement In Part 1 of this series, we introduced the Chess Improvement Equation: What * How * Time = Improvement Score This simple formula is your blueprint for understanding why you're stuck and how to fix it. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/spanish-championship-2024-report",
          "pubDate" : "Sat, 21 Dec 2024 12:00:00",
          "title" : "Spanish Championship: Daniil Yuffa and Sabrina Vega claim national titles"
+      },
+      {
+         "description" : "GM Magnus Carlsen defeated GM Ian Nepomniachtchi 4-1 to win the 2024 Champions Chess Tour Finals and his fifth consecutive Champions Chess Tour title. Again earning the $200,000 first prize, Carlsen has won every edition of the Champions Chess Tou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2024-champions-chess-tour-finals",
+         "pubDate" : "Sat, 21 Dec 2024 11:48:00",
+         "title" : "Carlsen Wins 5th Champions Chess Tour Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116532502.cms\" />D Gukesh, 18, won the World Chess Championship. He defeated Ding Liren. Gukesh's family made a bold move. They took him out of school early. This allowed him to focus on chess. His mother, Padma Kumari, shared their journey. They faced doubts. Gukesh's dedication reassured them. His victory validated their decision. He is now a champion.",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy",
          "pubDate" : "Wed, 11 Dec 2024 08:00:44",
          "title" : "Chess: Gawain Jones wins London Classic amid recovery from tragedy"
-      },
-      {
-         "description" : "The best athletes in the world can react to a situation in less than a second. GM Axel Smith has proven that in chess, it&#39;s not much different. We&#39;re happy to announce that you can now work on your chess instincts with the Woodpecker Method 2: Pos...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/woodpecker-method-2-chessable",
-         "pubDate" : "Wed, 11 Dec 2024 08:00:00",
-         "title" : "Turn Positional Play Into Second Nature With Chessable's New Woodpecker Method 2: Positional Play"
       },
       {
          "description" : " 2024 World Chess Championship: Game 12Monday, 9 December 2024 Ding scores clutch win, score tied 6-6! China's Ding Liren won a thrilling game over India's Gukesh Dommaraju to tie the world chess championship match at 6-6. There are two classical games remaining with tiebreaks waiting in the event of a 7-7 tie. When hearing the The post <a href=\"https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/\">Ding strikes back in Game 12 match tied 6-6!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
