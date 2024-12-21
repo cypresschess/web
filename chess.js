@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Daniil Yuffa and Sabrina Vega triumphed in the 2024 Spanish Chess Championship, held in Marbella from December 11-19. Yuffa claimed his maiden national title with a stellar performance, securing decisive victories in critical rounds and holding off top-seeded GM David Ant&oacute;n in the final game. In the women's rankings, Vega clinched her ninth championship title with 6&frac12;/9, continuing her legacy. | Photo: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-championship-2024-report",
+         "pubDate" : "Sat, 21 Dec 2024 12:00:00",
+         "title" : "Spanish Championship: Daniil Yuffa and Sabrina Vega claim national titles"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116532502.cms\" />D Gukesh, 18, won the World Chess Championship. He defeated Ding Liren. Gukesh's family made a bold move. They took him out of school early. This allowed him to focus on chess. His mother, Padma Kumari, shared their journey. They faced doubts. Gukesh's dedication reassured them. His victory validated their decision. He is now a champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-sending-d-gukesh-to-school-was-tough-call-says-mother-padma-kumari/articleshow/116532502.cms",
+         "pubDate" : "Sat, 21 Dec 2024 10:09:04",
+         "title" : "'Not sending Gukesh to school was tough call': Mother"
+      },
+      {
          "description" : "Please find the certificates Sl No Candidate Name 1 Anand J S 2 Vipin Vijayan 3 Vani Indrali 4 Tejesh oleti 5 Kranthi G 6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
       },
       {
-         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have advanced to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated GM Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two threat he could have played in the final ...",
+         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have advanced to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated GM Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two he could have played in the final game. N...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-semifinals",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-hails-d-gukesh-defends-ding-blunder/articleshow/116305520.cms",
          "pubDate" : "Sat, 14 Dec 2024 02:45:56",
          "title" : "Garry Kasparov hails D Gukesh, defends Ding blunder"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305308.cms\" />Eighteen-year-old chess champion D Gukesh's coach, Grzegorz Gajewski, reveals the secrets to his success. Gukesh's remarkable composure under pressure, relentless drive for improvement, and a holistic training approach focusing on openings, time management, and decision-making paved his path to victory. Even after winning the World Championship, Gukesh's focus remained on refining his skills, showcasing a rare level of self-awareness.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-always-willing-to-accept-his-mistakes/articleshow/116305308.cms",
-         "pubDate" : "Sat, 14 Dec 2024 02:23:25",
-         "title" : "'Gukesh always willing to accept his mistakes'"
       },
       {
          "description" : "Editor's note: This article will be updated with more photos, and a selection of interviews can be found here.Return to UtahThe 2024 U.S. Senior Women's Championship began Friday night, December 13, in Murray, Utah. For five of us participating in this year's championship, Utah reminds us of past U.S. Women's Championships. WGM Anjelina Belakovskaia won the 1999 U.S. Women's Championship in Salt Lake City, a tournament where WIM Olga Sagalchik finished tied for third and fourth and WIM Beatriz Marinello tied for 6th through 8th places. Ten players participated. Shernaz Kennedy and I (Alexey Root) are also on a return chess visit to Utah. In 1981, Kennedy and I played in the U.S. Women's Cham",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/simplify-your-chess-training/",
          "pubDate" : "Sat, 30 Nov 2024 14:00:00",
          "title" : "The Simple Path to 1500: Lessons From My Dad's Chess Journey"
-      },
-      {
-         "description" : "World Chess Championship update: at the time of writing, Ding and Gukesh are tied on 2-2, with one win each and two draws. In today's fifth game, Gukesh has White. My colleague Adam Black, in the course of his research into the games of Marcel Duchamp, has long extolled the virtues of Le Lionnais; this French polymath, whose infuriatingly rare, but evidently eminent credentials are all too []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/le-lionnais-the-vanishing-virtuoso/",
-         "pubDate" : "Sat, 30 Nov 2024 11:25:24",
-         "title" : "Le Lionnais, the vanishing virtuoso"
       }
    ]
 }
