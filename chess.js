@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year old from Benue State bested a field of veterans and titled players to become the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/",
+         "pubDate" : "Fri, 20 Dec 2024 21:09:00",
+         "title" : "17-year old Nyuima Tersee is new Nigerian Champion!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116513227.cms\" />Indian chess prodigy Arjun Erigaisi urgently appeals for his passport's return after visa processing delays. He needs it to travel to New York City for the World Rapid & Blitz Championships, starting December 26th. The prestigious tournament boasts a $1.5 million prize pool and a revamped format, attracting top players like Magnus Carlsen and Hikaru Nakamura.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Champions Chess Tour Finals - Live!"
       },
       {
-         "description" : "The Caro-Kann Defence was once considered a quiet, safe and somewhat drawish opening. But this view has changed fundamentally. With many different variations and structures, the Caro-Kann actually offers exciting positions and winning chances for both sides. Alvar Alonso Rosell presents the opening on two new Fritz trainers. Christian Hoethe has taken a look at the course - and liked it!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lvar-alonso-rosell-rosell-how-to-play-the-caro-kann-defence-1-and-2-a-review",
-         "pubDate" : "Fri, 20 Dec 2024 15:00:00",
-         "title" : "Alvar Alonso Rosell Rosell: How to play the Caro-Kann Defence 1 and 2 - A review"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,20 +34,12 @@ news_feed (
          "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
       },
       {
-         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi advance to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two threat he could have played in the final game. Nep...",
+         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi advance to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated GM Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two threat he could have played in the final game. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-semifinals",
-         "pubDate" : "Fri, 20 Dec 2024 12:03:21",
+         "pubDate" : "Fri, 20 Dec 2024 12:03:00",
          "title" : "Nepomniachtchi Beats Firouzja With 2 Games To Spare, Carlsen Eliminates Vachier-Lagrave"
-      },
-      {
-         "description" : "The Champions Chess Tour Finals in Oslo are heading into the semifinals after an action-packed Thursday that saw the conclusion of the round-robin and the intense survival stage. Magnus Carlsen dominated the all-play-all phase to secure first place, with Alireza Firouzja taking the second direct semifinal spot. Ian Nepomniachtchi (pictured) and Maxime Vachier-Lagrave emerged victorious in the survival stage, completing the final four. Carlsen has chosen to face Vachier-Lagrave in the semis, while Firouzja will battle Nepomniachtchi. | Photo: Maria Emelianova / chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-d3",
-         "pubDate" : "Fri, 20 Dec 2024 11:50:00",
-         "title" : "CCT Finals: Carlsen to face MVL, Firouzja to play Nepo in semis"
       },
       {
          "description" : "",
@@ -64,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/classical-chess-probably-the-worst-world-no-1-magnus-carlsen-after-d-gukesh-crowned-world-champion/articleshow/116498460.cms",
          "pubDate" : "Fri, 20 Dec 2024 09:33:44",
          "title" : "'Classical chess probably the worst': Magnus Carlsen"
-      },
-      {
-         "description" : "The opening tournament of the 2025 Freestyle Grand Slam Tour begins in WEISSENHAUS on 7 February. The current world champion, Gukesh Dommaraju, will be competing, along with two of his predecessors, Magnus Carlsen and Viswanathan Anand. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-tour-2025-kicks-off-with-gukesh-carlsen-and-anand",
-         "pubDate" : "Fri, 20 Dec 2024 08:56:52",
-         "title" : "Freestyle Chess Grand Slam Tour 2025 kicks off - with Gukesh, Carlsen and Anand"
       },
       {
          "description" : " The youngest ever undisputed world champion, 18, had a rapturous reception on his return to Chennai, but his new status will be tested at Wijk aan Zee in January Gukesh Dommaraju, 18, had a rapturous reception from Indian fans when he flew back to Chennai after deposing China's Ding Liren for the world title 7.5-6.5 by winning their 14th and final game in Singapore. It was <a href=\"https://www.theguardian.com/sport/video/2024/dec/17/world-chess-champion-gukesh-dommaraju-mobbed-at-chennai-airport-video\">an occasion</a> which, in Indian terms, could only have been surpassed in intensity by a winning IPL cricket team, while its English equivalent would be a home city football celebration for P",
@@ -96,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-a-lot-left-to-achieve-attitude-is-absolutely-terrific-says-anand/articleshow/116487349.cms",
          "pubDate" : "Fri, 20 Dec 2024 02:53:16",
          "title" : "Gukesh's 'a lot left to achieve' attitude is absolutely terrific, says Anand"
+      },
+      {
+         "description" : "2024 FIDE Rapid &amp; Blitz World Championship PreviewEditor's note: This story first appeared in the December 2024 issue of Chess Life magazine, and is re-published here with updates including information about the participants and the FIDE Circuit standings. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 World Rapid and Blitz Championship is coming to the Big Apple. Here's what you need to know.Where is the tournament?It's a big-mone",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-welcome-new-york",
+         "pubDate" : "Fri, 20 Dec 2024 00:00:00",
+         "title" : "Inside Story: Welcome to New York"
       },
       {
          "description" : "",
@@ -752,14 +744,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/gukesh-wins-2024-fide-world-chess-championship-stunning-last-round-victory",
          "pubDate" : "Thu, 12 Dec 2024 00:00:00",
          "title" : "Gukesh Wins 2024 FIDE World Chess Championship with Stunning Last-Round Victory"
-      },
-      {
-         "description" : "Less than two weeks ago, we reported on IM Mark Heimann earning his second GM norm at the U.S. Masters in Charlotte. And yet, less than a week after the conclusion of the Masters, Heimann earned his final GM norm and enough FIDE rating points to cross the 2500 threshold, making him eligible for the GM title and the next FIDE Congress. View this post on Instagram A post shared by Mark Heimann (@lastgoodcaesar) The Saint Louis Masters - held from December 3 through 7 at the Royal Sonesta Chase Park Plaza Hotel in St. Louis, MIssouri - featured 59 strong players competing for FIDE Circuit points and a share of a $100,000 prize fund. GMs Fabiano Caruana and Alexander Donchenko (Germany) tied for",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/another-one-mark-heimann-earns-gm-title-days-after-second-norm",
-         "pubDate" : "Thu, 12 Dec 2024 00:00:00",
-         "title" : "Another One! Mark Heimann Earns GM Title Days After Second Norm"
       },
       {
          "description" : "A well-prepared Gukesh had all the advantage in game 13 but one slight misjudgment meant Ding defended his way back for a draw.",
