@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the certificates Sl No Candidate Name 1 Anand J S 2 Vipin Vijayan 3 Vani Indrali 4 Tejesh oleti 5 Kranthi G 6",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-and-exam-in-rajahmundry-on-30-november-01-december-2024/",
+         "pubDate" : "Sat, 21 Dec 2024 07:40:40",
+         "title" : "Certificate of SNA seminar and exam in Rajahmundry on 30 November & 01 December 2024."
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116522267.cms\" />D Gukesh, the 18-year-old world chess champion, embraces the challenges of his title with a focus on enjoying the game. Exempted from the Candidates Tournament, he reflects on the mental resilience required during his World Championship victory against Ding Liren.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-survives-a-serious-scare-in-world-championship-game-13",
          "pubDate" : "Wed, 11 Dec 2024 17:39:00",
          "title" : "Ding survives a serious scare in World Championship Game 13 - 13"
-      },
-      {
-         "description" : "Andha Chess Association, on behalf of All Chess Federation organised a Senior National Arbiter seminar, followed by an examination at La Hospin hotel, Rajamundry on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-and-exam-in-rajamundry-on-30th-november-and-1st-december-2024/",
-         "pubDate" : "Wed, 11 Dec 2024 16:36:57",
-         "title" : "Final Report of SNA Seminar and Exam in Rajamundry on 30th November and 1st December 2024"
       },
       {
          "description" : "",
