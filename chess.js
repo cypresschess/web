@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3357",
+         "pubDate" : "Sun, 22 Dec 2024 15:04:26",
+         "title" : "2024 Turkish Championship: Vahap Şanal claims third title"
+      },
+      {
+         "description" : " The Champions Chess Tour Finals took place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There was then a final chance in the Survival Stage for players placed 3rd-6th in the Round Robin. Ian Nepomniachtchi beat Denis Lazavik in the Winners final to take one place. MVL beat Vincent Keymer and then Lazavik who had a second chance, in the Losers final. This meant t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
+         "pubDate" : "Sun, 22 Dec 2024 14:18:00",
+         "title" : "Champions Chess Tour Finals 2024 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116565938.cms\" />Grzegorz Gajewski, D Gukesh's coach, compared the new world chess champion to Magnus Carlsen, highlighting Gukesh's analytical approach over Carlsen's intuition. Gajewski also likened Gukesh to a young Fabiano Caruana, praising his patience and precision. Gukesh was recently felicitated by the Tamil Nadu government for becoming the youngest World Chess Champion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
          "pubDate" : "Sat, 21 Dec 2024 21:45:00",
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : " The Champions Chess Tour Finals took place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There was then a final chance in the Survival Stage for players placed 3rd-6th in the Round Robin. Ian Nepomniachtchi beat Denis Lazavik in the Winners final to take one place. MVL beat Vincent Keymer and then Lazavik who had a second chance, in the Losers final. This meant t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
-         "pubDate" : "Sat, 21 Dec 2024 20:35:00",
-         "title" : "Champions Chess Tour Finals 2024 - Games and Results"
       },
       {
          "description" : "GM Oleksandr Bortnyk became the third player to win 10 Bullet Brawl&#38;nbsp;titles and the $400 first prize on Saturday after denying Turkish prodigy GM Ediz Gurel, courtesy of a dramatic flagging against GM Christopher Yoo in his final game. Indon...",
@@ -90,12 +98,12 @@ news_feed (
          "title" : "Now, I can enjoy and play more freely: D Gukesh"
       },
       {
-         "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year old from Benue State bested a field of veterans and titled players to become the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year-old from Benue State bested a field of veterans and titled players to become the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess continue The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year-old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/",
          "pubDate" : "Fri, 20 Dec 2024 21:09:00",
-         "title" : "17-year old Nyuima Tersee is new Nigerian Champion!"
+         "title" : "17-year-old Nyuima Tersee is new Nigerian Champion!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116513227.cms\" />Indian chess prodigy Arjun Erigaisi urgently appeals for his passport's return after visa processing delays. He needs it to travel to New York City for the World Rapid & Blitz Championships, starting December 26th. The prestigious tournament boasts a $1.5 million prize pool and a revamped format, attracting top players like Magnus Carlsen and Hikaru Nakamura.",
@@ -1224,22 +1232,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/laskers-future-community.html",
          "pubDate" : "Sun, 01 Dec 2024 16:31:00",
          "title" : "Lasker's Future Community"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3330",
-         "pubDate" : "Sun, 01 Dec 2024 15:06:28",
-         "title" : "World Championship Game 6: Gukesh's accurate defense secures another draw"
-      },
-      {
-         "description" : " Ding Liren tried a side-line of the London System that seemed to catch Gukesh somewhat off-guard. Ding had himself faced this last year against Magnus Carlsen in the Tata Steel tournament. Gukesh was not in any trouble but did use plenty of time whilst Ding was clearly in preparation. That prep probably ran out about move 20 and pretty soon Ding was seeking a draw. Gukesh saw no reason to end the game and turning down a draw offer such as this has psychological value. If the computers still favoured Ding it was not really very likely that he would cause problems in reality, 34.Qg5 with the idea of h4 was the way to keep an edge, after 34.Kc2 the position was at least equal for black and per",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-draw-game-6-of-the-world-chess-championship",
-         "pubDate" : "Sun, 1 Dec 2024 14:31:00",
-         "title" : "Ding and Gukesh draw game 6 of the World Chess Championship - 6"
       }
    ]
 }
