@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116565938.cms\" />Grzegorz Gajewski, D Gukesh's coach, compared the new world chess champion to Magnus Carlsen, highlighting Gukesh's analytical approach over Carlsen's intuition. Gajewski also likened Gukesh to a young Fabiano Caruana, praising his patience and precision. Gukesh was recently felicitated by the Tamil Nadu government for becoming the youngest World Chess Champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-will-never-be-like-magnus-carlsen-coach-gajewski-on-new-world-chess-champion/articleshow/116565938.cms",
+         "pubDate" : "Sun, 22 Dec 2024 11:54:23",
+         "title" : "'Gukesh will never be like Magnus Carlsen': Coach Gajewski"
+      },
+      {
          "description" : "Magnus Carlsen has once again proven his supremacy in the world of chess, claiming his fourth consecutive Champions Chess Tour title with a commanding 4-1 victory over Ian Nepomniachtchi in the final. Dominating the series since its inception, Carlsen's brilliance shone through in critical moments. With the World Rapid and Blitz Championships just around the corner, the Norwegian superstar shows no signs of slowing down as he continues to redefine excellence in the game. | Photo: Maria Emelianova / chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-2024-chess-world-championship-13-conclusions",
          "pubDate" : "Sat, 14 Dec 2024 03:14:00",
          "title" : "Gukesh Wins 2024 FIDE World Championship - 13 Conclusions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116305520.cms\" />Garry Kasparov congratulated D Gukesh on becoming the youngest world chess champion, marking a phenomenal year for India. Kasparov acknowledged Viswanathan Anand's influence, stating that the \"era of Vishy's children\" has arrived. He praised Gukesh's performance and the high level of play in the championship match against Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-hails-d-gukesh-defends-ding-blunder/articleshow/116305520.cms",
-         "pubDate" : "Sat, 14 Dec 2024 02:45:56",
-         "title" : "Garry Kasparov hails D Gukesh, defends Ding blunder"
       },
       {
          "description" : "Editor's note: This article will be updated with more photos, and a selection of interviews can be found here.Return to UtahThe 2024 U.S. Senior Women's Championship began Friday night, December 13, in Murray, Utah. For five of us participating in this year's championship, Utah reminds us of past U.S. Women's Championships. WGM Anjelina Belakovskaia won the 1999 U.S. Women's Championship in Salt Lake City, a tournament where WIM Olga Sagalchik finished tied for third and fourth and WIM Beatriz Marinello tied for 6th through 8th places. Ten players participated. Shernaz Kennedy and I (Alexey Root) are also on a return chess visit to Utah. In 1981, Kennedy and I played in the U.S. Women's Cham",
@@ -1240,14 +1240,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-draw-game-6-of-the-world-chess-championship",
          "pubDate" : "Sun, 1 Dec 2024 14:31:00",
          "title" : "Ding and Gukesh draw game 6 of the World Chess Championship - 6"
-      },
-      {
-         "description" : "A remote engine does not run on your computer but in a data center. Here you'll learn why the new remote engine is a smart addition to our proven cloud engines. How to run a remote engine without spending ducats? Why did our Helsinki machines give us quite a scare before the autumn discount day? And how did Fritz wreck a server rack?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remote-engine-in-chessbase-18-power-everywhere",
-         "pubDate" : "Sun, 01 Dec 2024 09:30:00",
-         "title" : "Remote Engine in ChessBase 18: Power Everywhere"
       }
    ]
 }
