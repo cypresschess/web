@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "CM Robert Mcligeyo and WFM Sasha Mongeli shone brightly at the 2024 Kenya National Chess Championship, held in Nairobi. Mcligeyo, aged 18, clinched the Open title with eight points, earning a brand-new Nissan Note, while dethroning defending champion Joseph Methu in a stellar performance. In the women's section, Mongeli defended her title, triumphing after a tiebreak with a score of 7/9. The event, organised by Chess Kenya, showcased remarkable talent and continues to inspire the nation's youth. | Photo: Chess Kenya",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kenyan-championships-2024",
+         "pubDate" : "Sat, 21 Dec 2024 23:00:00",
+         "title" : "Kenyan Championships: Mclingeyo and Mongeli emerge victorious"
+      },
+      {
+         "description" : " The 14th London Chess Classic sponsored by XTX Markets took place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. On the final day Alireza Firouzja won the Superblitz final by a point from MVL in what was a very strong f",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
+         "pubDate" : "Sat, 21 Dec 2024 21:45:00",
+         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
+      },
+      {
+         "description" : " The Champions Chess Tour Finals took place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There was then a final chance in the Survival Stage for players placed 3rd-6th in the Round Robin. Ian Nepomniachtchi beat Denis Lazavik in the Winners final to take one place. MVL beat Vincent Keymer and then Lazavik who had a second chance, in the Losers final. This meant t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
+         "pubDate" : "Sat, 21 Dec 2024 20:35:00",
+         "title" : "Champions Chess Tour Finals 2024 - Games and Results"
+      },
+      {
          "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3351",
          "pubDate" : "Tue, 17 Dec 2024 21:11:59",
          "title" : "Young talents shine at World Youth Rapid & Blitz Championship in Slovenia"
-      },
-      {
-         "description" : " The Champions Chess Tour Finals take place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There was then a final chance in the Survival Stage for players placed 3rd-6th in the Round Robin. Ian Nepomniachtchi beat Denis Lazavik in the Winners final to take one place. MVL beat Vincent Keymer and then Lazavik who had a second chance, in the Losers final. This meant t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
-         "pubDate" : "Tue, 17 Dec 2024 18:11:00",
-         "title" : "Champions Chess Tour Finals 2024 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116407901.cms\" />Tamil Nadu Chief Minister M.K. Stalin felicitated 18-year-old D. Gukesh, the world's youngest chess champion, with ₹5 crore and announced the establishment of a chess academy. Stalin praised Gukesh's achievement, calling him an inspiration for aspiring youth. Gukesh expressed gratitude for the government's support and acknowledged Viswanathan Anand as his role model.",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Champions Chess Tour $500,000 Finals Kicks Off On December 17 In Oslo, Norway"
       },
       {
-         "description" : "We&#39;re excited to announce the 2025 Chess.com Chess Improvement Challenge! This is your chance to join a community of like-minded Chess.com members and coaches, reach your chess improvement goals, and win prizes! Sign up for the challenge and set...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2025",
-         "pubDate" : "Fri, 13 Dec 2024 12:00:00",
-         "title" : "Level Up Your Chess And Win Prizes In The 2025 Chess Improvement Challenge"
-      },
-      {
          "description" : "Sub Junior 1 Ilamparthi A R2 Vaz Ethan3 Sherla Prathamesh4 Madhvendra Pratap Sharma5 Jaiveer Mahendru6 Shashish Subbiah7 Advik Amit Agrawal8 Reyan Md.9 Aakash G10 Bhoir",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -696,6 +704,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
          "pubDate" : "Fri, 13 Dec 2024 03:10:53",
          "title" : "Gukesh shocks Ding in finale, wins title!"
+      },
+      {
+         "description" : "We&#39;re excited to announce the 2025 Chess.com Chess Improvement Challenge! This is your chance to join a community of like-minded Chess.com members and coaches, reach your chess improvement goals, and win prizes! Sign up for the challenge and set...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2025",
+         "pubDate" : "Thu, 12 Dec 2024 16:04:00",
+         "title" : "Level Up Your Chess And Win Prizes In The 2025 Chess Improvement Challenge"
       },
       {
          "description" : "Indian chess prodigy Grandmaster D. Gukesh has achieved a monumental milestone by defeating reigning champion Ding Liren in the 14th and decisive game of the",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42833151/onus-d-gukesh-white-skills-ding-liren-eagerness-draw-game-10-world-chess-championship-2024?device=featurephone",
          "pubDate" : "Sat, 7 Dec 2024 10:50:26",
          "title" : "Onus on Gukesh's white skills after Ding's eagerness to draw in game 10 of WCC"
-      },
-      {
-         "description" : " The 14th London Chess Classic sponsored by XTX Markets takes place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
-         "pubDate" : "Sat, 7 Dec 2024 08:44:00",
-         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       },
       {
          "description" : "Game 10 was the quickest draw of the World Championship, which is now tied at 5 points each after seven consecutive draws.",
