@@ -34,6 +34,14 @@ news_feed (
          "title" : "Champions Chess Tour Finals - Live!"
       },
       {
+         "description" : "GM Oleksandr Bortnyk became the third player to win 10 Bullet Brawl&#38;nbsp;titles and the $400 first prize on Saturday after denying Turkish prodigy GM Ediz Gurel, courtesy of a dramatic flagging against GM Christopher Yoo in his final game. Indon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-december-21-2024",
+         "pubDate" : "Sat, 21 Dec 2024 16:42:00",
+         "title" : "Bortnyk Snatches Victory From Turkish Prodigy After Dramatic Flagging"
+      },
+      {
          "description" : "Why You're Stuck in Chess-and How to Break Through in 2025: Part 2 Understanding the &#8220;What&#8221; in Chess Improvement In Part 1 of this series, we introduced the Chess Improvement Equation: What * How * Time = Improvement Score This simple formula is your blueprint for understanding why you're stuck and how to fix it. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-13",
          "pubDate" : "Wed, 11 Dec 2024 10:30:00",
          "title" : "Ding Survives After Gukesh Piles On Pressure In Game 13"
-      },
-      {
-         "description" : "A week after both&#38;nbsp;Titled Tuesday tournaments were decided by tiebreaks, this week both tournaments were full-point triumphs for the victors. Those winners were GM Volodymyr Onyshchuk in the first event of the day and GM Jeffery Xiong in the s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/onyshchuk-xiong-win-titled-tuesday-december-10-2024",
-         "pubDate" : "Wed, 11 Dec 2024 08:04:40",
-         "title" : "Runaway Winners And Near Perfection In Titled Tuesday"
       },
       {
          "description" : " British champion completed a remarkable treble a year after the death of his wife Sue Maroroa Jones Gawain Jones, the British and English champion, who turns 37 on Wednesday, completed a remarkable year of recovery from tragedy when he won the &pound;25,000 first prize in the XTX Markets London Classic, played at the Emirates Stadium. Last year Jones's wife, Sue Maroroa Jones, died following complications after the birth of their second child, and he withdrew from competitive play for several months. <a href=\"https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy\">Continue reading...</a>",
