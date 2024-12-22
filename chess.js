@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The chess tournament scene has exploded in recent years. And in addition to many exciting attacking games, there are also many amazing and instructive endgames. Karsten M&uuml;ller is one of the world's greatest endgame experts. The sensitive radar of the grandmaster from Hamburg hardly misses an instructive endgame that has been played on this planet. At the end of the year, M&uuml;ller shared with us the best, most interesting and most instructive endgames of the year.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgames-of-the-year-2024",
+         "pubDate" : "Sun, 22 Dec 2024 17:30:00",
+         "title" : "The best endgames of the year"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-will-never-be-like-magnus-carlsen-coach-gajewski-on-new-world-chess-champion/articleshow/116565938.cms",
          "pubDate" : "Sun, 22 Dec 2024 11:54:23",
          "title" : "'Gukesh will never be like Magnus Carlsen': Coach Gajewski"
-      },
-      {
-         "description" : "Magnus Carlsen has once again proven his supremacy in the world of chess, claiming his fourth consecutive Champions Chess Tour title with a commanding 4-1 victory over Ian Nepomniachtchi in the final. Dominating the series since its inception, Carlsen's brilliance shone through in critical moments. With the World Rapid and Blitz Championships just around the corner, the Norwegian superstar shows no signs of slowing down as he continues to redefine excellence in the game. | Photo: Maria Emelianova / chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-d5",
-         "pubDate" : "Sun, 22 Dec 2024 07:00:00",
-         "title" : "Carlsen wins Champions Chess Tour title, again"
       },
       {
          "description" : " The 14th London Chess Classic sponsored by XTX Markets took place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. On the final day Alireza Firouzja won the Superblitz final by a point from MVL in what was a very strong f",
@@ -1224,14 +1224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3331",
          "pubDate" : "Sun, 01 Dec 2024 21:31:30",
          "title" : "Arjun Erigaisi crosses 2800 in December 2024 rating list"
-      },
-      {
-         "description" : "We don't often see books for the monthly post in the long-running series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010). The visuals are seldom attractive and the narrative is rarely compelling. <P> Although I had plenty of more attractive choices on this month's short list, I have a soft spot for the second World Champion. Titled, '1940 SIGNED by Emanuel LASKER INSCRIBED to Lotte JACOBI Society Chess Book RARE', the Lasker book pictured below sold for $850.00, 'Buy It Now'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol01.jpg\" WIDTH=400 HEIGHT=300> <P> The description was written ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/laskers-future-community.html",
-         "pubDate" : "Sun, 01 Dec 2024 16:31:00",
-         "title" : "Lasker's Future Community"
       }
    ]
 }
