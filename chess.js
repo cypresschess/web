@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "CM Robert Mcligeyo and WFM Sasha Mongeli shone brightly at the 2024 Kenya National Chess Championship, held in Nairobi. Mcligeyo, aged 18, clinched the Open title with eight points, earning a brand-new Nissan Note, while dethroning defending champion Joseph Methu in a stellar performance. In the women's section, Mongeli defended her title, triumphing after a tiebreak with a score of 7/9. The event, organised by Chess Kenya, showcased remarkable talent and continues to inspire the nation's youth. | Photo: Chess Kenya",
+         "description" : "Magnus Carlsen has once again proven his supremacy in the world of chess, claiming his fourth consecutive Champions Chess Tour title with a commanding 4-1 victory over Ian Nepomniachtchi in the final. Dominating the series since its inception, Carlsen's brilliance shone through in critical moments. With the World Rapid and Blitz Championships just around the corner, the Norwegian superstar shows no signs of slowing down as he continues to redefine excellence in the game. | Photo: Maria Emelianova / chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kenyan-championships-2024",
-         "pubDate" : "Sat, 21 Dec 2024 23:00:00",
-         "title" : "Kenyan Championships: Mclingeyo and Mongeli emerge victorious"
+         "link" : "https://en.chessbase.com/post/cct-finals-2024-d5",
+         "pubDate" : "Sun, 22 Dec 2024 07:00:00",
+         "title" : "Carlsen wins Champions Chess Tour title, again"
       },
       {
          "description" : " The 14th London Chess Classic sponsored by XTX Markets took place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. On the final day Alireza Firouzja won the Superblitz final by a point from MVL in what was a very strong f",
@@ -24,14 +24,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
          "pubDate" : "Sat, 21 Dec 2024 20:35:00",
          "title" : "Champions Chess Tour Finals 2024 - Games and Results"
-      },
-      {
-         "description" : "The 2024 Champions Chess Tour Finals are set to crown the year's champion at Screen Studios in Oslo, Norway, from December 17 to 21. Featuring eight elite players, including Magnus Carlsen, Alireza Firouzja and Ian Nepomniachtchi, the tournament promises high-stakes battles for a $500,000 prize fund. | Follow the action live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-live",
-         "pubDate" : "Sat, 21 Dec 2024 17:45:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "GM Oleksandr Bortnyk became the third player to win 10 Bullet Brawl&#38;nbsp;titles and the $400 first prize on Saturday after denying Turkish prodigy GM Ediz Gurel, courtesy of a dramatic flagging against GM Christopher Yoo in his final game. Indon...",
@@ -56,14 +48,6 @@ news_feed (
          "link" : "https://www.thearticle.com/gukesh-a-worthy-world-champion/",
          "pubDate" : "Sat, 21 Dec 2024 13:24:14",
          "title" : "Gukesh: a worthy world champion"
-      },
-      {
-         "description" : "Daniil Yuffa and Sabrina Vega triumphed in the 2024 Spanish Chess Championship, held in Marbella from December 11-19. Yuffa claimed his maiden national title with a stellar performance, securing decisive victories in critical rounds and holding off top-seeded GM David Ant&oacute;n in the final game. In the women's rankings, Vega clinched her ninth championship title with 6&frac12;/9, continuing her legacy. | Photo: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spanish-championship-2024-report",
-         "pubDate" : "Sat, 21 Dec 2024 12:00:00",
-         "title" : "Spanish Championship: Daniil Yuffa and Sabrina Vega claim national titles"
       },
       {
          "description" : "GM Magnus Carlsen defeated GM Ian Nepomniachtchi 4-1 to win the 2024 Champions Chess Tour Finals and his fifth consecutive Champions Chess Tour title. Again earning the $200,000 first prize, Carlsen has won every edition of the Champions Chess Tou...",
@@ -96,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/now-i-can-enjoy-and-play-more-freely-d-gukesh/articleshow/116522267.cms",
          "pubDate" : "Sat, 21 Dec 2024 02:24:43",
          "title" : "Now, I can enjoy and play more freely: D Gukesh"
-      },
-      {
-         "description" : "The stage is set for a thrilling final encounter at the Champions Chess Tour Finals in Oslo, as Magnus Carlsen and Ian Nepomniachtchi stormed into the title match with commanding semifinal wins. Carlsen defeated Maxime Vachier-Lagrave 3&frac12;-1&frac12;, showcasing his trademark composure in critical moments. Nepomniachtchi delivered an even more dominant performance, crushing Alireza Firouzja with two games to spare. The two rivals, who contested the 2021 World Chess Championship, are set to clash again on Saturday in what promises to be a hard-fought battle for the title. | Photo: Maria Emelianova / chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2024-d4",
-         "pubDate" : "Sat, 21 Dec 2024 01:30:00",
-         "title" : "CCT Finals: Carlsen and Nepo grab convincing victories"
       },
       {
          "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year old from Benue State bested a field of veterans and titled players to become the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1272,14 +1248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remote-engine-in-chessbase-18-power-everywhere",
          "pubDate" : "Sun, 01 Dec 2024 09:30:00",
          "title" : "Remote Engine in ChessBase 18: Power Everywhere"
-      },
-      {
-         "description" : "In the Spotlight article of the ECU magazine we were introduced to the women but also men working behind the scene, doing a fantastic work to support women in chess. They play a key role as players, arbiters, coaches, volunteers, says Antonina Gora from Ireland.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/females-and-males-working-behind-the-scene",
-         "pubDate" : "Sun, 01 Dec 2024 08:00:00",
-         "title" : "Females and Males Working Behind The Scene"
       }
    ]
 }
