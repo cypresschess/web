@@ -1216,14 +1216,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/world-class-asian-players.html",
          "pubDate" : "Mon, 02 Dec 2024 16:47:00",
          "title" : "World Class Asian Players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3331",
-         "pubDate" : "Sun, 01 Dec 2024 21:31:30",
-         "title" : "Arjun Erigaisi crosses 2800 in December 2024 rating list"
       }
    ]
 }
