@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 11th Sunway Sitges Chess Festival wrapped up in style, delivering a lively atmosphere in the picturesque town near Barcelona. Savva Vetokhin, aged 15, stole the show, winning the title after beating Ido Gorshtein in a blitz playoff. The event saw fierce competition, with Chinese GM Li Di taking third place and Iranian WGM Mobina Alinasab finishing as the top-scoring woman. Living legend Vasyl Ivanchuk added flair, ending his campaign with a remarkable final-round win. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2024-final",
+         "pubDate" : "Mon, 23 Dec 2024 17:20:00",
+         "title" : "Savva Vetokhin wins Sunway Sitges Open, beats Ido Gorshtein in tiebreaks"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116605887.cms\" />Indian Grandmaster Arjun Erigaisi finally received his US visa to participate in the World Rapid and Blitz Championships starting December 26 in New York. He had earlier sought help from various authorities, including the US Embassy and Indian officials, to expedite the process. Erigaisi expressed his gratitude and eagerness to compete in the tournament featuring top players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-york-here-i-come-arjun-erigaisi-clears-visa-hurdle-for-world-rapid-and-blitz-championships-in-the-us/articleshow/116605887.cms",
+         "pubDate" : "Mon, 23 Dec 2024 15:40:55",
+         "title" : "'New York here I come': Arjun Erigaisi clears visa hurdle"
+      },
+      {
+         "description" : "The 2025 European Senior Team Chess Championship will be held from 4th April 2025 (day of arrival) to 14th April 2025 (day of departure) in Swidnica, Poland. The event will played in two age categories: 50+ and 65+, open and women's sections separately. Each National Federation of the European Chess Union has the right to register an unlimited number of teams in both categories: Open and Women 50+ &#38; 65+. Each team should consist of four (4) players and optionally []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2025-official-regulations/",
+         "pubDate" : "Mon, 23 Dec 2024 12:45:09",
+         "title" : "European Senior Team Chess Championship 2025 - Official regulations"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,12 +66,36 @@ news_feed (
          "title" : "Chess to be included at the Esports World Cup 2025"
       },
       {
+         "description" : "2024 has been an eventful year for chess. We saw quite some movement in the FIDE&#39;s top 10 list, with a new generation of young talents cementing themselves among the chess elite. We all cheered on as legendary players put on some thrilling perform...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-awards-vote",
+         "pubDate" : "Mon, 23 Dec 2024 08:00:00",
+         "title" : "Celebrate 2024 And Vote For This Year's Chess.com Awards"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116590888.cms\" />Indian chess star Tania Sachdev publicly expressed her disappointment over the Delhi government's lack of recognition for her chess achievements. Despite winning medals at the Chess Olympiad and holding national and Commonwealth titles, Sachdev claims lack of acknowledgment from the state government.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-star-tania-sachdev-vents-frustration-over-alleged-lack-of-recognition-from-delhi-government/articleshow/116590888.cms",
          "pubDate" : "Mon, 23 Dec 2024 06:58:10",
          "title" : "Tania Sachdev vents frustration over alleged lack of recognition from Delhi govt"
+      },
+      {
+         "description" : "GM Savva Vetokhin scored an impressive victory in the 2024 Sunway Sitges Chess Festival&#38;nbsp;after cruising through the tournament undefeated and winning 2-0 in the blitz playoff against 22-year-old GM Ido Gorshtein. The teenager&#39;s first victory i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/15-year-old-savva-vetokhin-wins-sitges-chess-festival",
+         "pubDate" : "Mon, 23 Dec 2024 05:08:54",
+         "title" : "15-Year-Old Savva Vetokhin Wins in Sitges, Celebrated With Fireworks"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3358",
+         "pubDate" : "Sun, 22 Dec 2024 23:02:11",
+         "title" : "FIDE World Rapid and Blitz in New York preview: An epic ending to 2024"
       },
       {
          "description" : "The chess tournament scene has exploded in recent years. And in addition to many exciting attacking games, there are also many amazing and instructive endgames. Karsten M&uuml;ller is one of the world's greatest endgame experts. The sensitive radar of the grandmaster from Hamburg hardly misses an instructive endgame that has been played on this planet. At the end of the year, M&uuml;ller shared with us the best, most interesting and most instructive endgames of the year.",
@@ -562,14 +610,6 @@ news_feed (
          "title" : "D Gukesh: World champion shares life lessons by his mother"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116331661.cms\" />Music star Diljit Dosanjh dedicated his Chandigarh concert to 18-year-old chess prodigy D Gukesh, who recently became the youngest-ever world chess champion. Gukesh defeated Ding Liren in a thrilling final match in Singapore, securing the title and breaking Garry Kasparov's 39-year-old record. The Chennai native achieved his decade-long dream, earning $1.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dedicated-to-d-gukesh-diljit-dosanjh-hails-youngest-ever-world-chess-champion-at-chandigarh-concert-watch/articleshow/116331661.cms",
-         "pubDate" : "Sun, 15 Dec 2024 04:55:23",
-         "title" : "Watch: Diljit hails D Gukesh at Chandigarh concert"
-      },
-      {
          "description" : "After two days and three rounds, WFM Natalya Tsodikova leads the 2024 U.S. Senior Women's Championship with a perfect score. In round 1, as White, Tsodikova defeated Brenda Nardi. In round 2, as Black, she defeated the 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia. In round 3, as Black, she won against Jayashree Sekar. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Defending champion Anjelina Belakovskaia (L) lost her second-round game against Natalia Tsodikova. Tsodikova now leads the tournament entering round 4 (Photo by Alexey Root)<br> <br> <br> <br> Meet the Queen of UpsetsA newcomer to the U.S. Senior Women's Championship, Jayashre",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -818,14 +858,6 @@ news_feed (
          "title" : "The London Chess Classic Is Back And More British Than Ever"
       },
       {
-         "description" : "Chess is not the only sport forced to deal with cheating. Now the world of backgammon is rocked by its own scandal. The U.S. Backgammon Federation (USBGF) announced their decision last week, following an investigation into cheating during the 20...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/backgammon-world-rocked-by-cheating-scandal",
-         "pubDate" : "Thu, 12 Dec 2024 05:12:00",
-         "title" : "Backgammon Faces Cheating Scandal As U.S. Player Is Banned"
-      },
-      {
          "description" : " 2024 World Chess Championship: Game 13Tuesday, 11 December 2024 A heavyweight battle ends in a drawtension high on even of final game The Ding-Gukesh draw today held the chess world in suspense. FIDE President Arkady Dvorkovich made the ceremonial move and saw that the future of chess is in good hands. Ding Liren and Gukesh The post <a href=\"https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/\">Ding-Gukesh draw in thrilling battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -872,14 +904,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42902007/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-13?device=featurephone",
          "pubDate" : "Wed, 11 Dec 2024 10:38:28",
          "title" : "Ding holds Gukesh at bay to keep scores tied after penultimate game of World Championship"
-      },
-      {
-         "description" : "World Champion Ding Liren was on the ropes in game 13, but down to four minutes for 10 moves he spotted the only defense to thwart GM Gukesh Dommaraju and now goes into&#38;nbsp;the final game of the 2024 FIDE World Championship level at 6.5-6.5. Guke...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-13",
-         "pubDate" : "Wed, 11 Dec 2024 10:30:00",
-         "title" : "Ding Survives After Gukesh Piles On Pressure In Game 13"
       },
       {
          "description" : " British champion completed a remarkable treble a year after the death of his wife Sue Maroroa Jones Gawain Jones, the British and English champion, who turns 37 on Wednesday, completed a remarkable year of recovery from tragedy when he won the &pound;25,000 first prize in the XTX Markets London Classic, played at the Emirates Stadium. Last year Jones's wife, Sue Maroroa Jones, died following complications after the birth of their second child, and he withdrew from competitive play for several months. <a href=\"https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy\">Continue reading...</a>",
