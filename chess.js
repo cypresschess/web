@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116590888.cms\" />Indian chess star Tania Sachdev publicly expressed her disappointment over the Delhi government's lack of recognition for her chess achievements. Despite winning medals at the Chess Olympiad and holding national and Commonwealth titles, Sachdev claims lack of acknowledgment from the state government.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-star-tania-sachdev-vents-frustration-over-alleged-lack-of-recognition-from-delhi-government/articleshow/116590888.cms",
+         "pubDate" : "Mon, 23 Dec 2024 06:58:10",
+         "title" : "Tania Sachdev vents frustration over alleged lack of recognition from Delhi govt"
+      },
+      {
          "description" : "The chess tournament scene has exploded in recent years. And in addition to many exciting attacking games, there are also many amazing and instructive endgames. Karsten M&uuml;ller is one of the world's greatest endgame experts. The sensitive radar of the grandmaster from Hamburg hardly misses an instructive endgame that has been played on this planet. At the end of the year, M&uuml;ller shared with us the best, most interesting and most instructive endgames of the year.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sam-sevian-wins-bullet-brawl-december-14-2024",
          "pubDate" : "Sat, 14 Dec 2024 17:24:00",
          "title" : "Sevian Wins 1st Bullet Brawl Title Ahead Of FIDE World Rapid & Blitz Championships"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116322346.cms\" />Elon Musk congratulated Gukesh Dommaraju, who became the youngest World Chess Champion after defeating Ding Liren. Gukesh secured victory in the final game, culminating a tense championship match. The win, which Gukesh called the \"best moment of his life,\" followed his Candidates Tournament victory in April. Ding Liren acknowledged his defeat gracefully.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/elon-musk-congratulates-new-world-chess-champion-d-gukesh-on-historic-win/articleshow/116322346.cms",
-         "pubDate" : "Sat, 14 Dec 2024 16:06:17",
-         "title" : "Elon Musk congratulates new world chess champion D Gukesh on historic win"
       },
       {
          "description" : "Improving at chess can feel like running on a treadmill-you're working hard, but getting nowhere. You study openings, grind tactics, and watch endless YouTube videos, yet your progress is painfully slow. Two years ago, I released Next Level Training, a course designed to help players simplify their chess improvement and make real progress. Since then, []",
