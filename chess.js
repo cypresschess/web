@@ -90,6 +90,14 @@ news_feed (
          "title" : "15-Year-Old Savva Vetokhin Wins in Sitges, Celebrated With Fireworks"
       },
       {
+         "description" : "A host of junior players will be celebrating their new FIDE titles over the holidays, as the North American Youth Championships concluded earlier today in Dulles, Virginia. Organized by Capital Area Chess from December 18 through 23 - with the approval of US Chess, Confederation of Chess for America (CCA), and FIDE - the tournament was open to chess players with a FIDE flag from Mexico, USA, or Canada born on or after January 1, 2006.The tournament consisted of 12 sections: Under-18 through Under-8 Open and Girls. In addition to medals, rating points, and bragging rights, players were also competing for direct titles and norms as specified in the FIDE regulations.In total, 368 players compet",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-2024-north-american-youth-championships-produce-26-direct-titles-two-norms",
+         "pubDate" : "Mon, 23 Dec 2024 00:00:00",
+         "title" : "Flash Report: 2024 North American Youth Championships Produce 26 Direct Titles, Two Norms"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-2024-chess-world-championship-13-conclusions",
          "pubDate" : "Sat, 14 Dec 2024 03:14:00",
          "title" : "Gukesh Wins 2024 FIDE World Championship - 13 Conclusions"
-      },
-      {
-         "description" : "Editor's note: This article will be updated with more photos, and a selection of interviews can be found here.Return to UtahThe 2024 U.S. Senior Women's Championship began Friday night, December 13, in Murray, Utah. For five of us participating in this year's championship, Utah reminds us of past U.S. Women's Championships. WGM Anjelina Belakovskaia won the 1999 U.S. Women's Championship in Salt Lake City, a tournament where WIM Olga Sagalchik finished tied for third and fourth and WIM Beatriz Marinello tied for 6th through 8th places. Ten players participated. Shernaz Kennedy and I (Alexey Root) are also on a return chess visit to Utah. In 1981, Kennedy and I played in the U.S. Women's Cham",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-us-senior-womens-championship-begins-utah",
-         "pubDate" : "Sat, 14 Dec 2024 00:00:00",
-         "title" : "2024 U.S. Senior Women's Championship Begins in Utah"
       },
       {
          "description" : "",
@@ -1272,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3333",
          "pubDate" : "Tue, 03 Dec 2024 10:50:13",
          "title" : "FIDE Circuit 2024: Erigaisi still in the lead, Caruana closes in"
-      },
-      {
-         "description" : "The previous post in the weekly AI comics series investigated the burning question <A HREF=\"https://chessforallages.blogspot.com/2024/11/why-are-comics-rarely-funny.html\">Why Are 'Comics' Rarely Funny?</A> (November 2024). This post explores the World Championship match currently being played in Singapore, last seen on this blog in <A HREF=\"https://chessforallages.blogspot.com/2024/11/world-championship-yahoos-2024-12.html\">World Championship Yahoos 2024</A> (November 2024). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol02.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Ding Liren and Gukesh play chess in Singapore.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/world-class-asian-players.html",
-         "pubDate" : "Mon, 02 Dec 2024 16:47:00",
-         "title" : "World Class Asian Players"
       }
    ]
 }
