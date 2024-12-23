@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-12-22","20","<a href=http://www.uschess.org/msa/XtblMain.php?202412220542 target='_blank'>SUNDAY SWISS AT NOON DEC. 22ND</a>",
 "HOUSTON","2024-12-21","8","<a href=http://www.uschess.org/msa/XtblMain.php?202412219422 target='_blank'>CHESSPANDA12212024SATURDAY</a>",
 "HOUSTON","2024-12-21","31","<a href=http://www.uschess.org/msa/XtblMain.php?202412219192 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-12-20","8","<a href=http://www.uschess.org/msa/XtblMain.php?202412209112 target='_blank'>FBCC 2024 NATIONAL SANGRIA DAY OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-05-04","109","<a href=http://www.uschess.org/msa/XtblMain.php?202405042492 target='_blank'>MAY THE 4TH BE WITH YOU</a>",
 "HOUSTON","2024-05-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202405042372 target='_blank'>CHESSPANDA05042024SATURDAY</a>",
 "HOUSTON","2024-05-03","27","<a href=http://www.uschess.org/msa/XtblMain.php?202405031962 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-05-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202405031922 target='_blank'>FBCC 2024 NATIONAL SPACE DAY OPEN.P</a>",
 ]);
