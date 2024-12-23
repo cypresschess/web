@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3359",
+         "pubDate" : "Mon, 23 Dec 2024 12:06:11",
+         "title" : "Jos&eacute; Carlos Vaz crowned Cape Verde Champion"
+      },
+      {
+         "description" : "At the request of the Selection Committee, the ECF Board revisited the matter of the behaviour of Keith Arkell following the announcement of the senior teams. Further to the statement...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/senior-teams-announcement/",
+         "pubDate" : "Mon, 23 Dec 2024 11:44:52",
+         "title" : "Senior Teams Announcement"
+      },
+      {
+         "description" : "Congratulation to Eugenia Karas, who came third to win a bronze medal in the Girls U16 Blitz section at the World Youth Rapid and Blitz Championships that took place in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bronze-for-eugenia-karas-at-the-world-youth-rapid-and-blitz-championships/",
+         "pubDate" : "Mon, 23 Dec 2024 11:22:32",
+         "title" : "Bronze for Eugenia Karas at the World Youth Rapid and Blitz Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116595555.cms\" />Eighteen-year-old chess prodigy D Gukesh, the youngest world champion in history, balances his demanding career with a love for movies like \"Zindagi Na Milegi Dobara\" and \"About Time.\" He admires Novak Djokovic's resilience, applying a similar mindset to his own chess battles, including his recent World Championship victory against Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-reveals-hrithik-roshans-film-as-his-favourite/articleshow/116595555.cms",
+         "pubDate" : "Mon, 23 Dec 2024 10:38:17",
+         "title" : "Gukesh reveals Hrithik Roshan's film as his favourite"
+      },
+      {
+         "description" : "The greatest chess player of this era, Magnus Carlsen, has been announced as the Global Ambassador of chess at the Esports World Cup. The world's top online chess players will compete in Riyadh, Saudi Arabia for a US$ 1.5 million prize pool. The event will take place from 31 July to 3 August 2025. The time control will be 10 minutes for the game, with no increments. Twelve players hoping to compete at the EWC will qualify through the Champions Chess Tour, which will host two online tour events in February and May. A final Last Chance Qualifier will take place in Riyadh to select the final four competitors. That competition will be open to amateur and professional players alike.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-announcement",
+         "pubDate" : "Mon, 23 Dec 2024 10:30:00",
+         "title" : "Chess to be included at the Esports World Cup 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116590888.cms\" />Indian chess star Tania Sachdev publicly expressed her disappointment over the Delhi government's lack of recognition for her chess achievements. Despite winning medals at the Chess Olympiad and holding national and Commonwealth titles, Sachdev claims lack of acknowledgment from the state government.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,7 +130,7 @@ news_feed (
          "title" : "'Not sending Gukesh to school was tough call': Mother"
       },
       {
-         "description" : "Please find the certificates Sl No Candidate Name 1 Anand J S 2 Vipin Vijayan 3 Vani Indrali 4 Tejesh oleti 5 Kranthi G 6",
+         "description" : "Please find the certificates Sl No Candidate Name 1 Anand J S 2 Vipin Vijayan 3 Vani Indrali 4 Tejesh Oleti 5 Kranthi G 6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-sna-seminar-and-exam-in-rajahmundry-on-30-november-01-december-2024/",
@@ -530,14 +570,6 @@ news_feed (
          "title" : "Watch: Diljit hails D Gukesh at Chandigarh concert"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116330023.cms\" />Vincent Keymer, a German Grandmaster, played a crucial role as Gukesh's openings specialist during the World Chess Championship in Singapore. Keymer's fresh ideas, particularly his analysis of the French Defence after an initial setback, proved invaluable. The team prepared for tie-breaks even as Gukesh pushed for victory in the final game, celebrating his eventual triumph with relief and joy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-opening-game-defeat-german-second-vincent-keymer-worked-on-opening-variations/articleshow/116330023.cms",
-         "pubDate" : "Sun, 15 Dec 2024 02:32:06",
-         "title" : "After opening game defeat, Keymer worked on opening variations"
-      },
-      {
          "description" : "After two days and three rounds, WFM Natalya Tsodikova leads the 2024 U.S. Senior Women's Championship with a perfect score. In round 1, as White, Tsodikova defeated Brenda Nardi. In round 2, as Black, she defeated the 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia. In round 3, as Black, she won against Jayashree Sekar. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Defending champion Anjelina Belakovskaia (L) lost her second-round game against Natalia Tsodikova. Tsodikova now leads the tournament entering round 4 (Photo by Alexey Root)<br> <br> <br> <br> Meet the Queen of UpsetsA newcomer to the U.S. Senior Women's Championship, Jayashre",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -944,6 +976,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3342",
          "pubDate" : "Sun, 08 Dec 2024 20:30:13",
          "title" : "Italian Championship: Francesco Sonis and Marina Brunello capture titles"
+      },
+      {
+         "description" : "In this series of monthly posts featuring a video, we've seen Youtube's <I>ChessBase India</I> channel (CBI) many times, most recently in <A HREF=\"https://chessforallages.blogspot.com/2024/10/the-london-chess-centre-on-video.html\">The London Chess Centre on Video</A> (October 2024). This month's video is a collaboration between CBI and Youtube's <I>Paddy Upton</I> channel, where it lives. <P> Who is Paddy Upton? Wikipedia's page <A HREF=\"https://en.wikipedia.org/wiki/Paddy_Upton\">Paddy Upton</A> (wikipedia.org) informs, <BLOCKQUOTE> Patrick Anthony Howard 'Paddy' Upton (born 5 November 1968) is a South African born cricket coach specialising as head coach in professional Twenty20 cricket, me",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/working-with-gukesh-fascinating-journey.html",
+         "pubDate" : "Sun, 08 Dec 2024 16:48:00",
+         "title" : "Working with Gukesh 'A Fascinating Journey'"
       },
       {
          "description" : " Alpha Phi Alpha Fraternity, Inc. was founded in December 4, 1906 at Cornell University, just celebrating its 118th anniversary. The 290,000-member has always promoted academic excellence and scholarship, and the organization has national programs, including &#8220;Project Alpha&#8221; and &#8220;Go-to-Highschool-Go-to-College.&#8221; It is the first Black intercollegiate fraternity with more than 700 chapters across the world. Tony The post <a href=\"https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/\">Alpha Phi Alpha's Dunlap touts Chess Initiative</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
