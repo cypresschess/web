@@ -26,7 +26,7 @@ news_feed (
          "title" : "'New York here I come': Arjun Erigaisi clears visa hurdle"
       },
       {
-         "description" : "GM Magnus Carlsen just won the 2024 Champions Chess Tour Finals in Oslo, Norway. It&#39;s Carlsen&#39;s fifth Champions Chess Tour title, and he&#39;s the only player to win the event since it began in 2020. He&#39;s added another trophy to the collection, as wel...",
+         "description" : "GM Magnus Carlsen has just won the 2024 Champions Chess Tour Finals in Oslo, Norway. It&#39;s Carlsen&#39;s fifth Champions Chess Tour title, and he&#39;s the only player to win the event since it began in 2020. He&#39;s added another trophy to the collection as ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-finals-7-takeaways",
