@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF Office will be closed on the 25th and 26th of December 2024, and on the 1st January 2025. We wish you all a very merry Christmas and a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-office-holiday-hours/",
+         "pubDate" : "Tue, 24 Dec 2024 10:48:04",
+         "title" : "ECF Office - holiday hours"
+      },
+      {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our recent issue, CBM 222 (CBM 223 is just out!). A total of 7703 games from the FIDE Chess Olympiad, 28 annotated, 11 opening surveys, 3 opening videos, 5 demo lectures and several exercises for training. Annotators include Nordibek Abdusattorov, Levon Aronian, Anish Giri and Wesley So, among others. The icing on the cake is a special feature on Dommaraju Gukesh and Arjun Erigaisi with 4 videos. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-222-review-nagesh-havanur",
+         "pubDate" : "Tue, 24 Dec 2024 09:30:00",
+         "title" : "CBM 222: India strikes double gold!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3332",
          "pubDate" : "Tue, 03 Dec 2024 12:57:28",
          "title" : "Qualification paths for FIDE Women's Candidates Tournament 2026 finalized"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3333",
-         "pubDate" : "Tue, 03 Dec 2024 10:50:13",
-         "title" : "FIDE Circuit 2024: Erigaisi still in the lead, Caruana closes in"
       }
    ]
 }
