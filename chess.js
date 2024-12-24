@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this episode, Svitlana shows us a game between Magnus Carlsen and Anish Giri. Interesting games either have a spectacular opening, some sweet tactics, or a fabulous endgame. In this game, it is the middlegame, in which Magnus sacrifices a piece, to gain a never-ending control of the whole game. Even the engines were impressed!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-magnus-middlegame-madness",
+         "pubDate" : "Mon, 23 Dec 2024 22:00:00",
+         "title" : "Svitlana's Smart Moves - Magnus' Middlegame Madness"
+      },
+      {
          "description" : "The 11th Sunway Sitges Chess Festival wrapped up in style, delivering a lively atmosphere in the picturesque town near Barcelona. Savva Vetokhin, aged 15, stole the show, winning the title after beating Ido Gorshtein in a blitz playoff. The event saw fierce competition, with Chinese GM Li Di taking third place and Iranian WGM Mobina Alinasab finishing as the top-scoring woman. Living legend Vasyl Ivanchuk added flair, ending his campaign with a remarkable final-round win. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/new-york-here-i-come-arjun-erigaisi-clears-visa-hurdle-for-world-rapid-and-blitz-championships-in-the-us/articleshow/116605887.cms",
          "pubDate" : "Mon, 23 Dec 2024 15:40:55",
          "title" : "'New York here I come': Arjun Erigaisi clears visa hurdle"
+      },
+      {
+         "description" : "GM Magnus Carlsen just won the 2024 Champions Chess Tour Finals in Oslo, Norway. It&#39;s Carlsen&#39;s fifth Champions Chess Tour title, and he&#39;s the only player to win the event since it began in 2020. He&#39;s added another trophy to the collection, as wel...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-finals-7-takeaways",
+         "pubDate" : "Mon, 23 Dec 2024 12:54:00",
+         "title" : "2024 Champions Chess Tour Finals - 7 Takeaways"
       },
       {
          "description" : "The 2025 European Senior Team Chess Championship will be held from 4th April 2025 (day of arrival) to 14th April 2025 (day of departure) in Swidnica, Poland. The event will played in two age categories: 50+ and 65+, open and women's sections separately. Each National Federation of the European Chess Union has the right to register an unlimited number of teams in both categories: Open and Women 50+ &#38; 65+. Each team should consist of four (4) players and optionally []",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/esipenko-wins-2024-qatar-masters",
          "pubDate" : "Thu, 12 Dec 2024 07:45:00",
          "title" : "Esipenko Wins Qatar Masters; Arjun Misses Chance To Catch Caruana In FIDE Circuit"
-      },
-      {
-         "description" : "The London Chess Classic (LCC) was one of the first tournaments I heard of when I first entered the chess world in 2020. Previously hosted in West London at the Kensington Olympia, a place I had only ever visited for Christmas markets, the Classic...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-back-and-more-british-than-ever",
-         "pubDate" : "Thu, 12 Dec 2024 07:34:00",
-         "title" : "The London Chess Classic Is Back And More British Than Ever"
       },
       {
          "description" : " 2024 World Chess Championship: Game 13Tuesday, 11 December 2024 A heavyweight battle ends in a drawtension high on even of final game The Ding-Gukesh draw today held the chess world in suspense. FIDE President Arkady Dvorkovich made the ceremonial move and saw that the future of chess is in good hands. Ding Liren and Gukesh The post <a href=\"https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/\">Ding-Gukesh draw in thrilling battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
