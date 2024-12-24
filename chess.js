@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The chess world is abuzz as New York's financial district gears up to host the 2024 FIDE World Rapid and Blitz Championships, marking a thrilling finale to a historic year in chess. From December 26 to 31, over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, will compete in iconic Wall Street venues. With a $1.5 million prize fund and a two-stage Blitz knockout finale, this event promises unparalleled excitement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-epic",
+         "pubDate" : "Tue, 24 Dec 2024 16:30:00",
+         "title" : "World Rapid and Blitz in New York: An epic ending to 2024"
+      },
+      {
          "description" : "The ECF Office will be closed on the 25th and 26th of December 2024, and on the 1st January 2025. We wish you all a very merry Christmas and a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -126,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/15-year-old-savva-vetokhin-wins-sitges-chess-festival",
-         "pubDate" : "Mon, 23 Dec 2024 05:08:54",
+         "pubDate" : "Mon, 23 Dec 2024 05:08:00",
          "title" : "15-Year-Old Savva Vetokhin Wins in Sitges, Celebrated With Fireworks"
       },
       {
@@ -1272,30 +1280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-stories-now-in-english",
          "pubDate" : "Tue, 03 Dec 2024 17:00:00",
          "title" : "Chess Stories - now in English!"
-      },
-      {
-         "description" : " The seventh game of the World Chess Championship match between Ding Liren and Gukesh in Singapore ended in a draw after 5 hours 20 of play. Gukesh had the white pieces and went back to an old love, the Reti, and came up with a rare variation 7.Re1 which had been mostly played in blitz games. This presented Ding Liren with the problem of finding a correct setup, and whilst it must have been uncomfortable for him it doesn't seem to me he was in that much trouble until he missed the very accurate 23...c3. That's to brush over a lot of decisions that had to be taken to that point but his position started to deteriorate rather quickly after that. Gukesh then took Queens off and damaged Ding's Ki",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-allows-ding-to-escape-with-a-draw-in-world-championship-game-7",
-         "pubDate" : "Tue, 3 Dec 2024 16:30:00",
-         "title" : "Gukesh allows Ding to escape with a draw in World Championship game 7 - 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3334",
-         "pubDate" : "Tue, 03 Dec 2024 14:49:21",
-         "title" : "World Championship Game 7: Ding Liren escapes by the skin of his teeth"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3332",
-         "pubDate" : "Tue, 03 Dec 2024 12:57:28",
-         "title" : "Qualification paths for FIDE Women's Candidates Tournament 2026 finalized"
       }
    ]
 }
