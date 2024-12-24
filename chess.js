@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3360",
+         "pubDate" : "Tue, 24 Dec 2024 05:00:23",
+         "title" : "2024 Season's Greetings from FIDE President"
+      },
+      {
          "description" : "In this episode, Svitlana shows us a game between Magnus Carlsen and Anish Giri. Interesting games either have a spectacular opening, some sweet tactics, or a fabulous endgame. In this game, it is the middlegame, in which Magnus sacrifices a piece, to gain a never-ending control of the whole game. Even the engines were impressed!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
