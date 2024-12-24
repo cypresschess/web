@@ -1272,14 +1272,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/im-adam-hunt-rip/",
          "pubDate" : "Wed, 04 Dec 2024 10:41:20",
          "title" : "IM Adam Hunt RIP"
-      },
-      {
-         "description" : "The book was originally published in German, has now been published in English by ChessBase India. The luxury hard cover version, printed in full colour, is available for less than $12, and the eBook version for just $9.50 - with all proceeds going to the HelpChess Foundation. Advanced copies of the book were given to former World Champions and other notable personalities in Singapore.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-stories-now-in-english",
-         "pubDate" : "Tue, 03 Dec 2024 17:00:00",
-         "title" : "Chess Stories - now in English!"
       }
    ]
 }
