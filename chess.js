@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Dear Chess Community, Yesterday, I learned that Walter Harris, America's first Black National Master, had passed away on October 12th, 2024. Harris was 83 at the time of his demise and had no survivors. During a phone conversation with Frank Street (America's second Black National Master), he expressed a concern that he had not heard The post <a href=\"https://thechessdrum.net/blog/2024/12/24/walter-harris-americas-1st-black-chess-master-dead-at-83/\">Walter Harris, America's 1st Black Chess Master, dead at 83</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/24/walter-harris-americas-1st-black-chess-master-dead-at-83/",
+         "pubDate" : "Wed, 25 Dec 2024 01:54:03",
+         "title" : "Walter Harris, America's 1st Black Chess Master, dead at 83"
+      },
+      {
          "description" : "The chess world is abuzz as New York's financial district gears up to host the 2024 FIDE World Rapid and Blitz Championships, marking a thrilling finale to a historic year in chess. From December 26 to 31, over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, will compete in iconic Wall Street venues. With a $1.5 million prize fund and a two-stage Blitz knockout finale, this event promises unparalleled excitement.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
