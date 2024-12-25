@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3361",
+         "pubDate" : "Wed, 25 Dec 2024 20:12:37",
+         "title" : "Chess in New York: A walk through parks, clubs and history"
+      },
+      {
          "description" : "Some fun and challenging positions, as well as a brain-teasing dose of trivia from Graham Phythian to help you while away the festive period. We bring you some of his chess problems on our live boards, which will defend against your attempts to defeat them. We wish you A Very Happy Problem-Solving Christmas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2024-start-in-skopje/",
          "pubDate" : "Thu, 05 Dec 2024 09:15:22",
          "title" : "European Rapid & Blitz Chess Championships 2024 start in Skopje"
-      },
-      {
-         "description" : " The FIDE World Chess Championship match between defending champion Ding Liren and Gukesh D is tied at 4-4 after 8 games. Neither player seemed particularly disappointed as they drew a very difficult game where the engines showed that both players had a winning positions at different moments. Ding is jumping around from opening to opening so that he is a moving target, a strategy of opening surprises which in itself is not a surprise. Today Gukesh thanked his seconds as he got in a novelty first with 7...f6 after Ding chose the English. What happened is that the game took on a fairly unique direction, Ding had a Rook exposed in the middle of board, there was a very unusual pawn structure. Al",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-both-have-chances-to-win-a-difficult-world-championship-game-8",
-         "pubDate" : "Wed, 4 Dec 2024 19:01:00",
-         "title" : "Ding and Gukesh both have chances to win a difficult World Championship game 8 - 8"
       }
    ]
 }
