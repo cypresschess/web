@@ -834,6 +834,14 @@ news_feed (
          "title" : "Gukesh shocks Ding in finale, wins title!"
       },
       {
+         "description" : "What do the <I>Chess Life</I> issues of December 1974 and December 1999 have in common? Yes, they are obviously the next in the 'On the Cover' series last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/11/november-1974-1999-on-cover.html\">November 1974 & 1999 'On the Cover'</A> (November 2024). On top of that, they were both dominated by rating lists. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol12.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?' (also 'Special Yearbook Issue!')<BR> <B>Right:</B> '1999... 2000... and still going strong!' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Anatoly Karpov: if he beats Korchnoi, and if Fischer and FI",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html",
+         "pubDate" : "Thu, 12 Dec 2024 16:50:00",
+         "title" : "December 1974 & 1999 'On the Cover'"
+      },
+      {
          "description" : "We&#39;re excited to announce the 2025 Chess.com Chess Improvement Challenge! This is your chance to join a community of like-minded Chess.com members and coaches, reach your chess improvement goals, and win prizes! Sign up for the challenge and set...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3336",
          "pubDate" : "Wed, 04 Dec 2024 15:22:13",
          "title" : "World Championship Game 8: A thrilling battle ends in a draw"
-      },
-      {
-         "description" : "It is with great sadness that we report the death of IM Adam Hunt. Adam was an International Master with two GM norms. A FIDE trainer, Adam spent over 20...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/im-adam-hunt-rip/",
-         "pubDate" : "Wed, 04 Dec 2024 10:41:20",
-         "title" : "IM Adam Hunt RIP"
       }
    ]
 }
