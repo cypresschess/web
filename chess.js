@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some fun and challenging positions, as well as a brain-teasing dose of trivia from Graham Phythian to help you while away the festive period. We bring you some of his chess problems on our live boards, which will defend against your attempts to defeat them. We wish you A Very Happy Problem-Solving Christmas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-magazine-christmas-quiz",
+         "pubDate" : "Wed, 25 Dec 2024 09:00:00",
+         "title" : "CHESS Magazine Christmas Quiz"
+      },
+      {
          "description" : " Dear Chess Community, Yesterday, I learned that Walter Harris, America's first Black National Master, had passed away on October 12th, 2024. Harris was 83 at the time of his demise and had no survivors. During a phone conversation with Frank Street (America's second Black National Master), he expressed a concern that he had not heard The post <a href=\"https://thechessdrum.net/blog/2024/12/24/walter-harris-americas-1st-black-chess-master-dead-at-83/\">Walter Harris, America's 1st Black Chess Master, dead at 83</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
