@@ -1280,14 +1280,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-and-gukesh-both-have-chances-to-win-a-difficult-world-championship-game-8",
          "pubDate" : "Wed, 4 Dec 2024 19:01:00",
          "title" : "Ding and Gukesh both have chances to win a difficult World Championship game 8 - 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3336",
-         "pubDate" : "Wed, 04 Dec 2024 15:22:13",
-         "title" : "World Championship Game 8: A thrilling battle ends in a draw"
       }
    ]
 }
