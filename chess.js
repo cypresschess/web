@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union (ECU), together with the Romanian Chess Federation and UniversulChess Club invite all National Chess Federations of ECU to participate in EUROPEAN SCHOOLSCHESS CHAMPIONSHIP, organized in the city of Constanta, Mamaia resort, Romania, between29th May (arrival) - 8th June (departure), 2025. The event will be played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2025-official-invitation/",
+         "pubDate" : "Thu, 26 Dec 2024 12:34:37",
+         "title" : "European School Chess Championship 2025 - Official invitation"
+      },
+      {
          "description" : "After he was crowned the world champion, Gukesh named Vincent Keymer as one of the players who was a part of his back-room team. In The the SPIEGEL news magazine Vincent revealed behind-the-scenes preparation that led to World Championship win. At the same time GM Efstratios Grivas looks at some games of the German super-talent. | Photo: Marcus Brandt/dpa",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-and-ding-draw-a-well-played-catalan-in-world-championship-game-9",
          "pubDate" : "Thu, 5 Dec 2024 19:01:00",
          "title" : "Gukesh and Ding draw a well played Catalan in World Championship Game 9 - 9"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3337",
-         "pubDate" : "Thu, 05 Dec 2024 14:16:11",
-         "title" : "FIDE World Championship Game 9: The calm after the storm"
       }
    ]
 }
