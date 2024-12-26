@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
+         "pubDate" : "Wed, 25 Dec 2024 22:28:00",
+         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
+      },
+      {
+         "description" : "Gukesh made history by becoming the world chess champion at 18 years of age. Grzegorz Gajewski has been training Gukesh for the past two years. In this in-depth interview with Sagar Shah, Gajewski reveals the story behind forming Team Gukesh - how every member was carefully chosen, the strategies they employed and the collaborative effort that led to this historic win. He also sheds light on Gukesh's mental resilience, the crucial role played by his parents and an insightful analysis of the games. | Photo: Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gajewski-interview-gukesh-world-champion",
+         "pubDate" : "Wed, 25 Dec 2024 22:25:00",
+         "title" : "Grzegorz Gajewski shares insights on Gukesh's World Championship victory"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "Walter Harris, America's 1st Black Chess Master, dead at 83"
       },
       {
-         "description" : "The chess world is abuzz as New York's financial district gears up to host the 2024 FIDE World Rapid and Blitz Championships, marking a thrilling finale to a historic year in chess. From December 26 to 31, over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, will compete in iconic Wall Street venues. With a $1.5 million prize fund and a two-stage Blitz knockout finale, this event promises unparalleled excitement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-epic",
-         "pubDate" : "Tue, 24 Dec 2024 16:30:00",
-         "title" : "World Rapid and Blitz in New York: An epic ending to 2024"
-      },
-      {
          "description" : "The ECF Office will be closed on the 25th and 26th of December 2024, and on the 1st January 2025. We wish you all a very merry Christmas and a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -42,36 +50,12 @@ news_feed (
          "title" : "ECF Office - holiday hours"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our recent issue, CBM 222 (CBM 223 is just out!). A total of 7703 games from the FIDE Chess Olympiad, 28 annotated, 11 opening surveys, 3 opening videos, 5 demo lectures and several exercises for training. Annotators include Nordibek Abdusattorov, Levon Aronian, Anish Giri and Wesley So, among others. The icing on the cake is a special feature on Dommaraju Gukesh and Arjun Erigaisi with 4 videos. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-222-review-nagesh-havanur",
-         "pubDate" : "Tue, 24 Dec 2024 09:30:00",
-         "title" : "CBM 222: India strikes double gold!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3360",
          "pubDate" : "Tue, 24 Dec 2024 05:00:23",
          "title" : "2024 Season's Greetings from FIDE President"
-      },
-      {
-         "description" : "In this episode, Svitlana shows us a game between Magnus Carlsen and Anish Giri. Interesting games either have a spectacular opening, some sweet tactics, or a fabulous endgame. In this game, it is the middlegame, in which Magnus sacrifices a piece, to gain a never-ending control of the whole game. Even the engines were impressed!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-magnus-middlegame-madness",
-         "pubDate" : "Mon, 23 Dec 2024 22:00:00",
-         "title" : "Svitlana's Smart Moves - Magnus' Middlegame Madness"
-      },
-      {
-         "description" : "The 11th Sunway Sitges Chess Festival wrapped up in style, delivering a lively atmosphere in the picturesque town near Barcelona. Savva Vetokhin, aged 15, stole the show, winning the title after beating Ido Gorshtein in a blitz playoff. The event saw fierce competition, with Chinese GM Li Di taking third place and Iranian WGM Mobina Alinasab finishing as the top-scoring woman. Living legend Vasyl Ivanchuk added flair, ending his campaign with a remarkable final-round win. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2024-final",
-         "pubDate" : "Mon, 23 Dec 2024 17:20:00",
-         "title" : "Savva Vetokhin wins Sunway Sitges Open, beats Ido Gorshtein in tiebreaks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116605887.cms\" />Indian Grandmaster Arjun Erigaisi finally received his US visa to participate in the World Rapid and Blitz Championships starting December 26 in New York. He had earlier sought help from various authorities, including the US Embassy and Indian officials, to expedite the process. Erigaisi expressed his gratitude and eagerness to compete in the tournament featuring top players.",
@@ -130,14 +114,6 @@ news_feed (
          "title" : "Gukesh reveals Hrithik Roshan's film as his favourite"
       },
       {
-         "description" : "The greatest chess player of this era, Magnus Carlsen, has been announced as the Global Ambassador of chess at the Esports World Cup. The world's top online chess players will compete in Riyadh, Saudi Arabia for a US$ 1.5 million prize pool. The event will take place from 31 July to 3 August 2025. The time control will be 10 minutes for the game, with no increments. Twelve players hoping to compete at the EWC will qualify through the Champions Chess Tour, which will host two online tour events in February and May. A final Last Chance Qualifier will take place in Riyadh to select the final four competitors. That competition will be open to amateur and professional players alike.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/esports-world-cup-2025-announcement",
-         "pubDate" : "Mon, 23 Dec 2024 10:30:00",
-         "title" : "Chess to be included at the Esports World Cup 2025"
-      },
-      {
          "description" : "2024 has been an eventful year for chess. We saw quite some movement in the FIDE&#39;s top 10 list, with a new generation of young talents cementing themselves among the chess elite. We all cheered on as legendary players put on some thrilling perform...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -176,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3358",
          "pubDate" : "Sun, 22 Dec 2024 23:02:11",
          "title" : "FIDE World Rapid and Blitz in New York preview: An epic ending to 2024"
-      },
-      {
-         "description" : "The chess tournament scene has exploded in recent years. And in addition to many exciting attacking games, there are also many amazing and instructive endgames. Karsten M&uuml;ller is one of the world's greatest endgame experts. The sensitive radar of the grandmaster from Hamburg hardly misses an instructive endgame that has been played on this planet. At the end of the year, M&uuml;ller shared with us the best, most interesting and most instructive endgames of the year.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgames-of-the-year-2024",
-         "pubDate" : "Sun, 22 Dec 2024 17:30:00",
-         "title" : "The best endgames of the year"
       },
       {
          "description" : "",
