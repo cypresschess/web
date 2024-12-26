@@ -18,6 +18,14 @@ news_feed (
          "title" : "Grzegorz Gajewski shares insights on Gukesh's World Championship victory"
       },
       {
+         "description" : "The 2024 FIDE World Rapid and Blitz Championship will be held from December 26 (early December 27 in India) to December 31 (early January 1 in India) in Wall Street, New York.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43154538/fide-world-rapid-blitz-championships-2024-all-need-know?device=featurephone",
+         "pubDate" : "Wed, 25 Dec 2024 21:41:16",
+         "title" : "FIDE World Rapid and Blitz Chess Championships 2024: All you need to know"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1232,14 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3337",
          "pubDate" : "Thu, 05 Dec 2024 14:16:11",
          "title" : "FIDE World Championship Game 9: The calm after the storm"
-      },
-      {
-         "description" : "Would Gukesh have to force a win in the next five games?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42795407/gukesh-vs-ding-game-9-draws-missed-chances-state-play-chess-world-championship-2024?device=featurephone",
-         "pubDate" : "Thu, 5 Dec 2024 11:51:27",
-         "title" : "State of play: Draws, missed chances and what it means for Gukesh after WC game 9"
       },
       {
          "description" : "The European Rapid &#38; Blitz Chess Championships start in Skopje, North Macedonia, and will take place from 6-11 December at ****Hotel Continental. European Rapid Chess Championship 2024 will be the first event on the schedule, taking place on 7-8 December. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2024 will be played on 9th of []",
