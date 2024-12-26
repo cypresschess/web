@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After he was crowned the world champion, Gukesh named Vincent Keymer as one of the players who was a part of his back-room team. In The the SPIEGEL news magazine Vincent revealed behind-the-scenes preparation that led to World Championship win. At the same time GM Efstratios Grivas looks at some games of the German super-talent. | Photo: Marcus Brandt/dpa",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/we-worked-late-into-the-night",
+         "pubDate" : "Thu, 26 Dec 2024 10:00:00",
+         "title" : "We worked late into the night"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116678925.cms\" />Indian chess prodigy D Gukesh, the youngest World Chess Champion, will miss the 2024 World Rapid and Blitz Championships in New York for rest and recovery. Gukesh's decision follows his intense 14-game win over Ding Liren. India's hopes now rest on rising stars Praggnanandhaa and Arjun Erigaisi, while Magnus Carlsen remains the favorite.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-d-gukesh-will-not-play-in-2024-world-rapid-and-blitz-championships/articleshow/116678925.cms",
+         "pubDate" : "Thu, 26 Dec 2024 09:40:16",
+         "title" : "Why Gukesh will not play in World Rapid and Blitz Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116679796.cms\" />Indian Grandmaster Arjun Erigaisi faces tough competition at the World Rapid and Blitz Chess Championship, aiming to stay in contention for the 2026 Candidates' Tournament. Top players like Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura pose significant challenges. Key Indian players include R Praggnanandhaa, Raunak Sadhwani, and Koneru Humpy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-faces-daunting-challenge-at-world-rapid-and-blitz-chess-championship/articleshow/116679796.cms",
+         "pubDate" : "Thu, 26 Dec 2024 09:38:47",
+         "title" : "Arjun Erigaisi faces daunting challenge at World Rapid and Blitz Chess Championship"
+      },
+      {
          "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "D Gukesh arrives in Chennai to rapturous welcome - WATCH"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116357057.cms\" />18-year-old Indian chess prodigy Gukesh D has become the youngest world chess champion, but his victory comes with a Rs 4.67 crore tax bill, exceeding MS Dhoni's IPL salary. His Rs 11.34 crore prize money from the World Chess Championship triggers a hefty tax liability due to India's tax laws.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-to-pay-more-taxes-than-ms-dhonis-current-ipl-salary/articleshow/116357057.cms",
-         "pubDate" : "Mon, 16 Dec 2024 07:01:53",
-         "title" : "Gukesh to pay more taxes than MS Dhoni's current IPL salary"
-      },
-      {
          "description" : "We&#39;re excited to announce that the Chess.com Community Championships will continue next year with more events and a total of $40,000 in prizes! The 2025 cycle begins on January 13 with the Chess.com Puzzles Championship and will feature a differen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3349",
          "pubDate" : "Sun, 15 Dec 2024 09:38:35",
          "title" : "World Youth Rapid & Blitz Championship 2024 kicks off in Terme Čatež, Slovenia"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116332598.cms\" />Eighteen-year-old D Gukesh, the new World Chess Champion, credits his parents' sacrifices for his historic win against Ding Liren. His mother's constant reminder to be a good person alongside a great chess player has shaped his journey. Facing financial hardships, his parents, an ENT surgeon turned supportive father and a microbiologist mother, made immense sacrifices to fuel his dream.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-youngest-world-chess-champion-shares-life-lessons-by-his-mother/articleshow/116332598.cms",
-         "pubDate" : "Sun, 15 Dec 2024 06:52:59",
-         "title" : "D Gukesh: World champion shares life lessons by his mother"
       },
       {
          "description" : "After two days and three rounds, WFM Natalya Tsodikova leads the 2024 U.S. Senior Women's Championship with a perfect score. In round 1, as White, Tsodikova defeated Brenda Nardi. In round 2, as Black, she defeated the 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia. In round 3, as Black, she won against Jayashree Sekar. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Defending champion Anjelina Belakovskaia (L) lost her second-round game against Natalia Tsodikova. Tsodikova now leads the tournament entering round 4 (Photo by Alexey Root)<br> <br> <br> <br> Meet the Queen of UpsetsA newcomer to the U.S. Senior Women's Championship, Jayashre",
@@ -728,6 +736,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-2024-chess-world-championship-13-conclusions",
          "pubDate" : "Sat, 14 Dec 2024 03:14:00",
          "title" : "Gukesh Wins 2024 FIDE World Championship - 13 Conclusions"
+      },
+      {
+         "description" : "For the past few weeks I've been running a series on the early career of Gukesh Dommaraju, aka Gukesh D. The two most recent posts were:- <UL> <LI> <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (29 November 2024), and <LI> <A HREF=\"https://chessforallages.blogspot.com/2024/12/gukesh-in-2018-scores-rating.html\">Gukesh in 2018 - Scores & Rating</A> (06 December 2024) </UL> <P> That second post ended, <BLOCKQUOTE> In the first event on the 2018 list, he was rated 2362; in the last event, he was rated 2466. He started the year with a CM title and ended as an IM. In a few more months, he would earn the GM title. </BLOCKQUOTE> <P> Wit",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/gukesh-debuts-in-google-news.html",
+         "pubDate" : "Fri, 13 Dec 2024 16:27:00",
+         "title" : "Gukesh Debuts in Google News"
       },
       {
          "description" : "",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3337",
          "pubDate" : "Thu, 05 Dec 2024 14:16:11",
          "title" : "FIDE World Championship Game 9: The calm after the storm"
-      },
-      {
-         "description" : "The European Rapid &#38; Blitz Chess Championships start in Skopje, North Macedonia, and will take place from 6-11 December at ****Hotel Continental. European Rapid Chess Championship 2024 will be the first event on the schedule, taking place on 7-8 December. The Championship will be played according to the Swiss system, in11 rounds with the time control 15 minutes game + 10 seconds per move starting from the firstmove. The European Blitz Chess Championship 2024 will be played on 9th of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2024-start-in-skopje/",
-         "pubDate" : "Thu, 05 Dec 2024 09:15:22",
-         "title" : "European Rapid & Blitz Chess Championships 2024 start in Skopje"
       }
    ]
 }
