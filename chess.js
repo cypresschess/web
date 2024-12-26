@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
+         "pubDate" : "Thu, 26 Dec 2024 19:45:00",
+         "title" : "World Rapid Championship - Live!"
+      },
+      {
+         "description" : "New York City, a dazzling collision of ambition, culture and history, is also a vibrant chess hub. From Washington Square's hustlers to iconic clubs like the Marshall Chess Club, chess weaves through the city's fabric, blending art, history and community. The game thrives in museums, caf&eacute;s and parks, drawing enthusiasts of all levels. As NYC prepares to host the FIDE World Rapid and Blitz Championships, the city's rich chess legacy takes centre stage, reaffirming its role as a global chess powerhouse.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-new-york-2024",
+         "pubDate" : "Thu, 26 Dec 2024 18:35:00",
+         "title" : "Chess in New York: A walk through parks, clubs and history"
+      },
+      {
+         "description" : " Howard University Chess Club is preparing for the 2025 Pan-Am Intercollegiate tournament to be held in Charlotte, North Carolina, January 2-5, 2025. The club's President,&#160;Lawrence Custis,&#160;has announced the club's participation and is holding a fundraiser to cover expenses. The Howard Chess Club has participated in the Pan-Ams on several occasions, including the last four. The The post <a href=\"https://thechessdrum.net/blog/2024/12/26/howard-university-chess-preparing-for-2025-pan-ams/\">Howard University Chess preparing for 2025 Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/26/howard-university-chess-preparing-for-2025-pan-ams/",
+         "pubDate" : "Thu, 26 Dec 2024 17:03:11",
+         "title" : "Howard University Chess preparing for 2025 Pan-Ams"
+      },
+      {
          "description" : "The European Chess Union (ECU), together with the Romanian Chess Federation and UniversulChess Club invite all National Chess Federations of ECU to participate in EUROPEAN SCHOOLSCHESS CHAMPIONSHIP, organized in the city of Constanta, Mamaia resort, Romania, between29th May (arrival) - 8th June (departure), 2025. The event will be played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1248,14 +1272,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42791458/eric-rosen-og-streamer-world-chess-championship-chance-play-very-best?device=featurephone",
          "pubDate" : "Thu, 5 Dec 2024 21:50:31",
          "title" : "Eric Rosen, the OG chess streamer, now has a chance to play the very best"
-      },
-      {
-         "description" : " The FIDE World Chess Championship match in Singapore between Ding Liren and Gukesh D heads to its third rest day on Friday with the players tied at 4.5-4.5. After the rollercoaster ride that was game 8 today was a Catalan, an opening that's generally well understood by the leading players these days. 10.Bc3 from Gukesh was a little wrinkle which had been played a few times at the top level. 13.b4 looked aggressive and it provoked complications, black seemed to have a few ideas to equalise, and Ding seemed to have seen a couple of them, as it was 20.Qb5 was a tiny bit inaccurate and after the sequence 20...Rxa2 21.Nxb6 Qa7 22.Qb1 Rb8 Ding had solved all his problems and the rest of the game ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-and-ding-draw-a-well-played-catalan-in-world-championship-game-9",
-         "pubDate" : "Thu, 5 Dec 2024 19:01:00",
-         "title" : "Gukesh and Ding draw a well played Catalan in World Championship Game 9 - 9"
       }
    ]
 }
