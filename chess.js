@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3362",
+         "pubDate" : "Fri, 27 Dec 2024 02:51:35",
+         "title" : "Historic first for New York and chess: FIDE World Rapid and Blitz debut on Wall Street"
+      },
+      {
          "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
          "pubDate" : "Thu, 26 Dec 2024 19:45:00",
          "title" : "World Rapid Championship - Live!"
+      },
+      {
+         "description" : "GMs Volodar Murzin, Shant Sargsyan, Leinier Dominguez, and Daniel Naroditsky lead the 2024 FIDE Rapid Chess Championship after five rounds. GM Denis Lazavik, on 3.5/5, defeated tournament favorite GM Magnus Carlsen, on 2.5/5, in our Game of the Da...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-1",
+         "pubDate" : "Thu, 26 Dec 2024 18:51:00",
+         "title" : "Lazavik Beats Carlsen; Murzin, Sargsyan, Dominguez, Naroditsky Lead Open"
       },
       {
          "description" : "New York City, a dazzling collision of ambition, culture and history, is also a vibrant chess hub. From Washington Square's hustlers to iconic clubs like the Marshall Chess Club, chess weaves through the city's fabric, blending art, history and community. The game thrives in museums, caf&eacute;s and parks, drawing enthusiasts of all levels. As NYC prepares to host the FIDE World Rapid and Blitz Championships, the city's rich chess legacy takes centre stage, reaffirming its role as a global chess powerhouse.",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-faces-daunting-challenge-at-world-rapid-and-blitz-chess-championship/articleshow/116679796.cms",
          "pubDate" : "Thu, 26 Dec 2024 09:38:47",
          "title" : "Arjun Erigaisi faces daunting challenge at World Rapid and Blitz Chess Championship"
+      },
+      {
+         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
+         "pubDate" : "Wed, 25 Dec 2024 22:28:00",
+         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
       },
       {
          "description" : "Gukesh made history by becoming the world chess champion at 18 years of age. Grzegorz Gajewski has been training Gukesh for the past two years. In this in-depth interview with Sagar Shah, Gajewski reveals the story behind forming Team Gukesh - how every member was carefully chosen, the strategies they employed and the collaborative effort that led to this historic win. He also sheds light on Gukesh's mental resilience, the crucial role played by his parents and an insightful analysis of the games. | Photo: Maria Emelianova",
@@ -218,12 +242,28 @@ news_feed (
          "title" : "2024 Turkish Championship: Vahap Şanal claims third title"
       },
       {
+         "description" : " The Champions Chess Tour Finals took place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There was then a final chance in the Survival Stage for players placed 3rd-6th in the Round Robin. Ian Nepomniachtchi beat Denis Lazavik in the Winners final to take one place. MVL beat Vincent Keymer and then Lazavik who had a second chance, in the Losers final. This meant t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
+         "pubDate" : "Sun, 22 Dec 2024 14:18:00",
+         "title" : "Champions Chess Tour Finals 2024 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116565938.cms\" />Grzegorz Gajewski, D Gukesh's coach, compared the new world chess champion to Magnus Carlsen, highlighting Gukesh's analytical approach over Carlsen's intuition. Gajewski also likened Gukesh to a young Fabiano Caruana, praising his patience and precision. Gukesh was recently felicitated by the Tamil Nadu government for becoming the youngest World Chess Champion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-will-never-be-like-magnus-carlsen-coach-gajewski-on-new-world-chess-champion/articleshow/116565938.cms",
          "pubDate" : "Sun, 22 Dec 2024 11:54:23",
          "title" : "'Gukesh will never be like Magnus Carlsen': Coach Gajewski"
+      },
+      {
+         "description" : " The 14th London Chess Classic sponsored by XTX Markets took place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. On the final day Alireza Firouzja won the Superblitz final by a point from MVL in what was a very strong f",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
+         "pubDate" : "Sat, 21 Dec 2024 21:45:00",
+         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       },
       {
          "description" : "GM Oleksandr Bortnyk became the third player to win 10 Bullet Brawl&#38;nbsp;titles and the $400 first prize on Saturday after denying Turkish prodigy GM Ediz Gurel, courtesy of a dramatic flagging against GM Christopher Yoo in his final game. Indon...",
@@ -602,6 +642,14 @@ news_feed (
          "title" : "Gukesh Bungee Jumps, Gets Hero's Welcome Back In India"
       },
       {
+         "description" : " The FIDE World Chess Championship took place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Defending champion was 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April 2023. The Challenger was 18 year old Gukesh Dommaraju who won the right to play the match after winning the Candidates tournament earlier in the year. Much was made of the poor form of Ding Liren who had admitted to depression but he played better than anyone had any right to expect. Ding won the first game but the match was soon level again after Gukesh won game 3. There were then seven draws in a row before Gukesh won a fluctuating struggle in game 11 where Ding stood well before losing the advantag",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024",
+         "pubDate" : "Mon, 16 Dec 2024 12:01:00",
+         "title" : "FIDE World Chess Championship 2024 - Games and Results"
+      },
+      {
          "description" : "The ECU E-Magazine November 2024 is out! In this edition of the ECU E-Magazine you may read about: The November edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or can be downloaded below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -866,6 +914,14 @@ news_feed (
          "title" : "FIDE World Championship Game 14: Gukesh D crowned 18th World Champion"
       },
       {
+         "description" : " 18 year old Gukesh Dommaraju became the youngest World Champion after defeating Ding Liren in the 14th and final game of the World Championship in Singapore. Just as we were preparing for a rapid tie-break on Friday Gukesh was the recipient of a gift of a whole point in the final game when a draw should have been well within Ding's capabilities. Ding only has himself to blame as he didn't even have be in a drawish endgame as awkward as this. Ding tried 1.Nf3 and 2.g3 and Gukesh surprised him with a very rare variation. The game followed the course of many others where the positions were a bit murky and hard to judge, even if there wasn't much in them. 19.Bxd4 would have been much better tha",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-is-the-new-world-chess-champion-after-ding-makes-an-extraordinarily-simple-blunder",
+         "pubDate" : "Thu, 12 Dec 2024 14:01:00",
+         "title" : "Gukesh is the new World Chess Champion after Ding makes an extraordinarily simple blunder - 14"
+      },
+      {
          "description" : "D Gukesh defeated Ding Liren to become world champion after a dramatic victory in the final game of the championship.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -906,14 +962,6 @@ news_feed (
          "title" : "18-Year-Old Gukesh Becomes Youngest-Ever Undisputed Chess World Champion"
       },
       {
-         "description" : "GM Andrey Esipenko on Thursday won the $25,000 first prize at the Qatar Masters, one of the strongest opens of the year. GM Arjun Erigaisi could only draw his final round game and finished in a tie for second place, which means GM Fabiano Caruana ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/esipenko-wins-2024-qatar-masters",
-         "pubDate" : "Thu, 12 Dec 2024 07:45:00",
-         "title" : "Esipenko Wins Qatar Masters; Arjun Misses Chance To Catch Caruana In FIDE Circuit"
-      },
-      {
          "description" : " 2024 World Chess Championship: Game 13Tuesday, 11 December 2024 A heavyweight battle ends in a drawtension high on even of final game The Ding-Gukesh draw today held the chess world in suspense. FIDE President Arkady Dvorkovich made the ceremonial move and saw that the future of chess is in good hands. Ding Liren and Gukesh The post <a href=\"https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/\">Ding-Gukesh draw in thrilling battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -928,6 +976,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42911871/gukesh-lets-golden-chance-slip-vs-ding-liren-penultimate-game-chess-world-championship?device=featurephone",
          "pubDate" : "Wed, 11 Dec 2024 22:33:58",
          "title" : "Gukesh lets golden chance slip in penultimate game of chess World Championship"
+      },
+      {
+         "description" : " The thirteenth game of the World Chess Championship in Singapore between Gukesh D and Ding Liren ended in a draw after 68 moves. Gukesh surprised Ding in the opening and had him on the back foot for much of the game, there was a concrete chance missed on move 31, unfortunately for Gukesh the move he played looked like it might do the trick too. Gukesh returned to 1.e4 and the French Defence was again played by Ding. 7.a3 was already rare, \"a move order trick\" according to Ding and the players were soon on their own. The position became extremely unbalanced after 10...Nc4 11.Bxc4. Maybe Gukesh should have tried 12.Qg4, the engine's preference but over the board he didn't see its merits. 17.Q",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-survives-a-serious-scare-in-world-championship-game-13",
+         "pubDate" : "Wed, 11 Dec 2024 17:39:00",
+         "title" : "Ding survives a serious scare in World Championship Game 13 - 13"
       },
       {
          "description" : "",
@@ -1010,6 +1066,14 @@ news_feed (
          "title" : "FIDE World Junior U20 Championship 2025: Registration is open"
       },
       {
+         "description" : " Ding Liren won game 12 of the FIDE World Chess Championship in Singapore and immediately leveled the match up after his loss yesterday. Ding had the white pieces and again we had a very sharp flank opening after Gukesh chose 4...d4. There are certainly safer ways to play. What we saw was an unbalanced English where Gukesh made a number of concessions until he was busted by move 23. 13...Rb8?!, 16...Nd7?! and the losing move 22...Bg5? were the key moments. It only slowly dawned on Ding that his position was \"much, much better\" after 23.Nf4, when Gukesh felt it necessary to play 23...Bxf4, losing all the dark squares on the board, the game was as good as over, and Ding didn't make any mistake",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-scores-a-crushing-win-against-gukesh-to-level-the-world-championship-match-at-6-6",
+         "pubDate" : "Mon, 9 Dec 2024 11:49:00",
+         "title" : "Ding scores a crushing win against Gukesh to level the World Championship match at 6-6 - 12"
+      },
+      {
          "description" : "With his best game since becoming world champion, Ding Liren tied the World Chess Championship match 6-6.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1064,6 +1128,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3341",
          "pubDate" : "Sun, 08 Dec 2024 14:26:59",
          "title" : "FIDE World Championship Game 11: Ding collapses under pressure as Gukesh takes the lead"
+      },
+      {
+         "description" : " The eleventh game of the FIDE World Chess Championship saw Gukesh strike potentially a fatal blow to Ding's chances in the match. This was completely different to yesterday's game, Gukesh chose the Reti and Ding chose a sharp variation which got him into trouble as he didn't seem to fancy the complications when he got there. Ding thought for about an hour over his fourth and fifth moves and put himself in time trouble right from the start. This was clearly a sign of indecision. Gukesh's 5.a3 was shown to him last night and he actually lost his advantage quite quickly, 9.d3=. Gukesh caught up on the clock with a huge think to find 11.g3 but then after 15.Rd1?! e6 or 15....Qb8 would have left",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-blunders-in-a-game-of-extraordinary-mutual-tension-world-championship-game-11",
+         "pubDate" : "Sun, 8 Dec 2024 11:49:00",
+         "title" : "Ding blunders in a game of extraordinary mutual tension - World Championship Game 11 - 11"
       },
       {
          "description" : "In winning game 11 the way he's done, Gukesh has given the chess world another demonstration of why he's a worthy challenger, and why he'll be a worthy world champion.",
@@ -1136,6 +1208,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3338",
          "pubDate" : "Sat, 07 Dec 2024 13:01:01",
          "title" : "FIDE Council approves extension of FIDE Flag Representation"
+      },
+      {
+         "description" : " Ding Liren chose the London System against Gukesh in Game 10 of the World Chess Championship. Ding was trying for a very tiny edge and after 10...Nh5 which cost Gukesh a bit of time on the clock it became apparent Ding had no ideas at all to cause trouble. By move 16 it was impossible to imagine anything other than a draw and that happened on move 36. Score Ding 5 Gukesh 5 Game 11 Gukesh-Ding Sunday 8th Dec. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/damp-squib-of-an-opening-from-ding-means-that-world-championship-game-10-was-drawn-quickly",
+         "pubDate" : "Sat, 7 Dec 2024 11:49:00",
+         "title" : "Damp squib of an opening from Ding means that World Championship Game 10 was drawn quickly - 10"
       },
       {
          "description" : "The 2024 World Chess Championship is tied at 5 points each, with Ding Liren and D Gukesh playing their seventh consecutive draw in game 10.",
