@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/forthcoming-ecf-events-announcement/",
+         "pubDate" : "Fri, 27 Dec 2024 15:40:22",
+         "title" : "Forthcoming ECF events announcement"
+      },
+      {
+         "description" : "Would you know that Black (to play) in this position can win? Would you recognize that, instantly, in your calculations? And would you be able to play it to victory? That could win you a World Championship! Today we want to check your pawn ending skills, with positions to solve and techniques to learn. It is an entertaining and instructive pastime in the Christmas week.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings",
+         "pubDate" : "Fri, 27 Dec 2024 15:30:00",
+         "title" : "Can you play pawn endings?"
+      },
+      {
          "description" : "The 2024 World Rapid Chess Championships kicked off on Thursday, with thrilling action unfolding in both the open and women's sections. In the open, Volodar Murzin, Shant Sargsyan, Daniel Naroditsky and Leinier Dominguez (pictured) lead with 4&frac12;/5, while defending champion Magnus Carlsen trails by 2 points after a tough start. Meanwhile, 15-year-old Alice Lee stunned the women's field, finishing day 1 with a perfect 4/4 score to take sole leadership. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
          "pubDate" : "Fri, 06 Dec 2024 16:45:00",
          "title" : "London Chess Classic - Live!"
-      },
-      {
-         "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (November 2024), about the early career of the new World Champion Gukesh Dommaraju, I neglected to record the young prodigy's score and rating for the 17 events in the list. For this current post, I corrected the oversight. <P> It's worth explaining why six of the events are still missing the final score. These are events where a result was reported by TWIC on two consecutive weeks (a partial result, then the complete result), and where Gukesh was listed in the first report, but not in the second. This is because his final score was less than TWIC's cutoff to lim",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/gukesh-in-2018-scores-rating.html",
-         "pubDate" : "Fri, 06 Dec 2024 16:22:00",
-         "title" : "Gukesh in 2018 (Scores & Rating)"
       }
    ]
 }
