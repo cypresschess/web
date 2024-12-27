@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
+         "pubDate" : "Fri, 27 Dec 2024 19:45:00",
+         "title" : "World Rapid Championship - Live!"
+      },
+      {
          "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Rapid Blitz: Erigaisi makes promising start, Carlsen falters on Day 1"
       },
       {
-         "description" : " The world No 1 began badly against a star-studded field aiming to stop the Norwegian, 34, from winning the World Rapid and World Blitz titles for the third year in a row Magnus Carlsen, the world No 1, began badly on Wall Street this weekend as the Norwegian, 34, defends his World Rapid and Blitz crowns in New York against a host of ambitious US and international challengers. Carlsen had only a 50% score, 2.5/5, after a series of draws and a fifth-round defeat. His only win so far was <a href=\"https://lichess.org/broadcast/fide-world-rapid--blitz-championships-2024--rapid-open-1-30/round-2/RZi09iMn/PNxUyx1G\">in round two</a>, where he overwhelmed his Montenegrin opponent. <a href=\"https://w",
+         "description" : " The world No 1 began badly against a star-studded field aiming to stop the Norwegian, 34, from winning the World Rapid and World Blitz titles for the third year in a row Magnus Carlsen, the world No 1, began badly on Wall Street as the Norwegian, 34, defends his World Rapid and Blitz crowns in New York against a host of ambitious US and international challengers. Carlsen had only a 50% score, 2.5/5, after a series of draws and a fifth-round defeat. His only win so far was <a href=\"https://lichess.org/broadcast/fide-world-rapid--blitz-championships-2024--rapid-open-1-30/round-2/RZi09iMn/PNxUyx1G\">in round two</a>, where he overwhelmed his Montenegrin opponent. <a href=\"https://www.theguardia",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend",
@@ -98,14 +106,6 @@ news_feed (
          "title" : "European School Chess Championship 2025 - Official invitation"
       },
       {
-         "description" : "After he was crowned the world champion, Gukesh named Vincent Keymer as one of the players who was a part of his back-room team. In The the SPIEGEL news magazine Vincent revealed behind-the-scenes preparation that led to World Championship win. At the same time GM Efstratios Grivas looks at some games of the German super-talent. | Photo: Marcus Brandt/dpa",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/we-worked-late-into-the-night",
-         "pubDate" : "Thu, 26 Dec 2024 10:00:00",
-         "title" : "We worked late into the night"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116678925.cms\" />Indian chess prodigy D Gukesh, the youngest World Chess Champion, will miss the 2024 World Rapid and Blitz Championships in New York for rest and recovery. Gukesh's decision follows his intense 14-game win over Ding Liren. India's hopes now rest on rising stars Praggnanandhaa and Arjun Erigaisi, while Magnus Carlsen remains the favorite.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -128,14 +128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
          "pubDate" : "Wed, 25 Dec 2024 22:28:00",
          "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
-      },
-      {
-         "description" : "Gukesh made history by becoming the world chess champion at 18 years of age. Grzegorz Gajewski has been training Gukesh for the past two years. In this in-depth interview with Sagar Shah, Gajewski reveals the story behind forming Team Gukesh - how every member was carefully chosen, the strategies they employed and the collaborative effort that led to this historic win. He also sheds light on Gukesh's mental resilience, the crucial role played by his parents and an insightful analysis of the games. | Photo: Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gajewski-interview-gukesh-world-champion",
-         "pubDate" : "Wed, 25 Dec 2024 22:25:00",
-         "title" : "Grzegorz Gajewski shares insights on Gukesh's World Championship victory"
       },
       {
          "description" : "The 2024 FIDE World Rapid and Blitz Championship will be held from December 26 (early December 27 in India) to December 31 (early January 1 in India) in Wall Street, New York.",
@@ -1280,14 +1272,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42826153/gukesh-vs-ding-story-singapore-pulled-world-chess-championship?device=featurephone",
          "pubDate" : "Sat, 7 Dec 2024 02:27:59",
          "title" : "The inside story of how Singapore pulled off the World Chess Championship"
-      },
-      {
-         "description" : "The London Chess Classic elite section is an 8-player all-play-all tournament taking place from 29 November to 7 December at the Emirates Stadium, home to Arsenal Football Club. Four English players and four international representatives make up the lineup, which includes Azerbaijani star Shakhriyar Mamedyarov, living legend Michael Adams and women's world champion Ju Wenjun. | Follow the games live and with commentary by Peter Svidler and Lawrence Trent, starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2024-live",
-         "pubDate" : "Fri, 06 Dec 2024 16:45:00",
-         "title" : "London Chess Classic - Live!"
       }
    ]
 }
