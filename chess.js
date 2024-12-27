@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The global No 1, fresh from victory in the Champions Tour, faces elite US opposition and a star-studded field aiming to stop him from winning the titles for the third year in a row Magnus Carlsen, the global No 1, stars on Wall Street this weekend as the Norwegian, 34, defends his World Rapid and Blitz crowns in New York against a host of ambitious US and international challengers. The field of 182 for the World Rapid/Blitz <a href=\"https://chess-results.com/tnr1074690.aspx?lan=1\">includes 30 Americans</a> and the USA's world Nos 2 and 3, Fabiano Caruana and Hikaru Nakamura, are sure to be prominent, with France's Alireza Firouzja, Uzbekistan's Nodirbek Abdusattorov, and India's Arjun Eriga",
+         "description" : "The 2024 World Rapid Chess Championships kicked off on Thursday, with thrilling action unfolding in both the open and women's sections. In the open, Volodar Murzin, Shant Sargsyan, Daniel Naroditsky and Leinier Dominguez (pictured) lead with 4&frac12;/5, while defending champion Magnus Carlsen trails by 2 points after a tough start. Meanwhile, 15-year-old Alice Lee stunned the women's field, finishing day 1 with a perfect 4/4 score to take sole leadership. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d1",
+         "pubDate" : "Fri, 27 Dec 2024 12:35:00",
+         "title" : "World Rapid: Murzin, Sargsyan, Naroditsky and Dominguez co-leaders"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116709287.cms\" />Indian Grandmaster Arjun Erigaisi is off to a strong start in the World Rapid Chess Championship, tying for fifth place after five rounds with four wins. Meanwhile, Raunak Sadhwani, another Indian player, has caught attention by defeating a pre-event favorite. The competition remains tight with multiple players, including some prominent names, vying for top positions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-rapid-and-blitz-championships-arjun-erigaisi-makes-promising-start-magnus-carlsen-falters-on-day-1/articleshow/116709287.cms",
+         "pubDate" : "Fri, 27 Dec 2024 09:18:11",
+         "title" : "Rapid Blitz: Erigaisi makes promising start, Carlsen falters on Day 1"
+      },
+      {
+         "description" : " The world No 1 began badly against a star-studded field aiming to stop the Norwegian, 34, from winning the World Rapid and World Blitz titles for the third year in a row Magnus Carlsen, the world No 1, began badly on Wall Street this weekend as the Norwegian, 34, defends his World Rapid and Blitz crowns in New York against a host of ambitious US and international challengers. Carlsen had only a 50% score, 2.5/5, after a series of draws and a fifth-round defeat. His only win so far was <a href=\"https://lichess.org/broadcast/fide-world-rapid--blitz-championships-2024--rapid-open-1-30/round-2/RZi09iMn/PNxUyx1G\">in round two</a>, where he overwhelmed his Montenegrin opponent. <a href=\"https://w",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43175330/fide-world-rapid-blitz-championships-2024-first-day-magnus-carlsen-struggles-arjun-erigaisi-raunak-sadhwani-harika-best-indian-performers?device=featurephone",
          "pubDate" : "Thu, 26 Dec 2024 23:09:33",
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen struggles on first day; Arjun, Raunak, Harika top Indian performers"
-      },
-      {
-         "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
-         "pubDate" : "Thu, 26 Dec 2024 19:45:00",
-         "title" : "World Rapid Championship - Live!"
       },
       {
          "description" : "GMs Volodar Murzin, Shant Sargsyan, Leinier Dominguez, and Daniel Naroditsky lead the 2024 FIDE World Rapid Chess Championship after five rounds. GM Denis Lazavik, on 3.5/5, defeated pre-tournament favorite GM Magnus Carlsen, on 2.5/5, in our Game...",
@@ -714,14 +722,6 @@ news_feed (
          "title" : "Chess.com Community Championships 2025 Cycle Kicks Off January And Features 12 Events"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116352964.cms\" />D Gukesh's World Championship victory secures his spot in the 2026 title match. This win elevates India's chess stature with six players in the top 26, promising future title contenders. Gukesh's rapid ascent, aided by Viswanathan Anand's mentorship, contrasts with Anand's own challenging path to the world title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-d-gukeshs-crown-is-super-special-for-indian-chess/articleshow/116352964.cms",
-         "pubDate" : "Mon, 16 Dec 2024 04:01:44",
-         "title" : "Why D Gukesh's crown is super special for Indian chess"
-      },
-      {
          "description" : "The United States Chess Federation is pleased to announce the 2025 All-America Chess Team. Team members will receive team jackets and plaques by mail.The All-America Chess Team was created in 1987 to honor the very best players ages 18 and under. The team, one of the highest national honors attainable by a young chess player, is selected on the basis of age, rating, and chess activity during that year, similar to the selection process of \"all conference\" sports teams. This year's candidates were selected based on their age as of January 1, 2024, and their peak post-tournament rating from July 1, 2023 through June 30, 2024. Since this award is a \"post-season\" selection, the minimum rating lim",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -736,6 +736,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/natalya-tsodikova-wins-2024-us-senior-womens-championship-round-spare",
          "pubDate" : "Mon, 16 Dec 2024 00:00:00",
          "title" : "Natalya Tsodikova Wins 2024 U.S. Senior Women's Championship With Round To Spare"
+      },
+      {
+         "description" : "This month's featured Flickr post is the sixth to highlight chess street art (aka graffiti) in the long running Flickr series on this blog. Use the search box on the right navigation bar to find the rest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol15.jpg\" WIDTH=360 HEIGHT=400><BR> <B>Top:</B> Detail from bottom.<BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/duncan/54175138130/\">Core246 Graffiti, Hackney Wick</A> &#169; Flickr user <I>duncan cumming</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> Both images carried the same description:- <BLOCKQUOTE> Core vs Tris chess battle; Bishop takes Knight! </BLOCKQUOT",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/hackney-wick-street-art.html",
+         "pubDate" : "Sun, 15 Dec 2024 16:30:00",
+         "title" : "Hackney Wick Street Art"
       },
       {
          "description" : "",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/gukesh-in-2018-scores-rating.html",
          "pubDate" : "Fri, 06 Dec 2024 16:22:00",
          "title" : "Gukesh in 2018 (Scores & Rating)"
-      },
-      {
-         "description" : " World champion and 18-year-old challenger are deadlocked at 4.5-4.5 in their best-of-14 series which finishes next week China's world champion, Ding Liren, and his Indian opponent, Gukesh Dommaraju, at 18 the youngest ever title challenger, are deadlocked at 4.5-4.5 after nine of their scheduled best of 14 games in Singapore. Game 10 starts at 9am GMT on Saturday. If they are still level after their 14th and final classical game next Thursday, half-hour rapid and, if needed, three-minute blitz tie-breakers will decide the winner next Friday. <a href=\"https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax\">Continue reading...",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/dec/06/ding-liren-gukesh-dommaraju-miss-wins-world-chess-championship-nears-climax",
-         "pubDate" : "Fri, 06 Dec 2024 12:00:54",
-         "title" : "Ding and Gukesh miss wins as World Chess Championship nears climax"
       }
    ]
 }
