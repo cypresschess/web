@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The global No 1, fresh from victory in the Champions Tour, faces elite US opposition and a star-studded field aiming to stop him from winning the titles for the third year in a row Magnus Carlsen, the global No 1, stars on Wall Street this weekend as the Norwegian, 34, defends his World Rapid and Blitz crowns in New York against a host of ambitious US and international challengers. The field of 182 for the World Rapid/Blitz <a href=\"https://chess-results.com/tnr1074690.aspx?lan=1\">includes 30 Americans</a> and the USA's world Nos 2 and 3, Fabiano Caruana and Hikaru Nakamura, are sure to be prominent, with France's Alireza Firouzja, Uzbekistan's Nodirbek Abdusattorov, and India's Arjun Eriga",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend",
+         "pubDate" : "Fri, 27 Dec 2024 08:00:06",
+         "title" : "Chess: Carlsen targets Rapid and Blitz gold on Wall Street this weekend"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-sna-seminar-and-exam-held-in-bhubaneshwar-on-16-17-december-2024/",
+         "pubDate" : "Fri, 27 Dec 2024 07:52:45",
+         "title" : "Final report of SNA seminar and exam held in Bhubaneshwar on 16 & 17 December 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3362",
          "pubDate" : "Fri, 27 Dec 2024 02:51:35",
          "title" : "Historic first for New York and chess: FIDE World Rapid and Blitz debut on Wall Street"
+      },
+      {
+         "description" : "The first day of the World Championship in the shorter versions of chess saw five rounds of rapid chess and teenagers shine through in it.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43175330/fide-world-rapid-blitz-championships-2024-first-day-magnus-carlsen-struggles-arjun-erigaisi-raunak-sadhwani-harika-best-indian-performers?device=featurephone",
+         "pubDate" : "Thu, 26 Dec 2024 23:09:33",
+         "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen struggles on first day; Arjun, Raunak, Harika top Indian performers"
       },
       {
          "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "World Rapid Championship - Live!"
       },
       {
-         "description" : "GMs Volodar Murzin, Shant Sargsyan, Leinier Dominguez, and Daniel Naroditsky lead the 2024 FIDE Rapid Chess Championship after five rounds. GM Denis Lazavik, on 3.5/5, defeated tournament favorite GM Magnus Carlsen, on 2.5/5, in our Game of the Da...",
+         "description" : "GMs Volodar Murzin, Shant Sargsyan, Leinier Dominguez, and Daniel Naroditsky lead the 2024 FIDE World Rapid Chess Championship after five rounds. GM Denis Lazavik, on 3.5/5, defeated pre-tournament favorite GM Magnus Carlsen, on 2.5/5, in our Game...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-1",
@@ -896,14 +920,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2025",
          "pubDate" : "Thu, 12 Dec 2024 16:04:00",
          "title" : "Level Up Your Chess And Win Prizes In The 2025 Chess Improvement Challenge"
-      },
-      {
-         "description" : "Indian chess prodigy Grandmaster D. Gukesh has achieved a monumental milestone by defeating reigning champion Ding Liren in the 14th and decisive game of the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/d-gukesh-beats-ding-liren-to-become-youngest-world-chess-champion/",
-         "pubDate" : "Thu, 12 Dec 2024 15:38:58",
-         "title" : "D Gukesh beats Ding Liren to become youngest World Chess Champion"
       },
       {
          "description" : "",
