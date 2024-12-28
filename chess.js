@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 was defaulted from the World Rapid Championship and has also chosen to withdraw from the World Blitz saying 'it became a matter of principle' Magnus Carlsen, the world No 1, has been disqualified from the World Rapid Championship in New York due to a dress code violation, refusing to change from jeans, after a previous warning. He is also withdrawing from the World Blitz which starts on 30 December. Fide explained their decision <a href=\"https://www.fide.com/news/3363\">in a statement</a> while Carlsen said: \"I said I'll change tomorrow &hellip; but they said you have to change now it became a matter of principle for me so here we are! Honestly I'm too old at this point to car",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend",
+         "pubDate" : "Fri, 27 Dec 2024 23:57:17",
+         "title" : "Chess: Carlsen disqualified in New York after refusing to change out of jeans"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3363",
+         "pubDate" : "Fri, 27 Dec 2024 23:33:12",
+         "title" : "FIDE statement regarding Magnus Carlsen's dress code breach"
+      },
+      {
          "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
          "pubDate" : "Fri, 27 Dec 2024 19:45:00",
          "title" : "World Rapid Championship - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen hasn&#39;t been paired for round nine of the 2024 FIDE World Rapid Chess Championship after refusing to change out of his jeans to comply with FIDE&#39;s dress code. He told Take Take Take that he would leave for somewhere with better we...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-2",
+         "pubDate" : "Fri, 27 Dec 2024 15:54:00",
+         "title" : "BREAKING: Carlsen Quits Rapid & Blitz Championships Over Dress Code Disagreement"
       },
       {
          "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-rapid-and-blitz-championships-arjun-erigaisi-makes-promising-start-magnus-carlsen-falters-on-day-1/articleshow/116709287.cms",
          "pubDate" : "Fri, 27 Dec 2024 09:18:11",
          "title" : "Rapid Blitz: Erigaisi makes promising start, Carlsen falters on Day 1"
-      },
-      {
-         "description" : " The world No 1 began badly against a star-studded field aiming to stop the Norwegian, 34, from winning the World Rapid and World Blitz titles for the third year in a row Magnus Carlsen, the world No 1, began badly on Wall Street as the Norwegian, 34, defends his World Rapid and Blitz crowns in New York against a host of ambitious US and international challengers. Carlsen had only a 50% score, 2.5/5, after a series of draws and a fifth-round defeat. His only win so far was <a href=\"https://lichess.org/broadcast/fide-world-rapid--blitz-championships-2024--rapid-open-1-30/round-2/RZi09iMn/PNxUyx1G\">in round two</a>, where he overwhelmed his Montenegrin opponent. <a href=\"https://www.theguardia",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend",
-         "pubDate" : "Fri, 27 Dec 2024 08:00:06",
-         "title" : "Chess: Carlsen targets Rapid and Blitz gold on Wall Street this weekend"
       },
       {
          "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Thu, 12 Dec 2024 09:45:00",
          "title" : "World Championship: Gukesh takes the title!"
-      },
-      {
-         "description" : "18-year-old Indian GM Gukesh Dommaraju is the world champion after the defending title holder GM Ding Liren (32) from China collapsed in game 14 of the 2024 FIDE World Championship. Gukesh won 7.5-6.5, taking $1.35 million, after a game where Ding...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2024-game-14",
-         "pubDate" : "Thu, 12 Dec 2024 08:00:00",
-         "title" : "18-Year-Old Gukesh Becomes Youngest-Ever Undisputed Chess World Champion"
       },
       {
          "description" : " 2024 World Chess Championship: Game 13Tuesday, 11 December 2024 A heavyweight battle ends in a drawtension high on even of final game The Ding-Gukesh draw today held the chess world in suspense. FIDE President Arkady Dvorkovich made the ceremonial move and saw that the future of chess is in good hands. Ding Liren and Gukesh The post <a href=\"https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/\">Ding-Gukesh draw in thrilling battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
