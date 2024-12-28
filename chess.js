@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Please note that some maintenance is being performed this morning (Saturday 28/12/24) on the website menus, which should be concluded by midday. Many thanks for your forbearance.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/website-maintenance-2/",
-         "pubDate" : "Sat, 28 Dec 2024 10:16:30",
-         "title" : "Website maintenance"
+         "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only. The additional players and accompanying",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-open-girls-chess-championship-2025-in-petrovac-montenegro/",
+         "pubDate" : "Sat, 28 Dec 2024 15:17:56",
+         "title" : "FIDE World Junior (Open & Girls) Chess Championship - 2025 in Petrovac, Montenegro"
+      },
+      {
+         "description" : "Simple pawn endings are vital, and can win you a World Championship. Ask Gukesh. So can you understand and play them proficiently? Do you recognize winning chances in your calculations? In the second part of our Christmas pawn endgame puzzle suite, we bring you new and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/which-pawn-to-push",
+         "pubDate" : "Sat, 28 Dec 2024 15:10:18",
+         "title" : "Which pawn to push?"
+      },
+      {
+         "description" : "Hon'ble Prime Minister Shri Narendra Modi Ji congratulated D. Gukesh on his historic World Chess Championship victory during their meeting. The young champion presented the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/honble-pm-narendra-modi-meets-gm-d-gukesh-receives-signed-chessboard-from-the-world-champion/",
+         "pubDate" : "Sat, 28 Dec 2024 14:56:28",
+         "title" : "Hon'ble PM Shri Narendra Modi Ji Meets GM D. Gukesh, Receives Signed Chessboard from the World Champion."
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116744769.cms\" />Magnus Carlsen withdrew from the World Rapid and Blitz Championships for not complying with FIDE's dress code, which prohibits jeans. Despite being fined and given options, he refused to change on principle. Chief Arbiter enforced the rules, leading to his disqualification from the ninth round. FIDE clarified it was a procedural decision.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-followed-the-rules-magnus-carlsen-didnt-fide-deputy-prez-viswanathan-anand/articleshow/116744769.cms",
+         "pubDate" : "Sat, 28 Dec 2024 14:37:34",
+         "title" : "'We followed the rules, Carlsen didn't': FIDE deputy prez Anand"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116744058.cms\" />D Gukesh, an 18-year-old chess prodigy from Chennai, made history by becoming the youngest-ever World Chess Champion, defeating Ding Liren of China. Prime Minister Narendra Modi praised Gukesh's dedication, humility, and his parents' unwavering support.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-narendra-modi-meets-indias-pride-d-gukesh-receives-title-winning-chessboard-from-champion/articleshow/116744058.cms",
+         "pubDate" : "Sat, 28 Dec 2024 13:48:26",
+         "title" : "PM Modi meets D Gukesh, receives title-winning chessboard"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116744011.cms\" />World No.1 chess champion Magnus Carlsen exited the World Rapid and Blitz Chess Championships in New York after a dress code violation in Round 9. Penalized for wearing jeans, Carlsen refused to comply, leading to his removal from that round. Carlsen expressed frustration with FIDE and announced his decision to skip the Blitz section.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-gave-magnus-carlsen-more-than-enough-time-to-change-clarifies-fide-ceo/articleshow/116744011.cms",
+         "pubDate" : "Sat, 28 Dec 2024 13:35:41",
+         "title" : "'We gave Carlsen more than enough time to change': FIDE CEO"
+      },
+      {
+         "description" : "Chess great Magnus Carlsen quit the World Rapid and Blitz Chess Championships in New York after governing body FIDE barred him for wearing jeans.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/43191036/magnus-carlsen-disqualified-chess-tournament-wearing-jeans?device=featurephone",
+         "pubDate" : "Sat, 28 Dec 2024 08:47:29",
+         "title" : "Jeans gambit: Chess great DQ'd for wrong pants"
       },
       {
          "description" : " Please find the live live games link for the Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024&#160;which is scheduled from December",
@@ -16,14 +64,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-athens-of-the-east-4th-international-open-fide-rated-chess-tournament-2024/",
          "pubDate" : "Sat, 28 Dec 2024 06:48:53",
          "title" : "Live Games Link for Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024"
-      },
-      {
-         "description" : "Chess great Magnus Carlsen quit the World Rapid and Blitz Chess Championships in New York after governing body FIDE barred him for wearing jeans.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/43191036/magnus-carlsen-disqualified-chess-tournament-wearing-jeans?device=featurephone",
-         "pubDate" : "Sat, 28 Dec 2024 05:50:29",
-         "title" : "Jeans gambit: Chess great DQ'd for wrong pants"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116729673.cms\" />Magnus Carlsen, five-time world champion, faced disqualification from the World Rapid and Blitz Chess Championship for violating FIDE's dress code by wearing jeans. Despite being fined USD 200 and instructed to change his attire, Carlsen's refusal led to his exclusion from the Rapid championship. He criticized FIDE's policies and stated he would not participate further.",
@@ -50,7 +90,7 @@ news_feed (
          "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
       },
       {
-         "description" : " The world No 1 was defaulted from the World Rapid Championship and has also chosen to withdraw from the World Blitz saying 'it became a matter of principle' Magnus Carlsen, the world No 1, has been disqualified from the World Rapid Championship in New York due to a dress code violation, refusing to change from jeans, after a previous warning. He is also withdrawing from the World Blitz which starts on 30 December. Fide explained their decision <a href=\"https://www.fide.com/news/3363\">in a statement</a> while Carlsen said: \"I said I'll change tomorrow &hellip; but they said you have to change now it became a matter of principle for me so here we are! Honestly I'm too old at this point to car",
+         "description" : " The world No 1 was defaulted from the World Rapid Championship and has withdrawn from the World Blitz Magnus Carlsen, the world No 1, has been disqualified from the World Rapid Championship in New York due to a dress code violation, refusing to change from jeans, after a previous warning. He is also withdrawing from the World Blitz which starts on 30 December. Fide (the World Chess Federation) explained its decision <a href=\"https://www.fide.com/news/3363\">in a statement</a> while Carlsen said: \"I said I'll change tomorrow &hellip; but they said you have to change now it became a matter of principle for me so here we are! Honestly I'm too old at this point to care too much. If this is what ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend",
@@ -714,28 +754,12 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 2"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116375364.cms\" />D Gukesh, 18-year-old chess prodigy, celebrated his recent World Championship victory with a thrilling bungee jump. Gukesh, who triumphed over Ding Liren in Singapore, shared a video of his adventurous feat on social media. This win makes him the second Indian World Champion after Viswanathan Anand, and follows his successes at the Tata Steel Masters and Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-did-it-world-champion-d-gukesh-takes-the-plunge-with-bungee-jumping-watch/articleshow/116375364.cms",
-         "pubDate" : "Mon, 16 Dec 2024 15:59:48",
-         "title" : "Watch: D Gukesh takes the plunge with bungee jumping "
-      },
-      {
          "description" : "Please find the live link for ODISHA OPEN Category &#8216;A' (1900 &#38; above) # (The 15th International Grandmasters Chess Festival 2024-25) Link:&#160;https://lichess.org/broadcast/odisha-open/round-2/6OOBHVt8",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-game-links-odisha-open-category-a/",
          "pubDate" : "Mon, 16 Dec 2024 12:42:05",
          "title" : "Live Game links: ODISHA OPEN (Category 'A')"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116370408.cms\" />Newly crowned World Chess Champion, 18-year-old Gukesh Dommaraju, is set for a thrilling showdown against top-ranked Magnus Carlsen at the 2025 Norway Chess tournament. Gukesh, fresh off victories at the Tata Steel Masters, Chess Olympiad, Candidates Tournament, and the World Championship, will face Carlsen on his home turf in Stavanger.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/excited-to-face-the-strongest-players-world-chess-champion-gukesh-to-take-on-magnus-carlsen-in-norway/articleshow/116370408.cms",
-         "pubDate" : "Mon, 16 Dec 2024 12:34:01",
-         "title" : "'Excited to face': Gukesh to take on Magnus Carlsen in Norway"
       },
       {
          "description" : "Before leaving Singapore, new World Champion Gukesh Dommaraju fulfilled his promise to bungee jump, but in terms of danger it seemed like nothing compared to the crush that greeted him in the airport when he arrived home a hero in Chennai, India. ...",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-november-2024/",
          "pubDate" : "Mon, 16 Dec 2024 10:44:22",
          "title" : "ECU E-Magazine November 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116364624.cms\" />D Gukesh, an 18-year-old Indian, won the world chess championship. He is the youngest player to achieve this feat. Gukesh's mental conditioning coach, Paddy Upton, played a key role in his victory. Upton helped Gukesh manage the pressure of the tournament. Upton has worked with other successful athletes. Gukesh's mental strength helped him stay focused throughout the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-a-world-championship-its-not-only-about-chess-d-gukesh/articleshow/116364624.cms",
-         "pubDate" : "Mon, 16 Dec 2024 09:50:55",
-         "title" : "'In a world championship, it's not only about chess': D Gukesh"
       },
       {
          "description" : "",
@@ -866,14 +882,6 @@ news_feed (
          "title" : "Neeraj, Pant, Vinesh, Vishy...Gukesh walks in footsteps of champions who defied odds, ignored convention"
       },
       {
-         "description" : "Date&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : November 10-18, 2024Location&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Bishkek, KyrgyzstanEvent Dates&#160;&#160;&#160;&#160;&#160;&#160; : November 11-17, 2024Tournament Format: Swiss System, 9 RoundsDelegate&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Tamizharasan MuruganCountry&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : INDIA Medal Winners",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-2nd-asian-chess-championship-for-disabilities-2024/",
-         "pubDate" : "Sat, 14 Dec 2024 05:29:19",
-         "title" : "Final report :2nd Asian Chess Championship for Disabilities 2024"
-      },
-      {
          "description" : "The era of India&#39;s GM Gukesh Dommaraju as chess world champion has begun, after an incredibly hard-fought 2024 FIDE World Championship in Singapore suddenly ended when the Chinese reigning champion GM Ding Liren blundered in the final classical ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-cct-finals-2024",
          "pubDate" : "Fri, 13 Dec 2024 13:00:00",
          "title" : "Champions Chess Tour $500,000 Finals Kicks Off On December 17 In Oslo, Norway"
-      },
-      {
-         "description" : "Sub Junior 1 Ilamparthi A R2 Vaz Ethan3 Sherla Prathamesh4 Madhvendra Pratap Sharma5 Jaiveer Mahendru6 Shashish Subbiah7 Advik Amit Agrawal8 Reyan Md.9 Aakash G10 Bhoir",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-national-sub-junior-subjunior-girls-chess-championship-2024/",
-         "pubDate" : "Fri, 13 Dec 2024 10:25:02",
-         "title" : "Certificate: National Sub Junior & Subjunior Girls (Under 15) Chess Championship 2024"
       },
       {
          "description" : "\"Most athletes don't become world champions when they win the final, they arrive there at the start as champions,\" Upton said.",
@@ -1232,54 +1232,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42840445/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-11?device=featurephone",
          "pubDate" : "Sun, 8 Dec 2024 08:36:01",
          "title" : "Gukesh defeats Ding in game 11 to take crucial lead in Chess World Championship"
-      },
-      {
-         "description" : "European Rapid Chess Championship 2024 commenced today in Skopje, North Macedonia. The first round of the event was inaugurated with the ceremonial move played by ECU Vice President Mr. Alojzije Jankovic on the top board game between GM Vladimir Fedoseev and Mitar Djukanovic. The Opening ceremony of the European Rapid and Blitz Chess Championships 2024 took place yesterday evening with the attendance of the ECU Vice President Mr. Alojzije Jankovic who officially declared the event opened. With the presence of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-chess-championship-2024-commenced-in-skopje/",
-         "pubDate" : "Sat, 07 Dec 2024 16:17:50",
-         "title" : "European Rapid Chess Championship 2024 commenced in Skopje"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3340",
-         "pubDate" : "Sat, 07 Dec 2024 15:31:44",
-         "title" : "Argentine Championship 2024: Sandro Mareco claims second title"
-      },
-      {
-         "description" : "World Chess Championship update: after nine games in Singapore, Ding Liren and his challenger Gukesh are tied on 4.5 points each. They have won one game apiece but the last six games have all been hard-fought draws. The tenth game will be played today. With typical anagrammatic humour, Marcel Duchamp - in my opinion the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chips-with-a-pinch-of-salt-duchamp-and-le-lionnais/",
-         "pubDate" : "Sat, 07 Dec 2024 14:55:46",
-         "title" : "Chips with a pinch of salt: Duchamp and Le Lionnais"
-      },
-      {
-         "description" : "Many chess improvers are frustrated. If you were fully satisfied with your progress, you wouldn't be here reading this. More than the lack of results, I believe a wrong mindset is the main cause of this frustration. As you'll soon see, even someone winning 200 points a year probably has a mostly negative experience with []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/enjoy-the-process/",
-         "pubDate" : "Sat, 07 Dec 2024 14:00:00",
-         "title" : "The Secret to Loving Chess Even During a Plateau"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3339",
-         "pubDate" : "Sat, 07 Dec 2024 13:33:01",
-         "title" : "FIDE World Championship Game 10: Ding hits a brick wall as match stands at 5-5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3338",
-         "pubDate" : "Sat, 07 Dec 2024 13:01:01",
-         "title" : "FIDE Council approves extension of FIDE Flag Representation"
       }
    ]
 }
