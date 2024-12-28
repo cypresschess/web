@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please note that some maintenance is being performed this morning (Saturday 28/12/24) on the website menus, which should be concluded by midday. Many thanks for your forbearance.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/website-maintenance-2/",
+         "pubDate" : "Sat, 28 Dec 2024 10:16:30",
+         "title" : "Website maintenance"
+      },
+      {
          "description" : " Please find the live live games link for the Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024&#160;which is scheduled from December",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-games-link-for-athens-of-the-east-4th-international-open-fide-rated-chess-tournament-2024/",
          "pubDate" : "Sat, 28 Dec 2024 06:48:53",
          "title" : "Live Games Link for Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024"
+      },
+      {
+         "description" : "Chess great Magnus Carlsen quit the World Rapid and Blitz Chess Championships in New York after governing body FIDE barred him for wearing jeans.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/43191036/magnus-carlsen-disqualified-chess-tournament-wearing-jeans?device=featurephone",
+         "pubDate" : "Sat, 28 Dec 2024 05:50:29",
+         "title" : "Jeans gambit: Chess great DQ'd for wrong pants"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116729673.cms\" />Magnus Carlsen, five-time world champion, faced disqualification from the World Rapid and Blitz Chess Championship for violating FIDE's dress code by wearing jeans. Despite being fined USD 200 and instructed to change his attire, Carlsen's refusal led to his exclusion from the Rapid championship. He criticized FIDE's policies and stated he would not participate further.",
@@ -58,15 +74,15 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen announces shock withdrawal; Arjun, Harika, Humpy among leaders after Day 2"
       },
       {
-         "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "description" : "The World Rapid and Blitz Championships began in New York on 26 December. Sagar Shah is reporting for ChessBase India, while Anish Giri is participating. They are good friends and, before the start of the tournament, Sagar invited the Dutch top player to try his luck in a little quiz about the most famous chess player in New York: Bobby Fischer! How well do you know Fischer's games? How well does Giri know Fischer's games?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
-         "pubDate" : "Fri, 27 Dec 2024 19:45:00",
-         "title" : "World Rapid Championship - Live!"
+         "link" : "https://en.chessbase.com/post/anish-giri-fischer-quiz-ny",
+         "pubDate" : "Fri, 27 Dec 2024 19:20:00",
+         "title" : "Anish Giri takes on the Fischer Quiz in New York!"
       },
       {
-         "description" : "GM Magnus Carlsen will no longer participate in the 2024 FIDE World Rapid Chess Championship or the FIDE World Blitz Chess Championship after a dress code disagreement with FIDE. He finishes the Rapid with a 5/8 score and will not defend his doubl...",
+         "description" : "GM Magnus Carlsen will no longer participate in the 2024 FIDE World Rapid Chess Championship or the FIDE World Blitz Chess Championship after a dress-code disagreement with FIDE. He finishes the Rapid with a 5/8 score and will not defend his doubl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-2",
@@ -1264,22 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3338",
          "pubDate" : "Sat, 07 Dec 2024 13:01:01",
          "title" : "FIDE Council approves extension of FIDE Flag Representation"
-      },
-      {
-         "description" : " Ding Liren chose the London System against Gukesh in Game 10 of the World Chess Championship. Ding was trying for a very tiny edge and after 10...Nh5 which cost Gukesh a bit of time on the clock it became apparent Ding had no ideas at all to cause trouble. By move 16 it was impossible to imagine anything other than a draw and that happened on move 36. Score Ding 5 Gukesh 5 Game 11 Gukesh-Ding Sunday 8th Dec. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/damp-squib-of-an-opening-from-ding-means-that-world-championship-game-10-was-drawn-quickly",
-         "pubDate" : "Sat, 7 Dec 2024 11:49:00",
-         "title" : "Damp squib of an opening from Ding means that World Championship Game 10 was drawn quickly - 10"
-      },
-      {
-         "description" : "The 2024 World Chess Championship is tied at 5 points each, with Ding Liren and D Gukesh playing their seventh consecutive draw in game 10.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42833151/onus-d-gukesh-white-skills-ding-liren-eagerness-draw-game-10-world-chess-championship-2024?device=featurephone",
-         "pubDate" : "Sat, 7 Dec 2024 10:50:26",
-         "title" : "Onus on Gukesh's white skills after Ding's eagerness to draw in game 10 of WCC"
       }
    ]
 }
