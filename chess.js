@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
+         "pubDate" : "Sat, 28 Dec 2024 19:50:00",
+         "title" : "World Rapid Championship - Live!"
+      },
+      {
          "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only. The additional players and accompanying",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -54,8 +62,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/espn/story/_/id/43191036/magnus-carlsen-disqualified-chess-tournament-wearing-jeans?device=featurephone",
-         "pubDate" : "Sat, 28 Dec 2024 08:47:29",
-         "title" : "Jeans gambit: Chess great DQ'd for wrong pants"
+         "pubDate" : "Sat, 28 Dec 2024 09:26:27",
+         "title" : "Jeans gambit: Chess great exits event over pants"
       },
       {
          "description" : " Please find the live live games link for the Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024&#160;which is scheduled from December",
