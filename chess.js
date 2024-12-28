@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116729673.cms\" />Magnus Carlsen, five-time world champion, faced disqualification from the World Rapid and Blitz Chess Championship for violating FIDE's dress code by wearing jeans. Despite being fined USD 200 and instructed to change his attire, Carlsen's refusal led to his exclusion from the Rapid championship. He criticized FIDE's policies and stated he would not participate further.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-disqualifies-magnus-carlsen-from-new-york-chess-event-for-dress-code-violation/articleshow/116729673.cms",
+         "pubDate" : "Sat, 28 Dec 2024 03:00:03",
+         "title" : "FIDE disqualifies Magnus Carlsen for dress-code violation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3364",
+         "pubDate" : "Sat, 28 Dec 2024 01:10:40",
+         "title" : "FIDE World Rapid Championship Day 2: 18-year-old Murzin shines, as Ju takes the lead in Women's event"
+      },
+      {
+         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen left the entire event after being warned that he didn't meet clothing regulations in earlier rounds of the rapid (basically he chose to wear jeans) and then being defaulted in round 9. He has stated this is likely his final FIDE event, he will not play the blitz. He was in any case completely out of the running for a medal in the rapids. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
+         "pubDate" : "Sat, 28 Dec 2024 00:52:00",
+         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
+      },
+      {
          "description" : " The world No 1 was defaulted from the World Rapid Championship and has also chosen to withdraw from the World Blitz saying 'it became a matter of principle' Magnus Carlsen, the world No 1, has been disqualified from the World Rapid Championship in New York due to a dress code violation, refusing to change from jeans, after a previous warning. He is also withdrawing from the World Blitz which starts on 30 December. Fide explained their decision <a href=\"https://www.fide.com/news/3363\">in a statement</a> while Carlsen said: \"I said I'll change tomorrow &hellip; but they said you have to change now it became a matter of principle for me so here we are! Honestly I'm too old at this point to car",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "World Rapid Championship - Live!"
       },
       {
-         "description" : "GM Magnus Carlsen hasn&#39;t been paired for round nine of the 2024 FIDE World Rapid Chess Championship after refusing to change out of his jeans to comply with FIDE&#39;s dress code. He told Take Take Take that he would leave for somewhere with better we...",
+         "description" : "GM Magnus Carlsen hasn&#39;t been paired for round nine or 10 of the 2024 FIDE World Rapid Chess Championship after refusing to change out of his jeans to comply with FIDE&#39;s dress code. He told Take Take Take that he would leave for somewhere with bet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-2",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-faces-daunting-challenge-at-world-rapid-and-blitz-chess-championship/articleshow/116679796.cms",
          "pubDate" : "Thu, 26 Dec 2024 09:38:47",
          "title" : "Arjun Erigaisi faces daunting challenge at World Rapid and Blitz Chess Championship"
-      },
-      {
-         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
-         "pubDate" : "Wed, 25 Dec 2024 22:28:00",
-         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
       },
       {
          "description" : "The 2024 FIDE World Rapid and Blitz Championship will be held from December 26 (early December 27 in India) to December 31 (early January 1 in India) in Wall Street, New York.",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "FIDE Circuit 2024: Caruana seizes the lead"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116363074.cms\" />18-year-old D Gukesh returned to India as a hero after becoming the youngest-ever world chess champion, surpassing Garry Kasparov's record. He defeated Ding Liren in Singapore, securing India's second world title after Viswanathan Anand. Gukesh received a grand welcome in Chennai, with a planned celebration and a ₹5 crore prize from the Tamil Nadu CM.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-arrives-in-chennai-to-rapturous-welcome-watch/articleshow/116363074.cms",
-         "pubDate" : "Mon, 16 Dec 2024 09:28:53",
-         "title" : "D Gukesh arrives in Chennai to rapturous welcome - WATCH"
-      },
-      {
          "description" : "We&#39;re excited to announce that the Chess.com Community Championships will continue next year with more events and a total of $40,000 in prizes! The 2025 cycle begins on January 13 with the Chess.com Puzzles Championship and will feature a differen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42819455/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-10?device=featurephone",
          "pubDate" : "Sat, 7 Dec 2024 07:30:53",
          "title" : "Gukesh and Ding play out conservative draw in game 10 of WCC"
-      },
-      {
-         "description" : "ESPN India spoke to the Singapore Chess Federation's CEO Kevin Goh on the work that has gone on behind the scenes to allow D Gukesh and Ding Liren to just concentrate on playing their best chess.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42826153/gukesh-vs-ding-story-singapore-pulled-world-chess-championship?device=featurephone",
-         "pubDate" : "Sat, 7 Dec 2024 02:27:59",
-         "title" : "The inside story of how Singapore pulled off the World Chess Championship"
       }
    ]
 }
