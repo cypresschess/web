@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Please find the live live games link for the Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024&#160;which is scheduled from December",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-athens-of-the-east-4th-international-open-fide-rated-chess-tournament-2024/",
+         "pubDate" : "Sat, 28 Dec 2024 06:48:53",
+         "title" : "Live Games Link for Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116729673.cms\" />Magnus Carlsen, five-time world champion, faced disqualification from the World Rapid and Blitz Chess Championship for violating FIDE's dress code by wearing jeans. Despite being fined USD 200 and instructed to change his attire, Carlsen's refusal led to his exclusion from the Rapid championship. He criticized FIDE's policies and stated he would not participate further.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "FIDE statement regarding Magnus Carlsen's dress code breach"
       },
       {
+         "description" : "A dress-code violation over the wearing of jeans saw Carlsen fined and after refusing to comply, he was not paired for round 9, resulting in his withdrawal.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43187695/fide-world-rapid-blitz-chess-championships-2024-magnus-carlsen-announces-shock-withdrawal-arjun-erigaisi-harika-dronavalli-koneru-humpy-leaders-day-2?device=featurephone",
+         "pubDate" : "Fri, 27 Dec 2024 22:49:12",
+         "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen announces shock withdrawal; Arjun, Harika, Humpy among leaders after Day 2"
+      },
+      {
          "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +66,12 @@ news_feed (
          "title" : "World Rapid Championship - Live!"
       },
       {
-         "description" : "GM Magnus Carlsen hasn&#39;t been paired for round nine or 10 of the 2024 FIDE World Rapid Chess Championship after refusing to change out of his jeans to comply with FIDE&#39;s dress code. He told Take Take Take that he would leave for somewhere with bet...",
+         "description" : "GM Magnus Carlsen will no longer participate in the 2024 FIDE World Rapid Chess Championship or the FIDE World Blitz Chess Championship after a dress code disagreement with FIDE. He finishes the Rapid with a 5/8 score and will not defend his doubl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-2",
          "pubDate" : "Fri, 27 Dec 2024 15:54:00",
-         "title" : "BREAKING: Carlsen Quits Rapid & Blitz Championships Over Dress Code Disagreement"
+         "title" : "Carlsen Quits Rapid & Blitz Championships; Murzin, Duda, Arjun, Grischuk Lead Open"
       },
       {
          "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
@@ -922,14 +938,6 @@ news_feed (
          "title" : "Collegiate Chess League Spring 2025 Registration"
       },
       {
-         "description" : "The 15th KIIT International Chess Festival 2024, organized by KIIT University, Bhubaneswar, under the aegis of the All India Chess Federation (AICF), concluded successfully on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-savchenko-boris-winner15th-kiit-international-chess-festival-2024/",
-         "pubDate" : "Fri, 13 Dec 2024 06:13:09",
-         "title" : "GM Savchenko Boris Emerges Champion at 15th KIIT International Chess Festival 2024"
-      },
-      {
          "description" : "Although the final moments may have been dramatic, so it seemed Gukesh had manufactured a win, this was all thought out well before the world championship even began.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42833151/onus-d-gukesh-white-skills-ding-liren-eagerness-draw-game-10-world-chess-championship-2024?device=featurephone",
          "pubDate" : "Sat, 7 Dec 2024 10:50:26",
          "title" : "Onus on Gukesh's white skills after Ding's eagerness to draw in game 10 of WCC"
-      },
-      {
-         "description" : "Game 10 was the quickest draw of the World Championship, which is now tied at 5 points each after seven consecutive draws.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42819455/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-10?device=featurephone",
-         "pubDate" : "Sat, 7 Dec 2024 07:30:53",
-         "title" : "Gukesh and Ding play out conservative draw in game 10 of WCC"
       }
    ]
 }
