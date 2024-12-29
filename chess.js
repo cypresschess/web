@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116769200.cms\" />India's top female chess player, Koneru Humpy, won the FIDE Women's World Rapid Chess Championship for the second time. Prime Minister Modi praised her achievement, emphasizing its inspirational impact. Humpy's victory follows a significant year for Indian chess, marked by D Gukesh's historic win. Humpy hopes her success will motivate young Indians to pursue chess professionally.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-victory-is-even-more-historic-pm-modi-lauds-koneru-humpy-on-world-chess-rapid-championship-win/articleshow/116769200.cms",
+         "pubDate" : "Sun, 29 Dec 2024 13:02:11",
+         "title" : "'This victory is even more historic': Modi lauds Humpy"
+      },
+      {
          "description" : "The World Championship match between Gukesh Dommaraju and Ding Liren demonstrated how important it can be to catch your opponent on the wrong foot in the opening. In her 60-minute course, Svitlana Demchenko shows how this can be achieved with both colours and very little theory. | Photos: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -658,14 +666,6 @@ news_feed (
          "title" : "FIDE and World Chess Present the Limited Edition FIDE 2024 Rapid and Blitz Championships Collection"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116467940.cms\" />18-year-old Indian chess prodigy D Gukesh claimed the World Chess Championship title, defeating Ding Liren in a thrilling 7.5-6.5 victory. Gukesh's mental conditioning coach, Paddy Upton, played a key role in his preparation, spending over 40 hours on video calls over six months. This win makes Gukesh the youngest World Champion in history, breaking Garry Kasparov's long-standing record.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-spent-over-40-hours-on-weekly-90-minute-video-calls-with-d-gukesh-paddy-upton/articleshow/116467940.cms",
-         "pubDate" : "Thu, 19 Dec 2024 09:05:52",
-         "title" : "'I spent over 40 hours on weekly 90-minute video calls with Gukesh'"
-      },
-      {
          "description" : "European Chess Union and ECU Trainers Commission publish the games with analysis of the 2024 World Chess Championship. In-depth 100-page analysis of all the World Championship Match between Ding Liren and Gukesh D includes expert commentary and insights by ECU Trainers Commission Secretary, world renowned trainer and Grandmaster Efstratios Grivas. The 100-page Analysis can be downloaded below as a Christmas gift to all chess fans. Featured photo by FIDE/ Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1224,22 +1224,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/working-with-gukesh-fascinating-journey.html",
          "pubDate" : "Sun, 08 Dec 2024 16:48:00",
          "title" : "Working with Gukesh 'A Fascinating Journey'"
-      },
-      {
-         "description" : " Alpha Phi Alpha Fraternity, Inc. was founded in December 4, 1906 at Cornell University, just celebrating its 118th anniversary. The 290,000-member has always promoted academic excellence and scholarship, and the organization has national programs, including &#8220;Project Alpha&#8221; and &#8220;Go-to-Highschool-Go-to-College.&#8221; It is the first Black intercollegiate fraternity with more than 700 chapters across the world. Tony The post <a href=\"https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/\">Alpha Phi Alpha's Dunlap touts Chess Initiative</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/08/alpha-phi-alphas-dunlap-touts-chess-initiative/",
-         "pubDate" : "Sun, 08 Dec 2024 14:34:18",
-         "title" : "Alpha Phi Alpha's Dunlap touts Chess Initiative"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3341",
-         "pubDate" : "Sun, 08 Dec 2024 14:26:59",
-         "title" : "FIDE World Championship Game 11: Ding collapses under pressure as Gukesh takes the lead"
       }
    ]
 }
