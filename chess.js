@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Championship match between Gukesh Dommaraju and Ding Liren demonstrated how important it can be to catch your opponent on the wrong foot in the opening. In her 60-minute course, Svitlana Demchenko shows how this can be achieved with both colours and very little theory. | Photos: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/demchenko-opening-surprises-review",
+         "pubDate" : "Sun, 29 Dec 2024 12:20:00",
+         "title" : "Invest an hour and you will be ready to confound your opponents: Svitlana Demchenko's Opening Surprises"
+      },
+      {
+         "description" : "Beneath its deceptively simple facade of a game, chess conceals a rich tapestry of human ingenuity and thought. It is, as Anatoly Karpov succinctly remarked, art, science, and sport all rolled into one. Yet, while the competitive aspect of chess basks in the limelight with its high-stakes, action-packed tournaments and matches, the subtle but no less fascinating endeavour of chess composition, where artistry shines the brightest, languishes in relative obscurity. As a step towards redressing this imbalance, ChessBase India and the World Federation for Chess Composition (WFCC) present My First Endgame Study, a beginner-friendly study composing contest designed for chess enthusiasts eager to e",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-first-endgame-study-a-chess-composition-tourney-by-wfcc-and-chessbase-india",
+         "pubDate" : "Sun, 29 Dec 2024 12:00:00",
+         "title" : "My First Endgame Study: A Chess Composition Tourney by WFCC and ChessBase India"
+      },
+      {
+         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen left the entire event after being warned that he didn't meet clothing regulations in earlier rounds of the rapid (basically he chose to wear jeans) and then being defaulted in round 9 when he didn't change his clothes. He has stated this is likely his final FIDE event, he will not play the blitz. He was in any case completely out of the running for a medal in the rapids. The rapid title was ta",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
+         "pubDate" : "Sun, 29 Dec 2024 11:01:00",
+         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116766626.cms\" />Magnus Carlsen, five-time world chess champion, withdrew from the 2024 World Rapid and Blitz Championship after a dispute over his attire. Highlighting dissatisfaction with FIDE, Carlsen's actions reflect a broader push for freedom and innovation in chess. His ventures like Freestyle Chess Club aim to revolutionize the chess landscape, promoting autonomy and creativity among elite players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/jeans-gambit-declined-the-clash-of-magnus-carlsen-and-fide/articleshow/116766626.cms",
+         "pubDate" : "Sun, 29 Dec 2024 10:40:43",
+         "title" : "Jeans Gambit Declined: The clash of Magnus Carlsen and FIDE"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116757074.cms\" />Magnus Carlsen withdrew from the World Rapid and Blitz Chess Championships in New York after being fined $200 for breaching the Dress Code by wearing jeans. Despite being asked to change, Carlsen refused, citing a matter of principle and decided not to appeal the decision. FIDE has argued they were only following the rules.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -30,8 +62,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/43200845/fide-world-rapid-chess-championships-2024-koneru-humpy-wins-second-title-arjun-erigaisi-finishes-fifth-volodar-murzin?device=featurephone",
-         "pubDate" : "Sat, 28 Dec 2024 21:31:06",
-         "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second title; Arjun Erigaisi finishes 5th"
+         "pubDate" : "Sun, 29 Dec 2024 00:59:40",
+         "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second women's title; Volodar Murzin wins in open section"
       },
       {
          "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3364",
          "pubDate" : "Sat, 28 Dec 2024 01:10:40",
          "title" : "FIDE World Rapid Championship Day 2: 18-year-old Murzin shines, as Ju takes the lead in Women's event"
-      },
-      {
-         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen left the entire event after being warned that he didn't meet clothing regulations in earlier rounds of the rapid (basically he chose to wear jeans) and then being defaulted in round 9. He has stated this is likely his final FIDE event, he will not play the blitz. He was in any case completely out of the running for a medal in the rapids. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
-         "pubDate" : "Sat, 28 Dec 2024 00:52:00",
-         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
       },
       {
          "description" : " The world No 1 was defaulted from the World Rapid Championship and has withdrawn from the World Blitz Magnus Carlsen, the world No 1, has been disqualified from the World Rapid Championship in New York due to a dress code violation, refusing to change from jeans, after a previous warning. He is also withdrawing from the World Blitz which starts on 30 December. Fide (the World Chess Federation) explained its decision <a href=\"https://www.fide.com/news/3363\">in a statement</a> while Carlsen said: \"I said I'll change tomorrow &hellip; but they said you have to change now it became a matter of principle for me so here we are! Honestly I'm too old at this point to care too much. If this is what ",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://www.europechess.org/analysis-of-the-2024-world-chess-championship-games-by-gm-efstratios-grivas/",
          "pubDate" : "Thu, 19 Dec 2024 07:45:07",
          "title" : "Analysis of the 2024 World Chess Championship Games by GM Efstratios Grivas"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116454769.cms\" />Chess legend Viswanathan Anand praised retiring cricketer Ravichandran Ashwin's strategic mind, comparing his spin bowling to a chess game. Anand, relating to Ashwin's decision, reflected on his own career transition. He acknowledged Ashwin's impressive achievements and wished him well in his future endeavors, recalling a recent pleasant conversation they shared on a flight.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/maybe-chess-helped-ashwin-outfox-batters-anand/articleshow/116454769.cms",
-         "pubDate" : "Thu, 19 Dec 2024 01:23:58",
-         "title" : "Maybe chess helped Ashwin outfox batters: Anand"
       },
       {
          "description" : "The KCF University Cup Will Take Place on February 1 - 2, 2025, on lichess.org platform. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Kasparov Chess Foundation announces the fifth annual KCF University Cup, which will take place, February 1 and 2, 2025. The KCF University Cup is an international online tournament, which is open to teams from a post-secondary school (university, college, community college, etc.). All participating students must be enrolled in at least one class in the January 2025 semester.KCF's University Cup features a nine-round team, Swiss system format over the two days, with a rapid time control, and will be played on the free and non-commer",
@@ -1224,38 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3341",
          "pubDate" : "Sun, 08 Dec 2024 14:26:59",
          "title" : "FIDE World Championship Game 11: Ding collapses under pressure as Gukesh takes the lead"
-      },
-      {
-         "description" : " The eleventh game of the FIDE World Chess Championship saw Gukesh strike potentially a fatal blow to Ding's chances in the match. This was completely different to yesterday's game, Gukesh chose the Reti and Ding chose a sharp variation which got him into trouble as he didn't seem to fancy the complications when he got there. Ding thought for about an hour over his fourth and fifth moves and put himself in time trouble right from the start. This was clearly a sign of indecision. Gukesh's 5.a3 was shown to him last night and he actually lost his advantage quite quickly, 9.d3=. Gukesh caught up on the clock with a huge think to find 11.g3 but then after 15.Rd1?! e6 or 15....Qb8 would have left",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-blunders-in-a-game-of-extraordinary-mutual-tension-world-championship-game-11",
-         "pubDate" : "Sun, 8 Dec 2024 11:49:00",
-         "title" : "Ding blunders in a game of extraordinary mutual tension - World Championship Game 11 - 11"
-      },
-      {
-         "description" : "In winning game 11 the way he's done, Gukesh has given the chess world another demonstration of why he's a worthy challenger, and why he'll be a worthy world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42852518/gukesh-shows-maturity-champion-beating-ding-liren-steps-closer-being-crowned-king-world-championship-game-11?device=featurephone",
-         "pubDate" : "Sun, 8 Dec 2024 11:18:05",
-         "title" : "Gukesh shows maturity of a champion in beating Ding; steps closer to being crowned king"
-      },
-      {
-         "description" : "English chess stars pulled off an unprecedented 1-2-3 in the 2024 XTX Markets London Chess Classic against a world-class field at Arsenal FC's Emirates Stadium as Grandmaster Gawain Jones was...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/gawain-jones-wins-london-chess-classic-at-the-emirates-as-english-stars-dominate/",
-         "pubDate" : "Sun, 08 Dec 2024 08:41:44",
-         "title" : "Gawain Jones wins London Chess Classic at the Emirates as English stars dominate"
-      },
-      {
-         "description" : "Gukesh leads 6-5 overall with three games to go, and will become the youngest world champion with three draws.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42840445/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-11?device=featurephone",
-         "pubDate" : "Sun, 8 Dec 2024 08:36:01",
-         "title" : "Gukesh defeats Ding in game 11 to take crucial lead in Chess World Championship"
       }
    ]
 }
