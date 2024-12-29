@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2024-12-27","21","<a href=http://www.uschess.org/msa/XtblMain.php?202412272562 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2024-12-27","18","<a href=http://www.uschess.org/msa/XtblMain.php?202412272452 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-12-22","20","<a href=http://www.uschess.org/msa/XtblMain.php?202412220542 target='_blank'>SUNDAY SWISS AT NOON DEC. 22ND</a>",
 "HOUSTON","2024-12-21","8","<a href=http://www.uschess.org/msa/XtblMain.php?202412219422 target='_blank'>CHESSPANDA12212024SATURDAY</a>",
 "HOUSTON","2024-12-21","31","<a href=http://www.uschess.org/msa/XtblMain.php?202412219192 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2024-05-03  - 05-05","62","<a href=http://www.uschess.org/msa/XtblMain.php?202405053502 target='_blank'>$2,500 MAY 2024 CHAMPIONSHIP</a>",
 "SPRING","2024-05-04","133","<a href=http://www.uschess.org/msa/XtblMain.php?202405042962 target='_blank'>STRACK INTERMEDIATE</a>",
 "HOUSTON","2024-05-04","109","<a href=http://www.uschess.org/msa/XtblMain.php?202405042492 target='_blank'>MAY THE 4TH BE WITH YOU</a>",
-"HOUSTON","2024-05-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202405042372 target='_blank'>CHESSPANDA05042024SATURDAY</a>",
-"HOUSTON","2024-05-03","27","<a href=http://www.uschess.org/msa/XtblMain.php?202405031962 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
