@@ -26,6 +26,14 @@ news_feed (
          "title" : "India's Koneru Humpy becomes Rapid chess world champion"
       },
       {
+         "description" : "Koneru Humpy won the women's world rapid title for the second time; Arjun Erigaisi fell a point short in the open section",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43200845/fide-world-rapid-chess-championships-2024-koneru-humpy-wins-second-title-arjun-erigaisi-finishes-fifth-volodar-murzin?device=featurephone",
+         "pubDate" : "Sat, 28 Dec 2024 21:31:06",
+         "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second title; Arjun Erigaisi finishes 5th"
+      },
+      {
          "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,12 @@ news_feed (
          "title" : "World Rapid Championship - Live!"
       },
       {
-         "description" : "GM Volodar Murzin won the 2024 FIDE World Rapid Chess Championship with an undefeated 10/13 score. Despite a slow start on day one, GM Koneru Humpy won the 2024 FIDE Women&#39;s World Rapid Chess Championship with 8.5/11, her second world title in rap...",
+         "description" : "GM Volodar Murzin won the 2024 FIDE World Rapid Chess Championship with an undefeated 10/13 score. At 18 years old, he is the second-youngest rapid world champion in history, after GM Nodirbek Abdusattorov who was 17 during his victory in 2021. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-3",
          "pubDate" : "Sat, 28 Dec 2024 16:29:00",
-         "title" : "Murzin Wins Rapid World Championship, Humpy Wins 2nd Title In Women's"
+         "title" : "Murzin Wins Rapid World Championship, Humpy Earns 2nd Title In Women's"
       },
       {
          "description" : "GM Ediz Gurel captured first place and $400 in 2024&#39;s final Bullet Brawl, one week after falling short of his second title. Following their tussle at the top in the previous event, GM Oleksander Bortnyk fell three points shy of wresting the title ...",
