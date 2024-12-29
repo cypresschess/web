@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116757074.cms\" />Magnus Carlsen withdrew from the World Rapid and Blitz Chess Championships in New York after being fined $200 for breaching the Dress Code by wearing jeans. Despite being asked to change, Carlsen refused, citing a matter of principle and decided not to appeal the decision. FIDE has argued they were only following the rules.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-responds-to-disqualification-at-world-rapid-and-blitz-chess-championships-over-dress-code-violation/articleshow/116757074.cms",
+         "pubDate" : "Sun, 29 Dec 2024 02:22:08",
+         "title" : "Magnus Carlsen responds to disqualification at Worlds"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3365",
+         "pubDate" : "Sun, 29 Dec 2024 02:00:08",
+         "title" : "Volodar Murzin and Humpy Koneru new FIDE World Rapid Champions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116756775.cms\" />India's Koneru Humpy won her second World Rapid Chess Championship title, beating Indonesia's Irene Sukandar. Humpy previously won in 2019. The 37-year-old scored 8.5 points from 11 rounds. Humpy's victory follows D Gukesh's triumph earlier this year, highlighting India's strong performance in chess. Russia's Volodar Murzin clinched the men's title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-koneru-humpy-becomes-rapid-chess-world-champion/articleshow/116756775.cms",
+         "pubDate" : "Sun, 29 Dec 2024 01:51:27",
+         "title" : "India's Koneru Humpy becomes Rapid chess world champion"
+      },
+      {
          "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
          "pubDate" : "Sat, 28 Dec 2024 19:50:00",
          "title" : "World Rapid Championship - Live!"
+      },
+      {
+         "description" : "GM Volodar Murzin won the 2024 FIDE World Rapid Chess Championship with an undefeated 10/13 score. Despite a slow start on day one, GM Koneru Humpy won the 2024 FIDE Women&#39;s World Rapid Chess Championship with 8.5/11, her second world title in rap...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-3",
+         "pubDate" : "Sat, 28 Dec 2024 16:29:00",
+         "title" : "Murzin Wins Rapid World Championship, Humpy Wins 2nd Title In Women's"
+      },
+      {
+         "description" : "GM Ediz Gurel captured first place and $400 in 2024&#39;s final Bullet Brawl, one week after falling short of his second title. Following their tussle at the top in the previous event, GM Oleksander Bortnyk fell three points shy of wresting the title ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-december-28-2024",
+         "pubDate" : "Sat, 28 Dec 2024 16:21:00",
+         "title" : "Gurel Claims 2nd Bullet Brawl Title, Carlsen Joins Late Following 'Jeansgate'"
       },
       {
          "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only. The additional players and accompanying",
@@ -682,14 +722,6 @@ news_feed (
          "title" : "Young talents shine at World Youth Rapid & Blitz Championship in Slovenia"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116407901.cms\" />Tamil Nadu Chief Minister M.K. Stalin felicitated 18-year-old D. Gukesh, the world's youngest chess champion, with ₹5 crore and announced the establishment of a chess academy. Stalin praised Gukesh's achievement, calling him an inspiration for aspiring youth. Gukesh expressed gratitude for the government's support and acknowledged Viswanathan Anand as his role model.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-5-crore-award-for-gukesh-tamil-nadu-cm-felicitates-world-chess-champion/articleshow/116407901.cms",
-         "pubDate" : "Tue, 17 Dec 2024 16:23:22",
-         "title" : "Rs 5 crore award for Gukesh! Tamil Nadu CM felicitates"
-      },
-      {
          "description" : "The Call of Interest for arbiters who wish to be appointed as match arbiters in European events in 2025 is here! We are addressing International and FIDE Arbiters (IAs and FAs) who are under the flag of federations that are affiliated to the European Chess Union. As ECU Arbiters' Council, we appoint now 30% of the match arbiters in each European event and select them based on their skills, experience and tournament preferences. You can find the regulations here. Call of Interest 2025 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -728,14 +760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3335",
          "pubDate" : "Tue, 17 Dec 2024 13:36:50",
          "title" : "Extended list of participants for 2024 WRB announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116403684.cms\" />Tamil Nadu Chief Minister M.K. Stalin will honor newly crowned World Chess Champion D. Gukesh with a ₹5 crore cheque on Tuesday. Gukesh, 18, returned to Chennai after his historic victory against Ding Liren in Singapore, becoming the youngest World Champion ever.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-comes-to-standstill-as-world-champion-d-gukesh-participates-in-ceremonial-parade/articleshow/116403684.cms",
-         "pubDate" : "Tue, 17 Dec 2024 13:15:04",
-         "title" : "Chennai comes to standstill as Gukesh participates in parade"
       },
       {
          "description" : "&#160;All India Chess Federation (AICF), in collaboration with the Mizoram Chess Association, organized a Grandmaster Coaching Camp in Aizawl, Mizoram. The camp was conducted by",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "GothamChess To Meet Fans In Person In First-Ever European Tour Starting May 2025"
       },
       {
-         "description" : "Another season of the Collegiate Chess League (CCL) is just around the corner, and we are excited to announce that registrations for the Spring 2025 season are now open! The CCL will once again feature a robust $25,000 prize fund, the popular four...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2025-registration",
-         "pubDate" : "Fri, 13 Dec 2024 06:30:00",
-         "title" : "Collegiate Chess League Spring 2025 Registration"
-      },
-      {
          "description" : "Although the final moments may have been dramatic, so it seemed Gukesh had manufactured a win, this was all thought out well before the world championship even began.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html",
          "pubDate" : "Thu, 12 Dec 2024 16:50:00",
          "title" : "December 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "We&#39;re excited to announce the 2025 Chess.com Chess Improvement Challenge! This is your chance to join a community of like-minded Chess.com members and coaches, reach your chess improvement goals, and win prizes! Sign up for the challenge and set...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-improvement-challenge-2025",
-         "pubDate" : "Thu, 12 Dec 2024 16:04:00",
-         "title" : "Level Up Your Chess And Win Prizes In The 2025 Chess Improvement Challenge"
       },
       {
          "description" : "",
