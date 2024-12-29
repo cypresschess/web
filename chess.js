@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After our Christmas Puzzles, involving kings and a couple of pawns, you may be tempted to call Ding Liren's oversight in the final game of the World Championship match a gross blunder. It was a catastrophic mistake that cost the World Champion millions of dollars of potential future income. How it came about is explained by ChessBase Magazine author GM Dorian Rogozenco in this video reconstruction.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-s-million-dollar-mistake",
+         "pubDate" : "Sun, 29 Dec 2024 21:00:00",
+         "title" : "Ding's million dollar mistake"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3368",
+         "pubDate" : "Sun, 29 Dec 2024 19:58:42",
+         "title" : "Magnus Carlsen will participate in 2024 FIDE World Blitz Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3366",
+         "pubDate" : "Sun, 29 Dec 2024 18:34:23",
+         "title" : "Statement by FIDE President on dress-code rules for Rapid and Blitz Championships"
+      },
+      {
+         "description" : "The World Rapid Chess Championships concluded with outright victories in both the open and women's sections. In the open category, 18-year-old Russian GM Volodar Murzin stunned a star-studded field to claim the title with an unbeaten 10/13 score, becoming the second-youngest champion in the event's history. Meanwhile, India's Humpy Koneru clinched her second women's world rapid title with a clutch final-round victory, finishing with 8&frac12;/11 points. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d3",
+         "pubDate" : "Sun, 29 Dec 2024 17:35:00",
+         "title" : "Volodar Murzin and Humpy Koneru are the 2024 world rapid champions!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116769200.cms\" />India's top female chess player, Koneru Humpy, won the FIDE Women's World Rapid Chess Championship for the second time. Prime Minister Modi praised her achievement, emphasizing its inspirational impact. Humpy's victory follows a significant year for Indian chess, marked by D Gukesh's historic win. Humpy hopes her success will motivate young Indians to pursue chess professionally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,6 +58,14 @@ news_feed (
          "title" : "My First Endgame Study: A Chess Composition Tourney by WFCC and ChessBase India"
       },
       {
+         "description" : "GM Magnus Carlsen has made a sensational u-turn and confirmed that he will participate in the 2024 FIDE World Blitz Championship in New York. His infamous jeans will remain on. The announcement was made in an interview with IM Levy Rozman for hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/breaking-magnus-carlsen-makes-u-turn-confirms-world-blitz-championship-participation",
+         "pubDate" : "Sun, 29 Dec 2024 11:51:00",
+         "title" : "BREAKING: Magnus Carlsen Makes U-Turn, Confirms World Blitz Participation"
+      },
+      {
          "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen left the entire event after being warned that he didn't meet clothing regulations in earlier rounds of the rapid (basically he chose to wear jeans) and then being defaulted in round 9 when he didn't change his clothes. He has stated this is likely his final FIDE event, he will not play the blitz. He was in any case completely out of the running for a medal in the rapids. The rapid title was ta",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/jeans-gambit-declined-the-clash-of-magnus-carlsen-and-fide/articleshow/116766626.cms",
          "pubDate" : "Sun, 29 Dec 2024 10:40:43",
          "title" : "Jeans Gambit Declined: The clash of Magnus Carlsen and FIDE"
+      },
+      {
+         "description" : "NBA superstar Victor &#34;Wemby&#34; Wembanyama turned a rainy day in New York City into an unforgettable experience when he invited fans to play chess with him in Washington Square Park on Saturday.&#38;nbsp; The 7&#39;3&#34; (2.21 cm) San Antonio Spurs sensation,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nba-superstar-requested-chess-partner-in-nyc",
+         "pubDate" : "Sun, 29 Dec 2024 09:32:06",
+         "title" : "NBA Superstar Requested Chess Partner On Rainy Day In NYC"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116757074.cms\" />Magnus Carlsen withdrew from the World Rapid and Blitz Chess Championships in New York after being fined $200 for breaching the Dress Code by wearing jeans. Despite being asked to change, Carlsen refused, citing a matter of principle and decided not to appeal the decision. FIDE has argued they were only following the rules.",
@@ -72,14 +120,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43200845/fide-world-rapid-chess-championships-2024-koneru-humpy-wins-second-title-arjun-erigaisi-finishes-fifth-volodar-murzin?device=featurephone",
          "pubDate" : "Sun, 29 Dec 2024 00:59:40",
          "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second women's title; Volodar Murzin wins in open section"
-      },
-      {
-         "description" : "The World Rapid Championships are taking place in New York on 26-28 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 15 minutes for the game plus 10-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
-         "pubDate" : "Sat, 28 Dec 2024 19:50:00",
-         "title" : "World Rapid Championship - Live!"
       },
       {
          "description" : "GM Volodar Murzin won the 2024 FIDE World Rapid Chess Championship with an undefeated 10/13 score. At 18 years old, he is the second-youngest rapid world champion in history, after GM Nodirbek Abdusattorov who was 17 during his victory in 2021. ...",
@@ -978,28 +1018,12 @@ news_feed (
          "title" : "Paddy Upton's helping hand to Gukesh: Video calls, temperature controls, last-minute flight out"
       },
       {
-         "description" : "Chess.com is happy to announce a new partnership with Freestyle Chess to support the 2025 Freestyle Chess Grand Slam Tour. Chess.com will host the live coverage of the Tour and offer a qualification path for each event to any of our members, with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-grand-slam-tour-2025-partnership",
-         "pubDate" : "Fri, 13 Dec 2024 08:30:00",
-         "title" : "Chess.com Officially Partners With Freestyle Chess To Support 2025 Grand Slam Tour"
-      },
-      {
          "description" : "It was a moment that, he said, he had replayed millions of times in his head.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/42947193/d-gukesh-beats-ding-lire-becomes-world-champion-gets-trophy?device=featurephone",
          "pubDate" : "Fri, 13 Dec 2024 07:45:50",
          "title" : "Gukesh gets his trophy: 'This moment was why I did every little thing so far'"
-      },
-      {
-         "description" : "If you play chess, chances are you&#39;ve heard of IM Levy Rozman. Known as GothamChess, Levy is the world&#39;s biggest chess content creator, with millions of fans all around the planet. A Youtuber, commentator, and writer, Levy is now embarking on his ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-european-tour-may-2025",
-         "pubDate" : "Fri, 13 Dec 2024 07:00:00",
-         "title" : "GothamChess To Meet Fans In Person In First-Ever European Tour Starting May 2025"
       },
       {
          "description" : "Although the final moments may have been dramatic, so it seemed Gukesh had manufactured a win, this was all thought out well before the world championship even began.",
@@ -1208,22 +1232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/espn-love-at-first-sight",
          "pubDate" : "Mon, 09 Dec 2024 08:10:00",
          "title" : "ESPN: 'Love at first sight'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3342",
-         "pubDate" : "Sun, 08 Dec 2024 20:30:13",
-         "title" : "Italian Championship: Francesco Sonis and Marina Brunello capture titles"
-      },
-      {
-         "description" : "In this series of monthly posts featuring a video, we've seen Youtube's <I>ChessBase India</I> channel (CBI) many times, most recently in <A HREF=\"https://chessforallages.blogspot.com/2024/10/the-london-chess-centre-on-video.html\">The London Chess Centre on Video</A> (October 2024). This month's video is a collaboration between CBI and Youtube's <I>Paddy Upton</I> channel, where it lives. <P> Who is Paddy Upton? Wikipedia's page <A HREF=\"https://en.wikipedia.org/wiki/Paddy_Upton\">Paddy Upton</A> (wikipedia.org) informs, <BLOCKQUOTE> Patrick Anthony Howard 'Paddy' Upton (born 5 November 1968) is a South African born cricket coach specialising as head coach in professional Twenty20 cricket, me",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/working-with-gukesh-fascinating-journey.html",
-         "pubDate" : "Sun, 08 Dec 2024 16:48:00",
-         "title" : "Working with Gukesh 'A Fascinating Journey'"
       }
    ]
 }
