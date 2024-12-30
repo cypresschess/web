@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116800126.cms\" />Magnus Carlsen confirmed his return to the World Blitz Chess Championship after FIDE permitted players to compete in jeans. Carlsen criticized FIDE's decision-making process and deputy president Viswanathan Anand, claiming the situation was mishandled and Anand was not suitable for his role. Carlsen faced fines and rules clarification issues.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unfit-for-fide-job-magnus-carlsen-hits-out-at-viswanathan-anand/articleshow/116800126.cms",
+         "pubDate" : "Mon, 30 Dec 2024 11:53:21",
+         "title" : "'Unfit for FIDE job': Magnus Carlsen hits out at Viswanathan Anand"
+      },
+      {
+         "description" : "India's ace Grandmaster Koneru Humpy achieved a historic milestone by securing her second World Rapid Chess Championship title, defeating Indonesia's Irene Sukandar on Sunday. Having",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-koneru-humpy-triumphs-in-world-rapid-chess-championship-2024/",
+         "pubDate" : "Mon, 30 Dec 2024 09:21:11",
+         "title" : "GM Koneru Humpy Triumphs in World Rapid Chess Championship 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116784053.cms\" />Koneru Humpy overcame recent poor results and won her second Women's World Rapid Chess title in New York, demonstrating her resilience and the importance of maturity in chess. Arjun Erigaisi finished fifth in the Open World Rapid. Russia's Volodar Murzin, 18, claimed the Open title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -160,6 +176,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-december-28-2024",
          "pubDate" : "Sat, 28 Dec 2024 16:21:00",
          "title" : "Gurel Claims 2nd Bullet Brawl Title, Carlsen Joins Late Following 'Jeansgate'"
+      },
+      {
+         "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only.&#160;The additional players and accompanying",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-open-girls-chess-championship-2025-in-petrovac-montenegro/",
+         "pubDate" : "Sat, 28 Dec 2024 15:17:56",
+         "title" : "FIDE World Junior (Open & Girls) Chess Championship - 2025 in Petrovac, Montenegro"
       },
       {
          "description" : "Simple pawn endings are vital, and can win you a World Championship. Ask Gukesh. So can you understand and play them proficiently? Do you recognize winning chances in your calculations? In the second part of our Christmas pawn endgame puzzle suite, we bring you new and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
@@ -626,6 +650,14 @@ news_feed (
          "title" : "India's no.1 chess player faces US visa trouble, urges embassy to expedite process"
       },
       {
+         "description" : "While preparing a previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (November 2024), in this short series on Gukesh Dommaraju, I spotted a problem with the raw data:- <BLOCKQUOTE> [Earlier] I listed a half-dozen tournaments played through the end of 2017. Here's the continuation of that list [with 17 events]. There's at least one important tournament missing from that list. I'll cover it in my next post in the series. </BLOCKQUOTE> <P> One of the most striking aspects of the 2018 list is that only six of the 17 events were played in India. Most of the others were played in Europe. Anyone who travels farther than the l",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/globetrotting-gukesh.html",
+         "pubDate" : "Fri, 20 Dec 2024 16:23:00",
+         "title" : "Globetrotting Gukesh"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -672,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-rubiks-cct-finals-2024-giveaway",
          "pubDate" : "Fri, 20 Dec 2024 07:00:00",
          "title" : "Rubik's Cube, Chess.com, And Logic Team Up For The CCT Finals And A Special Giveaway!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116487349.cms\" />Newly crowned World Chess Champion, 18-year-old D Gukesh, displays remarkable humility, acknowledging his journey's just begun. Viswanathan Anand praises Gukesh's grounded attitude and predicts a unique path filled with diverse goals. With rising Indian stars like Praggnanandhaa and Erigaisi, Anand envisions a potential all-Indian World Chess Championship final in 2026, a landmark moment for Indian chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-a-lot-left-to-achieve-attitude-is-absolutely-terrific-says-anand/articleshow/116487349.cms",
-         "pubDate" : "Fri, 20 Dec 2024 02:53:16",
-         "title" : "Gukesh's 'a lot left to achieve' attitude is absolutely terrific, says Anand"
       },
       {
          "description" : "US Chess is excited to announce that registration is open for SuperNationals VIII, to be held in Orlando, Fla., May 9-11, 2025.In recent months US Chess has initiated changes to the entry fee structure for our national events, and with SuperNationals we are instituting a change in how tournament hotel rooms are blocked and booked. This change is a response to a shift in the hotel and meeting industries' approach to cancellation penalties since 2021. (See the October 2024 issue of Chess Life for a fuller discussion on why this change is necessary.)These changes are significant, so please read the following to the end.Different hotels have different policies, so be aware before booking a room.",
@@ -978,28 +1002,12 @@ news_feed (
          "title" : "From overpromotion to regicide"
       },
       {
-         "description" : "Sl No Candidate Name1 James Ruokuoselhou2 Rezabul Hoque3 Shanjothung Ngullie4 Nandan Buragohain5 Khoveto Vero6 Mrinal Kakati7 Dhrubajyoti Saha8 Shankar Barooah9 Thomas Lorin10 Dipankar Ghosh11 Rokozono",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-dimapur-of-28-29-november-2024/",
-         "pubDate" : "Sat, 14 Dec 2024 07:05:35",
-         "title" : "Certificate of SNA seminar held in DImapur of 28 & 29 November 2024"
-      },
-      {
          "description" : "Belief. It's the one quality that describes Gukesh -- and with him, elite Indian sport -- the best.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/42961042/gukesh-neeraj-pant-vinesh-anand-walks-footsteps-champions-defied-odds-ignored-convention?device=featurephone",
          "pubDate" : "Sat, 14 Dec 2024 06:07:51",
          "title" : "Neeraj, Pant, Vinesh, Vishy...Gukesh walks in footsteps of champions who defied odds, ignored convention"
-      },
-      {
-         "description" : "Date&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : November 10-18, 2024Location&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Bishkek, KyrgyzstanEvent Dates&#160;&#160;&#160;&#160;&#160;&#160; : November 11-17, 2024Tournament Format: Swiss System, 9 RoundsDelegate&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Tamizharasan MuruganCountry&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : INDIA Medal Winners",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-2nd-asian-chess-championship-for-disabilities-2024/",
-         "pubDate" : "Sat, 14 Dec 2024 05:29:19",
-         "title" : "Final report :2nd Asian Chess Championship for Disabilities 2024"
       },
       {
          "description" : "The era of India&#39;s GM Gukesh Dommaraju as chess world champion has begun, after an incredibly hard-fought 2024 FIDE World Championship in Singapore suddenly ended when the Chinese reigning champion GM Ding Liren blundered in the final classical ga...",
@@ -1224,30 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3343",
          "pubDate" : "Mon, 09 Dec 2024 14:27:45",
          "title" : "FIDE World Junior U20 Championship 2025: Registration is open"
-      },
-      {
-         "description" : " Ding Liren won game 12 of the FIDE World Chess Championship in Singapore and immediately leveled the match up after his loss yesterday. Ding had the white pieces and again we had a very sharp flank opening after Gukesh chose 4...d4. There are certainly safer ways to play. What we saw was an unbalanced English where Gukesh made a number of concessions until he was busted by move 23. 13...Rb8?!, 16...Nd7?! and the losing move 22...Bg5? were the key moments. It only slowly dawned on Ding that his position was \"much, much better\" after 23.Nf4, when Gukesh felt it necessary to play 23...Bxf4, losing all the dark squares on the board, the game was as good as over, and Ding didn't make any mistake",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-scores-a-crushing-win-against-gukesh-to-level-the-world-championship-match-at-6-6",
-         "pubDate" : "Mon, 9 Dec 2024 11:49:00",
-         "title" : "Ding scores a crushing win against Gukesh to level the World Championship match at 6-6 - 12"
-      },
-      {
-         "description" : "With his best game since becoming world champion, Ding Liren tied the World Chess Championship match 6-6.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42874460/ding-liren-shows-gukesh-world-chess-why-champion-match-12?device=featurephone",
-         "pubDate" : "Mon, 9 Dec 2024 11:23:07",
-         "title" : "Ding Liren shows Gukesh, and the world, why he is champion"
-      },
-      {
-         "description" : "Ding Liren won his first game with white in the championship, making it 6-6 overall.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
-         "pubDate" : "Mon, 9 Dec 2024 08:52:05",
-         "title" : "Ding Liren roars back into contention with game 12 win, drawing level in CWC"
       }
    ]
 }
