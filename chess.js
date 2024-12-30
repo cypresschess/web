@@ -10,6 +10,14 @@ news_feed (
          "title" : "Ding's million dollar mistake"
       },
       {
+         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen was defaulted in round 9 of the rapid when he didn't change his clothes after being informed they broke the regulations. He stated this was likely his final FIDE event, he would not play the blitz. This seemed very final from Carlsen but then on the rest day a blurred photo emerged of him talking to Viswanthan Anand (I'm guessing there's maybe a story that someone made sure there was a photo) ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
+         "pubDate" : "Sun, 29 Dec 2024 20:31:00",
+         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -21,9 +29,25 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3367",
+         "pubDate" : "Sun, 29 Dec 2024 19:01:03",
+         "title" : "A collection of 101 studies celebrating each year of FIDE published"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3366",
          "pubDate" : "Sun, 29 Dec 2024 18:34:23",
          "title" : "Statement by FIDE President on dress-code rules for Rapid and Blitz Championships"
+      },
+      {
+         "description" : "Top-ranked chess player Magnus Carlsen is headed back to the World Blitz Championship after he was fined in another event for refusing to change out of jeans.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43213121/magnus-carlsen-returns-chess-event-dress-code-flap?device=featurephone",
+         "pubDate" : "Sun, 29 Dec 2024 17:44:12",
+         "title" : "Chess ace returns to event after dress code flap"
       },
       {
          "description" : "The World Rapid Chess Championships concluded with outright victories in both the open and women's sections. In the open category, 18-year-old Russian GM Volodar Murzin stunned a star-studded field to claim the title with an unbeaten 10/13 score, becoming the second-youngest champion in the event's history. Meanwhile, India's Humpy Koneru clinched her second women's world rapid title with a clutch final-round victory, finishing with 8&frac12;/11 points. | Photo: FIDE / Michal Walusza",
@@ -58,20 +82,12 @@ news_feed (
          "title" : "My First Endgame Study: A Chess Composition Tourney by WFCC and ChessBase India"
       },
       {
-         "description" : "GM Magnus Carlsen has made a sensational u-turn and confirmed that he will participate in the 2024 FIDE World Blitz Championship in New York. His infamous jeans will remain on. The announcement was made in an interview with IM Levy Rozman for hi...",
+         "description" : "GM Magnus Carlsen has made a sensational U-turn and confirmed that he will participate in the 2024 FIDE World Blitz Championship in New York. The seven-time World Blitz Champion has now received the green light to play with jeans. The announceme...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/breaking-magnus-carlsen-makes-u-turn-confirms-world-blitz-championship-participation",
          "pubDate" : "Sun, 29 Dec 2024 11:51:00",
-         "title" : "BREAKING: Magnus Carlsen Makes U-Turn, Confirms World Blitz Participation"
-      },
-      {
-         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 30th December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen left the entire event after being warned that he didn't meet clothing regulations in earlier rounds of the rapid (basically he chose to wear jeans) and then being defaulted in round 9 when he didn't change his clothes. He has stated this is likely his final FIDE event, he will not play the blitz. He was in any case completely out of the running for a medal in the rapids. The rapid title was ta",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
-         "pubDate" : "Sun, 29 Dec 2024 11:01:00",
-         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
+         "title" : "Magnus Carlsen Makes U-Turn, Confirms World Blitz Participation With Jeans Approval"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116766626.cms\" />Magnus Carlsen, five-time world chess champion, withdrew from the 2024 World Rapid and Blitz Championship after a dispute over his attire. Highlighting dissatisfaction with FIDE, Carlsen's actions reflect a broader push for freedom and innovation in chess. His ventures like Freestyle Chess Club aim to revolutionize the chess landscape, promoting autonomy and creativity among elite players.",
@@ -122,7 +138,7 @@ news_feed (
          "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second women's title; Volodar Murzin wins in open section"
       },
       {
-         "description" : "GM Volodar Murzin won the 2024 FIDE World Rapid Chess Championship with an undefeated 10/13 score. At 18 years old, he is the second-youngest rapid world champion in history, after GM Nodirbek Abdusattorov who was 17 during his victory in 2021. ...",
+         "description" : "GM Volodar Murzin won the 2024 FIDE World Rapid Chess Championship with an undefeated 10/13 score. At 18 years old, he is the second-youngest rapid world champion in history, after GM Nodirbek Abdusattorov, who was 17 during his victory in 2021. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-3",
@@ -255,7 +271,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-2",
          "pubDate" : "Fri, 27 Dec 2024 15:54:00",
-         "title" : "Carlsen Quits Rapid & Blitz Championships; Murzin, Duda, Arjun, Grischuk Lead Open"
+         "title" : "Carlsen Quits Rapid World Championship; Murzin, Duda, Arjun, Grischuk Lead Open"
       },
       {
          "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
