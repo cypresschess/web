@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It happened during a training session we arranged for three young talents in the ChessBase office. It was conducted by Dr. Karsten M&uuml;ller, who is a leading endgame expert. Some time later, Karsten wrote an article in the (German language) Chess Calendar describing how the pre-teen Dommaraju Gukesh refuted a Tal brilliancy by the legendary Mikhail Tal. Here's an English translation of Karsten's article.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-a-12-year-old-demystified-tal",
+         "pubDate" : "Mon, 30 Dec 2024 15:00:00",
+         "title" : "How a 12-year-old demystified Tal"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116800126.cms\" />Magnus Carlsen confirmed his return to the World Blitz Chess Championship after FIDE permitted players to compete in jeans. Carlsen criticized FIDE's decision-making process and deputy president Viswanathan Anand, claiming the situation was mishandled and Anand was not suitable for his role. Carlsen faced fines and rules clarification issues.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1216,22 +1224,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42888854/gukesh-vs-ding-liren-chess-world-championship-final-home-stretch-preview?device=featurephone",
          "pubDate" : "Tue, 10 Dec 2024 07:36:19",
          "title" : "Gukesh's ambition vs Ding's momentum: What to expect from chess World Championship's home stretch"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3344",
-         "pubDate" : "Mon, 09 Dec 2024 14:47:50",
-         "title" : "FIDE World Championship Game 12: Ding Liren takes down Gukesh D to tie the match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3343",
-         "pubDate" : "Mon, 09 Dec 2024 14:27:45",
-         "title" : "FIDE World Junior U20 Championship 2025: Registration is open"
       }
    ]
 }
