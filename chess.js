@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116784053.cms\" />Koneru Humpy overcame recent poor results and won her second Women's World Rapid Chess title in New York, demonstrating her resilience and the importance of maturity in chess. Arjun Erigaisi finished fifth in the Open World Rapid. Russia's Volodar Murzin, 18, claimed the Open title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-becomes-second-woman-to-win-world-rapid-chess-title-twice/articleshow/116784053.cms",
+         "pubDate" : "Mon, 30 Dec 2024 03:46:03",
+         "title" : "Humpy becomes second woman to win Rapid Chess title twice"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3369",
+         "pubDate" : "Mon, 30 Dec 2024 01:22:17",
+         "title" : "Chess meets finance at the Wall Street Gambit conference"
+      },
+      {
          "description" : "After our Christmas Puzzles, involving kings and a couple of pawns, you may be tempted to call Ding Liren's oversight in the final game of the World Championship match a gross blunder. It was a catastrophic mistake that cost the World Champion millions of dollars of potential future income. How it came about is explained by ChessBase Magazine author GM Dorian Rogozenco in this video reconstruction.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3366",
          "pubDate" : "Sun, 29 Dec 2024 18:34:23",
          "title" : "Statement by FIDE President on dress-code rules for Rapid and Blitz Championships"
-      },
-      {
-         "description" : "Top-ranked chess player Magnus Carlsen is headed back to the World Blitz Championship after he was fined in another event for refusing to change out of jeans.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43213121/magnus-carlsen-returns-chess-event-dress-code-flap?device=featurephone",
-         "pubDate" : "Sun, 29 Dec 2024 17:44:12",
-         "title" : "Chess ace returns to event after dress code flap"
       },
       {
          "description" : "The World Rapid Chess Championships concluded with outright victories in both the open and women's sections. In the open category, 18-year-old Russian GM Volodar Murzin stunned a star-studded field to claim the title with an unbeaten 10/13 score, becoming the second-youngest champion in the event's history. Meanwhile, India's Humpy Koneru clinched her second women's world rapid title with a clutch final-round victory, finishing with 8&frac12;/11 points. | Photo: FIDE / Michal Walusza",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3365",
          "pubDate" : "Sun, 29 Dec 2024 02:00:08",
          "title" : "Volodar Murzin and Humpy Koneru new FIDE World Rapid Champions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116756775.cms\" />India's Koneru Humpy won her second World Rapid Chess Championship title, beating Indonesia's Irene Sukandar. Humpy previously won in 2019. The 37-year-old scored 8.5 points from 11 rounds. Humpy's victory follows D Gukesh's triumph earlier this year, highlighting India's strong performance in chess. Russia's Volodar Murzin clinched the men's title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-koneru-humpy-becomes-rapid-chess-world-champion/articleshow/116756775.cms",
-         "pubDate" : "Sun, 29 Dec 2024 01:51:27",
-         "title" : "India's Koneru Humpy becomes Rapid chess world champion"
       },
       {
          "description" : "Koneru Humpy won the women's world rapid title for the second time; Arjun Erigaisi fell a point short in the open section",
