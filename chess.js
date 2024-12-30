@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Blitz Championships are taking place in New York on 30-31 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 3 minutes for the game plus 2-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
+         "pubDate" : "Mon, 30 Dec 2024 19:50:00",
+         "title" : "World Blitz Championship - Live!"
+      },
+      {
+         "description" : "In the latest episode of their \"Two Knights Talk\" show, Arne K&auml;hler and Johannes Fischer talk about the World Rapid and Blitz Chess Championships in New York, dress codes, harsh decisions, diplomacy and how Magnus Carlsen and his jeans dominate the coverage of these events. Arne K&auml;hler also presents a position from chess history that was at the beginning of an unfortunate trend.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-dress-code-world-chess-championships-and-magnus-carlsen-again-and-again",
+         "pubDate" : "Mon, 30 Dec 2024 18:32:05",
+         "title" : "Two Knights Talk: Dress code, World Chess Championships and Magnus Carlsen again and again"
+      },
+      {
+         "description" : " Growing up fast! Brewington Hardaway, Tani Adewumi and Andy Woodward at the 2024 World Rapid &#38; Blitz.Photo by Michal Walusza Brewington Hardaway and Tani Adewumi are currently making their debuts in the 2024 World Rapid &#38; Blitz Tournaments in New York City. It seems appropriate that these two young talents have a chance to test The post <a href=\"https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/\">Hardaway, Adewumi debut at World Rapid &amp; Blitz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/",
+         "pubDate" : "Mon, 30 Dec 2024 17:20:00",
+         "title" : "Hardaway, Adewumi debut at World Rapid & Blitz"
+      },
+      {
          "description" : "It happened during a training session we arranged for three young talents in the ChessBase office. It was conducted by Dr. Karsten M&uuml;ller, who is a leading endgame expert. Some time later, Karsten wrote an article in the (German language) Chess Calendar describing how the pre-teen Dommaraju Gukesh refuted a Tal brilliancy by the legendary Mikhail Tal. Here's an English translation of Karsten's article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3369",
          "pubDate" : "Mon, 30 Dec 2024 01:22:17",
          "title" : "Chess meets finance at the Wall Street Gambit conference"
+      },
+      {
+         "description" : "The 2024 FIDE World Rapid Championship and Women's Championship concluded Saturday, December 28 after three days of action on Wall Street in Manhattan. Russian GM Volodar Murzin won the open with a 10/13 score and Indian GM Humpy Koneru won the women's event with an 8&frac12;/11 score. Congratulations to the winners of the 2024 FIDE Women's World Championship! 👏 🥇Humpy Koneru🥈Ju Wenjun🥉Kateryna Lagno#RapidBlitz #WomenInChess pic.twitter.com/TJ77lzIp7O- International Chess Federation (@FIDE_chess) December 28, 2024 Congratulations to the winners of the 2024 FIDE World Rapid Championship!🥇 Volodar Murzin🥈 Alexander Grischuk🥉 Ian Nepomniachtchi#RapidBlitz pic.twitter.com/FQ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/humpy-koneru-and-volodar-murzin-win-2024-fide-world-rapid-championships",
+         "pubDate" : "Mon, 30 Dec 2024 00:00:00",
+         "title" : "Humpy Koneru and Volodar Murzin Win 2024 FIDE World Rapid Championships"
       },
       {
          "description" : "After our Christmas Puzzles, involving kings and a couple of pawns, you may be tempted to call Ding Liren's oversight in the final game of the World Championship match a gross blunder. It was a catastrophic mistake that cost the World Champion millions of dollars of potential future income. How it came about is explained by ChessBase Magazine author GM Dorian Rogozenco in this video reconstruction.",
@@ -194,14 +226,6 @@ news_feed (
          "title" : "FIDE World Junior (Open & Girls) Chess Championship - 2025 in Petrovac, Montenegro"
       },
       {
-         "description" : "Simple pawn endings are vital, and can win you a World Championship. Ask Gukesh. So can you understand and play them proficiently? Do you recognize winning chances in your calculations? In the second part of our Christmas pawn endgame puzzle suite, we bring you new and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/which-pawn-to-push",
-         "pubDate" : "Sat, 28 Dec 2024 15:10:18",
-         "title" : "Which pawn to push?"
-      },
-      {
          "description" : "Hon'ble Prime Minister Shri Narendra Modi Ji congratulated D. Gukesh on his historic World Chess Championship victory during their meeting. The young champion presented the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -314,22 +338,6 @@ news_feed (
          "title" : "Forthcoming ECF events announcement"
       },
       {
-         "description" : "Would you know that Black (to play) in this position can win? Would you recognize that, instantly, in your calculations? And would you be able to play it to victory? That could win you a World Championship! Today we want to check your pawn ending skills, with positions to solve and techniques to learn. It is an entertaining and instructive pastime in the Christmas week.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-play-pawn-endings",
-         "pubDate" : "Fri, 27 Dec 2024 15:30:00",
-         "title" : "Can you play pawn endings?"
-      },
-      {
-         "description" : "The 2024 World Rapid Chess Championships kicked off on Thursday, with thrilling action unfolding in both the open and women's sections. In the open, Volodar Murzin, Shant Sargsyan, Daniel Naroditsky and Leinier Dominguez (pictured) lead with 4&frac12;/5, while defending champion Magnus Carlsen trails by 2 points after a tough start. Meanwhile, 15-year-old Alice Lee stunned the women's field, finishing day 1 with a perfect 4/4 score to take sole leadership. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d1",
-         "pubDate" : "Fri, 27 Dec 2024 12:35:00",
-         "title" : "World Rapid: Murzin, Sargsyan, Naroditsky and Dominguez co-leaders"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116709287.cms\" />Indian Grandmaster Arjun Erigaisi is off to a strong start in the World Rapid Chess Championship, tying for fifth place after five rounds with four wins. Meanwhile, Raunak Sadhwani, another Indian player, has caught attention by defeating a pre-event favorite. The competition remains tight with multiple players, including some prominent names, vying for top positions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-1",
          "pubDate" : "Thu, 26 Dec 2024 18:51:00",
          "title" : "Lazavik Beats Carlsen; Murzin, Sargsyan, Dominguez, Naroditsky Lead Open"
-      },
-      {
-         "description" : "New York City, a dazzling collision of ambition, culture and history, is also a vibrant chess hub. From Washington Square's hustlers to iconic clubs like the Marshall Chess Club, chess weaves through the city's fabric, blending art, history and community. The game thrives in museums, caf&eacute;s and parks, drawing enthusiasts of all levels. As NYC prepares to host the FIDE World Rapid and Blitz Championships, the city's rich chess legacy takes centre stage, reaffirming its role as a global chess powerhouse.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-new-york-2024",
-         "pubDate" : "Thu, 26 Dec 2024 18:35:00",
-         "title" : "Chess in New York: A walk through parks, clubs and history"
       },
       {
          "description" : " Howard University Chess Club is preparing for the 2025 Pan-Am Intercollegiate tournament to be held in Charlotte, North Carolina, January 2-5, 2025. The club's President,&#160;Lawrence Custis,&#160;has announced the club's participation and is holding a fundraiser to cover expenses. The Howard Chess Club has participated in the Pan-Ams on several occasions, including the last four. The The post <a href=\"https://thechessdrum.net/blog/2024/12/26/howard-university-chess-preparing-for-2025-pan-ams/\">Howard University Chess preparing for 2025 Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3349",
          "pubDate" : "Sun, 15 Dec 2024 09:38:35",
          "title" : "World Youth Rapid & Blitz Championship 2024 kicks off in Terme Čatež, Slovenia"
-      },
-      {
-         "description" : "After two days and three rounds, WFM Natalya Tsodikova leads the 2024 U.S. Senior Women's Championship with a perfect score. In round 1, as White, Tsodikova defeated Brenda Nardi. In round 2, as Black, she defeated the 2023 U.S. Senior Women's Champion WGM Anjelina Belakovskaia. In round 3, as Black, she won against Jayashree Sekar. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Defending champion Anjelina Belakovskaia (L) lost her second-round game against Natalia Tsodikova. Tsodikova now leads the tournament entering round 4 (Photo by Alexey Root)<br> <br> <br> <br> Meet the Queen of UpsetsA newcomer to the U.S. Senior Women's Championship, Jayashre",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-us-senior-womens-championship-day-2-upsets-long-games-and-quick-bites",
-         "pubDate" : "Sun, 15 Dec 2024 00:00:00",
-         "title" : "2024 U.S. Senior Women's Championship, Day 2: Upsets, Long Games, and Quick Bites"
       },
       {
          "description" : "GM Sam Sevian became the 12th player to win one of 83 Bullet Brawl&#39;s held since January 2023 after scoring 66 wins, three draws, and 11 losses during Saturday&#39;s event. In preparation for the 2024 FIDE World Rapid &#38;amp; Blitz Championships, Sevian ...",
