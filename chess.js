@@ -58,6 +58,14 @@ news_feed (
          "title" : "Statement by FIDE President on dress-code rules for Rapid and Blitz Championships"
       },
       {
+         "description" : "Top-ranked chess player Magnus Carlsen is headed back to the World Blitz Championship after he was fined in another event for refusing to change out of jeans.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43213121/magnus-carlsen-returns-chess-event-dress-code-flap?device=featurephone",
+         "pubDate" : "Sun, 29 Dec 2024 17:44:12",
+         "title" : "Chess ace returns to event after dress code flap"
+      },
+      {
          "description" : "The World Rapid Chess Championships concluded with outright victories in both the open and women's sections. In the open category, 18-year-old Russian GM Volodar Murzin stunned a star-studded field to claim the title with an unbeaten 10/13 score, becoming the second-youngest champion in the event's history. Meanwhile, India's Humpy Koneru clinched her second women's world rapid title with a clutch final-round victory, finishing with 8&frac12;/11 points. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-december-28-2024",
          "pubDate" : "Sat, 28 Dec 2024 16:21:00",
          "title" : "Gurel Claims 2nd Bullet Brawl Title, Carlsen Joins Late Following 'Jeansgate'"
-      },
-      {
-         "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only. The additional players and accompanying",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-open-girls-chess-championship-2025-in-petrovac-montenegro/",
-         "pubDate" : "Sat, 28 Dec 2024 15:17:56",
-         "title" : "FIDE World Junior (Open & Girls) Chess Championship - 2025 in Petrovac, Montenegro"
       },
       {
          "description" : "Simple pawn endings are vital, and can win you a World Championship. Ask Gukesh. So can you understand and play them proficiently? Do you recognize winning chances in your calculations? In the second part of our Christmas pawn endgame puzzle suite, we bring you new and entertaining positions that will test your skills. And hopefully leave you a better, more effective player.",
@@ -994,6 +994,14 @@ news_feed (
          "title" : "Neeraj, Pant, Vinesh, Vishy...Gukesh walks in footsteps of champions who defied odds, ignored convention"
       },
       {
+         "description" : "Date&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : November 10-18, 2024Location&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Bishkek, KyrgyzstanEvent Dates&#160;&#160;&#160;&#160;&#160;&#160; : November 11-17, 2024Tournament Format: Swiss System, 9 RoundsDelegate&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : Tamizharasan MuruganCountry&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; : INDIA Medal Winners",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-2nd-asian-chess-championship-for-disabilities-2024/",
+         "pubDate" : "Sat, 14 Dec 2024 05:29:19",
+         "title" : "Final report :2nd Asian Chess Championship for Disabilities 2024"
+      },
+      {
          "description" : "The era of India&#39;s GM Gukesh Dommaraju as chess world champion has begun, after an incredibly hard-fought 2024 FIDE World Championship in Singapore suddenly ended when the Chinese reigning champion GM Ding Liren blundered in the final classical ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42854353/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-12?device=featurephone",
          "pubDate" : "Mon, 9 Dec 2024 08:52:05",
          "title" : "Ding Liren roars back into contention with game 12 win, drawing level in CWC"
-      },
-      {
-         "description" : "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/espn-love-at-first-sight",
-         "pubDate" : "Mon, 09 Dec 2024 08:10:00",
-         "title" : "ESPN: 'Love at first sight'"
       }
    ]
 }
