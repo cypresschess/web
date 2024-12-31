@@ -18,20 +18,20 @@ news_feed (
          "title" : "World Blitz Championship: R Vaishali wins women's qualifier, advances to quarterfinals"
       },
       {
+         "description" : "The World Blitz Chess Championship is all set for a grand finale on the final day of the year with India in with a chance for a third world champion in 2024 and a heavyweight competition in the Open section.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43230415/fide-world-rapid-blitz-chess-championships-2024-r-vaishali-leads-standings-day-1-no-indian-man-qualifies-knockouts?device=featurephone",
+         "pubDate" : "Tue, 31 Dec 2024 04:04:18",
+         "title" : "FIDE World Blitz Championships 2024: Vaishali leads standings on Day 1; no Indian man qualifies for knockouts"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3370",
          "pubDate" : "Tue, 31 Dec 2024 02:59:39",
          "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
-      },
-      {
-         "description" : "The World Blitz Chess Championship is all set for a grand finale on the final day of the year with India in with a chance for a third world champion in 2024 and a heavyweight competition in the Open section.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43230415/fide-world-rapid-blitz-chess-championships-2024-r-vaishali-leads-standings-day-1-no-indian-man-qualifies-knockouts?device=featurephone",
-         "pubDate" : "Mon, 30 Dec 2024 23:28:05",
-         "title" : "FIDE World Blitz Championships 2024: Vaishali leads standings on Day 1; no Indian man qualifies for knockouts"
       },
       {
          "description" : "After 87.58 in 2021, there's another alphanumeric combination now to remember the year that went by in Indian sport - the one that made D Gukesh, world champion.",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/",
          "pubDate" : "Tue, 10 Dec 2024 20:41:43",
          "title" : "Ding strikes back in Game 12&hellip; match tied 6-6!"
-      },
-      {
-         "description" : "The 2024 European Rapid and Blitz Chess Championships took place from 7-9 December in Skopje, North Macedonia, with the participation of 400 players coming from 38 European federations. European Rapid Chess Championship 2024 was played on 7-8 December in 11 rounds, swiss system, with the total prize fund of 20.000 EUR + 1.000 EUR of Modern chess vouchers. GM Vladimir Fedoseev (SLO, 2731 rapid rtg) emerged as the sole Winner of the event scoring 9.5 points. Fedoseev started the event []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-champions-2024-crowned-in-north-macedonia/",
-         "pubDate" : "Tue, 10 Dec 2024 14:19:14",
-         "title" : "European Rapid and Blitz Chess Champions 2024 crowned in North Macedonia"
       }
    ]
 }
