@@ -26,7 +26,7 @@ news_feed (
          "title" : "Two Knights Talk: Dress code, World Chess Championships and Magnus Carlsen again and again"
       },
       {
-         "description" : "The top eight players of the FIDE World Blitz Chess Championship and FIDE Women&#39;s World Blitz Chess Championship have qualified for the Knockout on day two.&#38;nbsp; The following eight players advance in the Open: seven-time and reigning Blitz Wor...",
+         "description" : "The top eight players of the FIDE World Blitz Chess Championship and FIDE Women&#39;s World Blitz Chess Championship have qualified for their respective knockout tournaments on day two.&#38;nbsp; The following eight players advance in the Open: seven-ti...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-1",
@@ -152,14 +152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/this-victory-is-even-more-historic-pm-modi-lauds-koneru-humpy-on-world-chess-rapid-championship-win/articleshow/116769200.cms",
          "pubDate" : "Sun, 29 Dec 2024 13:02:11",
          "title" : "'This victory is even more historic': Modi lauds Humpy"
-      },
-      {
-         "description" : "The World Championship match between Gukesh Dommaraju and Ding Liren demonstrated how important it can be to catch your opponent on the wrong foot in the opening. In her 60-minute course, Svitlana Demchenko shows how this can be achieved with both colours and very little theory. | Photos: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/demchenko-opening-surprises-review",
-         "pubDate" : "Sun, 29 Dec 2024 12:20:00",
-         "title" : "Invest an hour and you will be ready to confound your opponents: Svitlana Demchenko's Opening Surprises"
       },
       {
          "description" : "Beneath its deceptively simple facade of a game, chess conceals a rich tapestry of human ingenuity and thought. It is, as Anatoly Karpov succinctly remarked, art, science, and sport all rolled into one. Yet, while the competitive aspect of chess basks in the limelight with its high-stakes, action-packed tournaments and matches, the subtle but no less fascinating endeavour of chess composition, where artistry shines the brightest, languishes in relative obscurity. As a step towards redressing this imbalance, ChessBase India and the World Federation for Chess Composition (WFCC) present My First Endgame Study, a beginner-friendly study composing contest designed for chess enthusiasts eager to e",
@@ -328,14 +320,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43187695/fide-world-rapid-blitz-chess-championships-2024-magnus-carlsen-announces-shock-withdrawal-arjun-erigaisi-harika-dronavalli-koneru-humpy-leaders-day-2?device=featurephone",
          "pubDate" : "Fri, 27 Dec 2024 22:49:12",
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen announces shock withdrawal; Arjun, Harika, Humpy among leaders after Day 2"
-      },
-      {
-         "description" : "The World Rapid and Blitz Championships began in New York on 26 December. Sagar Shah is reporting for ChessBase India, while Anish Giri is participating. They are good friends and, before the start of the tournament, Sagar invited the Dutch top player to try his luck in a little quiz about the most famous chess player in New York: Bobby Fischer! How well do you know Fischer's games? How well does Giri know Fischer's games?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-fischer-quiz-ny",
-         "pubDate" : "Fri, 27 Dec 2024 19:20:00",
-         "title" : "Anish Giri takes on the Fischer Quiz in New York!"
       },
       {
          "description" : "GM Magnus Carlsen will no longer participate in the 2024 FIDE World Rapid Chess Championship or the FIDE World Blitz Chess Championship after a dress-code disagreement with FIDE. He finishes the Rapid with a 5/8 score and will not defend his doubl...",
@@ -1216,14 +1200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/stocking-fillers-from-boy-to-man-chessbase-18",
          "pubDate" : "Tue, 10 Dec 2024 12:00:00",
          "title" : "Stocking fillers: From Boy to Man, ChessBase 18"
-      },
-      {
-         "description" : "On the final rest day, here's a look at the way ahead for Gukesh and Ding as the chess World Championship nears the finish line.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42888854/gukesh-vs-ding-liren-chess-world-championship-final-home-stretch-preview?device=featurephone",
-         "pubDate" : "Tue, 10 Dec 2024 07:36:19",
-         "title" : "Gukesh's ambition vs Ding's momentum: What to expect from chess World Championship's home stretch"
       }
    ]
 }
