@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3370",
+         "pubDate" : "Tue, 31 Dec 2024 02:59:39",
+         "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
+      },
+      {
          "description" : "The World Blitz Championships are taking place in New York on 30-31 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 3 minutes for the game plus 2-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-knights-talk-dress-code-world-chess-championships-and-magnus-carlsen-again-and-again",
          "pubDate" : "Mon, 30 Dec 2024 18:32:05",
          "title" : "Two Knights Talk: Dress code, World Chess Championships and Magnus Carlsen again and again"
+      },
+      {
+         "description" : "The top eight players of the FIDE World Blitz Chess Championship and FIDE Women&#39;s World Blitz Chess Championship have qualified for the Knockout on day two.&#38;nbsp; The following eight players advance in the Open: seven-time and reigning Blitz Wor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-1",
+         "pubDate" : "Mon, 30 Dec 2024 17:51:00",
+         "title" : "Carlsen To Play Niemann In Quarterfinals 4-Game Match"
       },
       {
          "description" : " Growing up fast! Brewington Hardaway, Tani Adewumi and Andy Woodward at the 2024 World Rapid &#38; Blitz.Photo by Michal Walusza Brewington Hardaway and Tani Adewumi are currently making their debuts in the 2024 World Rapid &#38; Blitz Tournaments in New York City. It seems appropriate that these two young talents have a chance to test The post <a href=\"https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/\">Hardaway, Adewumi debut at World Rapid &amp; Blitz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -178,20 +194,20 @@ news_feed (
          "title" : "NBA Superstar Requested Chess Partner On Rainy Day In NYC"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3365",
+         "pubDate" : "Sun, 29 Dec 2024 04:06:08",
+         "title" : "Volodar Murzin and Humpy Koneru new FIDE World Rapid Champions"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116757074.cms\" />Magnus Carlsen withdrew from the World Rapid and Blitz Chess Championships in New York after being fined $200 for breaching the Dress Code by wearing jeans. Despite being asked to change, Carlsen refused, citing a matter of principle and decided not to appeal the decision. FIDE has argued they were only following the rules.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-responds-to-disqualification-at-world-rapid-and-blitz-chess-championships-over-dress-code-violation/articleshow/116757074.cms",
          "pubDate" : "Sun, 29 Dec 2024 02:22:08",
          "title" : "Magnus Carlsen responds to disqualification at Worlds"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3365",
-         "pubDate" : "Sun, 29 Dec 2024 02:00:08",
-         "title" : "Volodar Murzin and Humpy Koneru new FIDE World Rapid Champions"
       },
       {
          "description" : "Koneru Humpy won the women's world rapid title for the second time; Arjun Erigaisi fell a point short in the open section",
@@ -1032,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3348",
          "pubDate" : "Fri, 13 Dec 2024 14:58:29",
          "title" : "Gukesh D crowned 18th FIDE World Champion"
-      },
-      {
-         "description" : "The 2024 Champions Chess Tour concludes with the CCT Finals, held from December 17 to December 21, 2024, at Screen Studios in Oslo, Norway. The event brings together eight of the world&#39;s best chess players to compete for a $500,000 prize fund and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-cct-finals-2024",
-         "pubDate" : "Fri, 13 Dec 2024 13:00:00",
-         "title" : "Champions Chess Tour $500,000 Finals Kicks Off On December 17 In Oslo, Norway"
       },
       {
          "description" : "\"Most athletes don't become world champions when they win the final, they arrive there at the start as champions,\" Upton said.",
