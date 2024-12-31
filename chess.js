@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Blitz Championships are taking place in New York on 30-31 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 3 minutes for the game plus 2-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
+         "pubDate" : "Tue, 31 Dec 2024 19:50:00",
+         "title" : "World Blitz Championship - Live!"
+      },
+      {
+         "description" : "Chess.com is excited to continue growing our great game in collaboration with NFL Films and NFL players. This new year comes with the debut of a special TV presentation and two new playable bots.&#38;nbsp; Now, Chess.com is happy to announce an upco...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nfl-presents-chesscom-blitzchamps",
+         "pubDate" : "Tue, 31 Dec 2024 12:00:00",
+         "title" : "NFL Films Presents: The Game of Chess"
+      },
+      {
          "description" : "The opening day of the World Blitz Chess Championships in New York brought electrifying action, with top players battling for a spot in the knockout stages. In the open section, 10 players tied for first place with 9&frac12;/13, but only 8 advanced, including Magnus Carlsen, Hans Niemann (pictured) and newly crowned rapid champion Volodar Murzin. Meanwhile, in the women's event, Vaishali Rameshbabu delivered a commanding performance, scoring an unbeaten 9&frac12;/11 to finish a full point ahead of her closest rival. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "World Blitz: Carlsen to clash against Niemann in quarterfinals"
       },
       {
+         "description" : "As part of our announced partnership with Freestyle Chess, we are offering a qualification path for each event to any of our members, with the first qualifier starting on January 4! Qualifiers are open to all players who meet the following crite...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/register-for-the-qualifier-of-the-freestyle-chess-play-in-weissenhaus",
+         "pubDate" : "Tue, 31 Dec 2024 09:54:34",
+         "title" : "Register for the Qualifiers of the Freestyle Chess Play-In Weissenhaus"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116825233.cms\" />Indian Grandmaster R Vaishali captivated the World Blitz Championship by winning the women's qualifier with 9.5 points, ensuring her a quarterfinal spot. Vaishali's path included impressive victories over prominent opponents. In the open section, intense competition saw Russian GM Ian Nepomniachtchi and others advancing, while Indian players faced mixed results.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-r-vaishali-wins-womens-qualifier-advances-to-quarterfinals/articleshow/116825233.cms",
          "pubDate" : "Tue, 31 Dec 2024 08:47:46",
          "title" : "World Blitz Championship: R Vaishali wins women's qualifier, advances to quarterfinals"
+      },
+      {
+         "description" : "After 87.58 in 2021, there's another alphanumeric combination now to remember the year that went by in Indian sport - the one that made D Gukesh, world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43225656/2024-indian-sport-year-55-rf2-gukesh-world-chess-champion?device=featurephone",
+         "pubDate" : "Tue, 31 Dec 2024 07:54:04",
+         "title" : "2024: For Indian sport, the year of 55. Rf2"
       },
       {
          "description" : "The World Blitz Chess Championship is all set for a grand finale on the final day of the year with India in with a chance for a third world champion in 2024 and a heavyweight competition in the Open section.",
@@ -34,14 +66,6 @@ news_feed (
          "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
       },
       {
-         "description" : "After 87.58 in 2021, there's another alphanumeric combination now to remember the year that went by in Indian sport - the one that made D Gukesh, world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43225656/2024-indian-sport-year-55-rf2-gukesh-world-chess-champion?device=featurephone",
-         "pubDate" : "Mon, 30 Dec 2024 22:23:53",
-         "title" : "2024: For Indian sport, the year of 55. Rf2"
-      },
-      {
          "description" : "In the latest episode of their \"Two Knights Talk\" show, Arne K&auml;hler and Johannes Fischer talk about the World Rapid and Blitz Chess Championships in New York, dress codes, harsh decisions, diplomacy and how Magnus Carlsen and his jeans dominate the coverage of these events. Arne K&auml;hler also presents a position from chess history that was at the beginning of an unfortunate trend.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Two Knights Talk: Dress code, World Chess Championships and Magnus Carlsen again and again"
       },
       {
-         "description" : "The top eight players of the FIDE World Blitz Chess Championship and FIDE Women&#39;s World Blitz Chess Championship have qualified for their respective knockout tournaments on day two.&#38;nbsp; The following eight players advance in the Open: seven-ti...",
+         "description" : "The top eight players of the FIDE World Blitz Chess Championship and FIDE Women&#39;s World Blitz Chess Championship have qualified for their respective knockout tournaments on day two.&#38;nbsp; The following eight players advance in the Open: Russian ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-1",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43213121/magnus-carlsen-returns-chess-event-dress-code-flap?device=featurephone",
          "pubDate" : "Sun, 29 Dec 2024 17:44:12",
          "title" : "Chess ace returns to event after dress code flap"
-      },
-      {
-         "description" : "The World Rapid Chess Championships concluded with outright victories in both the open and women's sections. In the open category, 18-year-old Russian GM Volodar Murzin stunned a star-studded field to claim the title with an unbeaten 10/13 score, becoming the second-youngest champion in the event's history. Meanwhile, India's Humpy Koneru clinched her second women's world rapid title with a clutch final-round victory, finishing with 8&frac12;/11 points. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d3",
-         "pubDate" : "Sun, 29 Dec 2024 17:35:00",
-         "title" : "Volodar Murzin and Humpy Koneru are the 2024 world rapid champions!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116769200.cms\" />India's top female chess player, Koneru Humpy, won the FIDE Women's World Rapid Chess Championship for the second time. Prime Minister Modi praised her achievement, emphasizing its inspirational impact. Humpy's victory follows a significant year for Indian chess, marked by D Gukesh's historic win. Humpy hopes her success will motivate young Indians to pursue chess professionally.",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "World Youth Rapid & Blitz Championship 2024 kicks off in Terme Čatež, Slovenia"
       },
       {
-         "description" : "GM Sam Sevian became the 12th player to win one of 83 Bullet Brawl&#39;s held since January 2023 after scoring 66 wins, three draws, and 11 losses during Saturday&#39;s event. In preparation for the 2024 FIDE World Rapid &#38;amp; Blitz Championships, Sevian ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sam-sevian-wins-bullet-brawl-december-14-2024",
-         "pubDate" : "Sat, 14 Dec 2024 17:24:00",
-         "title" : "Sevian Wins 1st Bullet Brawl Title Ahead Of FIDE World Rapid & Blitz Championships"
-      },
-      {
          "description" : "Improving at chess can feel like running on a treadmill-you're working hard, but getting nowhere. You study openings, grind tactics, and watch endless YouTube videos, yet your progress is painfully slow. Two years ago, I released Next Level Training, a course designed to help players simplify their chess improvement and make real progress. Since then, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42961042/gukesh-neeraj-pant-vinesh-anand-walks-footsteps-champions-defied-odds-ignored-convention?device=featurephone",
          "pubDate" : "Sat, 14 Dec 2024 06:07:51",
          "title" : "Neeraj, Pant, Vinesh, Vishy...Gukesh walks in footsteps of champions who defied odds, ignored convention"
-      },
-      {
-         "description" : "The era of India&#39;s GM Gukesh Dommaraju as chess world champion has begun, after an incredibly hard-fought 2024 FIDE World Championship in Singapore suddenly ended when the Chinese reigning champion GM Ding Liren blundered in the final classical ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-2024-chess-world-championship-13-conclusions",
-         "pubDate" : "Sat, 14 Dec 2024 03:14:00",
-         "title" : "Gukesh Wins 2024 FIDE World Championship - 13 Conclusions"
       },
       {
          "description" : "For the past few weeks I've been running a series on the early career of Gukesh Dommaraju, aka Gukesh D. The two most recent posts were:- <UL> <LI> <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (29 November 2024), and <LI> <A HREF=\"https://chessforallages.blogspot.com/2024/12/gukesh-in-2018-scores-rating.html\">Gukesh in 2018 - Scores & Rating</A> (06 December 2024) </UL> <P> That second post ended, <BLOCKQUOTE> In the first event on the 2018 list, he was rated 2362; in the last event, he was rated 2466. He started the year with a CM title and ended as an IM. In a few more months, he would earn the GM title. </BLOCKQUOTE> <P> Wit",
