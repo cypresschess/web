@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The opening day of the World Blitz Chess Championships in New York brought electrifying action, with top players battling for a spot in the knockout stages. In the open section, 10 players tied for first place with 9&frac12;/13, but only 8 advanced, including Magnus Carlsen, Hans Niemann (pictured) and newly crowned rapid champion Volodar Murzin. Meanwhile, in the women's event, Vaishali Rameshbabu delivered a commanding performance, scoring an unbeaten 9&frac12;/11 to finish a full point ahead of her closest rival. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d4",
+         "pubDate" : "Tue, 31 Dec 2024 11:00:00",
+         "title" : "World Blitz: Carlsen to clash against Niemann in quarterfinals"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116825233.cms\" />Indian Grandmaster R Vaishali captivated the World Blitz Championship by winning the women's qualifier with 9.5 points, ensuring her a quarterfinal spot. Vaishali's path included impressive victories over prominent opponents. In the open section, intense competition saw Russian GM Ian Nepomniachtchi and others advancing, while Indian players faced mixed results.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-r-vaishali-wins-womens-qualifier-advances-to-quarterfinals/articleshow/116825233.cms",
+         "pubDate" : "Tue, 31 Dec 2024 08:47:46",
+         "title" : "World Blitz Championship: R Vaishali wins women's qualifier, advances to quarterfinals"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,12 +26,20 @@ news_feed (
          "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
       },
       {
-         "description" : "The World Blitz Championships are taking place in New York on 30-31 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 3 minutes for the game plus 2-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
-         "pubDate" : "Mon, 30 Dec 2024 19:50:00",
-         "title" : "World Blitz Championship - Live!"
+         "description" : "The World Blitz Chess Championship is all set for a grand finale on the final day of the year with India in with a chance for a third world champion in 2024 and a heavyweight competition in the Open section.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43230415/fide-world-rapid-blitz-chess-championships-2024-r-vaishali-leads-standings-day-1-no-indian-man-qualifies-knockouts?device=featurephone",
+         "pubDate" : "Mon, 30 Dec 2024 23:28:05",
+         "title" : "FIDE World Blitz Championships 2024: Vaishali leads standings on Day 1; no Indian man qualifies for knockouts"
+      },
+      {
+         "description" : "After 87.58 in 2021, there's another alphanumeric combination now to remember the year that went by in Indian sport - the one that made D Gukesh, world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43225656/2024-indian-sport-year-55-rf2-gukesh-world-chess-champion?device=featurephone",
+         "pubDate" : "Mon, 30 Dec 2024 22:23:53",
+         "title" : "2024: For Indian sport, the year of 55. Rf2"
       },
       {
          "description" : "In the latest episode of their \"Two Knights Talk\" show, Arne K&auml;hler and Johannes Fischer talk about the World Rapid and Blitz Chess Championships in New York, dress codes, harsh decisions, diplomacy and how Magnus Carlsen and his jeans dominate the coverage of these events. Arne K&auml;hler also presents a position from chess history that was at the beginning of an unfortunate trend.",
@@ -31,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-1",
          "pubDate" : "Mon, 30 Dec 2024 17:51:00",
-         "title" : "Carlsen To Play Niemann In Quarterfinals 4-Game Match"
+         "title" : "Carlsen To Play Niemann In 4-Game Quarterfinals Match"
       },
       {
          "description" : " Growing up fast! Brewington Hardaway, Tani Adewumi and Andy Woodward at the 2024 World Rapid &#38; Blitz.Photo by Michal Walusza Brewington Hardaway and Tani Adewumi are currently making their debuts in the 2024 World Rapid &#38; Blitz Tournaments in New York City. It seems appropriate that these two young talents have a chance to test The post <a href=\"https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/\">Hardaway, Adewumi debut at World Rapid &amp; Blitz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -426,14 +450,6 @@ news_feed (
          "title" : "Chess in New York: A walk through parks, clubs and history"
       },
       {
-         "description" : "Some fun and challenging positions, as well as a brain-teasing dose of trivia from Graham Phythian to help you while away the festive period. We bring you some of his chess problems on our live boards, which will defend against your attempts to defeat them. We wish you A Very Happy Problem-Solving Christmas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-magazine-christmas-quiz",
-         "pubDate" : "Wed, 25 Dec 2024 09:00:00",
-         "title" : "CHESS Magazine Christmas Quiz"
-      },
-      {
          "description" : " Dear Chess Community, Yesterday, I learned that Walter Harris, America's first Black National Master, had passed away on October 12th, 2024. Harris was 83 at the time of his demise and had no survivors. During a phone conversation with Frank Street (America's second Black National Master), he expressed a concern that he had not heard The post <a href=\"https://thechessdrum.net/blog/2024/12/24/walter-harris-americas-1st-black-chess-master-dead-at-83/\">Walter Harris, America's 1st Black Chess Master, dead at 83</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3355",
          "pubDate" : "Fri, 20 Dec 2024 11:06:44",
          "title" : "Spanish Championship: Daniil Yuffa and Sabrina Vega claim titles"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116498460.cms\" />Chess grandmaster Magnus Carlsen stirred the pot by declaring faster chess formats the \"pure sport\", criticising classical chess for being \"too forgiving\". He argued that rapid and blitz chess better reflect a player's all-around skills. Carlsen also critiqued the recent World Championship match between Gukesh and Ding, deeming the quality subpar.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/classical-chess-probably-the-worst-world-no-1-magnus-carlsen-after-d-gukesh-crowned-world-champion/articleshow/116498460.cms",
-         "pubDate" : "Fri, 20 Dec 2024 09:33:44",
-         "title" : "'Classical chess probably the worst': Magnus Carlsen"
       },
       {
          "description" : " The youngest ever undisputed world champion, 18, had a rapturous reception on his return to Chennai, but his new status will be tested at Wijk aan Zee in January Gukesh Dommaraju, 18, had a rapturous reception from Indian fans when he flew back to Chennai after deposing China's Ding Liren for the world title 7.5-6.5 by winning their 14th and final game in Singapore. It was <a href=\"https://www.theguardian.com/sport/video/2024/dec/17/world-chess-champion-gukesh-dommaraju-mobbed-at-chennai-airport-video\">an occasion</a> which, in Indian terms, could only have been surpassed in intensity by a winning IPL cricket team, while its English equivalent would be a home city football celebration for P",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-champions-2024-crowned-in-north-macedonia/",
          "pubDate" : "Tue, 10 Dec 2024 14:19:14",
          "title" : "European Rapid and Blitz Chess Champions 2024 crowned in North Macedonia"
-      },
-      {
-         "description" : "Yes, it is that time of the year again. Time to leave your copy of CHESS Magazine open, 'non-suspiciously', hoping that the family will take the hint and place a big order at Chess & Bridge. If the hint is not taken, then just order one or more of the items yourself, safe in the knowledge that there are much worse things you could be doing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stocking-fillers-from-boy-to-man-chessbase-18",
-         "pubDate" : "Tue, 10 Dec 2024 12:00:00",
-         "title" : "Stocking fillers: From Boy to Man, ChessBase 18"
       }
    ]
 }
