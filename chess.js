@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116860166.cms\" />The latest FIDE rankings for 2025 see Arjun Erigaisi hold the fourth spot, with D Gukesh securing fifth as the new Classical World Champion. Viswanathan Anand is tenth. Nine Indians feature in the top 50, with Koneru Humpy leading the Indian women at sixth overall. Chinese women dominate the top four positions in the women's rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-at-4-d-gukesh-5th-in-latest-fide-chess-rankings/articleshow/116860166.cms",
+         "pubDate" : "Wed, 01 Jan 2025 15:11:12",
+         "title" : "Arjun Erigaisi at 4, D Gukesh 5th in latest FIDE Chess rankings"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -674,14 +682,6 @@ news_feed (
          "title" : "Carlsen Wins 5th Champions Chess Tour Title"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116532502.cms\" />D Gukesh, 18, won the World Chess Championship. He defeated Ding Liren. Gukesh's family made a bold move. They took him out of school early. This allowed him to focus on chess. His mother, Padma Kumari, shared their journey. They faced doubts. Gukesh's dedication reassured them. His victory validated their decision. He is now a champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-sending-d-gukesh-to-school-was-tough-call-says-mother-padma-kumari/articleshow/116532502.cms",
-         "pubDate" : "Sat, 21 Dec 2024 10:09:04",
-         "title" : "'Not sending Gukesh to school was tough call': Mother"
-      },
-      {
          "description" : "Please find the certificates Sl No Candidate Name 1 Anand J S 2 Vipin Vijayan 3 Vani Indrali 4 Tejesh Oleti 5 Kranthi G 6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1152,22 +1152,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-survives-a-serious-scare-in-world-championship-game-13",
          "pubDate" : "Wed, 11 Dec 2024 17:39:00",
          "title" : "Ding survives a serious scare in World Championship Game 13 - 13"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3346",
-         "pubDate" : "Wed, 11 Dec 2024 16:20:53",
-         "title" : "FIDE World Championship Game 13: Ding dodges a bullet"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3345",
-         "pubDate" : "Wed, 11 Dec 2024 14:54:16",
-         "title" : "FIDE World Championships 2025, 2026 and 2027: Call for bids"
       }
    ]
 }
