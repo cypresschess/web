@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Blitz Championships are taking place in New York on 30-31 December. Over 300 elite players, including Magnus Carlsen, Fabiano Caruana and Ju Wenjun, compete in iconic Wall Street venues. The tournaments, open and women's, are played with a time control of 3 minutes for the game plus 2-second increments per move. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "description" : "The second day of the World Blitz Chess Championships, held in New York, provided thrilling action as the knockout stages decided the champions in both the open and women's sections. Magnus Carlsen and Ian Nepomniachtchi decided to share the open title after an epic 7-game final, marking Carlsen's eighth blitz crown and Nepo's first. Meanwhile, Ju Wenjun claimed her maiden women's blitz title with an overtime victory against Lei Tingjie. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-live",
-         "pubDate" : "Tue, 31 Dec 2024 19:50:00",
-         "title" : "World Blitz Championship - Live!"
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d5",
+         "pubDate" : "Wed, 01 Jan 2025 05:20:00",
+         "title" : "Ju is women's world blitz champion, Nepo and Carlsen share open title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116845805.cms\" />Indian chess prodigy Vaishali Rameshbabu secured a bronze medal at the 2024 World Blitz Championship in New York, praised by her mentor Viswanathan Anand. China's Ju Wenjun triumphed over Lei Tingjie, while the Open section title was shared by Magnus Carlsen and Ian Nepomniachtchi after a tie in the finals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-a-way-to-wrap-up-2024-viswanathan-anand-congratulates-vaishali-on-clinching-bronze-in-world-blitz-championship/articleshow/116845805.cms",
+         "pubDate" : "Wed, 01 Jan 2025 04:11:23",
+         "title" : "Anand congratulates Vaishali on clinching World Blitz bronze"
       },
       {
          "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have agreed to share the 2024 FIDE World Blitz Chess Championship title after Carlsen&#39;s suggestion seven games into their finals match. After sensationally U-turning on his decision to withdraw from the ...",
@@ -90,14 +98,6 @@ news_feed (
          "title" : "Hardaway, Adewumi debut at World Rapid & Blitz"
       },
       {
-         "description" : "It happened during a training session we arranged for three young talents in the ChessBase office. It was conducted by Dr. Karsten M&uuml;ller, who is a leading endgame expert. Some time later, Karsten wrote an article in the (German language) Chess Calendar describing how the pre-teen Dommaraju Gukesh refuted a Tal brilliancy by the legendary Mikhail Tal. Here's an English translation of Karsten's article.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-a-12-year-old-demystified-tal",
-         "pubDate" : "Mon, 30 Dec 2024 15:00:00",
-         "title" : "How a 12-year-old demystified Tal"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116800126.cms\" />Magnus Carlsen confirmed his return to the World Blitz Chess Championship after FIDE permitted players to compete in jeans. Carlsen criticized FIDE's decision-making process and deputy president Viswanathan Anand, claiming the situation was mishandled and Anand was not suitable for his role. Carlsen faced fines and rules clarification issues.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -138,15 +138,7 @@ news_feed (
          "title" : "Humpy Koneru and Volodar Murzin Win 2024 FIDE World Rapid Championships"
       },
       {
-         "description" : "After our Christmas Puzzles, involving kings and a couple of pawns, you may be tempted to call Ding Liren's oversight in the final game of the World Championship match a gross blunder. It was a catastrophic mistake that cost the World Champion millions of dollars of potential future income. How it came about is explained by ChessBase Magazine author GM Dorian Rogozenco in this video reconstruction.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-s-million-dollar-mistake",
-         "pubDate" : "Sun, 29 Dec 2024 21:00:00",
-         "title" : "Ding's million dollar mistake"
-      },
-      {
-         "description" : " The World Rapid & Blitz Championship takes place on Wall Street in New York 26th to 31st December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen was defaulted in round 9 of the rapid when he didn't change his clothes after being informed they broke the regulations. He stated this was likely his final FIDE event, he would not play the blitz. This seemed very final from Carlsen but then on the rest day a blurred photo emerged of him talking to Viswanthan Anand (I'm guessing there's maybe a story that someone made sure there was a photo) ",
+         "description" : " The World Rapid & Blitz Championship took place on Wall Street in New York 26th to 31st December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen was defaulted in round 9 of the rapid when he didn't change his clothes after being informed they broke the regulations. He stated this was likely his final FIDE event, he would not play the blitz. This seemed very final from Carlsen but then on the rest day a blurred photo emerged of him talking to Viswanthan Anand (I'm guessing there's maybe a story that someone made sure there was a photo) a",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
@@ -680,14 +672,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/",
          "pubDate" : "Fri, 20 Dec 2024 21:09:00",
          "title" : "17-year-old Nyuima Tersee is new Nigerian Champion!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116513227.cms\" />Indian chess prodigy Arjun Erigaisi urgently appeals for his passport's return after visa processing delays. He needs it to travel to New York City for the World Rapid & Blitz Championships, starting December 26th. The prestigious tournament boasts a $1.5 million prize pool and a revamped format, attracting top players like Magnus Carlsen and Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-no-1-chess-player-arjun-erigaisi-faces-us-visa-trouble-urges-embassy-to-expedite-process/articleshow/116513227.cms",
-         "pubDate" : "Fri, 20 Dec 2024 17:50:34",
-         "title" : "India's no.1 chess player faces US visa trouble, urges embassy to expedite process"
       },
       {
          "description" : "While preparing a previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (November 2024), in this short series on Gukesh Dommaraju, I spotted a problem with the raw data:- <BLOCKQUOTE> [Earlier] I listed a half-dozen tournaments played through the end of 2017. Here's the continuation of that list [with 17 events]. There's at least one important tournament missing from that list. I'll cover it in my next post in the series. </BLOCKQUOTE> <P> One of the most striking aspects of the 2018 list is that only six of the 17 events were played in India. Most of the others were played in Europe. Anyone who travels farther than the l",
