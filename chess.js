@@ -18,14 +18,6 @@ news_feed (
          "title" : "NFL Films Presents: The Game of Chess"
       },
       {
-         "description" : "The opening day of the World Blitz Chess Championships in New York brought electrifying action, with top players battling for a spot in the knockout stages. In the open section, 10 players tied for first place with 9&frac12;/13, but only 8 advanced, including Magnus Carlsen, Hans Niemann (pictured) and newly crowned rapid champion Volodar Murzin. Meanwhile, in the women's event, Vaishali Rameshbabu delivered a commanding performance, scoring an unbeaten 9&frac12;/11 to finish a full point ahead of her closest rival. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d4",
-         "pubDate" : "Tue, 31 Dec 2024 11:00:00",
-         "title" : "World Blitz: Carlsen to clash against Niemann in quarterfinals"
-      },
-      {
          "description" : "As part of our announced partnership with Freestyle Chess, we are offering a qualification path for each event to any of our members, with the first qualifier starting on January 4! Qualifiers are open to all players who meet the following crite...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1184,14 +1176,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy",
          "pubDate" : "Wed, 11 Dec 2024 08:00:44",
          "title" : "Chess: Gawain Jones wins London Classic amid recovery from tragedy"
-      },
-      {
-         "description" : " 2024 World Chess Championship: Game 12Monday, 9 December 2024 Ding scores clutch win, score tied 6-6! China's Ding Liren won a thrilling game over India's Gukesh Dommaraju to tie the world chess championship match at 6-6. There are two classical games remaining with tiebreaks waiting in the event of a 7-7 tie. When hearing the The post <a href=\"https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/\">Ding strikes back in Game 12 match tied 6-6!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/10/2024-world-chess-championship-game-12/",
-         "pubDate" : "Tue, 10 Dec 2024 20:41:43",
-         "title" : "Ding strikes back in Game 12&hellip; match tied 6-6!"
       }
    ]
 }
