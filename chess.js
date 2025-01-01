@@ -42,7 +42,15 @@ news_feed (
          "title" : "Anand congratulates Vaishali on clinching World Blitz bronze"
       },
       {
-         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have agreed to share the 2024 FIDE World Blitz Chess Championship title after Carlsen&#39;s suggestion seven games into their finals match. After sensationally U-turning on his decision to withdraw from the ...",
+         "description" : "Carlsen and Nepo agreed to a draw after three straight draws in tiebreakers; while Ju beat compatriot Lei Tingjie.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43242421/fide-world-blitz-chess-championships-2024-magnus-carlsen-ian-nepomniachtchi-share-title-ju-wenjun-win-women?device=featurephone",
+         "pubDate" : "Tue, 31 Dec 2024 22:58:02",
+         "title" : "Carlsen, Nepo agree to share open Blitz title; Ju wins women's"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have agreed to share the 2024 FIDE World Blitz Chess Championship title after Carlsen&#39;s suggestion seven games into their final. After sensationally U-turning on his decision to withdraw from the event, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-2",
@@ -1058,7 +1066,7 @@ news_feed (
          "title" : "The simple heist: There was only one plan, for Gukesh to be Gukesh"
       },
       {
-         "description" : " 2024 World Chess Championship: Game 14Thursday, 12 December 2024 Gukesh wins world title after Ding blunders A triumphant Gukesh celebrates his historic victoryPhoto by Eng Chin An While Gukesh Dommaraju was considered the favorite in the match, there were serious doubts going into the 14th game. The teenager came off of a devastating loss and The post <a href=\"https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/\">Gukesh shocks Ding in finale, wins title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 0 1 &frac12; 0 6&frac12; Gukesh 0 &frac12; 1 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/\">Gukesh shocks Ding in finale, wins title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3345",
          "pubDate" : "Wed, 11 Dec 2024 14:54:16",
          "title" : "FIDE World Championships 2025, 2026 and 2027: Call for bids"
-      },
-      {
-         "description" : "Follow live updates from game 13 of the world chess championship, with Gukesh and Ding tied at 6 points apiece.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42902007/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-13?device=featurephone",
-         "pubDate" : "Wed, 11 Dec 2024 10:38:28",
-         "title" : "Ding holds Gukesh at bay to keep scores tied after penultimate game of World Championship"
       }
    ]
 }
