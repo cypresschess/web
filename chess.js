@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3371",
+         "pubDate" : "Wed, 01 Jan 2025 07:36:13",
+         "title" : "2024 FIDE World Blitz Championship: Carlsen, Nepomniachtchi share gold; Ju Wenjun triumphs in Women's Blitz"
+      },
+      {
          "description" : "The second day of the World Blitz Chess Championships, held in New York, provided thrilling action as the knockout stages decided the champions in both the open and women's sections. Magnus Carlsen and Ian Nepomniachtchi decided to share the open title after an epic 7-game final, marking Carlsen's eighth blitz crown and Nepo's first. Meanwhile, Ju Wenjun claimed her maiden women's blitz title with an overtime victory against Lei Tingjie. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d5",
          "pubDate" : "Wed, 01 Jan 2025 05:20:00",
          "title" : "Ju is women's world blitz champion, Nepo and Carlsen share open title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116846191.cms\" />In a historic decision, Magnus Carlsen and Ian Nepomniachtchi chose to share the 2024 World Blitz Championship title after a series of intense and closely-fought games in New York. Following a tie in the sudden death rounds, FIDE and both players agreed on the unprecedented outcome, marking the first dual winners in the championship's history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-why-magnus-carlsen-and-ian-nepomniachtchi-shared-world-blitz-chess-title/articleshow/116846191.cms",
+         "pubDate" : "Wed, 01 Jan 2025 05:06:22",
+         "title" : "Explained: Why Carlsen, Nepo shared World Blitz title"
+      },
+      {
+         "description" : " What a year! The highlights of 2024 have been memorable! We have crowned a new world champion and ushered in a new era of rising stars. Eighteen-year-old Gukesh Dommaraju of India won the world title by beating Ding Liren in thrilling fashion. The 14-game match saw interesting ideas, tough struggles, and two comebacks. Despite the The post <a href=\"https://thechessdrum.net/blog/2024/12/31/the-chess-drums-highlights-of-2024/\">The Chess Drum's Highlights of 2024</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2024/12/31/the-chess-drums-highlights-of-2024/",
+         "pubDate" : "Wed, 01 Jan 2025 04:54:21",
+         "title" : "The Chess Drum's Highlights of 2024"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116845805.cms\" />Indian chess prodigy Vaishali Rameshbabu secured a bronze medal at the 2024 World Blitz Championship in New York, praised by her mentor Viswanathan Anand. China's Ju Wenjun triumphed over Lei Tingjie, while the Open section title was shared by Magnus Carlsen and Ian Nepomniachtchi after a tie in the finals.",
@@ -621,7 +645,7 @@ news_feed (
          "description" : "Why You're Stuck in Chess-and How to Break Through in 2025: Part 2 Understanding the &#8220;What&#8221; in Chess Improvement In Part 1 of this series, we introduced the Chess Improvement Equation: What * How * Time = Improvement Score This simple formula is your blueprint for understanding why you're stuck and how to fix it. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/the-what-score/",
+         "link" : "https://nextlevelchess.com/the-what-score/",
          "pubDate" : "Sat, 21 Dec 2024 14:00:00",
          "title" : "Supercharge Your Chess Improvement in 2025: Part 2"
       },
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-and-exam-in-rajahmundry-on-30-november-01-december-2024/",
          "pubDate" : "Sat, 21 Dec 2024 07:40:40",
          "title" : "Certificate of SNA seminar and exam in Rajahmundry on 30 November & 01 December 2024."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116522267.cms\" />D Gukesh, the 18-year-old world chess champion, embraces the challenges of his title with a focus on enjoying the game. Exempted from the Candidates Tournament, he reflects on the mental resilience required during his World Championship victory against Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/now-i-can-enjoy-and-play-more-freely-d-gukesh/articleshow/116522267.cms",
-         "pubDate" : "Sat, 21 Dec 2024 02:24:43",
-         "title" : "Now, I can enjoy and play more freely: D Gukesh"
       },
       {
          "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year-old from Benue State bested a field of veterans and titled players to become the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess continue The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year-old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -981,7 +997,7 @@ news_feed (
          "description" : "Improving at chess can feel like running on a treadmill-you're working hard, but getting nowhere. You study openings, grind tactics, and watch endless YouTube videos, yet your progress is painfully slow. Two years ago, I released Next Level Training, a course designed to help players simplify their chess improvement and make real progress. Since then, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/improvement-score/",
+         "link" : "https://nextlevelchess.com/improvement-score/",
          "pubDate" : "Sat, 14 Dec 2024 14:00:00",
          "title" : "Supercharge Your Chess Improvement in 2025"
       },
@@ -1152,14 +1168,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42902007/chess-world-championship-gukesh-vs-ding-liren-live-updates-score-commentary-news-match-13?device=featurephone",
          "pubDate" : "Wed, 11 Dec 2024 10:38:28",
          "title" : "Ding holds Gukesh at bay to keep scores tied after penultimate game of World Championship"
-      },
-      {
-         "description" : " British champion completed a remarkable treble a year after the death of his wife Sue Maroroa Jones Gawain Jones, the British and English champion, who turns 37 on Wednesday, completed a remarkable year of recovery from tragedy when he won the &pound;25,000 first prize in the XTX Markets London Classic, played at the Emirates Stadium. Last year Jones's wife, Sue Maroroa Jones, died following complications after the birth of their second child, and he withdrew from competitive play for several months. <a href=\"https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/dec/11/chess-gawain-jones-wins-london-classic-amid-recovery-from-tragedy",
-         "pubDate" : "Wed, 11 Dec 2024 08:00:44",
-         "title" : "Chess: Gawain Jones wins London Classic amid recovery from tragedy"
       }
    ]
 }
