@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The chess world is awash with resources for players looking to up their game, from countless articles and books to videos. Although relatively scarcer, a wealth of instructional material also exists for those interested in chess solving. But few have ventured to teach how to compose a chess study or a problem - no definitive course or authoritative guide for this aspect of chess. Yet, like playing and solving, composing, too, is a teachable skill - or at least that is what Gady Costeff, the writer of the present article, believes. To put his notion to the test, he demonstrates how to craft an endgame study by starting with an attractive mate position and then working backwards, guided by a s",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-compose-an-endgame-study",
+         "pubDate" : "Wed, 01 Jan 2025 20:35:00",
+         "title" : "How to compose an endgame study: A step-by-step guide"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116860166.cms\" />The latest FIDE rankings for 2025 see Arjun Erigaisi hold the fourth spot, with D Gukesh securing fifth as the new Classical World Champion. Viswanathan Anand is tenth. Nine Indians feature in the top 50, with Koneru Humpy leading the Indian women at sixth overall. Chinese women dominate the top four positions in the women's rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42911871/gukesh-lets-golden-chance-slip-vs-ding-liren-penultimate-game-chess-world-championship?device=featurephone",
          "pubDate" : "Wed, 11 Dec 2024 22:33:58",
          "title" : "Gukesh lets golden chance slip in penultimate game of chess World Championship"
-      },
-      {
-         "description" : " The thirteenth game of the World Chess Championship in Singapore between Gukesh D and Ding Liren ended in a draw after 68 moves. Gukesh surprised Ding in the opening and had him on the back foot for much of the game, there was a concrete chance missed on move 31, unfortunately for Gukesh the move he played looked like it might do the trick too. Gukesh returned to 1.e4 and the French Defence was again played by Ding. 7.a3 was already rare, \"a move order trick\" according to Ding and the players were soon on their own. The position became extremely unbalanced after 10...Nc4 11.Bxc4. Maybe Gukesh should have tried 12.Qg4, the engine's preference but over the board he didn't see its merits. 17.Q",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/ding-survives-a-serious-scare-in-world-championship-game-13",
-         "pubDate" : "Wed, 11 Dec 2024 17:39:00",
-         "title" : "Ding survives a serious scare in World Championship Game 13 - 13"
       }
    ]
 }
