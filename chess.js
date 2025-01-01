@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Blitz Championship - Live!"
       },
       {
+         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have agreed to share the 2024 FIDE World Blitz Chess Championship title after Carlsen&#39;s suggestion seven games into their finals match. After sensationally U-turning on his decision to withdraw from the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-2",
+         "pubDate" : "Tue, 31 Dec 2024 16:38:00",
+         "title" : "Carlsen, Nepomniachtchi Agree To Share World Blitz Title, Ju Wins Women's"
+      },
+      {
          "description" : "Chess.com is excited to continue growing our great game in collaboration with NFL Films and NFL players. This new year comes with the debut of a special TV presentation and two new playable bots.&#38;nbsp; Now, Chess.com is happy to announce an upco...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3350",
          "pubDate" : "Mon, 16 Dec 2024 09:44:40",
          "title" : "FIDE Circuit 2024: Caruana seizes the lead"
-      },
-      {
-         "description" : "We&#39;re excited to announce that the Chess.com Community Championships will continue next year with more events and a total of $40,000 in prizes! The 2025 cycle begins on January 13 with the Chess.com Puzzles Championship and will feature a differen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-community-championships-2025",
-         "pubDate" : "Mon, 16 Dec 2024 07:00:00",
-         "title" : "Chess.com Community Championships 2025 Cycle Kicks Off January And Features 12 Events"
       },
       {
          "description" : "The United States Chess Federation is pleased to announce the 2025 All-America Chess Team. Team members will receive team jackets and plaques by mail.The All-America Chess Team was created in 1987 to honor the very best players ages 18 and under. The team, one of the highest national honors attainable by a young chess player, is selected on the basis of age, rating, and chess activity during that year, similar to the selection process of \"all conference\" sports teams. This year's candidates were selected based on their age as of January 1, 2024, and their peak post-tournament rating from July 1, 2023 through June 30, 2024. Since this award is a \"post-season\" selection, the minimum rating lim",
