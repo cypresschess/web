@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-promises-best-moves-on-64-squares-after-being-chosen-for-prestigious-khel-ratna-award/articleshow/116889034.cms",
+         "pubDate" : "Thu, 02 Jan 2025 13:48:55",
+         "title" : "Gukesh promises best moves after being chosen for Khel Ratna award"
+      },
+      {
+         "description" : "Magnus Carlsen is set to marry Ella Victoria Malone this weekend, just days after securing his eighth World Blitz Championship title. The couple, who confirmed the news to Verdens Gang (VG), plan to keep the ceremony private. Malone, who has an American father and a Norwegian mother, grew up in Oslo and now lives with Carlsen, as she has taken on an increasingly vital role in his support team. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-marriage-vg",
+         "pubDate" : "Thu, 02 Jan 2025 13:45:00",
+         "title" : "Magnus Carlsen is getting married"
+      },
+      {
+         "description" : "India&#39;s incredibly successful year is also reflected in a comparison of the FIDE rating lists of January 2024 and January 2025. Top 100 GMs Aravindh Chithambaram (+64), Arjun Erigaisi (+63), and Gukesh Dommaraju (+52) had the biggest rating gains ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/january-2025-fide-rating-list",
+         "pubDate" : "Thu, 02 Jan 2025 06:43:00",
+         "title" : "January 2025 FIDE Ratings: Who Gained The Most In 2024?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116870839.cms\" />Magnus Carlsen and Ian Nepomniachtchi shared the World Blitz Championship title after three tie-breaking matches, causing controversy in the chess community. Carlsen's initial disqualification for a dress code violation and FIDE's subsequent rule amendments added to the contentious atmosphere, with criticisms from players like Hans Niemann suggesting bias in decision-making.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-at-4-d-gukesh-5th-in-latest-fide-chess-rankings/articleshow/116860166.cms",
          "pubDate" : "Wed, 01 Jan 2025 15:11:12",
          "title" : "Arjun Erigaisi at 4, D Gukesh 5th in latest FIDE Chess rankings"
+      },
+      {
+         "description" : "Clubs and other chess organisations can now renew their insurance through Green Insurance Group by using the renewal/application form link below. All applications and payments should be sent to Green...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2024-25/",
+         "pubDate" : "Wed, 01 Jan 2025 09:00:33",
+         "title" : "Clubs & Congress Insurance 2024/25"
       },
       {
          "description" : "",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Walter Harris, America's 1st Black Chess Master, dead at 83"
       },
       {
-         "description" : "The ECF Office will be closed on the 25th and 26th of December 2024, and on the 1st January 2025. We wish you all a very merry Christmas and a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-office-holiday-hours/",
-         "pubDate" : "Tue, 24 Dec 2024 10:48:04",
-         "title" : "ECF Office - holiday hours"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -586,14 +610,6 @@ news_feed (
          "title" : "Jos&eacute; Carlos Vaz crowned Cape Verde Champion"
       },
       {
-         "description" : "At the request of the Selection Committee, the ECF Board revisited the matter of the behaviour of Keith Arkell following the announcement of the senior teams. Further to the statement...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/senior-teams-announcement/",
-         "pubDate" : "Mon, 23 Dec 2024 11:44:52",
-         "title" : "Senior Teams Announcement"
-      },
-      {
          "description" : "Congratulation to Eugenia Karas, who came third to win a bronze medal in the Girls U16 Blitz section at the World Youth Rapid and Blitz Championships that took place in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesscom-awards-vote",
          "pubDate" : "Mon, 23 Dec 2024 08:00:00",
          "title" : "Celebrate 2024 And Vote For This Year's Chess.com Awards"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116590888.cms\" />Indian chess star Tania Sachdev publicly expressed her disappointment over the Delhi government's lack of recognition for her chess achievements. Despite winning medals at the Chess Olympiad and holding national and Commonwealth titles, Sachdev claims lack of acknowledgment from the state government.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-star-tania-sachdev-vents-frustration-over-alleged-lack-of-recognition-from-delhi-government/articleshow/116590888.cms",
-         "pubDate" : "Mon, 23 Dec 2024 06:58:10",
-         "title" : "Tania Sachdev vents frustration over alleged lack of recognition from Delhi govt"
       },
       {
          "description" : "GM Savva Vetokhin scored an impressive victory in the 2024 Sunway Sitges Chess Festival&#38;nbsp;after cruising through the tournament undefeated and winning 2-0 in the blitz playoff against 22-year-old GM Ido Gorshtein. The teenager&#39;s first victory i...",
@@ -962,14 +970,6 @@ news_feed (
          "title" : "Live Game links: ODISHA OPEN (Category 'A')"
       },
       {
-         "description" : "Before leaving Singapore, new World Champion Gukesh Dommaraju fulfilled his promise to bungee jump, but in terms of danger it seemed like nothing compared to the crush that greeted him in the airport when he arrived home a hero in Chennai, India. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-ding-homecoming-bunjee-jump",
-         "pubDate" : "Mon, 16 Dec 2024 12:09:00",
-         "title" : "Gukesh Bungee Jumps, Gets Hero's Welcome Back In India"
-      },
-      {
          "description" : " The FIDE World Chess Championship took place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Defending champion was 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April 2023. The Challenger was 18 year old Gukesh Dommaraju who won the right to play the match after winning the Candidates tournament earlier in the year. Much was made of the poor form of Ding Liren who had admitted to depression but he played better than anyone had any right to expect. Ding won the first game but the match was soon level again after Gukesh won game 3. There were then seven draws in a row before Gukesh won a fluctuating struggle in game 11 where Ding stood well before losing the advantag",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1104,22 +1104,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html",
          "pubDate" : "Thu, 12 Dec 2024 16:50:00",
          "title" : "December 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3347",
-         "pubDate" : "Thu, 12 Dec 2024 14:02:01",
-         "title" : "FIDE World Championship Game 14: Gukesh D crowned 18th World Champion"
-      },
-      {
-         "description" : " 18 year old Gukesh Dommaraju became the youngest World Champion after defeating Ding Liren in the 14th and final game of the World Championship in Singapore. Just as we were preparing for a rapid tie-break on Friday Gukesh was the recipient of a gift of a whole point in the final game when a draw should have been well within Ding's capabilities. Ding only has himself to blame as he didn't even have be in a drawish endgame as awkward as this. Ding tried 1.Nf3 and 2.g3 and Gukesh surprised him with a very rare variation. The game followed the course of many others where the positions were a bit murky and hard to judge, even if there wasn't much in them. 19.Bxd4 would have been much better tha",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-is-the-new-world-chess-champion-after-ding-makes-an-extraordinarily-simple-blunder",
-         "pubDate" : "Thu, 12 Dec 2024 14:01:00",
-         "title" : "Gukesh is the new World Chess Champion after Ding makes an extraordinarily simple blunder - 14"
       }
    ]
 }
