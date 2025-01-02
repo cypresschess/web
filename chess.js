@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just in time for the start of the new year, FIDE has published the new world rankings. With an Elo rating of 2831, Magnus Carlsen remains the clear number one, followed in second, third and fourth place by Fabiano Caruana (2803), Hikaru Nakamura (2802) and Arjun Erigaisi (2801). Gukesh Dommaraju, the new classical world champion, follows in fifth place with 2777 points, but is the highest-rated junior (under 20) in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-january-2025",
+         "pubDate" : "Thu, 02 Jan 2025 19:40:00",
+         "title" : "FIDE ratings - January 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +24,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-marriage-vg",
          "pubDate" : "Thu, 02 Jan 2025 13:45:00",
          "title" : "Magnus Carlsen is getting married"
+      },
+      {
+         "description" : "GM Magnus Carlsen is set to begin 2025 with a major milestone as he ties the knot with his girlfriend, 26-year-old Ella Victoria Malone, this weekend, Norwegian media has reported. The Norwegian, fresh from his eighth World Blitz Championship af...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-set-to-tie-the-knot-this-weekend",
+         "pubDate" : "Thu, 02 Jan 2025 11:41:00",
+         "title" : "Magnus Carlsen Set To Marry Ella Victoria Malone After World Blitz Gold Medal"
+      },
+      {
+         "description" : "FIDE&#39;s last events of 2024 crowned five world champions: World Rapid Champion Volodar Murzin, Women&#39;s World Rapid Champion Koneru Humpy, World Blitz Champion Ju Wenjun, and finally Blitz World Co-Champions Magnus Carlsen and Ian Nepomniachtchi. It...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championship-13-things-we-learned",
+         "pubDate" : "Thu, 02 Jan 2025 10:24:32",
+         "title" : "FIDE World Rapid & Blitz Championships-13 Things We Learned"
+      },
+      {
+         "description" : "The last four Titled Tuesday tournaments of 2024 were held on Christmas Eve and New Year&#39;s Eve, and featured four individual tournament winners... plus one additional big winner. GM Magnus Carlsen celebrated Christmas Eve this year by winning th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-cup-2024",
+         "pubDate" : "Thu, 02 Jan 2025 08:53:32",
+         "title" : "Carlsen Wins Tournament, But Nakamura Wins Cup"
       },
       {
          "description" : "India&#39;s incredibly successful year is also reflected in a comparison of the FIDE rating lists of January 2024 and January 2025. Top 100 GMs Aravindh Chithambaram (+64), Arjun Erigaisi (+63), and Gukesh Dommaraju (+52) had the biggest rating gains ...",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "Afruza Khamdamova soars in January 2025 rating list"
       },
       {
-         "description" : "The chess world is awash with resources for players looking to up their game, from countless articles and books to videos. Although relatively scarcer, a wealth of instructional material also exists for those interested in chess solving. But few have ventured to teach how to compose a chess study or a problem - no definitive course or authoritative guide for this aspect of chess. Yet, like playing and solving, composing, too, is a teachable skill - or at least that is what Gady Costeff, the writer of the present article, believes. To put his notion to the test, he demonstrates how to craft an endgame study by starting with an attractive mate position and then working backwards, guided by a s",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-compose-an-endgame-study",
-         "pubDate" : "Wed, 01 Jan 2025 20:35:00",
-         "title" : "How to compose an endgame study: A step-by-step guide"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116860166.cms\" />The latest FIDE rankings for 2025 see Arjun Erigaisi hold the fourth spot, with D Gukesh securing fifth as the new Classical World Champion. Viswanathan Anand is tenth. Nine Indians feature in the top 50, with Koneru Humpy leading the Indian women at sixth overall. Chinese women dominate the top four positions in the women's rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3371",
          "pubDate" : "Wed, 01 Jan 2025 07:36:13",
          "title" : "2024 FIDE World Blitz Championship: Carlsen, Nepomniachtchi share gold; Ju Wenjun triumphs in Women's Blitz"
-      },
-      {
-         "description" : "The second day of the World Blitz Chess Championships, held in New York, provided thrilling action as the knockout stages decided the champions in both the open and women's sections. Magnus Carlsen and Ian Nepomniachtchi decided to share the open title after an epic 7-game final, marking Carlsen's eighth blitz crown and Nepo's first. Meanwhile, Ju Wenjun claimed her maiden women's blitz title with an overtime victory against Lei Tingjie. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-d5",
-         "pubDate" : "Wed, 01 Jan 2025 05:20:00",
-         "title" : "Ju is women's world blitz champion, Nepo and Carlsen share open title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116846191.cms\" />In a historic decision, Magnus Carlsen and Ian Nepomniachtchi chose to share the 2024 World Blitz Championship title after a series of intense and closely-fought games in New York. Following a tie in the sudden death rounds, FIDE and both players agreed on the unprecedented outcome, marking the first dual winners in the championship's history.",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3370",
          "pubDate" : "Tue, 31 Dec 2024 02:59:39",
          "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
-      },
-      {
-         "description" : "In the latest episode of their \"Two Knights Talk\" show, Arne K&auml;hler and Johannes Fischer talk about the World Rapid and Blitz Chess Championships in New York, dress codes, harsh decisions, diplomacy and how Magnus Carlsen and his jeans dominate the coverage of these events. Arne K&auml;hler also presents a position from chess history that was at the beginning of an unfortunate trend.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-dress-code-world-chess-championships-and-magnus-carlsen-again-and-again",
-         "pubDate" : "Mon, 30 Dec 2024 18:32:05",
-         "title" : "Two Knights Talk: Dress code, World Chess Championships and Magnus Carlsen again and again"
       },
       {
          "description" : "The top eight players of the FIDE World Blitz Chess Championship and FIDE Women&#39;s World Blitz Chess Championship have qualified for their respective knockout tournaments on day two.&#38;nbsp; The following eight players advance in the Open: Russian ...",
@@ -906,30 +914,6 @@ news_feed (
          "title" : "Call of Interest for ECU Arbiters 2025"
       },
       {
-         "description" : "The 2025 Chess.com Daily Chess Championship (DCC) is now open for registration! Start the new year right and join thousands of your fellow players in one of the world&#39;s biggest chess events. Join the 2025 DCC What is the Daily Chess Champion...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-daily-chess-championship-registration",
-         "pubDate" : "Tue, 17 Dec 2024 15:01:00",
-         "title" : "Register Now For the 2025 Daily Chess Championship"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Denis Lazavik lead the 2024 Champions Chess Tour Finals round-robin after three rounds on the opening day, with perfect scores. GM Wesley So came as close as you can get to defeating the world-number one without actually win...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-day-1",
-         "pubDate" : "Tue, 17 Dec 2024 13:57:00",
-         "title" : "Lazavik, Carlsen On Perfect 3/3 After Surviving Rollercoaster 3rd Round"
-      },
-      {
-         "description" : "Chess.com and GM Magnus Carlsen have announced a major partnership with the Esports World Cup Foundation (EWCF), which means that competitive chess will be featured for the first time in the 2025 Esports World Cup (EWC), the world&#38;rsquo;s largest ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-makes-historic-debut-at-esports-world-cup-2025-with-1-5-million-prize-pool",
-         "pubDate" : "Tue, 17 Dec 2024 13:55:00",
-         "title" : "Chess Makes Historic Debut at Esports World Cup 2025 with $1.5 Million Prize Pool"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1096,14 +1080,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
          "pubDate" : "Fri, 13 Dec 2024 03:10:53",
          "title" : "Gukesh shocks Ding in finale, wins title!"
-      },
-      {
-         "description" : "What do the <I>Chess Life</I> issues of December 1974 and December 1999 have in common? Yes, they are obviously the next in the 'On the Cover' series last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/11/november-1974-1999-on-cover.html\">November 1974 & 1999 'On the Cover'</A> (November 2024). On top of that, they were both dominated by rating lists. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol12.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?' (also 'Special Yearbook Issue!')<BR> <B>Right:</B> '1999... 2000... and still going strong!' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Anatoly Karpov: if he beats Korchnoi, and if Fischer and FI",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html",
-         "pubDate" : "Thu, 12 Dec 2024 16:50:00",
-         "title" : "December 1974 & 1999 'On the Cover'"
       }
    ]
 }
