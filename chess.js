@@ -546,6 +546,14 @@ news_feed (
          "title" : "2024 Season's Greetings from FIDE President"
       },
       {
+         "description" : "After the previous post in the (wannabe) weekly AI comics series, <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-class-asian-players.html\">World Class Asian Players</A> (December 2024), I took a break from the series for a few weeks. Reason? Laziness. <P> Now we're in the year-end holiday period where, although sloth is acceptable, I'll try harder. Reason? I can't do much less than I'm already doing. <P> This week it's Christmas. Next week it's New Year's. After that, we'll see. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol23.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Christmas elves play chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/inside-santas-workshop.html",
+         "pubDate" : "Mon, 23 Dec 2024 16:00:00",
+         "title" : "Inside Santa's Workshop"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116605887.cms\" />Indian Grandmaster Arjun Erigaisi finally received his US visa to participate in the World Rapid and Blitz Championships starting December 26 in New York. He had earlier sought help from various authorities, including the US Embassy and Indian officials, to expedite the process. Erigaisi expressed his gratitude and eagerness to compete in the tournament featuring top players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1112,38 +1120,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024/gukesh-is-the-new-world-chess-champion-after-ding-makes-an-extraordinarily-simple-blunder",
          "pubDate" : "Thu, 12 Dec 2024 14:01:00",
          "title" : "Gukesh is the new World Chess Champion after Ding makes an extraordinarily simple blunder - 14"
-      },
-      {
-         "description" : "D Gukesh defeated Ding Liren to become world champion after a dramatic victory in the final game of the championship.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42932410/a-new-king-crowned-stunned-silence-chaos-tears-d-gukesh-wins-world-title-chess-champion-ding-liren?device=featurephone",
-         "pubDate" : "Thu, 12 Dec 2024 12:12:31",
-         "title" : "A new king crowned: Stunned silence, then chaos and tears as Gukesh wins world title"
-      },
-      {
-         "description" : "The new world champion is also happy that he is the one who got back the title after Viswanathan Anand (five-time champion) lost to Magnus Carlsen in their home town in Chennai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42931363/chess-world-championship-gukesh-ding-liren-quotes-youngest-champion-living-moment-6?device=featurephone",
-         "pubDate" : "Thu, 12 Dec 2024 11:10:34",
-         "title" : "'I've been living this moment since I was 6' - Gukesh after becoming youngest chess champion"
-      },
-      {
-         "description" : "A catastropic blunder from Ding Liren on move 55 saw Gukesh capitalise and follow Viswanathan Anand in becoming the second world champion from India.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42921797/chess-world-championship-gukesh-ding-liren-live-score-updates-commentary-news-match-14?device=featurephone",
-         "pubDate" : "Thu, 12 Dec 2024 10:00:46",
-         "title" : "D Gukesh becomes youngest-ever world champion of chess, defeats Ding Liren with last-gasp victory"
-      },
-      {
-         "description" : "Gukesh D became the youngest-ever undisputed world chess champion after beating Ding Liren in the last classical encounter of their 14-game match in Singapore. Ding voluntarily entered a pawn-down endgame which was objectively drawn, but a blunder by the Chinese GM on move 55 meant Gukesh would take the title by winning the match with a 7&frac12;-6&frac12; score. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-         "pubDate" : "Thu, 12 Dec 2024 09:45:00",
-         "title" : "World Championship: Gukesh takes the title!"
       }
    ]
 }
