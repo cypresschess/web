@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
          "pubDate" : "Thu, 12 Dec 2024 09:45:00",
          "title" : "World Championship: Gukesh takes the title!"
-      },
-      {
-         "description" : " 2024 World Chess Championship: Game 13Tuesday, 11 December 2024 A heavyweight battle ends in a drawtension high on even of final game The Ding-Gukesh draw today held the chess world in suspense. FIDE President Arkady Dvorkovich made the ceremonial move and saw that the future of chess is in good hands. Ding Liren and Gukesh The post <a href=\"https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/\">Ding-Gukesh draw in thrilling battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/",
-         "pubDate" : "Thu, 12 Dec 2024 04:48:51",
-         "title" : "Ding-Gukesh draw in thrilling battle!"
       }
    ]
 }
