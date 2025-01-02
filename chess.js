@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3372",
+         "pubDate" : "Wed, 01 Jan 2025 23:48:33",
+         "title" : "Afruza Khamdamova soars in January 2025 rating list"
+      },
+      {
          "description" : "The chess world is awash with resources for players looking to up their game, from countless articles and books to videos. Although relatively scarcer, a wealth of instructional material also exists for those interested in chess solving. But few have ventured to teach how to compose a chess study or a problem - no definitive course or authoritative guide for this aspect of chess. Yet, like playing and solving, composing, too, is a teachable skill - or at least that is what Gady Costeff, the writer of the present article, believes. To put his notion to the test, he demonstrates how to craft an endgame study by starting with an attractive mate position and then working backwards, guided by a s",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/11/ding-gukesh-draw-in-thrilling-battle/",
          "pubDate" : "Thu, 12 Dec 2024 04:48:51",
          "title" : "Ding-Gukesh draw in thrilling battle!"
-      },
-      {
-         "description" : "A well-prepared Gukesh had all the advantage in game 13 but one slight misjudgment meant Ding defended his way back for a draw.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42911871/gukesh-lets-golden-chance-slip-vs-ding-liren-penultimate-game-chess-world-championship?device=featurephone",
-         "pubDate" : "Wed, 11 Dec 2024 22:33:58",
-         "title" : "Gukesh lets golden chance slip in penultimate game of chess World Championship"
       }
    ]
 }
