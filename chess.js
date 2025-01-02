@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116870839.cms\" />Magnus Carlsen and Ian Nepomniachtchi shared the World Blitz Championship title after three tie-breaking matches, causing controversy in the chess community. Carlsen's initial disqualification for a dress code violation and FIDE's subsequent rule amendments added to the contentious atmosphere, with criticisms from players like Hans Niemann suggesting bias in decision-making.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-fumes-over-joint-world-blitz-title-for-magnus-carlsen-and-ian-nepomniachtchi/articleshow/116870839.cms",
+         "pubDate" : "Thu, 02 Jan 2025 04:18:01",
+         "title" : "Chess world fumes over joint world blitz title for Carlsen and Nepo"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
          "pubDate" : "Sun, 22 Dec 2024 14:18:00",
          "title" : "Champions Chess Tour Finals 2024 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116565938.cms\" />Grzegorz Gajewski, D Gukesh's coach, compared the new world chess champion to Magnus Carlsen, highlighting Gukesh's analytical approach over Carlsen's intuition. Gajewski also likened Gukesh to a young Fabiano Caruana, praising his patience and precision. Gukesh was recently felicitated by the Tamil Nadu government for becoming the youngest World Chess Champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-will-never-be-like-magnus-carlsen-coach-gajewski-on-new-world-chess-champion/articleshow/116565938.cms",
-         "pubDate" : "Sun, 22 Dec 2024 11:54:23",
-         "title" : "'Gukesh will never be like Magnus Carlsen': Coach Gajewski"
       },
       {
          "description" : " The 14th London Chess Classic sponsored by XTX Markets took place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. On the final day Alireza Firouzja won the Superblitz final by a point from MVL in what was a very strong f",
