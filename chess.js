@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 withdrew from the World Rapid then came back for the Blitz, where he shared the title when Fide agreed to stop play after three games of a shootout Magnus Carlsen completed a remarkable few days at the World Rapid and Blitz Championships on Wall Street, New York, when the Norwegian, 34, who first withdrew then returned to the event after Fide rescinded its ban on jeans, controversially agreed to share the Blitz crown with his old rival, Russia's Ian Nepomniachtchi, while their final sudden-death tie-break was still in progress. The pair were survivors from an eight-player knockout, and Carlsen <a href=\"https://www.chessgames.com/perl/chessgame?gid=2821676\">took a 2-0 lead</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jan/03/chess-jeans-clad-carlsen-defies-critics-to-share-blitz-with-nepomniachtchi",
+         "pubDate" : "Fri, 03 Jan 2025 08:00:51",
+         "title" : "Chess: jeans-clad Carlsen defies critics to share Blitz with Nepomniachtchi"
+      },
+      {
          "description" : "As part of the Norwegian Grand Prix, chess is also played far up north, where Europe ends and the arctic region begins. Holger Blauhut travelled with his daughter to Alta for the Power Solutions Arctic Chess NGP tournament. Despite a snowstorm, they got to play a well-organised tournament and learned more about the region's sled dog racing. | Photos: Anna Blauhut, Holger Blauhut und Torill M. Wiggen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1064,22 +1072,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42948838/paddy-upton-gukesh-chess-champion-helping-hand-video-calls-temperature-controls-last-minute-flight-out?device=featurephone",
          "pubDate" : "Fri, 13 Dec 2024 10:17:43",
          "title" : "Paddy Upton's helping hand to Gukesh: Video calls, temperature controls, last-minute flight out"
-      },
-      {
-         "description" : "It was a moment that, he said, he had replayed millions of times in his head.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42947193/d-gukesh-beats-ding-lire-becomes-world-champion-gets-trophy?device=featurephone",
-         "pubDate" : "Fri, 13 Dec 2024 07:45:50",
-         "title" : "Gukesh gets his trophy: 'This moment was why I did every little thing so far'"
-      },
-      {
-         "description" : "Although the final moments may have been dramatic, so it seemed Gukesh had manufactured a win, this was all thought out well before the world championship even began.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42945249/d-gukesh-becomes-world-champion-beats-ding-liren-simple-heist-one-plan?device=featurephone",
-         "pubDate" : "Fri, 13 Dec 2024 05:25:22",
-         "title" : "The simple heist: There was only one plan, for Gukesh to be Gukesh"
       }
    ]
 }
