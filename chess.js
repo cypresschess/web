@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116922203.cms\" />Prime Minister Narendra Modi hailed Grandmaster Koneru Humpy as a sporting icon after her victory in the FIDE Women's World Rapid Chess Championship. Humpy, who met Modi with her family, expressed her gratitude for the memorable moment. This achievement highlights a successful year for Indian chess, marked by victories in various international competitions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-calls-humpy-a-sporting-icon-after-meeting-with-chess-ace/articleshow/116922203.cms",
+         "pubDate" : "Fri, 03 Jan 2025 16:15:03",
+         "title" : "PM Modi calls Humpy 'a sporting icon' after meeting with chess ace"
+      },
+      {
+         "description" : "Are there any advantages of moving to the latest ChessBase 18? Are strong chess players doing it, and finding the software useful in their every-day tournament activity? A decided 'Yes!' is given by Indian grandmaster Pa. Iniyan, who sent us an in-depth three-part review. You would do well to read about his experience carefully, and learn how you too can dramatically improve your level of chess study and preparation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18",
+         "pubDate" : "Fri, 03 Jan 2025 16:00:00",
+         "title" : "GM Iniyan on ChessBase 18 - (1)"
+      },
+      {
          "description" : "The discussion about the level of play at the World Championship match in Singapore got out of hand on social media, says Thorsten Cmiel, who visited the event himself. Commentators and streamers, armed with opinionated machines, are criticised the players, claiming that the level of play was not that great. Objectively speaking, this was not the case.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/03/chess-jeans-clad-carlsen-defies-critics-to-share-blitz-with-nepomniachtchi",
          "pubDate" : "Fri, 03 Jan 2025 08:00:51",
          "title" : "Chess: jeans-clad Carlsen defies critics to share Blitz with Nepomniachtchi"
+      },
+      {
+         "description" : "One thing we can all agree on is that chess fans and players around the world love Titled Tuesdays. The weekly blitz event for titled players is where everyone can regularly see stars like GM Hikaru Nakamura and Magnus Carlsen sparring.&#38;nbsp; No...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-titled-tuesday-grand-prix-2025",
+         "pubDate" : "Fri, 03 Jan 2025 07:00:00",
+         "title" : "Titled Cup Followed Up By Titled Tuesday Grand Prix In 2025"
       },
       {
          "description" : "As part of the Norwegian Grand Prix, chess is also played far up north, where Europe ends and the arctic region begins. Holger Blauhut travelled with his daughter to Alta for the Power Solutions Arctic Chess NGP tournament. Despite a snowstorm, they got to play a well-organised tournament and learned more about the region's sled dog racing. | Photos: Anna Blauhut, Holger Blauhut und Torill M. Wiggen",
@@ -658,14 +682,6 @@ news_feed (
          "title" : "Bronze for Eugenia Karas at the World Youth Rapid and Blitz Championships"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116595555.cms\" />Eighteen-year-old chess prodigy D Gukesh, the youngest world champion in history, balances his demanding career with a love for movies like \"Zindagi Na Milegi Dobara\" and \"About Time.\" He admires Novak Djokovic's resilience, applying a similar mindset to his own chess battles, including his recent World Championship victory against Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-reveals-hrithik-roshans-film-as-his-favourite/articleshow/116595555.cms",
-         "pubDate" : "Mon, 23 Dec 2024 10:38:17",
-         "title" : "Gukesh reveals Hrithik Roshan's film as his favourite"
-      },
-      {
          "description" : "2024 has been an eventful year for chess. We saw quite some movement in the FIDE&#39;s top 10 list, with a new generation of young talents cementing themselves among the chess elite. We all cheered on as legendary players put on some thrilling perform...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -906,14 +922,6 @@ news_feed (
          "title" : "Fresh Faces Finish First In Titled Tuesday"
       },
       {
-         "description" : "Chess.com is pumped and excited to announce a premier partnership for our premier event: Take Take Take, a new app cofounded by GM Magnus Carlsen, has joined as an official partner for this year&#39;s Champions Chess Tour (CCT) Finals. The CCT Finals ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-carlsen-partner-cct-finals",
-         "pubDate" : "Wed, 18 Dec 2024 07:00:00",
-         "title" : "Chess.com, Magnus Carlsen's Take Take Take App Partner For CCT Finals"
-      },
-      {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1056,22 +1064,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42961042/gukesh-neeraj-pant-vinesh-anand-walks-footsteps-champions-defied-odds-ignored-convention?device=featurephone",
          "pubDate" : "Sat, 14 Dec 2024 06:07:51",
          "title" : "Neeraj, Pant, Vinesh, Vishy...Gukesh walks in footsteps of champions who defied odds, ignored convention"
-      },
-      {
-         "description" : "For the past few weeks I've been running a series on the early career of Gukesh Dommaraju, aka Gukesh D. The two most recent posts were:- <UL> <LI> <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (29 November 2024), and <LI> <A HREF=\"https://chessforallages.blogspot.com/2024/12/gukesh-in-2018-scores-rating.html\">Gukesh in 2018 - Scores & Rating</A> (06 December 2024) </UL> <P> That second post ended, <BLOCKQUOTE> In the first event on the 2018 list, he was rated 2362; in the last event, he was rated 2466. He started the year with a CM title and ended as an IM. In a few more months, he would earn the GM title. </BLOCKQUOTE> <P> Wit",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/gukesh-debuts-in-google-news.html",
-         "pubDate" : "Fri, 13 Dec 2024 16:27:00",
-         "title" : "Gukesh Debuts in Google News"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3348",
-         "pubDate" : "Fri, 13 Dec 2024 14:58:29",
-         "title" : "Gukesh D crowned 18th FIDE World Champion"
       }
    ]
 }
