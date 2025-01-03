@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The discussion about the level of play at the World Championship match in Singapore got out of hand on social media, says Thorsten Cmiel, who visited the event himself. Commentators and streamers, armed with opinionated machines, are criticised the players, claiming that the level of play was not that great. Objectively speaking, this was not the case.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2024-level-of-play",
+         "pubDate" : "Fri, 03 Jan 2025 12:00:00",
+         "title" : "Discussion about the level of play at the World Championship match in Singapore"
+      },
+      {
          "description" : " The world No 1 withdrew from the World Rapid then came back for the Blitz, where he shared the title when Fide agreed to stop play after three games of a shootout Magnus Carlsen completed a remarkable few days at the World Rapid and Blitz Championships on Wall Street, New York, when the Norwegian, 34, who first withdrew then returned to the event after Fide rescinded its ban on jeans, controversially agreed to share the Blitz crown with his old rival, Russia's Ian Nepomniachtchi, while their final sudden-death tie-break was still in progress. The pair were survivors from an eight-player knockout, and Carlsen <a href=\"https://www.chessgames.com/perl/chessgame?gid=2821676\">took a 2-0 lead</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3348",
          "pubDate" : "Fri, 13 Dec 2024 14:58:29",
          "title" : "Gukesh D crowned 18th FIDE World Champion"
-      },
-      {
-         "description" : "\"Most athletes don't become world champions when they win the final, they arrive there at the start as champions,\" Upton said.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42948838/paddy-upton-gukesh-chess-champion-helping-hand-video-calls-temperature-controls-last-minute-flight-out?device=featurephone",
-         "pubDate" : "Fri, 13 Dec 2024 10:17:43",
-         "title" : "Paddy Upton's helping hand to Gukesh: Video calls, temperature controls, last-minute flight out"
       }
    ]
 }
