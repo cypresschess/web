@@ -34,11 +34,11 @@ news_feed (
          "title" : "Magnus Carlsen Set To Marry Ella Victoria Malone After World Blitz Gold Medal"
       },
       {
-         "description" : "FIDE&#39;s last events of 2024 crowned five world champions: World Rapid Champion Volodar Murzin, Women&#39;s World Rapid Champion Koneru Humpy, World Blitz Champion Ju Wenjun, and finally Blitz World Co-Champions Magnus Carlsen and Ian Nepomniachtchi. It...",
+         "description" : "FIDE&#39;s last events of 2024 crowned five world champions: World Rapid Champion Volodar Murzin, Women&#39;s World Rapid Champion Koneru Humpy, Women&#39;s World Blitz Champion Ju Wenjun, and finally Blitz World Co-Champions Magnus Carlsen and Ian Nepomniach...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championship-13-things-we-learned",
-         "pubDate" : "Thu, 02 Jan 2025 10:24:32",
+         "pubDate" : "Thu, 02 Jan 2025 10:24:00",
          "title" : "FIDE World Rapid & Blitz Championships-13 Things We Learned"
       },
       {
@@ -64,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-fumes-over-joint-world-blitz-title-for-magnus-carlsen-and-ian-nepomniachtchi/articleshow/116870839.cms",
          "pubDate" : "Thu, 02 Jan 2025 04:18:01",
          "title" : "Chess world fumes over joint world blitz title for Carlsen and Nepo"
+      },
+      {
+         "description" : "One True Champion*The 2024 FIDE World Blitz Championship featured an experimental departure in format from previous years, replacing the second day of Swiss play with an eight-player knockout featuring the top finishers from the one-day Swiss on December 30th. Several hundred fans crowded the Cipriani building on Wall Street in Manhattan, New York on New Year's Eve, all of whom were hoping to get a glimpse at some of their favorite players battle for tens of thousands of dollars and the title of World Blitz Champion. Now, tell me, isn't it way more exciting this way? KO. Head to head. Fill or kill.Semis start in 10 mins.- Emilchess (@EmilSutovsky) December 31, 2024 The goal: Since a world ch",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/ju-wenjun-wins-fide-world-blitz-tiebreakers-carlsen-and-nepo-split-title",
+         "pubDate" : "Thu, 02 Jan 2025 00:00:00",
+         "title" : "Ju Wenjun Wins FIDE World Blitz in Tiebreakers, Carlsen and Nepo Split Title"
       },
       {
          "description" : "",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-us-chess-federation-all-america-chess-team-announced",
          "pubDate" : "Mon, 16 Dec 2024 00:00:00",
          "title" : "2025 US Chess Federation All-America Chess Team Announced"
-      },
-      {
-         "description" : "Tsodikova Wins 2024 U.S. Senior Women's Championship <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Natalya Tsodikova is the 2024 U.S. Senior Women's Champion (Photo by Whitney Arave)<br> <br> <br> <br> At the end of round 4, with a perfect 4/4 score, WFM Natalya Tsodikova clinched the 2024 U.S. Senior Women's Championship. A point-and-a-half ahead of the field, she could have lost her fifth round and still taken clear first. Instead, she drew against WIM Beatriz Marinello to finish with 4&frac12;/5. Here is her fourth-round win over WFM Olga Sagalchik, with annotations by JJ Lang: Helpful to Tsodikova's quest for clear first place was the fourth-roun",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/natalya-tsodikova-wins-2024-us-senior-womens-championship-round-spare",
-         "pubDate" : "Mon, 16 Dec 2024 00:00:00",
-         "title" : "Natalya Tsodikova Wins 2024 U.S. Senior Women's Championship With Round To Spare"
       },
       {
          "description" : "This month's featured Flickr post is the sixth to highlight chess street art (aka graffiti) in the long running Flickr series on this blog. Use the search box on the right navigation bar to find the rest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol15.jpg\" WIDTH=360 HEIGHT=400><BR> <B>Top:</B> Detail from bottom.<BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/duncan/54175138130/\">Core246 Graffiti, Hackney Wick</A> &#169; Flickr user <I>duncan cumming</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> Both images carried the same description:- <BLOCKQUOTE> Core vs Tris chess battle; Bishop takes Knight! </BLOCKQUOT",
