@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As part of the Norwegian Grand Prix, chess is also played far up north, where Europe ends and the arctic region begins. Holger Blauhut travelled with his daughter to Alta for the Power Solutions Arctic Chess NGP tournament. Despite a snowstorm, they got to play a well-organised tournament and learned more about the region's sled dog racing. | Photos: Anna Blauhut, Holger Blauhut und Torill M. Wiggen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-norway-polar-region",
+         "pubDate" : "Fri, 03 Jan 2025 01:45:00",
+         "title" : "Playing chess north of the Arctic Circle!"
+      },
+      {
          "description" : "Just in time for the start of the new year, FIDE has published the new world rankings. With an Elo rating of 2831, Magnus Carlsen remains the clear number one, followed in second, third and fourth place by Fabiano Caruana (2803), Hikaru Nakamura (2802) and Arjun Erigaisi (2801). Gukesh Dommaraju, the new classical world champion, follows in fifth place with 2777 points, but is the highest-rated junior (under 20) in the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/42945249/d-gukesh-becomes-world-champion-beats-ding-liren-simple-heist-one-plan?device=featurephone",
          "pubDate" : "Fri, 13 Dec 2024 05:25:22",
          "title" : "The simple heist: There was only one plan, for Gukesh to be Gukesh"
-      },
-      {
-         "description" : " 2024 World Chess Championship Singapore (November 25th December 13th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 1 &frac12; 0 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 0 1 &frac12; 0 6&frac12; Gukesh 0 &frac12; 1 &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; &frac12; 1 The post <a href=\"https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/\">Gukesh shocks Ding in finale, wins title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/12/gukesh-shocks-ding-in-finale-wins-title/",
-         "pubDate" : "Fri, 13 Dec 2024 03:10:53",
-         "title" : "Gukesh shocks Ding in finale, wins title!"
       }
    ]
 }
