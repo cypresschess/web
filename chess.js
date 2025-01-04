@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "My last column of 2024 covered the new teenage world champion, Gukesh from India. On the UK domestic front, the year ended with victory by a resurgent Gawain Jones in the 2024 London Chess Classic. Only a loss by last year's winner, Mickey Adams, in his direct confrontation with British Champion Gawain, prevented the veteran from repeating his []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/study-the-chess-classics/",
+         "pubDate" : "Sat, 04 Jan 2025 12:27:43",
+         "title" : "Study the chess classics"
+      },
+      {
          "description" : "Dates: December 27, 2024, to January 2, 2025. Venue: Boxing Hall, Shri Shiv Chatrapati Sports Complex Balewadi Stadium, Pune, Maharashtra The 37th National Under-9 Open",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -538,6 +546,14 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen announces shock withdrawal; Arjun, Harika, Humpy among leaders after Day 2"
       },
       {
+         "description" : "Following last week's post <A HREF=\"https://chessforallages.blogspot.com/2024/12/globetrotting-gukesh.html\">Globetrotting Gukesh</A> (December 2024; Photo: 'Gukesh and parents the day after the closing ceremony'), in this short series on the career of the newly crowned World Champion Gukesh Dommaraju, I'll end the series (for now at least) by taking direction from a post on my main blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2024/12/2024-gukesh-ding-liren-closing-ceremony.html\">2024 Gukesh - Ding Liren, Closing Ceremony</A> (December 2024; with link to find original photos). There I fulfilled a promise from a previous post, writing, <BLOCKQUOTE> I hope to have at least one mor",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/gukeshs-influences-in-winning-crown.html",
+         "pubDate" : "Fri, 27 Dec 2024 16:08:00",
+         "title" : "Gukesh's Influences in Winning the Crown"
+      },
+      {
          "description" : "GM Magnus Carlsen will no longer participate in the 2024 FIDE World Rapid Chess Championship or the FIDE World Blitz Chess Championship after a dress-code disagreement with FIDE. He finishes the Rapid with a 5/8 score and will not defend his doubl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -802,7 +818,7 @@ news_feed (
          "title" : "Certificate of SNA seminar and exam in Rajahmundry on 30 November & 01 December 2024."
       },
       {
-         "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year-old from Benue State bested a field of veterans and titled players to become the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess continue The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year-old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year-old from Benue State bested a field of veterans and titled players as the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess continue to The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year-old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/improvement-score/",
          "pubDate" : "Sat, 14 Dec 2024 14:00:00",
          "title" : "Supercharge Your Chess Improvement in 2025"
-      },
-      {
-         "description" : "​World Chess Championship update: on Thursday the Indian challenger Gukesh Dommaraju defeated the reigning champion, Ding Liren, of China in the 14th and final game to win the match 7.5 to 6.5. Aged just 18, Gukesh thereby becomes the youngest ever World Champion, surpassing by four years the previous record set by Garry Kasparov. While []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/from-overpromotion-to-regicide/",
-         "pubDate" : "Sat, 14 Dec 2024 11:05:15",
-         "title" : "From overpromotion to regicide"
       }
    ]
 }
