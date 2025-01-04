@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3373",
+         "pubDate" : "Sat, 04 Jan 2025 19:56:44",
+         "title" : "World Social Chess Initiatives Marathon announced"
+      },
+      {
+         "description" : "The dispute over Magnus Carlsen's trousers in the rapid tournament and the crowning of two world champions in the blitz section, which was not provided for in the rules, dominated the news cycle surrounding the 2024 World Rapid and Blitz Championships 2024 - with one important sporting decision taking a back seat: thanks to his performance in New York, Fabiano Caruna won the FIDE Circuit 2024 and thus qualified for the 2026 Candidates Tournament. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fabiano-caruana-qualifies-to-2026-candidates",
+         "pubDate" : "Sat, 04 Jan 2025 19:00:00",
+         "title" : "Fabiano Caruana first to get a spot at the 2026 Candidates Tournament"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116947611.cms\" />Delhi's Chief Minister Atishi felicitated Chess Grandmaster Tania Sachdev for her integral role in the Indian team's gold win at the 45th Chess Olympiad 2024. The event underscored Sachdev's inspirational impact on young athletes, especially girls. The Delhi Government's initiatives, including school chess tournaments and specialized training, highlight their commitment to nurturing sports talent.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "GM Iniyan on ChessBase 18 - (1)"
       },
       {
-         "description" : "The discussion about the level of play at the World Championship match in Singapore got out of hand on social media, says Thorsten Cmiel, who visited the event himself. Commentators and streamers, armed with opinionated machines, are criticised the players, claiming that the level of play was not that great. Objectively speaking, this was not the case.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2024-level-of-play",
-         "pubDate" : "Fri, 03 Jan 2025 12:00:00",
-         "title" : "Discussion about the level of play at the World Championship match in Singapore"
-      },
-      {
          "description" : " The world No 1 withdrew from the World Rapid then came back for the Blitz, where he shared the title when Fide agreed to stop play after three games of a shootout Magnus Carlsen completed a remarkable few days at the World Rapid and Blitz Championships on Wall Street, New York, when the Norwegian, 34, who first withdrew then returned to the event after <a href=\"https://www.theguardian.com/sport/2024/dec/29/magnus-carlsen-return-world-blitz-championship\">Fide rescinded its ban on jeans</a>, controversially agreed to share the Blitz crown with his old rival, Russia's Ian Nepomniachtchi, while their final sudden-death tie-break was still in progress. The pair were survivors from an eight-playe",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -90,14 +98,6 @@ news_feed (
          "title" : "Titled Cup Followed Up By Titled Tuesday Grand Prix In 2025"
       },
       {
-         "description" : "As part of the Norwegian Grand Prix, chess is also played far up north, where Europe ends and the arctic region begins. Holger Blauhut travelled with his daughter to Alta for the Power Solutions Arctic Chess NGP tournament. Despite a snowstorm, they got to play a well-organised tournament and learned more about the region's sled dog racing. | Photos: Anna Blauhut, Holger Blauhut und Torill M. Wiggen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-norway-polar-region",
-         "pubDate" : "Fri, 03 Jan 2025 01:45:00",
-         "title" : "Playing chess north of the Arctic Circle!"
-      },
-      {
          "description" : "After the Delegates Meeting at the U,S. Open, there are bound to be some rulebook changes. After all, the Delegates are in charge of our rules.The 2025 7th edition rulebook update is slim pickings for this go around. A few wording deletions and changes of note are all we have. In fact, there were so few changes that only the online rulebook will reflect those new words (sorry, no print edition). The link at the end of this column is repeated here: 7th Edition Rule Book Free Chapters: Updated For 2025 | US Chess.orgOr, simply slide down to the bottom of the US Chess homepage and try that connection. 14F1. The 50-move rule.TJ SAYS: Rule 14F1 removed, \"&hellip;or pawn move&hellip;,\" in favor of",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -106,28 +106,12 @@ news_feed (
          "title" : "Just the Rules: 2025 US Chess Rulebook Update News"
       },
       {
-         "description" : "Just in time for the start of the new year, FIDE has published the new world rankings. With an Elo rating of 2831, Magnus Carlsen remains the clear number one, followed in second, third and fourth place by Fabiano Caruana (2803), Hikaru Nakamura (2802) and Arjun Erigaisi (2801). Gukesh Dommaraju, the new classical world champion, follows in fifth place with 2777 points, but is the highest-rated junior (under 20) in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-january-2025",
-         "pubDate" : "Thu, 02 Jan 2025 19:40:00",
-         "title" : "FIDE ratings - January 2025"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-promises-best-moves-on-64-squares-after-being-chosen-for-prestigious-khel-ratna-award/articleshow/116889034.cms",
          "pubDate" : "Thu, 02 Jan 2025 13:48:55",
          "title" : "Gukesh promises best moves after being chosen for Khel Ratna award"
-      },
-      {
-         "description" : "Magnus Carlsen is set to marry Ella Victoria Malone this weekend, just days after securing his eighth World Blitz Championship title. The couple, who confirmed the news to Verdens Gang (VG), plan to keep the ceremony private. Malone, who has an American father and a Norwegian mother, grew up in Oslo and now lives with Carlsen, as she has taken on an increasingly vital role in his support team. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-marriage-vg",
-         "pubDate" : "Thu, 02 Jan 2025 13:45:00",
-         "title" : "Magnus Carlsen is getting married"
       },
       {
          "description" : "GM Magnus Carlsen is set to begin 2025 with a major milestone as he ties the knot with his girlfriend, 26-year-old Ella Victoria Malone, this weekend, Norwegian media has reported. The Norwegian, fresh from his eighth World Blitz Championship af...",
