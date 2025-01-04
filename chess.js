@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116947611.cms\" />Delhi's Chief Minister Atishi felicitated Chess Grandmaster Tania Sachdev for her integral role in the Indian team's gold win at the 45th Chess Olympiad 2024. The event underscored Sachdev's inspirational impact on young athletes, especially girls. The Delhi Government's initiatives, including school chess tournaments and specialized training, highlight their commitment to nurturing sports talent.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-winner-tania-sachdev-felicitated-by-state-government/articleshow/116947611.cms",
+         "pubDate" : "Sat, 04 Jan 2025 16:11:47",
+         "title" : "Chess Olympiad winner Tania Sachdev felicitated by state government"
+      },
+      {
+         "description" : "The Hastings International Chess Congress, steeped in tradition since 1895, remains a cherished fixture in the chess world. This year's edition, held from 28 December to 3 January, showcased both seasoned grandmasters and emerging stars. In a gripping 9-round Swiss open, China's untitled player Haowen Xue triumphed with an undefeated 7 points. Close behind were grandmasters Pengxiang Zhang and Pierre Laurent-Paoli, alongside England's rising talent Shreyas Royal. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hastings-congress-2025-final-report",
+         "pubDate" : "Sat, 04 Jan 2025 15:20:00",
+         "title" : "Xue Haowen wins 98th Hastings Congress"
+      },
+      {
+         "description" : "A question that comes up a lot whenever one tries to improve a new skill is: Why? Why would one go through a difficult process to improve a skill that won't make any money-nor will it have any real-life benefits (other than bragging rights)? When I started my training plan for my first half-marathon, these []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/lessons-from-running/",
+         "pubDate" : "Sat, 04 Jan 2025 14:00:00",
+         "title" : "Why Bother? What Running Taught Me About Improving at Chess (and Life)"
+      },
+      {
          "description" : "My last column of 2024 covered the new teenage world champion, Gukesh from India. On the UK domestic front, the year ended with victory by a resurgent Gawain Jones in the 2024 London Chess Classic. Only a loss by last year's winner, Mickey Adams, in his direct confrontation with British Champion Gawain, prevented the veteran from repeating his []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Inside Santa's Workshop"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116605887.cms\" />Indian Grandmaster Arjun Erigaisi finally received his US visa to participate in the World Rapid and Blitz Championships starting December 26 in New York. He had earlier sought help from various authorities, including the US Embassy and Indian officials, to expedite the process. Erigaisi expressed his gratitude and eagerness to compete in the tournament featuring top players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-york-here-i-come-arjun-erigaisi-clears-visa-hurdle-for-world-rapid-and-blitz-championships-in-the-us/articleshow/116605887.cms",
-         "pubDate" : "Mon, 23 Dec 2024 15:40:55",
-         "title" : "'New York here I come': Arjun Erigaisi clears visa hurdle"
-      },
-      {
          "description" : "GM Magnus Carlsen has just won the 2024 Champions Chess Tour Finals in Oslo, Norway. It&#39;s Carlsen&#39;s fifth Champions Chess Tour title, and he&#39;s the only player to win the event since it began in 2020. He&#39;s added another trophy to the collection as ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3349",
          "pubDate" : "Sun, 15 Dec 2024 09:38:35",
          "title" : "World Youth Rapid & Blitz Championship 2024 kicks off in Terme Čatež, Slovenia"
-      },
-      {
-         "description" : "Improving at chess can feel like running on a treadmill-you're working hard, but getting nowhere. You study openings, grind tactics, and watch endless YouTube videos, yet your progress is painfully slow. Two years ago, I released Next Level Training, a course designed to help players simplify their chess improvement and make real progress. Since then, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/improvement-score/",
-         "pubDate" : "Sat, 14 Dec 2024 14:00:00",
-         "title" : "Supercharge Your Chess Improvement in 2025"
       }
    ]
 }
