@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dates: December 27, 2024, to January 2, 2025. Venue: Boxing Hall, Shri Shiv Chatrapati Sports Complex Balewadi Stadium, Pune, Maharashtra The 37th National Under-9 Open",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report37th-national-under-9-open-and-girls-chess-championship-2024venue-boxing-hall-shri-shiv-chatrapati-sports-complex-balewadi-stadium-pune-maharashtra/",
+         "pubDate" : "Sat, 04 Jan 2025 07:33:31",
+         "title" : "Final Report:37th National Under-9 Open and Girls Chess Championship 2024."
+      },
+      {
+         "description" : " find the link for the live games of 15th Chennai Open International Grandmasters Chess Tournament 2024 for Sakthi Group Dr. N. Mahalingam Trophy - Category A (above 2000) (AICF",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-15th-chennai-open-international-grandmasters-chess-tournament-2024-for-sakthi-group-dr-n-mahalingam-trophy-category-a-above-2000/",
+         "pubDate" : "Sat, 04 Jan 2025 07:05:19",
+         "title" : "Live games link for 15th Chennai Open International Grandmasters Chess Tournament 2024 for Sakthi Group Dr. N. Mahalingam Trophy - Category A (above 2000)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116922203.cms\" />Prime Minister Narendra Modi hailed Grandmaster Koneru Humpy as a sporting icon after her victory in the FIDE Women's World Rapid Chess Championship. Humpy, who met Modi with her family, expressed her gratitude for the memorable moment. This achievement highlights a successful year for Indian chess, marked by victories in various international competitions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -978,28 +994,12 @@ news_feed (
          "title" : "Grandmaster Chess Camp in Aizawl, Mizoram from 09-13 December 2024"
       },
       {
-         "description" : "Please find the live games link for the 37th National Under 13 and Girls Chess Championship 2024 which is scheduled from December 17th to 23rd",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-37th-national-under-13-open-and-girls-chess-championship-2024/",
-         "pubDate" : "Tue, 17 Dec 2024 11:45:39",
-         "title" : "Live Games Link for 37th National Under 13 Open and Girls Chess Championship 2024"
-      },
-      {
          "description" : "This week's Tactics Tuesday continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadet-champs-pt-2",
          "pubDate" : "Tue, 17 Dec 2024 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 2"
-      },
-      {
-         "description" : "Please find the live link for ODISHA OPEN Category &#8216;A' (1900 &#38; above) # (The 15th International Grandmasters Chess Festival 2024-25) Link:&#160;https://lichess.org/broadcast/odisha-open/round-2/6OOBHVt8",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-links-odisha-open-category-a/",
-         "pubDate" : "Mon, 16 Dec 2024 12:42:05",
-         "title" : "Live Game links: ODISHA OPEN (Category 'A')"
       },
       {
          "description" : " The FIDE World Chess Championship took place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Defending champion was 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April 2023. The Challenger was 18 year old Gukesh Dommaraju who won the right to play the match after winning the Candidates tournament earlier in the year. Much was made of the poor form of Ding Liren who had admitted to depression but he played better than anyone had any right to expect. Ding won the first game but the match was soon level again after Gukesh won game 3. There were then seven draws in a row before Gukesh won a fluctuating struggle in game 11 where Ding stood well before losing the advantag",
@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.thearticle.com/from-overpromotion-to-regicide/",
          "pubDate" : "Sat, 14 Dec 2024 11:05:15",
          "title" : "From overpromotion to regicide"
-      },
-      {
-         "description" : "Belief. It's the one quality that describes Gukesh -- and with him, elite Indian sport -- the best.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/42961042/gukesh-neeraj-pant-vinesh-anand-walks-footsteps-champions-defied-odds-ignored-convention?device=featurephone",
-         "pubDate" : "Sat, 14 Dec 2024 06:07:51",
-         "title" : "Neeraj, Pant, Vinesh, Vishy...Gukesh walks in footsteps of champions who defied odds, ignored convention"
       }
    ]
 }
