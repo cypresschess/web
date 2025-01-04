@@ -50,6 +50,14 @@ news_feed (
          "title" : "Playing chess north of the Arctic Circle!"
       },
       {
+         "description" : "After the Delegates Meeting at the U,S. Open, there are bound to be some rulebook changes. After all, the Delegates are in charge of our rules.The 2025 7th edition rulebook update is slim pickings for this go around. A few wording deletions and changes of note are all we have. In fact, there were so few changes that only the online rulebook will reflect those new words (sorry, no print edition). The link at the end of this column is repeated here: 7th Edition Rule Book Free Chapters: Updated For 2025 | US Chess.orgOr, simply slide down to the bottom of the US Chess homepage and try that connection. 14F1. The 50-move rule.TJ SAYS: Rule 14F1 removed, \"&hellip;or pawn move&hellip;,\" in favor of",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-2025-us-chess-rulebook-update-news",
+         "pubDate" : "Fri, 03 Jan 2025 00:00:00",
+         "title" : "Just the Rules: 2025 US Chess Rulebook Update News"
+      },
+      {
          "description" : "Just in time for the start of the new year, FIDE has published the new world rankings. With an Elo rating of 2831, Magnus Carlsen remains the clear number one, followed in second, third and fourth place by Fabiano Caruana (2803), Hikaru Nakamura (2802) and Arjun Erigaisi (2801). Gukesh Dommaraju, the new classical world champion, follows in fifth place with 2777 points, but is the highest-rated junior (under 20) in the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3350",
          "pubDate" : "Mon, 16 Dec 2024 09:44:40",
          "title" : "FIDE Circuit 2024: Caruana seizes the lead"
-      },
-      {
-         "description" : "The United States Chess Federation is pleased to announce the 2025 All-America Chess Team. Team members will receive team jackets and plaques by mail.The All-America Chess Team was created in 1987 to honor the very best players ages 18 and under. The team, one of the highest national honors attainable by a young chess player, is selected on the basis of age, rating, and chess activity during that year, similar to the selection process of \"all conference\" sports teams. This year's candidates were selected based on their age as of January 1, 2024, and their peak post-tournament rating from July 1, 2023 through June 30, 2024. Since this award is a \"post-season\" selection, the minimum rating lim",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-us-chess-federation-all-america-chess-team-announced",
-         "pubDate" : "Mon, 16 Dec 2024 00:00:00",
-         "title" : "2025 US Chess Federation All-America Chess Team Announced"
       },
       {
          "description" : "This month's featured Flickr post is the sixth to highlight chess street art (aka graffiti) in the long running Flickr series on this blog. Use the search box on the right navigation bar to find the rest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol15.jpg\" WIDTH=360 HEIGHT=400><BR> <B>Top:</B> Detail from bottom.<BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/duncan/54175138130/\">Core246 Graffiti, Hackney Wick</A> &#169; Flickr user <I>duncan cumming</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> Both images carried the same description:- <BLOCKQUOTE> Core vs Tris chess battle; Bishop takes Knight! </BLOCKQUOT",
