@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Robert H&uuml;bner died on 5 January 2025 after a long and serious illness. For decades after the war Robert H&uuml;bner was the best German chess player, with countless successes in individual and team competitions. In addition to his career as a tournament player, H&uuml;bner gained great importance as a profound chess historian and incorruptible analyst. With his death the chess world loses one of its outstanding minds.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-huebner-has-passed-away",
+         "pubDate" : "Sun, 05 Jan 2025 13:28:24",
+         "title" : "Robert H&uuml;bner has passed away"
+      },
+      {
+         "description" : "Svitlana's Smart Moves first episode of 2025 is all about juicy tactics, and tragical blunders of the Rapid & Blitz World Chess Championship. Some chess tactics were especially significant. A couple of games by top players like Carlsen, Nepo, and Pragg were already won, and one more correct move would have sealed the deal. Instead, some blunders occurred, mostly in time trouble of course, and the tables turned.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-best-blunders-of-the-rapid-blitz-wcc",
+         "pubDate" : "Sun, 05 Jan 2025 10:09:40",
+         "title" : "Svitlana's Smart Moves - Best Blunders of the Rapid & Blitz WCC"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -400,6 +416,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/this-victory-is-even-more-historic-pm-modi-lauds-koneru-humpy-on-world-chess-rapid-championship-win/articleshow/116769200.cms",
          "pubDate" : "Sun, 29 Dec 2024 13:02:11",
          "title" : "'This victory is even more historic': Modi lauds Humpy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3266",
+         "pubDate" : "Sun, 29 Dec 2024 13:00:52",
+         "title" : "FIDE FPL and EDC actions on the incident involving GM Kirill Shevchenko"
       },
       {
          "description" : "Beneath its deceptively simple facade of a game, chess conceals a rich tapestry of human ingenuity and thought. It is, as Anatoly Karpov succinctly remarked, art, science, and sport all rolled into one. Yet, while the competitive aspect of chess basks in the limelight with its high-stakes, action-packed tournaments and matches, the subtle but no less fascinating endeavour of chess composition, where artistry shines the brightest, languishes in relative obscurity. As a step towards redressing this imbalance, ChessBase India and the World Federation for Chess Composition (WFCC) present My First Endgame Study, a beginner-friendly study composing contest designed for chess enthusiasts eager to e",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/hackney-wick-street-art.html",
          "pubDate" : "Sun, 15 Dec 2024 16:30:00",
          "title" : "Hackney Wick Street Art"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3349",
-         "pubDate" : "Sun, 15 Dec 2024 09:38:35",
-         "title" : "World Youth Rapid & Blitz Championship 2024 kicks off in Terme Čatež, Slovenia"
       }
    ]
 }
