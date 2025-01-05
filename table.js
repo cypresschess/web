@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2025-01-03","29","<a href=http://www.uschess.org/msa/XtblMain.php?202501035882 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-01-03","18","<a href=http://www.uschess.org/msa/XtblMain.php?202501035662 target='_blank'>FBCC NATIONAL JRR TOLKIEN DAY</a>",
+"SPRING","2025-01-03","32","<a href=http://www.uschess.org/msa/XtblMain.php?202501035652 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-12-29","16","<a href=http://www.uschess.org/msa/XtblMain.php?202412293202 target='_blank'>SUNDAY SWISS AT NOON DEC 29TH</a>",
 "CYPRESS","2024-12-27","21","<a href=http://www.uschess.org/msa/XtblMain.php?202412272562 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-12-27","18","<a href=http://www.uschess.org/msa/XtblMain.php?202412272452 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -13,6 +16,7 @@ jtable([
 "SPRING","2024-12-13","34","<a href=http://www.uschess.org/msa/XtblMain.php?202412134512 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-12-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202412134462 target='_blank'>FBCC NATIONAL VIOLIN DAY OPEN</a>",
 "CYPRESS","2024-12-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202412134342 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2024-12-04  - 12-11","3","<a href=http://www.uschess.org/msa/XtblMain.php?202412116302 target='_blank'>CYGA12112024</a>",
 "HOUSTON","2024-12-06  - 12-08","44","<a href=http://www.uschess.org/msa/XtblMain.php?202412081512 target='_blank'>$2,000 DECEMBER 2024 CHAMPIONSHIP</a>",
 "SUGAR LAND","2024-12-07","4","<a href=http://www.uschess.org/msa/XtblMain.php?202412079922 target='_blank'>FBCC 2024 NATIONAL GAZPACHO DAY OPE</a>",
 "HOUSTON","2024-12-07","357","<a href=http://www.uschess.org/msa/XtblMain.php?202412070572 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2024-05-11","9","<a href=http://www.uschess.org/msa/XtblMain.php?202405116462 target='_blank'>CHESSPANDA05112024SATURDAY</a>",
 "HOUSTON","2024-05-11","15","<a href=http://www.uschess.org/msa/XtblMain.php?202405116342 target='_blank'>MAY 11TH TROPHY SCHOLASTIC</a>",
 "CYPRESS","2024-05-10","18","<a href=http://www.uschess.org/msa/XtblMain.php?202405107462 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-05-10","38","<a href=http://www.uschess.org/msa/XtblMain.php?202405107132 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-05-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202405105892 target='_blank'>FBCC 2024 NATIONAL SHRIMP DAY OPEN.</a>",
-"HOUSTON","2024-05-03  - 05-05","62","<a href=http://www.uschess.org/msa/XtblMain.php?202405053502 target='_blank'>$2,500 MAY 2024 CHAMPIONSHIP</a>",
-"SPRING","2024-05-04","133","<a href=http://www.uschess.org/msa/XtblMain.php?202405042962 target='_blank'>STRACK INTERMEDIATE</a>",
 ]);
