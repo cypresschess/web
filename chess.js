@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Robert H&uuml;bner died on 5 January 2025 after a long and serious illness. For decades after the war Robert H&uuml;bner was the best German chess player, with countless successes in individual and team competitions. In addition to his career as a tournament player, H&uuml;bner gained great importance as a profound chess historian and incorruptible analyst. With his death the chess world loses one of its outstanding minds.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116967510.cms\" />D Gukesh, fresh from his World Championship win and Major Dhyan Chand Khel Ratna award, is gearing up for the challenging 2025 chess season. With major tournaments like Tata Steel coming up, he aims to continuously improve and meet his high self-expectations. His mentor Viswanathan Anand believes Gukesh's success will inspire more young players to take up chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-prepares-for-a-fun-year-with-new-goals-in-2025/articleshow/116967510.cms",
+         "pubDate" : "Sun, 05 Jan 2025 13:48:49",
+         "title" : "D Gukesh prepares for a 'fun year' with new goals in 2025"
+      },
+      {
+         "description" : "Robert H&uuml;bner died on 5 January 2025 after a long and serious illness. For decades after the war Robert H&uuml;bner was the best German chess player, with countless successes in individual and team competitions. In addition to his career as a tournament player, H&uuml;bner gained great importance as a profound chess historian and incorruptible analyst. With his death the chess world loses one of its outstanding minds. | Photo: R. Bogaerts / ANEFO via nationaalarchief.nl",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-huebner-has-passed-away",
          "pubDate" : "Sun, 05 Jan 2025 13:28:24",
          "title" : "Robert H&uuml;bner has passed away"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3374",
+         "pubDate" : "Sun, 05 Jan 2025 12:40:42",
+         "title" : "FIDE World School Championships 2025: Registration now open"
       },
       {
          "description" : "Svitlana's Smart Moves first episode of 2025 is all about juicy tactics, and tragical blunders of the Rapid & Blitz World Chess Championship. Some chess tactics were especially significant. A couple of games by top players like Carlsen, Nepo, and Pragg were already won, and one more correct move would have sealed the deal. Instead, some blunders occurred, mostly in time trouble of course, and the tables turned.",
@@ -30,16 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-4-2025",
-         "pubDate" : "Sat, 04 Jan 2025 19:53:34",
+         "pubDate" : "Sat, 04 Jan 2025 19:53:00",
          "title" : "Naroditsky Wins 25th Bullet Brawl Title Ahead Of 252 Titled Players"
-      },
-      {
-         "description" : "The dispute over Magnus Carlsen's trousers in the rapid tournament and the crowning of two world champions in the blitz section, which was not provided for in the rules, dominated the news cycle surrounding the 2024 World Rapid and Blitz Championships 2024 - with one important sporting decision taking a back seat: thanks to his performance in New York, Fabiano Caruna won the FIDE Circuit 2024 and thus qualified for the 2026 Candidates Tournament. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fabiano-caruana-qualifies-to-2026-candidates",
-         "pubDate" : "Sat, 04 Jan 2025 19:00:00",
-         "title" : "Fabiano Caruana first to get a spot at the 2026 Candidates Tournament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116947611.cms\" />Delhi's Chief Minister Atishi felicitated Chess Grandmaster Tania Sachdev for her integral role in the Indian team's gold win at the 45th Chess Olympiad 2024. The event underscored Sachdev's inspirational impact on young athletes, especially girls. The Delhi Government's initiatives, including school chess tournaments and specialized training, highlight their commitment to nurturing sports talent.",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-winner-tania-sachdev-felicitated-by-state-government/articleshow/116947611.cms",
          "pubDate" : "Sat, 04 Jan 2025 16:11:47",
          "title" : "Chess Olympiad winner Tania Sachdev felicitated by state government"
-      },
-      {
-         "description" : "The Hastings International Chess Congress, steeped in tradition since 1895, remains a cherished fixture in the chess world. This year's edition, held from 28 December to 3 January, showcased both seasoned grandmasters and emerging stars. In a gripping 9-round Swiss open, China's untitled player Haowen Xue triumphed with an undefeated 7 points. Close behind were grandmasters Pengxiang Zhang and Pierre Laurent-Paoli, alongside England's rising talent Shreyas Royal. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hastings-congress-2025-final-report",
-         "pubDate" : "Sat, 04 Jan 2025 15:20:00",
-         "title" : "Xue Haowen wins 98th Hastings Congress"
       },
       {
          "description" : "A question that comes up a lot whenever one tries to improve a new skill is: Why? Why would one go through a difficult process to improve a skill that won't make any money-nor will it have any real-life benefits (other than bragging rights)? When I started my training plan for my first half-marathon, these []",
@@ -682,14 +682,6 @@ news_feed (
          "title" : "Why Gukesh will not play in World Rapid and Blitz Championships"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116679796.cms\" />Indian Grandmaster Arjun Erigaisi faces tough competition at the World Rapid and Blitz Chess Championship, aiming to stay in contention for the 2026 Candidates' Tournament. Top players like Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura pose significant challenges. Key Indian players include R Praggnanandhaa, Raunak Sadhwani, and Koneru Humpy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-faces-daunting-challenge-at-world-rapid-and-blitz-chess-championship/articleshow/116679796.cms",
-         "pubDate" : "Thu, 26 Dec 2024 09:38:47",
-         "title" : "Arjun Erigaisi faces daunting challenge at World Rapid and Blitz Chess Championship"
-      },
-      {
          "description" : "The 2024 FIDE World Rapid and Blitz Championship will be held from December 26 (early December 27 in India) to December 31 (early January 1 in India) in Wall Street, New York.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1064,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3350",
          "pubDate" : "Mon, 16 Dec 2024 09:44:40",
          "title" : "FIDE Circuit 2024: Caruana seizes the lead"
-      },
-      {
-         "description" : "This month's featured Flickr post is the sixth to highlight chess street art (aka graffiti) in the long running Flickr series on this blog. Use the search box on the right navigation bar to find the rest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol15.jpg\" WIDTH=360 HEIGHT=400><BR> <B>Top:</B> Detail from bottom.<BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/duncan/54175138130/\">Core246 Graffiti, Hackney Wick</A> &#169; Flickr user <I>duncan cumming</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> Both images carried the same description:- <BLOCKQUOTE> Core vs Tris chess battle; Bishop takes Knight! </BLOCKQUOT",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/hackney-wick-street-art.html",
-         "pubDate" : "Sun, 15 Dec 2024 16:30:00",
-         "title" : "Hackney Wick Street Art"
       }
    ]
 }
