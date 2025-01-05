@@ -42,6 +42,14 @@ news_feed (
          "title" : "Why Bother? What Running Taught Me About Improving at Chess (and Life)"
       },
       {
+         "description" : "The reign of GM Magnus Carlsen as the king of chess now includes a queen. The Norwegian star has tied the knot with Ella Victoria Malone in a ceremony packed with guests on a sunny winter day in Oslo. The couple exchanged their vows in Holmenkol...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-king-magnus-carlsen-marries-his-queen-ella-victoria",
+         "pubDate" : "Sat, 04 Jan 2025 13:39:00",
+         "title" : "Chess King Magnus Carlsen Marries His Queen Ella Victoria"
+      },
+      {
          "description" : "My last column of 2024 covered the new teenage world champion, Gukesh from India. On the UK domestic front, the year ended with victory by a resurgent Gawain Jones in the 2024 London Chess Classic. Only a loss by last year's winner, Mickey Adams, in his direct confrontation with British Champion Gawain, prevented the veteran from repeating his []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-examination-in-panjim-goa-on-7th-and-8th-december-2024/",
          "pubDate" : "Wed, 18 Dec 2024 12:27:44",
          "title" : "Final Report of Senior National Arbiter Seminar & Examination in Panjim Goa on 7th and 8th December 2024"
-      },
-      {
-         "description" : "Two of the world&#39;s best blitz players added Titled Tuesday winner to their list of 2024 accomplishments on December 17, with GM Parham Maghsoodloo winning the early tournament outright on 10 points, followed by GM Daniel Naroditsky scoring 9.5 poi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-naroditsky-win-titled-tuesday-december-17-2024",
-         "pubDate" : "Wed, 18 Dec 2024 08:05:00",
-         "title" : "Fresh Faces Finish First In Titled Tuesday"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
