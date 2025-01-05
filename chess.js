@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Social Chess Initiatives Marathon announced"
       },
       {
+         "description" : "In the wake of stellar performances at the 2024 FIDE World Rapid &#38;amp; Blitz Chess Championships, GM Daniel Naroditsky won the first Bullet Brawl of 2025 with a score of 246, bagging the $400 first prize and closing the gap between himself and GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-4-2025",
+         "pubDate" : "Sat, 04 Jan 2025 19:53:34",
+         "title" : "Naroditsky Wins 25th Bullet Brawl Title Ahead Of 252 Titled Players"
+      },
+      {
          "description" : "The dispute over Magnus Carlsen's trousers in the rapid tournament and the crowning of two world champions in the blitz section, which was not provided for in the rules, dominated the news cycle surrounding the 2024 World Rapid and Blitz Championships 2024 - with one important sporting decision taking a back seat: thanks to his performance in New York, Fabiano Caruna won the FIDE Circuit 2024 and thus qualified for the 2026 Candidates Tournament. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3352",
          "pubDate" : "Wed, 18 Dec 2024 17:37:24",
          "title" : "Kenya Championship 2024: Mclingeyo and Mongeli claim titles"
-      },
-      {
-         "description" : "GM Magnus Carlsen leads the 2024 Champions Chess Tour Finals Round-Robin with 5/6, despite dropping one loss to Alireza Firouzja on Wednesday. Three players follow just one point behind: GMs Firouzja, Denis Lazavik, and Ian Nepomniachtchi.&#38;nbsp; ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-day-2",
-         "pubDate" : "Wed, 18 Dec 2024 14:21:00",
-         "title" : "Firouzja Ends Carlsen's Streak, Still Trails By 1 With Lazavik, Nepomniachtchi"
       },
       {
          "description" : "Goa Chess Association, on behalf of All Chess Federation, organized a Senior National Arbiter seminar, followed by an examination at Panjim , Goa on 7th",
