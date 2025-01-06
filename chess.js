@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3377",
+         "pubDate" : "Mon, 06 Jan 2025 19:22:19",
+         "title" : "FIDE announces World Cup 2025 for youngsters"
+      },
+      {
          "description" : "Egyptian GM Bassem Amin emerged victorious in the 52nd Rilton Cup, held from 27 December to 5 January in Stockholm, Sweden. The prestigious tournament, established in 1971 thanks to the visionary support of Dr Tore Rilton, attracted 115 players from 35 countries this year. Despite an early upset loss, Amin showcased his resilience by winning six consecutive games and secured the title with 7&frac12; points. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-kings-new-years-honours-stephen-rigby-british-empire-medal/",
          "pubDate" : "Mon, 06 Jan 2025 09:50:37",
          "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal"
+      },
+      {
+         "description" : "Egyptian soccer star and chess fan Mohamed Salah has once again expressed his admiration for GM Magnus Carlsen and revealed that he followed the drama in the World Rapid &#38;amp; Blitz Championship in New York. In a new interview by the Norwegian P...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-addict-mohamed-salah-hails-magnus-carlsen-as-best-endgame-player-ever",
+         "pubDate" : "Mon, 06 Jan 2025 09:29:00",
+         "title" : "Chess Addict Mohamed Salah Hails Magnus Carlsen As 'Best Endgame Player Ever'"
       },
       {
          "description" : "",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3356",
          "pubDate" : "Fri, 20 Dec 2024 14:55:32",
          "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have advanced to the title match of the 2024 Champions Chess Tour Finals. Carlsen defeated GM Maxime Vachier-Lagrave 3.5-1.5, even after missing a checkmate-in-two he could have played in the final game. N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-semifinals",
-         "pubDate" : "Fri, 20 Dec 2024 12:03:00",
-         "title" : "Nepomniachtchi Beats Firouzja With 2 Games To Spare, Carlsen Eliminates Vachier-Lagrave"
       },
       {
          "description" : "",
