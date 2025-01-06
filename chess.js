@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Robert Huebner, the best German chess player since Emanuel Lasker, a four-time world championship candidate, Olympic board one gold medalist, former world number-three, master analyst, writer, polyglot, and papyrologist, has died at the age of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/robert-huebner-1948-2025",
+         "pubDate" : "Sun, 05 Jan 2025 15:21:59",
+         "title" : "Robert Huebner (1948-2025)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116967510.cms\" />D Gukesh, fresh from his World Championship win and Major Dhyan Chand Khel Ratna award, is gearing up for the challenging 2025 chess season. With major tournaments like Tata Steel coming up, he aims to continuously improve and meet his high self-expectations. His mentor Viswanathan Anand believes Gukesh's success will inspire more young players to take up chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3354",
          "pubDate" : "Thu, 19 Dec 2024 21:02:22",
          "title" : "Aleksandr Volodin and Margareth Olde crowned Estonian champions"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Alireza Firouzja made it to the 2024 Champions Chess Tour Finals Semifinals by finishing as numbers one and two in the round-robin, while GMs Ian Nepomniachtchi and Maxime Vachier-Lagrave advanced through the Survival Stage....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-champions-chess-tour-finals-day-3",
-         "pubDate" : "Thu, 19 Dec 2024 13:12:00",
-         "title" : "Vachier-Lagrave To Play Carlsen In Semifinals, Firouzja Faces Nepomniachtchi"
       },
       {
          "description" : "",
