@@ -34,6 +34,14 @@ news_feed (
          "title" : "Chess by the sea"
       },
       {
+         "description" : "Another year is upon us, and we&#39;re all looking forward to what 2025 will bring us. But before we look forward, let&#39;s take one last moment to celebrate the great things that happened to chess in 2024! The community has voted, and we finally know ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-awards-winners",
+         "pubDate" : "Mon, 06 Jan 2025 08:36:00",
+         "title" : "Gukesh, Ju, Gotham & Co. - Announcing The 2024 Chess.com Awards Winners"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -960,14 +968,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/dec/20/chess-gukesh-and-india-celebrate-after-win-but-new-challenges-are-emerging",
          "pubDate" : "Fri, 20 Dec 2024 08:00:07",
          "title" : "Chess: Gukesh and India celebrate after win but new challenges are emerging"
-      },
-      {
-         "description" : "We&#38;rsquo;re excited to announce another official partner for the Champions Chess Tour Finals, currently underway in Olso, Norway! Rubik&#38;rsquo;s Cube, the company behind the most iconic puzzle in the world, is once more teaming up with Chess.com to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-rubiks-cct-finals-2024-giveaway",
-         "pubDate" : "Fri, 20 Dec 2024 07:00:00",
-         "title" : "Rubik's Cube, Chess.com, And Logic Team Up For The CCT Finals And A Special Giveaway!"
       },
       {
          "description" : "US Chess is excited to announce that registration is open for SuperNationals VIII, to be held in Orlando, Fla., May 9-11, 2025.In recent months US Chess has initiated changes to the entry fee structure for our national events, and with SuperNationals we are instituting a change in how tournament hotel rooms are blocked and booked. This change is a response to a shift in the hotel and meeting industries' approach to cancellation penalties since 2021. (See the October 2024 issue of Chess Life for a fuller discussion on why this change is necessary.)These changes are significant, so please read the following to the end.Different hotels have different policies, so be aware before booking a room.",
