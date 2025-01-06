@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Egyptian GM Bassem Amin emerged victorious in the 52nd Rilton Cup, held from 27 December to 5 January in Stockholm, Sweden. The prestigious tournament, established in 1971 thanks to the visionary support of Dr Tore Rilton, attracted 115 players from 35 countries this year. Despite an early upset loss, Amin showcased his resilience by winning six consecutive games and secured the title with 7&frac12; points. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bassem-amin-wins-rilton-cup-2025",
+         "pubDate" : "Mon, 06 Jan 2025 14:00:00",
+         "title" : "Bassem Amin convincingly wins Rilton Cup in Stockholm"
+      },
+      {
          "description" : "There are many clear advantages of using the latest ChessBase 18. It dramatically improves your level of chess study and preparation. Ask Indian grandmaster Pa.Iniyan, who sent us an in-depth three-part review of his experience with the program. You would do well to follow what he says carefully - and use our software to increase your performance and rating. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
