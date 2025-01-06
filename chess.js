@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3376",
+         "pubDate" : "Mon, 06 Jan 2025 04:44:12",
+         "title" : "Robert Huebner (1948-2025)"
+      },
+      {
          "description" : "GM Robert Huebner, the best German chess player since Emanuel Lasker, a four-time world championship candidate, Olympic board one gold medalist, former world number-three, master analyst, writer, polyglot, and papyrologist, has died at the age of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/robert-huebner-1948-2025",
-         "pubDate" : "Sun, 05 Jan 2025 15:21:59",
+         "pubDate" : "Sun, 05 Jan 2025 15:21:00",
          "title" : "Robert Huebner (1948-2025)"
       },
       {
