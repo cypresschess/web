@@ -194,6 +194,14 @@ news_feed (
          "title" : "Chess world fumes over joint world blitz title for Carlsen and Nepo"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3375",
+         "pubDate" : "Thu, 02 Jan 2025 01:05:56",
+         "title" : "Fabiano Caruana wins FIDE Circuit 2024"
+      },
+      {
          "description" : "One True Champion*The 2024 FIDE World Blitz Championship featured an experimental departure in format from previous years, replacing the second day of Swiss play with an eight-player knockout featuring the top finishers from the one-day Swiss on December 30th. Several hundred fans crowded the Cipriani building on Wall Street in Manhattan, New York on New Year's Eve, all of whom were hoping to get a glimpse at some of their favorite players battle for tens of thousands of dollars and the title of World Blitz Champion. Now, tell me, isn't it way more exciting this way? KO. Head to head. Fill or kill.Semis start in 10 mins.- Emilchess (@EmilSutovsky) December 31, 2024 The goal: Since a world ch",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
