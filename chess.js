@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are many clear advantages of using the latest ChessBase 18. It dramatically improves your level of chess study and preparation. Ask Indian grandmaster Pa.Iniyan, who sent us an in-depth three-part review of his experience with the program. You would do well to follow what he says carefully - and use our software to increase your performance and rating. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18-2",
+         "pubDate" : "Mon, 06 Jan 2025 10:42:13",
+         "title" : "GM Iniyan on ChessBase 18 - (2)"
+      },
+      {
+         "description" : "Steve Rigby, the founder of Oldham-based 3Cs Chess Club over forty-six years ago, has been awarded the British Empire Medal in the 2025 King's New Year's Honours for services to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-kings-new-years-honours-stephen-rigby-british-empire-medal/",
+         "pubDate" : "Mon, 06 Jan 2025 09:50:37",
+         "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://djerbachessfestival.com/data/program#new_tab",
+         "pubDate" : "Mon, 06 Jan 2025 09:08:33",
+         "title" : "Chess by the sea"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -352,6 +376,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/",
          "pubDate" : "Mon, 30 Dec 2024 17:20:00",
          "title" : "Hardaway, Adewumi debut at World Rapid & Blitz"
+      },
+      {
+         "description" : "A week after this blog's Christmas post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/inside-santas-workshop.html\">Inside Santa's Workshop</A> (December 2024), let's follow up with a New Year's post. Maybe 'double down' is a better description of this post than 'follow up'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol30.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'2025 plays chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> Last year's New Year AI image, <A HREF=\"https://chessforallages.blogspot.com/2024/01/father-time-and-new-year-baby.html\">Father Time and the New Year Baby</A> (January 2024), was filled with bearded old men, clocks, and bab",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/is-2025-dystopian-year.html",
+         "pubDate" : "Mon, 30 Dec 2024 16:52:00",
+         "title" : "Is 2025 a Dystopian Year?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116800126.cms\" />Magnus Carlsen confirmed his return to the World Blitz Chess Championship after FIDE permitted players to compete in jeans. Carlsen criticized FIDE's decision-making process and deputy president Viswanathan Anand, claiming the situation was mishandled and Anand was not suitable for his role. Carlsen faced fines and rules clarification issues.",
@@ -1048,30 +1080,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadet-champs-pt-2",
          "pubDate" : "Tue, 17 Dec 2024 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 2"
-      },
-      {
-         "description" : " The FIDE World Chess Championship took place in Singapore Mon 25th Nov to Fri 13th Dec 2024. Defending champion was 32 year old Ding Liren who won the title against Ian Nepomniachtchi in April 2023. The Challenger was 18 year old Gukesh Dommaraju who won the right to play the match after winning the Candidates tournament earlier in the year. Much was made of the poor form of Ding Liren who had admitted to depression but he played better than anyone had any right to expect. Ding won the first game but the match was soon level again after Gukesh won game 3. There were then seven draws in a row before Gukesh won a fluctuating struggle in game 11 where Ding stood well before losing the advantag",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-chess-championship-2024",
-         "pubDate" : "Mon, 16 Dec 2024 12:01:00",
-         "title" : "FIDE World Chess Championship 2024 - Games and Results"
-      },
-      {
-         "description" : "The ECU E-Magazine November 2024 is out! In this edition of the ECU E-Magazine you may read about: The November edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or can be downloaded below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-november-2024/",
-         "pubDate" : "Mon, 16 Dec 2024 10:44:22",
-         "title" : "ECU E-Magazine November 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3350",
-         "pubDate" : "Mon, 16 Dec 2024 09:44:40",
-         "title" : "FIDE Circuit 2024: Caruana seizes the lead"
       }
    ]
 }
