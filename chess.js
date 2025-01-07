@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE announces World Cup 2025 for youngsters"
       },
       {
+         "description" : "GMs Vladimir Fedoseev, Denis Lazavik, Javokhir Sindarov, and Oleksandr Bortnyk will join the likes of GMs Ian Nepomniachtchi and Wesley So in a 16-player Knockout on Chess.com to decide the final spot in the 2025 Weissenhaus Freestyle Chess Grand ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-day-1",
+         "pubDate" : "Mon, 06 Jan 2025 16:14:00",
+         "title" : "Fedoseev, Lazavik, Sindarov, Bortnyk Keep Weissenhaus Hopes Alive"
+      },
+      {
          "description" : "Egyptian GM Bassem Amin emerged victorious in the 52nd Rilton Cup, held from 27 December to 5 January in Stockholm, Sweden. The prestigious tournament, established in 1971 thanks to the visionary support of Dr Tore Rilton, attracted 115 players from 35 countries this year. Despite an early upset loss, Amin showcased his resilience by winning six consecutive games and secured the title with 7&frac12; points. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -922,14 +930,6 @@ news_feed (
          "title" : "Gukesh: a worthy world champion"
       },
       {
-         "description" : "GM Magnus Carlsen defeated GM Ian Nepomniachtchi 4-1 to win the 2024 Champions Chess Tour Finals and his fifth consecutive Champions Chess Tour title. Again earning the $200,000 first prize, Carlsen has won every edition of the Champions Chess Tou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2024-champions-chess-tour-finals",
-         "pubDate" : "Sat, 21 Dec 2024 11:48:00",
-         "title" : "Carlsen Wins 5th Champions Chess Tour Title"
-      },
-      {
          "description" : "Please find the certificates Sl No Candidate Name 1 Anand J S 2 Vipin Vijayan 3 Vani Indrali 4 Tejesh Oleti 5 Kranthi G 6",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1088,14 +1088,6 @@ news_feed (
          "link" : "https://aicf.in/grandmaster-chess-camp-in-aizawl-mizoram-2024-from-09-13-december-2024/",
          "pubDate" : "Tue, 17 Dec 2024 12:41:03",
          "title" : "Grandmaster Chess Camp in Aizawl, Mizoram from 09-13 December 2024"
-      },
-      {
-         "description" : "This week's Tactics Tuesday continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadet-champs-pt-2",
-         "pubDate" : "Tue, 17 Dec 2024 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cadet Champs, Pt. 2"
       }
    ]
 }
