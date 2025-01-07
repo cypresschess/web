@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen",
-         "pubDate" : "Tue, 07 Jan 2025 07:30:14",
+         "pubDate" : "Tue, 07 Jan 2025 07:30:00",
          "title" : "Ella Victoria Carlsen Opens Up About Life With Magnus And Plans For The Future"
       },
       {
