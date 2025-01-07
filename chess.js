@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The famous classic Thomas-Alekhine is a strategical masterpiece. It has served as a lesson on how to play against weak white pawns on c3 and d4. Ever since Nimzovitsch has dealt with it in his famous work \"My System\" it has been popular with trainers and students alike. But did White really use all defensive options? This has not been debated enough in the past. Can you do this important job?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/riddle-thomas-alekhine-1925",
+         "pubDate" : "Tue, 07 Jan 2025 11:50:00",
+         "title" : "Riddle: Thomas-Alekhine 1925"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3379",
+         "pubDate" : "Tue, 07 Jan 2025 11:38:38",
+         "title" : "FIDE Council approves changes to FIDE Circuit 2025 Regulations"
+      },
+      {
+         "description" : "In the Kakuma refugee camp in Kenya, chess is transforming lives through the Girls Club \"Chess for Protection\" initiative, launched by FIDE and UNHCR in 2021. Targeting young refugee girls, the programme combines chess lessons with life skills, fostering confidence, mental well-being, and hope in a safe environment. With over 250 participants annually across three schools, the initiative empowers these girls through training with world-class educators, a book club and workshops led by inspiring figures.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kakuma-refugee-girls-chess-inspiration",
+         "pubDate" : "Tue, 07 Jan 2025 11:20:00",
+         "title" : "Chess used as inspiration for refugee girls in Kakuma"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-addict-mohamed-salah-hails-magnus-carlsen-as-best-endgame-player-ever",
          "pubDate" : "Mon, 06 Jan 2025 09:29:00",
          "title" : "Chess Addict Mohamed Salah Hails Magnus Carlsen As 'Best Endgame Player Ever'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://djerbachessfestival.com/data/program#new_tab",
-         "pubDate" : "Mon, 06 Jan 2025 09:08:33",
-         "title" : "Chess by the sea"
       },
       {
          "description" : "Another year is upon us, and we&#39;re all looking forward to what 2025 will bring us. But before we look forward, let&#39;s take one last moment to celebrate the great things that happened to chess in 2024! The community has voted, and we finally know ...",
@@ -720,6 +736,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/forthcoming-ecf-events-announcement/",
          "pubDate" : "Fri, 27 Dec 2024 15:40:22",
          "title" : "Forthcoming ECF events announcement"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://djerbachessfestival.com/data/program#new_tab",
+         "pubDate" : "Fri, 27 Dec 2024 15:30:33",
+         "title" : "Chess by the sea"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116709287.cms\" />Indian Grandmaster Arjun Erigaisi is off to a strong start in the World Rapid Chess Championship, tying for fifth place after five rounds with four wins. Meanwhile, Raunak Sadhwani, another Indian player, has caught attention by defeating a pre-event favorite. The competition remains tight with multiple players, including some prominent names, vying for top positions.",
