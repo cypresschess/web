@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The famous classic Thomas-Alekhine is a strategical masterpiece. It has served as a lesson on how to play against weak white pawns on c3 and d4. Ever since Nimzovitsch has dealt with it in his famous work \"My System\" it has been popular with trainers and students alike. But did White really use all defensive options? This has not been debated enough in the past. Can you do this important job?",
+         "description" : "With his new video course \"Modern Classics\" Dorian Rogozenco, former German national coach and renowned chess theoretician, takes us on a journey through the fascinating world of chess games that have made history. | Photos: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/modern-classics-a-captivating-journey-through-the-highlights-of-recent-chess-history",
+         "pubDate" : "Tue, 07 Jan 2025 15:00:00",
+         "title" : "Modern Classics - A captivating journey through the highlights of recent chess history"
+      },
+      {
+         "description" : "The famous classic Thomas-Alekhine is a strategical masterpiece. It has served as a lesson on how to play against weak white pawns on c3 and d4. Ever since Nimzowitsch has dealt with it in his famous work \"My System\" it has been popular with trainers and students alike. But did White really use all defensive options? This has not been debated enough in the past. Can you do this important job?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/riddle-thomas-alekhine-1925",
@@ -26,12 +34,36 @@ news_feed (
          "title" : "Chess used as inspiration for refugee girls in Kakuma"
       },
       {
+         "description" : "It&#39;s that time of the year again! We&#39;re excited to announce the Chess.com Puzzles Championship. The event will take place on January 16 and 17 and feature a $5,000 prize fund.&#38;nbsp; This year, the event will be a part of the Chess.com Community ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-puzzles-championship-2025",
+         "pubDate" : "Tue, 07 Jan 2025 08:00:00",
+         "title" : "It's Tactics Time! The Chess.com Puzzles Championship Starts On January 16"
+      },
+      {
+         "description" : "In an exclusive first interview, Ella Victoria Carlsen has shed light on her relationship with GM Magnus Carlsen, her new role, and their shared journey. The couple exchanged vows in a picturesque ceremony in the snowy hills of Oslo, attended by...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen",
+         "pubDate" : "Tue, 07 Jan 2025 07:30:14",
+         "title" : "Ella Victoria Carlsen Opens Up About Life With Magnus And Plans For The Future"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3378",
          "pubDate" : "Tue, 07 Jan 2025 00:37:09",
          "title" : "14-year-old Philip Selikem Amoako crowned Ghana champion"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation is thrilled to announce the lineup for the KCF Academy Premium Package Lecture Series in January 2025! This month's program features an extraordinary roster of world-class chess legends who will share their insights, strategies, and personal experiences to help elevate your game to new heights. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Mark your calendars for these exclusive online lectures:January 12, 2024 - Fabiano CaruanaDive into the mind of a modern chess powerhouse! Fabiano Caruana, one of the strongest players in the world and a former World Championship contender, will reveal his secrets to precision play and decision-making u",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/exclusive-january-lecture-series-kcf-academy",
+         "pubDate" : "Tue, 07 Jan 2025 00:00:00",
+         "title" : "Exclusive January Lecture Series at KCF Academy"
       },
       {
          "description" : "",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "Celebrate 2024 And Vote For This Year's Chess.com Awards"
       },
       {
-         "description" : "GM Savva Vetokhin scored an impressive victory in the 2024 Sunway Sitges Chess Festival&#38;nbsp;after cruising through the tournament undefeated and winning 2-0 in the blitz playoff against 22-year-old GM Ido Gorshtein. The teenager&#39;s first victory i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/15-year-old-savva-vetokhin-wins-sitges-chess-festival",
-         "pubDate" : "Mon, 23 Dec 2024 05:08:00",
-         "title" : "15-Year-Old Savva Vetokhin Wins in Sitges, Celebrated With Fireworks"
-      },
-      {
          "description" : "A host of junior players will be celebrating their new FIDE titles over the holidays, as the North American Youth Championships concluded earlier today in Dulles, Virginia. Organized by Capital Area Chess from December 18 through 23 - with the approval of US Chess, Confederation of Chess for America (CCA), and FIDE - the tournament was open to chess players with a FIDE flag from Mexico, USA, or Canada born on or after January 1, 2006.The tournament consisted of 12 sections: Under-18 through Under-8 Open and Girls. In addition to medals, rating points, and bragging rights, players were also competing for direct titles and norms as specified in the FIDE regulations.In total, 368 players compet",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -936,14 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
          "pubDate" : "Sat, 21 Dec 2024 21:45:00",
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk became the third player to win 10 Bullet Brawl&#38;nbsp;titles and the $400 first prize on Saturday after denying Turkish prodigy GM Ediz Gurel, courtesy of a dramatic flagging against GM Christopher Yoo in his final game. Indon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-december-21-2024",
-         "pubDate" : "Sat, 21 Dec 2024 16:42:00",
-         "title" : "Bortnyk Snatches Victory From Turkish Prodigy After Dramatic Flagging"
       },
       {
          "description" : "Why You're Stuck in Chess-and How to Break Through in 2025: Part 2 Understanding the &#8220;What&#8221; in Chess Improvement In Part 1 of this series, we introduced the Chess Improvement Equation: What * How * Time = Improvement Score This simple formula is your blueprint for understanding why you're stuck and how to fix it. []",
@@ -1096,30 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3351",
          "pubDate" : "Tue, 17 Dec 2024 21:11:59",
          "title" : "Young talents shine at World Youth Rapid & Blitz Championship in Slovenia"
-      },
-      {
-         "description" : "The Call of Interest for arbiters who wish to be appointed as match arbiters in European events in 2025 is here! We are addressing International and FIDE Arbiters (IAs and FAs) who are under the flag of federations that are affiliated to the European Chess Union. As ECU Arbiters' Council, we appoint now 30% of the match arbiters in each European event and select them based on their skills, experience and tournament preferences. You can find the regulations here. Call of Interest 2025 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/call-of-interest-for-ecu-arbiters-2025/",
-         "pubDate" : "Tue, 17 Dec 2024 16:14:01",
-         "title" : "Call of Interest for ECU Arbiters 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3335",
-         "pubDate" : "Tue, 17 Dec 2024 13:36:50",
-         "title" : "Extended list of participants for 2024 WRB announced"
-      },
-      {
-         "description" : "&#160;All India Chess Federation (AICF), in collaboration with the Mizoram Chess Association, organized a Grandmaster Coaching Camp in Aizawl, Mizoram. The camp was conducted by",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/grandmaster-chess-camp-in-aizawl-mizoram-2024-from-09-13-december-2024/",
-         "pubDate" : "Tue, 17 Dec 2024 12:41:03",
-         "title" : "Grandmaster Chess Camp in Aizawl, Mizoram from 09-13 December 2024"
       }
    ]
 }
