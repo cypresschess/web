@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3378",
+         "pubDate" : "Tue, 07 Jan 2025 00:37:09",
+         "title" : "14-year-old Philip Selikem Amoako crowned Ghana champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3377",
          "pubDate" : "Mon, 06 Jan 2025 19:22:19",
          "title" : "FIDE announces World Cup 2025 for youngsters"
