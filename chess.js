@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Welcome to 2025, a rare \"square year\" (45×45), and a time for both reflection and prediction. Chess fans enter the new year with excitement after a historic 2024, crowned by Gukesh's ascension as World Champion, marking India's growing dominance in chess. Meanwhile, Ian Nepomniachtchi's dazzling ...Ne3+!! in the World Blitz final against Magnus Carlsen provided a fitting finale to a dramatic year. As we look ahead, will 2025 unveil a new prodigy destined for greatness? Share your thoughts and favourites in the comments. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-223",
+         "pubDate" : "Wed, 08 Jan 2025 21:15:00",
+         "title" : "Jon Speelman: The wrong trousers and vengeance most equine"
+      },
+      {
          "description" : "\"ChessBase have truly outdone themselves with the new CB18,\" say strong GM Iniyan Panneerselvam. \"It makes life so much easier for players and coaches alike, thanks to its fantastic new features! We all know how precious time is; and CB18 is designed to save you a ton of time when you need it most.\" Today he describes how the software works with Mega Database 2025. and which additionsl bonus features it provides.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +34,12 @@ news_feed (
          "title" : "How to gain 700 points in one year with a simple plan"
       },
       {
-         "description" : "Arne K&auml;hler and Johannes Fischer start 2025 with a review of 2024. They recall the highlights of the past year, talk about the Chess Olympiad, various world championships, Freestyle Chess, the future number 1, the successes of India and consider who the male (Carlsen, Gukesh or Erigaisi) and female (Tan Zhongyi, Ju Wenjun, Divya Deshmukh or Humpy Koneru) players of the year are. And they ask which games were particularly impressive in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-looking-back-to-2024",
-         "pubDate" : "Wed, 08 Jan 2025 10:03:45",
-         "title" : "Two Knights Talk: Looking back to 2024"
-      },
-      {
-         "description" : "One of our viewers' favourite themes in Svitlana's Smart Moves is the openings. This is probably due to the way Svitlana can splendidly explain the ideas, patterns, basics, and key points to consider in an opening. In this episode, the Canadian WIM tackles the Benko Gambit, an opening that Magnus Carlsen enjoyed for several years.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-the-benko-gambit",
-         "pubDate" : "Wed, 08 Jan 2025 09:33:35",
-         "title" : "Svitlana's Smart Moves - How to play the Benko Gambit!"
+         "description" : "The first Titled Tuesdays of 2025 were held on January 7, and they were doozies, featuring record-level participation, big scores, and stacked podiums... all as players begin to scramble to qualify for the 2025 Speed Chess Championships through th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-oparin-win-titled-tuesday-january-7-2025",
+         "pubDate" : "Wed, 08 Jan 2025 09:02:32",
+         "title" : "Titled Tuesday 2025 Starts With A Bang"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117038726.cms\" />R Vaishali, the third Indian woman to achieve the Grandmaster title, reflects on her remarkable 2024, which included contributing to India's Chess Olympiad gold and winning a blitz bronze medal at the World Rapid and Blitz Championship in New York, despite facing challenges like illness and adjusting to the cold weather.",
@@ -50,20 +50,20 @@ news_feed (
          "title" : "'WGM title should be abolished'"
       },
       {
+         "description" : "Wednesday Workout returns with the first batch of highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-k-12-grades-pt-1",
+         "pubDate" : "Wed, 08 Jan 2025 00:00:00",
+         "title" : "Wednesday Workout: K-12 Grades, Pt. 1"
+      },
+      {
          "description" : "GM Hans Niemann knocked out GM Maxime Vachier-Lagrave and won the first game against GM Ian Nepomniachtchi, but he&#39;s out of the 2025 Weissenhaus Freestyle Chess Grand Slam Play-In after blundering mate-in-one at the end of a thrilling blitz playof...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-day-2",
          "pubDate" : "Tue, 07 Jan 2025 16:31:00",
          "title" : "Nepomniachtchi In Semifinals After Niemann Blunders Mate-In-1"
-      },
-      {
-         "description" : "With his new video course \"Modern Classics\" Dorian Rogozenco, former German national coach and renowned chess theoretician, takes us on a journey through the fascinating world of chess games that have made history. | Photos: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/modern-classics-a-captivating-journey-through-the-highlights-of-recent-chess-history",
-         "pubDate" : "Tue, 07 Jan 2025 15:00:00",
-         "title" : "Modern Classics - A captivating journey through the highlights of recent chess history"
       },
       {
          "description" : "The famous classic Thomas-Alekhine is a strategical masterpiece. It has served as a lesson on how to play against weak white pawns on c3 and d4. Ever since Nimzowitsch has dealt with it in his famous work \"My System\" it has been popular with trainers and students alike. But did White really use all defensive options? This has not been debated enough in the past. Can you do this important job?",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3379",
          "pubDate" : "Tue, 07 Jan 2025 11:38:38",
          "title" : "FIDE Council approves changes to FIDE Circuit 2025 Regulations"
-      },
-      {
-         "description" : "In the Kakuma refugee camp in Kenya, chess is transforming lives through the Girls Club \"Chess for Protection\" initiative, launched by FIDE and UNHCR in 2021. Targeting young refugee girls, the programme combines chess lessons with life skills, fostering confidence, mental well-being, and hope in a safe environment. With over 250 participants annually across three schools, the initiative empowers these girls through training with world-class educators, a book club and workshops led by inspiring figures.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kakuma-refugee-girls-chess-inspiration",
-         "pubDate" : "Tue, 07 Jan 2025 11:20:00",
-         "title" : "Chess used as inspiration for refugee girls in Kakuma"
       },
       {
          "description" : "It&#39;s that time of the year again! We&#39;re excited to announce the Chess.com Puzzles Championship. The event will take place on January 16 and 17 and feature a $5,000 prize fund.&#38;nbsp; This year, the event will be a part of the Chess.com Community ...",
@@ -146,22 +138,6 @@ news_feed (
          "title" : "Fedoseev, Lazavik, Sindarov, Bortnyk Keep Weissenhaus Hopes Alive"
       },
       {
-         "description" : "Egyptian GM Bassem Amin emerged victorious in the 52nd Rilton Cup, held from 27 December to 5 January in Stockholm, Sweden. The prestigious tournament, established in 1971 thanks to the visionary support of Dr Tore Rilton, attracted 115 players from 35 countries this year. Despite an early upset loss, Amin showcased his resilience by winning six consecutive games and secured the title with 7&frac12; points. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bassem-amin-wins-rilton-cup-2025",
-         "pubDate" : "Mon, 06 Jan 2025 14:00:00",
-         "title" : "Bassem Amin convincingly wins Rilton Cup in Stockholm"
-      },
-      {
-         "description" : "There are many clear advantages of using the latest ChessBase 18. It dramatically improves your level of chess study and preparation. Ask Indian grandmaster Pa.Iniyan, who sent us an in-depth three-part review of his experience with the program. You would do well to follow what he says carefully - and use our software to increase your performance and rating. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18-2",
-         "pubDate" : "Mon, 06 Jan 2025 10:42:13",
-         "title" : "GM Iniyan on ChessBase 18 - (2)"
-      },
-      {
          "description" : "Steve Rigby, the founder of Oldham-based 3Cs Chess Club over forty-six years ago, has been awarded the British Empire Medal in the 2025 King's New Year's Honours for services to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -210,28 +186,12 @@ news_feed (
          "title" : "D Gukesh prepares for a 'fun year' with new goals in 2025"
       },
       {
-         "description" : "Robert H&uuml;bner died on 5 January 2025 after a long and serious illness. For decades after the war Robert H&uuml;bner was the best German chess player, with countless successes in individual and team competitions. In addition to his career as a tournament player, H&uuml;bner gained great importance as a profound chess historian and incorruptible analyst. With his death the chess world loses one of its outstanding minds. | Photo: R. Bogaerts / ANEFO via nationaalarchief.nl",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-huebner-has-passed-away",
-         "pubDate" : "Sun, 05 Jan 2025 13:28:24",
-         "title" : "Robert H&uuml;bner has passed away"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3374",
          "pubDate" : "Sun, 05 Jan 2025 12:40:42",
          "title" : "FIDE World School Championships 2025: Registration now open"
-      },
-      {
-         "description" : "Svitlana's Smart Moves first episode of 2025 is all about juicy tactics, and tragical blunders of the Rapid & Blitz World Chess Championship. Some chess tactics were especially significant. A couple of games by top players like Carlsen, Nepo, and Pragg were already won, and one more correct move would have sealed the deal. Instead, some blunders occurred, mostly in time trouble of course, and the tables turned.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-best-blunders-of-the-rapid-blitz-wcc",
-         "pubDate" : "Sun, 05 Jan 2025 10:09:40",
-         "title" : "Svitlana's Smart Moves - Best Blunders of the Rapid & Blitz WCC"
       },
       {
          "description" : "",
@@ -954,14 +914,6 @@ news_feed (
          "title" : "Inside Santa's Workshop"
       },
       {
-         "description" : "GM Magnus Carlsen has just won the 2024 Champions Chess Tour Finals in Oslo, Norway. It&#39;s Carlsen&#39;s fifth Champions Chess Tour title, and he&#39;s the only player to win the event since it began in 2020. He&#39;s added another trophy to the collection as ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-finals-7-takeaways",
-         "pubDate" : "Mon, 23 Dec 2024 12:54:00",
-         "title" : "2024 Champions Chess Tour Finals - 7 Takeaways"
-      },
-      {
          "description" : "The 2025 European Senior Team Chess Championship will be held from 4th April 2025 (day of arrival) to 14th April 2025 (day of departure) in Swidnica, Poland. The event will played in two age categories: 50+ and 65+, open and women's sections separately. Each National Federation of the European Chess Union has the right to register an unlimited number of teams in both categories: Open and Women 50+ &#38; 65+. Each team should consist of four (4) players and optionally []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1128,22 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/analysis-of-the-2024-world-chess-championship-games-by-gm-efstratios-grivas/",
          "pubDate" : "Thu, 19 Dec 2024 07:45:07",
          "title" : "Analysis of the 2024 World Chess Championship Games by GM Efstratios Grivas"
-      },
-      {
-         "description" : "The KCF University Cup Will Take Place on February 1 - 2, 2025, on lichess.org platform. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Kasparov Chess Foundation announces the fifth annual KCF University Cup, which will take place, February 1 and 2, 2025. The KCF University Cup is an international online tournament, which is open to teams from a post-secondary school (university, college, community college, etc.). All participating students must be enrolled in at least one class in the January 2025 semester.KCF's University Cup features a nine-round team, Swiss system format over the two days, with a rapid time control, and will be played on the free and non-commer",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/global-online-chess-showdown-kcf-announces-fifth-annual-kcf-university-cup",
-         "pubDate" : "Thu, 19 Dec 2024 00:00:00",
-         "title" : "Global Online Chess Showdown: KCF Announces Fifth Annual KCF University Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3352",
-         "pubDate" : "Wed, 18 Dec 2024 17:37:24",
-         "title" : "Kenya Championship 2024: Mclingeyo and Mongeli claim titles"
       }
    ]
 }
