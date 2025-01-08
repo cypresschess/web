@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arne K&auml;hler and Johannes Fischer start 2025 with a review of 2024. They recall the highlights of the past year, talk about the Chess Olympiad, various world championships, Freestyle Chess, the future number 1, the successes of India and consider who the male (Carlsen, Gukesh or Erigaisi) and female (Tan Zhongyi, Ju Wenjun, Divya Deshmukh or Humpy Koneru) players of the year are. And they ask which games were particularly impressive in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-looking-back-to-2024",
+         "pubDate" : "Wed, 08 Jan 2025 10:03:45",
+         "title" : "Two Knights Talk: Looking back to 2024"
+      },
+      {
+         "description" : "One of our viewers' favourite themes in Svitlana's Smart Moves is the openings. This is probably due to the way Svitlana can splendidly explain the ideas, patterns, basics, and key points to consider in an opening. In this episode, the Canadian WIM tackles the Benko Gambit, an opening that Magnus Carlsen enjoyed for several years.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-the-benko-gambit",
+         "pubDate" : "Wed, 08 Jan 2025 09:33:35",
+         "title" : "Svitlana's Smart Moves - How to play the Benko Gambit!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117038726.cms\" />R Vaishali, the third Indian woman to achieve the Grandmaster title, reflects on her remarkable 2024, which included contributing to India's Chess Olympiad gold and winning a blitz bronze medal at the World Rapid and Blitz Championship in New York, despite facing challenges like illness and adjusting to the cold weather.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -424,6 +440,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43242421/fide-world-blitz-chess-championships-2024-magnus-carlsen-ian-nepomniachtchi-share-title-ju-wenjun-win-women?device=featurephone",
          "pubDate" : "Tue, 31 Dec 2024 22:58:02",
          "title" : "Carlsen, Nepo agree to share open Blitz title; Ju wins women's"
+      },
+      {
+         "description" : "At the end of last month's Yahoo post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/world-championship-yahoos-2024-12.html\">World Championship Yahoos 2024</A> ('1/2'; November 2024; see the footnote for an explanation of Yahoos), I explained the title:- <BLOCKQUOTE> I'm titling this post 'WCC Yahoos 2024 (1/2)', because I'm expecting another deluge of WCC Yahoos at the end next month. </BLOCKQUOTE> <P> I was not to be disappointed. This month I counted 93 chess stories, of which 57 were WCC stories (World Chess Championship stories, of course). What I didn't expect was to find 57 stories about the World Rapid and Blitz championships currently being played in New York City and only s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/12/world-championship-yahoos-2024-22.html",
+         "pubDate" : "Tue, 31 Dec 2024 16:57:00",
+         "title" : "World Championship Yahoos 2024 (2/2)"
       },
       {
          "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have agreed to share the 2024 FIDE World Blitz Chess Championship title after Carlsen&#39;s suggestion seven games into their final. After sensationally U-turning on his decision to withdraw from the event, ...",
@@ -1088,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3352",
          "pubDate" : "Wed, 18 Dec 2024 17:37:24",
          "title" : "Kenya Championship 2024: Mclingeyo and Mongeli claim titles"
-      },
-      {
-         "description" : "Goa Chess Association, on behalf of All Chess Federation, organized a Senior National Arbiter seminar, followed by an examination at Panjim , Goa on 7th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-examination-in-panjim-goa-on-7th-and-8th-december-2024/",
-         "pubDate" : "Wed, 18 Dec 2024 12:27:44",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination in Panjim Goa on 7th and 8th December 2024"
       }
    ]
 }
