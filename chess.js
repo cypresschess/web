@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117038726.cms\" />R Vaishali, the third Indian woman to achieve the Grandmaster title, reflects on her remarkable 2024, which included contributing to India's Chess Olympiad gold and winning a blitz bronze medal at the World Rapid and Blitz Championship in New York, despite facing challenges like illness and adjusting to the cold weather.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/wgm-title-should-be-abolished/articleshow/117038726.cms",
+         "pubDate" : "Wed, 08 Jan 2025 03:08:34",
+         "title" : "'WGM title should be abolished'"
+      },
+      {
+         "description" : "GM Hans Niemann knocked out GM Maxime Vachier-Lagrave and won the first game against GM Ian Nepomniachtchi, but he&#39;s out of the 2025 Weissenhaus Freestyle Chess Grand Slam Play-In after blundering mate-in-one at the end of a thrilling blitz playof...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-day-2",
+         "pubDate" : "Tue, 07 Jan 2025 16:31:00",
+         "title" : "Nepomniachtchi In Semifinals After Niemann Blunders Mate-In-1"
+      },
+      {
          "description" : "With his new video course \"Modern Classics\" Dorian Rogozenco, former German national coach and renowned chess theoretician, takes us on a journey through the fascinating world of chess games that have made history. | Photos: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "European School Chess Championship 2025 - Official invitation"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116678925.cms\" />Indian chess prodigy D Gukesh, the youngest World Chess Champion, will miss the 2024 World Rapid and Blitz Championships in New York for rest and recovery. Gukesh's decision follows his intense 14-game win over Ding Liren. India's hopes now rest on rising stars Praggnanandhaa and Arjun Erigaisi, while Magnus Carlsen remains the favorite.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-d-gukesh-will-not-play-in-2024-world-rapid-and-blitz-championships/articleshow/116678925.cms",
-         "pubDate" : "Thu, 26 Dec 2024 09:40:16",
-         "title" : "Why Gukesh will not play in World Rapid and Blitz Championships"
-      },
-      {
          "description" : "The 2024 FIDE World Rapid and Blitz Championship will be held from December 26 (early December 27 in India) to December 31 (early January 1 in India) in Wall Street, New York.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bronze-for-eugenia-karas-at-the-world-youth-rapid-and-blitz-championships/",
          "pubDate" : "Mon, 23 Dec 2024 11:22:32",
          "title" : "Bronze for Eugenia Karas at the World Youth Rapid and Blitz Championships"
-      },
-      {
-         "description" : "2024 has been an eventful year for chess. We saw quite some movement in the FIDE&#39;s top 10 list, with a new generation of young talents cementing themselves among the chess elite. We all cheered on as legendary players put on some thrilling perform...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-awards-vote",
-         "pubDate" : "Mon, 23 Dec 2024 08:00:00",
-         "title" : "Celebrate 2024 And Vote For This Year's Chess.com Awards"
       },
       {
          "description" : "A host of junior players will be celebrating their new FIDE titles over the holidays, as the North American Youth Championships concluded earlier today in Dulles, Virginia. Organized by Capital Area Chess from December 18 through 23 - with the approval of US Chess, Confederation of Chess for America (CCA), and FIDE - the tournament was open to chess players with a FIDE flag from Mexico, USA, or Canada born on or after January 1, 2006.The tournament consisted of 12 sections: Under-18 through Under-8 Open and Girls. In addition to medals, rating points, and bragging rights, players were also competing for direct titles and norms as specified in the FIDE regulations.In total, 368 players compet",
