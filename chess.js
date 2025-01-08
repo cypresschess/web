@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"ChessBase have truly outdone themselves with the new CB18,\" say strong GM Iniyan Panneerselvam. \"It makes life so much easier for players and coaches alike, thanks to its fantastic new features! We all know how precious time is; and CB18 is designed to save you a ton of time when you need it most.\" Today he describes how the software works with Mega Database 2025. and which additionsl bonus features it provides.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18-3",
+         "pubDate" : "Wed, 08 Jan 2025 15:49:13",
+         "title" : "GM Iniyan on ChessBase 18 - (3)"
+      },
+      {
+         "description" : "The European Women's Rapid &#38; Blitz Chess Championships 2024 take place in Monte-Carlo, Monaco, from 9-13 January. The European Women's Blitz Chess Championship 2024 is first on the schedule and will be played on Friday, 10th of January, with the participation of 134 players from 28 European federations. The event will be played in 13 rounds, swiss system, with the time control of 3 minutes + 2 seconds, and features the prize fund of 15.200 EUR. GM Alexandra Kosteniuk (SUI, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championships-2024-start-in-monte-carlo/",
+         "pubDate" : "Wed, 08 Jan 2025 14:01:46",
+         "title" : "European Women's Rapid & Blitz Chess Championships 2024 start in Monte-Carlo"
+      },
+      {
+         "description" : "Hey everyone, In response to a previous Blog post titled Exceptional Results Simple Training, I heard from some of your incredible success stories. I want to share two of them today. Both have extremely simple training methods influenced by my writing. If you haven't read my previous article, you can check it out here []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/simple-plan/",
+         "pubDate" : "Wed, 08 Jan 2025 13:55:33",
+         "title" : "How to gain 700 points in one year with a simple plan"
+      },
+      {
          "description" : "Arne K&auml;hler and Johannes Fischer start 2025 with a review of 2024. They recall the highlights of the past year, talk about the Chess Olympiad, various world championships, Freestyle Chess, the future number 1, the successes of India and consider who the male (Carlsen, Gukesh or Erigaisi) and female (Tan Zhongyi, Ju Wenjun, Divya Deshmukh or Humpy Koneru) players of the year are. And they ask which games were particularly impressive in 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,6 +336,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-2025-us-chess-rulebook-update-news",
          "pubDate" : "Fri, 03 Jan 2025 00:00:00",
          "title" : "Just the Rules: 2025 US Chess Rulebook Update News"
+      },
+      {
+         "description" : "Last year, the US Chess Women's Program launched its online club on Chess.com as a way for women and girls to convene, study, and have fun playing chess together. The club already boasts more than 200 members, and it is looking to grow even more in 2025.The club is open to all women and girls based in the United States who are current US Chess members. Once your request to join is approved, you'll have access to a number of benefits including:Weekly arena-style tournamentsInterviews and videos with titled players, including 2017 U.S. Women's Champion WGM Sabina FoisorEven more educational contentVirtual rooms for lectures and commentary with special guestsPlease email Director of Programs De",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/join-us-chess-womens-online-club",
+         "pubDate" : "Fri, 03 Jan 2025 00:00:00",
+         "title" : "Join the US Chess Women's Online Club"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
