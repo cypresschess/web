@@ -58,6 +58,14 @@ news_feed (
          "title" : "14-year-old Philip Selikem Amoako crowned Ghana champion"
       },
       {
+         "description" : "Tactics Tuesday returns with the first batch of highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-national-k-12-grades-pt-1",
+         "pubDate" : "Tue, 07 Jan 2025 00:00:00",
+         "title" : "Tactics Tuesday: National K-12 Grades, Pt. 1"
+      },
+      {
          "description" : "The Kasparov Chess Foundation is thrilled to announce the lineup for the KCF Academy Premium Package Lecture Series in January 2025! This month's program features an extraordinary roster of world-class chess legends who will share their insights, strategies, and personal experiences to help elevate your game to new heights. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Mark your calendars for these exclusive online lectures:January 12, 2024 - Fabiano CaruanaDive into the mind of a modern chess powerhouse! Fabiano Caruana, one of the strongest players in the world and a former World Championship contender, will reveal his secrets to precision play and decision-making u",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1088,30 +1096,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-examination-in-panjim-goa-on-7th-and-8th-december-2024/",
          "pubDate" : "Wed, 18 Dec 2024 12:27:44",
          "title" : "Final Report of Senior National Arbiter Seminar & Examination in Panjim Goa on 7th and 8th December 2024"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Cadet Championships, focusing primarily on the games of the American players competing in the U-10 Open and Girls sections. Our report from the event is available here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-world-cadet-champs-pt-2",
-         "pubDate" : "Wed, 18 Dec 2024 00:00:00",
-         "title" : "Wednesday Workout: World Cadet Champs, Pt. 2"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed for the holidays on Tuesday, December 24 and Wednesday, December 25, and again on Tuesday, December 31 and Wednesday, January 1, 2025.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting materials by noon CST on the Monday preceding the office closure. Thank you for your understanding, and happy holidays. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/US-Chess-Offices-Holiday-Closure-Dates",
-         "pubDate" : "Wed, 18 Dec 2024 00:00:00",
-         "title" : "US Chess Offices Holiday Closure Dates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3351",
-         "pubDate" : "Tue, 17 Dec 2024 21:11:59",
-         "title" : "Young talents shine at World Youth Rapid & Blitz Championship in Slovenia"
       }
    ]
 }
