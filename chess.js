@@ -34,6 +34,14 @@ news_feed (
          "title" : "How to gain 700 points in one year with a simple plan"
       },
       {
+         "description" : "GM Vladimir Fedoseev beat GM Ian Nepomniachtchi in the Semifinals and then GM Javokhir Sindarov in a thrilling Final to clinch the last spot in next month&#39;s $750,000 2025 Weissenhaus Freestyle Chess Grand Slam. 19-year-old Sindarov inflicted the o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-fedoseev-wins",
+         "pubDate" : "Wed, 08 Jan 2025 12:52:00",
+         "title" : "Fedoseev Joins Carlsen & Co. In Weissenhaus After Winning Armageddon Thriller"
+      },
+      {
          "description" : "The first Titled Tuesdays of 2025 were held on January 7, and they were doozies, featuring record-level participation, big scores, and stacked podiums... all as players begin to scramble to qualify for the 2025 Speed Chess Championships through th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43175330/fide-world-rapid-blitz-championships-2024-first-day-magnus-carlsen-struggles-arjun-erigaisi-raunak-sadhwani-harika-best-indian-performers?device=featurephone",
          "pubDate" : "Thu, 26 Dec 2024 23:09:33",
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen struggles on first day; Arjun, Raunak, Harika top Indian performers"
-      },
-      {
-         "description" : "GMs Volodar Murzin, Shant Sargsyan, Leinier Dominguez, and Daniel Naroditsky lead the 2024 FIDE World Rapid Chess Championship after five rounds. GM Denis Lazavik, on 3.5/5, defeated pre-tournament favorite GM Magnus Carlsen, on 2.5/5, in our Game...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-1",
-         "pubDate" : "Thu, 26 Dec 2024 18:51:00",
-         "title" : "Lazavik Beats Carlsen; Murzin, Sargsyan, Dominguez, Naroditsky Lead Open"
       },
       {
          "description" : " Howard University Chess Club is preparing for the 2025 Pan-Am Intercollegiate tournament to be held in Charlotte, North Carolina, January 2-5, 2025. The club's President,&#160;Lawrence Custis,&#160;has announced the club's participation and is holding a fundraiser to cover expenses. The Howard Chess Club has participated in the Pan-Ams on several occasions, including the last four. The The post <a href=\"https://thechessdrum.net/blog/2024/12/26/howard-university-chess-preparing-for-2025-pan-ams/\">Howard University Chess preparing for 2025 Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
