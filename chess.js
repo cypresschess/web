@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Weissenhaus Freestyle Chess Tournament is set to kick off the inaugural Freestyle Chess Grand Slam with an exciting lineup of top players, including Magnus Carlsen, Gukesh Dommaraju and Vishy Anand. However, it was a gripping online play-in stage that determined the final spot in the elite 10-player field. Javokhir Sindarov and Vladimir Fedoseev battled through a fierce knockout bracket to reach the dramatic final. Fedoseev emerged victorious following a sensational Armageddon decider.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-play-in",
+         "pubDate" : "Thu, 09 Jan 2025 20:00:00",
+         "title" : "Weissenhaus Play-In: Fedoseev beats Nepomniachtchi and Sindarov, gets spot in Grand Slam"
+      },
+      {
          "description" : "Vrnjacka Banja, Serbia 19th to 29th March 2025. A minimum of one parent must attend with each child who is playing in the tournament. For all the details and online...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
