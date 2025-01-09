@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3353",
          "pubDate" : "Thu, 19 Dec 2024 10:24:25",
          "title" : "FIDE and World Chess Present the Limited Edition FIDE 2024 Rapid and Blitz Championships Collection"
-      },
-      {
-         "description" : "European Chess Union and ECU Trainers Commission publish the games with analysis of the 2024 World Chess Championship. In-depth 100-page analysis of all the World Championship Match between Ding Liren and Gukesh D includes expert commentary and insights by ECU Trainers Commission Secretary, world renowned trainer and Grandmaster Efstratios Grivas. The 100-page Analysis can be downloaded below as a Christmas gift to all chess fans. Featured photo by FIDE/ Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/analysis-of-the-2024-world-chess-championship-games-by-gm-efstratios-grivas/",
-         "pubDate" : "Thu, 19 Dec 2024 07:45:07",
-         "title" : "Analysis of the 2024 World Chess Championship Games by GM Efstratios Grivas"
       }
    ]
 }
