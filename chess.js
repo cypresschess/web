@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the start of the World Championship in Singapore, on November 25th 2024, a new chess puzzle game, inspired by the incredibly popular 'Wordle', was launched. It was developed by a young lad from Singapore, a problem expert, together with a member of the ChessBase family. We have been experimenting with the World Championship game, to see how people who are confronted with it, react. We recorded a strong chess player's first interaction with the game. It was instructive and entertaining.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/testing-checkmatle-with-svitlana",
+         "pubDate" : "Thu, 09 Jan 2025 10:46:03",
+         "title" : "Testing CheckMatle - with Svitlana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3381",
+         "pubDate" : "Thu, 09 Jan 2025 10:31:15",
+         "title" : "21st \"Preparation of Teachers\" course by the FIDE EDU announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3380",
+         "pubDate" : "Thu, 09 Jan 2025 10:03:01",
+         "title" : "Sanctions suspended after Moroccan Chess Federation complies with obligations for the 2023 King Mohammed VI Tournament"
+      },
+      {
          "description" : "Welcome to 2025, a rare \"square year\" (45×45), and a time for both reflection and prediction. Chess fans enter the new year with excitement after a historic 2024, crowned by Gukesh's ascension as World Champion, marking India's growing dominance in chess. Meanwhile, Ian Nepomniachtchi's dazzling ...Ne3+!! in the World Blitz final against Magnus Carlsen provided a fitting finale to a dramatic year. As we look ahead, will 2025 unveil a new prodigy destined for greatness? Share your thoughts and favourites in the comments. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1064,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3354",
          "pubDate" : "Thu, 19 Dec 2024 21:02:22",
          "title" : "Aleksandr Volodin and Margareth Olde crowned Estonian champions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3353",
-         "pubDate" : "Thu, 19 Dec 2024 10:24:25",
-         "title" : "FIDE and World Chess Present the Limited Edition FIDE 2024 Rapid and Blitz Championships Collection"
       }
    ]
 }
