@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vrnjacka Banja, Serbia 19th to 29th March 2025. A minimum of one parent must attend with each child who is playing in the tournament. For all the details and online...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-world-school-chess-championships-2025/",
+         "pubDate" : "Thu, 09 Jan 2025 14:43:28",
+         "title" : "FIDE World School Chess Championships 2025"
+      },
+      {
          "description" : "At the start of the World Championship in Singapore, on November 25th 2024, a new chess puzzle game, inspired by the incredibly popular 'Wordle', was launched. It was developed by a young lad from Singapore, a problem expert, together with a member of the ChessBase family. We have been experimenting with the World Championship game, to see how people who are confronted with it, react. We recorded a strong chess player's first interaction with the game. It was instructive and entertaining.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
