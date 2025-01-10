@@ -42,6 +42,14 @@ news_feed (
          "title" : "Sanctions suspended after Moroccan Chess Federation complies with obligations for the 2023 King Mohammed VI Tournament"
       },
       {
+         "description" : "The University of Texas at Rio Grande Valley A-team (UTRGV-A) took clear first at the 2025 Pan-American Intercollegiate Team Championships (Pan-Ams) with a perfect 6/6 score. The tournament was hosted by the Charlotte Chess Center (CCC) and held from January 2 through 6 at the University Place Hilton in Charlotte, North Carolina.UTRGV-A entered with the third-highest average rating (2606) and three GMs on their five-player roster. GMs Viktor Gazik, Gleb Dudin, and Shawn Rodrigue-Lemieux were joined by IMs Juraj Druska and Irakli Beradze on boards two and four. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> UTRGV-A (All photos courtesy of Kelly Centrel",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/university-texas-rio-grande-valley-wins-2025-pan-american-intercollegiate-championships",
+         "pubDate" : "Thu, 09 Jan 2025 00:00:00",
+         "title" : "University of Texas Rio Grande Valley Wins 2025 Pan-American Intercollegiate Championships in Charlotte"
+      },
+      {
          "description" : "Welcome to 2025, a rare \"square year\" (45×45), and a time for both reflection and prediction. Chess fans enter the new year with excitement after a historic 2024, crowned by Gukesh's ascension as World Champion, marking India's growing dominance in chess. Meanwhile, Ian Nepomniachtchi's dazzling ...Ne3+!! in the World Blitz final against Magnus Carlsen provided a fitting finale to a dramatic year. As we look ahead, will 2025 unveil a new prodigy destined for greatness? Share your thoughts and favourites in the comments. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,30 +1088,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/dec/20/chess-gukesh-and-india-celebrate-after-win-but-new-challenges-are-emerging",
          "pubDate" : "Fri, 20 Dec 2024 08:00:07",
          "title" : "Chess: Gukesh and India celebrate after win but new challenges are emerging"
-      },
-      {
-         "description" : "US Chess is excited to announce that registration is open for SuperNationals VIII, to be held in Orlando, Fla., May 9-11, 2025.In recent months US Chess has initiated changes to the entry fee structure for our national events, and with SuperNationals we are instituting a change in how tournament hotel rooms are blocked and booked. This change is a response to a shift in the hotel and meeting industries' approach to cancellation penalties since 2021. (See the October 2024 issue of Chess Life for a fuller discussion on why this change is necessary.)These changes are significant, so please read the following to the end.Different hotels have different policies, so be aware before booking a room.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/supernationals2025-registration-open",
-         "pubDate" : "Fri, 20 Dec 2024 00:00:00",
-         "title" : "SuperNationals Registration is Open!"
-      },
-      {
-         "description" : "2024 FIDE Rapid &amp; Blitz World Championship PreviewEditor's note: This story first appeared in the December 2024 issue of Chess Life magazine, and is re-published here with updates including information about the participants and the FIDE Circuit standings. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 World Rapid and Blitz Championship is coming to the Big Apple. Here's what you need to know.Where is the tournament?It's a big-mone",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-welcome-new-york",
-         "pubDate" : "Fri, 20 Dec 2024 00:00:00",
-         "title" : "Inside Story: Welcome to New York"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3354",
-         "pubDate" : "Thu, 19 Dec 2024 21:02:22",
-         "title" : "Aleksandr Volodin and Margareth Olde crowned Estonian champions"
       }
    ]
 }
