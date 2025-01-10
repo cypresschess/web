@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The World No 1, who wed Ella Victoria Malone last Saturday, will play for St Pauli in the Bundesliga, where he may meet the new classical champion, Gukesh Dommaraju Magnus Carlsen, the 34-year-old world No 1 and candidate for the greatest of all time, <a href=\"https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen\">married Ella Victoria Mallone</a> last Saturday in Oslo, where the congregation included a film crew from Netflix. The new Mrs Carlsen, 26, was born in Hong Kong to a Norwegian mother and an American father, was educated in the US, the UK and Canada, and has spent several years in Singapore. Carlsen's stellar chess career, boosted by his controversial shared World Blitz ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jan/10/chess-newly-married-carlsen-signs-up-with-bundesliga-freestyle-and-saudis",
+         "pubDate" : "Fri, 10 Jan 2025 08:00:35",
+         "title" : "Chess: newly-married Carlsen signs up with Bundesliga, Freestyle and Saudis"
+      },
+      {
+         "description" : "The highly anticipated training program at KCF Academy is set to begin on January 11, 2025, bringing together some of the brightest young chess talents from Europe and America. Renowned for its cutting-edge training methodologies and distinguished coaching staff, KCF Academy has become a hub for nurturing the future stars of the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fabiano-caruana-live-kcf-academy-lecture",
+         "pubDate" : "Fri, 10 Jan 2025 07:41:45",
+         "title" : "Fabiano Caruana: live lecture at KCF Academy"
+      },
+      {
          "description" : "The Weissenhaus Freestyle Chess Tournament is set to kick off the inaugural Freestyle Chess Grand Slam with an exciting lineup of top players, including Magnus Carlsen, Gukesh Dommaraju and Vishy Anand. However, it was a gripping online play-in stage that determined the final spot in the elite 10-player field. Javokhir Sindarov and Vladimir Fedoseev battled through a fierce knockout bracket to reach the dramatic final. Fedoseev emerged victorious following a sensational Armageddon decider.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3355",
          "pubDate" : "Fri, 20 Dec 2024 11:06:44",
          "title" : "Spanish Championship: Daniil Yuffa and Sabrina Vega claim titles"
-      },
-      {
-         "description" : " The youngest ever undisputed world champion, 18, had a rapturous reception on his return to Chennai, but his new status will be tested at Wijk aan Zee in January Gukesh Dommaraju, 18, had a rapturous reception from Indian fans when he flew back to Chennai after deposing China's Ding Liren for the world title 7.5-6.5 by winning their 14th and final game in Singapore. It was <a href=\"https://www.theguardian.com/sport/video/2024/dec/17/world-chess-champion-gukesh-dommaraju-mobbed-at-chennai-airport-video\">an occasion</a> which, in Indian terms, could only have been surpassed in intensity by a winning IPL cricket team, while its English equivalent would be a home city football celebration for P",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/dec/20/chess-gukesh-and-india-celebrate-after-win-but-new-challenges-are-emerging",
-         "pubDate" : "Fri, 20 Dec 2024 08:00:07",
-         "title" : "Chess: Gukesh and India celebrate after win but new challenges are emerging"
       }
    ]
 }
