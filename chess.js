@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 2024, FC St. Pauli, which had just been promoted to the top division of the Bundesliga, pulled off a coup: they were able to convince Magnus Carlsen, a football fan and the world's number one, to become a member of their team. But it remained unclear how often Carlsen would play in the coming season. But the time has come sooner than expected, as Carlsen will play in St. Pauli's home matches against Solingen and D&uuml;sseldorf this weekend. And if D&uuml;sseldorf choose not to go to Hamburg with their best lineup, Carlsen could even face Gukesh, the newly crowned world champion, on Sunday. | Photo: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-in-bundesliga-2025",
+         "pubDate" : "Fri, 10 Jan 2025 19:15:00",
+         "title" : "Magnus Carlsen to play in the Bundesliga this weekend"
+      },
+      {
          "description" : " After crowning a new champion, chess is experiencing difficult &#8220;growing pains&#8221; as it prepares for a new era. World Champion Gukesh Dommaraju won the title a month ago against defending champion Ding Liren of China in a match between two Asian champions. There were celebrations in India, and the entire world marveled at the new The post <a href=\"https://thechessdrum.net/blog/2025/01/10/the-growing-pains-of-a-new-chess-era/\">The Growing Pains of a New Chess Era</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/university-students-train-with-kasparov",
          "pubDate" : "Fri, 10 Jan 2025 11:35:00",
          "title" : "When the dream comes true: University students train with Garry Kasparov"
+      },
+      {
+         "description" : "GM Zhu Jiner, the world&#39;s 10th highest-rated female player, has called out FIDE for giving her a fine for allegedly violating the dress code policy, claiming it disrupted her performance and contributed to her being knocked out of the 2024 Women&#39;s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/zhu-jiner-fide-dress-code-incident-anger-frustration",
+         "pubDate" : "Fri, 10 Jan 2025 10:19:00",
+         "title" : "Zhu Jiner With 'Deep Anger And Frustration' After Dress Code Incident In New York"
       },
       {
          "description" : " The World No 1, who wed Ella Victoria Malone last Saturday, will play for St Pauli in the Bundesliga, where he may meet the new classical champion, Gukesh Dommaraju Magnus Carlsen, the 34-year-old world No 1 and candidate for the greatest of all time, <a href=\"https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen\">married Ella Victoria Mallone</a> last Saturday in Oslo, where the congregation included a film crew from Netflix. The new Mrs Carlsen, 26, was born in Hong Kong to a Norwegian mother and an American father, was educated in the US, the UK and Canada, and has spent several years in Singapore. Carlsen's stellar chess career, boosted by his controversial shared World Blitz ",
@@ -106,12 +122,12 @@ news_feed (
          "title" : "Sanctions suspended after Moroccan Chess Federation complies with obligations for the 2023 King Mohammed VI Tournament"
       },
       {
-         "description" : "The University of Texas at Rio Grande Valley A-team (UTRGV-A) took clear first at the 2025 Pan-American Intercollegiate Team Championships (Pan-Ams) with a perfect 6/6 score. The tournament was hosted by the Charlotte Chess Center (CCC) and held from January 2 through 6 at the University Place Hilton in Charlotte, North Carolina.UTRGV-A entered with the third-highest average rating (2606) and three GMs on their five-player roster. GMs Viktor Gazik, Gleb Dudin, and Shawn Rodrigue-Lemieux were joined by IMs Juraj Druska and Irakli Beradze on boards two and four. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> UTRGV-A (All photos courtesy of Kelly Centrel",
+         "description" : "The University of Texas at Rio Grande Valley A-team (UTRGV-A) took clear first at the 2025 Pan-American Intercollegiate Team Championship (Pan-Am) with a perfect 6/6 score. The tournament was hosted by the Charlotte Chess Center (CCC) and held from January 2 through 6 at the University Place Hilton in Charlotte, North Carolina.UTRGV-A entered with the third-highest average rating (2606) and three GMs on their five-player roster. GMs Viktor Gazik, Gleb Dudin, and Shawn Rodrigue-Lemieux were joined by IMs Juraj Druska and Irakli Beradze on boards two and four. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> UTRGV-A (All photos courtesy of Kelly Centrelli",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/university-texas-rio-grande-valley-wins-2025-pan-american-intercollegiate-championships",
          "pubDate" : "Thu, 09 Jan 2025 00:00:00",
-         "title" : "University of Texas Rio Grande Valley Wins 2025 Pan-American Intercollegiate Championships in Charlotte"
+         "title" : "University of Texas Rio Grande Valley Wins 2025 Pan-American Intercollegiate Championship in Charlotte"
       },
       {
          "description" : "Welcome to 2025, a rare \"square year\" (45×45), and a time for both reflection and prediction. Chess fans enter the new year with excitement after a historic 2024, crowned by Gukesh's ascension as World Champion, marking India's growing dominance in chess. Meanwhile, Ian Nepomniachtchi's dazzling ...Ne3+!! in the World Blitz final against Magnus Carlsen provided a fitting finale to a dramatic year. As we look ahead, will 2025 unveil a new prodigy destined for greatness? Share your thoughts and favourites in the comments. | Photo: FIDE / Lennart Ootes",
@@ -410,7 +426,7 @@ news_feed (
          "title" : "Titled Cup Followed Up By Titled Tuesday Grand Prix In 2025"
       },
       {
-         "description" : "After the Delegates Meeting at the U,S. Open, there are bound to be some rulebook changes. After all, the Delegates are in charge of our rules.The 2025 7th edition rulebook update is slim pickings for this go around. A few wording deletions and changes of note are all we have. In fact, there were so few changes that only the online rulebook will reflect those new words (sorry, no print edition). The link at the end of this column is repeated here: 7th Edition Rule Book Free Chapters: Updated For 2025 | US Chess.orgOr, simply slide down to the bottom of the US Chess homepage and try that connection. 14F1. The 50-move rule.TJ SAYS: Rule 14F1 removed, \"&hellip;or pawn move&hellip;,\" in favor of",
+         "description" : "After the Delegates Meeting at the U.S. Open, there are bound to be some rulebook changes. After all, the Delegates are in charge of our rules.The 2025 7th edition rulebook update is slim pickings for this go around. A few wording deletions and changes of note are all we have. In fact, there were so few changes that only the online rulebook will reflect those new words (sorry, no print edition). The link at the end of this column is repeated here: 7th Edition Rule Book Free Chapters: Updated For 2025 | US Chess.orgOr, simply slide down to the bottom of the US Chess homepage and try that connection. 14F1. The 50-move rule.TJ SAYS: Rule 14F1 removed, \"&hellip;or pawn move&hellip;,\" in favor of",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/just-rules-2025-us-chess-rulebook-update-news",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/gukeshs-influences-in-winning-crown.html",
          "pubDate" : "Fri, 27 Dec 2024 16:08:00",
          "title" : "Gukesh's Influences in Winning the Crown"
-      },
-      {
-         "description" : "GM Magnus Carlsen will no longer participate in the 2024 FIDE World Rapid Chess Championship or the FIDE World Blitz Chess Championship after a dress-code disagreement with FIDE. He finishes the Rapid with a 5/8 score and will not defend his doubl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-2",
-         "pubDate" : "Fri, 27 Dec 2024 15:54:00",
-         "title" : "Carlsen Quits Rapid World Championship; Murzin, Duda, Arjun, Grischuk Lead Open"
       },
       {
          "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
