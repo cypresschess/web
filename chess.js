@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov, a chess legend revered worldwide, continues to inspire new generations through the Kasparov Chess Foundation University Cup. This unique online tournament offers university teams the chance to earn a coveted reward: a training session with Kasparov himself. In its fourth edition, 494 students from 117 universities across six continents competed fiercely online. The University of Texas Rio Grande Valley triumphed, securing their dream session with the former world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/university-students-train-with-kasparov",
+         "pubDate" : "Fri, 10 Jan 2025 11:35:00",
+         "title" : "When the dream comes true: University students train with Garry Kasparov"
+      },
+      {
          "description" : " The World No 1, who wed Ella Victoria Malone last Saturday, will play for St Pauli in the Bundesliga, where he may meet the new classical champion, Gukesh Dommaraju Magnus Carlsen, the 34-year-old world No 1 and candidate for the greatest of all time, <a href=\"https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen\">married Ella Victoria Mallone</a> last Saturday in Oslo, where the congregation included a film crew from Netflix. The new Mrs Carlsen, 26, was born in Hong Kong to a Norwegian mother and an American father, was educated in the US, the UK and Canada, and has spent several years in Singapore. Carlsen's stellar chess career, boosted by his controversial shared World Blitz ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -110,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/martinez-oparin-win-titled-tuesday-january-7-2025",
-         "pubDate" : "Wed, 08 Jan 2025 09:02:32",
+         "pubDate" : "Wed, 08 Jan 2025 09:02:00",
          "title" : "Titled Tuesday 2025 Starts With A Bang"
       },
       {
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3356",
          "pubDate" : "Fri, 20 Dec 2024 14:55:32",
          "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3355",
-         "pubDate" : "Fri, 20 Dec 2024 11:06:44",
-         "title" : "Spanish Championship: Daniil Yuffa and Sabrina Vega claim titles"
       }
    ]
 }
