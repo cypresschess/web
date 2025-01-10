@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After crowning a new champion, chess is experiencing difficult &#8220;growing pains&#8221; as it prepares for a new era. World Champion Gukesh Dommaraju won the title a month ago against defending champion Ding Liren of China in a match between two Asian champions. There were celebrations in India, and the entire world marveled at the new The post <a href=\"https://thechessdrum.net/blog/2025/01/10/the-growing-pains-of-a-new-chess-era/\">The Growing Pains of a New Chess Era</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/01/10/the-growing-pains-of-a-new-chess-era/",
+         "pubDate" : "Fri, 10 Jan 2025 15:14:58",
+         "title" : "The Growing Pains of a New Chess Era"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3382",
+         "pubDate" : "Fri, 10 Jan 2025 15:08:37",
+         "title" : "European Women's Rapid & Blitz Championships 2024 begin in Monte Carlo"
+      },
+      {
          "description" : "Garry Kasparov, a chess legend revered worldwide, continues to inspire new generations through the Kasparov Chess Foundation University Cup. This unique online tournament offers university teams the chance to earn a coveted reward: a training session with Kasparov himself. In its fourth edition, 494 students from 117 universities across six continents competed fiercely online. The University of Texas Rio Grande Valley triumphed, securing their dream session with the former world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fabiano-caruana-live-kcf-academy-lecture",
          "pubDate" : "Fri, 10 Jan 2025 07:41:45",
          "title" : "Fabiano Caruana: live lecture at KCF Academy"
+      },
+      {
+         "description" : "FIDE, in conjunction with the Greece Chess Federation, have announced that the FIDE World Cadets Rapid and Blitz Chess Championships 2025 will be held April 12-18, 2025 at the Rodos Palace 5**** in Rhodes, Greece.** This is the World Cadet and Youth Rapid and Blitz, neither the World Cadet with Standard time controls nor the World Youth with Standard time Controls TOURNAMENT DETAILSThere will be twelve sections: Open and Girls in age categories Under 18, Under 16, Under 14, Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2025 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2007Under 16: Players born on or after Jan. 1, 2009Under 14: Play",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-fide-world-cadet-youth-rapid-and-blitz-registration-2025",
+         "pubDate" : "Fri, 10 Jan 2025 00:00:00",
+         "title" : "Registration Open for FIDE World Cadet & Youth Rapid and Blitz Registration 2025"
+      },
+      {
+         "description" : "FIDE and the Vrnjacka Banja Municipality have announced the 2025 World School Chess Championships will be held from March 19-29th at the Hotel \"Zepter\", Vrnjacka Banja, Serbia.There will be 12 sections in the tournament, Open and Girls for each age category: Under 17, Under 15, Under 13, Under 11, Under 9 and Under 7. A player's age as of January 1, 2025 determines their age eligibility for a section.Players entitled to participate in each category are:Under 07: Players born on or after 1 January 2018Under 09: Players born on or after 1 January 2016Under 11: Players born on or after 1 January 2014Under 13: Players born on or after 1 January 2012Under 15: Players born on or after 1 January 20",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fide-world-school-chess-championships-2025-registration-information",
+         "pubDate" : "Fri, 10 Jan 2025 00:00:00",
+         "title" : "FIDE World School Chess Championships 2025 - Registration Information"
+      },
+      {
+         "description" : "FIDE and the Chess Federation of Montenegro have announced the 2025 World Junior Chess Championships will be held from February 23 to March 8 at the Hotel Palas, Petrovac, Montenegro. There will be two sections in the tournament, Open and Girls. A player's age as of January 1, 2025 determines their age eligibility for a section.Players must not be 20 years old after January 1, 2025.Direct titles shall be awarded according to the FIDE regulations and the complete regulations for the event can be viewed at Event Regulations. TOURNAMENT DETAILSEach event will be 11 rounds, using a time control is 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with an increme",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fide-world-juniors-u20-2025-registration-information",
+         "pubDate" : "Fri, 10 Jan 2025 00:00:00",
+         "title" : "FIDE World Juniors U20 2025 - Registration Information"
       },
       {
          "description" : "The Weissenhaus Freestyle Chess Tournament is set to kick off the inaugural Freestyle Chess Grand Slam with an exciting lineup of top players, including Magnus Carlsen, Gukesh Dommaraju and Vishy Anand. However, it was a gripping online play-in stage that determined the final spot in the elite 10-player field. Javokhir Sindarov and Vladimir Fedoseev battled through a fierce knockout bracket to reach the dramatic final. Fedoseev emerged victorious following a sensational Armageddon decider.",
@@ -634,14 +674,6 @@ news_feed (
          "title" : "Chess meets finance at the Wall Street Gambit conference"
       },
       {
-         "description" : "The 2024 FIDE World Rapid Championship and Women's Championship concluded Saturday, December 28 after three days of action on Wall Street in Manhattan. Russian GM Volodar Murzin won the open with a 10/13 score and Indian GM Humpy Koneru won the women's event with an 8&frac12;/11 score. Congratulations to the winners of the 2024 FIDE Women's World Championship! 👏 🥇Humpy Koneru🥈Ju Wenjun🥉Kateryna Lagno#RapidBlitz #WomenInChess pic.twitter.com/TJ77lzIp7O- International Chess Federation (@FIDE_chess) December 28, 2024 Congratulations to the winners of the 2024 FIDE World Rapid Championship!🥇 Volodar Murzin🥈 Alexander Grischuk🥉 Ian Nepomniachtchi#RapidBlitz pic.twitter.com/FQ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/humpy-koneru-and-volodar-murzin-win-2024-fide-world-rapid-championships",
-         "pubDate" : "Mon, 30 Dec 2024 00:00:00",
-         "title" : "Humpy Koneru and Volodar Murzin Win 2024 FIDE World Rapid Championships"
-      },
-      {
          "description" : " The World Rapid & Blitz Championship took place on Wall Street in New York 26th to 31st December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen was defaulted in round 9 of the rapid when he didn't change his clothes after being informed they broke the regulations. He stated this was likely his final FIDE event, he would not play the blitz. This seemed very final from Carlsen but then on the rest day a blurred photo emerged of him talking to Viswanthan Anand (I'm guessing there's maybe a story that someone made sure there was a photo) a",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1010,14 +1042,6 @@ news_feed (
          "title" : "Bronze for Eugenia Karas at the World Youth Rapid and Blitz Championships"
       },
       {
-         "description" : "A host of junior players will be celebrating their new FIDE titles over the holidays, as the North American Youth Championships concluded earlier today in Dulles, Virginia. Organized by Capital Area Chess from December 18 through 23 - with the approval of US Chess, Confederation of Chess for America (CCA), and FIDE - the tournament was open to chess players with a FIDE flag from Mexico, USA, or Canada born on or after January 1, 2006.The tournament consisted of 12 sections: Under-18 through Under-8 Open and Girls. In addition to medals, rating points, and bragging rights, players were also competing for direct titles and norms as specified in the FIDE regulations.In total, 368 players compet",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/flash-report-2024-north-american-youth-championships-produce-26-direct-titles-two-norms",
-         "pubDate" : "Mon, 23 Dec 2024 00:00:00",
-         "title" : "Flash Report: 2024 North American Youth Championships Produce 26 Direct Titles, Two Norms"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1080,22 +1104,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/",
          "pubDate" : "Fri, 20 Dec 2024 21:09:00",
          "title" : "17-year-old Nyuima Tersee is new Nigerian Champion!"
-      },
-      {
-         "description" : "While preparing a previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/gukesh-in-2018-age-12.html\">Gukesh in 2018 - Age 12</A> (November 2024), in this short series on Gukesh Dommaraju, I spotted a problem with the raw data:- <BLOCKQUOTE> [Earlier] I listed a half-dozen tournaments played through the end of 2017. Here's the continuation of that list [with 17 events]. There's at least one important tournament missing from that list. I'll cover it in my next post in the series. </BLOCKQUOTE> <P> One of the most striking aspects of the 2018 list is that only six of the 17 events were played in India. Most of the others were played in Europe. Anyone who travels farther than the l",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/globetrotting-gukesh.html",
-         "pubDate" : "Fri, 20 Dec 2024 16:23:00",
-         "title" : "Globetrotting Gukesh"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3356",
-         "pubDate" : "Fri, 20 Dec 2024 14:55:32",
-         "title" : "FIDE announces proposed changes to 2025 Circuit Regulations"
       }
    ]
 }
