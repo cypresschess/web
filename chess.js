@@ -55,7 +55,7 @@ news_feed (
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jan/10/chess-newly-married-carlsen-signs-up-with-bundesliga-freestyle-and-saudis",
          "pubDate" : "Fri, 10 Jan 2025 08:00:35",
-         "title" : "Chess: newly-married Carlsen signs up with Bundesliga, Freestyle and Saudis"
+         "title" : "Chess: newly married Carlsen signs up with Bundesliga, Freestyle and Saudis"
       },
       {
          "description" : "The highly anticipated training program at KCF Academy is set to begin on January 11, 2025, bringing together some of the brightest young chess talents from Europe and America. Renowned for its cutting-edge training methodologies and distinguished coaching staff, KCF Academy has become a hub for nurturing the future stars of the chess world.",
