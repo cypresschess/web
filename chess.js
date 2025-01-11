@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 European Women's Blitz Championship brought high-octane chess action to the luxurious backdrop of Monte Carlo, Monaco. Featuring 126 players from 28 countries, the event saw Polish IM Aleksandra Maltsevskaya claim a stunning victory with 10&frac12;/13 points, defeating top talents including former world champions Anna Ushenina and Alexandra Kosteniuk. Rising star Eline Roebers also impressed but narrowly missed the podium. | Photo: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-blitz-ch-2024",
+         "pubDate" : "Sat, 11 Jan 2025 16:25:00",
+         "title" : "Maltsevskaya outright winner at European Women's Blitz Championship"
+      },
+      {
+         "description" : "Another year has flown by. It was my best year yet, both from a business and personal standpoint. As we turn the page to 2025, I can't help but reflect on a year that challenged, changed, and ultimately transformed me. Here's what made 2024 my best year yet-and the lessons I'm carrying forward. Enjoy! What []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/2024-review/",
+         "pubDate" : "Sat, 11 Jan 2025 14:00:00",
+         "title" : "What 2024 Taught Me About Chess, Life, and Growth"
+      },
+      {
+         "description" : "\"This is a power play, right? It's weird that people think this is about jeans. Magnus was very happy he was kicked out; he now has the perfect excuse to completely challenge FIDÉ in a way he's wanted to do for a very long time.&#8221; Thus spake controversialist, Hans Niemann, on the latest scandal to []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/jeans-ties-and-magnus-carlsen/",
+         "pubDate" : "Sat, 11 Jan 2025 12:55:42",
+         "title" : "Jeans, ties and Magnus Carlsen "
+      },
+      {
+         "description" : "At just nine years old, FM Roman Shogdzhiev has broken the record to become the youngest player in history to score an international master (IM) norm. He is also one of just three players to cross the 2300 barrier before age 10. The exceptional ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-shogdziev-scores-im-norm-breaks-oro-record",
+         "pubDate" : "Sat, 11 Jan 2025 06:33:00",
+         "title" : "9-Year-Old Roman Shogdzhiev Becomes Youngest Ever To Score IM Norm"
+      },
+      {
          "description" : "Live Games Link Open : http://fritzserver.org/LocalUser/live/goagm25/round-1/games.pgn",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "FIDE World School Chess Championships 2025"
       },
       {
-         "description" : "At the start of the World Championship in Singapore, on November 25th 2024, a new chess puzzle game, inspired by the incredibly popular 'Wordle', was launched. It was developed by a young lad from Singapore, a problem expert, together with a member of the ChessBase family. We have been experimenting with the World Championship game, to see how people who are confronted with it, react. We recorded a strong chess player's first interaction with the game. It was instructive and entertaining.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/testing-checkmatle-with-svitlana",
-         "pubDate" : "Thu, 09 Jan 2025 10:46:03",
-         "title" : "Testing CheckMatle - with Svitlana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-223",
          "pubDate" : "Wed, 08 Jan 2025 21:15:00",
          "title" : "Jon Speelman: The wrong trousers and vengeance most equine"
-      },
-      {
-         "description" : "\"ChessBase have truly outdone themselves with the new CB18,\" say strong GM Iniyan Panneerselvam. \"It makes life so much easier for players and coaches alike, thanks to its fantastic new features! We all know how precious time is; and CB18 is designed to save you a ton of time when you need it most.\" Today he describes how the software works with Mega Database 2025. and which additionsl bonus features it provides.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18-3",
-         "pubDate" : "Wed, 08 Jan 2025 15:49:13",
-         "title" : "GM Iniyan on ChessBase 18 - (3)"
       },
       {
          "description" : "The European Women's Rapid &#38; Blitz Chess Championships 2024 take place in Monte-Carlo, Monaco, from 9-13 January. The European Women's Blitz Chess Championship 2024 is first on the schedule and will be played on Friday, 10th of January, with the participation of 134 players from 28 European federations. The event will be played in 13 rounds, swiss system, with the time control of 3 minutes + 2 seconds, and features the prize fund of 15.200 EUR. GM Alexandra Kosteniuk (SUI, []",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-day-2",
          "pubDate" : "Tue, 07 Jan 2025 16:31:00",
          "title" : "Nepomniachtchi In Semifinals After Niemann Blunders Mate-In-1"
-      },
-      {
-         "description" : "The famous classic Thomas-Alekhine is a strategical masterpiece. It has served as a lesson on how to play against weak white pawns on c3 and d4. Ever since Nimzowitsch has dealt with it in his famous work \"My System\" it has been popular with trainers and students alike. But did White really use all defensive options? This has not been debated enough in the past. Can you do this important job?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/riddle-thomas-alekhine-1925",
-         "pubDate" : "Tue, 07 Jan 2025 11:50:00",
-         "title" : "Riddle: Thomas-Alekhine 1925"
       },
       {
          "description" : "",
@@ -826,14 +834,6 @@ news_feed (
          "title" : "Murzin Wins Rapid World Championship, Humpy Earns 2nd Title In Women's"
       },
       {
-         "description" : "GM Ediz Gurel captured first place and $400 in 2024&#39;s final Bullet Brawl, one week after falling short of his second title. Following their tussle at the top in the previous event, GM Oleksander Bortnyk fell three points shy of wresting the title ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-december-28-2024",
-         "pubDate" : "Sat, 28 Dec 2024 16:21:00",
-         "title" : "Gurel Claims 2nd Bullet Brawl Title, Carlsen Joins Late Following 'Jeansgate'"
-      },
-      {
          "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only.&#160;The additional players and accompanying",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1096,22 +1096,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
          "pubDate" : "Sat, 21 Dec 2024 21:45:00",
          "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "Why You're Stuck in Chess-and How to Break Through in 2025: Part 2 Understanding the &#8220;What&#8221; in Chess Improvement In Part 1 of this series, we introduced the Chess Improvement Equation: What * How * Time = Improvement Score This simple formula is your blueprint for understanding why you're stuck and how to fix it. []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/the-what-score/",
-         "pubDate" : "Sat, 21 Dec 2024 14:00:00",
-         "title" : "Supercharge Your Chess Improvement in 2025: Part 2"
-      },
-      {
-         "description" : "​On Thursday 12th December, Gukesh Dommaraju (India) became the youngest ever winner of the world chess championship with his fourteenth unrelenting game against the defending champion, Ding Liren (China). Playing Black, Gukesh, as he has managed in all the games, exerted enormous time and positional pressures on his opponent, who as the contest progressed, became ever more pensive and unambitious. In last week's column we have already []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/gukesh-a-worthy-world-champion/",
-         "pubDate" : "Sat, 21 Dec 2024 13:24:14",
-         "title" : "Gukesh: a worthy world champion"
       }
    ]
 }
