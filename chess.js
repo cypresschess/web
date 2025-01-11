@@ -1112,14 +1112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/gukesh-a-worthy-world-champion/",
          "pubDate" : "Sat, 21 Dec 2024 13:24:14",
          "title" : "Gukesh: a worthy world champion"
-      },
-      {
-         "description" : "Please find the certificates Sl No Candidate Name 1 Anand J S 2 Vipin Vijayan 3 Vani Indrali 4 Tejesh Oleti 5 Kranthi G 6",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-and-exam-in-rajahmundry-on-30-november-01-december-2024/",
-         "pubDate" : "Sat, 21 Dec 2024 07:40:40",
-         "title" : "Certificate of SNA seminar and exam in Rajahmundry on 30 November & 01 December 2024."
       }
    ]
 }
