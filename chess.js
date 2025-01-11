@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The greatest service one can give to their community is love and time. Dear Chess Community, It is with deep regret that I inform the chess community of the passing of Ernest Levert, Jr on January 8th, 2024. He is survived by his wife Ivory, daughter Zamya, and son Zenith. This tragedy occurred only one The post <a href=\"https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/\">Chess Educator, Ernest Levert passes (1990-2025)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/",
+         "pubDate" : "Sat, 11 Jan 2025 18:40:15",
+         "title" : "Chess Educator, Ernest Levert passes (1990-2025)"
+      },
+      {
          "description" : "The 2024 European Women's Blitz Championship brought high-octane chess action to the luxurious backdrop of Monte Carlo, Monaco. Featuring 126 players from 28 countries, the event saw Polish IM Aleksandra Maltsevskaya claim a stunning victory with 10&frac12;/13 points, defeating top talents including former world champions Anna Ushenina and Alexandra Kosteniuk. Rising star Eline Roebers also impressed but narrowly missed the podium. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
