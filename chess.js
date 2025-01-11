@@ -82,6 +82,14 @@ news_feed (
          "title" : "FIDE World Juniors U20 2025 - Registration Information"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3383",
+         "pubDate" : "Thu, 09 Jan 2025 21:14:57",
+         "title" : "Iniyan wins 15th Chennai Open"
+      },
+      {
          "description" : "The Weissenhaus Freestyle Chess Tournament is set to kick off the inaugural Freestyle Chess Grand Slam with an exciting lineup of top players, including Magnus Carlsen, Gukesh Dommaraju and Vishy Anand. However, it was a gripping online play-in stage that determined the final spot in the elite 10-player field. Javokhir Sindarov and Vladimir Fedoseev battled through a fierce knockout bracket to reach the dramatic final. Fedoseev emerged victorious following a sensational Armageddon decider.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-national-k-12-grades-pt-1",
          "pubDate" : "Tue, 07 Jan 2025 00:00:00",
          "title" : "Tactics Tuesday: National K-12 Grades, Pt. 1"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation is thrilled to announce the lineup for the KCF Academy Premium Package Lecture Series in January 2025! This month's program features an extraordinary roster of world-class chess legends who will share their insights, strategies, and personal experiences to help elevate your game to new heights. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Mark your calendars for these exclusive online lectures:January 12, 2024 - Fabiano CaruanaDive into the mind of a modern chess powerhouse! Fabiano Caruana, one of the strongest players in the world and a former World Championship contender, will reveal his secrets to precision play and decision-making u",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/exclusive-january-lecture-series-kcf-academy",
-         "pubDate" : "Tue, 07 Jan 2025 00:00:00",
-         "title" : "Exclusive January Lecture Series at KCF Academy"
       },
       {
          "description" : "",
@@ -690,6 +690,14 @@ news_feed (
          "title" : "Chess meets finance at the Wall Street Gambit conference"
       },
       {
+         "description" : "The 2024 FIDE World Rapid Championship and Women's Championship concluded Saturday, December 28 after three days of action on Wall Street in Manhattan. Russian GM Volodar Murzin won the open with a 10/13 score and Indian GM Humpy Koneru won the women's event with an 8&frac12;/11 score. Congratulations to the winners of the 2024 FIDE Women's World Championship! 👏 🥇Humpy Koneru🥈Ju Wenjun🥉Kateryna Lagno#RapidBlitz #WomenInChess pic.twitter.com/TJ77lzIp7O- International Chess Federation (@FIDE_chess) December 28, 2024 Congratulations to the winners of the 2024 FIDE World Rapid Championship!🥇 Volodar Murzin🥈 Alexander Grischuk🥉 Ian Nepomniachtchi#RapidBlitz pic.twitter.com/FQ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/humpy-koneru-and-volodar-murzin-win-2024-fide-world-rapid-championships",
+         "pubDate" : "Mon, 30 Dec 2024 00:00:00",
+         "title" : "Humpy Koneru and Volodar Murzin Win 2024 FIDE World Rapid Championships"
+      },
+      {
          "description" : " The World Rapid & Blitz Championship took place on Wall Street in New York 26th to 31st December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen was defaulted in round 9 of the rapid when he didn't change his clothes after being informed they broke the regulations. He stated this was likely his final FIDE event, he would not play the blitz. This seemed very final from Carlsen but then on the rest day a blurred photo emerged of him talking to Viswanthan Anand (I'm guessing there's maybe a story that someone made sure there was a photo) a",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-and-exam-in-rajahmundry-on-30-november-01-december-2024/",
          "pubDate" : "Sat, 21 Dec 2024 07:40:40",
          "title" : "Certificate of SNA seminar and exam in Rajahmundry on 30 November & 01 December 2024."
-      },
-      {
-         "description" : " Nyuima Ferdinand Tersee won the 2024 Nigerian National Championship over several titled and veteran players. The 17-year-old from Benue State bested a field of veterans and titled players as the youngest in the nation's history to win the coveted title. In the aftermath of Gukesh Dommaraju's world title, the age barriers in chess continue to The post <a href=\"https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/\">17-year-old Nyuima Tersee is new Nigerian Champion!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/20/17-year-old-nyuima-tersee-is-new-nigerian-champion/",
-         "pubDate" : "Fri, 20 Dec 2024 21:09:00",
-         "title" : "17-year-old Nyuima Tersee is new Nigerian Champion!"
       }
    ]
 }
