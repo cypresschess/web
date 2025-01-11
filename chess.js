@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Live Games Link Open : http://fritzserver.org/LocalUser/live/goagm25/round-1/games.pgn",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-links-goa-gm-2025/",
+         "pubDate" : "Sat, 11 Jan 2025 04:07:17",
+         "title" : "Live Game Links Goa GM 2025"
+      },
+      {
          "description" : "In 2024, FC St. Pauli, which had just been promoted to the top division of the Bundesliga, pulled off a coup: they were able to convince Magnus Carlsen, a football fan and the world's number one, to become a member of their team. But it remained unclear how often Carlsen would play in the coming season. But the time has come sooner than expected, as Carlsen will play in St. Pauli's home matches against Solingen and D&uuml;sseldorf this weekend. And if D&uuml;sseldorf choose not to go to Hamburg with their best lineup, Carlsen could even face Gukesh, the newly crowned world champion, on Sunday. | Photo: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
