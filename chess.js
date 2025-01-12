@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A month ago, \"Indiana Jones and the Great Circle\" was released worldwide. Being a massive fan of the Indiana Jones franchise, this game was obviously a must-play. You must be wondering, why are we talking about a video game on a chess website? Well, the game had plenty of chess positions which were carefully curated. Unlike in \"Watch Dogs\", you cannot solve the positions by moving pieces, but you can certainly use your mind to solve them, or perhaps recollect where you might have probably seen it. | Game cover: Indiana Jones fandom",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-indiana-jones-great-circle",
+         "pubDate" : "Sat, 11 Jan 2025 22:40:00",
+         "title" : "Chess in \"Indiana Jones and the Great Circle\""
+      },
+      {
          "description" : " The greatest service one can give to their community is love and time. Dear Chess Community, It is with deep regret that I inform the chess community of the passing of Ernest Levert, Jr on January 8th, 2024. He is survived by his wife Ivory, daughter Zamya, and son Zenith. This tragedy occurred only one The post <a href=\"https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/\">Chess Educator, Ernest Levert passes (1990-2025)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-women-blitz-ch-2024",
          "pubDate" : "Sat, 11 Jan 2025 16:25:00",
          "title" : "Maltsevskaya outright winner at European Women's Blitz Championship"
+      },
+      {
+         "description" : "GM Volodar Murzin, the newly crowned World Rapid Chess Champion, has shared the harrowing story about how he and his family escaped the violent grip of his abusive father. The 18-year-old grandmaster sensationally became the second-youngest rapi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/volodar-murzin-on-his-fathers-abuse",
+         "pubDate" : "Sat, 11 Jan 2025 16:06:00",
+         "title" : "Volodar Murzin On Surviving His Father's Abuse: 'He Could Slam My Head Against The Wall'"
+      },
+      {
+         "description" : " GM Daniel Naroditsky picked up right where he left off in the previous edition of Bullet Brawl, scoring 233 points and winning Saturday&#39;s event in a field featuring the world number four, GM Arjun Erigaisi, and 246 other titled players. Startin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-11-2025",
+         "pubDate" : "Sat, 11 Jan 2025 16:05:37",
+         "title" : "Naroditsky Outpaces Arjun, Nihal, Sevian, Wins 26th Bullet Brawl"
       },
       {
          "description" : "Another year has flown by. It was my best year yet, both from a business and personal standpoint. As we turn the page to 2025, I can't help but reflect on a year that challenged, changed, and ultimately transformed me. Here's what made 2024 my best year yet-and the lessons I'm carrying forward. Enjoy! What []",
@@ -74,14 +98,6 @@ news_feed (
          "title" : "European Women's Rapid & Blitz Championships 2024 begin in Monte Carlo"
       },
       {
-         "description" : "Garry Kasparov, a chess legend revered worldwide, continues to inspire new generations through the Kasparov Chess Foundation University Cup. This unique online tournament offers university teams the chance to earn a coveted reward: a training session with Kasparov himself. In its fourth edition, 494 students from 117 universities across six continents competed fiercely online. The University of Texas Rio Grande Valley triumphed, securing their dream session with the former world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/university-students-train-with-kasparov",
-         "pubDate" : "Fri, 10 Jan 2025 11:35:00",
-         "title" : "When the dream comes true: University students train with Garry Kasparov"
-      },
-      {
          "description" : "GM Zhu Jiner, the world&#39;s 10th highest-rated female player, has called out FIDE for giving her a fine for allegedly violating the dress code policy, claiming it disrupted her performance and contributed to her being knocked out of the 2024 Women&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/10/chess-newly-married-carlsen-signs-up-with-bundesliga-freestyle-and-saudis",
          "pubDate" : "Fri, 10 Jan 2025 08:00:35",
          "title" : "Chess: newly married Carlsen signs up with Bundesliga, Freestyle and Saudis"
-      },
-      {
-         "description" : "The highly anticipated training program at KCF Academy is set to begin on January 11, 2025, bringing together some of the brightest young chess talents from Europe and America. Renowned for its cutting-edge training methodologies and distinguished coaching staff, KCF Academy has become a hub for nurturing the future stars of the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fabiano-caruana-live-kcf-academy-lecture",
-         "pubDate" : "Fri, 10 Jan 2025 07:41:45",
-         "title" : "Fabiano Caruana: live lecture at KCF Academy"
       },
       {
          "description" : "FIDE, in conjunction with the Greece Chess Federation, have announced that the FIDE World Cadets Rapid and Blitz Chess Championships 2025 will be held April 12-18, 2025 at the Rodos Palace 5**** in Rhodes, Greece.** This is the World Cadet and Youth Rapid and Blitz, neither the World Cadet with Standard time controls nor the World Youth with Standard time Controls TOURNAMENT DETAILSThere will be twelve sections: Open and Girls in age categories Under 18, Under 16, Under 14, Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2025 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2007Under 16: Players born on or after Jan. 1, 2009Under 14: Play",
@@ -138,14 +146,6 @@ news_feed (
          "title" : "Iniyan wins 15th Chennai Open"
       },
       {
-         "description" : "The Weissenhaus Freestyle Chess Tournament is set to kick off the inaugural Freestyle Chess Grand Slam with an exciting lineup of top players, including Magnus Carlsen, Gukesh Dommaraju and Vishy Anand. However, it was a gripping online play-in stage that determined the final spot in the elite 10-player field. Javokhir Sindarov and Vladimir Fedoseev battled through a fierce knockout bracket to reach the dramatic final. Fedoseev emerged victorious following a sensational Armageddon decider.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-play-in",
-         "pubDate" : "Thu, 09 Jan 2025 20:00:00",
-         "title" : "Weissenhaus Play-In: Fedoseev beats Nepomniachtchi and Sindarov, gets spot in Grand Slam"
-      },
-      {
          "description" : "Vrnjacka Banja, Serbia 19th to 29th March 2025. A minimum of one parent must attend with each child who is playing in the tournament. For all the details and online...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -176,14 +176,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/university-texas-rio-grande-valley-wins-2025-pan-american-intercollegiate-championships",
          "pubDate" : "Thu, 09 Jan 2025 00:00:00",
          "title" : "University of Texas Rio Grande Valley Wins 2025 Pan-American Intercollegiate Championship in Charlotte"
-      },
-      {
-         "description" : "Welcome to 2025, a rare \"square year\" (45×45), and a time for both reflection and prediction. Chess fans enter the new year with excitement after a historic 2024, crowned by Gukesh's ascension as World Champion, marking India's growing dominance in chess. Meanwhile, Ian Nepomniachtchi's dazzling ...Ne3+!! in the World Blitz final against Magnus Carlsen provided a fitting finale to a dramatic year. As we look ahead, will 2025 unveil a new prodigy destined for greatness? Share your thoughts and favourites in the comments. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-223",
-         "pubDate" : "Wed, 08 Jan 2025 21:15:00",
-         "title" : "Jon Speelman: The wrong trousers and vengeance most equine"
       },
       {
          "description" : "The European Women's Rapid &#38; Blitz Chess Championships 2024 take place in Monte-Carlo, Monaco, from 9-13 January. The European Women's Blitz Chess Championship 2024 is first on the schedule and will be played on Friday, 10th of January, with the participation of 134 players from 28 European federations. The event will be played in 13 rounds, swiss system, with the time control of 3 minutes + 2 seconds, and features the prize fund of 15.200 EUR. GM Alexandra Kosteniuk (SUI, []",
@@ -802,14 +794,6 @@ news_feed (
          "title" : "Jeans Gambit Declined: The clash of Magnus Carlsen and FIDE"
       },
       {
-         "description" : "NBA superstar Victor &#34;Wemby&#34; Wembanyama turned a rainy day in New York City into an unforgettable experience when he invited fans to play chess with him in Washington Square Park on Saturday.&#38;nbsp; The 7&#39;3&#34; (2.21 cm) San Antonio Spurs sensation,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nba-superstar-requested-chess-partner-in-nyc",
-         "pubDate" : "Sun, 29 Dec 2024 09:32:06",
-         "title" : "NBA Superstar Requested Chess Partner On Rainy Day In NYC"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -832,14 +816,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43200845/fide-world-rapid-chess-championships-2024-koneru-humpy-wins-second-title-arjun-erigaisi-finishes-fifth-volodar-murzin?device=featurephone",
          "pubDate" : "Sun, 29 Dec 2024 00:59:40",
          "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second women's title; Volodar Murzin wins in open section"
-      },
-      {
-         "description" : "GM Volodar Murzin won the 2024 FIDE World Rapid Chess Championship with an undefeated 10/13 score. At 18 years old, he is the second-youngest rapid world champion in history, after GM Nodirbek Abdusattorov, who was 17 during his victory in 2021. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-chess-championship-day-3",
-         "pubDate" : "Sat, 28 Dec 2024 16:29:00",
-         "title" : "Murzin Wins Rapid World Championship, Humpy Earns 2nd Title In Women's"
       },
       {
          "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only.&#160;The additional players and accompanying",
@@ -1096,14 +1072,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
          "pubDate" : "Sun, 22 Dec 2024 14:18:00",
          "title" : "Champions Chess Tour Finals 2024 - Games and Results"
-      },
-      {
-         "description" : " The 14th London Chess Classic sponsored by XTX Markets took place in the Emirates Stadium Fri 29th Nov to Sat 7th Dec 2024. The field of the Elite round robin was Gawain Jones, Michael Adams, Santosh Vidit, Shakhriyar Mamedyarov, Nikita Vitiugov, Andrew Hong, Ju Wenjun and Shreyas Royal play. Raunak Sadhwani and Ilya Smirin are the top seeds in the Masters, a 9 round open. Gawain Jones scored a fine victory with an undefeated 5/7, his round one win against Michael Adams seems especially important in retrospect, Adams tied with Vidit, Vitiugov and Mamedyarov on 4 points in second place. On the final day Alireza Firouzja won the Superblitz final by a point from MVL in what was a very strong f",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-xtx-markets-london-chess-classic-2024",
-         "pubDate" : "Sat, 21 Dec 2024 21:45:00",
-         "title" : "14th XTX Markets London Chess Classic 2024 - Games and Results"
       }
    ]
 }
