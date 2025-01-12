@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rounds 5 and 6 of the 2024/25 Chess Bundesliga saw significant developments, including Magnus Carlsen's return to the league after many years, helping St. Pauli secure their first win of the season before losing to leaders D&uuml;sseldorfer. Viernheim defeated perennial favourites Baden-Baden in round 5 and then overcame Deizisau, who entered round 6 as sole leaders. Baden-Baden recovered with a narrow win, leaving them tied with D&uuml;sseldorfer at the top of the standings. The next rounds are set for 1-2 February. | Photo: Andr&eacute; Schulz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2025-r5",
+         "pubDate" : "Sun, 12 Jan 2025 20:45:00",
+         "title" : "Bundesliga: Carlsen scores 1&frac12;/2 for St. Pauli, D&uuml;sseldorfer and Baden-Baden share the lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117170370.cms\" />Indian chess legends, including Viswanathan Anand and D Gukesh, celebrated Pongal with traditional dance at Anand's Tamil Nadu residence. The gathering highlighted the camaraderie among top players like Rameshbabu Praggnanandhaa and Vidit Gujrathi. This festive unity underscores the rising prominence of Indian chess, buoyed by recent international successes and promising future talents.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
