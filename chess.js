@@ -1064,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3358",
          "pubDate" : "Sun, 22 Dec 2024 23:02:11",
          "title" : "FIDE World Rapid and Blitz in New York preview: An epic ending to 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3357",
-         "pubDate" : "Sun, 22 Dec 2024 15:04:26",
-         "title" : "2024 Turkish Championship: Vahap Şanal claims third title"
-      },
-      {
-         "description" : " The Champions Chess Tour Finals took place Dec 17, 2024 - Dec 21, 2024 in Oslo, Norway over the board rather than via a server. 8 players compete: Magnus Carlsen, Alireza Firouzja, Maxime Vachier-Lagrave, Ian Nepomniachtchi, Wesley So, Denis Lazavik, Vincent Keymer and Levon Aronian. The event starts with a Round Robin mini-match stage, these are two games matches with an Armageddon (times decided by bidding), if tied. There was then a final chance in the Survival Stage for players placed 3rd-6th in the Round Robin. Ian Nepomniachtchi beat Denis Lazavik in the Winners final to take one place. MVL beat Vincent Keymer and then Lazavik who had a second chance, in the Losers final. This meant t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-finals-2024",
-         "pubDate" : "Sun, 22 Dec 2024 14:18:00",
-         "title" : "Champions Chess Tour Finals 2024 - Games and Results"
       }
    ]
 }
