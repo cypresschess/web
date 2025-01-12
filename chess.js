@@ -34,11 +34,11 @@ news_feed (
          "title" : "Volodar Murzin On Surviving His Father's Abuse: 'He Could Slam My Head Against The Wall'"
       },
       {
-         "description" : " GM Daniel Naroditsky picked up right where he left off in the previous edition of Bullet Brawl, scoring 233 points and winning Saturday&#39;s event in a field featuring the world number four, GM Arjun Erigaisi, and 246 other titled players. Startin...",
+         "description" : " GM Daniel Naroditsky picked up right where he left off in the previous edition of Bullet Brawl, scoring 233 points and winning Saturday&#39;s event in a field featuring the world number-four, GM Arjun Erigaisi, and 246 other titled players. Startin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-11-2025",
-         "pubDate" : "Sat, 11 Jan 2025 16:05:37",
+         "pubDate" : "Sat, 11 Jan 2025 16:05:00",
          "title" : "Naroditsky Outpaces Arjun, Nihal, Sevian, Wins 26th Bullet Brawl"
       },
       {
