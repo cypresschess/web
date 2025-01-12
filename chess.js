@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117170370.cms\" />Indian chess legends, including Viswanathan Anand and D Gukesh, celebrated Pongal with traditional dance at Anand's Tamil Nadu residence. The gathering highlighted the camaraderie among top players like Rameshbabu Praggnanandhaa and Vidit Gujrathi. This festive unity underscores the rising prominence of Indian chess, buoyed by recent international successes and promising future talents.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-viswanathan-anand-d-gukesh-and-other-chess-champions-flex-dancing-moves-in-viral-video/articleshow/117170370.cms",
+         "pubDate" : "Sun, 12 Jan 2025 10:11:05",
+         "title" : "Watch: Anand, Gukesh and other chess champs flex dancing moves"
+      },
+      {
          "description" : "A month ago, \"Indiana Jones and the Great Circle\" was released worldwide. Being a massive fan of the Indiana Jones franchise, this game was obviously a must-play. You must be wondering, why are we talking about a video game on a chess website? Well, the game had plenty of chess positions which were carefully curated. Unlike in \"Watch Dogs\", you cannot solve the positions by moving pieces, but you can certainly use your mind to solve them, or perhaps recollect where you might have probably seen it. | Game cover: Indiana Jones fandom",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -320,6 +328,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3376",
          "pubDate" : "Mon, 06 Jan 2025 04:44:12",
          "title" : "Robert Huebner (1948-2025)"
+      },
+      {
+         "description" : "Items featured in <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) often repeat. A couple of months ago we had <A HREF=\"https://chessforallages.blogspot.com/2024/11/more-piggybanx-chess.html\">More Piggybanx Chess</A> (November 2024), where two more of the same item sold in December for somewhat less after many bids. <P> A couple of months before 'Piggybanx Chess' we had <A HREF=\"https://chessforallages.blogspot.com/2024/09/ugly-chess-jacket.html\">Ugly Chess Jacket</A> (September 2024), with a couple of links for 'previous top eBay items in the clothing category'. There's nothing ugly about the item pictur",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/nice-chess-sweater.html",
+         "pubDate" : "Sun, 05 Jan 2025 16:42:00",
+         "title" : "Nice Chess Sweater"
       },
       {
          "description" : "GM Robert Huebner, the best German chess player since Emanuel Lasker, a four-time world championship candidate, Olympic board one gold medalist, former world number-three, master analyst, writer, polyglot, and papyrologist, has died at the age of ...",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://djerbachessfestival.com/data/program#new_tab",
          "pubDate" : "Fri, 27 Dec 2024 15:30:33",
          "title" : "Chess by the sea"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116709287.cms\" />Indian Grandmaster Arjun Erigaisi is off to a strong start in the World Rapid Chess Championship, tying for fifth place after five rounds with four wins. Meanwhile, Raunak Sadhwani, another Indian player, has caught attention by defeating a pre-event favorite. The competition remains tight with multiple players, including some prominent names, vying for top positions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-rapid-and-blitz-championships-arjun-erigaisi-makes-promising-start-magnus-carlsen-falters-on-day-1/articleshow/116709287.cms",
-         "pubDate" : "Fri, 27 Dec 2024 09:18:11",
-         "title" : "Rapid Blitz: Erigaisi makes promising start, Carlsen falters on Day 1"
       },
       {
          "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam",
