@@ -10,6 +10,14 @@ news_feed (
          "title" : "A hundred years ago: Moscow 1925"
       },
       {
+         "description" : "The 2024 European Women's Rapid and Blitz Chess Championships concluded yesterday in Monte-Carlo, Monaco. The Championships took place from 9-13 January and gathered nearly 150 players coming from 28 European federations. The first event on the schedule was European Women's Blitz Chess Championship 2024 which was played on Friday, 10th of January. After 13 played rounds, IM Aleksandra Maltsevskaya (POL, 2324) emerged as the sole Winner of the event, scoring 10.5 points. She was half a point ahead of GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2024-crowned-in-monaco/",
+         "pubDate" : "Mon, 13 Jan 2025 08:55:48",
+         "title" : "European Women's Rapid and Blitz Chess Champions 2024 crowned in Monaco"
+      },
+      {
          "description" : "It is being noticed that some organisers are using our logo without permission. These tournaments are not rated events. Unauthorized use of our logo is",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1072,22 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2025-official-regulations/",
          "pubDate" : "Mon, 23 Dec 2024 12:45:09",
          "title" : "European Senior Team Chess Championship 2025 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3359",
-         "pubDate" : "Mon, 23 Dec 2024 12:06:11",
-         "title" : "Jos&eacute; Carlos Vaz crowned Cape Verde Champion"
-      },
-      {
-         "description" : "Congratulation to Eugenia Karas, who came third to win a bronze medal in the Girls U16 Blitz section at the World Youth Rapid and Blitz Championships that took place in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bronze-for-eugenia-karas-at-the-world-youth-rapid-and-blitz-championships/",
-         "pubDate" : "Mon, 23 Dec 2024 11:22:32",
-         "title" : "Bronze for Eugenia Karas at the World Youth Rapid and Blitz Championships"
       }
    ]
 }
