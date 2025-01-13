@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Johor Chess Association invites you to 9th Johor International Open 2025. The tournament has two categories - Open and Challengers (Below 2000). The top three prizes in Open are RM 10000, 6000 and 4000. For Challengers, the top three prizes are RM 1300, 1000 and 800. A total of 3 GMs, 11 IMs and a WIM have registered from eight countries across the world. Entry is Free for GM, IM and players rated above 2300 in the Open section. Last date is extended to 16th January without any penalty in entry fees. There are few conditions offered for GMs rated above 2400 and IMs rated above 2300. IM Nitin S and Venkatesh M R are the only two Indians to have won this tournament in 2014 and 2017 respectivel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/johor-chess-association-invites-you-to-9th-johor-open-2025-in-malaysia",
+         "pubDate" : "Mon, 13 Jan 2025 15:00:00",
+         "title" : "Johor Chess Association invites you to 9th Johor Open 2025 in Malaysia"
+      },
+      {
+         "description" : "Viswanathan Anand has published an obituary for Robert H&uuml;bner on his Facebook page. Anand and H&uuml;bner had met occasionally at tournaments and were team-mates in Baden-Baden. Anand: \"He was a giant from a different era in chess and from a different era of chess players.\" | Photo: Anefo/ Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vishy-anand-remembers-robert-huebner-he-was-a-giant",
+         "pubDate" : "Mon, 13 Jan 2025 14:35:26",
+         "title" : "Vishy Anand remembers Robert H&uuml;bner: \"He was a giant...\""
+      },
+      {
          "description" : "The 1925 chess tournament held in Moscow was a groundbreaking event in chess history. The International Chess Tournament was the world's first state-sponsored chess tournament. It featured 21 players -eleven international stars and ten Soviet masters. It was won by Efim Bogoljubow, who finished ahead of Lasker and Capablanca, the reigning world champion. Against him Bogoljubow played one of the most and complex one of the most widely discussed games in history.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2024-crowned-in-monaco/",
          "pubDate" : "Mon, 13 Jan 2025 08:55:48",
          "title" : "European Women's Rapid and Blitz Chess Champions 2024 crowned in Monaco"
+      },
+      {
+         "description" : "&#34;It&#39;s of course very, very nice to start off married life as a chess player with a win!&#38;rdquo; said GM Magnus Carlsen after beating GM Max Warmerdam in Hamburg, Germany, on Saturday. His first classical game in almost four months helped St. Pauli ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-st-pauli-chess-bundesliga",
+         "pubDate" : "Mon, 13 Jan 2025 07:24:44",
+         "title" : "Carlsen Makes Winning Debut For St. Pauli In Chess Bundesliga"
       },
       {
          "description" : "It is being noticed that some organisers are using our logo without permission. These tournaments are not rated events. Unauthorized use of our logo is",
@@ -34,14 +58,6 @@ news_feed (
          "title" : "European Women's R & B Championships 2024: Ushenina and Maltsevskaya claim titles"
       },
       {
-         "description" : "Rounds 5 and 6 of the 2024/25 Chess Bundesliga saw significant developments, including Magnus Carlsen's return to the league after many years, helping St. Pauli secure their first win of the season before losing to leaders from D&uuml;sseldorf. Viernheim defeated perennial favourites Baden-Baden in round 5 and then overcame Deizisau, who entered round 6 as sole leaders. Baden-Baden recovered with a narrow win, leaving them tied with D&uuml;sseldorf at the top of the standings. The next rounds are set for 1-2 February. | Photo: Andr&eacute; Schulz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2025-r5",
-         "pubDate" : "Sun, 12 Jan 2025 20:45:00",
-         "title" : "Bundesliga: Carlsen scores 1&frac12;/2 for St. Pauli, D&uuml;sseldorf and Baden-Baden share the lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117170370.cms\" />Indian chess legends, including Viswanathan Anand and D Gukesh, celebrated Pongal with traditional dance at Anand's Tamil Nadu residence. The gathering highlighted the camaraderie among top players like Rameshbabu Praggnanandhaa and Vidit Gujrathi. This festive unity underscores the rising prominence of Indian chess, buoyed by recent international successes and promising future talents.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,28 +66,12 @@ news_feed (
          "title" : "Watch: Anand, Gukesh and other chess champs flex dancing moves"
       },
       {
-         "description" : "A month ago, \"Indiana Jones and the Great Circle\" was released worldwide. Being a massive fan of the Indiana Jones franchise, this game was obviously a must-play. You must be wondering, why are we talking about a video game on a chess website? Well, the game had plenty of chess positions which were carefully curated. Unlike in \"Watch Dogs\", you cannot solve the positions by moving pieces, but you can certainly use your mind to solve them, or perhaps recollect where you might have probably seen it. | Game cover: Indiana Jones fandom",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-indiana-jones-great-circle",
-         "pubDate" : "Sat, 11 Jan 2025 22:40:00",
-         "title" : "Chess in \"Indiana Jones and the Great Circle\""
-      },
-      {
          "description" : " The greatest service one can give to their community is love and time. Dear Chess Community, It is with deep regret that I inform the chess community of the passing of Ernest Levert, Jr on January 8th, 2024. He is survived by his wife Ivory, daughter Zamya, and son Zenith. This tragedy occurred only one The post <a href=\"https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/\">Chess Educator, Ernest Levert passes (1990-2025)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/",
          "pubDate" : "Sat, 11 Jan 2025 18:40:15",
          "title" : "Chess Educator, Ernest Levert passes (1990-2025)"
-      },
-      {
-         "description" : "The 2024 European Women's Blitz Championship brought high-octane chess action to the luxurious backdrop of Monte Carlo, Monaco. Featuring 126 players from 28 countries, the event saw Polish IM Aleksandra Maltsevskaya claim a stunning victory with 10&frac12;/13 points, defeating top talents including former world champions Anna Ushenina and Alexandra Kosteniuk. Rising star Eline Roebers also impressed but narrowly missed the podium. | Photo: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-blitz-ch-2024",
-         "pubDate" : "Sat, 11 Jan 2025 16:25:00",
-         "title" : "Maltsevskaya outright winner at European Women's Blitz Championship"
       },
       {
          "description" : "GM Volodar Murzin, the newly crowned World Rapid Chess Champion, has shared the harrowing story about how he and his family escaped the violent grip of his abusive father. The 18-year-old grandmaster sensationally became the second-youngest rapi...",
@@ -120,14 +120,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-links-goa-gm-2025/",
          "pubDate" : "Sat, 11 Jan 2025 04:07:17",
          "title" : "Live Game Links Goa GM 2025"
-      },
-      {
-         "description" : "In 2024, FC St. Pauli, which had just been promoted to the top division of the Bundesliga, pulled off a coup: they were able to convince Magnus Carlsen, a football fan and the world's number one, to become a member of their team. But it remained unclear how often Carlsen would play in the coming season. But the time has come sooner than expected, as Carlsen will play in St. Pauli's home matches against Solingen and D&uuml;sseldorf this weekend. And if D&uuml;sseldorf choose not to go to Hamburg with their best lineup, Carlsen could even face Gukesh, the newly crowned world champion, on Sunday. | Photo: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-in-bundesliga-2025",
-         "pubDate" : "Fri, 10 Jan 2025 19:15:00",
-         "title" : "Magnus Carlsen to play in the Bundesliga this weekend"
       },
       {
          "description" : " After crowning a new champion, chess is experiencing difficult &#8220;growing pains&#8221; as it prepares for a new era. World Champion Gukesh Dommaraju won the title a month ago against defending champion Ding Liren of China in a match between two Asian champions. There were celebrations in India, and the entire world marveled at the new The post <a href=\"https://thechessdrum.net/blog/2025/01/10/the-growing-pains-of-a-new-chess-era/\">The Growing Pains of a New Chess Era</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -834,14 +826,6 @@ news_feed (
          "title" : "My First Endgame Study: A Chess Composition Tourney by WFCC and ChessBase India"
       },
       {
-         "description" : "GM Magnus Carlsen has made a sensational U-turn and confirmed that he will participate in the 2024 FIDE World Blitz Championship in New York. The seven-time World Blitz Champion has now received the green light to play with jeans. The announceme...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/breaking-magnus-carlsen-makes-u-turn-confirms-world-blitz-championship-participation",
-         "pubDate" : "Sun, 29 Dec 2024 11:51:00",
-         "title" : "Magnus Carlsen Makes U-Turn, Confirms World Blitz Participation With Jeans Approval"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116766626.cms\" />Magnus Carlsen, five-time world chess champion, withdrew from the 2024 World Rapid and Blitz Championship after a dispute over his attire. Highlighting dissatisfaction with FIDE, Carlsen's actions reflect a broader push for freedom and innovation in chess. His ventures like Freestyle Chess Club aim to revolutionize the chess landscape, promoting autonomy and creativity among elite players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1064,22 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3360",
          "pubDate" : "Tue, 24 Dec 2024 05:00:23",
          "title" : "2024 Season's Greetings from FIDE President"
-      },
-      {
-         "description" : "After the previous post in the (wannabe) weekly AI comics series, <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-class-asian-players.html\">World Class Asian Players</A> (December 2024), I took a break from the series for a few weeks. Reason? Laziness. <P> Now we're in the year-end holiday period where, although sloth is acceptable, I'll try harder. Reason? I can't do much less than I'm already doing. <P> This week it's Christmas. Next week it's New Year's. After that, we'll see. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol23.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Christmas elves play chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/inside-santas-workshop.html",
-         "pubDate" : "Mon, 23 Dec 2024 16:00:00",
-         "title" : "Inside Santa's Workshop"
-      },
-      {
-         "description" : "The 2025 European Senior Team Chess Championship will be held from 4th April 2025 (day of arrival) to 14th April 2025 (day of departure) in Swidnica, Poland. The event will played in two age categories: 50+ and 65+, open and women's sections separately. Each National Federation of the European Chess Union has the right to register an unlimited number of teams in both categories: Open and Women 50+ &#38; 65+. Each team should consist of four (4) players and optionally []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2025-official-regulations/",
-         "pubDate" : "Mon, 23 Dec 2024 12:45:09",
-         "title" : "European Senior Team Chess Championship 2025 - Official regulations"
       }
    ]
 }
