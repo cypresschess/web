@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-st-pauli-chess-bundesliga",
-         "pubDate" : "Mon, 13 Jan 2025 07:24:44",
+         "pubDate" : "Mon, 13 Jan 2025 07:24:00",
          "title" : "Carlsen Makes Winning Debut For St. Pauli In Chess Bundesliga"
       },
       {
