@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-01-11","122","<a href=http://www.uschess.org/msa/XtblMain.php?202501119732 target='_blank'>WHARTON ACADEMY CHESS TOURNAMENT</a>",
 "HOUSTON","2025-01-11","31","<a href=http://www.uschess.org/msa/XtblMain.php?202501119632 target='_blank'>JAN 11TH - TROPHY SCHOLASTIC</a>",
 "SUGAR LAND","2025-01-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501108932 target='_blank'>FBCC 2024 SAVE THE EAGLES DAY OPEN.</a>",
 "CYPRESS","2025-01-10","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501108832 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-05-18","33","<a href=http://www.uschess.org/msa/XtblMain.php?202405180842 target='_blank'>PISD MAY 2024- MAY 2024 HIGH SCHOOL</a>",
 "HOUSTON","2024-05-18","42","<a href=http://www.uschess.org/msa/XtblMain.php?202405180802 target='_blank'>PISD MAY 2024- MAY 2024 INTERMEDIAT</a>",
 "SUGAR LAND","2024-05-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202405170292 target='_blank'>FBCC GRADUATION WEEKEND OPEN</a>",
-"SPRING","2024-05-15","25","<a href=http://www.uschess.org/msa/XtblMain.php?202405159412 target='_blank'>KLEIN HOMESCHOOL 2024</a>",
 ]);
