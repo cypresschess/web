@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1925 chess tournament held in Moscow was a groundbreaking event in chess history. The International Chess Tournament was the world's first state-sponsored chess tournament. It featured 21 players -eleven international stars and ten Soviet masters. It was won by Efim Bogoljubow, who finished ahead of Lasker and Capablanca, the reigning world champion. Against him Bogoljubow played one of the most and complex one of the most widely discussed games in history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-hundred-years-ago-moscow-1925",
+         "pubDate" : "Mon, 13 Jan 2025 09:13:11",
+         "title" : "A hundred years ago: Moscow 1925"
+      },
+      {
+         "description" : "It is being noticed that some organisers are using our logo without permission. These tournaments are not rated events. Unauthorized use of our logo is",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-2/",
+         "pubDate" : "Mon, 13 Jan 2025 05:30:12",
+         "title" : "Notice"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
