@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Swiss System entered our lives in order to avoid a situation of unpractical number of rounds compared to the Round Robin System. With the advent of computers, pairing players in a Swiss became simple and automatic. But there was a controversy about \"forbidden pairings\". People could - and often would - prevent certain pairings. International Arbiter Alon Shulman tells us what he thinks of the system.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/are-forbidden-pairings-now-forbidden",
+         "pubDate" : "Tue, 14 Jan 2025 16:00:00",
+         "title" : "Are forbidden pairings - now forbidden?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3386",
+         "pubDate" : "Tue, 14 Jan 2025 13:45:57",
+         "title" : "Applications open for 2025 Freedom Asian Chess Initiatives (FACI)"
+      },
+      {
          "description" : "Even before the start of the Bundesliga season, the announcement that Magnus Carlsen would be playing for the Hamburg club St. Pauli caused a huge media stir. Last weekend the world's best chess player made his debut for his new club - and created a real chess hype, not only in Hamburg. | Photos: Andr&eacute; Schulz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
