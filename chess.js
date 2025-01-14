@@ -42,6 +42,14 @@ news_feed (
          "title" : "Educational Seminar \"Chess for children with an autism spectrum - Learn & teach\" announced"
       },
       {
+         "description" : "This week's Tactics Tuesday continues our highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet here, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-national-k-12-grades-pt-2",
+         "pubDate" : "Tue, 14 Jan 2025 00:00:00",
+         "title" : "Tactics Tuesday: National K-12 Grades, Pt. 2"
+      },
+      {
          "description" : "The 2024 European Women's Rapid Championship saw four players finish tied for first place with 8&frac12;/11 points, with Ukrainian GM Anna Ushenina securing the gold medal on tiebreaks. The former women's world champion remained undefeated throughout the event, climbing to the top with crucial wins in rounds 7 and 8. Yuliia Osmak and Sarasadat Khademalsharieh grabbed silver and bronze, while Eline Roebers finished just outside the podium spots. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3375",
          "pubDate" : "Thu, 02 Jan 2025 01:05:56",
          "title" : "Fabiano Caruana wins FIDE Circuit 2024"
-      },
-      {
-         "description" : "One True Champion*The 2024 FIDE World Blitz Championship featured an experimental departure in format from previous years, replacing the second day of Swiss play with an eight-player knockout featuring the top finishers from the one-day Swiss on December 30th. Several hundred fans crowded the Cipriani building on Wall Street in Manhattan, New York on New Year's Eve, all of whom were hoping to get a glimpse at some of their favorite players battle for tens of thousands of dollars and the title of World Blitz Champion. Now, tell me, isn't it way more exciting this way? KO. Head to head. Fill or kill.Semis start in 10 mins.- Emilchess (@EmilSutovsky) December 31, 2024 The goal: Since a world ch",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/ju-wenjun-wins-fide-world-blitz-tiebreakers-carlsen-and-nepo-split-title",
-         "pubDate" : "Thu, 02 Jan 2025 00:00:00",
-         "title" : "Ju Wenjun Wins FIDE World Blitz in Tiebreakers, Carlsen and Nepo Split Title"
       },
       {
          "description" : "",
