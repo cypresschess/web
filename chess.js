@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 European Women's Rapid Championship saw four players finish tied for first place with 8&frac12;/11 points, with Ukrainian GM Anna Ushenina securing the gold medal on tiebreaks. The former women's world champion remained undefeated throughout the event, climbing to the top with crucial wins in rounds 7 and 8. Yuliia Osmak and Sarasadat Khademalsharieh grabbed silver and bronze, while Eline Roebers finished just outside the podium spots. | Photo: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-ch-2024",
+         "pubDate" : "Mon, 13 Jan 2025 15:05:00",
+         "title" : "Ushenina takes gold at European Women's Rapid Championship"
+      },
+      {
          "description" : "Johor Chess Association invites you to 9th Johor International Open 2025. The tournament has two categories - Open and Challengers (Below 2000). The top three prizes in Open are RM 10000, 6000 and 4000. For Challengers, the top three prizes are RM 1300, 1000 and 800. A total of 3 GMs, 11 IMs and a WIM have registered from eight countries across the world. Entry is Free for GM, IM and players rated above 2300 in the Open section. Last date is extended to 16th January without any penalty in entry fees. There are few conditions offered for GMs rated above 2400 and IMs rated above 2300. IM Nitin S and Venkatesh M R are the only two Indians to have won this tournament in 2014 and 2017 respectivel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/notice-2/",
          "pubDate" : "Mon, 13 Jan 2025 05:30:12",
          "title" : "Notice"
+      },
+      {
+         "description" : "Editor's note: This story first appeared in the January 2025 issue of Chess Life. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 Women's Olympiad produced dozens of interesting, thrilling, and beautiful games that got relatively little attention. Here's a selection of the cream of the crop - and this only scratches the surface! Play through the games below, and download a .pdf of the print version of this story here. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-hidden-gems-fide-womens-olympiad",
+         "pubDate" : "Mon, 13 Jan 2025 00:00:00",
+         "title" : "Inside Story: Hidden Gems from the FIDE Women's Olympiad"
       },
       {
          "description" : "",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3369",
          "pubDate" : "Mon, 30 Dec 2024 01:22:17",
          "title" : "Chess meets finance at the Wall Street Gambit conference"
-      },
-      {
-         "description" : "The 2024 FIDE World Rapid Championship and Women's Championship concluded Saturday, December 28 after three days of action on Wall Street in Manhattan. Russian GM Volodar Murzin won the open with a 10/13 score and Indian GM Humpy Koneru won the women's event with an 8&frac12;/11 score. Congratulations to the winners of the 2024 FIDE Women's World Championship! 👏 🥇Humpy Koneru🥈Ju Wenjun🥉Kateryna Lagno#RapidBlitz #WomenInChess pic.twitter.com/TJ77lzIp7O- International Chess Federation (@FIDE_chess) December 28, 2024 Congratulations to the winners of the 2024 FIDE World Rapid Championship!🥇 Volodar Murzin🥈 Alexander Grischuk🥉 Ian Nepomniachtchi#RapidBlitz pic.twitter.com/FQ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/humpy-koneru-and-volodar-murzin-win-2024-fide-world-rapid-championships",
-         "pubDate" : "Mon, 30 Dec 2024 00:00:00",
-         "title" : "Humpy Koneru and Volodar Murzin Win 2024 FIDE World Rapid Championships"
       },
       {
          "description" : " The World Rapid & Blitz Championship took place on Wall Street in New York 26th to 31st December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen was defaulted in round 9 of the rapid when he didn't change his clothes after being informed they broke the regulations. He stated this was likely his final FIDE event, he would not play the blitz. This seemed very final from Carlsen but then on the rest day a blurred photo emerged of him talking to Viswanthan Anand (I'm guessing there's maybe a story that someone made sure there was a photo) a",
