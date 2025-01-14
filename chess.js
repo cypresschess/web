@@ -338,6 +338,14 @@ news_feed (
          "title" : "FIDE announces World Cup 2025 for youngsters"
       },
       {
+         "description" : "Continuing with the weekly series on AI comics, after a brief detour for the year-end holidays last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/12/is-2025-dystopian-year.html\">Is 2025 a Dystopian Year?</A> (December 2024), we return to aimless wandering around various topics. Here the previous post was <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-class-asian-players.html\">World Class Asian Players</A> (ditto). <P> This current post started with some recent news from November 2024: <A HREF=\"https://www.brusselstimes.com/1320016/magritte-painting-fetches-record-121-million-at-auction\">Magritte painting fetches record $121 million at auction</A> (brusselstimes.com)",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/surrealist-chess.html",
+         "pubDate" : "Mon, 06 Jan 2025 16:41:00",
+         "title" : "Surrealist Chess"
+      },
+      {
          "description" : "GMs Vladimir Fedoseev, Denis Lazavik, Javokhir Sindarov, and Oleksandr Bortnyk will join the likes of GMs Ian Nepomniachtchi and Wesley So in a 16-player Knockout on Chess.com to decide the final spot in the 2025 Weissenhaus Freestyle Chess Grand ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/24/walter-harris-americas-1st-black-chess-master-dead-at-83/",
          "pubDate" : "Wed, 25 Dec 2024 01:54:03",
          "title" : "Walter Harris, America's 1st Black Chess Master, dead at 83"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3360",
-         "pubDate" : "Tue, 24 Dec 2024 05:00:23",
-         "title" : "2024 Season's Greetings from FIDE President"
       }
    ]
 }
