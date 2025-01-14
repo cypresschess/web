@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Even before the start of the Bundesliga season, the announcement that Magnus Carlsen would be playing for the Hamburg club St. Pauli caused a huge media stir. Last weekend the world's best chess player made his debut for his new club - and created a real chess hype, not only in Hamburg. | Photos: Andr&eacute; Schulz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-in-the-bundesliga-and-makes-headlines",
+         "pubDate" : "Tue, 14 Jan 2025 12:03:01",
+         "title" : "Magnus Carlsen plays in the Bundesliga and makes headlines"
+      },
+      {
+         "description" : "Chhattisgarh State Chess Association under the aegis of All India Chess Federation has organised Senior National Arbiter seminar at Raipur under the aegis of Chhattisgarh",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-raipur-chhattisgarh-on-04-05-january-2025/",
+         "pubDate" : "Tue, 14 Jan 2025 11:44:56",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Raipur, Chhattisgarh on 04 & 05 January 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3385",
+         "pubDate" : "Tue, 14 Jan 2025 10:32:14",
+         "title" : "Educational Seminar \"Chess for children with an autism spectrum - Learn & teach\" announced"
+      },
+      {
          "description" : "The 2024 European Women's Rapid Championship saw four players finish tied for first place with 8&frac12;/11 points, with Ukrainian GM Anna Ushenina securing the gold medal on tiebreaks. The former women's world champion remained undefeated throughout the event, climbing to the top with crucial wins in rounds 7 and 8. Yuliia Osmak and Sarasadat Khademalsharieh grabbed silver and bronze, while Eline Roebers finished just outside the podium spots. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
