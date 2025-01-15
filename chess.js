@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The problemist's art has always been a bit of a mystery to chess players. Are chess problems merely puzzles with unique and rather curious solutions, or is there something more to them? Join Satanick Mukhuty, ChessBase India's Composition Editor, as he dissects the art of chess problem-solving in his new blog, \"The anatomy of chess solving\". The inaugural episode showcases four meticulously curated problems designed to illuminate the subtle nuances and clever craftsmanship of problem chess. To get the most out of this article, take 10 minutes to study each position before reading the explanatory text. This will help you develop your problem-solving skills and appreciate the artistry behind e",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anatomy-chess-solving-episode-1",
+         "pubDate" : "Wed, 15 Jan 2025 20:15:00",
+         "title" : "The anatomy of chess solving - Episode 1"
+      },
+      {
          "description" : "176 players took part in the International Grandmaster Open in Chennai in the first week of the New Year. Indian GM Inyan PA led the field and went on to win the tournament, beating Deepan, who had been leading the field, in the final round. | Photos: IA R Anantharam",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Chess highlight in August: The Sparkassen Chess Trophy 2025"
       },
       {
+         "description" : "On January 14, Titled Tuesday cracked 900 participants for the first time since June 2, 2020, with a total of 905 players. It was the second straight week setting the doubles era record (since February 1, 2022). Out of those 905 hopeful winners, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-nakamura-win-titled-tuesday-january-14-2025",
+         "pubDate" : "Wed, 15 Jan 2025 09:22:23",
+         "title" : "Titled Tuesday Sets Participation Record, Hikaru Joins 2025 Win Column"
+      },
+      {
          "description" : "We&#39;re excited to announce Freestyle Friday, the new weekly tournament for Titled Players presented by Freestyle Chess. The event will take place every Friday at 11 a.m. ET / 17:00 CET / 9:30 p.m. IST starting January 24 and feature a $1,000 prize ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cheating-scandal-in-chinese-chess-3-top-players-banned-for-life",
-         "pubDate" : "Wed, 15 Jan 2025 07:50:41",
+         "pubDate" : "Wed, 15 Jan 2025 07:50:00",
          "title" : "Top Xiangqi Grandmasters Banned For Life In Chinese Chess Scandal"
       },
       {
@@ -50,12 +66,12 @@ news_feed (
          "title" : "Koneru Humpy set to return to Norway Chess Women tournament"
       },
       {
-         "description" : "The Swiss System entered our lives in order to avoid a situation of unpractical number of rounds compared to the Round Robin System. With the advent of computers, pairing players in a Swiss became simple and automatic. But there was a controversy about \"forbidden pairings\". People could - and often would - prevent certain pairings. International Arbiter Alon Shulman tells us what he thinks of the system.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/are-forbidden-pairings-now-forbidden",
-         "pubDate" : "Tue, 14 Jan 2025 16:00:00",
-         "title" : "Are forbidden pairings - now forbidden?"
+         "description" : "Wednesday Workout continues with more highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-k-12-grades-pt-2",
+         "pubDate" : "Wed, 15 Jan 2025 00:00:00",
+         "title" : "Wednesday Workout: K-12 Grades, Pt. 2"
       },
       {
          "description" : "",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3386",
          "pubDate" : "Tue, 14 Jan 2025 13:45:57",
          "title" : "Applications open for 2025 Freedom Asian Chess Initiatives (FACI)"
-      },
-      {
-         "description" : "Even before the start of the Bundesliga season, the announcement that Magnus Carlsen would be playing for the Hamburg club St. Pauli caused a huge media stir. Last weekend the world's best chess player made his debut for his new club - and created a real chess hype, not only in Hamburg. | Photos: Andr&eacute; Schulz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-in-the-bundesliga-and-makes-headlines",
-         "pubDate" : "Tue, 14 Jan 2025 12:03:01",
-         "title" : "Magnus Carlsen plays in the Bundesliga and makes headlines"
       },
       {
          "description" : "Chhattisgarh State Chess Association under the aegis of All India Chess Federation has organised Senior National Arbiter seminar at Raipur under the aegis of Chhattisgarh",
@@ -96,38 +104,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-national-k-12-grades-pt-2",
          "pubDate" : "Tue, 14 Jan 2025 00:00:00",
          "title" : "Tactics Tuesday: National K-12 Grades, Pt. 2"
-      },
-      {
-         "description" : "The 2024 European Women's Rapid Championship saw four players finish tied for first place with 8&frac12;/11 points, with Ukrainian GM Anna Ushenina securing the gold medal on tiebreaks. The former women's world champion remained undefeated throughout the event, climbing to the top with crucial wins in rounds 7 and 8. Yuliia Osmak and Sarasadat Khademalsharieh grabbed silver and bronze, while Eline Roebers finished just outside the podium spots. | Photo: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-ch-2024",
-         "pubDate" : "Mon, 13 Jan 2025 15:05:00",
-         "title" : "Ushenina takes gold at European Women's Rapid Championship"
-      },
-      {
-         "description" : "Johor Chess Association invites you to 9th Johor International Open 2025. The tournament has two categories - Open and Challengers (Below 2000). The top three prizes in Open are RM 10000, 6000 and 4000. For Challengers, the top three prizes are RM 1300, 1000 and 800. A total of 3 GMs, 11 IMs and a WIM have registered from eight countries across the world. Entry is Free for GM, IM and players rated above 2300 in the Open section. Last date is extended to 16th January without any penalty in entry fees. There are few conditions offered for GMs rated above 2400 and IMs rated above 2300. IM Nitin S and Venkatesh M R are the only two Indians to have won this tournament in 2014 and 2017 respectivel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/johor-chess-association-invites-you-to-9th-johor-open-2025-in-malaysia",
-         "pubDate" : "Mon, 13 Jan 2025 15:00:00",
-         "title" : "Johor Chess Association invites you to 9th Johor Open 2025 in Malaysia"
-      },
-      {
-         "description" : "Viswanathan Anand has published an obituary for Robert H&uuml;bner on his Facebook page. Anand and H&uuml;bner had met occasionally at tournaments and were team-mates in Baden-Baden. Anand: \"He was a giant from a different era in chess and from a different era of chess players.\" | Photo: Anefo/ Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vishy-anand-remembers-robert-huebner-he-was-a-giant",
-         "pubDate" : "Mon, 13 Jan 2025 14:35:26",
-         "title" : "Vishy Anand remembers Robert H&uuml;bner: \"He was a giant...\""
-      },
-      {
-         "description" : "The 1925 chess tournament held in Moscow was a groundbreaking event in chess history. The International Chess Tournament was the world's first state-sponsored chess tournament. It featured 21 players -eleven international stars and ten Soviet masters. It was won by Efim Bogoljubow, who finished ahead of Lasker and Capablanca, the reigning world champion. Against him Bogoljubow played one of the most and complex one of the most widely discussed games in history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-hundred-years-ago-moscow-1925",
-         "pubDate" : "Mon, 13 Jan 2025 09:13:11",
-         "title" : "A hundred years ago: Moscow 1925"
       },
       {
          "description" : "The 2024 European Women's Rapid and Blitz Chess Championships concluded yesterday in Monte-Carlo, Monaco. The Championships took place from 9-13 January and gathered nearly 150 players coming from 28 European federations. The first event on the schedule was European Women's Blitz Chess Championship 2024 which was played on Friday, 10th of January. After 13 played rounds, IM Aleksandra Maltsevskaya (POL, 2324) emerged as the sole Winner of the event, scoring 10.5 points. She was half a point ahead of GM []",
@@ -618,14 +594,6 @@ news_feed (
          "title" : "Just the Rules: 2025 US Chess Rulebook Update News"
       },
       {
-         "description" : "Last year, the US Chess Women's Program launched its online club on Chess.com as a way for women and girls to convene, study, and have fun playing chess together. The club already boasts more than 200 members, and it is looking to grow even more in 2025.The club is open to all women and girls based in the United States who are current US Chess members. Once your request to join is approved, you'll have access to a number of benefits including:Weekly arena-style tournamentsInterviews and videos with titled players, including 2017 U.S. Women's Champion WGM Sabina FoisorEven more educational contentVirtual rooms for lectures and commentary with special guestsPlease email Director of Programs De",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/join-us-chess-womens-online-club",
-         "pubDate" : "Fri, 03 Jan 2025 00:00:00",
-         "title" : "Join the US Chess Women's Online Club"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-2",
          "pubDate" : "Tue, 31 Dec 2024 16:38:00",
          "title" : "Carlsen, Nepomniachtchi Agree To Share World Blitz Title, Ju Wins Women's"
-      },
-      {
-         "description" : "Chess.com is excited to continue growing our great game in collaboration with NFL Films and NFL players. This new year comes with the debut of a special TV presentation and two new playable bots.&#38;nbsp; Now, Chess.com is happy to announce an upco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nfl-presents-chesscom-blitzchamps",
-         "pubDate" : "Tue, 31 Dec 2024 12:00:00",
-         "title" : "NFL Films Presents: The Game of Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116825233.cms\" />Indian Grandmaster R Vaishali captivated the World Blitz Championship by winning the women's qualifier with 9.5 points, ensuring her a quarterfinal spot. Vaishali's path included impressive victories over prominent opponents. In the open section, intense competition saw Russian GM Ian Nepomniachtchi and others advancing, while Indian players faced mixed results.",
@@ -1104,14 +1064,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43154538/fide-world-rapid-blitz-championships-2024-all-need-know?device=featurephone",
          "pubDate" : "Wed, 25 Dec 2024 21:41:16",
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: All you need to know"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3361",
-         "pubDate" : "Wed, 25 Dec 2024 20:12:37",
-         "title" : "Chess in New York: A walk through parks, clubs and history"
       }
    ]
 }
