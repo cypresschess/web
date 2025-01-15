@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "176 players took part in the International Grandmaster Open in Chennai in the first week of the New Year. Indian GM Inyan PA led the field and went on to win the tournament, beating Deepan, who had been leading the field, in the final round. | Photos: IA R Anantharam",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indian-grandmaster-iniyan-wins-15th-chennai-open",
+         "pubDate" : "Wed, 15 Jan 2025 14:27:01",
+         "title" : "Indian Grandmaster Iniyan wins 15th Chennai Open"
+      },
+      {
+         "description" : "Studying a new opening can be overwhelming. Many study dozens of hours of theory before you first play that new opening. By the time they play their first game, they forget 50% of it. There is a better way. If you study only what is necessary and then improve your opening with every game you []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/new-opening/",
+         "pubDate" : "Wed, 15 Jan 2025 13:58:52",
+         "title" : "The simple way to learn a new opening"
+      },
+      {
          "description" : "The International Dortmund Chess Days will take place from 2 August to 10 August 2025 in the heart of the Ruhr region. The 52nd edition will once again be a chess festival for players of all classes with A-Open and B-Open. In the Open, top German players will compete with international grandmasters for a €20,000 prize fund. The two best German female chess players will play in parallel in an international women's tournament. Elisabeth P&auml;htz and Dinara Wagner will face 15-year-old Lu Miaoyi, one of the world's greatest young chess talents. | Photos: Dortmunder Schachtage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-highlight-in-august-the-sparkassen-chess-trophy-2025",
          "pubDate" : "Wed, 15 Jan 2025 10:00:00",
          "title" : "Chess highlight in August: The Sparkassen Chess Trophy 2025"
+      },
+      {
+         "description" : "We&#39;re excited to announce Freestyle Friday, the new weekly tournament for Titled Players presented by Freestyle Chess. The event will take place every Friday at 11 a.m. ET / 17:00 CET / 9:30 p.m. IST starting January 24 and feature a $1,000 prize ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-freestyle-friday",
+         "pubDate" : "Wed, 15 Jan 2025 08:00:00",
+         "title" : "Announcing Freestyle Friday, A New Weekly Prize Tournament For Titled Players"
+      },
+      {
+         "description" : "A major cheating scandal has rocked the world of Chinese chess and tarnished the reputation of one of China&#39;s most cherished traditional games. A number of the game&#39;s best players have been handed lifetime bans. Chinese chess, also known as Xian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cheating-scandal-in-chinese-chess-3-top-players-banned-for-life",
+         "pubDate" : "Wed, 15 Jan 2025 07:50:41",
+         "title" : "Top Xiangqi Grandmasters Banned For Life In Chinese Chess Scandal"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117256943.cms\" />Indian Grandmaster Koneru Humpy, the World Rapid Chess Champion, will compete in the Norway Chess Women tournament in May 2025. Humpy, ranked world number six in women's classical chess, is eager to shine on the global stage once more. Her participation is highly anticipated, promising intense competition and showcasing her extensive experience in chess.",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "NFL Films Presents: The Game of Chess"
       },
       {
-         "description" : "As part of our announced partnership with Freestyle Chess, we are offering a qualification path for each event to any of our members, with the first qualifier starting on January 4! Qualifiers are open to all players who meet the following crite...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/register-for-the-qualifier-of-the-freestyle-chess-play-in-weissenhaus",
-         "pubDate" : "Tue, 31 Dec 2024 09:54:34",
-         "title" : "Register for the Qualifiers of the Freestyle Chess Play-In Weissenhaus"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116825233.cms\" />Indian Grandmaster R Vaishali captivated the World Blitz Championship by winning the women's qualifier with 9.5 points, ensuring her a quarterfinal spot. Vaishali's path included impressive victories over prominent opponents. In the open section, intense competition saw Russian GM Ian Nepomniachtchi and others advancing, while Indian players faced mixed results.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -776,14 +800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3370",
          "pubDate" : "Tue, 31 Dec 2024 02:59:39",
          "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
-      },
-      {
-         "description" : "The top eight players of the FIDE World Blitz Chess Championship and FIDE Women&#39;s World Blitz Chess Championship have qualified for their respective knockout tournaments on day two.&#38;nbsp; The following eight players advance in the Open: Russian ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-1",
-         "pubDate" : "Mon, 30 Dec 2024 17:51:00",
-         "title" : "Carlsen To Play Niemann In 4-Game Quarterfinals Match"
       },
       {
          "description" : " Growing up fast! Brewington Hardaway, Tani Adewumi and Andy Woodward at the 2024 World Rapid &#38; Blitz.Photo by Michal Walusza Brewington Hardaway and Tani Adewumi are currently making their debuts in the 2024 World Rapid &#38; Blitz Tournaments in New York City. It seems appropriate that these two young talents have a chance to test The post <a href=\"https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/\">Hardaway, Adewumi debut at World Rapid &amp; Blitz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
