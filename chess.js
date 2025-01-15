@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117256943.cms\" />Indian Grandmaster Koneru Humpy, the World Rapid Chess Champion, will compete in the Norway Chess Women tournament in May 2025. Humpy, ranked world number six in women's classical chess, is eager to shine on the global stage once more. Her participation is highly anticipated, promising intense competition and showcasing her extensive experience in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-set-to-return-to-norway-chess-women-tournament/articleshow/117256943.cms",
+         "pubDate" : "Wed, 15 Jan 2025 06:41:16",
+         "title" : "Koneru Humpy set to return to Norway Chess Women tournament"
+      },
+      {
          "description" : "The Swiss System entered our lives in order to avoid a situation of unpractical number of rounds compared to the Round Robin System. With the advent of computers, pairing players in a Swiss became simple and automatic. But there was a controversy about \"forbidden pairings\". People could - and often would - prevent certain pairings. International Arbiter Alon Shulman tells us what he thinks of the system.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-athens-of-the-east-4th-international-open-fide-rated-chess-tournament-2024/",
          "pubDate" : "Sat, 28 Dec 2024 06:48:53",
          "title" : "Live Games Link for Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116729673.cms\" />Magnus Carlsen, five-time world champion, faced disqualification from the World Rapid and Blitz Chess Championship for violating FIDE's dress code by wearing jeans. Despite being fined USD 200 and instructed to change his attire, Carlsen's refusal led to his exclusion from the Rapid championship. He criticized FIDE's policies and stated he would not participate further.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-disqualifies-magnus-carlsen-from-new-york-chess-event-for-dress-code-violation/articleshow/116729673.cms",
-         "pubDate" : "Sat, 28 Dec 2024 03:00:03",
-         "title" : "FIDE disqualifies Magnus Carlsen for dress-code violation"
       },
       {
          "description" : "",
