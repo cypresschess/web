@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The International Dortmund Chess Days will take place from 2 August to 10 August 2025 in the heart of the Ruhr region. The 52nd edition will once again be a chess festival for players of all classes with A-Open and B-Open. In the Open, top German players will compete with international grandmasters for a €20,000 prize fund. The two best German female chess players will play in parallel in an international women's tournament. Elisabeth P&auml;htz and Dinara Wagner will face 15-year-old Lu Miaoyi, one of the world's greatest young chess talents. | Photos: Dortmunder Schachtage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-highlight-in-august-the-sparkassen-chess-trophy-2025",
+         "pubDate" : "Wed, 15 Jan 2025 10:00:00",
+         "title" : "Chess highlight in August: The Sparkassen Chess Trophy 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117256943.cms\" />Indian Grandmaster Koneru Humpy, the World Rapid Chess Champion, will compete in the Norway Chess Women tournament in May 2025. Humpy, ranked world number six in women's classical chess, is eager to shine on the global stage once more. Her participation is highly anticipated, promising intense competition and showcasing her extensive experience in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
