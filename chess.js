@@ -130,7 +130,7 @@ news_feed (
          "title" : "Watch: Anand, Gukesh and other chess champs flex dancing moves"
       },
       {
-         "description" : " The greatest service one can give to their community is love and time. Dear Chess Community, It is with deep regret that I inform the chess community of the passing of Ernest Levert, Jr on January 8th, 2024. He is survived by his wife Ivory, daughter Zamya, and son Zenith. This tragedy occurred only one The post <a href=\"https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/\">Chess Educator, Ernest Levert passes (1990-2025)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The greatest service one can give to their community is love and time. Dear Chess Community, It is with deep regret that I inform the chess community of the passing of Ernest Levert, Jr. on January 8th, 2025. He is survived by his wife Ivory, daughter Zamya, and son Zenith. He suffered an aneurysm on The post <a href=\"https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/\">Chess Educator, Ernest Levert passes (1990-2025)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/",
@@ -1088,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3361",
          "pubDate" : "Wed, 25 Dec 2024 20:12:37",
          "title" : "Chess in New York: A walk through parks, clubs and history"
-      },
-      {
-         "description" : " Dear Chess Community, Yesterday, I learned that Walter Harris, America's first Black National Master, had passed away on October 12th, 2024. Harris was 83 at the time of his demise and had no survivors. During a phone conversation with Frank Street (America's second Black National Master), he expressed a concern that he had not heard The post <a href=\"https://thechessdrum.net/blog/2024/12/24/walter-harris-americas-1st-black-chess-master-dead-at-83/\">Walter Harris, America's 1st Black Chess Master, dead at 83</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/24/walter-harris-americas-1st-black-chess-master-dead-at-83/",
-         "pubDate" : "Wed, 25 Dec 2024 01:54:03",
-         "title" : "Walter Harris, America's 1st Black Chess Master, dead at 83"
       }
    ]
 }
