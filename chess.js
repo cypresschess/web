@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To mark the 100th anniversary of FIDE, study composer Gady Costeff has put together a collection of 100 endgame studies, one study for each year and each study by a different author - a really nice little book at an amazing price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/one-endgame-study-in-a-thousand",
+         "pubDate" : "Thu, 16 Jan 2025 17:00:00",
+         "title" : "One Endgame Study in a Thousand"
+      },
+      {
+         "description" : "The Bundesliga weekend was all about Magnus Carlsen. Media all over Germany and international newspapers such as the New York Times reported on Carlsen's debut for St. Pauli and his convincing victory over Max Warmerdam. But there were other fine games this Bundesliga weekend. For example, a textbook Sicilian by German Grandmaster Luis Engel (photo) and a remarkable mating attack by Parham Maghsoodloo. | Photo: Arne K&auml;hler",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-fine-games-from-the-bundesliga",
+         "pubDate" : "Thu, 16 Jan 2025 15:00:00",
+         "title" : "Two fine games from the Bundesliga"
+      },
+      {
          "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the first part of the two-part interview. | Photo: Niki Riga/ ECU",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3387",
          "pubDate" : "Thu, 16 Jan 2025 08:48:58",
          "title" : "Call for Bids FIDE World Championships 2025 and 2026 concluded"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, January 20 in recognition of Martin Luther King Jr. Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-be-closed-monday-january-20-martin-luther-king-jr-day",
+         "pubDate" : "Thu, 16 Jan 2025 00:00:00",
+         "title" : "US Chess Offices to be Closed Monday, January 20 for Martin Luther King Jr. Day"
       },
       {
          "description" : "The problemist's art has always been a bit of a mystery to chess players. Are chess problems merely puzzles with unique and rather curious solutions, or is there something more to them? Join Satanick Mukhuty, ChessBase India's Composition Editor, as he dissects the art of chess problem-solving in his new blog, \"The anatomy of chess solving\". The inaugural episode showcases four meticulously curated problems designed to illuminate the subtle nuances and clever craftsmanship of problem chess. To get the most out of this article, take 10 minutes to study each position before reading the explanatory text. This will help you develop your problem-solving skills and appreciate the artistry behind e",
@@ -602,14 +626,6 @@ news_feed (
          "title" : "Titled Cup Followed Up By Titled Tuesday Grand Prix In 2025"
       },
       {
-         "description" : "After the Delegates Meeting at the U.S. Open, there are bound to be some rulebook changes. After all, the Delegates are in charge of our rules.The 2025 7th edition rulebook update is slim pickings for this go around. A few wording deletions and changes of note are all we have. In fact, there were so few changes that only the online rulebook will reflect those new words (sorry, no print edition). The link at the end of this column is repeated here: 7th Edition Rule Book Free Chapters: Updated For 2025 | US Chess.orgOr, simply slide down to the bottom of the US Chess homepage and try that connection. 14F1. The 50-move rule.TJ SAYS: Rule 14F1 removed, \"&hellip;or pawn move&hellip;,\" in favor of",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-2025-us-chess-rulebook-update-news",
-         "pubDate" : "Fri, 03 Jan 2025 00:00:00",
-         "title" : "Just the Rules: 2025 US Chess Rulebook Update News"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/26/howard-university-chess-preparing-for-2025-pan-ams/",
          "pubDate" : "Thu, 26 Dec 2024 17:03:11",
          "title" : "Howard University Chess preparing for 2025 Pan-Ams"
-      },
-      {
-         "description" : "The European Chess Union (ECU), together with the Romanian Chess Federation and UniversulChess Club invite all National Chess Federations of ECU to participate in EUROPEAN SCHOOLSCHESS CHAMPIONSHIP, organized in the city of Constanta, Mamaia resort, Romania, between29th May (arrival) - 8th June (departure), 2025. The event will be played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2025-official-invitation/",
-         "pubDate" : "Thu, 26 Dec 2024 12:34:37",
-         "title" : "European School Chess Championship 2025 - Official invitation"
       }
    ]
 }
