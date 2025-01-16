@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117308100.cms\" />The All India Chess Federation hosted a ceremony in New Delhi, honoring teenage Grandmaster D Gukesh for becoming the youngest World Chess Champion. It also celebrated GM Koneru Humpy's World Rapid Chess Championship win and GM Vaishali Rameshbabu's bronze in the World Blitz Championship, announcing cash awards totaling Rs 2.2 crore.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-announces-rs-1-crore-prize-for-world-chess-champion-d-gukesh-koneru-humpy-awarded-rs-50-lakh/articleshow/117308100.cms",
+         "pubDate" : "Thu, 16 Jan 2025 17:03:40",
+         "title" : "AICF announces Rs 1 crore prize for world champion D Gukesh"
+      },
+      {
          "description" : "To mark the 100th anniversary of FIDE, study composer Gady Costeff has put together a collection of 100 endgame studies, one study for each year and each study by a different author - a really nice little book at an amazing price.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/i-still-have-weaknesses-to-work-on-an-interview-with-vincent-keymer-i",
          "pubDate" : "Thu, 16 Jan 2025 11:38:00",
          "title" : "\"I still have weaknesses to work on\" - An interview with Vincent Keymer (I)"
+      },
+      {
+         "description" : "World Chess Champion GM Gukesh Dommaraju and GM Viswanathan Anand&#39;s talents extend beyond the chessboard, as they demonstrated in a hilarious new video ad. Gukesh has been doing anything but playing chess since winning the title from GM Ding Lir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-gets-tattoo-and-roasts-anand-in-hilarious-new-ad",
+         "pubDate" : "Thu, 16 Jan 2025 10:56:00",
+         "title" : "World Champion Gukesh Gets Tattoo And Roasts Anand In New Ad"
       },
       {
          "description" : "",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "World Championship Yahoos 2024 (2/2)"
       },
       {
-         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi have agreed to share the 2024 FIDE World Blitz Chess Championship title after Carlsen&#39;s suggestion seven games into their final. After sensationally U-turning on his decision to withdraw from the event, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-blitz-chess-championship-day-2",
-         "pubDate" : "Tue, 31 Dec 2024 16:38:00",
-         "title" : "Carlsen, Nepomniachtchi Agree To Share World Blitz Title, Ju Wins Women's"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116825233.cms\" />Indian Grandmaster R Vaishali captivated the World Blitz Championship by winning the women's qualifier with 9.5 points, ensuring her a quarterfinal spot. Vaishali's path included impressive victories over prominent opponents. In the open section, intense competition saw Russian GM Ian Nepomniachtchi and others advancing, while Indian players faced mixed results.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -970,14 +978,6 @@ news_feed (
          "title" : "PM Modi meets D Gukesh, receives title-winning chessboard"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116744011.cms\" />World No.1 chess champion Magnus Carlsen exited the World Rapid and Blitz Chess Championships in New York after a dress code violation in Round 9. Penalized for wearing jeans, Carlsen refused to comply, leading to his removal from that round. Carlsen expressed frustration with FIDE and announced his decision to skip the Blitz section.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-gave-magnus-carlsen-more-than-enough-time-to-change-clarifies-fide-ceo/articleshow/116744011.cms",
-         "pubDate" : "Sat, 28 Dec 2024 13:35:41",
-         "title" : "'We gave Carlsen more than enough time to change': FIDE CEO"
-      },
-      {
          "description" : "Chess great Magnus Carlsen quit the World Rapid and Blitz Chess Championships in New York after governing body FIDE barred him for wearing jeans.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43175330/fide-world-rapid-blitz-championships-2024-first-day-magnus-carlsen-struggles-arjun-erigaisi-raunak-sadhwani-harika-best-indian-performers?device=featurephone",
          "pubDate" : "Thu, 26 Dec 2024 23:09:33",
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen struggles on first day; Arjun, Raunak, Harika top Indian performers"
-      },
-      {
-         "description" : " Howard University Chess Club is preparing for the 2025 Pan-Am Intercollegiate tournament to be held in Charlotte, North Carolina, January 2-5, 2025. The club's President,&#160;Lawrence Custis,&#160;has announced the club's participation and is holding a fundraiser to cover expenses. The Howard Chess Club has participated in the Pan-Ams on several occasions, including the last four. The The post <a href=\"https://thechessdrum.net/blog/2024/12/26/howard-university-chess-preparing-for-2025-pan-ams/\">Howard University Chess preparing for 2025 Pan-Ams</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/26/howard-university-chess-preparing-for-2025-pan-ams/",
-         "pubDate" : "Thu, 26 Dec 2024 17:03:11",
-         "title" : "Howard University Chess preparing for 2025 Pan-Ams"
       }
    ]
 }
