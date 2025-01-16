@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the first part of the two-part interview. | Photo: Niki Riga/ ECU",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/i-still-have-weaknesses-to-work-on-an-interview-with-vincent-keymer-i",
+         "pubDate" : "Thu, 16 Jan 2025 11:38:00",
+         "title" : "\"I still have weaknesses to work on\" - An interview with Vincent Keymer (I)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3387",
+         "pubDate" : "Thu, 16 Jan 2025 08:48:58",
+         "title" : "Call for Bids FIDE World Championships 2025 and 2026 concluded"
+      },
+      {
          "description" : "The problemist's art has always been a bit of a mystery to chess players. Are chess problems merely puzzles with unique and rather curious solutions, or is there something more to them? Join Satanick Mukhuty, ChessBase India's Composition Editor, as he dissects the art of chess problem-solving in his new blog, \"The anatomy of chess solving\". The inaugural episode showcases four meticulously curated problems designed to illuminate the subtle nuances and clever craftsmanship of problem chess. To get the most out of this article, take 10 minutes to study each position before reading the explanatory text. This will help you develop your problem-solving skills and appreciate the artistry behind e",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
