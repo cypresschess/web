@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2025-official-invitation/",
          "pubDate" : "Thu, 26 Dec 2024 12:34:37",
          "title" : "European School Chess Championship 2025 - Official invitation"
-      },
-      {
-         "description" : "The 2024 FIDE World Rapid and Blitz Championship will be held from December 26 (early December 27 in India) to December 31 (early January 1 in India) in Wall Street, New York.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43154538/fide-world-rapid-blitz-championships-2024-all-need-know?device=featurephone",
-         "pubDate" : "Wed, 25 Dec 2024 21:41:16",
-         "title" : "FIDE World Rapid and Blitz Chess Championships 2024: All you need to know"
       }
    ]
 }
