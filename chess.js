@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In their review of current events in the chess world, Arne K&auml;hler and Johannes Fischer remember Robert H&uuml;bner, talk about Elisabeth P&auml;htz's 40th birthday and the Bundesliga weekend when Magnus Carlsen gave his debut for St. Pauli. And they wonder who might win the tournament in Wijk that starts on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-huebner-paehtz-bundesliga-and-wijk-aan-zee",
+         "pubDate" : "Fri, 17 Jan 2025 15:48:55",
+         "title" : "Two Knights Talk: H&uuml;bner, P&auml;htz, Bundesliga and Wijk aan Zee"
+      },
+      {
          "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the second part of the two-part interview. | Photo: Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/d-gukesh-awarded-rs-1-crore-by-all-india-chess-federation-koneru-humpy-gets-rs-50-lakh-for-womens-world-rapid-title/",
          "pubDate" : "Fri, 17 Jan 2025 09:20:43",
          "title" : "GM Gukesh D awarded Rs 1 crore by All India Chess Federation; GM Koneru Humpy gets Rs 50 lakh for women's world Rapid title"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju will play his first official game as world champion against GM Anish Giri on Saturday as the 2025 Tata Steel Chess Masters begins. Half of the top-10 are in action, with Gukesh joined by GMs Fabiano Caruana, Arjun Erigaisi, Nod...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-preview",
+         "pubDate" : "Fri, 17 Jan 2025 05:29:00",
+         "title" : "Tata Steel Chess 2025: 7 Talking Points"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117308100.cms\" />The All India Chess Federation hosted a ceremony in New Delhi, honoring teenage Grandmaster D Gukesh for becoming the youngest World Chess Champion. It also celebrated GM Koneru Humpy's World Rapid Chess Championship win and GM Vaishali Rameshbabu's bronze in the World Blitz Championship, announcing cash awards totaling Rs 2.2 crore.",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Championships-13 Things We Learned"
       },
       {
-         "description" : "The last four Titled Tuesday tournaments of 2024 were held on Christmas Eve and New Year&#39;s Eve, and featured four individual tournament winners... plus one additional big winner. GM Magnus Carlsen celebrated Christmas Eve this year by winning th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-cup-2024",
-         "pubDate" : "Thu, 02 Jan 2025 08:53:32",
-         "title" : "Carlsen Wins Tournament, But Nakamura Wins Cup"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116870839.cms\" />Magnus Carlsen and Ian Nepomniachtchi shared the World Blitz Championship title after three tie-breaking matches, causing controversy in the chess community. Carlsen's initial disqualification for a dress code violation and FIDE's subsequent rule amendments added to the contentious atmosphere, with criticisms from players like Hans Niemann suggesting bias in decision-making.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1056,30 +1064,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43187695/fide-world-rapid-blitz-chess-championships-2024-magnus-carlsen-announces-shock-withdrawal-arjun-erigaisi-harika-dronavalli-koneru-humpy-leaders-day-2?device=featurephone",
          "pubDate" : "Fri, 27 Dec 2024 22:49:12",
          "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen announces shock withdrawal; Arjun, Harika, Humpy among leaders after Day 2"
-      },
-      {
-         "description" : "Following last week's post <A HREF=\"https://chessforallages.blogspot.com/2024/12/globetrotting-gukesh.html\">Globetrotting Gukesh</A> (December 2024; Photo: 'Gukesh and parents the day after the closing ceremony'), in this short series on the career of the newly crowned World Champion Gukesh Dommaraju, I'll end the series (for now at least) by taking direction from a post on my main blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2024/12/2024-gukesh-ding-liren-closing-ceremony.html\">2024 Gukesh - Ding Liren, Closing Ceremony</A> (December 2024; with link to find original photos). There I fulfilled a promise from a previous post, writing, <BLOCKQUOTE> I hope to have at least one mor",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/gukeshs-influences-in-winning-crown.html",
-         "pubDate" : "Fri, 27 Dec 2024 16:08:00",
-         "title" : "Gukesh's Influences in Winning the Crown"
-      },
-      {
-         "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/forthcoming-ecf-events-announcement/",
-         "pubDate" : "Fri, 27 Dec 2024 15:40:22",
-         "title" : "Forthcoming ECF events announcement"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://djerbachessfestival.com/data/program#new_tab",
-         "pubDate" : "Fri, 27 Dec 2024 15:30:33",
-         "title" : "Chess by the sea"
       }
    ]
 }
