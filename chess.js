@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-puzzles-championship-puzzle-rush-royale",
-         "pubDate" : "Thu, 16 Jan 2025 14:53:48",
+         "pubDate" : "Thu, 16 Jan 2025 14:53:00",
          "title" : "Naroditsky Comes Clutch In Final Rush, Qualifies With 7 Others"
       },
       {
@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://djerbachessfestival.com/data/program#new_tab",
          "pubDate" : "Fri, 27 Dec 2024 15:30:33",
          "title" : "Chess by the sea"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation and Arbiters' commission AICF, The All Orrisa Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-sna-seminar-and-exam-held-in-bhubaneshwar-on-16-17-december-2024/",
-         "pubDate" : "Fri, 27 Dec 2024 07:52:45",
-         "title" : "Final report of SNA seminar and exam held in Bhubaneshwar on 16 & 17 December 2024"
       }
    ]
 }
