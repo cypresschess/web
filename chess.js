@@ -26,6 +26,14 @@ news_feed (
          "title" : "Two fine games from the Bundesliga"
       },
       {
+         "description" : "GMs Ray Robson, Andy Woodward, Daniel Naroditsky, Pranav Venkatesh, and Raunak Sadhwani, as well as IMs Liam Putnam, Yoseph Theolifus Taher, and Anthony Atasanov, have qualified for the eight-player Knockout in the 2025 Chess.com Puzzles Champions...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-puzzles-championship-puzzle-rush-royale",
+         "pubDate" : "Thu, 16 Jan 2025 14:53:48",
+         "title" : "Naroditsky Comes Clutch In Final Rush, Qualifies With 7 Others"
+      },
+      {
          "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the first part of the two-part interview. | Photo: Niki Riga/ ECU",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -674,14 +682,6 @@ news_feed (
          "title" : "Carlsen Wins Tournament, But Nakamura Wins Cup"
       },
       {
-         "description" : "India&#39;s incredibly successful year is also reflected in a comparison of the FIDE rating lists of January 2024 and January 2025. Top 100 GMs Aravindh Chithambaram (+64), Arjun Erigaisi (+63), and Gukesh Dommaraju (+52) had the biggest rating gains ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/january-2025-fide-rating-list",
-         "pubDate" : "Thu, 02 Jan 2025 06:43:00",
-         "title" : "January 2025 FIDE Ratings: Who Gained The Most In 2024?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116870839.cms\" />Magnus Carlsen and Ian Nepomniachtchi shared the World Blitz Championship title after three tie-breaking matches, causing controversy in the chess community. Carlsen's initial disqualification for a dress code violation and FIDE's subsequent rule amendments added to the contentious atmosphere, with criticisms from players like Hans Niemann suggesting bias in decision-making.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1064,14 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3362",
          "pubDate" : "Fri, 27 Dec 2024 02:51:35",
          "title" : "Historic first for New York and chess: FIDE World Rapid and Blitz debut on Wall Street"
-      },
-      {
-         "description" : "The first day of the World Championship in the shorter versions of chess saw five rounds of rapid chess and teenagers shine through in it.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43175330/fide-world-rapid-blitz-championships-2024-first-day-magnus-carlsen-struggles-arjun-erigaisi-raunak-sadhwani-harika-best-indian-performers?device=featurephone",
-         "pubDate" : "Thu, 26 Dec 2024 23:09:33",
-         "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen struggles on first day; Arjun, Raunak, Harika top Indian performers"
       }
    ]
 }
