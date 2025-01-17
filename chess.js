@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-sna-seminar-and-exam-held-in-bhubaneshwar-on-16-17-december-2024/",
          "pubDate" : "Fri, 27 Dec 2024 07:52:45",
          "title" : "Final report of SNA seminar and exam held in Bhubaneshwar on 16 & 17 December 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3362",
-         "pubDate" : "Fri, 27 Dec 2024 02:51:35",
-         "title" : "Historic first for New York and chess: FIDE World Rapid and Blitz debut on Wall Street"
       }
    ]
 }
