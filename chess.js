@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's still the Year of the Dragon according to the Chinese zodiac, but on the 29th of January, it will turn into the Year of the Snake. But for Chris Ward, every year is the Year of the Dragon, and new games continue to show up month by month. In this episode, Chris examines the variation without f3 for White. What are the plans? How should they be countered? The English GM knows it all. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-tiger-or-alligator-who-will-win",
+         "pubDate" : "Fri, 17 Jan 2025 20:00:00",
+         "title" : "The Monthly Dragon - Tiger or alligator? Who will win?"
+      },
+      {
          "description" : "In their review of current events in the chess world, Arne K&auml;hler and Johannes Fischer remember Robert H&uuml;bner, talk about Elisabeth P&auml;htz's 40th birthday and the Bundesliga weekend when Magnus Carlsen gave his debut for St. Pauli. And they wonder who might win the tournament in Wijk that starts on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3388",
          "pubDate" : "Fri, 17 Jan 2025 11:15:32",
          "title" : "FIDE President Arkady Dvorkovich interview: \"We need a long-term solution\""
+      },
+      {
+         "description" : "We&#39;re excited to announce our newest event, the NextGen Cup! The $20,000 event will take place on February 6 and feature 10 of the African diaspora&#39;s most prominent players and personalities.&#38;nbsp; Among the confirmed players, fans will see boy-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-nextgen-cup-2025",
+         "pubDate" : "Fri, 17 Jan 2025 11:00:00",
+         "title" : "Watch The Most Talented Chess Players From The African Diaspora In The NextGen Cup"
       },
       {
          "description" : "13-year-old Tymoteusz Kalata from Poland has been fighting Duchenne muscular dystrophy (DMD) since he was six months old. Despite the struggles this condition brings, his love for chess has remained unaffected. However, due to the high costs of his medical treatment, Tymek's family is reaching out for support from the chess community. A chess tournament will be held in Warsaw, Poland to raise funds for his treatment. Read the article to learn more about how you can join the tournament or donate to support Tymek's fight. Photo: Dominik Kosiorek",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-set-to-tie-the-knot-this-weekend",
          "pubDate" : "Thu, 02 Jan 2025 11:41:00",
          "title" : "Magnus Carlsen Set To Marry Ella Victoria Malone After World Blitz Gold Medal"
-      },
-      {
-         "description" : "FIDE&#39;s last events of 2024 crowned five world champions: World Rapid Champion Volodar Murzin, Women&#39;s World Rapid Champion Koneru Humpy, Women&#39;s World Blitz Champion Ju Wenjun, and finally Blitz World Co-Champions Magnus Carlsen and Ian Nepomniach...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championship-13-things-we-learned",
-         "pubDate" : "Thu, 02 Jan 2025 10:24:00",
-         "title" : "FIDE World Rapid & Blitz Championships-13 Things We Learned"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116870839.cms\" />Magnus Carlsen and Ian Nepomniachtchi shared the World Blitz Championship title after three tie-breaking matches, causing controversy in the chess community. Carlsen's initial disqualification for a dress code violation and FIDE's subsequent rule amendments added to the contentious atmosphere, with criticisms from players like Hans Niemann suggesting bias in decision-making.",
