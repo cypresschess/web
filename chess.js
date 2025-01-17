@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the second part of the two-part interview. | Photo: Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-mit-vincent-keymer-ii",
+         "pubDate" : "Fri, 17 Jan 2025 11:59:05",
+         "title" : "\"\"When you're worse in Freestyle, everything collapses\" - An interview with Vincent Keymer (II)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3388",
+         "pubDate" : "Fri, 17 Jan 2025 11:15:32",
+         "title" : "FIDE President Arkady Dvorkovich interview: \"We need a long-term solution\""
+      },
+      {
+         "description" : "13-year-old Tymoteusz Kalata from Poland has been fighting Duchenne muscular dystrophy (DMD) since he was six months old. Despite the struggles this condition brings, his love for chess has remained unaffected. However, due to the high costs of his medical treatment, Tymek's family is reaching out for support from the chess community. A chess tournament will be held in Warsaw, Poland to raise funds for his treatment. Read the article to learn more about how you can join the tournament or donate to support Tymek's fight. Photo: Dominik Kosiorek",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fundraiser-tournament-to-support-tymek-kalata-s-battle-with-dmd-2",
+         "pubDate" : "Fri, 17 Jan 2025 09:42:05",
+         "title" : "Fundraiser tournament to support Tymek Kalata's battle with DMD"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117328675.cms\" />Indian chess gears up for a historic participation at the 87th Tata Steel Chess Tournament in Wijk aan Zee, Netherlands, from January 17 to February 2, 2025. Featuring five Indian Grandmasters for the first time, including the newly crowned World Chess champion D Gukesh, the tournament promises intense competition among top players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-tournament-2025-d-gukesh-to-return-to-board-with-intriguing-round-1-clash-against-anish-giri/articleshow/117328675.cms",
+         "pubDate" : "Fri, 17 Jan 2025 09:31:10",
+         "title" : "D Gukesh to return to board at Tata Steel Chess Tournament"
+      },
+      {
+         "description" : "The All India Chess Federation (AICF) hosted a grand felicitation ceremony in New Delhi on Thursday to honor the remarkable accomplishments of Indian chess grandmasters",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/d-gukesh-awarded-rs-1-crore-by-all-india-chess-federation-koneru-humpy-gets-rs-50-lakh-for-womens-world-rapid-title/",
+         "pubDate" : "Fri, 17 Jan 2025 09:20:43",
+         "title" : "GM Gukesh D awarded Rs 1 crore by All India Chess Federation; GM Koneru Humpy gets Rs 50 lakh for women's world Rapid title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117308100.cms\" />The All India Chess Federation hosted a ceremony in New Delhi, honoring teenage Grandmaster D Gukesh for becoming the youngest World Chess Champion. It also celebrated GM Koneru Humpy's World Rapid Chess Championship win and GM Vaishali Rameshbabu's bronze in the World Blitz Championship, announcing cash awards totaling Rs 2.2 crore.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -968,14 +1008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/we-followed-the-rules-magnus-carlsen-didnt-fide-deputy-prez-viswanathan-anand/articleshow/116744769.cms",
          "pubDate" : "Sat, 28 Dec 2024 14:37:34",
          "title" : "'We followed the rules, Carlsen didn't': FIDE deputy prez Anand"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116744058.cms\" />D Gukesh, an 18-year-old chess prodigy from Chennai, made history by becoming the youngest-ever World Chess Champion, defeating Ding Liren of China. Prime Minister Narendra Modi praised Gukesh's dedication, humility, and his parents' unwavering support.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-narendra-modi-meets-indias-pride-d-gukesh-receives-title-winning-chessboard-from-champion/articleshow/116744058.cms",
-         "pubDate" : "Sat, 28 Dec 2024 13:48:26",
-         "title" : "PM Modi meets D Gukesh, receives title-winning chessboard"
       },
       {
          "description" : "Chess great Magnus Carlsen quit the World Rapid and Blitz Chess Championships in New York after governing body FIDE barred him for wearing jeans.",
