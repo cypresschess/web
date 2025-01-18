@@ -34,6 +34,14 @@ news_feed (
          "title" : "The Monthly Dragon - Tiger or alligator? Who will win?"
       },
       {
+         "description" : "GM Hikaru Nakamura and Kick are thrilled to present Chess 4 The Masses Sponsored by Kick, a two-tournament event for untitled players that will begin on January 22 at 2:00 p.m. ET/18:00 CET, following in the footsteps of past collaborations betwee...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-chess-4-the-masses-sponsored-by-kick",
+         "pubDate" : "Fri, 17 Jan 2025 19:25:43",
+         "title" : "Announcing Hikaru's Chess 4 The Masses Sponsored by Kick"
+      },
+      {
          "description" : "In their review of current events in the chess world, Arne K&auml;hler and Johannes Fischer remember Robert H&uuml;bner, talk about Elisabeth P&auml;htz's 40th birthday and the Bundesliga weekend when Magnus Carlsen gave his debut for St. Pauli. And they wonder who might win the tournament in Wijk that starts on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -746,14 +754,6 @@ news_feed (
          "title" : "Chess: jeans-clad Carlsen defies critics to share Blitz with Nepomniachtchi"
       },
       {
-         "description" : "One thing we can all agree on is that chess fans and players around the world love Titled Tuesdays. The weekly blitz event for titled players is where everyone can regularly see stars like GM Hikaru Nakamura and Magnus Carlsen sparring.&#38;nbsp; No...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-titled-tuesday-grand-prix-2025",
-         "pubDate" : "Fri, 03 Jan 2025 07:00:00",
-         "title" : "Titled Cup Followed Up By Titled Tuesday Grand Prix In 2025"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1064,14 +1064,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-athens-of-the-east-4th-international-open-fide-rated-chess-tournament-2024/",
          "pubDate" : "Sat, 28 Dec 2024 06:48:53",
          "title" : "Live Games Link for Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3364",
-         "pubDate" : "Sat, 28 Dec 2024 01:10:40",
-         "title" : "FIDE World Rapid Championship Day 2: 18-year-old Murzin shines, as Ju takes the lead in Women's event"
       }
    ]
 }
