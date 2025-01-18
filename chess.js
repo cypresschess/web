@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117352304.cms\" />Indian chess stars, including new World Champion D Gukesh, are set to compete in the prestigious 87th Tata Steel Chess Tournament. Beginning January 17, 2025, in Wijk aan Zee, Netherlands, the tournament features top players like Fabiano Caruana. The strong Indian presence in both the Masters and Challengers sections highlights the nation's rising dominance in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-tournament-2025-when-and-where-to-watch-d-gukesh-make-his-comeback/articleshow/117352304.cms",
+         "pubDate" : "Sat, 18 Jan 2025 09:30:28",
+         "title" : "When and where to watch Gukesh make his comeback?"
+      },
+      {
+         "description" : "Md. Reyan from Bihar and Saranya Devi Narahari from Telangana are Champions. The tournament was officially inaugurated on December 17th, 2024, at 3:00 PM at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-37th-national-under-13-chess-championship-2024/",
+         "pubDate" : "Sat, 18 Jan 2025 09:27:28",
+         "title" : "Final report of 37th National Under-13 Chess Championship 2024"
+      },
+      {
          "description" : "The KCF Academy training program kicked off in style on the weekend of January 11-12 with a 4-level Training Program and an exclusive live lecture by Fabiano Caruana! The next guest star at KCF Academy is the chess legend Levon Aronian, who will host an exclusive lecture on January 19, 2025. Known for his profound creativity and dynamic playing style, Aronian remains one of the most respected figures in modern chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1056,22 +1072,6 @@ news_feed (
          "link" : "https://aicf.in/honble-pm-narendra-modi-meets-gm-d-gukesh-receives-signed-chessboard-from-the-world-champion/",
          "pubDate" : "Sat, 28 Dec 2024 14:56:28",
          "title" : "Hon'ble PM Shri Narendra Modi Ji Meets GM D. Gukesh, Receives Signed Chessboard from the World Champion."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116744769.cms\" />Magnus Carlsen withdrew from the World Rapid and Blitz Championships for not complying with FIDE's dress code, which prohibits jeans. Despite being fined and given options, he refused to change on principle. Chief Arbiter enforced the rules, leading to his disqualification from the ninth round. FIDE clarified it was a procedural decision.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-followed-the-rules-magnus-carlsen-didnt-fide-deputy-prez-viswanathan-anand/articleshow/116744769.cms",
-         "pubDate" : "Sat, 28 Dec 2024 14:37:34",
-         "title" : "'We followed the rules, Carlsen didn't': FIDE deputy prez Anand"
-      },
-      {
-         "description" : "Chess great Magnus Carlsen quit the World Rapid and Blitz Chess Championships in New York after governing body FIDE barred him for wearing jeans.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/43191036/magnus-carlsen-disqualified-chess-tournament-wearing-jeans?device=featurephone",
-         "pubDate" : "Sat, 28 Dec 2024 09:26:27",
-         "title" : "Jeans gambit: Chess great exits event over pants"
       }
    ]
 }
