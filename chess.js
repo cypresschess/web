@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Hall of Fame invites you to embark on a whimsical journey with \"Paws and Pawns: Exploring Animal Chess Sets\", an enchanting exhibition running from 30 January to 31 August 2025. Featuring over 50 animal-themed chess sets from around the globe, this family-friendly showcase highlights the creativity of artists who reimagine the chessboard through the lens of the natural world. From regal lions to playful mice, these unique designs celebrate the diversity of wildlife and artistic traditions!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paws-and-pawns-world-chess-hof",
+         "pubDate" : "Fri, 17 Jan 2025 23:30:00",
+         "title" : "World Chess Hall of Fame to unveil new exhibition: \"Paws and Pawns: Exploring Animal Chess Sets\""
+      },
+      {
+         "description" : " The 87th Tata Steel Chess tournament starts on Saturday 18th January at 2pm local time. The pairings have been made and they are: Masters Round 1 pairings: Pentala Harikrishna - Arjun Erigaisi, Praggnanandhaa - Nodirbek Abdusattorov, Leon Luke Mendonca - Vincent Keymer, Max Warmerdam - Alexey Sarana, Wei Yi - Fabiano Caruana, Jorden van Foreest - Vladimir Fedoseev, Gukesh D - Anish Giri. Challengers Round 1 pairings: Divya Deshmukh - Nodirbek Yakubboev, Thai Dai van Nguyen - Arthur Pijpers Aydin Suleymanli - Benjamin Bok, Ediz Gurel - Irina Bulmaga, Erwin l'Ami - Frederik Svane, Faustino Oro - Rameshbabu Vaishali, Miaoyi Lu - Kazybek Nogerbek. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/tata-steel-chess-2025-round-1-pairings-gukesh-faces-giri",
+         "pubDate" : "Fri, 17 Jan 2025 21:02:00",
+         "title" : "Tata Steel Chess 2025 Round 1 Pairings, Gukesh faces Giri - 1"
+      },
+      {
+         "description" : " The 87th Tata Steel tournament takes place 17th January to 2nd February 2025. World Chess Champion Gukesh Dommaraju plays his first chess since beating Ding Liren for the title. World number two Fabiano Caruana is the top rated played followed by number four Erigaisi Arjun, five Gukesh, six Nodirbek Abdusattorov and number 9 and defending champion Wei Yei. Also playing (in no particular order) Pentala Harikrishna (a last minute replacement for Santosh Vidit), Praggnanandhaa, Leon Luke Mendonca, Vincent Keymer, Max Warmerdam, Alexey Sarana, Jorden van Foreest, Vladimir Fedoseev and last but definitely not least Anish Giri. The Challengers is yet again an interesting mix of players and streng",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025",
+         "pubDate" : "Fri, 17 Jan 2025 20:59:00",
+         "title" : "87th Tata Steel 2025 - Games and Results"
+      },
+      {
          "description" : "It's still the Year of the Dragon according to the Chinese zodiac, but on the 29th of January, it will turn into the Year of the Snake. But for Chris Ward, every year is the Year of the Dragon, and new games continue to show up month by month. In this episode, Chris examines the variation without f3 for White. What are the plans? How should they be countered? The English GM knows it all. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-knights-talk-huebner-paehtz-bundesliga-and-wijk-aan-zee",
          "pubDate" : "Fri, 17 Jan 2025 15:48:55",
          "title" : "Two Knights Talk: H&uuml;bner, P&auml;htz, Bundesliga and Wijk aan Zee"
+      },
+      {
+         "description" : "For the first time since its inception, GM Ray Robson is not the winner of the&#38;nbsp;2025 Chess.com Puzzles Championship. Fourteen-year-old GM Andy Woodward, who was the runner-up in 2024, reversed the narrative this year. He also picked up $1,500 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/woodward-wins-2024-chesscom-puzzles-championship-knockout",
+         "pubDate" : "Fri, 17 Jan 2025 13:41:00",
+         "title" : "14-Year-Old Woodward Dethrones 5-Time Champion Robson"
       },
       {
          "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the second part of the two-part interview. | Photo: Tata Steel Chess",
@@ -730,14 +762,6 @@ news_feed (
          "title" : "Gukesh promises best moves after being chosen for Khel Ratna award"
       },
       {
-         "description" : "GM Magnus Carlsen is set to begin 2025 with a major milestone as he ties the knot with his girlfriend, 26-year-old Ella Victoria Malone, this weekend, Norwegian media has reported. The Norwegian, fresh from his eighth World Blitz Championship af...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-set-to-tie-the-knot-this-weekend",
-         "pubDate" : "Thu, 02 Jan 2025 11:41:00",
-         "title" : "Magnus Carlsen Set To Marry Ella Victoria Malone After World Blitz Gold Medal"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116870839.cms\" />Magnus Carlsen and Ian Nepomniachtchi shared the World Blitz Championship title after three tie-breaking matches, causing controversy in the chess community. Carlsen's initial disqualification for a dress code violation and FIDE's subsequent rule amendments added to the contentious atmosphere, with criticisms from players like Hans Niemann suggesting bias in decision-making.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1048,30 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3364",
          "pubDate" : "Sat, 28 Dec 2024 01:10:40",
          "title" : "FIDE World Rapid Championship Day 2: 18-year-old Murzin shines, as Ju takes the lead in Women's event"
-      },
-      {
-         "description" : " The world No 1 was defaulted from the World Rapid Championship and has withdrawn from the World Blitz Magnus Carlsen, the world No 1, has been disqualified from the World Rapid Championship in New York due to a dress code violation, refusing to change from jeans, after a previous warning. He is also withdrawing from the World Blitz which starts on 30 December. Fide (the World Chess Federation) explained its decision <a href=\"https://www.fide.com/news/3363\">in a statement</a> while Carlsen said: \"I said I'll change tomorrow &hellip; but they said you have to change now it became a matter of principle for me so here we are! Honestly I'm too old at this point to care too much. If this is what ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend",
-         "pubDate" : "Fri, 27 Dec 2024 23:57:17",
-         "title" : "Chess: Carlsen disqualified in New York after refusing to change out of jeans"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3363",
-         "pubDate" : "Fri, 27 Dec 2024 23:33:12",
-         "title" : "FIDE statement regarding Magnus Carlsen's dress code breach"
-      },
-      {
-         "description" : "A dress-code violation over the wearing of jeans saw Carlsen fined and after refusing to comply, he was not paired for round 9, resulting in his withdrawal.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43187695/fide-world-rapid-blitz-chess-championships-2024-magnus-carlsen-announces-shock-withdrawal-arjun-erigaisi-harika-dronavalli-koneru-humpy-leaders-day-2?device=featurephone",
-         "pubDate" : "Fri, 27 Dec 2024 22:49:12",
-         "title" : "FIDE World Rapid and Blitz Chess Championships 2024: Carlsen announces shock withdrawal; Arjun, Harika, Humpy among leaders after Day 2"
       }
    ]
 }
