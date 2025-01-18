@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117359240.cms\" />D Gukesh triumphed in the Tata Steel Chess Tournament 2025 opener against Anish Giri, despite Giri's early advantage. Gukesh's strategic play led to a victory following a pivotal mistake by Giri. Other matches saw mixed results for Indian players, with Praggnanandhaa drawing and Leon Luke Mendonca losing. Highlights included a quick win for Rameshbabu Vaishali in the Challengers section.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-d-gukesh-outfoxes-home-favourite-anish-giri-to-kickstart-tata-steel-chess-2025-campaign/articleshow/117359240.cms",
+         "pubDate" : "Sat, 18 Jan 2025 19:41:10",
+         "title" : "Gukesh outfoxes home favourite Giri to kickstart Tata Steel Chess 2025"
+      },
+      {
+         "description" : "It's my own discovery! This week I hope to reveal a colossal advance in our knowledge of the early history of modern chess. The 1747 match in London between Stamma and Philidor is the earliest recorded contest between two leading protagonists which might be considered decisive for determining the strongest player in the chess world. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-earliest-queens-gambit-philidor-vs-stamma/",
+         "pubDate" : "Sat, 18 Jan 2025 16:41:05",
+         "title" : "The earliest Queen's Gambit: Philidor vs Stamma"
+      },
+      {
          "description" : "Last week, I shared why 2024 was my best year yet. This week, I'm laying out my plan to help you crush your chess goals in 2025-and grow my business by doing it. Goals My main goal of the year is to 3x my business while working 6 hours a day, 5 days a week, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -18,6 +34,22 @@ news_feed (
          "title" : "Tata Steel Chess - Live!"
       },
       {
+         "description" : "Gukesh grabbed a win from the jaws of defeat, while R Praggnanandhaa also earned a draw after being in a losing position.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43465517/tata-steel-chess-day-1-d-gukesh-last-gasp-win-anish-giri-arjun-erigaisi-r-praggnanandhaa-caruana?device=featurephone",
+         "pubDate" : "Sat, 18 Jan 2025 12:52:00",
+         "title" : "Tata Steel Chess Day 1: Gukesh grabs last-gasp win over Giri in first game as reigning world champion"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju has won his first game as world champion despite staring defeat in the face against GM Anish Giri in round one of the 2025 Tata Steel Chess Masters. Giri blundered last, while Gukesh&#39;s world championship helpers GMs Vincent Key...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-1",
+         "pubDate" : "Sat, 18 Jan 2025 11:37:00",
+         "title" : "Gukesh Beats Giri In Thriller As Tata Steel Chess Starts With A Bang"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117352304.cms\" />Indian chess stars, including new World Champion D Gukesh, are set to compete in the prestigious 87th Tata Steel Chess Tournament. Beginning January 17, 2025, in Wijk aan Zee, Netherlands, the tournament features top players like Fabiano Caruana. The strong Indian presence in both the Masters and Challengers sections highlights the nation's rising dominance in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-37th-national-under-13-chess-championship-2024/",
          "pubDate" : "Sat, 18 Jan 2025 09:27:28",
          "title" : "Final report of 37th National Under-13 Chess Championship 2024"
-      },
-      {
-         "description" : "The KCF Academy training program kicked off in style on the weekend of January 11-12 with a 4-level Training Program and an exclusive live lecture by Fabiano Caruana! The next guest star at KCF Academy is the chess legend Levon Aronian, who will host an exclusive lecture on January 19, 2025. Known for his profound creativity and dynamic playing style, Aronian remains one of the most respected figures in modern chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levon-aronian-live-lecture-at-kcf-academy",
-         "pubDate" : "Sat, 18 Jan 2025 08:50:41",
-         "title" : "Levon Aronian live lecture at KCF Academy"
       },
       {
          "description" : "The World Chess Hall of Fame invites you to embark on a whimsical journey with \"Paws and Pawns: Exploring Animal Chess Sets\", an enchanting exhibition running from 30 January to 31 August 2025. Featuring over 50 animal-themed chess sets from around the globe, this family-friendly showcase highlights the creativity of artists who reimagine the chessboard through the lens of the natural world. From regal lions to playful mice, these unique designs celebrate the diversity of wildlife and artistic traditions!",
@@ -98,14 +122,6 @@ news_feed (
          "title" : "14-Year-Old Woodward Dethrones 5-Time Champion Robson"
       },
       {
-         "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the second part of the two-part interview. | Photo: Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-mit-vincent-keymer-ii",
-         "pubDate" : "Fri, 17 Jan 2025 11:59:05",
-         "title" : "\"\"When you're worse in Freestyle, everything collapses\" - An interview with Vincent Keymer (II)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-nextgen-cup-2025",
          "pubDate" : "Fri, 17 Jan 2025 11:00:00",
          "title" : "Watch The Most Talented Chess Players From The African Diaspora In The NextGen Cup"
-      },
-      {
-         "description" : "13-year-old Tymoteusz Kalata from Poland has been fighting Duchenne muscular dystrophy (DMD) since he was six months old. Despite the struggles this condition brings, his love for chess has remained unaffected. However, due to the high costs of his medical treatment, Tymek's family is reaching out for support from the chess community. A chess tournament will be held in Warsaw, Poland to raise funds for his treatment. Read the article to learn more about how you can join the tournament or donate to support Tymek's fight. Photo: Dominik Kosiorek",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fundraiser-tournament-to-support-tymek-kalata-s-battle-with-dmd-2",
-         "pubDate" : "Fri, 17 Jan 2025 09:42:05",
-         "title" : "Fundraiser tournament to support Tymek Kalata's battle with DMD"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117328675.cms\" />Indian chess gears up for a historic participation at the 87th Tata Steel Chess Tournament in Wijk aan Zee, Netherlands, from January 17 to February 2, 2025. Featuring five Indian Grandmasters for the first time, including the newly crowned World Chess champion D Gukesh, the tournament promises intense competition among top players.",
@@ -162,36 +170,12 @@ news_feed (
          "title" : "AICF announces Rs 1 crore prize for world champion D Gukesh"
       },
       {
-         "description" : "To mark the 100th anniversary of FIDE, study composer Gady Costeff has put together a collection of 100 endgame studies, one study for each year and each study by a different author - a really nice little book at an amazing price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/one-endgame-study-in-a-thousand",
-         "pubDate" : "Thu, 16 Jan 2025 17:00:00",
-         "title" : "One Endgame Study in a Thousand"
-      },
-      {
-         "description" : "The Bundesliga weekend was all about Magnus Carlsen. Media all over Germany and international newspapers such as the New York Times reported on Carlsen's debut for St. Pauli and his convincing victory over Max Warmerdam. But there were other fine games this Bundesliga weekend. For example, a textbook Sicilian by German Grandmaster Luis Engel (photo) and a remarkable mating attack by Parham Maghsoodloo. | Photo: Arne K&auml;hler",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-fine-games-from-the-bundesliga",
-         "pubDate" : "Thu, 16 Jan 2025 15:00:00",
-         "title" : "Two fine games from the Bundesliga"
-      },
-      {
          "description" : "GMs Ray Robson, Andy Woodward, Daniel Naroditsky, Pranav Venkatesh, and Raunak Sadhwani, as well as IMs Liam Putnam, Yoseph Theolifus Taher, and Anthony Atasanov, have qualified for the eight-player Knockout in the 2025 Chess.com Puzzles Champions...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-puzzles-championship-puzzle-rush-royale",
          "pubDate" : "Thu, 16 Jan 2025 14:53:00",
          "title" : "Naroditsky Comes Clutch In Final Rush, Qualifies With 7 Others"
-      },
-      {
-         "description" : "Vincent Keymer had an eventful year. He rose to the top of the world rankings and helped Dommaraju Gukesh win the World Championship at the end of the year. For Deutsche Welle, Holger Hank spoke to the German number one about various aspects of top-level chess. Here's the first part of the two-part interview. | Photo: Niki Riga/ ECU",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/i-still-have-weaknesses-to-work-on-an-interview-with-vincent-keymer-i",
-         "pubDate" : "Thu, 16 Jan 2025 11:38:00",
-         "title" : "\"I still have weaknesses to work on\" - An interview with Vincent Keymer (I)"
       },
       {
          "description" : "World Chess Champion GM Gukesh Dommaraju and GM Viswanathan Anand&#39;s talents extend beyond the chessboard, as they demonstrated in a hilarious new video ad. Gukesh has been doing anything but playing chess since winning the title from GM Ding Lir...",
@@ -218,36 +202,12 @@ news_feed (
          "title" : "US Chess Offices to be Closed Monday, January 20 for Martin Luther King Jr. Day"
       },
       {
-         "description" : "The problemist's art has always been a bit of a mystery to chess players. Are chess problems merely puzzles with unique and rather curious solutions, or is there something more to them? Join Satanick Mukhuty, ChessBase India's Composition Editor, as he dissects the art of chess problem-solving in his new blog, \"The anatomy of chess solving\". The inaugural episode showcases four meticulously curated problems designed to illuminate the subtle nuances and clever craftsmanship of problem chess. To get the most out of this article, take 10 minutes to study each position before reading the explanatory text. This will help you develop your problem-solving skills and appreciate the artistry behind e",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anatomy-chess-solving-episode-1",
-         "pubDate" : "Wed, 15 Jan 2025 20:15:00",
-         "title" : "The anatomy of chess solving - Episode 1"
-      },
-      {
-         "description" : "176 players took part in the International Grandmaster Open in Chennai in the first week of the New Year. Indian GM Inyan PA led the field and went on to win the tournament, beating Deepan, who had been leading the field, in the final round. | Photos: IA R Anantharam",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indian-grandmaster-iniyan-wins-15th-chennai-open",
-         "pubDate" : "Wed, 15 Jan 2025 14:27:01",
-         "title" : "Indian Grandmaster Iniyan wins 15th Chennai Open"
-      },
-      {
          "description" : "Studying a new opening can be overwhelming. Many study dozens of hours of theory before you first play that new opening. By the time they play their first game, they forget 50% of it. There is a better way. If you study only what is necessary and then improve your opening with every game you []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/new-opening/",
          "pubDate" : "Wed, 15 Jan 2025 13:58:52",
          "title" : "The simple way to learn a new opening"
-      },
-      {
-         "description" : "The International Dortmund Chess Days will take place from 2 August to 10 August 2025 in the heart of the Ruhr region. The 52nd edition will once again be a chess festival for players of all classes with A-Open and B-Open. In the Open, top German players will compete with international grandmasters for a €20,000 prize fund. The two best German female chess players will play in parallel in an international women's tournament. Elisabeth P&auml;htz and Dinara Wagner will face 15-year-old Lu Miaoyi, one of the world's greatest young chess talents. | Photos: Dortmunder Schachtage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-highlight-in-august-the-sparkassen-chess-trophy-2025",
-         "pubDate" : "Wed, 15 Jan 2025 10:00:00",
-         "title" : "Chess highlight in August: The Sparkassen Chess Trophy 2025"
       },
       {
          "description" : "On January 14, Titled Tuesday cracked 900 participants for the first time since June 2, 2020, with a total of 905 players. It was the second straight week setting the doubles era record (since February 1, 2022). Out of those 905 hopeful winners, t...",
@@ -746,14 +706,6 @@ news_feed (
          "title" : "Why Bother? What Running Taught Me About Improving at Chess (and Life)"
       },
       {
-         "description" : "The reign of GM Magnus Carlsen as the king of chess now includes a queen. The Norwegian star has tied the knot with Ella Victoria Malone in a ceremony packed with guests on a sunny winter day in Oslo. The couple exchanged their vows in Holmenkol...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-king-magnus-carlsen-marries-his-queen-ella-victoria",
-         "pubDate" : "Sat, 04 Jan 2025 13:39:00",
-         "title" : "Chess King Magnus Carlsen Marries His Queen Ella Victoria"
-      },
-      {
          "description" : "My last column of 2024 covered the new teenage world champion, Gukesh from India. On the UK domestic front, the year ended with victory by a resurgent Gawain Jones in the 2024 London Chess Classic. Only a loss by last year's winner, Mickey Adams, in his direct confrontation with British Champion Gawain, prevented the veteran from repeating his []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1056,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3365",
          "pubDate" : "Sun, 29 Dec 2024 04:06:08",
          "title" : "Volodar Murzin and Humpy Koneru new FIDE World Rapid Champions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116757074.cms\" />Magnus Carlsen withdrew from the World Rapid and Blitz Chess Championships in New York after being fined $200 for breaching the Dress Code by wearing jeans. Despite being asked to change, Carlsen refused, citing a matter of principle and decided not to appeal the decision. FIDE has argued they were only following the rules.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-responds-to-disqualification-at-world-rapid-and-blitz-chess-championships-over-dress-code-violation/articleshow/116757074.cms",
-         "pubDate" : "Sun, 29 Dec 2024 02:22:08",
-         "title" : "Magnus Carlsen responds to disqualification at Worlds"
       },
       {
          "description" : "Koneru Humpy won the women's world rapid title for the second time; Arjun Erigaisi fell a point short in the open section",
