@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The KCF Academy training program kicked off in style on the weekend of January 11-12 with a 4-level Training Program and an exclusive live lecture by Fabiano Caruana! The next guest star at KCF Academy is the chess legend Levon Aronian, who will host an exclusive lecture on January 19, 2025. Known for his profound creativity and dynamic playing style, Aronian remains one of the most respected figures in modern chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levon-aronian-live-lecture-at-kcf-academy",
+         "pubDate" : "Sat, 18 Jan 2025 08:50:41",
+         "title" : "Levon Aronian live lecture at KCF Academy"
+      },
+      {
          "description" : "The World Chess Hall of Fame invites you to embark on a whimsical journey with \"Paws and Pawns: Exploring Animal Chess Sets\", an enchanting exhibition running from 30 January to 31 August 2025. Featuring over 50 animal-themed chess sets from around the globe, this family-friendly showcase highlights the creativity of artists who reimagine the chessboard through the lens of the natural world. From regal lions to playful mice, these unique designs celebrate the diversity of wildlife and artistic traditions!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -320,6 +328,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3384",
          "pubDate" : "Sun, 12 Jan 2025 22:57:47",
          "title" : "European Women's R & B Championships 2024: Ushenina and Maltsevskaya claim titles"
+      },
+      {
+         "description" : "Although we've seen Demis Hassabis on this blog almost a dozen times, it's been a few years since the last time -- <A HREF=\"https://chessforallages.blogspot.com/2019/09/beyond-alphazero.html\">Beyond AlphaZero</A> (September 2019) -- and even then it was just in passing. What has the chess player turned entrepreneur been doing since then? <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/yxAJohm0l_g?si=r0f153kIadX9Bd2T\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>Accelerating scienti",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html",
+         "pubDate" : "Sun, 12 Jan 2025 16:20:00",
+         "title" : "The Noblest Prize"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117170370.cms\" />Indian chess legends, including Viswanathan Anand and D Gukesh, celebrated Pongal with traditional dance at Anand's Tamil Nadu residence. The gathering highlighted the camaraderie among top players like Rameshbabu Praggnanandhaa and Vidit Gujrathi. This festive unity underscores the rising prominence of Indian chess, buoyed by recent international successes and promising future talents.",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/43191036/magnus-carlsen-disqualified-chess-tournament-wearing-jeans?device=featurephone",
          "pubDate" : "Sat, 28 Dec 2024 09:26:27",
          "title" : "Jeans gambit: Chess great exits event over pants"
-      },
-      {
-         "description" : " Please find the live live games link for the Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024&#160;which is scheduled from December",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-athens-of-the-east-4th-international-open-fide-rated-chess-tournament-2024/",
-         "pubDate" : "Sat, 28 Dec 2024 06:48:53",
-         "title" : "Live Games Link for Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024"
       }
    ]
 }
