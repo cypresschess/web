@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week, I shared why 2024 was my best year yet. This week, I'm laying out my plan to help you crush your chess goals in 2025-and grow my business by doing it. Goals My main goal of the year is to 3x my business while working 6 hours a day, 5 days a week, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/main-goal-2025/",
+         "pubDate" : "Sat, 18 Jan 2025 14:00:00",
+         "title" : "Chess Improvement, Simplified: My Vision for 2025"
+      },
+      {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Sat, 18 Jan 2025 13:40:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117352304.cms\" />Indian chess stars, including new World Champion D Gukesh, are set to compete in the prestigious 87th Tata Steel Chess Tournament. Beginning January 17, 2025, in Wijk aan Zee, Netherlands, the tournament features top players like Fabiano Caruana. The strong Indian presence in both the Masters and Challengers sections highlights the nation's rising dominance in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1056,22 +1072,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43200845/fide-world-rapid-chess-championships-2024-koneru-humpy-wins-second-title-arjun-erigaisi-finishes-fifth-volodar-murzin?device=featurephone",
          "pubDate" : "Sun, 29 Dec 2024 00:59:40",
          "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second women's title; Volodar Murzin wins in open section"
-      },
-      {
-         "description" : "23rd February to 8th March 2025 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only.&#160;The additional players and accompanying",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-open-girls-chess-championship-2025-in-petrovac-montenegro/",
-         "pubDate" : "Sat, 28 Dec 2024 15:17:56",
-         "title" : "FIDE World Junior (Open & Girls) Chess Championship - 2025 in Petrovac, Montenegro"
-      },
-      {
-         "description" : "Hon'ble Prime Minister Shri Narendra Modi Ji congratulated D. Gukesh on his historic World Chess Championship victory during their meeting. The young champion presented the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/honble-pm-narendra-modi-meets-gm-d-gukesh-receives-signed-chessboard-from-the-world-champion/",
-         "pubDate" : "Sat, 28 Dec 2024 14:56:28",
-         "title" : "Hon'ble PM Shri Narendra Modi Ji Meets GM D. Gukesh, Receives Signed Chessboard from the World Champion."
       }
    ]
 }
