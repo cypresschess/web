@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117379434.cms\" />D Gukesh, playing with black pieces, drew his second-round match in the Tata Steel Chess Tournament 2025 against Vladimir Fedoseev. The day saw several players settling for draws, including Arjun Erigaisi and defending champion Yi Wei. Praggnanandhaa secured the first win of the tournament, while other notable players like Fabiano Caruana also claimed victories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-handed-first-draw-since-becoming-world-champion-praggnanandhaa-stuns-pentala/articleshow/117379434.cms",
+         "pubDate" : "Sun, 19 Jan 2025 20:02:43",
+         "title" : "Gukesh handed first draw since becoming world champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3390",
+         "pubDate" : "Sun, 19 Jan 2025 19:35:09",
+         "title" : "Inclusion, change, impact: Highlights from the World Social Chess Initiatives Marathon"
+      },
+      {
          "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,38 +992,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
          "pubDate" : "Sun, 29 Dec 2024 20:31:00",
          "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3368",
-         "pubDate" : "Sun, 29 Dec 2024 19:58:42",
-         "title" : "Magnus Carlsen will participate in 2024 FIDE World Blitz Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3367",
-         "pubDate" : "Sun, 29 Dec 2024 19:01:03",
-         "title" : "A collection of 101 studies celebrating each year of FIDE published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3366",
-         "pubDate" : "Sun, 29 Dec 2024 18:34:23",
-         "title" : "Statement by FIDE President on dress-code rules for Rapid and Blitz Championships"
-      },
-      {
-         "description" : "Top-ranked chess player Magnus Carlsen is headed back to the World Blitz Championship after he was fined in another event for refusing to change out of jeans.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43213121/magnus-carlsen-returns-chess-event-dress-code-flap?device=featurephone",
-         "pubDate" : "Sun, 29 Dec 2024 17:44:12",
-         "title" : "Chess ace returns to event after dress code flap"
       }
    ]
 }
