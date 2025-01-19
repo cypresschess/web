@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian chess celebrates a remarkable milestone as Gukesh Dommaraju and Vantika Agrawal are honoured with prestigious national awards for their outstanding achievements. Gukesh, the youngest undisputed world chess champion in history and a double gold medallist at the 45th Chess Olympiad, received the Major Dhyan Chand Khel Ratna Award 2024. Vantika, who also clinched double gold at the Olympiad and a silver at the 19th Asian Games, received the Arjuna Award 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-vantika-awards-india-2025",
+         "pubDate" : "Sat, 18 Jan 2025 22:40:00",
+         "title" : "Gukesh receives Major Dhyan Chand Khel Ratna Award, Arjuna Award for Vantika Agrawal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3389",
+         "pubDate" : "Sat, 18 Jan 2025 22:33:38",
+         "title" : "Tata Steel Chess 2025 commences in Wijk aan Zee"
+      },
+      {
+         "description" : " The 2025 Tata Steel Chess tournaments started with a bang with lively play and plenty of decisive results. Gukesh won against Anish Giri in a wild struggle where he was much worse at several stages and on the verge of defeat when Giri blundered away a win to a loss in a single move in time trouble. Vincent Keymer beat Luke Leon Mendonca from a bad position after he made an error after forgetting his preparation in the Two Knights Defence. After that Mendonca started to drift, first of all not playing the most incisive winning try (26.c6), then he allowed Keymer right back in the game (28.h3) and then blundered his position away in one move (31.Rc1?). Pentala Harikrishna beat Arjun Erigaisi ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-starts-with-a-very-fortunate-win-against-giri-in-round-1-of-tata-steel-masters-2025",
+         "pubDate" : "Sat, 18 Jan 2025 21:39:00",
+         "title" : "Gukesh starts with a very fortunate win against Giri in Round 1 of Tata Steel Masters 2025 - 1"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117359240.cms\" />D Gukesh triumphed in the Tata Steel Chess Tournament 2025 opener against Anish Giri, despite Giri's early advantage. Gukesh's strategic play led to a victory following a pivotal mistake by Giri. Other matches saw mixed results for Indian players, with Praggnanandhaa drawing and Leon Luke Mendonca losing. Highlights included a quick win for Rameshbabu Vaishali in the Challengers section.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.thearticle.com/the-earliest-queens-gambit-philidor-vs-stamma/",
          "pubDate" : "Sat, 18 Jan 2025 16:41:05",
          "title" : "The earliest Queen's Gambit: Philidor vs Stamma"
+      },
+      {
+         "description" : "GM Daniel Naroditsky snatched victory from GMs Magnus Carlsen and Alireza Firouzja and secured his third straight Bullet Brawl title after chalking up two five-move wins over CM Volen Dyulgerov and Firouzja in the dying seconds of the arena. Narod...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-18-2025",
+         "pubDate" : "Sat, 18 Jan 2025 15:58:31",
+         "title" : "Naroditsky Checkmates Firouzja In Five Moves, Wins Third Straight Bullet Brawl"
       },
       {
          "description" : "Last week, I shared why 2024 was my best year yet. This week, I'm laying out my plan to help you crush your chess goals in 2025-and grow my business by doing it. Goals My main goal of the year is to 3x my business while working 6 hours a day, 5 days a week, []",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-37th-national-under-13-chess-championship-2024/",
          "pubDate" : "Sat, 18 Jan 2025 09:27:28",
          "title" : "Final report of 37th National Under-13 Chess Championship 2024"
-      },
-      {
-         "description" : "The World Chess Hall of Fame invites you to embark on a whimsical journey with \"Paws and Pawns: Exploring Animal Chess Sets\", an enchanting exhibition running from 30 January to 31 August 2025. Featuring over 50 animal-themed chess sets from around the globe, this family-friendly showcase highlights the creativity of artists who reimagine the chessboard through the lens of the natural world. From regal lions to playful mice, these unique designs celebrate the diversity of wildlife and artistic traditions!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paws-and-pawns-world-chess-hof",
-         "pubDate" : "Fri, 17 Jan 2025 23:30:00",
-         "title" : "World Chess Hall of Fame to unveil new exhibition: \"Paws and Pawns: Exploring Animal Chess Sets\""
       },
       {
          "description" : " The 87th Tata Steel Chess tournament starts on Saturday 18th January at 2pm local time. The pairings have been made and they are: Masters Round 1 pairings: Pentala Harikrishna - Arjun Erigaisi, Praggnanandhaa - Nodirbek Abdusattorov, Leon Luke Mendonca - Vincent Keymer, Max Warmerdam - Alexey Sarana, Wei Yi - Fabiano Caruana, Jorden van Foreest - Vladimir Fedoseev, Gukesh D - Anish Giri. Challengers Round 1 pairings: Divya Deshmukh - Nodirbek Yakubboev, Thai Dai van Nguyen - Arthur Pijpers Aydin Suleymanli - Benjamin Bok, Ediz Gurel - Irina Bulmaga, Erwin l'Ami - Frederik Svane, Faustino Oro - Rameshbabu Vaishali, Miaoyi Lu - Kazybek Nogerbek. ",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3373",
          "pubDate" : "Sat, 04 Jan 2025 19:56:44",
          "title" : "World Social Chess Initiatives Marathon announced"
-      },
-      {
-         "description" : "In the wake of stellar performances at the 2024 FIDE World Rapid &#38;amp; Blitz Chess Championships, GM Daniel Naroditsky won the first Bullet Brawl of 2025 with a score of 246, bagging the $400 first prize and closing the gap between himself and GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-4-2025",
-         "pubDate" : "Sat, 04 Jan 2025 19:53:00",
-         "title" : "Naroditsky Wins 25th Bullet Brawl Title Ahead Of 252 Titled Players"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116947611.cms\" />Delhi's Chief Minister Atishi felicitated Chess Grandmaster Tania Sachdev for her integral role in the Indian team's gold win at the 45th Chess Olympiad 2024. The event underscored Sachdev's inspirational impact on young athletes, especially girls. The Delhi Government's initiatives, including school chess tournaments and specialized training, highlight their commitment to nurturing sports talent.",
