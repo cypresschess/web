@@ -46,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-18-2025",
-         "pubDate" : "Sat, 18 Jan 2025 15:58:31",
-         "title" : "Naroditsky Checkmates Firouzja In Five Moves, Wins Third Straight Bullet Brawl"
+         "pubDate" : "Sat, 18 Jan 2025 15:58:00",
+         "title" : "Naroditsky Checkmates Firouzja In 5 Moves, Wins 3rd Straight Bullet Brawl"
       },
       {
          "description" : "Last week, I shared why 2024 was my best year yet. This week, I'm laying out my plan to help you crush your chess goals in 2025-and grow my business by doing it. Goals My main goal of the year is to 3x my business while working 6 hours a day, 5 days a week, []",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Sat, 18 Jan 2025 13:40:00",
          "title" : "Tata Steel Chess - Live!"
-      },
-      {
-         "description" : "Gukesh grabbed a win from the jaws of defeat, while R Praggnanandhaa also earned a draw after being in a losing position.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43465517/tata-steel-chess-day-1-d-gukesh-last-gasp-win-anish-giri-arjun-erigaisi-r-praggnanandhaa-caruana?device=featurephone",
-         "pubDate" : "Sat, 18 Jan 2025 12:52:00",
-         "title" : "Tata Steel Chess Day 1: Gukesh grabs last-gasp win over Giri in first game as reigning world champion"
       },
       {
          "description" : "GM Gukesh Dommaraju has won his first game as world champion despite staring defeat in the face against GM Anish Giri in round one of the 2025 Tata Steel Chess Masters. Giri blundered last, while Gukesh&#39;s world championship helpers GMs Vincent Key...",
@@ -1016,22 +1008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/jeans-gambit-declined-the-clash-of-magnus-carlsen-and-fide/articleshow/116766626.cms",
          "pubDate" : "Sun, 29 Dec 2024 10:40:43",
          "title" : "Jeans Gambit Declined: The clash of Magnus Carlsen and FIDE"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3365",
-         "pubDate" : "Sun, 29 Dec 2024 04:06:08",
-         "title" : "Volodar Murzin and Humpy Koneru new FIDE World Rapid Champions"
-      },
-      {
-         "description" : "Koneru Humpy won the women's world rapid title for the second time; Arjun Erigaisi fell a point short in the open section",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43200845/fide-world-rapid-chess-championships-2024-koneru-humpy-wins-second-title-arjun-erigaisi-finishes-fifth-volodar-murzin?device=featurephone",
-         "pubDate" : "Sun, 29 Dec 2024 00:59:40",
-         "title" : "FIDE World Rapid Championships 2024: Koneru Humpy wins second women's title; Volodar Murzin wins in open section"
       }
    ]
 }
