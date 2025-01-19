@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Sun, 19 Jan 2025 13:40:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117370685.cms\" />Anish Giri faced a tough start in the Masters at the Tata Steel Chess Tournament, losing to World Chess Champion D Gukesh. Giri's early control vanished after a critical mistake, which Gukesh exploited effectively. Gukesh, unaffected by his recent busy schedule, now prepares for Round 2 against Vladimir Fedoseev, while Giri faces Arjun Erigaisi next.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/main-goal-2025/",
          "pubDate" : "Sat, 18 Jan 2025 14:00:00",
          "title" : "Chess Improvement, Simplified: My Vision for 2025"
-      },
-      {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Sat, 18 Jan 2025 13:40:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "GM Gukesh Dommaraju has won his first game as world champion despite staring defeat in the face against GM Anish Giri in round one of the 2025 Tata Steel Chess Masters. Giri blundered last, while Gukesh&#39;s world championship helpers GMs Vincent Key...",
@@ -1008,22 +1008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43213121/magnus-carlsen-returns-chess-event-dress-code-flap?device=featurephone",
          "pubDate" : "Sun, 29 Dec 2024 17:44:12",
          "title" : "Chess ace returns to event after dress code flap"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116769200.cms\" />India's top female chess player, Koneru Humpy, won the FIDE Women's World Rapid Chess Championship for the second time. Prime Minister Modi praised her achievement, emphasizing its inspirational impact. Humpy's victory follows a significant year for Indian chess, marked by D Gukesh's historic win. Humpy hopes her success will motivate young Indians to pursue chess professionally.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/this-victory-is-even-more-historic-pm-modi-lauds-koneru-humpy-on-world-chess-rapid-championship-win/articleshow/116769200.cms",
-         "pubDate" : "Sun, 29 Dec 2024 13:02:11",
-         "title" : "'This victory is even more historic': Modi lauds Humpy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3266",
-         "pubDate" : "Sun, 29 Dec 2024 13:00:52",
-         "title" : "FIDE FPL and EDC actions on the incident involving GM Kirill Shevchenko"
       }
    ]
 }
