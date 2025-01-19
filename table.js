@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2025-01-17","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501173392 target='_blank'>FBCC 2025 NATIONAL KIDS INVENTOR DA</a>",
+"SPRING","2025-01-17","25","<a href=http://www.uschess.org/msa/XtblMain.php?202501173292 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-01-17","30","<a href=http://www.uschess.org/msa/XtblMain.php?202501173242 target='_blank'>EVENT NAME MISSING</a>",
 "HOUSTON","2025-01-12","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501121612 target='_blank'>JAN 12 SUNDAY SWISS AT NOON</a>",
 "HOUSTON","2025-01-11","122","<a href=http://www.uschess.org/msa/XtblMain.php?202501119732 target='_blank'>WHARTON ACADEMY CHESS TOURNAMENT</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2024-05-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202405245172 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-05-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202405245092 target='_blank'>FBCC 2024 NATIONAL LUCKY PENNY DAY</a>",
 "HOUSTON","2024-05-18  - 05-19","42","<a href=http://www.uschess.org/msa/XtblMain.php?202405193502 target='_blank'>$1,500 MAY SHOOTOUT U2400 + A BLITZ</a>",
-"HOUSTON","2024-05-18","11","<a href=http://www.uschess.org/msa/XtblMain.php?202405181632 target='_blank'>CHESSPANDA05182024SATURDAY</a>",
-"KATY","2024-05-18","85","<a href=http://www.uschess.org/msa/XtblMain.php?202405181172 target='_blank'>24ARISTOI</a>",
 ]);
