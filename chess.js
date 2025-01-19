@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation is pleased to announce the three FIDE Arbiter Seminars as per the appended schedule:- 1 Bengaluru 07-09 February 20252 Shillong 14-16",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminars-2025/",
+         "pubDate" : "Sun, 19 Jan 2025 07:06:38",
+         "title" : "FIDE ARBITER SEMINARS 2025"
+      },
+      {
          "description" : "Indian chess celebrates a remarkable milestone as Gukesh Dommaraju and Vantika Agrawal are honoured with prestigious national awards for their outstanding achievements. Gukesh, the youngest undisputed world chess champion in history and a double gold medallist at the 45th Chess Olympiad, received the Major Dhyan Chand Khel Ratna Award 2024. Vantika, who also clinched double gold at the Olympiad and a silver at the 19th Asian Games, received the Arjuna Award 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3389",
          "pubDate" : "Sat, 18 Jan 2025 22:33:38",
          "title" : "Tata Steel Chess 2025 commences in Wijk aan Zee"
+      },
+      {
+         "description" : "Gukesh grabbed a win from the jaws of defeat, while R Praggnanandhaa also earned a draw after being in a losing position.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43465517/tata-steel-chess-day-1-d-gukesh-last-gasp-win-anish-giri-arjun-erigaisi-r-praggnanandhaa-caruana?device=featurephone",
+         "pubDate" : "Sat, 18 Jan 2025 22:05:22",
+         "title" : "Tata Steel Chess Day 1: Gukesh grabs last-gasp win over Giri in first game as reigning world champion"
       },
       {
          "description" : " The 2025 Tata Steel Chess tournaments started with a bang with lively play and plenty of decisive results. Gukesh won against Anish Giri in a wild struggle where he was much worse at several stages and on the verge of defeat when Giri blundered away a win to a loss in a single move in time trouble. Vincent Keymer beat Luke Leon Mendonca from a bad position after he made an error after forgetting his preparation in the Two Knights Defence. After that Mendonca started to drift, first of all not playing the most incisive winning try (26.c6), then he allowed Keymer right back in the game (28.h3) and then blundered his position away in one move (31.Rc1?). Pentala Harikrishna beat Arjun Erigaisi ",
@@ -296,6 +312,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-national-k-12-grades-pt-2",
          "pubDate" : "Tue, 14 Jan 2025 00:00:00",
          "title" : "Tactics Tuesday: National K-12 Grades, Pt. 2"
+      },
+      {
+         "description" : "A week ago, in <A HREF=\"https://chessforallages.blogspot.com/2025/01/surrealist-chess.html\">Surrealist Chess</A> (January 2025), I wrote, <BLOCKQUOTE> Continuing with the weekly series on AI comics [...] we return to aimless wandering around various topics. </BLOCKQUOTE> <P> After that post about Magritte, I intended to continue with another artist known for an interest in chess, but I got sidetracked by yesterday's post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025). It featured a video about the Nobel Prize in Chemistry 2024, awarded:- <BLOCKQUOTE> half jointly to Demis Hassabis, Google DeepMind, London, UK and John Jumpe",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html",
+         "pubDate" : "Mon, 13 Jan 2025 16:18:00",
+         "title" : "Proteins Play Chess"
       },
       {
          "description" : "The 2024 European Women's Rapid and Blitz Chess Championships concluded yesterday in Monte-Carlo, Monaco. The Championships took place from 9-13 January and gathered nearly 150 players coming from 28 European federations. The first event on the schedule was European Women's Blitz Chess Championship 2024 which was played on Friday, 10th of January. After 13 played rounds, IM Aleksandra Maltsevskaya (POL, 2324) emerged as the sole Winner of the event, scoring 10.5 points. She was half a point ahead of GM []",
