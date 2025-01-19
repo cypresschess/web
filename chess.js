@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117370685.cms\" />Anish Giri faced a tough start in the Masters at the Tata Steel Chess Tournament, losing to World Chess Champion D Gukesh. Giri's early control vanished after a critical mistake, which Gukesh exploited effectively. Gukesh, unaffected by his recent busy schedule, now prepares for Round 2 against Vladimir Fedoseev, while Giri faces Arjun Erigaisi next.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dropped-head-sigh-of-disappointment-d-gukesh-takes-opponent-on-an-emotional-roller-coaster-ride-viral-video/articleshow/117370685.cms",
+         "pubDate" : "Sun, 19 Jan 2025 09:11:48",
+         "title" : "Watch: Gukesh takes opponent on an emotional roller coaster ride"
+      },
+      {
          "description" : "All India Chess Federation is pleased to announce the three FIDE Arbiter Seminars as per the appended schedule:- 1 Bengaluru 07-09 February 20252 Shillong 14-16",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1016,22 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3266",
          "pubDate" : "Sun, 29 Dec 2024 13:00:52",
          "title" : "FIDE FPL and EDC actions on the incident involving GM Kirill Shevchenko"
-      },
-      {
-         "description" : "Beneath its deceptively simple facade of a game, chess conceals a rich tapestry of human ingenuity and thought. It is, as Anatoly Karpov succinctly remarked, art, science, and sport all rolled into one. Yet, while the competitive aspect of chess basks in the limelight with its high-stakes, action-packed tournaments and matches, the subtle but no less fascinating endeavour of chess composition, where artistry shines the brightest, languishes in relative obscurity. As a step towards redressing this imbalance, ChessBase India and the World Federation for Chess Composition (WFCC) present My First Endgame Study, a beginner-friendly study composing contest designed for chess enthusiasts eager to e",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-first-endgame-study-a-chess-composition-tourney-by-wfcc-and-chessbase-india",
-         "pubDate" : "Sun, 29 Dec 2024 12:00:00",
-         "title" : "My First Endgame Study: A Chess Composition Tourney by WFCC and ChessBase India"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116766626.cms\" />Magnus Carlsen, five-time world chess champion, withdrew from the 2024 World Rapid and Blitz Championship after a dispute over his attire. Highlighting dissatisfaction with FIDE, Carlsen's actions reflect a broader push for freedom and innovation in chess. His ventures like Freestyle Chess Club aim to revolutionize the chess landscape, promoting autonomy and creativity among elite players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/jeans-gambit-declined-the-clash-of-magnus-carlsen-and-fide/articleshow/116766626.cms",
-         "pubDate" : "Sun, 29 Dec 2024 10:40:43",
-         "title" : "Jeans Gambit Declined: The clash of Magnus Carlsen and FIDE"
       }
    ]
 }
