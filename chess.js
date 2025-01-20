@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Mon, 20 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117400152.cms\" />The Lalit Hotel hosted a grand felicitation ceremony for World Chess Champion D Gukesh and two-time World Rapid Champion Koneru Humpy. Amid celebrations, the All India Chess Federation announced significant cash rewards for the champions and their teams. A memento, the 'Akshayvat' frame, was kept as a backup but ultimately sidelined when the trophies arrived on time.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-night-world-chess-champion-d-gukesh-became-a-crorepati/articleshow/117400152.cms",
+         "pubDate" : "Mon, 20 Jan 2025 13:05:11",
+         "title" : "The night World Chess Champion D Gukesh became a crorepati"
+      },
+      {
          "description" : "The Black Knights' Tango, also known as the Mexican Defence, is a bold and unconventional opening that puts White on edge from the very first moves. After 1.d4 Nf6 2.c4 Nc6!?, Black takes the initiative, luring White into overextending their central pawns, only to dismantle them with precise counterplay.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3390",
          "pubDate" : "Sun, 19 Jan 2025 19:35:09",
          "title" : "Inclusion, change, impact: Highlights from the World Social Chess Initiatives Marathon"
-      },
-      {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Sun, 19 Jan 2025 13:40:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "No one has a perfect score after round two of the 2025 Tata Steel Chess Masters, but GMs Fabiano Caruana, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu all won to join GMs Gukesh Dommaraju and Vincent Keymer in the lead on 1.5/2. There coul...",
