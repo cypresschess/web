@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Black Knights' Tango, also known as the Mexican Defence, is a bold and unconventional opening that puts White on edge from the very first moves. After 1.d4 Nf6 2.c4 Nc6!?, Black takes the initiative, luring White into overextending their central pawns, only to dismantle them with precise counterplay.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrew-martin-the-surprising-black-knights-tango-unleash-winning-strategies-as-black",
+         "pubDate" : "Mon, 20 Jan 2025 12:00:00",
+         "title" : "Andrew Martin: The Surprising Black Knights' Tango - Unleash Winning Strategies as Black!"
+      },
+      {
+         "description" : "The 3rd Cambridge International Open entrants list is filling up quickly. Please make sure you don't miss out by visiting the page https://www.englishchess.org.uk/3rd-cambridge-international-open/ checking the details and entering...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/3rd-cambridge-international-open-entries/",
+         "pubDate" : "Mon, 20 Jan 2025 09:54:50",
+         "title" : "3rd Cambridge International Open entries"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2025/#new_tab",
+         "pubDate" : "Mon, 20 Jan 2025 09:44:51",
+         "title" : "Important details for the NSCC Girls Championships 2025 - please read"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3391",
+         "pubDate" : "Mon, 20 Jan 2025 08:59:41",
+         "title" : "FIDE Grand Swiss 2025 to be held in Samarkand, Uzbekistan"
+      },
+      {
+         "description" : "The ECU E-Magazine December 2024 is out! In this edition of the ECU E-Magazine you may read about: The December 2024 issue of the ECU Magazine can be read online together with interactive links on the following link or it can be downloaded below in the PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-december-2024/",
+         "pubDate" : "Mon, 20 Jan 2025 08:47:19",
+         "title" : "ECU E-Magazine December 2024"
+      },
+      {
          "description" : "After the Moscow 1925 tournament, World Champion Jos&eacute; Ra&uacute;l Capablanca wrote an account of the event, together with proposals for a new form of chess. \"Capablanca Chess\" was to be played on a 10×8 board with two new pieces: the \"archbishop,\" combining the powers of a bishop and a knight, and the \"chancellor,\" combining the powers of a rook and a knight.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "Vishy Anand's five triumphs in Wijk aan Zee"
       },
       {
-         "description" : " The second round of the Tata Steel Masters was not quite as crazy as the first but there were still three decisive games and a couple of near decisive ones. At the end of the day Praggnanandhaa, Caruana, Gukesh, Abdusattorov and Keymer lead on 1.5/2. Fabiano Caruana started the tournament with a non-event in the first game against Wei Yi, today he chose the London System to surprise his opponent Lucas Van Foreest but ended up with a slightly inferior position. Van Foreest then played a series of inferior moves and lost the endgame. Nodirbek Abdusattorov played a side-line of the French 6.a4, deviating from a game last year against his opponent Leon Luke Mendonca, this turned out to be a bul",
+         "description" : " The second round of the Tata Steel Masters was not quite as crazy as the first but there were still three decisive games and a couple of near decisive ones. At the end of the day Praggnanandhaa, Caruana, Gukesh, Abdusattorov and Keymer lead on 1.5/2. Fabiano Caruana started the tournament with a non-event in the first game against Wei Yi, today he chose the London System to surprise his opponent Jorden Van Foreest but ended up with a slightly inferior position. Van Foreest then played a series of inferior moves and lost the endgame. Nodirbek Abdusattorov played a side-line of the French 6.a4, deviating from a game last year against his opponent Leon Luke Mendonca, this turned out to be a bu",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/five-way-tie-for-first-place-on-1.52-in-the-tata-steel-masters",
@@ -984,22 +1024,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/is-2025-dystopian-year.html",
          "pubDate" : "Mon, 30 Dec 2024 16:52:00",
          "title" : "Is 2025 a Dystopian Year?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116800126.cms\" />Magnus Carlsen confirmed his return to the World Blitz Chess Championship after FIDE permitted players to compete in jeans. Carlsen criticized FIDE's decision-making process and deputy president Viswanathan Anand, claiming the situation was mishandled and Anand was not suitable for his role. Carlsen faced fines and rules clarification issues.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unfit-for-fide-job-magnus-carlsen-hits-out-at-viswanathan-anand/articleshow/116800126.cms",
-         "pubDate" : "Mon, 30 Dec 2024 11:53:21",
-         "title" : "'Unfit for FIDE job': Magnus Carlsen hits out at Viswanathan Anand"
-      },
-      {
-         "description" : "India's ace Grandmaster Koneru Humpy achieved a historic milestone by securing her second World Rapid Chess Championship title, defeating Indonesia's Irene Sukandar on Sunday. Having",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-koneru-humpy-triumphs-in-world-rapid-chess-championship-2024/",
-         "pubDate" : "Mon, 30 Dec 2024 09:21:11",
-         "title" : "GM Koneru Humpy Triumphs in World Rapid Chess Championship 2024"
       }
    ]
 }
