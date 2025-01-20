@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand's legendary career is inseparable from his extraordinary achievements at the prestigious Wijk aan Zee chess tournament. With five tournament victories spanning three decades, the Indian grandmaster showcased his brilliance in a field of the world's best players. As the 87th edition unfolds, we look back at Anand's remarkable performances, from his debut triumph in 1989 to his enduring displays in the Corus era, cementing his legacy in one of the most iconic chess events in the world. | Photo: Rob Bogaerts / Anefo (1989)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anand-wins-wijk-aan-zee",
+         "pubDate" : "Sun, 19 Jan 2025 23:25:00",
+         "title" : "Vishy Anand's five triumphs in Wijk aan Zee"
+      },
+      {
+         "description" : " The second round of the Tata Steel Masters was not quite as crazy as the first but there were still three decisive games and a couple of near decisive ones. At the end of the day Praggnanandhaa, Caruana, Gukesh, Abdusattorov and Keymer lead on 1.5/2. Fabiano Caruana started the tournament with a non-event in the first game against Wei Yi, today he chose the London System to surprise his opponent Lucas Van Foreest but ended up with a slightly inferior position. Van Foreest then played a series of inferior moves and lost the endgame. Nodirbek Abdusattorov played a side-line of the French 6.a4, deviating from a game last year against his opponent Leon Luke Mendonca, this turned out to be a bul",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/five-way-tie-for-first-place-on-1.52-in-the-tata-steel-masters",
+         "pubDate" : "Sun, 19 Jan 2025 23:20:00",
+         "title" : "Five way tie for first place on 1.5/2 in the Tata Steel Masters - 2"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117379434.cms\" />D Gukesh, playing with black pieces, drew his second-round match in the Tata Steel Chess Tournament 2025 against Vladimir Fedoseev. The day saw several players settling for draws, including Arjun Erigaisi and defending champion Yi Wei. Praggnanandhaa secured the first win of the tournament, while other notable players like Fabiano Caruana also claimed victories.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Sun, 19 Jan 2025 13:40:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "No one has a perfect score after round two of the 2025 Tata Steel Chess Masters, but GMs Fabiano Caruana, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu all won to join GMs Gukesh Dommaraju and Vincent Keymer in the lead on 1.5/2. There coul...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-2",
+         "pubDate" : "Sun, 19 Jan 2025 12:26:00",
+         "title" : "Caruana, Abdusattorov, Praggnanandhaa Win To Join Leaders"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117370685.cms\" />Anish Giri faced a tough start in the Masters at the Tata Steel Chess Tournament, losing to World Chess Champion D Gukesh. Giri's early control vanished after a critical mistake, which Gukesh exploited effectively. Gukesh, unaffected by his recent busy schedule, now prepares for Round 2 against Vladimir Fedoseev, while Giri faces Arjun Erigaisi next.",
@@ -714,14 +738,6 @@ news_feed (
          "title" : "Nice Chess Sweater"
       },
       {
-         "description" : "GM Robert Huebner, the best German chess player since Emanuel Lasker, a four-time world championship candidate, Olympic board one gold medalist, former world number-three, master analyst, writer, polyglot, and papyrologist, has died at the age of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/robert-huebner-1948-2025",
-         "pubDate" : "Sun, 05 Jan 2025 15:21:00",
-         "title" : "Robert Huebner (1948-2025)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116967510.cms\" />D Gukesh, fresh from his World Championship win and Major Dhyan Chand Khel Ratna award, is gearing up for the challenging 2025 chess season. With major tournaments like Tata Steel coming up, he aims to continuously improve and meet his high self-expectations. His mentor Viswanathan Anand believes Gukesh's success will inspire more young players to take up chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3369",
          "pubDate" : "Mon, 30 Dec 2024 01:22:17",
          "title" : "Chess meets finance at the Wall Street Gambit conference"
-      },
-      {
-         "description" : " The World Rapid & Blitz Championship took place on Wall Street in New York 26th to 31st December 2024. Carlsen, Caruana, MVL, Wei Yi, Nepomniachtchi, Aronian, Firouzja, Nakamura, Abdusattorov, Duda, Wesley So etc. In the women's event Ju Wenjun, Lei Tingjie, Tan Zhongyi, Kosteniuk etc. Magnus Carlsen was defaulted in round 9 of the rapid when he didn't change his clothes after being informed they broke the regulations. He stated this was likely his final FIDE event, he would not play the blitz. This seemed very final from Carlsen but then on the rest day a blurred photo emerged of him talking to Viswanthan Anand (I'm guessing there's maybe a story that someone made sure there was a photo) a",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-blitz-championship-2024",
-         "pubDate" : "Sun, 29 Dec 2024 20:31:00",
-         "title" : "World Rapid & Blitz Championship 2024 - Games and Results"
       }
    ]
 }
