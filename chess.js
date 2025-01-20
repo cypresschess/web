@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the Moscow 1925 tournament, World Champion Jos&eacute; Ra&uacute;l Capablanca wrote an account of the event, together with proposals for a new form of chess. \"Capablanca Chess\" was to be played on a 10×8 board with two new pieces: the \"archbishop,\" combining the powers of a bishop and a knight, and the \"chancellor,\" combining the powers of a rook and a knight.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/capablanca-and-the-question-of-draws",
+         "pubDate" : "Mon, 20 Jan 2025 08:42:13",
+         "title" : "Capablanca and the question of draws"
+      },
+      {
          "description" : "Vishy Anand's legendary career is inseparable from his extraordinary achievements at the prestigious Wijk aan Zee chess tournament. With five tournament victories spanning three decades, the Indian grandmaster showcased his brilliance in a field of the world's best players. As the 87th edition unfolds, we look back at Anand's remarkable performances, from his debut triumph in 1989 to his enduring displays in the Corus era, cementing his legacy in one of the most iconic chess events in the world. | Photo: Rob Bogaerts / Anefo (1989)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/five-way-tie-for-first-place-on-1.52-in-the-tata-steel-masters",
          "pubDate" : "Sun, 19 Jan 2025 23:20:00",
          "title" : "Five way tie for first place on 1.5/2 in the Tata Steel Masters - 2"
+      },
+      {
+         "description" : "Gukesh grabbed a win from the jaws of defeat, while R Praggnanandhaa also earned a draw after being in a losing position.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43485853/tata-steel-chess-day-2-praggnanandhaa-wins-harikrishna-gukesh-fighting-draw?device=featurephone",
+         "pubDate" : "Sun, 19 Jan 2025 21:42:49",
+         "title" : "Tata Steel Chess Day 2: Praggnanandhaa wins against Harikrishna; Gukesh plays out fighting draw"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117379434.cms\" />D Gukesh, playing with black pieces, drew his second-round match in the Tata Steel Chess Tournament 2025 against Vladimir Fedoseev. The day saw several players settling for draws, including Arjun Erigaisi and defending champion Yi Wei. Praggnanandhaa secured the first win of the tournament, while other notable players like Fabiano Caruana also claimed victories.",
