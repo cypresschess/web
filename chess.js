@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : " The third round of the Tata Steel Masters saw five draws and the only decisive results came right at the end but they did mean Praggnanandhaa and Nodirbek Abdusattorov were in a two way share of the lead. The draws came in stark contrast to the seven white wins in the Challengers group which really shook up the standings there. In the Masters Praggnanandhaa converted an advantage over a struggling Arjun Erigaisi. Max Warmerdam was still very much in the game against Nodirbek Abdusattorov until very near the end when his position collapsed, although his position was surely harder to handle. Wei Yi finally got a real game against Vincent Keymer but was on the worse side of the draw. Gukesh wa",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-abdusattorov-share-lead-in-the-tata-steel-masters-after-three-rounds",
+         "pubDate" : "Mon, 20 Jan 2025 23:20:00",
+         "title" : "Praggnanandhaa and Abdusattorov share lead in the Tata Steel Masters after three rounds - 3"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117406999.cms\" />R Praggnanandhaa won against Arjun Erigaisi in the third round of the Tata Steel Chess Tournament 2025. The game concluded with Praggnanandhaa leading the table with a score of 2.5/3. Other notable matches include a draw between D Gukesh and Fabiano Caruana and Leon Luke Mendonca earning his first point. The tournament saw mixed results for Indian players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-beats-india-no-1-arjun-erigasi-to-seize-top-spot-d-gukesh-settles-for-draw/articleshow/117406999.cms",
+         "pubDate" : "Mon, 20 Jan 2025 19:14:55",
+         "title" : "Pragg beats India No. 1 Arjun Erigasi to seize top spot at Tata Steel Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117404532.cms\" />D Gukesh, the reigning world chess champion, drew with top seed Fabiano Caruana in the third round of the Tata Steel Chess tournament in The Netherlands. Playing cautiously, Gukesh achieved 2 points in his first major tournament of the year. Meanwhile, R Praggnanandhaa might take the lead if he capitalises on his advantage against Arjun Erigaisi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-d-gukesh-draws-with-top-seed-fabiano-caruana/articleshow/117404532.cms",
+         "pubDate" : "Mon, 20 Jan 2025 17:07:45",
+         "title" : "Tata Steel Chess: D Gukesh draws with top seed Fabiano Caruana"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov and Praggnandhaa Rameshbabu are leading the Tata Steel Masters after both scoring wins in Monday's third round. The co-leaders have collected 2&frac12; points each, and stand a half point ahead of Fabiano Caruana, Gukesh Dommaraju and Vincent Keymer. In the Challengers, all games ended with wins for the player with the white pieces, remarkably. | Replay the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Mon, 20 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Pragg and Abdusattorov co-leaders"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117400152.cms\" />The Lalit Hotel hosted a grand felicitation ceremony for World Chess Champion D Gukesh and two-time World Rapid Champion Koneru Humpy. Amid celebrations, the All India Chess Federation announced significant cash rewards for the champions and their teams. A memento, the 'Akshayvat' frame, was kept as a backup but ultimately sidelined when the trophies arrived on time.",
@@ -18,12 +42,28 @@ news_feed (
          "title" : "The night World Chess Champion D Gukesh became a crorepati"
       },
       {
+         "description" : "Gukesh and Caruana are both on two points after the result and it remains to be seen who among the rest could overtake them.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43492986/tata-steel-chess-day-3-world-champion-d-gukesh-fabiano-caruana-top-seed?device=featurephone",
+         "pubDate" : "Mon, 20 Jan 2025 12:19:46",
+         "title" : "Tata Steel Chess Day 3: World champion D Gukesh draws with top seed Fabiano Caruana"
+      },
+      {
          "description" : "The Black Knights' Tango, also known as the Mexican Defence, is a bold and unconventional opening that puts White on edge from the very first moves. After 1.d4 Nf6 2.c4 Nc6!?, Black takes the initiative, luring White into overextending their central pawns, only to dismantle them with precise counterplay.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/andrew-martin-the-surprising-black-knights-tango-unleash-winning-strategies-as-black",
          "pubDate" : "Mon, 20 Jan 2025 12:00:00",
          "title" : "Andrew Martin: The Surprising Black Knights' Tango - Unleash Winning Strategies as Black!"
+      },
+      {
+         "description" : "GMs Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov scored the only wins in round three of the 2025 Tata Steel Chess Masters to take the lead on 2.5/3. Praggnanandhaa outplayed GM Arjun Erigaisi in a strategic masterpiece, while Abdusattorov s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-3",
+         "pubDate" : "Mon, 20 Jan 2025 11:36:00",
+         "title" : "Pragg Beats Arjun, Leads With Abdusattorov - 7/7 For White In Challengers"
       },
       {
          "description" : "The 3rd Cambridge International Open entrants list is filling up quickly. Please make sure you don't miss out by visiting the page https://www.englishchess.org.uk/3rd-cambridge-international-open/ checking the details and entering...",
@@ -778,14 +818,6 @@ news_feed (
          "title" : "Chess Addict Mohamed Salah Hails Magnus Carlsen As 'Best Endgame Player Ever'"
       },
       {
-         "description" : "Another year is upon us, and we&#39;re all looking forward to what 2025 will bring us. But before we look forward, let&#39;s take one last moment to celebrate the great things that happened to chess in 2024! The community has voted, and we finally know ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-awards-winners",
-         "pubDate" : "Mon, 06 Jan 2025 08:36:00",
-         "title" : "Gukesh, Ju, Gotham & Co. - Announcing The 2024 Chess.com Awards Winners"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -986,14 +1018,6 @@ news_feed (
          "title" : "World Championship Yahoos 2024 (2/2)"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116825233.cms\" />Indian Grandmaster R Vaishali captivated the World Blitz Championship by winning the women's qualifier with 9.5 points, ensuring her a quarterfinal spot. Vaishali's path included impressive victories over prominent opponents. In the open section, intense competition saw Russian GM Ian Nepomniachtchi and others advancing, while Indian players faced mixed results.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-r-vaishali-wins-womens-qualifier-advances-to-quarterfinals/articleshow/116825233.cms",
-         "pubDate" : "Tue, 31 Dec 2024 08:47:46",
-         "title" : "World Blitz Championship: R Vaishali wins women's qualifier, advances to quarterfinals"
-      },
-      {
          "description" : "After 87.58 in 2021, there's another alphanumeric combination now to remember the year that went by in Indian sport - the one that made D Gukesh, world champion.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1016,22 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3370",
          "pubDate" : "Tue, 31 Dec 2024 02:59:39",
          "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
-      },
-      {
-         "description" : " Growing up fast! Brewington Hardaway, Tani Adewumi and Andy Woodward at the 2024 World Rapid &#38; Blitz.Photo by Michal Walusza Brewington Hardaway and Tani Adewumi are currently making their debuts in the 2024 World Rapid &#38; Blitz Tournaments in New York City. It seems appropriate that these two young talents have a chance to test The post <a href=\"https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/\">Hardaway, Adewumi debut at World Rapid &amp; Blitz</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/30/hardaway-adewumi-debut-at-world-rapid-blitz/",
-         "pubDate" : "Mon, 30 Dec 2024 17:20:00",
-         "title" : "Hardaway, Adewumi debut at World Rapid & Blitz"
-      },
-      {
-         "description" : "A week after this blog's Christmas post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/inside-santas-workshop.html\">Inside Santa's Workshop</A> (December 2024), let's follow up with a New Year's post. Maybe 'double down' is a better description of this post than 'follow up'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ol30.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'2025 plays chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> Last year's New Year AI image, <A HREF=\"https://chessforallages.blogspot.com/2024/01/father-time-and-new-year-baby.html\">Father Time and the New Year Baby</A> (January 2024), was filled with bearded old men, clocks, and bab",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/is-2025-dystopian-year.html",
-         "pubDate" : "Mon, 30 Dec 2024 16:52:00",
-         "title" : "Is 2025 a Dystopian Year?"
       }
    ]
 }
