@@ -178,7 +178,7 @@ news_feed (
          "title" : "The Monthly Dragon - Tiger or alligator? Who will win?"
       },
       {
-         "description" : "GM Hikaru Nakamura and Kick are thrilled to present Chess 4 The Masses Sponsored by Kick, a two-tournament event for untitled players that will begin on January 22 at 2:00 p.m. ET/18:00 CET, following in the footsteps of past collaborations betwee...",
+         "description" : "GM Hikaru Nakamura and Kick are thrilled to present Chess 4 The Masses Sponsored by Kick, a two-tournament event for untitled players that will begin on January 22 at 2:00 p.m. ET/20:00 CET, following in the footsteps of past collaborations betwee...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-chess-4-the-masses-sponsored-by-kick",
@@ -984,22 +984,6 @@ news_feed (
          "link" : "https://aicf.in/gm-koneru-humpy-triumphs-in-world-rapid-chess-championship-2024/",
          "pubDate" : "Mon, 30 Dec 2024 09:21:11",
          "title" : "GM Koneru Humpy Triumphs in World Rapid Chess Championship 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116784053.cms\" />Koneru Humpy overcame recent poor results and won her second Women's World Rapid Chess title in New York, demonstrating her resilience and the importance of maturity in chess. Arjun Erigaisi finished fifth in the Open World Rapid. Russia's Volodar Murzin, 18, claimed the Open title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-becomes-second-woman-to-win-world-rapid-chess-title-twice/articleshow/116784053.cms",
-         "pubDate" : "Mon, 30 Dec 2024 03:46:03",
-         "title" : "Humpy becomes second woman to win Rapid Chess title twice"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3369",
-         "pubDate" : "Mon, 30 Dec 2024 01:22:17",
-         "title" : "Chess meets finance at the Wall Street Gambit conference"
       }
    ]
 }
