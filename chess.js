@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Young talents are making waves in Wijk aan Zee across both the Masters and Challengers sections. Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov lead the Masters after securing their second consecutive wins, with Pragg beating Arjun Erigaisi in positional style and Abdusattorov getting the better of Max Warmerdam. Meanwhile, the Challengers saw an extraordinary all-decisive round, with all games favouring the player with the white pieces. Remarkably, 14-year-old Lu Miaoyi joined the leaders after another impressive victory. Argentine prodigy Faustino Oro, aged 11, also made headlines with his first-ever win at the tournament. | Photo: Tata Steel Chess / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-3",
+         "pubDate" : "Tue, 21 Jan 2025 07:15:00",
+         "title" : "Tata Steel Chess R3: Pragg and Abdusattorov score, share the lead"
+      },
+      {
          "description" : " The third round of the Tata Steel Masters saw five draws and the only decisive results came right at the end but they did mean Praggnanandhaa and Nodirbek Abdusattorov were in a two way share of the lead. The draws came in stark contrast to the seven white wins in the Challengers group which really shook up the standings there. In the Masters Praggnanandhaa converted an advantage over a struggling Arjun Erigaisi. Max Warmerdam was still very much in the game against Nodirbek Abdusattorov until very near the end when his position collapsed, although his position was surely harder to handle. Wei Yi finally got a real game against Vincent Keymer but was on the worse side of the draw. Gukesh wa",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-abdusattorov-share-lead-in-the-tata-steel-masters-after-three-rounds",
          "pubDate" : "Mon, 20 Jan 2025 23:20:00",
          "title" : "Praggnanandhaa and Abdusattorov share lead in the Tata Steel Masters after three rounds - 3"
+      },
+      {
+         "description" : "Missouri and Saint Louis were the first victors of the Collegiate Chess League Spring 2025 (CCL) as the fresh season kicked off on Saturday.&#38;nbsp; The returning champion Missouri team defeated Virginia by a massive 11-point margin. Their bottom ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-1-mizzou-slu",
+         "pubDate" : "Mon, 20 Jan 2025 20:56:37",
+         "title" : "Missouri Settles the Score vs. Virginia, SLU Inches Ahead of Athens"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117406999.cms\" />R Praggnanandhaa won against Arjun Erigaisi in the third round of the Tata Steel Chess Tournament 2025. The game concluded with Praggnanandhaa leading the table with a score of 2.5/3. Other notable matches include a draw between D Gukesh and Fabiano Caruana and Leon Luke Mendonca earning his first point. The tournament saw mixed results for Indian players.",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "Tata Steel Chess: D Gukesh draws with top seed Fabiano Caruana"
       },
       {
-         "description" : "Nodirbek Abdusattorov and Praggnandhaa Rameshbabu are leading the Tata Steel Masters after both scoring wins in Monday's third round. The co-leaders have collected 2&frac12; points each, and stand a half point ahead of Fabiano Caruana, Gukesh Dommaraju and Vincent Keymer. In the Challengers, all games ended with wins for the player with the white pieces, remarkably. | Replay the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Mon, 20 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Pragg and Abdusattorov co-leaders"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117400152.cms\" />The Lalit Hotel hosted a grand felicitation ceremony for World Chess Champion D Gukesh and two-time World Rapid Champion Koneru Humpy. Amid celebrations, the All India Chess Federation announced significant cash rewards for the champions and their teams. A memento, the 'Akshayvat' frame, was kept as a backup but ultimately sidelined when the trophies arrived on time.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43492986/tata-steel-chess-day-3-world-champion-d-gukesh-fabiano-caruana-top-seed?device=featurephone",
          "pubDate" : "Mon, 20 Jan 2025 12:19:46",
          "title" : "Tata Steel Chess Day 3: World champion D Gukesh draws with top seed Fabiano Caruana"
-      },
-      {
-         "description" : "The Black Knights' Tango, also known as the Mexican Defence, is a bold and unconventional opening that puts White on edge from the very first moves. After 1.d4 Nf6 2.c4 Nc6!?, Black takes the initiative, luring White into overextending their central pawns, only to dismantle them with precise counterplay.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrew-martin-the-surprising-black-knights-tango-unleash-winning-strategies-as-black",
-         "pubDate" : "Mon, 20 Jan 2025 12:00:00",
-         "title" : "Andrew Martin: The Surprising Black Knights' Tango - Unleash Winning Strategies as Black!"
       },
       {
          "description" : "GMs Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov scored the only wins in round three of the 2025 Tata Steel Chess Masters to take the lead on 2.5/3. Praggnanandhaa outplayed GM Arjun Erigaisi in a strategic masterpiece, while Abdusattorov s...",
@@ -96,22 +96,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-2024/",
          "pubDate" : "Mon, 20 Jan 2025 08:47:19",
          "title" : "ECU E-Magazine December 2024"
-      },
-      {
-         "description" : "After the Moscow 1925 tournament, World Champion Jos&eacute; Ra&uacute;l Capablanca wrote an account of the event, together with proposals for a new form of chess. \"Capablanca Chess\" was to be played on a 10×8 board with two new pieces: the \"archbishop,\" combining the powers of a bishop and a knight, and the \"chancellor,\" combining the powers of a rook and a knight.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/capablanca-and-the-question-of-draws",
-         "pubDate" : "Mon, 20 Jan 2025 08:42:13",
-         "title" : "Capablanca and the question of draws"
-      },
-      {
-         "description" : "Vishy Anand's legendary career is inseparable from his extraordinary achievements at the prestigious Wijk aan Zee chess tournament. With five tournament victories spanning three decades, the Indian grandmaster showcased his brilliance in a field of the world's best players. As the 87th edition unfolds, we look back at Anand's remarkable performances, from his debut triumph in 1989 to his enduring displays in the Corus era, cementing his legacy in one of the most iconic chess events in the world. | Photo: Rob Bogaerts / Anefo (1989)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anand-wins-wijk-aan-zee",
-         "pubDate" : "Sun, 19 Jan 2025 23:25:00",
-         "title" : "Vishy Anand's five triumphs in Wijk aan Zee"
       },
       {
          "description" : " The second round of the Tata Steel Masters was not quite as crazy as the first but there were still three decisive games and a couple of near decisive ones. At the end of the day Praggnanandhaa, Caruana, Gukesh, Abdusattorov and Keymer lead on 1.5/2. Fabiano Caruana started the tournament with a non-event in the first game against Wei Yi, today he chose the London System to surprise his opponent Jorden Van Foreest but ended up with a slightly inferior position. Van Foreest then played a series of inferior moves and lost the endgame. Nodirbek Abdusattorov played a side-line of the French 6.a4, deviating from a game last year against his opponent Leon Luke Mendonca, this turned out to be a bu",
@@ -274,28 +258,12 @@ news_feed (
          "title" : "87th Tata Steel 2025 - Games and Results"
       },
       {
-         "description" : "It's still the Year of the Dragon according to the Chinese zodiac, but on the 29th of January, it will turn into the Year of the Snake. But for Chris Ward, every year is the Year of the Dragon, and new games continue to show up month by month. In this episode, Chris examines the variation without f3 for White. What are the plans? How should they be countered? The English GM knows it all. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-tiger-or-alligator-who-will-win",
-         "pubDate" : "Fri, 17 Jan 2025 20:00:00",
-         "title" : "The Monthly Dragon - Tiger or alligator? Who will win?"
-      },
-      {
          "description" : "GM Hikaru Nakamura and Kick are thrilled to present Chess 4 The Masses Sponsored by Kick, a two-tournament event for untitled players that will begin on January 22 at 2:00 p.m. ET/20:00 CET, following in the footsteps of past collaborations betwee...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-chess-4-the-masses-sponsored-by-kick",
          "pubDate" : "Fri, 17 Jan 2025 19:25:43",
          "title" : "Announcing Hikaru's Chess 4 The Masses Sponsored by Kick"
-      },
-      {
-         "description" : "In their review of current events in the chess world, Arne K&auml;hler and Johannes Fischer remember Robert H&uuml;bner, talk about Elisabeth P&auml;htz's 40th birthday and the Bundesliga weekend when Magnus Carlsen gave his debut for St. Pauli. And they wonder who might win the tournament in Wijk that starts on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-huebner-paehtz-bundesliga-and-wijk-aan-zee",
-         "pubDate" : "Fri, 17 Jan 2025 15:48:55",
-         "title" : "Two Knights Talk: H&uuml;bner, P&auml;htz, Bundesliga and Wijk aan Zee"
       },
       {
          "description" : "For the first time since its inception, GM Ray Robson is not the winner of the&#38;nbsp;2025 Chess.com Puzzles Championship. Fourteen-year-old GM Andy Woodward, who was the runner-up in 2024, reversed the narrative this year. He also picked up $1,500 ...",
@@ -810,14 +778,6 @@ news_feed (
          "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal"
       },
       {
-         "description" : "Egyptian soccer star and chess fan Mohamed Salah has once again expressed his admiration for GM Magnus Carlsen and revealed that he followed the drama in the World Rapid &#38;amp; Blitz Championship in New York. In a new interview by the Norwegian P...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-addict-mohamed-salah-hails-magnus-carlsen-as-best-endgame-player-ever",
-         "pubDate" : "Mon, 06 Jan 2025 09:29:00",
-         "title" : "Chess Addict Mohamed Salah Hails Magnus Carlsen As 'Best Endgame Player Ever'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,14 +976,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/12/world-championship-yahoos-2024-22.html",
          "pubDate" : "Tue, 31 Dec 2024 16:57:00",
          "title" : "World Championship Yahoos 2024 (2/2)"
-      },
-      {
-         "description" : "After 87.58 in 2021, there's another alphanumeric combination now to remember the year that went by in Indian sport - the one that made D Gukesh, world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43225656/2024-indian-sport-year-55-rf2-gukesh-world-chess-champion?device=featurephone",
-         "pubDate" : "Tue, 31 Dec 2024 07:54:04",
-         "title" : "2024: For Indian sport, the year of 55. Rf2"
       }
    ]
 }
