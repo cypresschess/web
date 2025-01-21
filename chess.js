@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3393",
+         "pubDate" : "Tue, 21 Jan 2025 11:53:21",
+         "title" : "World Social Chess Initiatives Marathon: Chess as a catalyst for social change"
+      },
+      {
+         "description" : "FIDE World School Chess Championship 2025 will be started from 19th to 29th March, 2025 at Vrnjacka Banja, Serbia, and players participated in the Over",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-school-chess-championship-2025/",
+         "pubDate" : "Tue, 21 Jan 2025 11:42:49",
+         "title" : "FIDE World School Chess Championship - 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3392",
+         "pubDate" : "Tue, 21 Jan 2025 11:00:40",
+         "title" : "FIDE Statement regarding the \"Freestyle Chess\" project"
+      },
+      {
          "description" : "Young talents are making waves in Wijk aan Zee across both the Masters and Challengers sections. Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov lead the Masters after securing their second consecutive wins, with Pragg beating Arjun Erigaisi in positional style and Abdusattorov getting the better of Max Warmerdam. Meanwhile, the Challengers saw an extraordinary all-decisive round, with all games favouring the player with the white pieces. Remarkably, 14-year-old Lu Miaoyi joined the leaders after another impressive victory. Argentine prodigy Faustino Oro, aged 11, also made headlines with his first-ever win at the tournament. | Photo: Tata Steel Chess / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-3",
          "pubDate" : "Tue, 21 Jan 2025 07:15:00",
          "title" : "Tata Steel Chess R3: Pragg and Abdusattorov score, share the lead"
+      },
+      {
+         "description" : "Earlier this month, on January 11, nearly 90 girls came together in Fremont, California to participate in the 2025 FEMchess All-Girls Chess Championship, an event that continues to empower young women to thrive in a traditionally male-dominated space. 29 players competed in the unrated section, marking an important milestone in their chess journeys. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of FEMchess<br> <br> <br> <br> Established in 2020 as a youth-led nonprofit run by nationally ranked and titled chess players, FEMchess's mission is to help bridge the chess gender gap, one tournament or lesson at a time. One of our initiatives ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-femchess-all-girls-scholastic-chess-championship-continues-bridge-gender-gap",
+         "pubDate" : "Tue, 21 Jan 2025 00:00:00",
+         "title" : "2025 FEMchess All-Girls Scholastic Chess Championship Continues to Bridge Gender Gap"
       },
       {
          "description" : " The third round of the Tata Steel Masters saw five draws and the only decisive results came right at the end but they did mean Praggnanandhaa and Nodirbek Abdusattorov were in a two way share of the lead. The draws came in stark contrast to the seven white wins in the Challengers group which really shook up the standings there. In the Masters Praggnanandhaa converted an advantage over a struggling Arjun Erigaisi. Max Warmerdam was still very much in the game against Nodirbek Abdusattorov until very near the end when his position collapsed, although his position was surely harder to handle. Wei Yi finally got a real game against Vincent Keymer but was on the worse side of the draw. Gukesh wa",
@@ -18,11 +50,19 @@ news_feed (
          "title" : "Praggnanandhaa and Abdusattorov share lead in the Tata Steel Masters after three rounds - 3"
       },
       {
+         "description" : "Gukesh and Caruana are both on two points after the result and it remains to be seen who among the rest could overtake them.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43492986/tata-steel-chess-day-3-world-champion-d-gukesh-fabiano-caruana-top-seed?device=featurephone",
+         "pubDate" : "Mon, 20 Jan 2025 22:28:32",
+         "title" : "Tata Steel Chess Day 3: Praggnanandhaa takes lead with win over Erigaisi; Gukesh draws with Caruana"
+      },
+      {
          "description" : "Missouri and Saint Louis were the first victors of the Collegiate Chess League Spring 2025 (CCL) as the fresh season kicked off on Saturday.&#38;nbsp; The returning champion Missouri team defeated Virginia by a massive 11-point margin. Their bottom ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-1-mizzou-slu",
-         "pubDate" : "Mon, 20 Jan 2025 20:56:37",
+         "pubDate" : "Mon, 20 Jan 2025 20:56:00",
          "title" : "Missouri Settles the Score vs. Virginia, SLU Inches Ahead of Athens"
       },
       {
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-night-world-chess-champion-d-gukesh-became-a-crorepati/articleshow/117400152.cms",
          "pubDate" : "Mon, 20 Jan 2025 13:05:11",
          "title" : "The night World Chess Champion D Gukesh became a crorepati"
-      },
-      {
-         "description" : "Gukesh and Caruana are both on two points after the result and it remains to be seen who among the rest could overtake them.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43492986/tata-steel-chess-day-3-world-champion-d-gukesh-fabiano-caruana-top-seed?device=featurephone",
-         "pubDate" : "Mon, 20 Jan 2025 12:19:46",
-         "title" : "Tata Steel Chess Day 3: World champion D Gukesh draws with top seed Fabiano Caruana"
       },
       {
          "description" : "GMs Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov scored the only wins in round three of the 2025 Tata Steel Chess Masters to take the lead on 2.5/3. Praggnanandhaa outplayed GM Arjun Erigaisi in a strategic masterpiece, while Abdusattorov s...",
@@ -736,14 +768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3378",
          "pubDate" : "Tue, 07 Jan 2025 00:37:09",
          "title" : "14-year-old Philip Selikem Amoako crowned Ghana champion"
-      },
-      {
-         "description" : "Tactics Tuesday returns with the first batch of highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-national-k-12-grades-pt-1",
-         "pubDate" : "Tue, 07 Jan 2025 00:00:00",
-         "title" : "Tactics Tuesday: National K-12 Grades, Pt. 1"
       },
       {
          "description" : "",
