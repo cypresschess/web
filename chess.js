@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117437476.cms\" />India's Arjun Erigaisi faced his third defeat in the Tata Steel Chess Tournament 2025, while Praggnanandhaa Rameshbabu leads the Masters with 3.5 points. Pentala Harikrishna secured a win, and Fabiano Caruana and Anish Giri drew their game. In the Challengers section, Vaishali Rameshbabu claimed victory. Miaoyi Lu shares the top spot after a draw.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-becomes-sole-leader-india-no-1-arjun-erigasi-blunders-into-another-defeat/articleshow/117437476.cms",
+         "pubDate" : "Tue, 21 Jan 2025 19:44:34",
+         "title" : "New World No. 8 Pragg becomes sole leader at Tata Steel Chess"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu scored a third consecutive victory to become the sole leader at the Tata Steel Masters in Wijk aan Zee. Pragg defeated Leon Luke Mendonca with white to grab the sole lead. The other two decisive games in the Masters saw Pentala Harikrishna beating Max Warmerdam and Vladimir Fedoseev upsetting an out-of-form Arjun Erigaisi. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Tue, 21 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Pragg takes the sole lead"
+      },
+      {
+         "description" : "GMs Praggnanandhaa Rameshbabu is the sole leader of the 2025 Tata Steel Chess Masters on 3.5/4 after making it three wins in a row by smoothly outplaying GM Leon Luke Mendonca. GM Pentala Harikrishna scored the day&#39;s most beautiful win after sacri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-4",
+         "pubDate" : "Tue, 21 Jan 2025 12:08:34",
+         "title" : "Praggnanandhaa Leads After 3rd Straight Win; Heartbreak For Arjun"
       },
       {
          "description" : "",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3392",
          "pubDate" : "Tue, 21 Jan 2025 11:00:40",
          "title" : "FIDE Statement regarding the \"Freestyle Chess\" project"
-      },
-      {
-         "description" : "Young talents are making waves in Wijk aan Zee across both the Masters and Challengers sections. Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov lead the Masters after securing their second consecutive wins, with Pragg beating Arjun Erigaisi in positional style and Abdusattorov getting the better of Max Warmerdam. Meanwhile, the Challengers saw an extraordinary all-decisive round, with all games favouring the player with the white pieces. Remarkably, 14-year-old Lu Miaoyi joined the leaders after another impressive victory. Argentine prodigy Faustino Oro, aged 11, also made headlines with his first-ever win at the tournament. | Photo: Tata Steel Chess / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-3",
-         "pubDate" : "Tue, 21 Jan 2025 07:15:00",
-         "title" : "Tata Steel Chess R3: Pragg and Abdusattorov score, share the lead"
       },
       {
          "description" : "This week's Tactics Tuesday begins a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy of Lennart Ootes/FIDE (1,4,5) and Michal Walusza/FIDE (2,3)<br> <br> There's",
@@ -794,14 +802,6 @@ news_feed (
          "title" : "Surrealist Chess"
       },
       {
-         "description" : "GMs Vladimir Fedoseev, Denis Lazavik, Javokhir Sindarov, and Oleksandr Bortnyk will join the likes of GMs Ian Nepomniachtchi and Wesley So in a 16-player Knockout on Chess.com to decide the final spot in the 2025 Weissenhaus Freestyle Chess Grand ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-day-1",
-         "pubDate" : "Mon, 06 Jan 2025 16:14:00",
-         "title" : "Fedoseev, Lazavik, Sindarov, Bortnyk Keep Weissenhaus Hopes Alive"
-      },
-      {
          "description" : "Steve Rigby, the founder of Oldham-based 3Cs Chess Club over forty-six years ago, has been awarded the British Empire Medal in the 2025 King's New Year's Honours for services to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -986,28 +986,12 @@ news_feed (
          "title" : "The Chess Drum's Highlights of 2024"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116845805.cms\" />Indian chess prodigy Vaishali Rameshbabu secured a bronze medal at the 2024 World Blitz Championship in New York, praised by her mentor Viswanathan Anand. China's Ju Wenjun triumphed over Lei Tingjie, while the Open section title was shared by Magnus Carlsen and Ian Nepomniachtchi after a tie in the finals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/what-a-way-to-wrap-up-2024-viswanathan-anand-congratulates-vaishali-on-clinching-bronze-in-world-blitz-championship/articleshow/116845805.cms",
-         "pubDate" : "Wed, 01 Jan 2025 04:11:23",
-         "title" : "Anand congratulates Vaishali on clinching World Blitz bronze"
-      },
-      {
          "description" : "Carlsen and Nepo agreed to a draw after three straight draws in tiebreakers; while Ju beat compatriot Lei Tingjie.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/43242421/fide-world-blitz-chess-championships-2024-magnus-carlsen-ian-nepomniachtchi-share-title-ju-wenjun-win-women?device=featurephone",
          "pubDate" : "Tue, 31 Dec 2024 22:58:02",
          "title" : "Carlsen, Nepo agree to share open Blitz title; Ju wins women's"
-      },
-      {
-         "description" : "At the end of last month's Yahoo post, <A HREF=\"https://chessforallages.blogspot.com/2024/11/world-championship-yahoos-2024-12.html\">World Championship Yahoos 2024</A> ('1/2'; November 2024; see the footnote for an explanation of Yahoos), I explained the title:- <BLOCKQUOTE> I'm titling this post 'WCC Yahoos 2024 (1/2)', because I'm expecting another deluge of WCC Yahoos at the end next month. </BLOCKQUOTE> <P> I was not to be disappointed. This month I counted 93 chess stories, of which 57 were WCC stories (World Chess Championship stories, of course). What I didn't expect was to find 57 stories about the World Rapid and Blitz championships currently being played in New York City and only s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/12/world-championship-yahoos-2024-22.html",
-         "pubDate" : "Tue, 31 Dec 2024 16:57:00",
-         "title" : "World Championship Yahoos 2024 (2/2)"
       }
    ]
 }
