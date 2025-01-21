@@ -63,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-3",
          "pubDate" : "Mon, 20 Jan 2025 11:36:00",
-         "title" : "Pragg Beats Arjun, Leads With Abdusattorov - 7/7 For White In Challengers"
+         "title" : "Pragg Beats Arjun, Leads With Abdusattorov-7/7 For White In Challengers"
       },
       {
          "description" : "The 3rd Cambridge International Open entrants list is filling up quickly. Please make sure you don't miss out by visiting the page https://www.englishchess.org.uk/3rd-cambridge-international-open/ checking the details and entering...",
@@ -1024,22 +1024,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43225656/2024-indian-sport-year-55-rf2-gukesh-world-chess-champion?device=featurephone",
          "pubDate" : "Tue, 31 Dec 2024 07:54:04",
          "title" : "2024: For Indian sport, the year of 55. Rf2"
-      },
-      {
-         "description" : "The World Blitz Chess Championship is all set for a grand finale on the final day of the year with India in with a chance for a third world champion in 2024 and a heavyweight competition in the Open section.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43230415/fide-world-rapid-blitz-chess-championships-2024-r-vaishali-leads-standings-day-1-no-indian-man-qualifies-knockouts?device=featurephone",
-         "pubDate" : "Tue, 31 Dec 2024 04:04:18",
-         "title" : "FIDE World Blitz Championships 2024: Vaishali leads standings on Day 1; no Indian man qualifies for knockouts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3370",
-         "pubDate" : "Tue, 31 Dec 2024 02:59:39",
-         "title" : "World Blitz Championship: Knockout stage set for an epic finale to 2024"
       }
    ]
 }
