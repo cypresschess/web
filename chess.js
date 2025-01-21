@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Tue, 21 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-3",
          "pubDate" : "Tue, 21 Jan 2025 07:15:00",
          "title" : "Tata Steel Chess R3: Pragg and Abdusattorov score, share the lead"
+      },
+      {
+         "description" : "This week's Tactics Tuesday begins a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy of Lennart Ootes/FIDE (1,4,5) and Michal Walusza/FIDE (2,3)<br> <br> There's",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-1-yip-week",
+         "pubDate" : "Tue, 21 Jan 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 1 (Yip Week)"
       },
       {
          "description" : "Earlier this month, on January 11, nearly 90 girls came together in Fremont, California to participate in the 2025 FEMchess All-Girls Chess Championship, an event that continues to empower young women to thrive in a traditionally male-dominated space. 29 players competed in the unrated section, marking an important milestone in their chess journeys. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of FEMchess<br> <br> <br> <br> Established in 2020 as a youth-led nonprofit run by nationally ranked and titled chess players, FEMchess's mission is to help bridge the chess gender gap, one tournament or lesson at a time. One of our initiatives ",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/wgm-title-should-be-abolished/articleshow/117038726.cms",
          "pubDate" : "Wed, 08 Jan 2025 03:08:34",
          "title" : "'WGM title should be abolished'"
-      },
-      {
-         "description" : "Wednesday Workout returns with the first batch of highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-k-12-grades-pt-1",
-         "pubDate" : "Wed, 08 Jan 2025 00:00:00",
-         "title" : "Wednesday Workout: K-12 Grades, Pt. 1"
       },
       {
          "description" : "GM Hans Niemann knocked out GM Maxime Vachier-Lagrave and won the first game against GM Ian Nepomniachtchi, but he&#39;s out of the 2025 Weissenhaus Freestyle Chess Grand Slam Play-In after blundering mate-in-one at the end of a thrilling blitz playof...",
