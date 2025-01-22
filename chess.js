@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu claimed a third consecutive win in the Tata Steel Masters, defeating Leon Luke Mendonca to take the sole lead after four rounds. Pentala Harikrishna and Vladimir Fedoseev also scored victories, with Harikrishna winning in just 23 moves against Max Warmerdam and Fedoseev defeating an out-of-form Arjun Erigaisi. In the Challengers, Thai Dai Van Nguyen, Erwin l'Ami and Lu Miaoyi retained their co-lead after drawing their games, while Vaishali Rameshbabu, Divya Deshmukh and Benjamin Bok secured wins to close the gap at the top. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-4",
+         "pubDate" : "Wed, 22 Jan 2025 10:05:00",
+         "title" : "Tata Steel Chess R4: Pragg scores third win in a row, leads"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117449334.cms\" />The upcoming Norway Chess tournament, from May 26 to June 6, will feature top-ranked players including Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura. With a mix of seasoned grandmasters and rising stars like D Gukesh and Arjun Erigaisi, the event is set to be one of the strongest and most thrilling in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Praggnanandhaa leads Tata Steel Masters after four rounds - 4"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3394",
+         "pubDate" : "Tue, 21 Jan 2025 22:00:28",
+         "title" : "Chess Championships at 8th CSIT World Sports Games: Registration open"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117437476.cms\" />India's Arjun Erigaisi faced his third defeat in the Tata Steel Chess Tournament 2025, while Praggnanandhaa Rameshbabu leads the Masters with 3.5 points. Pentala Harikrishna secured a win, and Fabiano Caruana and Anish Giri drew their game. In the Challengers section, Vaishali Rameshbabu claimed victory. Miaoyi Lu shares the top spot after a draw.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-issues-statement-on-freestyle-chess",
          "pubDate" : "Tue, 21 Jan 2025 15:32:00",
          "title" : "FIDE Slams Freestyle Chess For Creating 'Unavoidable Divisions,' Threatens Legal Action"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu scored a third consecutive victory to become the sole leader at the Tata Steel Masters in Wijk aan Zee. Pragg defeated Leon Luke Mendonca with white to grab the sole lead. The other two decisive games in the Masters saw Pentala Harikrishna beating Max Warmerdam and Vladimir Fedoseev upsetting an out-of-form Arjun Erigaisi. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Tue, 21 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Pragg takes the sole lead"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu is the sole leader of the 2025 Tata Steel Chess Masters on 3.5/4 after smoothly outplaying GM Leon Luke Mendonca for a third win in a row. GM Pentala Harikrishna scored the day&#39;s most beautiful win by sacrificing both ...",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-at-4-d-gukesh-5th-in-latest-fide-chess-rankings/articleshow/116860166.cms",
          "pubDate" : "Wed, 01 Jan 2025 15:11:12",
          "title" : "Arjun Erigaisi at 4, D Gukesh 5th in latest FIDE Chess rankings"
-      },
-      {
-         "description" : "Clubs and other chess organisations can now renew their insurance through Green Insurance Group by using the renewal/application form link below. All applications and payments should be sent to Green...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2024-25/",
-         "pubDate" : "Wed, 01 Jan 2025 09:00:33",
-         "title" : "Clubs & Congress Insurance 2024/25"
       }
    ]
 }
