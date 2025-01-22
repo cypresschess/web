@@ -34,7 +34,7 @@ news_feed (
          "title" : "Tata Steel Chess - Pragg takes the sole lead"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu is the sole leader of the 2025 Tata Steel Chess Masters on 3.5/4 after making it three wins in a row by smoothly outplaying GM Leon Luke Mendonca. GM Pentala Harikrishna scored the day&#39;s most beautiful win after sacrif...",
+         "description" : "GM Praggnanandhaa Rameshbabu is the sole leader of the 2025 Tata Steel Chess Masters on 3.5/4 after smoothly outplaying GM Leon Luke Mendonca for a third win in a row. GM Pentala Harikrishna scored the day&#39;s most beautiful win by sacrificing both ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-4",
