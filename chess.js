@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117449334.cms\" />The upcoming Norway Chess tournament, from May 26 to June 6, will feature top-ranked players including Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura. With a mix of seasoned grandmasters and rising stars like D Gukesh and Arjun Erigaisi, the event is set to be one of the strongest and most thrilling in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-arjun-erigaisi-to-lead-indias-charge-in-norway-chess-2025/articleshow/117449334.cms",
+         "pubDate" : "Wed, 22 Jan 2025 07:42:44",
+         "title" : "Gukesh, Erigaisi to lead India's charge in Norway Chess 2025"
+      },
+      {
          "description" : " Praggnanandhaa took the sole lead of the Tata Steel Masters after four rounds, half a point clear of Nodirbek Abdusattorov who struggled to a draw after missing an early chance. It is still very early days of the Tata Steel tournament and Praggnanandhaa has started well before only to fall away. Today he had white against Leon Luke Mendonca, the lowest rated player in the tournament and clearly struggling. Praggnanandhaa had a serious advantage by move 16 and was clearly winning by move 27. Joint leader Abdusattorov had a chance to be much better with 15.c5! instead 15.Bf4? left Wei Yi pressing for a few moves but by move 24 the game was equal and drawn on move 35. Arjun Erigaisi was one of",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -334,7 +342,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-chess-4-the-masses-sponsored-by-kick",
-         "pubDate" : "Fri, 17 Jan 2025 19:25:43",
+         "pubDate" : "Fri, 17 Jan 2025 19:25:00",
          "title" : "Announcing Hikaru's Chess 4 The Masses Sponsored by Kick"
       },
       {
@@ -968,30 +976,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2024-25/",
          "pubDate" : "Wed, 01 Jan 2025 09:00:33",
          "title" : "Clubs & Congress Insurance 2024/25"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3371",
-         "pubDate" : "Wed, 01 Jan 2025 07:36:13",
-         "title" : "2024 FIDE World Blitz Championship: Carlsen, Nepomniachtchi share gold; Ju Wenjun triumphs in Women's Blitz"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116846191.cms\" />In a historic decision, Magnus Carlsen and Ian Nepomniachtchi chose to share the 2024 World Blitz Championship title after a series of intense and closely-fought games in New York. Following a tie in the sudden death rounds, FIDE and both players agreed on the unprecedented outcome, marking the first dual winners in the championship's history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/explained-why-magnus-carlsen-and-ian-nepomniachtchi-shared-world-blitz-chess-title/articleshow/116846191.cms",
-         "pubDate" : "Wed, 01 Jan 2025 05:06:22",
-         "title" : "Explained: Why Carlsen, Nepo shared World Blitz title"
-      },
-      {
-         "description" : " What a year! The highlights of 2024 have been memorable! We have crowned a new world champion and ushered in a new era of rising stars. Eighteen-year-old Gukesh Dommaraju of India won the world title by beating Ding Liren in thrilling fashion. The 14-game match saw interesting ideas, tough struggles, and two comebacks. Despite the The post <a href=\"https://thechessdrum.net/blog/2024/12/31/the-chess-drums-highlights-of-2024/\">The Chess Drum's Highlights of 2024</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2024/12/31/the-chess-drums-highlights-of-2024/",
-         "pubDate" : "Wed, 01 Jan 2025 04:54:21",
-         "title" : "The Chess Drum's Highlights of 2024"
       }
    ]
 }
