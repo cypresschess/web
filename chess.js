@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117463640.cms\" />India will host the 2025 FIDE Chess World Cup from October 31 to November 27, as confirmed by the All India Chess Federation (AICF). The hosting city will be decided in an upcoming AICF meeting. This follows significant achievements by Indian chess players, including Gukesh Dommaraju's historic World Chess Championship win and the team's gold medals at the 2024 Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-host-fide-chess-world-cup-2025-arjuna-awardee-surprised-at-the-move/articleshow/117463640.cms",
+         "pubDate" : "Wed, 22 Jan 2025 16:23:31",
+         "title" : "India to host FIDE Chess World Cup 2025; Arjuna Awardee 'surprised' at the move"
+      },
+      {
+         "description" : "I spent the past weekend in London, filming content for Alessia's YouTube channel. When people realized I was a GM and Coach, they approached me to ask some questions. At least a dozen times, I had this exact conversation: \"Oh, you are a Grandmaster and Coach. Can I ask you a question about chess improvement?\" []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/secret-to-chess-improvement/",
+         "pubDate" : "Wed, 22 Jan 2025 14:51:29",
+         "title" : "One of my subscribers beat me - here is how"
+      },
+      {
+         "description" : "The Tata Steel Chess tournament is taking place from 18 January until 2 February in Wijk aan Zee. Praggnanandhaa Rameshbabu scored a third consecutive victory in round 4 to become the sole leader in the Masters section. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Wed, 22 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu claimed a third consecutive win in the Tata Steel Masters, defeating Leon Luke Mendonca to take the sole lead after four rounds. Pentala Harikrishna and Vladimir Fedoseev also scored victories, with Harikrishna winning in just 23 moves against Max Warmerdam and Fedoseev defeating an out-of-form Arjun Erigaisi. In the Challengers, Thai Dai Van Nguyen, Erwin l'Ami and Lu Miaoyi retained their co-lead after drawing their games, while Vaishali Rameshbabu, Divya Deshmukh and Benjamin Bok secured wins to close the gap at the top. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-4",
          "pubDate" : "Wed, 22 Jan 2025 10:05:00",
          "title" : "Tata Steel Chess R4: Pragg scores third win in a row, leads"
+      },
+      {
+         "description" : "Titled Tuesday set a participation record for the third straight week on January 21, with 996 players joining, the most of the doubles era (since February 1, 2022). GM Hikaru Nakamura won his second straight Titled Tuesday in the event with tiebre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-rasulov-win-titled-tuesday-january-21-2025",
+         "pubDate" : "Wed, 22 Jan 2025 07:55:17",
+         "title" : "Nearly 1,000 Join Titled Tuesday As Hikaru Wins Again"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117449334.cms\" />The upcoming Norway Chess tournament, from May 26 to June 6, will feature top-ranked players including Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura. With a mix of seasoned grandmasters and rising stars like D Gukesh and Arjun Erigaisi, the event is set to be one of the strongest and most thrilling in chess history.",
@@ -24,6 +56,22 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-leads-tata-steel-masters-after-four-rounds",
          "pubDate" : "Wed, 22 Jan 2025 00:04:00",
          "title" : "Praggnanandhaa leads Tata Steel Masters after four rounds - 4"
+      },
+      {
+         "description" : "This week's Wednesday Workout begins a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! There's no better place to start than with IM Carissa Yip, who boasted several strong wins in the rapid and a top-eight finish in the blitz. She even did us the favor of taking over our Twitter account for a few brief, glorious moments. In her own words, \"she may have lost the match, but she won our hearts.\" <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-1-yip-week",
+         "pubDate" : "Wed, 22 Jan 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 1 (Yip Week)"
+      },
+      {
+         "description" : "World Champion D Gukesh needed six hours to draw, while R Praggnanandhaa took the sole lead overall with 3.5/4",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43512560/r-praggnanandhaa-leads-third-win-d-gukesh-draws-round-4-tata-steel-chess?device=featurephone",
+         "pubDate" : "Tue, 21 Jan 2025 22:36:13",
+         "title" : "Pragg leads after third win, Gukesh draws in Round 4 of Tata Steel Chess"
       },
       {
          "description" : "",
@@ -730,14 +778,6 @@ news_feed (
          "title" : "Sanctions suspended after Moroccan Chess Federation complies with obligations for the 2023 King Mohammed VI Tournament"
       },
       {
-         "description" : "The University of Texas at Rio Grande Valley A-team (UTRGV-A) took clear first at the 2025 Pan-American Intercollegiate Team Championship (Pan-Am) with a perfect 6/6 score. The tournament was hosted by the Charlotte Chess Center (CCC) and held from January 2 through 6 at the University Place Hilton in Charlotte, North Carolina.UTRGV-A entered with the third-highest average rating (2606) and three GMs on their five-player roster. GMs Viktor Gazik, Gleb Dudin, and Shawn Rodrigue-Lemieux were joined by IMs Juraj Druska and Irakli Beradze on boards two and four. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> UTRGV-A (All photos courtesy of Kelly Centrelli",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/university-texas-rio-grande-valley-wins-2025-pan-american-intercollegiate-championships",
-         "pubDate" : "Thu, 09 Jan 2025 00:00:00",
-         "title" : "University of Texas Rio Grande Valley Wins 2025 Pan-American Intercollegiate Championship in Charlotte"
-      },
-      {
          "description" : "The European Women's Rapid &#38; Blitz Chess Championships 2024 take place in Monte-Carlo, Monaco, from 9-13 January. The European Women's Blitz Chess Championship 2024 is first on the schedule and will be played on Friday, 10th of January, with the participation of 134 players from 28 European federations. The event will be played in 13 rounds, swiss system, with the time control of 3 minutes + 2 seconds, and features the prize fund of 15.200 EUR. GM Alexandra Kosteniuk (SUI, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -792,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3379",
          "pubDate" : "Tue, 07 Jan 2025 11:38:38",
          "title" : "FIDE Council approves changes to FIDE Circuit 2025 Regulations"
-      },
-      {
-         "description" : "It&#39;s that time of the year again! We&#39;re excited to announce the Chess.com Puzzles Championship. The event will take place on January 16 and 17 and feature a $5,000 prize fund.&#38;nbsp; This year, the event will be a part of the Chess.com Community ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-puzzles-championship-2025",
-         "pubDate" : "Tue, 07 Jan 2025 08:00:00",
-         "title" : "It's Tactics Time! The Chess.com Puzzles Championship Starts On January 16"
       },
       {
          "description" : "",
@@ -968,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3372",
          "pubDate" : "Wed, 01 Jan 2025 23:48:33",
          "title" : "Afruza Khamdamova soars in January 2025 rating list"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116860166.cms\" />The latest FIDE rankings for 2025 see Arjun Erigaisi hold the fourth spot, with D Gukesh securing fifth as the new Classical World Champion. Viswanathan Anand is tenth. Nine Indians feature in the top 50, with Koneru Humpy leading the Indian women at sixth overall. Chinese women dominate the top four positions in the women's rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-at-4-d-gukesh-5th-in-latest-fide-chess-rankings/articleshow/116860166.cms",
-         "pubDate" : "Wed, 01 Jan 2025 15:11:12",
-         "title" : "Arjun Erigaisi at 4, D Gukesh 5th in latest FIDE Chess rankings"
       }
    ]
 }
