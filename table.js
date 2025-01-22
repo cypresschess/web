@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2025-01-20","72","<a href=http://www.uschess.org/msa/XtblMain.php?202501206462 target='_blank'>MLK DAY SCHOLASTIC</a>",
+"HOUSTON","2025-01-17  - 01-19","39","<a href=http://www.uschess.org/msa/XtblMain.php?202501196542 target='_blank'>MLK DAY OPEN - PREMIER</a>",
+"HOUSTON","2025-01-17  - 01-19","61","<a href=http://www.uschess.org/msa/XtblMain.php?202501196472 target='_blank'>MLK DAY OPEN</a>",
+"HOUSTON","2025-01-18","16","<a href=http://www.uschess.org/msa/XtblMain.php?202501186522 target='_blank'>MLK DAY BLITZ</a>",
 "SUGAR LAND","2025-01-17","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501173392 target='_blank'>FBCC 2025 NATIONAL KIDS INVENTOR DA</a>",
 "SPRING","2025-01-17","25","<a href=http://www.uschess.org/msa/XtblMain.php?202501173292 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-01-17","30","<a href=http://www.uschess.org/msa/XtblMain.php?202501173242 target='_blank'>EVENT NAME MISSING</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2024-05-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202405255572 target='_blank'>MAY 25TH 2024 SATURDAY SWISS AT NOO</a>",
 "KINGWOOD","2024-05-25","17","<a href=http://www.uschess.org/msa/XtblMain.php?202405255492 target='_blank'>KINGWOOD BLITZ MAY 2024</a>",
 "HOUSTON","2024-05-25","18","<a href=http://www.uschess.org/msa/XtblMain.php?202405255272 target='_blank'>CHESSPANDA05252024SATURDAY</a>",
-"SPRING","2024-05-24","29","<a href=http://www.uschess.org/msa/XtblMain.php?202405245212 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-05-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202405245172 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-05-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202405245092 target='_blank'>FBCC 2024 NATIONAL LUCKY PENNY DAY</a>",
-"HOUSTON","2024-05-18  - 05-19","42","<a href=http://www.uschess.org/msa/XtblMain.php?202405193502 target='_blank'>$1,500 MAY SHOOTOUT U2400 + A BLITZ</a>",
 ]);
