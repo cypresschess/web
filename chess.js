@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Praggnanandhaa took the sole lead of the Tata Steel Masters after four rounds, half a point clear of Nodirbek Abdusattorov who struggled to a draw after missing an early chance. It is still very early days of the Tata Steel tournament and Praggnanandhaa has started well before only to fall away. Today he had white against Leon Luke Mendonca, the lowest rated player in the tournament and clearly struggling. Praggnanandhaa had a serious advantage by move 16 and was clearly winning by move 27. Joint leader Abdusattorov had a chance to be much better with 15.c5! instead 15.Bf4? left Wei Yi pressing for a few moves but by move 24 the game was equal and drawn on move 35. Arjun Erigaisi was one of",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-leads-tata-steel-masters-after-four-rounds",
+         "pubDate" : "Wed, 22 Jan 2025 00:04:00",
+         "title" : "Praggnanandhaa leads Tata Steel Masters after four rounds - 4"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117437476.cms\" />India's Arjun Erigaisi faced his third defeat in the Tata Steel Chess Tournament 2025, while Praggnanandhaa Rameshbabu leads the Masters with 3.5 points. Pentala Harikrishna secured a win, and Fabiano Caruana and Anish Giri drew their game. In the Challengers section, Vaishali Rameshbabu claimed victory. Miaoyi Lu shares the top spot after a draw.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-becomes-sole-leader-india-no-1-arjun-erigasi-blunders-into-another-defeat/articleshow/117437476.cms",
          "pubDate" : "Tue, 21 Jan 2025 19:44:34",
          "title" : "New World No. 8 Pragg becomes sole leader at Tata Steel Chess"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) has criticized Freestyle Chess for branding its upcoming Grand Slam tour as a &#34;World Championship,&#34; claiming the move threatens to divide the chess community and warning of potential legal action. The on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-issues-statement-on-freestyle-chess",
+         "pubDate" : "Tue, 21 Jan 2025 15:32:00",
+         "title" : "FIDE Slams Freestyle Chess For Creating 'Unavoidable Divisions,' Threatens Legal Action"
       },
       {
          "description" : "Praggnanandhaa Rameshbabu scored a third consecutive victory to become the sole leader at the Tata Steel Masters in Wijk aan Zee. Pragg defeated Leon Luke Mendonca with white to grab the sole lead. The other two decisive games in the Masters saw Pentala Harikrishna beating Max Warmerdam and Vladimir Fedoseev upsetting an out-of-form Arjun Erigaisi. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
@@ -18,11 +34,11 @@ news_feed (
          "title" : "Tata Steel Chess - Pragg takes the sole lead"
       },
       {
-         "description" : "GMs Praggnanandhaa Rameshbabu is the sole leader of the 2025 Tata Steel Chess Masters on 3.5/4 after making it three wins in a row by smoothly outplaying GM Leon Luke Mendonca. GM Pentala Harikrishna scored the day&#39;s most beautiful win after sacri...",
+         "description" : "GM Praggnanandhaa Rameshbabu is the sole leader of the 2025 Tata Steel Chess Masters on 3.5/4 after making it three wins in a row by smoothly outplaying GM Leon Luke Mendonca. GM Pentala Harikrishna scored the day&#39;s most beautiful win after sacrif...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 21 Jan 2025 12:08:34",
+         "pubDate" : "Tue, 21 Jan 2025 12:08:00",
          "title" : "Praggnanandhaa Leads After 3rd Straight Win; Heartbreak For Arjun"
       },
       {
@@ -770,14 +786,6 @@ news_feed (
          "title" : "It's Tactics Time! The Chess.com Puzzles Championship Starts On January 16"
       },
       {
-         "description" : "In an exclusive first interview, Ella Victoria Carlsen has shed light on her relationship with GM Magnus Carlsen, her new role, and their shared journey. The couple exchanged vows in a picturesque ceremony in the snowy hills of Oslo, attended by...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen",
-         "pubDate" : "Tue, 07 Jan 2025 07:30:00",
-         "title" : "Ella Victoria Carlsen Opens Up About Life With Magnus And Plans For The Future"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2024/12/31/the-chess-drums-highlights-of-2024/",
          "pubDate" : "Wed, 01 Jan 2025 04:54:21",
          "title" : "The Chess Drum's Highlights of 2024"
-      },
-      {
-         "description" : "Carlsen and Nepo agreed to a draw after three straight draws in tiebreakers; while Ju beat compatriot Lei Tingjie.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43242421/fide-world-blitz-chess-championships-2024-magnus-carlsen-ian-nepomniachtchi-share-title-ju-wenjun-win-women?device=featurephone",
-         "pubDate" : "Tue, 31 Dec 2024 22:58:02",
-         "title" : "Carlsen, Nepo agree to share open Blitz title; Ju wins women's"
       }
    ]
 }
