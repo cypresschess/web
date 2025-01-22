@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Frestyle Chess would like to hold its Grand Slam as an official FIDE World Championship. Initially, FIDE was interested, but then it refused and threatened to ban the players from FIDE tournaments. With a FIDE statement and a video from Nakamura, the tone has become more acrimonious.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-vs-freestyle-kontroverse-verschaeft-sich",
+         "pubDate" : "Wed, 22 Jan 2025 21:00:00",
+         "title" : "FIDE vs. Freestyle: Controversy escalates"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117463640.cms\" />India will host the 2025 FIDE Chess World Cup from October 31 to November 27, as confirmed by the All India Chess Federation (AICF). The hosting city will be decided in an upcoming AICF meeting. This follows significant achievements by Indian chess players, including Gukesh Dommaraju's historic World Chess Championship win and the team's gold medals at the 2024 Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-host-fide-chess-world-cup-2025-arjuna-awardee-surprised-at-the-move/articleshow/117463640.cms",
          "pubDate" : "Wed, 22 Jan 2025 16:23:31",
-         "title" : "India to host FIDE Chess World Cup 2025; Arjuna Awardee 'surprised' at the move"
+         "title" : "India to host Chess World Cup 2025; Arjuna Awardee 'surprised'"
       },
       {
          "description" : "I spent the past weekend in London, filming content for Alessia's YouTube channel. When people realized I was a GM and Coach, they approached me to ask some questions. At least a dozen times, I had this exact conversation: \"Oh, you are a Grandmaster and Coach. Can I ask you a question about chess improvement?\" []",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Wed, 22 Jan 2025 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "GM Gata Kamsky, a former FIDE world championship challenger and world number-four, spoke earnestly about his difficult past on Ilya Levitov&#39;s YouTube channel in an interview made available in English last week (originally recorded in October). T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kamsky-candid-interview-wanted-life-of-normal-kid",
+         "pubDate" : "Wed, 22 Jan 2025 10:37:00",
+         "title" : "'I Wanted To Live The Life Of A Normal Kid,' Kamsky Says In Candid Interview About His Past"
       },
       {
          "description" : "Praggnanandhaa Rameshbabu claimed a third consecutive win in the Tata Steel Masters, defeating Leon Luke Mendonca to take the sole lead after four rounds. Pentala Harikrishna and Vladimir Fedoseev also scored victories, with Harikrishna winning in just 23 moves against Max Warmerdam and Fedoseev defeating an out-of-form Arjun Erigaisi. In the Challengers, Thai Dai Van Nguyen, Erwin l'Ami and Lu Miaoyi retained their co-lead after drawing their games, while Vaishali Rameshbabu, Divya Deshmukh and Benjamin Bok secured wins to close the gap at the top. | Photo: Tata Steel Chess / Lennart Ootes",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-leads-tata-steel-masters-after-four-rounds",
          "pubDate" : "Wed, 22 Jan 2025 00:04:00",
          "title" : "Praggnanandhaa leads Tata Steel Masters after four rounds - 4"
+      },
+      {
+         "description" : "The deadline for submitting the application is April 1, 2025 at 11:59 p.m. PDT. Incomplete applications will not be reviewed by the selection committee.If you are a current US Chess member and a high school junior or senior, you are eligible to apply for one of the following two awards:2025 National Scholar Chess Player Award - total of five $1,500 scholarships awarded.2025 The Scholar Chess Player Ambassador Award for players rated under 2000 - total of one $1,500 scholarship awarded.The scholarships are provided by the US Chess Trust, with a generous, supporting contribution from the National Scholastic Chess Foundation (NSCF), to recognize and encourage outstanding high school students wh",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-scholar-chess-player-awards",
+         "pubDate" : "Wed, 22 Jan 2025 00:00:00",
+         "title" : "The 2025 Scholar Chess Player Awards"
       },
       {
          "description" : "This week's Wednesday Workout begins a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! There's no better place to start than with IM Carissa Yip, who boasted several strong wins in the rapid and a top-eight finish in the blitz. She even did us the favor of taking over our Twitter account for a few brief, glorious moments. In her own words, \"she may have lost the match, but she won our hearts.\" <br> <br> ",
@@ -458,6 +482,14 @@ news_feed (
          "title" : "AICF announces Rs 1 crore prize for world champion D Gukesh"
       },
       {
+         "description" : "At the end of the old millennium, 25 years ago, the right side of last month's post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html\">December 1974 & 1999 'On the Cover'</A> (December 2024), announced, <BLOCKQUOTE> Whether you consider it to be the millennium or just the beginning of a new year, one thing is clear: Chess is still going strong. </BLOCKQUOTE> <P> At the start of the new millennium, also 25 years ago, it was business as usual. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa16.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Holiday in Harlem!' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQU",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/january-1975-2000-on-cover.html",
+         "pubDate" : "Thu, 16 Jan 2025 16:09:00",
+         "title" : "January 1975 & 2000 'On the Cover'"
+      },
+      {
          "description" : "GMs Ray Robson, Andy Woodward, Daniel Naroditsky, Pranav Venkatesh, and Raunak Sadhwani, as well as IMs Liam Putnam, Yoseph Theolifus Taher, and Anthony Atasanov, have qualified for the eight-player Knockout in the 2025 Chess.com Puzzles Champions...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "FIDE World School Chess Championships 2025 - Registration Information"
       },
       {
-         "description" : "FIDE and the Chess Federation of Montenegro have announced the 2025 World Junior Chess Championships will be held from February 23 to March 8 at the Hotel Palas, Petrovac, Montenegro. There will be two sections in the tournament, Open and Girls. A player's age as of January 1, 2025 determines their age eligibility for a section.Players must not be 20 years old after January 1, 2025.Direct titles shall be awarded according to the FIDE regulations and the complete regulations for the event can be viewed at Event Regulations. TOURNAMENT DETAILSEach event will be 11 rounds, using a time control is 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, with an increme",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fide-world-juniors-u20-2025-registration-information",
-         "pubDate" : "Fri, 10 Jan 2025 00:00:00",
-         "title" : "FIDE World Juniors U20 2025 - Registration Information"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -816,14 +840,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/wgm-title-should-be-abolished/articleshow/117038726.cms",
          "pubDate" : "Wed, 08 Jan 2025 03:08:34",
          "title" : "'WGM title should be abolished'"
-      },
-      {
-         "description" : "GM Hans Niemann knocked out GM Maxime Vachier-Lagrave and won the first game against GM Ian Nepomniachtchi, but he&#39;s out of the 2025 Weissenhaus Freestyle Chess Grand Slam Play-In after blundering mate-in-one at the end of a thrilling blitz playof...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-day-2",
-         "pubDate" : "Tue, 07 Jan 2025 16:31:00",
-         "title" : "Nepomniachtchi In Semifinals After Niemann Blunders Mate-In-1"
       },
       {
          "description" : "",
