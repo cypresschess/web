@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117474596.cms\" />At the Tata Steel Chess Tournament 2025, India's D Gukesh has excelled, remaining unbeaten and overtaking Arjun Erigaisi to become the new India No. 1. Gukesh's strong performances contrast with Erigaisi's struggles, who has yet to secure a win and has dropped to the bottom of the leaderboard, impacting his rating.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-world-chess-champion-d-gukesh-pipped-arjun-erigaisi-to-become-new-india-no-1/articleshow/117474596.cms",
+         "pubDate" : "Thu, 23 Jan 2025 05:19:57",
+         "title" : "How Gukesh pipped Erigaisi to become new India No. 1"
+      },
+      {
          "description" : " There were three decisive games in Round 5 of the Tata Steel Masters and they all were wins for players at, or near the top, of the standings. Nodirbek Abdusattorov beat Jorden Van Foreest in spite of being worse out of the opening. Once he equalised after the inaccurate 17.b5?! he quickly took over 20.Nd5?! 24.f4?! and 27.a5?! were all inaccurate from Van Foreest and Abdusattorov brought home the point convincingly after that. Sole leader Praggnanandhaa faced Max Warmerdam with black and chose the French. The Exchange variation has a better reputation that it used to, but I'm not sure Warmerdam wasn't playing for a draw from the start, they agreed a draw on move 40. World Champion Gukesh b",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3395",
          "pubDate" : "Thu, 23 Jan 2025 00:14:29",
          "title" : "Tata Steel Masters 2025: Two share the lead after Round 5"
+      },
+      {
+         "description" : "R Praggnanandhaa was joined in the lead by Nodirbek Abdusattorov, with D Gukesh only 0.5 behind them.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43527767/gukesh-grinds-win-close-gap-leader-praggnanandhaa-round-5-tata-steel-chess?device=featurephone",
+         "pubDate" : "Wed, 22 Jan 2025 22:51:53",
+         "title" : "Gukesh grinds out win to close gap on leader Pragg in Round 5 of Tata Steel Chess"
       },
       {
          "description" : "Frestyle Chess would like to hold its Grand Slam as an official FIDE World Championship. Initially, FIDE was interested, but then it refused and threatened to ban the players from FIDE tournaments. With a FIDE statement and a video from Nakamura, the tone has become more acrimonious.",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/03/chess-jeans-clad-carlsen-defies-critics-to-share-blitz-with-nepomniachtchi",
          "pubDate" : "Fri, 03 Jan 2025 08:00:51",
          "title" : "Chess: jeans-clad Carlsen defies critics to share Blitz with Nepomniachtchi"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116889034.cms\" />Chess world champion D Gukesh on Thursday expressed gratitude for being awarded the Major Dhyan Chand Khel Ratna by the Indian government. Recently crowned the youngest world chess champion, Gukesh promised to continue striving for excellence. He was honoured alongside shooter Manu Bhaker, hockey captain Harmanpreet Singh, and para-athlete Praveen Kumar.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-promises-best-moves-on-64-squares-after-being-chosen-for-prestigious-khel-ratna-award/articleshow/116889034.cms",
-         "pubDate" : "Thu, 02 Jan 2025 13:48:55",
-         "title" : "Gukesh promises best moves after being chosen for Khel Ratna award"
       }
    ]
 }
