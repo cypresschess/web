@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On January 26, 2025, the KCF Academy subscribers will witness an extraordinary event as Garry Kasparov, the legendary grandmaster and former World Chess Champion, delivers an exclusive live lecture. This lecture is a must-attend for chess enthusiasts and professional players, offering a rare opportunity to learn directly from one of the greatest minds in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/get-inspired-by-garry-kasparov",
+         "pubDate" : "Thu, 23 Jan 2025 18:00:00",
+         "title" : "Get inspired - by Garry Kasparov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3397",
+         "pubDate" : "Thu, 23 Jan 2025 16:23:07",
+         "title" : "London, UK to host FIDE World Rapid and Blitz Team Championships 2025"
+      },
+      {
+         "description" : "Round 5 of the Tata Steel Masters saw Nodirbek Abdusattorov taking down Jorden van Foreest in a sharp encounter to join Praggnanandhaa Rameshbabu in the lead, each with 4/5 points. Meanwhile, Gukesh Dommaraju collected a second win as world champion and Vladimir Fedoseev obtained an upset victory over Fabiano Caruana. In the Challengers, Erwin l'Ami beat Divya Deshmukh to grab the sole lead. | Photo: Tata Steel Chess / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-5",
+         "pubDate" : "Thu, 23 Jan 2025 14:00:00",
+         "title" : "Tata Steel Chess R5: Abdusattorov catches Pragg, Fedoseev stuns Caruana"
+      },
+      {
          "description" : "ChessBase Magazine offers three opening videos in each issue (total playing time: over an hour). In the current issue #223, our authors, Rustam Kasimdzhanov and Daniel King, present two intriguing and very early 'deviations': Sicilian with 2.a4 and Petroff with 3...Nxe4 - both have recently been used by notable players, in the first case it was Kasimdzhanov himself in his game against Mohammad Amin Tabatabaei, in the second case Wesley So against Hans Moke Niemann. The third opening video of CBM 223 is by Robert Ris: Spanish Delayed Exchange Variation with 7.Re1 - since the 2023 World Championship match, this variation can be seen again and again at top level. Take a look! Until the end of t",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "NATIONAL TEAM CHESS CHAMPIONSHIP - 2025"
       },
       {
+         "description" : "In a YouTube video entitled &#34;Being a Chess Professional (in Europe) sucks.&#34;&#38;nbsp;Austrian GM&#38;nbsp;Felix Blohberger spoke out about several challenges professional players face outside of the elite (top 30).&#38;nbsp;&#34;This video is not there to blame a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/being-a-chess-professional-in-europe-sucks-blohberger",
+         "pubDate" : "Thu, 23 Jan 2025 09:35:37",
+         "title" : "'Being A Chess Professional (In Europe) Sucks': GM Blohberger Raises Concerns"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,6 +74,14 @@ news_feed (
          "title" : "How Gukesh pipped Erigaisi to become new India No. 1"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3398",
+         "pubDate" : "Thu, 23 Jan 2025 01:30:36",
+         "title" : "Armenian Championship 2025: Hovhannisyan and Gaboyan defend titles"
+      },
+      {
          "description" : " There were three decisive games in Round 5 of the Tata Steel Masters and they all were wins for players at, or near the top, of the standings. Nodirbek Abdusattorov beat Jorden Van Foreest in spite of being worse out of the opening. Once he equalised after the inaccurate 17.b5?! he quickly took over 20.Nd5?! 24.f4?! and 27.a5?! were all inaccurate from Van Foreest and Abdusattorov brought home the point convincingly after that. Sole leader Praggnanandhaa faced Max Warmerdam with black and chose the French. The Exchange variation has a better reputation that it used to, but I'm not sure Warmerdam wasn't playing for a draw from the start, they agreed a draw on move 40. World Champion Gukesh b",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -56,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3395",
          "pubDate" : "Thu, 23 Jan 2025 00:14:29",
          "title" : "Tata Steel Masters 2025: Two share the lead after Round 5"
+      },
+      {
+         "description" : "US Chess welcomes Jacques deMoss as its new Deputy Executive Director.<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Jacques deMoss<br> <br> A native of Lafayette, Louisiana, Jacques moved to Missouri almost 10 years ago and has made it his home along with his wife of 26 years, Melanie, and their son, Mason. Before joining US Chess, Jacques served as a litigation attorney, corporate general counsel, and nonprofit leader.He's stationed in the St. Louis office and is responsible for the business side of US Chess, including budgeting and oversight of Communications/Publications, HR, Accounting, and member complaint functions.Jacques holds a B.A. in economics/bus",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/demoss-hired-deputy-executive-director",
+         "pubDate" : "Thu, 23 Jan 2025 00:00:00",
+         "title" : "deMoss hired as Deputy Executive Director"
       },
       {
          "description" : "Volodar Murzin is currently one of the greatest Russian talents, and showed his skills by winning the World Rapid Chess Championship in New York in December. However, a conflict subsequently developed between him and his coach Mikhail Kobalia on one side and the Russian Federation on the other. Awful experiences with his violent father have also massively hindered his development as a player. | Photos: Sport.ru",
@@ -96,14 +144,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/secret-to-chess-improvement/",
          "pubDate" : "Wed, 22 Jan 2025 14:51:29",
          "title" : "One of my subscribers beat me - here is how"
-      },
-      {
-         "description" : "Round 5 of the Tata Steel Masters saw Nodirbek Abdusattorov taking down Jorden van Foreest in a sharp encounter to join Praggnanandhaa Rameshbabu in the lead, each with 4/5 points. Meanwhile, Gukesh Dommaraju collected a second win as world champion and Vladimir Fedoseev obtained an upset victory over Fabiano Caruana. In the Challengers, Erwin l'Ami beat Divya Deshmukh to grab the sole lead. | Replay all the games with compute-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Wed, 22 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Wins for Gukesh, Fedoseev and Abdusattorov"
       },
       {
          "description" : "GM Vladimir Fedoseev pounced on an endgame mistake to beat GM Fabiano Caruana in round five of the 2025 Tata Steel Chess Masters and has now defeated the world numbers one, two, and four in the space of four months. GM Nodirbek Abdusattorov caught...",
@@ -826,14 +866,6 @@ news_feed (
          "title" : "Registration Open for FIDE World Cadet & Youth Rapid and Blitz Registration 2025"
       },
       {
-         "description" : "FIDE and the Vrnjacka Banja Municipality have announced the 2025 World School Chess Championships will be held from March 19-29th at the Hotel \"Zepter\", Vrnjacka Banja, Serbia.There will be 12 sections in the tournament, Open and Girls for each age category: Under 17, Under 15, Under 13, Under 11, Under 9 and Under 7. A player's age as of January 1, 2025 determines their age eligibility for a section.Players entitled to participate in each category are:Under 07: Players born on or after 1 January 2018Under 09: Players born on or after 1 January 2016Under 11: Players born on or after 1 January 2014Under 13: Players born on or after 1 January 2012Under 15: Players born on or after 1 January 20",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fide-world-school-chess-championships-2025-registration-information",
-         "pubDate" : "Fri, 10 Jan 2025 00:00:00",
-         "title" : "FIDE World School Chess Championships 2025 - Registration Information"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -880,14 +912,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/simple-plan/",
          "pubDate" : "Wed, 08 Jan 2025 13:55:33",
          "title" : "How to gain 700 points in one year with a simple plan"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev beat GM Ian Nepomniachtchi in the Semifinals and then GM Javokhir Sindarov in a thrilling Final to clinch the last spot in next month&#39;s $750,000 2025 Weissenhaus Freestyle Chess Grand Slam. 19-year-old Sindarov inflicted the o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-play-in-fedoseev-wins",
-         "pubDate" : "Wed, 08 Jan 2025 12:52:00",
-         "title" : "Fedoseev Joins Carlsen & Co. In Weissenhaus After Winning Armageddon Thriller"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117038726.cms\" />R Vaishali, the third Indian woman to achieve the Grandmaster title, reflects on her remarkable 2024, which included contributing to India's Chess Olympiad gold and winning a blitz bronze medal at the World Rapid and Blitz Championship in New York, despite facing challenges like illness and adjusting to the cold weather.",
