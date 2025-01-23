@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3395",
+         "pubDate" : "Thu, 23 Jan 2025 00:14:29",
+         "title" : "Tata Steel Masters 2025: Two share the lead after Round 5"
+      },
+      {
          "description" : "Frestyle Chess would like to hold its Grand Slam as an official FIDE World Championship. Initially, FIDE was interested, but then it refused and threatened to ban the players from FIDE tournaments. With a FIDE statement and a video from Nakamura, the tone has become more acrimonious.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-vs-freestyle-kontroverse-verschaeft-sich",
          "pubDate" : "Wed, 22 Jan 2025 21:00:00",
          "title" : "FIDE vs. Freestyle: Controversy escalates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117467617.cms\" />D Gukesh secured a crucial victory against Vincent Keymer in a 72-move match at the Tata Steel Chess Tournament 2025, marking his second win. R Praggnanandhaa held Max Warmerdam to a draw, maintaining his strong performance. Other notable outcomes included Harikrishna's draw with Wei Yi and Fedoseev's win over Caruana. The Challengers section saw Divya Deshmukh defeated by Erwin l'Ami.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-back-to-winning-ways-praggnanandhaa-arjun-erigaisi-pocket-draws/articleshow/117467617.cms",
+         "pubDate" : "Wed, 22 Jan 2025 20:31:45",
+         "title" : "Tata Steel Chess: Gukesh back to winning ways; Pragg draws"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117463640.cms\" />India will host the 2025 FIDE Chess World Cup from October 31 to November 27, as confirmed by the All India Chess Federation (AICF). The hosting city will be decided in an upcoming AICF meeting. This follows significant achievements by Indian chess players, including Gukesh Dommaraju's historic World Chess Championship win and the team's gold medals at the 2024 Chess Olympiad.",
@@ -26,12 +42,20 @@ news_feed (
          "title" : "One of my subscribers beat me - here is how"
       },
       {
-         "description" : "The Tata Steel Chess tournament is taking place from 18 January until 2 February in Wijk aan Zee. Praggnanandhaa Rameshbabu scored a third consecutive victory in round 4 to become the sole leader in the Masters section. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 16.30 IST)",
+         "description" : "Round 5 of the Tata Steel Masters saw Nodirbek Abdusattorov taking down Jorden van Foreest in a sharp encounter to join Praggnanandhaa Rameshbabu in the lead, each with 4/5 points. Meanwhile, Gukesh Dommaraju collected a second win as world champion and Vladimir Fedoseev obtained an upset victory over Fabiano Caruana. In the Challengers, Erwin l'Ami beat Divya Deshmukh to grab the sole lead. | Replay all the games with compute-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Wed, 22 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Wins for Gukesh, Fedoseev and Abdusattorov"
+      },
+      {
+         "description" : "GM Vladimir Fedoseev pounced on an endgame mistake to beat GM Fabiano Caruana in round five of the 2025 Tata Steel Chess Masters and has now defeated the world numbers one, two, and four in the space of four months. GM Nodirbek Abdusattorov caught...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-5",
+         "pubDate" : "Wed, 22 Jan 2025 12:51:00",
+         "title" : "Fedoseev Beats Caruana; Abdusattorov, Gukesh Also Win Before Showdown"
       },
       {
          "description" : "GM Gata Kamsky, a former FIDE world championship challenger and world number-four, spoke earnestly about his difficult past on Ilya Levitov&#39;s YouTube channel in an interview made available in English last week (originally recorded in October). T...",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kamsky-candid-interview-wanted-life-of-normal-kid",
          "pubDate" : "Wed, 22 Jan 2025 10:37:00",
          "title" : "'I Wanted To Live The Life Of A Normal Kid,' Kamsky Says In Candid Interview About His Past"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu claimed a third consecutive win in the Tata Steel Masters, defeating Leon Luke Mendonca to take the sole lead after four rounds. Pentala Harikrishna and Vladimir Fedoseev also scored victories, with Harikrishna winning in just 23 moves against Max Warmerdam and Fedoseev defeating an out-of-form Arjun Erigaisi. In the Challengers, Thai Dai Van Nguyen, Erwin l'Ami and Lu Miaoyi retained their co-lead after drawing their games, while Vaishali Rameshbabu, Divya Deshmukh and Benjamin Bok secured wins to close the gap at the top. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-4",
-         "pubDate" : "Wed, 22 Jan 2025 10:05:00",
-         "title" : "Tata Steel Chess R4: Pragg scores third win in a row, leads"
       },
       {
          "description" : "Titled Tuesday set a participation record for the third straight week on January 21, with 996 players joining, the most of the doubles era (since February 1, 2022). GM Hikaru Nakamura won his second straight Titled Tuesday in the event with tiebre...",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminars-2025/",
          "pubDate" : "Sun, 19 Jan 2025 07:06:38",
          "title" : "FIDE ARBITER SEMINARS 2025"
-      },
-      {
-         "description" : "Indian chess celebrates a remarkable milestone as Gukesh Dommaraju and Vantika Agrawal are honoured with prestigious national awards for their outstanding achievements. Gukesh, the youngest undisputed world chess champion in history and a double gold medallist at the 45th Chess Olympiad, received the Major Dhyan Chand Khel Ratna Award 2024. Vantika, who also clinched double gold at the Olympiad and a silver at the 19th Asian Games, received the Arjuna Award 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-vantika-awards-india-2025",
-         "pubDate" : "Sat, 18 Jan 2025 22:40:00",
-         "title" : "Gukesh receives Major Dhyan Chand Khel Ratna Award, Arjuna Award for Vantika Agrawal"
       },
       {
          "description" : "",
@@ -826,14 +834,6 @@ news_feed (
          "title" : "Fedoseev Joins Carlsen & Co. In Weissenhaus After Winning Armageddon Thriller"
       },
       {
-         "description" : "The first Titled Tuesdays of 2025 were held on January 7, and they were doozies, featuring record-level participation, big scores, and stacked podiums... all as players begin to scramble to qualify for the 2025 Speed Chess Championships through th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-oparin-win-titled-tuesday-january-7-2025",
-         "pubDate" : "Wed, 08 Jan 2025 09:02:00",
-         "title" : "Titled Tuesday 2025 Starts With A Bang"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117038726.cms\" />R Vaishali, the third Indian woman to achieve the Grandmaster title, reflects on her remarkable 2024, which included contributing to India's Chess Olympiad gold and winning a blitz bronze medal at the World Rapid and Blitz Championship in New York, despite facing challenges like illness and adjusting to the cold weather.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -994,28 +994,12 @@ news_feed (
          "title" : "Gukesh promises best moves after being chosen for Khel Ratna award"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116870839.cms\" />Magnus Carlsen and Ian Nepomniachtchi shared the World Blitz Championship title after three tie-breaking matches, causing controversy in the chess community. Carlsen's initial disqualification for a dress code violation and FIDE's subsequent rule amendments added to the contentious atmosphere, with criticisms from players like Hans Niemann suggesting bias in decision-making.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-fumes-over-joint-world-blitz-title-for-magnus-carlsen-and-ian-nepomniachtchi/articleshow/116870839.cms",
-         "pubDate" : "Thu, 02 Jan 2025 04:18:01",
-         "title" : "Chess world fumes over joint world blitz title for Carlsen and Nepo"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3375",
          "pubDate" : "Thu, 02 Jan 2025 01:05:56",
          "title" : "Fabiano Caruana wins FIDE Circuit 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3372",
-         "pubDate" : "Wed, 01 Jan 2025 23:48:33",
-         "title" : "Afruza Khamdamova soars in January 2025 rating list"
       }
    ]
 }
