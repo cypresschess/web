@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers three opening videos in each issue (total playing time: over an hour). In the current issue #223, our authors, Rustam Kasimdzhanov and Daniel King, present two intriguing and very early 'deviations': Sicilian with 2.a4 and Petroff with 3...Nxe4 - both have recently been used by notable players, in the first case it was Kasimdzhanov himself in his game against Mohammad Amin Tabatabaei, in the second case Wesley So against Hans Moke Niemann. The third opening video of CBM 223 is by Robert Ris: Spanish Delayed Exchange Variation with 7.Re1 - since the 2023 World Championship match, this variation can be seen again and again at top level. Take a look! Until the end of t",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-25",
+         "pubDate" : "Thu, 23 Jan 2025 11:00:00",
+         "title" : "Opening surprises on move 2 and 3!"
+      },
+      {
+         "description" : "We are inviting nominations for the BCET Awards 2025 which are for junior schools (including colleges and other education establishments) and junior clubs in the United Kingdom. The awards to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2025/",
+         "pubDate" : "Thu, 23 Jan 2025 10:04:05",
+         "title" : "British Chess Educational Trust Awards 2025"
+      },
+      {
+         "description" : "Please find the National Team Chess Championship 2025 details here Event Circular Registration form",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-chess-championship-2025/",
+         "pubDate" : "Thu, 23 Jan 2025 09:39:31",
+         "title" : "NATIONAL TEAM CHESS CHAMPIONSHIP - 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3396",
+         "pubDate" : "Thu, 23 Jan 2025 07:23:41",
+         "title" : "FIDE Rapid and Blitz Championships 2025 to be Held in Doha, Qatar"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117474596.cms\" />At the Tata Steel Chess Tournament 2025, India's D Gukesh has excelled, remaining unbeaten and overtaking Arjun Erigaisi to become the new India No. 1. Gukesh's strong performances contrast with Erigaisi's struggles, who has yet to secure a win and has dropped to the bottom of the leaderboard, impacting his rating.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,20 +58,20 @@ news_feed (
          "title" : "Tata Steel Masters 2025: Two share the lead after Round 5"
       },
       {
+         "description" : "Volodar Murzin is currently one of the greatest Russian talents, and showed his skills by winning the World Rapid Chess Championship in New York in December. However, a conflict subsequently developed between him and his coach Mikhail Kobalia on one side and the Russian Federation on the other. Awful experiences with his violent father have also massively hindered his development as a player. | Photos: Sport.ru",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/conflict-volodar-murzin-russian-federation",
+         "pubDate" : "Wed, 22 Jan 2025 23:00:00",
+         "title" : "Volodar Murzin and his coach in conflict with the Chess Federation of Russia"
+      },
+      {
          "description" : "R Praggnanandhaa was joined in the lead by Nodirbek Abdusattorov, with D Gukesh only 0.5 behind them.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/43527767/gukesh-grinds-win-close-gap-leader-praggnanandhaa-round-5-tata-steel-chess?device=featurephone",
          "pubDate" : "Wed, 22 Jan 2025 22:51:53",
          "title" : "Gukesh grinds out win to close gap on leader Pragg in Round 5 of Tata Steel Chess"
-      },
-      {
-         "description" : "Frestyle Chess would like to hold its Grand Slam as an official FIDE World Championship. Initially, FIDE was interested, but then it refused and threatened to ban the players from FIDE tournaments. With a FIDE statement and a video from Nakamura, the tone has become more acrimonious.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-vs-freestyle-kontroverse-verschaeft-sich",
-         "pubDate" : "Wed, 22 Jan 2025 21:00:00",
-         "title" : "FIDE vs. Freestyle: Controversy escalates"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117467617.cms\" />D Gukesh secured a crucial victory against Vincent Keymer in a 72-move match at the Tata Steel Chess Tournament 2025, marking his second win. R Praggnanandhaa held Max Warmerdam to a draw, maintaining his strong performance. Other notable outcomes included Harikrishna's draw with Wei Yi and Fedoseev's win over Caruana. The Challengers section saw Divya Deshmukh defeated by Erwin l'Ami.",
