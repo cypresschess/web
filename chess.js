@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 18-year-old Indian world champion was losing his first-round game in the Netherlands but his Dutch opponent, Anish Giri, blundered fatally when short of time Gukesh Dommaraju played and won his first competitive game as world champion last weekend, but only after surviving a close brush with disaster. The 18-year-old Indian, who captured the crown last month from China's Ding Liren, defeated Anish Giri in the opening round of Tata Steel Wijk aan Zee, the \"chess Wimbledon\", after the Netherlands No 1 failed to spot the winning tactic featured in this week's puzzle. Gukesh arrived in Amsterdam on an overnight flight at 9am, with the game starting five hours later. He was delayed by attend",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jan/24/chess-dommaraju-gukesh-recovers-from-brush-with-disaster-at-wijk-aan-zee",
+         "pubDate" : "Fri, 24 Jan 2025 08:00:04",
+         "title" : "Chess: Dommaraju Gukesh recovers from brush with disaster at Wijk aan Zee"
+      },
+      {
+         "description" : "The 2025 FIDE World Rapid and Blitz Team Championships will be held in London from 10 to 16 June, offering a record $500,000 prize fund. Now in its third edition, the event will bring together top players, emerging talents, and amateurs in mixed-team competition. With London's rich history of hosting major chess tournaments, the championship is set to showcase high-level chess while highlighting the city's role in the global chess boom.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-host-fide-world-rapid-blitz-team-ch-2025",
+         "pubDate" : "Fri, 24 Jan 2025 06:35:00",
+         "title" : "London to host FIDE World Rapid and Blitz Team Championships 2025"
+      },
+      {
          "description" : "On January 26, 2025, the KCF Academy subscribers will witness an extraordinary event as Garry Kasparov, the legendary grandmaster and former World Chess Champion, delivers an exclusive live lecture. This lecture is a must-attend for chess enthusiasts and professional players, offering a rare opportunity to learn directly from one of the greatest minds in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3397",
          "pubDate" : "Thu, 23 Jan 2025 16:23:07",
          "title" : "London, UK to host FIDE World Rapid and Blitz Team Championships 2025"
-      },
-      {
-         "description" : "Round 5 of the Tata Steel Masters saw Nodirbek Abdusattorov taking down Jorden van Foreest in a sharp encounter to join Praggnanandhaa Rameshbabu in the lead, each with 4/5 points. Meanwhile, Gukesh Dommaraju collected a second win as world champion and Vladimir Fedoseev obtained an upset victory over Fabiano Caruana. In the Challengers, Erwin l'Ami beat Divya Deshmukh to grab the sole lead. | Photo: Tata Steel Chess / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-5",
-         "pubDate" : "Thu, 23 Jan 2025 14:00:00",
-         "title" : "Tata Steel Chess R5: Abdusattorov catches Pragg, Fedoseev stuns Caruana"
       },
       {
          "description" : "ChessBase Magazine offers three opening videos in each issue (total playing time: over an hour). In the current issue #223, our authors, Rustam Kasimdzhanov and Daniel King, present two intriguing and very early 'deviations': Sicilian with 2.a4 and Petroff with 3...Nxe4 - both have recently been used by notable players, in the first case it was Kasimdzhanov himself in his game against Mohammad Amin Tabatabaei, in the second case Wesley So against Hans Moke Niemann. The third opening video of CBM 223 is by Robert Ris: Spanish Delayed Exchange Variation with 7.Re1 - since the 2023 World Championship match, this variation can be seen again and again at top level. Take a look! Until the end of t",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/demoss-hired-deputy-executive-director",
          "pubDate" : "Thu, 23 Jan 2025 00:00:00",
          "title" : "deMoss hired as Deputy Executive Director"
-      },
-      {
-         "description" : "Volodar Murzin is currently one of the greatest Russian talents, and showed his skills by winning the World Rapid Chess Championship in New York in December. However, a conflict subsequently developed between him and his coach Mikhail Kobalia on one side and the Russian Federation on the other. Awful experiences with his violent father have also massively hindered his development as a player. | Photos: Sport.ru",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/conflict-volodar-murzin-russian-federation",
-         "pubDate" : "Wed, 22 Jan 2025 23:00:00",
-         "title" : "Volodar Murzin and his coach in conflict with the Chess Federation of Russia"
       },
       {
          "description" : "R Praggnanandhaa was joined in the lead by Nodirbek Abdusattorov, with D Gukesh only 0.5 behind them.",
@@ -400,6 +400,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3390",
          "pubDate" : "Sun, 19 Jan 2025 19:35:09",
          "title" : "Inclusion, change, impact: Highlights from the World Social Chess Initiatives Marathon"
+      },
+      {
+         "description" : "For the third time in less than a year, the monthly featured Flickr post contains two keywords: Shoreditch graffiti [street art]. The previous post was last month's <A HREF=\"https://chessforallages.blogspot.com/2024/12/hackney-wick-street-art.html\">Hackney Wick Street Art</A> (December 2024). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa19.jpg\" WIDTH=400 HEIGHT=265><BR> <A HREF=\"https://www.flickr.com/photos/maureen_barlin/54238113123/\">Festive Hair</A> &#169; Flickr user <I>Maureen Barlin [Mabacam]</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">Creative Commons</A>.<BR> <P> The description said only, <BLOCKQUOTE> Streetart in Shoreditch, E.London.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html",
+         "pubDate" : "Sun, 19 Jan 2025 16:03:00",
+         "title" : "Chess Guy Likes to Talk"
       },
       {
          "description" : "No one has a perfect score after round two of the 2025 Tata Steel Chess Masters, but GMs Fabiano Caruana, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu all won to join GMs Gukesh Dommaraju and Vincent Keymer in the lead on 1.5/2. There coul...",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18",
          "pubDate" : "Fri, 03 Jan 2025 16:00:00",
          "title" : "GM Iniyan on ChessBase 18 - (1)"
-      },
-      {
-         "description" : " The world No 1 withdrew from the World Rapid then came back for the Blitz, where he shared the title when Fide agreed to stop play after three games of a shootout Magnus Carlsen completed a remarkable few days at the World Rapid and Blitz Championships on Wall Street, New York, when the Norwegian, 34, who first withdrew then returned to the event after <a href=\"https://www.theguardian.com/sport/2024/dec/29/magnus-carlsen-return-world-blitz-championship\">Fide rescinded its ban on jeans</a>, controversially agreed to share the Blitz crown with his old rival, Russia's Ian Nepomniachtchi, while their final sudden-death tie-break was still in progress. The pair were survivors from an eight-playe",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jan/03/chess-jeans-clad-carlsen-defies-critics-to-share-blitz-with-nepomniachtchi",
-         "pubDate" : "Fri, 03 Jan 2025 08:00:51",
-         "title" : "Chess: jeans-clad Carlsen defies critics to share Blitz with Nepomniachtchi"
       }
    ]
 }
