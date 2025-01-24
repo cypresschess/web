@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Fri, 24 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In all there were 1216 children representing 28 states and union territories took part in the 13th national schools chess championship covering 12 categories",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1056,22 +1064,6 @@ news_feed (
          "link" : "https://aicf.in/final-report37th-national-under-9-open-and-girls-chess-championship-2024venue-boxing-hall-shri-shiv-chatrapati-sports-complex-balewadi-stadium-pune-maharashtra/",
          "pubDate" : "Sat, 04 Jan 2025 07:33:31",
          "title" : "Final Report:37th National Under-9 Open and Girls Chess Championship 2024."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116922203.cms\" />Prime Minister Narendra Modi hailed Grandmaster Koneru Humpy as a sporting icon after her victory in the FIDE Women's World Rapid Chess Championship. Humpy, who met Modi with her family, expressed her gratitude for the memorable moment. This achievement highlights a successful year for Indian chess, marked by victories in various international competitions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-calls-humpy-a-sporting-icon-after-meeting-with-chess-ace/articleshow/116922203.cms",
-         "pubDate" : "Fri, 03 Jan 2025 16:15:03",
-         "title" : "PM Modi calls Humpy 'a sporting icon' after meeting with chess ace"
-      },
-      {
-         "description" : "Are there any advantages of moving to the latest ChessBase 18? Are strong chess players doing it, and finding the software useful in their every-day tournament activity? A decided 'Yes!' is given by Indian grandmaster Pa. Iniyan, who sent us an in-depth three-part review. You would do well to read about his experience carefully, and learn how you too can dramatically improve your level of chess study and preparation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18",
-         "pubDate" : "Fri, 03 Jan 2025 16:00:00",
-         "title" : "GM Iniyan on ChessBase 18 - (1)"
       }
    ]
 }
