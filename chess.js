@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In all there were 1216 children representing 28 states and union territories took part in the 13th national schools chess championship covering 12 categories",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-13th-national-schools-chess-championship2025/",
+         "pubDate" : "Fri, 24 Jan 2025 10:22:58",
+         "title" : "Final Report of 13th National Schools Chess Championship,2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3399",
+         "pubDate" : "Fri, 24 Jan 2025 10:00:42",
+         "title" : "FIDE statement on participation of neutral athletes from vulnerable groups in team events"
+      },
+      {
          "description" : " The 18-year-old Indian world champion was losing his first-round game in the Netherlands but his Dutch opponent, Anish Giri, blundered fatally when short of time Gukesh Dommaraju played and won his first competitive game as world champion last weekend, but only after surviving a close brush with disaster. The 18-year-old Indian, who captured the crown last month from China's Ding Liren, defeated Anish Giri in the opening round of Tata Steel Wijk aan Zee, the \"chess Wimbledon\", after the Netherlands No 1 failed to spot the winning tactic featured in this week's puzzle. Gukesh arrived in Amsterdam on an overnight flight at 9am, with the game starting five hours later. He was delayed by attend",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-host-fide-world-rapid-blitz-team-ch-2025",
          "pubDate" : "Fri, 24 Jan 2025 06:35:00",
          "title" : "London to host FIDE World Rapid and Blitz Team Championships 2025"
+      },
+      {
+         "description" : "The Swedish chess community had an unforgettable moment this week when living legend GM Pia Cramling and her daughter WFM Anna Cramling made a surprise appearance on national television during one of Sweden&#39;s most-watched events.&#38;nbsp; The duo t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cramlings-make-surprise-tv-appearance-a-win-for-chess",
+         "pubDate" : "Fri, 24 Jan 2025 03:59:53",
+         "title" : "Cramlings Make Surprise TV Appearance: 'A Triumph For Chess'"
       },
       {
          "description" : "On January 26, 2025, the KCF Academy subscribers will witness an extraordinary event as Garry Kasparov, the legendary grandmaster and former World Chess Champion, delivers an exclusive live lecture. This lecture is a must-attend for chess enthusiasts and professional players, offering a rare opportunity to learn directly from one of the greatest minds in chess history.",
@@ -850,14 +874,6 @@ news_feed (
          "title" : "European Women's Rapid & Blitz Championships 2024 begin in Monte Carlo"
       },
       {
-         "description" : "GM Zhu Jiner, the world&#39;s 10th highest-rated female player, has called out FIDE for giving her a fine for allegedly violating the dress code policy, claiming it disrupted her performance and contributed to her being knocked out of the 2024 Women&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/zhu-jiner-fide-dress-code-incident-anger-frustration",
-         "pubDate" : "Fri, 10 Jan 2025 10:19:00",
-         "title" : "Zhu Jiner With 'Deep Anger And Frustration' After Dress Code Incident In New York"
-      },
-      {
          "description" : " The World No 1, who wed Ella Victoria Malone last Saturday, will play for St Pauli in the Bundesliga, where he may meet the new classical champion, Gukesh Dommaraju Magnus Carlsen, the 34-year-old world No 1 and candidate for the greatest of all time, <a href=\"https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen\">married Ella Victoria Mallone</a> last Saturday in Oslo, where the congregation included a film crew from Netflix. The new Mrs Carlsen, 26, was born in Hong Kong to a Norwegian mother and an American father, was educated in the US, the UK and Canada, and has spent several years in Singapore. Carlsen's stellar chess career, boosted by his controversial shared World Blitz ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://aicf.in/final-report37th-national-under-9-open-and-girls-chess-championship-2024venue-boxing-hall-shri-shiv-chatrapati-sports-complex-balewadi-stadium-pune-maharashtra/",
          "pubDate" : "Sat, 04 Jan 2025 07:33:31",
          "title" : "Final Report:37th National Under-9 Open and Girls Chess Championship 2024."
-      },
-      {
-         "description" : " find the link for the live games of 15th Chennai Open International Grandmasters Chess Tournament 2024 for Sakthi Group Dr. N. Mahalingam Trophy - Category A (above 2000) (AICF",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-15th-chennai-open-international-grandmasters-chess-tournament-2024-for-sakthi-group-dr-n-mahalingam-trophy-category-a-above-2000/",
-         "pubDate" : "Sat, 04 Jan 2025 07:05:19",
-         "title" : "Live games link for 15th Chennai Open International Grandmasters Chess Tournament 2024 for Sakthi Group Dr. N. Mahalingam Trophy - Category A (above 2000)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116922203.cms\" />Prime Minister Narendra Modi hailed Grandmaster Koneru Humpy as a sporting icon after her victory in the FIDE Women's World Rapid Chess Championship. Humpy, who met Modi with her family, expressed her gratitude for the memorable moment. This achievement highlights a successful year for Indian chess, marked by victories in various international competitions.",
