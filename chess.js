@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Javokhir Sindarov, the 19-year-old Uzbek prodigy, will join the inaugural leg of the Freestyle Chess Grand Slam in Weissenhaus, stepping in for Viswanathan Anand. A former Chess Olympiad gold medallist and one of the youngest grandmasters in history, Sindarov's inclusion adds excitement to the ten-player field. After an impressive run in the online qualifier, Sindarov is eager to face Magnus Carlsen, Hikaru Nakamura and the remaining top players who make up the elite field.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sindarov-to-play-weissenhaus-freestyle-chess-2025",
+         "pubDate" : "Fri, 24 Jan 2025 21:00:00",
+         "title" : "Javokhir Sindarov joins the Freestyle Chess Grand Slam kick-off"
+      },
+      {
          "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Fri, 24 Jan 2025 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "Welcome to Freestyle Friday! In the inaugural edition of this event, 476 players took their shot at becoming its first champion, a very auspicious sign in what is sure to become a can&#39;t-miss part of every week for players, spectators, and Freestyl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-january-24-2025",
+         "pubDate" : "Fri, 24 Jan 2025 11:11:08",
+         "title" : "Carlsen Makes Opening Statement In 1st Freestyle Friday"
       },
       {
          "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In all there were 1216 children representing 28 states and union territories took part in the 13th national schools chess championship covering 12 categories",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Final Report of 13th National Schools Chess Championship,2025"
       },
       {
+         "description" : "Russian and Belarusian teams will again be allowed to compete in youth and disabled team events, the International Chess Federation (FIDE) announced today. The world governing chess body said in its statement on Friday that they will allow Russi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-eases-restrictions-on-russian-and-belarusian-teams",
+         "pubDate" : "Fri, 24 Jan 2025 10:10:00",
+         "title" : "FIDE Eases Ban On Russian, Belarusian Youth & Disabled Teams"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "FIDE statement on participation of neutral athletes from vulnerable groups in team events"
       },
       {
-         "description" : " The 18-year-old Indian world champion was losing his first-round game in the Netherlands but his Dutch opponent, Anish Giri, blundered fatally when short of time Gukesh Dommaraju played and won his first competitive game as world champion last weekend, but only after surviving a close brush with disaster. The 18-year-old Indian, who captured the crown last month from China's Ding Liren, defeated Anish Giri in the opening round of Tata Steel Wijk aan Zee, the \"chess Wimbledon\", after the Netherlands No 1 failed to spot the winning tactic featured in this week's puzzle. Gukesh arrived in Amsterdam on an overnight flight at 9am, with the game starting five hours later. He was delayed by attend",
+         "description" : " The 18-year-old Indian world champion was losing his first-round game in the Netherlands but his Dutch opponent, Anish Giri, blundered fatally when short of time Gukesh Dommaraju played and won his first competitive game as world champion last weekend, but only after surviving a close brush with disaster. The 18-year-old Indian, who <a href=\"https://www.theguardian.com/sport/2024/dec/12/gukesh-dommaraju-india-wins-world-chess-championship-youngest-champion-ding-liren\">captured the crown last month</a> from China's Ding Liren, defeated Anish Giri in the opening round of Tata Steel Wijk aan Zee, the \"chess Wimbledon\", after the Netherlands No 1 failed to spot the winning tactic featured in th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jan/24/chess-dommaraju-gukesh-recovers-from-brush-with-disaster-at-wijk-aan-zee",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cramlings-make-surprise-tv-appearance-a-win-for-chess",
          "pubDate" : "Fri, 24 Jan 2025 03:59:53",
          "title" : "Cramlings Make Surprise TV Appearance: 'A Triumph For Chess'"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The BlitzFuel Invitational, held January 16 through 20, was a new name (featuring a new sponsor: the self-proclaimed official energy drink of chess) for the most recent NYC Chess Norms' invitational. But the outcome was what we've come to expect: several norms from talented, up-and-coming players. This was the 20th NYC Chess Norms event, and, with three norms across the four norm-eligible sections, the grand total of norms earned across these invitationals is now up to 50! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy of NYC Chess Norms<br> <br> <br> <br> In the",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/three-norms-earned-nyc-chess-norms-blitzfuel-invitational",
+         "pubDate" : "Fri, 24 Jan 2025 00:00:00",
+         "title" : "Three Norms Earned at NYC Chess Norms' BlitzFuel Invitational"
       },
       {
          "description" : "On January 26, 2025, the KCF Academy subscribers will witness an extraordinary event as Garry Kasparov, the legendary grandmaster and former World Chess Champion, delivers an exclusive live lecture. This lecture is a must-attend for chess enthusiasts and professional players, offering a rare opportunity to learn directly from one of the greatest minds in chess history.",
@@ -826,14 +858,6 @@ news_feed (
          "title" : "Volodar Murzin On Surviving His Father's Abuse: 'He Could Slam My Head Against The Wall'"
       },
       {
-         "description" : " GM Daniel Naroditsky picked up right where he left off in the previous edition of Bullet Brawl, scoring 233 points and winning Saturday&#39;s event in a field featuring the world number-four, GM Arjun Erigaisi, and 246 other titled players. Startin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-11-2025",
-         "pubDate" : "Sat, 11 Jan 2025 16:05:00",
-         "title" : "Naroditsky Outpaces Arjun, Nihal, Sevian, Wins 26th Bullet Brawl"
-      },
-      {
          "description" : "Another year has flown by. It was my best year yet, both from a business and personal standpoint. As we turn the page to 2025, I can't help but reflect on a year that challenged, changed, and ultimately transformed me. Here's what made 2024 my best year yet-and the lessons I'm carrying forward. Enjoy! What []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -848,14 +872,6 @@ news_feed (
          "link" : "https://www.thearticle.com/jeans-ties-and-magnus-carlsen/",
          "pubDate" : "Sat, 11 Jan 2025 12:55:42",
          "title" : "Jeans, ties and Magnus Carlsen "
-      },
-      {
-         "description" : "At just nine years old, FM Roman Shogdzhiev has broken the record to become the youngest player in history to score an international master (IM) norm. He is also one of just three players to cross the 2300 barrier before age 10. The exceptional ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-year-old-shogdziev-scores-im-norm-breaks-oro-record",
-         "pubDate" : "Sat, 11 Jan 2025 06:33:00",
-         "title" : "9-Year-Old Roman Shogdzhiev Becomes Youngest Ever To Score IM Norm"
       },
       {
          "description" : "Live Games Link Open : http://fritzserver.org/LocalUser/live/goagm25/round-1/games.pgn",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/10/chess-newly-married-carlsen-signs-up-with-bundesliga-freestyle-and-saudis",
          "pubDate" : "Fri, 10 Jan 2025 08:00:35",
          "title" : "Chess: newly married Carlsen signs up with Bundesliga, Freestyle and Saudis"
-      },
-      {
-         "description" : "FIDE, in conjunction with the Greece Chess Federation, have announced that the FIDE World Cadets Rapid and Blitz Chess Championships 2025 will be held April 12-18, 2025 at the Rodos Palace 5**** in Rhodes, Greece.** This is the World Cadet and Youth Rapid and Blitz, neither the World Cadet with Standard time controls nor the World Youth with Standard time Controls TOURNAMENT DETAILSThere will be twelve sections: Open and Girls in age categories Under 18, Under 16, Under 14, Under 12, Under 10, and Under 8.A player's age as of Jan. 1, 2025 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2007Under 16: Players born on or after Jan. 1, 2009Under 14: Play",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-fide-world-cadet-youth-rapid-and-blitz-registration-2025",
-         "pubDate" : "Fri, 10 Jan 2025 00:00:00",
-         "title" : "Registration Open for FIDE World Cadet & Youth Rapid and Blitz Registration 2025"
       },
       {
          "description" : "",
