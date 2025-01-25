@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2025-01-24","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501247662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-01-20","72","<a href=http://www.uschess.org/msa/XtblMain.php?202501206462 target='_blank'>MLK DAY SCHOLASTIC</a>",
 "HOUSTON","2025-01-17  - 01-19","39","<a href=http://www.uschess.org/msa/XtblMain.php?202501196542 target='_blank'>MLK DAY OPEN - PREMIER</a>",
 "HOUSTON","2025-01-17  - 01-19","61","<a href=http://www.uschess.org/msa/XtblMain.php?202501196472 target='_blank'>MLK DAY OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-05-26","10","<a href=http://www.uschess.org/msa/XtblMain.php?202405268962 target='_blank'>GAME GUYS 5.26.24</a>",
 "HOUSTON","2024-05-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202405255572 target='_blank'>MAY 25TH 2024 SATURDAY SWISS AT NOO</a>",
 "KINGWOOD","2024-05-25","17","<a href=http://www.uschess.org/msa/XtblMain.php?202405255492 target='_blank'>KINGWOOD BLITZ MAY 2024</a>",
-"HOUSTON","2024-05-25","18","<a href=http://www.uschess.org/msa/XtblMain.php?202405255272 target='_blank'>CHESSPANDA05252024SATURDAY</a>",
 ]);
