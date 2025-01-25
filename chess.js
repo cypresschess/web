@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "https://www.thearticle.com/study-the-chess-classics/",
          "pubDate" : "Sat, 04 Jan 2025 12:27:43",
          "title" : "Study the chess classics"
-      },
-      {
-         "description" : "Dates: December 27, 2024, to January 2, 2025. Venue: Boxing Hall, Shri Shiv Chatrapati Sports Complex Balewadi Stadium, Pune, Maharashtra The 37th National Under-9 Open",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report37th-national-under-9-open-and-girls-chess-championship-2024venue-boxing-hall-shri-shiv-chatrapati-sports-complex-balewadi-stadium-pune-maharashtra/",
-         "pubDate" : "Sat, 04 Jan 2025 07:33:31",
-         "title" : "Final Report:37th National Under-9 Open and Girls Chess Championship 2024."
       }
    ]
 }
