@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov continues to share the lead with Praggnanandhaa on 4.5/6 after both drew their games today. Praggnanandhaa drew a well conducted Open Spanish against Wei Yi where there weren't any clear chances for either player. In contrast Abdusattorov built up a winning position against World Champion Gukesh only to let it slip at the end. Gukesh remains very much in touch half a point behind the leaders. There was in fact only one decisive game today where Alexey Sarana beat Vladimir Fedoseev in a complicated Queen's Gambit where Fedoseev started to go wrong about move 20 and resigned on move 45. Arjun Erigaisi is having a nightmare of a tournament, it turns out he was a little si",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/disappointment-for-abdusattorov-as-he-allows-gukesh-to-escape-with-a-draw-in-tata-steel-round-6",
+         "pubDate" : "Fri, 24 Jan 2025 23:20:00",
+         "title" : "Disappointment for Abdusattorov as he allows Gukesh to escape with a draw in Tata Steel Round 6 - 6"
+      },
+      {
          "description" : "Javokhir Sindarov, the 19-year-old Uzbek prodigy, will join the inaugural leg of the Freestyle Chess Grand Slam in Weissenhaus, stepping in for Viswanathan Anand. A former Chess Olympiad gold medallist and one of the youngest grandmasters in history, Sindarov's inclusion adds excitement to the ten-player field. After an impressive run in the online qualifier, Sindarov is eager to face Magnus Carlsen, Hikaru Nakamura and the remaining top players who make up the elite field.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Javokhir Sindarov joins the Freestyle Chess Grand Slam kick-off"
       },
       {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "GM Nodirbek Abdusattorov was at his ruthless best as he built up a winning advantage against GM Gukesh Dommaraju in round six of the 2025 Tata Steel Chess Masters, but the world champion once more demonstrated incredible resistance to escape with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-6",
+         "pubDate" : "Fri, 24 Jan 2025 14:47:09",
+         "title" : "Gukesh Pulls Off Great Escape Against Abdusattorov"
+      },
+      {
+         "description" : "In an exciting encounter, Gukesh Dommaraju managed to escape with a draw against Nodirbek Abdusattorov, as the only decisive result in round 6 of the Masters section saw Alexey Sarana beating Vladimir Fedoseev. Thus, Abdusattorov and Praggnanandhaa Rameshbabu are still tied for first place. In the Challengers, Erwin l'Ami remains atop the standings after only Aydin Suleymanli and Faustino Oro collected wins on Friday. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Fri, 24 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Gukesh escapes, Sarana scores"
       },
       {
          "description" : "Welcome to Freestyle Friday! In the inaugural edition of this event, 476 players took their shot at becoming its first champion, a very auspicious sign in what is sure to become a can&#39;t-miss part of every week for players, spectators, and Freestyl...",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/",
          "pubDate" : "Sat, 11 Jan 2025 18:40:15",
          "title" : "Chess Educator, Ernest Levert passes (1990-2025)"
-      },
-      {
-         "description" : "GM Volodar Murzin, the newly crowned World Rapid Chess Champion, has shared the harrowing story about how he and his family escaped the violent grip of his abusive father. The 18-year-old grandmaster sensationally became the second-youngest rapi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/volodar-murzin-on-his-fathers-abuse",
-         "pubDate" : "Sat, 11 Jan 2025 16:06:00",
-         "title" : "Volodar Murzin On Surviving His Father's Abuse: 'He Could Slam My Head Against The Wall'"
       },
       {
          "description" : "Another year has flown by. It was my best year yet, both from a business and personal standpoint. As we turn the page to 2025, I can't help but reflect on a year that challenged, changed, and ultimately transformed me. Here's what made 2024 my best year yet-and the lessons I'm carrying forward. Enjoy! What []",
