@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The prestigeous Tata Steel Chess Tournament in Wijk aan Zee is on again, and just in the first couple of days we have been blessed with some instructive tactics! Svitlana has some nice examples prepared for us, either for your watching entertainment, or to actively try to solve them!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-instructive-tata-tactics",
+         "pubDate" : "Sat, 25 Jan 2025 20:41:16",
+         "title" : "Svitlana's Smart Moves - Instructive Tata Tactics!"
+      },
+      {
+         "description" : "As the chess world prepares to celebrate a momentous milestone, we reflect on the life of Fridrik Ólafsson, a towering figure in Icelandic and international chess. In January 2026, Ólafsson will mark his 90th anniversary, a testament to his enduring influence on the game. Born on January 26, 1935, in Reykjav&iacute;k, Iceland, Fridrik Ólafsson emerged as a prodigious chess talent in his youth. His rise to prominence was swift, becoming the first Icelandic player to achieve the title of Grandmaster []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fridrik-olafsson-turns-90/",
+         "pubDate" : "Sat, 25 Jan 2025 18:58:16",
+         "title" : "Fridrik Ólafsson turns 90!"
+      },
+      {
          "description" : "Hey everyone, This article is a special one, and one that I thought about never sending out. I wrote it while sobbing in front of the TV, partly as therapy for myself and partly to help someone else in the same/similar shoes. I didnt' feel like editing anything, because it came straight from my heart. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-bhubaneswar-from-16-to-17-december-2024/",
          "pubDate" : "Sat, 25 Jan 2025 11:34:09",
          "title" : "Certificate of SNA seminar held in Bhubaneswar from 16 to 17 December 2024"
+      },
+      {
+         "description" : "World Champion Gukesh Dommaraju goes into the second half of the 2025 Tata Steel Chess Masters in the joint lead with GMs Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu after beating GM Pentala Harikrishna in round seven. GM Max Warmerdam sco...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-7",
+         "pubDate" : "Sat, 25 Jan 2025 11:21:00",
+         "title" : "Gukesh Catches Leaders; Arjun Suffers 4th Loss"
       },
       {
          "description" : "National Under 13 Rank Name1 Reyan Md.2 Sherla Prathamesh3 Pranav Sai Ram R S4 Jval Saurin Patel5 Tanmay Rajbongshi6 Aadik Theophane Lenin7 Nimay Agrawal8 Rosh",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "European Women's Rapid and Blitz Chess Champions 2024 crowned in Monaco"
       },
       {
-         "description" : "&#34;It&#39;s of course very, very nice to start off married life as a chess player with a win!&#38;rdquo; said GM Magnus Carlsen after beating GM Max Warmerdam in Hamburg, Germany, on Saturday. His first classical game in almost four months helped St. Pauli ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-st-pauli-chess-bundesliga",
-         "pubDate" : "Mon, 13 Jan 2025 07:24:00",
-         "title" : "Carlsen Makes Winning Debut For St. Pauli In Chess Bundesliga"
-      },
-      {
          "description" : "It is being noticed that some organisers are using our logo without permission. These tournaments are not rated events. Unauthorized use of our logo is",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3374",
          "pubDate" : "Sun, 05 Jan 2025 12:40:42",
          "title" : "FIDE World School Championships 2025: Registration now open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3373",
-         "pubDate" : "Sat, 04 Jan 2025 19:56:44",
-         "title" : "World Social Chess Initiatives Marathon announced"
       }
    ]
 }
