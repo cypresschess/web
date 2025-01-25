@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117540414.cms\" />Round 6 of the Tata Steel Chess Tournament 2025 saw Indian players making significant strides. Arjun Erigaisi drew with top-seeded Fabiano Caruana, while Praggnanandhaa and Gukesh also held their ground against strong opponents. Alexey Sarana scored the day's only decisive victory. In the Challengers section, Vaishali Rameshbabu secured a draw, but Divya Deshmukh suffered a defeat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-stays-on-top-d-gukesh-arjun-erigaisi-fight-to-gritty-draws/articleshow/117540414.cms",
+         "pubDate" : "Sat, 25 Jan 2025 01:44:38",
+         "title" : "Praggnanandhaa stays on top; Gukesh, Erigaisi fight to gritty draws"
+      },
+      {
          "description" : " Nodirbek Abdusattorov continues to share the lead with Praggnanandhaa on 4.5/6 after both drew their games today. Praggnanandhaa drew a well conducted Open Spanish against Wei Yi where there weren't any clear chances for either player. In contrast Abdusattorov built up a winning position against World Champion Gukesh only to let it slip at the end. Gukesh remains very much in touch half a point behind the leaders. There was in fact only one decisive game today where Alexey Sarana beat Vladimir Fedoseev in a complicated Queen's Gambit where Fedoseev started to go wrong about move 20 and resigned on move 45. Arjun Erigaisi is having a nightmare of a tournament, it turns out he was a little si",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 24 Jan 2025 14:47:09",
+         "pubDate" : "Fri, 24 Jan 2025 14:47:00",
          "title" : "Gukesh Pulls Off Great Escape Against Abdusattorov"
       },
       {
@@ -142,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/being-a-chess-professional-in-europe-sucks-blohberger",
-         "pubDate" : "Thu, 23 Jan 2025 09:35:37",
+         "pubDate" : "Thu, 23 Jan 2025 09:35:00",
          "title" : "'Being A Chess Professional (In Europe) Sucks': GM Blohberger Raises Concerns"
       },
       {
