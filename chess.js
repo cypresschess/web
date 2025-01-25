@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hey everyone, This article is a special one, and one that I thought about never sending out. I wrote it while sobbing in front of the TV, partly as therapy for myself and partly to help someone else in the same/similar shoes. I didnt' feel like editing anything, because it came straight from my heart. []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/how-chess-saved-me/",
+         "pubDate" : "Sat, 25 Jan 2025 14:00:00",
+         "title" : "From Bullied Kid To Grandmaster - How Chess Saved My Life"
+      },
+      {
+         "description" : "In an exciting encounter, Gukesh Dommaraju managed to escape with a draw against Nodirbek Abdusattorov, as the only decisive result in round 6 of the Masters section saw Alexey Sarana beating Vladimir Fedoseev. Thus, Abdusattorov and Praggnanandhaa Rameshbabu are still tied for first place. In the Challengers, Erwin l'Ami remains atop the standings after only Aydin Suleymanli and Faustino Oro collected wins on Friday. | Follow round 7 live and with commentary by Jovanka Houska and Daniel Naroditsky.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Sat, 25 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Please find the certificates here No. Candidate Name1 Shubhangi Verma2 Sujit Patra3 Satyajit Pattanaik4 Nambala Ravi Kumar5 Chandra Sekhar Panda6 Satyajit Barick7 Pradip Kumar Mohanty8",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -50,6 +66,14 @@ news_feed (
          "title" : "Disappointment for Abdusattorov as he allows Gukesh to escape with a draw in Tata Steel Round 6 - 6"
       },
       {
+         "description" : "R Praggnanandhaa was joined in the lead by Nodirbek Abdusattorov, with D Gukesh only 0.5 behind them.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43552636/gukesh-pulls-big-escape-stay-reach-leaders-round-6-tata-steel-chess?device=featurephone",
+         "pubDate" : "Fri, 24 Jan 2025 23:02:40",
+         "title" : "Gukesh pulls off big escape to stay within reach of leaders in Round 6 of Tata Steel Chess"
+      },
+      {
          "description" : "Javokhir Sindarov, the 19-year-old Uzbek prodigy, will join the inaugural leg of the Freestyle Chess Grand Slam in Weissenhaus, stepping in for Viswanathan Anand. A former Chess Olympiad gold medallist and one of the youngest grandmasters in history, Sindarov's inclusion adds excitement to the ten-player field. After an impressive run in the online qualifier, Sindarov is eager to face Magnus Carlsen, Hikaru Nakamura and the remaining top players who make up the elite field.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-6",
          "pubDate" : "Fri, 24 Jan 2025 14:47:00",
          "title" : "Gukesh Pulls Off Great Escape Against Abdusattorov"
-      },
-      {
-         "description" : "In an exciting encounter, Gukesh Dommaraju managed to escape with a draw against Nodirbek Abdusattorov, as the only decisive result in round 6 of the Masters section saw Alexey Sarana beating Vladimir Fedoseev. Thus, Abdusattorov and Praggnanandhaa Rameshbabu are still tied for first place. In the Challengers, Erwin l'Ami remains atop the standings after only Aydin Suleymanli and Faustino Oro collected wins on Friday. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Fri, 24 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Gukesh escapes, Sarana scores"
       },
       {
          "description" : "Welcome to Freestyle Friday! In the inaugural edition of this event, 476 players took their shot at becoming its first champion, a very auspicious sign in what is sure to become a can&#39;t-miss part of every week for players, spectators, and Freestyl...",
@@ -1088,22 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3373",
          "pubDate" : "Sat, 04 Jan 2025 19:56:44",
          "title" : "World Social Chess Initiatives Marathon announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116947611.cms\" />Delhi's Chief Minister Atishi felicitated Chess Grandmaster Tania Sachdev for her integral role in the Indian team's gold win at the 45th Chess Olympiad 2024. The event underscored Sachdev's inspirational impact on young athletes, especially girls. The Delhi Government's initiatives, including school chess tournaments and specialized training, highlight their commitment to nurturing sports talent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-winner-tania-sachdev-felicitated-by-state-government/articleshow/116947611.cms",
-         "pubDate" : "Sat, 04 Jan 2025 16:11:47",
-         "title" : "Chess Olympiad winner Tania Sachdev felicitated by state government"
-      },
-      {
-         "description" : "A question that comes up a lot whenever one tries to improve a new skill is: Why? Why would one go through a difficult process to improve a skill that won't make any money-nor will it have any real-life benefits (other than bragging rights)? When I started my training plan for my first half-marathon, these []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/lessons-from-running/",
-         "pubDate" : "Sat, 04 Jan 2025 14:00:00",
-         "title" : "Why Bother? What Running Taught Me About Improving at Chess (and Life)"
       }
    ]
 }
