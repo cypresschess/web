@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the certificates here No. Candidate Name1 Shubhangi Verma2 Sujit Patra3 Satyajit Pattanaik4 Nambala Ravi Kumar5 Chandra Sekhar Panda6 Satyajit Barick7 Pradip Kumar Mohanty8",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-bhubaneswar-from-16-to-17-december-2024/",
+         "pubDate" : "Sat, 25 Jan 2025 11:34:09",
+         "title" : "Certificate of SNA seminar held in Bhubaneswar from 16 to 17 December 2024"
+      },
+      {
+         "description" : "National Under 13 Rank Name1 Reyan Md.2 Sherla Prathamesh3 Pranav Sai Ram R S4 Jval Saurin Patel5 Tanmay Rajbongshi6 Aadik Theophane Lenin7 Nimay Agrawal8 Rosh",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-under-13-chess-championship-2024/",
+         "pubDate" : "Sat, 25 Jan 2025 11:08:16",
+         "title" : "Certificate of National Under 13 Chess Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3400",
+         "pubDate" : "Sat, 25 Jan 2025 10:51:49",
+         "title" : "Milestones of the FIDE Chess for Protection Programme in Kakuma"
+      },
+      {
+         "description" : "Jimmy Adams, the noted author and chess editor, has created an event of immense significance in the universe of chess publishing: The Complete Paul Keres (Limited Edition Hardbacks: four volumes, two slipcases, &pound;225). Hundreds of games, thousands of pages! To quote the publisher's own encomium of this remarkable work: for over thirty years Paul Keres remained one []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/paul-keres-the-eternal-estonian/",
+         "pubDate" : "Sat, 25 Jan 2025 10:44:26",
+         "title" : "Paul Keres: the eternal Estonian"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117540414.cms\" />Round 6 of the Tata Steel Chess Tournament 2025 saw Indian players making significant strides. Arjun Erigaisi drew with top-seeded Fabiano Caruana, while Praggnanandhaa and Gukesh also held their ground against strong opponents. Alexey Sarana scored the day's only decisive victory. In the Challengers section, Vaishali Rameshbabu secured a draw, but Divya Deshmukh suffered a defeat.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -408,6 +440,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-d-gukesh-draws-with-top-seed-fabiano-caruana/articleshow/117404532.cms",
          "pubDate" : "Mon, 20 Jan 2025 17:07:45",
          "title" : "Tata Steel Chess: D Gukesh draws with top seed Fabiano Caruana"
+      },
+      {
+         "description" : "Let's combine a recent video post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025):- <BLOCKQUOTE> Nobel lecture with the Nobel Laureate in Chemistry 2024 Demis Hassabis, Google DeepMind, London, UK. [...] \"for protein structure prediction\" </BLOCKQUOTE> <P> with a derivative of that post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html\">Proteins Play Chess</A> (January 2025):- <BLOCKQUOTE> I started to wonder if proteins play chess. It turns out they do, at least according to AI comics. </BLOCKQUOTE> <P> I constructed a series of test images using the phrase 'Demis Hassabis plays chess with a pr",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/color-proteins.html",
+         "pubDate" : "Mon, 20 Jan 2025 16:51:00",
+         "title" : "Color the Proteins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117400152.cms\" />The Lalit Hotel hosted a grand felicitation ceremony for World Chess Champion D Gukesh and two-time World Rapid Champion Koneru Humpy. Amid celebrations, the All India Chess Federation announced significant cash rewards for the champions and their teams. A memento, the 'Akshayvat' frame, was kept as a backup but ultimately sidelined when the trophies arrived on time.",
@@ -890,14 +930,6 @@ news_feed (
          "title" : "Jeans, ties and Magnus Carlsen "
       },
       {
-         "description" : "Live Games Link Open : http://fritzserver.org/LocalUser/live/goagm25/round-1/games.pgn",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-links-goa-gm-2025/",
-         "pubDate" : "Sat, 11 Jan 2025 04:07:17",
-         "title" : "Live Game Links Goa GM 2025"
-      },
-      {
          "description" : " After crowning a new champion, chess is experiencing difficult &#8220;growing pains&#8221; as it prepares for a new era. World Champion Gukesh Dommaraju won the title a month ago against defending champion Ding Liren of China in a match between two Asian champions. There were celebrations in India, and the entire world marveled at the new The post <a href=\"https://thechessdrum.net/blog/2025/01/10/the-growing-pains-of-a-new-chess-era/\">The Growing Pains of a New Chess Era</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1072,14 +1104,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/lessons-from-running/",
          "pubDate" : "Sat, 04 Jan 2025 14:00:00",
          "title" : "Why Bother? What Running Taught Me About Improving at Chess (and Life)"
-      },
-      {
-         "description" : "My last column of 2024 covered the new teenage world champion, Gukesh from India. On the UK domestic front, the year ended with victory by a resurgent Gawain Jones in the 2024 London Chess Classic. Only a loss by last year's winner, Mickey Adams, in his direct confrontation with British Champion Gawain, prevented the veteran from repeating his []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/study-the-chess-classics/",
-         "pubDate" : "Sat, 04 Jan 2025 12:27:43",
-         "title" : "Study the chess classics"
       }
    ]
 }
