@@ -18,6 +18,14 @@ news_feed (
          "title" : "Former FIDE President Fridrik Olafsson turns 90"
       },
       {
+         "description" : "Gukesh now has five points after seven rounds, the same as R Praggnanandhaa and Nodirbek Abdusattorov.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43565959/gukesh-scores-big-win-join-leaders-round-7-tata-steel-chess?device=featurephone",
+         "pubDate" : "Sat, 25 Jan 2025 22:32:38",
+         "title" : "Gukesh scores big win to join leaders after Round 7 of Tata Steel Chess"
+      },
+      {
          "description" : " The Tata Steel Masters has only just past the half way stage and there is a three way tie between Nodirbek Abdusattorov, Gukesh and Praggnanandhaa on 5/7. World Champion Gukesh was the only one of these leaders who won today. Gukesh beat Pentala Harikrishna on the white side of an Advance French. Harikrishna came up with a novelty of 11...Qb6 but then after 12.g4 didn't follow up with 12...Ncxd4 which he surely would have if he's really prepared this, he would then have had an unclear position. Gukesh immediately got an advantage but the position proved rather difficult for both sides, it was only after several adventures that the error 29...Nxe3? gave Gukesh a winning position. Tomorrow, i",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
