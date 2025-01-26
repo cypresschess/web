@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tata Steel Masters has only just past the half way stage and there is a three way tie between Nodirbek Abdusattorov, Gukesh and Praggnanandhaa on 5/7. World Champion Gukesh was the only one of these leaders who won today. Gukesh beat Pentala Harikrishna on the white side of an Advance French. Harikrishna came up with a novelty of 11...Qb6 but then after 12.g4 didn't follow up with 12...Ncxd4 which he surely would have if he's really prepared this, he would then have had an unclear position. Gukesh immediately got an advantage but the position proved rather difficult for both sides, it was only after several adventures that the error 29...Nxe3? gave Gukesh a winning position. Tomorrow, i",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-joins-abdusattorov-and-praggnanandhaa-in-the-lead-of-the-tata-steel-masters-after-7-rounds",
+         "pubDate" : "Sat, 25 Jan 2025 21:00:00",
+         "title" : "Gukesh joins Abdusattorov and Praggnanandhaa in the lead of the Tata Steel Masters after 7 Rounds - 7"
+      },
+      {
          "description" : "The prestigeous Tata Steel Chess Tournament in Wijk aan Zee is on again, and just in the first couple of days we have been blessed with some instructive tactics! Svitlana has some nice examples prepared for us, either for your watching entertainment, or to actively try to solve them!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Sat, 25 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Gukesh climbs to the shared lead, Arjun loses again"
       },
       {
          "description" : "Please find the certificates here No. Candidate Name1 Shubhangi Verma2 Sujit Patra3 Satyajit Pattanaik4 Nambala Ravi Kumar5 Chandra Sekhar Panda6 Satyajit Barick7 Pradip Kumar Mohanty8",
