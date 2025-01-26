@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, 26 January 2025, the legendary Icelandic Grandmaster Fridrik Olafsson celebrates his 90th birthday. Heartfelt congratulations to the Chess Coryphaeus! Our author Eduard Frey presents highlights from a remarkable biography.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-oldest-living-former-candidate-turns-90-happy-birthday-fridrik-olafsson",
+         "pubDate" : "Sun, 26 Jan 2025 10:00:00",
+         "title" : "The Oldest Living Former Candidate Turns 90 - Happy Birthday Fridrik Olafsson!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117568918.cms\" />Gukesh Dommaraju shone in the Tata Steel Chess Tournament 2025, defeating Pentala Harikrishna and leading the Masters standings alongside Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Arjun Erigaisi's struggles continued with a loss to Max Warmerdam. In the Challengers section, Divya Deshmukh fell to Miaoyi Lu while Vaishali Rameshbabu drew against Arthur Pijpers.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
