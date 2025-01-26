@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117584831.cms\" />Praggnanandhaa and Gukesh played an intense draw at the Tata Steel Chess Tournament in Wijk aan Zee, maintaining their lead with 5.5 points. Arjun Erigaisi's disappointing run continued with another draw, while Fabiano Caruana and Wei Yi secured crucial wins. In the Challengers section, Thai Dai Van Nguyen leads, with Vaishali Rameshbabu managing a draw.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-vs-r-praggnanandhaa-ends-in-draw-arjun-erigaisi-still-winless-after-round-8/articleshow/117584831.cms",
+         "pubDate" : "Sun, 26 Jan 2025 20:14:43",
+         "title" : "Gukesh vs Pragg ends in draw; Erigaisi still winless after Round 8"
+      },
+      {
          "description" : "The Tata Steel Chess tournament is taking place from 18 January until 2 February in Wijk aan Zee. After 7 rounds, Gukesh Dommaraju, Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov are tied for first place in the Masters, while Erwin l'Ami and Thai Dai Van Nguyen are sharing the lead in the Challengers. | Follow the games live with expert commentary starting at 13.00 CET (9.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Sun, 26 Jan 2025 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Wei Yi kept their hopes of winning a second Tata Steel Chess Masters title alive with late wins with Black to move within a point of GMs Gukesh Dommaraju, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu. Caruana pounce...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-8",
+         "pubDate" : "Sun, 26 Jan 2025 11:55:58",
+         "title" : "Caruana, Wei Yi Join Tata Steel Chess Title Race"
       },
       {
          "description" : "Today, 26 January 2025, the legendary Icelandic Grandmaster Fridrik Olafsson celebrates his 90th birthday. Heartfelt congratulations to the Chess Coryphaeus! Our author Eduard Frey presents highlights from a remarkable biography.",
@@ -866,14 +882,6 @@ news_feed (
          "title" : "Titled Tuesday Sets Participation Record, Hikaru Joins 2025 Win Column"
       },
       {
-         "description" : "We&#39;re excited to announce Freestyle Friday, the new weekly tournament for Titled Players presented by Freestyle Chess. The event will take place every Friday at 11 a.m. ET / 17:00 CET / 9:30 p.m. IST starting January 24 and feature a $1,000 prize ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-freestyle-friday",
-         "pubDate" : "Wed, 15 Jan 2025 08:00:00",
-         "title" : "Announcing Freestyle Friday, A New Weekly Prize Tournament For Titled Players"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117256943.cms\" />Indian Grandmaster Koneru Humpy, the World Rapid Chess Champion, will compete in the Norway Chess Women tournament in May 2025. Humpy, ranked world number six in women's classical chess, is eager to shine on the global stage once more. Her participation is highly anticipated, promising intense competition and showcasing her extensive experience in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3376",
          "pubDate" : "Mon, 06 Jan 2025 04:44:12",
          "title" : "Robert Huebner (1948-2025)"
-      },
-      {
-         "description" : "Items featured in <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) often repeat. A couple of months ago we had <A HREF=\"https://chessforallages.blogspot.com/2024/11/more-piggybanx-chess.html\">More Piggybanx Chess</A> (November 2024), where two more of the same item sold in December for somewhat less after many bids. <P> A couple of months before 'Piggybanx Chess' we had <A HREF=\"https://chessforallages.blogspot.com/2024/09/ugly-chess-jacket.html\">Ugly Chess Jacket</A> (September 2024), with a couple of links for 'previous top eBay items in the clothing category'. There's nothing ugly about the item pictur",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/nice-chess-sweater.html",
-         "pubDate" : "Sun, 05 Jan 2025 16:42:00",
-         "title" : "Nice Chess Sweater"
       }
    ]
 }
