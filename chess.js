@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess tournament is taking place from 18 January until 2 February in Wijk aan Zee. After 7 rounds, Gukesh Dommaraju, Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov are tied for first place in the Masters, while Erwin l'Ami and Thai Dai Van Nguyen are sharing the lead in the Challengers. | Follow the games live with expert commentary starting at 13.00 CET (9.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Sun, 26 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Today, 26 January 2025, the legendary Icelandic Grandmaster Fridrik Olafsson celebrates his 90th birthday. Heartfelt congratulations to the Chess Coryphaeus! Our author Eduard Frey presents highlights from a remarkable biography.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/how-chess-saved-me/",
          "pubDate" : "Sat, 25 Jan 2025 14:00:00",
          "title" : "From Bullied Kid To Grandmaster - How Chess Saved My Life"
-      },
-      {
-         "description" : "In an exciting encounter, Gukesh Dommaraju managed to escape with a draw against Nodirbek Abdusattorov, as the only decisive result in round 6 of the Masters section saw Alexey Sarana beating Vladimir Fedoseev. Thus, Abdusattorov and Praggnanandhaa Rameshbabu are still tied for first place. In the Challengers, Erwin l'Ami remains atop the standings after only Aydin Suleymanli and Faustino Oro collected wins on Friday. | Follow round 7 live and with commentary by Jovanka Houska and Daniel Naroditsky.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Sat, 25 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Gukesh climbs to the shared lead, Arjun loses again"
       },
       {
          "description" : "Please find the certificates here No. Candidate Name1 Shubhangi Verma2 Sujit Patra3 Satyajit Pattanaik4 Nambala Ravi Kumar5 Chandra Sekhar Panda6 Satyajit Barick7 Pradip Kumar Mohanty8",
@@ -1136,22 +1136,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/nice-chess-sweater.html",
          "pubDate" : "Sun, 05 Jan 2025 16:42:00",
          "title" : "Nice Chess Sweater"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/116967510.cms\" />D Gukesh, fresh from his World Championship win and Major Dhyan Chand Khel Ratna award, is gearing up for the challenging 2025 chess season. With major tournaments like Tata Steel coming up, he aims to continuously improve and meet his high self-expectations. His mentor Viswanathan Anand believes Gukesh's success will inspire more young players to take up chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-champion-d-gukesh-prepares-for-a-fun-year-with-new-goals-in-2025/articleshow/116967510.cms",
-         "pubDate" : "Sun, 05 Jan 2025 13:48:49",
-         "title" : "D Gukesh prepares for a 'fun year' with new goals in 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3374",
-         "pubDate" : "Sun, 05 Jan 2025 12:40:42",
-         "title" : "FIDE World School Championships 2025: Registration now open"
       }
    ]
 }
