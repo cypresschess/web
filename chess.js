@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117568918.cms\" />Gukesh Dommaraju shone in the Tata Steel Chess Tournament 2025, defeating Pentala Harikrishna and leading the Masters standings alongside Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Arjun Erigaisi's struggles continued with a loss to Max Warmerdam. In the Challengers section, Divya Deshmukh fell to Miaoyi Lu while Vaishali Rameshbabu drew against Arthur Pijpers.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-beats-compatriot-pentala-harikrishna-joins-r-praggnanandhaa-at-the-top/articleshow/117568918.cms",
+         "pubDate" : "Sun, 26 Jan 2025 02:28:58",
+         "title" : "Tata Steel Chess: D Gukesh joins Praggnanandhaa at the top"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3401",
+         "pubDate" : "Sun, 26 Jan 2025 01:35:22",
+         "title" : "Former FIDE President Fridrik Olafsson turns 90"
+      },
+      {
          "description" : " The Tata Steel Masters has only just past the half way stage and there is a three way tie between Nodirbek Abdusattorov, Gukesh and Praggnanandhaa on 5/7. World Champion Gukesh was the only one of these leaders who won today. Gukesh beat Pentala Harikrishna on the white side of an Advance French. Harikrishna came up with a novelty of 11...Qb6 but then after 12.g4 didn't follow up with 12...Ncxd4 which he surely would have if he's really prepared this, he would then have had an unclear position. Gukesh immediately got an advantage but the position proved rather difficult for both sides, it was only after several adventures that the error 29...Nxe3? gave Gukesh a winning position. Tomorrow, i",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/fridrik-olafsson-turns-90/",
          "pubDate" : "Sat, 25 Jan 2025 18:58:16",
          "title" : "Fridrik Ólafsson turns 90!"
+      },
+      {
+         "description" : "Four months after winning his fourth Bullet Brawl title, GM Andrew Tang returned to the top spot in Saturday&#39;s event, notching 76 wins and six draws. When he finished with a winning score of 287, 65 points stood between Tang and his nearest challe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-january-25-2025",
+         "pubDate" : "Sat, 25 Jan 2025 16:30:00",
+         "title" : "Tang Wins 5th Bullet Brawl Title By 65-Point Margin"
       },
       {
          "description" : "Hey everyone, This article is a special one, and one that I thought about never sending out. I wrote it while sobbing in front of the TV, partly as therapy for myself and partly to help someone else in the same/similar shoes. I didnt' feel like editing anything, because it came straight from my heart. []",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-freestyle-friday",
          "pubDate" : "Wed, 15 Jan 2025 08:00:00",
          "title" : "Announcing Freestyle Friday, A New Weekly Prize Tournament For Titled Players"
-      },
-      {
-         "description" : "A major cheating scandal has rocked the world of Chinese chess and tarnished the reputation of one of China&#39;s most cherished traditional games. A number of the game&#39;s best players have been handed lifetime bans. Chinese chess, also known as Xian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cheating-scandal-in-chinese-chess-3-top-players-banned-for-life",
-         "pubDate" : "Wed, 15 Jan 2025 07:50:00",
-         "title" : "Top Xiangqi Grandmasters Banned For Life In Chinese Chess Scandal"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117256943.cms\" />Indian Grandmaster Koneru Humpy, the World Rapid Chess Champion, will compete in the Norway Chess Women tournament in May 2025. Humpy, ranked world number six in women's classical chess, is eager to shine on the global stage once more. Her participation is highly anticipated, promising intense competition and showcasing her extensive experience in chess.",
