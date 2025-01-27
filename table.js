@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-01-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501269532 target='_blank'>JAN 26 SUNDAY SWISS AT NOON</a>",
 "HOUSTON","2025-01-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501258332 target='_blank'>QUADS - ALL AGES -SATURDAY JAN 25 A</a>",
 "SUGAR LAND","2025-01-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501247812 target='_blank'>FBCC 2024 NATL MACINTOSH COMPUTER DAY OPEN</a>",
 "HOUSTON","2025-01-24","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501247772 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-06-01","73","<a href=http://www.uschess.org/msa/XtblMain.php?202406019982 target='_blank'>CCUH JUNE SCHOLASTIC AND COLLEGIATE</a>",
 "HOUSTON","2024-06-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202406019842 target='_blank'>CHESSPANDA06012024SATURDAY</a>",
 "HOUSTON","2024-06-01","33","<a href=http://www.uschess.org/msa/XtblMain.php?202406019742 target='_blank'>JUNE 1ST TROPHY SCHOLASTIC</a>",
-"CYPRESS","2024-05-31","20","<a href=http://www.uschess.org/msa/XtblMain.php?202405319932 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
