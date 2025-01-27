@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over the past 18 months, the \"Chess for Protection\" programme has transformed lives in Kakuma and Kalobeyei, Kenya, using chess as a tool for empowerment and development. Led by FIDE's Sonja Johnson, the initiative has built sustainable infrastructure, introduced chess to over 2,100 students, and achieved global recognition. From organising youth championships to fostering partnerships with UNHCR, the programme highlights the game's power to inspire resilience and community building among refugees.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/milestones-chess-for-protection-kakuma",
+         "pubDate" : "Mon, 27 Jan 2025 02:20:00",
+         "title" : "Milestones of the \"Chess for Protection\" programme in Kakuma"
+      },
+      {
          "description" : " The Tata Steel Masters enters a second rest day on Monday with a three way tie between Gukesh, Nodirbek Abdusattorov and Praggnanandhaa on 5.5/8, half a point clear of Vladimir Fedoseev on 5 points and in turn half a point clear of Alexey Sarana, Wei Yi and Fabiano Caruana on 4.5/8. The winner of this year's Masters will surely be one of these players. Today the leaders Praggnanandhaa and Gukesh drew a Berlin Ruy Lopez in 33 moves. A game not without interest but also not that thrilling either. Fabiano Caruana beat Vincent Keymer on the black side of an Exchange Queen's Gambit. Caruana had a chance after 27.Bc1? but played 27...Qe7 instead of 27...Nd6! Caruana had to wait for another mistak",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Tata Steel Chess - Wei and Caruana score"
       },
       {
-         "description" : "GMs Fabiano Caruana and Wei Yi kept their hopes of winning a second Tata Steel Chess Masters title alive with late wins with Black to move within a point of GMs Gukesh Dommaraju, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu. Caruana pounce...",
+         "description" : "GMs Fabiano Caruana and Wei Yi kept alive their hopes of winning a second Tata Steel Chess Masters title with late wins with Black to move within a point of GMs Gukesh Dommaraju, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu. Caruana pounce...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-8",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3401",
          "pubDate" : "Sun, 26 Jan 2025 01:35:22",
          "title" : "Former FIDE President Fridrik Olafsson turns 90"
-      },
-      {
-         "description" : "Gukesh now has five points after seven rounds, the same as R Praggnanandhaa and Nodirbek Abdusattorov.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43565959/gukesh-scores-big-win-join-leaders-round-7-tata-steel-chess?device=featurephone",
-         "pubDate" : "Sat, 25 Jan 2025 22:32:38",
-         "title" : "Gukesh scores big win to join leaders after Round 7 of Tata Steel Chess"
       },
       {
          "description" : " The Tata Steel Masters has only just past the half way stage and there is a three way tie between Nodirbek Abdusattorov, Gukesh and Praggnanandhaa on 5/7. World Champion Gukesh was the only one of these leaders who won today. Gukesh beat Pentala Harikrishna on the white side of an Advance French. Harikrishna came up with a novelty of 11...Qb6 but then after 12.g4 didn't follow up with 12...Ncxd4 which he surely would have if he's really prepared this, he would then have had an unclear position. Gukesh immediately got an advantage but the position proved rather difficult for both sides, it was only after several adventures that the error 29...Nxe3? gave Gukesh a winning position. Tomorrow, i",
