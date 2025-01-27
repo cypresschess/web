@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After giving his Bundesliga debut for St. Pauli, Magnus Carlsen travelled on to the ICE Gaming Fair in Barcelona. In an interview, Carlsen commented on the controversy with FIDE, though he did not mention it explicitly. Still, it was an interesting and open interview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-at-the-ice-gaming-fair-in-barcelona",
+         "pubDate" : "Mon, 27 Jan 2025 18:08:24",
+         "title" : "Magnus Carlsen at the ICE Gaming Fair in Barcelona"
+      },
+      {
          "description" : "The National Team Chess Championship 2024-25 has been postponed at the request of the organizers. The new dates and updated event regulations will be announced",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43578611/praggnanandhaa-draws-gukesh-round-8-tata-steel-chess?device=featurephone",
          "pubDate" : "Mon, 27 Jan 2025 04:22:15",
          "title" : "Praggnanandhaa draws with Gukesh in table-top clash: Round 8 of Tata Steel Chess"
+      },
+      {
+         "description" : "German entrepreneur Jan Henric Buettner, the head of Freestyle Chess, has fired back at the International Chess Federation&#39;s (FIDE) threats of legal action, labeling it &#34;blackmail,&#34; and alleging that FIDE demanded $500,000 for the rights to use th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-jan-henric-buettner-fires-back-fide-ready-for-war",
+         "pubDate" : "Mon, 27 Jan 2025 00:52:00",
+         "title" : "Freestyle Chess Head Jan Henric Buettner Fires Back At FIDE: 'We Are Ready For War'"
       },
       {
          "description" : " The Tata Steel Masters enters a second rest day on Monday with a three way tie between Gukesh, Nodirbek Abdusattorov and Praggnanandhaa on 5.5/8, half a point clear of Vladimir Fedoseev on 5 points and in turn half a point clear of Alexey Sarana, Wei Yi and Fabiano Caruana on 4.5/8. The winner of this year's Masters will surely be one of these players. Today the leaders Praggnanandhaa and Gukesh drew a Berlin Ruy Lopez in 33 moves. A game not without interest but also not that thrilling either. Fabiano Caruana beat Vincent Keymer on the black side of an Exchange Queen's Gambit. Caruana had a chance after 27.Bc1? but played 27...Qe7 instead of 27...Nd6! Caruana had to wait for another mistak",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "The simple way to learn a new opening"
       },
       {
-         "description" : "On January 14, Titled Tuesday cracked 900 participants for the first time since June 2, 2020, with a total of 905 players. It was the second straight week setting the doubles era record (since February 1, 2022). Out of those 905 hopeful winners, t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-nakamura-win-titled-tuesday-january-14-2025",
-         "pubDate" : "Wed, 15 Jan 2025 09:22:23",
-         "title" : "Titled Tuesday Sets Participation Record, Hikaru Joins 2025 Win Column"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117256943.cms\" />Indian Grandmaster Koneru Humpy, the World Rapid Chess Champion, will compete in the Norway Chess Women tournament in May 2025. Humpy, ranked world number six in women's classical chess, is eager to shine on the global stage once more. Her participation is highly anticipated, promising intense competition and showcasing her extensive experience in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1112,22 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3378",
          "pubDate" : "Tue, 07 Jan 2025 00:37:09",
          "title" : "14-year-old Philip Selikem Amoako crowned Ghana champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3377",
-         "pubDate" : "Mon, 06 Jan 2025 19:22:19",
-         "title" : "FIDE announces World Cup 2025 for youngsters"
-      },
-      {
-         "description" : "Continuing with the weekly series on AI comics, after a brief detour for the year-end holidays last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/12/is-2025-dystopian-year.html\">Is 2025 a Dystopian Year?</A> (December 2024), we return to aimless wandering around various topics. Here the previous post was <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-class-asian-players.html\">World Class Asian Players</A> (ditto). <P> This current post started with some recent news from November 2024: <A HREF=\"https://www.brusselstimes.com/1320016/magritte-painting-fetches-record-121-million-at-auction\">Magritte painting fetches record $121 million at auction</A> (brusselstimes.com)",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/surrealist-chess.html",
-         "pubDate" : "Mon, 06 Jan 2025 16:41:00",
-         "title" : "Surrealist Chess"
       }
    ]
 }
