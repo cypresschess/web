@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "SL NO Candidate Name 1 Aryan Shamrao Raikar 2 Dalal Ambar Abhay 3 Prashant Salvi 4 Pradnya Sachin Kakodkar 5 Anish Naik 6 Arsha Chopdekar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-sna-held-in-panjim-goa-from-07-08-december-2024/",
+         "pubDate" : "Mon, 27 Jan 2025 11:10:28",
+         "title" : "Certificate :SNA held in Panjim ,Goa from 07-08 December 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3402",
+         "pubDate" : "Mon, 27 Jan 2025 10:30:19",
+         "title" : "FIDE Appeal Chamber extends ban and revokes title of IM Andrejs Strebkovs over harassment of female players"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117596197.cms\" />Grandmaster Nodirbek Yakubboev's decision not to shake hands with Indian player R Vaishali due to religious reasons caused controversy at the Tata Steel Chess Tournament. After the incident went viral, Yakubboev issued an apology, explaining his actions and expressing respect. He later informed other players of his beliefs to avoid misunderstandings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -258,20 +274,20 @@ news_feed (
          "title" : "London, UK to host FIDE World Rapid and Blitz Team Championships 2025"
       },
       {
+         "description" : "This is the tenth consecutive year that I'm following a cookie-cutter approach to look at FIDE ratings for the new year. Following is the step-by-step checklist... <P> 1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2024/01/fide-rating-list-january-2024.html\">FIDE Rating List - January 2024</A> (January 2024). <P> 2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A>:- <BLOCKQUOTE> STANDARD<BR> TXT format (12 Jan 2025, Sz: 10.81 MB) </BLOCKQUOTE> <P> 3) Compare some basic counts over the past few years. Going back to the start of 2020 gives pre-covid 19 as a reference point. This year I've added ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/fide-rating-list-january-2025.html",
+         "pubDate" : "Thu, 23 Jan 2025 16:21:00",
+         "title" : "FIDE Rating List - January 2025"
+      },
+      {
          "description" : "We are inviting nominations for the BCET Awards 2025 which are for junior schools (including colleges and other education establishments) and junior clubs in the United Kingdom. The awards to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2025/",
          "pubDate" : "Thu, 23 Jan 2025 10:04:05",
          "title" : "British Chess Educational Trust Awards 2025"
-      },
-      {
-         "description" : "Please find the National Team Chess Championship 2025 details here Event Circular Registration form",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-chess-championship-2025/",
-         "pubDate" : "Thu, 23 Jan 2025 09:39:31",
-         "title" : "NATIONAL TEAM CHESS CHAMPIONSHIP - 2025"
       },
       {
          "description" : "In a YouTube video entitled &#34;Being a Chess Professional (in Europe) sucks.&#34;&#38;nbsp;Austrian GM&#38;nbsp;Felix Blohberger spoke out about several challenges professional players face outside of the elite (top 30).&#38;nbsp;&#34;This video is not there to blame a...",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/surrealist-chess.html",
          "pubDate" : "Mon, 06 Jan 2025 16:41:00",
          "title" : "Surrealist Chess"
-      },
-      {
-         "description" : "Steve Rigby, the founder of Oldham-based 3Cs Chess Club over forty-six years ago, has been awarded the British Empire Medal in the 2025 King's New Year's Honours for services to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2025-kings-new-years-honours-stephen-rigby-british-empire-medal/",
-         "pubDate" : "Mon, 06 Jan 2025 09:50:37",
-         "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal"
       }
    ]
 }
