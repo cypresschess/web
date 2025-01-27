@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tata Steel Masters enters a second rest day on Monday with a three way tie between Gukesh, Nodirbek Abdusattorov and Praggnanandhaa on 5.5/8, half a point clear of Vladimir Fedoseev on 5 points and in turn half a point clear of Alexey Sarana, Wei Yi and Fabiano Caruana on 4.5/8. The winner of this year's Masters will surely be one of these players. Today the leaders Praggnanandhaa and Gukesh drew a Berlin Ruy Lopez in 33 moves. A game not without interest but also not that thrilling either. Fabiano Caruana beat Vincent Keymer on the black side of an Exchange Queen's Gambit. Caruana had a chance after 27.Bc1? but played 27...Qe7 instead of 27...Nd6! Caruana had to wait for another mistak",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/wei-yi-and-caruana-keep-themselves-in-contention-after-wins-in-round-8-of-the-tata-steel-masters",
+         "pubDate" : "Sun, 26 Jan 2025 20:40:00",
+         "title" : "Wei Yi and Caruana keep themselves in contention after wins in Round 8 of the Tata Steel Masters - 8"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117584831.cms\" />Praggnanandhaa and Gukesh played an intense draw at the Tata Steel Chess Tournament in Wijk aan Zee, maintaining their lead with 5.5 points. Arjun Erigaisi's disappointing run continued with another draw, while Fabiano Caruana and Wei Yi secured crucial wins. In the Challengers section, Thai Dai Van Nguyen leads, with Vaishali Rameshbabu managing a draw.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,19 +18,19 @@ news_feed (
          "title" : "Gukesh vs Pragg ends in draw; Erigaisi still winless after Round 8"
       },
       {
-         "description" : "The Tata Steel Chess tournament is taking place from 18 January until 2 February in Wijk aan Zee. After 7 rounds, Gukesh Dommaraju, Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov are tied for first place in the Masters, while Erwin l'Ami and Thai Dai Van Nguyen are sharing the lead in the Challengers. | Follow the games live with expert commentary starting at 13.00 CET (9.00 ET, 16.30 IST)",
+         "description" : "Wei Yi and Fabiano Caruana scored victories in round 8 of the Tata Steel Masters, with Wei beating Max Warmerdam and Caruana getting the better of Vincent Keymer. The two winners of the day stand a full point behind co-leaders Gukesh Dommaraju, Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Meanwhile, Thai Dai Van Nguyen defeated Lu Miaoyi to become the sole leader in the Challengers section. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Sun, 26 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Wei and Caruana score"
       },
       {
          "description" : "GMs Fabiano Caruana and Wei Yi kept their hopes of winning a second Tata Steel Chess Masters title alive with late wins with Black to move within a point of GMs Gukesh Dommaraju, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu. Caruana pounce...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-8",
-         "pubDate" : "Sun, 26 Jan 2025 11:55:58",
+         "pubDate" : "Sun, 26 Jan 2025 11:55:00",
          "title" : "Caruana, Wei Yi Join Tata Steel Chess Title Race"
       },
       {
@@ -162,14 +170,6 @@ news_feed (
          "title" : "Gukesh pulls off big escape to stay within reach of leaders in Round 6 of Tata Steel Chess"
       },
       {
-         "description" : "Javokhir Sindarov, the 19-year-old Uzbek prodigy, will join the inaugural leg of the Freestyle Chess Grand Slam in Weissenhaus, stepping in for Viswanathan Anand. A former Chess Olympiad gold medallist and one of the youngest grandmasters in history, Sindarov's inclusion adds excitement to the ten-player field. After an impressive run in the online qualifier, Sindarov is eager to face Magnus Carlsen, Hikaru Nakamura and the remaining top players who make up the elite field.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sindarov-to-play-weissenhaus-freestyle-chess-2025",
-         "pubDate" : "Fri, 24 Jan 2025 21:00:00",
-         "title" : "Javokhir Sindarov joins the Freestyle Chess Grand Slam kick-off"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov was at his ruthless best as he built up a winning advantage against GM Gukesh Dommaraju in round six of the 2025 Tata Steel Chess Masters, but the world champion once more demonstrated incredible resistance to escape with ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -218,14 +218,6 @@ news_feed (
          "title" : "Chess: Dommaraju Gukesh recovers from brush with disaster at Wijk aan Zee"
       },
       {
-         "description" : "The 2025 FIDE World Rapid and Blitz Team Championships will be held in London from 10 to 16 June, offering a record $500,000 prize fund. Now in its third edition, the event will bring together top players, emerging talents, and amateurs in mixed-team competition. With London's rich history of hosting major chess tournaments, the championship is set to showcase high-level chess while highlighting the city's role in the global chess boom.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-host-fide-world-rapid-blitz-team-ch-2025",
-         "pubDate" : "Fri, 24 Jan 2025 06:35:00",
-         "title" : "London to host FIDE World Rapid and Blitz Team Championships 2025"
-      },
-      {
          "description" : "The Swedish chess community had an unforgettable moment this week when living legend GM Pia Cramling and her daughter WFM Anna Cramling made a surprise appearance on national television during one of Sweden&#39;s most-watched events.&#38;nbsp; The duo t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,28 +234,12 @@ news_feed (
          "title" : "Three Norms Earned at NYC Chess Norms' BlitzFuel Invitational"
       },
       {
-         "description" : "On January 26, 2025, the KCF Academy subscribers will witness an extraordinary event as Garry Kasparov, the legendary grandmaster and former World Chess Champion, delivers an exclusive live lecture. This lecture is a must-attend for chess enthusiasts and professional players, offering a rare opportunity to learn directly from one of the greatest minds in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/get-inspired-by-garry-kasparov",
-         "pubDate" : "Thu, 23 Jan 2025 18:00:00",
-         "title" : "Get inspired - by Garry Kasparov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3397",
          "pubDate" : "Thu, 23 Jan 2025 16:23:07",
          "title" : "London, UK to host FIDE World Rapid and Blitz Team Championships 2025"
-      },
-      {
-         "description" : "ChessBase Magazine offers three opening videos in each issue (total playing time: over an hour). In the current issue #223, our authors, Rustam Kasimdzhanov and Daniel King, present two intriguing and very early 'deviations': Sicilian with 2.a4 and Petroff with 3...Nxe4 - both have recently been used by notable players, in the first case it was Kasimdzhanov himself in his game against Mohammad Amin Tabatabaei, in the second case Wesley So against Hans Moke Niemann. The third opening video of CBM 223 is by Robert Ris: Spanish Delayed Exchange Variation with 7.Re1 - since the 2023 World Championship match, this variation can be seen again and again at top level. Take a look! Until the end of t",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-25",
-         "pubDate" : "Thu, 23 Jan 2025 11:00:00",
-         "title" : "Opening surprises on move 2 and 3!"
       },
       {
          "description" : "We are inviting nominations for the BCET Awards 2025 which are for junior schools (including colleges and other education establishments) and junior clubs in the United Kingdom. The awards to...",
