@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117596197.cms\" />Grandmaster Nodirbek Yakubboev's decision not to shake hands with Indian player R Vaishali due to religious reasons caused controversy at the Tata Steel Chess Tournament. After the incident went viral, Yakubboev issued an apology, explaining his actions and expressing respect. He later informed other players of his beliefs to avoid misunderstandings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/uzbek-gm-nodirbek-yakubboev-declines-hand-shake-with-indian-gm-r-vaishali-due-to-religious-reasons-apologises-later/articleshow/117596197.cms",
+         "pubDate" : "Mon, 27 Jan 2025 07:12:09",
+         "title" : "Yakubboev declines hand-shake with Vaishali due to religious reasons"
+      },
+      {
          "description" : "Over the past 18 months, the \"Chess for Protection\" programme has transformed lives in Kakuma and Kalobeyei, Kenya, using chess as a tool for empowerment and development. Led by FIDE's Sonja Johnson, the initiative has built sustainable infrastructure, introduced chess to over 2,100 students, and achieved global recognition. From organising youth championships to fostering partnerships with UNHCR, the programme highlights the game's power to inspire resilience and community building among refugees.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3401",
          "pubDate" : "Sun, 26 Jan 2025 01:35:22",
          "title" : "Former FIDE President Fridrik Olafsson turns 90"
+      },
+      {
+         "description" : "Gukesh now has five points after seven rounds, the same as R Praggnanandhaa and Nodirbek Abdusattorov.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43565959/gukesh-scores-big-win-join-leaders-round-7-tata-steel-chess?device=featurephone",
+         "pubDate" : "Sat, 25 Jan 2025 22:32:38",
+         "title" : "Gukesh scores big win to join leaders after Round 7 of Tata Steel Chess"
       },
       {
          "description" : " The Tata Steel Masters has only just past the half way stage and there is a three way tie between Nodirbek Abdusattorov, Gukesh and Praggnanandhaa on 5/7. World Champion Gukesh was the only one of these leaders who won today. Gukesh beat Pentala Harikrishna on the white side of an Advance French. Harikrishna came up with a novelty of 11...Qb6 but then after 12.g4 didn't follow up with 12...Ncxd4 which he surely would have if he's really prepared this, he would then have had an unclear position. Gukesh immediately got an advantage but the position proved rather difficult for both sides, it was only after several adventures that the error 29...Nxe3? gave Gukesh a winning position. Tomorrow, i",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "How to gain 700 points in one year with a simple plan"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117038726.cms\" />R Vaishali, the third Indian woman to achieve the Grandmaster title, reflects on her remarkable 2024, which included contributing to India's Chess Olympiad gold and winning a blitz bronze medal at the World Rapid and Blitz Championship in New York, despite facing challenges like illness and adjusting to the cold weather.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/wgm-title-should-be-abolished/articleshow/117038726.cms",
-         "pubDate" : "Wed, 08 Jan 2025 03:08:34",
-         "title" : "'WGM title should be abolished'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-kings-new-years-honours-stephen-rigby-british-empire-medal/",
          "pubDate" : "Mon, 06 Jan 2025 09:50:37",
          "title" : "2025 King's New Year's Honours: Stephen Rigby, British Empire Medal"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3376",
-         "pubDate" : "Mon, 06 Jan 2025 04:44:12",
-         "title" : "Robert Huebner (1948-2025)"
       }
    ]
 }
