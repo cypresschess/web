@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The National Team Chess Championship 2024-25 has been postponed at the request of the organizers. The new dates and updated event regulations will be announced",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/postponement-of-national-team-chess-championship-2024-25/",
+         "pubDate" : "Mon, 27 Jan 2025 15:24:43",
+         "title" : "Postponement of National Team Chess Championship 2024-25"
+      },
+      {
+         "description" : "Wei Yi and Fabiano Caruana scored victories in round 8 of the Tata Steel Masters, with Wei beating Max Warmerdam and Caruana getting the better of Vincent Keymer. The two winners of the day stand a full point behind co-leaders Gukesh Dommaraju, Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Meanwhile, Thai Dai Van Nguyen defeated Lu Miaoyi to become the sole leader in the Challengers section. Monday marks the penultimate rest day for the players. | Photo: Tata Steel Chess / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-8",
+         "pubDate" : "Mon, 27 Jan 2025 14:50:00",
+         "title" : "Tata Steel Chess R8: Wei and Caruana prevail in lengthy struggles"
+      },
+      {
          "description" : "SL NO Candidate Name 1 Aryan Shamrao Raikar 2 Dalal Ambar Abhay 3 Prashant Salvi 4 Pradnya Sachin Kakodkar 5 Anish Naik 6 Arsha Chopdekar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Yakubboev declines hand-shake with Vaishali due to religious reasons"
       },
       {
-         "description" : "Over the past 18 months, the \"Chess for Protection\" programme has transformed lives in Kakuma and Kalobeyei, Kenya, using chess as a tool for empowerment and development. Led by FIDE's Sonja Johnson, the initiative has built sustainable infrastructure, introduced chess to over 2,100 students, and achieved global recognition. From organising youth championships to fostering partnerships with UNHCR, the programme highlights the game's power to inspire resilience and community building among refugees.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/milestones-chess-for-protection-kakuma",
-         "pubDate" : "Mon, 27 Jan 2025 02:20:00",
-         "title" : "Milestones of the \"Chess for Protection\" programme in Kakuma"
+         "description" : "India's Gukesh and R Praggnanandhaa continue to lead the Tata Steel Chess tournament along with Nodirbek Abdusattorov.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43578611/praggnanandhaa-draws-gukesh-round-8-tata-steel-chess?device=featurephone",
+         "pubDate" : "Mon, 27 Jan 2025 04:22:15",
+         "title" : "Praggnanandhaa draws with Gukesh in table-top clash: Round 8 of Tata Steel Chess"
       },
       {
          "description" : " The Tata Steel Masters enters a second rest day on Monday with a three way tie between Gukesh, Nodirbek Abdusattorov and Praggnanandhaa on 5.5/8, half a point clear of Vladimir Fedoseev on 5 points and in turn half a point clear of Alexey Sarana, Wei Yi and Fabiano Caruana on 4.5/8. The winner of this year's Masters will surely be one of these players. Today the leaders Praggnanandhaa and Gukesh drew a Berlin Ruy Lopez in 33 moves. A game not without interest but also not that thrilling either. Fabiano Caruana beat Vincent Keymer on the black side of an Exchange Queen's Gambit. Caruana had a chance after 27.Bc1? but played 27...Qe7 instead of 27...Nd6! Caruana had to wait for another mistak",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2024-crowned-in-monaco/",
          "pubDate" : "Mon, 13 Jan 2025 08:55:48",
          "title" : "European Women's Rapid and Blitz Chess Champions 2024 crowned in Monaco"
-      },
-      {
-         "description" : "It is being noticed that some organisers are using our logo without permission. These tournaments are not rated events. Unauthorized use of our logo is",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-2/",
-         "pubDate" : "Mon, 13 Jan 2025 05:30:12",
-         "title" : "Notice"
       },
       {
          "description" : "Editor's note: This story first appeared in the January 2025 issue of Chess Life. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 Women's Olympiad produced dozens of interesting, thrilling, and beautiful games that got relatively little attention. Here's a selection of the cream of the crop - and this only scratches the surface! Play through the games below, and download a .pdf of the print version of this story here. ",
