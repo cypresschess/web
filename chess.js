@@ -1120,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3379",
          "pubDate" : "Tue, 07 Jan 2025 11:38:38",
          "title" : "FIDE Council approves changes to FIDE Circuit 2025 Regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3378",
-         "pubDate" : "Tue, 07 Jan 2025 00:37:09",
-         "title" : "14-year-old Philip Selikem Amoako crowned Ghana champion"
       }
    ]
 }
