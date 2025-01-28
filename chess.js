@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The controversy between Freestyle Chess and FIDE is escalating into a major conflict. Both sides have reiterated their positions in various media. The Norwegian NRK quotes Jan Henrric Buettner and FIDE. Emil Sutovsky has responded on X. Behind all this is a large sum of money that FIDE would like to receive. | Photo: sharkolot auf Pixapy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-vs-fide-positions-hardened-conflict-escalates",
+         "pubDate" : "Tue, 28 Jan 2025 16:53:26",
+         "title" : "Freestyle vs. FIDE: Positions hardened, conflict escalates"
+      },
+      {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Tue, 28 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Against the popular Semi-Tarrasch (1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5), 7.Rb1 (with h4!) is currently the absolute fashionable variation and, with a yield of well over 60%, also a promising choice. In the current ChessBase Magazine #223, IM Bal&aacute;sz Csonka takes a close look at the variation and summarizes the current state of theory. His article includes an overview text and six annotated games from the period from 2018 (Karjakin-Kramnik from the Candidates Tournament) to 2024. You can view the complete article with all the analyses this week as a free sample from ChessBase Magazine #223 in ChessBase Books format!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-vs-r-praggnanandhaa-ends-in-draw-arjun-erigaisi-still-winless-after-round-8/articleshow/117584831.cms",
          "pubDate" : "Sun, 26 Jan 2025 20:14:43",
          "title" : "Gukesh vs Pragg ends in draw; Erigaisi still winless after Round 8"
-      },
-      {
-         "description" : "Wei Yi and Fabiano Caruana scored victories in round 8 of the Tata Steel Masters, with Wei beating Max Warmerdam and Caruana getting the better of Vincent Keymer. The two winners of the day stand a full point behind co-leaders Gukesh Dommaraju, Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Meanwhile, Thai Dai Van Nguyen defeated Lu Miaoyi to become the sole leader in the Challengers section. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Sun, 26 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Wei and Caruana score"
       },
       {
          "description" : "GMs Fabiano Caruana and Wei Yi kept alive their hopes of winning a second Tata Steel Chess Masters title with late wins with Black to move within a point of GMs Gukesh Dommaraju, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu. Caruana pounce...",
