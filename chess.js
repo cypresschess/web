@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Against the popular Semi-Tarrasch (1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5), 7.Rb1 (with h4!) is currently the absolute fashionable variation and, with a yield of well over 60%, also a promising choice. In the current ChessBase Magazine #223, IM Bal&aacute;sz Csonka takes a close look at the variation and summarizes the current state of theory. His article includes an overview text and six annotated games from the period from 2018 (Karjakin-Kramnik from the Candidates Tournament) to 2024. You can view the complete article with all the analyses this week as a free sample from ChessBase Magazine #223 in ChessBase Books format!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-26",
+         "pubDate" : "Tue, 28 Jan 2025 11:00:00",
+         "title" : "Harry vs. Semi-Tarrasch"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117626936.cms\" />World Chess Champion Gukesh Dommaraju, 18, admits dealing with success has been challenging but credits his support system for keeping him grounded. Competing in the Tata Steel Chess Tournament 2025, Gukesh aspires to reach his full potential and still sees Magnus Carlsen as the world's best. Despite his age, he remains focused on improving.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-success-has-not-been-easy-to-deal-with-i-mightve-drifted-a-bit/articleshow/117626936.cms",
+         "pubDate" : "Tue, 28 Jan 2025 10:09:43",
+         "title" : "D Gukesh: 'Success has not been easy to deal with'"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3404",
+         "pubDate" : "Tue, 28 Jan 2025 07:39:17",
+         "title" : "FIDE WGP Monaco 2025 preview"
+      },
+      {
          "description" : "2. GM/WGM/IM/WIM exempted from participation National Championships. 3. AICF does not extend anything and players need to make their own arrangements for tickets, visa &#38;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-8",
          "pubDate" : "Mon, 27 Jan 2025 14:50:00",
          "title" : "Tata Steel Chess R8: Wei and Caruana prevail in lengthy struggles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3403",
+         "pubDate" : "Mon, 27 Jan 2025 13:50:18",
+         "title" : "Social Chess Research Conference announced"
       },
       {
          "description" : "Athens scored their first victory, against Virginia, in the Collegiate Chess League Spring 2025 (CCL), and Saint Louis scored another point against Texas to go on a perfect 2/2. While the first match was one-sided, Saint Louis staged a great comeb...",
@@ -1010,14 +1042,6 @@ news_feed (
          "title" : "The Noblest Prize"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117170370.cms\" />Indian chess legends, including Viswanathan Anand and D Gukesh, celebrated Pongal with traditional dance at Anand's Tamil Nadu residence. The gathering highlighted the camaraderie among top players like Rameshbabu Praggnanandhaa and Vidit Gujrathi. This festive unity underscores the rising prominence of Indian chess, buoyed by recent international successes and promising future talents.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-viswanathan-anand-d-gukesh-and-other-chess-champions-flex-dancing-moves-in-viral-video/articleshow/117170370.cms",
-         "pubDate" : "Sun, 12 Jan 2025 10:11:05",
-         "title" : "Watch: Anand, Gukesh and other chess champs flex dancing moves"
-      },
-      {
          "description" : " The greatest service one can give to their community is love and time. Dear Chess Community, It is with deep regret that I inform the chess community of the passing of Ernest Levert, Jr. on January 8th, 2025. He is survived by his wife Ivory, daughter Zamya, and son Zenith. He suffered an aneurysm on The post <a href=\"https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/\">Chess Educator, Ernest Levert passes (1990-2025)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/simple-plan/",
          "pubDate" : "Wed, 08 Jan 2025 13:55:33",
          "title" : "How to gain 700 points in one year with a simple plan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3379",
-         "pubDate" : "Tue, 07 Jan 2025 11:38:38",
-         "title" : "FIDE Council approves changes to FIDE Circuit 2025 Regulations"
       }
    ]
 }
