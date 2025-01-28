@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "2. GM/WGM/IM/WIM exempted from participation National Championships. 3. AICF does not extend anything and players need to make their own arrangements for tickets, visa &#38;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cadet-youth-rapid-and-blitz-chess-championships-2025-in-rhodes-greece-from-12th-to-18th-april-2025/",
+         "pubDate" : "Tue, 28 Jan 2025 07:33:33",
+         "title" : "World Cadet & Youth Rapid and Blitz Chess Championships - 2025 in Rhodes - Greece from 12th to 18th April, 2025."
+      },
+      {
          "description" : "After giving his Bundesliga debut for St. Pauli, Magnus Carlsen travelled on to the ICE Gaming Fair in Barcelona. In an interview, Carlsen commented on the controversy with FIDE, though he did not mention it explicitly. Still, it was an interesting and open interview.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3386",
          "pubDate" : "Tue, 14 Jan 2025 13:45:57",
          "title" : "Applications open for 2025 Freedom Asian Chess Initiatives (FACI)"
-      },
-      {
-         "description" : "Chhattisgarh State Chess Association under the aegis of All India Chess Federation has organised Senior National Arbiter seminar at Raipur under the aegis of Chhattisgarh",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-raipur-chhattisgarh-on-04-05-january-2025/",
-         "pubDate" : "Tue, 14 Jan 2025 11:44:56",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Raipur, Chhattisgarh on 04 & 05 January 2025"
       },
       {
          "description" : "",
