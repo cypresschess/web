@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117654415.cms\" />Gukesh Dommaraju has taken the lead in the Tata Steel Chess Masters standings after defeating compatriot Leon Luke Mendonca. In other matches, Nodirbek Abdusattorov drew against Fabiano Caruana, while Praggnanandhaa Rameshbabu was defeated by Anish Giri. Arjun Erigaisi drew with defending champion Wei Yi, and Pentala Harikrishna lost to Vladimir Fedoseev.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-becomes-sole-leader-r-praggnanandhaa-beaten-for-first-time/articleshow/117654415.cms",
+         "pubDate" : "Tue, 28 Jan 2025 20:24:54",
+         "title" : "Gukesh becomes sole leader; Praggnanandhaa beaten for first time"
+      },
+      {
+         "description" : "Dr Thorsten Heedt took chess lessons from Robert H&uuml;bner (1948-2025) for a long time and got to know the German Grandmaster very well. They became good friends and Heedt even asked H&uuml;bner to be best man at Heedt's wedding. After H&uuml;bner's death on 5 January 2025, Heedt shares some personal memories...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/notes-of-an-overwhelmed-student-remembering-robert-huebner",
+         "pubDate" : "Tue, 28 Jan 2025 19:29:00",
+         "title" : "Notes of an Overwhelmed Student - Remembering Robert H&uuml;bner"
+      },
+      {
          "description" : "The controversy between Freestyle Chess and FIDE is escalating into a major conflict. Both sides have reiterated their positions in various media. The Norwegian NRK quotes Jan Henrric Buettner and FIDE. Emil Sutovsky has responded on X. Behind all this is a large sum of money that FIDE would like to receive. | Photo: sharkolot auf Pixapy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Tue, 28 Jan 2025 13:45:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju leads his first tournament as world champion after defeating GM Leon Luke Mendonca in round nine to move to 6.5/9 in the 2025 Tata Steel Chess Masters. He&#39;s half a point ahead of GM Nodirbek Abdusattorov, who made a draw agains...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-9",
+         "pubDate" : "Tue, 28 Jan 2025 11:57:37",
+         "title" : "Gukesh Breaks Clear - Fedoseev, Giri Also Win"
       },
       {
          "description" : "Against the popular Semi-Tarrasch (1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5), 7.Rb1 (with h4!) is currently the absolute fashionable variation and, with a yield of well over 60%, also a promising choice. In the current ChessBase Magazine #223, IM Bal&aacute;sz Csonka takes a close look at the variation and summarizes the current state of theory. His article includes an overview text and six annotated games from the period from 2018 (Karjakin-Kramnik from the Candidates Tournament) to 2024. You can view the complete article with all the analyses this week as a free sample from ChessBase Magazine #223 in ChessBase Books format!",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://aicf.in/world-cadet-youth-rapid-and-blitz-chess-championships-2025-in-rhodes-greece-from-12th-to-18th-april-2025/",
          "pubDate" : "Tue, 28 Jan 2025 07:33:33",
          "title" : "World Cadet & Youth Rapid and Blitz Chess Championships - 2025 in Rhodes - Greece from 12th to 18th April, 2025."
+      },
+      {
+         "description" : "US Chess Nominating Committee Recommends Four to Run for Executive BoardThe US Chess Nominating Committee (Committee) has completed its work for the 2025 US Chess Executive Board election. The Committee has qualified and recommends these four candidates to fill the four vacancies available in the upcoming 2025 Executive Board election (listed in alphabetical order):Anand Dommalapati (Virginia)Kevin Pryor (Florida)John D. Rockefeller, V (Maryland)Daniel Serna (New Mexico)The first Nominating Committee was created by the US Chess Delegates during the 2020 Special Delegates Meeting in August. At a Special Delegates Meeting in September 2020, the Delegates elected six Delegate-appointed candidat",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-nominating-committee-recommends-four-run-executive-board-0",
+         "pubDate" : "Tue, 28 Jan 2025 00:00:00",
+         "title" : "US Chess Nominating Committee Recommends Four to Run for Executive Board"
       },
       {
          "description" : "After giving his Bundesliga debut for St. Pauli, Magnus Carlsen travelled on to the ICE Gaming Fair in Barcelona. In an interview, Carlsen commented on the controversy with FIDE, though he did not mention it explicitly. Still, it was an interesting and open interview.",
@@ -938,14 +970,6 @@ news_feed (
          "title" : "January 1975 & 2000 'On the Cover'"
       },
       {
-         "description" : "GMs Ray Robson, Andy Woodward, Daniel Naroditsky, Pranav Venkatesh, and Raunak Sadhwani, as well as IMs Liam Putnam, Yoseph Theolifus Taher, and Anthony Atasanov, have qualified for the eight-player Knockout in the 2025 Chess.com Puzzles Champions...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-puzzles-championship-puzzle-rush-royale",
-         "pubDate" : "Thu, 16 Jan 2025 14:53:00",
-         "title" : "Naroditsky Comes Clutch In Final Rush, Qualifies With 7 Others"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -968,14 +992,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/new-opening/",
          "pubDate" : "Wed, 15 Jan 2025 13:58:52",
          "title" : "The simple way to learn a new opening"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117256943.cms\" />Indian Grandmaster Koneru Humpy, the World Rapid Chess Champion, will compete in the Norway Chess Women tournament in May 2025. Humpy, ranked world number six in women's classical chess, is eager to shine on the global stage once more. Her participation is highly anticipated, promising intense competition and showcasing her extensive experience in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-set-to-return-to-norway-chess-women-tournament/articleshow/117256943.cms",
-         "pubDate" : "Wed, 15 Jan 2025 06:41:16",
-         "title" : "Koneru Humpy set to return to Norway Chess Women tournament"
       },
       {
          "description" : "Wednesday Workout continues with more highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2024-crowned-in-monaco/",
          "pubDate" : "Mon, 13 Jan 2025 08:55:48",
          "title" : "European Women's Rapid and Blitz Chess Champions 2024 crowned in Monaco"
-      },
-      {
-         "description" : "Editor's note: This story first appeared in the January 2025 issue of Chess Life. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2024 Women's Olympiad produced dozens of interesting, thrilling, and beautiful games that got relatively little attention. Here's a selection of the cream of the crop - and this only scratches the surface! Play through the games below, and download a .pdf of the print version of this story here. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-hidden-gems-fide-womens-olympiad",
-         "pubDate" : "Mon, 13 Jan 2025 00:00:00",
-         "title" : "Inside Story: Hidden Gems from the FIDE Women's Olympiad"
       },
       {
          "description" : "",
