@@ -26,6 +26,14 @@ news_feed (
          "title" : "Tata Steel Chess R8: Wei and Caruana prevail in lengthy struggles"
       },
       {
+         "description" : "Athens scored their first victory, against Virginia, in the Collegiate Chess League Spring 2025 (CCL), and Saint Louis scored another point against Texas to go on a perfect 2/2. While the first match was one-sided, Saint Louis staged a great comeb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-2-athens-slu",
+         "pubDate" : "Mon, 27 Jan 2025 12:57:00",
+         "title" : "Saint Louis Leads With SRM On 2/2, Athens Scores 1st Win"
+      },
+      {
          "description" : "SL NO Candidate Name 1 Aryan Shamrao Raikar 2 Dalal Ambar Abhay 3 Prashant Salvi 4 Pradnya Sachin Kakodkar 5 Anish Naik 6 Arsha Chopdekar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3402",
          "pubDate" : "Mon, 27 Jan 2025 10:30:19",
          "title" : "FIDE Appeal Chamber extends ban and revokes title of IM Andrejs Strebkovs over harassment of female players"
+      },
+      {
+         "description" : "The world champion leads compatriot Praggnanandhaa and Uzbekistan's Nodirbek Abdusattorov on tie break criteria. Can he hold on?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43583386/can-d-gukesh-win-tata-steel-chess-2025?device=featurephone",
+         "pubDate" : "Mon, 27 Jan 2025 08:42:43",
+         "title" : "Can D Gukesh win Tata Steel Chess 2025?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117596197.cms\" />Grandmaster Nodirbek Yakubboev's decision not to shake hands with Indian player R Vaishali due to religious reasons caused controversy at the Tata Steel Chess Tournament. After the incident went viral, Yakubboev issued an apology, explaining his actions and expressing respect. He later informed other players of his beliefs to avoid misunderstandings.",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesscom-puzzles-championship-puzzle-rush-royale",
          "pubDate" : "Thu, 16 Jan 2025 14:53:00",
          "title" : "Naroditsky Comes Clutch In Final Rush, Qualifies With 7 Others"
-      },
-      {
-         "description" : "World Chess Champion GM Gukesh Dommaraju and GM Viswanathan Anand&#39;s talents extend beyond the chessboard, as they demonstrated in a hilarious new video ad. Gukesh has been doing anything but playing chess since winning the title from GM Ding Lir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-gets-tattoo-and-roasts-anand-in-hilarious-new-ad",
-         "pubDate" : "Thu, 16 Jan 2025 10:56:00",
-         "title" : "World Champion Gukesh Gets Tattoo And Roasts Anand In New Ad"
       },
       {
          "description" : "",
