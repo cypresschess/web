@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Today produced an opportunity for the World Champion Gukesh to take the lead and he delivered by beating Mendonca in a good game with the white pieces. His co leaders could not match him, Abdusattorov, drew in a solid game against Caruana, and Praggnanandhaa lost to Giri. Gukesh played a complicated game and while his opponent Mendonca played strongly for much of the game, he needed too much time to do so and in zeitnot he made a bad blunder. Giri put Praggnanandhaa under pressure and although he missed a few chances to win earlier he still got the converted the advantage to a full point after the time control. Abdusattorov played mostly solidly against Caruana but there was one chance in t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-takes-the-lead-of-the-tata-steel-masters-after-9-rounds",
+         "pubDate" : "Tue, 28 Jan 2025 23:18:00",
+         "title" : "Gukesh takes the lead of the Tata Steel Masters after 9 Rounds - 9"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117654415.cms\" />Gukesh Dommaraju has taken the lead in the Tata Steel Chess Masters standings after defeating compatriot Leon Luke Mendonca. In other matches, Nodirbek Abdusattorov drew against Fabiano Caruana, while Praggnanandhaa Rameshbabu was defeated by Anish Giri. Arjun Erigaisi drew with defending champion Wei Yi, and Pentala Harikrishna lost to Vladimir Fedoseev.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,20 +34,28 @@ news_feed (
          "title" : "Freestyle vs. FIDE: Positions hardened, conflict escalates"
       },
       {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "In a decision by the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) published on Monday, 43-year-old Latvian IM Andrejs Strebkovs will lose his international master title and his ban from attending FIDE-rated events has been extended from five ye...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrejs-strebkovs-stripped-of-im-title-by-fide",
+         "pubDate" : "Tue, 28 Jan 2025 13:59:40",
+         "title" : "Andrejs Strebkovs Stripped Of IM Title & Ban Extended To 12 Years From FIDE-Rated Events"
+      },
+      {
+         "description" : "Three games ended decisively in round 9 of the Tata Steel Masters. Gukesh Dommaraju defeated Leon Luke Mendonce to grab the sole lead, Vladimir Fedoseev took down Pentala Harikrishna to join the chasing pack a half point behind the leader, while Anish Giri beat former frontrunner Praggnanandhaa Rameshbabu. In the Challengers, Thai Dai Van Nguyen is still the sole leader, as Ediz G&uuml;rel and Benjamin Bok were the winners of the day in that section. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Tue, 28 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Gukesh beats Mendonca, becomes sole leader"
       },
       {
          "description" : "GM Gukesh Dommaraju leads his first tournament as world champion after defeating GM Leon Luke Mendonca in round nine to move to 6.5/9 in the 2025 Tata Steel Chess Masters. He&#39;s half a point ahead of GM Nodirbek Abdusattorov, who made a draw agains...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-9",
-         "pubDate" : "Tue, 28 Jan 2025 11:57:37",
-         "title" : "Gukesh Breaks Clear - Fedoseev, Giri Also Win"
+         "pubDate" : "Tue, 28 Jan 2025 11:57:00",
+         "title" : "Gukesh Breaks Clear; Fedoseev, Giri Also Win"
       },
       {
          "description" : "Against the popular Semi-Tarrasch (1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5), 7.Rb1 (with h4!) is currently the absolute fashionable variation and, with a yield of well over 60%, also a promising choice. In the current ChessBase Magazine #223, IM Bal&aacute;sz Csonka takes a close look at the variation and summarizes the current state of theory. His article includes an overview text and six annotated games from the period from 2018 (Karjakin-Kramnik from the Candidates Tournament) to 2024. You can view the complete article with all the analyses this week as a free sample from ChessBase Magazine #223 in ChessBase Books format!",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://aicf.in/world-cadet-youth-rapid-and-blitz-chess-championships-2025-in-rhodes-greece-from-12th-to-18th-april-2025/",
          "pubDate" : "Tue, 28 Jan 2025 07:33:33",
          "title" : "World Cadet & Youth Rapid and Blitz Chess Championships - 2025 in Rhodes - Greece from 12th to 18th April, 2025."
+      },
+      {
+         "description" : "This week's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! This week, we focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming ou",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-2-kids-are-alright",
+         "pubDate" : "Tue, 28 Jan 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 2 (The Kids Are Alright)"
       },
       {
          "description" : "US Chess Nominating Committee Recommends Four to Run for Executive BoardThe US Chess Nominating Committee (Committee) has completed its work for the 2025 US Chess Executive Board election. The Committee has qualified and recommends these four candidates to fill the four vacancies available in the upcoming 2025 Executive Board election (listed in alphabetical order):Anand Dommalapati (Virginia)Kevin Pryor (Florida)John D. Rockefeller, V (Maryland)Daniel Serna (New Mexico)The first Nominating Committee was created by the US Chess Delegates during the 2020 Special Delegates Meeting in August. At a Special Delegates Meeting in September 2020, the Delegates elected six Delegate-appointed candidat",
@@ -946,14 +970,6 @@ news_feed (
          "title" : "GM Gukesh D awarded Rs 1 crore by All India Chess Federation; GM Koneru Humpy gets Rs 50 lakh for women's world Rapid title"
       },
       {
-         "description" : "GM Gukesh Dommaraju will play his first official game as world champion against GM Anish Giri on Saturday as the 2025 Tata Steel Chess Masters begins. Half of the top-10 are in action, with Gukesh joined by GMs Fabiano Caruana, Arjun Erigaisi, Nod...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-preview",
-         "pubDate" : "Fri, 17 Jan 2025 05:29:00",
-         "title" : "Tata Steel Chess 2025: 7 Talking Points"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117308100.cms\" />The All India Chess Federation hosted a ceremony in New Delhi, honoring teenage Grandmaster D Gukesh for becoming the youngest World Chess Champion. It also celebrated GM Koneru Humpy's World Rapid Chess Championship win and GM Vaishali Rameshbabu's bronze in the World Blitz Championship, announcing cash awards totaling Rs 2.2 crore.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3385",
          "pubDate" : "Tue, 14 Jan 2025 10:32:14",
          "title" : "Educational Seminar \"Chess for children with an autism spectrum - Learn & teach\" announced"
-      },
-      {
-         "description" : "This week's Tactics Tuesday continues our highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet here, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-national-k-12-grades-pt-2",
-         "pubDate" : "Tue, 14 Jan 2025 00:00:00",
-         "title" : "Tactics Tuesday: National K-12 Grades, Pt. 2"
       },
       {
          "description" : "A week ago, in <A HREF=\"https://chessforallages.blogspot.com/2025/01/surrealist-chess.html\">Surrealist Chess</A> (January 2025), I wrote, <BLOCKQUOTE> Continuing with the weekly series on AI comics [...] we return to aimless wandering around various topics. </BLOCKQUOTE> <P> After that post about Magritte, I intended to continue with another artist known for an interest in chess, but I got sidetracked by yesterday's post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025). It featured a video about the Nobel Prize in Chemistry 2024, awarded:- <BLOCKQUOTE> half jointly to Demis Hassabis, Google DeepMind, London, UK and John Jumpe",
