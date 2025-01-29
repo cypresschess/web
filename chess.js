@@ -970,14 +970,6 @@ news_feed (
          "title" : "GM Gukesh D awarded Rs 1 crore by All India Chess Federation; GM Koneru Humpy gets Rs 50 lakh for women's world Rapid title"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117308100.cms\" />The All India Chess Federation hosted a ceremony in New Delhi, honoring teenage Grandmaster D Gukesh for becoming the youngest World Chess Champion. It also celebrated GM Koneru Humpy's World Rapid Chess Championship win and GM Vaishali Rameshbabu's bronze in the World Blitz Championship, announcing cash awards totaling Rs 2.2 crore.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-announces-rs-1-crore-prize-for-world-chess-champion-d-gukesh-koneru-humpy-awarded-rs-50-lakh/articleshow/117308100.cms",
-         "pubDate" : "Thu, 16 Jan 2025 17:03:40",
-         "title" : "AICF announces Rs 1 crore prize for world champion D Gukesh"
-      },
-      {
          "description" : "At the end of the old millennium, 25 years ago, the right side of last month's post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html\">December 1974 & 1999 'On the Cover'</A> (December 2024), announced, <BLOCKQUOTE> Whether you consider it to be the millennium or just the beginning of a new year, one thing is clear: Chess is still going strong. </BLOCKQUOTE> <P> At the start of the new millennium, also 25 years ago, it was business as usual. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa16.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Holiday in Harlem!' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQU",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
