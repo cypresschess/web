@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117695001.cms\" />Magnus Carlsen criticised FIDE after co-founding Freestyle Chess Players Club with Jan Henric Beuttner, which led to a dispute over the term \"World Championship\". Carlsen supports Beuttner's stance that their new tour shouldn't replace traditional championships but should have its unique format. FIDE warned of potential conflict but expressed openness to collaboration.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-drops-three-word-bombshell-on-fide-after-freestyle-chess-open-letter/articleshow/117695001.cms",
+         "pubDate" : "Wed, 29 Jan 2025 15:12:15",
+         "title" : "World No. 1 Carlsen drops bombshell on FIDE after open letter"
+      },
+      {
+         "description" : "Three games ended decisively in round 9 of the Tata Steel Masters. Gukesh Dommaraju defeated Leon Luke Mendonce to grab the sole lead, Vladimir Fedoseev took down Pentala Harikrishna to join the chasing pack a half point behind the leader, while Anish Giri beat former frontrunner Praggnanandhaa Rameshbabu. In the Challengers, Thai Dai Van Nguyen is still the sole leader. | Follow the round 10 live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Wed, 29 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "The dispute between FIDE and Freestyle Chess continues. After Jan Henric Buettner attacked FIDE in an interview with Norwegian broadcaster NRK, Buettner has now published an open letter to FIDE CEO Emil Sutovsky. In this letter he addresses the development of the conflict, and concludes by saying: \"Freestyle seeks peace, not conflict. We are still willing to contribute $50,000 annually to ensure the players are left undisturbed.\" Sutovsky was quick to respond, sharing his view of the conflict on X/Twitter, although he did not comment on Buettner's offer. | Picture: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-vs-freestyle-the-conflict-continues",
+         "pubDate" : "Wed, 29 Jan 2025 12:44:11",
+         "title" : "FIDE vs Freestyle - The conflict continues"
+      },
+      {
+         "description" : "The first Underdog of 2025 has been chosen by Robert Ris. It is IM Lu Miaoyi. Currently, she is playing formidable at the Tata Steel Chess Festival tournament. She is second worst rated in the Challengers group, but could already gather 4.5 out of 8 points. One favourite to win the Challengers in Wijk aan Zee is Frederik Svane, who advanced to Germany's second-best player behind Vincent Keymer. Frederik Svane played as Black in the French exchange variation, against Lu Miaoyi, and the board was on fire quickly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-lu-miaoyi-destroyed-frederik-svane-the-underdog",
+         "pubDate" : "Wed, 29 Jan 2025 10:05:21",
+         "title" : "How Lu Miaoyi destroyed Frederik Svane - The Underdog"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3405",
+         "pubDate" : "Wed, 29 Jan 2025 08:48:28",
+         "title" : "Yair Parkhov and Marsel Efroimski win 42nd Israeli Championship"
+      },
+      {
+         "description" : "GM Alireza Firouzja came a ninth-round draw away from the first perfect Titled Tuesday of the year on January 28, settling for a full-point victory on 10.5 points in the third straight early field of over 900 players. In the late event, GM Denis L...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-lazavik-win-titled-tuesday-january-28-2025",
+         "pubDate" : "Wed, 29 Jan 2025 07:54:00",
+         "title" : "Firouzja Dominates Another Busy Tuesday"
+      },
+      {
          "description" : " The NextGen Cup is a novel tournament with a $20,000 fund featuring ten master-level players throughout the African Diaspora. It will take place on chess.com on February 6th. IM Kassa Korley, a player who has his own Grandmaster aspirations, is currently employed as chess.com Director of Community. He told The Chess Drum last month that The post <a href=\"https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/\">NextGen Cup: An African Diaspora Chess Battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -10,12 +58,28 @@ news_feed (
          "title" : "NextGen Cup: An African Diaspora Chess Battle!"
       },
       {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming out party f",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-2-kids-are-alright",
+         "pubDate" : "Wed, 29 Jan 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 2 (The Kids Are Alright)"
+      },
+      {
          "description" : " Today produced an opportunity for the World Champion Gukesh to take the lead and he delivered by beating Mendonca in a good game with the white pieces. His co leaders could not match him, Abdusattorov, drew in a solid game against Caruana, and Praggnanandhaa lost to Giri. Gukesh played a complicated game and while his opponent Mendonca played strongly for much of the game, he needed too much time to do so and in zeitnot he made a bad blunder. Giri put Praggnanandhaa under pressure and although he missed a few chances to win earlier he still got the converted the advantage to a full point after the time control. Abdusattorov played mostly solidly against Caruana but there was one chance in t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-takes-the-lead-of-the-tata-steel-masters-after-9-rounds",
          "pubDate" : "Tue, 28 Jan 2025 23:18:00",
          "title" : "Gukesh takes the lead of the Tata Steel Masters after 9 Rounds - 9"
+      },
+      {
+         "description" : "India's Gukesh scored a win over compatriot Leon Mendonca in ninth round of the Tata Steel Masters to go clear at the top.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43605058/gukesh-goes-clear-top-round-9-tata-steel-chess?device=featurephone",
+         "pubDate" : "Tue, 28 Jan 2025 22:59:34",
+         "title" : "Gukesh goes clear at the top after round 9 of Tata Steel Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117654415.cms\" />Gukesh Dommaraju has taken the lead in the Tata Steel Chess Masters standings after defeating compatriot Leon Luke Mendonca. In other matches, Nodirbek Abdusattorov drew against Fabiano Caruana, while Praggnanandhaa Rameshbabu was defeated by Anish Giri. Arjun Erigaisi drew with defending champion Wei Yi, and Pentala Harikrishna lost to Vladimir Fedoseev.",
@@ -48,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/andrejs-strebkovs-stripped-of-im-title-by-fide",
          "pubDate" : "Tue, 28 Jan 2025 13:59:40",
          "title" : "Andrejs Strebkovs Stripped Of IM Title & Ban Extended To 12 Years From FIDE-Rated Events"
-      },
-      {
-         "description" : "Three games ended decisively in round 9 of the Tata Steel Masters. Gukesh Dommaraju defeated Leon Luke Mendonce to grab the sole lead, Vladimir Fedoseev took down Pentala Harikrishna to join the chasing pack a half point behind the leader, while Anish Giri beat former frontrunner Praggnanandhaa Rameshbabu. In the Challengers, Thai Dai Van Nguyen is still the sole leader, as Ediz G&uuml;rel and Benjamin Bok were the winners of the day in that section. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Tue, 28 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Gukesh beats Mendonca, becomes sole leader"
       },
       {
          "description" : "GM Gukesh Dommaraju leads his first tournament as world champion after defeating GM Leon Luke Mendonca in round nine to move to 6.5/9 in the 2025 Tata Steel Chess Masters. He&#39;s half a point ahead of GM Nodirbek Abdusattorov, who made a draw agains...",
@@ -747,14 +803,6 @@ news_feed (
       },
       {
          "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2025/#new_tab",
-         "pubDate" : "Mon, 20 Jan 2025 09:44:51",
-         "title" : "Important details for the NSCC Girls Championships 2025 - please read"
-      },
-      {
-         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3391",
@@ -898,14 +946,6 @@ news_feed (
          "title" : "Gukesh Beats Giri In Thriller As Tata Steel Chess Starts With A Bang"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117352304.cms\" />Indian chess stars, including new World Champion D Gukesh, are set to compete in the prestigious 87th Tata Steel Chess Tournament. Beginning January 17, 2025, in Wijk aan Zee, Netherlands, the tournament features top players like Fabiano Caruana. The strong Indian presence in both the Masters and Challengers sections highlights the nation's rising dominance in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-tournament-2025-when-and-where-to-watch-d-gukesh-make-his-comeback/articleshow/117352304.cms",
-         "pubDate" : "Sat, 18 Jan 2025 09:30:28",
-         "title" : "When and where to watch Gukesh make his comeback?"
-      },
-      {
          "description" : "Md. Reyan from Bihar and Saranya Devi Narahari from Telangana are Champions. The tournament was officially inaugurated on December 17th, 2024, at 3:00 PM at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -954,14 +994,6 @@ news_feed (
          "title" : "FIDE President Arkady Dvorkovich interview: \"We need a long-term solution\""
       },
       {
-         "description" : "We&#39;re excited to announce our newest event, the NextGen Cup! The $20,000 event will take place on February 6 and feature 10 of the African diaspora&#39;s most prominent players and personalities.&#38;nbsp; Among the confirmed players, fans will see boy-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-nextgen-cup-2025",
-         "pubDate" : "Fri, 17 Jan 2025 11:00:00",
-         "title" : "Watch The Most Talented Chess Players From The African Diaspora In The NextGen Cup"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117328675.cms\" />Indian chess gears up for a historic participation at the 87th Tata Steel Chess Tournament in Wijk aan Zee, Netherlands, from January 17 to February 2, 2025. Featuring five Indian Grandmasters for the first time, including the newly crowned World Chess champion D Gukesh, the tournament promises intense competition among top players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1008,14 +1040,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/new-opening/",
          "pubDate" : "Wed, 15 Jan 2025 13:58:52",
          "title" : "The simple way to learn a new opening"
-      },
-      {
-         "description" : "Wednesday Workout continues with more highlights from last month's National K-12 Grade Championships. All reporting from last year's National Scholastic events can be found here. Don't forget: registration for this May's SuperNationals is already open.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-k-12-grades-pt-2",
-         "pubDate" : "Wed, 15 Jan 2025 00:00:00",
-         "title" : "Wednesday Workout: K-12 Grades, Pt. 2"
       },
       {
          "description" : "",
@@ -1144,22 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3380",
          "pubDate" : "Thu, 09 Jan 2025 10:03:01",
          "title" : "Sanctions suspended after Moroccan Chess Federation complies with obligations for the 2023 King Mohammed VI Tournament"
-      },
-      {
-         "description" : "The European Women's Rapid &#38; Blitz Chess Championships 2024 take place in Monte-Carlo, Monaco, from 9-13 January. The European Women's Blitz Chess Championship 2024 is first on the schedule and will be played on Friday, 10th of January, with the participation of 134 players from 28 European federations. The event will be played in 13 rounds, swiss system, with the time control of 3 minutes + 2 seconds, and features the prize fund of 15.200 EUR. GM Alexandra Kosteniuk (SUI, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championships-2024-start-in-monte-carlo/",
-         "pubDate" : "Wed, 08 Jan 2025 14:01:46",
-         "title" : "European Women's Rapid & Blitz Chess Championships 2024 start in Monte-Carlo"
-      },
-      {
-         "description" : "Hey everyone, In response to a previous Blog post titled Exceptional Results Simple Training, I heard from some of your incredible success stories. I want to share two of them today. Both have extremely simple training methods influenced by my writing. If you haven't read my previous article, you can check it out here []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/simple-plan/",
-         "pubDate" : "Wed, 08 Jan 2025 13:55:33",
-         "title" : "How to gain 700 points in one year with a simple plan"
       }
    ]
 }
