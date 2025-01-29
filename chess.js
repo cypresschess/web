@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The NextGen Cup is a novel tournament with a $20,000 fund featuring ten master-level players throughout the African Diaspora. It will take place on chess.com on February 6th. IM Kassa Korley, a player who has his own Grandmaster aspirations, is currently employed as chess.com Director of Community. He told The Chess Drum last month that The post <a href=\"https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/\">NextGen Cup: An African Diaspora Chess Battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/",
+         "pubDate" : "Wed, 29 Jan 2025 04:41:33",
+         "title" : "NextGen Cup: An African Diaspora Chess Battle!"
+      },
+      {
          "description" : " Today produced an opportunity for the World Champion Gukesh to take the lead and he delivered by beating Mendonca in a good game with the white pieces. His co leaders could not match him, Abdusattorov, drew in a solid game against Caruana, and Praggnanandhaa lost to Giri. Gukesh played a complicated game and while his opponent Mendonca played strongly for much of the game, he needed too much time to do so and in zeitnot he made a bad blunder. Giri put Praggnanandhaa under pressure and although he missed a few chances to win earlier he still got the converted the advantage to a full point after the time control. Abdusattorov played mostly solidly against Caruana but there was one chance in t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
