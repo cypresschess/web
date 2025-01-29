@@ -10,12 +10,12 @@ news_feed (
          "title" : "World No. 1 Carlsen drops bombshell on FIDE after open letter"
       },
       {
-         "description" : "Three games ended decisively in round 9 of the Tata Steel Masters. Gukesh Dommaraju defeated Leon Luke Mendonce to grab the sole lead, Vladimir Fedoseev took down Pentala Harikrishna to join the chasing pack a half point behind the leader, while Anish Giri beat former frontrunner Praggnanandhaa Rameshbabu. In the Challengers, Thai Dai Van Nguyen is still the sole leader. | Follow the round 10 live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "The three games featuring players in the race for the Tata Steel Masters title finished decisively in round 10. Gukesh Dommaraju remained as the sole leader thanks to a victory over Max Warmerdam, while Nodirbek Abdusattorov kept up the pace by beating Alexey Sarana - the Uzbek GM is still a half point behind the leader. A half point further back is Praggnanandhaa Rameshbabu, who defeated Vladimir Fedoseev. In the Challengers, Thai Dai Van Nguyen kept the sole lead with a win over Vaishali Rameshbabu. | Replay all games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Wed, 29 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Gukesh, Abdusattorov and Pragg score"
       },
       {
          "description" : "The dispute between FIDE and Freestyle Chess continues. After Jan Henric Buettner attacked FIDE in an interview with Norwegian broadcaster NRK, Buettner has now published an open letter to FIDE CEO Emil Sutovsky. In this letter he addresses the development of the conflict, and concludes by saying: \"Freestyle seeks peace, not conflict. We are still willing to contribute $50,000 annually to ensure the players are left undisturbed.\" Sutovsky was quick to respond, sharing his view of the conflict on X/Twitter, although he did not comment on Buettner's offer. | Picture: Pixabay",
@@ -24,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-vs-freestyle-the-conflict-continues",
          "pubDate" : "Wed, 29 Jan 2025 12:44:11",
          "title" : "FIDE vs Freestyle - The conflict continues"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju spotted a far from obvious mistake by GM Max Warmerdam to retain the sole lead on 7.5/10 going into the final 2025 Tata Steel Chess Masters rest day. GM Nodirbek Abdusattorov remains half a point behind after taking huge risks ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-10",
+         "pubDate" : "Wed, 29 Jan 2025 12:11:02",
+         "title" : "Gukesh Scores 5th Win; Abdusattorov, Praggnanandhaa In Hot Pursuit"
+      },
+      {
+         "description" : "German entrepreneur Jan Henric Buettner is the driving force behind the Freestyle Chess events, the series of tournaments that could shake up the chess world. Along with his friend and business partner, GM Magnus Carlsen, he hopes to revolutionize...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-jan-henric-buettner-revolutionize-chess",
+         "pubDate" : "Wed, 29 Jan 2025 11:06:00",
+         "title" : "Buettner On Freestyle Chess Vision: 'I Needed The Greatest Player Ever'"
       },
       {
          "description" : "The first Underdog of 2025 has been chosen by Robert Ris. It is IM Lu Miaoyi. Currently, she is playing formidable at the Tata Steel Chess Festival tournament. She is second worst rated in the Challengers group, but could already gather 4.5 out of 8 points. One favourite to win the Challengers in Wijk aan Zee is Frederik Svane, who advanced to Germany's second-best player behind Vincent Keymer. Frederik Svane played as Black in the French exchange variation, against Lu Miaoyi, and the board was on fire quickly.",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "Gukesh Breaks Clear; Fedoseev, Giri Also Win"
       },
       {
-         "description" : "Against the popular Semi-Tarrasch (1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5), 7.Rb1 (with h4!) is currently the absolute fashionable variation and, with a yield of well over 60%, also a promising choice. In the current ChessBase Magazine #223, IM Bal&aacute;sz Csonka takes a close look at the variation and summarizes the current state of theory. His article includes an overview text and six annotated games from the period from 2018 (Karjakin-Kramnik from the Candidates Tournament) to 2024. You can view the complete article with all the analyses this week as a free sample from ChessBase Magazine #223 in ChessBase Books format!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-26",
-         "pubDate" : "Tue, 28 Jan 2025 11:00:00",
-         "title" : "Harry vs. Semi-Tarrasch"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117626936.cms\" />World Chess Champion Gukesh Dommaraju, 18, admits dealing with success has been challenging but credits his support system for keeping him grounded. Competing in the Tata Steel Chess Tournament 2025, Gukesh aspires to reach his full potential and still sees Magnus Carlsen as the world's best. Despite his age, he remains focused on improving.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -162,12 +170,12 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 2 (The Kids Are Alright)"
       },
       {
-         "description" : "US Chess Nominating Committee Recommends Four to Run for Executive BoardThe US Chess Nominating Committee (Committee) has completed its work for the 2025 US Chess Executive Board election. The Committee has qualified and recommends these four candidates to fill the four vacancies available in the upcoming 2025 Executive Board election (listed in alphabetical order):Anand Dommalapati (Virginia)Kevin Pryor (Florida)John D. Rockefeller, V (Maryland)Daniel Serna (New Mexico)The first Nominating Committee was created by the US Chess Delegates during the 2020 Special Delegates Meeting in August. At a Special Delegates Meeting in September 2020, the Delegates elected six Delegate-appointed candidat",
+         "description" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election The US Chess Nominating Committee (Committee) has completed its work for the 2025 US Chess Executive Board election. The Committee has qualified and recommends these four candidates to fill the four vacancies available in the upcoming 2025 Executive Board election (listed in alphabetical order):Anand Dommalapati (Virginia)Kevin Pryor (Florida)John D. Rockefeller, V (Maryland)Daniel Serna (New Mexico)The first Nominating Committee was created by the US Chess Delegates during the 2020 Special Delegates Meeting in August. At a Special Delegates Meeting in September 2020, the Delegates elected six Delegate-appointe",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-nominating-committee-recommends-four-run-executive-board-0",
          "pubDate" : "Tue, 28 Jan 2025 00:00:00",
-         "title" : "US Chess Nominating Committee Recommends Four to Run for Executive Board"
+         "title" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election "
       },
       {
          "description" : "After giving his Bundesliga debut for St. Pauli, Magnus Carlsen travelled on to the ICE Gaming Fair in Barcelona. In an interview, Carlsen commented on the controversy with FIDE, though he did not mention it explicitly. Still, it was an interesting and open interview.",
@@ -282,14 +290,6 @@ news_feed (
          "title" : "Caruana, Wei Yi Join Tata Steel Chess Title Race"
       },
       {
-         "description" : "Today, 26 January 2025, the legendary Icelandic Grandmaster Fridrik Olafsson celebrates his 90th birthday. Heartfelt congratulations to the Chess Coryphaeus! Our author Eduard Frey presents highlights from a remarkable biography.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-oldest-living-former-candidate-turns-90-happy-birthday-fridrik-olafsson",
-         "pubDate" : "Sun, 26 Jan 2025 10:00:00",
-         "title" : "The Oldest Living Former Candidate Turns 90 - Happy Birthday Fridrik Olafsson!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117568918.cms\" />Gukesh Dommaraju shone in the Tata Steel Chess Tournament 2025, defeating Pentala Harikrishna and leading the Masters standings alongside Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Arjun Erigaisi's struggles continued with a loss to Max Warmerdam. In the Challengers section, Divya Deshmukh fell to Miaoyi Lu while Vaishali Rameshbabu drew against Arthur Pijpers.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -320,14 +320,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-joins-abdusattorov-and-praggnanandhaa-in-the-lead-of-the-tata-steel-masters-after-7-rounds",
          "pubDate" : "Sat, 25 Jan 2025 21:00:00",
          "title" : "Gukesh joins Abdusattorov and Praggnanandhaa in the lead of the Tata Steel Masters after 7 Rounds - 7"
-      },
-      {
-         "description" : "The prestigeous Tata Steel Chess Tournament in Wijk aan Zee is on again, and just in the first couple of days we have been blessed with some instructive tactics! Svitlana has some nice examples prepared for us, either for your watching entertainment, or to actively try to solve them!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-instructive-tata-tactics",
-         "pubDate" : "Sat, 25 Jan 2025 20:41:16",
-         "title" : "Svitlana's Smart Moves - Instructive Tata Tactics!"
       },
       {
          "description" : "As the chess world prepares to celebrate a momentous milestone, we reflect on the life of Fridrik Ólafsson, a towering figure in Icelandic and international chess. In January 2026, Ólafsson will mark his 90th anniversary, a testament to his enduring influence on the game. Born on January 26, 1935, in Reykjav&iacute;k, Iceland, Fridrik Ólafsson emerged as a prodigious chess talent in his youth. His rise to prominence was swift, becoming the first Icelandic player to achieve the title of Grandmaster []",
@@ -968,22 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025",
          "pubDate" : "Fri, 17 Jan 2025 20:59:00",
          "title" : "87th Tata Steel 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Hikaru Nakamura and Kick are thrilled to present Chess 4 The Masses Sponsored by Kick, a two-tournament event for untitled players that will begin on January 22 at 2:00 p.m. ET/20:00 CET, following in the footsteps of past collaborations betwee...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-chess-4-the-masses-sponsored-by-kick",
-         "pubDate" : "Fri, 17 Jan 2025 19:25:00",
-         "title" : "Announcing Hikaru's Chess 4 The Masses Sponsored by Kick"
-      },
-      {
-         "description" : "For the first time since its inception, GM Ray Robson is not the winner of the&#38;nbsp;2025 Chess.com Puzzles Championship. Fourteen-year-old GM Andy Woodward, who was the runner-up in 2024, reversed the narrative this year. He also picked up $1,500 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/woodward-wins-2024-chesscom-puzzles-championship-knockout",
-         "pubDate" : "Fri, 17 Jan 2025 13:41:00",
-         "title" : "14-Year-Old Woodward Dethrones 5-Time Champion Robson"
       },
       {
          "description" : "",
