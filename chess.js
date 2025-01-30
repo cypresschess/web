@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Surya Ganguly recently visited the ChessBase office to record exclusive ChessBase Training videos. An ideal opportunity to interview a true chess legend. Known for his deep philosophical reflections, captivating anecdotes, and life-changing experiences, Ganguly brings the same mindset to both his chess and coaching career, allowing him to continuously find joy in the game and in guiding others.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surya-ganguly-a-philosophical-chess-interview",
+         "pubDate" : "Thu, 30 Jan 2025 16:00:00",
+         "title" : "Surya Ganguly - A philosophical chess interview"
+      },
+      {
+         "description" : "The online semi will take place&#160;on 25th Feb from 4.00 5.00pm on the Lichess server. Links to the actual tournament address will be posted soon. &#160; No school that...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/online-semi-final-nscc-girls-schools-team-championships/",
+         "pubDate" : "Thu, 30 Jan 2025 15:58:58",
+         "title" : "Online Semi-Final NSCC Girls Schools Team Championships"
+      },
+      {
+         "description" : "Dear chess friends We really hope you can join us for Adam's Celebration Service on Saturday 1st March 2025 at 11am. The service is being held at Woodbridge School Chapel...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/memorial-celebration-for-im-adam-hunt-on-saturday-1st-march/",
+         "pubDate" : "Thu, 30 Jan 2025 15:29:42",
+         "title" : "Memorial celebration for IM Adam Hunt on Saturday 1st March"
+      },
+      {
+         "description" : "Round 10 of the Tata Steel Chess Tournament saw the frontrunners in both the Masters and Challengers sections claiming crucial victories. In the Masters, Gukesh Dommaraju held onto his lead by beating Max Warmerdam, while Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu also won to keep the title race tight. Similarly, in the Challengers, Thai Dai Van Nguyen remained in first place with a win, with Erwin l'Ami and Aydin Suleymanli also scoring full points to stay in the race for overall victory. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-10",
+         "pubDate" : "Thu, 30 Jan 2025 13:35:00",
+         "title" : "Tata Steel Chess R10: Gukesh wins again, Abdusattorov keeps up the pace"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2025/01/Visit-to-HMP-Springhill-on-28-January-2025.pdf#new_tab",
+         "pubDate" : "Thu, 30 Jan 2025 13:31:21",
+         "title" : "Visit to HMP Springhill - Carl Portman"
+      },
+      {
+         "description" : "For the last ten years, St Catherine's School in Bramley, England has been a sole or co-sponsor of the English Chess Federation National Schools Girls Team Tournament. A school with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/national-schools-report-girls-semi-finals/",
+         "pubDate" : "Thu, 30 Jan 2025 13:16:15",
+         "title" : "National Schools report - Girls Semi-Finals"
+      },
+      {
          "description" : "A new documentary, produced by chess.com, delves into the remarkable journey of Wesley So, tracing his rise from a chess prodigy in the Philippines to one of the world's elite grandmasters. Narrated by So himself, the 26-minute film explores his early struggles, his federation switch to the United States and the support of his adoptive family. Offering rare insights into his career and sacrifices, the documentary highlights So's unwavering dedication to the game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/documentary-wesley-so-2025",
          "pubDate" : "Thu, 30 Jan 2025 10:00:00",
          "title" : "New documentary on Wesley So: Wholesome, inspiring"
+      },
+      {
+         "description" : "India's Gukesh scored a win over compatriot Leon Mendonca in ninth round of the Tata Steel Masters to go clear at the top.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43618517/unbeaten-gukesh-retains-lead-praggnanandhaa-bounces-back-round-10-tata-steel-chess?device=featurephone",
+         "pubDate" : "Wed, 29 Jan 2025 23:08:59",
+         "title" : "Unbeaten Gukesh retains lead, Pragg bounces back: Round 10 of Tata Steel Chess"
       },
       {
          "description" : " Gukesh leads the Tata Steel Masters with 7.5/10 by half a point from Nodirbek Abdusattorov on 7 points, a further half point behind is Praggnanandhaa. It seems very likely the winner will be one of these three players and all of them won today. There is a rest day on Thursday followed by the final three rounds with the event finishing on Sunday. Gukesh started the game as black with 1.e4 d6! the first time he'd ever played this, Max Warmerdam played 2.g3! a pre-event piece of prep and after 2...c5 they were in a Sicilian. Gukesh had the kind of complicated position he needed and after 24.Bf1? he was much better and after 28.Rc1? he launched a direct attack for the win. Abdusattorov probably",
@@ -42,14 +98,6 @@ news_feed (
          "title" : "World No. 1 Carlsen drops bombshell on FIDE after open letter"
       },
       {
-         "description" : "The three games featuring players in the race for the Tata Steel Masters title finished decisively in round 10. Gukesh Dommaraju remained as the sole leader thanks to a victory over Max Warmerdam, while Nodirbek Abdusattorov kept up the pace by beating Alexey Sarana - the Uzbek GM is still a half point behind the leader. A half point further back is Praggnanandhaa Rameshbabu, who defeated Vladimir Fedoseev. In the Challengers, Thai Dai Van Nguyen kept the sole lead with a win over Vaishali Rameshbabu. | Replay all games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Wed, 29 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Gukesh, Abdusattorov and Pragg score"
-      },
-      {
          "description" : "The dispute between FIDE and Freestyle Chess continues. After Jan Henric Buettner attacked FIDE in an interview with Norwegian broadcaster NRK, Buettner has now published an open letter to FIDE CEO Emil Sutovsky. In this letter he addresses the development of the conflict, and concludes by saying: \"Freestyle seeks peace, not conflict. We are still willing to contribute $50,000 annually to ensure the players are left undisturbed.\" Sutovsky was quick to respond, sharing his view of the conflict on X/Twitter, although he did not comment on Buettner's offer. | Picture: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/freestyle-chess-jan-henric-buettner-revolutionize-chess",
          "pubDate" : "Wed, 29 Jan 2025 11:06:00",
          "title" : "Buettner On Freestyle Chess Vision: 'I Needed The Greatest Player Ever'"
-      },
-      {
-         "description" : "The first Underdog of 2025 has been chosen by Robert Ris. It is IM Lu Miaoyi. Currently, she is playing formidable at the Tata Steel Chess Festival tournament. She is second worst rated in the Challengers group, but could already gather 4.5 out of 8 points. One favourite to win the Challengers in Wijk aan Zee is Frederik Svane, who advanced to Germany's second-best player behind Vincent Keymer. Frederik Svane played as Black in the French exchange variation, against Lu Miaoyi, and the board was on fire quickly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-lu-miaoyi-destroyed-frederik-svane-the-underdog",
-         "pubDate" : "Wed, 29 Jan 2025 10:05:21",
-         "title" : "How Lu Miaoyi destroyed Frederik Svane - The Underdog"
       },
       {
          "description" : "",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-becomes-sole-leader-r-praggnanandhaa-beaten-for-first-time/articleshow/117654415.cms",
          "pubDate" : "Tue, 28 Jan 2025 20:24:54",
          "title" : "Gukesh becomes sole leader; Praggnanandhaa beaten for first time"
-      },
-      {
-         "description" : "The controversy between Freestyle Chess and FIDE is escalating into a major conflict. Both sides have reiterated their positions in various media. The Norwegian NRK quotes Jan Henrric Buettner and FIDE. Emil Sutovsky has responded on X. Behind all this is a large sum of money that FIDE would like to receive. | Photo: sharkolot auf Pixapy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-vs-fide-positions-hardened-conflict-escalates",
-         "pubDate" : "Tue, 28 Jan 2025 16:53:26",
-         "title" : "Freestyle vs. FIDE: Positions hardened, conflict escalates"
       },
       {
          "description" : "In a decision by the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) published on Monday, 43-year-old Latvian IM Andrejs Strebkovs will lose his international master title and his ban from attending FIDE-rated events has been extended from five ye...",
@@ -1128,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3383",
          "pubDate" : "Thu, 09 Jan 2025 21:14:57",
          "title" : "Iniyan wins 15th Chennai Open"
-      },
-      {
-         "description" : "Vrnjacka Banja, Serbia 19th to 29th March 2025. A minimum of one parent must attend with each child who is playing in the tournament. For all the details and online...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-world-school-chess-championships-2025/",
-         "pubDate" : "Thu, 09 Jan 2025 14:43:28",
-         "title" : "FIDE World School Chess Championships 2025"
       }
    ]
 }
