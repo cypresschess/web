@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Gukesh leads the Tata Steel Masters with 7.5/10 by half a point from Nodirbek Abdusattorov on 7 points, a further half point behind is Praggnanandhaa. It seems very likely the winner will be one of these three players and all of them won today. There is a rest day on Thursday followed by the final three rounds with the event finishing on Sunday. Gukesh started the game as black with 1.e4 d6! the first time he'd ever played this, Max Warmerdam played 2.g3! a pre-event piece of prep and after 2...c5 they were in a Sicilian. Gukesh had the kind of complicated position he needed and after 24.Bf1? he was much better and after 28.Rc1? he launched a direct attack for the win. Abdusattorov probably",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-wins-again-in-round-10-of-the-tata-steel-masters-but-so-do-abdusattorov-and-praggnanandhaa",
+         "pubDate" : "Wed, 29 Jan 2025 22:13:00",
+         "title" : "Gukesh wins again in Round 10 of the Tata Steel Masters but so do Abdusattorov and Praggnanandhaa - 10"
+      },
+      {
+         "description" : "The FIDE Ethics and Disciplinary Commission Appeal Chamber has upheld and strengthened sanctions against IM Andrejs Strebkovs for severe misconduct, extending his ban to 12 years and revoking his International Master title. The ruling follows a thorough review of evidence, including police findings, confirming his involvement in sending offensive materials to female players, some of them minors. FIDE President Arkady Dvorkovich affirmed the decision as a vital step in safeguarding the sport's integrity and its players' well-being.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/adrejs-strebkovs-ban-extended",
+         "pubDate" : "Wed, 29 Jan 2025 22:10:00",
+         "title" : "FIDE extends ban and revokes title of Andrejs Strebkovs over harassment of female players"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117706024.cms\" />In Round 10 of the Tata Steel Chess Tournament 2025, Gukesh Dommaraju retained his lead, defeating Max Warmerdam. Praggnanandhaa Rameshbabu outplayed Vladimir Fedoseev, while Arjun Erigaisi drew against Vincent Keymer. Nodirbek Abdusattorov secured a win to stay close to Gukesh. The Challengers section saw defeats for Vaishali Rameshbabu and Divya Deshmukh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-tightens-lead-at-the-top-r-praggnanandhaa-back-to-winning-ways/articleshow/117706024.cms",
+         "pubDate" : "Wed, 29 Jan 2025 21:05:39",
+         "title" : "Gukesh tightens lead at the top; Pragg back to winning ways"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117695001.cms\" />Magnus Carlsen criticised FIDE after co-founding Freestyle Chess Players Club with Jan Henric Beuttner, which led to a dispute over the term \"World Championship\". Carlsen supports Beuttner's stance that their new tour shouldn't replace traditional championships but should have its unique format. FIDE warned of potential conflict but expressed openness to collaboration.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-10",
-         "pubDate" : "Wed, 29 Jan 2025 12:11:02",
+         "pubDate" : "Wed, 29 Jan 2025 12:11:00",
          "title" : "Gukesh Scores 5th Win; Abdusattorov, Praggnanandhaa In Hot Pursuit"
       },
       {
@@ -106,14 +130,6 @@ news_feed (
          "title" : "Gukesh becomes sole leader; Praggnanandhaa beaten for first time"
       },
       {
-         "description" : "Dr Thorsten Heedt took chess lessons from Robert H&uuml;bner (1948-2025) for a long time and got to know the German Grandmaster very well. They became good friends and Heedt even asked H&uuml;bner to be best man at Heedt's wedding. After H&uuml;bner's death on 5 January 2025, Heedt shares some personal memories...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/notes-of-an-overwhelmed-student-remembering-robert-huebner",
-         "pubDate" : "Tue, 28 Jan 2025 19:29:00",
-         "title" : "Notes of an Overwhelmed Student - Remembering Robert H&uuml;bner"
-      },
-      {
          "description" : "The controversy between Freestyle Chess and FIDE is escalating into a major conflict. Both sides have reiterated their positions in various media. The Norwegian NRK quotes Jan Henrric Buettner and FIDE. Emil Sutovsky has responded on X. Behind all this is a large sum of money that FIDE would like to receive. | Photo: sharkolot auf Pixapy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,28 +194,12 @@ news_feed (
          "title" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election "
       },
       {
-         "description" : "After giving his Bundesliga debut for St. Pauli, Magnus Carlsen travelled on to the ICE Gaming Fair in Barcelona. In an interview, Carlsen commented on the controversy with FIDE, though he did not mention it explicitly. Still, it was an interesting and open interview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-at-the-ice-gaming-fair-in-barcelona",
-         "pubDate" : "Mon, 27 Jan 2025 18:08:24",
-         "title" : "Magnus Carlsen at the ICE Gaming Fair in Barcelona"
-      },
-      {
          "description" : "The National Team Chess Championship 2024-25 has been postponed at the request of the organizers. The new dates and updated event regulations will be announced",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/postponement-of-national-team-chess-championship-2024-25/",
          "pubDate" : "Mon, 27 Jan 2025 15:24:43",
          "title" : "Postponement of National Team Chess Championship 2024-25"
-      },
-      {
-         "description" : "Wei Yi and Fabiano Caruana scored victories in round 8 of the Tata Steel Masters, with Wei beating Max Warmerdam and Caruana getting the better of Vincent Keymer. The two winners of the day stand a full point behind co-leaders Gukesh Dommaraju, Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Meanwhile, Thai Dai Van Nguyen defeated Lu Miaoyi to become the sole leader in the Challengers section. Monday marks the penultimate rest day for the players. | Photo: Tata Steel Chess / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-8",
-         "pubDate" : "Mon, 27 Jan 2025 14:50:00",
-         "title" : "Tata Steel Chess R8: Wei and Caruana prevail in lengthy struggles"
       },
       {
          "description" : "",
@@ -968,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3388",
          "pubDate" : "Fri, 17 Jan 2025 11:15:32",
          "title" : "FIDE President Arkady Dvorkovich interview: \"We need a long-term solution\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117328675.cms\" />Indian chess gears up for a historic participation at the 87th Tata Steel Chess Tournament in Wijk aan Zee, Netherlands, from January 17 to February 2, 2025. Featuring five Indian Grandmasters for the first time, including the newly crowned World Chess champion D Gukesh, the tournament promises intense competition among top players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-tournament-2025-d-gukesh-to-return-to-board-with-intriguing-round-1-clash-against-anish-giri/articleshow/117328675.cms",
-         "pubDate" : "Fri, 17 Jan 2025 09:31:10",
-         "title" : "D Gukesh to return to board at Tata Steel Chess Tournament"
       },
       {
          "description" : "The All India Chess Federation (AICF) hosted a grand felicitation ceremony in New Delhi on Thursday to honor the remarkable accomplishments of Indian chess grandmasters",
