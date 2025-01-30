@@ -194,6 +194,14 @@ news_feed (
          "title" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election "
       },
       {
+         "description" : "In <A HREF=\"https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html\">Chess Guy Likes to Talk</A> (January 2025), I wrote, <BLOCKQUOTE> For the third time in less than a year, the monthly featured Flickr post contains two keywords: Shoreditch graffiti. </BLOCKQUOTE> <P> While working on that post I discovered a new resource, an example of which is shown in the following image. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa27.gif\" WIDTH=400 HEIGHT=165><BR> <A HREF=\"https://www.graffiti-empire.com/graffiti-generator/\">Online Graffiti Generator - Graffiti Empire</A><BR> graffiti-empire.com <P> That example was constructed using the first offered 'font' plus t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/chess-graffiti.html",
+         "pubDate" : "Mon, 27 Jan 2025 16:43:00",
+         "title" : "Chess Graffiti"
+      },
+      {
          "description" : "The National Team Chess Championship 2024-25 has been postponed at the request of the organizers. The new dates and updated event regulations will be announced",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
