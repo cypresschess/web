@@ -50,7 +50,7 @@ news_feed (
          "title" : "FIDE vs Freestyle - The conflict continues"
       },
       {
-         "description" : "GM Gukesh Dommaraju spotted a far from obvious mistake by GM Max Warmerdam to retain the sole lead on 7.5/10 going into the final 2025 Tata Steel Chess Masters rest day. GM Nodirbek Abdusattorov remains half a point behind after taking huge risks ...",
+         "description" : "GM Gukesh Dommaraju pounced on a far from obvious mistake by GM Max Warmerdam to retain the sole lead on 7.5/10 going into the final 2025 Tata Steel Chess Masters rest day. GM Nodirbek Abdusattorov remains half a point behind after taking huge ris...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-10",
