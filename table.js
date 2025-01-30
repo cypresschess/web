@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-01-07  - 01-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202501281382 target='_blank'>JANUARY 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-01-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501269532 target='_blank'>JAN 26 SUNDAY SWISS AT NOON</a>",
 "SPRING","2025-01-25","374","<a href=http://www.uschess.org/msa/XtblMain.php?202501259962 target='_blank'>25TH KLEIN WINTER SCHOLASTIC</a>",
 "HOUSTON","2025-01-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501258332 target='_blank'>QUADS - ALL AGES -SATURDAY JAN 25 A</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-06-04","2","<a href=http://www.uschess.org/msa/XtblMain.php?202406042002 target='_blank'>MATCH PLAY</a>",
 "HOUSTON","2024-06-02","16","<a href=http://www.uschess.org/msa/XtblMain.php?202406020842 target='_blank'>SUNDAY SWISS - JUNE 2, 2024 - AT 1P</a>",
 "HOUSTON","2024-06-01","73","<a href=http://www.uschess.org/msa/XtblMain.php?202406019982 target='_blank'>CCUH JUNE SCHOLASTIC AND COLLEGIATE</a>",
-"HOUSTON","2024-06-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202406019842 target='_blank'>CHESSPANDA06012024SATURDAY</a>",
 ]);
