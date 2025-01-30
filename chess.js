@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new documentary, produced by chess.com, delves into the remarkable journey of Wesley So, tracing his rise from a chess prodigy in the Philippines to one of the world's elite grandmasters. Narrated by So himself, the 26-minute film explores his early struggles, his federation switch to the United States and the support of his adoptive family. Offering rare insights into his career and sacrifices, the documentary highlights So's unwavering dedication to the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/documentary-wesley-so-2025",
+         "pubDate" : "Thu, 30 Jan 2025 10:00:00",
+         "title" : "New documentary on Wesley So: Wholesome, inspiring"
+      },
+      {
          "description" : " Gukesh leads the Tata Steel Masters with 7.5/10 by half a point from Nodirbek Abdusattorov on 7 points, a further half point behind is Praggnanandhaa. It seems very likely the winner will be one of these three players and all of them won today. There is a rest day on Thursday followed by the final three rounds with the event finishing on Sunday. Gukesh started the game as black with 1.e4 d6! the first time he'd ever played this, Max Warmerdam played 2.g3! a pre-event piece of prep and after 2...c5 they were in a Sicilian. Gukesh had the kind of complicated position he needed and after 24.Bf1? he was much better and after 28.Rc1? he launched a direct attack for the win. Abdusattorov probably",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1128,22 +1136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-school-chess-championships-2025/",
          "pubDate" : "Thu, 09 Jan 2025 14:43:28",
          "title" : "FIDE World School Chess Championships 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3381",
-         "pubDate" : "Thu, 09 Jan 2025 10:31:15",
-         "title" : "21st \"Preparation of Teachers\" course by the FIDE EDU announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3380",
-         "pubDate" : "Thu, 09 Jan 2025 10:03:01",
-         "title" : "Sanctions suspended after Moroccan Chess Federation complies with obligations for the 2023 King Mohammed VI Tournament"
       }
    ]
 }
