@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Suhani Shah is one of the finest mentalists we know. Certainly one of the most entertaining. In one of her acts she proceeded to read the minds of two chess World Champions - Vishy Anand and D.Gukesh. Check out the videos in our report to see how she fared works - and try to explain the techniques she uses. A word of caution: this is one really clever lady!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reading-the-minds-of-world-champions",
+         "pubDate" : "Thu, 30 Jan 2025 19:00:00",
+         "title" : "Reading the minds of world champions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117749503.cms\" />Uzbek Grandmaster Nodirbek Yakubboev, after previously apologising to Indian Grandmaster R Vaishali for not shaking hands during a match, met her again with flowers and chocolates to further express regret. Yakubboev clarified his action was due to religious reasons and reiterated his respect for Vaishali and Indian chess players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nodirbek-yakubboev-extends-heartfelt-apology-to-grandmaster-r-vaishali-with-flowers-and-chocolates/articleshow/117749503.cms",
+         "pubDate" : "Thu, 30 Jan 2025 16:50:58",
+         "title" : "Yakubboev extends heartfelt apology to R Vaishali with flowers and chocolates"
+      },
+      {
          "description" : "Surya Ganguly recently visited the ChessBase office to record exclusive ChessBase Training videos. An ideal opportunity to interview a true chess legend. Known for his deep philosophical reflections, captivating anecdotes, and life-changing experiences, Ganguly brings the same mindset to both his chess and coaching career, allowing him to continuously find joy in the game and in guiding others.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/documentary-wesley-so-2025",
          "pubDate" : "Thu, 30 Jan 2025 10:00:00",
          "title" : "New documentary on Wesley So: Wholesome, inspiring"
+      },
+      {
+         "description" : "No Claim, No Problem: The TD Calls It a Draw AnyhowWe all know that the TD can't interfere in your game without a claim being made. It is one of our golden rules. Or is it? Let's take a look at a few exceptions! Flag 'em DannoIt is a Sudden Death contest. The pressure is on. You are focused, but so is your opponent. Both of you are banging out moves at lightning speeds. Both of you are playing \"Beat the Clock.\" Someone's playing time is going to disappear first. Then it happens. The TD's voice registers in your brain, and you hear words you can't believe, \"The game's a draw!\" Both of you look stunned and confused. Neither of you made a claim. How can it be that the TD called your game a draw",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-no-claim-no-problem",
+         "pubDate" : "Thu, 30 Jan 2025 00:00:00",
+         "title" : "Just the Rules: No Claim, No Problem"
       },
       {
          "description" : "India's Gukesh scored a win over compatriot Leon Mendonca in ninth round of the Tata Steel Masters to go clear at the top.",
@@ -946,14 +970,6 @@ news_feed (
          "title" : "Gukesh starts with a very fortunate win against Giri in Round 1 of Tata Steel Masters 2025 - 1"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117359240.cms\" />D Gukesh triumphed in the Tata Steel Chess Tournament 2025 opener against Anish Giri, despite Giri's early advantage. Gukesh's strategic play led to a victory following a pivotal mistake by Giri. Other matches saw mixed results for Indian players, with Praggnanandhaa drawing and Leon Luke Mendonca losing. Highlights included a quick win for Rameshbabu Vaishali in the Challengers section.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-d-gukesh-outfoxes-home-favourite-anish-giri-to-kickstart-tata-steel-chess-2025-campaign/articleshow/117359240.cms",
-         "pubDate" : "Sat, 18 Jan 2025 19:41:10",
-         "title" : "Gukesh outfoxes home favourite Giri to kickstart Tata Steel Chess 2025"
-      },
-      {
          "description" : "It's my own discovery! This week I hope to reveal a colossal advance in our knowledge of the early history of modern chess. The 1747 match in London between Stamma and Philidor is the earliest recorded contest between two leading protagonists which might be considered decisive for determining the strongest player in the chess world. []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3387",
          "pubDate" : "Thu, 16 Jan 2025 08:48:58",
          "title" : "Call for Bids FIDE World Championships 2025 and 2026 concluded"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, January 20 in recognition of Martin Luther King Jr. Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding,",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-be-closed-monday-january-20-martin-luther-king-jr-day",
-         "pubDate" : "Thu, 16 Jan 2025 00:00:00",
-         "title" : "US Chess Offices to be Closed Monday, January 20 for Martin Luther King Jr. Day"
       },
       {
          "description" : "Studying a new opening can be overwhelming. Many study dozens of hours of theory before you first play that new opening. By the time they play their first game, they forget 50% of it. There is a better way. If you study only what is necessary and then improve your opening with every game you []",
