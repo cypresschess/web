@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Norway Chess tournament, set to take place from May 26 to June 6 in Stavanger, will once again feature some of the world's strongest players. Both the main event and Norway Chess Women will follow a six-player double round-robin format, with the Armageddon tiebreak system ensuring a decisive result in every round. Norway Chess Women returns for its second edition, maintaining the same financial rewards, structure and venue as the main event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-lineups",
+         "pubDate" : "Fri, 31 Jan 2025 12:20:00",
+         "title" : "Norway Chess and Norway Chess Women: Final lineups for 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117788129.cms\" />India may lose the opportunity to host the Freestyle Chess Grand Slam Tour due to a lack of investor support. Organizers are considering alternative venues unless an Indian investor steps forward. Talks with Indian tycoon Anand Mahindra did not yield support as his focus remains on the Global Chess League.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-financial-woes-threaten-indias-bid-to-host-d-gukesh-in-freestyle-chess-grand-slam-tour/articleshow/117788129.cms",
+         "pubDate" : "Fri, 31 Jan 2025 10:55:42",
+         "title" : "Financial woes threaten India's bid to host D Gukesh"
+      },
+      {
          "description" : " The teams have both won all their four matches in the UK national league and are set to meet in the final round in May The UK's national league, the 4NCL, is turning into a two-horse race after last weekend's third and fourth rounds at Peterborough. Wood Green, the 2024 and London League champions, and Manx Liberty, the 2023 winners whose core is a group of Romanian and Hungarian grandmasters, have both won all their four matches. After four of the 11 rounds the leaders are Wood Green 8 match points (24 game points), Manx Liberty 8 (23.5), Cheddleton Savills Catering 6 (19), Barnet Knights 6 (18). The fixture list is geared to producing a climax, so that Wood Green v Manx will only occur in",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Yakubboev apologises to Vaishali and Divya after no-handshake incident"
       },
       {
+         "description" : "The theme of this issue of Check is in the Mail is chess Combinations. All of the games are from 2024, end in a win (no draws), are NOT miniatures (see the previous issue for miniatures), and, to focus on the theme of this issue, all contain one or more Combinations in the moves of the game or within a variation from the analysis of the game.Combinations, in this instance, are those moves defined in the Encyclopaedia of Chess Combinations, published by Chess Informant. The Combinations covered, listed here in alphabetical order, include Annihilation of Defense, Blockade, Clearance, Decoy, Deflection, Demolition of the Pawn Structure, Discovered Attack, Double Attack, Interference and Pinning",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-february-2025-unlock-combination",
+         "pubDate" : "Fri, 31 Jan 2025 00:00:00",
+         "title" : "Check is in the Mail, February 2025: Unlock the Combination!"
+      },
+      {
          "description" : "Suhani Shah is one of the finest mentalists we know. Certainly one of the most entertaining. In one of her acts she proceeded to read the minds of two chess World Champions - Vishy Anand and D.Gukesh. Check out the videos in our report to see how she fared works - and try to explain the techniques she uses. A word of caution: this is one really clever lady!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nodirbek-yakubboev-extends-heartfelt-apology-to-grandmaster-r-vaishali-with-flowers-and-chocolates/articleshow/117749503.cms",
          "pubDate" : "Thu, 30 Jan 2025 16:50:58",
          "title" : "Yakubboev extends heartfelt apology to R Vaishali with flowers and chocolates"
-      },
-      {
-         "description" : "Surya Ganguly recently visited the ChessBase office to record exclusive ChessBase Training videos. An ideal opportunity to interview a true chess legend. Known for his deep philosophical reflections, captivating anecdotes, and life-changing experiences, Ganguly brings the same mindset to both his chess and coaching career, allowing him to continuously find joy in the game and in guiding others.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surya-ganguly-a-philosophical-chess-interview",
-         "pubDate" : "Thu, 30 Jan 2025 16:00:00",
-         "title" : "Surya Ganguly - A philosophical chess interview"
       },
       {
          "description" : "The online semi will take place&#160;on 25th Feb from 4.00 5.00pm on the Lichess server. Links to the actual tournament address will be posted soon. &#160; No school that...",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "National Schools report - Girls Semi-Finals"
       },
       {
-         "description" : "A new documentary, produced by chess.com, delves into the remarkable journey of Wesley So, tracing his rise from a chess prodigy in the Philippines to one of the world's elite grandmasters. Narrated by So himself, the 26-minute film explores his early struggles, his federation switch to the United States and the support of his adoptive family. Offering rare insights into his career and sacrifices, the documentary highlights So's unwavering dedication to the game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/documentary-wesley-so-2025",
-         "pubDate" : "Thu, 30 Jan 2025 10:00:00",
-         "title" : "New documentary on Wesley So: Wholesome, inspiring"
-      },
-      {
          "description" : "No Claim, No Problem: The TD Calls It a Draw AnyhowWe all know that the TD can't interfere in your game without a claim being made. It is one of our golden rules. Or is it? Let's take a look at a few exceptions! Flag 'em DannoIt is a Sudden Death contest. The pressure is on. You are focused, but so is your opponent. Both of you are banging out moves at lightning speeds. Both of you are playing \"Beat the Clock.\" Someone's playing time is going to disappear first. Then it happens. The TD's voice registers in your brain, and you hear words you can't believe, \"The game's a draw!\" Both of you look stunned and confused. Neither of you made a claim. How can it be that the TD called your game a draw",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -114,14 +122,6 @@ news_feed (
          "title" : "Gukesh wins again in Round 10 of the Tata Steel Masters but so do Abdusattorov and Praggnanandhaa - 10"
       },
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission Appeal Chamber has upheld and strengthened sanctions against IM Andrejs Strebkovs for severe misconduct, extending his ban to 12 years and revoking his International Master title. The ruling follows a thorough review of evidence, including police findings, confirming his involvement in sending offensive materials to female players, some of them minors. FIDE President Arkady Dvorkovich affirmed the decision as a vital step in safeguarding the sport's integrity and its players' well-being.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/adrejs-strebkovs-ban-extended",
-         "pubDate" : "Wed, 29 Jan 2025 22:10:00",
-         "title" : "FIDE extends ban and revokes title of Andrejs Strebkovs over harassment of female players"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117706024.cms\" />In Round 10 of the Tata Steel Chess Tournament 2025, Gukesh Dommaraju retained his lead, defeating Max Warmerdam. Praggnanandhaa Rameshbabu outplayed Vladimir Fedoseev, while Arjun Erigaisi drew against Vincent Keymer. Nodirbek Abdusattorov secured a win to stay close to Gukesh. The Challengers section saw defeats for Vaishali Rameshbabu and Divya Deshmukh.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -136,14 +136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-drops-three-word-bombshell-on-fide-after-freestyle-chess-open-letter/articleshow/117695001.cms",
          "pubDate" : "Wed, 29 Jan 2025 15:12:15",
          "title" : "World No. 1 Carlsen drops bombshell on FIDE after open letter"
-      },
-      {
-         "description" : "The dispute between FIDE and Freestyle Chess continues. After Jan Henric Buettner attacked FIDE in an interview with Norwegian broadcaster NRK, Buettner has now published an open letter to FIDE CEO Emil Sutovsky. In this letter he addresses the development of the conflict, and concludes by saying: \"Freestyle seeks peace, not conflict. We are still willing to contribute $50,000 annually to ensure the players are left undisturbed.\" Sutovsky was quick to respond, sharing his view of the conflict on X/Twitter, although he did not comment on Buettner's offer. | Picture: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-vs-freestyle-the-conflict-continues",
-         "pubDate" : "Wed, 29 Jan 2025 12:44:11",
-         "title" : "FIDE vs Freestyle - The conflict continues"
       },
       {
          "description" : "GM Gukesh Dommaraju pounced on a far from obvious mistake by GM Max Warmerdam to retain the sole lead on 7.5/10 going into the final 2025 Tata Steel Chess Masters rest day. GM Nodirbek Abdusattorov remains half a point behind after taking huge ris...",
@@ -802,14 +794,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 1 (Yip Week)"
       },
       {
-         "description" : "Earlier this month, on January 11, nearly 90 girls came together in Fremont, California to participate in the 2025 FEMchess All-Girls Chess Championship, an event that continues to empower young women to thrive in a traditionally male-dominated space. 29 players competed in the unrated section, marking an important milestone in their chess journeys. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of FEMchess<br> <br> <br> <br> Established in 2020 as a youth-led nonprofit run by nationally ranked and titled chess players, FEMchess's mission is to help bridge the chess gender gap, one tournament or lesson at a time. One of our initiatives ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-femchess-all-girls-scholastic-chess-championship-continues-bridge-gender-gap",
-         "pubDate" : "Tue, 21 Jan 2025 00:00:00",
-         "title" : "2025 FEMchess All-Girls Scholastic Chess Championship Continues to Bridge Gender Gap"
-      },
-      {
          "description" : " The third round of the Tata Steel Masters saw five draws and the only decisive results came right at the end but they did mean Praggnanandhaa and Nodirbek Abdusattorov were in a two way share of the lead. The draws came in stark contrast to the seven white wins in the Challengers group which really shook up the standings there. In the Masters Praggnanandhaa converted an advantage over a struggling Arjun Erigaisi. Max Warmerdam was still very much in the game against Nodirbek Abdusattorov until very near the end when his position collapsed, although his position was surely harder to handle. Wei Yi finally got a real game against Vincent Keymer but was on the worse side of the draw. Gukesh wa",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -944,14 +928,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-2",
          "pubDate" : "Sun, 19 Jan 2025 12:26:00",
          "title" : "Caruana, Abdusattorov, Praggnanandhaa Win To Join Leaders"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117370685.cms\" />Anish Giri faced a tough start in the Masters at the Tata Steel Chess Tournament, losing to World Chess Champion D Gukesh. Giri's early control vanished after a critical mistake, which Gukesh exploited effectively. Gukesh, unaffected by his recent busy schedule, now prepares for Round 2 against Vladimir Fedoseev, while Giri faces Arjun Erigaisi next.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dropped-head-sigh-of-disappointment-d-gukesh-takes-opponent-on-an-emotional-roller-coaster-ride-viral-video/articleshow/117370685.cms",
-         "pubDate" : "Sun, 19 Jan 2025 09:11:48",
-         "title" : "Watch: Gukesh takes opponent on an emotional roller coaster ride"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the three FIDE Arbiter Seminars as per the appended schedule:- 1 Bengaluru 07-09 February 20252 Shillong 14-16",
