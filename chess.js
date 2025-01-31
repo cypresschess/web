@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117802859.cms\" />Gukesh Dommaraju ascended to World No. 3 after drawing against reigning champion Wei Yi at the Tata Steel Chess Tournament 2025. Rameshbabu Praggnanandhaa scored a stunning win over top seed Fabiano Caruana, elevating him in the standings. Leon Luke Mendonca, Pentala Harikrishna, and Divya Deshmukh also recorded notable victories, marking a remarkable day for Indian chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-becomes-new-world-no-3-as-r-praggnanandhaa-beats-fabiano-caruana-in-round-11/articleshow/117802859.cms",
+         "pubDate" : "Fri, 31 Jan 2025 20:06:28",
+         "title" : "Gukesh becomes new World No. 3 as Pragg beats top seed Caruana"
+      },
+      {
          "description" : "We are pleased to announce that this year's British Chess Championships will be held at&#160;St George's Hall in Liverpool and the Liverpool Holiday Inn,&#160;with events running from 31st July to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Norway Chess and Norway Chess Women: Final lineups for 2025"
       },
       {
+         "description" : "GM Nodirbek Abdusattorov came inches away from co-leading the 2025 Tata Steel Chess Masters after round 11, but he didn&#39;t land the killer blow against GM Vincent Keymer, who managed to escape into an opposite-color bishop endgame and draw. Leader ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-11",
+         "pubDate" : "Fri, 31 Jan 2025 11:50:10",
+         "title" : "Praggnanandhaa Climbs, Abdusattorov Misses, Gukesh Still Leads"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117788129.cms\" />India may lose the opportunity to host the Freestyle Chess Grand Slam Tour due to a lack of investor support. Organizers are considering alternative venues unless an Indian investor steps forward. Talks with Indian tycoon Anand Mahindra did not yield support as his focus remains on the Global Chess League.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Financial woes threaten India's bid to host D Gukesh"
       },
       {
-         "description" : " The teams have both won all their four matches in the UK national league and are set to meet in the final round in May The UK's national league, the 4NCL, is turning into a two-horse race after last weekend's third and fourth rounds at Peterborough. Wood Green, the 2024 and London League champions, and Manx Liberty, the 2023 winners whose core is a group of Romanian and Hungarian grandmasters, have both won all their four matches. After four of the 11 rounds the leaders are Wood Green 8 match points (24 game points), Manx Liberty 8 (23.5), Cheddleton Savills Catering 6 (19), Barnet Knights 6 (18). The fixture list is geared to producing a climax, so that Wood Green v Manx will only occur in",
+         "description" : " The teams have both won all their four matches in the UK national league and are set to meet in the final round in May The UK's national league, the 4NCL, is turning into a two-horse race after last weekend's third and fourth rounds at Peterborough. Wood Green, the 2024 and London League champions, and Manx Liberty, the 2023 winners whose core is a group of Romanian and Hungarian grandmasters, have both won all their four matches. After four of the 11 rounds the leaders are Wood Green with 8 match points (24 game points) and Manx Liberty on 8 (23.5), then Cheddleton Savills Catering 6 (19), Barnet Knights 6 (18). The fixture list is geared to producing a climax, so that Wood Green v Manx wi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/jan/31/wood-green-and-manx-liberty-take-four-nations-chess-league-down-to-the-wire",
@@ -914,14 +930,6 @@ news_feed (
          "title" : "Tata Steel Chess Day 2: Praggnanandhaa wins against Harikrishna; Gukesh plays out fighting draw"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117379434.cms\" />D Gukesh, playing with black pieces, drew his second-round match in the Tata Steel Chess Tournament 2025 against Vladimir Fedoseev. The day saw several players settling for draws, including Arjun Erigaisi and defending champion Yi Wei. Praggnanandhaa secured the first win of the tournament, while other notable players like Fabiano Caruana also claimed victories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-handed-first-draw-since-becoming-world-champion-praggnanandhaa-stuns-pentala/articleshow/117379434.cms",
-         "pubDate" : "Sun, 19 Jan 2025 20:02:43",
-         "title" : "Gukesh handed first draw since becoming world champion"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-earliest-queens-gambit-philidor-vs-stamma/",
          "pubDate" : "Sat, 18 Jan 2025 16:41:05",
          "title" : "The earliest Queen's Gambit: Philidor vs Stamma"
-      },
-      {
-         "description" : "GM Daniel Naroditsky snatched victory from GMs Magnus Carlsen and Alireza Firouzja and secured his third straight Bullet Brawl title after chalking up two five-move wins over CM Volen Dyulgerov and Firouzja in the dying seconds of the arena. Narod...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-january-18-2025",
-         "pubDate" : "Sat, 18 Jan 2025 15:58:00",
-         "title" : "Naroditsky Checkmates Firouzja In 5 Moves, Wins 3rd Straight Bullet Brawl"
       },
       {
          "description" : "Last week, I shared why 2024 was my best year yet. This week, I'm laying out my plan to help you crush your chess goals in 2025-and grow my business by doing it. Goals My main goal of the year is to 3x my business while working 6 hours a day, 5 days a week, []",
