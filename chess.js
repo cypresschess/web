@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are pleased to announce that this year's British Chess Championships will be held at&#160;St George's Hall in Liverpool and the Liverpool Holiday Inn,&#160;with events running from 31st July to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-2025/",
+         "pubDate" : "Fri, 31 Jan 2025 14:23:14",
+         "title" : "British Chess Championships 2025"
+      },
+      {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Fri, 31 Jan 2025 13:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The 2025 Norway Chess tournament, set to take place from May 26 to June 6 in Stavanger, will once again feature some of the world's strongest players. Both the main event and Norway Chess Women will follow a six-player double round-robin format, with the Armageddon tiebreak system ensuring a decisive result in every round. Norway Chess Women returns for its second edition, maintaining the same financial rewards, structure and venue as the main event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Wood Green and Manx Liberty take Four Nations Chess League down to the wire"
       },
       {
+         "description" : "We&#39;re excited to announce the first leg of the 2025 Champions Chess Tour, the Chessable Masters! Starting February 16, the event will be the first of two online events on the Tour and feature a $150,000 prize fund. This year, there is more on th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chessable-masters-2025",
+         "pubDate" : "Fri, 31 Jan 2025 08:00:00",
+         "title" : "Chessable Masters Opens 2025 Champions Chess Tour Spearheaded By 5-Time Champion Carlsen"
+      },
+      {
          "description" : "A handshake controversy at the Tata Steel Challengers tournament sparked heated debate after GM Nodirbek Yakubboev declined Vaishali Rameshbabu's pre-game gesture, citing religious reasons. The incident drew widespread criticism, with many questioning the inconsistency of his actions. In response, Yakubboev publicly apologised and later met Vaishali and Divya Deshmukh, offering chocolates and flowers. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/check-mail-february-2025-unlock-combination",
          "pubDate" : "Fri, 31 Jan 2025 00:00:00",
          "title" : "Check is in the Mail, February 2025: Unlock the Combination!"
-      },
-      {
-         "description" : "Suhani Shah is one of the finest mentalists we know. Certainly one of the most entertaining. In one of her acts she proceeded to read the minds of two chess World Champions - Vishy Anand and D.Gukesh. Check out the videos in our report to see how she fared works - and try to explain the techniques she uses. A word of caution: this is one really clever lady!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reading-the-minds-of-world-champions",
-         "pubDate" : "Thu, 30 Jan 2025 19:00:00",
-         "title" : "Reading the minds of world champions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117749503.cms\" />Uzbek Grandmaster Nodirbek Yakubboev, after previously apologising to Indian Grandmaster R Vaishali for not shaking hands during a match, met her again with flowers and chocolates to further express regret. Yakubboev clarified his action was due to religious reasons and reiterated his respect for Vaishali and Indian chess players.",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "Chess Improvement, Simplified: My Vision for 2025"
       },
       {
-         "description" : "GM Gukesh Dommaraju has won his first game as world champion despite staring defeat in the face against GM Anish Giri in round one of the 2025 Tata Steel Chess Masters. Giri blundered last, while Gukesh&#39;s world championship helpers GMs Vincent Key...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-1",
-         "pubDate" : "Sat, 18 Jan 2025 11:37:00",
-         "title" : "Gukesh Beats Giri In Thriller As Tata Steel Chess Starts With A Bang"
-      },
-      {
          "description" : "Md. Reyan from Bihar and Saranya Devi Narahari from Telangana are Champions. The tournament was officially inaugurated on December 17th, 2024, at 3:00 PM at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1128,22 +1136,6 @@ news_feed (
          "link" : "https://www.thearticle.com/jeans-ties-and-magnus-carlsen/",
          "pubDate" : "Sat, 11 Jan 2025 12:55:42",
          "title" : "Jeans, ties and Magnus Carlsen "
-      },
-      {
-         "description" : " After crowning a new champion, chess is experiencing difficult &#8220;growing pains&#8221; as it prepares for a new era. World Champion Gukesh Dommaraju won the title a month ago against defending champion Ding Liren of China in a match between two Asian champions. There were celebrations in India, and the entire world marveled at the new The post <a href=\"https://thechessdrum.net/blog/2025/01/10/the-growing-pains-of-a-new-chess-era/\">The Growing Pains of a New Chess Era</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/01/10/the-growing-pains-of-a-new-chess-era/",
-         "pubDate" : "Fri, 10 Jan 2025 15:14:58",
-         "title" : "The Growing Pains of a New Chess Era"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3382",
-         "pubDate" : "Fri, 10 Jan 2025 15:08:37",
-         "title" : "European Women's Rapid & Blitz Championships 2024 begin in Monte Carlo"
       }
    ]
 }
