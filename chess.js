@@ -206,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/andrejs-strebkovs-stripped-of-im-title-by-fide",
-         "pubDate" : "Tue, 28 Jan 2025 13:59:40",
+         "pubDate" : "Tue, 28 Jan 2025 13:59:00",
          "title" : "Andrejs Strebkovs Stripped Of IM Title & Ban Extended To 12 Years From FIDE-Rated Events"
       },
       {
@@ -1160,14 +1160,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/10/chess-newly-married-carlsen-signs-up-with-bundesliga-freestyle-and-saudis",
          "pubDate" : "Fri, 10 Jan 2025 08:00:35",
          "title" : "Chess: newly married Carlsen signs up with Bundesliga, Freestyle and Saudis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3383",
-         "pubDate" : "Thu, 09 Jan 2025 21:14:57",
-         "title" : "Iniyan wins 15th Chennai Open"
       }
    ]
 }
