@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A handshake controversy at the Tata Steel Challengers tournament sparked heated debate after GM Nodirbek Yakubboev declined Vaishali Rameshbabu's pre-game gesture, citing religious reasons. The incident drew widespread criticism, with many questioning the inconsistency of his actions. In response, Yakubboev publicly apologised and later met Vaishali and Divya Deshmukh, offering chocolates and flowers. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yakubboev-apologises-no-handshake-tata-steel-2025",
+         "pubDate" : "Fri, 31 Jan 2025 02:00:00",
+         "title" : "Yakubboev apologises to Vaishali and Divya after no-handshake incident"
+      },
+      {
          "description" : "Suhani Shah is one of the finest mentalists we know. Certainly one of the most entertaining. In one of her acts she proceeded to read the minds of two chess World Champions - Vishy Anand and D.Gukesh. Check out the videos in our report to see how she fared works - and try to explain the techniques she uses. A word of caution: this is one really clever lady!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
