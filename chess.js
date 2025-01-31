@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The teams have both won all their four matches in the UK national league and are set to meet in the final round in May The UK's national league, the 4NCL, is turning into a two-horse race after last weekend's third and fourth rounds at Peterborough. Wood Green, the 2024 and London League champions, and Manx Liberty, the 2023 winners whose core is a group of Romanian and Hungarian grandmasters, have both won all their four matches. After four of the 11 rounds the leaders are Wood Green 8 match points (24 game points), Manx Liberty 8 (23.5), Cheddleton Savills Catering 6 (19), Barnet Knights 6 (18). The fixture list is geared to producing a climax, so that Wood Green v Manx will only occur in",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/jan/31/wood-green-and-manx-liberty-take-four-nations-chess-league-down-to-the-wire",
+         "pubDate" : "Fri, 31 Jan 2025 08:00:49",
+         "title" : "Wood Green and Manx Liberty take Four Nations Chess League down to the wire"
+      },
+      {
          "description" : "A handshake controversy at the Tata Steel Challengers tournament sparked heated debate after GM Nodirbek Yakubboev declined Vaishali Rameshbabu's pre-game gesture, citing religious reasons. The incident drew widespread criticism, with many questioning the inconsistency of his actions. In response, Yakubboev publicly apologised and later met Vaishali and Divya Deshmukh, offering chocolates and flowers. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3382",
          "pubDate" : "Fri, 10 Jan 2025 15:08:37",
          "title" : "European Women's Rapid & Blitz Championships 2024 begin in Monte Carlo"
-      },
-      {
-         "description" : " The World No 1, who wed Ella Victoria Malone last Saturday, will play for St Pauli in the Bundesliga, where he may meet the new classical champion, Gukesh Dommaraju Magnus Carlsen, the 34-year-old world No 1 and candidate for the greatest of all time, <a href=\"https://www.chess.com/news/view/ella-victoria-on-magnus-carlsen\">married Ella Victoria Mallone</a> last Saturday in Oslo, where the congregation included a film crew from Netflix. The new Mrs Carlsen, 26, was born in Hong Kong to a Norwegian mother and an American father, was educated in the US, the UK and Canada, and has spent several years in Singapore. Carlsen's stellar chess career, boosted by his controversial shared World Blitz ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jan/10/chess-newly-married-carlsen-signs-up-with-bundesliga-freestyle-and-saudis",
-         "pubDate" : "Fri, 10 Jan 2025 08:00:35",
-         "title" : "Chess: newly married Carlsen signs up with Bundesliga, Freestyle and Saudis"
       }
    ]
 }
