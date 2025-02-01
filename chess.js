@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fight for first place remains fierce in both sections of the Tata Steel Chess Tournament with two rounds to go. In the Masters, Gukesh Dommaraju retained the sole lead, but Praggnanandhaa Rameshbabu closed the gap by scoring a crucial win over Fabiano Caruana. Meanwhile, in the Challengers, Erwin l'Ami emerged as the new sole leader after defeating Lu Miaoyi, while Thai Dai Van Nguyen suffered a setback against Frederik Svane. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-11",
+         "pubDate" : "Sat, 01 Feb 2025 08:50:00",
+         "title" : "Tata Steel Chess R11: Pragg beats Caruana, climbs to second place"
+      },
+      {
          "description" : " The Tata Steel Masters heads into the final two rounds with three players in contention for first place. Gukesh's draw took him to 8/11 and a win for Praggnanandhaa put him right back in it on 7.5 points. Nodirbek Abdusattorov let a win escape against Vincent Keymer but stays very much in contention on 7.5 points as well. The leaders now all face players in the bottom half of the field, one of those players is however Arjun Erigaisi who faces two of them and may try to salvage something from an otherwise terrible event by winning these key games. World Champion Gukesh was held to a draw by Wei Yi. The Chinese player felt he was under pressure for much of the game although the engines didn't",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
