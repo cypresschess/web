@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tata Steel Masters heads into the final two rounds with three players in contention for first place. Gukesh's draw took him to 8/11 and a win for Praggnanandhaa put him right back in it on 7.5 points. Nodirbek Abdusattorov let a win escape against Vincent Keymer but stays very much in contention on 7.5 points as well. The leaders now all face players in the bottom half of the field, one of those players is however Arjun Erigaisi who faces two of them and may try to salvage something from an otherwise terrible event by winning these key games. World Champion Gukesh was held to a draw by Wei Yi. The Chinese player felt he was under pressure for much of the game although the engines didn't",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-leads-the-tata-steel-masters-on-811-half-a-point-clear-of-praggnanandhaa-and-abdusattorov",
+         "pubDate" : "Fri, 31 Jan 2025 21:57:00",
+         "title" : "Gukesh leads the Tata Steel Masters on 8/11 half a point clear of Praggnanandhaa and Abdusattorov - 10"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117802859.cms\" />Gukesh Dommaraju ascended to World No. 3 after drawing against reigning champion Wei Yi at the Tata Steel Chess Tournament 2025. Rameshbabu Praggnanandhaa scored a stunning win over top seed Fabiano Caruana, elevating him in the standings. Leon Luke Mendonca, Pentala Harikrishna, and Divya Deshmukh also recorded notable victories, marking a remarkable day for Indian chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,12 +26,20 @@ news_feed (
          "title" : "British Chess Championships 2025"
       },
       {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "Praggnanandhaa Rameshbabu scored a crucial victory over Fabiano Caruana to climb to shared second place in the Tata Steel Masters. Pragg is tied for second with Nodirbek Abdusattorov, who failed to make the most of a clear advantage against Vincent Keymer. They both stand a half point behind sole leader Gukesh Dommaraju. Meanwhile, in the Challengers, Erwin l'Ami took the sole lead after beating Lu Miaoyi. Former leader Thai Dai Van Nguyen was defeated by Frederik Svane. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Fri, 31 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Pragg scores, Abdusattorov misses big chance"
+      },
+      {
+         "description" : "For much of the second-ever Freestyle Friday on January 31, it seemed that GM Magnus Carlsen would defend his victory from last week. After starting 9/9 on January 24, Carlsen started 8/8 this Friday. In the end, however,&#38;nbsp;GM Oleksandr Bortnyk...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-january-31-2025",
+         "pubDate" : "Fri, 31 Jan 2025 12:33:06",
+         "title" : "Bortnyk Outlasts Carlsen, Nakamura In Freestyle Friday"
       },
       {
          "description" : "The 2025 Norway Chess tournament, set to take place from May 26 to June 6 in Stavanger, will once again feature some of the world's strongest players. Both the main event and Norway Chess Women will follow a six-player double round-robin format, with the Armageddon tiebreak system ensuring a decisive result in every round. Norway Chess Women returns for its second edition, maintaining the same financial rewards, structure and venue as the main event.",
@@ -34,11 +50,11 @@ news_feed (
          "title" : "Norway Chess and Norway Chess Women: Final lineups for 2025"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov came inches away from co-leading the 2025 Tata Steel Chess Masters after round 11, but he didn&#39;t land the killer blow against GM Vincent Keymer, who managed to escape into an opposite-color bishop endgame and draw. Leader ...",
+         "description" : "There were four decisive games in round 11 of the 2025 Tata Steel Chess Masters, three of them won by Indian grandmasters with the black pieces. The smoke has cleared, and World Champion Gukesh Dommaraju is still in the sole lead.&#38;nbsp; GM Nodir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 31 Jan 2025 11:50:10",
+         "pubDate" : "Fri, 31 Jan 2025 11:50:00",
          "title" : "Praggnanandhaa Climbs, Abdusattorov Misses, Gukesh Still Leads"
       },
       {
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html",
          "pubDate" : "Sun, 19 Jan 2025 16:03:00",
          "title" : "Chess Guy Likes to Talk"
-      },
-      {
-         "description" : "No one has a perfect score after round two of the 2025 Tata Steel Chess Masters, but GMs Fabiano Caruana, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu all won to join GMs Gukesh Dommaraju and Vincent Keymer in the lead on 1.5/2. There coul...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-2",
-         "pubDate" : "Sun, 19 Jan 2025 12:26:00",
-         "title" : "Caruana, Abdusattorov, Praggnanandhaa Win To Join Leaders"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the three FIDE Arbiter Seminars as per the appended schedule:- 1 Bengaluru 07-09 February 20252 Shillong 14-16",
