@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The twelfth round of the Tata Steel Masters saw the top three all involved in dramatic games. At the end of the day Praggnanandhaa and Gukesh share the lead on 8.5/12 and Nodirbek Abdusattorov is now on 7.5 points after losing. If they are tied tomorrow there will be a blitz tie-break match after the round. First of all Praggnanandhaa won a short game against Alexey Sarana whose solid undefeated start is a distant memory after his third loss in a row. Praggnanandhaa found a clever idea in the Queen's Gambit that led to opposite sides castling and a nasty position for Sarana. Praggnanandhaa broke through with a knight sacrifice and Sarana allowed him to finish with a Queen sacrifice. Gukesh ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-gukesh-share-the-lead-going-into-the-final-round-of-the-tata-steel-masters",
+         "pubDate" : "Sat, 1 Feb 2025 21:02:00",
+         "title" : "Praggnanandhaa and Gukesh share the lead going into the final round of the Tata Steel Masters - 12"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117842307.cms\" />In the 87th Tata Steel Chess Tournament 2025, R Praggnanandhaa won his sixth game, Arjun Erigaisi secured his first victory, and Gukesh settled for a draw. Highlights included Praggnanandhaa's win over Alexey Sarana and Abdusattorov's defeat by Erigaisi. Key draws were achieved by Leon Luke Mendonca and Pentala Harikrishna. Gukesh leads the standings with Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-joins-d-gukesh-at-the-top-sets-up-epic-final-day-title-charge/articleshow/117842307.cms",
+         "pubDate" : "Sat, 01 Feb 2025 20:33:39",
+         "title" : "Pragg joins Gukesh at the top, sets up epic final-day title charge"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3407",
+         "pubDate" : "Sat, 01 Feb 2025 18:54:31",
+         "title" : "Call for Submissions: FIDE Veteran Support Program 2025"
+      },
+      {
+         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters on February 16, featuring a faster 10+0 time control for added excitement. With only two online events to earn CCT points, the stakes are higher than ever. Top stars, including Magnus Carlsen and Hikaru Nakamura, are set to compete. The Tour will culminate in the prestigious Esports World Cup, where players will battle for a historic $1,500,000 prize fund. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-preview",
+         "pubDate" : "Sat, 01 Feb 2025 17:45:00",
+         "title" : "On February 16: Chessable Masters opens 2025 Champions Chess Tour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3406",
+         "pubDate" : "Sat, 01 Feb 2025 16:26:13",
+         "title" : "Queens' Online Chess Festival returns in March for its 5th edition"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3408",
+         "pubDate" : "Sat, 01 Feb 2025 15:30:18",
+         "title" : "FIDE February 2025 rating list published"
+      },
+      {
+         "description" : "Robert H&uuml;bner, who has died at 76, was widely considered to be the greatest German player since Emanuel Lasker, with three appearances in Candidates matches for the world title. H&uuml;bner's record against world champions was impressive, with wins against Smyslov, Tal, Petrosian, Spassky, Karpov and Kasparov. A key feature of his play was determination. By profession []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-german-genius-robert-hubner/",
+         "pubDate" : "Sat, 01 Feb 2025 14:43:07",
+         "title" : "A German genius: Robert H&uuml;bner"
+      },
+      {
+         "description" : "Two months ago, I could barely jog 5km (~3 miles) without feeling exhausted. Yesterday, I ran 18km-faster than my 5km pace from two months ago. How is this possible? The answer is simple: Smart Training. I'm not a born runner, nor do I have the most sophisticated training plan. There are three key ingredients to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/smart-training/",
+         "pubDate" : "Sat, 01 Feb 2025 14:00:00",
+         "title" : "From 5K to 18K: How Smart Training Transforms Running-and Chess"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu scored a third win in a row to catch Gukesh Dommaraju in the lead of the Tata Steel Masters. Pragg defeated Alexey Sarana after the latter failed to foresee a winning knight sacrifice by his opponent. Nodirbek Abdusattorov, who was in shared second place behind Gukesh going into round 12, is now a full point behind the leaders, as he lost with black against Arjun Erigaisi. In the Challengers, three players are now sharing the lead: Erwin l'Ami, Thai Dai Van Nguyen and Aydin Suleymanli. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Sat, 01 Feb 2025 13:45:00",
+         "title" : "Tata Steel Chess - Pragg catches Gukesh with one round to go"
+      },
+      {
+         "description" : "Winning his third game in a row, GM Praggnanandhaa Rameshbabu defeated GM Alexey Sarana and now co-leads the 2025 Tata Steel Chess Masters with World Champion Gukesh Dommaraju. Gukesh nearly won and nearly lost against GM Jorden van Foreest in a c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-12",
+         "pubDate" : "Sat, 01 Feb 2025 13:15:00",
+         "title" : "Gukesh, Praggnanandhaa Lead; Arjun Takes Down Abdusattorov"
+      },
+      {
+         "description" : "As we embark on the 40th anniversary of the European Chess Union (ECU), we reflect on the remarkable journey that began in 1985. Founded with a vision to unify and elevate European chess, the ECU has grown into a pivotal organization, representing 54 National Federation Members and orchestrating over 20 prestigious events annually. The Visionary Founding:&#160;In the mid-1980s, a group of visionary chess enthusiasts recognized the need for a unified body to represent European chess federations. Among these pioneers were []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/celebrating-40-years-of-excellence-the-founding-of-the-european-chess-union/",
+         "pubDate" : "Sat, 01 Feb 2025 10:22:59",
+         "title" : "Celebrating 40 Years of Excellence: The Founding of the European Chess Union"
+      },
+      {
          "description" : "The fight for first place remains fierce in both sections of the Tata Steel Chess Tournament with two rounds to go. In the Masters, Gukesh Dommaraju retained the sole lead, but Praggnanandhaa Rameshbabu closed the gap by scoring a crucial win over Fabiano Caruana. Meanwhile, in the Challengers, Erwin l'Ami emerged as the new sole leader after defeating Lu Miaoyi, while Thai Dai Van Nguyen suffered a setback against Frederik Svane. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +98,28 @@ news_feed (
          "title" : "Tata Steel Chess R11: Pragg beats Caruana, climbs to second place"
       },
       {
+         "description" : "This February, five eligible bachelors and bachelorettes are competing to win your love&#38;mdash;and your pieces! Will it be Bachelor #1, DJ Ron Passant, That Person You Ghosted, Trisha, or a goose? That&#38;rsquo;s for your heart to decide.&#38;nbsp; Read...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/valentines-bots-2025",
+         "pubDate" : "Sat, 01 Feb 2025 07:00:00",
+         "title" : "Play New Chess Bots In \"The Checkmating Game\"!"
+      },
+      {
+         "description" : "World champion D Gukesh climbed to world no. 3 in the live rankings, and has a 0.5 lead with two rounds to go.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43644937/r-praggnanandhaa-stuns-fabiano-caruana-close-leader-d-gukesh-round-11-tata-steel-chess-2025?device=featurephone",
+         "pubDate" : "Sat, 1 Feb 2025 00:27:17",
+         "title" : "Pragg stuns Caruana to close up on leader Gukesh: Round 11 of Tata Steel Chess"
+      },
+      {
          "description" : " The Tata Steel Masters heads into the final two rounds with three players in contention for first place. Gukesh's draw took him to 8/11 and a win for Praggnanandhaa put him right back in it on 7.5 points. Nodirbek Abdusattorov let a win escape against Vincent Keymer but stays very much in contention on 7.5 points as well. The leaders now all face players in the bottom half of the field, one of those players is however Arjun Erigaisi who faces two of them and may try to salvage something from an otherwise terrible event by winning these key games. World Champion Gukesh was held to a draw by Wei Yi. The Chinese player felt he was under pressure for much of the game although the engines didn't",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-leads-the-tata-steel-masters-on-811-half-a-point-clear-of-praggnanandhaa-and-abdusattorov",
          "pubDate" : "Fri, 31 Jan 2025 21:57:00",
-         "title" : "Gukesh leads the Tata Steel Masters on 8/11 half a point clear of Praggnanandhaa and Abdusattorov - 10"
+         "title" : "Gukesh leads the Tata Steel Masters on 8/11 half a point clear of Praggnanandhaa and Abdusattorov - 11"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117802859.cms\" />Gukesh Dommaraju ascended to World No. 3 after drawing against reigning champion Wei Yi at the Tata Steel Chess Tournament 2025. Rameshbabu Praggnanandhaa scored a stunning win over top seed Fabiano Caruana, elevating him in the standings. Leon Luke Mendonca, Pentala Harikrishna, and Divya Deshmukh also recorded notable victories, marking a remarkable day for Indian chess.",
@@ -32,14 +136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-2025/",
          "pubDate" : "Fri, 31 Jan 2025 14:23:14",
          "title" : "British Chess Championships 2025"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu scored a crucial victory over Fabiano Caruana to climb to shared second place in the Tata Steel Masters. Pragg is tied for second with Nodirbek Abdusattorov, who failed to make the most of a clear advantage against Vincent Keymer. They both stand a half point behind sole leader Gukesh Dommaraju. Meanwhile, in the Challengers, Erwin l'Ami took the sole lead after beating Lu Miaoyi. Former leader Thai Dai Van Nguyen was defeated by Frederik Svane. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Fri, 31 Jan 2025 13:45:00",
-         "title" : "Tata Steel Chess - Pragg scores, Abdusattorov misses big chance"
       },
       {
          "description" : "For much of the second-ever Freestyle Friday on January 31, it seemed that GM Magnus Carlsen would defend his victory from last week. After starting 9/9 on January 24, Carlsen started 8/8 this Friday. In the end, however,&#38;nbsp;GM Oleksandr Bortnyk...",
@@ -112,6 +208,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nodirbek-yakubboev-extends-heartfelt-apology-to-grandmaster-r-vaishali-with-flowers-and-chocolates/articleshow/117749503.cms",
          "pubDate" : "Thu, 30 Jan 2025 16:50:58",
          "title" : "Yakubboev extends heartfelt apology to R Vaishali with flowers and chocolates"
+      },
+      {
+         "description" : "That title is an obscure reference to last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-championship-yahoos-2024-22.html\">World Championship Yahoos 2024</A> ('2/2'; December 2024), which was largely about the 2024 World Rapid and Blitz Championships in New York City. I'll come back to that event in a moment. <P> First let's have some stats. This month's Yahoos post (see the footnote for an explanation of Yahoos) had 104 stories, of which one was an older post from mid-December. Those 104 stories were supplemented by two additional pages: 'Magnus Carlsen on Freestyle chess controversy' with 25 stories, and 'Gukesh beats Mendonca to lead Tata Steel Masters' ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/01/world-championship-yahoos-2025-1.html",
+         "pubDate" : "Thu, 30 Jan 2025 16:34:00",
+         "title" : "World Championship Yahoos 2025 (1/?)"
       },
       {
          "description" : "The online semi will take place&#160;on 25th Feb from 4.00 5.00pm on the Lichess server. Links to the actual tournament address will be posted soon. &#160; No school that...",
@@ -866,14 +970,6 @@ news_feed (
          "title" : "Tata Steel Chess Day 3: Praggnanandhaa takes lead with win over Erigaisi; Gukesh draws with Caruana"
       },
       {
-         "description" : "Missouri and Saint Louis were the first victors of the Collegiate Chess League Spring 2025 (CCL) as the fresh season kicked off on Saturday.&#38;nbsp; The returning champion Missouri team defeated Virginia by a massive 11-point margin. Their bottom ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-1-mizzou-slu",
-         "pubDate" : "Mon, 20 Jan 2025 20:56:00",
-         "title" : "Missouri Settles the Score vs. Virginia, SLU Inches Ahead of Athens"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117406999.cms\" />R Praggnanandhaa won against Arjun Erigaisi in the third round of the Tata Steel Chess Tournament 2025. The game concluded with Praggnanandhaa leading the table with a score of 2.5/3. Other notable matches include a draw between D Gukesh and Fabiano Caruana and Leon Luke Mendonca earning his first point. The tournament saw mixed results for Indian players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -896,22 +992,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/color-proteins.html",
          "pubDate" : "Mon, 20 Jan 2025 16:51:00",
          "title" : "Color the Proteins"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117400152.cms\" />The Lalit Hotel hosted a grand felicitation ceremony for World Chess Champion D Gukesh and two-time World Rapid Champion Koneru Humpy. Amid celebrations, the All India Chess Federation announced significant cash rewards for the champions and their teams. A memento, the 'Akshayvat' frame, was kept as a backup but ultimately sidelined when the trophies arrived on time.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-night-world-chess-champion-d-gukesh-became-a-crorepati/articleshow/117400152.cms",
-         "pubDate" : "Mon, 20 Jan 2025 13:05:11",
-         "title" : "The night World Chess Champion D Gukesh became a crorepati"
-      },
-      {
-         "description" : "GMs Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov scored the only wins in round three of the 2025 Tata Steel Chess Masters to take the lead on 2.5/3. Praggnanandhaa outplayed GM Arjun Erigaisi in a strategic masterpiece, while Abdusattorov s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-3",
-         "pubDate" : "Mon, 20 Jan 2025 11:36:00",
-         "title" : "Pragg Beats Arjun, Leads With Abdusattorov-7/7 For White In Challengers"
       },
       {
          "description" : "The 3rd Cambridge International Open entrants list is filling up quickly. Please make sure you don't miss out by visiting the page https://www.englishchess.org.uk/3rd-cambridge-international-open/ checking the details and entering...",
@@ -1128,30 +1208,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html",
          "pubDate" : "Sun, 12 Jan 2025 16:20:00",
          "title" : "The Noblest Prize"
-      },
-      {
-         "description" : " The greatest service one can give to their community is love and time. Dear Chess Community, It is with deep regret that I inform the chess community of the passing of Ernest Levert, Jr. on January 8th, 2025. He is survived by his wife Ivory, daughter Zamya, and son Zenith. He suffered an aneurysm on The post <a href=\"https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/\">Chess Educator, Ernest Levert passes (1990-2025)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/01/11/chess-educator-ernest-levert-passes-1990-2025/",
-         "pubDate" : "Sat, 11 Jan 2025 18:40:15",
-         "title" : "Chess Educator, Ernest Levert passes (1990-2025)"
-      },
-      {
-         "description" : "Another year has flown by. It was my best year yet, both from a business and personal standpoint. As we turn the page to 2025, I can't help but reflect on a year that challenged, changed, and ultimately transformed me. Here's what made 2024 my best year yet-and the lessons I'm carrying forward. Enjoy! What []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/2024-review/",
-         "pubDate" : "Sat, 11 Jan 2025 14:00:00",
-         "title" : "What 2024 Taught Me About Chess, Life, and Growth"
-      },
-      {
-         "description" : "\"This is a power play, right? It's weird that people think this is about jeans. Magnus was very happy he was kicked out; he now has the perfect excuse to completely challenge FIDÉ in a way he's wanted to do for a very long time.&#8221; Thus spake controversialist, Hans Niemann, on the latest scandal to []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/jeans-ties-and-magnus-carlsen/",
-         "pubDate" : "Sat, 11 Jan 2025 12:55:42",
-         "title" : "Jeans, ties and Magnus Carlsen "
       }
    ]
 }
