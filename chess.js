@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
+         "pubDate" : "Sun, 02 Feb 2025 11:45:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117857356.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-live-streaming-round-13-r-praggnanandhaa-d-gukesh-arjun-erigaisi-wijk-aan-zee-masters-challengers-updates/liveblog/117857356.cms",
+         "pubDate" : "Sun, 02 Feb 2025 10:31:23",
+         "title" : "Tata Steel Chess Live: Gukesh, Pragg in tight race for maiden Masters title"
+      },
+      {
+         "description" : "Ahead of Sunday's final round, R Praggnanandhaa joins world champion D Gukesh atop the Tata Steel Masters standings",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43657332/tata-steel-chess-praggnanandhaa-joins-gukesh-lead-round-12-arjun-beats-abdusattorov?device=featurephone",
+         "pubDate" : "Sat, 1 Feb 2025 21:36:31",
+         "title" : "Tata Steel Chess: Praggnanandhaa joins Gukesh in lead after round 12; Arjun beats Abdusattorov"
+      },
+      {
          "description" : " The twelfth round of the Tata Steel Masters saw the top three all involved in dramatic games. At the end of the day Praggnanandhaa and Gukesh share the lead on 8.5/12 and Nodirbek Abdusattorov is now on 7.5 points after losing. If they are tied tomorrow there will be a blitz tie-break match after the round. First of all Praggnanandhaa won a short game against Alexey Sarana whose solid undefeated start is a distant memory after his third loss in a row. Praggnanandhaa found a clever idea in the Queen's Gambit that led to opposite sides castling and a nasty position for Sarana. Praggnanandhaa broke through with a knight sacrifice and Sarana allowed him to finish with a Queen sacrifice. Gukesh ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/smart-training/",
          "pubDate" : "Sat, 01 Feb 2025 14:00:00",
          "title" : "From 5K to 18K: How Smart Training Transforms Running-and Chess"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu scored a third win in a row to catch Gukesh Dommaraju in the lead of the Tata Steel Masters. Pragg defeated Alexey Sarana after the latter failed to foresee a winning knight sacrifice by his opponent. Nodirbek Abdusattorov, who was in shared second place behind Gukesh going into round 12, is now a full point behind the leaders, as he lost with black against Arjun Erigaisi. In the Challengers, three players are now sharing the lead: Erwin l'Ami, Thai Dai Van Nguyen and Aydin Suleymanli. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Sat, 01 Feb 2025 13:45:00",
-         "title" : "Tata Steel Chess - Pragg catches Gukesh with one round to go"
       },
       {
          "description" : "Winning his third game in a row, GM Praggnanandhaa Rameshbabu defeated GM Alexey Sarana and now co-leads the 2025 Tata Steel Chess Masters with World Champion Gukesh Dommaraju. Gukesh nearly won and nearly lost against GM Jorden van Foreest in a c...",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-beats-india-no-1-arjun-erigasi-to-seize-top-spot-d-gukesh-settles-for-draw/articleshow/117406999.cms",
          "pubDate" : "Mon, 20 Jan 2025 19:14:55",
          "title" : "Pragg beats India No. 1 Arjun Erigasi to seize top spot at Tata Steel Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117404532.cms\" />D Gukesh, the reigning world chess champion, drew with top seed Fabiano Caruana in the third round of the Tata Steel Chess tournament in The Netherlands. Playing cautiously, Gukesh achieved 2 points in his first major tournament of the year. Meanwhile, R Praggnanandhaa might take the lead if he capitalises on his advantage against Arjun Erigaisi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-d-gukesh-draws-with-top-seed-fabiano-caruana/articleshow/117404532.cms",
-         "pubDate" : "Mon, 20 Jan 2025 17:07:45",
-         "title" : "Tata Steel Chess: D Gukesh draws with top seed Fabiano Caruana"
       },
       {
          "description" : "Let's combine a recent video post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025):- <BLOCKQUOTE> Nobel lecture with the Nobel Laureate in Chemistry 2024 Demis Hassabis, Google DeepMind, London, UK. [...] \"for protein structure prediction\" </BLOCKQUOTE> <P> with a derivative of that post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html\">Proteins Play Chess</A> (January 2025):- <BLOCKQUOTE> I started to wonder if proteins play chess. It turns out they do, at least according to AI comics. </BLOCKQUOTE> <P> I constructed a series of test images using the phrase 'Demis Hassabis plays chess with a pr",
