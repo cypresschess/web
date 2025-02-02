@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 87th edition of the Tata Steel Chess Tournament is taking place from 18 January until 2 February in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. Fabiano Caruana, Arjun Erigaisi and Gukesh Dommaraju are the top seeds in a strong field which also includes defending champion Wei Yi. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "description" : "Praggnanandhaa Rameshbabu won the 2025 Tata Steel Masters after beating world champion Gukesh Dommaraju in a blitz tiebreaker. The two Indian stars entered the final round tied for first place and, notably, both lost their classical games on Sunday. Pragg then won the blitz tiebreaker by a 2-1 score after Gukesh misplayed a knight endgame in the third encounter. Meanwhile, Czech GM Thai Dai Van Nguyen won the Challengers, as he had a better tiebreak score than Aydin Suleymanli, who finished tied for first in the single round-robin. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Sun, 02 Feb 2025 11:45:00",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Pragg takes the title in thrilling tiebreaker"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117857356.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-live-streaming-round-13-r-praggnanandhaa-d-gukesh-arjun-erigaisi-wijk-aan-zee-masters-challengers-updates/liveblog/117857356.cms",
-         "pubDate" : "Sun, 02 Feb 2025 10:31:23",
-         "title" : "Tata Steel Chess Live: Gukesh suffers first defeat as world champion, Pragg in final charge for title"
+         "description" : "In a dramatic finale to the 2025 Tata Steel Chess Masters, both leaders lost their final classical games of the tournament. GM Arjun Erigaisi played a perfect game to defeat World Champion Gukesh Dommaraju in 31 moves, while GM Vincent Keymer beat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2025-tata-steel-chess",
+         "pubDate" : "Sun, 02 Feb 2025 10:53:00",
+         "title" : "Praggnanandhaa Defeats Gukesh In Playoffs, Wins Tata Steel Chess 2025"
       },
       {
          "description" : "Ahead of Sunday's final round, R Praggnanandhaa joins world champion D Gukesh atop the Tata Steel Masters standings",
@@ -930,14 +930,6 @@ news_feed (
          "title" : "New World No. 8 Pragg becomes sole leader at Tata Steel Chess"
       },
       {
-         "description" : "The International Chess Federation (FIDE) has criticized Freestyle Chess for branding its upcoming Grand Slam tour as a &#34;World Championship,&#34; claiming the move threatens to divide the chess community and warning of potential legal action. The on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-issues-statement-on-freestyle-chess",
-         "pubDate" : "Tue, 21 Jan 2025 15:32:00",
-         "title" : "FIDE Slams Freestyle Chess For Creating 'Unavoidable Divisions,' Threatens Legal Action"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -992,6 +984,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-beats-india-no-1-arjun-erigasi-to-seize-top-spot-d-gukesh-settles-for-draw/articleshow/117406999.cms",
          "pubDate" : "Mon, 20 Jan 2025 19:14:55",
          "title" : "Pragg beats India No. 1 Arjun Erigasi to seize top spot at Tata Steel Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117404532.cms\" />D Gukesh, the reigning world chess champion, drew with top seed Fabiano Caruana in the third round of the Tata Steel Chess tournament in The Netherlands. Playing cautiously, Gukesh achieved 2 points in his first major tournament of the year. Meanwhile, R Praggnanandhaa might take the lead if he capitalises on his advantage against Arjun Erigaisi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-d-gukesh-draws-with-top-seed-fabiano-caruana/articleshow/117404532.cms",
+         "pubDate" : "Mon, 20 Jan 2025 17:07:45",
+         "title" : "Tata Steel Chess: D Gukesh draws with top seed Fabiano Caruana"
       },
       {
          "description" : "Let's combine a recent video post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025):- <BLOCKQUOTE> Nobel lecture with the Nobel Laureate in Chemistry 2024 Demis Hassabis, Google DeepMind, London, UK. [...] \"for protein structure prediction\" </BLOCKQUOTE> <P> with a derivative of that post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html\">Proteins Play Chess</A> (January 2025):- <BLOCKQUOTE> I started to wonder if proteins play chess. It turns out they do, at least according to AI comics. </BLOCKQUOTE> <P> I constructed a series of test images using the phrase 'Demis Hassabis plays chess with a pr",
