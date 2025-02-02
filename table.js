@@ -1,8 +1,12 @@
 jtable([
+"HOUSTON","2025-02-01","5","<a href=http://www.uschess.org/msa/XtblMain.php?202502013042 target='_blank'>CHESSPANDA02012025SATURDAY</a>",
+"SUGAR LAND","2025-02-01","14","<a href=http://www.uschess.org/msa/XtblMain.php?202502012642 target='_blank'>FBCC 2025 INTERNATIONAL ZEBRA DAY O</a>",
+"SPRING","2025-01-31","29","<a href=http://www.uschess.org/msa/XtblMain.php?202501312572 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-01-07  - 01-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202501281382 target='_blank'>JANUARY 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-01-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501269532 target='_blank'>JAN 26 SUNDAY SWISS AT NOON</a>",
 "SPRING","2025-01-25","374","<a href=http://www.uschess.org/msa/XtblMain.php?202501259962 target='_blank'>25TH KLEIN WINTER SCHOLASTIC</a>",
 "HOUSTON","2025-01-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501258332 target='_blank'>QUADS - ALL AGES -SATURDAY JAN 25 A</a>",
+"HOUSTON DOWNTOW","2025-01-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501252562 target='_blank'>CHESS KIDS AND HOUSTON CHESS ACADEM</a>",
 "SUGAR LAND","2025-01-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202501247812 target='_blank'>FBCC 2024 NATL MACINTOSH COMPUTER DAY OPEN</a>",
 "HOUSTON","2025-01-24","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501247772 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-01-24","26","<a href=http://www.uschess.org/msa/XtblMain.php?202501247662 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2024-06-08","7","<a href=http://www.uschess.org/msa/XtblMain.php?202406083692 target='_blank'>CHESSPANDA06082024SATURDAY</a>",
 "CYPRESS","2024-06-07","22","<a href=http://www.uschess.org/msa/XtblMain.php?202406073472 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-06-07","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406073362 target='_blank'>FBCC 2024 CHOCOLATE ICE CREAM OPEN</a>",
-"SPRING","2024-06-07","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406073342 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-06-04","2","<a href=http://www.uschess.org/msa/XtblMain.php?202406042002 target='_blank'>MATCH PLAY</a>",
-"HOUSTON","2024-06-02","16","<a href=http://www.uschess.org/msa/XtblMain.php?202406020842 target='_blank'>SUNDAY SWISS - JUNE 2, 2024 - AT 1P</a>",
-"HOUSTON","2024-06-01","73","<a href=http://www.uschess.org/msa/XtblMain.php?202406019982 target='_blank'>CCUH JUNE SCHOLASTIC AND COLLEGIATE</a>",
 ]);
