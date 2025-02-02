@@ -15,7 +15,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-live-streaming-round-13-r-praggnanandhaa-d-gukesh-arjun-erigaisi-wijk-aan-zee-masters-challengers-updates/liveblog/117857356.cms",
          "pubDate" : "Sun, 02 Feb 2025 10:31:23",
-         "title" : "Tata Steel Chess Live: Gukesh, Pragg in tight race for maiden Masters title"
+         "title" : "Tata Steel Chess Live: Gukesh suffers first defeat as world champion, Pragg in final charge for title"
       },
       {
          "description" : "Ahead of Sunday's final round, R Praggnanandhaa joins world champion D Gukesh atop the Tata Steel Masters standings",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3384",
          "pubDate" : "Sun, 12 Jan 2025 22:57:47",
          "title" : "European Women's R & B Championships 2024: Ushenina and Maltsevskaya claim titles"
-      },
-      {
-         "description" : "Although we've seen Demis Hassabis on this blog almost a dozen times, it's been a few years since the last time -- <A HREF=\"https://chessforallages.blogspot.com/2019/09/beyond-alphazero.html\">Beyond AlphaZero</A> (September 2019) -- and even then it was just in passing. What has the chess player turned entrepreneur been doing since then? <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/yxAJohm0l_g?si=r0f153kIadX9Bd2T\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>Accelerating scienti",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html",
-         "pubDate" : "Sun, 12 Jan 2025 16:20:00",
-         "title" : "The Noblest Prize"
       }
    ]
 }
