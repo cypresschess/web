@@ -34,6 +34,14 @@ news_feed (
          "title" : "On February 16: Chessable Masters opens 2025 Champions Chess Tour"
       },
       {
+         "description" : "The king of Bullet Brawl, GM Hikaru Nakamura, returned to the top of Chess.com&#39;s high-speed titled arena on Saturday, claiming the $400 first prize and extending his all-time win count to 35. To reach the winning score (261), he scored 72/81 and d...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-1-2025",
+         "pubDate" : "Sat, 01 Feb 2025 17:34:00",
+         "title" : "King Of Bullet Brawl Returns To Win 35th Title"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-issues-statement-on-freestyle-chess",
          "pubDate" : "Tue, 21 Jan 2025 15:32:00",
          "title" : "FIDE Slams Freestyle Chess For Creating 'Unavoidable Divisions,' Threatens Legal Action"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu is the sole leader of the 2025 Tata Steel Chess Masters on 3.5/4 after smoothly outplaying GM Leon Luke Mendonca for a third win in a row. GM Pentala Harikrishna scored the day&#39;s most beautiful win by sacrificing both ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 21 Jan 2025 12:08:00",
-         "title" : "Praggnanandhaa Leads After 3rd Straight Win; Heartbreak For Arjun"
       },
       {
          "description" : "",
