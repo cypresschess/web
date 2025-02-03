@@ -66,6 +66,14 @@ news_feed (
          "title" : "Praggnanandhaa R wins Tata Steel Masters 2025"
       },
       {
+         "description" : "Several months ago, in <A HREF=\"https://chessforallages.blogspot.com/2024/07/incarcerated-self-taught-and-legally.html\">Incarcerated, Self-taught, and Legally Blind</A> (July 2024), I wrote, <BLOCKQUOTE> When there are several choices on the short list for a new month's edition of <I>Top eBay Chess Items by Price</I> (March 2010), I almost always go for any artwork. </BLOCKQUOTE> <P> Here's that link again -- <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) -- and here's another example of artwork, one of two I had on the short list. The item pictured below was titled 'Nicoletta Ceccoli Limited Edition Pr",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/a-sammarinese-artist.html",
+         "pubDate" : "Sun, 02 Feb 2025 16:19:00",
+         "title" : "A Sammarinese Artist"
+      },
+      {
          "description" : "After losses in Round 13, D Gukesh and R Praggnanandhaa played out a tie-breaker in the 2025 Tata Steel Chess Masters, with the former coming good in sudden-death to win.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1200,14 +1208,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html",
          "pubDate" : "Mon, 13 Jan 2025 16:18:00",
          "title" : "Proteins Play Chess"
-      },
-      {
-         "description" : "The 2024 European Women's Rapid and Blitz Chess Championships concluded yesterday in Monte-Carlo, Monaco. The Championships took place from 9-13 January and gathered nearly 150 players coming from 28 European federations. The first event on the schedule was European Women's Blitz Chess Championship 2024 which was played on Friday, 10th of January. After 13 played rounds, IM Aleksandra Maltsevskaya (POL, 2324) emerged as the sole Winner of the event, scoring 10.5 points. She was half a point ahead of GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2024-crowned-in-monaco/",
-         "pubDate" : "Mon, 13 Jan 2025 08:55:48",
-         "title" : "European Women's Rapid and Blitz Chess Champions 2024 crowned in Monaco"
       }
    ]
 }
