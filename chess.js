@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3409",
+         "pubDate" : "Mon, 03 Feb 2025 08:15:49",
+         "title" : "FIDE and the \"Freestyle Chess Tour\": No agreement on World Championship recognition"
+      },
+      {
+         "description" : "The Modern Steinitz (1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6!?) is an uncompromising counterattacking weapon that lets Black put White under pressure from the very start. With this course, you'll master two sharp and dynamic approaches: the swashbuckling Siesta Variation (5 c3 f5!) and the fiery Fishing Pole Attack (5 0-0 Bg4 6 h3 h5!).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tim-wall-countering-the-ruy-lopez-with-the-fighting-modern-steinitz",
+         "pubDate" : "Mon, 03 Feb 2025 07:26:38",
+         "title" : "Tim Wall: Countering the Ruy Lopez with the fighting Modern Steinitz"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117879362.cms\" />Viswanathan Anand has pulled out from the Freestyle Chess Grand Slam Tour. His new role as FIDE Vice President and tensions with Magnus Carlsen influenced his decision. The tour starts in Germany on February 7, with top players like Carlsen and Nakamura participating. Discussions are ongoing about the New Delhi leg and the use of the term 'World Championship'.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-viswanathan-anand-withdrew-from-freestyle-chess-grand-slam-tour/articleshow/117879362.cms",
+         "pubDate" : "Mon, 03 Feb 2025 06:45:15",
+         "title" : "Exclusive | Why Anand withdrew from Freestyle Chess GS Tour"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117873923.cms\" />Indian grandmaster R Praggnanandhaa achieved a remarkable comeback to defeat world champion D Gukesh 2-1 in the tiebreaker at Tata Steel Chess Tournament 2025, claiming his maiden title. Despite initially losing due to a blunder, Praggnanandhaa's strategic brilliance and unwavering focus allowed him to secure victory in the intense and thrilling encounter.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -928,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3394",
          "pubDate" : "Tue, 21 Jan 2025 22:00:28",
          "title" : "Chess Championships at 8th CSIT World Sports Games: Registration open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117437476.cms\" />India's Arjun Erigaisi faced his third defeat in the Tata Steel Chess Tournament 2025, while Praggnanandhaa Rameshbabu leads the Masters with 3.5 points. Pentala Harikrishna secured a win, and Fabiano Caruana and Anish Giri drew their game. In the Challengers section, Vaishali Rameshbabu claimed victory. Miaoyi Lu shares the top spot after a draw.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-becomes-sole-leader-india-no-1-arjun-erigasi-blunders-into-another-defeat/articleshow/117437476.cms",
-         "pubDate" : "Tue, 21 Jan 2025 19:44:34",
-         "title" : "New World No. 8 Pragg becomes sole leader at Tata Steel Chess"
       },
       {
          "description" : "",
