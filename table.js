@@ -1,7 +1,9 @@
 jtable([
+"HOUSTON","2025-01-31  - 02-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202502024602 target='_blank'>POISON PAWNS CLUB CHAMPIONSHIP 2025</a>",
 "HOUSTON","2025-02-01","5","<a href=http://www.uschess.org/msa/XtblMain.php?202502013042 target='_blank'>CHESSPANDA02012025SATURDAY</a>",
 "SUGAR LAND","2025-02-01","14","<a href=http://www.uschess.org/msa/XtblMain.php?202502012642 target='_blank'>FBCC 2025 INTERNATIONAL ZEBRA DAY O</a>",
 "SPRING","2025-01-31","29","<a href=http://www.uschess.org/msa/XtblMain.php?202501312572 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2025-01-31","25","<a href=http://www.uschess.org/msa/XtblMain.php?202501312492 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-01-07  - 01-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202501281382 target='_blank'>JANUARY 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-01-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202501269532 target='_blank'>JAN 26 SUNDAY SWISS AT NOON</a>",
 "SPRING","2025-01-25","374","<a href=http://www.uschess.org/msa/XtblMain.php?202501259962 target='_blank'>25TH KLEIN WINTER SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2024-06-14","8","<a href=http://www.uschess.org/msa/XtblMain.php?202406147322 target='_blank'>TOURNAMENTS/FBCC 2024 FLAG DAY OPEN</a>",
 "HOUSTON","2024-06-07  - 06-09","62","<a href=http://www.uschess.org/msa/XtblMain.php?202406095212 target='_blank'>$2,000 JUNE CHAMPIONSHIP</a>",
 "HOUSTON","2024-06-08","7","<a href=http://www.uschess.org/msa/XtblMain.php?202406083692 target='_blank'>CHESSPANDA06082024SATURDAY</a>",
-"CYPRESS","2024-06-07","22","<a href=http://www.uschess.org/msa/XtblMain.php?202406073472 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-06-07","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406073362 target='_blank'>FBCC 2024 CHOCOLATE ICE CREAM OPEN</a>",
 ]);
