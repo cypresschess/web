@@ -6,8 +6,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3409",
-         "pubDate" : "Mon, 03 Feb 2025 08:15:49",
+         "pubDate" : "Mon, 03 Feb 2025 16:02:49",
          "title" : "FIDE and the \"Freestyle Chess Tour\": No agreement on World Championship recognition"
+      },
+      {
+         "description" : "Britain's top chess players will converge on Liverpool from July 31 to August 10 as the English Chess Federation's flagship annual event comes to the city for only the second time. The organisers hope to put on the strongest event in its 121-year history. It will culminate in new British champions being named at all age groups.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strongest-british-championship-in-st-george-s-hall",
+         "pubDate" : "Mon, 03 Feb 2025 14:27:14",
+         "title" : "Strongest British Championship in St George's Hall"
       },
       {
          "description" : "The Modern Steinitz (1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6!?) is an uncompromising counterattacking weapon that lets Black put White under pressure from the very start. With this course, you'll master two sharp and dynamic approaches: the swashbuckling Siesta Variation (5 c3 f5!) and the fiery Fishing Pole Attack (5 0-0 Bg4 6 h3 h5!).",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-viswanathan-anand-withdrew-from-freestyle-chess-grand-slam-tour/articleshow/117879362.cms",
          "pubDate" : "Mon, 03 Feb 2025 06:45:15",
          "title" : "Exclusive | Why Anand withdrew from Freestyle Chess GS Tour"
+      },
+      {
+         "description" : "The 13th edition of Norway Chess will see the first classical meeting between World Champion GM Gukesh Dommaraju and world number-one GM Magnus Carlsen since the Indian claimed the title in Singapore. Maintaining its hallmark traditions, both No...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-announced-carlsen-faces-world-champion-gukesh",
+         "pubDate" : "Mon, 03 Feb 2025 06:45:00",
+         "title" : "Carlsen Returns To Classical, Set For 1st Meeting With World Champion Gukesh"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117873923.cms\" />Indian grandmaster R Praggnanandhaa achieved a remarkable comeback to defeat world champion D Gukesh 2-1 in the tiebreaker at Tata Steel Chess Tournament 2025, claiming his maiden title. Despite initially losing due to a blunder, Praggnanandhaa's strategic brilliance and unwavering focus allowed him to secure victory in the intense and thrilling encounter.",
@@ -906,14 +922,6 @@ news_feed (
          "title" : "'I Wanted To Live The Life Of A Normal Kid,' Kamsky Says In Candid Interview About His Past"
       },
       {
-         "description" : "Titled Tuesday set a participation record for the third straight week on January 21, with 996 players joining, the most of the doubles era (since February 1, 2022). GM Hikaru Nakamura won his second straight Titled Tuesday in the event with tiebre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-rasulov-win-titled-tuesday-january-21-2025",
-         "pubDate" : "Wed, 22 Jan 2025 07:55:17",
-         "title" : "Nearly 1,000 Join Titled Tuesday As Hikaru Wins Again"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117449334.cms\" />The upcoming Norway Chess tournament, from May 26 to June 6, will feature top-ranked players including Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura. With a mix of seasoned grandmasters and rising stars like D Gukesh and Arjun Erigaisi, the event is set to be one of the strongest and most thrilling in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1200,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3385",
          "pubDate" : "Tue, 14 Jan 2025 10:32:14",
          "title" : "Educational Seminar \"Chess for children with an autism spectrum - Learn & teach\" announced"
-      },
-      {
-         "description" : "A week ago, in <A HREF=\"https://chessforallages.blogspot.com/2025/01/surrealist-chess.html\">Surrealist Chess</A> (January 2025), I wrote, <BLOCKQUOTE> Continuing with the weekly series on AI comics [...] we return to aimless wandering around various topics. </BLOCKQUOTE> <P> After that post about Magritte, I intended to continue with another artist known for an interest in chess, but I got sidetracked by yesterday's post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025). It featured a video about the Nobel Prize in Chemistry 2024, awarded:- <BLOCKQUOTE> half jointly to Demis Hassabis, Google DeepMind, London, UK and John Jumpe",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html",
-         "pubDate" : "Mon, 13 Jan 2025 16:18:00",
-         "title" : "Proteins Play Chess"
       }
    ]
 }
