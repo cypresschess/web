@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117873923.cms\" />Indian grandmaster R Praggnanandhaa achieved a remarkable comeback to defeat world champion D Gukesh 2-1 in the tiebreaker at Tata Steel Chess Tournament 2025, claiming his maiden title. Despite initially losing due to a blunder, Praggnanandhaa's strategic brilliance and unwavering focus allowed him to secure victory in the intense and thrilling encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-devastated-after-losing-tata-steel-2025-masters-title-to-r-praggnanandhaa/articleshow/117873923.cms",
+         "pubDate" : "Mon, 03 Feb 2025 03:20:08",
+         "title" : "Watch: Gukesh devastated after losing Masters title to Pragg"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117872126.cms\" />Grandmaster R Praggnanandhaa triumphed at the Tata Steel Masters chess event in Netherlands, defeating world champion D. Gukesh 2-1 in the tiebreaker. Both players initially tied for first place with 8.5 points. Praggnanandhaa showcased strong technical skill and composure, ultimately securing his first Masters title by capitalizing on crucial mistakes made by Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-defeats-gukesh-in-tiebreaker-to-clinch-tata-chess-title/articleshow/117872126.cms",
+         "pubDate" : "Mon, 03 Feb 2025 01:32:47",
+         "title" : "Praggnanandhaa defeats Gukesh in tiebreaker to clinch Tata Chess title"
+      },
+      {
          "description" : "When should you take the plunge on a risky move? GM Jon Speelman explores this question by diving deep into a single position from his recent 4NCL game against IM Richard Palliser. Analysing a critical moment in the Caro-Kann, Speelman weighs the dangers of a bold knight leap and the fine margins between courage and calamity. His conclusion? Sometimes, the gamble is worth it - especially if the worst outcome is losing in style.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Praggnanandhaa R wins Tata Steel Masters 2025"
       },
       {
+         "description" : "After losses in Round 13, D Gukesh and R Praggnanandhaa played out a tie-breaker in the 2025 Tata Steel Chess Masters, with the former coming good in sudden-death to win.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43664114/praggnanandhaa-wins-tata-steel-chess-masters-tie-breakers-gukesh-loses-first-game-world-champion?device=featurephone",
+         "pubDate" : "Sun, 2 Feb 2025 13:43:01",
+         "title" : "Praggnanandhaa wins Tata Steel Chess Masters in tie-breakers as Gukesh loses first game as world champion"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu won the 2025 Tata Steel Masters after beating world champion Gukesh Dommaraju in a blitz tiebreaker. The two Indian stars entered the final round tied for first place and, notably, both lost their classical games on Sunday. Pragg then won the blitz tiebreaker by a 2-1 score after Gukesh misplayed a knight endgame in the third encounter. Meanwhile, Czech GM Thai Dai Van Nguyen won the Challengers, as he had a better tiebreak score than Aydin Suleymanli, who finished tied for first in the single round-robin. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Tata Steel Chess - Pragg takes the title in thrilling tiebreaker"
       },
       {
-         "description" : "In a dramatic finale to the 2025 Tata Steel Chess Masters, both leaders lost their final classical games of the tournament. GM Arjun Erigaisi played a perfect game to defeat World Champion Gukesh Dommaraju in 31 moves, while GM Vincent Keymer beat...",
+         "description" : "In the unforgettable round 13 of the 2025 Tata Steel Chess Masters, both leaders lost their last classical games of the tournament. GM Arjun Erigaisi played a perfect game to defeat World Champion Gukesh Dommaraju in 31 moves, while GM Vincent Key...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2025-tata-steel-chess",
@@ -960,22 +984,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43492986/tata-steel-chess-day-3-world-champion-d-gukesh-fabiano-caruana-top-seed?device=featurephone",
          "pubDate" : "Mon, 20 Jan 2025 22:28:32",
          "title" : "Tata Steel Chess Day 3: Praggnanandhaa takes lead with win over Erigaisi; Gukesh draws with Caruana"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117406999.cms\" />R Praggnanandhaa won against Arjun Erigaisi in the third round of the Tata Steel Chess Tournament 2025. The game concluded with Praggnanandhaa leading the table with a score of 2.5/3. Other notable matches include a draw between D Gukesh and Fabiano Caruana and Leon Luke Mendonca earning his first point. The tournament saw mixed results for Indian players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-beats-india-no-1-arjun-erigasi-to-seize-top-spot-d-gukesh-settles-for-draw/articleshow/117406999.cms",
-         "pubDate" : "Mon, 20 Jan 2025 19:14:55",
-         "title" : "Pragg beats India No. 1 Arjun Erigasi to seize top spot at Tata Steel Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117404532.cms\" />D Gukesh, the reigning world chess champion, drew with top seed Fabiano Caruana in the third round of the Tata Steel Chess tournament in The Netherlands. Playing cautiously, Gukesh achieved 2 points in his first major tournament of the year. Meanwhile, R Praggnanandhaa might take the lead if he capitalises on his advantage against Arjun Erigaisi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-d-gukesh-draws-with-top-seed-fabiano-caruana/articleshow/117404532.cms",
-         "pubDate" : "Mon, 20 Jan 2025 17:07:45",
-         "title" : "Tata Steel Chess: D Gukesh draws with top seed Fabiano Caruana"
       },
       {
          "description" : "Let's combine a recent video post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025):- <BLOCKQUOTE> Nobel lecture with the Nobel Laureate in Chemistry 2024 Demis Hassabis, Google DeepMind, London, UK. [...] \"for protein structure prediction\" </BLOCKQUOTE> <P> with a derivative of that post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html\">Proteins Play Chess</A> (January 2025):- <BLOCKQUOTE> I started to wonder if proteins play chess. It turns out they do, at least according to AI comics. </BLOCKQUOTE> <P> I constructed a series of test images using the phrase 'Demis Hassabis plays chess with a pr",
