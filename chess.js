@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When should you take the plunge on a risky move? GM Jon Speelman explores this question by diving deep into a single position from his recent 4NCL game against IM Richard Palliser. Analysing a critical moment in the Caro-Kann, Speelman weighs the dangers of a bold knight leap and the fine margins between courage and calamity. His conclusion? Sometimes, the gamble is worth it - especially if the worst outcome is losing in style.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-224",
+         "pubDate" : "Sun, 02 Feb 2025 22:00:00",
+         "title" : "Jon Speelman: Reasonable doubt"
+      },
+      {
+         "description" : " Praggnanandhaa won the 87th Tata Steel Chess tournament for his most impressive result of his career so far. The path to victory was not at all smooth and he had to show great determination on the final day. Praggnanandhaa shared the lead with World Champion Gukesh and I don't think anyone predicted both players would go down to a defeat. Gukesh was well beaten by a resurgent Arjun Erigaisi who said his confidence returned after beating Nodirbek Abdusattorov in Round 12. The game was a Petroff with opposite sides castling, Erigaisi always seemed at least equal, there was a weird exchange sacrifice which was supposed to be a bit better for Gukesh but after that it was all one way traffic and",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-wins-the-tata-steel-masters-after-hugely-dramatic-final-round-and-then-a-tie-break-match",
+         "pubDate" : "Sun, 2 Feb 2025 21:52:00",
+         "title" : "Praggnanandhaa wins the Tata Steel Masters after hugely dramatic final round and then a tie-break match - 13"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3410",
+         "pubDate" : "Sun, 02 Feb 2025 20:40:07",
+         "title" : "Praggnanandhaa R wins Tata Steel Masters 2025"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu won the 2025 Tata Steel Masters after beating world champion Gukesh Dommaraju in a blitz tiebreaker. The two Indian stars entered the final round tied for first place and, notably, both lost their classical games on Sunday. Pragg then won the blitz tiebreaker by a 2-1 score after Gukesh misplayed a knight endgame in the third encounter. Meanwhile, Czech GM Thai Dai Van Nguyen won the Challengers, as he had a better tiebreak score than Aydin Suleymanli, who finished tied for first in the single round-robin. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3407",
          "pubDate" : "Sat, 01 Feb 2025 18:54:31",
          "title" : "Call for Submissions: FIDE Veteran Support Program 2025"
-      },
-      {
-         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters on February 16, featuring a faster 10+0 time control for added excitement. With only two online events to earn CCT points, the stakes are higher than ever. Top stars, including Magnus Carlsen and Hikaru Nakamura, are set to compete. The Tour will culminate in the prestigious Esports World Cup, where players will battle for a historic $1,500,000 prize fund. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-preview",
-         "pubDate" : "Sat, 01 Feb 2025 17:45:00",
-         "title" : "On February 16: Chessable Masters opens 2025 Champions Chess Tour"
       },
       {
          "description" : "The king of Bullet Brawl, GM Hikaru Nakamura, returned to the top of Chess.com&#39;s high-speed titled arena on Saturday, claiming the $400 first prize and extending his all-time win count to 35. To reach the winning score (261), he scored 72/81 and d...",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Celebrating 40 Years of Excellence: The Founding of the European Chess Union"
       },
       {
-         "description" : "The fight for first place remains fierce in both sections of the Tata Steel Chess Tournament with two rounds to go. In the Masters, Gukesh Dommaraju retained the sole lead, but Praggnanandhaa Rameshbabu closed the gap by scoring a crucial win over Fabiano Caruana. Meanwhile, in the Challengers, Erwin l'Ami emerged as the new sole leader after defeating Lu Miaoyi, while Thai Dai Van Nguyen suffered a setback against Frederik Svane. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-11",
-         "pubDate" : "Sat, 01 Feb 2025 08:50:00",
-         "title" : "Tata Steel Chess R11: Pragg beats Caruana, climbs to second place"
-      },
-      {
          "description" : "This February, five eligible bachelors and bachelorettes are competing to win your love&#38;mdash;and your pieces! Will it be Bachelor #1, DJ Ron Passant, That Person You Ghosted, Trisha, or a goose? That&#38;rsquo;s for your heart to decide.&#38;nbsp; Read...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -170,14 +178,6 @@ news_feed (
          "title" : "Bortnyk Outlasts Carlsen, Nakamura In Freestyle Friday"
       },
       {
-         "description" : "The 2025 Norway Chess tournament, set to take place from May 26 to June 6 in Stavanger, will once again feature some of the world's strongest players. Both the main event and Norway Chess Women will follow a six-player double round-robin format, with the Armageddon tiebreak system ensuring a decisive result in every round. Norway Chess Women returns for its second edition, maintaining the same financial rewards, structure and venue as the main event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-lineups",
-         "pubDate" : "Fri, 31 Jan 2025 12:20:00",
-         "title" : "Norway Chess and Norway Chess Women: Final lineups for 2025"
-      },
-      {
          "description" : "There were four decisive games in round 11 of the 2025 Tata Steel Chess Masters, three of them won by Indian grandmasters with the black pieces. The smoke has cleared, and World Champion Gukesh Dommaraju is still in the sole lead.&#38;nbsp; GM Nodir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,14 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chessable-masters-2025",
          "pubDate" : "Fri, 31 Jan 2025 08:00:00",
          "title" : "Chessable Masters Opens 2025 Champions Chess Tour Spearheaded By 5-Time Champion Carlsen"
-      },
-      {
-         "description" : "A handshake controversy at the Tata Steel Challengers tournament sparked heated debate after GM Nodirbek Yakubboev declined Vaishali Rameshbabu's pre-game gesture, citing religious reasons. The incident drew widespread criticism, with many questioning the inconsistency of his actions. In response, Yakubboev publicly apologised and later met Vaishali and Divya Deshmukh, offering chocolates and flowers. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yakubboev-apologises-no-handshake-tata-steel-2025",
-         "pubDate" : "Fri, 31 Jan 2025 02:00:00",
-         "title" : "Yakubboev apologises to Vaishali and Divya after no-handshake incident"
       },
       {
          "description" : "The theme of this issue of Check is in the Mail is chess Combinations. All of the games are from 2024, end in a win (no draws), are NOT miniatures (see the previous issue for miniatures), and, to focus on the theme of this issue, all contain one or more Combinations in the moves of the game or within a variation from the analysis of the game.Combinations, in this instance, are those moves defined in the Encyclopaedia of Chess Combinations, published by Chess Informant. The Combinations covered, listed here in alphabetical order, include Annihilation of Defense, Blockade, Clearance, Decoy, Deflection, Demolition of the Pawn Structure, Discovered Attack, Double Attack, Interference and Pinning",
@@ -256,14 +248,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/memorial-celebration-for-im-adam-hunt-on-saturday-1st-march/",
          "pubDate" : "Thu, 30 Jan 2025 15:29:42",
          "title" : "Memorial celebration for IM Adam Hunt on Saturday 1st March"
-      },
-      {
-         "description" : "Round 10 of the Tata Steel Chess Tournament saw the frontrunners in both the Masters and Challengers sections claiming crucial victories. In the Masters, Gukesh Dommaraju held onto his lead by beating Max Warmerdam, while Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu also won to keep the title race tight. Similarly, in the Challengers, Thai Dai Van Nguyen remained in first place with a win, with Erwin l'Ami and Aydin Suleymanli also scoring full points to stay in the race for overall victory. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-10",
-         "pubDate" : "Thu, 30 Jan 2025 13:35:00",
-         "title" : "Tata Steel Chess R10: Gukesh wins again, Abdusattorov keeps up the pace"
       },
       {
          "description" : "",
@@ -1200,14 +1184,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-champions-2024-crowned-in-monaco/",
          "pubDate" : "Mon, 13 Jan 2025 08:55:48",
          "title" : "European Women's Rapid and Blitz Chess Champions 2024 crowned in Monaco"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3384",
-         "pubDate" : "Sun, 12 Jan 2025 22:57:47",
-         "title" : "European Women's R & B Championships 2024: Ushenina and Maltsevskaya claim titles"
       }
    ]
 }
