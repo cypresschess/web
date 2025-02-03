@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Tata Steel Chess Tournament concluded with a thrilling final day in both the Masters and Challengers sections. Praggnanandhaa Rameshbabu emerged as the Masters champion after defeating fellow Indian star Gukesh Dommaraju in a dramatic blitz playoff. The classical games saw Arjun Erigaisi and Vincent Keymer upsetting the frontrunners, while Max Warmerdam stunned top seed Fabiano Caruana. In the Challengers, Thai Dai Van Nguyen claimed first place on tiebreaks, securing a spot in next year's Masters after finishing level on points with Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-13",
+         "pubDate" : "Mon, 03 Feb 2025 18:00:00",
+         "title" : "Praggnanandhaa beats Gukesh in dramatic tiebreaker, wins Tata Steel Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
