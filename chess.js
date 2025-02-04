@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian FM Vedant Panesar scored an unbeaten 6/9 to win the Tata Steel Chess Qualifiers 2025. This triumph earned him a place in the Challengers section of the 2026 edition. He finished a half point ahead of the field. FM Leandro Slagboom and FM Tim Grutter, both from the Netherlands, scored 5&frac12;/9 each. They secured second and third place respectively. The top three prizes were New in Chess book vouchers worth €90, €60 and €40 each respectively. More than the prize fund, advancing to the Challengers is a big deal for the champion. Photo: Lennart Ootes / Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-qualifiers-2025-report",
+         "pubDate" : "Tue, 04 Feb 2025 19:45:00",
+         "title" : "Vedant Panesar victorious at Tata Steel Qualifiers"
+      },
+      {
          "description" : "The next Grassroots assessment takes place on 1st March. A report in January's ChessMoves outlines awards to date, but 80% of the allocation of regional funds (initially &pound;90,000) remains unspent....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-playful-dig-as-praggnanandhaa-wins-maiden-tata-steel-masters-title-mere-pass-panch-hai/articleshow/117900935.cms",
          "pubDate" : "Tue, 04 Feb 2025 03:41:54",
          "title" : "'Mere pass panch hai': Anand's playful dig at Praggnanandhaa"
+      },
+      {
+         "description" : "This week's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we once again focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-3-andy-brew-and-tani-return",
+         "pubDate" : "Tue, 04 Feb 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 3 (Andy, Brew, and Tani return)"
       },
       {
          "description" : "The 2025 Tata Steel Chess Tournament concluded with a thrilling final day in both the Masters and Challengers sections. Praggnanandhaa Rameshbabu emerged as the Masters champion after defeating fellow Indian star Gukesh Dommaraju in a dramatic blitz playoff. The classical games saw Arjun Erigaisi and Vincent Keymer upsetting the frontrunners, while Max Warmerdam stunned top seed Fabiano Caruana. In the Challengers, Thai Dai Van Nguyen claimed first place on tiebreaks, securing a spot in next year's Masters after finishing level on points with Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3392",
          "pubDate" : "Tue, 21 Jan 2025 11:00:40",
          "title" : "FIDE Statement regarding the \"Freestyle Chess\" project"
-      },
-      {
-         "description" : "This week's Tactics Tuesday begins a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy of Lennart Ootes/FIDE (1,4,5) and Michal Walusza/FIDE (2,3)<br> <br> There's",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-1-yip-week",
-         "pubDate" : "Tue, 21 Jan 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 1 (Yip Week)"
       },
       {
          "description" : " The third round of the Tata Steel Masters saw five draws and the only decisive results came right at the end but they did mean Praggnanandhaa and Nodirbek Abdusattorov were in a two way share of the lead. The draws came in stark contrast to the seven white wins in the Challengers group which really shook up the standings there. In the Masters Praggnanandhaa converted an advantage over a struggling Arjun Erigaisi. Max Warmerdam was still very much in the game against Nodirbek Abdusattorov until very near the end when his position collapsed, although his position was surely harder to handle. Wei Yi finally got a real game against Vincent Keymer but was on the worse side of the draw. Gukesh wa",
