@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find here for National Under 13 Rank Name1 Nidhish Shyamal2 Aarit Kapil3 Divith Reddy Adulla4 Advik Amit Agrawal5 Oishik Mondal6 Ayaan Phutane7 Mani Sarbartho8",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-for-national-under-09-chess-championship-2024-in-maharashtra/",
+         "pubDate" : "Tue, 04 Feb 2025 12:02:31",
+         "title" : "Certificate for National Under 09 Chess Championship 2024 in Maharashtra"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2025/02/Community-Sport-and-Recreation-Awards.pdf#new_tab",
+         "pubDate" : "Tue, 04 Feb 2025 11:08:24",
+         "title" : "Community Sport and Recreation Awards Youth Edition 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117915192.cms\" />Magnus Carlsen has called for the resignation of FIDE President Arkady Dvorkovich, accusing him of coercion and broken promises following FIDE's failed negotiations with the Freestyle Chess Tour. The dispute involves the use of the 'world championship' title and a waiver requirement for players. The Freestyle Tour has postponed using the title to protect players from FIDE's demands.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-accuses-fide-chief-dvorkovich-of-coercion-and-broken-promises/articleshow/117915192.cms",
+         "pubDate" : "Tue, 04 Feb 2025 11:03:56",
+         "title" : "Carlsen accuses FIDE chief of coercion and broken promises"
+      },
+      {
+         "description" : "The 87th edition of the prestigious Tata Steel Chess Tournament took place from 18th of January to 2nd of February in Wijk aan Zee, Netherlands. The event was played with Masters and Challengers fields, including some of the world's best players. Each section featured 14 players who competed over 13 round-robin rounds. The Winner of the Masters event was determined after playoffs, since Gukesh and Praggnanandhaa tied for the top scoring 8.5/13 points each. Gukesh suffered a loss in the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/praggnanandhaa-wins-tata-steel-chess-masters-2025/",
+         "pubDate" : "Tue, 04 Feb 2025 09:31:54",
+         "title" : "Praggnanandhaa wins Tata Steel Chess Masters 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3411",
+         "pubDate" : "Tue, 04 Feb 2025 08:51:59",
+         "title" : "FIDE Circuit 2025: Ding Liren leads as Tata Steel top finishers join the race"
+      },
+      {
          "description" : "Ready to test your wits, your ability to handle unusual chess problems? We have selected three really challenging examples for you to solve - problems that have come up with some outrageous ideas. See if you can find them, and record the time it takes you to solve them. In a week we will provide you with the full solutions, diligently explained in YouTube videos.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-13",
          "pubDate" : "Mon, 03 Feb 2025 18:00:00",
          "title" : "Praggnanandhaa beats Gukesh in dramatic tiebreaker, wins Tata Steel Masters"
+      },
+      {
+         "description" : "One of the insights from my recent explorations into AI Comics was that people's likenesses are best rendered using the '3D Render' style. Consider the images produced for the recent post <A HREF=\"https://chessforallages.blogspot.com/2025/01/color-proteins.html\">Color the Proteins</A> (January 2025; 'Demis Hassabis plays chess ...'). <P> Another insight was that AI Comics are perfectly happy to create images of inanimate objects playing chess. Consider the following images inspired by the world of economics and finance. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb03.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Kenneth Rogoff plays chess with money.'</B><BR> <A HREF=\"https://aicomi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/playing-chess-with-money.html",
+         "pubDate" : "Mon, 03 Feb 2025 16:03:00",
+         "title" : "Playing Chess with Money"
       },
       {
          "description" : "",
@@ -66,7 +114,7 @@ news_feed (
          "title" : "Exclusive | Why Anand withdrew from Freestyle Chess GS Tour"
       },
       {
-         "description" : "The 13th edition of Norway Chess will see the first classical meeting between World Champion GM Gukesh Dommaraju and world number-one GM Magnus Carlsen since the Indian claimed the title in Singapore. Maintaining its hallmark traditions, both No...",
+         "description" : "The 13th edition of Norway Chess will see the first classical meeting between World Champion GM Gukesh Dommaraju and world number-one GM Magnus Carlsen since the Indian claimed the title in Singapore. Maintaining its traditions, both Norway Ches...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-norway-chess-announced-carlsen-faces-world-champion-gukesh",
@@ -914,14 +962,6 @@ news_feed (
          "title" : "Gukesh grinds out win to close gap on leader Pragg in Round 5 of Tata Steel Chess"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117467617.cms\" />D Gukesh secured a crucial victory against Vincent Keymer in a 72-move match at the Tata Steel Chess Tournament 2025, marking his second win. R Praggnanandhaa held Max Warmerdam to a draw, maintaining his strong performance. Other notable outcomes included Harikrishna's draw with Wei Yi and Fedoseev's win over Caruana. The Challengers section saw Divya Deshmukh defeated by Erwin l'Ami.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-back-to-winning-ways-praggnanandhaa-arjun-erigaisi-pocket-draws/articleshow/117467617.cms",
-         "pubDate" : "Wed, 22 Jan 2025 20:31:45",
-         "title" : "Tata Steel Chess: Gukesh back to winning ways; Pragg draws"
-      },
-      {
          "description" : "I spent the past weekend in London, filming content for Alessia's YouTube channel. When people realized I was a GM and Coach, they approached me to ask some questions. At least a dozen times, I had this exact conversation: \"Oh, you are a Grandmaster and Coach. Can I ask you a question about chess improvement?\" []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1178,14 +1218,6 @@ news_feed (
          "title" : "FIDE President Arkady Dvorkovich interview: \"We need a long-term solution\""
       },
       {
-         "description" : "The All India Chess Federation (AICF) hosted a grand felicitation ceremony in New Delhi on Thursday to honor the remarkable accomplishments of Indian chess grandmasters",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/d-gukesh-awarded-rs-1-crore-by-all-india-chess-federation-koneru-humpy-gets-rs-50-lakh-for-womens-world-rapid-title/",
-         "pubDate" : "Fri, 17 Jan 2025 09:20:43",
-         "title" : "GM Gukesh D awarded Rs 1 crore by All India Chess Federation; GM Koneru Humpy gets Rs 50 lakh for women's world Rapid title"
-      },
-      {
          "description" : "At the end of the old millennium, 25 years ago, the right side of last month's post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html\">December 1974 & 1999 'On the Cover'</A> (December 2024), announced, <BLOCKQUOTE> Whether you consider it to be the millennium or just the beginning of a new year, one thing is clear: Chess is still going strong. </BLOCKQUOTE> <P> At the start of the new millennium, also 25 years ago, it was business as usual. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa16.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Holiday in Harlem!' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQU",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1216,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3386",
          "pubDate" : "Tue, 14 Jan 2025 13:45:57",
          "title" : "Applications open for 2025 Freedom Asian Chess Initiatives (FACI)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3385",
-         "pubDate" : "Tue, 14 Jan 2025 10:32:14",
-         "title" : "Educational Seminar \"Chess for children with an autism spectrum - Learn & teach\" announced"
       }
    ]
 }
