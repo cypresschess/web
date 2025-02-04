@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117900935.cms\" />Grandmaster R Praggnanandhaa overcame fatigue and nerves to secure his first Tata Steel Masters title by defeating world champion D Gukesh in a tiebreaker. This victory marks the first win for an Indian in the tournament since Viswanathan Anand in 2006, who praised Praggnanandhaa's resilience. The five-time Tata Steel Chess champion also used a viral phrase to playfully remind the world of his own past triumphs.",
+         "description" : "Ready to test your wits, your ability to handle unusual chess problems? We have selected three really challenging examples for you to solve - problems that have come up with some outrageous ideas. See if you can find them, and record the time it takes you to solve them. In a week we will provide you with the full solutions, diligently explained in YouTube videos.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/puzzles-for-you-to-solve",
+         "pubDate" : "Tue, 04 Feb 2025 07:20:33",
+         "title" : "Puzzles for you to solve"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117904998.cms\" />Grandmaster R Praggnanandhaa clinched the Tata Steel Masters 2025 title in Netherlands by defeating World Champion D Gukesh. His victory, inspired by peers' achievements, marked a key moment in his career. Despite losing the first game in the tiebreaker, Praggnanandhaa's remarkable comeback secured his triumph, drawing praise from Viswanathan Anand and highlighting his strategic acumen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-wasnt-happy-with-my-game-r-praggnanandhaa-after-winning-tata-steel-chess-2025-masters/articleshow/117904998.cms",
+         "pubDate" : "Tue, 04 Feb 2025 06:31:32",
+         "title" : "'I wasn't happy with my game': Pragg after Tata Steel Masters title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117900935.cms\" />Grandmaster R Praggnanandhaa overcame fatigue and nerves to secure his first Tata Steel Masters title by defeating world champion D Gukesh in tiebreaker. This victory marks the first win for an Indian in tournament since Viswanathan Anand in 2006, who praised Praggnanandhaa's resilience. The five-time Tata Steel Chess champion also used viral phrase to playfully remind the world of his own past triumphs.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-playful-dig-as-praggnanandhaa-wins-maiden-tata-steel-masters-title-mere-pass-panch-hai/articleshow/117900935.cms",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-back-to-winning-ways-praggnanandhaa-arjun-erigaisi-pocket-draws/articleshow/117467617.cms",
          "pubDate" : "Wed, 22 Jan 2025 20:31:45",
          "title" : "Tata Steel Chess: Gukesh back to winning ways; Pragg draws"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117463640.cms\" />India will host the 2025 FIDE Chess World Cup from October 31 to November 27, as confirmed by the All India Chess Federation (AICF). The hosting city will be decided in an upcoming AICF meeting. This follows significant achievements by Indian chess players, including Gukesh Dommaraju's historic World Chess Championship win and the team's gold medals at the 2024 Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-host-fide-chess-world-cup-2025-arjuna-awardee-surprised-at-the-move/articleshow/117463640.cms",
-         "pubDate" : "Wed, 22 Jan 2025 16:23:31",
-         "title" : "India to host Chess World Cup 2025; Arjuna Awardee 'surprised'"
       },
       {
          "description" : "I spent the past weekend in London, filming content for Alessia's YouTube channel. When people realized I was a GM and Coach, they approached me to ask some questions. At least a dozen times, I had this exact conversation: \"Oh, you are a Grandmaster and Coach. Can I ask you a question about chess improvement?\" []",
