@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117900935.cms\" />Grandmaster R Praggnanandhaa overcame fatigue and nerves to secure his first Tata Steel Masters title by defeating world champion D Gukesh in a tiebreaker. This victory marks the first win for an Indian in the tournament since Viswanathan Anand in 2006, who praised Praggnanandhaa's resilience. The five-time Tata Steel Chess champion also used a viral phrase to playfully remind the world of his own past triumphs.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-playful-dig-as-praggnanandhaa-wins-maiden-tata-steel-masters-title-mere-pass-panch-hai/articleshow/117900935.cms",
+         "pubDate" : "Tue, 04 Feb 2025 03:41:54",
+         "title" : "'Mere pass panch hai': Anand's playful dig at Praggnanandhaa"
+      },
+      {
          "description" : "The 2025 Tata Steel Chess Tournament concluded with a thrilling final day in both the Masters and Challengers sections. Praggnanandhaa Rameshbabu emerged as the Masters champion after defeating fellow Indian star Gukesh Dommaraju in a dramatic blitz playoff. The classical games saw Arjun Erigaisi and Vincent Keymer upsetting the frontrunners, while Max Warmerdam stunned top seed Fabiano Caruana. In the Challengers, Thai Dai Van Nguyen claimed first place on tiebreaks, securing a spot in next year's Masters after finishing level on points with Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kamsky-candid-interview-wanted-life-of-normal-kid",
          "pubDate" : "Wed, 22 Jan 2025 10:37:00",
          "title" : "'I Wanted To Live The Life Of A Normal Kid,' Kamsky Says In Candid Interview About His Past"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117449334.cms\" />The upcoming Norway Chess tournament, from May 26 to June 6, will feature top-ranked players including Magnus Carlsen, Fabiano Caruana, and Hikaru Nakamura. With a mix of seasoned grandmasters and rising stars like D Gukesh and Arjun Erigaisi, the event is set to be one of the strongest and most thrilling in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-arjun-erigaisi-to-lead-indias-charge-in-norway-chess-2025/articleshow/117449334.cms",
-         "pubDate" : "Wed, 22 Jan 2025 07:42:44",
-         "title" : "Gukesh, Erigaisi to lead India's charge in Norway Chess 2025"
       },
       {
          "description" : " Praggnanandhaa took the sole lead of the Tata Steel Masters after four rounds, half a point clear of Nodirbek Abdusattorov who struggled to a draw after missing an early chance. It is still very early days of the Tata Steel tournament and Praggnanandhaa has started well before only to fall away. Today he had white against Leon Luke Mendonca, the lowest rated player in the tournament and clearly struggling. Praggnanandhaa had a serious advantage by move 16 and was clearly winning by move 27. Joint leader Abdusattorov had a chance to be much better with 15.c5! instead 15.Bf4? left Wei Yi pressing for a few moves but by move 24 the game was equal and drawn on move 35. Arjun Erigaisi was one of",
