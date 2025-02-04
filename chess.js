@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Please find here for National Under 13 Rank Name1 Nidhish Shyamal2 Aarit Kapil3 Divith Reddy Adulla4 Advik Amit Agrawal5 Oishik Mondal6 Ayaan Phutane7 Mani Sarbartho8",
+         "description" : "The next Grassroots assessment takes place on 1st March. A report in January's ChessMoves outlines awards to date, but 80% of the allocation of regional funds (initially &pound;90,000) remains unspent....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment/",
+         "pubDate" : "Tue, 04 Feb 2025 14:38:12",
+         "title" : "Next Grassroots assessment"
+      },
+      {
+         "description" : " The FAMU Chess Club participated in the school's club fair with about 40 other campus organizations. This was the first activity for the chess-playing Rattlers since being officially recognized as a club on January 28th. This is the first time in more than 20 years that there has been an official chess club at FAMU. The post <a href=\"https://thechessdrum.net/blog/2025/02/04/famu-chess-club-shines-at-club-fair/\">FAMU Chess Club shines at Club Fair!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/02/04/famu-chess-club-shines-at-club-fair/",
+         "pubDate" : "Tue, 04 Feb 2025 14:31:30",
+         "title" : "FAMU Chess Club shines at Club Fair!"
+      },
+      {
+         "description" : "Please find here for National Under 09 Rank Name1 Nidhish Shyamal2 Aarit Kapil3 Divith Reddy Adulla4 Advik Amit Agrawal5 Oishik Mondal6 Ayaan Phutane7 Mani Sarbartho8",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-for-national-under-09-chess-championship-2024-in-maharashtra/",
@@ -58,6 +74,14 @@ news_feed (
          "title" : "'I wasn't happy with my game': Pragg after Tata Steel Masters title"
       },
       {
+         "description" : "The negotiations between Freestyle Chess, led by its founders Jan Henric Buettner and GM Magnus Carlsen, and the International Chess Federation (FIDE) have collapsed and escalated into a deadlocked conflict. Freestyle Chess has backed down and pos...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-to-dvorkovich-after-freestyle-chess-feud-will-you-resign",
+         "pubDate" : "Tue, 04 Feb 2025 05:43:00",
+         "title" : "Carlsen To Dvorkovich In Heated Freestyle Chess Feud: 'Will You Resign?'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117900935.cms\" />Grandmaster R Praggnanandhaa overcame fatigue and nerves to secure his first Tata Steel Masters title by defeating world champion D Gukesh in tiebreaker. This victory marks the first win for an Indian in tournament since Viswanathan Anand in 2006, who praised Praggnanandhaa's resilience. The five-time Tata Steel Chess champion also used viral phrase to playfully remind the world of his own past triumphs.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -87,7 +111,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3409",
          "pubDate" : "Mon, 03 Feb 2025 16:02:49",
-         "title" : "FIDE and the \"Freestyle Chess Tour\": No agreement on World Championship recognition"
+         "title" : "Freestyle Chess Tour removes \"World Championship\" claim from regulations"
       },
       {
          "description" : "Britain's top chess players will converge on Liverpool from July 31 to August 10 as the English Chess Federation's flagship annual event comes to the city for only the second time. The organisers hope to put on the strongest event in its 121-year history. It will culminate in new British champions being named at all age groups.",
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "Fedoseev Beats Caruana; Abdusattorov, Gukesh Also Win Before Showdown"
       },
       {
-         "description" : "GM Gata Kamsky, a former FIDE world championship challenger and world number-four, spoke earnestly about his difficult past on Ilya Levitov&#39;s YouTube channel in an interview made available in English last week (originally recorded in October). T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kamsky-candid-interview-wanted-life-of-normal-kid",
-         "pubDate" : "Wed, 22 Jan 2025 10:37:00",
-         "title" : "'I Wanted To Live The Life Of A Normal Kid,' Kamsky Says In Candid Interview About His Past"
-      },
-      {
          "description" : " Praggnanandhaa took the sole lead of the Tata Steel Masters after four rounds, half a point clear of Nodirbek Abdusattorov who struggled to a draw after missing an early chance. It is still very early days of the Tata Steel tournament and Praggnanandhaa has started well before only to fall away. Today he had white against Leon Luke Mendonca, the lowest rated player in the tournament and clearly struggling. Praggnanandhaa had a serious advantage by move 16 and was clearly winning by move 27. Joint leader Abdusattorov had a chance to be much better with 15.c5! instead 15.Bf4? left Wei Yi pressing for a few moves but by move 24 the game was equal and drawn on move 35. Arjun Erigaisi was one of",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/new-opening/",
          "pubDate" : "Wed, 15 Jan 2025 13:58:52",
          "title" : "The simple way to learn a new opening"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3386",
-         "pubDate" : "Tue, 14 Jan 2025 13:45:57",
-         "title" : "Applications open for 2025 Freedom Asian Chess Initiatives (FACI)"
       }
    ]
 }
