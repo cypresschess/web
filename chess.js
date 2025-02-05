@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117933542.cms\" />Grandmaster R Praggnanandhaa clinched his first Tata Steel Chess title in Wijk aan Zee by defeating D Gukesh in tie-breakers. His achievement follows a challenging year in 2024 where he finished fifth at the Candidates Tournament. Winning this event made him the second Indian after Viswanathan Anand to do so.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/disappointing-2024-wanted-it-to-change-says-praggnanandhaa/articleshow/117933542.cms",
+         "pubDate" : "Wed, 05 Feb 2025 03:14:54",
+         "title" : "Disappointing 2024, wanted it to change, says Praggnanandhaa"
+      },
+      {
          "description" : "Indian FM Vedant Panesar scored an unbeaten 6/9 to win the Tata Steel Chess Qualifiers 2025. This triumph earned him a place in the Challengers section of the 2026 edition. He finished a half point ahead of the field. FM Leandro Slagboom and FM Tim Grutter, both from the Netherlands, scored 5&frac12;/9 each. They secured second and third place respectively. The top three prizes were New in Chess book vouchers worth €90, €60 and €40 each respectively. More than the prize fund, advancing to the Challengers is a big deal for the champion. Photo: Lennart Ootes / Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -538,7 +546,7 @@ news_feed (
          "title" : "Firouzja Dominates Another Busy Tuesday"
       },
       {
-         "description" : " The NextGen Cup is a novel tournament with a $20,000 fund featuring ten master-level players throughout the African Diaspora. It will take place on chess.com on February 6th. IM Kassa Korley, a player who has his own Grandmaster aspirations, is currently employed as chess.com Director of Community. He told The Chess Drum last month that The post <a href=\"https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/\">NextGen Cup: An African Diaspora Chess Battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The NextGen Cup is a novel tournament with a $20,000 fund featuring ten master-level players throughout the African Diaspora. It will take place on chess.com on February 6th. IM Kassa Korley, a player who has his own Grandmaster aspirations, is currently employed as chess.com's Director of Professional Relations. He told The Chess Drum last month The post <a href=\"https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/\">NextGen Cup: An African Diaspora Chess Battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/",
@@ -960,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3396",
          "pubDate" : "Thu, 23 Jan 2025 07:23:41",
          "title" : "FIDE Rapid and Blitz Championships 2025 to be Held in Doha, Qatar"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117474596.cms\" />At the Tata Steel Chess Tournament 2025, India's D Gukesh has excelled, remaining unbeaten and overtaking Arjun Erigaisi to become the new India No. 1. Gukesh's strong performances contrast with Erigaisi's struggles, who has yet to secure a win and has dropped to the bottom of the leaderboard, impacting his rating.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-world-chess-champion-d-gukesh-pipped-arjun-erigaisi-to-become-new-india-no-1/articleshow/117474596.cms",
-         "pubDate" : "Thu, 23 Jan 2025 05:19:57",
-         "title" : "How Gukesh pipped Erigaisi to become new India No. 1"
       },
       {
          "description" : "",
