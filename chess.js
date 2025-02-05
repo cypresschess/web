@@ -26,6 +26,14 @@ news_feed (
          "title" : "FIDE Infinite Project concludes successful educational visit in Abu Dhabi"
       },
       {
+         "description" : "On February 4, GM Liem Le became the fourth player ever, and the first of 2025, to post a perfect 11/11 score in Titled Tuesday. He joins GMs Hikaru Nakamura (twice), Magnus Carlsen (twice), and Jose Martinez in accomplishing the feat. GM&#38;nbsp;Ale...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-sarana-win-titled-tuesday-february-4-2025",
+         "pubDate" : "Wed, 05 Feb 2025 07:47:08",
+         "title" : "Coveted Perfect Score Returns To Titled Tuesday"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117933542.cms\" />Grandmaster R Praggnanandhaa clinched his first Tata Steel Chess title in Wijk aan Zee by defeating D Gukesh in tie-breakers. His achievement follows a challenging year in 2024 where he finished fifth at the Candidates Tournament. Winning this event made him the second Indian after Viswanathan Anand to do so.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -986,14 +994,6 @@ news_feed (
          "title" : "British Chess Educational Trust Awards 2025"
       },
       {
-         "description" : "In a YouTube video entitled &#34;Being a Chess Professional (in Europe) sucks.&#34;&#38;nbsp;Austrian GM&#38;nbsp;Felix Blohberger spoke out about several challenges professional players face outside of the elite (top 30).&#38;nbsp;&#34;This video is not there to blame a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/being-a-chess-professional-in-europe-sucks-blohberger",
-         "pubDate" : "Thu, 23 Jan 2025 09:35:00",
-         "title" : "'Being A Chess Professional (In Europe) Sucks': GM Blohberger Raises Concerns"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3387",
          "pubDate" : "Thu, 16 Jan 2025 08:48:58",
          "title" : "Call for Bids FIDE World Championships 2025 and 2026 concluded"
-      },
-      {
-         "description" : "Studying a new opening can be overwhelming. Many study dozens of hours of theory before you first play that new opening. By the time they play their first game, they forget 50% of it. There is a better way. If you study only what is necessary and then improve your opening with every game you []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/new-opening/",
-         "pubDate" : "Wed, 15 Jan 2025 13:58:52",
-         "title" : "The simple way to learn a new opening"
       }
    ]
 }
