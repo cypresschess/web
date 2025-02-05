@@ -26,6 +26,14 @@ news_feed (
          "title" : "FAMU Chess Club shines at Club Fair!"
       },
       {
+         "description" : "The finish to the 2025 Tata Steel Chess Masters was extraordinary, with both leaders World Champion Gukesh Dommaraju and GM Praggnanandhaa Rameshbabu losing their final classical games. When GM Nodirbek Abdusattorov failed to win, that meant a two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-9-conclusions-tata-steel-chess-2025",
+         "pubDate" : "Tue, 04 Feb 2025 13:21:00",
+         "title" : "Praggnanandhaa Is Back! 9 Conclusions From Tata Steel Chess 2025"
+      },
+      {
          "description" : "Please find here for National Under 09 Rank Name1 Nidhish Shyamal2 Aarit Kapil3 Divith Reddy Adulla4 Advik Amit Agrawal5 Oishik Mondal6 Ayaan Phutane7 Mani Sarbartho8",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/secret-to-chess-improvement/",
          "pubDate" : "Wed, 22 Jan 2025 14:51:29",
          "title" : "One of my subscribers beat me - here is how"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev pounced on an endgame mistake to beat GM Fabiano Caruana in round five of the 2025 Tata Steel Chess Masters and has now defeated the world numbers one, two, and four in the space of four months. GM Nodirbek Abdusattorov caught...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-5",
-         "pubDate" : "Wed, 22 Jan 2025 12:51:00",
-         "title" : "Fedoseev Beats Caruana; Abdusattorov, Gukesh Also Win Before Showdown"
       },
       {
          "description" : " Praggnanandhaa took the sole lead of the Tata Steel Masters after four rounds, half a point clear of Nodirbek Abdusattorov who struggled to a draw after missing an early chance. It is still very early days of the Tata Steel tournament and Praggnanandhaa has started well before only to fall away. Today he had white against Leon Luke Mendonca, the lowest rated player in the tournament and clearly struggling. Praggnanandhaa had a serious advantage by move 16 and was clearly winning by move 27. Joint leader Abdusattorov had a chance to be much better with 15.c5! instead 15.Bf4? left Wei Yi pressing for a few moves but by move 24 the game was equal and drawn on move 35. Arjun Erigaisi was one of",
