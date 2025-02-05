@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren remains at the top of the FIDE Circuit 2025 standings, having earned 40.64 points from his world title match against Gukesh Dommaraju. Following the Tata Steel Masters, Praggnanandhaa Ramesbabu has moved into second place, while Gukesh and Nodirbek Abdusattorov follow closely behind. Other players who participated in the Wijk aan Zee event have also entered the leaderboard. With six circuit-eligible tournaments scheduled for February, the standings are expected to evolve in the coming weeks.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-circuit-2025-february-standings",
+         "pubDate" : "Wed, 05 Feb 2025 12:00:00",
+         "title" : "FIDE Circuit: Ding Liren leads as Tata Steel top finishers join the race"
+      },
+      {
+         "description" : "Sad news reached the ECF Office this morning when Stewart Reuben's niece informed us that Stewart has passed away in Jamaica, whilst on a cruise. More details will be added...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/stewart-reuben-rip/",
+         "pubDate" : "Wed, 05 Feb 2025 10:13:19",
+         "title" : "Stewart Reuben RIP"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3412",
+         "pubDate" : "Wed, 05 Feb 2025 09:29:53",
+         "title" : "FIDE Infinite Project concludes successful educational visit in Abu Dhabi"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117933542.cms\" />Grandmaster R Praggnanandhaa clinched his first Tata Steel Chess title in Wijk aan Zee by defeating D Gukesh in tie-breakers. His achievement follows a challenging year in 2024 where he finished fifth at the Candidates Tournament. Winning this event made him the second Indian after Viswanathan Anand to do so.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-qualifiers-2025-report",
          "pubDate" : "Tue, 04 Feb 2025 19:45:00",
          "title" : "Vedant Panesar victorious at Tata Steel Qualifiers"
+      },
+      {
+         "description" : "This is post no.3800 on this blog, meaning that it's time for another 'Breaking the Barrier' post. The previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/02/breaking-3700-barrier.html\">Breaking the 3700 Barrier</A> (February 2024), was a little more than a year ago. At that time I noted, <BLOCKQUOTE> We have one engine [rated] over 3800 (Stockfish 16), 15 engines over 3700, and (not shown) 11 engines over 3600. [...] See you a year from now for the '3800 Barrier'. </BLOCKQUOTE> <P> The chart below shows the current ratings of the top engines as calculated by the same source. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb04.gif\" WIDTH=400 HEIGHT=265><BR> <A H",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/breaking-3800-barrier.html",
+         "pubDate" : "Tue, 04 Feb 2025 16:59:00",
+         "title" : "Breaking the 3800 Barrier"
       },
       {
          "description" : "The next Grassroots assessment takes place on 1st March. A report in January's ChessMoves outlines awards to date, but 80% of the allocation of regional funds (initially &pound;90,000) remains unspent....",
