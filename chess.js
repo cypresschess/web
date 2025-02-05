@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sagar Shah is the founder of ChessBase India, a trainer, organiser and author. He is a regular guest at top tournaments around the world and has made countless videos filming chess events and interviewing top players and organisers. But during a visit to the ChessBase studio he changed roles and was interviewed. He talked to Johannes Fischer about his enthusiasm for chess, his chess career, his chess wedding and revealed why he is fascinated by mountain climbing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-joyful-passion-for-chess-an-interview-with-sagar-shah",
+         "pubDate" : "Wed, 05 Feb 2025 20:05:34",
+         "title" : "\"A joyful passion for chess\" - An interview with Sagar Shah"
+      },
+      {
+         "description" : "The 8th edition of the \"Ciudad de Montevideo Open\" is underway at the Montevideo Municipality Conference Center, bringing together players from across South America. With over $5,000 in prizes, the tournament has attracted top players such as Egyptian GM Samy Shoker and Argentine IMs Lucas Coro and Julian Villca. After five rounds, four players share the lead. Meanwhile, the Chess Promotional Tournament offers a platform for amateurs and players rated under 1800.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ciudad-montevideo-2025-r5",
+         "pubDate" : "Wed, 05 Feb 2025 18:25:00",
+         "title" : "Ciudad de Montevideo Open taking place in Uruguay"
+      },
+      {
          "description" : "Ding Liren remains at the top of the FIDE Circuit 2025 standings, having earned 40.64 points from his world title match against Gukesh Dommaraju. Following the Tata Steel Masters, Praggnanandhaa Ramesbabu has moved into second place, while Gukesh and Nodirbek Abdusattorov follow closely behind. Other players who participated in the Wijk aan Zee event have also entered the leaderboard. With six circuit-eligible tournaments scheduled for February, the standings are expected to evolve in the coming weeks.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -422,7 +438,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-january-31-2025",
-         "pubDate" : "Fri, 31 Jan 2025 12:33:06",
+         "pubDate" : "Fri, 31 Jan 2025 12:33:00",
          "title" : "Bortnyk Outlasts Carlsen, Nakamura In Freestyle Friday"
       },
       {
@@ -918,7 +934,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-january-24-2025",
-         "pubDate" : "Fri, 24 Jan 2025 11:11:08",
+         "pubDate" : "Fri, 24 Jan 2025 11:11:00",
          "title" : "Carlsen Makes Opening Statement In 1st Freestyle Friday"
       },
       {
