@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess Grand Slam Tour is set to begin with its inaugural tournament in Weissenhaus, Germany, from 7 to 14 February. This new five-event series, featuring elite players competing in the Freestyle Chess format (a.k.a. chess960), marks a significant addition to the chess calendar. With a structured format combining rapid and classical games and a $660,000 prize fund, the tour aims to establish itself as a premier competition. World number one Magnus Carlsen and world champion Gukesh Dommaraju will both be competing. | Photos: Gregor Poniewasz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-preview",
+         "pubDate" : "Thu, 06 Feb 2025 12:25:00",
+         "title" : "The Freestyle Chess Grand Slam kicks off in Weissenhaus: Format and general information"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3413",
+         "pubDate" : "Thu, 06 Feb 2025 10:59:50",
+         "title" : "EDU Commission announces its 22nd \"Preparation of Teachers\" course"
+      },
+      {
+         "description" : "The first quarterly meeting of the ECU Executive Board for 2025 took place on 11th January in Monte Carlo, Monaco, during the European Women's Rapid and Blitz Chess Championship. The Monaco federation, known for its great hospitality, organised the tournament and the board meeting in excellent conditions. Main information and decisions European Chess Championships &#38; Tournaments Sponsors and Partnerships",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting/",
+         "pubDate" : "Thu, 06 Feb 2025 09:53:35",
+         "title" : "Communique of the ECU Board Meeting"
+      },
+      {
          "description" : "Sagar Shah is the founder of ChessBase India, a trainer, organiser and author. He is a regular guest at top tournaments around the world and has made countless videos filming chess events and interviewing top players and organisers. But during a visit to the ChessBase studio he changed roles and was interviewed. He talked to Johannes Fischer about his enthusiasm for chess, his chess career, his chess wedding and revealed why he is fascinated by mountain climbing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,14 +1320,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/january-1975-2000-on-cover.html",
          "pubDate" : "Thu, 16 Jan 2025 16:09:00",
          "title" : "January 1975 & 2000 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3387",
-         "pubDate" : "Thu, 16 Jan 2025 08:48:58",
-         "title" : "Call for Bids FIDE World Championships 2025 and 2026 concluded"
       }
    ]
 }
