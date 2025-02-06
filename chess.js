@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levy Rozman is the world's most successful chess streamer. His YouTube channel Gotham Chess has 5.94 million subscribers, hundreds of thousands of whom regularly watch the 29-year-old New Yorker talking almost every day about current chess events and analysing games. But on 4 February, on his way to the Freestyle Grand Slam in Weissenhaus, Rozman presented himself live to his fans in Hamburg. German GM Jan Gustafsson and IM Georgios \"The Big Greek\" Souleidis, Germany's most successful streamer, supported Rozman as special guests.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/internetstar-levy-gotham-chess-rozman-live-in-hamburg",
+         "pubDate" : "Thu, 06 Feb 2025 15:28:00",
+         "title" : "Internet star Levy \"Gotham Chess\" Rozman live in Hamburg"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam Tour is set to begin with its inaugural tournament in Weissenhaus, Germany, from 7 to 14 February. This new five-event series, featuring elite players competing in the Freestyle Chess format (a.k.a. chess960), marks a significant addition to the chess calendar. With a structured format combining rapid and classical games and a $660,000 prize fund, the tour aims to establish itself as a premier competition. World number one Magnus Carlsen and world champion Gukesh Dommaraju will both be competing. | Photos: Gregor Poniewasz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting/",
          "pubDate" : "Thu, 06 Feb 2025 09:53:35",
          "title" : "Communique of the ECU Board Meeting"
+      },
+      {
+         "description" : "This isn't just another chess tournament though, with a public spat between Carlsen and the promoters of the FCGT with FIDE in the build-up to the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43715967/gukesh-carlsen-freestyle-grand-chess-tour-feud-fide-explained?device=featurephone",
+         "pubDate" : "Thu, 6 Feb 2025 06:50:25",
+         "title" : "Gukesh, Carlsen in Freestyle Grand Chess Tour and feud with FIDE: explained"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo by Caroline King<br> <br> <br> <br> Finishing in clear first place, GM Jianchao Zhou won the US Chess 2024 Grand Prix with 699.529 tournament points. GM Fidel Corrales Jimenez was second with 334.705 points, ahead of GM Awonder Liang in third with 198.633 points. Zhou bested his 2023 finish by over 130 points, while Corrales finished as runner-up once again. Last year's third-place finisher, GM Mikhail Antipov, finished this year in fourth with 192.992 points, just behind Liang.Zhou earns $5,000 for his first-place finish, with Corrales taking home $2,500 for second and Liang $1,000 for third. The t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/jianchao-zhou-repeats-2024-grand-prix-winner",
+         "pubDate" : "Thu, 06 Feb 2025 00:00:00",
+         "title" : "Jianchao Zhou Repeats as 2024 Grand Prix Winner"
       },
       {
          "description" : "Sagar Shah is the founder of ChessBase India, a trainer, organiser and author. He is a regular guest at top tournaments around the world and has made countless videos filming chess events and interviewing top players and organisers. But during a visit to the ChessBase studio he changed roles and was interviewed. He talked to Johannes Fischer about his enthusiasm for chess, his chess career, his chess wedding and revealed why he is fascinated by mountain climbing.",
@@ -210,14 +234,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 3 (Andy, Brew, and Tani return)"
       },
       {
-         "description" : "The 2025 Tata Steel Chess Tournament concluded with a thrilling final day in both the Masters and Challengers sections. Praggnanandhaa Rameshbabu emerged as the Masters champion after defeating fellow Indian star Gukesh Dommaraju in a dramatic blitz playoff. The classical games saw Arjun Erigaisi and Vincent Keymer upsetting the frontrunners, while Max Warmerdam stunned top seed Fabiano Caruana. In the Challengers, Thai Dai Van Nguyen claimed first place on tiebreaks, securing a spot in next year's Masters after finishing level on points with Aydin Suleymanli. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-13",
-         "pubDate" : "Mon, 03 Feb 2025 18:00:00",
-         "title" : "Praggnanandhaa beats Gukesh in dramatic tiebreaker, wins Tata Steel Masters"
-      },
-      {
          "description" : "One of the insights from my recent explorations into AI Comics was that people's likenesses are best rendered using the '3D Render' style. Consider the images produced for the recent post <A HREF=\"https://chessforallages.blogspot.com/2025/01/color-proteins.html\">Color the Proteins</A> (January 2025; 'Demis Hassabis plays chess ...'). <P> Another insight was that AI Comics are perfectly happy to create images of inanimate objects playing chess. Consider the following images inspired by the world of economics and finance. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb03.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Kenneth Rogoff plays chess with money.'</B><BR> <A HREF=\"https://aicomi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -232,22 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3409",
          "pubDate" : "Mon, 03 Feb 2025 16:02:49",
          "title" : "Freestyle Chess Tour removes \"World Championship\" claim from regulations"
-      },
-      {
-         "description" : "Britain's top chess players will converge on Liverpool from July 31 to August 10 as the English Chess Federation's flagship annual event comes to the city for only the second time. The organisers hope to put on the strongest event in its 121-year history. It will culminate in new British champions being named at all age groups.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strongest-british-championship-in-st-george-s-hall",
-         "pubDate" : "Mon, 03 Feb 2025 14:27:14",
-         "title" : "Strongest British Championship in St George's Hall"
-      },
-      {
-         "description" : "The Modern Steinitz (1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6!?) is an uncompromising counterattacking weapon that lets Black put White under pressure from the very start. With this course, you'll master two sharp and dynamic approaches: the swashbuckling Siesta Variation (5 c3 f5!) and the fiery Fishing Pole Attack (5 0-0 Bg4 6 h3 h5!).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tim-wall-countering-the-ruy-lopez-with-the-fighting-modern-steinitz",
-         "pubDate" : "Mon, 03 Feb 2025 07:26:38",
-         "title" : "Tim Wall: Countering the Ruy Lopez with the fighting Modern Steinitz"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117879362.cms\" />Viswanathan Anand has pulled out from the Freestyle Chess Grand Slam Tour. His new role as FIDE Vice President and tensions with Magnus Carlsen influenced his decision. The tour starts in Germany on February 7, with top players like Carlsen and Nakamura participating. Discussions are ongoing about the New Delhi leg and the use of the term 'World Championship'.",
@@ -280,14 +280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-defeats-gukesh-in-tiebreaker-to-clinch-tata-chess-title/articleshow/117872126.cms",
          "pubDate" : "Mon, 03 Feb 2025 01:32:47",
          "title" : "Praggnanandhaa defeats Gukesh in tiebreaker to clinch Tata Chess title"
-      },
-      {
-         "description" : "When should you take the plunge on a risky move? GM Jon Speelman explores this question by diving deep into a single position from his recent 4NCL game against IM Richard Palliser. Analysing a critical moment in the Caro-Kann, Speelman weighs the dangers of a bold knight leap and the fine margins between courage and calamity. His conclusion? Sometimes, the gamble is worth it - especially if the worst outcome is losing in style.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-224",
-         "pubDate" : "Sun, 02 Feb 2025 22:00:00",
-         "title" : "Jon Speelman: Reasonable doubt"
       },
       {
          "description" : " Praggnanandhaa won the 87th Tata Steel Chess tournament for his most impressive result of his career so far. The path to victory was not at all smooth and he had to show great determination on the final day. Praggnanandhaa shared the lead with World Champion Gukesh and I don't think anyone predicted both players would go down to a defeat. Gukesh was well beaten by a resurgent Arjun Erigaisi who said his confidence returned after beating Nodirbek Abdusattorov in Round 12. The game was a Petroff with opposite sides castling, Erigaisi always seemed at least equal, there was a weird exchange sacrifice which was supposed to be a bit better for Gukesh but after that it was all one way traffic and",
@@ -1106,14 +1098,6 @@ news_feed (
          "title" : "Praggnanandhaa leads Tata Steel Masters after four rounds - 4"
       },
       {
-         "description" : "The deadline for submitting the application is April 1, 2025 at 11:59 p.m. PDT. Incomplete applications will not be reviewed by the selection committee.If you are a current US Chess member and a high school junior or senior, you are eligible to apply for one of the following two awards:2025 National Scholar Chess Player Award - total of five $1,500 scholarships awarded.2025 The Scholar Chess Player Ambassador Award for players rated under 2000 - total of one $1,500 scholarship awarded.The scholarships are provided by the US Chess Trust, with a generous, supporting contribution from the National Scholastic Chess Foundation (NSCF), to recognize and encourage outstanding high school students wh",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-scholar-chess-player-awards",
-         "pubDate" : "Wed, 22 Jan 2025 00:00:00",
-         "title" : "The 2025 Scholar Chess Player Awards"
-      },
-      {
          "description" : "World Champion D Gukesh needed six hours to draw, while R Praggnanandhaa took the sole lead overall with 3.5/4",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1312,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3388",
          "pubDate" : "Fri, 17 Jan 2025 11:15:32",
          "title" : "FIDE President Arkady Dvorkovich interview: \"We need a long-term solution\""
-      },
-      {
-         "description" : "At the end of the old millennium, 25 years ago, the right side of last month's post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/december-1974-1999-on-cover.html\">December 1974 & 1999 'On the Cover'</A> (December 2024), announced, <BLOCKQUOTE> Whether you consider it to be the millennium or just the beginning of a new year, one thing is clear: Chess is still going strong. </BLOCKQUOTE> <P> At the start of the new millennium, also 25 years ago, it was business as usual. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa16.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Holiday in Harlem!' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQU",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/january-1975-2000-on-cover.html",
-         "pubDate" : "Thu, 16 Jan 2025 16:09:00",
-         "title" : "January 1975 & 2000 'On the Cover'"
       }
    ]
 }
