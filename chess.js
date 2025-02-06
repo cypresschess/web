@@ -58,6 +58,14 @@ news_feed (
          "title" : "Disappointing 2024, wanted it to change, says Praggnanandhaa"
       },
       {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we again focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming out p",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-3-andy-brew-tani-again",
+         "pubDate" : "Wed, 05 Feb 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 3 (Andy, Brew, & Tani Again!)"
+      },
+      {
          "description" : "Indian FM Vedant Panesar scored an unbeaten 6/9 to win the Tata Steel Chess Qualifiers 2025. This triumph earned him a place in the Challengers section of the 2026 edition. He finished a half point ahead of the field. FM Leandro Slagboom and FM Tim Grutter, both from the Netherlands, scored 5&frac12;/9 each. They secured second and third place respectively. The top three prizes were New in Chess book vouchers worth €90, €60 and €40 each respectively. More than the prize fund, advancing to the Challengers is a big deal for the champion. Photo: Lennart Ootes / Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-scholar-chess-player-awards",
          "pubDate" : "Wed, 22 Jan 2025 00:00:00",
          "title" : "The 2025 Scholar Chess Player Awards"
-      },
-      {
-         "description" : "This week's Wednesday Workout begins a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! There's no better place to start than with IM Carissa Yip, who boasted several strong wins in the rapid and a top-eight finish in the blitz. She even did us the favor of taking over our Twitter account for a few brief, glorious moments. In her own words, \"she may have lost the match, but she won our hearts.\" <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-1-yip-week",
-         "pubDate" : "Wed, 22 Jan 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 1 (Yip Week)"
       },
       {
          "description" : "World Champion D Gukesh needed six hours to draw, while R Praggnanandhaa took the sole lead overall with 3.5/4",
