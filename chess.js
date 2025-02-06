@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In their latest episode of \"Two Knights Talk\", Johannes Fischer and Arne K&auml;hler welcome Katharina Reinecke, the well-known and popular German streamer. They discuss the pros and cons of Freestyle Chess, the upcoming Freestyle Tournament in Weissenhaus, the Tata Steel tournament in Wijk aan Zee, the performance of Faustino Oro in Wijk and Levy Rozman's qualities as an entertainer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-with-katharina-reinecke",
+         "pubDate" : "Thu, 06 Feb 2025 19:49:08",
+         "title" : "Two Knights Talk: With Katharina Reinecke"
+      },
+      {
          "description" : "Levy Rozman is the world's most successful chess streamer. His YouTube channel Gotham Chess has 5.94 million subscribers, hundreds of thousands of whom regularly watch the 29-year-old New Yorker talking almost every day about current chess events and analysing games. But on 4 February, on his way to the Freestyle Grand Slam in Weissenhaus, Rozman presented himself live to his fans in Hamburg. German GM Jan Gustafsson and IM Georgios \"The Big Greek\" Souleidis, Germany's most successful streamer, supported Rozman as special guests.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "The Freestyle Chess Grand Slam kicks off in Weissenhaus: Format and general information"
       },
       {
+         "description" : "Polish number-one GM Jan-Krzysztof Duda&#38;rsquo;s greatest achievement so far is winning the 2021 FIDE World Cup, but in a recent interview the 26-year-old described that as &#38;ldquo;a big step backward&#38;rdquo; for his career. He revealed he&#38;rsquo;d st...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-crisis-quitting-chess",
+         "pubDate" : "Thu, 06 Feb 2025 12:21:42",
+         "title" : "Duda On \"Crisis Of Faith\" And Thoughts Of Quitting Chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3413",
          "pubDate" : "Thu, 06 Feb 2025 10:59:50",
          "title" : "EDU Commission announces its 22nd \"Preparation of Teachers\" course"
+      },
+      {
+         "description" : "Two of the chess world&#39;s hottest young stars, GMs Volodar Murzin and Arjun Erigaisi, have become two of the first players to sign with major Esports organizations ahead of the 2025 Esports World Cup (EWC). Chess will make its historic debut at t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-murzin-first-stars-to-sign-deals-with-esports-teams",
+         "pubDate" : "Thu, 06 Feb 2025 10:42:00",
+         "title" : "Arjun, Murzin Become First Chess Stars Signed Ahead Of Esports World Cup"
       },
       {
          "description" : "The first quarterly meeting of the ECU Executive Board for 2025 took place on 11th January in Monte Carlo, Monaco, during the European Women's Rapid and Blitz Chess Championship. The Monaco federation, known for its great hospitality, organised the tournament and the board meeting in excellent conditions. Main information and decisions European Chess Championships &#38; Tournaments Sponsors and Partnerships",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/43715967/gukesh-carlsen-freestyle-grand-chess-tour-feud-fide-explained?device=featurephone",
-         "pubDate" : "Thu, 6 Feb 2025 06:50:25",
+         "pubDate" : "Thu, 6 Feb 2025 07:44:46",
          "title" : "Gukesh, Carlsen in Freestyle Grand Chess Tour and feud with FIDE: explained"
       },
       {
@@ -970,14 +994,6 @@ news_feed (
          "title" : "Final Report of 13th National Schools Chess Championship,2025"
       },
       {
-         "description" : "Russian and Belarusian teams will again be allowed to compete in youth and disabled team events, the International Chess Federation (FIDE) announced today. The world governing chess body said in its statement on Friday that they will allow Russi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-eases-restrictions-on-russian-and-belarusian-teams",
-         "pubDate" : "Fri, 24 Jan 2025 10:10:00",
-         "title" : "FIDE Eases Ban On Russian, Belarusian Youth & Disabled Teams"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/24/chess-dommaraju-gukesh-recovers-from-brush-with-disaster-at-wijk-aan-zee",
          "pubDate" : "Fri, 24 Jan 2025 08:00:04",
          "title" : "Chess: Dommaraju Gukesh recovers from brush with disaster at Wijk aan Zee"
-      },
-      {
-         "description" : "The Swedish chess community had an unforgettable moment this week when living legend GM Pia Cramling and her daughter WFM Anna Cramling made a surprise appearance on national television during one of Sweden&#39;s most-watched events.&#38;nbsp; The duo t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cramlings-make-surprise-tv-appearance-a-win-for-chess",
-         "pubDate" : "Fri, 24 Jan 2025 03:59:53",
-         "title" : "Cramlings Make Surprise TV Appearance: 'A Triumph For Chess'"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The BlitzFuel Invitational, held January 16 through 20, was a new name (featuring a new sponsor: the self-proclaimed official energy drink of chess) for the most recent NYC Chess Norms' invitational. But the outcome was what we've come to expect: several norms from talented, up-and-coming players. This was the 20th NYC Chess Norms event, and, with three norms across the four norm-eligible sections, the grand total of norms earned across these invitationals is now up to 50! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy of NYC Chess Norms<br> <br> <br> <br> In the",
