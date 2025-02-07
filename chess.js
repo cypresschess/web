@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 faces Gukesh as the new Freestyle Grand Slam gets under way following a row over the circuit's status An imminent showdown between Magnus Carlsen, the world No1, and Gukesh Dommaraju, the youngest ever world champion, has been overshadowed this week <a href=\"https://www.theguardian.com/sport/2025/feb/04/magnus-carlsen-calls-international-chess-president-quit-arkady-dvorkovich-freestyle-grand-slam\">by a bitter war of words</a> between the global body Fide and Jan-Henric Buettner, the Freestyle Chess founder and chief. This dispute has since been kicked into the future by an uneasy truce. The issue was whether Freestyle's new global <a href=\"https://www.freestyle-chess.com/\">$3",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/feb/07/chess-magnus-carlsen-meets-world-champion-gukesh-dommaraju-after-freestyle-truce-called",
+         "pubDate" : "Fri, 07 Feb 2025 08:00:40",
+         "title" : "Chess: Carlsen meets world champion Gukesh after Freestyle truce called"
+      },
+      {
          "description" : " The Freestyle Grand Slam Weissenhaus is the first in a series of rebranded Chess960 (Hans-Walter Schmitt organised a series of events in Germany and coined this name) events trying to popularise a format espoused by Bobby Fischer in 1993 and launched by him in Argentina in 1996, the idea itself is very old going back to at least the 18th Century. The format has never found favour amongst regular players because it seeks to solve problems they don't really have, an exhaustion of opening choices, unwillingness to spend massive amounts of time preparing openings and boredom with the original game. Most players like having openings they can start the game with and the regular opening position i",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -46,8 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-crisis-quitting-chess",
-         "pubDate" : "Thu, 06 Feb 2025 12:21:42",
-         "title" : "Duda On \"Crisis Of Faith\" And Thoughts Of Quitting Chess"
+         "pubDate" : "Thu, 06 Feb 2025 12:21:00",
+         "title" : "Duda On 'Crisis Of Faith' And Thoughts Of Quitting Chess"
       },
       {
          "description" : "",
