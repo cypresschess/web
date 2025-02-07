@@ -26,12 +26,20 @@ news_feed (
          "title" : "Certificate : SNA held in Raipur ,Chhattisgarh from 04- 05 January 2025"
       },
       {
-         "description" : " The world No 1 faces Gukesh as the new Freestyle Grand Slam gets under way following a row over the circuit's status An imminent showdown between Magnus Carlsen, the world No1, and Gukesh Dommaraju, the youngest ever world champion, has been overshadowed this week <a href=\"https://www.theguardian.com/sport/2025/feb/04/magnus-carlsen-calls-international-chess-president-quit-arkady-dvorkovich-freestyle-grand-slam\">by a bitter war of words</a> between the global body Fide and Jan-Henric Buettner, the Freestyle Chess founder and chief. This dispute has since been kicked into the future by an uneasy truce. The issue was whether Freestyle's new global <a href=\"https://www.freestyle-chess.com/\">$3",
+         "description" : " The world No 1 faces Gukesh as the new Freestyle Grand Slam gets under way following a row over the circuit's status An imminent showdown between Magnus Carlsen, the world No 1, and Gukesh Dommaraju, the youngest ever world champion, has been overshadowed this week <a href=\"https://www.theguardian.com/sport/2025/feb/04/magnus-carlsen-calls-international-chess-president-quit-arkady-dvorkovich-freestyle-grand-slam\">by a bitter war of words</a> between the global body Fide and Jan-Henric Buettner, the Freestyle Chess founder and chief. This dispute has since been kicked into the future by an uneasy truce. The issue was whether Freestyle's new global <a href=\"https://www.freestyle-chess.com/\">$",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/feb/07/chess-magnus-carlsen-meets-world-champion-gukesh-dommaraju-after-freestyle-truce-called",
          "pubDate" : "Fri, 07 Feb 2025 08:00:40",
          "title" : "Chess: Carlsen meets world champion Gukesh after Freestyle truce called"
+      },
+      {
+         "description" : "GM Magnus Carlsen rules out any cooperation with FIDE and its current administration but insists he is not trying to take down classical chess with his new Freestyle Chess project. The $750,000 Freestyle Chess Grand Slam Weissenhaus will start w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-before-freestyle-chess-not-trying-to-take-down-classical-chess",
+         "pubDate" : "Fri, 07 Feb 2025 05:30:00",
+         "title" : "Magnus Carlsen Rules Out Playing FIDE Events As Freestyle Chess Grand Slam Begins"
       },
       {
          "description" : " The Freestyle Grand Slam Weissenhaus is the first in a series of events aimed at promoting the chess variant also known as Chess960, 9LX or Fischer Random Chess. The event is financed by German entrepreneur Jan Henric Buettner and backed by former World Chess Champion Magnus Carlsen. The remaining events of the Freestyle Chess Grand Slam Tour are: Paris April 8-15, New York July 17-24 New Delhi September 17-24 and Cape Town December 5-12. The first event of the series takes place in a resort owned by Buettner in Wangels, Germany 7th to 14th February 2025. Players: Carlsen, Caruana, Nakamura, Gukesh, Abdusattorov, Firouzja, Aronian, Keymer, Fedoseev and Sindarov. A rapid round robin is follo",
@@ -1000,14 +1008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43552636/gukesh-pulls-big-escape-stay-reach-leaders-round-6-tata-steel-chess?device=featurephone",
          "pubDate" : "Fri, 24 Jan 2025 23:02:40",
          "title" : "Gukesh pulls off big escape to stay within reach of leaders in Round 6 of Tata Steel Chess"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov was at his ruthless best as he built up a winning advantage against GM Gukesh Dommaraju in round six of the 2025 Tata Steel Chess Masters, but the world champion once more demonstrated incredible resistance to escape with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 24 Jan 2025 14:47:00",
-         "title" : "Gukesh Pulls Off Great Escape Against Abdusattorov"
       },
       {
          "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In all there were 1216 children representing 28 states and union territories took part in the 13th national schools chess championship covering 12 categories",
