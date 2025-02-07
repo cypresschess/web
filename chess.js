@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Freestyle Grand Slam Weissenhaus is the first in a series of rebranded Chess960 (Hans-Walter Schmitt organised a series of events in Germany and coined this name) events trying to popularise a format espoused by Bobby Fischer in 1993 and launched by him in Argentina in 1996, the idea itself is very old going back to at least the 18th Century. The format has never found favour amongst regular players because it seeks to solve problems they don't really have, an exhaustion of opening choices, unwillingness to spend massive amounts of time preparing openings and boredom with the original game. Most players like having openings they can start the game with and the regular opening position i",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-weissenhaus-2025",
+         "pubDate" : "Fri, 7 Feb 2025 01:13:00",
+         "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
+      },
+      {
          "description" : "In their latest episode of \"Two Knights Talk\", Johannes Fischer and Arne K&auml;hler welcome Katharina Reinecke, the well-known and popular German streamer. They discuss the pros and cons of Freestyle Chess, the upcoming Freestyle Tournament in Weissenhaus, the Tata Steel tournament in Wijk aan Zee, the performance of Faustino Oro in Wijk and Levy Rozman's qualities as an entertainer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
