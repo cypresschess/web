@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On February 9, 2025, the KCF Academy subscribers will have the opportunity to meet with an extraordinary Player during a live Sunday session. Peter Svidler is one of the most accomplished chess grandmasters of his generation. His career is marked by numerous victories and a consistent presence in elite tournaments. He is regarded as one of the foremost experts on the Gr&uuml;nfeld Defense, a dynamic and complex opening, that is not everybody&acute;s cup of tea.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-peter-svidler-s-live-lecture",
+         "pubDate" : "Fri, 07 Feb 2025 20:03:08",
+         "title" : "KCF: Peter Svidler's Live Lecture"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
+         "description" : "Freestyle Friday on February 7 was no less entertaining with another Freestyle Chess event happening at the same time. By the end of the seventh round, none of the 437 players had a perfect score, leaving the identity of the final victor in suspen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vokhidov-wins-freestyle-friday-february-7-2025",
+         "pubDate" : "Fri, 07 Feb 2025 11:30:56",
+         "title" : "Freestyle Friday Comes Down To Final Round"
+      },
+      {
          "description" : "The Tata Steel Challengers tournament once again showcased the remarkable rise of young chess talents. Among the standout participants were three exceptionally young players: Faustino Oro (11), Lu Miaoyi (14) and Ediz G&uuml;rel (16). Competing against strong opposition, they demonstrated skill and resilience in their performances. We take a closer look at how each of them fared in Wijk aan Zee. | Photos: Tata Steel Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/lu-oro-gurel-performance-tata-steel-2025",
          "pubDate" : "Fri, 07 Feb 2025 10:25:00",
          "title" : "Lu, Oro and G&uuml;rel: How did the youngest participants fare in Wijk?"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2025 Weissenhaus Freestyle Chess Grand Slam on 4.5/5 on a day when both took down GM Magnus Carlsen. The defending champion also lost to GM Vladimir Fedoseev, but scored two wins to join the likes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-1",
+         "pubDate" : "Fri, 07 Feb 2025 10:04:00",
+         "title" : "Caruana, Sindarov Beat Carlsen To Lead Weissenhaus Grand Slam"
       },
       {
          "description" : "Please find certificates here No. Name1 HARIVANSH AGRAWAL2 MAMTA DEWANGAN3 RAVI SHARMA4 PARESH BUDHWANI5 AKSHAT KHAMPARIA6 VINOD KUMAR SHARMA7 GUPTA ANAND8 JAISWAL S R9 VIKASH",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-weissenhaus-2025",
          "pubDate" : "Fri, 7 Feb 2025 01:13:00",
          "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we work to resolve this issue.This page will be updated with future announcements as we work to resolve this situation.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tla-notification-system-undergoing-maintenance",
+         "pubDate" : "Fri, 07 Feb 2025 00:00:00",
+         "title" : "TLA Notification System Undergoing Maintenance"
       },
       {
          "description" : "In their latest episode of \"Two Knights Talk\", Johannes Fischer and Arne K&auml;hler welcome Katharina Reinecke, the well-known and popular German streamer. They discuss the pros and cons of Freestyle Chess, the upcoming Freestyle Tournament in Weissenhaus, the Tata Steel tournament in Wijk aan Zee, the performance of Faustino Oro in Wijk and Levy Rozman's qualities as an entertainer.",
@@ -930,14 +962,6 @@ news_feed (
          "title" : "Fridrik Ólafsson turns 90!"
       },
       {
-         "description" : "Four months after winning his fourth Bullet Brawl title, GM Andrew Tang returned to the top spot in Saturday&#39;s event, notching 76 wins and six draws. When he finished with a winning score of 287, 65 points stood between Tang and his nearest challe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-january-25-2025",
-         "pubDate" : "Sat, 25 Jan 2025 16:30:00",
-         "title" : "Tang Wins 5th Bullet Brawl Title By 65-Point Margin"
-      },
-      {
          "description" : "Hey everyone, This article is a special one, and one that I thought about never sending out. I wrote it while sobbing in front of the TV, partly as therapy for myself and partly to help someone else in the same/similar shoes. I didnt' feel like editing anything, because it came straight from my heart. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -952,14 +976,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-bhubaneswar-from-16-to-17-december-2024/",
          "pubDate" : "Sat, 25 Jan 2025 11:34:09",
          "title" : "Certificate of SNA seminar held in Bhubaneswar from 16 to 17 December 2024"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju goes into the second half of the 2025 Tata Steel Chess Masters in the joint lead with GMs Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu after beating GM Pentala Harikrishna in round seven. GM Max Warmerdam sco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-7",
-         "pubDate" : "Sat, 25 Jan 2025 11:21:00",
-         "title" : "Gukesh Catches Leaders; Arjun Suffers 4th Loss"
       },
       {
          "description" : "National Under 13 Rank Name1 Reyan Md.2 Sherla Prathamesh3 Pranav Sai Ram R S4 Jval Saurin Patel5 Tanmay Rajbongshi6 Aadik Theophane Lenin7 Nimay Agrawal8 Rosh",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3395",
          "pubDate" : "Thu, 23 Jan 2025 00:14:29",
          "title" : "Tata Steel Masters 2025: Two share the lead after Round 5"
-      },
-      {
-         "description" : "US Chess welcomes Jacques deMoss as its new Deputy Executive Director.<br> <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Jacques deMoss<br> <br> A native of Lafayette, Louisiana, Jacques moved to Missouri almost 10 years ago and has made it his home along with his wife of 26 years, Melanie, and their son, Mason. Before joining US Chess, Jacques served as a litigation attorney, corporate general counsel, and nonprofit leader.He's stationed in the St. Louis office and is responsible for the business side of US Chess, including budgeting and oversight of Communications/Publications, HR, Accounting, and member complaint functions.Jacques holds a B.A. in economics/bus",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/demoss-hired-deputy-executive-director",
-         "pubDate" : "Thu, 23 Jan 2025 00:00:00",
-         "title" : "deMoss hired as Deputy Executive Director"
       },
       {
          "description" : "R Praggnanandhaa was joined in the lead by Nodirbek Abdusattorov, with D Gukesh only 0.5 behind them.",
