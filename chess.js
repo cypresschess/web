@@ -18,6 +18,14 @@ news_feed (
          "title" : "Internet star Levy \"Gotham Chess\" Rozman live in Hamburg"
       },
       {
+         "description" : "IM Justus Williams won Chess.com&#39;s inaugural 2025 NextGen Cup, an online round-robin tournament inviting 10 of the most talented players of the African diaspora. Finishing with 7.5 points after nine rounds, he won an exhilarating armageddon playof...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/williams-wins-2025-nextgen-cup",
+         "pubDate" : "Thu, 06 Feb 2025 14:56:00",
+         "title" : "Justus Williams Wins 1st NextGen Cup By Armageddon Win"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam Tour is set to begin with its inaugural tournament in Weissenhaus, Germany, from 7 to 14 February. This new five-event series, featuring elite players competing in the Freestyle Chess format (a.k.a. chess960), marks a significant addition to the chess calendar. With a structured format combining rapid and classical games and a $660,000 prize fund, the tour aims to establish itself as a premier competition. World number one Magnus Carlsen and world champion Gukesh Dommaraju will both be competing. | Photos: Gregor Poniewasz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +138,7 @@ news_feed (
          "title" : "Disappointing 2024, wanted it to change, says Praggnanandhaa"
       },
       {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we again focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming out p",
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we again focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming out party f",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-3-andy-brew-tani-again",
@@ -317,8 +325,16 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3407",
+         "pubDate" : "Sun, 02 Feb 2025 18:54:31",
+         "title" : "Call for Submissions: FIDE Veteran Support Program 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3410",
-         "pubDate" : "Sun, 02 Feb 2025 20:40:07",
+         "pubDate" : "Sun, 02 Feb 2025 18:40:07",
          "title" : "Praggnanandhaa R wins Tata Steel Masters 2025"
       },
       {
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-joins-d-gukesh-at-the-top-sets-up-epic-final-day-title-charge/articleshow/117842307.cms",
          "pubDate" : "Sat, 01 Feb 2025 20:33:39",
          "title" : "Pragg joins Gukesh at the top, sets up epic final-day title charge"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3407",
-         "pubDate" : "Sat, 01 Feb 2025 18:54:31",
-         "title" : "Call for Submissions: FIDE Veteran Support Program 2025"
       },
       {
          "description" : "The king of Bullet Brawl, GM Hikaru Nakamura, returned to the top of Chess.com&#39;s high-speed titled arena on Saturday, claiming the $400 first prize and extending his all-time win count to 35. To reach the winning score (261), he scored 72/81 and d...",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-6",
          "pubDate" : "Fri, 24 Jan 2025 14:47:00",
          "title" : "Gukesh Pulls Off Great Escape Against Abdusattorov"
-      },
-      {
-         "description" : "Welcome to Freestyle Friday! In the inaugural edition of this event, 476 players took their shot at becoming its first champion, a very auspicious sign in what is sure to become a can&#39;t-miss part of every week for players, spectators, and Freestyl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-freestyle-friday-january-24-2025",
-         "pubDate" : "Fri, 24 Jan 2025 11:11:00",
-         "title" : "Carlsen Makes Opening Statement In 1st Freestyle Friday"
       },
       {
          "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In all there were 1216 children representing 28 states and union territories took part in the 13th national schools chess championship covering 12 categories",
