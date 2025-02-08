@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The biggest myth in chess improvement is that it's complicated. I've worked with players at all levels, and time and time again, the simple plans-done right-lead to the most incredible results. If you break it down, only three things really matter to improve your chess. In the new version of my Next Level Training course, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/stay-consistent/",
+         "pubDate" : "Sat, 08 Feb 2025 14:00:00",
+         "title" : "The Biggest Myth in Chess Improvement: It's Not as Complex as You Think"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
          "pubDate" : "Sat, 08 Feb 2025 12:50:00",
          "title" : "Freestyle Chess Weissenhaus - Live!"
-      },
-      {
-         "description" : "The first day of the Freestyle Chess tournament in Weissenhaus featured the opening five rounds of the all-play-all qualifying stage. Fabiano Caruana and Javokhir Sindarov emerged as early leaders with 4&frac12;/5 points, while Nodirbek Abdusattorov sits in third place. Magnus Carlsen had a slow start, winning two games but also suffering three losses. With four more rounds to be played before the knockout stage, several players will need a strong second day to secure qualification. | Photo: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-1",
-         "pubDate" : "Sat, 08 Feb 2025 12:10:00",
-         "title" : "Weissenhaus Day 1: Caruana and Sindarov share the lead, Carlsen struggles"
       },
       {
          "description" : "In an earlier column, I lamented the looming death of classical chess. Tournament chess, as we know it, is under continuous threat from a deadly trio of Armageddon finishes (in which White has a time advantage but a draw with Black counts as a win), blitz (10 seconds a move), super-fast bullet games (one second a []",
@@ -66,14 +66,6 @@ news_feed (
          "title" : "Freestyle Friday Comes Down To Final Round"
       },
       {
-         "description" : "The Tata Steel Challengers tournament once again showcased the remarkable rise of young chess talents. Among the standout participants were three exceptionally young players: Faustino Oro (11), Lu Miaoyi (14) and Ediz G&uuml;rel (16). Competing against strong opposition, they demonstrated skill and resilience in their performances. We take a closer look at how each of them fared in Wijk aan Zee. | Photos: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lu-oro-gurel-performance-tata-steel-2025",
-         "pubDate" : "Fri, 07 Feb 2025 10:25:00",
-         "title" : "Lu, Oro and G&uuml;rel: How did the youngest participants fare in Wijk?"
-      },
-      {
          "description" : "Please find certificates here No. Name1 HARIVANSH AGRAWAL2 MAMTA DEWANGAN3 RAVI SHARMA4 PARESH BUDHWANI5 AKSHAT KHAMPARIA6 VINOD KUMAR SHARMA7 GUPTA ANAND8 JAISWAL S R9 VIKASH",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -114,14 +106,6 @@ news_feed (
          "title" : "TLA Notification System Undergoing Maintenance"
       },
       {
-         "description" : "In their latest episode of \"Two Knights Talk\", Johannes Fischer and Arne K&auml;hler welcome Katharina Reinecke, the well-known and popular German streamer. They discuss the pros and cons of Freestyle Chess, the upcoming Freestyle Tournament in Weissenhaus, the Tata Steel tournament in Wijk aan Zee, the performance of Faustino Oro in Wijk and Levy Rozman's qualities as an entertainer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-with-katharina-reinecke",
-         "pubDate" : "Thu, 06 Feb 2025 19:49:08",
-         "title" : "Two Knights Talk: With Katharina Reinecke"
-      },
-      {
          "description" : "A couple of weeks ago, I posted this blog's annual discussion of international ratings, <A HREF=\"https://chessforallages.blogspot.com/2025/01/fide-rating-list-january-2025.html\">FIDE Rating List - January 2025</A> (January 2025). I ended it saying, <BLOCKQUOTE> Last year's only followup post, <I>Players under the FIDE Flag</I> (January 2024), might be worth a revisit because FIDE's (FED = 'FID') percentage increase was the fourth highest [2025 over 2024]. </BLOCKQUOTE> <P> Here are the numbers for FIDE again:- <BLOCKQUOTE> <B>Fed\t\t2024\t2025\tIncr</B><BR> FID\t 798\t1008\t26.32% </BLOCKQUOTE> <P> That means the list had 210 more 'FIDE' players (i.e. listed without a national federation) at the st",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -130,28 +114,12 @@ news_feed (
          "title" : "New Players under the FIDE Flag"
       },
       {
-         "description" : "Levy Rozman is the world's most successful chess streamer. His YouTube channel Gotham Chess has 5.94 million subscribers, hundreds of thousands of whom regularly watch the 29-year-old New Yorker talking almost every day about current chess events and analysing games. But on 4 February, on his way to the Freestyle Grand Slam in Weissenhaus, Rozman presented himself live to his fans in Hamburg. German GM Jan Gustafsson and IM Georgios \"The Big Greek\" Souleidis, Germany's most successful streamer, supported Rozman as special guests.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/internetstar-levy-gotham-chess-rozman-live-in-hamburg",
-         "pubDate" : "Thu, 06 Feb 2025 15:28:00",
-         "title" : "Internet star Levy \"Gotham Chess\" Rozman live in Hamburg"
-      },
-      {
          "description" : "IM Justus Williams won Chess.com&#39;s inaugural 2025 NextGen Cup, an online round-robin tournament inviting 10 of the most talented players of the African diaspora. Finishing with 7.5 points after nine rounds, he won an exhilarating armageddon playof...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/williams-wins-2025-nextgen-cup",
          "pubDate" : "Thu, 06 Feb 2025 14:56:00",
          "title" : "Justus Williams Wins 1st NextGen Cup By Armageddon Win"
-      },
-      {
-         "description" : "The Freestyle Chess Grand Slam Tour is set to begin with its inaugural tournament in Weissenhaus, Germany, from 7 to 14 February. This new five-event series, featuring elite players competing in the Freestyle Chess format (a.k.a. chess960), marks a significant addition to the chess calendar. With a structured format combining rapid and classical games and a $660,000 prize fund, the tour aims to establish itself as a premier competition. World number one Magnus Carlsen and world champion Gukesh Dommaraju will both be competing. | Photos: Gregor Poniewasz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-preview",
-         "pubDate" : "Thu, 06 Feb 2025 12:25:00",
-         "title" : "The Freestyle Chess Grand Slam kicks off in Weissenhaus: Format and general information"
       },
       {
          "description" : "Polish number-one GM Jan-Krzysztof Duda&#38;rsquo;s greatest achievement so far is winning the 2021 FIDE World Cup, but in a recent interview the 26-year-old described that as &#38;ldquo;a big step backward&#38;rdquo; for his career. He revealed he&#38;rsquo;d st...",
@@ -200,14 +168,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/jianchao-zhou-repeats-2024-grand-prix-winner",
          "pubDate" : "Thu, 06 Feb 2025 00:00:00",
          "title" : "Jianchao Zhou Repeats as 2024 Grand Prix Winner"
-      },
-      {
-         "description" : "Sagar Shah is the founder of ChessBase India, a trainer, organiser and author. He is a regular guest at top tournaments around the world and has made countless videos filming chess events and interviewing top players and organisers. But during a visit to the ChessBase studio he changed roles and was interviewed. He talked to Johannes Fischer about his enthusiasm for chess, his chess career, his chess wedding and revealed why he is fascinated by mountain climbing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-joyful-passion-for-chess-an-interview-with-sagar-shah",
-         "pubDate" : "Wed, 05 Feb 2025 20:05:34",
-         "title" : "\"A joyful passion for chess\" - An interview with Sagar Shah"
       },
       {
          "description" : "Sad news reached the ECF Office this morning when Stewart Reuben's niece informed us that Stewart has passed away in Jamaica, whilst on a cruise. More details will be added...",
@@ -1320,14 +1280,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-earliest-queens-gambit-philidor-vs-stamma/",
          "pubDate" : "Sat, 18 Jan 2025 16:41:05",
          "title" : "The earliest Queen's Gambit: Philidor vs Stamma"
-      },
-      {
-         "description" : "Last week, I shared why 2024 was my best year yet. This week, I'm laying out my plan to help you crush your chess goals in 2025-and grow my business by doing it. Goals My main goal of the year is to 3x my business while working 6 hours a day, 5 days a week, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/main-goal-2025/",
-         "pubDate" : "Sat, 18 Jan 2025 14:00:00",
-         "title" : "Chess Improvement, Simplified: My Vision for 2025"
       }
    ]
 }
