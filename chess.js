@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118043967.cms\" />The 2025 Freestyle Chess Grand Slam began at Weissenhaus, Germany, featuring a rapid event to decide eight knockout contenders. Indian GM D Gukesh faced tough matches, while Javokhir Sindarov shined, defeating Magnus Carlsen and securing 4.5/5 points. Fabiano Caruana also advanced, and Carlsen's qualification hangs in the balance after three losses.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-2025-d-gukesh-remains-winless-magnus-carlsen-loses-thrice-as-javokhir-sindarov-shines-on-day-1/articleshow/118043967.cms",
+         "pubDate" : "Sat, 08 Feb 2025 01:03:22",
+         "title" : "Gukesh remains winless; Carlsen loses thrice on Day 1"
+      },
+      {
          "description" : "On February 9, 2025, the KCF Academy subscribers will have the opportunity to meet with an extraordinary Player during a live Sunday session. Peter Svidler is one of the most accomplished chess grandmasters of his generation. His career is marked by numerous victories and a consistent presence in elite tournaments. He is regarded as one of the foremost experts on the Gr&uuml;nfeld Defense, a dynamic and complex opening, that is not everybody&acute;s cup of tea.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.thearticle.com/paul-keres-the-eternal-estonian/",
          "pubDate" : "Sat, 25 Jan 2025 10:44:26",
          "title" : "Paul Keres: the eternal Estonian"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117540414.cms\" />Round 6 of the Tata Steel Chess Tournament 2025 saw Indian players making significant strides. Arjun Erigaisi drew with top-seeded Fabiano Caruana, while Praggnanandhaa and Gukesh also held their ground against strong opponents. Alexey Sarana scored the day's only decisive victory. In the Challengers section, Vaishali Rameshbabu secured a draw, but Divya Deshmukh suffered a defeat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-stays-on-top-d-gukesh-arjun-erigaisi-fight-to-gritty-draws/articleshow/117540414.cms",
-         "pubDate" : "Sat, 25 Jan 2025 01:44:38",
-         "title" : "Praggnanandhaa stays on top; Gukesh, Erigaisi fight to gritty draws"
       },
       {
          "description" : " Nodirbek Abdusattorov continues to share the lead with Praggnanandhaa on 4.5/6 after both drew their games today. Praggnanandhaa drew a well conducted Open Spanish against Wei Yi where there weren't any clear chances for either player. In contrast Abdusattorov built up a winning position against World Champion Gukesh only to let it slip at the end. Gukesh remains very much in touch half a point behind the leaders. There was in fact only one decisive game today where Alexey Sarana beat Vladimir Fedoseev in a complicated Queen's Gambit where Fedoseev started to go wrong about move 20 and resigned on move 45. Arjun Erigaisi is having a nightmare of a tournament, it turns out he was a little si",
