@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Grand Swiss and Women's Grand Swiss will take place in Samarkand, Uzbekistan, from 3 to 15 September, marking the first time the event is hosted in the country. With a growing chess presence and past successes in global tournaments, Uzbekistan continues to establish itself as a major hub for the game. The tournament will offer direct qualification spots for the 2026 Candidates and an increased prize fund of at least 30%.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2025-announcement",
+         "pubDate" : "Sat, 08 Feb 2025 19:00:00",
+         "title" : "FIDE Grand Swiss 2025 to be held in Samarkand, Uzbekistan"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118071926.cms\" />World Champion D Gukesh advanced to the knockout stage of the Freestyle Grand Slam Tour despite losing to Magnus Carlsen in the final round. Gukesh secured eighth place with 3.5 points. Alireza Firouzja and Javokhir Sindarov topped the table, followed by Fabiano Caruana. The event features a USD 750,000 prize pool.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-qualifies-for-knockout-stage/articleshow/118071926.cms",
+         "pubDate" : "Sat, 08 Feb 2025 17:00:32",
+         "title" : "Freestyle Chess: D Gukesh qualifies for knockout stage"
+      },
+      {
          "description" : "The biggest myth in chess improvement is that it's complicated. I've worked with players at all levels, and time and time again, the simple plans-done right-lead to the most incredible results. If you break it down, only three things really matter to improve your chess. In the new version of my Next Level Training course, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.thearticle.com/poker-not-chess-sudden-death-tiebreaks/",
          "pubDate" : "Sat, 08 Feb 2025 10:42:27",
          "title" : "Poker, not chess: 'sudden death' tiebreaks"
+      },
+      {
+         "description" : "GM Alireza Firouzja beat GM Javokhir Sindarov in the final round to win the 2025 Weissenhaus Freestyle Chess Grand Slam Round-Robin and get first pick of an opponent for Sunday&#39;s Quarterfinals. Big guns GMs Magnus Carlsen (who beat World Champion ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-2",
+         "pubDate" : "Sat, 08 Feb 2025 08:59:00",
+         "title" : "Firouzja Wins Rapid As Aronian, Fedoseev Knocked Out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118043967.cms\" />The 2025 Freestyle Chess Grand Slam began at Weissenhaus, Germany, featuring a rapid event to decide eight knockout contenders. Indian GM D Gukesh faced tough matches, while Javokhir Sindarov shined, defeating Magnus Carlsen and securing 4.5/5 points. Fabiano Caruana also advanced, and Carlsen's qualification hangs in the balance after three losses.",
@@ -906,22 +930,6 @@ news_feed (
          "title" : "Gukesh vs Pragg ends in draw; Erigaisi still winless after Round 8"
       },
       {
-         "description" : "GMs Fabiano Caruana and Wei Yi kept alive their hopes of winning a second Tata Steel Chess Masters title with late wins with Black to move within a point of GMs Gukesh Dommaraju, Nodirbek Abdusattorov, and Praggnanandhaa Rameshbabu. Caruana pounce...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-8",
-         "pubDate" : "Sun, 26 Jan 2025 11:55:00",
-         "title" : "Caruana, Wei Yi Join Tata Steel Chess Title Race"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117568918.cms\" />Gukesh Dommaraju shone in the Tata Steel Chess Tournament 2025, defeating Pentala Harikrishna and leading the Masters standings alongside Praggnanandhaa Rameshbabu and Nodirbek Abdusattorov. Arjun Erigaisi's struggles continued with a loss to Max Warmerdam. In the Challengers section, Divya Deshmukh fell to Miaoyi Lu while Vaishali Rameshbabu drew against Arthur Pijpers.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-beats-compatriot-pentala-harikrishna-joins-r-praggnanandhaa-at-the-top/articleshow/117568918.cms",
-         "pubDate" : "Sun, 26 Jan 2025 02:28:58",
-         "title" : "Tata Steel Chess: D Gukesh joins Praggnanandhaa at the top"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-starts-with-a-very-fortunate-win-against-giri-in-round-1-of-tata-steel-masters-2025",
          "pubDate" : "Sat, 18 Jan 2025 21:39:00",
          "title" : "Gukesh starts with a very fortunate win against Giri in Round 1 of Tata Steel Masters 2025 - 1"
-      },
-      {
-         "description" : "It's my own discovery! This week I hope to reveal a colossal advance in our knowledge of the early history of modern chess. The 1747 match in London between Stamma and Philidor is the earliest recorded contest between two leading protagonists which might be considered decisive for determining the strongest player in the chess world. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-earliest-queens-gambit-philidor-vs-stamma/",
-         "pubDate" : "Sat, 18 Jan 2025 16:41:05",
-         "title" : "The earliest Queen's Gambit: Philidor vs Stamma"
       }
    ]
 }
