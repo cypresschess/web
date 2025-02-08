@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
+         "pubDate" : "Sat, 08 Feb 2025 12:50:00",
+         "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "The first day of the Freestyle Chess tournament in Weissenhaus featured the opening five rounds of the all-play-all qualifying stage. Fabiano Caruana and Javokhir Sindarov emerged as early leaders with 4&frac12;/5 points, while Nodirbek Abdusattorov sits in third place. Magnus Carlsen had a slow start, winning two games but also suffering three losses. With four more rounds to be played before the knockout stage, several players will need a strong second day to secure qualification. | Photo: Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-1",
+         "pubDate" : "Sat, 08 Feb 2025 12:10:00",
+         "title" : "Weissenhaus Day 1: Caruana and Sindarov share the lead, Carlsen struggles"
+      },
+      {
+         "description" : "In an earlier column, I lamented the looming death of classical chess. Tournament chess, as we know it, is under continuous threat from a deadly trio of Armageddon finishes (in which White has a time advantage but a draw with Black counts as a win), blitz (10 seconds a move), super-fast bullet games (one second a []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/poker-not-chess-sudden-death-tiebreaks/",
+         "pubDate" : "Sat, 08 Feb 2025 10:42:27",
+         "title" : "Poker, not chess: 'sudden death' tiebreaks"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118043967.cms\" />The 2025 Freestyle Chess Grand Slam began at Weissenhaus, Germany, featuring a rapid event to decide eight knockout contenders. Indian GM D Gukesh faced tough matches, while Javokhir Sindarov shined, defeating Magnus Carlsen and securing 4.5/5 points. Fabiano Caruana also advanced, and Carlsen's qualification hangs in the balance after three losses.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-1",
          "pubDate" : "Fri, 07 Feb 2025 14:40:00",
          "title" : "Caruana, Sindarov Beat Carlsen To Lead Weissenhaus Grand Slam"
-      },
-      {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Fri, 07 Feb 2025 12:50:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
          "description" : "D Gukesh drew four and lost one of his five games on the opening day of the Freestyle Chess Grand Tour in Weissenhauss, Germany",
