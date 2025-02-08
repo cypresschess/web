@@ -10,12 +10,28 @@ news_feed (
          "title" : "KCF: Peter Svidler's Live Lecture"
       },
       {
+         "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2025 Weissenhaus Freestyle Chess Grand Slam on 4.5/5 on a day when both took down GM Magnus Carlsen. The defending champion also lost to GM Vladimir Fedoseev, but scored two wins to join the likes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-1",
+         "pubDate" : "Fri, 07 Feb 2025 14:40:00",
+         "title" : "Caruana, Sindarov Beat Carlsen To Lead Weissenhaus Grand Slam"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
          "pubDate" : "Fri, 07 Feb 2025 12:50:00",
          "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "D Gukesh drew four and lost one of his five games on the opening day of the Freestyle Chess Grand Tour in Weissenhauss, Germany",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43735627/freestyle-chess-grand-tour-gukesh-goes-winless-five-games-opening-day?device=featurephone",
+         "pubDate" : "Fri, 7 Feb 2025 12:13:04",
+         "title" : "Freestyle Chess Grand Tour: Gukesh goes winless in five games on opening day"
       },
       {
          "description" : "Freestyle Friday on February 7 was no less entertaining with another Freestyle Chess event happening at the same time. By the end of the seventh round, none of the 437 players had a perfect score, leaving the identity of the final victor in suspen...",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lu-oro-gurel-performance-tata-steel-2025",
          "pubDate" : "Fri, 07 Feb 2025 10:25:00",
          "title" : "Lu, Oro and G&uuml;rel: How did the youngest participants fare in Wijk?"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2025 Weissenhaus Freestyle Chess Grand Slam on 4.5/5 on a day when both took down GM Magnus Carlsen. The defending champion also lost to GM Vladimir Fedoseev, but scored two wins to join the likes...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-1",
-         "pubDate" : "Fri, 07 Feb 2025 10:04:00",
-         "title" : "Caruana, Sindarov Beat Carlsen To Lead Weissenhaus Grand Slam"
       },
       {
          "description" : "Please find certificates here No. Name1 HARIVANSH AGRAWAL2 MAMTA DEWANGAN3 RAVI SHARMA4 PARESH BUDHWANI5 AKSHAT KHAMPARIA6 VINOD KUMAR SHARMA7 GUPTA ANAND8 JAISWAL S R9 VIKASH",
@@ -1304,22 +1312,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/main-goal-2025/",
          "pubDate" : "Sat, 18 Jan 2025 14:00:00",
          "title" : "Chess Improvement, Simplified: My Vision for 2025"
-      },
-      {
-         "description" : " The 87th Tata Steel Chess tournament starts on Saturday 18th January at 2pm local time. The pairings have been made and they are: Masters Round 1 pairings: Pentala Harikrishna - Arjun Erigaisi, Praggnanandhaa - Nodirbek Abdusattorov, Leon Luke Mendonca - Vincent Keymer, Max Warmerdam - Alexey Sarana, Wei Yi - Fabiano Caruana, Jorden van Foreest - Vladimir Fedoseev, Gukesh D - Anish Giri. Challengers Round 1 pairings: Divya Deshmukh - Nodirbek Yakubboev, Thai Dai van Nguyen - Arthur Pijpers Aydin Suleymanli - Benjamin Bok, Ediz Gurel - Irina Bulmaga, Erwin l'Ami - Frederik Svane, Faustino Oro - Rameshbabu Vaishali, Miaoyi Lu - Kazybek Nogerbek. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/tata-steel-chess-2025-round-1-pairings-gukesh-faces-giri",
-         "pubDate" : "Fri, 17 Jan 2025 21:02:00",
-         "title" : "Tata Steel Chess 2025 Round 1 Pairings, Gukesh faces Giri - 1"
-      },
-      {
-         "description" : " The 87th Tata Steel tournament takes place 17th January to 2nd February 2025. World Chess Champion Gukesh Dommaraju plays his first chess since beating Ding Liren for the title. World number two Fabiano Caruana is the top rated played followed by number four Erigaisi Arjun, five Gukesh, six Nodirbek Abdusattorov and number 9 and defending champion Wei Yei. Also playing (in no particular order) Pentala Harikrishna (a last minute replacement for Santosh Vidit), Praggnanandhaa, Leon Luke Mendonca, Vincent Keymer, Max Warmerdam, Alexey Sarana, Jorden van Foreest, Vladimir Fedoseev and last but definitely not least Anish Giri. The Challengers is yet again an interesting mix of players and streng",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025",
-         "pubDate" : "Fri, 17 Jan 2025 20:59:00",
-         "title" : "87th Tata Steel 2025 - Games and Results"
       }
    ]
 }
