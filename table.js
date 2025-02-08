@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2025-02-07","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502076532 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-01-31  - 02-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202502024602 target='_blank'>POISON PAWNS CLUB CHAMPIONSHIP 2025</a>",
 "HOUSTON","2025-02-01","226","<a href=http://www.uschess.org/msa/XtblMain.php?202502015362 target='_blank'>TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
 "HOUSTON","2025-02-01","5","<a href=http://www.uschess.org/msa/XtblMain.php?202502013042 target='_blank'>CHESSPANDA02012025SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-06-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406157342 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-06-14","32","<a href=http://www.uschess.org/msa/XtblMain.php?202406147692 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-06-14","8","<a href=http://www.uschess.org/msa/XtblMain.php?202406147322 target='_blank'>TOURNAMENTS/FBCC 2024 FLAG DAY OPEN</a>",
-"HOUSTON","2024-06-07  - 06-09","62","<a href=http://www.uschess.org/msa/XtblMain.php?202406095212 target='_blank'>$2,000 JUNE CHAMPIONSHIP</a>",
 ]);
