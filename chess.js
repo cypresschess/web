@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE Grand Swiss 2025 to be held in Samarkand, Uzbekistan"
       },
       {
+         "description" : "Two weeks after winning his first Bullet Brawl&#38;nbsp;title in 2025, GM Andrew Tang triumphed in Saturday&#39;s event with a score of 227, scooping up the $400 first prize in the process. 16-year-old GM Ediz Gurel finished in second place on 218 points ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-february-8-2025",
+         "pubDate" : "Sat, 08 Feb 2025 17:06:00",
+         "title" : "Tang Races To 6th Bullet Brawl Title Ahead Of Gurel, Martinez, Naroditsky"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118071926.cms\" />World Champion D Gukesh advanced to the knockout stage of the Freestyle Grand Slam Tour despite losing to Magnus Carlsen in the final round. Gukesh secured eighth place with 3.5 points. Alireza Firouzja and Javokhir Sindarov topped the table, followed by Fabiano Caruana. The event features a USD 750,000 prize pool.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
          "pubDate" : "Sat, 08 Feb 2025 12:50:00",
          "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "D Gukesh will play in the quarterfinals of the Freestyle Chess Grand Tour event in Weissenhauss, Germany",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43748759/freestyle-chess-grand-tour-gukesh-loses-carlsen-qualifies-knockouts?device=featurephone",
+         "pubDate" : "Sat, 8 Feb 2025 11:38:38",
+         "title" : "Freestyle Chess Grand Tour: Gukesh loses to Carlsen; still qualifies for knockouts"
       },
       {
          "description" : "In an earlier column, I lamented the looming death of classical chess. Tournament chess, as we know it, is under continuous threat from a deadly trio of Armageddon finishes (in which White has a time advantage but a draw with Black counts as a win), blitz (10 seconds a move), super-fast bullet games (one second a []",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43578611/praggnanandhaa-draws-gukesh-round-8-tata-steel-chess?device=featurephone",
          "pubDate" : "Mon, 27 Jan 2025 04:22:15",
          "title" : "Praggnanandhaa draws with Gukesh in table-top clash: Round 8 of Tata Steel Chess"
-      },
-      {
-         "description" : "German entrepreneur Jan Henric Buettner, the head of Freestyle Chess, has fired back at the International Chess Federation&#39;s (FIDE) threats of legal action, labeling it &#34;blackmail,&#34; and alleging that FIDE demanded $500,000 for the rights to use th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-jan-henric-buettner-fires-back-fide-ready-for-war",
-         "pubDate" : "Mon, 27 Jan 2025 00:52:00",
-         "title" : "Freestyle Chess Head Jan Henric Buettner Fires Back At FIDE: 'We Are Ready For War'"
       },
       {
          "description" : " The Tata Steel Masters enters a second rest day on Monday with a three way tie between Gukesh, Nodirbek Abdusattorov and Praggnanandhaa on 5.5/8, half a point clear of Vladimir Fedoseev on 5 points and in turn half a point clear of Alexey Sarana, Wei Yi and Fabiano Caruana on 4.5/8. The winner of this year's Masters will surely be one of these players. Today the leaders Praggnanandhaa and Gukesh drew a Berlin Ruy Lopez in 33 moves. A game not without interest but also not that thrilling either. Fabiano Caruana beat Vincent Keymer on the black side of an Exchange Queen's Gambit. Caruana had a chance after 27.Bc1? but played 27...Qe7 instead of 27...Nd6! Caruana had to wait for another mistak",
