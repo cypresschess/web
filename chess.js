@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Stephen Muhammad, an International Master and Georgia Hall of Fame nominee, passed away on December 8th, 2024, after a short battle with colon cancer. He was 62. According to an online obituary, Stephen leaves to cherish his memories: one sister: Cheryle (Harold) Stewart, Plaquemine, LA; four brothers, Michael Booth of Columbus, GA; Ronald Booth, Sr The post <a href=\"https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/\">Stephen Muhammad, pioneering International Master (1962-2024)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/",
+         "pubDate" : "Sun, 09 Feb 2025 16:04:35",
+         "title" : "Stephen Muhammad, pioneering International Master (1962-2024)"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3390",
          "pubDate" : "Sun, 19 Jan 2025 19:35:09",
          "title" : "Inclusion, change, impact: Highlights from the World Social Chess Initiatives Marathon"
-      },
-      {
-         "description" : "For the third time in less than a year, the monthly featured Flickr post contains two keywords: Shoreditch graffiti [street art]. The previous post was last month's <A HREF=\"https://chessforallages.blogspot.com/2024/12/hackney-wick-street-art.html\">Hackney Wick Street Art</A> (December 2024). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa19.jpg\" WIDTH=400 HEIGHT=265><BR> <A HREF=\"https://www.flickr.com/photos/maureen_barlin/54238113123/\">Festive Hair</A> &#169; Flickr user <I>Maureen Barlin [Mabacam]</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-nd/2.0/\">Creative Commons</A>.<BR> <P> The description said only, <BLOCKQUOTE> Streetart in Shoreditch, E.London.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html",
-         "pubDate" : "Sun, 19 Jan 2025 16:03:00",
-         "title" : "Chess Guy Likes to Talk"
       }
    ]
 }
