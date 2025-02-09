@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Let's go: In part 1 of our new tutorial series, we will show you how to quickly enter and save your own games. Just follow the explanations and screenshots and gradually build up your own database of games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-1-enter-and-save-your-games",
+         "pubDate" : "Sun, 09 Feb 2025 09:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 1: Enter and save your games"
+      },
+      {
+         "description" : "D Gukesh will play Fabiano Caruana in the quarterfinals of the Freestyle Chess Grand Tour event in Weissenhauss, Germany, on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43748759/freestyle-chess-grand-tour-gukesh-loses-carlsen-qualifies-knockouts?device=featurephone",
+         "pubDate" : "Sat, 8 Feb 2025 21:42:45",
+         "title" : "Freestyle Chess Grand Tour: Gukesh loses to Carlsen; still qualifies for knockouts"
+      },
+      {
          "description" : "The 2025 FIDE Grand Swiss and Women's Grand Swiss will take place in Samarkand, Uzbekistan, from 3 to 15 September, marking the first time the event is hosted in the country. With a growing chess presence and past successes in global tournaments, Uzbekistan continues to establish itself as a major hub for the game. The tournament will offer direct qualification spots for the 2026 Candidates and an increased prize fund of at least 30%.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
          "pubDate" : "Sat, 08 Feb 2025 12:50:00",
          "title" : "Freestyle Chess Weissenhaus - Live!"
-      },
-      {
-         "description" : "D Gukesh will play in the quarterfinals of the Freestyle Chess Grand Tour event in Weissenhauss, Germany",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43748759/freestyle-chess-grand-tour-gukesh-loses-carlsen-qualifies-knockouts?device=featurephone",
-         "pubDate" : "Sat, 8 Feb 2025 11:38:38",
-         "title" : "Freestyle Chess Grand Tour: Gukesh loses to Carlsen; still qualifies for knockouts"
       },
       {
          "description" : "In an earlier column, I lamented the looming death of classical chess. Tournament chess, as we know it, is under continuous threat from a deadly trio of Armageddon finishes (in which White has a time advantage but a draw with Black counts as a win), blitz (10 seconds a move), super-fast bullet games (one second a []",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html",
          "pubDate" : "Sun, 19 Jan 2025 16:03:00",
          "title" : "Chess Guy Likes to Talk"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the three FIDE Arbiter Seminars as per the appended schedule:- 1 Bengaluru 07-09 February 20252 Shillong 14-16",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminars-2025/",
-         "pubDate" : "Sun, 19 Jan 2025 07:06:38",
-         "title" : "FIDE ARBITER SEMINARS 2025"
       }
    ]
 }
