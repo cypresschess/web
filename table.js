@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2025-02-08","20","<a href=http://www.uschess.org/msa/XtblMain.php?202502087492 target='_blank'>CW BLITZ CUP 2025</a>",
+"HOUSTON","2025-02-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202502087042 target='_blank'>CHESSPANDA02082025SATURDAY</a>",
+"HOUSTON","2025-02-08","21","<a href=http://www.uschess.org/msa/XtblMain.php?202502086892 target='_blank'>FEB 8TH - TROPHY SCHOLASTIC</a>",
+"SPRING","2025-02-07","26","<a href=http://www.uschess.org/msa/XtblMain.php?202502076612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-02-07","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502076532 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-01-31  - 02-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202502024602 target='_blank'>POISON PAWNS CLUB CHAMPIONSHIP 2025</a>",
 "HOUSTON","2025-02-01","226","<a href=http://www.uschess.org/msa/XtblMain.php?202502015362 target='_blank'>TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
@@ -195,8 +199,4 @@ jtable([
 "SUGAR LAND","2024-06-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202406211782 target='_blank'>FBCC 2024 DAY OF THE GONG OPEN</a>",
 "HOUSTON","2024-06-20","10","<a href=http://www.uschess.org/msa/XtblMain.php?202406203852 target='_blank'>SANTOS BLITZ ROUND ROBIN 0624</a>",
 "HOUSTON","2024-06-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406158332 target='_blank'>JUNE 15TH  2024 SATURDAY SWISS AT N</a>",
-"HOUSTON","2024-06-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202406157762 target='_blank'>CHESSPANDA06152024SATURDAY</a>",
-"HOUSTON","2024-06-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406157342 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-06-14","32","<a href=http://www.uschess.org/msa/XtblMain.php?202406147692 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-06-14","8","<a href=http://www.uschess.org/msa/XtblMain.php?202406147322 target='_blank'>TOURNAMENTS/FBCC 2024 FLAG DAY OPEN</a>",
 ]);
