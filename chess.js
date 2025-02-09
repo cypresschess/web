@@ -1256,30 +1256,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminars-2025/",
          "pubDate" : "Sun, 19 Jan 2025 07:06:38",
          "title" : "FIDE ARBITER SEMINARS 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3389",
-         "pubDate" : "Sat, 18 Jan 2025 22:33:38",
-         "title" : "Tata Steel Chess 2025 commences in Wijk aan Zee"
-      },
-      {
-         "description" : "Gukesh grabbed a win from the jaws of defeat, while R Praggnanandhaa also earned a draw after being in a losing position.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43465517/tata-steel-chess-day-1-d-gukesh-last-gasp-win-anish-giri-arjun-erigaisi-r-praggnanandhaa-caruana?device=featurephone",
-         "pubDate" : "Sat, 18 Jan 2025 22:05:22",
-         "title" : "Tata Steel Chess Day 1: Gukesh grabs last-gasp win over Giri in first game as reigning world champion"
-      },
-      {
-         "description" : " The 2025 Tata Steel Chess tournaments started with a bang with lively play and plenty of decisive results. Gukesh won against Anish Giri in a wild struggle where he was much worse at several stages and on the verge of defeat when Giri blundered away a win to a loss in a single move in time trouble. Vincent Keymer beat Luke Leon Mendonca from a bad position after he made an error after forgetting his preparation in the Two Knights Defence. After that Mendonca started to drift, first of all not playing the most incisive winning try (26.c6), then he allowed Keymer right back in the game (28.h3) and then blundered his position away in one move (31.Rc1?). Pentala Harikrishna beat Arjun Erigaisi ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-starts-with-a-very-fortunate-win-against-giri-in-round-1-of-tata-steel-masters-2025",
-         "pubDate" : "Sat, 18 Jan 2025 21:39:00",
-         "title" : "Gukesh starts with a very fortunate win against Giri in Round 1 of Tata Steel Masters 2025 - 1"
       }
    ]
 }
