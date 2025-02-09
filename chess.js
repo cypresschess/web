@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Stephen Muhammad, an International Master and Georgia Hall of Fame nominee, passed away on December 8th, 2024, after a short battle with colon cancer. He was 62. According to an online obituary, Stephen leaves to cherish his memories: one sister: Cheryle (Harold) Stewart, Plaquemine, LA; four brothers, Michael Booth of Columbus, GA; Ronald Booth, Sr The post <a href=\"https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/\">Stephen Muhammad, pioneering International Master (1962-2024)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118094680.cms\" />World Champion D Gukesh faced a setback against USA's Fabiano Caruana in the Freestyle Grand Slam chess quarterfinals in Hamburg, failing to capitalize on a crucial queen sacrifice opportunity. Magnus Carlsen secured a win over Nodirbek Abdusattorov, while other quarterfinals featured Vincent Keymer defeating Alireza Firouzja and a draw between Javokhir Sindarov and Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-goes-down-to-caruana-in-freestyle-grand-slam-chess/articleshow/118094680.cms",
+         "pubDate" : "Sun, 09 Feb 2025 17:16:43",
+         "title" : "D Gukesh goes down to Caruana in Freestyle Grand Slam Chess"
+      },
+      {
+         "description" : " Stephen Muhammad, an International Master and Georgia Chess Hall of Fame nominee, passed away on December 8th, 2024, after a short battle with colon cancer. He was 62. According to an online obituary, Stephen leaves to cherish his memories: one sister: Cheryle (Harold) Stewart, Plaquemine, LA; four brothers, Michael Booth of Columbus, GA; Ronald Booth, The post <a href=\"https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/\">Stephen Muhammad, pioneering International Master (1962-2024)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
+         "description" : "D Gukesh will face Fabiano Caruana in the quarterfinals of the Freestyle Chess Grand Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43748759/freestyle-chess-grand-tour-gukesh-loses-carlsen-qualifies-knockouts?device=featurephone",
+         "pubDate" : "Sun, 9 Feb 2025 11:41:01",
+         "title" : "Freestyle Chess Grand Tour: Gukesh loses to Carlsen; still qualifies for knockouts"
+      },
+      {
          "description" : "Let's go: In part 1 of our new tutorial series, we will show you how to quickly enter and save your own games. Just follow the explanations and screenshots and gradually build up your own database of games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "ChessBase 18 - Tips for beginners, part 1: Enter and save your games"
       },
       {
-         "description" : "D Gukesh will play Fabiano Caruana in the quarterfinals of the Freestyle Chess Grand Tour event in Weissenhauss, Germany, on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43748759/freestyle-chess-grand-tour-gukesh-loses-carlsen-qualifies-knockouts?device=featurephone",
-         "pubDate" : "Sat, 8 Feb 2025 21:42:45",
-         "title" : "Freestyle Chess Grand Tour: Gukesh loses to Carlsen; still qualifies for knockouts"
+         "description" : "World number-one Magnus Carlsen spotted a move-three mistake by GM Nodirbek Abdusattorov and took the lead in their 2025 Weissenhaus Freestyle Chess Grand Slam quarterfinal in just 23 moves. There were also wins for GM Vincent Keymer, over GM Alir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-3",
+         "pubDate" : "Sun, 09 Feb 2025 08:52:00",
+         "title" : "Carlsen, Caruana, Keymer Win; Nakamura Lets Sindarov Escape"
       },
       {
          "description" : "The 2025 FIDE Grand Swiss and Women's Grand Swiss will take place in Samarkand, Uzbekistan, from 3 to 15 September, marking the first time the event is hosted in the country. With a growing chess presence and past successes in global tournaments, Uzbekistan continues to establish itself as a major hub for the game. The tournament will offer direct qualification spots for the 2026 Candidates and an increased prize fund of at least 30%.",
@@ -890,14 +906,6 @@ news_feed (
          "title" : "Social Chess Research Conference announced"
       },
       {
-         "description" : "Athens scored their first victory, against Virginia, in the Collegiate Chess League Spring 2025 (CCL), and Saint Louis scored another point against Texas to go on a perfect 2/2. While the first match was one-sided, Saint Louis staged a great comeb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-2-athens-slu",
-         "pubDate" : "Mon, 27 Jan 2025 12:57:00",
-         "title" : "Saint Louis Leads With SRM On 2/2, Athens Scores 1st Win"
-      },
-      {
          "description" : "SL NO Candidate Name 1 Aryan Shamrao Raikar 2 Dalal Ambar Abhay 3 Prashant Salvi 4 Pradnya Sachin Kakodkar 5 Anish Naik 6 Arsha Chopdekar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/wei-yi-and-caruana-keep-themselves-in-contention-after-wins-in-round-8-of-the-tata-steel-masters",
          "pubDate" : "Sun, 26 Jan 2025 20:40:00",
          "title" : "Wei Yi and Caruana keep themselves in contention after wins in Round 8 of the Tata Steel Masters - 8"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117584831.cms\" />Praggnanandhaa and Gukesh played an intense draw at the Tata Steel Chess Tournament in Wijk aan Zee, maintaining their lead with 5.5 points. Arjun Erigaisi's disappointing run continued with another draw, while Fabiano Caruana and Wei Yi secured crucial wins. In the Challengers section, Thai Dai Van Nguyen leads, with Vaishali Rameshbabu managing a draw.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-vs-r-praggnanandhaa-ends-in-draw-arjun-erigaisi-still-winless-after-round-8/articleshow/117584831.cms",
-         "pubDate" : "Sun, 26 Jan 2025 20:14:43",
-         "title" : "Gukesh vs Pragg ends in draw; Erigaisi still winless after Round 8"
       },
       {
          "description" : "",
@@ -1256,14 +1256,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43485853/tata-steel-chess-day-2-praggnanandhaa-wins-harikrishna-gukesh-fighting-draw?device=featurephone",
          "pubDate" : "Sun, 19 Jan 2025 21:42:49",
          "title" : "Tata Steel Chess Day 2: Praggnanandhaa wins against Harikrishna; Gukesh plays out fighting draw"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3390",
-         "pubDate" : "Sun, 19 Jan 2025 19:35:09",
-         "title" : "Inclusion, change, impact: Highlights from the World Social Chess Initiatives Marathon"
       }
    ]
 }
