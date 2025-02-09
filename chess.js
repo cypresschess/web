@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
+         "pubDate" : "Sun, 09 Feb 2025 12:50:00",
+         "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
          "description" : "Let's go: In part 1 of our new tutorial series, we will show you how to quickly enter and save your own games. Just follow the explanations and screenshots and gradually build up your own database of games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/stay-consistent/",
          "pubDate" : "Sat, 08 Feb 2025 14:00:00",
          "title" : "The Biggest Myth in Chess Improvement: It's Not as Complex as You Think"
-      },
-      {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Sat, 08 Feb 2025 12:50:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
          "description" : "In an earlier column, I lamented the looming death of classical chess. Tournament chess, as we know it, is under continuous threat from a deadly trio of Armageddon finishes (in which White has a time advantage but a draw with Black counts as a win), blitz (10 seconds a move), super-fast bullet games (one second a []",
