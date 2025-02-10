@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rook endgames are often deceptively complex, with even top grandmasters struggling in seemingly straightforward positions. In \"Endgame essentials you need to know\", Surya Shekhar Ganguly explores key endgame concepts, highlighting how even the fundamental Lucena position has been misplayed at the highest level. Through real-life examples, including mistakes by Magnus Carlsen and himself, Ganguly demonstrates why mastering these essentials is crucial for players of all levels.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surya-ganguly-endgame-essentials-lucena",
+         "pubDate" : "Sun, 09 Feb 2025 22:15:00",
+         "title" : "Learn how to play (and how not to play) basic rook endgames"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3414",
+         "pubDate" : "Sun, 09 Feb 2025 22:13:53",
+         "title" : "2025 Montenegrin Championship: Nikita Petrov defends his title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118094680.cms\" />World Champion D Gukesh faced a setback against USA's Fabiano Caruana in the Freestyle Grand Slam chess quarterfinals in Hamburg, failing to capitalize on a crucial queen sacrifice opportunity. Magnus Carlsen secured a win over Nodirbek Abdusattorov, while other quarterfinals featured Vincent Keymer defeating Alireza Firouzja and a draw between Javokhir Sindarov and Hikaru Nakamura.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Freestyle Chess Grand Tour: Gukesh loses to Carlsen; still qualifies for knockouts"
       },
       {
+         "description" : "D Gukesh will need to beat Fabiano Caruana in game 2 of the quarterfinals of the Freestyle Chess Grand Tour to stay alive in the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43764409/gukesh-loses-caruana-verge-freestyle-chess-weissenhaus-quarterfinal-exit?device=featurephone",
+         "pubDate" : "Sun, 9 Feb 2025 11:37:45",
+         "title" : "Gukesh loses to Caruana; on verge of Freestyle Chess quarterfinal exit"
+      },
+      {
          "description" : "Let's go: In part 1 of our new tutorial series, we will show you how to quickly enter and save your own games. Just follow the explanations and screenshots and gradually build up your own database of games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "ChessBase 18 - Tips for beginners, part 1: Enter and save your games"
       },
       {
-         "description" : "World number-one Magnus Carlsen spotted a move-three mistake by GM Nodirbek Abdusattorov and took the lead in their 2025 Weissenhaus Freestyle Chess Grand Slam quarterfinal in just 23 moves. There were also wins for GM Vincent Keymer, over GM Alir...",
+         "description" : "World number-one Magnus Carlsen exploited a mistake on move three by GM Nodirbek Abdusattorov and went on to play a perfect 23-move game to take the lead in their 2025 Weissenhaus Freestyle Chess Grand Slam quarterfinal. There were also wins for G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-3",
@@ -1240,22 +1264,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-2024/",
          "pubDate" : "Mon, 20 Jan 2025 08:47:19",
          "title" : "ECU E-Magazine December 2024"
-      },
-      {
-         "description" : " The second round of the Tata Steel Masters was not quite as crazy as the first but there were still three decisive games and a couple of near decisive ones. At the end of the day Praggnanandhaa, Caruana, Gukesh, Abdusattorov and Keymer lead on 1.5/2. Fabiano Caruana started the tournament with a non-event in the first game against Wei Yi, today he chose the London System to surprise his opponent Jorden Van Foreest but ended up with a slightly inferior position. Van Foreest then played a series of inferior moves and lost the endgame. Nodirbek Abdusattorov played a side-line of the French 6.a4, deviating from a game last year against his opponent Leon Luke Mendonca, this turned out to be a bu",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/five-way-tie-for-first-place-on-1.52-in-the-tata-steel-masters",
-         "pubDate" : "Sun, 19 Jan 2025 23:20:00",
-         "title" : "Five way tie for first place on 1.5/2 in the Tata Steel Masters - 2"
-      },
-      {
-         "description" : "Gukesh grabbed a win from the jaws of defeat, while R Praggnanandhaa also earned a draw after being in a losing position.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43485853/tata-steel-chess-day-2-praggnanandhaa-wins-harikrishna-gukesh-fighting-draw?device=featurephone",
-         "pubDate" : "Sun, 19 Jan 2025 21:42:49",
-         "title" : "Tata Steel Chess Day 2: Praggnanandhaa wins against Harikrishna; Gukesh plays out fighting draw"
       }
    ]
 }
