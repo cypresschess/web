@@ -50,6 +50,22 @@ news_feed (
          "title" : "Exclusive | 'Blitz games shouldn't decide classical titles': Wei Yi"
       },
       {
+         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Vincent Keymer, and Javokhir Sindarov are through to the 2025 Weissenhaus Freestyle Chess Grand Slam Semifinals. Carlsen won for the second time against GM Nodirbek Abdusattorov, as did Caruana against World Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-4",
+         "pubDate" : "Mon, 10 Feb 2025 10:17:00",
+         "title" : "Sindarov Upsets Nakamura, Joins Carlsen, Caruana, Keymer In Semifinals"
+      },
+      {
+         "description" : "Several NFL stars, as well as GM Maurice Ashley&#38;nbsp;and FM James Canty, joined Chess.com, in collaboration with NFL Legends, in the festivities before the Super Bowl on Canal Street in New Orleans this Friday, February 7. Current and former NFL p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blitzchamps-live-new-orleans-chesscom-nfl-legends",
+         "pubDate" : "Mon, 10 Feb 2025 09:24:32",
+         "title" : "Maurice Ashley, Larry Fitzgerald Jr., And NFL Legends Celebrate Chess In New Orleans"
+      },
+      {
          "description" : "The knockout stage of the Freestyle Chess tournament in Weissenhaus began with the first classical games of the quarterfinals and the ninth-place playoff. Magnus Carlsen, Fabiano Caruana, and Vincent Keymer took the lead in their matches, while Hikaru Nakamura and Javokhir Sindarov remain level after a draw. In the ninth-place playoff, Levon Aronian defeated Vladimir Fedoseev with white. Sunday's starting position led to dynamic struggles, with all white players opting for 1.f4. The second classical games will now determine who advances or forces tiebreaks. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -858,28 +874,12 @@ news_feed (
          "title" : "Gukesh Scores 5th Win; Abdusattorov, Praggnanandhaa In Hot Pursuit"
       },
       {
-         "description" : "German entrepreneur Jan Henric Buettner is the driving force behind the Freestyle Chess events, the series of tournaments that could shake up the chess world. Along with his friend and business partner, GM Magnus Carlsen, he hopes to revolutionize...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-jan-henric-buettner-revolutionize-chess",
-         "pubDate" : "Wed, 29 Jan 2025 11:06:00",
-         "title" : "Buettner On Freestyle Chess Vision: 'I Needed The Greatest Player Ever'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3405",
          "pubDate" : "Wed, 29 Jan 2025 08:48:28",
          "title" : "Yair Parkhov and Marsel Efroimski win 42nd Israeli Championship"
-      },
-      {
-         "description" : "GM Alireza Firouzja came a ninth-round draw away from the first perfect Titled Tuesday of the year on January 28, settling for a full-point victory on 10.5 points in the third straight early field of over 900 players. In the late event, GM Denis L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-lazavik-win-titled-tuesday-january-28-2025",
-         "pubDate" : "Wed, 29 Jan 2025 07:54:00",
-         "title" : "Firouzja Dominates Another Busy Tuesday"
       },
       {
          "description" : " The NextGen Cup is a novel tournament with a $20,000 fund featuring ten master-level players throughout the African Diaspora. It will take place on chess.com on February 6th. IM Kassa Korley, a player who has his own Grandmaster aspirations, is currently employed as chess.com's Director of Professional Relations. He told The Chess Drum last month The post <a href=\"https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/\">NextGen Cup: An African Diaspora Chess Battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1264,14 +1264,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43492986/tata-steel-chess-day-3-world-champion-d-gukesh-fabiano-caruana-top-seed?device=featurephone",
          "pubDate" : "Mon, 20 Jan 2025 22:28:32",
          "title" : "Tata Steel Chess Day 3: Praggnanandhaa takes lead with win over Erigaisi; Gukesh draws with Caruana"
-      },
-      {
-         "description" : "Let's combine a recent video post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/the-noblest-prize.html\">The Noblest Prize</A> (January 2025):- <BLOCKQUOTE> Nobel lecture with the Nobel Laureate in Chemistry 2024 Demis Hassabis, Google DeepMind, London, UK. [...] \"for protein structure prediction\" </BLOCKQUOTE> <P> with a derivative of that post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/proteins-play-chess.html\">Proteins Play Chess</A> (January 2025):- <BLOCKQUOTE> I started to wonder if proteins play chess. It turns out they do, at least according to AI comics. </BLOCKQUOTE> <P> I constructed a series of test images using the phrase 'Demis Hassabis plays chess with a pr",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/color-proteins.html",
-         "pubDate" : "Mon, 20 Jan 2025 16:51:00",
-         "title" : "Color the Proteins"
       }
    ]
 }
