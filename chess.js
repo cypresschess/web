@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118123163.cms\" />World champion D Gukesh exited the Freestyle Grand Slam Chess after his second quarterfinal loss to Fabiano Caruana in Hamburg. Gukesh, needing a win, blundered a pawn early, leading to his resignation in just 18 moves. Despite the setback, he remains in the tournament, now focusing on a last-four finish.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-bows-out-of-freestyle-grand-slam-chess-after-loss-to-fabiano-caruana/articleshow/118123163.cms",
+         "pubDate" : "Mon, 10 Feb 2025 15:48:14",
+         "title" : "Gukesh bows out of Freestyle Grand Slam chess after loss to Caruana"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +74,22 @@ news_feed (
          "title" : "10-year-old Sarawgi bags silver at Bangkok Rapid Chess"
       },
       {
+         "description" : "Are you ready to enter a world of magic and chess spells? We&#39;re excited to announce the Anichess x Chess.com Tournament, an event organized by our official partner, Anichess. Starting on February 13, anyone can enter the event for free and climb u...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-anichess-x-chesscom-tournament",
+         "pubDate" : "Mon, 10 Feb 2025 08:04:20",
+         "title" : "Reshape Strategy With Magic And Play In The $10,000 Anichess x Chess.com Tournament"
+      },
+      {
+         "description" : "The winner of the 2025 Freestyle Chess Grand Slam Tour will be crowned the &#34;Freestyle Chess Champion,&#34; 12 members of the Freestyle Chess Players Club (FCPC) decided in a meeting on Sunday evening. They also plan to form an independent players&#39; ass...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-players-push-back-establish-new-title-and-association",
+         "pubDate" : "Mon, 10 Feb 2025 07:27:00",
+         "title" : "Freestyle Chess Players With FIDE Pushback, Establish New Title And Association"
+      },
+      {
          "description" : "Rook endgames are often deceptively complex, with even top grandmasters struggling in seemingly straightforward positions. In \"Endgame essentials you need to know\", Surya Shekhar Ganguly explores key endgame concepts, highlighting how even the fundamental Lucena position has been misplayed at the highest level. Through real-life examples, including mistakes by Magnus Carlsen and himself, Ganguly demonstrates why mastering these essentials is crucial for players of all levels.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,6 +114,14 @@ news_feed (
          "title" : "D Gukesh goes down to Caruana in Freestyle Grand Slam Chess"
       },
       {
+         "description" : "Of the 22 clips on this month's short list for featured video of the month, 14 were for the first leg of the <A HREF=\"https://chess960frc.blogspot.com/2024/12/2025-fcgst.html\">2025 FCGST</A> (December 2024; '2025 Freestyle Chess Grand Slam Tour') in Weissenhaus, Germany. Since I'll be discussing that event on my chess960 blog -- to which that FCGST link goes -- I picked another clip for this post. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/esKSAQs1OeY?si=XBUWQe4PtJsiowyQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/dgt-enschede-nl.html",
+         "pubDate" : "Sun, 09 Feb 2025 16:32:00",
+         "title" : "DGT Enschede NL"
+      },
+      {
          "description" : " Stephen Muhammad, an International Master and Georgia Chess Hall of Fame nominee, passed away on December 8th, 2024, after a short battle with colon cancer. He was 62. According to an online obituary, Stephen leaves to cherish his memories: one sister: Cheryle (Harold) Stewart, Plaquemine, LA; four brothers, Michael Booth of Columbus, GA; Ronald Booth, The post <a href=\"https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/\">Stephen Muhammad, pioneering International Master (1962-2024)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43764409/gukesh-loses-caruana-verge-freestyle-chess-weissenhaus-quarterfinal-exit?device=featurephone",
          "pubDate" : "Sun, 9 Feb 2025 11:37:45",
          "title" : "Gukesh loses to Caruana; on verge of Freestyle Chess quarterfinal exit"
-      },
-      {
-         "description" : "Let's go: In part 1 of our new tutorial series, we will show you how to quickly enter and save your own games. Just follow the explanations and screenshots and gradually build up your own database of games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-1-enter-and-save-your-games",
-         "pubDate" : "Sun, 09 Feb 2025 09:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 1: Enter and save your games"
       },
       {
          "description" : "World number-one Magnus Carlsen exploited a mistake on move three by GM Nodirbek Abdusattorov and went on to play a perfect 23-move game to take the lead in their 2025 Weissenhaus Freestyle Chess Grand Slam quarterfinal. There were also wins for G...",
@@ -186,14 +210,6 @@ news_feed (
          "title" : "Gukesh remains winless; Carlsen loses thrice on Day 1"
       },
       {
-         "description" : "On February 9, 2025, the KCF Academy subscribers will have the opportunity to meet with an extraordinary Player during a live Sunday session. Peter Svidler is one of the most accomplished chess grandmasters of his generation. His career is marked by numerous victories and a consistent presence in elite tournaments. He is regarded as one of the foremost experts on the Gr&uuml;nfeld Defense, a dynamic and complex opening, that is not everybody&acute;s cup of tea.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-peter-svidler-s-live-lecture",
-         "pubDate" : "Fri, 07 Feb 2025 20:03:08",
-         "title" : "KCF: Peter Svidler's Live Lecture"
-      },
-      {
          "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2025 Weissenhaus Freestyle Chess Grand Slam on 4.5/5 on a day when both took down GM Magnus Carlsen. The defending champion also lost to GM Vladimir Fedoseev, but scored two wins to join the likes...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -250,7 +266,7 @@ news_feed (
          "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we work to resolve this issue.This page will be updated with future announcements as we work to resolve this situation.",
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Update (February 10, 2025, 10 a.m.): Email notifications for TLA announcements remain paused as we continue to work on this issue.The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we work to resolve this issue.This page will be updated with future announcements as we work to resolve this situation.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tla-notification-system-undergoing-maintenance",
@@ -898,22 +914,6 @@ news_feed (
          "title" : "Gukesh goes clear at the top after round 9 of Tata Steel Chess"
       },
       {
-         "description" : "In a decision by the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) published on Monday, 43-year-old Latvian IM Andrejs Strebkovs will lose his international master title and his ban from attending FIDE-rated events has been extended from five ye...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrejs-strebkovs-stripped-of-im-title-by-fide",
-         "pubDate" : "Tue, 28 Jan 2025 13:59:00",
-         "title" : "Andrejs Strebkovs Stripped Of IM Title & Ban Extended To 12 Years From FIDE-Rated Events"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju leads his first tournament as world champion after defeating GM Leon Luke Mendonca in round nine to move to 6.5/9 in the 2025 Tata Steel Chess Masters. He&#39;s half a point ahead of GM Nodirbek Abdusattorov, who made a draw agains...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-9",
-         "pubDate" : "Tue, 28 Jan 2025 11:57:00",
-         "title" : "Gukesh Breaks Clear; Fedoseev, Giri Also Win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -938,7 +938,7 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 2 (The Kids Are Alright)"
       },
       {
-         "description" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election The US Chess Nominating Committee (Committee) has completed its work for the 2025 US Chess Executive Board election. The Committee has qualified and recommends these four candidates to fill the four vacancies available in the upcoming 2025 Executive Board election (listed in alphabetical order):Anand Dommalapati (Virginia)Kevin Pryor (Florida)John D. Rockefeller, V (Maryland)Daniel Serna (New Mexico)The first Nominating Committee was created by the US Chess Delegates during the 2020 Special Delegates Meeting in August. At a Special Delegates Meeting in September 2020, the Delegates elected six Delegate-appointe",
+         "description" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election The US Chess Nominating Committee (Committee) has completed its work for the 2025 US Chess Executive Board election. The Committee has qualified and recommends these four candidates to fill the four vacancies available in the upcoming 2025 Executive Board election (listed in alphabetical order):Anand Dommalapati (Virginia)Kevin Pryor (Florida)John D. Rockefeller V (Maryland)Daniel Serna (New Mexico)The first Nominating Committee was created by the US Chess Delegates during the 2020 Special Delegates Meeting in August. At a Special Delegates Meeting in September 2020, the Delegates elected six Delegate-appointed",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-nominating-committee-recommends-four-run-executive-board-0",
