@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout stage of the Freestyle Chess tournament in Weissenhaus began with the first classical games of the quarterfinals and the ninth-place playoff. Magnus Carlsen, Fabiano Caruana, and Vincent Keymer took the lead in their matches, while Hikaru Nakamura and Javokhir Sindarov remain level after a draw. In the ninth-place playoff, Levon Aronian defeated Vladimir Fedoseev with white. Sunday's starting position led to dynamic struggles, with all white players opting for 1.f4. The second classical games will now determine who advances or forces tiebreaks. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-2",
+         "pubDate" : "Mon, 10 Feb 2025 09:10:00",
+         "title" : "Weissenhaus QF: Carlsen, Caruana and Keymer start knockout with wins"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118111943.cms\" />Viraj Sarawgi, a Grade 5 student from Assam, secured a silver medal in the Under-12 category at the Bangkok Rapid Chess Championship, defeating two seasoned FIDE-rated opponents. Despite entering as an unrated player, his dedication and tactical play stood out. His coaches praised his talent, while he looks ahead to the Abu Dhabi Junior Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-viraj-sarawgi-bags-silver-at-bangkok-rapid-chess-championship/articleshow/118111943.cms",
+         "pubDate" : "Mon, 10 Feb 2025 08:06:56",
+         "title" : "10-year-old Sarawgi bags silver at Bangkok Rapid Chess"
+      },
+      {
          "description" : "Rook endgames are often deceptively complex, with even top grandmasters struggling in seemingly straightforward positions. In \"Endgame essentials you need to know\", Surya Shekhar Ganguly explores key endgame concepts, highlighting how even the fundamental Lucena position has been misplayed at the highest level. Through real-life examples, including mistakes by Magnus Carlsen and himself, Ganguly demonstrates why mastering these essentials is crucial for players of all levels.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/",
          "pubDate" : "Sun, 09 Feb 2025 16:04:35",
          "title" : "Stephen Muhammad, pioneering International Master (1962-2024)"
-      },
-      {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Sun, 09 Feb 2025 12:50:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
          "description" : "D Gukesh will face Fabiano Caruana in the quarterfinals of the Freestyle Chess Grand Tour.",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43583386/can-d-gukesh-win-tata-steel-chess-2025?device=featurephone",
          "pubDate" : "Mon, 27 Jan 2025 08:42:43",
          "title" : "Can D Gukesh win Tata Steel Chess 2025?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117596197.cms\" />Grandmaster Nodirbek Yakubboev's decision not to shake hands with Indian player R Vaishali due to religious reasons caused controversy at the Tata Steel Chess Tournament. After the incident went viral, Yakubboev issued an apology, explaining his actions and expressing respect. He later informed other players of his beliefs to avoid misunderstandings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/uzbek-gm-nodirbek-yakubboev-declines-hand-shake-with-indian-gm-r-vaishali-due-to-religious-reasons-apologises-later/articleshow/117596197.cms",
-         "pubDate" : "Mon, 27 Jan 2025 07:12:09",
-         "title" : "Yakubboev declines hand-shake with Vaishali due to religious reasons"
       },
       {
          "description" : "India's Gukesh and R Praggnanandhaa continue to lead the Tata Steel Chess tournament along with Nodirbek Abdusattorov.",
