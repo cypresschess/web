@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
+         "pubDate" : "Mon, 10 Feb 2025 12:50:00",
+         "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118119319.cms\" />At a meeting in Weissenhaus on Sunday, the Freestyle Chess Players Club declared the 2025 Grand Slam Tour winner will be titled 'Freestyle Chess Champion'. The club plans to establish an independent association to protect their interests, challenging FIDE's restrictive policies. Players are uniting to safeguard their freedom to compete in both Freestyle and FIDE events.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/2025-grand-slam-tour-winner-to-be-titled-freestyle-chess-champion/articleshow/118119319.cms",
+         "pubDate" : "Mon, 10 Feb 2025 12:19:22",
+         "title" : "2025 Grand Slam Tour winner to be titled 'Freestyle Chess Champion'"
+      },
+      {
+         "description" : "As the Djerba Chess Festival in Tunisia approaches, starting in just five days on February 15, Diana Mihajlova shares fond memories of Vasyl Ivanchuk, the most popular participant of the Djerba Chess Festival 2024: Vasyl Ivanchuk. | Photos: Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivanchuk-djerba-and-oranges",
+         "pubDate" : "Mon, 10 Feb 2025 11:45:00",
+         "title" : "Ivanchuk, Djerba, and Oranges"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3415",
+         "pubDate" : "Mon, 10 Feb 2025 10:37:59",
+         "title" : "Shanghai and Chongqing to host 2025 FIDE Women's World Championship Match"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118114167.cms\" />Rameshbabu Praggnanandhaa's victory in the Tata Steel Masters highlights his exceptional talent. Grandmaster Wei Yi, impressed by the Indian prodigy, prepares to compete in the Norway Chess 2025 against top players like Magnus Carlsen. Wei emphasizes the need for greater support for chess in China and shares his strategies for upcoming tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-china-no-1-wei-yi-lauds-gukesh-and-praggnanandhaa-says-blitz-games-shouldnt-decide-classical-chess-titles/articleshow/118114167.cms",
+         "pubDate" : "Mon, 10 Feb 2025 10:21:38",
+         "title" : "Exclusive | 'Blitz games shouldn't decide classical titles': Wei Yi"
+      },
+      {
          "description" : "The knockout stage of the Freestyle Chess tournament in Weissenhaus began with the first classical games of the quarterfinals and the ninth-place playoff. Magnus Carlsen, Fabiano Caruana, and Vincent Keymer took the lead in their matches, while Hikaru Nakamura and Javokhir Sindarov remain level after a draw. In the ninth-place playoff, Levon Aronian defeated Vladimir Fedoseev with white. Sunday's starting position led to dynamic struggles, with all white players opting for 1.f4. The second classical games will now determine who advances or forces tiebreaks. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-2",
          "pubDate" : "Mon, 10 Feb 2025 09:10:00",
          "title" : "Weissenhaus QF: Carlsen, Caruana and Keymer start knockout with wins"
+      },
+      {
+         "description" : "The ECU E-Magazine January 2025 is out! In this edition of the ECU Magazine you may read about: The January 2025 edition of the ECU Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-january-2025/",
+         "pubDate" : "Mon, 10 Feb 2025 08:53:39",
+         "title" : "ECU E-Magazine January 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118111943.cms\" />Viraj Sarawgi, a Grade 5 student from Assam, secured a silver medal in the Under-12 category at the Bangkok Rapid Chess Championship, defeating two seasoned FIDE-rated opponents. Despite entering as an unrated player, his dedication and tactical play stood out. His coaches praised his talent, while he looks ahead to the Abu Dhabi Junior Chess Championship.",
@@ -850,14 +898,6 @@ news_feed (
          "title" : "Gukesh goes clear at the top after round 9 of Tata Steel Chess"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117654415.cms\" />Gukesh Dommaraju has taken the lead in the Tata Steel Chess Masters standings after defeating compatriot Leon Luke Mendonca. In other matches, Nodirbek Abdusattorov drew against Fabiano Caruana, while Praggnanandhaa Rameshbabu was defeated by Anish Giri. Arjun Erigaisi drew with defending champion Wei Yi, and Pentala Harikrishna lost to Vladimir Fedoseev.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-becomes-sole-leader-r-praggnanandhaa-beaten-for-first-time/articleshow/117654415.cms",
-         "pubDate" : "Tue, 28 Jan 2025 20:24:54",
-         "title" : "Gukesh becomes sole leader; Praggnanandhaa beaten for first time"
-      },
-      {
          "description" : "In a decision by the FIDE Ethics &#38;amp; Disciplinary Commission (EDC) published on Monday, 43-year-old Latvian IM Andrejs Strebkovs will lose his international master title and his ban from attending FIDE-rated events has been extended from five ye...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -872,14 +912,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-9",
          "pubDate" : "Tue, 28 Jan 2025 11:57:00",
          "title" : "Gukesh Breaks Clear; Fedoseev, Giri Also Win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117626936.cms\" />World Chess Champion Gukesh Dommaraju, 18, admits dealing with success has been challenging but credits his support system for keeping him grounded. Competing in the Tata Steel Chess Tournament 2025, Gukesh aspires to reach his full potential and still sees Magnus Carlsen as the world's best. Despite his age, he remains focused on improving.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-success-has-not-been-easy-to-deal-with-i-mightve-drifted-a-bit/articleshow/117626936.cms",
-         "pubDate" : "Tue, 28 Jan 2025 10:09:43",
-         "title" : "D Gukesh: 'Success has not been easy to deal with'"
       },
       {
          "description" : "",
@@ -1240,30 +1272,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/color-proteins.html",
          "pubDate" : "Mon, 20 Jan 2025 16:51:00",
          "title" : "Color the Proteins"
-      },
-      {
-         "description" : "The 3rd Cambridge International Open entrants list is filling up quickly. Please make sure you don't miss out by visiting the page https://www.englishchess.org.uk/3rd-cambridge-international-open/ checking the details and entering...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/3rd-cambridge-international-open-entries/",
-         "pubDate" : "Mon, 20 Jan 2025 09:54:50",
-         "title" : "3rd Cambridge International Open entries"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3391",
-         "pubDate" : "Mon, 20 Jan 2025 08:59:41",
-         "title" : "FIDE Grand Swiss 2025 to be held in Samarkand, Uzbekistan"
-      },
-      {
-         "description" : "The ECU E-Magazine December 2024 is out! In this edition of the ECU E-Magazine you may read about: The December 2024 issue of the ECU Magazine can be read online together with interactive links on the following link or it can be downloaded below in the PDF format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-december-2024/",
-         "pubDate" : "Mon, 20 Jan 2025 08:47:19",
-         "title" : "ECU E-Magazine December 2024"
       }
    ]
 }
