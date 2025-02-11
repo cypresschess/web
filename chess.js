@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118152895.cms\" />World champion D Gukesh drew with Hikaru Nakamura in the Freestyle Grand Slam chess tournament in Hamburg. Magnus Carlsen faced a surprising defeat by Vincent Keymer. Gukesh's draw marked his eighth in the competition, showcasing his recovery after a loss to Fabiano Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-hikaru-nakamura-to-a-draw-in-freestyle-grand-slam-chess/articleshow/118152895.cms",
+         "pubDate" : "Tue, 11 Feb 2025 16:57:41",
+         "title" : "D Gukesh holds Hikaru Nakamura to a draw in Freestyle Grand Slam chess"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-5",
-         "pubDate" : "Tue, 11 Feb 2025 08:22:18",
+         "pubDate" : "Tue, 11 Feb 2025 08:22:00",
          "title" : "Keymer Beats Carlsen In Semifinal Game 1"
       },
       {
@@ -56,6 +64,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-3-slu-triumph",
          "pubDate" : "Tue, 11 Feb 2025 03:00:00",
          "title" : "Saint Louis Wins Clash Of Leaders To Reach 3/3"
+      },
+      {
+         "description" : "D Gukesh will vie for the fifth to eighth place rankings in the Freestyle Chess Grand Slam at Weissenhaus.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43779369/gukesh-loses-quarterfinal-caruana-freestyle-chess-weissenhaus-2025?device=featurephone",
+         "pubDate" : "Tue, 11 Feb 2025 01:20:25",
+         "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
+      },
+      {
+         "description" : "This week's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on 19-year-old FM Rochelle Wu and 16-year-old WIM Iris Mou. The two regulars at the annual U.S. Junior Girls' Championship both posted results to be proud of in New York, with Wu going 6/11 in the Blitz and Mou going 6/11 in the Rapid. These plus-scores earned each player a haul of FIDE rating point",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-4-mou-wu",
+         "pubDate" : "Tue, 11 Feb 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 4 (Mou & Wu)"
       },
       {
          "description" : "The 8th edition of the Ciudad de Montevideo Open concluded with Argentine IM Lucas Coro claiming victory, scoring 8/9 points. Uruguay's FM Facundo V&aacute;zquez and IM Claudio Coppola secured second and third place. In the women's category, WIM Milagros Tatiana Brizzi from Argentina took first place. Held at the Montevideo Municipality Conference Center, the tournament featured 99 participants from 11 countries.",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-4",
          "pubDate" : "Mon, 10 Feb 2025 10:17:00",
          "title" : "Sindarov Upsets Nakamura, Joins Carlsen, Caruana, Keymer In Semifinals"
-      },
-      {
-         "description" : "D Gukesh will vie for the fifth to eighth place rankings in the Freestyle Chess Grand Slam at Weissenhaus.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43779369/gukesh-loses-quarterfinal-caruana-freestyle-chess-weissenhaus-2025?device=featurephone",
-         "pubDate" : "Mon, 10 Feb 2025 10:02:56",
-         "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
       },
       {
          "description" : "Several NFL stars, as well as GM Maurice Ashley&#38;nbsp;and FM James Canty, joined Chess.com, in collaboration with NFL Legends, in the festivities before the Super Bowl on Canal Street in New Orleans this Friday, February 7. Current and former NFL p...",
@@ -906,14 +922,6 @@ news_feed (
          "title" : "Gukesh wins again in Round 10 of the Tata Steel Masters but so do Abdusattorov and Praggnanandhaa - 10"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117706024.cms\" />In Round 10 of the Tata Steel Chess Tournament 2025, Gukesh Dommaraju retained his lead, defeating Max Warmerdam. Praggnanandhaa Rameshbabu outplayed Vladimir Fedoseev, while Arjun Erigaisi drew against Vincent Keymer. Nodirbek Abdusattorov secured a win to stay close to Gukesh. The Challengers section saw defeats for Vaishali Rameshbabu and Divya Deshmukh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-tightens-lead-at-the-top-r-praggnanandhaa-back-to-winning-ways/articleshow/117706024.cms",
-         "pubDate" : "Wed, 29 Jan 2025 21:05:39",
-         "title" : "Gukesh tightens lead at the top; Pragg back to winning ways"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-2-kids-are-alright",
          "pubDate" : "Tue, 28 Jan 2025 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 2 (The Kids Are Alright)"
-      },
-      {
-         "description" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election The US Chess Nominating Committee (Committee) has completed its work for the 2025 US Chess Executive Board election. The Committee has qualified and recommends these four candidates to fill the four vacancies available in the upcoming 2025 Executive Board election (listed in alphabetical order):Anand Dommalapati (Virginia)Kevin Pryor (Florida)John D. Rockefeller V (Maryland)Daniel Serna (New Mexico)The first Nominating Committee was created by the US Chess Delegates during the 2020 Special Delegates Meeting in August. At a Special Delegates Meeting in September 2020, the Delegates elected six Delegate-appointed",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-nominating-committee-recommends-four-run-executive-board-0",
-         "pubDate" : "Tue, 28 Jan 2025 00:00:00",
-         "title" : "Nominating Committee Recommends 4 Candidates in the 2025 Executive Board Election "
       },
       {
          "description" : "In <A HREF=\"https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html\">Chess Guy Likes to Talk</A> (January 2025), I wrote, <BLOCKQUOTE> For the third time in less than a year, the monthly featured Flickr post contains two keywords: Shoreditch graffiti. </BLOCKQUOTE> <P> While working on that post I discovered a new resource, an example of which is shown in the following image. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa27.gif\" WIDTH=400 HEIGHT=165><BR> <A HREF=\"https://www.graffiti-empire.com/graffiti-generator/\">Online Graffiti Generator - Graffiti Empire</A><BR> graffiti-empire.com <P> That example was constructed using the first offered 'font' plus t",
