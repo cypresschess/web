@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 8th edition of the Ciudad de Montevideo Open concluded with Argentine IM Lucas Coro claiming victory, scoring 8/9 points. Uruguay's FM Facundo V&aacute;zquez and IM Claudio Coppola secured second and third place. In the women's category, WIM Milagros Tatiana Brizzi from Argentina took first place. Held at the Montevideo Municipality Conference Center, the tournament featured 99 participants from 11 countries.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ciudad-montevideo-2025-final-report",
+         "pubDate" : "Mon, 10 Feb 2025 22:15:00",
+         "title" : "Lucas Coro outright winner at Ciudad de Montevideo Open"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118123163.cms\" />World champion D Gukesh exited the Freestyle Grand Slam Chess after his second quarterfinal loss to Fabiano Caruana in Hamburg. Gukesh, needing a win, blundered a pawn early, leading to his resignation in just 18 moves. Despite the setback, he remains in the tournament, now focusing on a last-four finish.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -58,6 +66,14 @@ news_feed (
          "title" : "Sindarov Upsets Nakamura, Joins Carlsen, Caruana, Keymer In Semifinals"
       },
       {
+         "description" : "D Gukesh will vie for the fifth to eighth place rankings in the Freestyle Chess Grand Slam at Weissenhaus.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43779369/gukesh-loses-quarterfinal-caruana-freestyle-chess-weissenhaus-2025?device=featurephone",
+         "pubDate" : "Mon, 10 Feb 2025 10:02:56",
+         "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
+      },
+      {
          "description" : "Several NFL stars, as well as GM Maurice Ashley&#38;nbsp;and FM James Canty, joined Chess.com, in collaboration with NFL Legends, in the festivities before the Super Bowl on Canal Street in New Orleans this Friday, February 7. Current and former NFL p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/freestyle-chess-players-push-back-establish-new-title-and-association",
          "pubDate" : "Mon, 10 Feb 2025 07:27:00",
          "title" : "Freestyle Chess Players With FIDE Pushback, Establish New Title And Association"
+      },
+      {
+         "description" : "Editor's note: This story first appeared in the February 2025 issue of Chess Life magazine, and is re-published here with six additional annotated games courtesy of the author. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A downloadable pdf of the print version of this article is available here.On a dreary October night after the fourth round of the U.S. Championships in St. Louis, GM Sam Shankland, GM Awonder Liang, and I nursed various liqu",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-short-sweep-still-smooth",
+         "pubDate" : "Mon, 10 Feb 2025 00:00:00",
+         "title" : "Inside Story: Short of a Sweep, but Still Smooth"
       },
       {
          "description" : "Rook endgames are often deceptively complex, with even top grandmasters struggling in seemingly straightforward positions. In \"Endgame essentials you need to know\", Surya Shekhar Ganguly explores key endgame concepts, highlighting how even the fundamental Lucena position has been misplayed at the highest level. Through real-life examples, including mistakes by Magnus Carlsen and himself, Ganguly demonstrates why mastering these essentials is crucial for players of all levels.",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "Chess: Dommaraju Gukesh recovers from brush with disaster at Wijk aan Zee"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The BlitzFuel Invitational, held January 16 through 20, was a new name (featuring a new sponsor: the self-proclaimed official energy drink of chess) for the most recent NYC Chess Norms' invitational. But the outcome was what we've come to expect: several norms from talented, up-and-coming players. This was the 20th NYC Chess Norms event, and, with three norms across the four norm-eligible sections, the grand total of norms earned across these invitationals is now up to 50! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy of NYC Chess Norms<br> <br> <br> <br> In the",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/three-norms-earned-nyc-chess-norms-blitzfuel-invitational",
-         "pubDate" : "Fri, 24 Jan 2025 00:00:00",
-         "title" : "Three Norms Earned at NYC Chess Norms' BlitzFuel Invitational"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1248,22 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3392",
          "pubDate" : "Tue, 21 Jan 2025 11:00:40",
          "title" : "FIDE Statement regarding the \"Freestyle Chess\" project"
-      },
-      {
-         "description" : " The third round of the Tata Steel Masters saw five draws and the only decisive results came right at the end but they did mean Praggnanandhaa and Nodirbek Abdusattorov were in a two way share of the lead. The draws came in stark contrast to the seven white wins in the Challengers group which really shook up the standings there. In the Masters Praggnanandhaa converted an advantage over a struggling Arjun Erigaisi. Max Warmerdam was still very much in the game against Nodirbek Abdusattorov until very near the end when his position collapsed, although his position was surely harder to handle. Wei Yi finally got a real game against Vincent Keymer but was on the worse side of the draw. Gukesh wa",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-abdusattorov-share-lead-in-the-tata-steel-masters-after-three-rounds",
-         "pubDate" : "Mon, 20 Jan 2025 23:20:00",
-         "title" : "Praggnanandhaa and Abdusattorov share lead in the Tata Steel Masters after three rounds - 3"
-      },
-      {
-         "description" : "Gukesh and Caruana are both on two points after the result and it remains to be seen who among the rest could overtake them.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43492986/tata-steel-chess-day-3-world-champion-d-gukesh-fabiano-caruana-top-seed?device=featurephone",
-         "pubDate" : "Mon, 20 Jan 2025 22:28:32",
-         "title" : "Tata Steel Chess Day 3: Praggnanandhaa takes lead with win over Erigaisi; Gukesh draws with Caruana"
       }
    ]
 }
