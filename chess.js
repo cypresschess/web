@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week we gave you three puzzles to solve. Were you able to solve them moving the pieces on the diagrams, or all in your head, like a couple of 2700+ friends did. In any case today we bring you the solutions, explained to us in his inimitable style by chess trainer Gauri Shankar of Chicago. Have fun and learn!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-puzzles-solutions-2",
+         "pubDate" : "Tue, 11 Feb 2025 08:21:24",
+         "title" : "Chess puzzles solutions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118139954.cms\" />Indian chess Grandmaster R Vaishali aims for consistent performances and a spot in the Candidates Tournament this year. After becoming India's third female Grandmaster, she played a pivotal role in India's Chess Olympiad win and clinched bronze at the World Blitz Championship. Vaishali seeks to build on her experiences and improve her rankings in future tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-on-nodirbeks-handshake-refusal-didnt-know-it-was-big-thing-in-india/articleshow/118139954.cms",
+         "pubDate" : "Tue, 11 Feb 2025 08:15:19",
+         "title" : "Vaishali on handshake refusal: 'Didn't know it was big thing in India'"
+      },
+      {
          "description" : "The 8th edition of the Ciudad de Montevideo Open concluded with Argentine IM Lucas Coro claiming victory, scoring 8/9 points. Uruguay's FM Facundo V&aacute;zquez and IM Claudio Coppola secured second and third place. In the women's category, WIM Milagros Tatiana Brizzi from Argentina took first place. Held at the Montevideo Municipality Conference Center, the tournament featured 99 participants from 11 countries.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-4",
          "pubDate" : "Mon, 10 Feb 2025 10:17:00",
          "title" : "Sindarov Upsets Nakamura, Joins Carlsen, Caruana, Keymer In Semifinals"
-      },
-      {
-         "description" : "D Gukesh will vie for the fifth to eighth place rankings in the Freestyle Chess Grand Slam at Weissenhaus.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43779369/gukesh-loses-quarterfinal-caruana-freestyle-chess-weissenhaus-2025?device=featurephone",
-         "pubDate" : "Mon, 10 Feb 2025 10:02:56",
-         "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
       },
       {
          "description" : "Several NFL stars, as well as GM Maurice Ashley&#38;nbsp;and FM James Canty, joined Chess.com, in collaboration with NFL Legends, in the festivities before the Super Bowl on Canal Street in New Orleans this Friday, February 7. Current and former NFL p...",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-tightens-lead-at-the-top-r-praggnanandhaa-back-to-winning-ways/articleshow/117706024.cms",
          "pubDate" : "Wed, 29 Jan 2025 21:05:39",
          "title" : "Gukesh tightens lead at the top; Pragg back to winning ways"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117695001.cms\" />Magnus Carlsen criticised FIDE after co-founding Freestyle Chess Players Club with Jan Henric Beuttner, which led to a dispute over the term \"World Championship\". Carlsen supports Beuttner's stance that their new tour shouldn't replace traditional championships but should have its unique format. FIDE warned of potential conflict but expressed openness to collaboration.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-magnus-carlsen-drops-three-word-bombshell-on-fide-after-freestyle-chess-open-letter/articleshow/117695001.cms",
-         "pubDate" : "Wed, 29 Jan 2025 15:12:15",
-         "title" : "World No. 1 Carlsen drops bombshell on FIDE after open letter"
       },
       {
          "description" : "GM Gukesh Dommaraju pounced on a far from obvious mistake by GM Max Warmerdam to retain the sole lead on 7.5/10 going into the final 2025 Tata Steel Chess Masters rest day. GM Nodirbek Abdusattorov remains half a point behind after taking huge ris...",
