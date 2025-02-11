@@ -26,12 +26,12 @@ news_feed (
          "title" : "Freestyle Chess Grand Slam Participants Agree on \"Freestyle Chess Champion\" Title"
       },
       {
-         "description" : "Last week we gave you three puzzles to solve. Were you able to solve them moving the pieces on the diagrams, or all in your head, like a couple of 2700+ friends did. In any case today we bring you the solutions, explained to us in his inimitable style by chess trainer Gauri Shankar of Chicago. Have fun and learn!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-puzzles-solutions-2",
-         "pubDate" : "Tue, 11 Feb 2025 08:21:24",
-         "title" : "Chess puzzles solutions"
+         "description" : "GM Vincent Keymer defeated world number-one GM Magnus Carlsen in game one of the 2025 Weissenhaus Freestyle Chess Grand Slam Semifinals. GM Fabiano Caruana vs. GM Javokhir Sindarov ended in a draw, though the Uzbek GM missed a big chance at the en...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-5",
+         "pubDate" : "Tue, 11 Feb 2025 08:22:18",
+         "title" : "Keymer Beats Carlsen In Semifinal Game 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118139954.cms\" />Indian chess Grandmaster R Vaishali aims for consistent performances and a spot in the Candidates Tournament this year. After becoming India's third female Grandmaster, she played a pivotal role in India's Chess Olympiad win and clinched bronze at the World Blitz Championship. Vaishali seeks to build on her experiences and improve her rankings in future tournaments.",
@@ -40,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-on-nodirbeks-handshake-refusal-didnt-know-it-was-big-thing-in-india/articleshow/118139954.cms",
          "pubDate" : "Tue, 11 Feb 2025 08:15:19",
          "title" : "Vaishali on handshake refusal: 'Didn't know it was big thing in India'"
+      },
+      {
+         "description" : "We&#39;re excited to announce the Chess.com 3-Check Chess Championship, the second event of the 2025 Chess.com Community Championships! The event starts February 27 at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST with the qualifiers and features a $2,500 pri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-3-check-chess-championship-2025",
+         "pubDate" : "Tue, 11 Feb 2025 08:00:00",
+         "title" : "Who Says Spite Checks Never Work? Get Ready For Chess.com's 3-Check Chess Championship!"
       },
       {
          "description" : "GM Robby Kevlishvili top scored with 4/4 and GM Aryan Chopra made 3.5/4 as Saint Louis University moved to a perfect 3/3 with victory in week three of the Collegiate Chess League Spring 2025 (CCL). They beat their fierce rivals from Chennai, SRM I...",
@@ -802,14 +810,6 @@ news_feed (
          "title" : "Bortnyk Outlasts Carlsen, Nakamura In Freestyle Friday"
       },
       {
-         "description" : "There were four decisive games in round 11 of the 2025 Tata Steel Chess Masters, three of them won by Indian grandmasters with the black pieces. The smoke has cleared, and World Champion Gukesh Dommaraju is still in the sole lead.&#38;nbsp; GM Nodir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 31 Jan 2025 11:50:00",
-         "title" : "Praggnanandhaa Climbs, Abdusattorov Misses, Gukesh Still Leads"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117788129.cms\" />India may lose the opportunity to host the Freestyle Chess Grand Slam Tour due to a lack of investor support. Organizers are considering alternative venues unless an Indian investor steps forward. Talks with Indian tycoon Anand Mahindra did not yield support as his focus remains on the Global Chess League.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -824,14 +824,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/31/wood-green-and-manx-liberty-take-four-nations-chess-league-down-to-the-wire",
          "pubDate" : "Fri, 31 Jan 2025 08:00:49",
          "title" : "Wood Green and Manx Liberty take Four Nations Chess League down to the wire"
-      },
-      {
-         "description" : "We&#39;re excited to announce the first leg of the 2025 Champions Chess Tour, the Chessable Masters! Starting February 16, the event will be the first of two online events on the Tour and feature a $150,000 prize fund. This year, there is more on th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chessable-masters-2025",
-         "pubDate" : "Fri, 31 Jan 2025 08:00:00",
-         "title" : "Chessable Masters Opens 2025 Champions Chess Tour Spearheaded By 5-Time Champion Carlsen"
       },
       {
          "description" : "The theme of this issue of Check is in the Mail is chess Combinations. All of the games are from 2024, end in a win (no draws), are NOT miniatures (see the previous issue for miniatures), and, to focus on the theme of this issue, all contain one or more Combinations in the moves of the game or within a variation from the analysis of the game.Combinations, in this instance, are those moves defined in the Encyclopaedia of Chess Combinations, published by Chess Informant. The Combinations covered, listed here in alphabetical order, include Annihilation of Defense, Blockade, Clearance, Decoy, Deflection, Demolition of the Pawn Structure, Discovered Attack, Double Attack, Interference and Pinning",
