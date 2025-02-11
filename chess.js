@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
+         "pubDate" : "Tue, 11 Feb 2025 12:50:00",
+         "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen and Fabiano Caruana came from winning their initial quarterfinal games at the Weissenhaus Freestyle Chess tournament, and also grabbed wins in their second encounters. Vincent Keymer, meanwhile, scored the draw he needed against Firouzja to reach the semifinals. Javokhir Sindarov prevailed against Hikaru Nakamura in a close match that went to tiebreaks. Levon Aronian won the battle for ninth place against Vladimir Fedoseev. | Photo: Freestyle Chess / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-3",
+         "pubDate" : "Tue, 11 Feb 2025 11:40:00",
+         "title" : "Weissenhaus QF: Sindarov knocks out Nakamura"
+      },
+      {
+         "description" : "On Sunday evening, after the end of the Freestyle Chess rapid round robin at the Weissenhaus luxury resort, the players involved in the Freestyle Grand Slam discussed how to deal with the controversy between Freestyle Chess and FIDE. In response to FIDE's demands, a separate Freestyle Chess Association is now to be founded.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-participants-agree-on-freestyle-chess-champion-title",
+         "pubDate" : "Tue, 11 Feb 2025 10:10:00",
+         "title" : "Freestyle Chess Grand Slam Participants Agree on \"Freestyle Chess Champion\" Title"
+      },
+      {
          "description" : "Last week we gave you three puzzles to solve. Were you able to solve them moving the pieces on the diagrams, or all in your head, like a couple of 2700+ friends did. In any case today we bring you the solutions, explained to us in his inimitable style by chess trainer Gauri Shankar of Chicago. Have fun and learn!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +42,14 @@ news_feed (
          "title" : "Vaishali on handshake refusal: 'Didn't know it was big thing in India'"
       },
       {
+         "description" : "GM Robby Kevlishvili top scored with 4/4 and GM Aryan Chopra made 3.5/4 as Saint Louis University moved to a perfect 3/3 with victory in week three of the Collegiate Chess League Spring 2025 (CCL). They beat their fierce rivals from Chennai, SRM I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-3-slu-triumph",
+         "pubDate" : "Tue, 11 Feb 2025 03:00:00",
+         "title" : "Saint Louis Wins Clash Of Leaders To Reach 3/3"
+      },
+      {
          "description" : "The 8th edition of the Ciudad de Montevideo Open concluded with Argentine IM Lucas Coro claiming victory, scoring 8/9 points. Uruguay's FM Facundo V&aacute;zquez and IM Claudio Coppola secured second and third place. In the women's category, WIM Milagros Tatiana Brizzi from Argentina took first place. Held at the Montevideo Municipality Conference Center, the tournament featured 99 participants from 11 countries.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-bows-out-of-freestyle-grand-slam-chess-after-loss-to-fabiano-caruana/articleshow/118123163.cms",
          "pubDate" : "Mon, 10 Feb 2025 15:48:14",
          "title" : "Gukesh bows out of Freestyle Grand Slam chess after loss to Caruana"
-      },
-      {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Mon, 10 Feb 2025 12:50:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118119319.cms\" />At a meeting in Weissenhaus on Sunday, the Freestyle Chess Players Club declared the 2025 Grand Slam Tour winner will be titled 'Freestyle Chess Champion'. The club plans to establish an independent association to protect their interests, challenging FIDE's restrictive policies. Players are uniting to safeguard their freedom to compete in both Freestyle and FIDE events.",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-4",
          "pubDate" : "Mon, 10 Feb 2025 10:17:00",
          "title" : "Sindarov Upsets Nakamura, Joins Carlsen, Caruana, Keymer In Semifinals"
+      },
+      {
+         "description" : "D Gukesh will vie for the fifth to eighth place rankings in the Freestyle Chess Grand Slam at Weissenhaus.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43779369/gukesh-loses-quarterfinal-caruana-freestyle-chess-weissenhaus-2025?device=featurephone",
+         "pubDate" : "Mon, 10 Feb 2025 10:02:56",
+         "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
       },
       {
          "description" : "Several NFL stars, as well as GM Maurice Ashley&#38;nbsp;and FM James Canty, joined Chess.com, in collaboration with NFL Legends, in the festivities before the Super Bowl on Canal Street in New Orleans this Friday, February 7. Current and former NFL p...",
@@ -229,9 +261,9 @@ news_feed (
          "description" : "The biggest myth in chess improvement is that it's complicated. I've worked with players at all levels, and time and time again, the simple plans-done right-lead to the most incredible results. If you break it down, only three things really matter to improve your chess. In the new version of my Next Level Training course, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/stay-consistent/",
+         "link" : "https://nextlevelchess.com/three-dos/",
          "pubDate" : "Sat, 08 Feb 2025 14:00:00",
-         "title" : "The Biggest Myth in Chess Improvement: It's Not as Complex as You Think"
+         "title" : "The Three Do's Of Simplified Chess Improvement"
       },
       {
          "description" : "In an earlier column, I lamented the looming death of classical chess. Tournament chess, as we know it, is under continuous threat from a deadly trio of Armageddon finishes (in which White has a time advantage but a draw with Black counts as a win), blitz (10 seconds a move), super-fast bullet games (one second a []",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "Gukesh tightens lead at the top; Pragg back to winning ways"
       },
       {
-         "description" : "GM Gukesh Dommaraju pounced on a far from obvious mistake by GM Max Warmerdam to retain the sole lead on 7.5/10 going into the final 2025 Tata Steel Chess Masters rest day. GM Nodirbek Abdusattorov remains half a point behind after taking huge ris...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-10",
-         "pubDate" : "Wed, 29 Jan 2025 12:11:00",
-         "title" : "Gukesh Scores 5th Win; Abdusattorov, Praggnanandhaa In Hot Pursuit"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1240,30 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3394",
          "pubDate" : "Tue, 21 Jan 2025 22:00:28",
          "title" : "Chess Championships at 8th CSIT World Sports Games: Registration open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3393",
-         "pubDate" : "Tue, 21 Jan 2025 11:53:21",
-         "title" : "World Social Chess Initiatives Marathon: Chess as a catalyst for social change"
-      },
-      {
-         "description" : "FIDE World School Chess Championship 2025 will be started from 19th to 29th March, 2025 at Vrnjacka Banja, Serbia, and players participated in the Over",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-school-chess-championship-2025/",
-         "pubDate" : "Tue, 21 Jan 2025 11:42:49",
-         "title" : "FIDE World School Chess Championship - 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3392",
-         "pubDate" : "Tue, 21 Jan 2025 11:00:40",
-         "title" : "FIDE Statement regarding the \"Freestyle Chess\" project"
       }
    ]
 }
