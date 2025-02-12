@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118164392.cms\" />Freestyle Chess, created by German entrepreneur Jan Henric Buettner and endorsed by Magnus Carlsen, introduces excitement into chess with randomised starting positions and faster gameplay. The tournament has quickly gained traction among top players worldwide, offering a Grand Slam-style point system and open qualifiers. Carlsen's vision aims to revolutionize and popularize the game globally.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-birth-of-freestyle-chess-how-magnus-carlsens-perfect-tournament-came-into-being/articleshow/118164392.cms",
+         "pubDate" : "Wed, 12 Feb 2025 05:33:21",
+         "title" : "How Magnus Carlsen's 'perfect tournament' came into being"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118161778.cms\" />Grandmaster Arjun Erigaisi is optimistic about securing a Candidates Tournament spot in 2025, feeling stronger and more prepared. Reflecting on his near misses, he is determined to qualify this year. Upcoming events, including the Norway elite meet, and insights from coach Rustam Kasimdzhanov boost his confidence for the competitions ahead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-need-to-play-a-bit-more-solidly-arjun-erigaisi/articleshow/118161778.cms",
+         "pubDate" : "Wed, 12 Feb 2025 03:27:23",
+         "title" : "I need to play a bit more solidly: Arjun Erigaisi"
+      },
+      {
          "description" : "Vincent Keymer will keep good memories of his Tuesday game in Weissenhaus, as he managed to beat Magnus Carlsen in the first semifinal game at Freestyle Chess tournament. Keymer's win was achieved in the only decisive game on the day. The other semifinal saw Javokhir Sindarov missing a chance to beat Fabiano Caruana in a tricky endgame. | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -802,14 +818,6 @@ news_feed (
          "title" : "Bortnyk Outlasts Carlsen, Nakamura In Freestyle Friday"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117788129.cms\" />India may lose the opportunity to host the Freestyle Chess Grand Slam Tour due to a lack of investor support. Organizers are considering alternative venues unless an Indian investor steps forward. Talks with Indian tycoon Anand Mahindra did not yield support as his focus remains on the Global Chess League.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-financial-woes-threaten-indias-bid-to-host-d-gukesh-in-freestyle-chess-grand-slam-tour/articleshow/117788129.cms",
-         "pubDate" : "Fri, 31 Jan 2025 10:55:42",
-         "title" : "Financial woes threaten India's bid to host D Gukesh"
-      },
-      {
          "description" : " The teams have both won all their four matches in the UK national league and are set to meet in the final round in May The UK's national league, the 4NCL, is turning into a two-horse race after last weekend's third and fourth rounds at Peterborough. Wood Green, the 2024 and London League champions, and Manx Liberty, the 2023 winners whose core is a group of Romanian and Hungarian grandmasters, have both won all their four matches. After four of the 11 rounds the leaders are Wood Green with 8 match points (24 game points) and Manx Liberty on 8 (23.5), then Cheddleton Savills Catering 6 (19), Barnet Knights 6 (18). The fixture list is geared to producing a climax, so that Wood Green v Manx wi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/check-mail-february-2025-unlock-combination",
          "pubDate" : "Fri, 31 Jan 2025 00:00:00",
          "title" : "Check is in the Mail, February 2025: Unlock the Combination!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117749503.cms\" />Uzbek Grandmaster Nodirbek Yakubboev, after previously apologising to Indian Grandmaster R Vaishali for not shaking hands during a match, met her again with flowers and chocolates to further express regret. Yakubboev clarified his action was due to religious reasons and reiterated his respect for Vaishali and Indian chess players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nodirbek-yakubboev-extends-heartfelt-apology-to-grandmaster-r-vaishali-with-flowers-and-chocolates/articleshow/117749503.cms",
-         "pubDate" : "Thu, 30 Jan 2025 16:50:58",
-         "title" : "Yakubboev extends heartfelt apology to R Vaishali with flowers and chocolates"
       },
       {
          "description" : "That title is an obscure reference to last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-championship-yahoos-2024-22.html\">World Championship Yahoos 2024</A> ('2/2'; December 2024), which was largely about the 2024 World Rapid and Blitz Championships in New York City. I'll come back to that event in a moment. <P> First let's have some stats. This month's Yahoos post (see the footnote for an explanation of Yahoos) had 104 stories, of which one was an older post from mid-December. Those 104 stories were supplemented by two additional pages: 'Magnus Carlsen on Freestyle chess controversy' with 25 stories, and 'Gukesh beats Mendonca to lead Tata Steel Masters' ",
