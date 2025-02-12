@@ -18,12 +18,28 @@ news_feed (
          "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
+         "description" : "GMs Vincent Keymer and Fabiano Caruana won two grueling matches and advance to the 2025 Weissenhaus Freestyle Chess Grand Slam Final. In the shorter match, Keymer ended GM Magnus Carlsen&#39;s hopes of earning the $200,000 first prize by drawing game ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-6",
+         "pubDate" : "Wed, 12 Feb 2025 11:54:08",
+         "title" : "Keymer Knocks Carlsen Out Of Race For 1st, Caruana Wins 7.5-Hour Marathon Vs. Sindarov"
+      },
+      {
          "description" : "The Key to Opening Success: Unlock your chess potential with this dynamic course focused on mastering the initiative. Whether you're looking to gain an advantage or counter an early attack, this video course will give you the tools to navigate the critical early stages of the game with confidence and precision",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christian-bauer-the-art-of-initiative-the-key-to-opening-success",
          "pubDate" : "Wed, 12 Feb 2025 09:35:59",
          "title" : "Christian Bauer: The Art of Initiative - The Key to Opening Success"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Parham Maghsoodloo were your Titled Tuesday winners on February 11. Carlsen won outright on 10.5 points and Maghsoodloo also won outright, with 10 points. It was the first win of 2025 for both of them, although each also won...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-win-titled-tuesday-february-11-2025",
+         "pubDate" : "Wed, 12 Feb 2025 09:25:50",
+         "title" : "Carlsen Takes Tuesday Fresh Off Freestyle"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118164392.cms\" />Freestyle Chess, created by German entrepreneur Jan Henric Buettner and endorsed by Magnus Carlsen, introduces excitement into chess with randomised starting positions and faster gameplay. The tournament has quickly gained traction among top players worldwide, offering a Grand Slam-style point system and open qualifiers. Carlsen's vision aims to revolutionize and popularize the game globally.",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-signs-deal-with-team-vitality",
          "pubDate" : "Wed, 12 Feb 2025 02:02:00",
          "title" : "Vachier-Lagrave Signs With Team Vitality Ahead Of Esports World Cup"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on 19-year-old FM Rochelle Wu and 16-year-old WIM Iris Mou. The two regulars at the annual U.S. Junior Girls' Championship both posted results to be proud of in New York, with Wu going 6/11 in the Blitz and Mou going 6/11 in the Rapid. These plus-scores earned each player a haul of FIDE rating points, which makes ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-4-wu-mou",
+         "pubDate" : "Wed, 12 Feb 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 4 (Wu & Mou)"
       },
       {
          "description" : "The US Chess Office will be closed Monday, February 17, in recognition of Presidents Day. It will reopen on Tuesday, February 18 for normal business hours.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding, <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> ",
@@ -778,28 +802,12 @@ news_feed (
          "title" : "From 5K to 18K: How Smart Training Transforms Running-and Chess"
       },
       {
-         "description" : "Winning his third game in a row, GM Praggnanandhaa Rameshbabu defeated GM Alexey Sarana and now co-leads the 2025 Tata Steel Chess Masters with World Champion Gukesh Dommaraju. Gukesh nearly won and nearly lost against GM Jorden van Foreest in a c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-tata-steel-chess-round-12",
-         "pubDate" : "Sat, 01 Feb 2025 13:15:00",
-         "title" : "Gukesh, Praggnanandhaa Lead; Arjun Takes Down Abdusattorov"
-      },
-      {
          "description" : "As we embark on the 40th anniversary of the European Chess Union (ECU), we reflect on the remarkable journey that began in 1985. Founded with a vision to unify and elevate European chess, the ECU has grown into a pivotal organization, representing 54 National Federation Members and orchestrating over 20 prestigious events annually. The Visionary Founding:&#160;In the mid-1980s, a group of visionary chess enthusiasts recognized the need for a unified body to represent European chess federations. Among these pioneers were []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/celebrating-40-years-of-excellence-the-founding-of-the-european-chess-union/",
          "pubDate" : "Sat, 01 Feb 2025 10:22:59",
          "title" : "Celebrating 40 Years of Excellence: The Founding of the European Chess Union"
-      },
-      {
-         "description" : "This February, five eligible bachelors and bachelorettes are competing to win your love&#38;mdash;and your pieces! Will it be Bachelor #1, DJ Ron Passant, That Person You Ghosted, Trisha, or a goose? That&#38;rsquo;s for your heart to decide.&#38;nbsp; Read...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/valentines-bots-2025",
-         "pubDate" : "Sat, 01 Feb 2025 07:00:00",
-         "title" : "Play New Chess Bots In \"The Checkmating Game\"!"
       },
       {
          "description" : "World champion D Gukesh climbed to world no. 3 in the live rankings, and has a 0.5 lead with two rounds to go.",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/national-schools-report-girls-semi-finals/",
          "pubDate" : "Thu, 30 Jan 2025 13:16:15",
          "title" : "National Schools report - Girls Semi-Finals"
-      },
-      {
-         "description" : "No Claim, No Problem: The TD Calls It a Draw AnyhowWe all know that the TD can't interfere in your game without a claim being made. It is one of our golden rules. Or is it? Let's take a look at a few exceptions! Flag 'em DannoIt is a Sudden Death contest. The pressure is on. You are focused, but so is your opponent. Both of you are banging out moves at lightning speeds. Both of you are playing \"Beat the Clock.\" Someone's playing time is going to disappear first. Then it happens. The TD's voice registers in your brain, and you hear words you can't believe, \"The game's a draw!\" Both of you look stunned and confused. Neither of you made a claim. How can it be that the TD called your game a draw",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-no-claim-no-problem",
-         "pubDate" : "Thu, 30 Jan 2025 00:00:00",
-         "title" : "Just the Rules: No Claim, No Problem"
       },
       {
          "description" : "India's Gukesh scored a win over compatriot Leon Mendonca in ninth round of the Tata Steel Masters to go clear at the top.",
