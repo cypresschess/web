@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3416",
+         "pubDate" : "Wed, 12 Feb 2025 16:03:35",
+         "title" : "Olga Badelka to replace Regina Theissl-Pokorna in FIDE WGP 2024-25 series"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "Vachier-Lagrave Signs With Team Vitality Ahead Of Esports World Cup"
       },
       {
-         "description" : "Vincent Keymer will keep good memories of his Tuesday game in Weissenhaus, as he managed to beat Magnus Carlsen in the first semifinal game at Freestyle Chess tournament. Keymer's win was achieved in the only decisive game on the day. The other semifinal saw Javokhir Sindarov missing a chance to beat Fabiano Caruana in a tricky endgame. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-4",
-         "pubDate" : "Tue, 11 Feb 2025 22:50:00",
-         "title" : "Weissenhaus SF: Keymer stuns Carlsen"
+         "description" : "The US Chess Office will be closed Monday, February 17, in recognition of Presidents Day. It will reopen on Tuesday, February 18 for normal business hours.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding, <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-office-closed-monday-february-17-presidents-day",
+         "pubDate" : "Wed, 12 Feb 2025 00:00:00",
+         "title" : "US Chess Office Closed Monday, February 17 for Presidents Day"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118152895.cms\" />World champion D Gukesh drew with Hikaru Nakamura in the Freestyle Grand Slam chess tournament in Hamburg. Magnus Carlsen faced a surprising defeat by Vincent Keymer. Gukesh's draw marked his eighth in the competition, showcasing his recovery after a loss to Fabiano Caruana.",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-hikaru-nakamura-to-a-draw-in-freestyle-grand-slam-chess/articleshow/118152895.cms",
          "pubDate" : "Tue, 11 Feb 2025 16:57:41",
          "title" : "D Gukesh holds Hikaru Nakamura to a draw in Freestyle Grand Slam chess"
-      },
-      {
-         "description" : "On Sunday evening, after the end of the Freestyle Chess rapid round robin at the Weissenhaus luxury resort, the players involved in the Freestyle Grand Slam discussed how to deal with the controversy between Freestyle Chess and FIDE. In response to FIDE's demands, a separate Freestyle Chess Association is now to be founded.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-grand-slam-participants-agree-on-freestyle-chess-champion-title",
-         "pubDate" : "Tue, 11 Feb 2025 10:10:00",
-         "title" : "Freestyle Chess Grand Slam Participants Agree on \"Freestyle Chess Champion\" Title"
       },
       {
          "description" : "GM Vincent Keymer defeated world number-one GM Magnus Carlsen in game one of the 2025 Weissenhaus Freestyle Chess Grand Slam Semifinals. GM Fabiano Caruana vs. GM Javokhir Sindarov ended in a draw, though the Uzbek GM missed a big chance at the en...",
@@ -184,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/blitzchamps-live-new-orleans-chesscom-nfl-legends",
          "pubDate" : "Mon, 10 Feb 2025 09:24:32",
          "title" : "Maurice Ashley, Larry Fitzgerald Jr., And NFL Legends Celebrate Chess In New Orleans"
-      },
-      {
-         "description" : "The knockout stage of the Freestyle Chess tournament in Weissenhaus began with the first classical games of the quarterfinals and the ninth-place playoff. Magnus Carlsen, Fabiano Caruana, and Vincent Keymer took the lead in their matches, while Hikaru Nakamura and Javokhir Sindarov remain level after a draw. In the ninth-place playoff, Levon Aronian defeated Vladimir Fedoseev with white. Sunday's starting position led to dynamic struggles, with all white players opting for 1.f4. The second classical games will now determine who advances or forces tiebreaks. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-2",
-         "pubDate" : "Mon, 10 Feb 2025 09:10:00",
-         "title" : "Weissenhaus QF: Carlsen, Caruana and Keymer start knockout with wins"
       },
       {
          "description" : "The ECU E-Magazine January 2025 is out! In this edition of the ECU Magazine you may read about: The January 2025 edition of the ECU Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format below.",
@@ -938,14 +930,6 @@ news_feed (
          "title" : "NextGen Cup: An African Diaspora Chess Battle!"
       },
       {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming out party f",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-2-kids-are-alright",
-         "pubDate" : "Wed, 29 Jan 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 2 (The Kids Are Alright)"
-      },
-      {
          "description" : " Today produced an opportunity for the World Champion Gukesh to take the lead and he delivered by beating Mendonca in a good game with the white pieces. His co leaders could not match him, Abdusattorov, drew in a solid game against Caruana, and Praggnanandhaa lost to Giri. Gukesh played a complicated game and while his opponent Mendonca played strongly for much of the game, he needed too much time to do so and in zeitnot he made a bad blunder. Giri put Praggnanandhaa under pressure and although he missed a few chances to win earlier he still got the converted the advantage to a full point after the time control. Abdusattorov played mostly solidly against Caruana but there was one chance in t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1216,14 +1200,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43527767/gukesh-grinds-win-close-gap-leader-praggnanandhaa-round-5-tata-steel-chess?device=featurephone",
          "pubDate" : "Wed, 22 Jan 2025 22:51:53",
          "title" : "Gukesh grinds out win to close gap on leader Pragg in Round 5 of Tata Steel Chess"
-      },
-      {
-         "description" : "I spent the past weekend in London, filming content for Alessia's YouTube channel. When people realized I was a GM and Coach, they approached me to ask some questions. At least a dozen times, I had this exact conversation: \"Oh, you are a Grandmaster and Coach. Can I ask you a question about chess improvement?\" []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/secret-to-chess-improvement/",
-         "pubDate" : "Wed, 22 Jan 2025 14:51:29",
-         "title" : "One of my subscribers beat me - here is how"
       }
    ]
 }
