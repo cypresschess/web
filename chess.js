@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
+         "pubDate" : "Wed, 12 Feb 2025 12:55:00",
+         "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "The Key to Opening Success: Unlock your chess potential with this dynamic course focused on mastering the initiative. Whether you're looking to gain an advantage or counter an early attack, this video course will give you the tools to navigate the critical early stages of the game with confidence and precision",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christian-bauer-the-art-of-initiative-the-key-to-opening-success",
+         "pubDate" : "Wed, 12 Feb 2025 09:35:59",
+         "title" : "Christian Bauer: The Art of Initiative - The Key to Opening Success"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118164392.cms\" />Freestyle Chess, created by German entrepreneur Jan Henric Buettner and endorsed by Magnus Carlsen, introduces excitement into chess with randomised starting positions and faster gameplay. The tournament has quickly gained traction among top players worldwide, offering a Grand Slam-style point system and open qualifiers. Carlsen's vision aims to revolutionize and popularize the game globally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-need-to-play-a-bit-more-solidly-arjun-erigaisi/articleshow/118161778.cms",
          "pubDate" : "Wed, 12 Feb 2025 03:27:23",
          "title" : "I need to play a bit more solidly: Arjun Erigaisi"
+      },
+      {
+         "description" : "French GM Maxime Vachier-Lagrave has officially joined Team Vitality, becoming the latest chess star to sign with an esports organization ahead of the 2025 Esports World Cup (EWC). The French club, founded in 2013, has grown into one of Europe&#39;s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-signs-deal-with-team-vitality",
+         "pubDate" : "Wed, 12 Feb 2025 02:02:00",
+         "title" : "Vachier-Lagrave Signs With Team Vitality Ahead Of Esports World Cup"
       },
       {
          "description" : "Vincent Keymer will keep good memories of his Tuesday game in Weissenhaus, as he managed to beat Magnus Carlsen in the first semifinal game at Freestyle Chess tournament. Keymer's win was achieved in the only decisive game on the day. The other semifinal saw Javokhir Sindarov missing a chance to beat Fabiano Caruana in a tricky endgame. | Photo: Freestyle Chess / Lennart Ootes",
@@ -104,6 +128,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-4-mou-wu",
          "pubDate" : "Tue, 11 Feb 2025 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 4 (Mou & Wu)"
+      },
+      {
+         "description" : "Continuing to explore the bizarre, parallel world of AI chess comics, it's been a month since the post on <A HREF=\"https://chessforallages.blogspot.com/2025/01/surrealist-chess.html\">Surrealist Chess</A> (January 2025; 'Rene Magritte plays surrealist chess'). Perhaps the best known chess artist is Marcel Duchamp, so let's see what the AI software thinks about him and his work. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb10.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Marcel Duchamp plays surrealist chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> While that's unmistakably Marcel Duchamp, the images aren't nearly as compelling as those in the Magritte ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/surrealist-cubist-dadaist-chess.html",
+         "pubDate" : "Mon, 10 Feb 2025 16:53:00",
+         "title" : "Surrealist, Cubist, Dadaist Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118123163.cms\" />World champion D Gukesh exited the Freestyle Grand Slam Chess after his second quarterfinal loss to Fabiano Caruana in Hamburg. Gukesh, needing a win, blundered a pawn early, leading to his resignation in just 18 moves. Despite the setback, he remains in the tournament, now focusing on a last-four finish.",
@@ -808,14 +840,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-2025/",
          "pubDate" : "Fri, 31 Jan 2025 14:23:14",
          "title" : "British Chess Championships 2025"
-      },
-      {
-         "description" : "For much of the second-ever Freestyle Friday on January 31, it seemed that GM Magnus Carlsen would defend his victory from last week. After starting 9/9 on January 24, Carlsen started 8/8 this Friday. In the end, however,&#38;nbsp;GM Oleksandr Bortnyk...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-january-31-2025",
-         "pubDate" : "Fri, 31 Jan 2025 12:33:00",
-         "title" : "Bortnyk Outlasts Carlsen, Nakamura In Freestyle Friday"
       },
       {
          "description" : " The teams have both won all their four matches in the UK national league and are set to meet in the final round in May The UK's national league, the 4NCL, is turning into a two-horse race after last weekend's third and fourth rounds at Peterborough. Wood Green, the 2024 and London League champions, and Manx Liberty, the 2023 winners whose core is a group of Romanian and Hungarian grandmasters, have both won all their four matches. After four of the 11 rounds the leaders are Wood Green with 8 match points (24 game points) and Manx Liberty on 8 (23.5), then Cheddleton Savills Catering 6 (19), Barnet Knights 6 (18). The fixture list is geared to producing a climax, so that Wood Green v Manx wi",
