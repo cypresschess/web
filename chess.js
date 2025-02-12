@@ -2,28 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer will keep good memories of his Tuesday game in Weissenhaus, as he managed to beat Magnus Carlsen in the first semifinal game at Freestyle Chess tournament. Keymer's win was achieved in the only decisive game on the day. The other semifinal saw Javokhir Sindarov missing a chance to beat Fabiano Caruana in a tricky endgame. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-4",
+         "pubDate" : "Tue, 11 Feb 2025 22:50:00",
+         "title" : "Weissenhaus SF: Keymer stuns Carlsen"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118152895.cms\" />World champion D Gukesh drew with Hikaru Nakamura in the Freestyle Grand Slam chess tournament in Hamburg. Magnus Carlsen faced a surprising defeat by Vincent Keymer. Gukesh's draw marked his eighth in the competition, showcasing his recovery after a loss to Fabiano Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-hikaru-nakamura-to-a-draw-in-freestyle-grand-slam-chess/articleshow/118152895.cms",
          "pubDate" : "Tue, 11 Feb 2025 16:57:41",
          "title" : "D Gukesh holds Hikaru Nakamura to a draw in Freestyle Grand Slam chess"
-      },
-      {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Tue, 11 Feb 2025 12:50:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
-      },
-      {
-         "description" : "Magnus Carlsen and Fabiano Caruana came from winning their initial quarterfinal games at the Weissenhaus Freestyle Chess tournament, and also grabbed wins in their second encounters. Vincent Keymer, meanwhile, scored the draw he needed against Firouzja to reach the semifinals. Javokhir Sindarov prevailed against Hikaru Nakamura in a close match that went to tiebreaks. Levon Aronian won the battle for ninth place against Vladimir Fedoseev. | Photo: Freestyle Chess / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-3",
-         "pubDate" : "Tue, 11 Feb 2025 11:40:00",
-         "title" : "Weissenhaus QF: Sindarov knocks out Nakamura"
       },
       {
          "description" : "On Sunday evening, after the end of the Freestyle Chess rapid round robin at the Weissenhaus luxury resort, the players involved in the Freestyle Grand Slam discussed how to deal with the controversy between Freestyle Chess and FIDE. In response to FIDE's demands, a separate Freestyle Chess Association is now to be founded.",
@@ -58,6 +50,14 @@ news_feed (
          "title" : "Who Says Spite Checks Never Work? Get Ready For Chess.com's 3-Check Chess Championship!"
       },
       {
+         "description" : "Arjun Erigaisi has been signed by Gen G eSports to compete for a $1.5 million prize pool at the 2025 eSports World Cup in Saudi Arabia.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/43792937/arjun-erigaisi-finds-new-chess-boards-esports-world-cup-2025-remains-focussed-candidates-gukesh?device=featurephone",
+         "pubDate" : "Tue, 11 Feb 2025 06:31:17",
+         "title" : "Erigaisi finds new boards at eSports World Cup but remains focussed on Candidates"
+      },
+      {
          "description" : "GM Robby Kevlishvili top scored with 4/4 and GM Aryan Chopra made 3.5/4 as Saint Louis University moved to a perfect 3/3 with victory in week three of the Collegiate Chess League Spring 2025 (CCL). They beat their fierce rivals from Chennai, SRM I...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -74,20 +74,20 @@ news_feed (
          "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
       },
       {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Daaim Shabazz<br> <br> <br> <br> IM Stephen Muhammad (1962-2024)Stephen Muhammad, a prominent figure in chess in the southern United States, passed away on December 8th, 2024 at age 62. Born Stephen Booth on January 24, 1962, he was born in San Antonio Texas before living abroad and settling in Georgia. A nominee for the Georgia Chess Hall of Fame, Stephen is remembered for his over-the-board achievements and enduring influence inspiring the chess community.Known for his expertise with the London System and the Dutch Defense, Stephen was also a master of blitz chess and renowned for his ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/im-stephen-muhammad-1962-2024",
+         "pubDate" : "Tue, 11 Feb 2025 00:00:00",
+         "title" : "IM Stephen Muhammad (1962-2024)"
+      },
+      {
          "description" : "This week's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on 19-year-old FM Rochelle Wu and 16-year-old WIM Iris Mou. The two regulars at the annual U.S. Junior Girls' Championship both posted results to be proud of in New York, with Wu going 6/11 in the Blitz and Mou going 6/11 in the Rapid. These plus-scores earned each player a haul of FIDE rating point",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-4-mou-wu",
          "pubDate" : "Tue, 11 Feb 2025 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 4 (Mou & Wu)"
-      },
-      {
-         "description" : "The 8th edition of the Ciudad de Montevideo Open concluded with Argentine IM Lucas Coro claiming victory, scoring 8/9 points. Uruguay's FM Facundo V&aacute;zquez and IM Claudio Coppola secured second and third place. In the women's category, WIM Milagros Tatiana Brizzi from Argentina took first place. Held at the Montevideo Municipality Conference Center, the tournament featured 99 participants from 11 countries.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ciudad-montevideo-2025-final-report",
-         "pubDate" : "Mon, 10 Feb 2025 22:15:00",
-         "title" : "Lucas Coro outright winner at Ciudad de Montevideo Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118123163.cms\" />World champion D Gukesh exited the Freestyle Grand Slam Chess after his second quarterfinal loss to Fabiano Caruana in Hamburg. Gukesh, needing a win, blundered a pawn early, leading to his resignation in just 18 moves. Despite the setback, he remains in the tournament, now focusing on a last-four finish.",
@@ -104,14 +104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/2025-grand-slam-tour-winner-to-be-titled-freestyle-chess-champion/articleshow/118119319.cms",
          "pubDate" : "Mon, 10 Feb 2025 12:19:22",
          "title" : "2025 Grand Slam Tour winner to be titled 'Freestyle Chess Champion'"
-      },
-      {
-         "description" : "As the Djerba Chess Festival in Tunisia approaches, starting in just five days on February 15, Diana Mihajlova shares fond memories of Vasyl Ivanchuk, the most popular participant of the Djerba Chess Festival 2024: Vasyl Ivanchuk. | Photos: Diana Mihajlova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivanchuk-djerba-and-oranges",
-         "pubDate" : "Mon, 10 Feb 2025 11:45:00",
-         "title" : "Ivanchuk, Djerba, and Oranges"
       },
       {
          "description" : "",
@@ -194,14 +186,6 @@ news_feed (
          "title" : "Inside Story: Short of a Sweep, but Still Smooth"
       },
       {
-         "description" : "Rook endgames are often deceptively complex, with even top grandmasters struggling in seemingly straightforward positions. In \"Endgame essentials you need to know\", Surya Shekhar Ganguly explores key endgame concepts, highlighting how even the fundamental Lucena position has been misplayed at the highest level. Through real-life examples, including mistakes by Magnus Carlsen and himself, Ganguly demonstrates why mastering these essentials is crucial for players of all levels.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surya-ganguly-endgame-essentials-lucena",
-         "pubDate" : "Sun, 09 Feb 2025 22:15:00",
-         "title" : "Learn how to play (and how not to play) basic rook endgames"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -256,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-3",
          "pubDate" : "Sun, 09 Feb 2025 08:52:00",
          "title" : "Carlsen, Caruana, Keymer Win; Nakamura Lets Sindarov Escape"
-      },
-      {
-         "description" : "The 2025 FIDE Grand Swiss and Women's Grand Swiss will take place in Samarkand, Uzbekistan, from 3 to 15 September, marking the first time the event is hosted in the country. With a growing chess presence and past successes in global tournaments, Uzbekistan continues to establish itself as a major hub for the game. The tournament will offer direct qualification spots for the 2026 Candidates and an increased prize fund of at least 30%.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2025-announcement",
-         "pubDate" : "Sat, 08 Feb 2025 19:00:00",
-         "title" : "FIDE Grand Swiss 2025 to be held in Samarkand, Uzbekistan"
       },
       {
          "description" : "Two weeks after winning his first Bullet Brawl&#38;nbsp;title in 2025, GM Andrew Tang triumphed in Saturday&#39;s event with a score of 227, scooping up the $400 first prize in the process. 16-year-old GM Ediz Gurel finished in second place on 218 points ...",
@@ -370,7 +346,7 @@ news_feed (
          "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Update (February 10, 2025, 10 a.m.): Email notifications for TLA announcements remain paused as we continue to work on this issue.The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we work to resolve this issue.This page will be updated with future announcements as we work to resolve this situation.",
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Update (February 11, 2025, 3:30 p.m.): The issues has been resolved, and TLA notification emails are once again being sent out.Update (February 10, 2025, 10 a.m.): Email notifications for TLA announcements remain paused as we continue to work on this issue.The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tla-notification-system-undergoing-maintenance",
@@ -978,14 +954,6 @@ news_feed (
          "title" : "World Cadet & Youth Rapid and Blitz Chess Championships - 2025 in Rhodes - Greece from 12th to 18th April, 2025."
       },
       {
-         "description" : "This week's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! This week, we focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming ou",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-2-kids-are-alright",
-         "pubDate" : "Tue, 28 Jan 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 2 (The Kids Are Alright)"
-      },
-      {
          "description" : "In <A HREF=\"https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html\">Chess Guy Likes to Talk</A> (January 2025), I wrote, <BLOCKQUOTE> For the third time in less than a year, the monthly featured Flickr post contains two keywords: Shoreditch graffiti. </BLOCKQUOTE> <P> While working on that post I discovered a new resource, an example of which is shown in the following image. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa27.gif\" WIDTH=400 HEIGHT=165><BR> <A HREF=\"https://www.graffiti-empire.com/graffiti-generator/\">Online Graffiti Generator - Graffiti Empire</A><BR> graffiti-empire.com <P> That example was constructed using the first offered 'font' plus t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1232,30 +1200,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/secret-to-chess-improvement/",
          "pubDate" : "Wed, 22 Jan 2025 14:51:29",
          "title" : "One of my subscribers beat me - here is how"
-      },
-      {
-         "description" : " Praggnanandhaa took the sole lead of the Tata Steel Masters after four rounds, half a point clear of Nodirbek Abdusattorov who struggled to a draw after missing an early chance. It is still very early days of the Tata Steel tournament and Praggnanandhaa has started well before only to fall away. Today he had white against Leon Luke Mendonca, the lowest rated player in the tournament and clearly struggling. Praggnanandhaa had a serious advantage by move 16 and was clearly winning by move 27. Joint leader Abdusattorov had a chance to be much better with 15.c5! instead 15.Bf4? left Wei Yi pressing for a few moves but by move 24 the game was equal and drawn on move 35. Arjun Erigaisi was one of",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-leads-tata-steel-masters-after-four-rounds",
-         "pubDate" : "Wed, 22 Jan 2025 00:04:00",
-         "title" : "Praggnanandhaa leads Tata Steel Masters after four rounds - 4"
-      },
-      {
-         "description" : "World Champion D Gukesh needed six hours to draw, while R Praggnanandhaa took the sole lead overall with 3.5/4",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43512560/r-praggnanandhaa-leads-third-win-d-gukesh-draws-round-4-tata-steel-chess?device=featurephone",
-         "pubDate" : "Tue, 21 Jan 2025 22:36:13",
-         "title" : "Pragg leads after third win, Gukesh draws in Round 4 of Tata Steel Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3394",
-         "pubDate" : "Tue, 21 Jan 2025 22:00:28",
-         "title" : "Chess Championships at 8th CSIT World Sports Games: Registration open"
       }
    ]
 }
