@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What really happened in the deciding game of the 2024 World Chess Championship? GM Miguel Illescas, Director of Ajedrez21, delves into the shocking blunder that cost Ding Liren his title. Drawing from his concept of \"panic mode\", Illescas explains why even elite players can freeze under pressure, making irrational moves without calculation. In this article, he presents his theory with detailed analysis and compelling examples. | Photo: FIDE / Eng Chin An",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/panic-mode-miguel-illescas",
+         "pubDate" : "Thu, 13 Feb 2025 09:00:00",
+         "title" : "Panic mode"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118203012.cms\" />Vincent Keymer defeated world number one Magnus Carlsen to reach the Weissenhaus Freestyle Grand Slam final, where he will face Fabiano Caruana. Caruana won his semifinal against Javokhir Sindarov in an intense match that concluded after 7.5 hours of play.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sensational-vincent-keymer-defeats-magnus-carlsen-fabiano-caruana-books-second-spot-in-the-grand-slam-final/articleshow/118203012.cms",
+         "pubDate" : "Thu, 13 Feb 2025 05:33:26",
+         "title" : "Keymer defeats Carlsen, Caruana books second spot in Grand Slam final"
+      },
+      {
+         "description" : " The Chess Drum community Today marks the 24th anniversary of the founding of The Chess Drum. It is rare to have a digital platform for such a long time, and it may very well be the end of an era. Times have certainly changed, and content has moved across various online platforms. The Chess Drum The post <a href=\"https://thechessdrum.net/blog/2025/02/13/24-years-for-the-chess-drum/\">24 years for The Chess Drum!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/02/13/24-years-for-the-chess-drum/",
+         "pubDate" : "Thu, 13 Feb 2025 05:02:38",
+         "title" : "24 years for The Chess Drum!"
+      },
+      {
          "description" : "After winning game one of his semifinal match against Magnus Carlsen, Vincent Keymer held a draw in the second encounter to become the first player to reach the final. His opponent will be Fabiano Caruana, who won the tiebreaker against Javokhir Sindarov in Armageddon. | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Gukesh leads the Tata Steel Masters on 8/11 half a point clear of Praggnanandhaa and Abdusattorov - 11"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117802859.cms\" />Gukesh Dommaraju ascended to World No. 3 after drawing against reigning champion Wei Yi at the Tata Steel Chess Tournament 2025. Rameshbabu Praggnanandhaa scored a stunning win over top seed Fabiano Caruana, elevating him in the standings. Leon Luke Mendonca, Pentala Harikrishna, and Divya Deshmukh also recorded notable victories, marking a remarkable day for Indian chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-d-gukesh-becomes-new-world-no-3-as-r-praggnanandhaa-beats-fabiano-caruana-in-round-11/articleshow/117802859.cms",
-         "pubDate" : "Fri, 31 Jan 2025 20:06:28",
-         "title" : "Gukesh becomes new World No. 3 as Pragg beats top seed Caruana"
-      },
-      {
          "description" : "We are pleased to announce that this year's British Chess Championships will be held at&#160;St George's Hall in Liverpool and the Liverpool Holiday Inn,&#160;with events running from 31st July to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2025/",
          "pubDate" : "Thu, 23 Jan 2025 10:04:05",
          "title" : "British Chess Educational Trust Awards 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3396",
-         "pubDate" : "Thu, 23 Jan 2025 07:23:41",
-         "title" : "FIDE Rapid and Blitz Championships 2025 to be Held in Doha, Qatar"
       }
    ]
 }
