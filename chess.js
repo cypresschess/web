@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Imagine that you are at a party. A person you are talking to is just speaking endlessly. It feels like they will never stop, and there is only one thought in your head: \"How can I interrupt this person before I go deaf?\" Changing the course of a conversation is sometimes a tricky task. Changing the course of a chess game might be similarly challenging, but not for those who know the noble art of intermediate moves! | Photo: Christine Schmidt, Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-41-interrupting-the-opponent",
+         "pubDate" : "Thu, 13 Feb 2025 20:00:00",
+         "title" : "The Winning Academy 41: Interrupting the Opponent"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3419",
+         "pubDate" : "Thu, 13 Feb 2025 17:35:29",
+         "title" : "Project STEM CHESS 2025 by FIDE EDU and Opening Master announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118221820.cms\" />World champion D Gukesh managed a draw against Alireza Firouzja in the final round of the Freestyle Chess Grand Slam Tour. Local favorite Vincent Keymer won against Fabiano Caruana, while Magnus Carlsen defeated Javokhir Sindarov in the third-place playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-fights-back-to-hold-alireza-firouzja-in-freestyle-chess-grand-slam/articleshow/118221820.cms",
+         "pubDate" : "Thu, 13 Feb 2025 16:54:33",
+         "title" : "Gukesh fights back to hold Firouzja in Freestyle Chess Grand Slam"
+      },
+      {
          "description" : "The ECF is looking to contract for the provision of a venue for the 2026 British Chess Championships. Interested venue providers are invited to respond to the Invitation to Tender...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,12 +58,28 @@ news_feed (
          "title" : "Levan Pantsulaia and Nana Dzagnidze win 2025 Georgian Championship"
       },
       {
+         "description" : "The Anichess Creator Challenge&#38;nbsp;is a side event taking place alongside the Anichess x Chess.com Tournament, pitting content creators against each other on the Anichess platform. The event will be played asynchronously from February 13 at 11 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-anichess-creator-challenge",
+         "pubDate" : "Thu, 13 Feb 2025 09:09:17",
+         "title" : "Announcing The Anichess Creator Challenge"
+      },
+      {
          "description" : "What really happened in the deciding game of the 2024 World Chess Championship? GM Miguel Illescas, Director of Ajedrez21, delves into the shocking blunder that cost Ding Liren his title. Drawing from his concept of \"panic mode\", Illescas explains why even elite players can freeze under pressure, making irrational moves without calculation. In this article, he presents his theory with detailed analysis and compelling examples. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/panic-mode-miguel-illescas",
          "pubDate" : "Thu, 13 Feb 2025 09:00:00",
          "title" : "Panic mode"
+      },
+      {
+         "description" : "GM Vincent Keymer has taken the lead in the 2025 Weissenhaus Freestyle Chess Grand Slam Final after winning game one against GM Fabiano Caruana. He is a draw away from winning the $200,000 prize on Friday.&#38;nbsp;In the match for third place, GM&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-7",
+         "pubDate" : "Thu, 13 Feb 2025 08:41:00",
+         "title" : "Keymer Leads Vs. Caruana; Carlsen, Nakamura Also Win"
       },
       {
          "description" : "The 17th World Champion Ding Liren has signed with Chinese esports organization LGD Gaming, revealing for Chess.com that he intends to return to chess in 2025. The 32-year-old is the latest star to sign with an esports team ahead of the Esports ...",
@@ -87,7 +127,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-6",
          "pubDate" : "Wed, 12 Feb 2025 11:54:00",
-         "title" : "Keymer Overcomes Carlsen, Caruana Wins Marathon Vs. Sindarov"
+         "title" : "Keymer Defeats Carlsen, Caruana Wins Marathon Vs. Sindarov"
       },
       {
          "description" : "The Key to Opening Success: Unlock your chess potential with this dynamic course focused on mastering the initiative. Whether you're looking to gain an advantage or counter an early attack, this video course will give you the tools to navigate the critical early stages of the game with confidence and precision",
@@ -722,14 +762,6 @@ news_feed (
          "title" : "Exclusive | Why Anand withdrew from Freestyle Chess GS Tour"
       },
       {
-         "description" : "The 13th edition of Norway Chess will see the first classical meeting between World Champion GM Gukesh Dommaraju and world number-one GM Magnus Carlsen since the Indian claimed the title in Singapore. Maintaining its traditions, both Norway Ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-norway-chess-announced-carlsen-faces-world-champion-gukesh",
-         "pubDate" : "Mon, 03 Feb 2025 06:45:00",
-         "title" : "Carlsen Returns To Classical, Set For 1st Meeting With World Champion Gukesh"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117873923.cms\" />Indian grandmaster R Praggnanandhaa achieved a remarkable comeback to defeat world champion D Gukesh 2-1 in the tiebreaker at Tata Steel Chess Tournament 2025, claiming his maiden title. Despite initially losing due to a blunder, Praggnanandhaa's strategic brilliance and unwavering focus allowed him to secure victory in the intense and thrilling encounter.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -794,14 +826,6 @@ news_feed (
          "title" : "Tata Steel Chess - Pragg takes the title in thrilling tiebreaker"
       },
       {
-         "description" : "In the unforgettable round 13 of the 2025 Tata Steel Chess Masters, both leaders lost their last classical games of the tournament. GM Arjun Erigaisi played a perfect game to defeat World Champion Gukesh Dommaraju in 31 moves, while GM Vincent Key...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2025-tata-steel-chess",
-         "pubDate" : "Sun, 02 Feb 2025 10:53:00",
-         "title" : "Praggnanandhaa Defeats Gukesh In Playoffs, Wins Tata Steel Chess 2025"
-      },
-      {
          "description" : "Ahead of Sunday's final round, R Praggnanandhaa joins world champion D Gukesh atop the Tata Steel Masters standings",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -816,14 +840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-gukesh-share-the-lead-going-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sat, 1 Feb 2025 21:02:00",
          "title" : "Praggnanandhaa and Gukesh share the lead going into the final round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117842307.cms\" />In the 87th Tata Steel Chess Tournament 2025, R Praggnanandhaa won his sixth game, Arjun Erigaisi secured his first victory, and Gukesh settled for a draw. Highlights included Praggnanandhaa's win over Alexey Sarana and Abdusattorov's defeat by Erigaisi. Key draws were achieved by Leon Luke Mendonca and Pentala Harikrishna. Gukesh leads the standings with Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-2025-r-praggnanandhaa-joins-d-gukesh-at-the-top-sets-up-epic-final-day-title-charge/articleshow/117842307.cms",
-         "pubDate" : "Sat, 01 Feb 2025 20:33:39",
-         "title" : "Pragg joins Gukesh at the top, sets up epic final-day title charge"
       },
       {
          "description" : "",
