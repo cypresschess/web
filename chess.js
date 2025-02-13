@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After winning game one of his semifinal match against Magnus Carlsen, Vincent Keymer held a draw in the second encounter to become the first player to reach the final. His opponent will be Fabiano Caruana, who won the tiebreaker against Javokhir Sindarov in Armageddon. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-5",
+         "pubDate" : "Wed, 12 Feb 2025 23:50:00",
+         "title" : "Weissenhaus SF: Keymer knocks out Carlsen, Caruana reaches final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,19 +18,11 @@ news_feed (
          "title" : "Olga Badelka to replace Regina Theissl-Pokorna in FIDE WGP 2024-25 series"
       },
       {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Wed, 12 Feb 2025 12:55:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
-      },
-      {
          "description" : "GMs Vincent Keymer and Fabiano Caruana won two grueling matches and advance to the 2025 Weissenhaus Freestyle Chess Grand Slam Final. In the shorter match, Keymer ended GM Magnus Carlsen&#39;s hopes of earning the $200,000 first prize by drawing game ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-6",
-         "pubDate" : "Wed, 12 Feb 2025 11:54:08",
+         "pubDate" : "Wed, 12 Feb 2025 11:54:00",
          "title" : "Keymer Knocks Carlsen Out Of Race For 1st, Caruana Wins 7.5-Hour Marathon Vs. Sindarov"
       },
       {
@@ -1184,22 +1184,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-abdusattorov-lead-the-tata-steel-masters-on-45-going-into-the-first-rest-day",
          "pubDate" : "Thu, 23 Jan 2025 00:52:00",
          "title" : "Praggnanandhaa and Abdusattorov lead the Tata Steel Masters on 4/5 going into the first rest day - 5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3395",
-         "pubDate" : "Thu, 23 Jan 2025 00:14:29",
-         "title" : "Tata Steel Masters 2025: Two share the lead after Round 5"
-      },
-      {
-         "description" : "R Praggnanandhaa was joined in the lead by Nodirbek Abdusattorov, with D Gukesh only 0.5 behind them.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43527767/gukesh-grinds-win-close-gap-leader-praggnanandhaa-round-5-tata-steel-chess?device=featurephone",
-         "pubDate" : "Wed, 22 Jan 2025 22:51:53",
-         "title" : "Gukesh grinds out win to close gap on leader Pragg in Round 5 of Tata Steel Chess"
       }
    ]
 }
