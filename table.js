@@ -5,6 +5,7 @@ jtable([
 "SPRING","2025-02-07","26","<a href=http://www.uschess.org/msa/XtblMain.php?202502076612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-02-07","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502076532 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-01-31  - 02-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202502024602 target='_blank'>POISON PAWNS CLUB CHAMPIONSHIP 2025</a>",
+"STAFFORD, HOUST","2025-02-01","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502015762 target='_blank'>HOUSTON CHESS ACADEMY FEB 2025</a>",
 "HOUSTON","2025-02-01","226","<a href=http://www.uschess.org/msa/XtblMain.php?202502015362 target='_blank'>TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
 "HOUSTON","2025-02-01","5","<a href=http://www.uschess.org/msa/XtblMain.php?202502013042 target='_blank'>CHESSPANDA02012025SATURDAY</a>",
 "SUGAR LAND","2025-02-01","14","<a href=http://www.uschess.org/msa/XtblMain.php?202502012642 target='_blank'>FBCC 2025 INTERNATIONAL ZEBRA DAY O</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2024-06-21","30","<a href=http://www.uschess.org/msa/XtblMain.php?202406211882 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-06-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202406211782 target='_blank'>FBCC 2024 DAY OF THE GONG OPEN</a>",
 "HOUSTON","2024-06-20","10","<a href=http://www.uschess.org/msa/XtblMain.php?202406203852 target='_blank'>SANTOS BLITZ ROUND ROBIN 0624</a>",
-"HOUSTON","2024-06-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406158332 target='_blank'>JUNE 15TH  2024 SATURDAY SWISS AT N</a>",
 ]);
