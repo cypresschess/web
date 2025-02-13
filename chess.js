@@ -1168,22 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3396",
          "pubDate" : "Thu, 23 Jan 2025 07:23:41",
          "title" : "FIDE Rapid and Blitz Championships 2025 to be Held in Doha, Qatar"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3398",
-         "pubDate" : "Thu, 23 Jan 2025 01:30:36",
-         "title" : "Armenian Championship 2025: Hovhannisyan and Gaboyan defend titles"
-      },
-      {
-         "description" : " There were three decisive games in Round 5 of the Tata Steel Masters and they all were wins for players at, or near the top, of the standings. Nodirbek Abdusattorov beat Jorden Van Foreest in spite of being worse out of the opening. Once he equalised after the inaccurate 17.b5?! he quickly took over 20.Nd5?! 24.f4?! and 27.a5?! were all inaccurate from Van Foreest and Abdusattorov brought home the point convincingly after that. Sole leader Praggnanandhaa faced Max Warmerdam with black and chose the French. The Exchange variation has a better reputation that it used to, but I'm not sure Warmerdam wasn't playing for a draw from the start, they agreed a draw on move 40. World Champion Gukesh b",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-abdusattorov-lead-the-tata-steel-masters-on-45-going-into-the-first-rest-day",
-         "pubDate" : "Thu, 23 Jan 2025 00:52:00",
-         "title" : "Praggnanandhaa and Abdusattorov lead the Tata Steel Masters on 4/5 going into the first rest day - 5"
       }
    ]
 }
