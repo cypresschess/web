@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
+         "pubDate" : "Thu, 13 Feb 2025 12:50:00",
+         "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3418",
+         "pubDate" : "Thu, 13 Feb 2025 10:25:09",
+         "title" : "Sweden's chess makes strategic move with \"Schackelit Sverige\" - A new era for young talents"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3417",
+         "pubDate" : "Thu, 13 Feb 2025 09:42:44",
+         "title" : "Levan Pantsulaia and Nana Dzagnidze win 2025 Georgian Championship"
+      },
+      {
          "description" : "What really happened in the deciding game of the 2024 World Chess Championship? GM Miguel Illescas, Director of Ajedrez21, delves into the shocking blunder that cost Ding Liren his title. Drawing from his concept of \"panic mode\", Illescas explains why even elite players can freeze under pressure, making irrational moves without calculation. In this article, he presents his theory with detailed analysis and compelling examples. | Photo: FIDE / Eng Chin An",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sensational-vincent-keymer-defeats-magnus-carlsen-fabiano-caruana-books-second-spot-in-the-grand-slam-final/articleshow/118203012.cms",
          "pubDate" : "Thu, 13 Feb 2025 05:33:26",
          "title" : "Keymer defeats Carlsen, Caruana books second spot in Grand Slam final"
-      },
-      {
-         "description" : " The Chess Drum community Today marks the 24th anniversary of the founding of The Chess Drum. It is rare to have a digital platform for such a long time, and it may very well be the end of an era. Times have certainly changed, and content has moved across various online platforms. The Chess Drum The post <a href=\"https://thechessdrum.net/blog/2025/02/13/24-years-for-the-chess-drum/\">24 years for The Chess Drum!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/02/13/24-years-for-the-chess-drum/",
-         "pubDate" : "Thu, 13 Feb 2025 05:02:38",
-         "title" : "24 years for The Chess Drum!"
       },
       {
          "description" : "After winning game one of his semifinal match against Magnus Carlsen, Vincent Keymer held a draw in the second encounter to become the first player to reach the final. His opponent will be Fabiano Caruana, who won the tiebreaker against Javokhir Sindarov in Armageddon. | Photo: Freestyle Chess / Lennart Ootes",
@@ -42,12 +58,20 @@ news_feed (
          "title" : "Olga Badelka to replace Regina Theissl-Pokorna in FIDE WGP 2024-25 series"
       },
       {
+         "description" : " The Chess Drum community Today marks the 24th anniversary of the founding of The Chess Drum. It is rare to have a digital platform for such a long time, and it may very well be the end of an era. Times have certainly changed, and content has moved across various online platforms. The Chess Drum The post <a href=\"https://thechessdrum.net/blog/2025/02/12/24-years-for-the-chess-drum/\">24 years for The Chess Drum!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/02/12/24-years-for-the-chess-drum/",
+         "pubDate" : "Wed, 12 Feb 2025 15:59:00",
+         "title" : "24 years for The Chess Drum!"
+      },
+      {
          "description" : "GMs Vincent Keymer and Fabiano Caruana won two grueling matches and advance to the 2025 Weissenhaus Freestyle Chess Grand Slam Final. In the shorter match, Keymer ended GM Magnus Carlsen&#39;s hopes of earning the $200,000 first prize by drawing game ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-6",
          "pubDate" : "Wed, 12 Feb 2025 11:54:00",
-         "title" : "Keymer Knocks Carlsen Out Of Race For 1st, Caruana Wins 7.5-Hour Marathon Vs. Sindarov"
+         "title" : "Keymer Beats Carlsen, Caruana Wins Marathon Match vs Sindarov"
       },
       {
          "description" : "The Key to Opening Success: Unlock your chess potential with this dynamic course focused on mastering the initiative. Whether you're looking to gain an advantage or counter an early attack, this video course will give you the tools to navigate the critical early stages of the game with confidence and precision",
@@ -1168,14 +1192,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/fide-rating-list-january-2025.html",
          "pubDate" : "Thu, 23 Jan 2025 16:21:00",
          "title" : "FIDE Rating List - January 2025"
-      },
-      {
-         "description" : "We are inviting nominations for the BCET Awards 2025 which are for junior schools (including colleges and other education establishments) and junior clubs in the United Kingdom. The awards to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2025/",
-         "pubDate" : "Thu, 23 Jan 2025 10:04:05",
-         "title" : "British Chess Educational Trust Awards 2025"
       }
    ]
 }
