@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF is looking to contract for the provision of a venue for the 2026 British Chess Championships. Interested venue providers are invited to respond to the Invitation to Tender...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/itt-for-2026-british-chess-championships-venue-provision/",
+         "pubDate" : "Thu, 13 Feb 2025 13:38:49",
+         "title" : "ITT for 2026 British Chess Championships Venue Provision"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/panic-mode-miguel-illescas",
          "pubDate" : "Thu, 13 Feb 2025 09:00:00",
          "title" : "Panic mode"
+      },
+      {
+         "description" : "The 17th World Champion Ding Liren has signed with Chinese esports organization LGD Gaming, revealing for Chess.com that he intends to return to chess in 2025. The 32-year-old is the latest star to sign with an esports team ahead of the Esports ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-liren-returns-to-chess-signs-for-lgd-gaming-less-busy-year",
+         "pubDate" : "Thu, 13 Feb 2025 05:49:57",
+         "title" : "Ding Liren Signs With Chinese Esports Team, Reveals Return To Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118203012.cms\" />Vincent Keymer defeated world number one Magnus Carlsen to reach the Weissenhaus Freestyle Grand Slam final, where he will face Fabiano Caruana. Caruana won his semifinal against Javokhir Sindarov in an intense match that concluded after 7.5 hours of play.",
@@ -71,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-6",
          "pubDate" : "Wed, 12 Feb 2025 11:54:00",
-         "title" : "Keymer Beats Carlsen, Caruana Wins Marathon Match vs Sindarov"
+         "title" : "Keymer Overcomes Carlsen, Caruana Wins Marathon Vs. Sindarov"
       },
       {
          "description" : "The Key to Opening Success: Unlock your chess potential with this dynamic course focused on mastering the initiative. Whether you're looking to gain an advantage or counter an early attack, this video course will give you the tools to navigate the critical early stages of the game with confidence and precision",
@@ -810,14 +826,6 @@ news_feed (
          "title" : "Pragg joins Gukesh at the top, sets up epic final-day title charge"
       },
       {
-         "description" : "The king of Bullet Brawl, GM Hikaru Nakamura, returned to the top of Chess.com&#39;s high-speed titled arena on Saturday, claiming the $400 first prize and extending his all-time win count to 35. To reach the winning score (261), he scored 72/81 and d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-1-2025",
-         "pubDate" : "Sat, 01 Feb 2025 17:34:00",
-         "title" : "King Of Bullet Brawl Returns To Win 35th Title"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1176,22 +1184,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/24/chess-dommaraju-gukesh-recovers-from-brush-with-disaster-at-wijk-aan-zee",
          "pubDate" : "Fri, 24 Jan 2025 08:00:04",
          "title" : "Chess: Dommaraju Gukesh recovers from brush with disaster at Wijk aan Zee"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3397",
-         "pubDate" : "Thu, 23 Jan 2025 16:23:07",
-         "title" : "London, UK to host FIDE World Rapid and Blitz Team Championships 2025"
-      },
-      {
-         "description" : "This is the tenth consecutive year that I'm following a cookie-cutter approach to look at FIDE ratings for the new year. Following is the step-by-step checklist... <P> 1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2024/01/fide-rating-list-january-2024.html\">FIDE Rating List - January 2024</A> (January 2024). <P> 2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A>:- <BLOCKQUOTE> STANDARD<BR> TXT format (12 Jan 2025, Sz: 10.81 MB) </BLOCKQUOTE> <P> 3) Compare some basic counts over the past few years. Going back to the start of 2020 gives pre-covid 19 as a reference point. This year I've added ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/fide-rating-list-january-2025.html",
-         "pubDate" : "Thu, 23 Jan 2025 16:21:00",
-         "title" : "FIDE Rating List - January 2025"
       }
    ]
 }
