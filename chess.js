@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation Academy connects with its audience by providing the subscribers with unparalleled learning experiences during live training sessions with chess stars. Continuing this tradition, the KCF Academy is excited to announce an exclusive live lecture featuring GM Veselin Topalov on Sunday, February 16, 2025, at 6 pm CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-veselin-topalov-s-live-lecture",
+         "pubDate" : "Fri, 14 Feb 2025 16:30:00",
+         "title" : "KCF: Veselin Topalov's Live Lecture"
+      },
+      {
          "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Chess: Vincent Keymer knocks out Magnus Carlsen in Freestyle Grand Slam"
       },
       {
+         "description" : "GM Vincent Keymer won the 2025 Weissenhaus Freestyle Chess Grand Slam after making a draw in his second classical game against GM Fabiano Caruana. Keymer neutralized the latter&#39;s tremendous effort with a pawn sacrifice in the opening. GM&#38;nbsp;Magn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-2025-freestyle-chess-grand-slam-weissenhaus",
+         "pubDate" : "Fri, 14 Feb 2025 07:46:00",
+         "title" : "Undefeated Keymer Wins Weissenhaus Knockout"
+      },
+      {
          "description" : "Please find the event details here Event Regulation Entry form",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +64,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-given-paris-grand-slam-wildcard-set-to-face-carlsen",
          "pubDate" : "Fri, 14 Feb 2025 03:51:57",
          "title" : "Niemann Given Surprise Paris Freestyle Wildcard, Set To Face Carlsen"
+      },
+      {
+         "description" : " The Freestyle Grand Slam Weissenhaus was the first in a series of events aimed at promoting the chess variant also known as Chess960, 9LX or Fischer Random Chess. The event is financed by German entrepreneur Jan Henric Buettner and backed by former World Chess Champion Magnus Carlsen. The remaining events of the Freestyle Chess Grand Slam Tour are: Paris April 8-15, New York July 17-24 New Delhi September 17-24 and Cape Town December 5-12. The first event of the series took place in a resort owned by Buettner in Wangels, Germany 7th to 14th February 2025. Players: Carlsen, Caruana, Nakamura, Gukesh, Abdusattorov, Firouzja, Aronian, Keymer, Fedoseev and Sindarov. A rapid round robin is follo",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-weissenhaus-2025",
+         "pubDate" : "Fri, 14 Feb 2025 01:13:00",
+         "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2025 FIDE World Senior Team Championships begin Monday, February 17, in Prague, Czech Republic, with Team USA sending both an Open 50+ and Women's 50+ team. Last year, in Krakow, Team USA earned its second consecutive championship in the Open 50+ event, and the Women's team finished second among Women's 50+ teams. Open 50+ TeamFor the Open 50+ roster, three members of last year's team return: GMs Jaan Ehlvest, Igor Novikov, and Alexander Shabalov. Joining them are GM Gregory Kaidanov (from the 2023 championship squad) and IM Stuart Rachels. As of now, Shabalov is the team captain. <br> <br> <br> <br> <br> <br> <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fide-world-senior-team-championships-begin-monday-prague",
+         "pubDate" : "Fri, 14 Feb 2025 00:00:00",
+         "title" : "FIDE World Senior Team Championships Begin Monday in Prague"
       },
       {
          "description" : "Vincent Keymer won the first game of the final match at the Weissenhaus Freestyle Grand Slam tournament. Keymer defeated Caruana with the white pieces after getting a position edge out of the opening. Magnus Carlsen also won, as he took the lead against Javokhir Sindarov in the match for third place. | Photo: Freestyle Chess / Stev Bonhage",
@@ -80,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-fights-back-to-hold-alireza-firouzja-in-freestyle-chess-grand-slam/articleshow/118221820.cms",
          "pubDate" : "Thu, 13 Feb 2025 16:54:33",
          "title" : "Gukesh fights back to hold Firouzja in Freestyle Chess Grand Slam"
+      },
+      {
+         "description" : "The leading American chess magazine -- both 50 years ago and 25 years ago -- featured the American Open. For last month's post in the series, see <A HREF=\"https://chessforallages.blogspot.com/2025/01/january-1975-2000-on-cover.html\">January 1975 & 2000 'On the Cover'</A> (January 2025). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb13.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'The Beauty of Chess' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Kim Commons, left, and Peter Biyiasas, co-winners of the American Open. Story [inside]. Photo by Carl Budd. </BLOCKQUOTE> <P> The 'story [inside]' by Carl Budd, 'Vice President, Santa Monica",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/february-1975-2000-on-cover.html",
+         "pubDate" : "Thu, 13 Feb 2025 16:48:00",
+         "title" : "February 1975 & 2000 'On the Cover'"
       },
       {
          "description" : "The ECF is looking to contract for the provision of a venue for the 2026 British Chess Championships. Interested venue providers are invited to respond to the Invitation to Tender...",
@@ -119,7 +159,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-7",
          "pubDate" : "Thu, 13 Feb 2025 08:41:00",
-         "title" : "Keymer Leads Vs. Caruana; Carlsen, Nakamura Also Win"
+         "title" : "Keymer Leads Vs. Caruana In Final; Carlsen, Nakamura Also Win"
       },
       {
          "description" : "The 17th World Champion Ding Liren has signed with Chinese esports organization LGD Gaming, revealing for Chess.com that he intends to return to chess in 2025. The 32-year-old is the latest star to sign with an esports team ahead of the Esports ...",
@@ -530,14 +570,6 @@ news_feed (
          "title" : "Magnus Carlsen Rules Out Playing FIDE Events As Freestyle Chess Grand Slam Begins"
       },
       {
-         "description" : " The Freestyle Grand Slam Weissenhaus is the first in a series of events aimed at promoting the chess variant also known as Chess960, 9LX or Fischer Random Chess. The event is financed by German entrepreneur Jan Henric Buettner and backed by former World Chess Champion Magnus Carlsen. The remaining events of the Freestyle Chess Grand Slam Tour are: Paris April 8-15, New York July 17-24 New Delhi September 17-24 and Cape Town December 5-12. The first event of the series takes place in a resort owned by Buettner in Wangels, Germany 7th to 14th February 2025. Players: Carlsen, Caruana, Nakamura, Gukesh, Abdusattorov, Firouzja, Aronian, Keymer, Fedoseev and Sindarov. A rapid round robin is follo",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-weissenhaus-2025",
-         "pubDate" : "Fri, 7 Feb 2025 01:13:00",
-         "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Update (February 11, 2025, 3:30 p.m.): The issues has been resolved, and TLA notification emails are once again being sent out.Update (February 10, 2025, 10 a.m.): Email notifications for TLA announcements remain paused as we continue to work on this issue.The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -672,14 +704,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/02/04/famu-chess-club-shines-at-club-fair/",
          "pubDate" : "Tue, 04 Feb 2025 14:31:30",
          "title" : "FAMU Chess Club shines at Club Fair!"
-      },
-      {
-         "description" : "The finish to the 2025 Tata Steel Chess Masters was extraordinary, with both leaders World Champion Gukesh Dommaraju and GM Praggnanandhaa Rameshbabu losing their final classical games. When GM Nodirbek Abdusattorov failed to win, that meant a two...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-9-conclusions-tata-steel-chess-2025",
-         "pubDate" : "Tue, 04 Feb 2025 13:21:00",
-         "title" : "Praggnanandhaa Is Back! 9 Conclusions From Tata Steel Chess 2025"
       },
       {
          "description" : "Please find here for National Under 09 Rank Name1 Nidhish Shyamal2 Aarit Kapil3 Divith Reddy Adulla4 Advik Amit Agrawal5 Oishik Mondal6 Ayaan Phutane7 Mani Sarbartho8",
@@ -928,14 +952,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/31/wood-green-and-manx-liberty-take-four-nations-chess-league-down-to-the-wire",
          "pubDate" : "Fri, 31 Jan 2025 08:00:49",
          "title" : "Wood Green and Manx Liberty take Four Nations Chess League down to the wire"
-      },
-      {
-         "description" : "The theme of this issue of Check is in the Mail is chess Combinations. All of the games are from 2024, end in a win (no draws), are NOT miniatures (see the previous issue for miniatures), and, to focus on the theme of this issue, all contain one or more Combinations in the moves of the game or within a variation from the analysis of the game.Combinations, in this instance, are those moves defined in the Encyclopaedia of Chess Combinations, published by Chess Informant. The Combinations covered, listed here in alphabetical order, include Annihilation of Defense, Blockade, Clearance, Decoy, Deflection, Demolition of the Pawn Structure, Discovered Attack, Double Attack, Interference and Pinning",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-february-2025-unlock-combination",
-         "pubDate" : "Fri, 31 Jan 2025 00:00:00",
-         "title" : "Check is in the Mail, February 2025: Unlock the Combination!"
       },
       {
          "description" : "That title is an obscure reference to last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-championship-yahoos-2024-22.html\">World Championship Yahoos 2024</A> ('2/2'; December 2024), which was largely about the 2024 World Rapid and Blitz Championships in New York City. I'll come back to that event in a moment. <P> First let's have some stats. This month's Yahoos post (see the footnote for an explanation of Yahoos) had 104 stories, of which one was an older post from mid-December. Those 104 stories were supplemented by two additional pages: 'Magnus Carlsen on Freestyle chess controversy' with 25 stories, and 'Gukesh beats Mendonca to lead Tata Steel Masters' ",
