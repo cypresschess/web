@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The 20-year-old scored a career-best result by defeating the World No 1 in the Norwegian's favourite format, and leads 1-0 against the US champion, Fabiano Caruana, in the final. Vincent Keymer made a career breakthrough this week when the 20-year-old German <a href=\"https://www.chessgames.com/perl/chessgame?gid=2844237\">knocked out Magnus Carlsen</a> at the Weissenhaus Grand Slam in the classical Freestyle format which the world No 1 now prefers. There was a lively running commentary on the game's deciding stages <a href=\"https://www.youtube.com/watch?t=718&amp;v=MyCTW3jB7Yk&amp;feature=youtu.be\">on YouTube</a>. Keymer went on to take a 1-0 lead on Thursday against the world No 3 and US ch",
+         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
+         "pubDate" : "Fri, 14 Feb 2025 12:50:00",
+         "title" : "Freestyle Chess Weissenhaus - Live!"
+      },
+      {
+         "description" : "Please find the event circular here Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-rapid-blitz-2024-25-in-jharkhand-from-20-23-march-2025/",
+         "pubDate" : "Fri, 14 Feb 2025 11:36:35",
+         "title" : "National Rapid & Blitz 2024-25 in Jharkhand from 20-23 March 2025"
+      },
+      {
+         "description" : "In 2025 the Spanish city of Valencia commemorates its special role in the history of chess. To mark the occasion, a presentation has been created in 'La Lonja de la Seda', highlighting the revolution in the rules that led to modern chess. The city will soon be hosting tournaments, conferences and exhibitions with prominent personalities such as Viswanathan Anand. This tribute underlines the role of Valencia in the development of world chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/valencia-celebrates-the-550th-anniversary-of-the-birth-of-modern-chess",
+         "pubDate" : "Fri, 14 Feb 2025 10:00:00",
+         "title" : "Valencia celebrates the 550th anniversary of the birth of modern chess"
+      },
+      {
+         "description" : " The 20-year-old scored a career-best result by defeating the World No 1 in the Norwegian's favourite format, and leads 1-0 against the US champion, Fabiano Caruana, in the final Vincent Keymer made a career breakthrough this week when the 20-year-old German <a href=\"https://www.chessgames.com/perl/chessgame?gid=2844237\">knocked out Magnus Carlsen</a> at the Weissenhaus Grand Slam in the classical Freestyle format which the world No 1 now prefers. There was a lively running commentary on the game's deciding stages <a href=\"https://www.youtube.com/watch?t=718&amp;v=MyCTW3jB7Yk&amp;feature=youtu.be\">on YouTube</a>. Keymer went on to take a 1-0 lead on Thursday against the world No 2 and US cha",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/feb/14/chess-vincent-keymer-knocks-out-magnus-carlsen-in-freestyle-grand-slam",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/national-team-chess-championship-2024-25-in-ahemdabad-from-05-11-march-2205/",
          "pubDate" : "Fri, 14 Feb 2025 05:39:43",
          "title" : "National Team Chess Championship 2024-25 in Ahmedabad ,Gujarat from 05-11 March 2025"
+      },
+      {
+         "description" : "In a surprising move, GM Hans Niemann has been given a wildcard for the next leg of the 2025 Freestyle Chess Grand Slam in Paris, setting up a likely showdown against GM Magnus Carlsen. The announcement was made in a press release shortly after ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-given-paris-grand-slam-wildcard-set-to-face-carlsen",
+         "pubDate" : "Fri, 14 Feb 2025 03:51:57",
+         "title" : "Niemann Given Surprise Paris Freestyle Wildcard, Set To Face Carlsen"
       },
       {
          "description" : "Vincent Keymer won the first game of the final match at the Weissenhaus Freestyle Grand Slam tournament. Keymer defeated Caruana with the white pieces after getting a position edge out of the opening. Magnus Carlsen also won, as he took the lead against Javokhir Sindarov in the match for third place. | Photo: Freestyle Chess / Stev Bonhage",
@@ -706,14 +738,6 @@ news_feed (
          "title" : "'I wasn't happy with my game': Pragg after Tata Steel Masters title"
       },
       {
-         "description" : "The negotiations between Freestyle Chess, led by its founders Jan Henric Buettner and GM Magnus Carlsen, and the International Chess Federation (FIDE) have collapsed and escalated into a deadlocked conflict. Freestyle Chess has backed down and pos...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-to-dvorkovich-after-freestyle-chess-feud-will-you-resign",
-         "pubDate" : "Tue, 04 Feb 2025 05:43:00",
-         "title" : "Carlsen To Dvorkovich In Heated Freestyle Chess Feud: 'Will You Resign?'"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117900935.cms\" />Grandmaster R Praggnanandhaa overcame fatigue and nerves to secure his first Tata Steel Masters title by defeating world champion D Gukesh in tiebreaker. This victory marks the first win for an Indian in tournament since Viswanathan Anand in 2006, who praised Praggnanandhaa's resilience. The five-time Tata Steel Chess champion also used viral phrase to playfully remind the world of his own past triumphs.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1168,22 +1192,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43552636/gukesh-pulls-big-escape-stay-reach-leaders-round-6-tata-steel-chess?device=featurephone",
          "pubDate" : "Fri, 24 Jan 2025 23:02:40",
          "title" : "Gukesh pulls off big escape to stay within reach of leaders in Round 6 of Tata Steel Chess"
-      },
-      {
-         "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In all there were 1216 children representing 28 states and union territories took part in the 13th national schools chess championship covering 12 categories",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-13th-national-schools-chess-championship2025/",
-         "pubDate" : "Fri, 24 Jan 2025 10:22:58",
-         "title" : "Final Report of 13th National Schools Chess Championship,2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3399",
-         "pubDate" : "Fri, 24 Jan 2025 10:00:42",
-         "title" : "FIDE statement on participation of neutral athletes from vulnerable groups in team events"
       }
    ]
 }
