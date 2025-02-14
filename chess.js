@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer won the first game of the final match at the Weissenhaus Freestyle Grand Slam tournament. Keymer defeated Caruana with the white pieces after getting a position edge out of the opening. Magnus Carlsen also won, as he took the lead against Javokhir Sindarov in the match for third place. | Photo: Freestyle Chess / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-6",
+         "pubDate" : "Thu, 13 Feb 2025 23:05:00",
+         "title" : "Weissenhaus: Keymer beats Caruna in first game of the final"
+      },
+      {
          "description" : "Imagine that you are at a party. A person you are talking to is just speaking endlessly. It feels like they will never stop, and there is only one thought in your head: \"How can I interrupt this person before I go deaf?\" Changing the course of a conversation is sometimes a tricky task. Changing the course of a chess game might be similarly challenging, but not for those who know the noble art of intermediate moves! | Photo: Christine Schmidt, Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "ITT for 2026 British Chess Championships Venue Provision"
       },
       {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Thu, 13 Feb 2025 12:50:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-anichess-creator-challenge",
          "pubDate" : "Thu, 13 Feb 2025 09:09:17",
          "title" : "Announcing The Anichess Creator Challenge"
-      },
-      {
-         "description" : "What really happened in the deciding game of the 2024 World Chess Championship? GM Miguel Illescas, Director of Ajedrez21, delves into the shocking blunder that cost Ding Liren his title. Drawing from his concept of \"panic mode\", Illescas explains why even elite players can freeze under pressure, making irrational moves without calculation. In this article, he presents his theory with detailed analysis and compelling examples. | Photo: FIDE / Eng Chin An",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/panic-mode-miguel-illescas",
-         "pubDate" : "Thu, 13 Feb 2025 09:00:00",
-         "title" : "Panic mode"
       },
       {
          "description" : "GM Vincent Keymer has taken the lead in the 2025 Weissenhaus Freestyle Chess Grand Slam Final after winning game one against GM Fabiano Caruana. He is a draw away from winning the $200,000 prize on Friday.&#38;nbsp;In the match for third place, GM&#38;nbs...",
@@ -98,14 +90,6 @@ news_feed (
          "title" : "Keymer defeats Carlsen, Caruana books second spot in Grand Slam final"
       },
       {
-         "description" : "After winning game one of his semifinal match against Magnus Carlsen, Vincent Keymer held a draw in the second encounter to become the first player to reach the final. His opponent will be Fabiano Caruana, who won the tiebreaker against Javokhir Sindarov in Armageddon. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-5",
-         "pubDate" : "Wed, 12 Feb 2025 23:50:00",
-         "title" : "Weissenhaus SF: Keymer knocks out Carlsen, Caruana reaches final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -128,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-6",
          "pubDate" : "Wed, 12 Feb 2025 11:54:00",
          "title" : "Keymer Defeats Carlsen, Caruana Wins Marathon Vs. Sindarov"
-      },
-      {
-         "description" : "The Key to Opening Success: Unlock your chess potential with this dynamic course focused on mastering the initiative. Whether you're looking to gain an advantage or counter an early attack, this video course will give you the tools to navigate the critical early stages of the game with confidence and precision",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christian-bauer-the-art-of-initiative-the-key-to-opening-success",
-         "pubDate" : "Wed, 12 Feb 2025 09:35:59",
-         "title" : "Christian Bauer: The Art of Initiative - The Key to Opening Success"
       },
       {
          "description" : "GMs Magnus Carlsen and Parham Maghsoodloo were your Titled Tuesday winners on February 11. Carlsen won outright on 10.5 points and Maghsoodloo also won outright, with 10 points. It was the first win of 2025 for both of them, although each also won...",
