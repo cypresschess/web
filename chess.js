@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer has done it. After knocking out Alireza Firouzja and Magnus Carlsen, the German number one in classical chess also won the final against Fabiano Caruana. After winning the first game of the match on Thursday, Keymer achieved the draw he needed in the second game. | Photo: Freestyle Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-7",
+         "pubDate" : "Fri, 14 Feb 2025 19:25:00",
+         "title" : "Keymer triumphs in Weissenhaus, defeats both Carlsen and Caruana"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118256227.cms\" />World champion D Gukesh finished eighth at the Freestyle Chess Grand Slam after losing to Alireza Firouzja in their seventh-place playoff match. Despite drawing the first game, Gukesh lost the second in 30 moves, concluding a winless tournament. Vincent Keymer, considered a rookie, won the event, which challenges the traditional chess format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-loses-to-firouzja-ends-eighth/articleshow/118256227.cms",
+         "pubDate" : "Fri, 14 Feb 2025 17:48:30",
+         "title" : "Freestyle Chess: D Gukesh loses to Firouzja, ends eighth"
+      },
+      {
          "description" : "The Kasparov Chess Foundation Academy connects with its audience by providing the subscribers with unparalleled learning experiences during live training sessions with chess stars. Continuing this tradition, the KCF Academy is excited to announce an exclusive live lecture featuring GM Veselin Topalov on Sunday, February 16, 2025, at 6 pm CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kcf-veselin-topalov-s-live-lecture",
          "pubDate" : "Fri, 14 Feb 2025 16:30:00",
          "title" : "KCF: Veselin Topalov's Live Lecture"
-      },
-      {
-         "description" : "The inaugural tournament of the Freestyle Chess Grand Slam is taking place in Weissenhaus, Germany on 7-14 February. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of ten players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-live",
-         "pubDate" : "Fri, 14 Feb 2025 12:50:00",
-         "title" : "Freestyle Chess Weissenhaus - Live!"
       },
       {
          "description" : "Please find the event circular here Download",
@@ -26,6 +34,22 @@ news_feed (
          "title" : "National Rapid & Blitz 2024-25 in Jharkhand from 20-23 March 2025"
       },
       {
+         "description" : "Global esports powerhouse Team Liquid has announced the signings of not just one, but two superstars of chess. Five-time World Champion and world number-one Magnus Carlsen and the 2018 challenger, world number-two Fabiano Caruana will represent th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-caruana-sign-esports-giant-team-liquid",
+         "pubDate" : "Fri, 14 Feb 2025 11:19:35",
+         "title" : "Magnus Carlsen And Fabiano Caruana Sign With Esports Giant Team Liquid"
+      },
+      {
+         "description" : "GM Sam Sevian won Freestyle Friday on February 14, scoring 9.5 points for an outright victory and becoming the first U.S. player to win a Freestyle Friday. There were 380 players in today&#39;s event, which began only hours after the conclusion of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sevian-wins-freestyle-friday-february-14-2025",
+         "pubDate" : "Fri, 14 Feb 2025 11:09:30",
+         "title" : "Fourth Friday, Fourth Freestyle Victor"
+      },
+      {
          "description" : "In 2025 the Spanish city of Valencia commemorates its special role in the history of chess. To mark the occasion, a presentation has been created in 'La Lonja de la Seda', highlighting the revolution in the rules that led to modern chess. The city will soon be hosting tournaments, conferences and exhibitions with prominent personalities such as Viswanathan Anand. This tribute underlines the role of Valencia in the development of world chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Valencia celebrates the 550th anniversary of the birth of modern chess"
       },
       {
-         "description" : " The 20-year-old scored a career-best result by defeating the World No 1 in the Norwegian's favourite format, and leads 1-0 against the US champion, Fabiano Caruana, in the final Vincent Keymer made a career breakthrough this week when the 20-year-old German <a href=\"https://www.chessgames.com/perl/chessgame?gid=2844237\">knocked out Magnus Carlsen</a> at the Weissenhaus Grand Slam in the classical Freestyle format which the world No 1 now prefers. There was a lively running commentary on the game's deciding stages <a href=\"https://www.youtube.com/watch?t=718&amp;v=MyCTW3jB7Yk&amp;feature=youtu.be\">on YouTube</a>. Keymer went on to take a 1-0 lead on Thursday against the world No 2 and US cha",
+         "description" : " The 20-year-old scored a career-best result by defeating the World No 1 in the Norwegian's favourite format, then won 1.5-0.5 against the US champion, Fabiano Caruana, in the final Vincent Keymer made a career breakthrough this week when the 20-year-old German <a href=\"https://www.chessgames.com/perl/chessgame?gid=2844237\">knocked out Magnus Carlsen</a> at the Weissenhaus Grand Slam in the classical Freestyle format which the world No 1 now prefers. There was a lively running commentary on the game's deciding stages <a href=\"https://www.youtube.com/watch?t=718&amp;v=MyCTW3jB7Yk&amp;feature=youtu.be\">on YouTube</a>. Keymer went on to defeat the US champion and world No 2, Fabiano Caruana, by",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/feb/14/chess-vincent-keymer-knocks-out-magnus-carlsen-in-freestyle-grand-slam",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "EDU Commission announces its 22nd \"Preparation of Teachers\" course"
       },
       {
-         "description" : "Two of the chess world&#39;s hottest young stars, GMs Volodar Murzin and Arjun Erigaisi, have become two of the first players to sign with major Esports organizations ahead of the 2025 Esports World Cup (EWC). Chess will make its historic debut at t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-murzin-first-stars-to-sign-deals-with-esports-teams",
-         "pubDate" : "Thu, 06 Feb 2025 10:42:00",
-         "title" : "Arjun, Murzin Become First Chess Stars Signed Ahead Of Esports World Cup"
-      },
-      {
          "description" : "The first quarterly meeting of the ECU Executive Board for 2025 took place on 11th January in Monte Carlo, Monaco, during the European Women's Rapid and Blitz Chess Championship. The Monaco federation, known for its great hospitality, organised the tournament and the board meeting in excellent conditions. Main information and decisions European Chess Championships &#38; Tournaments Sponsors and Partnerships",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3412",
          "pubDate" : "Wed, 05 Feb 2025 09:29:53",
          "title" : "FIDE Infinite Project concludes successful educational visit in Abu Dhabi"
-      },
-      {
-         "description" : "On February 4, GM Liem Le became the fourth player ever, and the first of 2025, to post a perfect 11/11 score in Titled Tuesday. He joins GMs Hikaru Nakamura (twice), Magnus Carlsen (twice), and Jose Martinez in accomplishing the feat. GM&#38;nbsp;Ale...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-sarana-win-titled-tuesday-february-4-2025",
-         "pubDate" : "Wed, 05 Feb 2025 07:47:08",
-         "title" : "Coveted Perfect Score Returns To Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117933542.cms\" />Grandmaster R Praggnanandhaa clinched his first Tata Steel Chess title in Wijk aan Zee by defeating D Gukesh in tie-breakers. His achievement follows a challenging year in 2024 where he finished fifth at the Candidates Tournament. Winning this event made him the second Indian after Viswanathan Anand to do so.",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-devastated-after-losing-tata-steel-2025-masters-title-to-r-praggnanandhaa/articleshow/117873923.cms",
          "pubDate" : "Mon, 03 Feb 2025 03:20:08",
          "title" : "Watch: Gukesh devastated after losing Masters title to Pragg"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117872126.cms\" />Grandmaster R Praggnanandhaa triumphed at the Tata Steel Masters chess event in Netherlands, defeating world champion D. Gukesh 2-1 in the tiebreaker. Both players initially tied for first place with 8.5 points. Praggnanandhaa showcased strong technical skill and composure, ultimately securing his first Masters title by capitalizing on crucial mistakes made by Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-defeats-gukesh-in-tiebreaker-to-clinch-tata-chess-title/articleshow/117872126.cms",
-         "pubDate" : "Mon, 03 Feb 2025 01:32:47",
-         "title" : "Praggnanandhaa defeats Gukesh in tiebreaker to clinch Tata Chess title"
       },
       {
          "description" : " Praggnanandhaa won the 87th Tata Steel Chess tournament for his most impressive result of his career so far. The path to victory was not at all smooth and he had to show great determination on the final day. Praggnanandhaa shared the lead with World Champion Gukesh and I don't think anyone predicted both players would go down to a defeat. Gukesh was well beaten by a resurgent Arjun Erigaisi who said his confidence returned after beating Nodirbek Abdusattorov in Round 12. The game was a Petroff with opposite sides castling, Erigaisi always seemed at least equal, there was a weird exchange sacrifice which was supposed to be a bit better for Gukesh but after that it was all one way traffic and",
