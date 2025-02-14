@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 20-year-old scored a career-best result by defeating the World No 1 in the Norwegian's favourite format, and leads 1-0 against the US champion, Fabiano Caruana, in the final. Vincent Keymer made a career breakthrough this week when the 20-year-old German <a href=\"https://www.chessgames.com/perl/chessgame?gid=2844237\">knocked out Magnus Carlsen</a> at the Weissenhaus Grand Slam in the classical Freestyle format which the world No 1 now prefers. There was a lively running commentary on the game's deciding stages <a href=\"https://www.youtube.com/watch?t=718&amp;v=MyCTW3jB7Yk&amp;feature=youtu.be\">on YouTube</a>. Keymer went on to take a 1-0 lead on Thursday against the world No 3 and US ch",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/feb/14/chess-vincent-keymer-knocks-out-magnus-carlsen-in-freestyle-grand-slam",
+         "pubDate" : "Fri, 14 Feb 2025 08:00:03",
+         "title" : "Chess: Vincent Keymer knocks out Magnus Carlsen in Freestyle Grand Slam"
+      },
+      {
+         "description" : "Please find the event details here Event Regulation Entry form",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-chess-championship-2024-25-in-ahemdabad-from-05-11-march-2205/",
+         "pubDate" : "Fri, 14 Feb 2025 05:39:43",
+         "title" : "National Team Chess Championship 2024-25 in Ahmedabad ,Gujarat from 05-11 March 2025"
+      },
+      {
          "description" : "Vincent Keymer won the first game of the final match at the Weissenhaus Freestyle Grand Slam tournament. Keymer defeated Caruana with the white pieces after getting a position edge out of the opening. Magnus Carlsen also won, as he took the lead against Javokhir Sindarov in the match for third place. | Photo: Freestyle Chess / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1168,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3399",
          "pubDate" : "Fri, 24 Jan 2025 10:00:42",
          "title" : "FIDE statement on participation of neutral athletes from vulnerable groups in team events"
-      },
-      {
-         "description" : " The 18-year-old Indian world champion was losing his first-round game in the Netherlands but his Dutch opponent, Anish Giri, blundered fatally when short of time Gukesh Dommaraju played and won his first competitive game as world champion last weekend, but only after surviving a close brush with disaster. The 18-year-old Indian, who <a href=\"https://www.theguardian.com/sport/2024/dec/12/gukesh-dommaraju-india-wins-world-chess-championship-youngest-champion-ding-liren\">captured the crown last month</a> from China's Ding Liren, defeated Anish Giri in the opening round of Tata Steel Wijk aan Zee, the \"chess Wimbledon\", after the Netherlands No 1 failed to spot the winning tactic featured in th",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jan/24/chess-dommaraju-gukesh-recovers-from-brush-with-disaster-at-wijk-aan-zee",
-         "pubDate" : "Fri, 24 Jan 2025 08:00:04",
-         "title" : "Chess: Dommaraju Gukesh recovers from brush with disaster at Wijk aan Zee"
       }
    ]
 }
