@@ -1216,14 +1216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-joins-abdusattorov-and-praggnanandhaa-in-the-lead-of-the-tata-steel-masters-after-7-rounds",
          "pubDate" : "Sat, 25 Jan 2025 21:00:00",
          "title" : "Gukesh joins Abdusattorov and Praggnanandhaa in the lead of the Tata Steel Masters after 7 Rounds - 7"
-      },
-      {
-         "description" : "As the chess world prepares to celebrate a momentous milestone, we reflect on the life of Fridrik Ólafsson, a towering figure in Icelandic and international chess. In January 2026, Ólafsson will mark his 90th anniversary, a testament to his enduring influence on the game. Born on January 26, 1935, in Reykjav&iacute;k, Iceland, Fridrik Ólafsson emerged as a prodigious chess talent in his youth. His rise to prominence was swift, becoming the first Icelandic player to achieve the title of Grandmaster []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fridrik-olafsson-turns-90/",
-         "pubDate" : "Sat, 25 Jan 2025 18:58:16",
-         "title" : "Fridrik Ólafsson turns 90!"
       }
    ]
 }
