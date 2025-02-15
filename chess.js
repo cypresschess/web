@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Freestyle Chess is shaking up the game, and GM Niclas Huschenbeth is at the forefront of the revolution. With no fixed openings and 960 possible starting positions, adaptability is key-yet Huschenbeth sees opportunity where others see chaos. His Freestyle Chess Masterclass equips players with the principles to navigate any position with confidence. From breaking symmetry to mastering piece coordination, the German GM unveils the secrets to success in this dynamic format. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niclas-huschenbeth-freestyle-chess",
+         "pubDate" : "Sat, 15 Feb 2025 16:00:00",
+         "title" : "Mastering the unknown: Niclas Huschenbeth on Freestyle Chess"
+      },
+      {
+         "description" : "Please find the circular here :Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-amateur-chess-championship-2024-25-in-bodhgaya-bihar-from-25-29-march-2025/",
+         "pubDate" : "Sat, 15 Feb 2025 15:13:39",
+         "title" : "National Amateur Chess Championship 2024-25 in Bodhgaya ,Bihar from 25-29 March 2025"
+      },
+      {
+         "description" : "In June 2015, I became a Chess Professional. It wasn't just the people around me who doubted me-my Coach, someone I trusted, and even the Swiss Chess Federation told me to get a \"real job\" instead. They said I wasn't good enough to make a living from chess-especially not in Switzerland, where the cost of []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/breakthrough/",
+         "pubDate" : "Sat, 15 Feb 2025 14:00:00",
+         "title" : "How I Turned a 2.5-Year Plateau into a Career-Defining Breakthrough"
+      },
+      {
+         "description" : "I have, for over four decades, been advocating a method of improving your results, by adopting a hero or role model and using that player's ideas to create your own repertoire and prepared strategies. One example is the concept of the rook sacrifice on f7, always a vulnerable square, defended only by the king. In []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/winning-stratagems/",
+         "pubDate" : "Sat, 15 Feb 2025 13:06:22",
+         "title" : "Winning stratagems"
+      },
+      {
          "description" : "ChessBase 18 offers a unique range of professional features. This series gives users of ChessBase tips for the first important steps. In the first part of this series we showed you how to enter and save your own games. In part 2 of our tutorial we will show you how to add new variations to a game in ChessBase 18. These can be your own moves or those of an engine, which you might want to add.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1192,14 +1224,6 @@ news_feed (
          "link" : "https://www.europechess.org/fridrik-olafsson-turns-90/",
          "pubDate" : "Sat, 25 Jan 2025 18:58:16",
          "title" : "Fridrik Ólafsson turns 90!"
-      },
-      {
-         "description" : "Hey everyone, This article is a special one, and one that I thought about never sending out. I wrote it while sobbing in front of the TV, partly as therapy for myself and partly to help someone else in the same/similar shoes. I didnt' feel like editing anything, because it came straight from my heart. []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/how-chess-saved-me/",
-         "pubDate" : "Sat, 25 Jan 2025 14:00:00",
-         "title" : "From Bullied Kid To Grandmaster - How Chess Saved My Life"
       }
    ]
 }
