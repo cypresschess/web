@@ -66,7 +66,7 @@ news_feed (
          "title" : "Chess: Vincent Keymer knocks out Magnus Carlsen in Freestyle Grand Slam"
       },
       {
-         "description" : "GM Vincent Keymer won the 2025 Weissenhaus Freestyle Chess Grand Slam after making a draw in his second classical game against GM Fabiano Caruana. Keymer neutralized the latter&#39;s tremendous effort with a pawn sacrifice in the opening. GM&#38;nbsp;Magn...",
+         "description" : "GM Vincent Keymer won the 2025 Weissenhaus Freestyle Chess Grand Slam, and with it $200,000, after making a draw in his second classical game against GM Fabiano Caruana. Keymer neutralized the latter&#39;s tremendous effort with a pawn sacrifice in th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/keymer-wins-2025-freestyle-chess-grand-slam-weissenhaus",
@@ -1192,22 +1192,6 @@ news_feed (
          "link" : "https://www.thearticle.com/paul-keres-the-eternal-estonian/",
          "pubDate" : "Sat, 25 Jan 2025 10:44:26",
          "title" : "Paul Keres: the eternal Estonian"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov continues to share the lead with Praggnanandhaa on 4.5/6 after both drew their games today. Praggnanandhaa drew a well conducted Open Spanish against Wei Yi where there weren't any clear chances for either player. In contrast Abdusattorov built up a winning position against World Champion Gukesh only to let it slip at the end. Gukesh remains very much in touch half a point behind the leaders. There was in fact only one decisive game today where Alexey Sarana beat Vladimir Fedoseev in a complicated Queen's Gambit where Fedoseev started to go wrong about move 20 and resigned on move 45. Arjun Erigaisi is having a nightmare of a tournament, it turns out he was a little si",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/disappointment-for-abdusattorov-as-he-allows-gukesh-to-escape-with-a-draw-in-tata-steel-round-6",
-         "pubDate" : "Fri, 24 Jan 2025 23:20:00",
-         "title" : "Disappointment for Abdusattorov as he allows Gukesh to escape with a draw in Tata Steel Round 6 - 6"
-      },
-      {
-         "description" : "R Praggnanandhaa was joined in the lead by Nodirbek Abdusattorov, with D Gukesh only 0.5 behind them.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43552636/gukesh-pulls-big-escape-stay-reach-leaders-round-6-tata-steel-chess?device=featurephone",
-         "pubDate" : "Fri, 24 Jan 2025 23:02:40",
-         "title" : "Gukesh pulls off big escape to stay within reach of leaders in Round 6 of Tata Steel Chess"
       }
    ]
 }
