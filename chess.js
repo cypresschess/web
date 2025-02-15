@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 18 offers a unique range of professional features. This series gives users of ChessBase tips for the first important steps. In the first part of this series we showed you how to enter and save your own games. In part 2 of our tutorial we will show you how to add new variations to a game in ChessBase 18. These can be your own moves or those of an engine, which you might want to add.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-2-insert-variations-and-add-engines",
+         "pubDate" : "Sat, 15 Feb 2025 13:00:00",
+         "title" : "ChessBase 18 -Tips for beginners, part 2: Insert variations and add engines"
+      },
+      {
+         "description" : "Medical Evaluation of the age of Chess Players: The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/announcement-medical-evaluation-in-guwahati-on-04-april-2025/",
+         "pubDate" : "Sat, 15 Feb 2025 08:47:10",
+         "title" : "Announcement :Medical Evaluation in Guwahati on 04 April 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118270498.cms\" />Anna Muzychuk, Ukraine's top-ranked chess player, is set to compete in Norway Chess Women 2025. She aims to build on her runner-up finish from last year. The tournament features strong contenders like Ju Wenjun and Koneru Humpy. Equal prize money and unique scoring systems add to the competitive excitement. Muzychuk focuses on strategic preparation.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1184,38 +1200,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/how-chess-saved-me/",
          "pubDate" : "Sat, 25 Jan 2025 14:00:00",
          "title" : "From Bullied Kid To Grandmaster - How Chess Saved My Life"
-      },
-      {
-         "description" : "Please find the certificates here No. Candidate Name1 Shubhangi Verma2 Sujit Patra3 Satyajit Pattanaik4 Nambala Ravi Kumar5 Chandra Sekhar Panda6 Satyajit Barick7 Pradip Kumar Mohanty8",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-sna-seminar-held-in-bhubaneswar-from-16-to-17-december-2024/",
-         "pubDate" : "Sat, 25 Jan 2025 11:34:09",
-         "title" : "Certificate of SNA seminar held in Bhubaneswar from 16 to 17 December 2024"
-      },
-      {
-         "description" : "National Under 13 Rank Name1 Reyan Md.2 Sherla Prathamesh3 Pranav Sai Ram R S4 Jval Saurin Patel5 Tanmay Rajbongshi6 Aadik Theophane Lenin7 Nimay Agrawal8 Rosh",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-under-13-chess-championship-2024/",
-         "pubDate" : "Sat, 25 Jan 2025 11:08:16",
-         "title" : "Certificate of National Under 13 Chess Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3400",
-         "pubDate" : "Sat, 25 Jan 2025 10:51:49",
-         "title" : "Milestones of the FIDE Chess for Protection Programme in Kakuma"
-      },
-      {
-         "description" : "Jimmy Adams, the noted author and chess editor, has created an event of immense significance in the universe of chess publishing: The Complete Paul Keres (Limited Edition Hardbacks: four volumes, two slipcases, &pound;225). Hundreds of games, thousands of pages! To quote the publisher's own encomium of this remarkable work: for over thirty years Paul Keres remained one []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/paul-keres-the-eternal-estonian/",
-         "pubDate" : "Sat, 25 Jan 2025 10:44:26",
-         "title" : "Paul Keres: the eternal Estonian"
       }
    ]
 }
