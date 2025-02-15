@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Pontus Carlsson invited The Chess Drum community to participate in his Zero Requiem charity event to benefit the development of chess in Africa. In his ongoing Business Meets Chess &#38; Kids initiative, he involves celebrities, business executive and chess enthusiasts to enjoy chess and meet &#8220;chess kids&#8221; who have developed a joy for the The post <a href=\"https://thechessdrum.net/blog/2025/02/14/gm-carlsson-invites-you-to-charity-event/\">GM Carlsson invites you to Charity Chess Event</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/02/14/gm-carlsson-invites-you-to-charity-event/",
+         "pubDate" : "Sat, 15 Feb 2025 02:35:01",
+         "title" : "GM Carlsson invites you to Charity Chess Event"
+      },
+      {
          "description" : "Vincent Keymer has done it. After knocking out Alireza Firouzja and Magnus Carlsen, the German number one in classical chess also won the final against Fabiano Caruana. After winning the first game of the match on Thursday, Keymer achieved the draw he needed in the second game. | Photo: Freestyle Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
