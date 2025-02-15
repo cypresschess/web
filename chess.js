@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118270498.cms\" />Anna Muzychuk, Ukraine's top-ranked chess player, is set to compete in Norway Chess Women 2025. She aims to build on her runner-up finish from last year. The tournament features strong contenders like Ju Wenjun and Koneru Humpy. Equal prize money and unique scoring systems add to the competitive excitement. Muzychuk focuses on strategic preparation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-a-big-step-forward-for-women-world-no-8-anna-muzychuk-on-equal-prize-in-norway-chess/articleshow/118270498.cms",
+         "pubDate" : "Sat, 15 Feb 2025 08:06:36",
+         "title" : "'Step forward for women': Muzychuk on Norway Chess equal prize"
+      },
+      {
+         "description" : "Monaco sets the stage for the third leg of the 2024/2025 FIDE Women's Grand Prix, welcoming ten of the world's top female players to battle for crucial points in the race to the 2026 Candidates Tournament. With a luxurious venue and high stakes, this tournament promises thrilling clashes and strategic brilliance. As the Grand Prix intensifies, all eyes turn to the principality - who will rise to the occasion in this elite showdown?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-preview",
+         "pubDate" : "Sat, 15 Feb 2025 08:00:00",
+         "title" : "Preview: Women's Grand Prix in Monaco"
+      },
+      {
+         "description" : "National Under 07 Under 07 Under 07&#160; Girls Rank Name Rank Name 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-national-school-chess-championship/",
+         "pubDate" : "Sat, 15 Feb 2025 07:15:02",
+         "title" : "Certificates :National School Chess Championship 2024 in Peddapuram Andhra Pradesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118266413.cms\" />World champion D Gukesh finished eighth at the German Freestyle Chess Grand Slam after losing to Alireza Firouzja. Despite a winless campaign, Gukesh earned $20,000. Vincent Keymer won the tournament, defeating Fabiano Caruana, and secured $200,000. Top players like Magnus Carlsen, Javokhir Sindarov, and Hikaru Nakamura also took notable prizes, while Levon Aronian and Vladimir Fedoseev finished in lower ranks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-much-d-gukesh-took-home-despite-winless-run-at-german-leg-of-freestyle-chess-grand-slam-tour/articleshow/118266413.cms",
+         "pubDate" : "Sat, 15 Feb 2025 04:27:58",
+         "title" : "How much Gukesh took home despite winless run at Freestyle Chess"
+      },
+      {
          "description" : " GM Pontus Carlsson invited The Chess Drum community to participate in his Zero Requiem charity event to benefit the development of chess in Africa. In his ongoing Business Meets Chess &#38; Kids initiative, he involves celebrities, business executive and chess enthusiasts to enjoy chess and meet &#8220;chess kids&#8221; who have developed a joy for the The post <a href=\"https://thechessdrum.net/blog/2025/02/14/gm-carlsson-invites-you-to-charity-event/\">GM Carlsson invites you to Charity Chess Event</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -808,22 +840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3409",
          "pubDate" : "Mon, 03 Feb 2025 16:02:49",
          "title" : "Freestyle Chess Tour removes \"World Championship\" claim from regulations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117879362.cms\" />Viswanathan Anand has pulled out from the Freestyle Chess Grand Slam Tour. His new role as FIDE Vice President and tensions with Magnus Carlsen influenced his decision. The tour starts in Germany on February 7, with top players like Carlsen and Nakamura participating. Discussions are ongoing about the New Delhi leg and the use of the term 'World Championship'.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-viswanathan-anand-withdrew-from-freestyle-chess-grand-slam-tour/articleshow/117879362.cms",
-         "pubDate" : "Mon, 03 Feb 2025 06:45:15",
-         "title" : "Exclusive | Why Anand withdrew from Freestyle Chess GS Tour"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117873923.cms\" />Indian grandmaster R Praggnanandhaa achieved a remarkable comeback to defeat world champion D Gukesh 2-1 in the tiebreaker at Tata Steel Chess Tournament 2025, claiming his maiden title. Despite initially losing due to a blunder, Praggnanandhaa's strategic brilliance and unwavering focus allowed him to secure victory in the intense and thrilling encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-devastated-after-losing-tata-steel-2025-masters-title-to-r-praggnanandhaa/articleshow/117873923.cms",
-         "pubDate" : "Mon, 03 Feb 2025 03:20:08",
-         "title" : "Watch: Gukesh devastated after losing Masters title to Pragg"
       },
       {
          "description" : " Praggnanandhaa won the 87th Tata Steel Chess tournament for his most impressive result of his career so far. The path to victory was not at all smooth and he had to show great determination on the final day. Praggnanandhaa shared the lead with World Champion Gukesh and I don't think anyone predicted both players would go down to a defeat. Gukesh was well beaten by a resurgent Arjun Erigaisi who said his confidence returned after beating Nodirbek Abdusattorov in Round 12. The game was a Petroff with opposite sides castling, Erigaisi always seemed at least equal, there was a weird exchange sacrifice which was supposed to be a bit better for Gukesh but after that it was all one way traffic and",
