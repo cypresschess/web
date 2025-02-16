@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters on February 16, featuring a faster 10+0 time control for added excitement. With only two online events to earn CCT points, the stakes are higher than ever. Top stars, including Magnus Carlsen and Hikaru Nakamura, are set to compete. The Tour will culminate in the prestigious Esports World Cup, where players will battle for a historic $1,500,000 prize fund. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-preview",
+         "pubDate" : "Sun, 16 Feb 2025 08:45:00",
+         "title" : "Chessable Masters opens 2025 Champions Chess Tour"
+      },
+      {
          "description" : "In the week that top chess players signed with esports organizations, GM Sam Sevian&#38;nbsp;made a statement by winning Saturday&#39;s Bullet Brawl&#38;nbsp;and the $400 top prize, 24 hours after claiming&#38;nbsp;his first Freestyle Friday victory. Sevian outsc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
