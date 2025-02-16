@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2025-02-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202502151432 target='_blank'>CHESSPANDA02152025SATURDAY</a>",
+"SPRING","2025-02-14","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502141232 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2025-02-14","16","<a href=http://www.uschess.org/msa/XtblMain.php?202502141192 target='_blank'>FBCC VALENTINE'S DAY OPEN</a>",
 "CYPRESS","2025-02-14","17","<a href=http://www.uschess.org/msa/XtblMain.php?202502141162 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-02-08","20","<a href=http://www.uschess.org/msa/XtblMain.php?202502087492 target='_blank'>CW BLITZ CUP 2025</a>",
 "HOUSTON","2025-02-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202502087042 target='_blank'>CHESSPANDA02082025SATURDAY</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2024-06-25","29","<a href=http://www.uschess.org/msa/XtblMain.php?202406254922 target='_blank'>SHADOW CREEK SPORTS TUESDAY</a>",
 "HOUSTON","2024-06-22","25","<a href=http://www.uschess.org/msa/XtblMain.php?202406223002 target='_blank'>JUNE 22ND  2024 SATURDAY SWISS AT N</a>",
 "HOUSTON","2024-06-22","7","<a href=http://www.uschess.org/msa/XtblMain.php?202406222262 target='_blank'>CHESSPANDA06222024SATURDAY</a>",
-"HOUSTON","2024-06-21","8","<a href=http://www.uschess.org/msa/XtblMain.php?202406215322 target='_blank'>TEMPLE SINAI 06.21.24</a>",
-"CYPRESS","2024-06-21","30","<a href=http://www.uschess.org/msa/XtblMain.php?202406211882 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-06-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202406211782 target='_blank'>FBCC 2024 DAY OF THE GONG OPEN</a>",
 ]);
