@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The following players have been selected for England in the Chessmates&#160;International on 21-23 March, 2025 in York. &#160; First Name Surname Category Stanley Badacsonyi U20 Avyukt Dasgupta U20 Alexandr Pereslavtsev...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-chessmates-team/",
+         "pubDate" : "Sun, 16 Feb 2025 15:25:09",
+         "title" : "England Chessmates Team"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3420",
+         "pubDate" : "Sun, 16 Feb 2025 12:27:34",
+         "title" : "Azerbaijani Championship: Mamedov and Mammadzada capture titles"
+      },
+      {
          "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters on February 16, featuring a faster 10+0 time control for added excitement. With only two online events to earn CCT points, the stakes are higher than ever. Top stars, including Magnus Carlsen and Hikaru Nakamura, are set to compete. The Tour will culminate in the prestigious Esports World Cup, where players will battle for a historic $1,500,000 prize fund. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
