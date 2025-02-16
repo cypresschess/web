@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rauf Mamedov and Gunay Mammadzada emerged victorious at the 2025 Azerbaijani Chess Championships in Baku. Mamedov clinched his seventh national title after a dramatic final against Shakhriyar Mamedyarov, while Mammadzada secured her third championship with a masterful tiebreak performance against Govhar Beydullayeva. The tournament featured Azerbaijan's strongest players, intense battles and unexpected upsets. | Photos: Azerbaijani Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/azerbaijani-championships-2025-report",
+         "pubDate" : "Sun, 16 Feb 2025 17:35:00",
+         "title" : "Azerbaijani Championships: Mamedov and Mammadzada capture titles"
+      },
+      {
          "description" : "The following players have been selected for England in the Chessmates&#160;International on 21-23 March, 2025 in York. &#160; First Name Surname Category Stanley Badacsonyi U20 Avyukt Dasgupta U20 Alexandr Pereslavtsev...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -90,14 +98,6 @@ news_feed (
          "title" : "'Step forward for women': Muzychuk on Norway Chess equal prize"
       },
       {
-         "description" : "Monaco sets the stage for the third leg of the 2024/2025 FIDE Women's Grand Prix, welcoming ten of the world's top female players to battle for crucial points in the race to the 2026 Candidates Tournament. With a luxurious venue and high stakes, this tournament promises thrilling clashes and strategic brilliance. As the Grand Prix intensifies, all eyes turn to the principality - who will rise to the occasion in this elite showdown?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-preview",
-         "pubDate" : "Sat, 15 Feb 2025 08:00:00",
-         "title" : "Preview: Women's Grand Prix in Monaco"
-      },
-      {
          "description" : "National Under 07 Under 07 Under 07&#160; Girls Rank Name Rank Name 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -138,14 +138,6 @@ news_feed (
          "title" : "Freestyle Chess: D Gukesh loses to Firouzja, ends eighth"
       },
       {
-         "description" : "The Kasparov Chess Foundation Academy connects with its audience by providing the subscribers with unparalleled learning experiences during live training sessions with chess stars. Continuing this tradition, the KCF Academy is excited to announce an exclusive live lecture featuring GM Veselin Topalov on Sunday, February 16, 2025, at 6 pm CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-veselin-topalov-s-live-lecture",
-         "pubDate" : "Fri, 14 Feb 2025 16:30:00",
-         "title" : "KCF: Veselin Topalov's Live Lecture"
-      },
-      {
          "description" : "Please find the event circular here Download",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -168,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sevian-wins-freestyle-friday-february-14-2025",
          "pubDate" : "Fri, 14 Feb 2025 11:09:30",
          "title" : "Fourth Friday, Fourth Freestyle Victor"
-      },
-      {
-         "description" : "In 2025 the Spanish city of Valencia commemorates its special role in the history of chess. To mark the occasion, a presentation has been created in 'La Lonja de la Seda', highlighting the revolution in the rules that led to modern chess. The city will soon be hosting tournaments, conferences and exhibitions with prominent personalities such as Viswanathan Anand. This tribute underlines the role of Valencia in the development of world chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/valencia-celebrates-the-550th-anniversary-of-the-birth-of-modern-chess",
-         "pubDate" : "Fri, 14 Feb 2025 10:00:00",
-         "title" : "Valencia celebrates the 550th anniversary of the birth of modern chess"
       },
       {
          "description" : " The 20-year-old scored a career-best result by defeating the World No 1 in the Norwegian's favourite format, then won 1.5-0.5 against the US champion, Fabiano Caruana, in the final Vincent Keymer made a career breakthrough this week when the 20-year-old German <a href=\"https://www.chessgames.com/perl/chessgame?gid=2844237\">knocked out Magnus Carlsen</a> at the Weissenhaus Grand Slam in the classical Freestyle format which the world No 1 now prefers. There was a lively running commentary on the game's deciding stages <a href=\"https://www.youtube.com/watch?t=718&amp;v=MyCTW3jB7Yk&amp;feature=youtu.be\">on YouTube</a>. Keymer went on to defeat the US champion and world No 2, Fabiano Caruana, by",
@@ -224,22 +208,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/fide-world-senior-team-championships-begin-monday-prague",
          "pubDate" : "Fri, 14 Feb 2025 00:00:00",
          "title" : "FIDE World Senior Team Championships Begin Monday in Prague"
-      },
-      {
-         "description" : "Vincent Keymer won the first game of the final match at the Weissenhaus Freestyle Grand Slam tournament. Keymer defeated Caruana with the white pieces after getting a position edge out of the opening. Magnus Carlsen also won, as he took the lead against Javokhir Sindarov in the match for third place. | Photo: Freestyle Chess / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-6",
-         "pubDate" : "Thu, 13 Feb 2025 23:05:00",
-         "title" : "Weissenhaus: Keymer beats Caruna in first game of the final"
-      },
-      {
-         "description" : "Imagine that you are at a party. A person you are talking to is just speaking endlessly. It feels like they will never stop, and there is only one thought in your head: \"How can I interrupt this person before I go deaf?\" Changing the course of a conversation is sometimes a tricky task. Changing the course of a chess game might be similarly challenging, but not for those who know the noble art of intermediate moves! | Photo: Christine Schmidt, Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-41-interrupting-the-opponent",
-         "pubDate" : "Thu, 13 Feb 2025 20:00:00",
-         "title" : "The Winning Academy 41: Interrupting the Opponent"
       },
       {
          "description" : "",
