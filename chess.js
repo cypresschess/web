@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the week that top chess players signed with esports organizations, GM Sam Sevian&#38;nbsp;made a statement by winning Saturday&#39;s Bullet Brawl&#38;nbsp;and the $400 top prize, 24 hours after claiming&#38;nbsp;his first Freestyle Friday victory. Sevian outsc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sam-sevian-wins-bullet-brawl-february-15-2025",
+         "pubDate" : "Sat, 15 Feb 2025 16:29:00",
+         "title" : "Sevian Bolsters Esports Credentials With Bullet Brawl Win"
+      },
+      {
          "description" : "Freestyle Chess is shaking up the game, and GM Niclas Huschenbeth is at the forefront of the revolution. With no fixed openings and 960 possible starting positions, adaptability is key-yet Huschenbeth sees opportunity where others see chaos. His Freestyle Chess Masterclass equips players with the principles to navigate any position with confidence. From breaking symmetry to mastering piece coordination, the German GM unveils the secrets to success in this dynamic format. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "Justus Williams Wins 1st NextGen Cup By Armageddon Win"
       },
       {
-         "description" : "Polish number-one GM Jan-Krzysztof Duda&#38;rsquo;s greatest achievement so far is winning the 2021 FIDE World Cup, but in a recent interview the 26-year-old described that as &#38;ldquo;a big step backward&#38;rdquo; for his career. He revealed he&#38;rsquo;d st...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-crisis-quitting-chess",
-         "pubDate" : "Thu, 06 Feb 2025 12:21:00",
-         "title" : "Duda On 'Crisis Of Faith' And Thoughts Of Quitting Chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/wei-yi-and-caruana-keep-themselves-in-contention-after-wins-in-round-8-of-the-tata-steel-masters",
          "pubDate" : "Sun, 26 Jan 2025 20:40:00",
          "title" : "Wei Yi and Caruana keep themselves in contention after wins in Round 8 of the Tata Steel Masters - 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3401",
-         "pubDate" : "Sun, 26 Jan 2025 01:35:22",
-         "title" : "Former FIDE President Fridrik Olafsson turns 90"
       }
    ]
 }
