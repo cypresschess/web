@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3422",
+         "pubDate" : "Mon, 17 Feb 2025 20:05:01",
+         "title" : "Third leg of FIDE WGP 2024-2025 kicks off in Monaco"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3421",
+         "pubDate" : "Mon, 17 Feb 2025 16:29:17",
+         "title" : "Prague welcomes 2025 World Senior Team Chess Championship"
+      },
+      {
          "description" : "Anna Cramling is one of the most popular chess streamers, and she also streamed from the Freestyle Chess Tournament in Weissenhaus. Arne K&auml;hler took the opportunity to interview Anna, and she shared her bittersweet feelings about the end of the Freestyle Chess event, expressing how much she would miss the atmosphere and the people. She also reflected on her experience of playing against Alexandra Botez, emphasising how Freestyle Chess made her think from the very first move. Anna also discussed her journey as a chess streamer, how her content has evolved through travel and street chess, and her excitement at winning the Twitch Streamer Award. She revealed plans for extensive travel, inc",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://aicf.in/world-cadet-youth-rapid-and-blitz-chess-championships-2025-in-rhodes-greece-from-12th-to-18th-april-2025/",
          "pubDate" : "Tue, 28 Jan 2025 07:33:33",
          "title" : "World Cadet & Youth Rapid and Blitz Chess Championships - 2025 in Rhodes - Greece from 12th to 18th April, 2025."
-      },
-      {
-         "description" : "In <A HREF=\"https://chessforallages.blogspot.com/2025/01/chess-guy-likes-to-talk.html\">Chess Guy Likes to Talk</A> (January 2025), I wrote, <BLOCKQUOTE> For the third time in less than a year, the monthly featured Flickr post contains two keywords: Shoreditch graffiti. </BLOCKQUOTE> <P> While working on that post I discovered a new resource, an example of which is shown in the following image. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pa27.gif\" WIDTH=400 HEIGHT=165><BR> <A HREF=\"https://www.graffiti-empire.com/graffiti-generator/\">Online Graffiti Generator - Graffiti Empire</A><BR> graffiti-empire.com <P> That example was constructed using the first offered 'font' plus t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/chess-graffiti.html",
-         "pubDate" : "Mon, 27 Jan 2025 16:43:00",
-         "title" : "Chess Graffiti"
       }
    ]
 }
