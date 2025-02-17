@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival returns for its seventh edition from 26 February to 7 March at the Hotel Don Giovanni in Czechia's capital. Organised by the Novy Bor Chess Club, the event follows a format similar to Wijk aan Zee, featuring Masters, Challengers and Futures sections. This year's Masters tournament includes past winner Sam Shankland, rising stars Vincent Keymer and Praggnanandhaa Rameshbabu, and seasoned grandmasters such as Wei Yi and Anish Giri.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-announcement",
+         "pubDate" : "Sun, 16 Feb 2025 22:50:00",
+         "title" : "Prague Chess Festival, with Pragg, Keymer and Giri, kicks off next week"
+      },
+      {
          "description" : "Rauf Mamedov and Gunay Mammadzada emerged victorious at the 2025 Azerbaijani Chess Championships in Baku. Mamedov clinched his seventh national title after a dramatic final against Shakhriyar Mamedyarov, while Mammadzada secured her third championship with a masterful tiebreak performance against Govhar Beydullayeva. The tournament featured Azerbaijan's strongest players, intense battles and unexpected upsets. | Photos: Azerbaijani Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43578611/praggnanandhaa-draws-gukesh-round-8-tata-steel-chess?device=featurephone",
          "pubDate" : "Mon, 27 Jan 2025 04:22:15",
          "title" : "Praggnanandhaa draws with Gukesh in table-top clash: Round 8 of Tata Steel Chess"
-      },
-      {
-         "description" : " The Tata Steel Masters enters a second rest day on Monday with a three way tie between Gukesh, Nodirbek Abdusattorov and Praggnanandhaa on 5.5/8, half a point clear of Vladimir Fedoseev on 5 points and in turn half a point clear of Alexey Sarana, Wei Yi and Fabiano Caruana on 4.5/8. The winner of this year's Masters will surely be one of these players. Today the leaders Praggnanandhaa and Gukesh drew a Berlin Ruy Lopez in 33 moves. A game not without interest but also not that thrilling either. Fabiano Caruana beat Vincent Keymer on the black side of an Exchange Queen's Gambit. Caruana had a chance after 27.Bc1? but played 27...Qe7 instead of 27...Nd6! Caruana had to wait for another mistak",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/wei-yi-and-caruana-keep-themselves-in-contention-after-wins-in-round-8-of-the-tata-steel-masters",
-         "pubDate" : "Sun, 26 Jan 2025 20:40:00",
-         "title" : "Wei Yi and Caruana keep themselves in contention after wins in Round 8 of the Tata Steel Masters - 8"
       }
    ]
 }
