@@ -26,6 +26,14 @@ news_feed (
          "title" : "Azerbaijani Championships: Mamedov and Mammadzada capture titles"
       },
       {
+         "description" : "While creating the short list for this month's <I>Flickr Favorite</I> post, I saw many photos similar to the one in the upper left of the composite image below. See, for example, the photo directly beneath it (leftmost image second row). When I tried to look at that family of photos together, I discovered that the photographer frequently used 'chess' as a theme. The image in the lower right looked familiar and, sure enough, I had 'faved' it sometime last year. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb16.jpg\" WIDTH=400 HEIGHT=300><BR> <B>Upper left:</B> <A HREF=\"https://www.flickr.com/photos/lwr/54288464604/\">Chess-esque</A> &#169; Flickr user <I>Leo Reynolds</I> under",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/more-text-to-art.html",
+         "pubDate" : "Sun, 16 Feb 2025 16:11:00",
+         "title" : "More Text to Art"
+      },
+      {
          "description" : "The following players have been selected for England in the Chessmates&#160;International on 21-23 March, 2025 in York. &#160; First Name Surname Category Stanley Badacsonyi U20 Avyukt Dasgupta U20 Alexandr Pereslavtsev...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
