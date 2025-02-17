@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anna Cramling is one of the most popular chess streamers, and she also streamed from the Freestyle Chess Tournament in Weissenhaus. Arne K&auml;hler took the opportunity to interview Anna, and she shared her bittersweet feelings about the end of the Freestyle Chess event, expressing how much she would miss the atmosphere and the people. She also reflected on her experience of playing against Alexandra Botez, emphasising how Freestyle Chess made her think from the very first move. Anna also discussed her journey as a chess streamer, how her content has evolved through travel and street chess, and her excitement at winning the Twitch Streamer Award. She revealed plans for extensive travel, inc",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-interview-with-anna-cramling",
+         "pubDate" : "Mon, 17 Feb 2025 15:51:01",
+         "title" : "\"Maybe Freestyle Chess is my next calling!\" - An interview with Anna Cramling"
+      },
+      {
+         "description" : "The Catalan Opening is a very ambitious weapon against various Black defences. Depending on how Black reacts, different, usually very challenging structures emerge. Jan Werle has presented the opening in two Fritztrainer volumes, and Hannes Langrock took a close look at volume one.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-werle-s-catalan-an-ambitious-and-powerful-weapon-for-white",
+         "pubDate" : "Mon, 17 Feb 2025 14:27:00",
+         "title" : "Jan Werle's Catalan - An ambitious and powerful weapon for White"
+      },
+      {
          "description" : "A number of directors have confirmed that they intend either not to stand for re-election at October's AGM or to step down before the end of their three-year term at...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2025-qualifier",
          "pubDate" : "Mon, 17 Feb 2025 11:10:00",
          "title" : "Chessable Masters: Atabayev, Samadov and Suyarov make it to the Play-In"
+      },
+      {
+         "description" : "Ukrainian esports organization Natus Vincere (NAVI) has entered the competitive chess scene with a bang by snapping up star grandmasters Wesley So, Nodirbek Abdusattorov, and Oleksandr Bortnyk. Meanwhile, world number-nine GM Wei Yi has also been ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-so-bortnyk-join-ukrainian-esports-team-wei-yi-signs-weibo",
+         "pubDate" : "Mon, 17 Feb 2025 05:24:03",
+         "title" : "Abdusattorov, So, Bortnyk Join Ukrainian Esports Team; Wei Yi Signs For Weibo"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118316986.cms\" />Vantika Agrawal, inspired by chess as a child, became a double gold medallist at the 2024 Chess Olympiad and recently received the Arjuna Award. Despite challenges such as a lack of chess culture in north India, she remains dedicated, training rigorously with support from her mother, and aims to prove herself on the global chess stage.",
@@ -74,28 +98,12 @@ news_feed (
          "title" : "Azerbaijani Championship: Mamedov and Mammadzada capture titles"
       },
       {
-         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters on February 16, featuring a faster 10+0 time control for added excitement. With only two online events to earn CCT points, the stakes are higher than ever. Top stars, including Magnus Carlsen and Hikaru Nakamura, are set to compete. The Tour will culminate in the prestigious Esports World Cup, where players will battle for a historic $1,500,000 prize fund. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-preview",
-         "pubDate" : "Sun, 16 Feb 2025 08:45:00",
-         "title" : "Chessable Masters opens 2025 Champions Chess Tour"
-      },
-      {
          "description" : "In the week that top chess players signed with esports organizations, GM Sam Sevian&#38;nbsp;made a statement by winning Saturday&#39;s Bullet Brawl&#38;nbsp;and the $400 top prize, 24 hours after claiming&#38;nbsp;his first Freestyle Friday victory. Sevian outsc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sam-sevian-wins-bullet-brawl-february-15-2025",
          "pubDate" : "Sat, 15 Feb 2025 16:29:00",
          "title" : "Sevian Bolsters Esports Credentials With Bullet Brawl Win"
-      },
-      {
-         "description" : "Freestyle Chess is shaking up the game, and GM Niclas Huschenbeth is at the forefront of the revolution. With no fixed openings and 960 possible starting positions, adaptability is key-yet Huschenbeth sees opportunity where others see chaos. His Freestyle Chess Masterclass equips players with the principles to navigate any position with confidence. From breaking symmetry to mastering piece coordination, the German GM unveils the secrets to success in this dynamic format. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niclas-huschenbeth-freestyle-chess",
-         "pubDate" : "Sat, 15 Feb 2025 16:00:00",
-         "title" : "Mastering the unknown: Niclas Huschenbeth on Freestyle Chess"
       },
       {
          "description" : "Please find the circular here : Download",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/winning-stratagems/",
          "pubDate" : "Sat, 15 Feb 2025 13:06:22",
          "title" : "Winning stratagems"
-      },
-      {
-         "description" : "ChessBase 18 offers a unique range of professional features. This series gives users of ChessBase tips for the first important steps. In the first part of this series we showed you how to enter and save your own games. In part 2 of our tutorial we will show you how to add new variations to a game in ChessBase 18. These can be your own moves or those of an engine, which you might want to add.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-2-insert-variations-and-add-engines",
-         "pubDate" : "Sat, 15 Feb 2025 13:00:00",
-         "title" : "ChessBase 18 -Tips for beginners, part 2: Insert variations and add engines"
       },
       {
          "description" : "Medical Evaluation of the age of Chess Players: The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/02/14/gm-carlsson-invites-you-to-charity-event/",
          "pubDate" : "Sat, 15 Feb 2025 02:35:01",
          "title" : "GM Carlsson invites you to Charity Chess Event"
-      },
-      {
-         "description" : "Vincent Keymer has done it. After knocking out Alireza Firouzja and Magnus Carlsen, the German number one in classical chess also won the final against Fabiano Caruana. After winning the first game of the match on Thursday, Keymer achieved the draw he needed in the second game. | Photo: Freestyle Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-fcgs-2025-7",
-         "pubDate" : "Fri, 14 Feb 2025 19:25:00",
-         "title" : "Keymer triumphs in Weissenhaus, defeats both Carlsen and Caruana"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118256227.cms\" />World champion D Gukesh finished eighth at the Freestyle Chess Grand Slam after losing to Alireza Firouzja in their seventh-place playoff match. Despite drawing the first game, Gukesh lost the second in 30 moves, concluding a winless tournament. Vincent Keymer, considered a rookie, won the event, which challenges the traditional chess format.",
@@ -746,14 +738,6 @@ news_feed (
          "title" : "New Players under the FIDE Flag"
       },
       {
-         "description" : "IM Justus Williams won Chess.com&#39;s inaugural 2025 NextGen Cup, an online round-robin tournament inviting 10 of the most talented players of the African diaspora. Finishing with 7.5 points after nine rounds, he won an exhilarating armageddon playof...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/williams-wins-2025-nextgen-cup",
-         "pubDate" : "Thu, 06 Feb 2025 14:56:00",
-         "title" : "Justus Williams Wins 1st NextGen Cup By Armageddon Win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1160,22 +1144,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/chess-graffiti.html",
          "pubDate" : "Mon, 27 Jan 2025 16:43:00",
          "title" : "Chess Graffiti"
-      },
-      {
-         "description" : "The National Team Chess Championship 2024-25 has been postponed at the request of the organizers. The new dates and updated event regulations will be announced",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/postponement-of-national-team-chess-championship-2024-25/",
-         "pubDate" : "Mon, 27 Jan 2025 15:24:43",
-         "title" : "Postponement of National Team Chess Championship 2024-25"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3403",
-         "pubDate" : "Mon, 27 Jan 2025 13:50:18",
-         "title" : "Social Chess Research Conference announced"
       }
    ]
 }
