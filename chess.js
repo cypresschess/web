@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A number of directors have confirmed that they intend either not to stand for re-election at October's AGM or to step down before the end of their three-year term at...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-board-vacancies/",
+         "pubDate" : "Mon, 17 Feb 2025 12:25:55",
+         "title" : "ECF Board Vacancies"
+      },
+      {
+         "description" : "Recently, the game Thomas-Alekhine, Baden 1925, from move 34...Qc4, was published on this site, with a request that readers get involved to help solve this riddle. Was the position really lost for White? And did Black maintain his winning advantage until the end of the game? Today we give the solution.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/riddle-thomas-alekhine-solved",
+         "pubDate" : "Mon, 17 Feb 2025 12:00:00",
+         "title" : "Riddle: Thomas-Alekhine solved!"
+      },
+      {
+         "description" : "The Chessable Masters Qualifier took place online on Sunday, featuring 115 players competing for a place in the Play-In stage. IM Saparmyrat Atabayev (Turkmenistan, pictured) won the event with 7&frac12;/9 points, while IM Read Samadov (Azerbaijan) and Mukhammadzokhid Suyarov (Uzbekistan) also secured qualification. The three will now face a grandmaster field in the Play-In on Monday, where eight players will advance to the final stage alongside elite competitors such as Magnus Carlsen and Fabiano Caruana. | Photo: TKF Tarapyndan Berlen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-qualifier",
+         "pubDate" : "Mon, 17 Feb 2025 11:10:00",
+         "title" : "Chessable Masters: Atabayev, Samadov and Suyarov make it to the Play-In"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118316986.cms\" />Vantika Agrawal, inspired by chess as a child, became a double gold medallist at the 2024 Chess Olympiad and recently received the Arjuna Award. Despite challenges such as a lack of chess culture in north India, she remains dedicated, training rigorously with support from her mother, and aims to prove herself on the global chess stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "Mastering the unknown: Niclas Huschenbeth on Freestyle Chess"
       },
       {
-         "description" : "Please find the circular here :Download",
+         "description" : "Please find the circular here : Download",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-amateur-chess-championship-2024-25-in-bodhgaya-bihar-from-25-29-march-2025/",
@@ -1066,14 +1090,6 @@ news_feed (
          "title" : "Visit to HMP Springhill - Carl Portman"
       },
       {
-         "description" : "For the last ten years, St Catherine's School in Bramley, England has been a sole or co-sponsor of the English Chess Federation National Schools Girls Team Tournament. A school with...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/national-schools-report-girls-semi-finals/",
-         "pubDate" : "Thu, 30 Jan 2025 13:16:15",
-         "title" : "National Schools report - Girls Semi-Finals"
-      },
-      {
          "description" : "India's Gukesh scored a win over compatriot Leon Mendonca in ninth round of the Tata Steel Masters to go clear at the top.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1160,30 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3403",
          "pubDate" : "Mon, 27 Jan 2025 13:50:18",
          "title" : "Social Chess Research Conference announced"
-      },
-      {
-         "description" : "SL NO Candidate Name 1 Aryan Shamrao Raikar 2 Dalal Ambar Abhay 3 Prashant Salvi 4 Pradnya Sachin Kakodkar 5 Anish Naik 6 Arsha Chopdekar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-sna-held-in-panjim-goa-from-07-08-december-2024/",
-         "pubDate" : "Mon, 27 Jan 2025 11:10:28",
-         "title" : "Certificate :SNA held in Panjim ,Goa from 07-08 December 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3402",
-         "pubDate" : "Mon, 27 Jan 2025 10:30:19",
-         "title" : "FIDE Appeal Chamber extends ban and revokes title of IM Andrejs Strebkovs over harassment of female players"
-      },
-      {
-         "description" : "The world champion leads compatriot Praggnanandhaa and Uzbekistan's Nodirbek Abdusattorov on tie break criteria. Can he hold on?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43583386/can-d-gukesh-win-tata-steel-chess-2025?device=featurephone",
-         "pubDate" : "Mon, 27 Jan 2025 08:42:43",
-         "title" : "Can D Gukesh win Tata Steel Chess 2025?"
       }
    ]
 }
