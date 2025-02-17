@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118316986.cms\" />Vantika Agrawal, inspired by chess as a child, became a double gold medallist at the 2024 Chess Olympiad and recently received the Arjuna Award. Despite challenges such as a lack of chess culture in north India, she remains dedicated, training rigorously with support from her mother, and aims to prove herself on the global chess stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/people-still-ask-chess-is-fine-but-what-do-you-really-do-arjuna-awardee-vantika-agrawal/articleshow/118316986.cms",
+         "pubDate" : "Mon, 17 Feb 2025 03:18:29",
+         "title" : "'People still ask, 'Chess is fine, but what do you really do?''"
+      },
+      {
          "description" : "The Prague Chess Festival returns for its seventh edition from 26 February to 7 March at the Hotel Don Giovanni in Czechia's capital. Organised by the Novy Bor Chess Club, the event follows a format similar to Wijk aan Zee, featuring Masters, Challengers and Futures sections. This year's Masters tournament includes past winner Sam Shankland, rising stars Vincent Keymer and Praggnanandhaa Rameshbabu, and seasoned grandmasters such as Wei Yi and Anish Giri.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -858,14 +866,6 @@ news_feed (
          "title" : "'I wasn't happy with my game': Pragg after Tata Steel Masters title"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117900935.cms\" />Grandmaster R Praggnanandhaa overcame fatigue and nerves to secure his first Tata Steel Masters title by defeating world champion D Gukesh in tiebreaker. This victory marks the first win for an Indian in tournament since Viswanathan Anand in 2006, who praised Praggnanandhaa's resilience. The five-time Tata Steel Chess champion also used viral phrase to playfully remind the world of his own past triumphs.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-playful-dig-as-praggnanandhaa-wins-maiden-tata-steel-masters-title-mere-pass-panch-hai/articleshow/117900935.cms",
-         "pubDate" : "Tue, 04 Feb 2025 03:41:54",
-         "title" : "'Mere pass panch hai': Anand's playful dig at Praggnanandhaa"
-      },
-      {
          "description" : "This week's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we once again focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1176,14 +1176,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43583386/can-d-gukesh-win-tata-steel-chess-2025?device=featurephone",
          "pubDate" : "Mon, 27 Jan 2025 08:42:43",
          "title" : "Can D Gukesh win Tata Steel Chess 2025?"
-      },
-      {
-         "description" : "India's Gukesh and R Praggnanandhaa continue to lead the Tata Steel Chess tournament along with Nodirbek Abdusattorov.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43578611/praggnanandhaa-draws-gukesh-round-8-tata-steel-chess?device=featurephone",
-         "pubDate" : "Mon, 27 Jan 2025 04:22:15",
-         "title" : "Praggnanandhaa draws with Gukesh in table-top clash: Round 8 of Tata Steel Chess"
       }
    ]
 }
