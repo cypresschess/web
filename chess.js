@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3423",
+         "pubDate" : "Tue, 18 Feb 2025 10:28:16",
+         "title" : "FIDE Director for Chess Development Nigel Short visits Burkina Faso to promote chess growth"
+      },
+      {
          "description" : "The Freestyle Chess tournament at Weissenhaus attracted many prominent visitors from the chess world. Among them was the well-known and popular commentator Danny Rensch, chess.com's Chief Chess Officer. In an interview with Arne K&auml;hler Rensch talked about Freestyle, fitness programmes, why he rarely plays chess anymore, the art of relaxation and revealed why he came to one round in his bathrobe.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
