@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-live",
+         "pubDate" : "Tue, 18 Feb 2025 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
+         "pubDate" : "Tue, 18 Feb 2025 14:45:00",
+         "title" : "Women's Grand Prix Monaco: Live"
+      },
+      {
+         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the additional players and accompanying persons are required to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-individual-chess-championships-mens-and-womens-2025-in-al-ain-uae-from-6th-to-16th-may-2025/",
+         "pubDate" : "Tue, 18 Feb 2025 12:39:35",
+         "title" : "Asian Individual Chess Championships (Men's and Women's) - 2025 in Al Ain, UAE from 6th to 16th May 2025"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/i-just-enjoyed-being-silly-on-camera-an-interview-with-danny-rensch",
          "pubDate" : "Tue, 18 Feb 2025 09:36:47",
          "title" : "\"I just enjoyed being silly on camera\" - An interview with Danny Rensch"
+      },
+      {
+         "description" : "In week four of the Collegiate Chess League Spring 2025 (CCL) the powerful University of Missouri&#38;mdash;Columbia team showed why they&#39;re favorites to make it back to the league finals with a dominant victory against a prestigious Yale University t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-4",
+         "pubDate" : "Tue, 18 Feb 2025 08:00:34",
+         "title" : "Mizzou Sweeps First Round On Way To Victory: CCL Week 4"
       },
       {
          "description" : "",
@@ -728,14 +760,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43735627/freestyle-chess-grand-tour-gukesh-goes-winless-five-games-opening-day?device=featurephone",
          "pubDate" : "Fri, 7 Feb 2025 12:13:04",
          "title" : "Freestyle Chess Grand Tour: Gukesh goes winless in five games on opening day"
-      },
-      {
-         "description" : "Freestyle Friday on February 7 was no less entertaining with another Freestyle Chess event happening at the same time. By the end of the seventh round, none of the 437 players had a perfect score, leaving the identity of the final victor in suspen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vokhidov-wins-freestyle-friday-february-7-2025",
-         "pubDate" : "Fri, 07 Feb 2025 11:30:56",
-         "title" : "Freestyle Friday Comes Down To Final Round"
       },
       {
          "description" : "Please find certificates here No. Name1 HARIVANSH AGRAWAL2 MAMTA DEWANGAN3 RAVI SHARMA4 PARESH BUDHWANI5 AKSHAT KHAMPARIA6 VINOD KUMAR SHARMA7 GUPTA ANAND8 JAISWAL S R9 VIKASH",
