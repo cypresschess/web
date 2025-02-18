@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess tournament at Weissenhaus attracted many prominent visitors from the chess world. Among them was the well-known and popular commentator Danny Rensch, chess.com's Chief Chess Officer. In an interview with Arne K&auml;hler Rensch talked about Freestyle, fitness programmes, why he rarely plays chess anymore, the art of relaxation and revealed why he came to one round in his bathrobe.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/i-just-enjoyed-being-silly-on-camera-an-interview-with-danny-rensch",
+         "pubDate" : "Tue, 18 Feb 2025 09:36:47",
+         "title" : "\"I just enjoyed being silly on camera\" - An interview with Danny Rensch"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3422",
          "pubDate" : "Mon, 17 Feb 2025 20:05:01",
          "title" : "Third leg of FIDE WGP 2024-2025 kicks off in Monaco"
+      },
+      {
+         "description" : "The title of the previous post on AI Comics, <A HREF=\"https://chessforallages.blogspot.com/2025/02/surrealist-cubist-dadaist-chess.html\">Surrealist, Cubist, Dadaist Chess</A> (February 2025; 'Marcel Duchamp plays surrealist chess'), suggests the theme of this current post. I ended that post saying, <BLOCKQUOTE> That gives me at least two more avenues to explore -- (1) conceptual art and (2) Salvador Dali, not to overlook cubism and dadism. </BLOCKQUOTE> <P> Cubism I understand -- at least I think I do -- Dadaism is a mystery. Let's go with what I understand. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb17.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Marcel Duchamp plays cubist ches",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/cubist-chess.html",
+         "pubDate" : "Mon, 17 Feb 2025 16:35:00",
+         "title" : "Cubist Chess"
       },
       {
          "description" : "",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jan-werle-s-catalan-an-ambitious-and-powerful-weapon-for-white",
          "pubDate" : "Mon, 17 Feb 2025 14:27:00",
          "title" : "Jan Werle's Catalan - An ambitious and powerful weapon for White"
+      },
+      {
+         "description" : "GMs Andrey Esipenko, Yu Yangyi, Vladislav Artemiev, Wei Yi, Alexander Grischuk, Jan-Krzysztof Duda, Sam Sevian, and Anish Giri qualified, through the Play-in, for the 2025 Chessable Masters Playoffs. Wei qualified directly by winning the Swiss tou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-play-in",
+         "pubDate" : "Mon, 17 Feb 2025 13:27:00",
+         "title" : "Wei Yi Wins Swiss, Qualifies With 7 Others For Playoffs"
       },
       {
          "description" : "A number of directors have confirmed that they intend either not to stand for re-election at October's AGM or to step down before the end of their three-year term at...",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-a-big-step-forward-for-women-world-no-8-anna-muzychuk-on-equal-prize-in-norway-chess/articleshow/118270498.cms",
          "pubDate" : "Sat, 15 Feb 2025 08:06:36",
          "title" : "'Step forward for women': Muzychuk on Norway Chess equal prize"
-      },
-      {
-         "description" : "National Under 07 Under 07 Under 07&#160; Girls Rank Name Rank Name 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-national-school-chess-championship/",
-         "pubDate" : "Sat, 15 Feb 2025 07:15:02",
-         "title" : "Certificates :National School Chess Championship 2024 in Peddapuram Andhra Pradesh"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118266413.cms\" />World champion D Gukesh finished eighth at the German Freestyle Chess Grand Slam after losing to Alireza Firouzja. Despite a winless campaign, Gukesh earned $20,000. Vincent Keymer won the tournament, defeating Fabiano Caruana, and secured $200,000. Top players like Magnus Carlsen, Javokhir Sindarov, and Hikaru Nakamura also took notable prizes, while Levon Aronian and Vladimir Fedoseev finished in lower ranks.",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Chess: Carlsen meets world champion Gukesh after Freestyle truce called"
       },
       {
-         "description" : "GM Magnus Carlsen rules out any cooperation with FIDE and its current administration but insists he is not trying to take down classical chess with his new Freestyle Chess project. The $750,000 Freestyle Chess Grand Slam Weissenhaus will start w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-before-freestyle-chess-not-trying-to-take-down-classical-chess",
-         "pubDate" : "Fri, 07 Feb 2025 05:30:00",
-         "title" : "Magnus Carlsen Rules Out Playing FIDE Events As Freestyle Chess Grand Slam Begins"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Update (February 11, 2025, 3:30 p.m.): The issues has been resolved, and TLA notification emails are once again being sent out.Update (February 10, 2025, 10 a.m.): Email notifications for TLA announcements remain paused as we continue to work on this issue.The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1136,22 +1144,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43605058/gukesh-goes-clear-top-round-9-tata-steel-chess?device=featurephone",
          "pubDate" : "Tue, 28 Jan 2025 22:59:34",
          "title" : "Gukesh goes clear at the top after round 9 of Tata Steel Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3404",
-         "pubDate" : "Tue, 28 Jan 2025 07:39:17",
-         "title" : "FIDE WGP Monaco 2025 preview"
-      },
-      {
-         "description" : "2. GM/WGM/IM/WIM exempted from participation National Championships. 3. AICF does not extend anything and players need to make their own arrangements for tickets, visa &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cadet-youth-rapid-and-blitz-chess-championships-2025-in-rhodes-greece-from-12th-to-18th-april-2025/",
-         "pubDate" : "Tue, 28 Jan 2025 07:33:33",
-         "title" : "World Cadet & Youth Rapid and Blitz Chess Championships - 2025 in Rhodes - Greece from 12th to 18th April, 2025."
       }
    ]
 }
