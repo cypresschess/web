@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chessable Masters take place Tue 18th Feb to Fri 21st Feb 2025. Players: Grischuk, Firouzja, Esipenko, Giri, Erigaisi, Caruana, Nakamura, Nepomniachtchi, Duda, Carlsen, Praggnanandhaa, Sevian, Artemiev, Wei Yi, Wesley So and Yu Yangyi. 10 minutes per game. Double Elimination KO.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2025",
+         "pubDate" : "Tue, 18 Feb 2025 18:31:00",
+         "title" : "Chessable Masters 2025 - Games and Results"
+      },
+      {
+         "description" : " The Monaco FIDE Women's Grand Prix takes place Mon 17th Feb to Fri 28th Feb 2025. Players: Zhongyi Tan, Aleksandra Goryachkina, Humpy Koneru, Kateryna Lagno, Bibisara Assaubayeva, Harika Dronavalli, Alexandra Kosteniuk, Sarasadat Khademalsharieh, Elisabeth Paehtz and Batkhuyag Munguntuul. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/monaco-fide-womens-grand-prix-2025",
+         "pubDate" : "Tue, 18 Feb 2025 18:27:00",
+         "title" : "Monaco FIDE Women's Grand Prix 2025 - Games and Results"
+      },
+      {
          "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Asian Individual Chess Championships (Men's and Women's) - 2025 in Al Ain, UAE from 6th to 16th May 2025"
       },
       {
+         "description" : "Team Falcons, the winner of the 2024 Esports World Cup, has announced the signing of none other than world number-two GM Hikaru Nakamura. Meanwhile,&#38;nbsp;Serbian esports organization Aurora Gaming also picked up the World Blitz Champion GM&#38;nbsp;Ia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-signs-for-esports-world-champion-team-falcon-nepo-joins-aurora",
+         "pubDate" : "Tue, 18 Feb 2025 11:32:00",
+         "title" : "Nakamura Signs For Esports World Champion Team Falcons, Nepo Joins Aurora"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-4",
          "pubDate" : "Tue, 18 Feb 2025 08:00:34",
          "title" : "Mizzou Sweeps First Round On Way To Victory: CCL Week 4"
+      },
+      {
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a stable of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! But it's six-time Olympiad team member WGM Tat",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-5-womens-olympiad-team-past-and-present",
+         "pubDate" : "Tue, 18 Feb 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 5 (Women's Olympiad Team, Past and Present)"
       },
       {
          "description" : "",
@@ -746,14 +778,6 @@ news_feed (
          "title" : "Gukesh remains winless; Carlsen loses thrice on Day 1"
       },
       {
-         "description" : "GMs Fabiano Caruana and Javokhir Sindarov lead the 2025 Weissenhaus Freestyle Chess Grand Slam on 4.5/5 on a day when both took down GM Magnus Carlsen. The defending champion also lost to GM Vladimir Fedoseev, but scored two wins to join the likes...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-1",
-         "pubDate" : "Fri, 07 Feb 2025 14:40:00",
-         "title" : "Caruana, Sindarov Beat Carlsen To Lead Weissenhaus Grand Slam"
-      },
-      {
          "description" : "D Gukesh drew four and lost one of his five games on the opening day of the Freestyle Chess Grand Tour in Weissenhauss, Germany",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -936,14 +960,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-wasnt-happy-with-my-game-r-praggnanandhaa-after-winning-tata-steel-chess-2025-masters/articleshow/117904998.cms",
          "pubDate" : "Tue, 04 Feb 2025 06:31:32",
          "title" : "'I wasn't happy with my game': Pragg after Tata Steel Masters title"
-      },
-      {
-         "description" : "This week's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we once again focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-3-andy-brew-and-tani-return",
-         "pubDate" : "Tue, 04 Feb 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 3 (Andy, Brew, and Tani return)"
       },
       {
          "description" : "One of the insights from my recent explorations into AI Comics was that people's likenesses are best rendered using the '3D Render' style. Consider the images produced for the recent post <A HREF=\"https://chessforallages.blogspot.com/2025/01/color-proteins.html\">Color the Proteins</A> (January 2025; 'Demis Hassabis plays chess ...'). <P> Another insight was that AI Comics are perfectly happy to create images of inanimate objects playing chess. Consider the following images inspired by the world of economics and finance. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb03.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Kenneth Rogoff plays chess with money.'</B><BR> <A HREF=\"https://aicomi",
