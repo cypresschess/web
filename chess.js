@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In their new episode of their \"Two Knights Talk\", Johannes Fischer and Arne K&auml;hler talk, among other things, about the luxury at the Weissenhaus luxury resort and about the attraction of playing chess in such an environment. They consider how things are going and could go with Freestyle Chess and wonder why one should be careful with Boris Becker moments. And they pay tribute to Vincent Keymers skills in Freestyle Chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-knights-talk-weissenhaus-boris-becker-freestyle-chess-vincent-keymer-and-more",
+         "pubDate" : "Wed, 19 Feb 2025 13:00:00",
+         "title" : "Two Knights Talk: Weissenhaus, Boris Becker, Freestyle Chess, Vincent Keymer and more"
+      },
+      {
+         "description" : "Magnus Carlsen, Arjun Erigaisi, Hikaru Nakamura and Alireza Firouzja reached the semifinals of the winners' bracket in the knockout phase of the Chessable Masters. Firouzja managed to defeat Fabiano Caruana in a contested match that went to tiebreaks. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-ko-1",
+         "pubDate" : "Wed, 19 Feb 2025 12:10:00",
+         "title" : "Chessable Masters: Carlsen, Nakamura, Arjun and Firouzja reach semifinals"
+      },
+      {
          "description" : "The third stage of the Women's Grand Prix 2024/25 began in Monte Carlo, with three players securing victories in the opening round. Humpy Koneru and Kateryna Lagno (pictured) showcased strong endgame technique to defeat their compatriots, while Batkhuyag Munguntuul achieved a notable win over former women's world champion Alexandra Kosteniuk. Series leader Bibisara Assaubayeva settled for a draw against Sara Khadem. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/monaco-fide-womens-grand-prix-2025",
          "pubDate" : "Tue, 18 Feb 2025 18:27:00",
          "title" : "Monaco FIDE Women's Grand Prix 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-live",
-         "pubDate" : "Tue, 18 Feb 2025 16:50:00",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "GM Koneru Humpy defeated fellow Indian GM Harika Dronavalli and GM Kateryna Lagno took down GM Aleksandra Goryachkina in round one of the 2025 Monaco FIDE Women&#39;s Grand Prix. The day&#39;s other winner was IM Batkhuyag Munguntuul, who beat former Wome...",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-wins-again-in-round-10-of-the-tata-steel-masters-but-so-do-abdusattorov-and-praggnanandhaa",
          "pubDate" : "Wed, 29 Jan 2025 22:13:00",
          "title" : "Gukesh wins again in Round 10 of the Tata Steel Masters but so do Abdusattorov and Praggnanandhaa - 10"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3405",
-         "pubDate" : "Wed, 29 Jan 2025 08:48:28",
-         "title" : "Yair Parkhov and Marsel Efroimski win 42nd Israeli Championship"
       }
    ]
 }
