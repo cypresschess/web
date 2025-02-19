@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3425",
+         "pubDate" : "Wed, 19 Feb 2025 19:06:09",
+         "title" : "FIDE World Senior Championship 2025: Registration now open"
+      },
+      {
+         "description" : "The 7th edition of the Prague Chess Festival starts next week in Czech Republic, and takes place from 27 February to 7 March in Don Giovanni Hotel Prague. The Festival features Masters, Challengers and Futures round-robin events that are simultaneously played in the same venue, and includes Open tournaments, Rapid events and side chess tournaments. The Futures competition is supported by the European Chess Union. The Masters event features: Wei Yi (CHN, 2755), Praggnanandhaa R (IND, 2741), Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/prague-chess-festival-2025/",
+         "pubDate" : "Wed, 19 Feb 2025 18:40:42",
+         "title" : "Prague Chess Festival 2025"
+      },
+      {
          "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +50,36 @@ news_feed (
          "title" : "Two Knights Talk: Weissenhaus, Boris Becker, Freestyle Chess, Vincent Keymer and more"
       },
       {
+         "description" : "World number-one GM Magnus Carlsen punched his ticket to the Grand Final of the 2025 Chessable Masters after drawing GM Arjun Erigaisi with Black in armageddon and beating GM Hikaru Nakamura 2.5-0.5 with a game to spare. Both Arjun and Nakamura wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-2",
+         "pubDate" : "Wed, 19 Feb 2025 12:10:06",
+         "title" : "Carlsen Advances To Grand Final, Sends Arjun, Nakamura To Losers Bracket"
+      },
+      {
          "description" : "Magnus Carlsen, Arjun Erigaisi, Hikaru Nakamura and Alireza Firouzja reached the semifinals of the winners' bracket in the knockout phase of the Chessable Masters. Firouzja managed to defeat Fabiano Caruana in a contested match that went to tiebreaks. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2025-ko-1",
          "pubDate" : "Wed, 19 Feb 2025 12:10:00",
          "title" : "Chessable Masters: Carlsen, Nakamura, Arjun and Firouzja reach semifinals"
+      },
+      {
+         "description" : "You can now own a truly unique piece of chess history while also supporting a charitable cause. GM Magnus Carlsen&#38;nbsp;recently announced the auction of the famous pair of jeans that led to his forfeit at the FIDE World Rapid Championship in Decem...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-jeans-auction",
+         "pubDate" : "Wed, 19 Feb 2025 10:32:00",
+         "title" : "Magnus Carlsen Announces Auction Of His World Famous Jeans For Charity"
+      },
+      {
+         "description" : "GM Matthias Bluebaum won the early Titled Tuesday on February 18 with a near-perfect score (the second straight week someone scored 10.5 points) and took the lead in the Titled Tuesday Grand Prix standings. GM Jan-Krzysztof Duda then took the late...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bluebaum-duda-win-titled-tuesday-february-18-2025",
+         "pubDate" : "Wed, 19 Feb 2025 09:09:02",
+         "title" : "First Win Of The Year For Two More Titled Tuesday Stars"
       },
       {
          "description" : "The third stage of the Women's Grand Prix 2024/25 began in Monte Carlo, with three players securing victories in the opening round. Humpy Koneru and Kateryna Lagno (pictured) showcased strong endgame technique to defeat their compatriots, while Batkhuyag Munguntuul achieved a notable win over former women's world champion Alexandra Kosteniuk. Series leader Bibisara Assaubayeva settled for a draw against Sara Khadem. | Photo: FIDE / Niki Riga",
@@ -64,6 +104,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/djerba-chess-festival-2025",
          "pubDate" : "Wed, 19 Feb 2025 00:27:00",
          "title" : "Djerba Chess Festival 2025 - Games and Results"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a staple of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! WGM Tatev Abrahamyan, who is also featured here, has been",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-5-womens-olympiad-team-past-and-present",
+         "pubDate" : "Wed, 19 Feb 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 5 (Women's Olympiad Team, Past and Present)"
       },
       {
          "description" : "",
@@ -130,14 +178,6 @@ news_feed (
          "title" : "FIDE Director for Chess Development Nigel Short visits Burkina Faso to promote chess growth"
       },
       {
-         "description" : "The Freestyle Chess tournament at Weissenhaus attracted many prominent visitors from the chess world. Among them was the well-known and popular commentator Danny Rensch, chess.com's Chief Chess Officer. In an interview with Arne K&auml;hler Rensch talked about Freestyle, fitness programmes, why he rarely plays chess anymore, the art of relaxation and revealed why he came to one round in his bathrobe.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/i-just-enjoyed-being-silly-on-camera-an-interview-with-danny-rensch",
-         "pubDate" : "Tue, 18 Feb 2025 09:36:47",
-         "title" : "\"I just enjoyed being silly on camera\" - An interview with Danny Rensch"
-      },
-      {
          "description" : "In week four of the Collegiate Chess League Spring 2025 (CCL) the powerful University of Missouri&#38;mdash;Columbia team showed why they&#39;re favorites to make it back to the league finals with a dominant victory against a prestigious Yale University t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -146,7 +186,7 @@ news_feed (
          "title" : "Mizzou Sweeps First Round On Way To Victory: CCL Week 4"
       },
       {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a stable of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! But it's six-time Olympiad team member WGM Tat",
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a staple of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! But it's six-time Olympiad team member WGM Tat",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-5-womens-olympiad-team-past-and-present",
@@ -178,22 +218,6 @@ news_feed (
          "title" : "Prague welcomes 2025 World Senior Team Chess Championship"
       },
       {
-         "description" : "Anna Cramling is one of the most popular chess streamers, and she also streamed from the Freestyle Chess Tournament in Weissenhaus. Arne K&auml;hler took the opportunity to interview Anna, and she shared her bittersweet feelings about the end of the Freestyle Chess event, expressing how much she would miss the atmosphere and the people. She also reflected on her experience of playing against Alexandra Botez, emphasising how Freestyle Chess made her think from the very first move. Anna also discussed her journey as a chess streamer, how her content has evolved through travel and street chess, and her excitement at winning the Twitch Streamer Award. She revealed plans for extensive travel, inc",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-interview-with-anna-cramling",
-         "pubDate" : "Mon, 17 Feb 2025 15:51:01",
-         "title" : "\"Maybe Freestyle Chess is my next calling!\" - An interview with Anna Cramling"
-      },
-      {
-         "description" : "The Catalan Opening is a very ambitious weapon against various Black defences. Depending on how Black reacts, different, usually very challenging structures emerge. Jan Werle has presented the opening in two Fritztrainer volumes, and Hannes Langrock took a close look at volume one.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-werle-s-catalan-an-ambitious-and-powerful-weapon-for-white",
-         "pubDate" : "Mon, 17 Feb 2025 14:27:00",
-         "title" : "Jan Werle's Catalan - An ambitious and powerful weapon for White"
-      },
-      {
          "description" : "GMs Andrey Esipenko, Yu Yangyi, Vladislav Artemiev, Wei Yi, Alexander Grischuk, Jan-Krzysztof Duda, Sam Sevian, and Anish Giri qualified, through the Play-in, for the 2025 Chessable Masters Playoffs. Wei qualified directly by winning the Swiss tou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/riddle-thomas-alekhine-solved",
          "pubDate" : "Mon, 17 Feb 2025 12:00:00",
          "title" : "Riddle: Thomas-Alekhine solved!"
-      },
-      {
-         "description" : "The Chessable Masters Qualifier took place online on Sunday, featuring 115 players competing for a place in the Play-In stage. IM Saparmyrat Atabayev (Turkmenistan, pictured) won the event with 7&frac12;/9 points, while IM Read Samadov (Azerbaijan) and Mukhammadzokhid Suyarov (Uzbekistan) also secured qualification. The three will now face a grandmaster field in the Play-In on Monday, where eight players will advance to the final stage alongside elite competitors such as Magnus Carlsen and Fabiano Caruana. | Photo: TKF Tarapyndan Berlen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-qualifier",
-         "pubDate" : "Mon, 17 Feb 2025 11:10:00",
-         "title" : "Chessable Masters: Atabayev, Samadov and Suyarov make it to the Play-In"
       },
       {
          "description" : "Ukrainian esports organization Natus Vincere (NAVI) has entered the competitive chess scene with a bang by snapping up star grandmasters Wesley So, Nodirbek Abdusattorov, and Oleksandr Bortnyk. Meanwhile, world number-nine GM Wei Yi has also been ...",
@@ -706,22 +722,6 @@ news_feed (
          "title" : "10-year-old Sarawgi bags silver at Bangkok Rapid Chess"
       },
       {
-         "description" : "Are you ready to enter a world of magic and chess spells? We&#39;re excited to announce the Anichess x Chess.com Tournament, an event organized by our official partner, Anichess. Starting on February 13, anyone can enter the event for free and climb u...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-anichess-x-chesscom-tournament",
-         "pubDate" : "Mon, 10 Feb 2025 08:04:20",
-         "title" : "Reshape Strategy With Magic And Play In The $10,000 Anichess x Chess.com Tournament"
-      },
-      {
-         "description" : "The winner of the 2025 Freestyle Chess Grand Slam Tour will be crowned the &#34;Freestyle Chess Champion,&#34; 12 members of the Freestyle Chess Players Club (FCPC) decided in a meeting on Sunday evening. They also plan to form an independent players&#39; ass...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-players-push-back-establish-new-title-and-association",
-         "pubDate" : "Mon, 10 Feb 2025 07:27:00",
-         "title" : "Freestyle Chess Players With FIDE Pushback, Establish New Title And Association"
-      },
-      {
          "description" : "Editor's note: This story first appeared in the February 2025 issue of Chess Life magazine, and is re-published here with six additional annotated games courtesy of the author. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> A downloadable pdf of the print version of this article is available here.On a dreary October night after the fourth round of the U.S. Championships in St. Louis, GM Sam Shankland, GM Awonder Liang, and I nursed various liqu",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43764409/gukesh-loses-caruana-verge-freestyle-chess-weissenhaus-quarterfinal-exit?device=featurephone",
          "pubDate" : "Sun, 9 Feb 2025 11:37:45",
          "title" : "Gukesh loses to Caruana; on verge of Freestyle Chess quarterfinal exit"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen exploited a mistake on move three by GM Nodirbek Abdusattorov and went on to play a perfect 23-move game to take the lead in their 2025 Weissenhaus Freestyle Chess Grand Slam quarterfinal. There were also wins for G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-3",
-         "pubDate" : "Sun, 09 Feb 2025 08:52:00",
-         "title" : "Carlsen, Caruana, Keymer Win; Nakamura Lets Sindarov Escape"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118071926.cms\" />World Champion D Gukesh advanced to the knockout stage of the Freestyle Grand Slam Tour despite losing to Magnus Carlsen in the final round. Gukesh secured eighth place with 3.5 points. Alireza Firouzja and Javokhir Sindarov topped the table, followed by Fabiano Caruana. The event features a USD 750,000 prize pool.",
@@ -912,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/disappointing-2024-wanted-it-to-change-says-praggnanandhaa/articleshow/117933542.cms",
          "pubDate" : "Wed, 05 Feb 2025 03:14:54",
          "title" : "Disappointing 2024, wanted it to change, says Praggnanandhaa"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we again focus on a trio of Americans who competed in their first-ever FIDE Rapid &amp; Blitz Championships. GM Andy Woodward (14), GM-Elect Brewington Hardaway (15), and FM Tanitoluwa \"Tani\" Adewumi (14) should be familiar names to many of our readers by this point, but this was still a bit of a global coming out party f",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-3-andy-brew-tani-again",
-         "pubDate" : "Wed, 05 Feb 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 3 (Andy, Brew, & Tani Again!)"
       },
       {
          "description" : "This is post no.3800 on this blog, meaning that it's time for another 'Breaking the Barrier' post. The previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/02/breaking-3700-barrier.html\">Breaking the 3700 Barrier</A> (February 2024), was a little more than a year ago. At that time I noted, <BLOCKQUOTE> We have one engine [rated] over 3800 (Stockfish 16), 15 engines over 3700, and (not shown) 11 engines over 3600. [...] See you a year from now for the '3800 Barrier'. </BLOCKQUOTE> <P> The chart below shows the current ratings of the top engines as calculated by the same source. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb04.gif\" WIDTH=400 HEIGHT=265><BR> <A H",
