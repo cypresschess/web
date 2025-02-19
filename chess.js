@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Djerba Chess Festival takes place 16th to 23rd February 2025.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/djerba-chess-festival-2025",
+         "pubDate" : "Wed, 19 Feb 2025 00:27:00",
+         "title" : "Djerba Chess Festival 2025 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-1",
-         "pubDate" : "Tue, 18 Feb 2025 12:28:27",
+         "pubDate" : "Tue, 18 Feb 2025 12:28:00",
          "title" : "Firouzja Edges Out Caruana, Advances With Carlsen, Nakamura, Arjun To Winners Semis"
       },
       {
