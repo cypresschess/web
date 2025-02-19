@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3424",
+         "pubDate" : "Tue, 18 Feb 2025 21:15:46",
+         "title" : "Three victories mark Round 1 of FIDE Women's Grand Prix in Monaco"
+      },
+      {
          "description" : " The Chessable Masters take place Tue 18th Feb to Fri 21st Feb 2025. Players: Grischuk, Firouzja, Esipenko, Giri, Erigaisi, Caruana, Nakamura, Nepomniachtchi, Duda, Carlsen, Praggnanandhaa, Sevian, Artemiev, Wei Yi, Wesley So and Yu Yangyi. 10 minutes per game. Double Elimination KO.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Chessable Masters - Live!"
       },
       {
+         "description" : "GM Koneru Humpy defeated fellow Indian GM Harika Dronavalli and GM Kateryna Lagno took down GM Aleksandra Goryachkina in round one of the 2025 Monaco FIDE Women&#39;s Grand Prix. The day&#39;s other winner was IM Batkhuyag Munguntuul, who beat former Wome...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-1",
+         "pubDate" : "Tue, 18 Feb 2025 15:51:33",
+         "title" : "Humpy, Lagno Beat Compatriots As Monaco Grand Prix Begins"
+      },
+      {
          "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/asian-individual-chess-championships-mens-and-womens-2025-in-al-ain-uae-from-6th-to-16th-may-2025/",
          "pubDate" : "Tue, 18 Feb 2025 12:39:35",
          "title" : "Asian Individual Chess Championships (Men's and Women's) - 2025 in Al Ain, UAE from 6th to 16th May 2025"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Arjun Erigaisi, Hikaru Nakamura, and Alireza Firouzja are the players left in the Winners Bracket after day one of the 2025 Chessable Masters Playoffs. Firouzja&#39;s match against GM Fabiano Caruana was the longest and closest, on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-1",
+         "pubDate" : "Tue, 18 Feb 2025 12:28:27",
+         "title" : "Firouzja Edges Out Caruana, Advances With Carlsen, Nakamura, Arjun To Winners Semis"
       },
       {
          "description" : "Team Falcons, the winner of the 2024 Esports World Cup, has announced the signing of none other than world number-two GM Hikaru Nakamura. Meanwhile,&#38;nbsp;Serbian esports organization Aurora Gaming also picked up the World Blitz Champion GM&#38;nbsp;Ia...",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "Carlsen, Caruana, Keymer Win; Nakamura Lets Sindarov Escape"
       },
       {
-         "description" : "Two weeks after winning his first Bullet Brawl&#38;nbsp;title in 2025, GM Andrew Tang triumphed in Saturday&#39;s event with a score of 227, scooping up the $400 first prize in the process. 16-year-old GM Ediz Gurel finished in second place on 218 points ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-february-8-2025",
-         "pubDate" : "Sat, 08 Feb 2025 17:06:00",
-         "title" : "Tang Races To 6th Bullet Brawl Title Ahead Of Gurel, Martinez, Naroditsky"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118071926.cms\" />World Champion D Gukesh advanced to the knockout stage of the Freestyle Grand Slam Tour despite losing to Magnus Carlsen in the final round. Gukesh secured eighth place with 3.5 points. Alireza Firouzja and Javokhir Sindarov topped the table, followed by Fabiano Caruana. The event features a USD 750,000 prize pool.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.thearticle.com/poker-not-chess-sudden-death-tiebreaks/",
          "pubDate" : "Sat, 08 Feb 2025 10:42:27",
          "title" : "Poker, not chess: 'sudden death' tiebreaks"
-      },
-      {
-         "description" : "GM Alireza Firouzja beat GM Javokhir Sindarov in the final round to win the 2025 Weissenhaus Freestyle Chess Grand Slam Round-Robin and get first pick of an opponent for Sunday&#39;s Quarterfinals. Big guns GMs Magnus Carlsen (who beat World Champion ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-2",
-         "pubDate" : "Sat, 08 Feb 2025 08:59:00",
-         "title" : "Firouzja Wins Rapid As Aronian, Fedoseev Knocked Out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118043967.cms\" />The 2025 Freestyle Chess Grand Slam began at Weissenhaus, Germany, featuring a rapid event to decide eight knockout contenders. Indian GM D Gukesh faced tough matches, while Javokhir Sindarov shined, defeating Magnus Carlsen and securing 4.5/5 points. Fabiano Caruana also advanced, and Carlsen's qualification hangs in the balance after three losses.",
@@ -1176,22 +1184,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/",
          "pubDate" : "Wed, 29 Jan 2025 04:41:33",
          "title" : "NextGen Cup: An African Diaspora Chess Battle!"
-      },
-      {
-         "description" : " Today produced an opportunity for the World Champion Gukesh to take the lead and he delivered by beating Mendonca in a good game with the white pieces. His co leaders could not match him, Abdusattorov, drew in a solid game against Caruana, and Praggnanandhaa lost to Giri. Gukesh played a complicated game and while his opponent Mendonca played strongly for much of the game, he needed too much time to do so and in zeitnot he made a bad blunder. Giri put Praggnanandhaa under pressure and although he missed a few chances to win earlier he still got the converted the advantage to a full point after the time control. Abdusattorov played mostly solidly against Caruana but there was one chance in t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-takes-the-lead-of-the-tata-steel-masters-after-9-rounds",
-         "pubDate" : "Tue, 28 Jan 2025 23:18:00",
-         "title" : "Gukesh takes the lead of the Tata Steel Masters after 9 Rounds - 9"
-      },
-      {
-         "description" : "India's Gukesh scored a win over compatriot Leon Mendonca in ninth round of the Tata Steel Masters to go clear at the top.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43605058/gukesh-goes-clear-top-round-9-tata-steel-chess?device=featurephone",
-         "pubDate" : "Tue, 28 Jan 2025 22:59:34",
-         "title" : "Gukesh goes clear at the top after round 9 of Tata Steel Chess"
       }
    ]
 }
