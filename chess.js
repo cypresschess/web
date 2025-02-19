@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third stage of the Women's Grand Prix 2024/25 began in Monte Carlo, with three players securing victories in the opening round. Humpy Koneru and Kateryna Lagno (pictured) showcased strong endgame technique to defeat their compatriots, while Batkhuyag Munguntuul achieved a notable win over former women's world champion Alexandra Kosteniuk. Series leader Bibisara Assaubayeva settled for a draw against Sara Khadem. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-1",
+         "pubDate" : "Wed, 19 Feb 2025 06:35:00",
+         "title" : "Monaco GP: Lagno, Humpy and Munguntuul start with wins"
+      },
+      {
+         "description" : "We have unfortunately cancelled the girls online semi-final due to lack of entries. The organiser, Andrew Martin, will now be pursuing schools who finished 10th or below in the southern...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/online-semi-final-nscc-girls-schools-team-championships/",
+         "pubDate" : "Wed, 19 Feb 2025 06:00:58",
+         "title" : "Online Semi-Final NSCC Girls Schools Team Championships - CANCELLED"
+      },
+      {
          "description" : " The Djerba Chess Festival takes place 16th to 23rd February 2025.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-1",
          "pubDate" : "Tue, 18 Feb 2025 15:51:33",
          "title" : "Humpy, Lagno Beat Compatriots As Monaco Grand Prix Begins"
-      },
-      {
-         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
-         "pubDate" : "Tue, 18 Feb 2025 14:45:00",
-         "title" : "Women's Grand Prix Monaco: Live"
       },
       {
          "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the additional players and accompanying persons are required to",
@@ -200,22 +208,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/people-still-ask-chess-is-fine-but-what-do-you-really-do-arjuna-awardee-vantika-agrawal/articleshow/118316986.cms",
          "pubDate" : "Mon, 17 Feb 2025 03:18:29",
          "title" : "'People still ask, 'Chess is fine, but what do you really do?''"
-      },
-      {
-         "description" : "The Prague Chess Festival returns for its seventh edition from 26 February to 7 March at the Hotel Don Giovanni in Czechia's capital. Organised by the Novy Bor Chess Club, the event follows a format similar to Wijk aan Zee, featuring Masters, Challengers and Futures sections. This year's Masters tournament includes past winner Sam Shankland, rising stars Vincent Keymer and Praggnanandhaa Rameshbabu, and seasoned grandmasters such as Wei Yi and Anish Giri.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-announcement",
-         "pubDate" : "Sun, 16 Feb 2025 22:50:00",
-         "title" : "Prague Chess Festival, with Pragg, Keymer and Giri, kicks off next week"
-      },
-      {
-         "description" : "Rauf Mamedov and Gunay Mammadzada emerged victorious at the 2025 Azerbaijani Chess Championships in Baku. Mamedov clinched his seventh national title after a dramatic final against Shakhriyar Mamedyarov, while Mammadzada secured her third championship with a masterful tiebreak performance against Govhar Beydullayeva. The tournament featured Azerbaijan's strongest players, intense battles and unexpected upsets. | Photos: Azerbaijani Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/azerbaijani-championships-2025-report",
-         "pubDate" : "Sun, 16 Feb 2025 17:35:00",
-         "title" : "Azerbaijani Championships: Mamedov and Mammadzada capture titles"
       },
       {
          "description" : "While creating the short list for this month's <I>Flickr Favorite</I> post, I saw many photos similar to the one in the upper left of the composite image below. See, for example, the photo directly beneath it (leftmost image second row). When I tried to look at that family of photos together, I discovered that the photographer frequently used 'chess' as a theme. The image in the lower right looked familiar and, sure enough, I had 'faved' it sometime last year. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb16.jpg\" WIDTH=400 HEIGHT=300><BR> <B>Upper left:</B> <A HREF=\"https://www.flickr.com/photos/lwr/54288464604/\">Chess-esque</A> &#169; Flickr user <I>Leo Reynolds</I> under",
@@ -1138,14 +1130,6 @@ news_feed (
          "title" : "World Championship Yahoos 2025 (1/?)"
       },
       {
-         "description" : "The online semi will take place&#160;on 25th Feb from 4.00 5.00pm on the Lichess server. Links to the actual tournament address will be posted soon. &#160; No school that...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/online-semi-final-nscc-girls-schools-team-championships/",
-         "pubDate" : "Thu, 30 Jan 2025 15:58:58",
-         "title" : "Online Semi-Final NSCC Girls Schools Team Championships"
-      },
-      {
          "description" : "Dear chess friends We really hope you can join us for Adam's Celebration Service on Saturday 1st March 2025 at 11am. The service is being held at Woodbridge School Chapel...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1184,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3405",
          "pubDate" : "Wed, 29 Jan 2025 08:48:28",
          "title" : "Yair Parkhov and Marsel Efroimski win 42nd Israeli Championship"
-      },
-      {
-         "description" : " The NextGen Cup is a novel tournament with a $20,000 fund featuring ten master-level players throughout the African Diaspora. It will take place on chess.com on February 6th. IM Kassa Korley, a player who has his own Grandmaster aspirations, is currently employed as chess.com's Director of Professional Relations. He told The Chess Drum last month The post <a href=\"https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/\">NextGen Cup: An African Diaspora Chess Battle!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/01/28/nextgen-cup-an-african-diaspora-chess-battle/",
-         "pubDate" : "Wed, 29 Jan 2025 04:41:33",
-         "title" : "NextGen Cup: An African Diaspora Chess Battle!"
       }
    ]
 }
