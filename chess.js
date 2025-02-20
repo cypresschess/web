@@ -42,6 +42,14 @@ news_feed (
          "title" : "\"Treat yourself - you deserve it\" - A review of ChessBase 18"
       },
       {
+         "description" : "GM Hikaru Nakamura defeated GM Ian Nepomniachtchi in the Losers Final by holding a draw with the black pieces in the armageddon tiebreak. He has earned his second match against GM Magnus Carlsen in the 2025 Chessable Masters Grand Final on the las...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-3",
+         "pubDate" : "Thu, 20 Feb 2025 11:00:30",
+         "title" : "Nakamura Earns Rematch Vs. Carlsen In Grand Final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -106,36 +114,12 @@ news_feed (
          "title" : "Khadem Pounces On Blunder To Beat Harika"
       },
       {
-         "description" : "One of the streamers covering the Freestyle Chess Tournament in Weissenhaus was Alexandra Botez. In a brief interview with Arne K&auml;hler, she shared her excitement and exhaustion from the event, upcoming plans in Los Angeles, and a talk at MIT's Sports Analytics Conference. She reflected on her streaming career, team-building, and passion for competition, while also revealing details about her chess-inspired video game, designed to attract new players with innovative features like Battle Royale mechanics and magic spells. | Photo: Alexandra Botez at the Reykjavik Open 2023 | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/competition-with-myself-being-the-best-version-of-me-alexandra-botez-on-passion-chess-and-self-actualization",
-         "pubDate" : "Wed, 19 Feb 2025 14:25:12",
-         "title" : "\"Competition with myself: being the best version of me\" - Alexandra Botez on passion, chess, and self-actualization"
-      },
-      {
-         "description" : "In their new episode of their \"Two Knights Talk\", Johannes Fischer and Arne K&auml;hler talk, among other things, about the luxury at the Weissenhaus luxury resort and about the attraction of playing chess in such an environment. They consider how things are going and could go with Freestyle Chess and wonder why one should be careful with Boris Becker moments. And they pay tribute to Vincent Keymers skills in Freestyle Chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-weissenhaus-boris-becker-freestyle-chess-vincent-keymer-and-more",
-         "pubDate" : "Wed, 19 Feb 2025 13:00:00",
-         "title" : "Two Knights Talk: Weissenhaus, Boris Becker, Freestyle Chess, Vincent Keymer and more"
-      },
-      {
          "description" : "World number-one GM Magnus Carlsen punched his ticket to the Grand Final of the 2025 Chessable Masters. With Black in armageddon, he drew GM Arjun Erigaisi and then beat GM Hikaru Nakamura 2.5-0.5 with a game to spare. Both Arjun and Nakamura will...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-2",
          "pubDate" : "Wed, 19 Feb 2025 12:10:00",
          "title" : "Carlsen Advances To Grand Final, Sends Arjun, Nakamura To Losers Bracket"
-      },
-      {
-         "description" : "Magnus Carlsen, Arjun Erigaisi, Hikaru Nakamura and Alireza Firouzja reached the semifinals of the winners' bracket in the knockout phase of the Chessable Masters. Firouzja managed to defeat Fabiano Caruana in a contested match that went to tiebreaks. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-ko-1",
-         "pubDate" : "Wed, 19 Feb 2025 12:10:00",
-         "title" : "Chessable Masters: Carlsen, Nakamura, Arjun and Firouzja reach semifinals"
       },
       {
          "description" : "You can now own a truly unique piece of chess history while also supporting a charitable cause. GM Magnus Carlsen&#38;nbsp;recently announced the auction of the famous pair of jeans that led to his forfeit at the FIDE World Rapid Championship in Decem...",
@@ -152,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bluebaum-duda-win-titled-tuesday-february-18-2025",
          "pubDate" : "Wed, 19 Feb 2025 09:09:00",
          "title" : "First Win Of The Year For Two More Titled Tuesday Stars"
-      },
-      {
-         "description" : "The third stage of the Women's Grand Prix 2024/25 began in Monte Carlo, with three players securing victories in the opening round. Humpy Koneru and Kateryna Lagno (pictured) showcased strong endgame technique to defeat their compatriots, while Batkhuyag Munguntuul achieved a notable win over former women's world champion Alexandra Kosteniuk. Series leader Bibisara Assaubayeva settled for a draw against Sara Khadem. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-1",
-         "pubDate" : "Wed, 19 Feb 2025 06:35:00",
-         "title" : "Monaco GP: Lagno, Humpy and Munguntuul start with wins"
       },
       {
          "description" : "We have unfortunately cancelled the girls online semi-final due to lack of entries. The organiser, Andrew Martin, will now be pursuing schools who finished 10th or below in the southern...",
@@ -754,14 +730,6 @@ news_feed (
          "title" : "Exclusive | 'Blitz games shouldn't decide classical titles': Wei Yi"
       },
       {
-         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Vincent Keymer, and Javokhir Sindarov are through to the 2025 Weissenhaus Freestyle Chess Grand Slam Semifinals. Carlsen won for the second time against GM Nodirbek Abdusattorov, as did Caruana against World Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-4",
-         "pubDate" : "Mon, 10 Feb 2025 10:17:00",
-         "title" : "Sindarov Upsets Nakamura, Joins Carlsen, Caruana, Keymer In Semifinals"
-      },
-      {
          "description" : "The ECU E-Magazine January 2025 is out! In this edition of the ECU Magazine you may read about: The January 2025 edition of the ECU Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1192,14 +1160,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/jan/31/wood-green-and-manx-liberty-take-four-nations-chess-league-down-to-the-wire",
          "pubDate" : "Fri, 31 Jan 2025 08:00:49",
          "title" : "Wood Green and Manx Liberty take Four Nations Chess League down to the wire"
-      },
-      {
-         "description" : "That title is an obscure reference to last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/12/world-championship-yahoos-2024-22.html\">World Championship Yahoos 2024</A> ('2/2'; December 2024), which was largely about the 2024 World Rapid and Blitz Championships in New York City. I'll come back to that event in a moment. <P> First let's have some stats. This month's Yahoos post (see the footnote for an explanation of Yahoos) had 104 stories, of which one was an older post from mid-December. Those 104 stories were supplemented by two additional pages: 'Magnus Carlsen on Freestyle chess controversy' with 25 stories, and 'Gukesh beats Mendonca to lead Tata Steel Masters' ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/01/world-championship-yahoos-2025-1.html",
-         "pubDate" : "Thu, 30 Jan 2025 16:34:00",
-         "title" : "World Championship Yahoos 2025 (1/?)"
       }
    ]
 }
