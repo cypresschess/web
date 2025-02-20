@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3427",
+         "pubDate" : "Thu, 20 Feb 2025 10:40:02",
+         "title" : "FIDE School Award winners celebrated at 2nd Cycle webinar"
+      },
+      {
+         "description" : "The 2025 edition of the World Senior Team Chess Championships has just kicked off in the beautiful city of Prague, in the Czech Republic and it runs until 27th February....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-seniot-teams-chess-championships-2025/",
+         "pubDate" : "Thu, 20 Feb 2025 09:13:20",
+         "title" : "World Senior Team Chess Championships 2025"
+      },
+      {
          "description" : "Chess is an international game, and players of different cultures and backgrounds may be following diverse norms. Something that is highly valued in one culture might be viewed differently in another. So here is a question: does chess need a dress code? Magnus Carlsen was fined during the 2024 World Rapid & Blitz Chess Championship in New York for wearing jeans, and GM Zhu Jiner for wearing white laceless winter boots. Here's International Arbiter Shohreh Bayat's take on the subject.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -102,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bluebaum-duda-win-titled-tuesday-february-18-2025",
-         "pubDate" : "Wed, 19 Feb 2025 09:09:02",
+         "pubDate" : "Wed, 19 Feb 2025 09:09:00",
          "title" : "First Win Of The Year For Two More Titled Tuesday Stars"
       },
       {
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/memorial-celebration-for-im-adam-hunt-on-saturday-1st-march/",
          "pubDate" : "Thu, 30 Jan 2025 15:29:42",
          "title" : "Memorial celebration for IM Adam Hunt on Saturday 1st March"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2025/01/Visit-to-HMP-Springhill-on-28-January-2025.pdf#new_tab",
-         "pubDate" : "Thu, 30 Jan 2025 13:31:21",
-         "title" : "Visit to HMP Springhill - Carl Portman"
       }
    ]
 }
