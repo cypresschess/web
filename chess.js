@@ -66,7 +66,7 @@ news_feed (
          "title" : "Two Knights Talk: Weissenhaus, Boris Becker, Freestyle Chess, Vincent Keymer and more"
       },
       {
-         "description" : "World number-one GM Magnus Carlsen punched his ticket to the Grand Final of the 2025 Chessable Masters. He drew GM Arjun Erigaisi with Black in armageddon and then beat GM Hikaru Nakamura 2.5-0.5 with a game to spare. Both Arjun and Nakamura will ...",
+         "description" : "World number-one GM Magnus Carlsen punched his ticket to the Grand Final of the 2025 Chessable Masters. With Black in armageddon, he drew GM Arjun Erigaisi and then beat GM Hikaru Nakamura 2.5-0.5 with a game to spare. Both Arjun and Nakamura will...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-2",
