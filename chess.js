@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-live",
+         "pubDate" : "Thu, 20 Feb 2025 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
+         "pubDate" : "Thu, 20 Feb 2025 14:45:00",
+         "title" : "Women's Grand Prix Monaco: Live"
+      },
+      {
+         "description" : "The English and English Women's Championships 2025 and the English Women's U1700 tournament have now been rescheduled from 13-16 June to 18-21 July at the same venue (the Kenilworth Holiday...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2025/",
+         "pubDate" : "Thu, 20 Feb 2025 14:21:50",
+         "title" : "English and English Women's Chess Championships 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3403",
+         "pubDate" : "Thu, 20 Feb 2025 13:50:18",
+         "title" : "Social Chess Research Conference announced"
+      },
+      {
+         "description" : "ChessBase 18 offers a lot of new and powerful functions. On his blog Chess Book Reviews Carl Portman had a close look at the program and was impressed: \"I have no hesitation in recommending it to any chess player. We live in a world that can often be depressing and negative - so chess players can have some fun and enjoyment through CB 18 as well as improving their game.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-review",
+         "pubDate" : "Thu, 20 Feb 2025 13:48:26",
+         "title" : "\"Treat yourself - you deserve it\" - A review of ChessBase 18"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://www.europechess.org/prague-chess-festival-2025/",
          "pubDate" : "Wed, 19 Feb 2025 18:40:42",
          "title" : "Prague Chess Festival 2025"
-      },
-      {
-         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-live",
-         "pubDate" : "Wed, 19 Feb 2025 16:50:00",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "IM Sara Khadem pounced on a time-trouble blunder by&#38;nbsp;GM Harika Dronavalli to pick up the only win of round two of the 2025 Monaco FIDE Women&#39;s Grand Prix. She joins GM Kateryna Lagno, GM Koneru Humpy, and IM Batkhuyag Munguntuul in the lead on...",
@@ -1168,14 +1200,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/01/world-championship-yahoos-2025-1.html",
          "pubDate" : "Thu, 30 Jan 2025 16:34:00",
          "title" : "World Championship Yahoos 2025 (1/?)"
-      },
-      {
-         "description" : "Dear chess friends We really hope you can join us for Adam's Celebration Service on Saturday 1st March 2025 at 11am. The service is being held at Woodbridge School Chapel...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/memorial-celebration-for-im-adam-hunt-on-saturday-1st-march/",
-         "pubDate" : "Thu, 30 Jan 2025 15:29:42",
-         "title" : "Memorial celebration for IM Adam Hunt on Saturday 1st March"
       }
    ]
 }
