@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players share the lead with 1&frac12;/2 points after the second round of the Monaco Women's Grand Prix. Sara Khadem secured the only decisive result of the day, capitalising on a blunder to defeat Harika Dronavalli. Meanwhile, Aleksandra Goryachkina and Tan Zhongyi both missed opportunities to join the leaders, with Goryachkina failing to convert her initiative against Alexandra Kosteniuk and Tan allowing Batkhuyag Munguntuul to escape with a draw in a tricky endgame. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-2",
+         "pubDate" : "Wed, 19 Feb 2025 22:05:00",
+         "title" : "Monaco GP: Khadem beats Harika, joins the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3426",
+         "pubDate" : "Wed, 19 Feb 2025 20:20:48",
+         "title" : "FIDE WGP Monaco R02: Positional battles on all boards"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Chessable Masters - Live!"
       },
       {
-         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
-         "pubDate" : "Wed, 19 Feb 2025 14:45:00",
-         "title" : "Women's Grand Prix Monaco: Live"
+         "description" : "IM Sara Khadem pounced on a time-trouble blunder by&#38;nbsp;GM Harika Dronavalli to pick up the only win of round two of the 2025 Monaco FIDE Women&#39;s Grand Prix. She joins GM Kateryna Lagno, GM Koneru Humpy, and IM Batkhuyag Munguntuul in the lead on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-2",
+         "pubDate" : "Wed, 19 Feb 2025 15:19:06",
+         "title" : "Khadem Pounces On Blunder To Beat Harika"
       },
       {
          "description" : "One of the streamers covering the Freestyle Chess Tournament in Weissenhaus was Alexandra Botez. In a brief interview with Arne K&auml;hler, she shared her excitement and exhaustion from the event, upcoming plans in Los Angeles, and a talk at MIT's Sports Analytics Conference. She reflected on her streaming career, team-building, and passion for competition, while also revealing details about her chess-inspired video game, designed to attract new players with innovative features like Battle Royale mechanics and magic spells. | Photo: Alexandra Botez at the Reykjavik Open 2023 | Photo: Gerd Densing",
@@ -50,11 +66,11 @@ news_feed (
          "title" : "Two Knights Talk: Weissenhaus, Boris Becker, Freestyle Chess, Vincent Keymer and more"
       },
       {
-         "description" : "World number-one GM Magnus Carlsen punched his ticket to the Grand Final of the 2025 Chessable Masters after drawing GM Arjun Erigaisi with Black in armageddon and beating GM Hikaru Nakamura 2.5-0.5 with a game to spare. Both Arjun and Nakamura wi...",
+         "description" : "World number-one GM Magnus Carlsen punched his ticket to the Grand Final of the 2025 Chessable Masters. He drew GM Arjun Erigaisi with Black in armageddon and then beat GM Hikaru Nakamura 2.5-0.5 with a game to spare. Both Arjun and Nakamura will ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-2",
-         "pubDate" : "Wed, 19 Feb 2025 12:10:06",
+         "pubDate" : "Wed, 19 Feb 2025 12:10:00",
          "title" : "Carlsen Advances To Grand Final, Sends Arjun, Nakamura To Losers Bracket"
       },
       {
@@ -698,14 +714,6 @@ news_feed (
          "title" : "Sindarov Upsets Nakamura, Joins Carlsen, Caruana, Keymer In Semifinals"
       },
       {
-         "description" : "Several NFL stars, as well as GM Maurice Ashley&#38;nbsp;and FM James Canty, joined Chess.com, in collaboration with NFL Legends, in the festivities before the Super Bowl on Canal Street in New Orleans this Friday, February 7. Current and former NFL p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blitzchamps-live-new-orleans-chesscom-nfl-legends",
-         "pubDate" : "Mon, 10 Feb 2025 09:24:32",
-         "title" : "Maurice Ashley, Larry Fitzgerald Jr., And NFL Legends Celebrate Chess In New Orleans"
-      },
-      {
          "description" : "The ECU E-Magazine January 2025 is out! In this edition of the ECU Magazine you may read about: The January 2025 edition of the ECU Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1160,22 +1168,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/wp-content/uploads/2025/01/Visit-to-HMP-Springhill-on-28-January-2025.pdf#new_tab",
          "pubDate" : "Thu, 30 Jan 2025 13:31:21",
          "title" : "Visit to HMP Springhill - Carl Portman"
-      },
-      {
-         "description" : "India's Gukesh scored a win over compatriot Leon Mendonca in ninth round of the Tata Steel Masters to go clear at the top.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43618517/unbeaten-gukesh-retains-lead-praggnanandhaa-bounces-back-round-10-tata-steel-chess?device=featurephone",
-         "pubDate" : "Wed, 29 Jan 2025 23:08:59",
-         "title" : "Unbeaten Gukesh retains lead, Pragg bounces back: Round 10 of Tata Steel Chess"
-      },
-      {
-         "description" : " Gukesh leads the Tata Steel Masters with 7.5/10 by half a point from Nodirbek Abdusattorov on 7 points, a further half point behind is Praggnanandhaa. It seems very likely the winner will be one of these three players and all of them won today. There is a rest day on Thursday followed by the final three rounds with the event finishing on Sunday. Gukesh started the game as black with 1.e4 d6! the first time he'd ever played this, Max Warmerdam played 2.g3! a pre-event piece of prep and after 2...c5 they were in a Sicilian. Gukesh had the kind of complicated position he needed and after 24.Bf1? he was much better and after 28.Rc1? he launched a direct attack for the win. Abdusattorov probably",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-wins-again-in-round-10-of-the-tata-steel-masters-but-so-do-abdusattorov-and-praggnanandhaa",
-         "pubDate" : "Wed, 29 Jan 2025 22:13:00",
-         "title" : "Gukesh wins again in Round 10 of the Tata Steel Masters but so do Abdusattorov and Praggnanandhaa - 10"
       }
    ]
 }
