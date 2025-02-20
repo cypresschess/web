@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is an international game, and players of different cultures and backgrounds may be following diverse norms. Something that is highly valued in one culture might be viewed differently in another. So here is a question: does chess need a dress code? Magnus Carlsen was fined during the 2024 World Rapid & Blitz Chess Championship in New York for wearing jeans, and GM Zhu Jiner for wearing white laceless winter boots. Here's International Arbiter Shohreh Bayat's take on the subject.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-dress-code-dilemma",
+         "pubDate" : "Thu, 20 Feb 2025 07:25:48",
+         "title" : "The Dress Code Dilemma"
+      },
+      {
          "description" : "Four players share the lead with 1&frac12;/2 points after the second round of the Monaco Women's Grand Prix. Sara Khadem secured the only decisive result of the day, capitalising on a blunder to defeat Harika Dronavalli. Meanwhile, Aleksandra Goryachkina and Tan Zhongyi both missed opportunities to join the leaders, with Goryachkina failing to convert her initiative against Alexandra Kosteniuk and Tan allowing Batkhuyag Munguntuul to escape with a draw in a tricky endgame. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-board-vacancies/",
          "pubDate" : "Mon, 17 Feb 2025 12:25:55",
          "title" : "ECF Board Vacancies"
-      },
-      {
-         "description" : "Recently, the game Thomas-Alekhine, Baden 1925, from move 34...Qc4, was published on this site, with a request that readers get involved to help solve this riddle. Was the position really lost for White? And did Black maintain his winning advantage until the end of the game? Today we give the solution.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/riddle-thomas-alekhine-solved",
-         "pubDate" : "Mon, 17 Feb 2025 12:00:00",
-         "title" : "Riddle: Thomas-Alekhine solved!"
       },
       {
          "description" : "Ukrainian esports organization Natus Vincere (NAVI) has entered the competitive chess scene with a bang by snapping up star grandmasters Wesley So, Nodirbek Abdusattorov, and Oleksandr Bortnyk. Meanwhile, world number-nine GM Wei Yi has also been ...",
