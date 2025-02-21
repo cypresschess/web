@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-chess-star-magnus-carlsen-puts-forbidden-jeans-up-for-auction/articleshow/118451938.cms",
+         "pubDate" : "Fri, 21 Feb 2025 12:04:42",
+         "title" : "Magnus Carlsen puts 'forbidden jeans' up for auction"
+      },
+      {
+         "description" : "At the last World Rapid and Blitz Championship in New York, Magnus Carlsen was reprimanded for violating the FIDE dress code by wearing jeans. This led to a dispute that attracted a lot of media attention. Carlsen is now making the best of it by auctioning off the jeans on Ebay for charity. You can still bid. | Photos: Magnus Carlsen via Ebay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/to-bid-on-magnus-carlsen-s-new-york-jeans",
+         "pubDate" : "Fri, 21 Feb 2025 10:33:20",
+         "title" : "To bid on: Magnus Carlsen's New York jeans"
+      },
+      {
+         "description" : "Player finished first in corresponding Nationals Age Group over the board Championship for the year 2024: Rs. 17,130/ Special Note: If a player has only",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asia-youth-chess-championship-2025-in-dushanbe-tajikistan-from-20th-to-29th-april-2025/",
+         "pubDate" : "Fri, 21 Feb 2025 08:40:36",
+         "title" : "Western Asia Youth Chess Championship - 2025 in Dushanbe, Tajikistan from 20th to 29th April, 2025"
+      },
+      {
          "description" : " The Norwegian world No 1 is in pole position at the Chessable Masters despite endgame lapses Magnus Carlsen's dominance of online chess has continued this week as the world No 1 is in pole position for the concluding stages of the Chessable Masters, the first leg of the annual Champions Tour which the Norwegian has won every year since it was launched in 2020. For 2025, the tour is also a qualifier for the Esports World Cup at Riyadh, Saudi Arabia, in July-August, where the chess prize fund will be $1.5m. Carlsen began with a smooth 3-1 victory <a href=\"https://lichess.org/broadcast/cct-chessable-masters-2025--playoffs-winners/round-of-16--game-1/mda5Qqqy/KUUhEZ8W\">against Russia's Andrey E",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/fide-planning-and-development-funding-programme-guidelines/",
          "pubDate" : "Fri, 21 Feb 2025 07:16:10",
          "title" : "FIDE Planning and Development Funding Programme Guidelines"
+      },
+      {
+         "description" : "India&#39;s chess stars continue to receive well-deserved recognition for their achievements, with two of the nation&#39;s brightest players,&#38;nbsp;IMs Divya Deshmukh and Tania Sachdev, being honored with awards this week. The national teams were also cele...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/national-teams-divya-deshmukh-tania-sachdev-honored-indian-awards",
+         "pubDate" : "Fri, 21 Feb 2025 04:17:30",
+         "title" : "National Teams, Divya Deshmukh, Tania Sachdev Honored At Indian Award Ceremonies"
       },
       {
          "description" : "The third round of the Monaco Women's Grand Prix saw all four co-leaders hold their positions at the top of the standings after drawing their games. Batkhuyag Munguntuul and Humpy Koneru split the point in the only direct clash between frontrunners, while Sara Khadem and Kateryna Lagno secured safe draws with the black pieces. Meanwhile, Aleksandra Goryachkina and Alexandra Kosteniuk bounced back from first-round losses with victories over Bibisara Assaubayeva and Tan Zhongyi. | Photo: FIDE / Niki Riga",
@@ -55,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-on-joe-rogan",
          "pubDate" : "Thu, 20 Feb 2025 16:03:00",
-         "title" : "'I Don't Trust Him'-Carlsen Opens On Niemann Controversy With Joe Rogan"
+         "title" : "'I Don't Trust Him'-Carlsen Opens Up On Niemann Controversy With Joe Rogan"
       },
       {
          "description" : "GM Alexandra Kosteniuk won a sharp battle in round three of the 2025 Monaco FIDE Women&#39;s Grand Prix to knock GM Tan Zhongyi down to world number-four. The other win was a 5.5-hour marathon that saw GM Aleksandra Goryachkina return to 50 percent by...",
@@ -682,14 +714,6 @@ news_feed (
          "title" : "D Gukesh holds Hikaru Nakamura to a draw in Freestyle Grand Slam chess"
       },
       {
-         "description" : "GM Vincent Keymer defeated world number-one GM Magnus Carlsen in game one of the 2025 Weissenhaus Freestyle Chess Grand Slam Semifinals. GM Fabiano Caruana vs. GM Javokhir Sindarov ended in a draw, though the Uzbek GM missed a big chance at the en...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-5",
-         "pubDate" : "Tue, 11 Feb 2025 08:22:00",
-         "title" : "Keymer Beats Carlsen In Semifinal Game 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118139954.cms\" />Indian chess Grandmaster R Vaishali aims for consistent performances and a spot in the Candidates Tournament this year. After becoming India's third female Grandmaster, she played a pivotal role in India's Chess Olympiad win and clinched bronze at the World Blitz Championship. Vaishali seeks to build on her experiences and improve her rankings in future tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1032,14 +1056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/puzzles-for-you-to-solve",
          "pubDate" : "Tue, 04 Feb 2025 07:20:33",
          "title" : "Puzzles for you to solve"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117904998.cms\" />Grandmaster R Praggnanandhaa clinched the Tata Steel Masters 2025 title in Netherlands by defeating World Champion D Gukesh. His victory, inspired by peers' achievements, marked a key moment in his career. Despite losing the first game in the tiebreaker, Praggnanandhaa's remarkable comeback secured his triumph, drawing praise from Viswanathan Anand and highlighting his strategic acumen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-wasnt-happy-with-my-game-r-praggnanandhaa-after-winning-tata-steel-chess-2025-masters/articleshow/117904998.cms",
-         "pubDate" : "Tue, 04 Feb 2025 06:31:32",
-         "title" : "'I wasn't happy with my game': Pragg after Tata Steel Masters title"
       },
       {
          "description" : "One of the insights from my recent explorations into AI Comics was that people's likenesses are best rendered using the '3D Render' style. Consider the images produced for the recent post <A HREF=\"https://chessforallages.blogspot.com/2025/01/color-proteins.html\">Color the Proteins</A> (January 2025; 'Demis Hassabis plays chess ...'). <P> Another insight was that AI Comics are perfectly happy to create images of inanimate objects playing chess. Consider the following images inspired by the world of economics and finance. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb03.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Kenneth Rogoff plays chess with money.'</B><BR> <A HREF=\"https://aicomi",
