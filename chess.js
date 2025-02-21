@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Norwegian world No 1 is in pole position at the Chessable Masters despite endgame lapses Magnus Carlsen's dominance of online chess has continued this week as the world No 1 is in pole position for the concluding stages of the Chessable Masters, the first leg of the annual Champions Tour which the Norwegian has won every year since it was launched in 2020. For 2025, the tour is also a qualifier for the Esports World Cup at Riyadh, Saudi Arabia, in July-August, where the chess prize fund will be $1.5m. Carlsen began with a smooth 3-1 victory <a href=\"https://lichess.org/broadcast/cct-chessable-masters-2025--playoffs-winners/round-of-16--game-1/mda5Qqqy/KUUhEZ8W\">against Russia's Andrey E",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/feb/21/chess-carlsen-wins-again-as-he-qualifies-for-the-15m-saudi-esports-world-cup",
+         "pubDate" : "Fri, 21 Feb 2025 08:00:33",
+         "title" : "Chess: Carlsen wins again as he qualifies for the $1.5m Saudi Esports World Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3429",
+         "pubDate" : "Fri, 21 Feb 2025 07:32:06",
+         "title" : "Join Global Celebration of Women and Girls in Chess!"
+      },
+      {
+         "description" : "FIDE Planning and Development Commission announced the Funding Programme for 2025 and soon will open the submissions process for National Chess Federations and Affiliated Members, FIDE Continents, FIDE Zones, FIDE Commissions, FIDE Affiliated Organizations. The Development Programme's objective is to help the Applicant to implement projects and activities that aim to improve the development of Chess in all its forms. The proposed Development Programme must be in line with the global FIDE orientations and the Applicant's strategic plan: When relevant []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-planning-and-development-funding-programme-guidelines/",
+         "pubDate" : "Fri, 21 Feb 2025 07:16:10",
+         "title" : "FIDE Planning and Development Funding Programme Guidelines"
+      },
+      {
          "description" : "The third round of the Monaco Women's Grand Prix saw all four co-leaders hold their positions at the top of the standings after drawing their games. Batkhuyag Munguntuul and Humpy Koneru split the point in the only direct clash between frontrunners, while Sara Khadem and Kateryna Lagno secured safe draws with the black pieces. Meanwhile, Aleksandra Goryachkina and Alexandra Kosteniuk bounced back from first-round losses with victories over Bibisara Assaubayeva and Tan Zhongyi. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,14 +1184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-2025/",
          "pubDate" : "Fri, 31 Jan 2025 14:23:14",
          "title" : "British Chess Championships 2025"
-      },
-      {
-         "description" : " The teams have both won all their four matches in the UK national league and are set to meet in the final round in May The UK's national league, the 4NCL, is turning into a two-horse race after last weekend's third and fourth rounds at Peterborough. Wood Green, the 2024 and London League champions, and Manx Liberty, the 2023 winners whose core is a group of Romanian and Hungarian grandmasters, have both won all their four matches. After four of the 11 rounds the leaders are Wood Green with 8 match points (24 game points) and Manx Liberty on 8 (23.5), then Cheddleton Savills Catering 6 (19), Barnet Knights 6 (18). The fixture list is geared to producing a climax, so that Wood Green v Manx wi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/jan/31/wood-green-and-manx-liberty-take-four-nations-chess-league-down-to-the-wire",
-         "pubDate" : "Fri, 31 Jan 2025 08:00:49",
-         "title" : "Wood Green and Manx Liberty take Four Nations Chess League down to the wire"
       }
    ]
 }
