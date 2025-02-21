@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-live",
+         "pubDate" : "Fri, 21 Feb 2025 16:50:00",
+         "title" : "Chessable Masters Grand Final - Live!"
+      },
+      {
+         "description" : "This week Magnus Carlsen was a guest of Joe Rogan, host of the very popular podcast \"The Joe Rogan Experience\". In a two hour interview Carlsen talked about the beginning of his chess career, chess engines, Hans Niemann, golf, creativity, how Vishy Anand and Garry Kasparov helped him to a deeper understanding of chess, his continuing passion for the game and the highlights of his career.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-gives-me-joy-and-energy-magnus-carlsen-and-joe-rogan-talk-chess",
+         "pubDate" : "Fri, 21 Feb 2025 16:43:03",
+         "title" : "\"Chess gives me joy and energy\" - Magnus Carlsen and Joe Rogan talk chess"
+      },
+      {
+         "description" : " Adisa Banjoko visited Albany State University at the invitation of the school's &#8220;University College,&#8221; an entity supporting first- and second-year students. Banjoki is known to the chess world as the founder of the Hip Hop Chess Federation (HHCF), an organization founded in 2007 with the idea of using chess, martial arts, and hip-hop as avenues to The post <a href=\"https://thechessdrum.net/blog/2025/02/21/albany-state-host-hip-hop-icon-adisa-banjoko/\">Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/02/21/albany-state-host-hip-hop-icon-adisa-banjoko/",
+         "pubDate" : "Fri, 21 Feb 2025 14:49:22",
+         "title" : "Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko"
+      },
+      {
+         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
+         "pubDate" : "Fri, 21 Feb 2025 14:45:00",
+         "title" : "Women's Grand Prix Monaco: Live"
+      },
+      {
+         "description" : "Five players competed on Thursday for a place in the Chessable Masters Grand Final against Magnus Carlsen, who had already secured his spot in the winners' bracket. Jan-Krzysztof Duda, Ian Nepomniachtchi, Alireza Firouzja and Arjun Erigaisi faced a tougher path than Hikaru Nakamura, needing three consecutive wins to advance. Nepomniachtchi emerged from the knockout rounds to challenge Nakamura, but the American grandmaster held firm in an Armageddon decider to secure his place in the final, setting up a rematch with Carlsen. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-ko-3",
+         "pubDate" : "Fri, 21 Feb 2025 14:15:00",
+         "title" : "Chessable Masters: Nakamura sets up showdown against Carlsen"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,14 +114,6 @@ news_feed (
          "title" : "FIDE WGP in Monaco: Four in the lead after Round 3"
       },
       {
-         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-live",
-         "pubDate" : "Thu, 20 Feb 2025 16:50:00",
-         "title" : "Chessable Masters - Live!"
-      },
-      {
          "description" : "World number-one GM Magnus Carlsen made an appearance on The Joe Rogan Experience where he openly addressed the infamous controversy with GM Hans Niemann for the first time. The controversial Joe Rogan, a comedian, UFC commentator, and former TV...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3403",
          "pubDate" : "Thu, 20 Feb 2025 13:50:18",
          "title" : "Social Chess Research Conference announced"
-      },
-      {
-         "description" : "ChessBase 18 offers a lot of new and powerful functions. On his blog Chess Book Reviews Carl Portman had a close look at the program and was impressed: \"I have no hesitation in recommending it to any chess player. We live in a world that can often be depressing and negative - so chess players can have some fun and enjoyment through CB 18 as well as improving their game.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-review",
-         "pubDate" : "Thu, 20 Feb 2025 13:48:26",
-         "title" : "\"Treat yourself - you deserve it\" - A review of ChessBase 18"
       },
       {
          "description" : "GM Hikaru Nakamura defeated GM Ian Nepomniachtchi in the Losers Final by holding a draw with the black pieces in the armageddon tiebreak. He has earned his second match against GM Magnus Carlsen in the 2025 Chessable Masters Grand Final on the las...",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/american-teams-solid-starts-2025-fide-world-senior-team-championships",
          "pubDate" : "Thu, 20 Feb 2025 00:00:00",
          "title" : "American Teams Off To Solid Starts at 2025 FIDE World Senior Team Championships"
-      },
-      {
-         "description" : "Four players share the lead with 1&frac12;/2 points after the second round of the Monaco Women's Grand Prix. Sara Khadem secured the only decisive result of the day, capitalising on a blunder to defeat Harika Dronavalli. Meanwhile, Aleksandra Goryachkina and Tan Zhongyi both missed opportunities to join the leaders, with Goryachkina failing to convert her initiative against Alexandra Kosteniuk and Tan allowing Batkhuyag Munguntuul to escape with a draw in a tricky endgame. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-2",
-         "pubDate" : "Wed, 19 Feb 2025 22:05:00",
-         "title" : "Monaco GP: Khadem beats Harika, joins the lead"
       },
       {
          "description" : "",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-leads-the-tata-steel-masters-on-811-half-a-point-clear-of-praggnanandhaa-and-abdusattorov",
          "pubDate" : "Fri, 31 Jan 2025 21:57:00",
          "title" : "Gukesh leads the Tata Steel Masters on 8/11 half a point clear of Praggnanandhaa and Abdusattorov - 11"
-      },
-      {
-         "description" : "We are pleased to announce that this year's British Chess Championships will be held at&#160;St George's Hall in Liverpool and the Liverpool Holiday Inn,&#160;with events running from 31st July to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-2025/",
-         "pubDate" : "Fri, 31 Jan 2025 14:23:14",
-         "title" : "British Chess Championships 2025"
       }
    ]
 }
