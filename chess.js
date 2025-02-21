@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some chess players are remembered mainly for their spectacular defeats. One of them is the Chilean champion Ren&eacute; Letelier, who lost a game to Bobby Fischer at the 1960 Chess Olympiad in Leipzig that went down in chess history. But Letelier also had many successes during his career. FIDE awarded him the IM title in 1960, he played for Chile in seven Chess Olympiads and was Chilean Champion five times. And in the course of his long career he played a number of remarkable games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-short-tribute-to-ren-letelier-21-february-1915-2-july-2006",
+         "pubDate" : "Fri, 21 Feb 2025 19:00:00",
+         "title" : "A short tribute to Ren&eacute; Letelier (21 February 1915 - 2 July 2006)"
+      },
+      {
          "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +58,28 @@ news_feed (
          "title" : "Magnus Carlsen puts 'forbidden jeans' up for auction"
       },
       {
+         "description" : "GM Jan-Krzysztof Duda won Freestyle Friday on February 21, becoming the fifth player to win one in the first five weeks of the event. More notably, this victory comes on the heels of a win in the late Titled Tuesday on February 18, making Duda the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-february-21-2025",
+         "pubDate" : "Fri, 21 Feb 2025 11:19:00",
+         "title" : "Duda Wins Freestyle Friday, Titled Tuesday In Same Week"
+      },
+      {
          "description" : "At the last World Rapid and Blitz Championship in New York, Magnus Carlsen was reprimanded for violating the FIDE dress code by wearing jeans. This led to a dispute that attracted a lot of media attention. Carlsen is now making the best of it by auctioning off the jeans on Ebay for charity. You can still bid. | Photos: Magnus Carlsen via Ebay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/to-bid-on-magnus-carlsen-s-new-york-jeans",
          "pubDate" : "Fri, 21 Feb 2025 10:33:20",
          "title" : "To bid on: Magnus Carlsen's New York jeans"
+      },
+      {
+         "description" : "It took just about one hour for GM Magnus Carlsen to win the Grand Final against GM Hikaru Nakamura and thus the 2025 Chessable Masters, the first event of this year&#39;s Champions Chess Tour. He defeated the U.S. number-one for the second time in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-cct-chessable-masters-grand-final",
+         "pubDate" : "Fri, 21 Feb 2025 09:29:00",
+         "title" : "Carlsen Beats Nakamura In Grand Final, Wins 2025 Chessable Masters"
       },
       {
          "description" : "Player finished first in corresponding Nationals Age Group over the board Championship for the year 2024: Rs. 17,130/ Special Note: If a player has only",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "Western Asia Youth Chess Championship - 2025 in Dushanbe, Tajikistan from 20th to 29th April, 2025"
       },
       {
-         "description" : " The Norwegian world No 1 is in pole position at the Chessable Masters despite endgame lapses Magnus Carlsen's dominance of online chess has continued this week as the world No 1 is in pole position for the concluding stages of the Chessable Masters, the first leg of the annual Champions Tour which the Norwegian has won every year since it was launched in 2020. For 2025, the tour is also a qualifier for the Esports World Cup at Riyadh, Saudi Arabia, in July-August, where the chess prize fund will be $1.5m. Carlsen began with a smooth 3-1 victory <a href=\"https://lichess.org/broadcast/cct-chessable-masters-2025--playoffs-winners/round-of-16--game-1/mda5Qqqy/KUUhEZ8W\">against Russia's Andrey E",
+         "description" : " The Norwegian world No 1 beat Hikaru Nakamura twice at the Chessable Masters despite endgame lapses Magnus Carlsen's dominance of online chess has continued this week as the world No 1 defeated Hikaru Nakamura in two matches to retain the Chessable Masters, the first leg of the annual Champions Tour which the Norwegian has won every year since it was launched in 2020. For 2025, the tour is also a qualifier for the Esports World Cup at Riyadh, Saudi Arabia, in July-August, where the chess prize fund will be $1.5m. Carlsen began with a smooth 3-1 victory <a href=\"https://lichess.org/broadcast/cct-chessable-masters-2025--playoffs-winners/round-of-16--game-1/mda5Qqqy/KUUhEZ8W\">against Russia's ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/feb/21/chess-carlsen-wins-again-as-he-qualifies-for-the-15m-saudi-esports-world-cup",
@@ -274,7 +298,7 @@ news_feed (
          "title" : "Three victories mark Round 1 of FIDE Women's Grand Prix in Monaco"
       },
       {
-         "description" : " The Chessable Masters take place Tue 18th Feb to Fri 21st Feb 2025. Players: Grischuk, Firouzja, Esipenko, Giri, Erigaisi, Caruana, Nakamura, Nepomniachtchi, Duda, Carlsen, Praggnanandhaa, Sevian, Artemiev, Wei Yi, Wesley So and Yu Yangyi. 10 minutes per game. Double Elimination KO.",
+         "description" : " The Chessable Masters took place Tue 18th Feb to Fri 21st Feb 2025. Players: Grischuk, Firouzja, Esipenko, Giri, Erigaisi, Caruana, Nakamura, Nepomniachtchi, Duda, Carlsen, Praggnanandhaa, Sevian, Artemiev, Wei Yi, Wesley So and Yu Yangyi. 10 minutes per game. Double Elimination KO. Magnus Carlsen made very light work of winning the event beating Hikaru Nakamura in the Winners and Grand Final, there was no need for a final reset final. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2025",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Keymer Defeats Carlsen, Caruana Wins Marathon Vs. Sindarov"
       },
       {
-         "description" : "GMs Magnus Carlsen and Parham Maghsoodloo were your Titled Tuesday winners on February 11. Carlsen won outright on 10.5 points and Maghsoodloo also won outright, with 10 points. It was the first win of 2025 for both of them, although each also won...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-win-titled-tuesday-february-11-2025",
-         "pubDate" : "Wed, 12 Feb 2025 09:25:50",
-         "title" : "Carlsen Takes Tuesday Fresh Off Freestyle"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118164392.cms\" />Freestyle Chess, created by German entrepreneur Jan Henric Buettner and endorsed by Magnus Carlsen, introduces excitement into chess with randomised starting positions and faster gameplay. The tournament has quickly gained traction among top players worldwide, offering a Grand Slam-style point system and open qualifiers. Carlsen's vision aims to revolutionize and popularize the game globally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-need-to-play-a-bit-more-solidly-arjun-erigaisi/articleshow/118161778.cms",
          "pubDate" : "Wed, 12 Feb 2025 03:27:23",
          "title" : "I need to play a bit more solidly: Arjun Erigaisi"
-      },
-      {
-         "description" : "French GM Maxime Vachier-Lagrave has officially joined Team Vitality, becoming the latest chess star to sign with an esports organization ahead of the 2025 Esports World Cup (EWC). The French club, founded in 2013, has grown into one of Europe&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-signs-deal-with-team-vitality",
-         "pubDate" : "Wed, 12 Feb 2025 02:02:00",
-         "title" : "Vachier-Lagrave Signs With Team Vitality Ahead Of Esports World Cup"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on 19-year-old FM Rochelle Wu and 16-year-old WIM Iris Mou. The two regulars at the annual U.S. Junior Girls' Championship both posted results to be proud of in New York, with Wu going 6/11 in the Blitz and Mou going 6/11 in the Rapid. These plus-scores earned each player a haul of FIDE rating points, which makes ",
