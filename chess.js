@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of the Monaco Women's Grand Prix saw all four co-leaders hold their positions at the top of the standings after drawing their games. Batkhuyag Munguntuul and Humpy Koneru split the point in the only direct clash between frontrunners, while Sara Khadem and Kateryna Lagno secured safe draws with the black pieces. Meanwhile, Aleksandra Goryachkina and Alexandra Kosteniuk bounced back from first-round losses with victories over Bibisara Assaubayeva and Tan Zhongyi. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-3",
+         "pubDate" : "Thu, 20 Feb 2025 22:15:00",
+         "title" : "Monaco GP: Kosteniuk and Goryachkina score"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3428",
+         "pubDate" : "Thu, 20 Feb 2025 21:08:24",
+         "title" : "FIDE WGP in Monaco: Four in the lead after Round 3"
+      },
+      {
          "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,20 @@ news_feed (
          "title" : "Chessable Masters - Live!"
       },
       {
-         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
-         "pubDate" : "Thu, 20 Feb 2025 14:45:00",
-         "title" : "Women's Grand Prix Monaco: Live"
+         "description" : "World number-one GM Magnus Carlsen made an appearance on The Joe Rogan Experience where he openly addressed the infamous controversy with GM Hans Niemann for the first time. The controversial Joe Rogan, a comedian, UFC commentator, and former TV...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-on-joe-rogan",
+         "pubDate" : "Thu, 20 Feb 2025 16:03:00",
+         "title" : "'I Don't Trust Him'-Carlsen Opens On Niemann Controversy With Joe Rogan"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk won a sharp battle in round three of the 2025 Monaco FIDE Women&#39;s Grand Prix to knock GM Tan Zhongyi down to world number-four. The other win was a 5.5-hour marathon that saw GM Aleksandra Goryachkina return to 50 percent by...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-3",
+         "pubDate" : "Thu, 20 Feb 2025 14:58:56",
+         "title" : "Kosteniuk Beats Top Seed Tan Zhongyi"
       },
       {
          "description" : "The English and English Women's Championships 2025 and the English Women's U1700 tournament have now been rescheduled from 13-16 June to 18-21 July at the same venue (the Kenilworth Holiday...",
@@ -46,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-3",
-         "pubDate" : "Thu, 20 Feb 2025 11:00:30",
+         "pubDate" : "Thu, 20 Feb 2025 11:00:00",
          "title" : "Nakamura Earns Rematch Vs. Carlsen In Grand Final"
       },
       {
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-dress-code-dilemma",
          "pubDate" : "Thu, 20 Feb 2025 07:25:48",
          "title" : "The Dress Code Dilemma"
+      },
+      {
+         "description" : "After four matches in Prague, the US Chess-sponsored USA team is a full point behind the leading teams from Italy and Kazakhstan after surrendering two draws. The US Chess-sponsored USA Women's team improved to 2&frac12;/4 after its win earlier today. Both teams are competing in the 50+ section. The fifth round of the nine-round event begins Friday, February 21, at 8:00 a.m. CST with playing resuming on Sunday, February 23, at the same time. More information about the USA teams can be found in our preview, and full regulations are available here. USA Women Strong After FourWith only the top ten matches being broadcast on DGT boards, we unfortunately have not been able to follow the games of ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/american-teams-solid-starts-2025-fide-world-senior-team-championships",
+         "pubDate" : "Thu, 20 Feb 2025 00:00:00",
+         "title" : "American Teams Off To Solid Starts at 2025 FIDE World Senior Team Championships"
       },
       {
          "description" : "Four players share the lead with 1&frac12;/2 points after the second round of the Monaco Women's Grand Prix. Sara Khadem secured the only decisive result of the day, capitalising on a blunder to defeat Harika Dronavalli. Meanwhile, Aleksandra Goryachkina and Tan Zhongyi both missed opportunities to join the leaders, with Goryachkina failing to convert her initiative against Alexandra Kosteniuk and Tan allowing Batkhuyag Munguntuul to escape with a draw in a tricky endgame. | Photo: FIDE / Niki Riga",
@@ -642,28 +674,12 @@ news_feed (
          "title" : "Vaishali on handshake refusal: 'Didn't know it was big thing in India'"
       },
       {
-         "description" : "We&#39;re excited to announce the Chess.com 3-Check Chess Championship, the second event of the 2025 Chess.com Community Championships! The event starts February 27 at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST with the qualifiers and features a $2,500 pri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-3-check-chess-championship-2025",
-         "pubDate" : "Tue, 11 Feb 2025 08:00:00",
-         "title" : "Who Says Spite Checks Never Work? Get Ready For Chess.com's 3-Check Chess Championship!"
-      },
-      {
          "description" : "Arjun Erigaisi has been signed by Gen G eSports to compete for a $1.5 million prize pool at the 2025 eSports World Cup in Saudi Arabia.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/43792937/arjun-erigaisi-finds-new-chess-boards-esports-world-cup-2025-remains-focussed-candidates-gukesh?device=featurephone",
          "pubDate" : "Tue, 11 Feb 2025 06:31:17",
          "title" : "Erigaisi finds new boards at eSports World Cup but remains focussed on Candidates"
-      },
-      {
-         "description" : "GM Robby Kevlishvili top scored with 4/4 and GM Aryan Chopra made 3.5/4 as Saint Louis University moved to a perfect 3/3 with victory in week three of the Collegiate Chess League Spring 2025 (CCL). They beat their fierce rivals from Chennai, SRM I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-3-slu-triumph",
-         "pubDate" : "Tue, 11 Feb 2025 03:00:00",
-         "title" : "Saint Louis Wins Clash Of Leaders To Reach 3/3"
       },
       {
          "description" : "D Gukesh will vie for the fifth to eighth place rankings in the Freestyle Chess Grand Slam at Weissenhaus.",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43715967/gukesh-carlsen-freestyle-grand-chess-tour-feud-fide-explained?device=featurephone",
          "pubDate" : "Thu, 6 Feb 2025 07:44:46",
          "title" : "Gukesh, Carlsen in Freestyle Grand Chess Tour and feud with FIDE: explained"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo by Caroline King<br> <br> <br> <br> Finishing in clear first place, GM Jianchao Zhou won the US Chess 2024 Grand Prix with 699.529 tournament points. GM Fidel Corrales Jimenez was second with 334.705 points, ahead of GM Awonder Liang in third with 198.633 points. Zhou bested his 2023 finish by over 130 points, while Corrales finished as runner-up once again. Last year's third-place finisher, GM Mikhail Antipov, finished this year in fourth with 192.992 points, just behind Liang.Zhou earns $5,000 for his first-place finish, with Corrales taking home $2,500 for second and Liang $1,000 for third. The t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/jianchao-zhou-repeats-2024-grand-prix-winner",
-         "pubDate" : "Thu, 06 Feb 2025 00:00:00",
-         "title" : "Jianchao Zhou Repeats as 2024 Grand Prix Winner"
       },
       {
          "description" : "Sad news reached the ECF Office this morning when Stewart Reuben's niece informed us that Stewart has passed away in Jamaica, whilst on a cruise. More details will be added...",
