@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Djerba Chess Festival's Masters section brings together top grandmasters from around the world for a highly competitive tournament on the island of Djerba, a.k.a. the Island of Dreams. Vetted GMs such as Vasyl Ivanchuk, David Navara and Parham Maghsoodloo compete alongside rising talents like Volodar Murzin and current tournament leader Marc'Andria Maurizzi. The event, enriched by Tunisian culture and hospitality, also welcomed the country's Minister for Tourism. | All photos: Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/djerba-festival-2025-r7",
+         "pubDate" : "Fri, 21 Feb 2025 22:20:00",
+         "title" : "Djerba 'the sweet' welcomes chess festival's sixth edition"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3430",
+         "pubDate" : "Fri, 21 Feb 2025 20:55:03",
+         "title" : "FIDE WGP Monaco Round 4: Kateryna Lagno takes the lead with a spectacular victory"
+      },
+      {
          "description" : "Some chess players are remembered mainly for their spectacular defeats. One of them is the Chilean champion Ren&eacute; Letelier, who lost a game to Bobby Fischer at the 1960 Chess Olympiad in Leipzig that went down in chess history. But Letelier also had many successes during his career. FIDE awarded him the IM title in 1960, he played for Chile in seven Chess Olympiads and was Chilean Champion five times. And in the course of his long career he played a number of remarkable games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-short-tribute-to-ren-letelier-21-february-1915-2-july-2006",
          "pubDate" : "Fri, 21 Feb 2025 19:00:00",
          "title" : "A short tribute to Ren&eacute; Letelier (21 February 1915 - 2 July 2006)"
+      },
+      {
+         "description" : "This week Magnus Carlsen was a guest of Joe Rogan, host of the very popular podcast \"The Joe Rogan Experience\". In a two hour interview Carlsen talked about the beginning of his chess career, chess engines, Hans Niemann, golf, creativity, how Vishy Anand and Garry Kasparov helped him to a deeper understanding of chess, his continuing passion for the game and the highlights of his career.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-gives-me-joy-and-energy-magnus-carlsen-and-joe-rogan-talk-chess",
+         "pubDate" : "Fri, 21 Feb 2025 16:55:00",
+         "title" : "\"Chess gives me joy and energy\" - Magnus Carlsen and Joe Rogan talk chess"
       },
       {
          "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
@@ -18,14 +42,6 @@ news_feed (
          "title" : "Chessable Masters Grand Final - Live!"
       },
       {
-         "description" : "This week Magnus Carlsen was a guest of Joe Rogan, host of the very popular podcast \"The Joe Rogan Experience\". In a two hour interview Carlsen talked about the beginning of his chess career, chess engines, Hans Niemann, golf, creativity, how Vishy Anand and Garry Kasparov helped him to a deeper understanding of chess, his continuing passion for the game and the highlights of his career.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-gives-me-joy-and-energy-magnus-carlsen-and-joe-rogan-talk-chess",
-         "pubDate" : "Fri, 21 Feb 2025 16:43:03",
-         "title" : "\"Chess gives me joy and energy\" - Magnus Carlsen and Joe Rogan talk chess"
-      },
-      {
          "description" : " Adisa Banjoko visited Albany State University at the invitation of the school's &#8220;University College,&#8221; an entity supporting first- and second-year students. Banjoki is known to the chess world as the founder of the Hip Hop Chess Federation (HHCF), an organization founded in 2007 with the idea of using chess, martial arts, and hip-hop as avenues to The post <a href=\"https://thechessdrum.net/blog/2025/02/21/albany-state-host-hip-hop-icon-adisa-banjoko/\">Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -34,20 +50,20 @@ news_feed (
          "title" : "Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko"
       },
       {
+         "description" : "GM Kateryna Lagno said &#34;it&#38;rsquo;s been a long time since I played such a beautiful game&#34; after defeating GM Elisabeth Paehtz to take the sole lead in the 2025 Monaco FIDE Women&#39;s Grand Prix on 3/4. The remaining games were drawn, with GM Aleksand...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-4",
+         "pubDate" : "Fri, 21 Feb 2025 14:45:11",
+         "title" : "Spectacular Win Gives Lagno Sole Lead"
+      },
+      {
          "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
          "pubDate" : "Fri, 21 Feb 2025 14:45:00",
          "title" : "Women's Grand Prix Monaco: Live"
-      },
-      {
-         "description" : "Five players competed on Thursday for a place in the Chessable Masters Grand Final against Magnus Carlsen, who had already secured his spot in the winners' bracket. Jan-Krzysztof Duda, Ian Nepomniachtchi, Alireza Firouzja and Arjun Erigaisi faced a tougher path than Hikaru Nakamura, needing three consecutive wins to advance. Nepomniachtchi emerged from the knockout rounds to challenge Nakamura, but the American grandmaster held firm in an Armageddon decider to secure his place in the final, setting up a rematch with Carlsen. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-ko-3",
-         "pubDate" : "Fri, 21 Feb 2025 14:15:00",
-         "title" : "Chessable Masters: Nakamura sets up showdown against Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-february-21-2025",
          "pubDate" : "Fri, 21 Feb 2025 11:19:00",
          "title" : "Duda Wins Freestyle Friday, Titled Tuesday In Same Week"
-      },
-      {
-         "description" : "At the last World Rapid and Blitz Championship in New York, Magnus Carlsen was reprimanded for violating the FIDE dress code by wearing jeans. This led to a dispute that attracted a lot of media attention. Carlsen is now making the best of it by auctioning off the jeans on Ebay for charity. You can still bid. | Photos: Magnus Carlsen via Ebay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/to-bid-on-magnus-carlsen-s-new-york-jeans",
-         "pubDate" : "Fri, 21 Feb 2025 10:33:20",
-         "title" : "To bid on: Magnus Carlsen's New York jeans"
       },
       {
          "description" : "It took just about one hour for GM Magnus Carlsen to win the Grand Final against GM Hikaru Nakamura and thus the 2025 Chessable Masters, the first event of this year&#39;s Champions Chess Tour. He defeated the U.S. number-one for the second time in th...",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/national-teams-divya-deshmukh-tania-sachdev-honored-indian-awards",
          "pubDate" : "Fri, 21 Feb 2025 04:17:30",
          "title" : "National Teams, Divya Deshmukh, Tania Sachdev Honored At Indian Award Ceremonies"
-      },
-      {
-         "description" : "The third round of the Monaco Women's Grand Prix saw all four co-leaders hold their positions at the top of the standings after drawing their games. Batkhuyag Munguntuul and Humpy Koneru split the point in the only direct clash between frontrunners, while Sara Khadem and Kateryna Lagno secured safe draws with the black pieces. Meanwhile, Aleksandra Goryachkina and Alexandra Kosteniuk bounced back from first-round losses with victories over Bibisara Assaubayeva and Tan Zhongyi. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-3",
-         "pubDate" : "Thu, 20 Feb 2025 22:15:00",
-         "title" : "Monaco GP: Kosteniuk and Goryachkina score"
       },
       {
          "description" : "",
@@ -192,14 +192,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-seniot-teams-chess-championships-2025/",
          "pubDate" : "Thu, 20 Feb 2025 09:13:20",
          "title" : "World Senior Team Chess Championships 2025"
-      },
-      {
-         "description" : "Chess is an international game, and players of different cultures and backgrounds may be following diverse norms. Something that is highly valued in one culture might be viewed differently in another. So here is a question: does chess need a dress code? Magnus Carlsen was fined during the 2024 World Rapid & Blitz Chess Championship in New York for wearing jeans, and GM Zhu Jiner for wearing white laceless winter boots. Here's International Arbiter Shohreh Bayat's take on the subject.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-dress-code-dilemma",
-         "pubDate" : "Thu, 20 Feb 2025 07:25:48",
-         "title" : "The Dress Code Dilemma"
       },
       {
          "description" : "After four matches in Prague, the US Chess-sponsored USA team is a full point behind the leading teams from Italy and Kazakhstan after surrendering two draws. The US Chess-sponsored USA Women's team improved to 2&frac12;/4 after its win earlier today. Both teams are competing in the 50+ section. The fifth round of the nine-round event begins Friday, February 21, at 8:00 a.m. CST with playing resuming on Sunday, February 23, at the same time. More information about the USA teams can be found in our preview, and full regulations are available here. USA Women Strong After FourWith only the top ten matches being broadcast on DGT boards, we unfortunately have not been able to follow the games of ",
@@ -688,14 +680,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/02/12/24-years-for-the-chess-drum/",
          "pubDate" : "Wed, 12 Feb 2025 15:59:00",
          "title" : "24 years for The Chess Drum!"
-      },
-      {
-         "description" : "GMs Vincent Keymer and Fabiano Caruana won two grueling matches and advance to the 2025 Weissenhaus Freestyle Chess Grand Slam Final. In the shorter match, Keymer ended GM Magnus Carlsen&#39;s hopes of earning the $200,000 first prize by drawing game ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-6",
-         "pubDate" : "Wed, 12 Feb 2025 11:54:00",
-         "title" : "Keymer Defeats Carlsen, Caruana Wins Marathon Vs. Sindarov"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118164392.cms\" />Freestyle Chess, created by German entrepreneur Jan Henric Buettner and endorsed by Magnus Carlsen, introduces excitement into chess with randomised starting positions and faster gameplay. The tournament has quickly gained traction among top players worldwide, offering a Grand Slam-style point system and open qualifiers. Carlsen's vision aims to revolutionize and popularize the game globally.",
@@ -1200,22 +1184,6 @@ news_feed (
          "link" : "https://www.europechess.org/celebrating-40-years-of-excellence-the-founding-of-the-european-chess-union/",
          "pubDate" : "Sat, 01 Feb 2025 10:22:59",
          "title" : "Celebrating 40 Years of Excellence: The Founding of the European Chess Union"
-      },
-      {
-         "description" : "World champion D Gukesh climbed to world no. 3 in the live rankings, and has a 0.5 lead with two rounds to go.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43644937/r-praggnanandhaa-stuns-fabiano-caruana-close-leader-d-gukesh-round-11-tata-steel-chess-2025?device=featurephone",
-         "pubDate" : "Sat, 1 Feb 2025 00:27:17",
-         "title" : "Pragg stuns Caruana to close up on leader Gukesh: Round 11 of Tata Steel Chess"
-      },
-      {
-         "description" : " The Tata Steel Masters heads into the final two rounds with three players in contention for first place. Gukesh's draw took him to 8/11 and a win for Praggnanandhaa put him right back in it on 7.5 points. Nodirbek Abdusattorov let a win escape against Vincent Keymer but stays very much in contention on 7.5 points as well. The leaders now all face players in the bottom half of the field, one of those players is however Arjun Erigaisi who faces two of them and may try to salvage something from an otherwise terrible event by winning these key games. World Champion Gukesh was held to a draw by Wei Yi. The Chinese player felt he was under pressure for much of the game although the engines didn't",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/gukesh-leads-the-tata-steel-masters-on-811-half-a-point-clear-of-praggnanandhaa-and-abdusattorov",
-         "pubDate" : "Fri, 31 Jan 2025 21:57:00",
-         "title" : "Gukesh leads the Tata Steel Masters on 8/11 half a point clear of Praggnanandhaa and Abdusattorov - 11"
       }
    ]
 }
