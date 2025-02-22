@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 15 February, Sportstar premiered the Sportstar Aces Awards 2025 on their YouTube channel. Divya Deshmukh received the award for sportswoman of the year (non-Olympic). She won the World Junior Girls Championship 2024 and achieved a double gold (individual and team) at the Chess Olympiad. The Indian Men and Women's teams received the National Team of the Year award for winning historic gold medals at the Chess Olympiad held in Budapest, Hungary. | Photos: Sportstar",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indian-chess-teams-win-sportstar-aces-awards-2025",
+         "pubDate" : "Sat, 22 Feb 2025 20:00:00",
+         "title" : "Indian chess teams win Sportstar Aces Awards 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3431",
+         "pubDate" : "Sat, 22 Feb 2025 19:48:49",
+         "title" : "Midway through FIDE WGP Monaco: All draws in Round 5"
+      },
+      {
          "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
