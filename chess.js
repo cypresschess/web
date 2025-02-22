@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three consecutive British Championship titles for David Hodge: 2023, 2024, and now 2025.&#160; The title is for chess solving.&#160; The Winton British Chess Solving Championship is held annually this...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-chess-solving-david-does-the-treble/",
+         "pubDate" : "Sat, 22 Feb 2025 09:56:03",
+         "title" : "Winton Chess Solving - David Does The Treble!"
+      },
+      {
          "description" : "Magnus Carlsen emerged victorious in the Chessable Masters Grand Final, defeating Hikaru Nakamura 2&frac12;-1&frac12; to claim the title. The Norwegian had already beaten Nakamura in the winners' bracket final and repeated his success with a strong performance. Nakamura missed a key opportunity in game two, and despite needing a win in the fourth game, he could not break Carlsen's resilience. With this result, Carlsen, Nakamura and Ian Nepomniachtchi secured their spots in the Esports World Cup, set for late July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/smart-training/",
          "pubDate" : "Sat, 01 Feb 2025 14:00:00",
          "title" : "From 5K to 18K: How Smart Training Transforms Running-and Chess"
-      },
-      {
-         "description" : "As we embark on the 40th anniversary of the European Chess Union (ECU), we reflect on the remarkable journey that began in 1985. Founded with a vision to unify and elevate European chess, the ECU has grown into a pivotal organization, representing 54 National Federation Members and orchestrating over 20 prestigious events annually. The Visionary Founding:&#160;In the mid-1980s, a group of visionary chess enthusiasts recognized the need for a unified body to represent European chess federations. Among these pioneers were []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/celebrating-40-years-of-excellence-the-founding-of-the-european-chess-union/",
-         "pubDate" : "Sat, 01 Feb 2025 10:22:59",
-         "title" : "Celebrating 40 Years of Excellence: The Founding of the European Chess Union"
       }
    ]
 }
