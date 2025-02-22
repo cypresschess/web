@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
+         "pubDate" : "Sat, 22 Feb 2025 14:45:00",
+         "title" : "Women's Grand Prix Monaco: Live"
+      },
+      {
+         "description" : "Imagine your roof is leaking, and water is pouring in, damaging your home. What do you do? Most would follow this simple process: That makes sense, right? Now, imagine a friend says: \"I have a leaking roof. I know where it's coming from. I tried fixing it, but I gave up. Now, I simply live []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/leak/",
+         "pubDate" : "Sat, 22 Feb 2025 14:00:00",
+         "title" : "Stop Accepting Your Blunders"
+      },
+      {
+         "description" : "What is now dignified by the hopeful euphemism of Freestyle chess was popularised by that quintessential demon, Heresiarch and obliterator of his fans' expectations and desecrator of their loyalty, Bobby Fischer. In my opinion, players being permitted to arrange their pieces at random at the start of the game represents a feeble echo of the harmony, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/freestyle-chess-bobby-fischers-poisoned-chalice/",
+         "pubDate" : "Sat, 22 Feb 2025 12:56:48",
+         "title" : "Freestyle chess: Bobby Fischer's poisoned chalice"
+      },
+      {
          "description" : "Three consecutive British Championship titles for David Hodge: 2023, 2024, and now 2025.&#160; The title is for chess solving.&#160; The Winton British Chess Solving Championship is held annually this...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -10,52 +34,12 @@ news_feed (
          "title" : "Winton Chess Solving - David Does The Treble!"
       },
       {
-         "description" : "Magnus Carlsen emerged victorious in the Chessable Masters Grand Final, defeating Hikaru Nakamura 2&frac12;-1&frac12; to claim the title. The Norwegian had already beaten Nakamura in the winners' bracket final and repeated his success with a strong performance. Nakamura missed a key opportunity in game two, and despite needing a win in the fourth game, he could not break Carlsen's resilience. With this result, Carlsen, Nakamura and Ian Nepomniachtchi secured their spots in the Esports World Cup, set for late July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-ko-4",
-         "pubDate" : "Sat, 22 Feb 2025 01:30:00",
-         "title" : "Carlsen beats Nakamura convincingly, wins Chessable Masters"
-      },
-      {
-         "description" : "The Djerba Chess Festival's Masters section brings together top grandmasters from around the world for a highly competitive tournament on the island of Djerba, a.k.a. the Island of Dreams. Vetted GMs such as Vasyl Ivanchuk, David Navara and Parham Maghsoodloo compete alongside rising talents like Volodar Murzin and current tournament leader Marc'Andria Maurizzi. The event, enriched by Tunisian culture and hospitality, also welcomed the country's Minister for Tourism. | All photos: Diana Mihajlova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/djerba-festival-2025-r7",
-         "pubDate" : "Fri, 21 Feb 2025 22:20:00",
-         "title" : "Djerba 'the sweet' welcomes chess festival's fifth edition"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3430",
          "pubDate" : "Fri, 21 Feb 2025 20:55:03",
          "title" : "FIDE WGP Monaco Round 4: Kateryna Lagno takes the lead with a spectacular victory"
-      },
-      {
-         "description" : "Some chess players are remembered mainly for their spectacular defeats. One of them is the Chilean champion Ren&eacute; Letelier, who lost a game to Bobby Fischer at the 1960 Chess Olympiad in Leipzig that went down in chess history. But Letelier also had many successes during his career. FIDE awarded him the IM title in 1960, he played for Chile in seven Chess Olympiads and was Chilean Champion five times. And in the course of his long career he played a number of remarkable games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-short-tribute-to-ren-letelier-21-february-1915-2-july-2006",
-         "pubDate" : "Fri, 21 Feb 2025 19:00:00",
-         "title" : "A short tribute to Ren&eacute; Letelier (21 February 1915 - 2 July 2006)"
-      },
-      {
-         "description" : "This week Magnus Carlsen was a guest of Joe Rogan, host of the very popular podcast \"The Joe Rogan Experience\". In a two hour interview Carlsen talked about the beginning of his chess career, chess engines, Hans Niemann, golf, creativity, how Vishy Anand and Garry Kasparov helped him to a deeper understanding of chess, his continuing passion for the game and the highlights of his career.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-gives-me-joy-and-energy-magnus-carlsen-and-joe-rogan-talk-chess",
-         "pubDate" : "Fri, 21 Feb 2025 16:55:00",
-         "title" : "\"Chess gives me joy and energy\" - Magnus Carlsen and Joe Rogan talk chess"
-      },
-      {
-         "description" : "The 2025 Champions Chess Tour kicks off with the Chessable Masters, featuring a faster 10+0 time control. With only two online events to earn CCT points, the stakes are higher than ever. The knockout stage takes place from Tuesday to Friday, as sixteen players, including Magnus Carlsen and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2025-live",
-         "pubDate" : "Fri, 21 Feb 2025 16:50:00",
-         "title" : "Chessable Masters Grand Final - Live!"
       },
       {
          "description" : " Adisa Banjoko visited Albany State University at the invitation of the school's &#8220;University College,&#8221; an entity supporting first- and second-year students. Banjoki is known to the chess world as the founder of the Hip Hop Chess Federation (HHCF), an organization founded in 2007 with the idea of using chess, martial arts, and hip-hop as avenues to The post <a href=\"https://thechessdrum.net/blog/2025/02/21/albany-state-host-hip-hop-icon-adisa-banjoko/\">Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -72,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-4",
          "pubDate" : "Fri, 21 Feb 2025 14:45:00",
          "title" : "Spectacular Win Gives Lagno Sole Lead"
-      },
-      {
-         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
-         "pubDate" : "Fri, 21 Feb 2025 14:45:00",
-         "title" : "Women's Grand Prix Monaco: Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
@@ -1160,38 +1136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-gukesh-share-the-lead-going-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sat, 1 Feb 2025 21:02:00",
          "title" : "Praggnanandhaa and Gukesh share the lead going into the final round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3406",
-         "pubDate" : "Sat, 01 Feb 2025 16:26:13",
-         "title" : "Queens' Online Chess Festival returns in March for its 5th edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3408",
-         "pubDate" : "Sat, 01 Feb 2025 15:30:18",
-         "title" : "FIDE February 2025 rating list published"
-      },
-      {
-         "description" : "Robert H&uuml;bner, who has died at 76, was widely considered to be the greatest German player since Emanuel Lasker, with three appearances in Candidates matches for the world title. H&uuml;bner's record against world champions was impressive, with wins against Smyslov, Tal, Petrosian, Spassky, Karpov and Kasparov. A key feature of his play was determination. By profession []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-german-genius-robert-hubner/",
-         "pubDate" : "Sat, 01 Feb 2025 14:43:07",
-         "title" : "A German genius: Robert H&uuml;bner"
-      },
-      {
-         "description" : "Two months ago, I could barely jog 5km (~3 miles) without feeling exhausted. Yesterday, I ran 18km-faster than my 5km pace from two months ago. How is this possible? The answer is simple: Smart Training. I'm not a born runner, nor do I have the most sophisticated training plan. There are three key ingredients to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/smart-training/",
-         "pubDate" : "Sat, 01 Feb 2025 14:00:00",
-         "title" : "From 5K to 18K: How Smart Training Transforms Running-and Chess"
       }
    ]
 }
