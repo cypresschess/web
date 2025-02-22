@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen emerged victorious in the Chessable Masters Grand Final, defeating Hikaru Nakamura 2&frac12;-1&frac12; to claim the title. The Norwegian had already beaten Nakamura in the winners' bracket final and repeated his success with a strong performance. Nakamura missed a key opportunity in game two, and despite needing a win in the fourth game, he could not break Carlsen's resilience. With this result, Carlsen, Nakamura and Ian Nepomniachtchi secured their spots in the Esports World Cup, set for late July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2025-ko-4",
+         "pubDate" : "Sat, 22 Feb 2025 01:30:00",
+         "title" : "Carlsen beats Nakamura convincingly, wins Chessable Masters"
+      },
+      {
          "description" : "The Djerba Chess Festival's Masters section brings together top grandmasters from around the world for a highly competitive tournament on the island of Djerba, a.k.a. the Island of Dreams. Vetted GMs such as Vasyl Ivanchuk, David Navara and Parham Maghsoodloo compete alongside rising talents like Volodar Murzin and current tournament leader Marc'Andria Maurizzi. The event, enriched by Tunisian culture and hospitality, also welcomed the country's Minister for Tourism. | All photos: Diana Mihajlova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/djerba-festival-2025-r7",
          "pubDate" : "Fri, 21 Feb 2025 22:20:00",
-         "title" : "Djerba 'the sweet' welcomes chess festival's sixth edition"
+         "title" : "Djerba 'the sweet' welcomes chess festival's fifth edition"
       },
       {
          "description" : "",
@@ -50,11 +58,11 @@ news_feed (
          "title" : "Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko"
       },
       {
-         "description" : "GM Kateryna Lagno said &#34;it&#38;rsquo;s been a long time since I played such a beautiful game&#34; after defeating GM Elisabeth Paehtz to take the sole lead in the 2025 Monaco FIDE Women&#39;s Grand Prix on 3/4. The remaining games were drawn, with GM Aleksand...",
+         "description" : "GM Kateryna Lagno said, &#34;It&#38;rsquo;s been a long time since I played such a beautiful game&#34; after defeating GM Elisabeth Paehtz to take the sole lead in the 2025 Monaco FIDE Women&#39;s Grand Prix on 3/4. The remaining games were drawn, with GM Aleksan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-4",
-         "pubDate" : "Fri, 21 Feb 2025 14:45:11",
+         "pubDate" : "Fri, 21 Feb 2025 14:45:00",
          "title" : "Spectacular Win Gives Lagno Sole Lead"
       },
       {
