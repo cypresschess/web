@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2025-02-21","26","<a href=http://www.uschess.org/msa/XtblMain.php?202502215272 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-02-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202502215262 target='_blank'>FBCC 2025 RANDOM ACTS OF KINDNESS W</a>",
 "HOUSTON","2025-02-16","8","<a href=http://www.uschess.org/msa/XtblMain.php?202502163882 target='_blank'>QUICK CHESS SUNDAY SWISS (G/15)</a>",
 "HOUSTON","2025-02-15","4","<a href=http://www.uschess.org/msa/XtblMain.php?202502153872 target='_blank'>FEB 15  SATURDAY SWISS AT NOON</a>",
 "HOUSTON","2025-02-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202502151432 target='_blank'>CHESSPANDA02152025SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2024-06-28","8","<a href=http://www.uschess.org/msa/XtblMain.php?202406286722 target='_blank'>FBCC INTERNATIONAL CAPSLOCK DAY OPEN</a>",
 "HOUSTON","2024-06-27","29","<a href=http://www.uschess.org/msa/XtblMain.php?202406276162 target='_blank'>SHADOW CREEK SPORTS THURSDAY</a>",
 "HOUSTON","2024-06-26","26","<a href=http://www.uschess.org/msa/XtblMain.php?202406265592 target='_blank'>SHADOW CREEK SPORTS WEDNESDAY</a>",
-"HOUSTON","2024-06-04  - 06-25","32","<a href=http://www.uschess.org/msa/XtblMain.php?202406255032 target='_blank'>JUNE 2024 TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2024-06-25","29","<a href=http://www.uschess.org/msa/XtblMain.php?202406254922 target='_blank'>SHADOW CREEK SPORTS TUESDAY</a>",
 ]);
