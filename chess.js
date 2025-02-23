@@ -1128,14 +1128,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43664114/praggnanandhaa-wins-tata-steel-chess-masters-tie-breakers-gukesh-loses-first-game-world-champion?device=featurephone",
          "pubDate" : "Sun, 2 Feb 2025 13:43:01",
          "title" : "Praggnanandhaa wins Tata Steel Chess Masters in tie-breakers as Gukesh loses first game as world champion"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu won the 2025 Tata Steel Masters after beating world champion Gukesh Dommaraju in a blitz tiebreaker. The two Indian stars entered the final round tied for first place and, notably, both lost their classical games on Sunday. Pragg then won the blitz tiebreaker by a 2-1 score after Gukesh misplayed a knight endgame in the third encounter. Meanwhile, Czech GM Thai Dai Van Nguyen won the Challengers, as he had a better tiebreak score than Aydin Suleymanli, who finished tied for first in the single round-robin. | Replay all the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
-         "pubDate" : "Sun, 02 Feb 2025 11:45:00",
-         "title" : "Tata Steel Chess - Pragg takes the title in thrilling tiebreaker"
       }
    ]
 }
