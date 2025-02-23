@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you've only been using ChessBase for a short time and want to benefit from as many of its unique functions as possible, our series offers you valuable, short and easy-to-digest tips for a successful start with ChessBase 18. In the third part of our new tutorial series, we show you how easily and conveniently you can insert variations from the engine analysis and the references into the notation (see the first two tutorial episodes) with ChessBase 18.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-3-insert-variations-from-references-and-engines",
+         "pubDate" : "Sun, 23 Feb 2025 14:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 3: Insert variations from references and engines"
+      },
+      {
          "description" : "On 15 February, Sportstar premiered the Sportstar Aces Awards 2025 on their YouTube channel. Divya Deshmukh received the award for sportswoman of the year (non-Olympic). She won the World Junior Girls Championship 2024 and achieved a double gold (individual and team) at the Chess Olympiad. The Indian Men and Women's teams received the National Team of the Year award for winning historic gold medals at the Chess Olympiad held in Budapest, Hungary. | Photos: Sportstar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1112,22 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3410",
          "pubDate" : "Sun, 02 Feb 2025 18:40:07",
          "title" : "Praggnanandhaa R wins Tata Steel Masters 2025"
-      },
-      {
-         "description" : "Several months ago, in <A HREF=\"https://chessforallages.blogspot.com/2024/07/incarcerated-self-taught-and-legally.html\">Incarcerated, Self-taught, and Legally Blind</A> (July 2024), I wrote, <BLOCKQUOTE> When there are several choices on the short list for a new month's edition of <I>Top eBay Chess Items by Price</I> (March 2010), I almost always go for any artwork. </BLOCKQUOTE> <P> Here's that link again -- <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) -- and here's another example of artwork, one of two I had on the short list. The item pictured below was titled 'Nicoletta Ceccoli Limited Edition Pr",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/a-sammarinese-artist.html",
-         "pubDate" : "Sun, 02 Feb 2025 16:19:00",
-         "title" : "A Sammarinese Artist"
-      },
-      {
-         "description" : "After losses in Round 13, D Gukesh and R Praggnanandhaa played out a tie-breaker in the 2025 Tata Steel Chess Masters, with the former coming good in sudden-death to win.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43664114/praggnanandhaa-wins-tata-steel-chess-masters-tie-breakers-gukesh-loses-first-game-world-champion?device=featurephone",
-         "pubDate" : "Sun, 2 Feb 2025 13:43:01",
-         "title" : "Praggnanandhaa wins Tata Steel Chess Masters in tie-breakers as Gukesh loses first game as world champion"
       }
    ]
 }
