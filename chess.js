@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "French Grandmaster Marc'Andria Maurizzi delivered a commanding performance to win the Djerba Masters, a 10-player single round-robin held on the paradisiac Tunisian island. The 17-year-old secured first place with a round to spare and finished with an impressive 7&frac12;/9 score. Belgian GM Daniel Dardha claimed second place as the only other undefeated player, while Parham Maghsoodloo and Volodar Murzin shared third. | Photos: Djerba Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/djerba-festival-2025-r9",
+         "pubDate" : "Sun, 23 Feb 2025 19:00:00",
+         "title" : "Maurizzi dominates Djerba Masters, scores 7&frac12; out of 9"
+      },
+      {
+         "description" : "As the Monaco Women's Grand Prix reached its rest day, all five games in round five ended in draws, leaving Kateryna Lagno in the sole lead. Three players - Humpy Koneru, Sara Khadem and Batkhuyag Munguntuul - remain just half a point behind. Lagno held a solid draw with black, while both Humpy and Elisabeth Paehtz (pictured) missed opportunities to convert promising positions. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-5",
+         "pubDate" : "Sun, 23 Feb 2025 17:20:00",
+         "title" : "Monaco GP: Five draws, Humpy and Paehtz get promising positions"
+      },
+      {
          "description" : "If you've only been using ChessBase for a short time and want to benefit from as many of its unique functions as possible, our series offers you valuable, short and easy-to-digest tips for a successful start with ChessBase 18. In the third part of our new tutorial series, we show you how easily and conveniently you can insert variations from the engine analysis and the references into the notation (see the first two tutorial episodes) with ChessBase 18.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-22-2025",
          "pubDate" : "Sat, 22 Feb 2025 16:59:00",
          "title" : "Nakamura Wins 36th Title In 'Back To Work' Brawl"
-      },
-      {
-         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
-         "pubDate" : "Sat, 22 Feb 2025 14:45:00",
-         "title" : "Women's Grand Prix Monaco: Live"
       },
       {
          "description" : "GM Kateryna Lagno continues to lead the 2025 Monaco FIDE Women&#39;s Grand Prix before the rest day after all games were drawn in round five. GM Koneru Humpy let a big chance slip in a long game against GM Tan Zhongyi, while GM Aleksandra Goryachkina ...",
@@ -1104,22 +1112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-wins-the-tata-steel-masters-after-hugely-dramatic-final-round-and-then-a-tie-break-match",
          "pubDate" : "Sun, 2 Feb 2025 21:52:00",
          "title" : "Praggnanandhaa wins the Tata Steel Masters after hugely dramatic final round and then a tie-break match - 13"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3407",
-         "pubDate" : "Sun, 02 Feb 2025 18:54:31",
-         "title" : "Call for Submissions: FIDE Veteran Support Program 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3410",
-         "pubDate" : "Sun, 02 Feb 2025 18:40:07",
-         "title" : "Praggnanandhaa R wins Tata Steel Masters 2025"
       }
    ]
 }
