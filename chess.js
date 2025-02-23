@@ -18,6 +18,14 @@ news_feed (
          "title" : "Midway through FIDE WGP Monaco: All draws in Round 5"
       },
       {
+         "description" : "Following an eventful fortnight, GM Hikaru Nakamura returned to the Bullet Brawl&#38;nbsp;to capture his 36th title and the $400 first prize, scoring 65/74 and finishing with a score of 232 ahead of 228 other titled players. The event was headlined ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-22-2025",
+         "pubDate" : "Sat, 22 Feb 2025 16:59:00",
+         "title" : "Nakamura Wins 36th Title In 'Back To Work' Brawl"
+      },
+      {
          "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-anichess-creator-challenge",
          "pubDate" : "Thu, 13 Feb 2025 09:09:17",
          "title" : "Announcing The Anichess Creator Challenge"
-      },
-      {
-         "description" : "GM Vincent Keymer has taken the lead in the 2025 Weissenhaus Freestyle Chess Grand Slam Final after winning game one against GM Fabiano Caruana. He is a draw away from winning the $200,000 prize on Friday.&#38;nbsp;In the match for third place, GM&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-weissenhaus-day-7",
-         "pubDate" : "Thu, 13 Feb 2025 08:41:00",
-         "title" : "Keymer Leads Vs. Caruana In Final; Carlsen, Nakamura Also Win"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118203012.cms\" />Vincent Keymer defeated world number one Magnus Carlsen to reach the Weissenhaus Freestyle Grand Slam final, where he will face Fabiano Caruana. Caruana won his semifinal against Javokhir Sindarov in an intense match that concluded after 7.5 hours of play.",
