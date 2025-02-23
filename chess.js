@@ -26,6 +26,14 @@ news_feed (
          "title" : "Women's Grand Prix Monaco: Live"
       },
       {
+         "description" : "GM Kateryna Lagno continues to lead the 2025 Monaco FIDE Women&#39;s Grand Prix before the rest day after all games were drawn in round five. GM Koneru Humpy let a big chance slip in a long game against GM Tan Zhongyi, while GM Aleksandra Goryachkina ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-5",
+         "pubDate" : "Sat, 22 Feb 2025 14:39:00",
+         "title" : "Humpy Lets Tan Zhongyi Escape; Lagno Leads Monaco Grand Prix"
+      },
+      {
          "description" : "Imagine your roof is leaking, and water is pouring in, damaging your home. What do you do? Most would follow this simple process: That makes sense, right? Now, imagine a friend says: \"I have a leaking roof. I know where it's coming from. I tried fixing it, but I gave up. Now, I simply live []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -658,14 +666,6 @@ news_feed (
          "title" : "Keymer Leads Vs. Caruana In Final; Carlsen, Nakamura Also Win"
       },
       {
-         "description" : "The 17th World Champion Ding Liren has signed with Chinese esports organization LGD Gaming, revealing for Chess.com that he intends to return to chess in 2025. The 32-year-old is the latest star to sign with an esports team ahead of the Esports ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-liren-returns-to-chess-signs-for-lgd-gaming-less-busy-year",
-         "pubDate" : "Thu, 13 Feb 2025 05:49:57",
-         "title" : "Ding Liren Signs With Chinese Esports Team, Reveals Return To Chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118203012.cms\" />Vincent Keymer defeated world number one Magnus Carlsen to reach the Weissenhaus Freestyle Grand Slam final, where he will face Fabiano Caruana. Caruana won his semifinal against Javokhir Sindarov in an intense match that concluded after 7.5 hours of play.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1136,22 +1136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2025-live",
          "pubDate" : "Sun, 02 Feb 2025 11:45:00",
          "title" : "Tata Steel Chess - Pragg takes the title in thrilling tiebreaker"
-      },
-      {
-         "description" : "Ahead of Sunday's final round, R Praggnanandhaa joins world champion D Gukesh atop the Tata Steel Masters standings",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43657332/tata-steel-chess-praggnanandhaa-joins-gukesh-lead-round-12-arjun-beats-abdusattorov?device=featurephone",
-         "pubDate" : "Sat, 1 Feb 2025 21:36:31",
-         "title" : "Tata Steel Chess: Praggnanandhaa joins Gukesh in lead after round 12; Arjun beats Abdusattorov"
-      },
-      {
-         "description" : " The twelfth round of the Tata Steel Masters saw the top three all involved in dramatic games. At the end of the day Praggnanandhaa and Gukesh share the lead on 8.5/12 and Nodirbek Abdusattorov is now on 7.5 points after losing. If they are tied tomorrow there will be a blitz tie-break match after the round. First of all Praggnanandhaa won a short game against Alexey Sarana whose solid undefeated start is a distant memory after his third loss in a row. Praggnanandhaa found a clever idea in the Queen's Gambit that led to opposite sides castling and a nasty position for Sarana. Praggnanandhaa broke through with a knight sacrifice and Sarana allowed him to finish with a Queen sacrifice. Gukesh ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-and-gukesh-share-the-lead-going-into-the-final-round-of-the-tata-steel-masters",
-         "pubDate" : "Sat, 1 Feb 2025 21:02:00",
-         "title" : "Praggnanandhaa and Gukesh share the lead going into the final round of the Tata Steel Masters - 12"
       }
    ]
 }
