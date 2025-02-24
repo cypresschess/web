@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Harshit Raja is a talented chess player with a deep understanding of the game, and in this interview, he reveals the dedication and mindset that helped him reach the Grandmaster level. The Indian GM was also a valuable commentator for the ChessBase India broadcast of the Freestyle event in Weissenhaus 2025.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harshit-raja-interview",
+         "pubDate" : "Mon, 24 Feb 2025 15:55:40",
+         "title" : "Harshit Raja - Interview"
+      },
+      {
+         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
+         "pubDate" : "Mon, 24 Feb 2025 14:45:00",
+         "title" : "Women's Grand Prix Monaco: Live"
+      },
+      {
+         "description" : "The 7th Prague Chess Festival kicks off on Tuesday 25 February. Among the players is Czech grandmaster Thai Dai Van Nguyen, who won the Challengers Tournament in Wijk aan Zee in January. He is ranked ninth in the Masters, but last year he finished just half a point behind the winner, Nodirbek Abdusattorov, in joint second to fourth place. In a short interview published on the festival website, he talked about his expectations for this year's tournament and revealed which game he is particularly looking forward to. | Photo: Thai Dai Van Nguyen in Wijk 2025 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-2025-an-interview-with-thai-dai-van-nguyen",
+         "pubDate" : "Mon, 24 Feb 2025 13:35:35",
+         "title" : "Prague Chess Festival 2025 - An interview with Thai Dai Van Nguyen"
+      },
+      {
          "description" : " The Djerba Chess Festival took place 16th to 23rd February 2025. Marc'Andria Maurizzi ran away with the masters event scoring 7.5/9 a point and a half clear of Daniel Dardha. The open was won by Paul Velten on tie-break from Bator Sambuev, they too scored 7.5/9. Daniel Dardha edged out 11 year old Faustino Oro (who finished last in the masters) on tie-break in the blitz after both scored 8/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1096,22 +1120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/puzzles-for-you-to-solve",
          "pubDate" : "Tue, 04 Feb 2025 07:20:33",
          "title" : "Puzzles for you to solve"
-      },
-      {
-         "description" : "One of the insights from my recent explorations into AI Comics was that people's likenesses are best rendered using the '3D Render' style. Consider the images produced for the recent post <A HREF=\"https://chessforallages.blogspot.com/2025/01/color-proteins.html\">Color the Proteins</A> (January 2025; 'Demis Hassabis plays chess ...'). <P> Another insight was that AI Comics are perfectly happy to create images of inanimate objects playing chess. Consider the following images inspired by the world of economics and finance. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb03.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Kenneth Rogoff plays chess with money.'</B><BR> <A HREF=\"https://aicomi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/playing-chess-with-money.html",
-         "pubDate" : "Mon, 03 Feb 2025 16:03:00",
-         "title" : "Playing Chess with Money"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3409",
-         "pubDate" : "Mon, 03 Feb 2025 16:02:49",
-         "title" : "Freestyle Chess Tour removes \"World Championship\" claim from regulations"
       }
    ]
 }
