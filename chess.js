@@ -18,6 +18,14 @@ news_feed (
          "title" : "Monaco GP: Five draws, Humpy and Paehtz get promising positions"
       },
       {
+         "description" : "Young French GM Marc&#39;Andria Maurizzi delivered a masterlass at the Djerba Chess Festival, producing one of the most stunning tournament performance of 2025 so far. The 17-year-old grandmaster was seeded only ninth in the 10-player round-robin th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maurizzi-dominates-with-spectacular-2900-performance-in-djerba",
+         "pubDate" : "Sun, 23 Feb 2025 15:17:00",
+         "title" : "17-Year-Old Maurizzi Dominates In Djerba With Spectacular 2900 Performance"
+      },
+      {
          "description" : "If you've only been using ChessBase for a short time and want to benefit from as many of its unique functions as possible, our series offers you valuable, short and easy-to-digest tips for a successful start with ChessBase 18. In the third part of our new tutorial series, we show you how easily and conveniently you can insert variations from the engine analysis and the references into the notation (see the first two tutorial episodes) with ChessBase 18.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -674,14 +682,6 @@ news_feed (
          "title" : "Levan Pantsulaia and Nana Dzagnidze win 2025 Georgian Championship"
       },
       {
-         "description" : "The Anichess Creator Challenge&#38;nbsp;is a side event taking place alongside the Anichess x Chess.com Tournament, pitting content creators against each other on the Anichess platform. The event will be played asynchronously from February 13 at 11 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-anichess-creator-challenge",
-         "pubDate" : "Thu, 13 Feb 2025 09:09:17",
-         "title" : "Announcing The Anichess Creator Challenge"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118203012.cms\" />Vincent Keymer defeated world number one Magnus Carlsen to reach the Weissenhaus Freestyle Grand Slam final, where he will face Fabiano Caruana. Caruana won his semifinal against Javokhir Sindarov in an intense match that concluded after 7.5 hours of play.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1104,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3409",
          "pubDate" : "Mon, 03 Feb 2025 16:02:49",
          "title" : "Freestyle Chess Tour removes \"World Championship\" claim from regulations"
-      },
-      {
-         "description" : " Praggnanandhaa won the 87th Tata Steel Chess tournament for his most impressive result of his career so far. The path to victory was not at all smooth and he had to show great determination on the final day. Praggnanandhaa shared the lead with World Champion Gukesh and I don't think anyone predicted both players would go down to a defeat. Gukesh was well beaten by a resurgent Arjun Erigaisi who said his confidence returned after beating Nodirbek Abdusattorov in Round 12. The game was a Petroff with opposite sides castling, Erigaisi always seemed at least equal, there was a weird exchange sacrifice which was supposed to be a bit better for Gukesh but after that it was all one way traffic and",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/87th-tata-steel-2025/praggnanandhaa-wins-the-tata-steel-masters-after-hugely-dramatic-final-round-and-then-a-tie-break-match",
-         "pubDate" : "Sun, 2 Feb 2025 21:52:00",
-         "title" : "Praggnanandhaa wins the Tata Steel Masters after hugely dramatic final round and then a tie-break match - 13"
       }
    ]
 }
