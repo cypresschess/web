@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Djerba Chess Festival took place 16th to 23rd February 2025. Marc'Andria Maurizzi ran away with the masters event scoring 7.5/9 a point and a half clear of Daniel Dardha. The open was won by Paul Velten on tie-break from Bator Sambuev, they too scored 7.5/9. Daniel Dardha edged out 11 year old Faustino Oro (who finished last in the masters) on tie-break in the blitz after both scored 8/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/djerba-chess-festival-2025",
+         "pubDate" : "Mon, 24 Feb 2025 12:23:00",
+         "title" : "Djerba Chess Festival 2025 - Games and Results"
+      },
+      {
+         "description" : "A trapped piece is a piece that has no escape squares or squares where it can safely move without being captured. A trapped piece can be a bishop or a knight, but also 'heavier' pieces such as a rook or a queen can be ensnared. Even the king can be put into a position where it no way to move around. In the first part of his article GM Efstratios Grivas deals with a trapped king and trapped queens.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-trapping-a-piece",
+         "pubDate" : "Mon, 24 Feb 2025 12:04:42",
+         "title" : "Grivas on Trapping a Piece"
+      },
+      {
          "description" : "French Grandmaster Marc'Andria Maurizzi delivered a commanding performance to win the Djerba Masters, a 10-player single round-robin held on the paradisiac Tunisian island. The 17-year-old secured first place with a round to spare and finished with an impressive 7&frac12;/9 score. Belgian GM Daniel Dardha claimed second place as the only other undefeated player, while Parham Maghsoodloo and Volodar Murzin shared third. | Photos: Djerba Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,6 +258,14 @@ news_feed (
          "title" : "World Senior Team Chess Championships 2025"
       },
       {
+         "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/forthcoming-ecf-events-announcement/",
+         "pubDate" : "Thu, 20 Feb 2025 09:00:22",
+         "title" : "Forthcoming ECF events announcement"
+      },
+      {
          "description" : "After four matches in Prague, the US Chess-sponsored USA team is a full point behind the leading teams from Italy and Kazakhstan after surrendering two draws. The US Chess-sponsored USA Women's team improved to 2&frac12;/4 after its win earlier today. Both teams are competing in the 50+ section. The fifth round of the nine-round event begins Friday, February 21, at 8:00 a.m. CST with playing resuming on Sunday, February 23, at the same time. More information about the USA teams can be found in our preview, and full regulations are available here. USA Women Strong After FourWith only the top ten matches being broadcast on DGT boards, we unfortunately have not been able to follow the games of ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/online-semi-final-nscc-girls-schools-team-championships/",
          "pubDate" : "Wed, 19 Feb 2025 06:00:58",
          "title" : "Online Semi-Final NSCC Girls Schools Team Championships - CANCELLED"
-      },
-      {
-         "description" : " The Djerba Chess Festival takes place 16th to 23rd February 2025.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/djerba-chess-festival-2025",
-         "pubDate" : "Wed, 19 Feb 2025 00:27:00",
-         "title" : "Djerba Chess Festival 2025 - Games and Results"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a staple of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! WGM Tatev Abrahamyan, who is also featured here, has been",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-for-national-under-09-chess-championship-2024-in-maharashtra/",
          "pubDate" : "Tue, 04 Feb 2025 12:02:31",
          "title" : "Certificate for National Under 09 Chess Championship 2024 in Maharashtra"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2025/02/Community-Sport-and-Recreation-Awards.pdf#new_tab",
-         "pubDate" : "Tue, 04 Feb 2025 11:08:24",
-         "title" : "Community Sport and Recreation Awards Youth Edition 2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/117915192.cms\" />Magnus Carlsen has called for the resignation of FIDE President Arkady Dvorkovich, accusing him of coercion and broken promises following FIDE's failed negotiations with the Freestyle Chess Tour. The dispute involves the use of the 'world championship' title and a waiver requirement for players. The Freestyle Tour has postponed using the title to protect players from FIDE's demands.",
