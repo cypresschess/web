@@ -42,6 +42,22 @@ news_feed (
          "title" : "Grivas on Trapping a Piece"
       },
       {
+         "description" : "Have you ever wanted to be a chess world champion?&#38;nbsp;Have you ever dreamed of proving yourself as the best in the chess streaming business? Well now&#38;rsquo;s your chance to fail at both! KICK and Hikaru cordially invite you to participate in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kick-streamers-chess-world-chess-championship-of-chess",
+         "pubDate" : "Mon, 24 Feb 2025 10:34:02",
+         "title" : "KICK Streamers Chess World Chess Championship of Chess"
+      },
+      {
+         "description" : "It was an eventful Presidents Day weekend for a host of norm-seekers in New York, with the 21st NYC Chess Norms event producing its 51st total norm alongside a host of other impressive results. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> IM Josiah Stearman moves closer to the 2500 threshold and the GM title (Photo courtesy of Oscar Garcia)<br> <br> <br> <br> The one GM norm section saw IM Josiah Stearman fall a half-point shy of a GM norm despite winning the tournament with a 6&frac12;/9 score. Stearman likely isn't too disappointed, however, as he already has three GM norms! All that's left is the 2500 FIDE rating, and he netted 13.6 FIDE rating p",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/bryan-lin-earns-first-im-norm-stearman-moves-towards-2500-and-more-nyc-chess-norms",
+         "pubDate" : "Mon, 24 Feb 2025 00:00:00",
+         "title" : "Bryan Lin Earns First IM Norm, Stearman Moves Towards 2500, and More at NYC Chess Norms Invitational"
+      },
+      {
          "description" : "French Grandmaster Marc'Andria Maurizzi delivered a commanding performance to win the Djerba Masters, a 10-player single round-robin held on the paradisiac Tunisian island. The 17-year-old secured first place with a round to spare and finished with an impressive 7&frac12;/9 score. Belgian GM Daniel Dardha claimed second place as the only other undefeated player, while Parham Maghsoodloo and Volodar Murzin shared third. | Photos: Djerba Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "National Team Chess Championship 2024-25 in Ahmedabad ,Gujarat from 05-11 March 2025"
       },
       {
-         "description" : "In a surprising move, GM Hans Niemann has been given a wildcard for the next leg of the 2025 Freestyle Chess Grand Slam in Paris, setting up a likely showdown against GM Magnus Carlsen. The announcement was made in a press release shortly after ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-given-paris-grand-slam-wildcard-set-to-face-carlsen",
-         "pubDate" : "Fri, 14 Feb 2025 03:51:57",
-         "title" : "Niemann Given Surprise Paris Freestyle Wildcard, Set To Face Carlsen"
-      },
-      {
          "description" : " The Freestyle Grand Slam Weissenhaus was the first in a series of events aimed at promoting the chess variant also known as Chess960, 9LX or Fischer Random Chess. The event is financed by German entrepreneur Jan Henric Buettner and backed by former World Chess Champion Magnus Carlsen. The remaining events of the Freestyle Chess Grand Slam Tour are: Paris April 8-15, New York July 17-24 New Delhi September 17-24 and Cape Town December 5-12. The first event of the series took place in a resort owned by Buettner in Wangels, Germany 7th to 14th February 2025. Players: Carlsen, Caruana, Nakamura, Gukesh, Abdusattorov, Firouzja, Aronian, Keymer, Fedoseev and Sindarov. A rapid round robin is follo",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/07/chess-magnus-carlsen-meets-world-champion-gukesh-dommaraju-after-freestyle-truce-called",
          "pubDate" : "Fri, 07 Feb 2025 08:00:40",
          "title" : "Chess: Carlsen meets world champion Gukesh after Freestyle truce called"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Update (February 11, 2025, 3:30 p.m.): The issues has been resolved, and TLA notification emails are once again being sent out.Update (February 10, 2025, 10 a.m.): Email notifications for TLA announcements remain paused as we continue to work on this issue.The Tournament Life Announcement (TLA) system is currently undergoing maintenance as it is being upgraded. This has unfortunately led to some members receiving an increase in TLA notification emails over the past 24 hours. US Chess apologizes for this error, and it is not permanent. We request members be patient and not opt out of receiving TLA notification emails as we ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tla-notification-system-undergoing-maintenance",
-         "pubDate" : "Fri, 07 Feb 2025 00:00:00",
-         "title" : "TLA Notification System Undergoing Maintenance"
       },
       {
          "description" : "A couple of weeks ago, I posted this blog's annual discussion of international ratings, <A HREF=\"https://chessforallages.blogspot.com/2025/01/fide-rating-list-january-2025.html\">FIDE Rating List - January 2025</A> (January 2025). I ended it saying, <BLOCKQUOTE> Last year's only followup post, <I>Players under the FIDE Flag</I> (January 2024), might be worth a revisit because FIDE's (FED = 'FID') percentage increase was the fourth highest [2025 over 2024]. </BLOCKQUOTE> <P> Here are the numbers for FIDE again:- <BLOCKQUOTE> <B>Fed\t\t2024\t2025\tIncr</B><BR> FID\t 798\t1008\t26.32% </BLOCKQUOTE> <P> That means the list had 210 more 'FIDE' players (i.e. listed without a national federation) at the st",
