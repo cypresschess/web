@@ -18,7 +18,7 @@ news_feed (
          "title" : "Monaco GP: Five draws, Humpy and Paehtz get promising positions"
       },
       {
-         "description" : "Young French GM Marc&#39;Andria Maurizzi delivered a masterlass at the Djerba Chess Festival, producing one of the most stunning tournament performance of 2025 so far. The 17-year-old grandmaster was seeded only ninth in the 10-player round-robin th...",
+         "description" : "Young French GM Marc&#39;Andria Maurizzi delivered a masterclass at the Djerba Chess Festival, producing one of the most stunning tournament performances of 2025 so far. The 17-year-old grandmaster was seeded only ninth in the 10-player round-robin ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/maurizzi-dominates-with-spectacular-2900-performance-in-djerba",
@@ -50,7 +50,7 @@ news_feed (
          "title" : "Midway through FIDE WGP Monaco: All draws in Round 5"
       },
       {
-         "description" : "Following an eventful fortnight, GM Hikaru Nakamura returned to the Bullet Brawl&#38;nbsp;to capture his 36th title and the $400 first prize, scoring 65/74 and finishing with a score of 232 ahead of 228 other titled players. The event was headlined ...",
+         "description" : "Following an eventful fortnight, GM Hikaru Nakamura returned to the Bullet Brawl arena to capture his 36th title and the $400 first prize, scoring 65/74 and finishing with a score of 232 ahead of 228 other titled players. The event was headlined...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-22-2025",
@@ -174,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/national-teams-divya-deshmukh-tania-sachdev-honored-indian-awards",
-         "pubDate" : "Fri, 21 Feb 2025 04:17:30",
+         "pubDate" : "Fri, 21 Feb 2025 04:17:00",
          "title" : "National Teams, Divya Deshmukh, Tania Sachdev Honored At Indian Award Ceremonies"
       },
       {
