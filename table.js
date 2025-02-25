@@ -1,6 +1,7 @@
 jtable([
 "HOUSTON","2025-02-22","133","<a href=http://www.uschess.org/msa/XtblMain.php?202502226712 target='_blank'>EASTWOOD ACADEMY CHESS TOURNAMENT</a>",
 "PASADENA","2025-02-22","29","<a href=http://www.uschess.org/msa/XtblMain.php?202502226562 target='_blank'>PISD FEBRUARY 2025</a>",
+"HOUSTON","2025-02-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202502225802 target='_blank'>CHESSPANDA02222025SATURDAY</a>",
 "SPRING","2025-02-21","33","<a href=http://www.uschess.org/msa/XtblMain.php?202502215312 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-02-21","26","<a href=http://www.uschess.org/msa/XtblMain.php?202502215272 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-02-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202502215262 target='_blank'>FBCC 2025 RANDOM ACTS OF KINDNESS W</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-06-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406297122 target='_blank'>SHADOW CREEK SPORTS FRIDAY QUICK</a>",
 "HOUSTON","2024-06-28","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406286872 target='_blank'>SHADOW CREEK SPORTS FRIDAY</a>",
 "CYPRESS","2024-06-28","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406286812 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-06-28","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406286762 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
