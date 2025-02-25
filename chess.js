@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana Demchenko is sharing a game from the Canadian University Chess Championships, where she faced International Master Nicholas Vettese from the University of Toronto. Despite a strong start and some exciting tactical moments, the game ended in a loss. Svitlana walks through key moments, including her opening choices, the decision to play aggressively or defensively, and the importance of managing time and evaluating critical moments. Reflecting on the game, she highlights areas for improvement and emphasizes the valuable lessons learned from this loss.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-analyse-a-game-you-lost",
+         "pubDate" : "Tue, 25 Feb 2025 07:30:22",
+         "title" : "Svitlana's Smart Moves - How to analyse a game you lost"
+      },
+      {
          "description" : "Round six of the Monaco Women's Grand Prix saw two decisive games, as Aleksandra Goryachkina and Tan Zhongyi (pictured) claimed victories to shake up the standings. Sole leader Kateryna Lagno held a quick draw to maintain her lead, while Humpy Koneru and Sara Khadem suffered defeats. Goryachkina's endgame technique allowed her to overcome Humpy, while Khadem faltered in a difficult defensive position against Tan. With three rounds remaining, Goryachkina and Batkhuyag Munguntuul now trail Lagno by just half a point. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3411",
          "pubDate" : "Tue, 04 Feb 2025 08:51:59",
          "title" : "FIDE Circuit 2025: Ding Liren leads as Tata Steel top finishers join the race"
-      },
-      {
-         "description" : "Ready to test your wits, your ability to handle unusual chess problems? We have selected three really challenging examples for you to solve - problems that have come up with some outrageous ideas. See if you can find them, and record the time it takes you to solve them. In a week we will provide you with the full solutions, diligently explained in YouTube videos.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/puzzles-for-you-to-solve",
-         "pubDate" : "Tue, 04 Feb 2025 07:20:33",
-         "title" : "Puzzles for you to solve"
       }
    ]
 }
