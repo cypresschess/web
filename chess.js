@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round six of the Monaco Women's Grand Prix saw two decisive games, as Aleksandra Goryachkina and Tan Zhongyi (pictured) claimed victories to shake up the standings. Sole leader Kateryna Lagno held a quick draw to maintain her lead, while Humpy Koneru and Sara Khadem suffered defeats. Goryachkina's endgame technique allowed her to overcome Humpy, while Khadem faltered in a difficult defensive position against Tan. With three rounds remaining, Goryachkina and Batkhuyag Munguntuul now trail Lagno by just half a point. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-6",
+         "pubDate" : "Tue, 25 Feb 2025 00:20:00",
+         "title" : "Monaco GP: Tan and Goryachkina grab full points"
+      },
+      {
          "description" : "Harshit Raja is a talented chess player with a deep understanding of the game, and in this interview, he reveals the dedication and mindset that helped him reach the Grandmaster level. The Indian GM was also a valuable commentator for the ChessBase India broadcast of the Freestyle event in Weissenhaus 2025.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "Harshit Raja - Interview"
       },
       {
-         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
-         "pubDate" : "Mon, 24 Feb 2025 14:45:00",
-         "title" : "Women's Grand Prix Monaco: Live"
+         "description" : "GM Tan Zhongyi beat IM Sara Khadem in round six to score her first win of the 2025 Monaco FIDE Women&#39;s Grand Prix. The day&#39;s other winner was GM Aleksandra Goryachkina, who exploited a time-trouble mistake by GM Koneru Humpy to move into second pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-6",
+         "pubDate" : "Mon, 24 Feb 2025 15:02:00",
+         "title" : "Goryachkina Climbs To 2nd As Tan Zhongyi Scores 1st Win"
       },
       {
          "description" : "The 7th Prague Chess Festival kicks off on Tuesday 25 February. Among the players is Czech grandmaster Thai Dai Van Nguyen, who won the Challengers Tournament in Wijk aan Zee in January. He is ranked ninth in the Masters, but last year he finished just half a point behind the winner, Nodirbek Abdusattorov, in joint second to fourth place. In a short interview published on the festival website, he talked about his expectations for this year's tournament and revealed which game he is particularly looking forward to. | Photo: Thai Dai Van Nguyen in Wijk 2025 | Photo: Lennart Ootes",
@@ -58,44 +66,12 @@ news_feed (
          "title" : "Bryan Lin Earns First IM Norm, Stearman Moves Towards 2500, and More at NYC Chess Norms Invitational"
       },
       {
-         "description" : "French Grandmaster Marc'Andria Maurizzi delivered a commanding performance to win the Djerba Masters, a 10-player single round-robin held on the paradisiac Tunisian island. The 17-year-old secured first place with a round to spare and finished with an impressive 7&frac12;/9 score. Belgian GM Daniel Dardha claimed second place as the only other undefeated player, while Parham Maghsoodloo and Volodar Murzin shared third. | Photos: Djerba Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/djerba-festival-2025-r9",
-         "pubDate" : "Sun, 23 Feb 2025 19:00:00",
-         "title" : "Maurizzi dominates Djerba Masters, scores 7&frac12; out of 9"
-      },
-      {
-         "description" : "As the Monaco Women's Grand Prix reached its rest day, all five games in round five ended in draws, leaving Kateryna Lagno in the sole lead. Three players - Humpy Koneru, Sara Khadem and Batkhuyag Munguntuul - remain just half a point behind. Lagno held a solid draw with black, while both Humpy and Elisabeth Paehtz (pictured) missed opportunities to convert promising positions. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-5",
-         "pubDate" : "Sun, 23 Feb 2025 17:20:00",
-         "title" : "Monaco GP: Five draws, Humpy and Paehtz get promising positions"
-      },
-      {
          "description" : "Young French GM Marc&#39;Andria Maurizzi delivered a masterclass at the Djerba Chess Festival, producing one of the most stunning tournament performances of 2025 so far. The 17-year-old grandmaster was seeded only ninth in the 10-player round-robin ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/maurizzi-dominates-with-spectacular-2900-performance-in-djerba",
          "pubDate" : "Sun, 23 Feb 2025 15:17:00",
          "title" : "17-Year-Old Maurizzi Dominates In Djerba With Spectacular 2900 Performance"
-      },
-      {
-         "description" : "If you've only been using ChessBase for a short time and want to benefit from as many of its unique functions as possible, our series offers you valuable, short and easy-to-digest tips for a successful start with ChessBase 18. In the third part of our new tutorial series, we show you how easily and conveniently you can insert variations from the engine analysis and the references into the notation (see the first two tutorial episodes) with ChessBase 18.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-3-insert-variations-from-references-and-engines",
-         "pubDate" : "Sun, 23 Feb 2025 14:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 3: Insert variations from references and engines"
-      },
-      {
-         "description" : "On 15 February, Sportstar premiered the Sportstar Aces Awards 2025 on their YouTube channel. Divya Deshmukh received the award for sportswoman of the year (non-Olympic). She won the World Junior Girls Championship 2024 and achieved a double gold (individual and team) at the Chess Olympiad. The Indian Men and Women's teams received the National Team of the Year award for winning historic gold medals at the Chess Olympiad held in Budapest, Hungary. | Photos: Sportstar",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indian-chess-teams-win-sportstar-aces-awards-2025",
-         "pubDate" : "Sat, 22 Feb 2025 20:00:00",
-         "title" : "Indian chess teams win Sportstar Aces Awards 2025"
       },
       {
          "description" : "",
@@ -648,14 +624,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/14/chess-vincent-keymer-knocks-out-magnus-carlsen-in-freestyle-grand-slam",
          "pubDate" : "Fri, 14 Feb 2025 08:00:03",
          "title" : "Chess: Vincent Keymer knocks out Magnus Carlsen in Freestyle Grand Slam"
-      },
-      {
-         "description" : "GM Vincent Keymer won the 2025 Weissenhaus Freestyle Chess Grand Slam, and with it $200,000, after making a draw in his second classical game against GM Fabiano Caruana. Keymer neutralized the latter&#39;s tremendous effort with a pawn sacrifice in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-2025-freestyle-chess-grand-slam-weissenhaus",
-         "pubDate" : "Fri, 14 Feb 2025 07:46:00",
-         "title" : "Undefeated Keymer Wins Weissenhaus Knockout"
       },
       {
          "description" : "Please find the event details here Event Regulation Entry form",
