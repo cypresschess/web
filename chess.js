@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Thu, 27 Feb 2025 15:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
+         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
+         "pubDate" : "Thu, 27 Feb 2025 13:45:00",
+         "title" : "Women's Grand Prix Monaco: Live"
+      },
+      {
          "description" : "Vincent Keymer had a good start at the Masters section of the Chess Festival in Prague: he defeated top seed Wei Yi in Wednesday's first round. The second victory of the day was secured by Sam Shankland, who won against Ediz G&uuml;rel. The three remaining games all ended in draws. There were also two wins and three draws in the Challengers: the two winners were Jonas Buhl Bjerre, who beat Stamatis Kourkoulos-Arditis with black, and Ivan Salgado Lopez, who defeated Divya Deshmukh with white. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-seniot-teams-chess-championships-2025/",
          "pubDate" : "Thu, 27 Feb 2025 08:00:20",
          "title" : "England Over 65s retain World Senior Team Chess Championship title!"
-      },
-      {
-         "description" : "Composer and musician Jason Kouchak draws much of his musical inspiration from his love of chess, which he shares with many friends. Last autumn Kouchak found inspiration for a composition while walking along London's King's Road, and in the New Year he repeated the journey of the Lewis Chessmen - with music and in the opposite direction. | Photos: Julian Paix, unless otherwise indicated",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/swinging-london-autumn-and-the-lewis-chessmen-as-inspiration",
-         "pubDate" : "Thu, 27 Feb 2025 08:00:00",
-         "title" : "Swinging London: Autumn and the Lewis Chessmen as inspiration"
       },
       {
          "description" : "On Wednesday 26th February at 15:00 the first round of the Masters will start at the Prague Chess Festival. The tournament has a strong field, the festival is an event. Reason enough for Johannes Fischer and Arne K&auml;hler to take a look at the tournament in their new episode of 'Two Knights Talk' - they introduce the participants and wonder who will win. They also come up with a tactical task from last year's festival and offer a quiz to test your chess and language skills.",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/07/chess-magnus-carlsen-meets-world-champion-gukesh-dommaraju-after-freestyle-truce-called",
          "pubDate" : "Fri, 07 Feb 2025 08:00:40",
          "title" : "Chess: Carlsen meets world champion Gukesh after Freestyle truce called"
-      },
-      {
-         "description" : "A couple of weeks ago, I posted this blog's annual discussion of international ratings, <A HREF=\"https://chessforallages.blogspot.com/2025/01/fide-rating-list-january-2025.html\">FIDE Rating List - January 2025</A> (January 2025). I ended it saying, <BLOCKQUOTE> Last year's only followup post, <I>Players under the FIDE Flag</I> (January 2024), might be worth a revisit because FIDE's (FED = 'FID') percentage increase was the fourth highest [2025 over 2024]. </BLOCKQUOTE> <P> Here are the numbers for FIDE again:- <BLOCKQUOTE> <B>Fed\t\t2024\t2025\tIncr</B><BR> FID\t 798\t1008\t26.32% </BLOCKQUOTE> <P> That means the list had 210 more 'FIDE' players (i.e. listed without a national federation) at the st",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/new-players-under-fide-flag.html",
-         "pubDate" : "Thu, 06 Feb 2025 16:10:00",
-         "title" : "New Players under the FIDE Flag"
       }
    ]
 }
