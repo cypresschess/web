@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer had a good start at the Masters section of the Chess Festival in Prague: he defeated top seed Wei Yi in Wednesday's first round. The second victory of the day was secured by Sam Shankland, who won against Ediz G&uuml;rel. The three remaining games all ended in draws. There were also two wins and three draws in the Challengers: the two winners were Jonas Buhl Bjerre, who beat Stamatis Kourkoulos-Arditis with black, and Ivan Salgado Lopez, who defeated Divya Deshmukh with white. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-1",
+         "pubDate" : "Thu, 27 Feb 2025 11:50:00",
+         "title" : "Prague R1: Keymer and Shankland start with wins"
+      },
+      {
+         "description" : "Four decisive games in round eight of the Monaco Women's Grand Prix had a major impact on the tournament standings. Kateryna Lagno, the sole leader going into the round, drew her game, allowing Batkhuyag Munguntuul and Aleksandra Goryachkina to catch up after scoring key victories. Tan Zhongyi also won, keeping her title chances alive. With only one round remaining, three players share the lead, while two others remain within striking distance. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-8",
+         "pubDate" : "Thu, 27 Feb 2025 10:25:00",
+         "title" : "Monaco GP: Munguntuul and Goryachkina catch Lagno in the lead"
+      },
+      {
+         "description" : "The England Over 65 team retained their World Senior Team Chess Championship title in Prague today, after securing the final point that left their rivals trailing in their wake. The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-seniot-teams-chess-championships-2025/",
+         "pubDate" : "Thu, 27 Feb 2025 08:00:20",
+         "title" : "England Over 65s retain World Senior Team Chess Championship title!"
+      },
+      {
          "description" : "Composer and musician Jason Kouchak draws much of his musical inspiration from his love of chess, which he shares with many friends. Last autumn Kouchak found inspiration for a composition while walking along London's King's Road, and in the New Year he repeated the journey of the Lewis Chessmen - with music and in the opposite direction. | Photos: Julian Paix, unless otherwise indicated",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,16 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-8",
-         "pubDate" : "Wed, 26 Feb 2025 15:01:04",
+         "pubDate" : "Wed, 26 Feb 2025 15:01:00",
          "title" : "Goryachkina, Munguntuul Catch Lagno As Harika Scores 1st Win"
-      },
-      {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Wed, 26 Feb 2025 14:45:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
          "description" : "GMs Sam Shankland and Vincent Keymer won in the opening round of the 2025 Prague Chess Festival Masters. Shankland&#39;s victory was the second game to end, when one mistake led to a breezy endgame win against GM Ediz Gurel, while Keymer grinded a lon...",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "Carlsen Streams, But Others Win Titled Tuesday"
       },
       {
-         "description" : "World Chess PLC, a global chess company and the operator of ChessArena.com, has announced the launch of The World Chess Show, a dedicated global TV program now airing in 156 markets across 53 networks. The show is the first of its kind - a major sports media property bringing chess to mainstream audiences beyond the chess community. The World Chess press release includes a 23-minute video of the first show. Just sit back and watch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-global-tv-show-for-chess",
-         "pubDate" : "Wed, 26 Feb 2025 07:20:38",
-         "title" : "A global TV show for chess"
-      },
-      {
          "description" : "Author's note: I had the chance to see a sold-out performance of Kevin James Doyle's show After Endgame on February 14 at the SoHo Playhouse in Manhattan. I happened to be in town a few days early before the U.S. Amateur Team North championship (our team, Davis and his Spellcheckers did well!), and Doyle's director Cory Cavin had reached out about opportunities to promote a one-man comedy show about Doyle's own journey as a chess teacher. You can learn more about Doyle and the show in his One Move at a Time interview with Bryan Tillis: Only in New York can you walk down a flight of stairs into a basement bar only to find the tables littered with chess boards, the walls dripping with chess-th",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-6-jacobson-naroditsky",
          "pubDate" : "Wed, 26 Feb 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 6 (Jacobson & Naroditsky)"
-      },
-      {
-         "description" : "Did you know how you can change the style and icon colour with ChessBase 18? There is a 'Style' tab at the top right. Click on it and you can select the dark mode, for example. Just watch the video to see how it works!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-tricks-adjusting-style-icon-colours",
-         "pubDate" : "Tue, 25 Feb 2025 19:05:31",
-         "title" : "ChessBase 18 Tips & Tricks: Adjusting style & icon colours"
       },
       {
          "description" : "IM Sara Khadem suffered every chess player&#39;s worst nightmare in round seven of the 2025 Monaco FIDE Women&#39;s Grand Prix when, after over five hours and 74 moves, she resigned against GM Koneru Humpy&#38;nbsp;in an equal position. Humpy joins GM Aleksan...",
@@ -344,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-3",
          "pubDate" : "Thu, 20 Feb 2025 11:00:00",
          "title" : "Nakamura Earns Rematch Vs. Carlsen In Grand Final"
-      },
-      {
-         "description" : "The 2025 edition of the World Senior Team Chess Championships has just kicked off in the beautiful city of Prague, in the Czech Republic and it runs until 27th February....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-seniot-teams-chess-championships-2025/",
-         "pubDate" : "Thu, 20 Feb 2025 09:13:20",
-         "title" : "World Senior Team Chess Championships 2025"
       },
       {
          "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
@@ -856,14 +848,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/new-players-under-fide-flag.html",
          "pubDate" : "Thu, 06 Feb 2025 16:10:00",
          "title" : "New Players under the FIDE Flag"
-      },
-      {
-         "description" : "The first quarterly meeting of the ECU Executive Board for 2025 took place on 11th January in Monte Carlo, Monaco, during the European Women's Rapid and Blitz Chess Championship. The Monaco federation, known for its great hospitality, organised the tournament and the board meeting in excellent conditions. Main information and decisions European Chess Championships &#38; Tournaments Sponsors and Partnerships",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting/",
-         "pubDate" : "Thu, 06 Feb 2025 09:53:35",
-         "title" : "Communique of the ECU Board Meeting"
       }
    ]
 }
