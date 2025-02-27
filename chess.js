@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Composer and musician Jason Kouchak draws much of his musical inspiration from his love of chess, which he shares with many friends. Last autumn Kouchak found inspiration for a composition while walking along London's King's Road, and in the New Year he repeated the journey of the Lewis Chessmen - with music and in the opposite direction. | Photos: Julian Paix, unless otherwise indicated",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/swinging-london-autumn-and-the-lewis-chessmen-as-inspiration",
+         "pubDate" : "Thu, 27 Feb 2025 08:00:00",
+         "title" : "Swinging London: Autumn and the Lewis Chessmen as inspiration"
+      },
+      {
          "description" : "On Wednesday 26th February at 15:00 the first round of the Masters will start at the Prague Chess Festival. The tournament has a strong field, the festival is an event. Reason enough for Johannes Fischer and Arne K&auml;hler to take a look at the tournament in their new episode of 'Two Knights Talk' - they introduce the participants and wonder who will win. They also come up with a tactical task from last year's festival and offer a quiz to test your chess and language skills.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting/",
          "pubDate" : "Thu, 06 Feb 2025 09:53:35",
          "title" : "Communique of the ECU Board Meeting"
-      },
-      {
-         "description" : "This isn't just another chess tournament though, with a public spat between Carlsen and the promoters of the FCGT with FIDE in the build-up to the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43715967/gukesh-carlsen-freestyle-grand-chess-tour-feud-fide-explained?device=featurephone",
-         "pubDate" : "Thu, 6 Feb 2025 07:44:46",
-         "title" : "Gukesh, Carlsen in Freestyle Grand Chess Tour and feud with FIDE: explained"
       }
    ]
 }
