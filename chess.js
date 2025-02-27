@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 World Senior Team Chess Championship in Prague showcased thrilling battles as veteran players proved their enduring brilliance. In the 50+ category, top-seeded USA edged out Italy on tiebreaks, while Kazakhstan secured bronze. England 1 dominated the 65+ section, claiming gold ahead of Lasker Schachstiftung GK and Saxonia. The women's teams shone, with the Czech Republic and Latvia taking top honours. Across nine rounds, legendary grandmasters proved that chess truly knows no age limits. | Photos: Ave Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2025-final-report",
+         "pubDate" : "Thu, 27 Feb 2025 20:00:00",
+         "title" : "World Senior Team Championships: USA and England crowned champions"
+      },
+      {
+         "description" : " Boris Vasilievich Spassky was born in Leningrad January 30th 1937 and has died in Moscow February 27th 2025 at the age of 88. The former World Chess Champion played two championship matches against Tigran Petrosian, winning the second one in 1969 to become the 10th holder of the title. Spassky lost his only defence against Bobby Fischer in a match in Reykjavik in 1972. This match gave him worldwide fame in the midst of a media frenzy at the height of the Cold War. Spassky was one of the leading players in the world from 1956 until the early 1980s. In 1992 he played Bobby Fischer in a match in Yugoslavia which briefly made both famous again. In September 2010 he had a serious stroke, most of",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/obituaries/boris-spassky",
+         "pubDate" : "Thu, 27 Feb 2025 19:50:00",
+         "title" : "Boris Spassky 1937-2025 - 1937-2025"
+      },
+      {
+         "description" : "The European Chess Union mourns the loss of Boris Vasilievich Spassky, the tenth World Chess Champion, who passed away on February 27, 2025, at the age of 87. A towering figure in chess history, Spassky's legacy spans decades of extraordinary achievements and contributions to the royal game. Born in Leningrad (now St. Petersburg) on January 30, 1937, Spassky rose to prominence as a chess prodigy, becoming the youngest Soviet player to achieve the title of International Master at age 16. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/boris-spassky-1937-2025-chess-world-champion-and-legendary-grandmaster/",
+         "pubDate" : "Thu, 27 Feb 2025 18:59:27",
+         "title" : "Boris Spassky (1937-2025) Chess World Champion and Legendary Grandmaster"
+      },
+      {
+         "description" : "&#160;Report on the 2nd Round Performance of Indian Players in the FIDE World Junior Chess Championship 2025 &#160;Open Category In the Open category, Indian players",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-championship-2025/",
+         "pubDate" : "Thu, 27 Feb 2025 16:37:58",
+         "title" : "World Junior Championship 2025"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
          "pubDate" : "Thu, 27 Feb 2025 13:45:00",
          "title" : "Women's Grand Prix Monaco: Live"
+      },
+      {
+         "description" : "GM Aravindh Chithambaram defeated GM Vincent Keymer and has taken his place in the lead of the 2025 Prague Chess Festival Masters after round two. That was the only decisive game of the round. GM Sam Shankland remains in the lead after drawing wit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-2",
+         "pubDate" : "Thu, 27 Feb 2025 12:20:04",
+         "title" : "Aravindh Beats Keymer, Leads With Shankland"
       },
       {
          "description" : "Vincent Keymer had a good start at the Masters section of the Chess Festival in Prague: he defeated top seed Wei Yi in Wednesday's first round. The second victory of the day was secured by Sam Shankland, who won against Ediz G&uuml;rel. The three remaining games all ended in draws. There were also two wins and three draws in the Challengers: the two winners were Jonas Buhl Bjerre, who beat Stamatis Kourkoulos-Arditis with black, and Ivan Salgado Lopez, who defeated Divya Deshmukh with white. | Photo: Petr Vrabec",
@@ -40,6 +80,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-seniot-teams-chess-championships-2025/",
          "pubDate" : "Thu, 27 Feb 2025 08:00:20",
          "title" : "England Over 65s retain World Senior Team Chess Championship title!"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Both official USA teams at the closing ceremony (Photo by Lawrence Cohen)<br> <br> <br> <br> USA won the 2025 FIDE World Senior Team Championships ahead of Italy on tiebreaks in the 50+ section, and USA Women earned the 50+ bronze. Today's article focuses on USA's team gold. GM Alexander Shabalov - the reigning World Senior Champion - also won an individual gold medal for his undefeated 6&frac12;/8 performance on board 3. Tomorrow, team member WIM Alexey Root will provide a report (and some games) recapping USA Women's bronze medal performance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/usa-completes-threepeat-fide-world-senior-team-championships",
+         "pubDate" : "Thu, 27 Feb 2025 00:00:00",
+         "title" : "USA Completes the Threepeat at FIDE World Senior Team Championships"
+      },
+      {
+         "description" : "The U.S. Center for SafeSport is updating its Core course and Refreshers 1, 2, and 3. The revised modules will be live beginning Wednesday, March 26, 2025.If you are currently in the process of taking one of these courses, be sure to complete it before March 25, 2025; otherwise, SafeSport will automatically reset your progress, and you will have to start the training from the beginning. You will not have to repurchase the course.Questions? Contact Safe Play Manager Melinda Matthews at Click here to show email address.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/updates-safesport-courses-beginning-march-26",
+         "pubDate" : "Thu, 27 Feb 2025 00:00:00",
+         "title" : "Updates to SafeSport Courses Beginning March 26"
       },
       {
          "description" : "On Wednesday 26th February at 15:00 the first round of the Masters will start at the Prague Chess Festival. The tournament has a strong field, the festival is an event. Reason enough for Johannes Fischer and Arne K&auml;hler to take a look at the tournament in their new episode of 'Two Knights Talk' - they introduce the participants and wonder who will win. They also come up with a tactical task from last year's festival and offer a quiz to test your chess and language skills.",
@@ -402,14 +458,6 @@ news_feed (
          "title" : "Magnus Carlsen Announces Auction Of His World Famous Jeans For Charity"
       },
       {
-         "description" : "GM Matthias Bluebaum won the early Titled Tuesday on February 18 with a near-perfect score (the second straight week someone scored 10.5 points) and took the lead in the Titled Tuesday Grand Prix standings. GM Jan-Krzysztof Duda then took the late...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bluebaum-duda-win-titled-tuesday-february-18-2025",
-         "pubDate" : "Wed, 19 Feb 2025 09:09:00",
-         "title" : "First Win Of The Year For Two More Titled Tuesday Stars"
-      },
-      {
          "description" : "We have unfortunately cancelled the girls online semi-final due to lack of entries. The organiser, Andrew Martin, will now be pursuing schools who finished 10th or below in the southern...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -656,22 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-need-to-play-a-bit-more-solidly-arjun-erigaisi/articleshow/118161778.cms",
          "pubDate" : "Wed, 12 Feb 2025 03:27:23",
          "title" : "I need to play a bit more solidly: Arjun Erigaisi"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on 19-year-old FM Rochelle Wu and 16-year-old WIM Iris Mou. The two regulars at the annual U.S. Junior Girls' Championship both posted results to be proud of in New York, with Wu going 6/11 in the Blitz and Mou going 6/11 in the Rapid. These plus-scores earned each player a haul of FIDE rating points, which makes ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-4-wu-mou",
-         "pubDate" : "Wed, 12 Feb 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 4 (Wu & Mou)"
-      },
-      {
-         "description" : "The US Chess Office will be closed Monday, February 17, in recognition of Presidents Day. It will reopen on Tuesday, February 18 for normal business hours.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items, and thank you for your understanding, <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-office-closed-monday-february-17-presidents-day",
-         "pubDate" : "Wed, 12 Feb 2025 00:00:00",
-         "title" : "US Chess Office Closed Monday, February 17 for Presidents Day"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118152895.cms\" />World champion D Gukesh drew with Hikaru Nakamura in the Freestyle Grand Slam chess tournament in Hamburg. Magnus Carlsen faced a surprising defeat by Vincent Keymer. Gukesh's draw marked his eighth in the competition, showcasing his recovery after a loss to Fabiano Caruana.",
