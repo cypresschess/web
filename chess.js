@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-1",
-         "pubDate" : "Wed, 26 Feb 2025 13:53:12",
+         "pubDate" : "Wed, 26 Feb 2025 13:53:00",
          "title" : "Keymer, Shankland Take Early Lead; Aravindh Survives"
       },
       {
