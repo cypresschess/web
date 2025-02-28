@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Fri, 28 Feb 2025 15:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
+         "description" : " Russian chess world champion who lost to Bobby Fischer in the sport's most famous match at the peak of the cold war Boris Spassky, who has died aged 88, was the gallant loser of the most famous match in chess history. The Russian champion conceded his world title to <a href=\"http://www.guardian.co.uk/obituaries/story/0,,2243089,00.html\">Bobby Fischer </a>at Reykjavik in 1972, but gained a host of admirers for his sportsmanlike behaviour and dignity in defeat. When Fischer had failed to appear for the opening ceremony, Moscow wanted Spassky to claim victory by default and return home. But he had struck a bond of friendship with the American at their previous meetings, and agreed to a first g",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/feb/28/boris-spassky-obituary",
+         "pubDate" : "Fri, 28 Feb 2025 13:54:33",
+         "title" : "Boris Spassky obituary"
+      },
+      {
+         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of&#160;European Chess Championships in 2026 and 2027. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form what they relate to. Any document that reaches the ECU office after the official deadline will not be taken into consideration. The deadline []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2026-2027/",
+         "pubDate" : "Fri, 28 Feb 2025 13:44:59",
+         "title" : "INVITATION FOR BIDS: European Chess Championships 2026-2027"
+      },
+      {
          "description" : "The 2025 Finance Council Meeting will be held on Saturday 26th April 2025 by video-conference (Zoom) starting at 1.30pm. &#160;At the time of this notice the meeting will mainly cover...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/28/chess-england-over-65s-lead-all-the-way-to-world-senior-team-gold-at-prague",
          "pubDate" : "Fri, 28 Feb 2025 08:00:54",
          "title" : "Chess: England over-65s lead all the way to world senior team gold at Prague"
+      },
+      {
+         "description" : "Eight players have qualified for the 3-Check Chess Championship 2025 Knockout, the second event of this year&#39;s Community Chess Championships (following January&#39;s Puzzle Championship). The eight hopefuls for the Knockout ended up being FM Luuk Base...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-chesscom-3-check-chess-championship-qualifiers",
+         "pubDate" : "Fri, 28 Feb 2025 07:33:50",
+         "title" : "3-Check Community Championship Knockout Will Have No GMs"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118618090.cms\" />In the second round of the Prague Masters, Aravindh Chithambaram secured a victory against Germany's Vincent Keymer, leading alongside Sam Shankland with 1.5 points. R Praggnanandhaa earned his second draw. Divya Deshmukh triumphed in the challengers' section.",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-championship-2025/",
          "pubDate" : "Thu, 27 Feb 2025 16:37:58",
          "title" : "World Junior Championship 2025"
-      },
-      {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Thu, 27 Feb 2025 15:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
          "description" : "GM Aleksandra Goryachkina drew against IM Batkhuyag Munguntuul to win the 2025 Monaco FIDE Women&#39;s Grand Prix, her second Grand Prix victory in a row. She finished top on tiebreaks ahead of Munguntuul and GM Koneru Humpy, who took down IM Bibisara...",
@@ -536,14 +560,6 @@ news_feed (
          "link" : "https://www.europechess.org/prague-chess-festival-2025/",
          "pubDate" : "Wed, 19 Feb 2025 18:40:42",
          "title" : "Prague Chess Festival 2025"
-      },
-      {
-         "description" : "IM Sara Khadem pounced on a time-trouble blunder by&#38;nbsp;GM Harika Dronavalli to pick up the only win of round two of the 2025 Monaco FIDE Women&#39;s Grand Prix. She joins GM Kateryna Lagno, GM Koneru Humpy, and IM Batkhuyag Munguntuul in the lead on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-2",
-         "pubDate" : "Wed, 19 Feb 2025 15:19:06",
-         "title" : "Khadem Pounces On Blunder To Beat Harika"
       },
       {
          "description" : "We have unfortunately cancelled the girls online semi-final due to lack of entries. The organiser, Andrew Martin, will now be pursuing schools who finished 10th or below in the southern...",
