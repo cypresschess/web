@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118615123.cms\" />Boris Spassky, the Soviet chess grandmaster celebrated for his 1972 Cold War clash with American Bobby Fischer, has died at 88, according to the Russian Chess Federation. Spassky's defeat against Fischer ended a 24-year Soviet dominance in chess. His life and this iconic match influenced various creative works, including the novel and Netflix series, The Queen's Gambit.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/soviet-chess-grandmaster-boris-spassky-dies-at-88/articleshow/118615123.cms",
+         "pubDate" : "Fri, 28 Feb 2025 02:31:49",
+         "title" : "Soviet chess grandmaster Boris Spassky dies at 88"
+      },
+      {
          "description" : "Boris Spassky, the tenth World Chess Champion, was a chess prodigy who became a grandmaster at the young age of 18. He won the World Chess Championship in 1969, and held the title until 1972, when he lost to Bobby Fischer in the famous \"Match of the Century\". Boris passed on Thursday at the age of 88. He was a decades-long personal friend of the author. | Photo Frederic Friedel, taken in June 2007",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -79,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/boris-spassky-passes-away-at-88",
          "pubDate" : "Thu, 27 Feb 2025 12:29:00",
-         "title" : "10th World Champion Boris Spassky 1937-2025"
+         "title" : "10th World Champion Boris Spassky, 1937-2025"
       },
       {
          "description" : "GM Aravindh Chithambaram defeated GM Vincent Keymer and has taken his place in the lead of the 2025 Prague Chess Festival Masters after round two. That was the only decisive game of the round. GM Sam Shankland remains in the lead after drawing wit...",
