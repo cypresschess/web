@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the Certificates here Rank &#160;Under 07 Rank &#160;Under 07 Girls 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-school-chess-championship-2024-25-in-peddapuram-ap/",
+         "pubDate" : "Fri, 28 Feb 2025 16:45:10",
+         "title" : "Certificate of National School Chess Championship 2024-25 in Peddapuram ,AP"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,28 +42,20 @@ news_feed (
          "title" : "ECF FINANCE Council 26 April 2025 - call for motions"
       },
       {
-         "description" : "Three players finished tied for first place at the Women's Grand Prix in Monaco, with Aleksandra Goryachkina, Batkhuyag Munguntuul and Humpy Koneru each scoring 5&frac12; points. Goryachkina was declared the tournament winner on tiebreaks, securing her second consecutive Grand Prix victory. The final round saw three decisive games, including a critical loss for former sole leader Kateryna Lagno against Sara Khadem. With two events played, Goryachkina now leads the overall Grand Prix standings. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-9",
-         "pubDate" : "Fri, 28 Feb 2025 10:45:00",
-         "title" : "Goryachkina wins Monaco GP on tiebreaks, ahead of Humpy and Munguntuul"
+         "description" : "World Champion Gukesh Dommaraju is up to a career-best world number-three on the official March 2025 FIDE rating list after overtaking GMs Fabiano Caruana and Arjun Erigaisi during the 2025 Tata Steel Chess Masters. GM Praggnanandhaa Rameshbabu, w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/march-2025-fide-rating-list",
+         "pubDate" : "Fri, 28 Feb 2025 11:46:00",
+         "title" : "March 2025 FIDE Ratings: Gukesh Up To 3rd, Praggnanandhaa Back In Top 10"
       },
       {
-         "description" : "Boris Spassky, the tenth World Chess Champion, was a chess prodigy who became a grandmaster at the young age of 18. He won the World Chess Championship in 1969, and held the title until 1972, when he lost to Bobby Fischer in the famous \"Match of the Century\". Boris passed on Thursday at the age of 88. He was a decades-long personal friend of the author. | Photo Frederic Friedel, taken in June 2007",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/boris-spassky-1937-2025",
-         "pubDate" : "Fri, 28 Feb 2025 10:20:00",
-         "title" : "Boris Spassky: 1937-2025"
-      },
-      {
-         "description" : "KCF Academy is thrilled to announce an upcoming live lecture featuring IGM Elisabeth P&auml;htz, on March 2, 2025. As Germany's strongest female chess player, Elisabeth will be with us at KCF Academy immediately after Women FIDE Grand Prix in Monaco and will share her insights freshly after the event. She is a highly-intelligent individual with a diverse range of interests, including writing and teaching. Don't miss this encounter with her.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-guest-star-elisabeth-paehtz",
-         "pubDate" : "Fri, 28 Feb 2025 10:15:49",
-         "title" : "KCF: Guest Star Elisabeth P&auml;htz"
+         "description" : "GM Arjun Erigaisi won Freestyle Friday outright over a field of 307 players on February 28, doing so with a win over erstwhile leader GM Shant Sargsyan in the final round. GM Hikaru Nakamura ended up taking second place from Sargsyan on tiebreaks,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-february-28-2025",
+         "pubDate" : "Fri, 28 Feb 2025 11:10:31",
+         "title" : "Arjun India's First To Claim Freestyle Friday"
       },
       {
          "description" : "In the main line of the Yugoslav Attack, the ninth move Bc4 is nearly as popular as castling long. While Bd7 remains the most common response, Chris has some excellent alternative suggestions that can give Black an edge. Interestingly, Bc4 recently proved to be a nightmare for co-host Arne Kaehler, as Chris thoroughly enjoyed predicting and countering Arne's \"amateur\" plans. | Photo: John Upham",
@@ -104,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/soviet-chess-grandmaster-boris-spassky-dies-at-88/articleshow/118615123.cms",
          "pubDate" : "Fri, 28 Feb 2025 02:31:49",
          "title" : "Soviet chess grandmaster Boris Spassky dies at 88"
+      },
+      {
+         "description" : "Editor's note: We continue our coverage of the 2025 FIDE World Senior Team Championship with a report from USA Women's fourth board, WIM Alexey Root. Yesterday's recap charts USA's path to gold in the 50+ section.Our focus in these reports is on the 50+ section because both US Chess-sponsored teams competed in the 50+ section. But because this report mentions the standings in the 65+ category's women's race, I also wanted to congratulate England 1 for its win in the 65+ section. Led by GM John Nunn, the reigning champions yielded only two draws on the way to their championship, finishing ahead of two German teams (Lasker Schachstiftung GK and Saxonia).The FIDE World Senior Team Chess Champio",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/path-podium-usa-women-50-team",
+         "pubDate" : "Fri, 28 Feb 2025 00:00:00",
+         "title" : "Path to the Podium: USA Women 50+ Team"
       },
       {
          "description" : "Recently, Marc Andria Maurizzi was performing like a super GM at the Djerba Open, with 7.5 points out of 9 games. His performance was close to 2900! It was also a meeting of the two youngest GM's in French history - the youngest is Maurizzi, against the second-youngest Etienne Bacrot. The higher rated Bacrot didn't stand a chance against the underdog. Robert Ris analysed this crazy game.",
@@ -514,28 +522,12 @@ news_feed (
          "title" : "'I Don't Trust Him'-Carlsen Opens Up On Niemann Controversy With Joe Rogan"
       },
       {
-         "description" : "GM Alexandra Kosteniuk won a sharp battle in round three of the 2025 Monaco FIDE Women&#39;s Grand Prix to knock GM Tan Zhongyi down to world number-four. The other win was a 5.5-hour marathon that saw GM Aleksandra Goryachkina return to 50 percent by...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-3",
-         "pubDate" : "Thu, 20 Feb 2025 14:58:56",
-         "title" : "Kosteniuk Beats Top Seed Tan Zhongyi"
-      },
-      {
          "description" : "The English and English Women's Championships 2025 and the English Women's U1700 tournament have now been rescheduled from 13-16 June to 18-21 July at the same venue (the Kenilworth Holiday...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2025/",
          "pubDate" : "Thu, 20 Feb 2025 14:21:50",
          "title" : "English and English Women's Chess Championships 2025"
-      },
-      {
-         "description" : "GM Hikaru Nakamura defeated GM Ian Nepomniachtchi in the Losers Final by holding a draw with the black pieces in the armageddon tiebreak. He has earned his second match against GM Magnus Carlsen in the 2025 Chessable Masters Grand Final on the las...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-3",
-         "pubDate" : "Thu, 20 Feb 2025 11:00:00",
-         "title" : "Nakamura Earns Rematch Vs. Carlsen In Grand Final"
       },
       {
          "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
@@ -744,14 +736,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-weissenhaus-2025",
          "pubDate" : "Fri, 14 Feb 2025 01:13:00",
          "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> The 2025 FIDE World Senior Team Championships begin Monday, February 17, in Prague, Czech Republic, with Team USA sending both an Open 50+ and Women's 50+ team. Last year, in Krakow, Team USA earned its second consecutive championship in the Open 50+ event, and the Women's team finished second among Women's 50+ teams. Open 50+ TeamFor the Open 50+ roster, three members of last year's team return: GMs Jaan Ehlvest, Igor Novikov, and Alexander Shabalov. Joining them are GM Gregory Kaidanov (from the 2023 championship squad) and IM Stuart Rachels. As of now, Shabalov is the team captain. <br> <br> <br> <br> <br> <br> <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fide-world-senior-team-championships-begin-monday-prague",
-         "pubDate" : "Fri, 14 Feb 2025 00:00:00",
-         "title" : "FIDE World Senior Team Championships Begin Monday in Prague"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118221820.cms\" />World champion D Gukesh managed a draw against Alireza Firouzja in the final round of the Freestyle Chess Grand Slam Tour. Local favorite Vincent Keymer won against Fabiano Caruana, while Magnus Carlsen defeated Javokhir Sindarov in the third-place playoff.",
