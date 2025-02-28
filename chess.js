@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The over-65s have been world champions three times in four years, but the over-50s finished out of the medals as USA claimed another title England over-65s and over-50s had contrasting experiences this week at the World Senior Team Championships in Prague. The over-65s, led by the individual world champion, John Nunn, and with a virtuoso 7/8 performance by Peter Large, led throughout and were unbeaten with 16/18 match points, seven wins and two draws. Two German teams, Lasker Germany and Saxonia, took silver and bronze. England over-50s also led for much of the way despite a round four loss to Italy, but faltered in the final round crunch matches against USA, which they lost for the third y",
+         "description" : "The 2025 Finance Council Meeting will be held on Saturday 26th April 2025 by video-conference (Zoom) starting at 1.30pm. &#160;At the time of this notice the meeting will mainly cover...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-finance-council-26-april-2025-call-for-motions/",
+         "pubDate" : "Fri, 28 Feb 2025 11:58:15",
+         "title" : "ECF FINANCE Council 26 April 2025 - call for motions"
+      },
+      {
+         "description" : "Three players finished tied for first place at the Women's Grand Prix in Monaco, with Aleksandra Goryachkina, Batkhuyag Munguntuul and Humpy Koneru each scoring 5&frac12; points. Goryachkina was declared the tournament winner on tiebreaks, securing her second consecutive Grand Prix victory. The final round saw three decisive games, including a critical loss for former sole leader Kateryna Lagno against Sara Khadem. With two events played, Goryachkina now leads the overall Grand Prix standings. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-9",
+         "pubDate" : "Fri, 28 Feb 2025 10:45:00",
+         "title" : "Goryachkina wins Monaco GP on tiebreaks, ahead of Humpy and Munguntuul"
+      },
+      {
+         "description" : "Boris Spassky, the tenth World Chess Champion, was a chess prodigy who became a grandmaster at the young age of 18. He won the World Chess Championship in 1969, and held the title until 1972, when he lost to Bobby Fischer in the famous \"Match of the Century\". Boris passed on Thursday at the age of 88. He was a decades-long personal friend of the author. | Photo Frederic Friedel, taken in June 2007",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/boris-spassky-1937-2025",
+         "pubDate" : "Fri, 28 Feb 2025 10:20:00",
+         "title" : "Boris Spassky: 1937-2025"
+      },
+      {
+         "description" : "KCF Academy is thrilled to announce an upcoming live lecture featuring IGM Elisabeth P&auml;htz, on March 2, 2025. As Germany's strongest female chess player, Elisabeth will be with us at KCF Academy immediately after Women FIDE Grand Prix in Monaco and will share her insights freshly after the event. She is a highly-intelligent individual with a diverse range of interests, including writing and teaching. Don't miss this encounter with her.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-guest-star-elisabeth-paehtz",
+         "pubDate" : "Fri, 28 Feb 2025 10:15:49",
+         "title" : "KCF: Guest Star Elisabeth P&auml;htz"
+      },
+      {
+         "description" : "In the main line of the Yugoslav Attack, the ninth move Bc4 is nearly as popular as castling long. While Bd7 remains the most common response, Chris has some excellent alternative suggestions that can give Black an edge. Interestingly, Bc4 recently proved to be a nightmare for co-host Arne Kaehler, as Chris thoroughly enjoyed predicting and countering Arne's \"amateur\" plans. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-how-to-win-against-9-bc4",
+         "pubDate" : "Fri, 28 Feb 2025 10:00:00",
+         "title" : "The Monthly Dragon - How to win against 9. Bc4!"
+      },
+      {
+         "description" : "The third leg of the FIDE Women's Grand Prix 2024/2025 took place from 17-28 February in Monte-Carlo, Monaco. After intense nine rounds, three players finished the event tying for the top with the score of 5.5 points each: GM Aleksandra Goryachkina (FIDE, 2546), GM Humpy Koneru (IND, 2523) and IM Batkhuyag Munguntuul (MGL, 2331). Having the best tiebreaks (Sonneborn-Berger), Aleksandra Goryachkina emerged as the Winner of the event and leads on the FIDE Women's Grand Prix standings with 236.67 points. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/third-leg-of-fide-womens-grand-prix-2024-2025-concluded-in-monaco/",
+         "pubDate" : "Fri, 28 Feb 2025 09:33:26",
+         "title" : "Third leg of FIDE Women's Grand Prix 2024/2025 concluded in Monaco"
+      },
+      {
+         "description" : " The over-65s have been world champions three times in four years, but the over-50s finished out of the medals as USA claimed another title England's over-65s and over-50s had contrasting experiences this week at the World Senior Team Championships in Prague. The over-65s, led by the individual world champion, John Nunn, and with a virtuoso 7/8 performance by Peter Large, led throughout and were unbeaten with 16/18 match points, seven wins and two draws. Two German teams, Lasker Germany and Saxonia, took silver and bronze. England over-50s also led for much of the way despite a round four loss to Italy, but faltered in the final round crunch matches against the USA, which they lost for the t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/feb/28/chess-england-over-65s-lead-all-the-way-to-world-senior-team-gold-at-prague",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/soviet-chess-grandmaster-boris-spassky-dies-at-88/articleshow/118615123.cms",
          "pubDate" : "Fri, 28 Feb 2025 02:31:49",
          "title" : "Soviet chess grandmaster Boris Spassky dies at 88"
-      },
-      {
-         "description" : "Boris Spassky, the tenth World Chess Champion, was a chess prodigy who became a grandmaster at the young age of 18. He won the World Chess Championship in 1969, and held the title until 1972, when he lost to Bobby Fischer in the famous \"Match of the Century\". Boris passed on Thursday at the age of 88. He was a decades-long personal friend of the author. | Photo Frederic Friedel, taken in June 2007",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/boris-spassky-1937-2025",
-         "pubDate" : "Fri, 28 Feb 2025 00:48:41",
-         "title" : "Boris Spassky: 1937-2025"
       },
       {
          "description" : "Recently, Marc Andria Maurizzi was performing like a super GM at the Djerba Open, with 7.5 points out of 9 games. His performance was close to 2900! It was also a meeting of the two youngest GM's in French history - the youngest is Maurizzi, against the second-youngest Etienne Bacrot. The higher rated Bacrot didn't stand a chance against the underdog. Robert Ris analysed this crazy game.",
@@ -56,6 +96,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/obituaries/boris-spassky",
          "pubDate" : "Thu, 27 Feb 2025 19:50:00",
          "title" : "Boris Spassky 1937-2025 - 1937-2025"
+      },
+      {
+         "description" : "Boris Spassky, a Soviet-era world chess champion who lost his title to American Bobby Fischer in a legendary 1972 match, has died at the age of 88.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/44044528/former-world-chess-champion-boris-spassky-88-dies?device=featurephone",
+         "pubDate" : "Thu, 27 Feb 2025 19:27:13",
+         "title" : "Former world chess champ Boris Spassky, 88, dies"
       },
       {
          "description" : "The European Chess Union mourns the loss of Boris Vasilievich Spassky, the tenth World Chess Champion, who passed away on February 27, 2025, at the age of 87. A towering figure in chess history, Spassky's legacy spans decades of extraordinary achievements and contributions to the royal game. Born in Leningrad (now St. Petersburg) on January 30, 1937, Spassky rose to prominence as a chess prodigy, becoming the youngest Soviet player to achieve the title of International Master at age 16. []",
@@ -86,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-goryachkina-wins",
-         "pubDate" : "Thu, 27 Feb 2025 14:08:13",
+         "pubDate" : "Thu, 27 Feb 2025 14:08:00",
          "title" : "Goryachkina Wins In Monaco, Takes FIDE Women's Grand Prix Lead"
       },
       {
@@ -896,22 +944,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-2025-d-gukesh-remains-winless-magnus-carlsen-loses-thrice-as-javokhir-sindarov-shines-on-day-1/articleshow/118043967.cms",
          "pubDate" : "Sat, 08 Feb 2025 01:03:22",
          "title" : "Gukesh remains winless; Carlsen loses thrice on Day 1"
-      },
-      {
-         "description" : "D Gukesh drew four and lost one of his five games on the opening day of the Freestyle Chess Grand Tour in Weissenhauss, Germany",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43735627/freestyle-chess-grand-tour-gukesh-goes-winless-five-games-opening-day?device=featurephone",
-         "pubDate" : "Fri, 7 Feb 2025 12:13:04",
-         "title" : "Freestyle Chess Grand Tour: Gukesh goes winless in five games on opening day"
-      },
-      {
-         "description" : "Please find certificates here No. Name1 HARIVANSH AGRAWAL2 MAMTA DEWANGAN3 RAVI SHARMA4 PARESH BUDHWANI5 AKSHAT KHAMPARIA6 VINOD KUMAR SHARMA7 GUPTA ANAND8 JAISWAL S R9 VIKASH",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/cerificate-for-sna-held-in-raipur-chhattisgarh-from-04-05-january-2025/",
-         "pubDate" : "Fri, 07 Feb 2025 09:46:08",
-         "title" : "Certificate : SNA held in Raipur ,Chhattisgarh from 04- 05 January 2025"
       }
    ]
 }
