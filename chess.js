@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The over-65s have been world champions three times in four years, but the over-50s finished out of the medals as USA claimed another title England over-65s and over-50s had contrasting experiences this week at the World Senior Team Championships in Prague. The over-65s, led by the individual world champion, John Nunn, and with a virtuoso 7/8 performance by Peter Large, led throughout and were unbeaten with 16/18 match points, seven wins and two draws. Two German teams, Lasker Germany and Saxonia, took silver and bronze. England over-50s also led for much of the way despite a round four loss to Italy, but faltered in the final round crunch matches against USA, which they lost for the third y",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/feb/28/chess-england-over-65s-lead-all-the-way-to-world-senior-team-gold-at-prague",
+         "pubDate" : "Fri, 28 Feb 2025 08:00:54",
+         "title" : "Chess: England over-65s lead all the way to world senior team gold at Prague"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118618090.cms\" />In the second round of the Prague Masters, Aravindh Chithambaram secured a victory against Germany's Vincent Keymer, leading alongside Sam Shankland with 1.5 points. R Praggnanandhaa earned his second draw. Divya Deshmukh triumphed in the challengers' section.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-settles-for-second-draw-chithambaram-beats-keymer-at-prague-masters-chess/articleshow/118618090.cms",
+         "pubDate" : "Fri, 28 Feb 2025 04:50:21",
+         "title" : "Praggnanandhaa settles for second draw, Chithambaram beats Keymer at Prague Masters"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118615123.cms\" />Boris Spassky, the Soviet chess grandmaster celebrated for his 1972 Cold War clash with American Bobby Fischer, has died at 88, according to the Russian Chess Federation. Spassky's defeat against Fischer ended a 24-year Soviet dominance in chess. His life and this iconic match influenced various creative works, including the novel and Netflix series, The Queen's Gambit.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://aicf.in/cerificate-for-sna-held-in-raipur-chhattisgarh-from-04-05-january-2025/",
          "pubDate" : "Fri, 07 Feb 2025 09:46:08",
          "title" : "Certificate : SNA held in Raipur ,Chhattisgarh from 04- 05 January 2025"
-      },
-      {
-         "description" : " The world No 1 faces Gukesh as the new Freestyle Grand Slam gets under way following a row over the circuit's status An imminent showdown between Magnus Carlsen, the world No 1, and Gukesh Dommaraju, the youngest ever world champion, has been overshadowed this week <a href=\"https://www.theguardian.com/sport/2025/feb/04/magnus-carlsen-calls-international-chess-president-quit-arkady-dvorkovich-freestyle-grand-slam\">by a bitter war of words</a> between the global body Fide and Jan-Henric Buettner, the Freestyle Chess founder and chief. This dispute has since been kicked into the future by an uneasy truce. The issue was whether Freestyle's new global <a href=\"https://www.freestyle-chess.com/\">$",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/feb/07/chess-magnus-carlsen-meets-world-champion-gukesh-dommaraju-after-freestyle-truce-called",
-         "pubDate" : "Fri, 07 Feb 2025 08:00:40",
-         "title" : "Chess: Carlsen meets world champion Gukesh after Freestyle truce called"
       }
    ]
 }
