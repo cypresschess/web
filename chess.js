@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Boris Spassky, the tenth World Chess Champion, was a chess prodigy who became a grandmaster at the young age of 18. He won the World Chess Championship in 1969, and held the title until 1972, when he lost to Bobby Fischer in the famous \"Match of the Century\". Boris passed on Thursday at the age of 88. He was a decades-long personal friend of the author. | Photo Frederic Friedel, taken in June 2007",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/boris-spassky-1937-2025",
+         "pubDate" : "Fri, 28 Feb 2025 00:48:41",
+         "title" : "Boris Spassky: 1937-2025"
+      },
+      {
+         "description" : "Recently, Marc Andria Maurizzi was performing like a super GM at the Djerba Open, with 7.5 points out of 9 games. His performance was close to 2900! It was also a meeting of the two youngest GM's in French history - the youngest is Maurizzi, against the second-youngest Etienne Bacrot. The higher rated Bacrot didn't stand a chance against the underdog. Robert Ris analysed this crazy game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/marc-andria-maurizzi-is-dominating-the-underdog",
+         "pubDate" : "Thu, 27 Feb 2025 23:00:00",
+         "title" : "Marc'Andria Maurizzi is dominating - The Underdog"
+      },
+      {
          "description" : "The 2025 World Senior Team Chess Championship in Prague showcased thrilling battles as veteran players proved their enduring brilliance. In the 50+ category, top-seeded USA edged out Italy on tiebreaks, while Kazakhstan secured bronze. England 1 dominated the 65+ section, claiming gold ahead of Lasker Schachstiftung GK and Saxonia. The women's teams shone, with the Czech Republic and Latvia taking top honours. Across nine rounds, legendary grandmasters proved that chess truly knows no age limits. | Photos: Ave Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "World Senior Team Championships: USA and England crowned champions"
       },
       {
-         "description" : " Boris Vasilievich Spassky was born in Leningrad January 30th 1937 and has died in Moscow February 27th 2025 at the age of 88. The former World Chess Champion played two championship matches against Tigran Petrosian, winning the second one in 1969 to become the 10th holder of the title. Spassky lost his only defence against Bobby Fischer in a match in Reykjavik in 1972. This match gave him worldwide fame in the midst of a media frenzy at the height of the Cold War. Spassky was one of the leading players in the world from 1956 until the early 1980s. In 1992 he played Bobby Fischer in a match in Yugoslavia which briefly made both famous again. In September 2010 he had a serious stroke, most of",
+         "description" : " Boris Vasilievich Spassky was born in Leningrad January 30th 1937 and has died in Moscow February 27th 2025 at the age of 88. The former World Chess Champion played two championship matches against Tigran Petrosian, winning the second one in 1969 to become the 10th holder of the title. Spassky lost his only defence against Bobby Fischer in a match in Reykjavik in 1972. This match gave him worldwide fame in the midst of a media frenzy at the height of the Cold War. Spassky was one of the leading players in the world from 1956 until the early 1980s. In 1992 he played Bobby Fischer in a rematch in Yugoslavia which briefly made them both famous again. In September 2010 he had a serious stroke, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/obituaries/boris-spassky",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
+         "description" : "GM Aleksandra Goryachkina drew against IM Batkhuyag Munguntuul to win the 2025 Monaco FIDE Women&#39;s Grand Prix, her second Grand Prix victory in a row. She finished top on tiebreaks ahead of Munguntuul and GM Koneru Humpy, who took down IM Bibisara...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-goryachkina-wins",
+         "pubDate" : "Thu, 27 Feb 2025 14:08:13",
+         "title" : "Goryachkina Wins In Monaco, Takes FIDE Women's Grand Prix Lead"
+      },
+      {
          "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,11 +74,19 @@ news_feed (
          "title" : "Women's Grand Prix Monaco: Live"
       },
       {
+         "description" : "GM Boris Spassky, the 10th world champion of chess who defeated &#38;ldquo;Iron&#38;rdquo; GM Tigran Petrosian in 1969 to reach the chess Olympus and who lost his title to GM Bobby Fischer in the Match of the Century in 1972 in Reykjavik, died on Thursday...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/boris-spassky-passes-away-at-88",
+         "pubDate" : "Thu, 27 Feb 2025 12:29:00",
+         "title" : "10th World Champion Boris Spassky 1937-2025"
+      },
+      {
          "description" : "GM Aravindh Chithambaram defeated GM Vincent Keymer and has taken his place in the lead of the 2025 Prague Chess Festival Masters after round two. That was the only decisive game of the round. GM Sam Shankland remains in the lead after drawing wit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-2",
-         "pubDate" : "Thu, 27 Feb 2025 12:20:04",
+         "pubDate" : "Thu, 27 Feb 2025 12:20:00",
          "title" : "Aravindh Beats Keymer, Leads With Shankland"
       },
       {
@@ -440,22 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-2",
          "pubDate" : "Wed, 19 Feb 2025 15:19:06",
          "title" : "Khadem Pounces On Blunder To Beat Harika"
-      },
-      {
-         "description" : "World number-one GM Magnus Carlsen punched his ticket to the Grand Final of the 2025 Chessable Masters. With Black in armageddon, he drew GM Arjun Erigaisi and then beat GM Hikaru Nakamura 2.5-0.5 with a game to spare. Both Arjun and Nakamura will...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-playoffs-day-2",
-         "pubDate" : "Wed, 19 Feb 2025 12:10:00",
-         "title" : "Carlsen Advances To Grand Final, Sends Arjun, Nakamura To Losers Bracket"
-      },
-      {
-         "description" : "You can now own a truly unique piece of chess history while also supporting a charitable cause. GM Magnus Carlsen&#38;nbsp;recently announced the auction of the famous pair of jeans that led to his forfeit at the FIDE World Rapid Championship in Decem...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-jeans-auction",
-         "pubDate" : "Wed, 19 Feb 2025 10:32:00",
-         "title" : "Magnus Carlsen Announces Auction Of His World Famous Jeans For Charity"
       },
       {
          "description" : "We have unfortunately cancelled the girls online semi-final due to lack of entries. The organiser, Andrew Martin, will now be pursuing schools who finished 10th or below in the southern...",
