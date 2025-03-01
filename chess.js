@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 7th Prague International Chess Festival takes place Wed 26th Feb to Fri 7th Mar 2025. The main event is the Masters with Chithambaram VR. Aravindh, R Praggnanandhaa, Vincent Keymer, David Navara, Le Quang Liem, Anish Giri, Sam Shankland, Thai Dai Van Nguyen, Ediz Gurel and Wei Yi. The Challengers is also very strong and there's a Futures group and a number of opens.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/7th-prague-international-chess-festival",
+         "pubDate" : "Fri, 28 Feb 2025 21:10:00",
+         "title" : "7th Prague International Chess Festival - Games and Results"
+      },
+      {
          "description" : "Please find the Certificates here Rank &#160;Under 07 Rank &#160;Under 07 Girls 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Certificate of National School Chess Championship 2024-25 in Peddapuram ,AP"
       },
       {
+         "description" : "What's new at ChessBase? Whether it's video courses, the ChessBase Magazine or databases: there's a lot going on at ChessBase and we have something for everyone. Many new video courses have already been released during the cold season. Find out which ones they are in the following article...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-releases-jan-25",
+         "pubDate" : "Fri, 28 Feb 2025 15:55:30",
+         "title" : "Review: All new releases in January!"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
          "pubDate" : "Fri, 28 Feb 2025 15:00:00",
          "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
+         "description" : "GM Aravindh Chithambaram took the sole lead of the 2025 Prague Chess Festival Masters after winning his game in round three against GM Wei Yi. There were two more decisive results: GM Vincent Keymer bounced back from yesterday&#39;s loss by beating GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-3",
+         "pubDate" : "Fri, 28 Feb 2025 14:54:00",
+         "title" : "Aravindh Takes Sole Lead; Keymer, Praggnanandhaa Pick Up Wins"
       },
       {
          "description" : " Russian chess world champion who lost to Bobby Fischer in the sport's most famous match at the peak of the cold war Boris Spassky, who has died aged 88, was the gallant loser of the most famous match in chess history. The Russian champion conceded his world title to <a href=\"http://www.guardian.co.uk/obituaries/story/0,,2243089,00.html\">Bobby Fischer </a>at Reykjavik in 1972, but gained a host of admirers for his sportsmanlike behaviour and dignity in defeat. When Fischer had failed to appear for the opening ceremony, Moscow wanted Spassky to claim victory by default and return home. But he had struck a bond of friendship with the American at their previous meetings, and agreed to a first g",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/national-teams-divya-deshmukh-tania-sachdev-honored-indian-awards",
          "pubDate" : "Fri, 21 Feb 2025 04:17:00",
          "title" : "National Teams, Divya Deshmukh, Tania Sachdev Honored At Indian Award Ceremonies"
-      },
-      {
-         "description" : "World number-one GM Magnus Carlsen made an appearance on The Joe Rogan Experience where he openly addressed the infamous controversy with GM Hans Niemann for the first time. The controversial Joe Rogan, a comedian, UFC commentator, and former TV...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-on-joe-rogan",
-         "pubDate" : "Thu, 20 Feb 2025 16:03:00",
-         "title" : "'I Don't Trust Him'-Carlsen Opens Up On Niemann Controversy With Joe Rogan"
       },
       {
          "description" : "The English and English Women's Championships 2025 and the English Women's U1700 tournament have now been rescheduled from 13-16 June to 18-21 July at the same venue (the Kenilworth Holiday...",
