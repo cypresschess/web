@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tuesday 4th March 2025 at 12.30pm at Golders Green Crematorium East, 62 Hoop Lane, London NW11 7NL. Officiated by: Rabbi Roberta Harris (gentlemen please cover your heads). Stewart's niece has...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/stewart-reuben-funeral-details/",
+         "pubDate" : "Sat, 01 Mar 2025 18:47:20",
+         "title" : "Stewart Reuben - funeral details for Tuesday 4th March"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-uzbek-gm-nodirbek-yakubboev-chooses-namaste-over-handshake-in-greeting-divya-deshmukh/articleshow/118649199.cms",
          "pubDate" : "Sat, 01 Mar 2025 12:21:32",
          "title" : "Watch: Uzbek GM chooses 'Namaste' over handshake before game"
+      },
+      {
+         "description" : "There are two leaders after four rounds at the 2025 Prague Chess Festival Masters: Indian GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram, a point ahead of the field. Praggnanandhaa scored his second consecutive victory, with Black against...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-4",
+         "pubDate" : "Sat, 01 Mar 2025 12:09:11",
+         "title" : "Praggnanandhaa Beats Keymer, Leads With Aravindh By 1 Point"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#39;s world famous jeans from the 2024 World Rapid Championship have been sold at auction for a staggering $36,000. The proceeds will go to charity. An anonymous bidder had the highest bid on Saturday following a 10-day bidding war...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-world-famous-jeans-auctioned-after-bidding-war",
+         "pubDate" : "Sat, 01 Mar 2025 11:22:00",
+         "title" : "Carlsen's World Famous Jeans Auctioned For $36,100 After Bidding War"
       },
       {
          "description" : "After laying the foundation in Volume 1, it's time to dive deeper into key strategic concepts that will elevate your middlegame play. But don't expect long theoretical explanations - this course is all about active learning!",
@@ -538,28 +562,12 @@ news_feed (
          "title" : "Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko"
       },
       {
-         "description" : "GM Kateryna Lagno said, &#34;It&#38;rsquo;s been a long time since I played such a beautiful game&#34; after defeating GM Elisabeth Paehtz to take the sole lead in the 2025 Monaco FIDE Women&#39;s Grand Prix on 3/4. The remaining games were drawn, with GM Aleksan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-4",
-         "pubDate" : "Fri, 21 Feb 2025 14:45:00",
-         "title" : "Spectacular Win Gives Lagno Sole Lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-chess-star-magnus-carlsen-puts-forbidden-jeans-up-for-auction/articleshow/118451938.cms",
          "pubDate" : "Fri, 21 Feb 2025 12:04:42",
          "title" : "Magnus Carlsen puts 'forbidden jeans' up for auction"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda won Freestyle Friday on February 21, becoming the fifth player to win one in the first five weeks of the event. More notably, this victory comes on the heels of a win in the late Titled Tuesday on February 18, making Duda the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-freestyle-friday-february-21-2025",
-         "pubDate" : "Fri, 21 Feb 2025 11:19:00",
-         "title" : "Duda Wins Freestyle Friday, Titled Tuesday In Same Week"
       },
       {
          "description" : "Player finished first in corresponding Nationals Age Group over the board Championship for the year 2024: Rs. 17,130/ Special Note: If a player has only",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/more-text-to-art.html",
          "pubDate" : "Sun, 16 Feb 2025 16:11:00",
          "title" : "More Text to Art"
-      },
-      {
-         "description" : "The following players have been selected for England in the Chessmates&#160;International on 21-23 March, 2025 in York. &#160; First Name Surname Category Stanley Badacsonyi U20 Avyukt Dasgupta U20 Alexandr Pereslavtsev...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-chessmates-team/",
-         "pubDate" : "Sun, 16 Feb 2025 15:25:09",
-         "title" : "England Chessmates Team"
       },
       {
          "description" : "Please find the circular here : Download",
