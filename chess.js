@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118641221.cms\" />Boris Spassky's contributions to chess are commemorated through his remarkable games, including his rejuvenation of the Breyer defence and mastery of various strategies. Despite shifting from Soviet to French citizenship, Spassky maintained amicable ties with Russian players. Notably, his competitive spirit and achievements debunk myths of lack of seriousness in the 1972 World Championship against Bobby Fischer.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-1984-i-claimed-a-moral-win-over-him-got-my-greatest-chess-tutorial-from-him-afterwards/articleshow/118641221.cms",
+         "pubDate" : "Sat, 01 Mar 2025 03:59:19",
+         "title" : "In 1984, I claimed a moral win over him; got my greatest chess tutorial from him afterwards"
+      },
+      {
+         "description" : "Aravindh Chithambaran grabbed a second win in a row to grab the sole lead at the Masters section of the Prague Chess Festival. Meanwhile, Vincent Keymer continues to play all or nothing - after his round-one win against Wei Yi, he lost to Aravindh, and has now defeated Sam Shankland with black. The third decisive game of the day in the Masters saw Praggnanandhaa Rameshbabu beating Thai Dai Van Nguyen. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-3",
+         "pubDate" : "Sat, 01 Mar 2025 03:40:00",
+         "title" : "Prague R3: Aravindh wins again, leads"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118640857.cms\" />Indian Grandmaster R Praggnanandhaa won against Czech Republic's Nguyen Thai Dai Van in the third round of the Prague Masters. Praggnanandhaa achieved victory with a decisive middle game and expert endgame execution. This win was crucial after drawing his first two matches in the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-registers-first-win-in-prague-masters/articleshow/118640857.cms",
+         "pubDate" : "Sat, 01 Mar 2025 03:23:00",
+         "title" : "Praggnanandhaa registers first win in Prague Masters"
+      },
+      {
          "description" : " The 7th Prague International Chess Festival takes place Wed 26th Feb to Fri 7th Mar 2025. The main event is the Masters with Chithambaram VR. Aravindh, R Praggnanandhaa, Vincent Keymer, David Navara, Le Quang Liem, Anish Giri, Sam Shankland, Thai Dai Van Nguyen, Ediz Gurel and Wei Yi. The Challengers is also very strong and there's a Futures group and a number of opens.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/7th-prague-international-chess-festival",
          "pubDate" : "Fri, 28 Feb 2025 21:10:00",
          "title" : "7th Prague International Chess Festival - Games and Results"
+      },
+      {
+         "description" : "FM Matfey Rogov now holds two Chess.com variant titles after the 17-year-old won the 2025 Chess.com 3-Check Championship in a thrilling Grand Final Reset. Rogov, who is also the site&#39;s Atomic Chess champion, played the &#34;game of the tournament&#34; to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rogov-wins-2025-chesscom-3-check-championship-knockout",
+         "pubDate" : "Fri, 28 Feb 2025 17:51:00",
+         "title" : "Rogov Clutches 3-Check Championship In Grand Final Reset"
       },
       {
          "description" : "Please find the Certificates here Rank &#160;Under 07 Rank &#160;Under 07 Girls 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-releases-jan-25",
          "pubDate" : "Fri, 28 Feb 2025 15:55:30",
          "title" : "Review: All new releases in January!"
-      },
-      {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Fri, 28 Feb 2025 15:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
          "description" : "GM Aravindh Chithambaram took the sole lead of the 2025 Prague Chess Festival Masters after winning his game in round three against GM Wei Yi. There were two more decisive results: GM Vincent Keymer bounced back from yesterday&#39;s loss by beating GM...",
@@ -138,14 +162,6 @@ news_feed (
          "title" : "Path to the Podium: USA Women 50+ Team"
       },
       {
-         "description" : "Recently, Marc Andria Maurizzi was performing like a super GM at the Djerba Open, with 7.5 points out of 9 games. His performance was close to 2900! It was also a meeting of the two youngest GM's in French history - the youngest is Maurizzi, against the second-youngest Etienne Bacrot. The higher rated Bacrot didn't stand a chance against the underdog. Robert Ris analysed this crazy game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/marc-andria-maurizzi-is-dominating-the-underdog",
-         "pubDate" : "Thu, 27 Feb 2025 23:00:00",
-         "title" : "Marc'Andria Maurizzi is dominating - The Underdog"
-      },
-      {
          "description" : "The 2025 World Senior Team Chess Championship in Prague showcased thrilling battles as veteran players proved their enduring brilliance. In the 50+ category, top-seeded USA edged out Italy on tiebreaks, while Kazakhstan secured bronze. England 1 dominated the 65+ section, claiming gold ahead of Lasker Schachstiftung GK and Saxonia. The women's teams shone, with the Czech Republic and Latvia taking top honours. Across nine rounds, legendary grandmasters proved that chess truly knows no age limits. | Photos: Ave Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,14 +242,6 @@ news_feed (
          "title" : "Prague R1: Keymer and Shankland start with wins"
       },
       {
-         "description" : "Four decisive games in round eight of the Monaco Women's Grand Prix had a major impact on the tournament standings. Kateryna Lagno, the sole leader going into the round, drew her game, allowing Batkhuyag Munguntuul and Aleksandra Goryachkina to catch up after scoring key victories. Tan Zhongyi also won, keeping her title chances alive. With only one round remaining, three players share the lead, while two others remain within striking distance. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-monaco-2025-8",
-         "pubDate" : "Thu, 27 Feb 2025 10:25:00",
-         "title" : "Monaco GP: Munguntuul and Goryachkina catch Lagno in the lead"
-      },
-      {
          "description" : "The England Over 65 team retained their World Senior Team Chess Championship title in Prague today, after securing the final point that left their rivals trailing in their wake. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/updates-safesport-courses-beginning-march-26",
          "pubDate" : "Thu, 27 Feb 2025 00:00:00",
          "title" : "Updates to SafeSport Courses Beginning March 26"
-      },
-      {
-         "description" : "On Wednesday 26th February at 15:00 the first round of the Masters will start at the Prague Chess Festival. The tournament has a strong field, the festival is an event. Reason enough for Johannes Fischer and Arne K&auml;hler to take a look at the tournament in their new episode of 'Two Knights Talk' - they introduce the participants and wonder who will win. They also come up with a tactical task from last year's festival and offer a quiz to test your chess and language skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-knights-talk-who-will-win-in-prague",
-         "pubDate" : "Wed, 26 Feb 2025 16:33:00",
-         "title" : "Two Knights Talk: Who will win in Prague?"
       },
       {
          "description" : "GM Aleksandra Goryachkina and IM Batkhuyag Munguntuul won in the penultimate round of the 2025 Monaco FIDE Women&#39;s Grand Prix to catch leader GM Kateryna Lagno, who made a quick draw against GM Koneru Humpy. GM Tan Zhongyi beat IM Bibisara Assauba...",
@@ -528,14 +528,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-planning-and-development-funding-programme-guidelines/",
          "pubDate" : "Fri, 21 Feb 2025 07:16:10",
          "title" : "FIDE Planning and Development Funding Programme Guidelines"
-      },
-      {
-         "description" : "India&#39;s chess stars continue to receive well-deserved recognition for their achievements, with two of the nation&#39;s brightest players,&#38;nbsp;IMs Divya Deshmukh and Tania Sachdev, being honored with awards this week. The national teams were also cele...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/national-teams-divya-deshmukh-tania-sachdev-honored-indian-awards",
-         "pubDate" : "Fri, 21 Feb 2025 04:17:00",
-         "title" : "National Teams, Divya Deshmukh, Tania Sachdev Honored At Indian Award Ceremonies"
       },
       {
          "description" : "The English and English Women's Championships 2025 and the English Women's U1700 tournament have now been rescheduled from 13-16 June to 18-21 July at the same venue (the Kenilworth Holiday...",
@@ -930,14 +922,6 @@ news_feed (
          "title" : "Gukesh loses to Caruana; on verge of Freestyle Chess quarterfinal exit"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118071926.cms\" />World Champion D Gukesh advanced to the knockout stage of the Freestyle Grand Slam Tour despite losing to Magnus Carlsen in the final round. Gukesh secured eighth place with 3.5 points. Alireza Firouzja and Javokhir Sindarov topped the table, followed by Fabiano Caruana. The event features a USD 750,000 prize pool.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-qualifies-for-knockout-stage/articleshow/118071926.cms",
-         "pubDate" : "Sat, 08 Feb 2025 17:00:32",
-         "title" : "Freestyle Chess: D Gukesh qualifies for knockout stage"
-      },
-      {
          "description" : "The biggest myth in chess improvement is that it's complicated. I've worked with players at all levels, and time and time again, the simple plans-done right-lead to the most incredible results. If you break it down, only three things really matter to improve your chess. In the new version of my Next Level Training course, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -952,14 +936,6 @@ news_feed (
          "link" : "https://www.thearticle.com/poker-not-chess-sudden-death-tiebreaks/",
          "pubDate" : "Sat, 08 Feb 2025 10:42:27",
          "title" : "Poker, not chess: 'sudden death' tiebreaks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118043967.cms\" />The 2025 Freestyle Chess Grand Slam began at Weissenhaus, Germany, featuring a rapid event to decide eight knockout contenders. Indian GM D Gukesh faced tough matches, while Javokhir Sindarov shined, defeating Magnus Carlsen and securing 4.5/5 points. Fabiano Caruana also advanced, and Carlsen's qualification hangs in the balance after three losses.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-2025-d-gukesh-remains-winless-magnus-carlsen-loses-thrice-as-javokhir-sindarov-shines-on-day-1/articleshow/118043967.cms",
-         "pubDate" : "Sat, 08 Feb 2025 01:03:22",
-         "title" : "Gukesh remains winless; Carlsen loses thrice on Day 1"
       }
    ]
 }
