@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Sat, 01 Mar 2025 15:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
+         "description" : "Student: \"I thought I played well, but I only got 60% accuracy\". Me: \"But that was still an awesome game!\" This conversation happens often in my lessons. Accuracy scores can be fun, but they can also give us a misleading sense of how well we've played. Often, students play good practical chess but get a []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/accuracy-score/",
+         "pubDate" : "Sat, 01 Mar 2025 14:00:00",
+         "title" : "What Accuracy Score Is Good In Chess?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118649199.cms\" />Uzbek GM Nodirbek Yakubboev greeted India's Divya Deshmukh with a 'Namaste' before their match in Prague, showing respect and addressing past controversies. Yakubboev previously avoided a handshake with Indian GM R Vaishali for religious reasons, later apologizing. His gesture towards Deshmukh highlights efforts to bridge cultural differences, demonstrating mutual respect in the chess community.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-uzbek-gm-nodirbek-yakubboev-chooses-namaste-over-handshake-in-greeting-divya-deshmukh/articleshow/118649199.cms",
+         "pubDate" : "Sat, 01 Mar 2025 12:21:32",
+         "title" : "Watch: Uzbek GM chooses 'Namaste' over handshake before game"
+      },
+      {
          "description" : "After laying the foundation in Volume 1, it's time to dive deeper into key strategic concepts that will elevate your middlegame play. But don't expect long theoretical explanations - this course is all about active learning!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.thearticle.com/requiem-for-fischer-and-spassky/",
          "pubDate" : "Sat, 01 Mar 2025 09:08:03",
          "title" : " Requiem for Fischer and Spassky"
+      },
+      {
+         "description" : "Martin&#39;s your first chess opponent. He&#39;s played over 500 million games. And he&#39;s never gotten any better. Now, it&#39;s time to meet his family: Martin Jr., Marty, Martin XIII, and Martina. Are you ready to face off against the Martin family? Head o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martin-chess-bots",
+         "pubDate" : "Sat, 01 Mar 2025 07:00:00",
+         "title" : "New Bot Challenge: Meet The Martin Family"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118641221.cms\" />Boris Spassky's contributions to chess are commemorated through his remarkable games, including his rejuvenation of the Breyer defence and mastery of various strategies. Despite shifting from Soviet to French citizenship, Spassky maintained amicable ties with Russian players. Notably, his competitive spirit and achievements debunk myths of lack of seriousness in the 1972 World Championship against Bobby Fischer.",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Duda Wins Freestyle Friday, Titled Tuesday In Same Week"
       },
       {
-         "description" : "It took just about one hour for GM Magnus Carlsen to win the Grand Final against GM Hikaru Nakamura and thus the 2025 Chessable Masters, the first event of this year&#39;s Champions Chess Tour. He defeated the U.S. number-one for the second time in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-cct-chessable-masters-grand-final",
-         "pubDate" : "Fri, 21 Feb 2025 09:29:00",
-         "title" : "Carlsen Beats Nakamura In Grand Final, Wins 2025 Chessable Masters"
-      },
-      {
          "description" : "Player finished first in corresponding Nationals Age Group over the board Championship for the year 2024: Rs. 17,130/ Special Note: If a player has only",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "ECU E-Magazine January 2025"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118111943.cms\" />Viraj Sarawgi, a Grade 5 student from Assam, secured a silver medal in the Under-12 category at the Bangkok Rapid Chess Championship, defeating two seasoned FIDE-rated opponents. Despite entering as an unrated player, his dedication and tactical play stood out. His coaches praised his talent, while he looks ahead to the Abu Dhabi Junior Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/10-year-old-viraj-sarawgi-bags-silver-at-bangkok-rapid-chess-championship/articleshow/118111943.cms",
-         "pubDate" : "Mon, 10 Feb 2025 08:06:56",
-         "title" : "10-year-old Sarawgi bags silver at Bangkok Rapid Chess"
-      },
-      {
          "description" : "Of the 22 clips on this month's short list for featured video of the month, 14 were for the first leg of the <A HREF=\"https://chess960frc.blogspot.com/2024/12/2025-fcgst.html\">2025 FCGST</A> (December 2024; '2025 Freestyle Chess Grand Slam Tour') in Weissenhaus, Germany. Since I'll be discussing that event on my chess960 blog -- to which that FCGST link goes -- I picked another clip for this post. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/esKSAQs1OeY?si=XBUWQe4PtJsiowyQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43764409/gukesh-loses-caruana-verge-freestyle-chess-weissenhaus-quarterfinal-exit?device=featurephone",
          "pubDate" : "Sun, 9 Feb 2025 11:37:45",
          "title" : "Gukesh loses to Caruana; on verge of Freestyle Chess quarterfinal exit"
-      },
-      {
-         "description" : "The biggest myth in chess improvement is that it's complicated. I've worked with players at all levels, and time and time again, the simple plans-done right-lead to the most incredible results. If you break it down, only three things really matter to improve your chess. In the new version of my Next Level Training course, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/three-dos/",
-         "pubDate" : "Sat, 08 Feb 2025 14:00:00",
-         "title" : "The Three Do's Of Simplified Chess Improvement"
       }
    ]
 }
