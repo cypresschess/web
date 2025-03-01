@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After laying the foundation in Volume 1, it's time to dive deeper into key strategic concepts that will elevate your middlegame play. But don't expect long theoretical explanations - this course is all about active learning!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-mastering-chess-strategy-vol-2-take-your-piece-play-to-the-next-level",
+         "pubDate" : "Sat, 01 Mar 2025 11:00:00",
+         "title" : "Robert Ris: Mastering Chess Strategy - Take your piece play to the next level!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118646765.cms\" />GM Gukesh Dommaraju has climbed to world number three in the latest FIDE rankings after an impressive performance at the Tata Steel Chess Masters 2025. GM Praggnanandhaa Rameshbabu reentered the top-10 by winning the Tata Steel title. GM Magnus Carlsen remains number-one, while GM Hikaru Nakamura is now second. Significant shifts occurred in the women's rankings as well.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-achieves-career-high-ranking-praggnanandhaa-returns-to-top-10-in-latest-fide-ratings-chess/articleshow/118646765.cms",
+         "pubDate" : "Sat, 01 Mar 2025 09:54:44",
+         "title" : "Gukesh seals career-high ranking, Pragg returns to top 10"
+      },
+      {
+         "description" : "Last night I dreamt - not of Manderley, but of Bobby Fischer, whose 82nd birthday (had he lived) would have fallen next week (Sunday 9th March). The name of Bobby Fischer, like that of his American predecessor, Paul Morphy, still resonates with an iconic status among all chess enthusiasts. Fischer swept to the world chess []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/requiem-for-fischer-and-spassky/",
+         "pubDate" : "Sat, 01 Mar 2025 09:08:03",
+         "title" : " Requiem for Fischer and Spassky"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118641221.cms\" />Boris Spassky's contributions to chess are commemorated through his remarkable games, including his rejuvenation of the Breyer defence and mastery of various strategies. Despite shifting from Soviet to French citizenship, Spassky maintained amicable ties with Russian players. Notably, his competitive spirit and achievements debunk myths of lack of seriousness in the 1972 World Championship against Bobby Fischer.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -95,7 +119,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/march-2025-fide-rating-list",
          "pubDate" : "Fri, 28 Feb 2025 11:46:00",
-         "title" : "March 2025 FIDE Ratings: Gukesh Up To 3rd, Praggnanandhaa Back In Top 10"
+         "title" : "March 2025 FIDE Ratings: Gukesh Up To 3rd, Pragg Back In Top 10"
       },
       {
          "description" : "GM Arjun Erigaisi won Freestyle Friday outright over a field of 307 players on February 28, doing so with a win over erstwhile leader GM Shant Sargsyan in the final round. GM Hikaru Nakamura ended up taking second place from Sargsyan on tiebreaks,...",
@@ -240,6 +264,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2025-1",
          "pubDate" : "Thu, 27 Feb 2025 11:50:00",
          "title" : "Prague R1: Keymer and Shankland start with wins"
+      },
+      {
+         "description" : "Stewart Reuben, who died on February 4 aged 85, was England's outstanding chess organiser of the 20th century, and played a key role in the chess explosion of the 1970s....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/stewart-reuben-obituary-by-leonard-barden/",
+         "pubDate" : "Thu, 27 Feb 2025 10:24:25",
+         "title" : "Stewart Reuben - obituary by Leonard Barden"
       },
       {
          "description" : "The England Over 65 team retained their World Senior Team Chess Championship title in Prague today, after securing the final point that left their rivals trailing in their wake. The...",
@@ -762,14 +794,6 @@ news_feed (
          "title" : "February 1975 & 2000 'On the Cover'"
       },
       {
-         "description" : "The ECF is looking to contract for the provision of a venue for the 2026 British Chess Championships. Interested venue providers are invited to respond to the Invitation to Tender...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/itt-for-2026-british-chess-championships-venue-provision/",
-         "pubDate" : "Thu, 13 Feb 2025 13:38:49",
-         "title" : "ITT for 2026 British Chess Championships Venue Provision"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118203012.cms\" />Vincent Keymer defeated world number one Magnus Carlsen to reach the Weissenhaus Freestyle Grand Slam final, where he will face Fabiano Caruana. Caruana won his semifinal against Javokhir Sindarov in an intense match that concluded after 7.5 hours of play.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -882,14 +906,6 @@ news_feed (
          "title" : "10-year-old Sarawgi bags silver at Bangkok Rapid Chess"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118094680.cms\" />World Champion D Gukesh faced a setback against USA's Fabiano Caruana in the Freestyle Grand Slam chess quarterfinals in Hamburg, failing to capitalize on a crucial queen sacrifice opportunity. Magnus Carlsen secured a win over Nodirbek Abdusattorov, while other quarterfinals featured Vincent Keymer defeating Alireza Firouzja and a draw between Javokhir Sindarov and Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-goes-down-to-caruana-in-freestyle-grand-slam-chess/articleshow/118094680.cms",
-         "pubDate" : "Sun, 09 Feb 2025 17:16:43",
-         "title" : "D Gukesh goes down to Caruana in Freestyle Grand Slam Chess"
-      },
-      {
          "description" : "Of the 22 clips on this month's short list for featured video of the month, 14 were for the first leg of the <A HREF=\"https://chess960frc.blogspot.com/2024/12/2025-fcgst.html\">2025 FCGST</A> (December 2024; '2025 Freestyle Chess Grand Slam Tour') in Weissenhaus, Germany. Since I'll be discussing that event on my chess960 blog -- to which that FCGST link goes -- I picked another clip for this post. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/esKSAQs1OeY?si=XBUWQe4PtJsiowyQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -928,14 +944,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/three-dos/",
          "pubDate" : "Sat, 08 Feb 2025 14:00:00",
          "title" : "The Three Do's Of Simplified Chess Improvement"
-      },
-      {
-         "description" : "In an earlier column, I lamented the looming death of classical chess. Tournament chess, as we know it, is under continuous threat from a deadly trio of Armageddon finishes (in which White has a time advantage but a draw with Black counts as a win), blitz (10 seconds a move), super-fast bullet games (one second a []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/poker-not-chess-sudden-death-tiebreaks/",
-         "pubDate" : "Sat, 08 Feb 2025 10:42:27",
-         "title" : "Poker, not chess: 'sudden death' tiebreaks"
       }
    ]
 }
