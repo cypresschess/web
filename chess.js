@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "TENTATIVE NATIONAL CALENDAR No. Event State Date 1 National Under-7 Odisha 04-08 June 2025 2 National Under-09 Haryana 14-20 June 2025 3 National Under-11 Maharashtra",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tentative-national-calendar-for-2025-26/",
+         "pubDate" : "Sun, 02 Mar 2025 07:02:58",
+         "title" : "TENTATIVE NATIONAL CALENDAR FOR 2025-26"
+      },
+      {
+         "description" : "Vincent Keymer continues to go all-in at the Masters section of the Chess Festival in Prague: the German went for an attack against Praggnanandhaa Rameshbabu, and lost. As a result, Pragg caught up with his compatriot Aravindh Chithambaram in the lead. Meanwhile, Wei Yi bounced back from his loss on Friday with a win over David Navara. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-4",
+         "pubDate" : "Sun, 02 Mar 2025 07:00:00",
+         "title" : "Prague R4: Pragg beats Keymer, catches Aravindh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118658401.cms\" />Indian grandmasters R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters with three points each after round four. Praggnanandhaa achieved victory over Germany's Vincent Keymer, while Aravindh drew with American Sam Shankland, setting up an exciting upcoming round between the two Indian leaders.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-claims-second-victory-at-prague-masters-joins-aravindh-at-top/articleshow/118658401.cms",
+         "pubDate" : "Sun, 02 Mar 2025 04:40:55",
+         "title" : "Praggnanandhaa claims second victory at Prague Masters, joins Aravindh at top"
+      },
+      {
          "description" : "Tuesday 4th March 2025 at 12.30pm at Golders Green Crematorium East, 62 Hoop Lane, London NW11 7NL. Officiated by: Rabbi Roberta Harris (gentlemen please cover your heads). Stewart's niece has...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "Nakamura Scores 75.5/80 In Strongest-Ever Bullet Brawl"
       },
       {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
+         "description" : "A loud machine, an empty battery - that's the usual result when powerful chess engines perform deep analysis on a notebook. A tough test for the hardware. With the ChessBase Engine Cloud you avoid these problems and have access to powerful computers that do the calculations for you. We present two of our remote engine providers, where you can rent top performance for ducats. | Photos: Ranch Computing / Rechenschieber",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Sat, 01 Mar 2025 15:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
+         "link" : "https://en.chessbase.com/post/resource-saving-high-tech-analyses-with-the-chessbase-engine-cloud-2",
+         "pubDate" : "Sat, 01 Mar 2025 16:00:00",
+         "title" : "Resource-saving high-tech analyses with the ChessBase Engine Cloud"
       },
       {
          "description" : "Student: \"I thought I played well, but I only got 60% accuracy\". Me: \"But that was still an awesome game!\" This conversation happens often in my lessons. Accuracy scores can be fun, but they can also give us a misleading sense of how well we've played. Often, students play good practical chess but get a []",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Carlsen's World Famous Jeans Auctioned For $36,100 After Bidding War"
       },
       {
-         "description" : "After laying the foundation in Volume 1, it's time to dive deeper into key strategic concepts that will elevate your middlegame play. But don't expect long theoretical explanations - this course is all about active learning!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-mastering-chess-strategy-vol-2-take-your-piece-play-to-the-next-level",
-         "pubDate" : "Sat, 01 Mar 2025 11:00:00",
-         "title" : "Robert Ris: Mastering Chess Strategy - Take your piece play to the next level!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118646765.cms\" />GM Gukesh Dommaraju has climbed to world number three in the latest FIDE rankings after an impressive performance at the Tata Steel Chess Masters 2025. GM Praggnanandhaa Rameshbabu reentered the top-10 by winning the Tata Steel title. GM Magnus Carlsen remains number-one, while GM Hikaru Nakamura is now second. Significant shifts occurred in the women's rankings as well.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "In 1984, I claimed a moral win over him; got my greatest chess tutorial from him afterwards"
       },
       {
-         "description" : "Aravindh Chithambaran grabbed a second win in a row to grab the sole lead at the Masters section of the Prague Chess Festival. Meanwhile, Vincent Keymer continues to play all or nothing - after his round-one win against Wei Yi, he lost to Aravindh, and has now defeated Sam Shankland with black. The third decisive game of the day in the Masters saw Praggnanandhaa Rameshbabu beating Thai Dai Van Nguyen. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-3",
-         "pubDate" : "Sat, 01 Mar 2025 03:40:00",
-         "title" : "Prague R3: Aravindh wins again, leads"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118640857.cms\" />Indian Grandmaster R Praggnanandhaa won against Czech Republic's Nguyen Thai Dai Van in the third round of the Prague Masters. Praggnanandhaa achieved victory with a decisive middle game and expert endgame execution. This win was crucial after drawing his first two matches in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-school-chess-championship-2024-25-in-peddapuram-ap/",
          "pubDate" : "Fri, 28 Feb 2025 16:45:10",
          "title" : "Certificate of National School Chess Championship 2024-25 in Peddapuram ,AP"
-      },
-      {
-         "description" : "What's new at ChessBase? Whether it's video courses, the ChessBase Magazine or databases: there's a lot going on at ChessBase and we have something for everyone. Many new video courses have already been released during the cold season. Find out which ones they are in the following article...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-releases-jan-25",
-         "pubDate" : "Fri, 28 Feb 2025 15:55:30",
-         "title" : "Review: All new releases in January!"
       },
       {
          "description" : "GM Aravindh Chithambaram took the sole lead of the 2025 Prague Chess Festival Masters after winning his game in round three against GM Wei Yi. There were two more decisive results: GM Vincent Keymer bounced back from yesterday&#39;s loss by beating GM...",
@@ -194,14 +194,6 @@ news_feed (
          "title" : "Arjun India's First To Claim Freestyle Friday"
       },
       {
-         "description" : "In the main line of the Yugoslav Attack, the ninth move Bc4 is nearly as popular as castling long. While Bd7 remains the most common response, Chris has some excellent alternative suggestions that can give Black an edge. Interestingly, Bc4 recently proved to be a nightmare for co-host Arne Kaehler, as Chris thoroughly enjoyed predicting and countering Arne's \"amateur\" plans. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-how-to-win-against-9-bc4",
-         "pubDate" : "Fri, 28 Feb 2025 10:00:00",
-         "title" : "The Monthly Dragon - How to win against 9. Bc4!"
-      },
-      {
          "description" : "The third leg of the FIDE Women's Grand Prix 2024/2025 took place from 17-28 February in Monte-Carlo, Monaco. After intense nine rounds, three players finished the event tying for the top with the score of 5.5 points each: GM Aleksandra Goryachkina (FIDE, 2546), GM Humpy Koneru (IND, 2523) and IM Batkhuyag Munguntuul (MGL, 2331). Having the best tiebreaks (Sonneborn-Berger), Aleksandra Goryachkina emerged as the Winner of the event and leads on the FIDE Women's Grand Prix standings with 236.67 points. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -248,14 +240,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/path-podium-usa-women-50-team",
          "pubDate" : "Fri, 28 Feb 2025 00:00:00",
          "title" : "Path to the Podium: USA Women 50+ Team"
-      },
-      {
-         "description" : "The 2025 World Senior Team Chess Championship in Prague showcased thrilling battles as veteran players proved their enduring brilliance. In the 50+ category, top-seeded USA edged out Italy on tiebreaks, while Kazakhstan secured bronze. England 1 dominated the 65+ section, claiming gold ahead of Lasker Schachstiftung GK and Saxonia. The women's teams shone, with the Czech Republic and Latvia taking top honours. Across nine rounds, legendary grandmasters proved that chess truly knows no age limits. | Photos: Ave Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2025-final-report",
-         "pubDate" : "Thu, 27 Feb 2025 20:00:00",
-         "title" : "World Senior Team Championships: USA and England crowned champions"
       },
       {
          "description" : " Boris Vasilievich Spassky was born in Leningrad January 30th 1937 and has died in Moscow February 27th 2025 at the age of 88. The former World Chess Champion played two championship matches against Tigran Petrosian, winning the second one in 1969 to become the 10th holder of the title. Spassky lost his only defence against Bobby Fischer in a match in Reykjavik in 1972. This match gave him worldwide fame in the midst of a media frenzy at the height of the Cold War. Spassky was one of the leading players in the world from 1956 until the early 1980s. In 1992 he played Bobby Fischer in a rematch in Yugoslavia which briefly made them both famous again. In September 2010 he had a serious stroke, ",
@@ -320,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-2",
          "pubDate" : "Thu, 27 Feb 2025 12:20:00",
          "title" : "Aravindh Beats Keymer, Leads With Shankland"
-      },
-      {
-         "description" : "Vincent Keymer had a good start at the Masters section of the Chess Festival in Prague: he defeated top seed Wei Yi in Wednesday's first round. The second victory of the day was secured by Sam Shankland, who won against Ediz G&uuml;rel. The three remaining games all ended in draws. There were also two wins and three draws in the Challengers: the two winners were Jonas Buhl Bjerre, who beat Stamatis Kourkoulos-Arditis with black, and Ivan Salgado Lopez, who defeated Divya Deshmukh with white. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-1",
-         "pubDate" : "Thu, 27 Feb 2025 11:50:00",
-         "title" : "Prague R1: Keymer and Shankland start with wins"
       },
       {
          "description" : "Stewart Reuben, who died on February 4 aged 85, was England's outstanding chess organiser of the 20th century, and played a key role in the chess explosion of the 1970s....",
@@ -896,14 +872,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-bows-out-of-freestyle-grand-slam-chess-after-loss-to-fabiano-caruana/articleshow/118123163.cms",
          "pubDate" : "Mon, 10 Feb 2025 15:48:14",
          "title" : "Gukesh bows out of Freestyle Grand Slam chess after loss to Caruana"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118119319.cms\" />At a meeting in Weissenhaus on Sunday, the Freestyle Chess Players Club declared the 2025 Grand Slam Tour winner will be titled 'Freestyle Chess Champion'. The club plans to establish an independent association to protect their interests, challenging FIDE's restrictive policies. Players are uniting to safeguard their freedom to compete in both Freestyle and FIDE events.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/2025-grand-slam-tour-winner-to-be-titled-freestyle-chess-champion/articleshow/118119319.cms",
-         "pubDate" : "Mon, 10 Feb 2025 12:19:22",
-         "title" : "2025 Grand Slam Tour winner to be titled 'Freestyle Chess Champion'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118114167.cms\" />Rameshbabu Praggnanandhaa's victory in the Tata Steel Masters highlights his exceptional talent. Grandmaster Wei Yi, impressed by the Indian prodigy, prepares to compete in the Norway Chess 2025 against top players like Magnus Carlsen. Wei emphasizes the need for greater support for chess in China and shares his strategies for upcoming tournaments.",
