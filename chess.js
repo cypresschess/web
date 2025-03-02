@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Grand Chess Tour marks its 10th anniversary with a record $1.6 million prize fund and the return of the GCT Finals - held for the first time in South America, in São Paulo. Featuring an elite field, including world champion Gukesh Dommaraju and past GCT winners, the tour will span classical and rapid and blitz events across multiple cities. With legendary support from the Saint Louis Chess Club and Superbet Foundation, this milestone edition promises thrilling battles at the highest level of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-2025-announcement",
+         "pubDate" : "Sun, 02 Mar 2025 20:00:00",
+         "title" : "Grand Chess Tour celebrates tenth anniversary with elite field"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Peter Leko, Sagar Shah and Harshit Raja.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-signs-for-team-falcons-joins-nakamura-yu-yangyi-also-signed",
-         "pubDate" : "Sun, 02 Mar 2025 05:53:24",
+         "pubDate" : "Sun, 02 Mar 2025 05:53:00",
          "title" : "Firouzja Joins Nakamura At Team Falcons, Yu Yangyi Signs With Wolves Esports"
       },
       {
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2025/",
          "pubDate" : "Mon, 10 Feb 2025 08:53:39",
          "title" : "ECU E-Magazine January 2025"
-      },
-      {
-         "description" : "Of the 22 clips on this month's short list for featured video of the month, 14 were for the first leg of the <A HREF=\"https://chess960frc.blogspot.com/2024/12/2025-fcgst.html\">2025 FCGST</A> (December 2024; '2025 Freestyle Chess Grand Slam Tour') in Weissenhaus, Germany. Since I'll be discussing that event on my chess960 blog -- to which that FCGST link goes -- I picked another clip for this post. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/esKSAQs1OeY?si=XBUWQe4PtJsiowyQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/dgt-enschede-nl.html",
-         "pubDate" : "Sun, 09 Feb 2025 16:32:00",
-         "title" : "DGT Enschede NL"
       }
    ]
 }
