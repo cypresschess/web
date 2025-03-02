@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase 18 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-4-figurines-and-colours",
+         "pubDate" : "Sun, 02 Mar 2025 12:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, Part 4: Figurines and Colours"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118662462.cms\" />Magnus Carlsen's jeans auctioned for $36,100, significantly captivating the chess community. Originally priced between $300-$500, the jeans gained notoriety during the World Rapid Championship. The proceeds are donated to Big Brothers Big Sisters of America, enhancing their chess clinics and mentorship programs, thus reflecting Carlsen's commitment to both principle and philanthropy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-controversial-jeans-fetch-rs-31-lakh-at-auction/articleshow/118662462.cms",
+         "pubDate" : "Sun, 02 Mar 2025 11:39:09",
+         "title" : "Magnus Carlsen's controversial jeans fetch Rs 31 lakh at auction"
+      },
+      {
+         "description" : "All India Chess Federation is going to organize two days Online Arbiter Refresher Course for all IA's International Arbiters desirous to undergo the subject Refresher",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-arbiter-refresher-course-2025-2026/",
+         "pubDate" : "Sun, 02 Mar 2025 08:55:04",
+         "title" : "AICF ARBITER REFRESHER COURSE 2025-2026"
+      },
+      {
          "description" : "TENTATIVE NATIONAL CALENDAR No. Event State Date 1 National Under-7 Odisha 04-08 June 2025 2 National Under-09 Haryana 14-20 June 2025 3 National Under-11 Maharashtra",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "Gukesh bows out of Freestyle Grand Slam chess after loss to Caruana"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118114167.cms\" />Rameshbabu Praggnanandhaa's victory in the Tata Steel Masters highlights his exceptional talent. Grandmaster Wei Yi, impressed by the Indian prodigy, prepares to compete in the Norway Chess 2025 against top players like Magnus Carlsen. Wei emphasizes the need for greater support for chess in China and shares his strategies for upcoming tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-china-no-1-wei-yi-lauds-gukesh-and-praggnanandhaa-says-blitz-games-shouldnt-decide-classical-chess-titles/articleshow/118114167.cms",
-         "pubDate" : "Mon, 10 Feb 2025 10:21:38",
-         "title" : "Exclusive | 'Blitz games shouldn't decide classical titles': Wei Yi"
-      },
-      {
          "description" : "The ECU E-Magazine January 2025 is out! In this edition of the ECU Magazine you may read about: The January 2025 edition of the ECU Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -904,22 +920,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/",
          "pubDate" : "Sun, 09 Feb 2025 16:04:35",
          "title" : "Stephen Muhammad, pioneering International Master (1962-2024)"
-      },
-      {
-         "description" : "D Gukesh will face Fabiano Caruana in the quarterfinals of the Freestyle Chess Grand Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43748759/freestyle-chess-grand-tour-gukesh-loses-carlsen-qualifies-knockouts?device=featurephone",
-         "pubDate" : "Sun, 9 Feb 2025 11:41:01",
-         "title" : "Freestyle Chess Grand Tour: Gukesh loses to Carlsen; still qualifies for knockouts"
-      },
-      {
-         "description" : "D Gukesh will need to beat Fabiano Caruana in game 2 of the quarterfinals of the Freestyle Chess Grand Tour to stay alive in the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43764409/gukesh-loses-caruana-verge-freestyle-chess-weissenhaus-quarterfinal-exit?device=featurephone",
-         "pubDate" : "Sun, 9 Feb 2025 11:37:45",
-         "title" : "Gukesh loses to Caruana; on verge of Freestyle Chess quarterfinal exit"
       }
    ]
 }
