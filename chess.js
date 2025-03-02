@@ -14,8 +14,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-1-2025",
-         "pubDate" : "Sat, 01 Mar 2025 16:11:54",
-         "title" : "Nakamura Scores 75.5/80 In Strongest Ever Bullet Brawl"
+         "pubDate" : "Sat, 01 Mar 2025 16:11:00",
+         "title" : "Nakamura Scores 75.5/80 In Strongest-Ever Bullet Brawl"
       },
       {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
