@@ -10,6 +10,14 @@ news_feed (
          "title" : "Stewart Reuben - funeral details for Tuesday 4th March"
       },
       {
+         "description" : "GM Hikaru Nakamura made a resounding statement in Saturday&#39;s Bullet Brawl, dominating the strongest edition in history after scoring 75.5/80 and accumulating 286 points. IM Yoseph Taher and GM Sam Sevian rounded out the podium, finishing well belo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-1-2025",
+         "pubDate" : "Sat, 01 Mar 2025 16:11:54",
+         "title" : "Nakamura Scores 75.5/80 In Strongest Ever Bullet Brawl"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,11 +46,11 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-4",
-         "pubDate" : "Sat, 01 Mar 2025 12:09:11",
+         "pubDate" : "Sat, 01 Mar 2025 12:09:00",
          "title" : "Praggnanandhaa Beats Keymer, Leads With Aravindh By 1 Point"
       },
       {
-         "description" : "GM Magnus Carlsen&#39;s world famous jeans from the 2024 World Rapid Championship have been sold at auction for a staggering $36,000. The proceeds will go to charity. An anonymous bidder had the highest bid on Saturday following a 10-day bidding war...",
+         "description" : "GM Magnus Carlsen&#39;s world famous jeans from the 2024 World Rapid Championship have been sold at auction for a staggering $36,100. The proceeds will go to charity. An anonymous bidder had the highest bid on Saturday following a 10-day bidding war...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-world-famous-jeans-auctioned-after-bidding-war",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-22-2025",
          "pubDate" : "Sat, 22 Feb 2025 16:59:00",
          "title" : "Nakamura Wins 36th Title In 'Back To Work' Brawl"
-      },
-      {
-         "description" : "GM Kateryna Lagno continues to lead the 2025 Monaco FIDE Women&#39;s Grand Prix before the rest day after all games were drawn in round five. GM Koneru Humpy let a big chance slip in a long game against GM Tan Zhongyi, while GM Aleksandra Goryachkina ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-5",
-         "pubDate" : "Sat, 22 Feb 2025 14:39:00",
-         "title" : "Humpy Lets Tan Zhongyi Escape; Lagno Leads Monaco Grand Prix"
       },
       {
          "description" : "Imagine your roof is leaking, and water is pouring in, damaging your home. What do you do? Most would follow this simple process: That makes sense, right? Now, imagine a friend says: \"I have a leaking roof. I know where it's coming from. I tried fixing it, but I gave up. Now, I simply live []",
