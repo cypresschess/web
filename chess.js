@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Peter Leko, Sagar Shah and Harshit Raja.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Sun, 02 Mar 2025 15:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
          "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase 18 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2025-4",
          "pubDate" : "Sun, 02 Mar 2025 07:00:00",
          "title" : "Prague R4: Pragg beats Keymer, catches Aravindh"
+      },
+      {
+         "description" : "The rise of of chess in esports continues. On Saturday, Team Falcons announced the signing of none other than GM Alireza Firouzja, while Wolves Esports made their first acquisition with Chinese star GM Yu Yangyi. Firouzja, a 21-year-old Iranian-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-signs-for-team-falcons-joins-nakamura-yu-yangyi-also-signed",
+         "pubDate" : "Sun, 02 Mar 2025 05:53:24",
+         "title" : "Firouzja Joins Nakamura At Team Falcons, Yu Yangyi Signs With Wolves Esports"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118658401.cms\" />Indian grandmasters R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters with three points each after round four. Praggnanandhaa achieved victory over Germany's Vincent Keymer, while Aravindh drew with American Sam Shankland, setting up an exciting upcoming round between the two Indian leaders.",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "17-Year-Old Maurizzi Dominates In Djerba With Spectacular 2900 Performance"
       },
       {
-         "description" : "Following an eventful fortnight, GM Hikaru Nakamura returned to the Bullet Brawl arena to capture his 36th title and the $400 first prize, scoring 65/74 and finishing with a score of 232 ahead of 228 other titled players. The event was headlined...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-22-2025",
-         "pubDate" : "Sat, 22 Feb 2025 16:59:00",
-         "title" : "Nakamura Wins 36th Title In 'Back To Work' Brawl"
-      },
-      {
          "description" : "Imagine your roof is leaking, and water is pouring in, damaging your home. What do you do? Most would follow this simple process: That makes sense, right? Now, imagine a friend says: \"I have a leaking roof. I know where it's coming from. I tried fixing it, but I gave up. Now, I simply live []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/dgt-enschede-nl.html",
          "pubDate" : "Sun, 09 Feb 2025 16:32:00",
          "title" : "DGT Enschede NL"
-      },
-      {
-         "description" : " Stephen Muhammad, an International Master and Georgia Chess Hall of Fame nominee, passed away on December 8th, 2024, after a short battle with colon cancer. He was 62. According to an online obituary, Stephen leaves to cherish his memories: one sister: Cheryle (Harold) Stewart, Plaquemine, LA; four brothers, Michael Booth of Columbus, GA; Ronald Booth, The post <a href=\"https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/\">Stephen Muhammad, pioneering International Master (1962-2024)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/02/09/stephen-muhammad-pioneering-international-master-1962-2024/",
-         "pubDate" : "Sun, 09 Feb 2025 16:04:35",
-         "title" : "Stephen Muhammad, pioneering International Master (1962-2024)"
       }
    ]
 }
