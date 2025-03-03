@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Schedule Thursday 20th- 2 rounds 10:00am and 4:00pm Friday...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
+         "pubDate" : "Mon, 03 Mar 2025 14:21:34",
+         "title" : "The 10th Menchik Memorial"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118686721.cms\" />The Freestyle Chess Grand Slam Tour 2025 heads to Paris from April 7 to 14, featuring 12 top grandmasters competing for a $750,000 prize pool. The event, held at Pavillon Chesnaie du Roy, promises thrilling matches with world champions like Magnus Carlsen, Gukesh Dommaraju, and others. The final player will be selected via an online qualification event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-d-gukesh-among-elite-chess-stars-to-battle-with-750000-at-stake-in-paris/articleshow/118686721.cms",
+         "pubDate" : "Mon, 03 Mar 2025 13:54:10",
+         "title" : "Freestyle Chess: Carlsen, Gukesh to battle in Paris with $750,000 at stake"
+      },
+      {
          "description" : "The British Rapidplay Championship was held at the Holiday Inn, Peterborough on the 1st 2nd March 2025. After a very close contest, a playoff was required between grandmasters Nikita...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-chess-praggnanandhaa-and-aravindh-chithambaram-maintain-lead-after-draw-in-fifth-round/articleshow/118677299.cms",
          "pubDate" : "Mon, 03 Mar 2025 06:41:50",
          "title" : "Prague Masters Chess: Praggnanandhaa and Aravindh Chithambaram maintain lead after draw in fifth round"
+      },
+      {
+         "description" : "Job Title: Events ManagerJob Type: ExemptHours: Full Time (40+ hours/week, with some weekends and evenings)Salary: The median salary for the role is $55,000 per year.Location: Headquartered in St. Louis, MO. Teleworking AllowedManager: Assistant Director of Events Position Overview The Events Manager is a full-time role in the Events Department of US Chess created to help manage all aspects of National Events. The events manager will support the Assistant Director and Director of Events in the following areas: National Events Management and SupportOversee all aspects of the team room reservation system for National Events, including maintenance of a mailing list, composing email blasts for t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-hiring-events-manager",
+         "pubDate" : "Mon, 03 Mar 2025 00:00:00",
+         "title" : "US Chess is Hiring Events Manager"
       },
       {
          "description" : "The 2025 Grand Chess Tour marks its 10th anniversary with a record $1.6 million prize fund and the return of the GCT Finals - held for the first time in South America, in São Paulo. Featuring an elite field, including world champion Gukesh Dommaraju and past GCT winners, the tour will span classical and rapid and blitz events across multiple cities. With legendary support from the Saint Louis Chess Club and Superbet Foundation, this milestone edition promises thrilling battles at the highest level of chess.",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Prague Chess Festival 2025"
       },
       {
-         "description" : "We have unfortunately cancelled the girls online semi-final due to lack of entries. The organiser, Andrew Martin, will now be pursuing schools who finished 10th or below in the southern...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/online-semi-final-nscc-girls-schools-team-championships/",
-         "pubDate" : "Wed, 19 Feb 2025 06:00:58",
-         "title" : "Online Semi-Final NSCC Girls Schools Team Championships - CANCELLED"
-      },
-      {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a staple of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! WGM Tatev Abrahamyan, who is also featured here, has been",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://aicf.in/asian-individual-chess-championships-mens-and-womens-2025-in-al-ain-uae-from-6th-to-16th-may-2025/",
          "pubDate" : "Tue, 18 Feb 2025 12:39:35",
          "title" : "Asian Individual Chess Championships (Men's and Women's) - 2025 in Al Ain, UAE from 6th to 16th May 2025"
-      },
-      {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a staple of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! But it's six-time Olympiad team member WGM Tat",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-5-womens-olympiad-team-past-and-present",
-         "pubDate" : "Tue, 18 Feb 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 5 (Women's Olympiad Team, Past and Present)"
       },
       {
          "description" : "The title of the previous post on AI Comics, <A HREF=\"https://chessforallages.blogspot.com/2025/02/surrealist-cubist-dadaist-chess.html\">Surrealist, Cubist, Dadaist Chess</A> (February 2025; 'Marcel Duchamp plays surrealist chess'), suggests the theme of this current post. I ended that post saying, <BLOCKQUOTE> That gives me at least two more avenues to explore -- (1) conceptual art and (2) Salvador Dali, not to overlook cubism and dadism. </BLOCKQUOTE> <P> Cubism I understand -- at least I think I do -- Dadaism is a mystery. Let's go with what I understand. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb17.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Marcel Duchamp plays cubist ches",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-hikaru-nakamura-to-a-draw-in-freestyle-grand-slam-chess/articleshow/118152895.cms",
          "pubDate" : "Tue, 11 Feb 2025 16:57:41",
          "title" : "D Gukesh holds Hikaru Nakamura to a draw in Freestyle Grand Slam chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118139954.cms\" />Indian chess Grandmaster R Vaishali aims for consistent performances and a spot in the Candidates Tournament this year. After becoming India's third female Grandmaster, she played a pivotal role in India's Chess Olympiad win and clinched bronze at the World Blitz Championship. Vaishali seeks to build on her experiences and improve her rankings in future tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-on-nodirbeks-handshake-refusal-didnt-know-it-was-big-thing-in-india/articleshow/118139954.cms",
-         "pubDate" : "Tue, 11 Feb 2025 08:15:19",
-         "title" : "Vaishali on handshake refusal: 'Didn't know it was big thing in India'"
       },
       {
          "description" : "Arjun Erigaisi has been signed by Gen G eSports to compete for a $1.5 million prize pool at the 2025 eSports World Cup in Saudi Arabia.",
