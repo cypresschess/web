@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The British Rapidplay Championship was held at the Holiday Inn, Peterborough on the 1st 2nd March 2025. After a very close contest, a playoff was required between grandmasters Nikita...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2025-report/",
+         "pubDate" : "Mon, 03 Mar 2025 11:41:34",
+         "title" : "British Rapidplay Championship 2025 - report"
+      },
+      {
+         "description" : "Boris Spassky died last Thursday, 27 February 2025. An exceptionally fine obituary by Leonard Barden appeared in the Guardian the following day. At 95, Barden continues to write chess columns for The Guardian and Financial Times, demonstrating his enduring passion and expertise in the field. Chess historian Edward Winter likewise presents some excellent material on Spassky.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/looking-back-at-spassky",
+         "pubDate" : "Mon, 03 Mar 2025 11:30:56",
+         "title" : "Looking back at Spassky"
+      },
+      {
+         "description" : "The European Youth Team Chess Championship 2025 will be organised in Brezice, Slovenia, from 4th July (arrival day) to 12th July 2025 (departure day). The event will include four (4) separate competitions, an open competition and a girl's competition in both age categories U12 and U18. The playing members of the teams shall not have reached the age of 12 or 18, depending on category, by 1st January 2025: Each national federation member of the European Chess Union (ECU) has []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-official-regulations/",
+         "pubDate" : "Mon, 03 Mar 2025 10:16:12",
+         "title" : "European Youth Team Chess Championship 2025 - Official regulations"
+      },
+      {
          "description" : "A trapped piece is a piece that has no escape squares or squares where it can safely move without being captured. Even 'heavier' pieces can become ensnared, as can minor pieces. Today GM and International Trainer Efstratios Grivas shows us what can happen to such pieces if you are not careful. Annotated games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -389,7 +413,7 @@ news_feed (
          "description" : "The England Over 65 team retained their World Senior Team Chess Championship title in Prague today, after securing the final point that left their rivals trailing in their wake. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-seniot-teams-chess-championships-2025/",
+         "link" : "https://www.englishchess.org.uk/world-senior-teams-chess-championships-2025/",
          "pubDate" : "Thu, 27 Feb 2025 08:00:20",
          "title" : "England Over 65s retain World Senior Team Chess Championship title!"
       },
@@ -714,14 +738,6 @@ news_feed (
          "title" : "Cubist Chess"
       },
       {
-         "description" : "A number of directors have confirmed that they intend either not to stand for re-election at October's AGM or to step down before the end of their three-year term at...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-board-vacancies/",
-         "pubDate" : "Mon, 17 Feb 2025 12:25:55",
-         "title" : "ECF Board Vacancies"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118316986.cms\" />Vantika Agrawal, inspired by chess as a child, became a double gold medallist at the 2024 Chess Olympiad and recently received the Arjuna Award. Despite challenges such as a lack of chess culture in north India, she remains dedicated, training rigorously with support from her mother, and aims to prove herself on the global chess stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/surrealist-cubist-dadaist-chess.html",
          "pubDate" : "Mon, 10 Feb 2025 16:53:00",
          "title" : "Surrealist, Cubist, Dadaist Chess"
-      },
-      {
-         "description" : "The ECU E-Magazine January 2025 is out! In this edition of the ECU Magazine you may read about: The January 2025 edition of the ECU Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-january-2025/",
-         "pubDate" : "Mon, 10 Feb 2025 08:53:39",
-         "title" : "ECU E-Magazine January 2025"
       }
    ]
 }
