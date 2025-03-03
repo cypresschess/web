@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A trapped piece is a piece that has no escape squares or squares where it can safely move without being captured. Even 'heavier' pieces can become ensnared, as can minor pieces. Today GM and International Trainer Efstratios Grivas shows us what can happen to such pieces if you are not careful. Annotated games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-trapping-a-piece-2",
+         "pubDate" : "Mon, 03 Mar 2025 09:10:51",
+         "title" : "Grivas on trapping a piece - 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118677299.cms\" />Indian players R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters chess tournament with 3.5 points each after five rounds. This round witnessed Wei Yi's victory over Sam Shankland. Both Praggnanandhaa and Aravindh have maintained their positions, while Wei Yi, Anish Giri, Quang Lei, and Vincent Keymer follow closely behind with 2.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-chess-praggnanandhaa-and-aravindh-chithambaram-maintain-lead-after-draw-in-fifth-round/articleshow/118677299.cms",
+         "pubDate" : "Mon, 03 Mar 2025 06:41:50",
+         "title" : "Prague Masters Chess: Praggnanandhaa and Aravindh Chithambaram maintain lead after draw in fifth round"
+      },
+      {
          "description" : "The 2025 Grand Chess Tour marks its 10th anniversary with a record $1.6 million prize fund and the return of the GCT Finals - held for the first time in South America, in São Paulo. Featuring an elite field, including world champion Gukesh Dommaraju and past GCT winners, the tour will span classical and rapid and blitz events across multiple cities. With legendary support from the Saint Louis Chess Club and Superbet Foundation, this milestone edition promises thrilling battles at the highest level of chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/surrealist-cubist-dadaist-chess.html",
          "pubDate" : "Mon, 10 Feb 2025 16:53:00",
          "title" : "Surrealist, Cubist, Dadaist Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118123163.cms\" />World champion D Gukesh exited the Freestyle Grand Slam Chess after his second quarterfinal loss to Fabiano Caruana in Hamburg. Gukesh, needing a win, blundered a pawn early, leading to his resignation in just 18 moves. Despite the setback, he remains in the tournament, now focusing on a last-four finish.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-bows-out-of-freestyle-grand-slam-chess-after-loss-to-fabiano-caruana/articleshow/118123163.cms",
-         "pubDate" : "Mon, 10 Feb 2025 15:48:14",
-         "title" : "Gukesh bows out of Freestyle Grand Slam chess after loss to Caruana"
       },
       {
          "description" : "The ECU E-Magazine January 2025 is out! In this edition of the ECU Magazine you may read about: The January 2025 edition of the ECU Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format below.",
