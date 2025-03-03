@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fifth round of the Masters tournament in Prague brought only one victory. Wei Yi managed it against Sam Shankland, who completely failed in the opening. All four other games ended in draws, with Vincent Keymer missing a good chance to score. At the halfway stage, Aravindh Chithambaram and Praggnanandhaa Rameshbabu are in the joint lead with 3&frac12; out of 5 points each, a full point ahead of the chasing pack. In the Challengers, Nodirbek Yakubboev leads the field with 4 out of 5 points. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-5",
+         "pubDate" : "Mon, 03 Mar 2025 20:00:00",
+         "title" : "Prague R5: Wei scores second win in a row"
+      },
+      {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Schedule Thursday 20th- 2 rounds 10:00am and 4:00pm Friday...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2025 - Official regulations"
       },
       {
+         "description" : "World Champion Gukesh Dommaraju, Defending Champion GM Alireza Firouzja, and 2023 Champion GM Fabiano Caruana top the nine-player lineup for the $1.6 million 2025 Grand Chess Tour. GMs Levon Aronian and Jan-Krzysztof Duda, who replace GMs Ian Nepo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-gukesh-caruana-firouzja",
+         "pubDate" : "Mon, 03 Mar 2025 10:10:00",
+         "title" : "Gukesh Tops 2025 Grand Chess Tour Lineup, With Sao Paulo Finals Added"
+      },
+      {
          "description" : "A trapped piece is a piece that has no escape squares or squares where it can safely move without being captured. Even 'heavier' pieces can become ensnared, as can minor pieces. Today GM and International Trainer Efstratios Grivas shows us what can happen to such pieces if you are not careful. Annotated games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-chess-praggnanandhaa-and-aravindh-chithambaram-maintain-lead-after-draw-in-fifth-round/articleshow/118677299.cms",
          "pubDate" : "Mon, 03 Mar 2025 06:41:50",
          "title" : "Prague Masters Chess: Praggnanandhaa and Aravindh Chithambaram maintain lead after draw in fifth round"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Are you ready for the first rules quiz of the year? Put on your thinking caps to solve this quartet of problems! Question 1.At the State of Confusion Scholastic Championship, two young grade-schoolers faced off to battle it out over-the-board in a G/45 contest. After a lot of struggling, both combatants had to admit to being defeated by the requirement to keep score. They both knew - via their respective coaches - the importance of having accurate score sheets. To solve their notation problem, they mutually decided to start another game with a vow to do a better job of scribbling their moves down. Of course, this solution ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-first-rules-quiz-year",
+         "pubDate" : "Mon, 03 Mar 2025 00:00:00",
+         "title" : "Just the Rules: First Rules Quiz of the Year"
       },
       {
          "description" : "Job Title: Events ManagerJob Type: ExemptHours: Full Time (40+ hours/week, with some weekends and evenings)Salary: The median salary for the role is $55,000 per year.Location: Headquartered in St. Louis, MO. Teleworking AllowedManager: Assistant Director of Events Position Overview The Events Manager is a full-time role in the Events Department of US Chess created to help manage all aspects of National Events. The events manager will support the Assistant Director and Director of Events in the following areas: National Events Management and SupportOversee all aspects of the team room reservation system for National Events, including maintenance of a mailing list, composing email blasts for t",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Grivas on Trapping a Piece"
       },
       {
-         "description" : "Have you ever wanted to be a chess world champion?&#38;nbsp;Have you ever dreamed of proving yourself as the best in the chess streaming business? Well now&#38;rsquo;s your chance to fail at both! KICK and Hikaru cordially invite you to participate in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kick-streamers-chess-world-chess-championship-of-chess",
-         "pubDate" : "Mon, 24 Feb 2025 10:34:00",
-         "title" : "KICK Streamers Chess World Chess Championship of Chess"
-      },
-      {
          "description" : "It was an eventful Presidents Day weekend for a host of norm-seekers in New York, with the 21st NYC Chess Norms event producing its 51st total norm alongside a host of other impressive results. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> IM Josiah Stearman moves closer to the 2500 threshold and the GM title (Photo courtesy of Oscar Garcia)<br> <br> <br> <br> The one GM norm section saw IM Josiah Stearman fall a half-point shy of a GM norm despite winning the tournament with a 6&frac12;/9 score. Stearman likely isn't too disappointed, however, as he already has three GM norms! All that's left is the 2500 FIDE rating, and he netted 13.6 FIDE rating p",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://www.europechess.org/prague-chess-festival-2025/",
          "pubDate" : "Wed, 19 Feb 2025 18:40:42",
          "title" : "Prague Chess Festival 2025"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on several players from the USA FIDE Women's Olympiad teams, past and present (and future). GM Irina Krush has been a staple of the American team since 1998. That's before either her 2022 teammate WGM Jennifer Yu or her 2024 teammate IM Alice Lee were born! WGM Tatev Abrahamyan, who is also featured here, has been",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-5-womens-olympiad-team-past-and-present",
-         "pubDate" : "Wed, 19 Feb 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 5 (Women's Olympiad Team, Past and Present)"
       },
       {
          "description" : " The Chessable Masters took place Tue 18th Feb to Fri 21st Feb 2025. Players: Grischuk, Firouzja, Esipenko, Giri, Erigaisi, Caruana, Nakamura, Nepomniachtchi, Duda, Carlsen, Praggnanandhaa, Sevian, Artemiev, Wei Yi, Wesley So and Yu Yangyi. 10 minutes per game. Double Elimination KO. Magnus Carlsen made very light work of winning the event beating Hikaru Nakamura in the Winners and Grand Final, there was no need for a final reset final. ",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43779369/gukesh-loses-quarterfinal-caruana-freestyle-chess-weissenhaus-2025?device=featurephone",
          "pubDate" : "Tue, 11 Feb 2025 01:20:25",
          "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
-      },
-      {
-         "description" : "Continuing to explore the bizarre, parallel world of AI chess comics, it's been a month since the post on <A HREF=\"https://chessforallages.blogspot.com/2025/01/surrealist-chess.html\">Surrealist Chess</A> (January 2025; 'Rene Magritte plays surrealist chess'). Perhaps the best known chess artist is Marcel Duchamp, so let's see what the AI software thinks about him and his work. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb10.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Marcel Duchamp plays surrealist chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> While that's unmistakably Marcel Duchamp, the images aren't nearly as compelling as those in the Magritte ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/surrealist-cubist-dadaist-chess.html",
-         "pubDate" : "Mon, 10 Feb 2025 16:53:00",
-         "title" : "Surrealist, Cubist, Dadaist Chess"
       }
    ]
 }
