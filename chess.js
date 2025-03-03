@@ -18,11 +18,11 @@ news_feed (
          "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
-         "description" : "GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram continue to share the lead by a full point after their draw in round five in the&#38;nbsp; 2025 Prague Chess Festival Masters. GM Wei Yi reached a 50 percent score after winning the only decisive...",
+         "description" : "GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram continue to share the lead by a full point after their draw in round five of the 2025 Prague Chess Festival Masters. GM Wei Yi reached a 50-percent score after winning the only decisive game,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-5",
-         "pubDate" : "Sun, 02 Mar 2025 13:52:38",
+         "pubDate" : "Sun, 02 Mar 2025 13:52:00",
          "title" : "Wei Scores 2nd Win In 27 Moves"
       },
       {
