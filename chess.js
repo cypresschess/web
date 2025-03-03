@@ -18,6 +18,14 @@ news_feed (
          "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
+         "description" : "GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram continue to share the lead by a full point after their draw in round five in the&#38;nbsp; 2025 Prague Chess Festival Masters. GM Wei Yi reached a 50 percent score after winning the only decisive...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-5",
+         "pubDate" : "Sun, 02 Mar 2025 13:52:38",
+         "title" : "Wei Scores 2nd Win In 27 Moves"
+      },
+      {
          "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase 18 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/bryan-lin-earns-first-im-norm-stearman-moves-towards-2500-and-more-nyc-chess-norms",
          "pubDate" : "Mon, 24 Feb 2025 00:00:00",
          "title" : "Bryan Lin Earns First IM Norm, Stearman Moves Towards 2500, and More at NYC Chess Norms Invitational"
-      },
-      {
-         "description" : "Young French GM Marc&#39;Andria Maurizzi delivered a masterclass at the Djerba Chess Festival, producing one of the most stunning tournament performances of 2025 so far. The 17-year-old grandmaster was seeded only ninth in the 10-player round-robin ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maurizzi-dominates-with-spectacular-2900-performance-in-djerba",
-         "pubDate" : "Sun, 23 Feb 2025 15:17:00",
-         "title" : "17-Year-Old Maurizzi Dominates In Djerba With Spectacular 2900 Performance"
       },
       {
          "description" : "Imagine your roof is leaking, and water is pouring in, damaging your home. What do you do? Most would follow this simple process: That makes sense, right? Now, imagine a friend says: \"I have a leaking roof. I know where it's coming from. I tried fixing it, but I gave up. Now, I simply live []",
