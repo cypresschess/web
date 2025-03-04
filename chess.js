@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Tue, 04 Mar 2025 15:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
          "description" : "In mid-March, the Saint Louis Chess Club will present its first major tournament of 2025, the American Cup. The best male and female players in the USA will compete for $400,000 in a double elimination format from 15 to 24 March. But before that, six top players will battle it out in the Champions Showdown from 4-6 March.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "European Universities Chess Championship 2025"
       },
       {
+         "description" : "The British Broadcasting Corporation (BBC) has released the official trailer for its upcoming series Chess Masters: The Endgame. The highly anticipated series, in which 12 rising stars of the UK&#38;rsquo;s booming chess community battle it out and GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bbc-chess-masters-the-endgame-official-trailer",
+         "pubDate" : "Tue, 04 Mar 2025 08:18:00",
+         "title" : "BBC Releases Trailer For 'Chess Masters: The Endgame' Starting Monday"
+      },
+      {
          "description" : "In his latest column, GM Jon Speelman explores the fascinating Novotny theme in chess problems, sharing two of his own recent compositions. With the aid of modern software, he crafted problems that highlight this striking interference motif. He also delves into the theme's history, tracing its origins to Antonin Novotny (pictured) and Henry Turton, and recalls brilliant missed Novotnys in practical play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-225",
          "pubDate" : "Tue, 04 Mar 2025 07:15:00",
          "title" : "Jon Speelman: A few patterns"
+      },
+      {
+         "description" : "IM Alice Lee has now beaten both GMs Anish Giri and Daniel Naroditsky in simultaneous displays, but in the fourth edition of Kids vs. Stars 2024 it was again the grandmaster who won, by a 2.5-1.5 scoreline. Naroditsky defeated WFM Bodhana Sivanand...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-lee-kids-vs-stars-episode-4",
+         "pubDate" : "Tue, 04 Mar 2025 07:03:55",
+         "title" : "Alice Lee Beats Naroditsky But GM Wins Simul"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118701993.cms\" />New Delhi is expected to host the FIDE Chess World Cup 2025 from October 31 to November 27, marking its return to India after 23 years. The capital city is the preferred location for major tournaments. Additionally, India will host the 5th leg of the FIDE Women's Grand Prix Series in Maharashtra this April.",
@@ -106,14 +130,6 @@ news_feed (
          "title" : "Gukesh Tops 2025 Grand Chess Tour Lineup, With Sao Paulo Finals Added"
       },
       {
-         "description" : "A trapped piece is a piece that has no escape squares or squares where it can safely move without being captured. Even 'heavier' pieces can become ensnared, as can minor pieces. Today GM and International Trainer Efstratios Grivas shows us what can happen to such pieces if you are not careful. Annotated games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-trapping-a-piece-2",
-         "pubDate" : "Mon, 03 Mar 2025 09:10:51",
-         "title" : "Grivas on trapping a piece - 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118677299.cms\" />Indian players R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters chess tournament with 3.5 points each after five rounds. This round witnessed Wei Yi's victory over Sam Shankland. Both Praggnanandhaa and Aravindh have maintained their positions, while Wei Yi, Anish Giri, Quang Lei, and Vincent Keymer follow closely behind with 2.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-5",
          "pubDate" : "Sun, 02 Mar 2025 13:52:00",
          "title" : "Wei Scores 2nd Win In 27 Moves"
-      },
-      {
-         "description" : "When you work with a programme on a regular basis, you should make that work as pleasant as possible. ChessBase 18 offers endless possibilities - and that goes for the look too. Make your workspace individual and pleasant. In part 4 of our new series of tutorials we will show you how easy it is to design your individual notation so that analysing with it is a maximum pleasure.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-4-figurines-and-colours",
-         "pubDate" : "Sun, 02 Mar 2025 12:00:00",
-         "title" : "ChessBase 18 - Tips for Beginners, Part 4: Figurines and Colours"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118662462.cms\" />Magnus Carlsen's jeans auctioned for $36,100, significantly captivating the chess community. Originally priced between $300-$500, the jeans gained notoriety during the World Rapid Championship. The proceeds are donated to Big Brothers Big Sisters of America, enhancing their chess clinics and mentorship programs, thus reflecting Carlsen's commitment to both principle and philanthropy.",
@@ -600,22 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-episode-4",
          "pubDate" : "Tue, 25 Feb 2025 08:00:00",
          "title" : "Naroditsky Takes On 4 Young Prodigies Simultaneously In Kids vs. Stars Episode 4"
-      },
-      {
-         "description" : "GM Sergey Karjakin, a former challenger for the world chess championship title, has been sanctioned by the European Union (EU) for his continued support of Russia&#39;s war of aggression in Ukraine. The EU&#39;s new measures were announced on the third ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sergey-karjakin-sanctioned-by-eu",
-         "pubDate" : "Tue, 25 Feb 2025 03:45:00",
-         "title" : "Sergey Karjakin Sanctioned By European Union"
-      },
-      {
-         "description" : "In week five of the Collegiate Chess League Spring 2025 (CCL) the star-studded Saint Louis University Team continued their undefeated season with a dominant performance against Yale University.&#38;nbsp; The CCL continues with week six on Saturday, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2025-collegiate-chess-league-spring-week-5",
-         "pubDate" : "Tue, 25 Feb 2025 02:03:59",
-         "title" : "SLU Handles Yale: CCL Spring Week 5"
       },
       {
          "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on two players who have made names for themselves online. GM Daniel Naroditsky is one of the internet's most prominent content creators and educators, while GM Brandon Jacobson's strong online blitz play culminated in a series of games (from an anonymous account) where he defeated Naroditsky repeatedly ",
