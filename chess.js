@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In mid-March, the Saint Louis Chess Club will present its first major tournament of 2025, the American Cup. The best male and female players in the USA will compete for $400,000 in a double elimination format from 15 to 24 March. But before that, six top players will battle it out in the Champions Showdown from 4-6 March.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-champions-showdown-and-american-cup-2025",
+         "pubDate" : "Tue, 04 Mar 2025 10:52:49",
+         "title" : "Saint Louis: Champions Showdown and American Cup 2025"
+      },
+      {
+         "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-universities-chess-championship-2025/",
+         "pubDate" : "Tue, 04 Mar 2025 10:48:54",
+         "title" : "European Universities Chess Championship 2025"
+      },
+      {
          "description" : "In his latest column, GM Jon Speelman explores the fascinating Novotny theme in chess problems, sharing two of his own recent compositions. With the aid of modern software, he crafted problems that highlight this striking interference motif. He also delves into the theme's history, tracing its origins to Antonin Novotny (pictured) and Henry Turton, and recalls brilliant missed Novotnys in practical play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +31,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/new-delhi-likely-to-host-fide-world-cup-2025-but-set-to-lose-freestyle-chess-grand-slam-to-europe/articleshow/118701993.cms",
          "pubDate" : "Tue, 04 Mar 2025 06:56:57",
-         "title" : "Delhi likely to host FIDE World Cup, lose Freestyle Chess rights"
+         "title" : "Delhi to host FIDE World Cup 2025 but Freestyle Chess slips away"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118697793.cms\" />Grandmaster R Praggnanandhaa, ranked No. 8 globally, faces American Sam Shankland in the sixth round of the Prague Masters. He is tied at the top with Aravindh Chithambaram at 3.5 points. Aravindh will play Quang Leim Le next. Wei Yi, having bounced back after losses, is a significant competitor. Divya Deshmukh seeks rating points in the Challengers section.",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-2025-announcement",
          "pubDate" : "Sun, 02 Mar 2025 20:00:00",
          "title" : "Grand Chess Tour celebrates tenth anniversary with elite field"
-      },
-      {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 1 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Peter Leko, Sagar Shah and Harshit Raja.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Sun, 02 Mar 2025 15:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
          "description" : "GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram continue to share the lead by a full point after their draw in round five of the 2025 Prague Chess Festival Masters. GM Wei Yi reached a 50-percent score after winning the only decisive game,...",
