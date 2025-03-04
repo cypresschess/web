@@ -58,7 +58,7 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2025 - Official regulations"
       },
       {
-         "description" : "World Champion Gukesh Dommaraju, Defending Champion GM Alireza Firouzja, and 2023 Champion GM Fabiano Caruana top the nine-player lineup for the $1.6 million 2025 Grand Chess Tour. GMs Levon Aronian and Jan-Krzysztof Duda, who replace GMs Ian Nepo...",
+         "description" : "World Champion Gukesh Dommaraju, defending Champion GM Alireza Firouzja, and 2023 Champion GM Fabiano Caruana top the nine-player lineup for the $1.6 million 2025 Grand Chess Tour. GMs Levon Aronian and Jan-Krzysztof Duda, who replace GMs Ian Nepo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-gukesh-caruana-firouzja",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/43792937/arjun-erigaisi-finds-new-chess-boards-esports-world-cup-2025-remains-focussed-candidates-gukesh?device=featurephone",
          "pubDate" : "Tue, 11 Feb 2025 06:31:17",
          "title" : "Erigaisi finds new boards at eSports World Cup but remains focussed on Candidates"
-      },
-      {
-         "description" : "D Gukesh will vie for the fifth to eighth place rankings in the Freestyle Chess Grand Slam at Weissenhaus.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43779369/gukesh-loses-quarterfinal-caruana-freestyle-chess-weissenhaus-2025?device=featurephone",
-         "pubDate" : "Tue, 11 Feb 2025 01:20:25",
-         "title" : "Gukesh loses quarterfinal against Caruana in Freestyle Chess Weissenhaus"
       }
    ]
 }
