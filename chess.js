@@ -26,6 +26,22 @@ news_feed (
          "title" : "European Universities Chess Championship 2025"
       },
       {
+         "description" : "The Freestyle Chess Grand Slam Tour 2025 continues with the second stop in Paris on April 7-14. It&#39;s a remarkably star-studded field that will feature twelve of the world&#39;s best players, with 11 now confirmed. The final spot will be determined thr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/freestyle-chess-paris-announced-carlsen-niemann-to-clash",
+         "pubDate" : "Tue, 04 Mar 2025 10:08:00",
+         "title" : "Carlsen, Gukesh, Niemann Clash In Paris For 2nd Leg Of Freestyle Chess Grand Slam"
+      },
+      {
+         "description" : "Most people don&#39;t associate the sport of disc golf with chess, but many of us are fans of both sports. The Discraft Supreme Flight Open (Presented by Florida&#39;s Adventure Coast) ran Friday, February 28 through Sunday, March 2 at the Olympus Disc Go...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-and-disc-golf-combine-at-the-discraft-supreme-flight-open",
+         "pubDate" : "Tue, 04 Mar 2025 09:04:01",
+         "title" : "Chess And Disc Golf Combine At Discraft Supreme Flight Open"
+      },
+      {
          "description" : "The British Broadcasting Corporation (BBC) has released the official trailer for its upcoming series Chess Masters: The Endgame. The highly anticipated series, in which 12 rising stars of the UK&#38;rsquo;s booming chess community battle it out and GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,12 +82,12 @@ news_feed (
          "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
       },
       {
-         "description" : "The fifth round of the Masters tournament in Prague brought only one victory. Wei Yi managed it against Sam Shankland, who completely failed in the opening. All four other games ended in draws, with Vincent Keymer missing a good chance to score. At the halfway stage, Aravindh Chithambaram and Praggnanandhaa Rameshbabu are in the joint lead with 3&frac12; out of 5 points each, a full point ahead of the chasing pack. In the Challengers, Nodirbek Yakubboev leads the field with 4 out of 5 points. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-5",
-         "pubDate" : "Mon, 03 Mar 2025 20:00:00",
-         "title" : "Prague R5: Wei scores second win in a row"
+         "description" : "US Chess is pleased to announce twelve grant awards under the US Chess Title I Grant Program. With support from generous donors, US Chess annually offers grants to nonprofit affiliate members and chess programs that support students attending Title I schools and which aligns with US Chess' mission to empower people, enrich lives, and enhance communities through chess. The 2025 grant recipients are: Board Room Chess (Baltimore, Maryland)Dr. Americo Parades Elementary (Brownsville, Texas)Edmonson Montessori (Detroit, Michigan)Hamilton K-8 School (Novato, California) IS 318 (Brooklyn, New York)John Marshall High School (Cleveland, Ohio)Julia R. Masterman Laboratory and Demonstration School (Phi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/twelve-schools-receive-us-chess-title-i-grants",
+         "pubDate" : "Tue, 04 Mar 2025 00:00:00",
+         "title" : "Twelve Schools to Receive US Chess Title I Grants"
       },
       {
          "description" : "In week six of the Collegiate Chess League Spring 2025 (CCL) the last two remaining undefeated teams faced-off in a rematch of last season&#39;s championship round. Saint Louis University narrowly avenged that match with an 8.5-7.5 win against Univers...",
@@ -154,14 +170,6 @@ news_feed (
          "title" : "US Chess is Hiring Events Manager"
       },
       {
-         "description" : "The 2025 Grand Chess Tour marks its 10th anniversary with a record $1.6 million prize fund and the return of the GCT Finals - held for the first time in South America, in São Paulo. Featuring an elite field, including world champion Gukesh Dommaraju and past GCT winners, the tour will span classical and rapid and blitz events across multiple cities. With legendary support from the Saint Louis Chess Club and Superbet Foundation, this milestone edition promises thrilling battles at the highest level of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-2025-announcement",
-         "pubDate" : "Sun, 02 Mar 2025 20:00:00",
-         "title" : "Grand Chess Tour celebrates tenth anniversary with elite field"
-      },
-      {
          "description" : "GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram continue to share the lead by a full point after their draw in round five of the 2025 Prague Chess Festival Masters. GM Wei Yi reached a 50-percent score after winning the only decisive game,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -194,14 +202,6 @@ news_feed (
          "title" : "TENTATIVE NATIONAL CALENDAR FOR 2025-26"
       },
       {
-         "description" : "Vincent Keymer continues to go all-in at the Masters section of the Chess Festival in Prague: the German went for an attack against Praggnanandhaa Rameshbabu, and lost. As a result, Pragg caught up with his compatriot Aravindh Chithambaram in the lead. Meanwhile, Wei Yi bounced back from his loss on Friday with a win over David Navara. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-4",
-         "pubDate" : "Sun, 02 Mar 2025 07:00:00",
-         "title" : "Prague R4: Pragg beats Keymer, catches Aravindh"
-      },
-      {
          "description" : "The rise of of chess in esports continues. On Saturday, Team Falcons announced the signing of none other than GM Alireza Firouzja, while Wolves Esports made their first acquisition with Chinese star GM Yu Yangyi. Firouzja, a 21-year-old Iranian-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -232,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-1-2025",
          "pubDate" : "Sat, 01 Mar 2025 16:11:00",
          "title" : "Nakamura Scores 75.5/80 In Strongest-Ever Bullet Brawl"
-      },
-      {
-         "description" : "A loud machine, an empty battery - that's the usual result when powerful chess engines perform deep analysis on a notebook. A tough test for the hardware. With the ChessBase Engine Cloud you avoid these problems and have access to powerful computers that do the calculations for you. We present two of our remote engine providers, where you can rent top performance for ducats. | Photos: Ranch Computing / Rechenschieber",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/resource-saving-high-tech-analyses-with-the-chessbase-engine-cloud-2",
-         "pubDate" : "Sat, 01 Mar 2025 16:00:00",
-         "title" : "Resource-saving high-tech analyses with the ChessBase Engine Cloud"
       },
       {
          "description" : "Student: \"I thought I played well, but I only got 60% accuracy\". Me: \"But that was still an awesome game!\" This conversation happens often in my lessons. Accuracy scores can be fun, but they can also give us a misleading sense of how well we've played. Often, students play good practical chess but get a []",
@@ -594,22 +586,6 @@ news_feed (
          "title" : "Never Mind the Grandmasters, Here Come the Amateurs - Carl Portman"
       },
       {
-         "description" : "Tactics win games, period. And when the opportunity comes to land a game-ending blow, you must be ready for it! Master the most common tactics with FM Frank Erwich&#39;s new 100 Tactical Patterns You Must Know course, now on Chessable. Tactically sh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/100-tactical-patterns-you-must-know-chessable",
-         "pubDate" : "Tue, 25 Feb 2025 09:01:00",
-         "title" : "Master 100 Common Tactical Patterns Everyone Must Know With Chessable's New Course"
-      },
-      {
-         "description" : "We&#39;re excited to announce the next edition of Kids vs. Stars, the event that pits the scariest up-and-coming kids against established chess stars. This time, it&#39;s GM Daniel Naroditsky&#39;s turn to be in the hot seat!&#38;nbsp; Starting on March 3 at 4 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-kids-vs-stars-episode-4",
-         "pubDate" : "Tue, 25 Feb 2025 08:00:00",
-         "title" : "Naroditsky Takes On 4 Young Prodigies Simultaneously In Kids vs. Stars Episode 4"
-      },
-      {
          "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on two players who have made names for themselves online. GM Daniel Naroditsky is one of the internet's most prominent content creators and educators, while GM Brandon Jacobson's strong online blitz play culminated in a series of games (from an anonymous account) where he defeated Naroditsky repeatedly ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -728,14 +704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/forthcoming-ecf-events-announcement/",
          "pubDate" : "Thu, 20 Feb 2025 09:00:22",
          "title" : "Forthcoming ECF events announcement"
-      },
-      {
-         "description" : "After four matches in Prague, the US Chess-sponsored USA team is a full point behind the leading teams from Italy and Kazakhstan after surrendering two draws. The US Chess-sponsored USA Women's team improved to 2&frac12;/4 after its win earlier today. Both teams are competing in the 50+ section. The fifth round of the nine-round event begins Friday, February 21, at 8:00 a.m. CST with playing resuming on Sunday, February 23, at the same time. More information about the USA teams can be found in our preview, and full regulations are available here. USA Women Strong After FourWith only the top ten matches being broadcast on DGT boards, we unfortunately have not been able to follow the games of ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/american-teams-solid-starts-2025-fide-world-senior-team-championships",
-         "pubDate" : "Thu, 20 Feb 2025 00:00:00",
-         "title" : "American Teams Off To Solid Starts at 2025 FIDE World Senior Team Championships"
       },
       {
          "description" : "The 7th edition of the Prague Chess Festival starts next week in Czech Republic, and takes place from 27 February to 7 March in Don Giovanni Hotel Prague. The Festival features Masters, Challengers and Futures round-robin events that are simultaneously played in the same venue, and includes Open tournaments, Rapid events and side chess tournaments. The Futures competition is supported by the European Chess Union. The Masters event features: Wei Yi (CHN, 2755), Praggnanandhaa R (IND, 2741), Le Quang Liem []",
