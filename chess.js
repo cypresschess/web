@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his latest column, GM Jon Speelman explores the fascinating Novotny theme in chess problems, sharing two of his own recent compositions. With the aid of modern software, he crafted problems that highlight this striking interference motif. He also delves into the theme's history, tracing its origins to Antonin Novotny (pictured) and Henry Turton, and recalls brilliant missed Novotnys in practical play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-225",
+         "pubDate" : "Tue, 04 Mar 2025 07:15:00",
+         "title" : "Jon Speelman: A few patterns"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118701993.cms\" />New Delhi is expected to host the FIDE Chess World Cup 2025 from October 31 to November 27, marking its return to India after 23 years. The capital city is the preferred location for major tournaments. Additionally, India will host the 5th leg of the FIDE Women's Grand Prix Series in Maharashtra this April.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-delhi-likely-to-host-fide-world-cup-2025-but-set-to-lose-freestyle-chess-grand-slam-to-europe/articleshow/118701993.cms",
+         "pubDate" : "Tue, 04 Mar 2025 06:56:57",
+         "title" : "Delhi likely to host FIDE World Cup, lose Freestyle Chess rights"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118697793.cms\" />Grandmaster R Praggnanandhaa, ranked No. 8 globally, faces American Sam Shankland in the sixth round of the Prague Masters. He is tied at the top with Aravindh Chithambaram at 3.5 points. Aravindh will play Quang Leim Le next. Wei Yi, having bounced back after losses, is a significant competitor. Divya Deshmukh seeks rating points in the Challengers section.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-grandmaster-r-praggnanandhaa-aims-for-victory-in-round-6/articleshow/118697793.cms",
+         "pubDate" : "Tue, 04 Mar 2025 04:26:28",
+         "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
+      },
+      {
          "description" : "The fifth round of the Masters tournament in Prague brought only one victory. Wei Yi managed it against Sam Shankland, who completely failed in the opening. All four other games ended in draws, with Vincent Keymer missing a good chance to score. At the halfway stage, Aravindh Chithambaram and Praggnanandhaa Rameshbabu are in the joint lead with 3&frac12; out of 5 points each, a full point ahead of the chasing pack. In the Challengers, Nodirbek Yakubboev leads the field with 4 out of 5 points. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -904,30 +928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-birth-of-freestyle-chess-how-magnus-carlsens-perfect-tournament-came-into-being/articleshow/118164392.cms",
          "pubDate" : "Wed, 12 Feb 2025 05:33:21",
          "title" : "How Magnus Carlsen's 'perfect tournament' came into being"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118161778.cms\" />Grandmaster Arjun Erigaisi is optimistic about securing a Candidates Tournament spot in 2025, feeling stronger and more prepared. Reflecting on his near misses, he is determined to qualify this year. Upcoming events, including the Norway elite meet, and insights from coach Rustam Kasimdzhanov boost his confidence for the competitions ahead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-need-to-play-a-bit-more-solidly-arjun-erigaisi/articleshow/118161778.cms",
-         "pubDate" : "Wed, 12 Feb 2025 03:27:23",
-         "title" : "I need to play a bit more solidly: Arjun Erigaisi"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118152895.cms\" />World champion D Gukesh drew with Hikaru Nakamura in the Freestyle Grand Slam chess tournament in Hamburg. Magnus Carlsen faced a surprising defeat by Vincent Keymer. Gukesh's draw marked his eighth in the competition, showcasing his recovery after a loss to Fabiano Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-hikaru-nakamura-to-a-draw-in-freestyle-grand-slam-chess/articleshow/118152895.cms",
-         "pubDate" : "Tue, 11 Feb 2025 16:57:41",
-         "title" : "D Gukesh holds Hikaru Nakamura to a draw in Freestyle Grand Slam chess"
-      },
-      {
-         "description" : "Arjun Erigaisi has been signed by Gen G eSports to compete for a $1.5 million prize pool at the 2025 eSports World Cup in Saudi Arabia.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/43792937/arjun-erigaisi-finds-new-chess-boards-esports-world-cup-2025-remains-focussed-candidates-gukesh?device=featurephone",
-         "pubDate" : "Tue, 11 Feb 2025 06:31:17",
-         "title" : "Erigaisi finds new boards at eSports World Cup but remains focussed on Candidates"
       }
    ]
 }
