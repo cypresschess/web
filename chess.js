@@ -10,6 +10,14 @@ news_feed (
          "title" : "Prague R5: Wei scores second win in a row"
       },
       {
+         "description" : "In week six of the Collegiate Chess League Spring 2025 (CCL) the last two remaining undefeated teams faced-off in a rematch of last season&#39;s championship round. Saint Louis University narrowly avenged that match with an 8.5-7.5 win against Univers...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-6",
+         "pubDate" : "Mon, 03 Mar 2025 16:10:00",
+         "title" : "SLU Defeats Mizzou To Remain Unbeaten, CCL Week 6"
+      },
+      {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Schedule Thursday 20th- 2 rounds 10:00am and 4:00pm Friday...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/what-is-dadaist-chess.html",
          "pubDate" : "Mon, 24 Feb 2025 16:17:00",
          "title" : "What Is Dadaist Chess?"
-      },
-      {
-         "description" : "GM Tan Zhongyi beat IM Sara Khadem in round six to score her first win of the 2025 Monaco FIDE Women&#39;s Grand Prix. The day&#39;s other winner was GM Aleksandra Goryachkina, who exploited a time-trouble mistake by GM Koneru Humpy to move into second pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-6",
-         "pubDate" : "Mon, 24 Feb 2025 15:02:00",
-         "title" : "Goryachkina Climbs To 2nd As Tan Zhongyi Scores 1st Win"
       },
       {
          "description" : " The Djerba Chess Festival took place 16th to 23rd February 2025. Marc'Andria Maurizzi ran away with the masters event scoring 7.5/9 a point and a half clear of Daniel Dardha. The open was won by Paul Velten on tie-break from Bator Sambuev, they too scored 7.5/9. Daniel Dardha edged out 11 year old Faustino Oro (who finished last in the masters) on tie-break in the blitz after both scored 8/9.",
