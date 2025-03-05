@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
+         "description" : " The Champions Showdown The Kings is a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. I believe the pairings and final results are just based on the scores rather than the event being a knockout. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-the-kings-2025",
+         "pubDate" : "Tue, 4 Mar 2025 21:39:00",
+         "title" : "Champions Showdown The Kings 2025 - Games and Results"
+      },
+      {
+         "description" : "\"The 2025 Champions Showdown: The Kings\" is a tournament featuring six of the best American chess players, competing in a daily triathlon of blitz, rapid and semi-classical chess from 4-6 March.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Tue, 04 Mar 2025 15:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
+         "link" : "https://en.chessbase.com/post/champions-showdown-the-kings-live",
+         "pubDate" : "Tue, 04 Mar 2025 18:00:00",
+         "title" : "Champions Showdown: The Kings: Live"
+      },
+      {
+         "description" : "After draws on all boards in round six, GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram stay in the lead by a point in the 2025 Prague Chess Festival Masters. GM Ediz Gurel came closest to achieving a decisive game when with Black he outpl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-6",
+         "pubDate" : "Tue, 04 Mar 2025 13:41:07",
+         "title" : "Gurel, Praggnanandhaa Come Close But No Cigar"
       },
       {
          "description" : "In mid-March, the Saint Louis Chess Club will present its first major tournament of 2025, the American Cup. The best male and female players in the USA will compete for $400,000 in a double elimination format from 15 to 24 March. But before that, six top players will battle it out in the Champions Showdown from 4-6 March.",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-grandmaster-r-praggnanandhaa-aims-for-victory-in-round-6/articleshow/118697793.cms",
          "pubDate" : "Tue, 04 Mar 2025 04:26:28",
          "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
+      },
+      {
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SL",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-7-pourkashiyan-foisor-cervantes",
+         "pubDate" : "Tue, 04 Mar 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 7 (Pourkashiyan, Foisor, Cervantes)"
       },
       {
          "description" : "US Chess is pleased to announce twelve grant awards under the US Chess Title I Grant Program. With support from generous donors, US Chess annually offers grants to nonprofit affiliate members and chess programs that support students attending Title I schools and which aligns with US Chess' mission to empower people, enrich lives, and enhance communities through chess. The 2025 grant recipients are: Board Room Chess (Baltimore, Maryland)Dr. Americo Parades Elementary (Brownsville, Texas)Edmonson Montessori (Detroit, Michigan)Hamilton K-8 School (Novato, California) IS 318 (Brooklyn, New York)John Marshall High School (Cleveland, Ohio)Julia R. Masterman Laboratory and Demonstration School (Phi",
@@ -570,14 +594,6 @@ news_feed (
          "title" : "Humpy Wins As Khadem Resigns In Equal Position"
       },
       {
-         "description" : "GM Magnus Carlsen continues to assert his dominance in the Champions Chess Tour, a series only he has won every year since it began in 2020. He started off on the right foot this year by winning the first leg of the event, the Chessable Masters.&#38;n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-cct-chessable-masters-7-things-we-learned",
-         "pubDate" : "Tue, 25 Feb 2025 14:54:00",
-         "title" : "7 Things We Learned - 2025 Chessable Masters"
-      },
-      {
          "description" : "My new book, Never Mind the Grandmasters, Here Come the Amateurs, will be published on 24th March. Pre-orders are being taken as only around 200 copies will be printed.&#160;The web...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-trapping-a-piece",
          "pubDate" : "Mon, 24 Feb 2025 12:04:42",
          "title" : "Grivas on Trapping a Piece"
-      },
-      {
-         "description" : "It was an eventful Presidents Day weekend for a host of norm-seekers in New York, with the 21st NYC Chess Norms event producing its 51st total norm alongside a host of other impressive results. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> IM Josiah Stearman moves closer to the 2500 threshold and the GM title (Photo courtesy of Oscar Garcia)<br> <br> <br> <br> The one GM norm section saw IM Josiah Stearman fall a half-point shy of a GM norm despite winning the tournament with a 6&frac12;/9 score. Stearman likely isn't too disappointed, however, as he already has three GM norms! All that's left is the 2500 FIDE rating, and he netted 13.6 FIDE rating p",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/bryan-lin-earns-first-im-norm-stearman-moves-towards-2500-and-more-nyc-chess-norms",
-         "pubDate" : "Mon, 24 Feb 2025 00:00:00",
-         "title" : "Bryan Lin Earns First IM Norm, Stearman Moves Towards 2500, and More at NYC Chess Norms Invitational"
       },
       {
          "description" : "Imagine your roof is leaking, and water is pouring in, damaging your home. What do you do? Most would follow this simple process: That makes sense, right? Now, imagine a friend says: \"I have a leaking roof. I know where it's coming from. I tried fixing it, but I gave up. Now, I simply live []",
