@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The 2025 Champions Showdown: The Kings\" is a tournament featuring six of the best American chess players, competing in a daily triathlon of blitz, rapid and semi-classical chess from 4-6 March.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-showdown-the-kings-live",
+         "pubDate" : "Wed, 05 Mar 2025 18:00:00",
+         "title" : "Champions Showdown: The Kings: Live"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
          "pubDate" : "Wed, 05 Mar 2025 11:16:24",
          "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
+      },
+      {
+         "description" : "Can chess continue its meteoric rise? How will the game evolve in the esports landscape? And what role does sports analytics play in shaping competitive chess strategies? These key questions will be discussed at the MIT Sloan Sports Analytics Conf...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-future-of-chess-growth-at-mit-with-prominent-guests",
+         "pubDate" : "Wed, 05 Mar 2025 09:04:21",
+         "title" : "'The Future Of Chess Growth' With Prominent Guests At MIT Sloan Sports Conference"
       },
       {
          "description" : "The first Titled Tuesdays of March were decided in two quite different ways: GM Alexey Sarana won the early event out of a three-way tie on 9.5 points, while GM Benjamin Bok won the late event by a full point with a score of 10/11. After several p...",
@@ -66,6 +82,22 @@ news_feed (
          "title" : "FAMU Chess Club holds Interest Meeting, First Tournament!"
       },
       {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SLCC events. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-7-pourkashiyan-foisor-cervantes",
+         "pubDate" : "Wed, 05 Mar 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 7 (Pourkashiyan, Foisor, Cervantes)"
+      },
+      {
+         "description" : "We are less than two weeks away from the Saint Louis Chess Club's (SLCC) American Cup, an annual event pitting the best American players against each other in a mixture of classical, rapid, and even blitz time controls. See coverage of previous years' events here and here.As SLCC is known for always trying out innovative formats, this year's American Cup is preceded by another combination of time controls and top players. The Champions Showdown: The Kings features three games per round, each in a different time control.The six players play one \"triathlon\" round per day, beginning at 12:15 p.m. CST. Live coverage with IM Eric Rosen and WGM Thalia Cervantes is available on SLCC's Twitch and Yo",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/champions-showdown-kings-kicks-st-louis",
+         "pubDate" : "Wed, 05 Mar 2025 00:00:00",
+         "title" : "Champions Showdown: The Kings Kicks Off in St. Louis"
+      },
+      {
          "description" : " The Champions Showdown The Kings is a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. I believe the pairings and final results are just based on the scores rather than the event being a knockout. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-6",
          "pubDate" : "Tue, 04 Mar 2025 13:41:00",
          "title" : "Gurel, Praggnanandhaa Come Close But No Cigar"
-      },
-      {
-         "description" : "In mid-March, the Saint Louis Chess Club will present its first major tournament of 2025, the American Cup. The best male and female players in the USA will compete for $400,000 in a double elimination format from 15 to 24 March. But before that, six top players will battle it out in the Champions Showdown from 4-6 March.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-champions-showdown-and-american-cup-2025",
-         "pubDate" : "Tue, 04 Mar 2025 10:52:49",
-         "title" : "Saint Louis: Champions Showdown and American Cup 2025"
       },
       {
          "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bbc-chess-masters-the-endgame-official-trailer",
          "pubDate" : "Tue, 04 Mar 2025 08:18:00",
          "title" : "BBC Releases Trailer For 'Chess Masters: The Endgame' Starting Monday"
-      },
-      {
-         "description" : "In his latest column, GM Jon Speelman explores the fascinating Novotny theme in chess problems, sharing two of his own recent compositions. With the aid of modern software, he crafted problems that highlight this striking interference motif. He also delves into the theme's history, tracing its origins to Antonin Novotny (pictured) and Henry Turton, and recalls brilliant missed Novotnys in practical play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-225",
-         "pubDate" : "Tue, 04 Mar 2025 07:15:00",
-         "title" : "Jon Speelman: A few patterns"
       },
       {
          "description" : "IM Alice Lee has now beaten both GMs Anish Giri and Daniel Naroditsky in simultaneous displays, but in the fourth edition of Kids vs. Stars 2024 it was again the grandmaster who won, by a 2.5-1.5 scoreline. Naroditsky defeated WFM Bodhana Sivanand...",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2025-report/",
          "pubDate" : "Mon, 03 Mar 2025 11:41:34",
          "title" : "British Rapidplay Championship 2025 - report"
-      },
-      {
-         "description" : "Boris Spassky died last Thursday, 27 February 2025. An exceptionally fine obituary by Leonard Barden appeared in the Guardian the following day. At 95, Barden continues to write chess columns for The Guardian and Financial Times, demonstrating his enduring passion and expertise in the field. Chess historian Edward Winter likewise presents some excellent material on Spassky.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/looking-back-at-spassky",
-         "pubDate" : "Mon, 03 Mar 2025 11:30:56",
-         "title" : "Looking back at Spassky"
       },
       {
          "description" : "The European Youth Team Chess Championship 2025 will be organised in Brezice, Slovenia, from 4th July (arrival day) to 12th July 2025 (departure day). The event will include four (4) separate competitions, an open competition and a girl's competition in both age categories U12 and U18. The playing members of the teams shall not have reached the age of 12 or 18, depending on category, by 1st January 2025: Each national federation member of the European Chess Union (ECU) has []",
@@ -610,14 +618,6 @@ news_feed (
          "title" : "Goryachkina, Munguntuul Catch Lagno As Harika Scores 1st Win"
       },
       {
-         "description" : "GMs Sam Shankland and Vincent Keymer won in the opening round of the 2025 Prague Chess Festival Masters. Shankland&#39;s victory was the second game to end, when one mistake led to a breezy endgame win against GM Ediz Gurel, while Keymer grinded a lon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-1",
-         "pubDate" : "Wed, 26 Feb 2025 13:53:00",
-         "title" : "Keymer, Shankland Take Early Lead; Aravindh Survives"
-      },
-      {
          "description" : "Author's note: I had the chance to see a sold-out performance of Kevin James Doyle's show After Endgame on February 14 at the SoHo Playhouse in Manhattan. I happened to be in town a few days early before the U.S. Amateur Team North championship (our team, Davis and his Spellcheckers did well!), and Doyle's director Cory Cavin had reached out about opportunities to promote a one-man comedy show about Doyle's own journey as a chess teacher. You can learn more about Doyle and the show in his One Move at a Time interview with Bryan Tillis: Only in New York can you walk down a flight of stairs into a basement bar only to find the tables littered with chess boards, the walls dripping with chess-th",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -626,28 +626,12 @@ news_feed (
          "title" : "Review: After Endgame is a Comedy Show About Chess and Learning From Your Losses"
       },
       {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on two players who have made names for themselves online. GM Daniel Naroditsky is one of the internet's most prominent content creators and educators, while GM Brandon Jacobson's strong online blitz play culminated in a series of games (from an anonymous account) where he defeated Naroditsky repeatedly with 1. a4!",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-6-jacobson-naroditsky",
-         "pubDate" : "Wed, 26 Feb 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 6 (Jacobson & Naroditsky)"
-      },
-      {
          "description" : "My new book, Never Mind the Grandmasters, Here Come the Amateurs, will be published on 24th March. Pre-orders are being taken as only around 200 copies will be printed.&#160;The web...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/never-mind-the-grandmasters-here-come-the-amateurs-carl-portman/",
          "pubDate" : "Tue, 25 Feb 2025 10:10:11",
          "title" : "Never Mind the Grandmasters, Here Come the Amateurs - Carl Portman"
-      },
-      {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week, we focus on two players who have made names for themselves online. GM Daniel Naroditsky is one of the internet's most prominent content creators and educators, while GM Brandon Jacobson's strong online blitz play culminated in a series of games (from an anonymous account) where he defeated Naroditsky repeatedly ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-6-jacobson-naroditsky",
-         "pubDate" : "Tue, 25 Feb 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 6 (Jacobson & Naroditsky)"
       },
       {
          "description" : "In the previous post for the series inspired by AI Comics, <A HREF=\"https://chessforallages.blogspot.com/2025/02/cubist-chess.html\">Cubist Chess</A> (February 2025; 'Marcel Duchamp plays cubist chess.'), I wrote, <BLOCKQUOTE> Cubism I understand -- at least I think I do -- Dadaism is a mystery. Let's go with what I understand. [...] Next on the agenda: dadaist. </BLOCKQUOTE> <P> First and foremost, what's Dadaism? In <A HREF=\"https://en.wikipedia.org/wiki/Dada\">Dada</A> (wikipedia.org), we learn, <BLOCKQUOTE> Dada or Dadaism was an anti-establishment art movement that developed in 1915 in the context of the Great War [aka WWI] and the earlier anti-art movement. Early centers for dadaism incl",
