@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Wed, 05 Mar 2025 15:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
          "description" : "After five draws in the sixth round of the Masters tournament at the Prague Chess Festival, there were no changes in the standings. Aravindh Chithambaram and Praggnanandhaa Rameshbabu remain in the shared lead. Despite ending in a draw, the duel between Sam Shankland and Pragg featured an exciting tactical battle. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
          "pubDate" : "Wed, 05 Mar 2025 11:16:24",
          "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
+      },
+      {
+         "description" : "The first Titled Tuesdays of March were decided in two quite different ways: GM Alexey Sarana won the early event out of a three-way tie on 9.5 points, while GM Benjamin Bok won the late event by a full point with a score of 10/11. After several p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-bok-win-titled-tuesday-march-4-2025",
+         "pubDate" : "Wed, 05 Mar 2025 07:51:04",
+         "title" : "1st-Time Winner Crushes Titled Tuesday Field By Full Point"
+      },
+      {
+         "description" : "GM Wesley So had the best start on day one of the 2025 Champions Showdown: The Kings, a three-day exhibition event in St. Louis, Missouri, held just ahead of the American Cup. Six American grandmasters play rapid, blitz, and semi-classical chess f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-1",
+         "pubDate" : "Wed, 05 Mar 2025 06:22:56",
+         "title" : "Wesley So Leads After Day 1 Of Inaugural Champions Showdown: The Kings"
       },
       {
          "description" : "The Champions Showdown began on Tuesday at the Saint Louis Chess Club, featuring six of the top players from the United States competing in blitz, rapid, and semi-classical games. Instead of a points-based system, standings are determined by prize money earned. The first day saw Fabiano Caruana defeating Hikaru Nakamura in the semi-classical game, while Wesley So secured two victories against Levon Aronian. Meanwhile, Leinier Dominguez and Ray Robson won one game each in their head-to-head encounter. | Photo: Lennart Ootes",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Keymer, Shankland Take Early Lead; Aravindh Survives"
       },
       {
-         "description" : "Iran&#39;s current and former number-one players, GM Parham Maghsoodloo and France&#39;s GM Alireza Firouzja, were your Titled Tuesday winners on February 25. Maghsoodloo won outright with 10 points, while Firouzja needed tiebreaks for his 9.5 points to w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-firouzja-win-titled-tuesday-february-25-2025",
-         "pubDate" : "Wed, 26 Feb 2025 07:54:44",
-         "title" : "Carlsen Streams, But Others Win Titled Tuesday"
-      },
-      {
          "description" : "Author's note: I had the chance to see a sold-out performance of Kevin James Doyle's show After Endgame on February 14 at the SoHo Playhouse in Manhattan. I happened to be in town a few days early before the U.S. Amateur Team North championship (our team, Davis and his Spellcheckers did well!), and Doyle's director Cory Cavin had reached out about opportunities to promote a one-man comedy show about Doyle's own journey as a chess teacher. You can learn more about Doyle and the show in his One Move at a Time interview with Bryan Tillis: Only in New York can you walk down a flight of stairs into a basement bar only to find the tables littered with chess boards, the walls dripping with chess-th",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-6-jacobson-naroditsky",
          "pubDate" : "Wed, 26 Feb 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 6 (Jacobson & Naroditsky)"
-      },
-      {
-         "description" : "IM Sara Khadem suffered every chess player&#39;s worst nightmare in round seven of the 2025 Monaco FIDE Women&#39;s Grand Prix when, after over five hours and 74 moves, she resigned against GM Koneru Humpy&#38;nbsp;in an equal position. Humpy joins GM Aleksan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-7",
-         "pubDate" : "Tue, 25 Feb 2025 15:57:00",
-         "title" : "Humpy Wins As Khadem Resigns In Equal Position"
       },
       {
          "description" : "My new book, Never Mind the Grandmasters, Here Come the Amateurs, will be published on 24th March. Pre-orders are being taken as only around 200 copies will be printed.&#160;The web...",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sensational-vincent-keymer-defeats-magnus-carlsen-fabiano-caruana-books-second-spot-in-the-grand-slam-final/articleshow/118203012.cms",
          "pubDate" : "Thu, 13 Feb 2025 05:33:26",
          "title" : "Keymer defeats Carlsen, Caruana books second spot in Grand Slam final"
-      },
-      {
-         "description" : " The Chess Drum community Today marks the 24th anniversary of the founding of The Chess Drum. It is rare to have a digital platform for such a long time, and it may very well be the end of an era. Times have certainly changed, and content has moved across various online platforms. The Chess Drum The post <a href=\"https://thechessdrum.net/blog/2025/02/12/24-years-for-the-chess-drum/\">24 years for The Chess Drum!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/02/12/24-years-for-the-chess-drum/",
-         "pubDate" : "Wed, 12 Feb 2025 15:59:00",
-         "title" : "24 years for The Chess Drum!"
       }
    ]
 }
