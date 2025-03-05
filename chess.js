@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Champions Showdown began on Tuesday at the Saint Louis Chess Club, featuring six of the top players from the United States competing in blitz, rapid, and semi-classical games. Instead of a points-based system, standings are determined by prize money earned. The first day saw Fabiano Caruana defeating Hikaru Nakamura in the semi-classical game, while Wesley So secured two victories against Levon Aronian. Meanwhile, Leinier Dominguez and Ray Robson won one game each in their head-to-head encounter. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-showdown-2025-d1",
+         "pubDate" : "Wed, 05 Mar 2025 05:20:00",
+         "title" : "Champions Showdown: So beats Aronian twice on opening day"
+      },
+      {
          "description" : " The FAMU Chess Club held its first tournament as an official organization in more than 20 years. After a successful showing at the FAMU Club Fair on January 31st, the group held its interest meeting on February 21st. These events gave the FAMU Chess Club visibility, and so far, the group has attracted more than The post <a href=\"https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/\">FAMU Chess Club holds Interest Meeting, First Tournament!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-the-kings-2025",
          "pubDate" : "Tue, 4 Mar 2025 21:39:00",
          "title" : "Champions Showdown The Kings 2025 - Games and Results"
-      },
-      {
-         "description" : "\"The 2025 Champions Showdown: The Kings\" is a tournament featuring six of the best American chess players, competing in a daily triathlon of blitz, rapid and semi-classical chess from 4-6 March.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-showdown-the-kings-live",
-         "pubDate" : "Tue, 04 Mar 2025 18:00:00",
-         "title" : "Champions Showdown: The Kings: Live"
       },
       {
          "description" : "After draws on all boards in round six, GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram stay in the lead by a point in the 2025 Prague Chess Festival Masters. GM Ediz Gurel came closest to achieving a decisive game when with Black he outpl...",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/02/12/24-years-for-the-chess-drum/",
          "pubDate" : "Wed, 12 Feb 2025 15:59:00",
          "title" : "24 years for The Chess Drum!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118164392.cms\" />Freestyle Chess, created by German entrepreneur Jan Henric Buettner and endorsed by Magnus Carlsen, introduces excitement into chess with randomised starting positions and faster gameplay. The tournament has quickly gained traction among top players worldwide, offering a Grand Slam-style point system and open qualifiers. Carlsen's vision aims to revolutionize and popularize the game globally.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-birth-of-freestyle-chess-how-magnus-carlsens-perfect-tournament-came-into-being/articleshow/118164392.cms",
-         "pubDate" : "Wed, 12 Feb 2025 05:33:21",
-         "title" : "How Magnus Carlsen's 'perfect tournament' came into being"
       }
    ]
 }
