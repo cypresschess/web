@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FAMU Chess Club held its first tournament as an official organization in more than 20 years. After a successful showing at the FAMU Club Fair on January 31st, the group held its interest meeting on February 21st. These events gave the FAMU Chess Club visibility, and so far, the group has attracted more than The post <a href=\"https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/\">FAMU Chess Club holds Interest Meeting, First Tournament!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/",
+         "pubDate" : "Wed, 05 Mar 2025 03:51:55",
+         "title" : "FAMU Chess Club holds Interest Meeting, First Tournament!"
+      },
+      {
          "description" : " The Champions Showdown The Kings is a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. I believe the pairings and final results are just based on the scores rather than the event being a knockout. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
