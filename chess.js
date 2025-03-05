@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After five draws in the sixth round of the Masters tournament at the Prague Chess Festival, there were no changes in the standings. Aravindh Chithambaram and Praggnanandhaa Rameshbabu remain in the shared lead. Despite ending in a draw, the duel between Sam Shankland and Pragg featured an exciting tactical battle. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-6",
+         "pubDate" : "Wed, 05 Mar 2025 13:15:00",
+         "title" : "Prague R6: Five draws, Aravindh and Pragg still in the lead"
+      },
+      {
+         "description" : "Don't miss the brand-new chess series starting on BBC Two on Monday 10th March at 8.00pm more details at https://www.bbc.co.uk/programmes/m0028x4d",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-masters-the-endgame/",
+         "pubDate" : "Wed, 05 Mar 2025 11:46:05",
+         "title" : "Chess Masters - The Endgame &hellip; on BBC Two"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118734060.cms\" />R Praggnanandhaa and Aravindh Chithambaram drew their respective games in the sixth round of the Prague Masters Chess tournament, maintaining their joint lead with 4 points each. They are followed by top seed Wei Yi and others with 3 points. Three rounds remain, with key matches ahead for Praggnanandhaa and Aravindh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
+         "pubDate" : "Wed, 05 Mar 2025 11:16:24",
+         "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
+      },
+      {
          "description" : "The Champions Showdown began on Tuesday at the Saint Louis Chess Club, featuring six of the top players from the United States competing in blitz, rapid, and semi-classical games. Instead of a points-based system, standings are determined by prize money earned. The first day saw Fabiano Caruana defeating Hikaru Nakamura in the semi-classical game, while Wesley So secured two victories against Levon Aronian. Meanwhile, Leinier Dominguez and Ray Robson won one game each in their head-to-head encounter. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-6",
-         "pubDate" : "Tue, 04 Mar 2025 13:41:07",
+         "pubDate" : "Tue, 04 Mar 2025 13:41:00",
          "title" : "Gurel, Praggnanandhaa Come Close But No Cigar"
       },
       {
@@ -712,14 +736,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2025/",
          "pubDate" : "Thu, 20 Feb 2025 14:21:50",
          "title" : "English and English Women's Chess Championships 2025"
-      },
-      {
-         "description" : "The ECF is very pleased to announce the following events &#8212; The British Rapidplay Championship 2025 1st 2nd March https://www.englishchess.org.uk/british-rapidplay-championship-2025/ The English Seniors Chess Championships 24th 28th April&#160;...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/forthcoming-ecf-events-announcement/",
-         "pubDate" : "Thu, 20 Feb 2025 09:00:22",
-         "title" : "Forthcoming ECF events announcement"
       },
       {
          "description" : "The 7th edition of the Prague Chess Festival starts next week in Czech Republic, and takes place from 27 February to 7 March in Don Giovanni Hotel Prague. The Festival features Masters, Challengers and Futures round-robin events that are simultaneously played in the same venue, and includes Open tournaments, Rapid events and side chess tournaments. The Futures competition is supported by the European Chess Union. The Masters event features: Wei Yi (CHN, 2755), Praggnanandhaa R (IND, 2741), Le Quang Liem []",
