@@ -18,6 +18,14 @@ news_feed (
          "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
+         "description" : "GM Aravindh Chithambaram won a golden game with Black against GM Anish Giri to take the sole lead in the 2025 Prague Chess Festival Masters after round seven. GM Ediz Gurel won his first game in the event against GM Thai Dai Van Nguyen with a sudd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-7",
+         "pubDate" : "Wed, 05 Mar 2025 14:20:47",
+         "title" : "Aravindh Plays Brilliant Knight Sacrifice, Jumps To Sole Lead"
+      },
+      {
          "description" : "After five draws in the sixth round of the Masters tournament at the Prague Chess Festival, there were no changes in the standings. Aravindh Chithambaram and Praggnanandhaa Rameshbabu remain in the shared lead. Despite ending in a draw, the duel between Sam Shankland and Pragg featured an exciting tactical battle. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/updates-safesport-courses-beginning-march-26",
          "pubDate" : "Thu, 27 Feb 2025 00:00:00",
          "title" : "Updates to SafeSport Courses Beginning March 26"
-      },
-      {
-         "description" : "GM Aleksandra Goryachkina and IM Batkhuyag Munguntuul won in the penultimate round of the 2025 Monaco FIDE Women&#39;s Grand Prix to catch leader GM Kateryna Lagno, who made a quick draw against GM Koneru Humpy. GM Tan Zhongyi beat IM Bibisara Assauba...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-round-8",
-         "pubDate" : "Wed, 26 Feb 2025 15:01:00",
-         "title" : "Goryachkina, Munguntuul Catch Lagno As Harika Scores 1st Win"
       },
       {
          "description" : "Author's note: I had the chance to see a sold-out performance of Kevin James Doyle's show After Endgame on February 14 at the SoHo Playhouse in Manhattan. I happened to be in town a few days early before the U.S. Amateur Team North championship (our team, Davis and his Spellcheckers did well!), and Doyle's director Cory Cavin had reached out about opportunities to promote a one-man comedy show about Doyle's own journey as a chess teacher. You can learn more about Doyle and the show in his One Move at a Time interview with Bryan Tillis: Only in New York can you walk down a flight of stairs into a basement bar only to find the tables littered with chess boards, the walls dripping with chess-th",
