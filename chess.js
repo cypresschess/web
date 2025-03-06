@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Tata Steel tournament in Wijk has caused the biggest changes in the current world rankings. Among the winners is the tournament winner Gukesh, among the losers are Caruana, Erigaisi and also Keymer, who lost some points and places. In the country list, Germany is the best of the rest behind the four chess superpowers USA, India, China and Russia.",
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Thu, 06 Mar 2025 15:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
+         "description" : "The Tata Steel tournament in Wijk has caused the biggest changes in the current world rankings. Among the winners is World Champion Gukesh, among the losers are Caruana, Erigaisi and also Keymer, who lost some points and places. In the country list, Germany is the best of the rest behind the four chess superpowers USA, India, China and Russia.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-march-2025",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Aravindh beats Anish Giri to take sole lead at Prague Masters"
       },
       {
+         "description" : "A single win in their rapid game on Wednesday was enough for GM Fabiano Caruana to take the lead from GM Wesley So at the Champions Showdown: The Kings in St. Louis. In this event, where money prizes are connected to single-game results, Caruana h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-2",
+         "pubDate" : "Thu, 06 Mar 2025 05:23:00",
+         "title" : "Caruana New Leader At Champions Showdown: The Kings"
+      },
+      {
          "description" : "Nowadays, you have to be careful with your old clothes so as not to violate sustainability laws. The best thing to do is to give your old clothes to a relative or friend. Or you can sell them on the internet. That's what Magnus Carlsen did, and he is probably happy with the proceeds.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-7",
-         "pubDate" : "Wed, 05 Mar 2025 14:20:47",
+         "pubDate" : "Wed, 05 Mar 2025 14:20:00",
          "title" : "Aravindh Plays Brilliant Knight Sacrifice, Jumps To Sole Lead"
       },
       {
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/boris-spassky-passes-away-at-88",
          "pubDate" : "Thu, 27 Feb 2025 12:29:00",
          "title" : "10th World Champion Boris Spassky, 1937-2025"
-      },
-      {
-         "description" : "GM Aravindh Chithambaram defeated GM Vincent Keymer and has taken his place in the lead of the 2025 Prague Chess Festival Masters after round two. That was the only decisive game of the round. GM Sam Shankland remains in the lead after drawing wit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-2",
-         "pubDate" : "Thu, 27 Feb 2025 12:20:00",
-         "title" : "Aravindh Beats Keymer, Leads With Shankland"
       },
       {
          "description" : "Stewart Reuben, who died on February 4 aged 85, was England's outstanding chess organiser of the 20th century, and played a key role in the chess explosion of the 1970s....",
