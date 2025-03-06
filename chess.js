@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The 2025 Champions Showdown: The Kings\" is a tournament featuring six of the best American chess players, competing in a daily triathlon of blitz, rapid and semi-classical chess from 4-6 March.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-showdown-the-kings-live",
+         "pubDate" : "Thu, 06 Mar 2025 18:55:00",
+         "title" : "Champions Showdown: The Kings: Live"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
-         "description" : "The Tata Steel tournament in Wijk has caused the biggest changes in the current world rankings. Among the winners is World Champion Gukesh, among the losers are Caruana, Erigaisi and also Keymer, who lost some points and places. In the country list, Germany is the best of the rest behind the four chess superpowers USA, India, China and Russia.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-march-2025",
-         "pubDate" : "Thu, 06 Mar 2025 12:00:00",
-         "title" : "FIDE ratings - March 2025"
+         "description" : "The second Freestyle Chess Grand Slam Tour event is scheduled to take place in Paris between April 7 and 14. As part of our announced partnership with Freestyle Chess, we offer a qualification path for each event to any of our members. The Qualifi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/registration-deadline-march-7-qualifiers-of-the-freestyle-chess-play-in-paris-this-weekend",
+         "pubDate" : "Thu, 06 Mar 2025 10:19:04",
+         "title" : "Registration Deadline March 7: Qualifiers Of The Freestyle Chess Play-In Paris This Weekend"
       },
       {
          "description" : "https://lichess.org/broadcast/-/EQ3VGnKl Indian Team Championship 2025 &#124; https://lichess.org/broadcast/-/1Fc9H2oW Indian Team Championship 2025 &#124;",
@@ -610,14 +618,6 @@ news_feed (
          "title" : "Women's Grand Prix Monaco: Live"
       },
       {
-         "description" : "GM Boris Spassky, the 10th world champion of chess who defeated &#38;ldquo;Iron&#38;rdquo; GM Tigran Petrosian in 1969 to reach the chess Olympus and who lost his title to GM Bobby Fischer in the Match of the Century in 1972 in Reykjavik, died on Thursday...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/boris-spassky-passes-away-at-88",
-         "pubDate" : "Thu, 27 Feb 2025 12:29:00",
-         "title" : "10th World Champion Boris Spassky, 1937-2025"
-      },
-      {
          "description" : "Stewart Reuben, who died on February 4 aged 85, was England's outstanding chess organiser of the 20th century, and played a key role in the chess explosion of the 1970s....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -904,22 +904,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-weissenhaus-2025",
          "pubDate" : "Fri, 14 Feb 2025 01:13:00",
          "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118221820.cms\" />World champion D Gukesh managed a draw against Alireza Firouzja in the final round of the Freestyle Chess Grand Slam Tour. Local favorite Vincent Keymer won against Fabiano Caruana, while Magnus Carlsen defeated Javokhir Sindarov in the third-place playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-fights-back-to-hold-alireza-firouzja-in-freestyle-chess-grand-slam/articleshow/118221820.cms",
-         "pubDate" : "Thu, 13 Feb 2025 16:54:33",
-         "title" : "Gukesh fights back to hold Firouzja in Freestyle Chess Grand Slam"
-      },
-      {
-         "description" : "The leading American chess magazine -- both 50 years ago and 25 years ago -- featured the American Open. For last month's post in the series, see <A HREF=\"https://chessforallages.blogspot.com/2025/01/january-1975-2000-on-cover.html\">January 1975 & 2000 'On the Cover'</A> (January 2025). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb13.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'The Beauty of Chess' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Kim Commons, left, and Peter Biyiasas, co-winners of the American Open. Story [inside]. Photo by Carl Budd. </BLOCKQUOTE> <P> The 'story [inside]' by Carl Budd, 'Vice President, Santa Monica",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/february-1975-2000-on-cover.html",
-         "pubDate" : "Thu, 13 Feb 2025 16:48:00",
-         "title" : "February 1975 & 2000 'On the Cover'"
       }
    ]
 }
