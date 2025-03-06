@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "\"The 2025 Champions Showdown: The Kings\" is a tournament featuring six of the best American chess players, competing in a daily triathlon of blitz, rapid and semi-classical chess from 4-6 March.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-showdown-the-kings-live",
-         "pubDate" : "Wed, 05 Mar 2025 18:00:00",
-         "title" : "Champions Showdown: The Kings: Live"
+         "description" : "https://lichess.org/broadcast/-/EQ3VGnKl Indian Team Championship 2025 &#124; https://lichess.org/broadcast/-/1Fc9H2oW Indian Team Championship 2025 &#124;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-broadcast-link-of-national-team-men-women-2024-25-in-ahmedabad/",
+         "pubDate" : "Thu, 06 Mar 2025 08:20:51",
+         "title" : "Live broadcast link of National Team Men & Women 2024-25 in Ahmedabad"
       },
       {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
+         "description" : "The seventh round of the Masters at the Prague Chess Festival saw Aravindh Chithambaram beating Anish Giri with black in what perhaps was the best game of the tournament so far. With this victory, Aravindh took the sole lead in the standings, as Praggnanandhaa Rameshbabu was unable to get more than a draw against Wei Yi. Vincent Keymer fared similarly, as he put David Navara under pressure for a long time, but in the end had to be satisfied with half a point. Sam Shankland and Ediz G&uuml;rel had more luck: Shankland won with black against Le Quang Liem, while G&uuml;rel won with white against Thai Dai Van Nguyen. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Wed, 05 Mar 2025 15:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-7",
+         "pubDate" : "Thu, 06 Mar 2025 07:40:00",
+         "title" : "Prague R7: Aravindh scores brilliant victory, becomes sole leader"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118751071.cms\" />In the Prague Masters chess tournament, Aravindh Chithambaram gained the lead by defeating Anish Giri. R Praggnanandhaa secured a draw against Wei Yi, placing him just behind Aravindh. Sam Shankland and Gurel Ediz also claimed victories, while Divya Deshmukh continued to struggle in the challengers' section. The tournament now focuses on the contest between the two Indian players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-beats-anish-giri-to-take-sole-lead-at-prague-masters/articleshow/118751071.cms",
+         "pubDate" : "Thu, 06 Mar 2025 05:39:04",
+         "title" : "Aravindh beats Anish Giri to take sole lead at Prague Masters"
+      },
+      {
+         "description" : "Nowadays, you have to be careful with your old clothes so as not to violate sustainability laws. The best thing to do is to give your old clothes to a relative or friend. Or you can sell them on the internet. That's what Magnus Carlsen did, and he is probably happy with the proceeds.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-jeans-ebay-auction",
+         "pubDate" : "Wed, 05 Mar 2025 21:05:00",
+         "title" : "Donate or sell on Ebay? Old jeans auctioned for charity"
       },
       {
          "description" : "GM Aravindh Chithambaram won a golden game with Black against GM Anish Giri to take the sole lead in the 2025 Prague Chess Festival Masters after round seven. GM Ediz Gurel won his first game in the event against GM Thai Dai Van Nguyen with a sudd...",
@@ -70,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-1",
-         "pubDate" : "Wed, 05 Mar 2025 06:22:56",
+         "pubDate" : "Wed, 05 Mar 2025 06:22:00",
          "title" : "Wesley So Leads After Day 1 Of Inaugural Champions Showdown: The Kings"
       },
       {
@@ -866,14 +882,6 @@ news_feed (
          "title" : "Chess: Vincent Keymer knocks out Magnus Carlsen in Freestyle Grand Slam"
       },
       {
-         "description" : "Please find the event details here Event Regulation Entry form",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-chess-championship-2024-25-in-ahemdabad-from-05-11-march-2205/",
-         "pubDate" : "Fri, 14 Feb 2025 05:39:43",
-         "title" : "National Team Chess Championship 2024-25 in Ahmedabad ,Gujarat from 05-11 March 2025"
-      },
-      {
          "description" : " The Freestyle Grand Slam Weissenhaus was the first in a series of events aimed at promoting the chess variant also known as Chess960, 9LX or Fischer Random Chess. The event is financed by German entrepreneur Jan Henric Buettner and backed by former World Chess Champion Magnus Carlsen. The remaining events of the Freestyle Chess Grand Slam Tour are: Paris April 8-15, New York July 17-24 New Delhi September 17-24 and Cape Town December 5-12. The first event of the series took place in a resort owned by Buettner in Wangels, Germany 7th to 14th February 2025. Players: Carlsen, Caruana, Nakamura, Gukesh, Abdusattorov, Firouzja, Aronian, Keymer, Fedoseev and Sindarov. A rapid round robin is follo",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/february-1975-2000-on-cover.html",
          "pubDate" : "Thu, 13 Feb 2025 16:48:00",
          "title" : "February 1975 & 2000 'On the Cover'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118203012.cms\" />Vincent Keymer defeated world number one Magnus Carlsen to reach the Weissenhaus Freestyle Grand Slam final, where he will face Fabiano Caruana. Caruana won his semifinal against Javokhir Sindarov in an intense match that concluded after 7.5 hours of play.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sensational-vincent-keymer-defeats-magnus-carlsen-fabiano-caruana-books-second-spot-in-the-grand-slam-final/articleshow/118203012.cms",
-         "pubDate" : "Thu, 13 Feb 2025 05:33:26",
-         "title" : "Keymer defeats Carlsen, Caruana books second spot in Grand Slam final"
       }
    ]
 }
