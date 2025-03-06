@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel tournament in Wijk has caused the biggest changes in the current world rankings. Among the winners is the tournament winner Gukesh, among the losers are Caruana, Erigaisi and also Keymer, who lost some points and places. In the country list, Germany is the best of the rest behind the four chess superpowers USA, India, China and Russia.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-march-2025",
+         "pubDate" : "Thu, 06 Mar 2025 12:00:00",
+         "title" : "FIDE ratings - March 2025"
+      },
+      {
          "description" : "https://lichess.org/broadcast/-/EQ3VGnKl Indian Team Championship 2025 &#124; https://lichess.org/broadcast/-/1Fc9H2oW Indian Team Championship 2025 &#124;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
