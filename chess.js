@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Champions Showdown The Kings was a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. The players earned so much money per game depending on the result. Fabiano Caruana won the most with \t$51,625. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-the-kings-2025",
+         "pubDate" : "Thu, 6 Mar 2025 21:39:00",
+         "title" : "Champions Showdown The Kings 2025 - Games and Results"
+      },
+      {
          "description" : "\"The 2025 Champions Showdown: The Kings\" is a tournament featuring six of the best American chess players, competing in a daily triathlon of blitz, rapid and semi-classical chess from 4-6 March.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
          "pubDate" : "Thu, 06 Mar 2025 15:00:00",
          "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
+         "description" : "GM Aravindh Chithambaram leads by a half-point going into the last round of the 2025 Prague Chess Festival Masters. He had a minor chance to extend his lead after GM David Navara made an early mistake, but the players reached a quick draw. GM Prag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-8",
+         "pubDate" : "Thu, 06 Mar 2025 12:51:00",
+         "title" : "Giri, Wei Bounce Back With Wins"
       },
       {
          "description" : "The second Freestyle Chess Grand Slam Tour event is scheduled to take place in Paris between April 7 and 14. As part of our announced partnership with Freestyle Chess, we offer a qualification path for each event to any of our members. The Qualifi...",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/champions-showdown-kings-kicks-st-louis",
          "pubDate" : "Wed, 05 Mar 2025 00:00:00",
          "title" : "Champions Showdown: The Kings Kicks Off in St. Louis"
-      },
-      {
-         "description" : " The Champions Showdown The Kings is a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. I believe the pairings and final results are just based on the scores rather than the event being a knockout. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-the-kings-2025",
-         "pubDate" : "Tue, 4 Mar 2025 21:39:00",
-         "title" : "Champions Showdown The Kings 2025 - Games and Results"
       },
       {
          "description" : "After draws on all boards in round six, GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram stay in the lead by a point in the 2025 Prague Chess Festival Masters. GM Ediz Gurel came closest to achieving a decisive game when with Black he outpl...",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-championship-2025/",
          "pubDate" : "Thu, 27 Feb 2025 16:37:58",
          "title" : "World Junior Championship 2025"
-      },
-      {
-         "description" : "GM Aleksandra Goryachkina drew against IM Batkhuyag Munguntuul to win the 2025 Monaco FIDE Women&#39;s Grand Prix, her second Grand Prix victory in a row. She finished top on tiebreaks ahead of Munguntuul and GM Koneru Humpy, who took down IM Bibisara...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-monaco-goryachkina-wins",
-         "pubDate" : "Thu, 27 Feb 2025 14:08:00",
-         "title" : "Goryachkina Wins In Monaco, Takes FIDE Women's Grand Prix Lead"
       },
       {
          "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
