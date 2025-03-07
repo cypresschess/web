@@ -50,14 +50,6 @@ news_feed (
          "title" : "Live broadcast link of National Team Men & Women 2024-25 in Ahmedabad"
       },
       {
-         "description" : "The seventh round of the Masters at the Prague Chess Festival saw Aravindh Chithambaram beating Anish Giri with black in what perhaps was the best game of the tournament so far. With this victory, Aravindh took the sole lead in the standings, as Praggnanandhaa Rameshbabu was unable to get more than a draw against Wei Yi. Vincent Keymer fared similarly, as he put David Navara under pressure for a long time, but in the end had to be satisfied with half a point. Sam Shankland and Ediz G&uuml;rel had more luck: Shankland won with black against Le Quang Liem, while G&uuml;rel won with white against Thai Dai Van Nguyen. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-7",
-         "pubDate" : "Thu, 06 Mar 2025 07:40:00",
-         "title" : "Prague R7: Aravindh scores brilliant victory, becomes sole leader"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118751071.cms\" />In the Prague Masters chess tournament, Aravindh Chithambaram gained the lead by defeating Anish Giri. R Praggnanandhaa secured a draw against Wei Yi, placing him just behind Aravindh. Sam Shankland and Gurel Ediz also claimed victories, while Divya Deshmukh continued to struggle in the challengers' section. The tournament now focuses on the contest between the two Indian players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,28 +66,12 @@ news_feed (
          "title" : "Caruana New Leader At Champions Showdown: The Kings"
       },
       {
-         "description" : "Nowadays, you have to be careful with your old clothes so as not to violate sustainability laws. The best thing to do is to give your old clothes to a relative or friend. Or you can sell them on the internet. That's what Magnus Carlsen did, and he is probably happy with the proceeds.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-jeans-ebay-auction",
-         "pubDate" : "Wed, 05 Mar 2025 21:05:00",
-         "title" : "Donate or sell on Ebay? Old jeans auctioned for charity"
-      },
-      {
          "description" : "GM Aravindh Chithambaram won a golden game with Black against GM Anish Giri to take the sole lead in the 2025 Prague Chess Festival Masters after round seven. GM Ediz Gurel won his first game in the event against GM Thai Dai Van Nguyen with a sudd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-7",
          "pubDate" : "Wed, 05 Mar 2025 14:20:00",
          "title" : "Aravindh Plays Brilliant Knight Sacrifice, Jumps To Sole Lead"
-      },
-      {
-         "description" : "After five draws in the sixth round of the Masters tournament at the Prague Chess Festival, there were no changes in the standings. Aravindh Chithambaram and Praggnanandhaa Rameshbabu remain in the shared lead. Despite ending in a draw, the duel between Sam Shankland and Pragg featured an exciting tactical battle. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-6",
-         "pubDate" : "Wed, 05 Mar 2025 13:15:00",
-         "title" : "Prague R6: Five draws, Aravindh and Pragg still in the lead"
       },
       {
          "description" : "Don't miss the brand-new chess series starting on BBC Two on Monday 10th March at 8.00pm more details at https://www.bbc.co.uk/programmes/m0028x4d",
@@ -136,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-1",
          "pubDate" : "Wed, 05 Mar 2025 06:22:00",
          "title" : "Wesley So Leads After Day 1 Of Inaugural Champions Showdown: The Kings"
-      },
-      {
-         "description" : "The Champions Showdown began on Tuesday at the Saint Louis Chess Club, featuring six of the top players from the United States competing in blitz, rapid, and semi-classical games. Instead of a points-based system, standings are determined by prize money earned. The first day saw Fabiano Caruana defeating Hikaru Nakamura in the semi-classical game, while Wesley So secured two victories against Levon Aronian. Meanwhile, Leinier Dominguez and Ray Robson won one game each in their head-to-head encounter. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-showdown-2025-d1",
-         "pubDate" : "Wed, 05 Mar 2025 05:20:00",
-         "title" : "Champions Showdown: So beats Aronian twice on opening day"
       },
       {
          "description" : " The FAMU Chess Club held its first tournament as an official organization in more than 20 years. After a successful showing at the FAMU Club Fair on January 31st, the group held its interest meeting on February 21st. These events gave the FAMU Chess Club visibility, and so far, the group has attracted more than The post <a href=\"https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/\">FAMU Chess Club holds Interest Meeting, First Tournament!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -896,14 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/14/chess-vincent-keymer-knocks-out-magnus-carlsen-in-freestyle-grand-slam",
          "pubDate" : "Fri, 14 Feb 2025 08:00:03",
          "title" : "Chess: Vincent Keymer knocks out Magnus Carlsen in Freestyle Grand Slam"
-      },
-      {
-         "description" : " The Freestyle Grand Slam Weissenhaus was the first in a series of events aimed at promoting the chess variant also known as Chess960, 9LX or Fischer Random Chess. The event is financed by German entrepreneur Jan Henric Buettner and backed by former World Chess Champion Magnus Carlsen. The remaining events of the Freestyle Chess Grand Slam Tour are: Paris April 8-15, New York July 17-24 New Delhi September 17-24 and Cape Town December 5-12. The first event of the series took place in a resort owned by Buettner in Wangels, Germany 7th to 14th February 2025. Players: Carlsen, Caruana, Nakamura, Gukesh, Abdusattorov, Firouzja, Aronian, Keymer, Fedoseev and Sindarov. A rapid round robin is follo",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-weissenhaus-2025",
-         "pubDate" : "Fri, 14 Feb 2025 01:13:00",
-         "title" : "Freestyle Grand Slam Weissenhaus 2025 - Games and Results"
       }
    ]
 }
