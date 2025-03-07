@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118790468.cms\" />Grandmaster Aravindh Chithambaram won the Prague Chess Masters 2025 with an impressive 6/9 points. His draw in the final round against Ediz Gurel secured his sole first place, propelling him to World No. 14. This remarkable performance in only his second classical super-tournament highlights his emerging status among the world's elite players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-clinches-prague-chess-masters-2025-title/articleshow/118790468.cms",
+         "pubDate" : "Fri, 07 Mar 2025 15:37:47",
+         "title" : "Aravindh Chithambaram clinches Prague Chess Masters 2025 title"
+      },
+      {
          "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2025-8",
          "pubDate" : "Fri, 07 Mar 2025 07:25:00",
          "title" : "Prague R8: Giri scores, Aravindh closer to tournament victory"
+      },
+      {
+         "description" : "GM Fabiano Caruana won the Champions Showdown: The Kings in St. Louis convincingly after a strong final day when he beat GM Ray Robson twice. Caruana scored 6.5/9 and pocketed $51,625 for his three-day workweek. GM Wesley So, who won his blitz g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-wins-champions-showdown-the-kings-2025",
+         "pubDate" : "Fri, 07 Mar 2025 05:06:29",
+         "title" : "Caruana Wins Champions Showdown: The Kings"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Lennart Ootes/SLCC<br> <br> <br> <br> GM Fabiano Caruana was the top earner at the Champions Showdown: The Kings presented by the Saint Louis Chess Club (SLCC). As explained in a previous article, the experimental event served as a sort of appetizer to the American Cup, beginning March 15.Six of the eight Open participants in the Cup competed in the mixed-format Showdown, with the $250,000 prize fund distributed based on players' results in blitz, rapid, and \"semi-classical\" games. 🎉🏆 Huge congratulations to the one and only Grandmaster Fabiano Caruana on winning the Champions Show",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/caruana-cleans-champions-showdown",
+         "pubDate" : "Fri, 07 Mar 2025 00:00:00",
+         "title" : "Caruana Cleans up at Champions Showdown"
       },
       {
          "description" : " The Champions Showdown The Kings was a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. The players earned so much money per game depending on the result. Fabiano Caruana won the most with \t$51,625. ",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-2",
          "pubDate" : "Thu, 06 Mar 2025 05:23:00",
          "title" : "Caruana New Leader At Champions Showdown: The Kings"
+      },
+      {
+         "description" : "US Chess is pleased to announce the list of players who are officially invited to participate in the 2025 World Youth (Under 14, Under 16 and Under 18) and 2025 World Cadet (Under 8, Under 10 and Under 12) Chess Championships.These students earned this honor by meeting the peak post-tournament (PPT) rating and activity criteria in their age and gender categories according to the Scholastic National Invitational Event and Award Requirements.The top players by PPT rating in each age category are considered the United States Official Representatives (OR) by FIDE, the World Chess Federation, but all USA players may compete in these events as part of the US Chess delegation. Additionally, players",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-announces-2025-world-youth-and-world-cadet-championships-invitees",
+         "pubDate" : "Thu, 06 Mar 2025 00:00:00",
+         "title" : "US Chess Announces 2025 World Youth and World Cadet Championships Invitees"
       },
       {
          "description" : "GM Aravindh Chithambaram won a golden game with Black against GM Anish Giri to take the sole lead in the 2025 Prague Chess Festival Masters after round seven. GM Ediz Gurel won his first game in the event against GM Thai Dai Van Nguyen with a sudd...",
@@ -206,7 +238,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-lee-kids-vs-stars-episode-4",
-         "pubDate" : "Tue, 04 Mar 2025 07:03:55",
+         "pubDate" : "Tue, 04 Mar 2025 07:03:00",
          "title" : "Alice Lee Beats Naroditsky But GM Wins Simul"
       },
       {
@@ -538,14 +570,6 @@ news_feed (
          "title" : "Chess: England over-65s lead all the way to world senior team gold at Prague"
       },
       {
-         "description" : "Eight players have qualified for the 3-Check Chess Championship 2025 Knockout, the second event of this year&#39;s Community Chess Championships (following January&#39;s Puzzle Championship). The eight hopefuls for the Knockout ended up being FM Luuk Base...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chesscom-3-check-chess-championship-qualifiers",
-         "pubDate" : "Fri, 28 Feb 2025 07:33:50",
-         "title" : "3-Check Community Championship Knockout Will Have No GMs"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118618090.cms\" />In the second round of the Prague Masters, Aravindh Chithambaram secured a victory against Germany's Vincent Keymer, leading alongside Sam Shankland with 1.5 points. R Praggnanandhaa earned his second draw. Divya Deshmukh triumphed in the challengers' section.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -632,22 +656,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/usa-completes-threepeat-fide-world-senior-team-championships",
          "pubDate" : "Thu, 27 Feb 2025 00:00:00",
          "title" : "USA Completes the Threepeat at FIDE World Senior Team Championships"
-      },
-      {
-         "description" : "The U.S. Center for SafeSport is updating its Core course and Refreshers 1, 2, and 3. The revised modules will be live beginning Wednesday, March 26, 2025.If you are currently in the process of taking one of these courses, be sure to complete it before March 25, 2025; otherwise, SafeSport will automatically reset your progress, and you will have to start the training from the beginning. You will not have to repurchase the course.Questions? Contact Safe Play Manager Melinda Matthews at Click here to show email address.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/updates-safesport-courses-beginning-march-26",
-         "pubDate" : "Thu, 27 Feb 2025 00:00:00",
-         "title" : "Updates to SafeSport Courses Beginning March 26"
-      },
-      {
-         "description" : "Author's note: I had the chance to see a sold-out performance of Kevin James Doyle's show After Endgame on February 14 at the SoHo Playhouse in Manhattan. I happened to be in town a few days early before the U.S. Amateur Team North championship (our team, Davis and his Spellcheckers did well!), and Doyle's director Cory Cavin had reached out about opportunities to promote a one-man comedy show about Doyle's own journey as a chess teacher. You can learn more about Doyle and the show in his One Move at a Time interview with Bryan Tillis: Only in New York can you walk down a flight of stairs into a basement bar only to find the tables littered with chess boards, the walls dripping with chess-th",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/review-after-endgame-comedy-show-about-chess-and-learning-your-losses",
-         "pubDate" : "Wed, 26 Feb 2025 00:00:00",
-         "title" : "Review: After Endgame is a Comedy Show About Chess and Learning From Your Losses"
       },
       {
          "description" : "My new book, Never Mind the Grandmasters, Here Come the Amateurs, will be published on 24th March. Pre-orders are being taken as only around 200 copies will be printed.&#160;The web...",
