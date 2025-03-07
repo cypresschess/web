@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
+         "pubDate" : "Fri, 07 Mar 2025 11:00:00",
+         "title" : "Prague Chess Festival: Masters and Challengers live"
+      },
+      {
+         "description" : "Open Category The top board encounter between GM Grebnev, Aleksey and GM Pranav ended in a peaceful draw in 40 moves.GM Pranav maintains with 8.5/10",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-championship-2025round-10/",
+         "pubDate" : "Fri, 07 Mar 2025 10:13:22",
+         "title" : "World Junior Championship 2025:Round 10"
+      },
+      {
          "description" : " The new programme on BBC Two will be very different from 42 years ago when the eighth and final series of The Master Game was never shown due to industrial action Four decades ago, the eighth and last series of BBC Two's much-admired chess programme The Master Game was never screened in the UK, because of industrial action by technicians. Tony Miles defeated Anatoly Karpov in <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067001\">the 1983 final</a>, the Englishman's second victory over the then world champion after his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1068157\">stunning 1 e4 a6 win</a> at the 1980 European Teams. It was the end of an iconic programme, first lau",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/registration-deadline-march-7-qualifiers-of-the-freestyle-chess-play-in-paris-this-weekend",
-         "pubDate" : "Thu, 06 Mar 2025 10:19:04",
+         "pubDate" : "Thu, 06 Mar 2025 10:19:00",
          "title" : "Registration Deadline March 7: Qualifiers Of The Freestyle Chess Play-In Paris This Weekend"
       },
       {
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-loses-to-firouzja-ends-eighth/articleshow/118256227.cms",
          "pubDate" : "Fri, 14 Feb 2025 17:48:30",
          "title" : "Freestyle Chess: D Gukesh loses to Firouzja, ends eighth"
-      },
-      {
-         "description" : "Please find the event circular here Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-rapid-blitz-2024-25-in-jharkhand-from-20-23-march-2025/",
-         "pubDate" : "Fri, 14 Feb 2025 11:36:35",
-         "title" : "National Rapid & Blitz 2024-25 in Jharkhand from 20-23 March 2025"
       }
    ]
 }
