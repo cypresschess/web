@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The new programme on BBC Two will be very different from 42 years ago when the eighth and final series of The Master Game was never shown due to industrial action Four decades ago, the eighth and last series of BBC Two's much-admired chess programme The Master Game was never screened in the UK, because of industrial action by technicians. Tony Miles defeated Anatoly Karpov in <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067001\">the 1983 final</a>, the Englishman's second victory over the then world champion after his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1068157\">stunning 1 e4 a6 win</a> at the 1980 European Teams. It was the end of an iconic programme, first lau",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/mar/07/chess-returns-to-the-screen-on-monday-with-chess-masters-the-endgame",
+         "pubDate" : "Fri, 07 Mar 2025 07:34:18",
+         "title" : "Chess returns to the screen on Monday with Chess Masters: The Endgame"
+      },
+      {
+         "description" : "In round seven of the Masters tournament at the Prague Chess Festival, Indian grandmaster Aravindh Chithambaram took the lead in the standings, and in round eight he defended it with a draw against David Navara, as the second-placed player, Praggnanandhaa Rameshbabu, also signed a draw. The wins of the round were achieved by Anish Giri, who won with black against Sam Shankland, and Wei Yi, who benefited from a mistake by Thai Dai Van Nguyen in a rook ending. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-8",
+         "pubDate" : "Fri, 07 Mar 2025 07:25:00",
+         "title" : "Prague R8: Giri scores, Aravindh closer to tournament victory"
+      },
+      {
          "description" : " The Champions Showdown The Kings was a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. The players earned so much money per game depending on the result. Fabiano Caruana won the most with \t$51,625. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/champions-showdown-the-kings-live",
          "pubDate" : "Thu, 06 Mar 2025 18:55:00",
          "title" : "Champions Showdown: The Kings: Live"
-      },
-      {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Thu, 06 Mar 2025 15:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
       },
       {
          "description" : "GM Aravindh Chithambaram leads by a half-point going into the last round of the 2025 Prague Chess Festival Masters. He had a minor chance to extend his lead after GM David Navara made an early mistake, but the players reached a quick draw. GM Prag...",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-blitz-2024-25-in-jharkhand-from-20-23-march-2025/",
          "pubDate" : "Fri, 14 Feb 2025 11:36:35",
          "title" : "National Rapid & Blitz 2024-25 in Jharkhand from 20-23 March 2025"
-      },
-      {
-         "description" : " The 20-year-old scored a career-best result by defeating the World No 1 in the Norwegian's favourite format, then won 1.5-0.5 against the US champion, Fabiano Caruana, in the final Vincent Keymer made a career breakthrough this week when the 20-year-old German <a href=\"https://www.chessgames.com/perl/chessgame?gid=2844237\">knocked out Magnus Carlsen</a> at the Weissenhaus Grand Slam in the classical Freestyle format which the world No 1 now prefers. There was a lively running commentary on the game's deciding stages <a href=\"https://www.youtube.com/watch?t=718&amp;v=MyCTW3jB7Yk&amp;feature=youtu.be\">on YouTube</a>. Keymer went on to defeat the US champion and world No 2, Fabiano Caruana, by",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/feb/14/chess-vincent-keymer-knocks-out-magnus-carlsen-in-freestyle-grand-slam",
-         "pubDate" : "Fri, 14 Feb 2025 08:00:03",
-         "title" : "Chess: Vincent Keymer knocks out Magnus Carlsen in Freestyle Grand Slam"
       }
    ]
 }
