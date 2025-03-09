@@ -10,6 +10,14 @@ news_feed (
          "title" : "ChessBase 18 - Tips for Beginners, Part 5: Annotations"
       },
       {
+         "description" : "17-year-old WFM Eman Sawan from Palestine has emerged as one of the brightest stars in a region with limited support and traditions for chess. Her story has ignited a wave of support from the chess community with over 70 donors backing her dream t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/eman-sawan-stars-chess-olympiad-wants-to-make-history",
+         "pubDate" : "Sun, 09 Mar 2025 11:24:00",
+         "title" : "Eman Sawan Starred At Chess Olympiad; Now She Wants To Make History"
+      },
+      {
          "description" : "The Freestyle Chess Grand Slam Tour 2025 moves to Paris from April 7 to 14, bringing together 12 top grandmasters for the second Grand Slam event of the year. Held at the Pavillon Chesnaie du Roy, the tournament features a round-robin phase followed by a knockout stage with classical time controls. Magnus Carlsen, reigning World Champion Gukesh Dommaraju and Hikaru Nakamura are among the confirmed participants, with one final spot still up for grabs through an online qualification event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://aicf.in/gm-pranav-v-wins-the-prestigious-world-juniors-2025-at-petrovac/",
          "pubDate" : "Sat, 08 Mar 2025 06:14:07",
          "title" : "GM Pranav V wins the prestigious World Juniors 2025 at Petrovac"
+      },
+      {
+         "description" : "Koneru Humpy speaks on motherhood, challenges as a woman in sport, and what it takes to be a champion.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
+         "pubDate" : "Fri, 7 Mar 2025 21:30:27",
+         "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118791973.cms\" />India's Pranav Venkatesh clinched the World Junior Chess Championship (Under-20) held in Montenegro, remaining undefeated with seven victories and four draws. This marks a significant achievement for Indian chess, with Viswanathan Anand congratulating him for his remarkable performance. The victory brings the open title back to India after nearly 17 years.",
@@ -554,14 +570,6 @@ news_feed (
          "title" : " Requiem for Fischer and Spassky"
       },
       {
-         "description" : "Martin&#39;s your first chess opponent. He&#39;s played over 500 million games. And he&#39;s never gotten any better. Now, it&#39;s time to meet his family: Martin Jr., Marty, Martin XIII, and Martina. Are you ready to face off against the Martin family? Head o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martin-chess-bots",
-         "pubDate" : "Sat, 01 Mar 2025 07:00:00",
-         "title" : "New Bot Challenge: Meet The Martin Family"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118641221.cms\" />Boris Spassky's contributions to chess are commemorated through his remarkable games, including his rejuvenation of the Breyer defence and mastery of various strategies. Despite shifting from Soviet to French citizenship, Spassky maintained amicable ties with Russian players. Notably, his competitive spirit and achievements debunk myths of lack of seriousness in the 1972 World Championship against Bobby Fischer.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/people-still-ask-chess-is-fine-but-what-do-you-really-do-arjuna-awardee-vantika-agrawal/articleshow/118316986.cms",
          "pubDate" : "Mon, 17 Feb 2025 03:18:29",
          "title" : "'People still ask, 'Chess is fine, but what do you really do?''"
-      },
-      {
-         "description" : "While creating the short list for this month's <I>Flickr Favorite</I> post, I saw many photos similar to the one in the upper left of the composite image below. See, for example, the photo directly beneath it (leftmost image second row). When I tried to look at that family of photos together, I discovered that the photographer frequently used 'chess' as a theme. The image in the lower right looked familiar and, sure enough, I had 'faved' it sometime last year. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb16.jpg\" WIDTH=400 HEIGHT=300><BR> <B>Upper left:</B> <A HREF=\"https://www.flickr.com/photos/lwr/54288464604/\">Chess-esque</A> &#169; Flickr user <I>Leo Reynolds</I> under",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/more-text-to-art.html",
-         "pubDate" : "Sun, 16 Feb 2025 16:11:00",
-         "title" : "More Text to Art"
       }
    ]
 }
