@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With ChessBase 18, you can not only analyse your own games professionally - as we have already shown in the first four parts of the tutorial - you can also comment on them individually. There are several methods for doing this, and they can be linked together. The comments can be entered as text or using the commonly used chess symbols. In this fifth part of our new tutorial series, we will show you how easily you can integrate all types of comments into your notation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-5-annotations",
+         "pubDate" : "Sun, 09 Mar 2025 15:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, Part 5: Annotations"
+      },
+      {
+         "description" : "The Freestyle Chess Grand Slam Tour 2025 moves to Paris from April 7 to 14, bringing together 12 top grandmasters for the second Grand Slam event of the year. Held at the Pavillon Chesnaie du Roy, the tournament features a round-robin phase followed by a knockout stage with classical time controls. Magnus Carlsen, reigning World Champion Gukesh Dommaraju and Hikaru Nakamura are among the confirmed participants, with one final spot still up for grabs through an online qualification event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-chess-twelve-super-gms-to-battle-in-paris",
+         "pubDate" : "Sun, 09 Mar 2025 10:00:00",
+         "title" : "Freestyle Chess: Twelve super-GMs to battle in Paris"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118808190.cms\" />18-year-old Pranav Venkatesh clinched the World Junior Chess Championship with unique preparation methods, including playing cricket in hotel rooms with his coach, GM Shyam Sundar. Pranav balanced his rapid blitz skills with the patience needed for classical chess, leading to his triumph in Montenegro, a title once held by Viswanathan Anand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-hotel-room-cricket-to-world-junior-champion-pranav-v-becomes-indias-new-chess-sensation/articleshow/118808190.cms",
+         "pubDate" : "Sun, 09 Mar 2025 03:15:09",
+         "title" : "From hotel room cricket to world junior champion: Pranav's story"
+      },
+      {
+         "description" : "The 2025 World Junior Chess Championship took place from 26 February to 7 March in Petrovac, Montenegro, featuring nearly 260 players from 67 countries. GM Pranav Venkatesh won gold in the open section with an unbeaten 9/11, while WIM Anna Shukhman secured victory in the girls' event with the same score. The competition saw strong performances from FM Matic Lavrencic, GM Elham Amar, WIM Ayan Allahverdiyeva and IM Miaoyi Lu, who reached the podiums in their cateegories. | Photo: Mitar Djukanovic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pranav-shukhman-win-2025-world-junior-ch",
+         "pubDate" : "Sat, 08 Mar 2025 22:40:00",
+         "title" : "Pranav and Shukhman are the 2025 world junior champions"
+      },
+      {
+         "description" : "After posting a 29-game streak in Saturday&#39;s event, GM Andrew Tang joined GM Hikaru Nakamura and Daniel Naroditsky as one of three players to win three Bullet Brawls in 2025. Tang scored 70 wins, one draw, and eight losses and scored 258 points&#38;md...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-8-2025",
+         "pubDate" : "Sat, 08 Mar 2025 16:16:00",
+         "title" : "Tang Posts 29-Game Streak, Wins 7th Bullet Brawl"
+      },
+      {
+         "description" : "Today, hosted by London's Royal Automobile Club, the world's longest established chess fixture will continue into its third century. Cambridge University now leads by the narrowest of margins (60 wins to 59) against Oxford, and if the latter triumph in today's annual clash, then the scores will be equalised. In this column I preview the contest, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-oldest-chess-fixture/",
+         "pubDate" : "Sat, 08 Mar 2025 15:13:54",
+         "title" : "The oldest chess fixture"
+      },
+      {
+         "description" : "Today, I'm going to share my super secret formula that makes you improve your chess like nobody else. The lucky few who learn this super secret formula will have more rating points and money and be happier than anyone else. Have I got your attention? Then, let's go from dreamland to reality. The Boring Truth []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/boring-truth/",
+         "pubDate" : "Sat, 08 Mar 2025 14:00:00",
+         "title" : "The Super Secret Way To Improve Your Chess"
+      },
+      {
+         "description" : "Efim Geller was born on 8 March 1925, a hundred years ago today. Between 1950 and 1970, he was one of the best players in the world, even though he never managed to become world champion. Geller's record against the world champions is remarkable - mostly positive. | Photo: Hugo van Gelderen (Anefo)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/100-years-efim-geller",
+         "pubDate" : "Sat, 08 Mar 2025 14:00:00",
+         "title" : "Efim Geller (1925-1998): 100 years since his birth"
+      },
+      {
+         "description" : "GM Mateusz Bartel is scheduled to deliver a live lecture at the Kasparov Chess Foundation (KCF) Academy on March 9, 2025, at 6:00 PM CET. This event is part of KCF Academy's ongoing training program, crafted to provide high-quality chess education worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-learn-about-piece-activity-from-gm-mateusz-bartel",
+         "pubDate" : "Sat, 08 Mar 2025 08:00:00",
+         "title" : "KCF: Learn about piece activity from GM Mateusz Bartel"
+      },
+      {
+         "description" : "The seventh edition of the Prague Chess Festival concluded with Aravindh Chithambaram winning the Masters section after securing an undefeated 6/9 score. His final-round draw against Ediz G&uuml;rel ensured victory as Anish Giri defeated Praggnanandhaa Rameshbabu, the only player who could have caught him. In the Challengers section, Nodirbek Yakubboev claimed first place after defeating Jonas Buhl Bjerre in a blitz tiebreak. With this win, Yakubboev secured a spot in next year's Masters tournament. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-9",
+         "pubDate" : "Sat, 08 Mar 2025 07:10:00",
+         "title" : "Impressive Aravindh wins Prague Masters with 2830 TPR"
+      },
+      {
+         "description" : "GM V.Pranav comfortably drew his final round game (9/11 rounds) against FM Lavrencic, Matic of Slovenia to clinch the prestigious World Juniors which concluded at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-pranav-v-wins-the-prestigious-world-juniors-2025-at-petrovac/",
+         "pubDate" : "Sat, 08 Mar 2025 06:14:07",
+         "title" : "GM Pranav V wins the prestigious World Juniors 2025 at Petrovac"
+      },
+      {
+         "description" : "Koneru Humpy speaks on motherhood, challenges as a woman in sport, and what it takes to be a champion.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
+         "pubDate" : "Fri, 7 Mar 2025 21:30:27",
+         "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118791973.cms\" />India's Pranav Venkatesh clinched the World Junior Chess Championship (Under-20) held in Montenegro, remaining undefeated with seven victories and four draws. This marks a significant achievement for Indian chess, with Viswanathan Anand congratulating him for his remarkable performance. The victory brings the open title back to India after nearly 17 years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-pranav-venkatesh-wins-world-junior-chess-championship-title/articleshow/118791973.cms",
+         "pubDate" : "Fri, 07 Mar 2025 17:41:04",
+         "title" : "India's Pranav Venkatesh wins World Junior Chess Championship"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118790468.cms\" />Grandmaster Aravindh Chithambaram won the Prague Chess Masters 2025 with an impressive 6/9 points. His draw in the final round against Ediz Gurel secured his sole first place, propelling him to World No. 14. This remarkable performance in only his second classical super-tournament highlights his emerging status among the world's elite players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,12 +114,28 @@ news_feed (
          "title" : "Aravindh Chithambaram clinches Prague Chess Masters 2025 title"
       },
       {
-         "description" : "From 26 February to 7 March, ten top grandmasters, including Wei Yi, Praggnanandhaa, Le Quang Liem and Vincent Keymer, will play for tournament victory and prize money in the Prague Masters. The Masters is part of the 7th Prague Chess Festival that also includes a Challengers tournament, an Open and many attractive side events. Round 6 of the Masters and the Challengers starts at 15.00 local time. Follow the games live and with commentary by Sagar Shah and Harshit Raja.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-masters-und-challengers-live",
-         "pubDate" : "Fri, 07 Mar 2025 11:00:00",
-         "title" : "Prague Chess Festival: Masters and Challengers live"
+         "description" : "18-year-old Indian GM Pranav Venkatesh dominated the FIDE World Junior Championship 2025 to be crowned champion ahead of 11 other grandmasters on Friday. 16-year-old WIM Anna Shukhman took the Girls title a full point clear of the field. The Wor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-shukhman-win-2025-fide-world-junior-chess-championships",
+         "pubDate" : "Fri, 07 Mar 2025 13:18:00",
+         "title" : "Pranav Dominates World Junior Championship, Shukhman Takes Girls Title"
+      },
+      {
+         "description" : "GM Aravindh Chithambaram won the 2025 Prague Chess Festival Masters with a draw in the last round against GM Ediz Gurel. Having previously won the 2024 Chennai Grand Masters, the 25-year-old &#34;late bloomer&#34; has won the only two super-tournaments he...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aravindh-wins-2025-prague-chess-festival",
+         "pubDate" : "Fri, 07 Mar 2025 11:03:00",
+         "title" : "Aravindh Wins Prague Chess Masters, Now World Number-14"
+      },
+      {
+         "description" : "Freestyle Friday is still a relatively new event, with its seventh-ever rendition being held on March 7. In it, GM Arjun Erigaisi set two firsts: he became the first player to win any two Freestyle Fridays and the first player to win two in a row....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-march-7-2025",
+         "pubDate" : "Fri, 07 Mar 2025 10:56:48",
+         "title" : "Back-to-Back Wins For Arjun In Freestyle Tournament"
       },
       {
          "description" : "Open Category The top board encounter between GM Grebnev, Aleksey and GM Pranav ended in a peaceful draw in 40 moves.GM Pranav maintains with 8.5/10",
@@ -34,20 +154,20 @@ news_feed (
          "title" : "Chess returns to the screen on Monday with Chess Masters: The Endgame"
       },
       {
-         "description" : "In round seven of the Masters tournament at the Prague Chess Festival, Indian grandmaster Aravindh Chithambaram took the lead in the standings, and in round eight he defended it with a draw against David Navara, as the second-placed player, Praggnanandhaa Rameshbabu, also signed a draw. The wins of the round were achieved by Anish Giri, who won with black against Sam Shankland, and Wei Yi, who benefited from a mistake by Thai Dai Van Nguyen in a rook ending. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-8",
-         "pubDate" : "Fri, 07 Mar 2025 07:25:00",
-         "title" : "Prague R8: Giri scores, Aravindh closer to tournament victory"
-      },
-      {
          "description" : "GM Fabiano Caruana won the Champions Showdown: The Kings in St. Louis convincingly after a strong final day when he beat GM Ray Robson twice. Caruana scored 6.5/9 and pocketed $51,625 for his three-day workweek. GM Wesley So, who won his blitz g...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-wins-champions-showdown-the-kings-2025",
          "pubDate" : "Fri, 07 Mar 2025 05:06:29",
          "title" : "Caruana Wins Champions Showdown: The Kings"
+      },
+      {
+         "description" : "Be the First US Chess National Puzzle Champion! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is excited to announce the inaugural National Puzzle Championship! US Chess has partnered with ChessKid to bring scholastic players the first ever National Championship event for puzzle solving. The National Puzzle Championship will be held on-site at SuperNationals VIII in Orlando, Florida on Thursday May 8, 2025. The event will be co-organized by US Chess and ChessKid.com. Online registration will be open until 1 p.m. EDT on Thursday, May 8. You can register here for the main event and puzzle championship.The National Puzzle Championship will be separated into two ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-announces-first-national-puzzle-championship-partnership-chesskid",
+         "pubDate" : "Fri, 07 Mar 2025 00:00:00",
+         "title" : "US Chess Announces First National Puzzle Championship in Partnership with ChessKid"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Lennart Ootes/SLCC<br> <br> <br> <br> GM Fabiano Caruana was the top earner at the Champions Showdown: The Kings presented by the Saint Louis Chess Club (SLCC). As explained in a previous article, the experimental event served as a sort of appetizer to the American Cup, beginning March 15.Six of the eight Open participants in the Cup competed in the mixed-format Showdown, with the $250,000 prize fund distributed based on players' results in blitz, rapid, and \"semi-classical\" games. 🎉🏆 Huge congratulations to the one and only Grandmaster Fabiano Caruana on winning the Champions Show",
@@ -64,14 +184,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-the-kings-2025",
          "pubDate" : "Thu, 6 Mar 2025 21:39:00",
          "title" : "Champions Showdown The Kings 2025 - Games and Results"
-      },
-      {
-         "description" : "\"The 2025 Champions Showdown: The Kings\" is a tournament featuring six of the best American chess players, competing in a daily triathlon of blitz, rapid and semi-classical chess from 4-6 March.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-showdown-the-kings-live",
-         "pubDate" : "Thu, 06 Mar 2025 18:55:00",
-         "title" : "Champions Showdown: The Kings: Live"
       },
       {
          "description" : "GM Aravindh Chithambaram leads by a half-point going into the last round of the 2025 Prague Chess Festival Masters. He had a minor chance to extend his lead after GM David Navara made an early mistake, but the players reached a quick draw. GM Prag...",
@@ -168,14 +280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-1",
          "pubDate" : "Wed, 05 Mar 2025 06:22:00",
          "title" : "Wesley So Leads After Day 1 Of Inaugural Champions Showdown: The Kings"
-      },
-      {
-         "description" : " The FAMU Chess Club held its first tournament as an official organization in more than 20 years. After a successful showing at the FAMU Club Fair on January 31st, the group held its interest meeting on February 21st. These events gave the FAMU Chess Club visibility, and so far, the group has attracted more than The post <a href=\"https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/\">FAMU Chess Club holds Interest Meeting, First Tournament!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/",
-         "pubDate" : "Wed, 05 Mar 2025 03:51:55",
-         "title" : "FAMU Chess Club holds Interest Meeting, First Tournament!"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SLCC events. ",
@@ -490,28 +594,12 @@ news_feed (
          "title" : "7th Prague International Chess Festival - Games and Results"
       },
       {
-         "description" : "FM Matfey Rogov now holds two Chess.com variant titles after the 17-year-old won the 2025 Chess.com 3-Check Championship in a thrilling Grand Final Reset. Rogov, who is also the site&#39;s Atomic Chess champion, played the &#34;game of the tournament&#34; to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rogov-wins-2025-chesscom-3-check-championship-knockout",
-         "pubDate" : "Fri, 28 Feb 2025 17:51:00",
-         "title" : "Rogov Clutches 3-Check Championship In Grand Final Reset"
-      },
-      {
          "description" : "Please find the Certificates here Rank &#160;Under 07 Rank &#160;Under 07 Girls 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-national-school-chess-championship-2024-25-in-peddapuram-ap/",
          "pubDate" : "Fri, 28 Feb 2025 16:45:10",
          "title" : "Certificate of National School Chess Championship 2024-25 in Peddapuram ,AP"
-      },
-      {
-         "description" : "GM Aravindh Chithambaram took the sole lead of the 2025 Prague Chess Festival Masters after winning his game in round three against GM Wei Yi. There were two more decisive results: GM Vincent Keymer bounced back from yesterday&#39;s loss by beating GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-3",
-         "pubDate" : "Fri, 28 Feb 2025 14:54:00",
-         "title" : "Aravindh Takes Sole Lead; Keymer, Praggnanandhaa Pick Up Wins"
       },
       {
          "description" : " Russian chess world champion who lost to Bobby Fischer in the sport's most famous match at the peak of the cold war Boris Spassky, who has died aged 88, was the gallant loser of the most famous match in chess history. The Russian champion conceded his world title to <a href=\"http://www.guardian.co.uk/obituaries/story/0,,2243089,00.html\">Bobby Fischer </a>at Reykjavik in 1972, but gained a host of admirers for his sportsmanlike behaviour and dignity in defeat. When Fischer had failed to appear for the opening ceremony, Moscow wanted Spassky to claim victory by default and return home. But he had struck a bond of friendship with the American at their previous meetings, and agreed to a first g",
@@ -536,22 +624,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-finance-council-26-april-2025-call-for-motions/",
          "pubDate" : "Fri, 28 Feb 2025 11:58:15",
          "title" : "ECF FINANCE Council 26 April 2025 - call for motions"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju is up to a career-best world number-three on the official March 2025 FIDE rating list after overtaking GMs Fabiano Caruana and Arjun Erigaisi during the 2025 Tata Steel Chess Masters. GM Praggnanandhaa Rameshbabu, w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/march-2025-fide-rating-list",
-         "pubDate" : "Fri, 28 Feb 2025 11:46:00",
-         "title" : "March 2025 FIDE Ratings: Gukesh Up To 3rd, Pragg Back In Top 10"
-      },
-      {
-         "description" : "GM Arjun Erigaisi won Freestyle Friday outright over a field of 307 players on February 28, doing so with a win over erstwhile leader GM Shant Sargsyan in the final round. GM Hikaru Nakamura ended up taking second place from Sargsyan on tiebreaks,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-february-28-2025",
-         "pubDate" : "Fri, 28 Feb 2025 11:10:31",
-         "title" : "Arjun India's First To Claim Freestyle Friday"
       },
       {
          "description" : "The third leg of the FIDE Women's Grand Prix 2024/2025 took place from 17-28 February in Monte-Carlo, Monaco. After intense nine rounds, three players finished the event tying for the top with the score of 5.5 points each: GM Aleksandra Goryachkina (FIDE, 2546), GM Humpy Koneru (IND, 2523) and IM Batkhuyag Munguntuul (MGL, 2331). Having the best tiebreaks (Sonneborn-Berger), Aleksandra Goryachkina emerged as the Winner of the event and leads on the FIDE Women's Grand Prix standings with 236.67 points. []",
@@ -650,14 +722,6 @@ news_feed (
          "title" : "England Over 65s retain World Senior Team Chess Championship title!"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Both official USA teams at the closing ceremony (Photo by Lawrence Cohen)<br> <br> <br> <br> USA won the 2025 FIDE World Senior Team Championships ahead of Italy on tiebreaks in the 50+ section, and USA Women earned the 50+ bronze. Today's article focuses on USA's team gold. GM Alexander Shabalov - the reigning World Senior Champion - also won an individual gold medal for his undefeated 6&frac12;/8 performance on board 3. Tomorrow, team member WIM Alexey Root will provide a report (and some games) recapping USA Women's bronze medal performance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/usa-completes-threepeat-fide-world-senior-team-championships",
-         "pubDate" : "Thu, 27 Feb 2025 00:00:00",
-         "title" : "USA Completes the Threepeat at FIDE World Senior Team Championships"
-      },
-      {
          "description" : "My new book, Never Mind the Grandmasters, Here Come the Amateurs, will be published on 24th March. Pre-orders are being taken as only around 200 copies will be printed.&#160;The web...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -712,14 +776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-chess-solving-david-does-the-treble/",
          "pubDate" : "Sat, 22 Feb 2025 09:56:03",
          "title" : "Winton Chess Solving - David Does The Treble!"
-      },
-      {
-         "description" : " Adisa Banjoko visited Albany State University at the invitation of the school's &#8220;University College,&#8221; an entity supporting first- and second-year students. Banjoki is known to the chess world as the founder of the Hip Hop Chess Federation (HHCF), an organization founded in 2007 with the idea of using chess, martial arts, and hip-hop as avenues to The post <a href=\"https://thechessdrum.net/blog/2025/02/21/albany-state-host-hip-hop-icon-adisa-banjoko/\">Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/02/21/albany-state-host-hip-hop-icon-adisa-banjoko/",
-         "pubDate" : "Fri, 21 Feb 2025 14:49:22",
-         "title" : "Albany State hosts Hip-Hop Chess Icon, Adisa Banjoko"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
@@ -816,70 +872,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/more-text-to-art.html",
          "pubDate" : "Sun, 16 Feb 2025 16:11:00",
          "title" : "More Text to Art"
-      },
-      {
-         "description" : "Please find the circular here : Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-amateur-chess-championship-2024-25-in-bodhgaya-bihar-from-25-29-march-2025/",
-         "pubDate" : "Sat, 15 Feb 2025 15:13:39",
-         "title" : "National Amateur Chess Championship 2024-25 in Bodhgaya ,Bihar from 25-29 March 2025"
-      },
-      {
-         "description" : "In June 2015, I became a Chess Professional. It wasn't just the people around me who doubted me-my Coach, someone I trusted, and even the Swiss Chess Federation told me to get a \"real job\" instead. They said I wasn't good enough to make a living from chess-especially not in Switzerland, where the cost of []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/breakthrough/",
-         "pubDate" : "Sat, 15 Feb 2025 14:00:00",
-         "title" : "How I Turned a 2.5-Year Plateau into a Career-Defining Breakthrough"
-      },
-      {
-         "description" : "I have, for over four decades, been advocating a method of improving your results, by adopting a hero or role model and using that player's ideas to create your own repertoire and prepared strategies. One example is the concept of the rook sacrifice on f7, always a vulnerable square, defended only by the king. In []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/winning-stratagems/",
-         "pubDate" : "Sat, 15 Feb 2025 13:06:22",
-         "title" : "Winning stratagems"
-      },
-      {
-         "description" : "Medical Evaluation of the age of Chess Players: The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/announcement-medical-evaluation-in-guwahati-on-04-april-2025/",
-         "pubDate" : "Sat, 15 Feb 2025 08:47:10",
-         "title" : "Announcement :Medical Evaluation in Guwahati on 04 April 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118270498.cms\" />Anna Muzychuk, Ukraine's top-ranked chess player, is set to compete in Norway Chess Women 2025. She aims to build on her runner-up finish from last year. The tournament features strong contenders like Ju Wenjun and Koneru Humpy. Equal prize money and unique scoring systems add to the competitive excitement. Muzychuk focuses on strategic preparation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-a-big-step-forward-for-women-world-no-8-anna-muzychuk-on-equal-prize-in-norway-chess/articleshow/118270498.cms",
-         "pubDate" : "Sat, 15 Feb 2025 08:06:36",
-         "title" : "'Step forward for women': Muzychuk on Norway Chess equal prize"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118266413.cms\" />World champion D Gukesh finished eighth at the German Freestyle Chess Grand Slam after losing to Alireza Firouzja. Despite a winless campaign, Gukesh earned $20,000. Vincent Keymer won the tournament, defeating Fabiano Caruana, and secured $200,000. Top players like Magnus Carlsen, Javokhir Sindarov, and Hikaru Nakamura also took notable prizes, while Levon Aronian and Vladimir Fedoseev finished in lower ranks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-much-d-gukesh-took-home-despite-winless-run-at-german-leg-of-freestyle-chess-grand-slam-tour/articleshow/118266413.cms",
-         "pubDate" : "Sat, 15 Feb 2025 04:27:58",
-         "title" : "How much Gukesh took home despite winless run at Freestyle Chess"
-      },
-      {
-         "description" : " GM Pontus Carlsson invited The Chess Drum community to participate in his Zero Requiem charity event to benefit the development of chess in Africa. In his ongoing Business Meets Chess &#38; Kids initiative, he involves celebrities, business executive and chess enthusiasts to enjoy chess and meet &#8220;chess kids&#8221; who have developed a joy for the The post <a href=\"https://thechessdrum.net/blog/2025/02/14/gm-carlsson-invites-you-to-charity-event/\">GM Carlsson invites you to Charity Chess Event</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/02/14/gm-carlsson-invites-you-to-charity-event/",
-         "pubDate" : "Sat, 15 Feb 2025 02:35:01",
-         "title" : "GM Carlsson invites you to Charity Chess Event"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118256227.cms\" />World champion D Gukesh finished eighth at the Freestyle Chess Grand Slam after losing to Alireza Firouzja in their seventh-place playoff match. Despite drawing the first game, Gukesh lost the second in 30 moves, concluding a winless tournament. Vincent Keymer, considered a rookie, won the event, which challenges the traditional chess format.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-loses-to-firouzja-ends-eighth/articleshow/118256227.cms",
-         "pubDate" : "Fri, 14 Feb 2025 17:48:30",
-         "title" : "Freestyle Chess: D Gukesh loses to Firouzja, ends eighth"
       }
    ]
 }
