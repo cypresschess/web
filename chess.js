@@ -90,14 +90,6 @@ news_feed (
          "title" : "GM Pranav V wins the prestigious World Juniors 2025 at Petrovac"
       },
       {
-         "description" : "Koneru Humpy speaks on motherhood, challenges as a woman in sport, and what it takes to be a champion.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
-         "pubDate" : "Fri, 7 Mar 2025 21:30:27",
-         "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118791973.cms\" />India's Pranav Venkatesh clinched the World Junior Chess Championship (Under-20) held in Montenegro, remaining undefeated with seven victories and four draws. This marks a significant achievement for Indian chess, with Viswanathan Anand congratulating him for his remarkable performance. The victory brings the open title back to India after nearly 17 years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
