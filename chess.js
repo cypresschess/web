@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague International Chess Festival offers a wide variety of events, catering to both competitive players and chess enthusiasts. Among them is the problem-solving competition, which was held for the second time on 28 February. Milan Petras won the event, scoring 55 points, ahead of Dimitra Amiridou and Sahib Hasanzada. A notable feature of this year's competition was that all positions were curated by renowned chess composer Yochanan Afek, adding an extra layer of prestige to the challenge. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2025-solving-ch",
+         "pubDate" : "Sun, 09 Mar 2025 22:00:00",
+         "title" : "Milan Petras wins Solving Championship at Prague Chess Festival"
+      },
+      {
          "description" : "With ChessBase 18, you can not only analyse your own games professionally - as we have already shown in the first four parts of the tutorial - you can also comment on them individually. There are several methods for doing this, and they can be linked together. The comments can be entered as text or using the commonly used chess symbols. In this fifth part of our new tutorial series, we will show you how easily you can integrate all types of comments into your notation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-5-annotations",
-         "pubDate" : "Sun, 09 Mar 2025 15:00:00",
+         "pubDate" : "Sun, 09 Mar 2025 15:05:00",
          "title" : "ChessBase 18 - Tips for Beginners, Part 5: Annotations"
       },
       {
@@ -18,28 +26,12 @@ news_feed (
          "title" : "Eman Sawan Starred At Chess Olympiad; Now She Wants To Make History"
       },
       {
-         "description" : "The Freestyle Chess Grand Slam Tour 2025 moves to Paris from April 7 to 14, bringing together 12 top grandmasters for the second Grand Slam event of the year. Held at the Pavillon Chesnaie du Roy, the tournament features a round-robin phase followed by a knockout stage with classical time controls. Magnus Carlsen, reigning World Champion Gukesh Dommaraju and Hikaru Nakamura are among the confirmed participants, with one final spot still up for grabs through an online qualification event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-chess-twelve-super-gms-to-battle-in-paris",
-         "pubDate" : "Sun, 09 Mar 2025 10:00:00",
-         "title" : "Freestyle Chess: Twelve super-GMs to battle in Paris"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118808190.cms\" />18-year-old Pranav Venkatesh clinched the World Junior Chess Championship with unique preparation methods, including playing cricket in hotel rooms with his coach, GM Shyam Sundar. Pranav balanced his rapid blitz skills with the patience needed for classical chess, leading to his triumph in Montenegro, a title once held by Viswanathan Anand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-hotel-room-cricket-to-world-junior-champion-pranav-v-becomes-indias-new-chess-sensation/articleshow/118808190.cms",
          "pubDate" : "Sun, 09 Mar 2025 03:15:09",
          "title" : "From hotel room cricket to world junior champion: Pranav's story"
-      },
-      {
-         "description" : "The 2025 World Junior Chess Championship took place from 26 February to 7 March in Petrovac, Montenegro, featuring nearly 260 players from 67 countries. GM Pranav Venkatesh won gold in the open section with an unbeaten 9/11, while WIM Anna Shukhman secured victory in the girls' event with the same score. The competition saw strong performances from FM Matic Lavrencic, GM Elham Amar, WIM Ayan Allahverdiyeva and IM Miaoyi Lu, who reached the podiums in their cateegories. | Photo: Mitar Djukanovic",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pranav-shukhman-win-2025-world-junior-ch",
-         "pubDate" : "Sat, 08 Mar 2025 22:40:00",
-         "title" : "Pranav and Shukhman are the 2025 world junior champions"
       },
       {
          "description" : "After posting a 29-game streak in Saturday&#39;s event, GM Andrew Tang joined GM Hikaru Nakamura and Daniel Naroditsky as one of three players to win three Bullet Brawls in 2025. Tang scored 70 wins, one draw, and eight losses and scored 258 points&#38;md...",
@@ -80,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kcf-learn-about-piece-activity-from-gm-mateusz-bartel",
          "pubDate" : "Sat, 08 Mar 2025 08:00:00",
          "title" : "KCF: Learn about piece activity from GM Mateusz Bartel"
-      },
-      {
-         "description" : "The seventh edition of the Prague Chess Festival concluded with Aravindh Chithambaram winning the Masters section after securing an undefeated 6/9 score. His final-round draw against Ediz G&uuml;rel ensured victory as Anish Giri defeated Praggnanandhaa Rameshbabu, the only player who could have caught him. In the Challengers section, Nodirbek Yakubboev claimed first place after defeating Jonas Buhl Bjerre in a blitz tiebreak. With this win, Yakubboev secured a spot in next year's Masters tournament. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-9",
-         "pubDate" : "Sat, 08 Mar 2025 07:10:00",
-         "title" : "Impressive Aravindh wins Prague Masters with 2830 TPR"
       },
       {
          "description" : "GM V.Pranav comfortably drew his final round game (9/11 rounds) against FM Lavrencic, Matic of Slovenia to clinch the prestigious World Juniors which concluded at",
