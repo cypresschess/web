@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What is the Ultimate Underdog chess game, ever played? This is obviously a very difficult question to answer, and moreover, very subjective. Nonetheless, one game would probably be set in the top 10 list - Adams vs. Torre from 1920. In this game, which is suspiciously beautiful, Adams tries really hard to sacrifice his queen several times, against the Mexican super talent Torre. Apparently, Adams was unknown, and not that strong of a chess player after all. Even if it was simply a brilliant analysis, it remains brilliant, and worthy to appear on this show.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-ultimate-underdog-the-underdog",
+         "pubDate" : "Mon, 10 Mar 2025 15:39:22",
+         "title" : "The Ultimate Underdog? - The Underdog"
+      },
+      {
+         "description" : "England's top female chess players are turning out among a strong field to compete for the Menchik Memorial title. The 2025 tournament will take place at the London Mindsports Centre in Hammersmith from March 20 to 24. The tournament is named after Vera Francevna Menchik (1906-1944), the pioneering chess player who became the first Women's World Chess Champion in 1927 - and went on to win the title seven more times, holding it for almost two decades. | World Wide Photos",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tenth-vera-menchik-memorial",
+         "pubDate" : "Mon, 10 Mar 2025 15:38:50",
+         "title" : "Tenth Vera Menchik Memorial"
+      },
+      {
+         "description" : "The Scotch Gambit is a favourite at club level, offering a rich blend of attacking and positional ideas. Whether you prefer sharp tactical battles, or a more controlled strategic approach, this video course gives you everything you need to master this dynamic opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nico-zwirs-the-ultimate-scotch-gambit-a-repertoire-for-aggressive-and-positional-players",
+         "pubDate" : "Mon, 10 Mar 2025 12:33:00",
+         "title" : "Nico Zwirs: The Ultimate Scotch Gambit - A Repertoire for Aggressive and Positional Players"
+      },
+      {
          "description" : "SENSEROBOT BECOMES THE OFFICIAL AI PROVIDER OF EUROPEAN CHESS UNION The European Chess Union (ECU), the governing body for chess across Europe with 54 member federations, is proud to announce a landmark partnership with SenseRobot based in Hong Kong (www.senserobotchess.com), a leading innovator in AI technology solutions. This strategic collaboration marks a significant step forward in ECU's commitment to advancing chess education and technology across Europe. As part of this comprehensive partnership, each ECU member federation will receive a complimentary []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,28 +34,12 @@ news_feed (
          "title" : "European Chess Union partners with SENSEROBOT"
       },
       {
-         "description" : "England's top female chess players are turning out among a strong field to compete for the Menchik Memorial title. The 2025 tournament will take place at the London Mindsports Centre in Hammersmith from March 20 to 24. The tournament is named after Vera Francevna Menchik (1906-1944), the pioneering chess player who became the first Women's World Chess Champion in 1927 - and went on to win the title seven more times, holding it for almost two decades. | World Wide Photos",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tenth-vera-menchik-memorial",
-         "pubDate" : "Mon, 10 Mar 2025 09:26:50",
-         "title" : "Tenth Vera Menchik Memorial"
-      },
-      {
-         "description" : "The Prague International Chess Festival offers a wide variety of events, catering to both competitive players and chess enthusiasts. Among them is the problem-solving competition, which was held for the second time on 28 February. Milan Petras won the event, scoring 55 points, ahead of Dimitra Amiridou and Sahib Hasanzada. A notable feature of this year's competition was that all positions were curated by renowned chess composer Yochanan Afek, adding an extra layer of prestige to the challenge. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2025-solving-ch",
-         "pubDate" : "Sun, 09 Mar 2025 22:00:00",
-         "title" : "Milan Petras wins Solving Championship at Prague Chess Festival"
-      },
-      {
-         "description" : "With ChessBase 18, you can not only analyse your own games professionally - as we have already shown in the first four parts of the tutorial - you can also comment on them individually. There are several methods for doing this, and they can be linked together. The comments can be entered as text or using the commonly used chess symbols. In this fifth part of our new tutorial series, we will show you how easily you can integrate all types of comments into your notation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-5-annotations",
-         "pubDate" : "Sun, 09 Mar 2025 15:05:00",
-         "title" : "ChessBase 18 - Tips for Beginners, Part 5: Annotations"
+         "description" : "World number-one Magnus Carlsen scored 3/3 for Offerspill on the final weekend of the Norwegian Team Chess Championship. His wins over GM Simen Agdestein and IMs Kristian Stuvik Holm and Alparslan Isik saw him gain 4.1 rating points to climb to 28...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-norwegian-league-climbs-2837-rating",
+         "pubDate" : "Mon, 10 Mar 2025 05:51:00",
+         "title" : "Carlsen Scores 3/3 In Norwegian Team Championship, Climbs To 2837"
       },
       {
          "description" : "17-year-old WFM Eman Sawan from Palestine has emerged as one of the brightest stars in a region with limited support and traditions for chess. Her story has ignited a wave of support from the chess community with over 70 donors backing her dream t...",
@@ -72,22 +80,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/boring-truth/",
          "pubDate" : "Sat, 08 Mar 2025 14:00:00",
          "title" : "The Super Secret Way To Improve Your Chess"
-      },
-      {
-         "description" : "Efim Geller was born on 8 March 1925, a hundred years ago today. Between 1950 and 1970, he was one of the best players in the world, even though he never managed to become world champion. Geller's record against the world champions is remarkable - mostly positive. | Photo: Hugo van Gelderen (Anefo)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/100-years-efim-geller",
-         "pubDate" : "Sat, 08 Mar 2025 14:00:00",
-         "title" : "Efim Geller (1925-1998): 100 years since his birth"
-      },
-      {
-         "description" : "GM Mateusz Bartel is scheduled to deliver a live lecture at the Kasparov Chess Foundation (KCF) Academy on March 9, 2025, at 6:00 PM CET. This event is part of KCF Academy's ongoing training program, crafted to provide high-quality chess education worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-learn-about-piece-activity-from-gm-mateusz-bartel",
-         "pubDate" : "Sat, 08 Mar 2025 08:00:00",
-         "title" : "KCF: Learn about piece activity from GM Mateusz Bartel"
       },
       {
          "description" : "GM V.Pranav comfortably drew his final round game (9/11 rounds) against FM Lavrencic, Matic of Slovenia to clinch the prestigious World Juniors which concluded at",
@@ -544,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-4",
          "pubDate" : "Sat, 01 Mar 2025 12:09:00",
          "title" : "Praggnanandhaa Beats Keymer, Leads With Aravindh By 1 Point"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#39;s world famous jeans from the 2024 World Rapid Championship have been sold at auction for a staggering $36,100. The proceeds will go to charity. An anonymous bidder had the highest bid on Saturday following a 10-day bidding war...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-world-famous-jeans-auctioned-after-bidding-war",
-         "pubDate" : "Sat, 01 Mar 2025 11:22:00",
-         "title" : "Carlsen's World Famous Jeans Auctioned For $36,100 After Bidding War"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118646765.cms\" />GM Gukesh Dommaraju has climbed to world number three in the latest FIDE rankings after an impressive performance at the Tata Steel Chess Masters 2025. GM Praggnanandhaa Rameshbabu reentered the top-10 by winning the Tata Steel title. GM Magnus Carlsen remains number-one, while GM Hikaru Nakamura is now second. Significant shifts occurred in the women's rankings as well.",
