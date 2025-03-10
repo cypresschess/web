@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2025-03-08","150","<a href=http://www.uschess.org/msa/XtblMain.php?202503087152 target='_blank'>GOFORTH ELEMENTARY SCHOOL TOURNAMEN</a>",
 "HOUSTON","2025-03-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202503086182 target='_blank'>CHESSPANDA03082025SATURDAY</a>",
 "HOUSTON","2025-03-07","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503075762 target='_blank'>MAR 7TH FRIDAY NIGHT SWISS</a>",
 "CYPRESS","2025-03-07","28","<a href=http://www.uschess.org/msa/XtblMain.php?202503075702 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-07-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202407208432 target='_blank'>CHESSPANDA07202024SATURDAY</a>",
 "CYPRESS","2024-07-19","40","<a href=http://www.uschess.org/msa/XtblMain.php?202407198332 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-07-19","8","<a href=http://www.uschess.org/msa/XtblMain.php?202407198262 target='_blank'>FBCC 2024 WORLD CHESS DAY OPEN</a>",
-"HOUSTON","2024-07-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202407145702 target='_blank'>FREE THE US VIRGIN ISLANDS BENEFIT</a>",
 ]);
