@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "SENSEROBOT BECOMES THE OFFICIAL AI PROVIDER OF EUROPEAN CHESS UNION The European Chess Union (ECU), the governing body for chess across Europe with 54 member federations, is proud to announce a landmark partnership with SenseRobot based in Hong Kong (www.senserobotchess.com), a leading innovator in AI technology solutions. This strategic collaboration marks a significant step forward in ECU's commitment to advancing chess education and technology across Europe. As part of this comprehensive partnership, each ECU member federation will receive a complimentary []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-union-partners-with-senserobot/",
+         "pubDate" : "Mon, 10 Mar 2025 10:35:11",
+         "title" : "European Chess Union partners with SENSEROBOT"
+      },
+      {
+         "description" : "England's top female chess players are turning out among a strong field to compete for the Menchik Memorial title. The 2025 tournament will take place at the London Mindsports Centre in Hammersmith from March 20 to 24. The tournament is named after Vera Francevna Menchik (1906-1944), the pioneering chess player who became the first Women's World Chess Champion in 1927 - and went on to win the title seven more times, holding it for almost two decades. | World Wide Photos",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tenth-vera-menchik-memorial",
+         "pubDate" : "Mon, 10 Mar 2025 09:26:50",
+         "title" : "Tenth Vera Menchik Memorial"
+      },
+      {
          "description" : "The Prague International Chess Festival offers a wide variety of events, catering to both competitive players and chess enthusiasts. Among them is the problem-solving competition, which was held for the second time on 28 February. Milan Petras won the event, scoring 55 points, ahead of Dimitra Amiridou and Sahib Hasanzada. A notable feature of this year's competition was that all positions were curated by renowned chess composer Yochanan Afek, adding an extra layer of prestige to the challenge. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
