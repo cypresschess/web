@@ -840,14 +840,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/cubist-chess.html",
          "pubDate" : "Mon, 17 Feb 2025 16:35:00",
          "title" : "Cubist Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118316986.cms\" />Vantika Agrawal, inspired by chess as a child, became a double gold medallist at the 2024 Chess Olympiad and recently received the Arjuna Award. Despite challenges such as a lack of chess culture in north India, she remains dedicated, training rigorously with support from her mother, and aims to prove herself on the global chess stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/people-still-ask-chess-is-fine-but-what-do-you-really-do-arjuna-awardee-vantika-agrawal/articleshow/118316986.cms",
-         "pubDate" : "Mon, 17 Feb 2025 03:18:29",
-         "title" : "'People still ask, 'Chess is fine, but what do you really do?''"
       }
    ]
 }
