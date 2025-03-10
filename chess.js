@@ -26,6 +26,14 @@ news_feed (
          "title" : "Tenth Vera Menchik Memorial"
       },
       {
+         "description" : "In week seven of the Collegiate Chess League Spring 2025 (CCL), two strong teams fought for a shot at the league playoffs. The University of the Texas Rio Grande Valley (TRGV) narrowly held off Lviv State University of Physical Culture by a score ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-7",
+         "pubDate" : "Mon, 10 Mar 2025 12:58:39",
+         "title" : "Rio Grand Valley Edges Lviv State University In Tense Match: CCL Week 7"
+      },
+      {
          "description" : "The Scotch Gambit is a favourite at club level, offering a rich blend of attacking and positional ideas. Whether you prefer sharp tactical battles, or a more controlled strategic approach, this video course gives you everything you need to master this dynamic opening.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/stewart-reuben-funeral-details/",
          "pubDate" : "Sat, 01 Mar 2025 18:47:20",
          "title" : "Stewart Reuben - funeral details for Tuesday 4th March"
-      },
-      {
-         "description" : "GM Hikaru Nakamura made a resounding statement in Saturday&#39;s Bullet Brawl, dominating the strongest edition in history after scoring 75.5/80 and accumulating 286 points. IM Yoseph Taher and GM Sam Sevian rounded out the podium, finishing well belo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-1-2025",
-         "pubDate" : "Sat, 01 Mar 2025 16:11:00",
-         "title" : "Nakamura Scores 75.5/80 In Strongest-Ever Bullet Brawl"
       },
       {
          "description" : "Student: \"I thought I played well, but I only got 60% accuracy\". Me: \"But that was still an awesome game!\" This conversation happens often in my lessons. Accuracy scores can be fun, but they can also give us a misleading sense of how well we've played. Often, students play good practical chess but get a []",
