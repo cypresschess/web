@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On July 13, 2004, Bobby Fischer was detained in Japan with an invalid U.S. passport. That marked the beginning of a nine-month ordeal for him in Japanese custody. Among the supporters fighting for his release was former World Champion Boris Spassky, whom Fischer had dethroned thirty years earlier. Spassky, who passed last week, even wrote a personal letter of appeal to President George Bush, asking to be locked up in the same cell as Fischer. \"And give us a chess set,\" he said.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-spassky-fought-for-fischer",
+         "pubDate" : "Mon, 10 Mar 2025 19:00:00",
+         "title" : "How Spassky fought for Fischer"
+      },
+      {
          "description" : "What is the Ultimate Underdog chess game, ever played? This is obviously a very difficult question to answer, and moreover, very subjective. Nonetheless, one game would probably be set in the top 10 list - Adams vs. Torre from 1920. In this game, which is suspiciously beautiful, Adams tries really hard to sacrifice his queen several times, against the Mexican super talent Torre. Apparently, Adams was unknown, and not that strong of a chess player after all. Even if it was simply a brilliant analysis, it remains brilliant, and worthy to appear on this show.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "Nico Zwirs: The Ultimate Scotch Gambit - A Repertoire for Aggressive and Positional Players"
       },
       {
+         "description" : "GM Daniil Dubov won an 18-game blitz match against GM Hans Niemann with a final score of 9.5-8.5. As the prize, Niemann had agreed to answer one question with a polygraph test. The match, which took place March 7-8 in Moscow, Russia was a follow-u...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-wins-match-vs-niemann-lie-detector",
+         "pubDate" : "Mon, 10 Mar 2025 12:13:51",
+         "title" : "Dubov Wins Match Vs. Niemann With Outstanding 64.g4!? Breakthrough"
+      },
+      {
          "description" : "SENSEROBOT BECOMES THE OFFICIAL AI PROVIDER OF EUROPEAN CHESS UNION The European Chess Union (ECU), the governing body for chess across Europe with 54 member federations, is proud to announce a landmark partnership with SenseRobot based in Hong Kong (www.senserobotchess.com), a leading innovator in AI technology solutions. This strategic collaboration marks a significant step forward in ECU's commitment to advancing chess education and technology across Europe. As part of this comprehensive partnership, each ECU member federation will receive a complimentary []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-chess-union-partners-with-senserobot/",
          "pubDate" : "Mon, 10 Mar 2025 10:35:11",
          "title" : "European Chess Union partners with SENSEROBOT"
+      },
+      {
+         "description" : "Koneru Humpy speaks on motherhood, challenges as a woman in sport, and what it takes to be a champion.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
+         "pubDate" : "Mon, 10 Mar 2025 06:17:20",
+         "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
       },
       {
          "description" : "World number-one Magnus Carlsen scored 3/3 for Offerspill on the final weekend of the Norwegian Team Chess Championship. His wins over GM Simen Agdestein and IMs Kristian Stuvik Holm and Alparslan Isik saw him gain 4.1 rating points to climb to 28...",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://aicf.in/gm-pranav-v-wins-the-prestigious-world-juniors-2025-at-petrovac/",
          "pubDate" : "Sat, 08 Mar 2025 06:14:07",
          "title" : "GM Pranav V wins the prestigious World Juniors 2025 at Petrovac"
-      },
-      {
-         "description" : "Koneru Humpy speaks on motherhood, challenges as a woman in sport, and what it takes to be a champion.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
-         "pubDate" : "Fri, 7 Mar 2025 21:30:27",
-         "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118791973.cms\" />India's Pranav Venkatesh clinched the World Junior Chess Championship (Under-20) held in Montenegro, remaining undefeated with seven victories and four draws. This marks a significant achievement for Indian chess, with Viswanathan Anand congratulating him for his remarkable performance. The victory brings the open title back to India after nearly 17 years.",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Watch: Uzbek GM chooses 'Namaste' over handshake before game"
       },
       {
-         "description" : "There are two leaders after four rounds at the 2025 Prague Chess Festival Masters: Indian GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram, a point ahead of the field. Praggnanandhaa scored his second consecutive victory, with Black against...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-4",
-         "pubDate" : "Sat, 01 Mar 2025 12:09:00",
-         "title" : "Praggnanandhaa Beats Keymer, Leads With Aravindh By 1 Point"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118646765.cms\" />GM Gukesh Dommaraju has climbed to world number three in the latest FIDE rankings after an impressive performance at the Tata Steel Chess Masters 2025. GM Praggnanandhaa Rameshbabu reentered the top-10 by winning the Tata Steel title. GM Magnus Carlsen remains number-one, while GM Hikaru Nakamura is now second. Significant shifts occurred in the women's rankings as well.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://aicf.in/asian-individual-chess-championships-mens-and-womens-2025-in-al-ain-uae-from-6th-to-16th-may-2025/",
          "pubDate" : "Tue, 18 Feb 2025 12:39:35",
          "title" : "Asian Individual Chess Championships (Men's and Women's) - 2025 in Al Ain, UAE from 6th to 16th May 2025"
-      },
-      {
-         "description" : "The title of the previous post on AI Comics, <A HREF=\"https://chessforallages.blogspot.com/2025/02/surrealist-cubist-dadaist-chess.html\">Surrealist, Cubist, Dadaist Chess</A> (February 2025; 'Marcel Duchamp plays surrealist chess'), suggests the theme of this current post. I ended that post saying, <BLOCKQUOTE> That gives me at least two more avenues to explore -- (1) conceptual art and (2) Salvador Dali, not to overlook cubism and dadism. </BLOCKQUOTE> <P> Cubism I understand -- at least I think I do -- Dadaism is a mystery. Let's go with what I understand. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pb17.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Marcel Duchamp plays cubist ches",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/cubist-chess.html",
-         "pubDate" : "Mon, 17 Feb 2025 16:35:00",
-         "title" : "Cubist Chess"
       }
    ]
 }
