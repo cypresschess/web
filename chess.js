@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some of the world's best chess players have trained under him, yet his name remains unknown to many. He has worked with players like Anish Giri, Jorden van Foreest, and Vladimir Fedoseev but always stayed behind the scenes. He is known for his creative training methods and intensive sessions. The name of this mastermind is Roman Vidonyak, and Sagar Shah got the opportunity to meet him in Wijk aan Zee. Check out his interview in which he talks about his training journey, training philosophy, and what it takes to create champions. Photo: German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-roman-vidonyak-the-hidden-coach-behind-top-grandmasters",
+         "pubDate" : "Tue, 11 Mar 2025 16:00:00",
+         "title" : "Meet Roman Vidonyak: The hidden coach behind top grandmasters"
+      },
+      {
+         "description" : "Please see below the announcement for the FIDE World Rapid and Blitz Team Championships which will be taking place from 10th 16th June in London. Entries are welcome from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships/",
+         "pubDate" : "Tue, 11 Mar 2025 14:14:27",
+         "title" : "FIDE World Rapid and Blitz Team Championships"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -18,14 +34,6 @@ news_feed (
          "title" : "'Motherhood not a liability': How Koneru Humpy balances chess and family"
       },
       {
-         "description" : "Magnus Carlsen representend his team Offerspill last weekend at the end of this year's Norwegian Elite Series and won all the three games he played. However, it was not enough to win the championship. V&aring;lerenga (pictured) became Norwegian team champions ahead of OSS and Offerspill. | Photo: Kaido Kulaots via Facebook",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norwegian-elite-series-2025-final-report",
-         "pubDate" : "Tue, 11 Mar 2025 05:20:00",
-         "title" : "Norwegian Elite Series: Valerenga claims title, Carlsen scores 3/3"
-      },
-      {
          "description" : "On July 13, 2004, Bobby Fischer was detained in Japan with an invalid U.S. passport. That marked the beginning of a nine-month ordeal for him in Japanese custody. Among the supporters fighting for his release was former World Champion Boris Spassky, whom Fischer had dethroned thirty years earlier. Spassky, who passed last week, even wrote a personal letter of appeal to President George Bush, asking to be locked up in the same cell as Fischer. \"And give us a chess set,\" he said.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,36 +42,12 @@ news_feed (
          "title" : "How Spassky fought for Fischer"
       },
       {
-         "description" : "What is the Ultimate Underdog chess game, ever played? This is obviously a very difficult question to answer, and moreover, very subjective. Nonetheless, one game would probably be set in the top 10 list - Adams vs. Torre from 1920. In this game, which is suspiciously beautiful, Adams tries really hard to sacrifice his queen several times, against the Mexican super talent Torre. Apparently, Adams was unknown, and not that strong of a chess player after all. Even if it was simply a brilliant analysis, it remains brilliant, and worthy to appear on this show.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-ultimate-underdog-the-underdog",
-         "pubDate" : "Mon, 10 Mar 2025 15:39:22",
-         "title" : "The Ultimate Underdog? - The Underdog"
-      },
-      {
-         "description" : "England's top female chess players are turning out among a strong field to compete for the Menchik Memorial title. The 2025 tournament will take place at the London Mindsports Centre in Hammersmith from March 20 to 24. The tournament is named after Vera Francevna Menchik (1906-1944), the pioneering chess player who became the first Women's World Chess Champion in 1927 - and went on to win the title seven more times, holding it for almost two decades. | World Wide Photos",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tenth-vera-menchik-memorial",
-         "pubDate" : "Mon, 10 Mar 2025 15:38:50",
-         "title" : "Tenth Vera Menchik Memorial"
-      },
-      {
          "description" : "In week seven of the Collegiate Chess League Spring 2025 (CCL), two strong teams fought for a shot at the league playoffs. The University of the Texas Rio Grande Valley (TRGV) narrowly held off Lviv State University of Physical Culture by a score ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-7",
          "pubDate" : "Mon, 10 Mar 2025 12:58:00",
          "title" : "Rio Grand Valley Edges Lviv State University In Tense Match: CCL Week 7"
-      },
-      {
-         "description" : "The Scotch Gambit is a favourite at club level, offering a rich blend of attacking and positional ideas. Whether you prefer sharp tactical battles, or a more controlled strategic approach, this video course gives you everything you need to master this dynamic opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nico-zwirs-the-ultimate-scotch-gambit-a-repertoire-for-aggressive-and-positional-players",
-         "pubDate" : "Mon, 10 Mar 2025 12:33:00",
-         "title" : "Nico Zwirs: The Ultimate Scotch Gambit - A Repertoire for Aggressive and Positional Players"
       },
       {
          "description" : "GM Daniil Dubov won an 18-game blitz match against GM Hans Niemann with a final score of 9.5-8.5. As the prize, Niemann had agreed to answer one question with a polygraph test. The match, which took place March 7-8 in Moscow, Russia was a follow-u...",
@@ -786,14 +770,6 @@ news_feed (
          "title" : "Freestyle chess: Bobby Fischer's poisoned chalice"
       },
       {
-         "description" : "Three consecutive British Championship titles for David Hodge: 2023, 2024, and now 2025.&#160; The title is for chess solving.&#160; The Winton British Chess Solving Championship is held annually this...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-chess-solving-david-does-the-treble/",
-         "pubDate" : "Sat, 22 Feb 2025 09:56:03",
-         "title" : "Winton Chess Solving - David Does The Treble!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -848,14 +824,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/monaco-fide-womens-grand-prix-2025",
          "pubDate" : "Tue, 18 Feb 2025 18:27:00",
          "title" : "Monaco FIDE Women's Grand Prix 2025 - Games and Results"
-      },
-      {
-         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the additional players and accompanying persons are required to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-individual-chess-championships-mens-and-womens-2025-in-al-ain-uae-from-6th-to-16th-may-2025/",
-         "pubDate" : "Tue, 18 Feb 2025 12:39:35",
-         "title" : "Asian Individual Chess Championships (Men's and Women's) - 2025 in Al Ain, UAE from 6th to 16th May 2025"
       }
    ]
 }
