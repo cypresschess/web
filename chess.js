@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-7",
-         "pubDate" : "Mon, 10 Mar 2025 12:58:39",
+         "pubDate" : "Mon, 10 Mar 2025 12:58:00",
          "title" : "Rio Grand Valley Edges Lviv State University In Tense Match: CCL Week 7"
       },
       {
