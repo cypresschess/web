@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.britishchesschampionships.co.uk/tenders-2025/#new_tab",
+         "pubDate" : "Tue, 11 Mar 2025 09:25:13",
+         "title" : "British Chess Championships - tenders invited"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118883479.cms\" />Koneru Humpy, India's top woman chess player, balances motherhood and her career with grace. After a hiatus, she made a strong comeback, winning the 2019 World Rapid Championship. Humpy's commitment to fitness and mental strength drives her success. As she prepares for upcoming tournaments, her calm determination and supportive family continue to inspire.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-motherhood-not-a-liability-how-indias-no-1-koneru-humpy-balances-chess-and-family/articleshow/118883479.cms",
+         "pubDate" : "Tue, 11 Mar 2025 09:24:26",
+         "title" : "'Motherhood not a liability': How Koneru Humpy balances chess and family"
+      },
+      {
          "description" : "Magnus Carlsen representend his team Offerspill last weekend at the end of this year's Norwegian Elite Series and won all the three games he played. However, it was not enough to win the championship. V&aring;lerenga (pictured) became Norwegian team champions ahead of OSS and Offerspill. | Photo: Kaido Kulaots via Facebook",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-planning-and-development-funding-programme-guidelines/",
          "pubDate" : "Fri, 21 Feb 2025 07:16:10",
          "title" : "FIDE Planning and Development Funding Programme Guidelines"
-      },
-      {
-         "description" : "The English and English Women's Championships 2025 and the English Women's U1700 tournament have now been rescheduled from 13-16 June to 18-21 July at the same venue (the Kenilworth Holiday...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2025/",
-         "pubDate" : "Thu, 20 Feb 2025 14:21:50",
-         "title" : "English and English Women's Chess Championships 2025"
       },
       {
          "description" : "The 7th edition of the Prague Chess Festival starts next week in Czech Republic, and takes place from 27 February to 7 March in Don Giovanni Hotel Prague. The Festival features Masters, Challengers and Futures round-robin events that are simultaneously played in the same venue, and includes Open tournaments, Rapid events and side chess tournaments. The Futures competition is supported by the European Chess Union. The Masters event features: Wei Yi (CHN, 2755), Praggnanandhaa R (IND, 2741), Le Quang Liem []",
