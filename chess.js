@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2025",
-         "pubDate" : "Tue, 11 Mar 2025 12:23:29",
+         "pubDate" : "Tue, 11 Mar 2025 12:23:00",
          "title" : "More Randomness In Chess? MIT Sloan Panel Explores The Future Of The Game"
       },
       {
@@ -48,6 +48,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-motherhood-not-a-liability-how-indias-no-1-koneru-humpy-balances-chess-and-family/articleshow/118883479.cms",
          "pubDate" : "Tue, 11 Mar 2025 09:24:26",
          "title" : "'Motherhood not a liability': How Koneru Humpy balances chess and family"
+      },
+      {
+         "description" : "The Frank P. Samford Jr. and Frank Samford III Chess Fellowships are pleased to announce the 39th consecutive annual awards. The Fellowships were created by the late Frank P. Samford Jr. of Birmingham, Alabama, to advance the game he loved by identifying and assisting the most promising young chess masters in the United States.Since its inception in 1987 the Samford, under the leadership of Frank Samford III, has been successful in promoting the chess careers of more than three dozen young Americans, many of whom have gone on to become grandmasters, members of the U.S. Olympiad Chess Team and United States Chess Champions. Four members of the bronze medal-winning 2024 U.S. Women's Olympiad t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-annual-samford-fellowships-announced",
+         "pubDate" : "Tue, 11 Mar 2025 00:00:00",
+         "title" : "2025 Annual Samford Fellowships Announced"
+      },
+      {
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Lennart Ootes/FIDE<br> <br> <br> <br> This week's puzzles come from the games of 13-year-old WFM Megan Althea Paragua. The New York native won two gold medals in the FIDE Cadet World Rapid &amp; Blitz last year, and h",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-8-megan-paragua",
+         "pubDate" : "Tue, 11 Mar 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 8 (Megan Paragua)"
       },
       {
          "description" : "On July 13, 2004, Bobby Fischer was detained in Japan with an invalid U.S. passport. That marked the beginning of a nine-month ordeal for him in Japanese custody. Among the supporters fighting for his release was former World Champion Boris Spassky, whom Fischer had dethroned thirty years earlier. Spassky, who passed last week, even wrote a personal letter of appeal to President George Bush, asking to be locked up in the same cell as Fischer. \"And give us a chess set,\" he said.",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Just the Rules: First Rules Quiz of the Year"
       },
       {
-         "description" : "Job Title: Events ManagerJob Type: ExemptHours: Full Time (40+ hours/week, with some weekends and evenings)Salary: The median salary for the role is $55,000 per year.Location: Headquartered in St. Louis, MO. Teleworking AllowedManager: Assistant Director of Events Position Overview The Events Manager is a full-time role in the Events Department of US Chess created to help manage all aspects of National Events. The events manager will support the Assistant Director and Director of Events in the following areas: National Events Management and SupportOversee all aspects of the team room reservation system for National Events, including maintenance of a mailing list, composing email blasts for t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-hiring-events-manager",
-         "pubDate" : "Mon, 03 Mar 2025 00:00:00",
-         "title" : "US Chess is Hiring Events Manager"
-      },
-      {
          "description" : "GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram continue to share the lead by a full point after their draw in round five of the 2025 Prague Chess Festival Masters. GM Wei Yi reached a 50-percent score after winning the only decisive game,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/soviet-chess-grandmaster-boris-spassky-dies-at-88/articleshow/118615123.cms",
          "pubDate" : "Fri, 28 Feb 2025 02:31:49",
          "title" : "Soviet chess grandmaster Boris Spassky dies at 88"
-      },
-      {
-         "description" : "Editor's note: We continue our coverage of the 2025 FIDE World Senior Team Championship with a report from USA Women's fourth board, WIM Alexey Root. Yesterday's recap charts USA's path to gold in the 50+ section.Our focus in these reports is on the 50+ section because both US Chess-sponsored teams competed in the 50+ section. But because this report mentions the standings in the 65+ category's women's race, I also wanted to congratulate England 1 for its win in the 65+ section. Led by GM John Nunn, the reigning champions yielded only two draws on the way to their championship, finishing ahead of two German teams (Lasker Schachstiftung GK and Saxonia).The FIDE World Senior Team Chess Champio",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/path-podium-usa-women-50-team",
-         "pubDate" : "Fri, 28 Feb 2025 00:00:00",
-         "title" : "Path to the Podium: USA Women 50+ Team"
       },
       {
          "description" : " Boris Vasilievich Spassky was born in Leningrad January 30th 1937 and has died in Moscow February 27th 2025 at the age of 88. The former World Chess Champion played two championship matches against Tigran Petrosian, winning the second one in 1969 to become the 10th holder of the title. Spassky lost his only defence against Bobby Fischer in a match in Reykjavik in 1972. This match gave him worldwide fame in the midst of a media frenzy at the height of the Cold War. Spassky was one of the leading players in the world from 1956 until the early 1980s. In 1992 he played Bobby Fischer in a rematch in Yugoslavia which briefly made them both famous again. In September 2010 he had a serious stroke, ",
