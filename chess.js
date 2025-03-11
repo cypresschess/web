@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Neo-London System is an improved, more creative variation of the classical London System, which avoids dangerous black defensive moves with 3.c3 and Lf4 and exploits risks in the Lf5 variation. The course offers numerous innovations, sharper ideas and interactive training material to surprise opponents in unexplored positions. The ultra-creative Neo-London system! Ellis' \"baby\" is probably one of the most comprehensive Fritztrainers of recent years, with a running time of over 9 hours!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-the-neo-london-system-the-sharper-alternative-to-the-popular-london-system-2",
+         "pubDate" : "Tue, 11 Mar 2025 19:00:00",
+         "title" : "Elisabeth Paehtz: The Neo-London-System - The sharper alternative to the popular London system"
+      },
+      {
          "description" : "Some of the world's best chess players have trained under him, yet his name remains unknown to many. He has worked with players like Anish Giri, Jorden van Foreest, and Vladimir Fedoseev but always stayed behind the scenes. He is known for his creative training methods and intensive sessions. The name of this mastermind is Roman Vidonyak, and Sagar Shah got the opportunity to meet him in Wijk aan Zee. Check out his interview in which he talks about his training journey, training philosophy, and what it takes to create champions. Photo: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships/",
          "pubDate" : "Tue, 11 Mar 2025 14:14:27",
          "title" : "FIDE World Rapid and Blitz Team Championships"
+      },
+      {
+         "description" : "How can chess evolve to reach an even wider audience? What lessons can it take from other sports? These were just some of the questions tackled at the MIT Sloan Sports Analytics Conference last weekend.&#38;nbsp; The annual conference took place in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2025",
+         "pubDate" : "Tue, 11 Mar 2025 12:23:29",
+         "title" : "More Randomness In Chess? MIT Sloan Panel Explores The Future Of The Game"
       },
       {
          "description" : "",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "TENTATIVE NATIONAL CALENDAR FOR 2025-26"
       },
       {
-         "description" : "The rise of of chess in esports continues. On Saturday, Team Falcons announced the signing of none other than GM Alireza Firouzja, while Wolves Esports made their first acquisition with Chinese star GM Yu Yangyi. Firouzja, a 21-year-old Iranian-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-signs-for-team-falcons-joins-nakamura-yu-yangyi-also-signed",
-         "pubDate" : "Sun, 02 Mar 2025 05:53:00",
-         "title" : "Firouzja Joins Nakamura At Team Falcons, Yu Yangyi Signs With Wolves Esports"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118658401.cms\" />Indian grandmasters R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters with three points each after round four. Praggnanandhaa achieved victory over Germany's Vincent Keymer, while Aravindh drew with American Sam Shankland, setting up an exciting upcoming round between the two Indian leaders.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -808,22 +816,6 @@ news_feed (
          "link" : "https://www.europechess.org/prague-chess-festival-2025/",
          "pubDate" : "Wed, 19 Feb 2025 18:40:42",
          "title" : "Prague Chess Festival 2025"
-      },
-      {
-         "description" : " The Chessable Masters took place Tue 18th Feb to Fri 21st Feb 2025. Players: Grischuk, Firouzja, Esipenko, Giri, Erigaisi, Caruana, Nakamura, Nepomniachtchi, Duda, Carlsen, Praggnanandhaa, Sevian, Artemiev, Wei Yi, Wesley So and Yu Yangyi. 10 minutes per game. Double Elimination KO. Magnus Carlsen made very light work of winning the event beating Hikaru Nakamura in the Winners and Grand Final, there was no need for a final reset final. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2025",
-         "pubDate" : "Tue, 18 Feb 2025 18:31:00",
-         "title" : "Chessable Masters 2025 - Games and Results"
-      },
-      {
-         "description" : " The Monaco FIDE Women's Grand Prix takes place Mon 17th Feb to Fri 28th Feb 2025. Players: Zhongyi Tan, Aleksandra Goryachkina, Humpy Koneru, Kateryna Lagno, Bibisara Assaubayeva, Harika Dronavalli, Alexandra Kosteniuk, Sarasadat Khademalsharieh, Elisabeth Paehtz and Batkhuyag Munguntuul. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/monaco-fide-womens-grand-prix-2025",
-         "pubDate" : "Tue, 18 Feb 2025 18:27:00",
-         "title" : "Monaco FIDE Women's Grand Prix 2025 - Games and Results"
       }
    ]
 }
