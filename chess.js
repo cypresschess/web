@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen representend his team Offerspill last weekend at the end of this year's Norwegian Elite Series and won all the three games he played. However, it was not enough to win the championship. V&aring;lerenga (pictured) became Norwegian team champions ahead of OSS and Offerspill. | Photo: Kaido Kulaots via Facebook",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norwegian-elite-series-2025-final-report",
+         "pubDate" : "Tue, 11 Mar 2025 05:20:00",
+         "title" : "Norwegian Elite Series: Valerenga claims title, Carlsen scores 3/3"
+      },
+      {
          "description" : "On July 13, 2004, Bobby Fischer was detained in Japan with an invalid U.S. passport. That marked the beginning of a nine-month ordeal for him in Japanese custody. Among the supporters fighting for his release was former World Champion Boris Spassky, whom Fischer had dethroned thirty years earlier. Spassky, who passed last week, even wrote a personal letter of appeal to President George Bush, asking to be locked up in the same cell as Fischer. \"And give us a chess set,\" he said.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
