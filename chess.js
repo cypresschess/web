@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Championship kicks off on Saturday in Eforie-Nord, Romania. As well as a €100,000 prize fund, the players will have the chance to qualify for the World Cup - with the top 20 players qualifying for the World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-european-championship-2025-starts-on-saturday",
+         "pubDate" : "Wed, 12 Mar 2025 16:03:51",
+         "title" : "The European Championship 2025 starts on Saturday"
+      },
+      {
          "description" : "The Serbian Chess Federation organised its 56th International Women's Tournament in Belgrade from 1 to 9 March, on the occasion of International Women's Day on 8 March. German WGM Josefine Heinemann won with 7.0/9 and finished a full point ahead of IM Bhakhti Kulkarni from India. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2025/",
          "pubDate" : "Wed, 12 Mar 2025 10:13:39",
          "title" : "ECU E-Magazine February 2025"
+      },
+      {
+         "description" : "Don&#39;t adjust your calendars: GMs Magnus Carlsen and Parham Maghsoodloo won Titled Tuesday on February 11, and they&#39;ve done it again on March 11. Neither player was quite as dominant as they were a month ago, both scoring 9.5 points this week. Carl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-win-titled-tuesday-march-11-2025",
+         "pubDate" : "Wed, 12 Mar 2025 08:05:35",
+         "title" : "(Not) Deja Vu As Carlsen, Maghsoodloo Win Titled Tuesday"
       },
       {
          "description" : "The Neo-London System is an improved, more creative variation of the classical London System, which avoids dangerous black defensive moves with 3.c3 and Lf4 and exploits risks in the Lf5 variation. The course offers numerous innovations, sharper ideas and interactive training material to surprise opponents in unexplored positions. The ultra-creative Neo-London system! Ellis' \"baby\" is probably one of the most comprehensive Fritztrainers of recent years, with a running time of over 9 hours!",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-first-rules-quiz-year",
          "pubDate" : "Mon, 03 Mar 2025 00:00:00",
          "title" : "Just the Rules: First Rules Quiz of the Year"
-      },
-      {
-         "description" : "GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram continue to share the lead by a full point after their draw in round five of the 2025 Prague Chess Festival Masters. GM Wei Yi reached a 50-percent score after winning the only decisive game,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-5",
-         "pubDate" : "Sun, 02 Mar 2025 13:52:00",
-         "title" : "Wei Scores 2nd Win In 27 Moves"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118662462.cms\" />Magnus Carlsen's jeans auctioned for $36,100, significantly captivating the chess community. Originally priced between $300-$500, the jeans gained notoriety during the World Rapid Championship. The proceeds are donated to Big Brothers Big Sisters of America, enhancing their chess clinics and mentorship programs, thus reflecting Carlsen's commitment to both principle and philanthropy.",
