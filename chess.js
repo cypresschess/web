@@ -18,6 +18,14 @@ news_feed (
          "title" : "The European Championship 2025 starts on Saturday"
       },
       {
+         "description" : "GMs Amin Tabatabaei, Nguyen Ngoc Truong Son, Rauf Mamedov, and M Pranesh scored 7.5/9 to finish in the top-four and qualify for the Knockout Stage of the 2025 Paris Freestyle Chess Grand Slam Play-In. They&#39;ll be joined by the likes of GMs Ding Lir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-1",
+         "pubDate" : "Wed, 12 Mar 2025 15:27:00",
+         "title" : "Tabatabaei, Nguyen, Mamedov, Pranesh In Hunt For Paris Freestyle Chess Spot"
+      },
+      {
          "description" : "The Serbian Chess Federation organised its 56th International Women's Tournament in Belgrade from 1 to 9 March, on the occasion of International Women's Day on 8 March. German WGM Josefine Heinemann won with 7.0/9 and finished a full point ahead of IM Bhakhti Kulkarni from India. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-official-regulations/",
          "pubDate" : "Mon, 03 Mar 2025 10:16:12",
          "title" : "European Youth Team Chess Championship 2025 - Official regulations"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju, defending Champion GM Alireza Firouzja, and 2023 Champion GM Fabiano Caruana top the nine-player lineup for the $1.6 million 2025 Grand Chess Tour. GMs Levon Aronian and Jan-Krzysztof Duda, who replace GMs Ian Nepo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grand-chess-tour-gukesh-caruana-firouzja",
-         "pubDate" : "Mon, 03 Mar 2025 10:10:00",
-         "title" : "Gukesh Tops 2025 Grand Chess Tour Lineup, With Sao Paulo Finals Added"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118677299.cms\" />Indian players R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters chess tournament with 3.5 points each after five rounds. This round witnessed Wei Yi's victory over Sam Shankland. Both Praggnanandhaa and Aravindh have maintained their positions, while Wei Yi, Anish Giri, Quang Lei, and Vincent Keymer follow closely behind with 2.5 points.",
