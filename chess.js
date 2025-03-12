@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the new episode of their \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer explore the phenomenon of \"killer instinct\". They wonder what it is, which top players had or have a lot of it, and whether it makes you happy. And they show the end of a game of a top player who has lots of it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/killer-instinct-fischer-spassky-carlsen-and-many-young-stars",
+         "pubDate" : "Wed, 12 Mar 2025 16:38:15",
+         "title" : "Killer instinct: Fischer, Spassky, Carlsen and many young stars"
+      },
+      {
          "description" : "The 2025 European Championship kicks off on Saturday in Eforie-Nord, Romania. As well as a €100,000 prize fund, the players will have the chance to qualify for the World Cup - with the top 20 players qualifying for the World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-win-titled-tuesday-march-11-2025",
          "pubDate" : "Wed, 12 Mar 2025 08:05:35",
          "title" : "(Not) Deja Vu As Carlsen, Maghsoodloo Win Titled Tuesday"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles all come from an instructive blitz endgame between former Women's World Champion GM Mariya Muzychuk and WGM Thalia Cervantes. This entire endgame was played on the increment, with only two seconds added back to the clock each move. Take your time, though, and test your theoretical knowledge! <br> <br> <br> <br> Im",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-8-endgame-ages",
+         "pubDate" : "Wed, 12 Mar 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 8 (An Endgame for the Ages)"
       },
       {
          "description" : "The Neo-London System is an improved, more creative variation of the classical London System, which avoids dangerous black defensive moves with 3.c3 and Lf4 and exploits risks in the Lf5 variation. The course offers numerous innovations, sharper ideas and interactive training material to surprise opponents in unexplored positions. The ultra-creative Neo-London system! Ellis' \"baby\" is probably one of the most comprehensive Fritztrainers of recent years, with a running time of over 9 hours!",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Prague Masters Chess: Praggnanandhaa and Aravindh Chithambaram maintain lead after draw in fifth round"
       },
       {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Are you ready for the first rules quiz of the year? Put on your thinking caps to solve this quartet of problems! Question 1.At the State of Confusion Scholastic Championship, two young grade-schoolers faced off to battle it out over-the-board in a G/45 contest. After a lot of struggling, both combatants had to admit to being defeated by the requirement to keep score. They both knew - via their respective coaches - the importance of having accurate score sheets. To solve their notation problem, they mutually decided to start another game with a vow to do a better job of scribbling their moves down. Of course, this solution ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-first-rules-quiz-year",
-         "pubDate" : "Mon, 03 Mar 2025 00:00:00",
-         "title" : "Just the Rules: First Rules Quiz of the Year"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118662462.cms\" />Magnus Carlsen's jeans auctioned for $36,100, significantly captivating the chess community. Originally priced between $300-$500, the jeans gained notoriety during the World Rapid Championship. The proceeds are donated to Big Brothers Big Sisters of America, enhancing their chess clinics and mentorship programs, thus reflecting Carlsen's commitment to both principle and philanthropy.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-planning-and-development-funding-programme-guidelines/",
          "pubDate" : "Fri, 21 Feb 2025 07:16:10",
          "title" : "FIDE Planning and Development Funding Programme Guidelines"
-      },
-      {
-         "description" : "The 7th edition of the Prague Chess Festival starts next week in Czech Republic, and takes place from 27 February to 7 March in Don Giovanni Hotel Prague. The Festival features Masters, Challengers and Futures round-robin events that are simultaneously played in the same venue, and includes Open tournaments, Rapid events and side chess tournaments. The Futures competition is supported by the European Chess Union. The Masters event features: Wei Yi (CHN, 2755), Praggnanandhaa R (IND, 2741), Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/prague-chess-festival-2025/",
-         "pubDate" : "Wed, 19 Feb 2025 18:40:42",
-         "title" : "Prague Chess Festival 2025"
       }
    ]
 }
