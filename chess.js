@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Serbian Chess Federation organised its 56th International Women's Tournament in Belgrade from 1 to 9 March, on the occasion of International Women's Day on 8 March. German WGM Josefine Heinemann won with 7.0/9 and finished a full point ahead of IM Bhakhti Kulkarni from India. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/josefine-heinemann-wins-women-s-tournament-in-belgrade",
+         "pubDate" : "Wed, 12 Mar 2025 11:04:49",
+         "title" : "Josefine Heinemann wins women's tournament in Belgrade"
+      },
+      {
+         "description" : "The ECU E-Magazine February 2025 is out! In this edition of the ECU E-Magazine you may read about: The February 2025 edition of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in the PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-february-2025/",
+         "pubDate" : "Wed, 12 Mar 2025 10:13:39",
+         "title" : "ECU E-Magazine February 2025"
+      },
+      {
          "description" : "The Neo-London System is an improved, more creative variation of the classical London System, which avoids dangerous black defensive moves with 3.c3 and Lf4 and exploits risks in the Lf5 variation. The course offers numerous innovations, sharper ideas and interactive training material to surprise opponents in unexplored positions. The ultra-creative Neo-London system! Ellis' \"baby\" is probably one of the most comprehensive Fritztrainers of recent years, with a running time of over 9 hours!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
