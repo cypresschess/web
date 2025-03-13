@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The King's Indian Attack is a universal opening: easy to learn, flexible and rich in both tactical and positional opportunities. By simply knowing the setup and some key ideas, it can become a lifelong addition to your repertoire - without the need for constant memorization. Played by fierce attackers like Bobby Fischer and great positional players like Tigran Petrosian, this opening is suitable for players of all styles.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-demchenko-king-s-indian-attack-simple-flexible-dynamic",
+         "pubDate" : "Thu, 13 Mar 2025 11:30:00",
+         "title" : "Svitlana Demchenko: King's Indian Attack - Simple. Flexible. Dynamic."
+      },
+      {
+         "description" : "The 2025 World Rapid and Blitz Team Championships will take place in London from June 10-16, featuring an expanded blitz competition with a new knockout stage. Hosted at Novotel London West, the event follows successful editions in D&uuml;sseldorf and Astana. The tournament format includes a rapid event and a two-day blitz competition, with teams advancing from a round-robin phase to knockout rounds. Open to teams worldwide, the event aims to promote inclusivity, requiring at least one female and one recreational player per team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-announcement",
+         "pubDate" : "Thu, 13 Mar 2025 10:00:00",
+         "title" : "World Rapid and Blitz Team Championships return with record prize fund and new format"
+      },
+      {
          "description" : "In the new episode of their \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer explore the phenomenon of \"killer instinct\". They wonder what it is, which top players had or have a lot of it, and whether it makes you happy. And they show the end of a game of a top player who has lots of it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +26,12 @@ news_feed (
          "title" : "Killer instinct: Fischer, Spassky, Carlsen and many young stars"
       },
       {
-         "description" : "The 2025 European Championship kicks off on Saturday in Eforie-Nord, Romania. As well as a €100,000 prize fund, the players will have the chance to qualify for the World Cup - with the top 20 players qualifying for the World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-european-championship-2025-starts-on-saturday",
-         "pubDate" : "Wed, 12 Mar 2025 16:03:51",
-         "title" : "The European Championship 2025 starts on Saturday"
-      },
-      {
          "description" : "GMs Amin Tabatabaei, Nguyen Ngoc Truong Son, Rauf Mamedov, and Pranesh M scored 7.5/9 to finish in the top-four and qualify for the Knockout Stage of the 2025 Paris Freestyle Chess Grand Slam Play-In. They&#39;ll be joined by the likes of GMs Ding Lir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-1",
          "pubDate" : "Wed, 12 Mar 2025 15:27:00",
          "title" : "Tabatabaei, Nguyen, Mamedov, Pranesh In Hunt For Paris Freestyle Chess Spot"
-      },
-      {
-         "description" : "The Serbian Chess Federation organised its 56th International Women's Tournament in Belgrade from 1 to 9 March, on the occasion of International Women's Day on 8 March. German WGM Josefine Heinemann won with 7.0/9 and finished a full point ahead of IM Bhakhti Kulkarni from India. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/josefine-heinemann-wins-women-s-tournament-in-belgrade",
-         "pubDate" : "Wed, 12 Mar 2025 11:04:49",
-         "title" : "Josefine Heinemann wins women's tournament in Belgrade"
       },
       {
          "description" : "The ECU E-Magazine February 2025 is out! In this edition of the ECU E-Magazine you may read about: The February 2025 edition of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in the PDF format below.",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-8-endgame-ages",
          "pubDate" : "Wed, 12 Mar 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 8 (An Endgame for the Ages)"
-      },
-      {
-         "description" : "The Neo-London System is an improved, more creative variation of the classical London System, which avoids dangerous black defensive moves with 3.c3 and Lf4 and exploits risks in the Lf5 variation. The course offers numerous innovations, sharper ideas and interactive training material to surprise opponents in unexplored positions. The ultra-creative Neo-London system! Ellis' \"baby\" is probably one of the most comprehensive Fritztrainers of recent years, with a running time of over 9 hours!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-the-neo-london-system-the-sharper-alternative-to-the-popular-london-system-2",
-         "pubDate" : "Tue, 11 Mar 2025 19:00:00",
-         "title" : "Elisabeth Paehtz: The Neo-London-System - The sharper alternative to the popular London system"
       },
       {
          "description" : "Some of the world's best chess players have trained under him, yet his name remains unknown to many. He has worked with players like Anish Giri, Jorden van Foreest, and Vladimir Fedoseev but always stayed behind the scenes. He is known for his creative training methods and intensive sessions. The name of this mastermind is Roman Vidonyak, and Sagar Shah got the opportunity to meet him in Wijk aan Zee. Check out his interview in which he talks about his training journey, training philosophy, and what it takes to create champions. Photo: German Chess Federation",
