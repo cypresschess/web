@@ -10,20 +10,12 @@ news_feed (
          "title" : "In focus: Divya Deshmukh (I)"
       },
       {
-         "description" : "The King's Indian Attack is a universal opening: easy to learn, flexible and rich in both tactical and positional opportunities. By simply knowing the setup and some key ideas, it can become a lifelong addition to your repertoire - without the need for constant memorization. Played by fierce attackers like Bobby Fischer and great positional players like Tigran Petrosian, this opening is suitable for players of all styles.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-demchenko-king-s-indian-attack-simple-flexible-dynamic",
-         "pubDate" : "Thu, 13 Mar 2025 11:30:00",
-         "title" : "Svitlana Demchenko: King's Indian Attack - Simple. Flexible. Dynamic."
-      },
-      {
-         "description" : "The 2025 World Rapid and Blitz Team Championships will take place in London from June 10-16, featuring an expanded blitz competition with a new knockout stage. Hosted at Novotel London West, the event follows successful editions in D&uuml;sseldorf and Astana. The tournament format includes a rapid event and a two-day blitz competition, with teams advancing from a round-robin phase to knockout rounds. Open to teams worldwide, the event aims to promote inclusivity, requiring at least one female and one recreational player per team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2025-announcement",
-         "pubDate" : "Thu, 13 Mar 2025 10:00:00",
-         "title" : "World Rapid and Blitz Team Championships return with record prize fund and new format"
+         "description" : "It&#39;s GM Vidit Gujrathi vs. GM Amin Tabatabaei and GM Rauf Mamedov vs. GM Richard Rapport in Friday&#39;s Semifinals of the 2025 Paris Freestyle Chess Grand Slam Play-In after a brutal two rounds of knockout chess. 12 players were eliminated from the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-2",
+         "pubDate" : "Thu, 13 Mar 2025 16:04:00",
+         "title" : "Vidit, Rapport, Mamedov, Tabatabaei Fight For Final Spot In Paris"
       },
       {
          "description" : "The 2025 Collegiate Chess League (CCL) Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Can you see Mizzou repeating as champions? Will Saint Louis avenge last year&#39;s title match? Will a dark horse emerge...",
@@ -48,14 +40,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/16th-continental-womens-chess-championships-2025-announced",
          "pubDate" : "Thu, 13 Mar 2025 00:00:00",
          "title" : "16th Continental Women's Chess Championships 2025 Announced"
-      },
-      {
-         "description" : "In the new episode of their \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer explore the phenomenon of \"killer instinct\". They wonder what it is, which top players had or have a lot of it, and whether it makes you happy. And they show the end of a game of a top player who has lots of it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/killer-instinct-fischer-spassky-carlsen-and-many-young-stars",
-         "pubDate" : "Wed, 12 Mar 2025 16:38:15",
-         "title" : "Killer instinct: Fischer, Spassky, Carlsen and many young stars"
       },
       {
          "description" : "GMs Amin Tabatabaei, Nguyen Ngoc Truong Son, Rauf Mamedov, and Pranesh M scored 7.5/9 to finish in the top-four and qualify for the Knockout Stage of the 2025 Paris Freestyle Chess Grand Slam Play-In. They&#39;ll be joined by the likes of GMs Ding Lir...",
@@ -480,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-and-disc-golf-combine-at-the-discraft-supreme-flight-open",
          "pubDate" : "Tue, 04 Mar 2025 09:04:01",
          "title" : "Chess And Disc Golf Combine At Discraft Supreme Flight Open"
-      },
-      {
-         "description" : "The British Broadcasting Corporation (BBC) has released the official trailer for its upcoming series Chess Masters: The Endgame. The highly anticipated series, in which 12 rising stars of the UK&#38;rsquo;s booming chess community battle it out and GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bbc-chess-masters-the-endgame-official-trailer",
-         "pubDate" : "Tue, 04 Mar 2025 08:18:00",
-         "title" : "BBC Releases Trailer For 'Chess Masters: The Endgame' Starting Monday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118701993.cms\" />New Delhi is expected to host the FIDE Chess World Cup 2025 from October 31 to November 27, marking its return to India after 23 years. The capital city is the preferred location for major tournaments. Additionally, India will host the 5th leg of the FIDE Women's Grand Prix Series in Maharashtra this April.",
