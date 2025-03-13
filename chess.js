@@ -18,6 +18,14 @@ news_feed (
          "title" : "World Rapid and Blitz Team Championships return with record prize fund and new format"
       },
       {
+         "description" : "We&#39;re excited to announce CoachChamps, an event that will bring together the best chess coaches and most dedicated students in our community! This is the first event of its kind, created to find out who the best chess coach is and to celebrate our...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-coachchamps-2025",
+         "pubDate" : "Thu, 13 Mar 2025 08:00:00",
+         "title" : "Announcing CoachChamps, Chess.com's First Tournament For Coaches And Chess Improvers"
+      },
+      {
          "description" : "In the new episode of their \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer explore the phenomenon of \"killer instinct\". They wonder what it is, which top players had or have a lot of it, and whether it makes you happy. And they show the end of a game of a top player who has lots of it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,6 +168,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-norwegian-league-climbs-2837-rating",
          "pubDate" : "Mon, 10 Mar 2025 05:51:00",
          "title" : "Carlsen Scores 3/3 In Norwegian Team Championship, Climbs To 2837"
+      },
+      {
+         "description" : "Editor's note: This story first appeared in the March 2025 issue of Chess Life magazine, and is re-published here along with this collection of William A. Scott, III's games (including 47 additional games).Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download a PDF of the print version of this story here.When William A. Scott III arrived in Durham, North Carolina, to play in the 1950 Southern Chess Association (SCA) Championship, the man who ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-remembering-william-alexander-scott-iii",
+         "pubDate" : "Mon, 10 Mar 2025 00:00:00",
+         "title" : "Inside Story: Remembering William Alexander Scott III"
       },
       {
          "description" : "17-year-old WFM Eman Sawan from Palestine has emerged as one of the brightest stars in a region with limited support and traditions for chess. Her story has ignited a wave of support from the chess community with over 70 donors backing her dream t...",
@@ -482,22 +498,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 7 (Pourkashiyan, Foisor, Cervantes)"
       },
       {
-         "description" : "US Chess is pleased to announce twelve grant awards under the US Chess Title I Grant Program. With support from generous donors, US Chess annually offers grants to nonprofit affiliate members and chess programs that support students attending Title I schools and which aligns with US Chess' mission to empower people, enrich lives, and enhance communities through chess. The 2025 grant recipients are: Board Room Chess (Baltimore, Maryland)Dr. Americo Parades Elementary (Brownsville, Texas)Edmonson Montessori (Detroit, Michigan)Hamilton K-8 School (Novato, California) IS 318 (Brooklyn, New York)John Marshall High School (Cleveland, Ohio)Julia R. Masterman Laboratory and Demonstration School (Phi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/twelve-schools-receive-us-chess-title-i-grants",
-         "pubDate" : "Tue, 04 Mar 2025 00:00:00",
-         "title" : "Twelve Schools to Receive US Chess Title I Grants"
-      },
-      {
-         "description" : "In week six of the Collegiate Chess League Spring 2025 (CCL) the last two remaining undefeated teams faced-off in a rematch of last season&#39;s championship round. Saint Louis University narrowly avenged that match with an 8.5-7.5 win against Univers...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-6",
-         "pubDate" : "Mon, 03 Mar 2025 16:10:00",
-         "title" : "SLU Defeats Mizzou To Remain Unbeaten, CCL Week 6"
-      },
-      {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Schedule Thursday 20th- 2 rounds 10:00am and 4:00pm Friday...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -728,6 +728,14 @@ news_feed (
          "link" : "https://aicf.in/world-junior-championship-2025/",
          "pubDate" : "Thu, 27 Feb 2025 16:37:58",
          "title" : "World Junior Championship 2025"
+      },
+      {
+         "description" : "By the guiding principle of consistency, the title of this month's Yahoos post should have echoed the title of last month's post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/world-championship-yahoos-2025-1.html\">World Championship Yahoos 2025 1/?</A> (January 2025), where '1/?' was supposed to mean the start of a new series of undetermined length centered on a dispute:- <BLOCKQUOTE> The dispute is about FIDE's claim to have the exclusive right to any 'World Chess Championship'. </BLOCKQUOTE> <P> I should have written '1/1' or omitted the numbering completely, because the dispute evaporated as quickly as it had developed. For the nitty-gritty on its resolution, see <A HREF=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/02/esports-yahoos.html",
+         "pubDate" : "Thu, 27 Feb 2025 16:25:00",
+         "title" : "Esports Yahoos"
       },
       {
          "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
