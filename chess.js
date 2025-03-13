@@ -18,7 +18,7 @@ news_feed (
          "title" : "The European Championship 2025 starts on Saturday"
       },
       {
-         "description" : "GMs Amin Tabatabaei, Nguyen Ngoc Truong Son, Rauf Mamedov, and M Pranesh scored 7.5/9 to finish in the top-four and qualify for the Knockout Stage of the 2025 Paris Freestyle Chess Grand Slam Play-In. They&#39;ll be joined by the likes of GMs Ding Lir...",
+         "description" : "GMs Amin Tabatabaei, Nguyen Ngoc Truong Son, Rauf Mamedov, and Pranesh M scored 7.5/9 to finish in the top-four and qualify for the Knockout Stage of the 2025 Paris Freestyle Chess Grand Slam Play-In. They&#39;ll be joined by the likes of GMs Ding Lir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-1",
