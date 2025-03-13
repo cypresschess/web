@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thorsten Cmiel keeps a very close eye on the young talents in chess. During the Prague Chess Festival, he paid particular attention to how Divya Deshmukh played. Divya won the girls' category at the 2024 World Junior Championship. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-focus-divya-deshmuk-i",
+         "pubDate" : "Thu, 13 Mar 2025 19:00:00",
+         "title" : "In focus: Divya Deshmukh (I)"
+      },
+      {
          "description" : "The King's Indian Attack is a universal opening: easy to learn, flexible and rich in both tactical and positional opportunities. By simply knowing the setup and some key ideas, it can become a lifelong addition to your repertoire - without the need for constant memorization. Played by fierce attackers like Bobby Fischer and great positional players like Tigran Petrosian, this opening is suitable for players of all styles.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "World Rapid and Blitz Team Championships return with record prize fund and new format"
       },
       {
+         "description" : "The 2025 Collegiate Chess League (CCL) Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Can you see Mizzou repeating as champions? Will Saint Louis avenge last year&#39;s title match? Will a dark horse emerge...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/win-prizes-in-the-spring-2025-ccl-predictions-challenge",
+         "pubDate" : "Thu, 13 Mar 2025 08:58:56",
+         "title" : "Win Prizes In The Spring 2025 CCL Predictions Challenge"
+      },
+      {
          "description" : "We&#39;re excited to announce CoachChamps, an event that will bring together the best chess coaches and most dedicated students in our community! This is the first event of its kind, created to find out who the best chess coach is and to celebrate our...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-coachchamps-2025",
          "pubDate" : "Thu, 13 Mar 2025 08:00:00",
          "title" : "Announcing CoachChamps, Chess.com's First Tournament For Coaches And Chess Improvers"
+      },
+      {
+         "description" : "The 16th Continental Women's Chess Championship of the Americas 2025 will be held April 30 - May 7, 2025 at the Dorados Conventions &amp; Resorts in Oaxtepec, Morelos, Mexico. The event, organized by the Chess Confederation of the Americas and the National Chess Federation of Mexico AC (FENAMAC) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $6,600 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLA",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/16th-continental-womens-chess-championships-2025-announced",
+         "pubDate" : "Thu, 13 Mar 2025 00:00:00",
+         "title" : "16th Continental Women's Chess Championships 2025 Announced"
       },
       {
          "description" : "In the new episode of their \"Two Knights Talk\", Arne K&auml;hler and Johannes Fischer explore the phenomenon of \"killer instinct\". They wonder what it is, which top players had or have a lot of it, and whether it makes you happy. And they show the end of a game of a top player who has lots of it.",
@@ -168,6 +192,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-norwegian-league-climbs-2837-rating",
          "pubDate" : "Mon, 10 Mar 2025 05:51:00",
          "title" : "Carlsen Scores 3/3 In Norwegian Team Championship, Climbs To 2837"
+      },
+      {
+         "description" : "The XVIII Continental Chess Championship of the Americas 2025 will be held May 23 - May 31, 2025 at the Hotel Golden Park International Foz &amp; Conventions in Foz do Iguaçu, Paran&aacute;, Brazil. The event, organized by the Chess Confederation of the Americas and the Brazilian Chess Federation is open to all American continent chess federation players.This is an 11-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The top four finishers will qualify to participate in the FIDE World Cup and the prize fund is $20,000 with the top 10 finishers + various class prizes receiving a prize. Click here to download a PDF of the full tournamen",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/xviii-continental-chess-championships-2025-announced",
+         "pubDate" : "Mon, 10 Mar 2025 00:00:00",
+         "title" : "XVIII Continental Chess Championships 2025 Announced"
       },
       {
          "description" : "Editor's note: This story first appeared in the March 2025 issue of Chess Life magazine, and is re-published here along with this collection of William A. Scott, III's games (including 47 additional games).Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download a PDF of the print version of this story here.When William A. Scott III arrived in Durham, North Carolina, to play in the 1950 Southern Chess Association (SCA) Championship, the man who ",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 7 (Pourkashiyan, Foisor, Cervantes)"
       },
       {
-         "description" : "We are less than two weeks away from the Saint Louis Chess Club's (SLCC) American Cup, an annual event pitting the best American players against each other in a mixture of classical, rapid, and even blitz time controls. See coverage of previous years' events here and here.As SLCC is known for always trying out innovative formats, this year's American Cup is preceded by another combination of time controls and top players. The Champions Showdown: The Kings features three games per round, each in a different time control.The six players play one \"triathlon\" round per day, beginning at 12:15 p.m. CST. Live coverage with IM Eric Rosen and WGM Thalia Cervantes is available on SLCC's Twitch and Yo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/champions-showdown-kings-kicks-st-louis",
-         "pubDate" : "Wed, 05 Mar 2025 00:00:00",
-         "title" : "Champions Showdown: The Kings Kicks Off in St. Louis"
-      },
-      {
          "description" : "After draws on all boards in round six, GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram stay in the lead by a point in the 2025 Prague Chess Festival Masters. GM Ediz Gurel came closest to achieving a decisive game when with Black he outpl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -466,14 +490,6 @@ news_feed (
          "title" : "BBC Releases Trailer For 'Chess Masters: The Endgame' Starting Monday"
       },
       {
-         "description" : "IM Alice Lee has now beaten both GMs Anish Giri and Daniel Naroditsky in simultaneous displays, but in the fourth edition of Kids vs. Stars 2024 it was again the grandmaster who won, by a 2.5-1.5 scoreline. Naroditsky defeated WFM Bodhana Sivanand...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-lee-kids-vs-stars-episode-4",
-         "pubDate" : "Tue, 04 Mar 2025 07:03:00",
-         "title" : "Alice Lee Beats Naroditsky But GM Wins Simul"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118701993.cms\" />New Delhi is expected to host the FIDE Chess World Cup 2025 from October 31 to November 27, marking its return to India after 23 years. The capital city is the preferred location for major tournaments. Additionally, India will host the 5th leg of the FIDE Women's Grand Prix Series in Maharashtra this April.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-grandmaster-r-praggnanandhaa-aims-for-victory-in-round-6/articleshow/118697793.cms",
          "pubDate" : "Tue, 04 Mar 2025 04:26:28",
          "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
-      },
-      {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SL",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-7-pourkashiyan-foisor-cervantes",
-         "pubDate" : "Tue, 04 Mar 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 7 (Pourkashiyan, Foisor, Cervantes)"
       },
       {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Schedule Thursday 20th- 2 rounds 10:00am and 4:00pm Friday...",
