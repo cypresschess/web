@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 American Cup returns to Saint Louis, bringing together the nation's top chess players for a high-stakes competition. Organised by the Saint Louis Chess Club, the tournament follows a double-elimination format, testing players in both classical and rapid chess. Featuring elite grandmasters such as Hikaru Nakamura and Fabiano Caruana, as well as rising stars like Alice Lee and Carissa Yip, the event promises intense matches in both the open and women's sections. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-preview",
+         "pubDate" : "Fri, 14 Mar 2025 13:00:00",
+         "title" : "American Cup: Nakamura, Caruana and So favourites in event's fourth edition"
+      },
+      {
+         "description" : "The 44th National Open Team Chess Championship and the 22nd National Women Team Chess Championship 2025 were held at Ahmedabad, Gujarat, from 5 March to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-national-team-chess-championship-2024-25/",
+         "pubDate" : "Fri, 14 Mar 2025 11:33:59",
+         "title" : "FINAL REPORT:NATIONAL TEAM CHESS CHAMPIONSHIP 2024-25"
+      },
+      {
          "description" : "The 2025 European Individual Chess Championship starts tomorrow in Eforie Nord, Romania, and will be played from 15-26 March at the&#160;Ana Hotels Europa. Nearly 400 players from 40 European federations registered for the event, including 103 Grandmasters, 77 International Masters, 71 FIDE masters. The top seeds are: Bogdan-Daniel Deac (ROU, 2692), Alexey Sarana (SRB, 2689), Jorden Van Foreest (NED, 2676), Pavel Eljanov (UKR, 2666), Shant Sargsyan (ARM, 2666), Daniel Dardha (BEL, 2665), David Anton Guijarro (ESP, 2663), David Navara (CZE, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -42,30 +58,6 @@ news_feed (
          "title" : "In focus: Divya Deshmukh (I)"
       },
       {
-         "description" : "It&#39;s GM Vidit Gujrathi vs. GM Amin Tabatabaei and GM Rauf Mamedov vs. GM Richard Rapport in Friday&#39;s Semifinals of the 2025 Paris Freestyle Chess Grand Slam Play-In after a brutal two rounds of knockout chess. 12 players were eliminated from the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-2",
-         "pubDate" : "Thu, 13 Mar 2025 16:04:00",
-         "title" : "Vidit, Rapport, Mamedov, Tabatabaei Fight For Final Spot In Paris"
-      },
-      {
-         "description" : "The 2025 Collegiate Chess League (CCL) Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Can you see Mizzou repeating as champions? Will Saint Louis avenge last year&#39;s title match? Will a dark horse emerge...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/win-prizes-in-the-spring-2025-ccl-predictions-challenge",
-         "pubDate" : "Thu, 13 Mar 2025 08:58:56",
-         "title" : "Win Prizes In The Spring 2025 CCL Predictions Challenge"
-      },
-      {
-         "description" : "We&#39;re excited to announce CoachChamps, an event that will bring together the best chess coaches and most dedicated students in our community! This is the first event of its kind, created to find out who the best chess coach is and to celebrate our...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-coachchamps-2025",
-         "pubDate" : "Thu, 13 Mar 2025 08:00:00",
-         "title" : "Announcing CoachChamps, Chess.com's First Tournament For Coaches And Chess Improvers"
-      },
-      {
          "description" : "The 16th Continental Women's Chess Championship of the Americas 2025 will be held April 30 - May 7, 2025 at the Dorados Conventions &amp; Resorts in Oaxtepec, Morelos, Mexico. The event, organized by the Chess Confederation of the Americas and the National Chess Federation of Mexico AC (FENAMAC) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $6,600 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLA",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -74,28 +66,12 @@ news_feed (
          "title" : "16th Continental Women's Chess Championships 2025 Announced"
       },
       {
-         "description" : "GMs Amin Tabatabaei, Nguyen Ngoc Truong Son, Rauf Mamedov, and Pranesh M scored 7.5/9 to finish in the top-four and qualify for the Knockout Stage of the 2025 Paris Freestyle Chess Grand Slam Play-In. They&#39;ll be joined by the likes of GMs Ding Lir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-1",
-         "pubDate" : "Wed, 12 Mar 2025 15:27:00",
-         "title" : "Tabatabaei, Nguyen, Mamedov, Pranesh In Hunt For Paris Freestyle Chess Spot"
-      },
-      {
          "description" : "The ECU E-Magazine February 2025 is out! In this edition of the ECU E-Magazine you may read about: The February 2025 edition of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in the PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2025/",
          "pubDate" : "Wed, 12 Mar 2025 10:13:39",
          "title" : "ECU E-Magazine February 2025"
-      },
-      {
-         "description" : "Don&#39;t adjust your calendars: GMs Magnus Carlsen and Parham Maghsoodloo won Titled Tuesday on February 11, and they&#39;ve done it again on March 11. Neither player was quite as dominant as they were a month ago, both scoring 9.5 points this week. Carl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-win-titled-tuesday-march-11-2025",
-         "pubDate" : "Wed, 12 Mar 2025 08:05:35",
-         "title" : "(Not) Deja Vu As Carlsen, Maghsoodloo Win Titled Tuesday"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles all come from an instructive blitz endgame between former Women's World Champion GM Mariya Muzychuk and WGM Thalia Cervantes. This entire endgame was played on the increment, with only two seconds added back to the clock each move. Take your time, though, and test your theoretical knowledge! <br> <br> <br> <br> Im",
@@ -120,14 +96,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships/",
          "pubDate" : "Tue, 11 Mar 2025 14:14:27",
          "title" : "FIDE World Rapid and Blitz Team Championships"
-      },
-      {
-         "description" : "How can chess evolve to reach an even wider audience? What lessons can it take from other sports? These were just some of the questions tackled at the MIT Sloan Sports Analytics Conference last weekend.&#38;nbsp; The annual conference took place in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2025",
-         "pubDate" : "Tue, 11 Mar 2025 12:23:00",
-         "title" : "More Randomness In Chess? MIT Sloan Panel Explores The Future Of The Game"
       },
       {
          "description" : "",
@@ -170,22 +138,6 @@ news_feed (
          "title" : "How Spassky fought for Fischer"
       },
       {
-         "description" : "In week seven of the Collegiate Chess League Spring 2025 (CCL), two strong teams fought for a shot at the league playoffs. The University of the Texas Rio Grande Valley (TRGV) narrowly held off Lviv State University of Physical Culture by a score ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-7",
-         "pubDate" : "Mon, 10 Mar 2025 12:58:00",
-         "title" : "Rio Grand Valley Edges Lviv State University In Tense Match: CCL Week 7"
-      },
-      {
-         "description" : "GM Daniil Dubov won an 18-game blitz match against GM Hans Niemann with a final score of 9.5-8.5. As the prize, Niemann had agreed to answer one question with a polygraph test. The match, which took place March 7-8 in Moscow, Russia was a follow-u...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-wins-match-vs-niemann-lie-detector",
-         "pubDate" : "Mon, 10 Mar 2025 12:13:51",
-         "title" : "Dubov Wins Match Vs. Niemann With Outstanding 64.g4!? Breakthrough"
-      },
-      {
          "description" : "SENSEROBOT BECOMES THE OFFICIAL AI PROVIDER OF EUROPEAN CHESS UNION The European Chess Union (ECU), the governing body for chess across Europe with 54 member federations, is proud to announce a landmark partnership with SenseRobot based in Hong Kong (www.senserobotchess.com), a leading innovator in AI technology solutions. This strategic collaboration marks a significant step forward in ECU's commitment to advancing chess education and technology across Europe. As part of this comprehensive partnership, each ECU member federation will receive a complimentary []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -200,14 +152,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
          "pubDate" : "Mon, 10 Mar 2025 06:17:20",
          "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen scored 3/3 for Offerspill on the final weekend of the Norwegian Team Chess Championship. His wins over GM Simen Agdestein and IMs Kristian Stuvik Holm and Alparslan Isik saw him gain 4.1 rating points to climb to 28...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-norwegian-league-climbs-2837-rating",
-         "pubDate" : "Mon, 10 Mar 2025 05:51:00",
-         "title" : "Carlsen Scores 3/3 In Norwegian Team Championship, Climbs To 2837"
       },
       {
          "description" : "The XVIII Continental Chess Championship of the Americas 2025 will be held May 23 - May 31, 2025 at the Hotel Golden Park International Foz &amp; Conventions in Foz do Iguaçu, Paran&aacute;, Brazil. The event, organized by the Chess Confederation of the Americas and the Brazilian Chess Federation is open to all American continent chess federation players.This is an 11-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The top four finishers will qualify to participate in the FIDE World Cup and the prize fund is $20,000 with the top 10 finishers + various class prizes receiving a prize. Click here to download a PDF of the full tournamen",
@@ -226,28 +170,12 @@ news_feed (
          "title" : "Inside Story: Remembering William Alexander Scott III"
       },
       {
-         "description" : "17-year-old WFM Eman Sawan from Palestine has emerged as one of the brightest stars in a region with limited support and traditions for chess. Her story has ignited a wave of support from the chess community with over 70 donors backing her dream t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/eman-sawan-stars-chess-olympiad-wants-to-make-history",
-         "pubDate" : "Sun, 09 Mar 2025 11:24:00",
-         "title" : "Eman Sawan Starred At Chess Olympiad; Now She Wants To Make History"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118808190.cms\" />18-year-old Pranav Venkatesh clinched the World Junior Chess Championship with unique preparation methods, including playing cricket in hotel rooms with his coach, GM Shyam Sundar. Pranav balanced his rapid blitz skills with the patience needed for classical chess, leading to his triumph in Montenegro, a title once held by Viswanathan Anand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-hotel-room-cricket-to-world-junior-champion-pranav-v-becomes-indias-new-chess-sensation/articleshow/118808190.cms",
          "pubDate" : "Sun, 09 Mar 2025 03:15:09",
          "title" : "From hotel room cricket to world junior champion: Pranav's story"
-      },
-      {
-         "description" : "After posting a 29-game streak in Saturday&#39;s event, GM Andrew Tang joined GM Hikaru Nakamura and Daniel Naroditsky as one of three players to win three Bullet Brawls in 2025. Tang scored 70 wins, one draw, and eight losses and scored 258 points&#38;md...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-8-2025",
-         "pubDate" : "Sat, 08 Mar 2025 16:16:00",
-         "title" : "Tang Posts 29-Game Streak, Wins 7th Bullet Brawl"
       },
       {
          "description" : "Today, hosted by London's Royal Automobile Club, the world's longest established chess fixture will continue into its third century. Cambridge University now leads by the narrowest of margins (60 wins to 59) against Oxford, and if the latter triumph in today's annual clash, then the scores will be equalised. In this column I preview the contest, []",
@@ -290,30 +218,6 @@ news_feed (
          "title" : "Aravindh Chithambaram clinches Prague Chess Masters 2025 title"
       },
       {
-         "description" : "18-year-old Indian GM Pranav Venkatesh dominated the FIDE World Junior Championship 2025 to be crowned champion ahead of 11 other grandmasters on Friday. 16-year-old WIM Anna Shukhman took the Girls title a full point clear of the field. The Wor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-shukhman-win-2025-fide-world-junior-chess-championships",
-         "pubDate" : "Fri, 07 Mar 2025 13:18:00",
-         "title" : "Pranav Dominates World Junior Championship, Shukhman Takes Girls Title"
-      },
-      {
-         "description" : "GM Aravindh Chithambaram won the 2025 Prague Chess Festival Masters with a draw in the last round against GM Ediz Gurel. Having previously won the 2024 Chennai Grand Masters, the 25-year-old &#34;late bloomer&#34; has won the only two super-tournaments he...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aravindh-wins-2025-prague-chess-festival",
-         "pubDate" : "Fri, 07 Mar 2025 11:03:00",
-         "title" : "Aravindh Wins Prague Chess Masters, Now World Number-14"
-      },
-      {
-         "description" : "Freestyle Friday is still a relatively new event, with its seventh-ever rendition being held on March 7. In it, GM Arjun Erigaisi set two firsts: he became the first player to win any two Freestyle Fridays and the first player to win two in a row....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-march-7-2025",
-         "pubDate" : "Fri, 07 Mar 2025 10:56:48",
-         "title" : "Back-to-Back Wins For Arjun In Freestyle Tournament"
-      },
-      {
          "description" : "Open Category The top board encounter between GM Grebnev, Aleksey and GM Pranav ended in a peaceful draw in 40 moves.GM Pranav maintains with 8.5/10",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -328,14 +232,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/mar/07/chess-returns-to-the-screen-on-monday-with-chess-masters-the-endgame",
          "pubDate" : "Fri, 07 Mar 2025 07:34:18",
          "title" : "Chess returns to the screen on Monday with Chess Masters: The Endgame"
-      },
-      {
-         "description" : "GM Fabiano Caruana won the Champions Showdown: The Kings in St. Louis convincingly after a strong final day when he beat GM Ray Robson twice. Caruana scored 6.5/9 and pocketed $51,625 for his three-day workweek. GM Wesley So, who won his blitz g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-champions-showdown-the-kings-2025",
-         "pubDate" : "Fri, 07 Mar 2025 05:06:29",
-         "title" : "Caruana Wins Champions Showdown: The Kings"
       },
       {
          "description" : "Be the First US Chess National Puzzle Champion! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is excited to announce the inaugural National Puzzle Championship! US Chess has partnered with ChessKid to bring scholastic players the first ever National Championship event for puzzle solving. The National Puzzle Championship will be held on-site at SuperNationals VIII in Orlando, Florida on Thursday May 8, 2025. The event will be co-organized by US Chess and ChessKid.com. Online registration will be open until 1 p.m. EDT on Thursday, May 8. You can register here for the main event and puzzle championship.The National Puzzle Championship will be separated into two ",
@@ -362,22 +258,6 @@ news_feed (
          "title" : "Champions Showdown The Kings 2025 - Games and Results"
       },
       {
-         "description" : "GM Aravindh Chithambaram leads by a half-point going into the last round of the 2025 Prague Chess Festival Masters. He had a minor chance to extend his lead after GM David Navara made an early mistake, but the players reached a quick draw. GM Prag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-8",
-         "pubDate" : "Thu, 06 Mar 2025 12:51:00",
-         "title" : "Giri, Wei Bounce Back With Wins"
-      },
-      {
-         "description" : "The second Freestyle Chess Grand Slam Tour event is scheduled to take place in Paris between April 7 and 14. As part of our announced partnership with Freestyle Chess, we offer a qualification path for each event to any of our members. The Qualifi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/registration-deadline-march-7-qualifiers-of-the-freestyle-chess-play-in-paris-this-weekend",
-         "pubDate" : "Thu, 06 Mar 2025 10:19:00",
-         "title" : "Registration Deadline March 7: Qualifiers Of The Freestyle Chess Play-In Paris This Weekend"
-      },
-      {
          "description" : "https://lichess.org/broadcast/-/EQ3VGnKl Indian Team Championship 2025 &#124; https://lichess.org/broadcast/-/1Fc9H2oW Indian Team Championship 2025 &#124;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -394,28 +274,12 @@ news_feed (
          "title" : "Aravindh beats Anish Giri to take sole lead at Prague Masters"
       },
       {
-         "description" : "A single win in their rapid game on Wednesday was enough for GM Fabiano Caruana to take the lead from GM Wesley So at the Champions Showdown: The Kings in St. Louis. In this event, where money prizes are connected to single-game results, Caruana h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-2",
-         "pubDate" : "Thu, 06 Mar 2025 05:23:00",
-         "title" : "Caruana New Leader At Champions Showdown: The Kings"
-      },
-      {
          "description" : "US Chess is pleased to announce the list of players who are officially invited to participate in the 2025 World Youth (Under 14, Under 16 and Under 18) and 2025 World Cadet (Under 8, Under 10 and Under 12) Chess Championships.These students earned this honor by meeting the peak post-tournament (PPT) rating and activity criteria in their age and gender categories according to the Scholastic National Invitational Event and Award Requirements.The top players by PPT rating in each age category are considered the United States Official Representatives (OR) by FIDE, the World Chess Federation, but all USA players may compete in these events as part of the US Chess delegation. Additionally, players",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-announces-2025-world-youth-and-world-cadet-championships-invitees",
          "pubDate" : "Thu, 06 Mar 2025 00:00:00",
          "title" : "US Chess Announces 2025 World Youth and World Cadet Championships Invitees"
-      },
-      {
-         "description" : "GM Aravindh Chithambaram won a golden game with Black against GM Anish Giri to take the sole lead in the 2025 Prague Chess Festival Masters after round seven. GM Ediz Gurel won his first game in the event against GM Thai Dai Van Nguyen with a sudd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-7",
-         "pubDate" : "Wed, 05 Mar 2025 14:20:00",
-         "title" : "Aravindh Plays Brilliant Knight Sacrifice, Jumps To Sole Lead"
       },
       {
          "description" : "Don't miss the brand-new chess series starting on BBC Two on Monday 10th March at 8.00pm more details at https://www.bbc.co.uk/programmes/m0028x4d",
@@ -434,30 +298,6 @@ news_feed (
          "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
       },
       {
-         "description" : "Can chess continue its meteoric rise? How will the game evolve in the esports landscape? And what role does sports analytics play in shaping competitive chess strategies? These key questions will be discussed at the MIT Sloan Sports Analytics Conf...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-future-of-chess-growth-at-mit-with-prominent-guests",
-         "pubDate" : "Wed, 05 Mar 2025 09:04:21",
-         "title" : "'The Future Of Chess Growth' With Prominent Guests At MIT Sloan Sports Conference"
-      },
-      {
-         "description" : "The first Titled Tuesdays of March were decided in two quite different ways: GM Alexey Sarana won the early event out of a three-way tie on 9.5 points, while GM Benjamin Bok won the late event by a full point with a score of 10/11. After several p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-bok-win-titled-tuesday-march-4-2025",
-         "pubDate" : "Wed, 05 Mar 2025 07:51:04",
-         "title" : "1st-Time Winner Crushes Titled Tuesday Field By Full Point"
-      },
-      {
-         "description" : "GM Wesley So had the best start on day one of the 2025 Champions Showdown: The Kings, a three-day exhibition event in St. Louis, Missouri, held just ahead of the American Cup. Six American grandmasters play rapid, blitz, and semi-classical chess f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-1",
-         "pubDate" : "Wed, 05 Mar 2025 06:22:00",
-         "title" : "Wesley So Leads After Day 1 Of Inaugural Champions Showdown: The Kings"
-      },
-      {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SLCC events. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -466,36 +306,12 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 7 (Pourkashiyan, Foisor, Cervantes)"
       },
       {
-         "description" : "After draws on all boards in round six, GMs Praggnanandhaa Rameshbabu and Aravindh Chithambaram stay in the lead by a point in the 2025 Prague Chess Festival Masters. GM Ediz Gurel came closest to achieving a decisive game when with Black he outpl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-6",
-         "pubDate" : "Tue, 04 Mar 2025 13:41:00",
-         "title" : "Gurel, Praggnanandhaa Come Close But No Cigar"
-      },
-      {
          "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-universities-chess-championship-2025/",
          "pubDate" : "Tue, 04 Mar 2025 10:48:54",
          "title" : "European Universities Chess Championship 2025"
-      },
-      {
-         "description" : "The Freestyle Chess Grand Slam Tour 2025 continues with the second stop in Paris on April 7-14. It&#39;s a remarkably star-studded field that will feature twelve of the world&#39;s best players, with 11 now confirmed. The final spot will be determined thr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/freestyle-chess-paris-announced-carlsen-niemann-to-clash",
-         "pubDate" : "Tue, 04 Mar 2025 10:08:00",
-         "title" : "Carlsen, Gukesh, Niemann Clash In Paris For 2nd Leg Of Freestyle Chess Grand Slam"
-      },
-      {
-         "description" : "Most people don&#39;t associate the sport of disc golf with chess, but many of us are fans of both sports. The Discraft Supreme Flight Open (Presented by Florida&#39;s Adventure Coast) ran Friday, February 28 through Sunday, March 2 at the Olympus Disc Go...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-and-disc-golf-combine-at-the-discraft-supreme-flight-open",
-         "pubDate" : "Tue, 04 Mar 2025 09:04:01",
-         "title" : "Chess And Disc Golf Combine At Discraft Supreme Flight Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118701993.cms\" />New Delhi is expected to host the FIDE Chess World Cup 2025 from October 31 to November 27, marking its return to India after 23 years. The capital city is the preferred location for major tournaments. Additionally, India will host the 5th leg of the FIDE Women's Grand Prix Series in Maharashtra this April.",
@@ -824,14 +640,6 @@ news_feed (
          "link" : "https://www.thearticle.com/freestyle-chess-bobby-fischers-poisoned-chalice/",
          "pubDate" : "Sat, 22 Feb 2025 12:56:48",
          "title" : "Freestyle chess: Bobby Fischer's poisoned chalice"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118451938.cms\" />Norwegian chess grandmaster Magnus Carlsen auctioned off the jeans that led to his disqualification from a round in the World Rapid and Blitz Chess Championships due to a dress code violation. Despite initial frustration, Carlsen returned to the competition and humorously turned the incident into a charitable opportunity, donating the auction proceeds to the Big Brothers Big Sisters charity.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-chess-star-magnus-carlsen-puts-forbidden-jeans-up-for-auction/articleshow/118451938.cms",
-         "pubDate" : "Fri, 21 Feb 2025 12:04:42",
-         "title" : "Magnus Carlsen puts 'forbidden jeans' up for auction"
       }
    ]
 }
