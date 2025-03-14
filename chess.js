@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Analyses with ChessBase 18 are flexible: insights gained can be added to or changed at any time. This often leads to a re-evaluation of variations. In this tutorial episode, we will therefore explain how you can upgrade variations and insert or change evaluations. We will show how practical this is with the quick access bars next to and below the notation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-einsteigertipps-teil-6-schnellbefehlleisten-und-variantenhierarchie",
+         "pubDate" : "Fri, 14 Mar 2025 08:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, Part 6: Quick access toolbars and variation hierarchies"
+      },
+      {
          "description" : "The fourth leg of the 2024-25 FIDE Women's Grand Prix will take place in Nicosia, Cyprus, from 14-25 March. Ten of the world's top female players, including series leader Aleksandra Goryachkina and the Muzychuk sisters, will compete for crucial Grand Prix points that determine qualification for the 2026 Women's Candidates Tournament. Hosted in Cyprus' capital, the event follows a round-robin format, with players participating in three of the six Grand Prix tournaments. | Pictured: Stavroula Tsolakidou / Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/21/chess-carlsen-wins-again-as-he-qualifies-for-the-15m-saudi-esports-world-cup",
          "pubDate" : "Fri, 21 Feb 2025 08:00:33",
          "title" : "Chess: Carlsen wins again as he qualifies for the $1.5m Saudi Esports World Cup"
-      },
-      {
-         "description" : "FIDE Planning and Development Commission announced the Funding Programme for 2025 and soon will open the submissions process for National Chess Federations and Affiliated Members, FIDE Continents, FIDE Zones, FIDE Commissions, FIDE Affiliated Organizations. The Development Programme's objective is to help the Applicant to implement projects and activities that aim to improve the development of Chess in all its forms. The proposed Development Programme must be in line with the global FIDE orientations and the Applicant's strategic plan: When relevant []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-planning-and-development-funding-programme-guidelines/",
-         "pubDate" : "Fri, 21 Feb 2025 07:16:10",
-         "title" : "FIDE Planning and Development Funding Programme Guidelines"
       }
    ]
 }
