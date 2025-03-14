@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 14 to 20 March, the Hotel del Lago hosts the Punta del Este Masters, a closed double round-robin tournament bringing together four Grandmasters and two International Masters from Spanish-speaking countries. Among them, the young Argentinean Faustino Oro, aged 11, and the Mexican Sion Galaviz, aged 19, will try to score the necessary points to obtain GM status. The event is part of the Punta del Este International Chess Festival, which will include open tournaments and promotional activities. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magistral-punta-del-este-2025-intro",
+         "pubDate" : "Fri, 14 Mar 2025 22:20:00",
+         "title" : "Faustino Oro looking for first GM norm in Punta del Este"
+      },
+      {
          "description" : "The 2025 American Cup returns to Saint Louis, bringing together the nation's top chess players for a high-stakes competition. Organised by the Saint Louis Chess Club, the tournament follows a double-elimination format, testing players in both classical and rapid chess. Featuring elite grandmasters such as Hikaru Nakamura and Fabiano Caruana, as well as rising stars like Alice Lee and Carissa Yip, the event promises intense matches in both the open and women's sections. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
