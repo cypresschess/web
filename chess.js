@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of the 2024-25 FIDE Women's Grand Prix will take place in Nicosia, Cyprus, from 14-25 March. Ten of the world's top female players, including series leader Aleksandra Goryachkina and the Muzychuk sisters, will compete for crucial Grand Prix points that determine qualification for the 2026 Women's Candidates Tournament. Hosted in Cyprus' capital, the event follows a round-robin format, with players participating in three of the six Grand Prix tournaments. | Pictured: Stavroula Tsolakidou / Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-preview",
+         "pubDate" : "Fri, 14 Mar 2025 02:00:00",
+         "title" : "Stellar lineup at Women's Grand Prix in Nicosia"
+      },
+      {
          "description" : "Thorsten Cmiel keeps a very close eye on the young talents in chess. During the Prague Chess Festival, he paid particular attention to how Divya Deshmukh played. Divya won the girls' category at the 2024 World Junior Championship. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
