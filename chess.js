@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 European Individual Chess Championship starts tomorrow in Eforie Nord, Romania, and will be played from 15-26 March at the&#160;Ana Hotels Europa. Nearly 400 players from 40 European federations registered for the event, including 103 Grandmasters, 77 International Masters, 71 FIDE masters. The top seeds are: Bogdan-Daniel Deac (ROU, 2692), Alexey Sarana (SRB, 2689), Jorden Van Foreest (NED, 2676), Pavel Eljanov (UKR, 2666), Shant Sargsyan (ARM, 2666), Daniel Dardha (BEL, 2665), David Anton Guijarro (ESP, 2663), David Navara (CZE, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-starts-tomorrow/",
+         "pubDate" : "Fri, 14 Mar 2025 08:10:53",
+         "title" : "European Individual Chess Championship 2025 starts tomorrow"
+      },
+      {
+         "description" : " The new eight-episode series, sandwiched between Mastermind and University Challenge, has split opinion BBC Two's new eight-episode series Chess Masters: The Endgame, aired on Monday evening at 8pm between Mastermind and University Challenge, has provoked strong but sharply divided reactions, both among television critics and seasoned chess experts and amateurs. The Guardian's Lucy Mangan called it \"<a href=\"https://www.theguardian.com/tv-and-radio/2025/mar/10/chess-masters-the-endgame-review-so-dull-its-almost-unwatchable\">so dull it's almost unwatchable</a>\". Although when she says \"the flurry of interest in chess was five years ago\", it seems that she missed the publicity bursts for the ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/mar/14/bbc-twos-chess-masters-the-endgame-provokes-sharply-divided-reactions",
+         "pubDate" : "Fri, 14 Mar 2025 08:00:21",
+         "title" : "BBC Two's Chess Masters: The Endgame provokes sharply divided reactions"
+      },
+      {
          "description" : "Analyses with ChessBase 18 are flexible: insights gained can be added to or changed at any time. This often leads to a re-evaluation of variations. In this tutorial episode, we will therefore explain how you can upgrade variations and insert or change evaluations. We will show how practical this is with the quick access bars next to and below the notation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -816,22 +832,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-no-1-chess-star-magnus-carlsen-puts-forbidden-jeans-up-for-auction/articleshow/118451938.cms",
          "pubDate" : "Fri, 21 Feb 2025 12:04:42",
          "title" : "Magnus Carlsen puts 'forbidden jeans' up for auction"
-      },
-      {
-         "description" : "Player finished first in corresponding Nationals Age Group over the board Championship for the year 2024: Rs. 17,130/ Special Note: If a player has only",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asia-youth-chess-championship-2025-in-dushanbe-tajikistan-from-20th-to-29th-april-2025/",
-         "pubDate" : "Fri, 21 Feb 2025 08:40:36",
-         "title" : "Western Asia Youth Chess Championship - 2025 in Dushanbe, Tajikistan from 20th to 29th April, 2025"
-      },
-      {
-         "description" : " The Norwegian world No 1 beat Hikaru Nakamura twice at the Chessable Masters despite endgame lapses Magnus Carlsen's dominance of online chess has continued this week as the world No 1 defeated Hikaru Nakamura in two matches to retain the Chessable Masters, the first leg of the annual Champions Tour which the Norwegian has won every year since it was launched in 2020. For 2025, the tour is also a qualifier for the Esports World Cup at Riyadh, Saudi Arabia, in July-August, where the chess prize fund will be $1.5m. Carlsen began with a smooth 3-1 victory <a href=\"https://lichess.org/broadcast/cct-chessable-masters-2025--playoffs-winners/round-of-16--game-1/mda5Qqqy/KUUhEZ8W\">against Russia's ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/feb/21/chess-carlsen-wins-again-as-he-qualifies-for-the-15m-saudi-esports-world-cup",
-         "pubDate" : "Fri, 21 Feb 2025 08:00:33",
-         "title" : "Chess: Carlsen wins again as he qualifies for the $1.5m Saudi Esports World Cup"
       }
    ]
 }
