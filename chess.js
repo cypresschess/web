@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/overtraining/",
+         "pubDate" : "Sat, 15 Mar 2025 14:00:00",
+         "title" : "The Dangers of Overtraining: Why Slow and Steady Wins in Running and Chess"
+      },
+      {
+         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
+         "pubDate" : "Sat, 15 Mar 2025 13:55:00",
+         "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
+         "description" : "Vidit Gujrathi has secured his place in the Paris leg of the inaugural Freestyle Chess Grand Slam after winning the online Play-In stage held from 8 to 14 March. The Indian grandmaster advanced through a competitive knockout phase without needing tiebreakers, defeating Ding Liren, Pranesh Munirethinam, Amin Tabatabaei and Richard Rapport. Despite feeling underprepared, Vidit's strong performance earned him a spot alongside Magnus Carlsen, Gukesh Dommaraju and Hikaru Nakamura in the tournament, set to take place from 7 to 14 April. | Photo: Anmol Bhargav",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-qualifier",
+         "pubDate" : "Sat, 15 Mar 2025 13:10:00",
+         "title" : "Vidit gets ticket to Paris leg of Freestyle Chess Grand Slam"
+      },
+      {
          "description" : "The European Individual Chess Championship 2025 was officially declared opened yesterday evening in Eforie Nord, Romania! The Opening ceremony of the event took place in the playing venue of the event with the attendance by the Vice President of the Romanian Chess Federation Mr. Alin Berescu, Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu, and ECU Tournament Director Mr. Petr Pisk who addressed the distinguished guests. The Technical meeting of the Championship was held this morning with the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -856,22 +880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-trapping-a-piece",
          "pubDate" : "Mon, 24 Feb 2025 12:04:42",
          "title" : "Grivas on Trapping a Piece"
-      },
-      {
-         "description" : "Imagine your roof is leaking, and water is pouring in, damaging your home. What do you do? Most would follow this simple process: That makes sense, right? Now, imagine a friend says: \"I have a leaking roof. I know where it's coming from. I tried fixing it, but I gave up. Now, I simply live []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/leak/",
-         "pubDate" : "Sat, 22 Feb 2025 14:00:00",
-         "title" : "Stop Accepting Your Blunders"
-      },
-      {
-         "description" : "What is now dignified by the hopeful euphemism of Freestyle chess was popularised by that quintessential demon, Heresiarch and obliterator of his fans' expectations and desecrator of their loyalty, Bobby Fischer. In my opinion, players being permitted to arrange their pieces at random at the start of the game represents a feeble echo of the harmony, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/freestyle-chess-bobby-fischers-poisoned-chalice/",
-         "pubDate" : "Sat, 22 Feb 2025 12:56:48",
-         "title" : "Freestyle chess: Bobby Fischer's poisoned chalice"
       }
    ]
 }
