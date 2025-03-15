@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Individual Chess Championship 2025 was officially declared opened yesterday evening in Eforie Nord, Romania! The Opening ceremony of the event took place in the playing venue of the event with the attendance by the Vice President of the Romanian Chess Federation Mr. Alin Berescu, Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu, and ECU Tournament Director Mr. Petr Pisk who addressed the distinguished guests. The Technical meeting of the Championship was held this morning with the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-starts-in-eforie-nord/",
+         "pubDate" : "Sat, 15 Mar 2025 11:25:25",
+         "title" : "European Individual Chess Championship 2025 starts in Eforie Nord"
+      },
+      {
+         "description" : "​I am sad to report the passing of one of the outstanding personalities of British chess: Stewart Reuben, who has diedin Jamaica on 4 February 2025 at the age of 85. Playing chess was not his principal claim to fame. Where Stewart made his mark was as tournament organiser, arbiter and, to a certain extent, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-and-poker-stewart-reuben/",
+         "pubDate" : "Sat, 15 Mar 2025 10:57:25",
+         "title" : "Chess and poker: Stewart Reuben"
+      },
+      {
          "description" : "On March 16, 2025 the Kasparov Chess Foundation Academy will host a live lecture by GM Alexander Onischuk. Participants have the unique opportunity to learn from his extensive experience, gaining insights into advanced strategies and game analysis. This event is part of KCF Academy's ongoing training program, crafted to provide high-quality chess education worldwide.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,7 +202,7 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships"
       },
       {
-         "description" : "How can chess evolve to reach an even wider audience? What lessons can it take from other sports? These were just some of the questions tackled at the MIT Sloan Sports Analytics Conference last weekend.&#38;nbsp; The annual conference took place in ...",
+         "description" : "How can chess evolve to reach an even wider audience? What lessons can it take from other sports? These were just some of the questions tackled at the MIT Sloan Sports Analytics Conference last weekend.&#38;nbsp; The annual conference, which took pl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2025",
