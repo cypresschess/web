@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
+         "pubDate" : "Sat, 15 Mar 2025 18:00:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -58,14 +66,6 @@ news_feed (
          "title" : "Faustino Oro looking for first GM norm in Punta del Este"
       },
       {
-         "description" : "The 2025 American Cup returns to Saint Louis, bringing together the nation's top chess players for a high-stakes competition. Organised by the Saint Louis Chess Club, the tournament follows a double-elimination format, testing players in both classical and rapid chess. Featuring elite grandmasters such as Hikaru Nakamura and Fabiano Caruana, as well as rising stars like Alice Lee and Carissa Yip, the event promises intense matches in both the open and women's sections. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-preview",
-         "pubDate" : "Fri, 14 Mar 2025 13:00:00",
-         "title" : "American Cup: Nakamura, Caruana and So favourites in event's fourth edition"
-      },
-      {
          "description" : "GM Vidit Gujrathi beat GMs Amin Tabatabaei and Richard Rapport to become the 12th and final qualifier for the 2025 Paris Freestyle Chess Grand Slam that takes place April 7-14. He&#39;ll join fellow Indian stars World Champion Gukesh Dommaraju and GMs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,36 +114,12 @@ news_feed (
          "title" : "Announcing: Magnus Carlsen vs. The World Match Starting April 4!"
       },
       {
-         "description" : "Analyses with ChessBase 18 are flexible: insights gained can be added to or changed at any time. This often leads to a re-evaluation of variations. In this tutorial episode, we will therefore explain how you can upgrade variations and insert or change evaluations. We will show how practical this is with the quick access bars next to and below the notation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-einsteigertipps-teil-6-schnellbefehlleisten-und-variantenhierarchie",
-         "pubDate" : "Fri, 14 Mar 2025 08:00:00",
-         "title" : "ChessBase 18 - Tips for Beginners, Part 6: Quick access toolbars and variation hierarchies"
-      },
-      {
          "description" : "One of the Czech Republic&#39;s greatest players of all time, GM David Navara, shared deep insights into his life, his passion for chess, and his experiences living with Asperger&#39;s syndrome. IM Sagar Shah continues to deliver compelling stories to t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/david-navara-interview-career-asperger",
          "pubDate" : "Fri, 14 Mar 2025 07:47:00",
          "title" : "David Navara Opens Up About His Chess Career, Challenges, & Living With Asperger's"
-      },
-      {
-         "description" : "The fourth leg of the 2024-25 FIDE Women's Grand Prix will take place in Nicosia, Cyprus, from 14-25 March. Ten of the world's top female players, including series leader Aleksandra Goryachkina and the Muzychuk sisters, will compete for crucial Grand Prix points that determine qualification for the 2026 Women's Candidates Tournament. Hosted in Cyprus' capital, the event follows a round-robin format, with players participating in three of the six Grand Prix tournaments. | Pictured: Stavroula Tsolakidou / Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-preview",
-         "pubDate" : "Fri, 14 Mar 2025 02:00:00",
-         "title" : "Stellar lineup at Women's Grand Prix in Nicosia"
-      },
-      {
-         "description" : "Thorsten Cmiel keeps a very close eye on the young talents in chess. During the Prague Chess Festival, he paid particular attention to how Divya Deshmukh played. Divya won the girls' category at the 2024 World Junior Championship. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-focus-divya-deshmuk-i",
-         "pubDate" : "Thu, 13 Mar 2025 19:00:00",
-         "title" : "In focus: Divya Deshmukh (I)"
       },
       {
          "description" : "It&#39;s GM Vidit Gujrathi vs. GM Amin Tabatabaei and GM Rauf Mamedov vs. GM Richard Rapport in Friday&#39;s Semifinals of the 2025 Paris Freestyle Chess Grand Slam Play-In after a brutal two rounds of knockout chess. 12 players were eliminated from the f...",
