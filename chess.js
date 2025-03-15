@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of the FIDE Women's Grand Prix in Cyprus saw four closely contested games and two decisive results. Greece's Stavroula Tsolakidou defeated Germany's Elisabeth Paehtz, while China's Zhu Jiner (pictured) overcame Olga Badelka. The tournament, held at Hilton Nicosia, features a strong lineup, including Grand Prix leader Aleksandra Goryachkina and Ukrainian stars Anna and Mariya Muzychuk. | Photos: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-1",
+         "pubDate" : "Sun, 16 Mar 2025 00:10:00",
+         "title" : "Nicosia GP: Zhu and Tsolakidou strike first"
+      },
+      {
+         "description" : " The 25th European Individual Championship takes place Sat 15th to Wed 26th Mar 2025 in Eforie Nord, Romania. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
+         "pubDate" : "Sat, 15 Mar 2025 21:08:00",
+         "title" : "25th European Individual Championship 2025 - Games and Results"
+      },
+      {
+         "description" : " The American Cup takes place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Players Open: Nakamura, Caruana, Aronian, So, Dominguez, Sevian, Robson, Mishra, Women: Yip, Lee, Krush, Zatonskih, Abrahamyan, Pourkashiyan, Paikidze, Cervantes.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2025",
+         "pubDate" : "Sat, 15 Mar 2025 21:06:00",
+         "title" : "American Cup 2025 - "
+      },
+      {
+         "description" : " The Nicosia FIDE Women's Grand Prix takes place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/nicosia-fide-womens-grand-prix-2025",
+         "pubDate" : "Sat, 15 Mar 2025 20:54:00",
+         "title" : "Nicosia FIDE Women's Grand Prix 2025 - Games and Results"
+      },
+      {
+         "description" : "The 2025 European Individual Chess Championship commenced today in Eforie Nord, Romania! The first round of the event was opened by Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu, ECU Tournament Director Mr. Petr Pisk, and the representative of the Romanian Special Tele-Communication Service and Institutional Partner of the Romanian Chess Federation Mr. Rucareanu. Mr. Rucareanu made a first ceremonial move in the top bord game between IM Nicolai Kistrup (DEN, 2356) and GM Bogdan-Daniel Deac (ROU, 2692) []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-commenced-in-eforie-nord-romania/",
+         "pubDate" : "Sat, 15 Mar 2025 20:31:24",
+         "title" : "European Individual Chess Championship 2025 commenced in Eforie Nord, Romania"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +58,12 @@ news_feed (
          "title" : "The Dangers of Overtraining: Why Slow and Steady Wins in Running and Chess"
       },
       {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Sat, 15 Mar 2025 13:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
-      },
-      {
-         "description" : "Vidit Gujrathi has secured his place in the Paris leg of the inaugural Freestyle Chess Grand Slam after winning the online Play-In stage held from 8 to 14 March. The Indian grandmaster advanced through a competitive knockout phase without needing tiebreakers, defeating Ding Liren, Pranesh Munirethinam, Amin Tabatabaei and Richard Rapport. Despite feeling underprepared, Vidit's strong performance earned him a spot alongside Magnus Carlsen, Gukesh Dommaraju and Hikaru Nakamura in the tournament, set to take place from 7 to 14 April. | Photo: Anmol Bhargav",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-qualifier",
-         "pubDate" : "Sat, 15 Mar 2025 13:10:00",
-         "title" : "Vidit gets ticket to Paris leg of Freestyle Chess Grand Slam"
+         "description" : "IM Stavroula Tsolakidou pounced on a mistake by GM Elisabeth Paehtz to pick up a full point as the 2025 Nicosia FIDE Women&#39;s Grand Prix began. She was joined in the early lead by GM Zhu Jiner, who replaces her Chinese compatriot GM Lei Tingjie in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-1",
+         "pubDate" : "Sat, 15 Mar 2025 12:59:00",
+         "title" : "Tsolakidou, Zhu Jiner Grab Wins As Nicosia Women's Grand Prix Begins"
       },
       {
          "description" : "The European Individual Chess Championship 2025 was officially declared opened yesterday evening in Eforie Nord, Romania! The Opening ceremony of the event took place in the playing venue of the event with the attendance by the Vice President of the Romanian Chess Federation Mr. Alin Berescu, Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu, and ECU Tournament Director Mr. Petr Pisk who addressed the distinguished guests. The Technical meeting of the Championship was held this morning with the []",
@@ -48,22 +80,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-and-poker-stewart-reuben/",
          "pubDate" : "Sat, 15 Mar 2025 10:57:25",
          "title" : "Chess and poker: Stewart Reuben"
-      },
-      {
-         "description" : "On March 16, 2025 the Kasparov Chess Foundation Academy will host a live lecture by GM Alexander Onischuk. Participants have the unique opportunity to learn from his extensive experience, gaining insights into advanced strategies and game analysis. This event is part of KCF Academy's ongoing training program, crafted to provide high-quality chess education worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/guest-star-at-the-kcf-academy",
-         "pubDate" : "Sat, 15 Mar 2025 08:00:00",
-         "title" : "Guest Star at the KCF Academy"
-      },
-      {
-         "description" : "From 14 to 20 March, the Hotel del Lago hosts the Punta del Este Masters, a closed double round-robin tournament bringing together four Grandmasters and two International Masters from Spanish-speaking countries. Among them, the young Argentinean Faustino Oro, aged 11, and the Mexican Sion Galaviz, aged 19, will try to score the necessary points to obtain GM status. The event is part of the Punta del Este International Chess Festival, which will include open tournaments and promotional activities. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magistral-punta-del-este-2025-intro",
-         "pubDate" : "Fri, 14 Mar 2025 22:20:00",
-         "title" : "Faustino Oro looking for first GM norm in Punta del Este"
       },
       {
          "description" : "GM Vidit Gujrathi beat GMs Amin Tabatabaei and Richard Rapport to become the 12th and final qualifier for the 2025 Paris Freestyle Chess Grand Slam that takes place April 7-14. He&#39;ll join fellow Indian stars World Champion Gukesh Dommaraju and GMs...",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-future-of-chess-growth-at-mit-with-prominent-guests",
          "pubDate" : "Wed, 05 Mar 2025 09:04:21",
          "title" : "'The Future Of Chess Growth' With Prominent Guests At MIT Sloan Sports Conference"
-      },
-      {
-         "description" : "The first Titled Tuesdays of March were decided in two quite different ways: GM Alexey Sarana won the early event out of a three-way tie on 9.5 points, while GM Benjamin Bok won the late event by a full point with a score of 10/11. After several p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-bok-win-titled-tuesday-march-4-2025",
-         "pubDate" : "Wed, 05 Mar 2025 07:51:04",
-         "title" : "1st-Time Winner Crushes Titled Tuesday Field By Full Point"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SLCC events. ",
