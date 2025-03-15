@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On March 16, 2025 the Kasparov Chess Foundation Academy will host a live lecture by GM Alexander Onischuk. Participants have the unique opportunity to learn from his extensive experience, gaining insights into advanced strategies and game analysis. This event is part of KCF Academy's ongoing training program, crafted to provide high-quality chess education worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/guest-star-at-the-kcf-academy",
+         "pubDate" : "Sat, 15 Mar 2025 08:00:00",
+         "title" : "Guest Star at the KCF Academy"
+      },
+      {
          "description" : "From 14 to 20 March, the Hotel del Lago hosts the Punta del Este Masters, a closed double round-robin tournament bringing together four Grandmasters and two International Masters from Spanish-speaking countries. Among them, the young Argentinean Faustino Oro, aged 11, and the Mexican Sion Galaviz, aged 19, will try to score the necessary points to obtain GM status. The event is part of the Punta del Este International Chess Festival, which will include open tournaments and promotional activities. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
