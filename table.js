@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-03-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503150532 target='_blank'>MAR 15TH SATURDAY SWISS</a>",
 "SPRING","2025-03-14","16","<a href=http://www.uschess.org/msa/XtblMain.php?202503149922 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-03-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503149792 target='_blank'>FBCC 2025 NATIONAL PI DAY OPEN</a>",
 "HOUSTON","2025-03-09","44","<a href=http://www.uschess.org/msa/XtblMain.php?202503099582 target='_blank'>SRI MEENAKSHI TEMPLE 03-09-2025</a>",
@@ -198,5 +199,4 @@ jtable([
 "KINGWOOD","2024-07-27","7","<a href=http://www.uschess.org/msa/XtblMain.php?202407274742 target='_blank'>KINGWOOD BLITZ JULY 2024</a>",
 "HOUSTON","2024-07-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202407272432 target='_blank'>CHESSPANDA07272024SATURDAY</a>",
 "SUGAR LAND","2024-07-26","10","<a href=http://www.uschess.org/msa/XtblMain.php?202407262152 target='_blank'>FBCC 2024 BAGELFEST DAY OPEN</a>",
-"SPRING","2024-07-26","30","<a href=http://www.uschess.org/msa/XtblMain.php?202407262132 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
