@@ -42,12 +42,28 @@ news_feed (
          "title" : "European Individual Chess Championship 2025 commenced in Eforie Nord, Romania"
       },
       {
+         "description" : "All four games in The American Cup 2025&#38;nbsp;Open ended in draws, but the top two seeds, GMs Hikaru Nakamura and Fabiano Caruana, missed critical chances in their games against, respectively, GMs Abhimanyu Mishra and Ray Robson. In stark contras...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-1",
+         "pubDate" : "Sat, 15 Mar 2025 18:53:00",
+         "title" : "Nakamura, Caruana Miss Wins Vs. Mishra, Robson"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2025-live",
          "pubDate" : "Sat, 15 Mar 2025 18:00:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "GM Andrew Tang&#39;s purple patch has continued, with the hyperbullet exponent capturing his fourth Bullet Brawl title of 2025 and eighth overall after scoring 249 points. Tang eclipsed the scores of GMs Oleksandr Bortnyk, Daniel Naroditsky, Arjun Eri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-15-2025",
+         "pubDate" : "Sat, 15 Mar 2025 17:20:00",
+         "title" : "Tang Bolts To 8th Bullet Brawl Title Ahead Of Bortnyk, Naroditsky"
       },
       {
          "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "US Chess Announces 2025 World Youth and World Cadet Championships Invitees"
       },
       {
-         "description" : "GM Aravindh Chithambaram won a golden game with Black against GM Anish Giri to take the sole lead in the 2025 Prague Chess Festival Masters after round seven. GM Ediz Gurel won his first game in the event against GM Thai Dai Van Nguyen with a sudd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-7",
-         "pubDate" : "Wed, 05 Mar 2025 14:20:00",
-         "title" : "Aravindh Plays Brilliant Knight Sacrifice, Jumps To Sole Lead"
-      },
-      {
          "description" : "Don't miss the brand-new chess series starting on BBC Two on Monday 10th March at 8.00pm more details at https://www.bbc.co.uk/programmes/m0028x4d",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
          "pubDate" : "Wed, 05 Mar 2025 11:16:24",
          "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
-      },
-      {
-         "description" : "Can chess continue its meteoric rise? How will the game evolve in the esports landscape? And what role does sports analytics play in shaping competitive chess strategies? These key questions will be discussed at the MIT Sloan Sports Analytics Conf...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-future-of-chess-growth-at-mit-with-prominent-guests",
-         "pubDate" : "Wed, 05 Mar 2025 09:04:21",
-         "title" : "'The Future Of Chess Growth' With Prominent Guests At MIT Sloan Sports Conference"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SLCC events. ",
