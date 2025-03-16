@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the European Individual Chess Championship 2025 saw interesting encounters and the top board clashes between the Grandmasters. We saw plenty of decisive games, but also a bigger number of draws comparing to the statistics of the first round. Playing on the podium reserved for the first three matches, GM Alexey Sarana (SRB, 2689) defeated GM Matej Sebenik (SLO, 2492) and proved the role of the favourite, GM Jorden Van Foreest (NED, 2676) won against IM Jakub []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-round-2-recap/",
+         "pubDate" : "Sun, 16 Mar 2025 19:58:13",
+         "title" : "European Individual Chess Championship 2025 - Round 2 recap"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
          "pubDate" : "Sun, 16 Mar 2025 13:55:00",
          "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
+         "description" : "GM Zhu Jiner has taken the sole lead in the 2025 Nicosia FIDE Women&#39;s Grand Prix on 2/2 after GM Elisabeth Paehtz made a fatal move in an endgame she seemed to be holding. Only IM Stavroula Tsolakidou is within half a point after surviving a trick...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-2",
+         "pubDate" : "Sun, 16 Mar 2025 13:52:00",
+         "title" : "Zhu Jiner Takes Sole Lead On 2/2"
       },
       {
          "description" : "The first round of the FIDE Women's Grand Prix in Cyprus saw four closely contested games and two decisive results. Greece's Stavroula Tsolakidou defeated Germany's Elisabeth Paehtz, while China's Zhu Jiner (pictured) overcame Olga Badelka. The tournament, held at Hilton Nicosia, features a strong lineup, including Grand Prix leader Aleksandra Goryachkina and Ukrainian stars Anna and Mariya Muzychuk. | Photos: FIDE / Mark Livshitz",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Aravindh beats Anish Giri to take sole lead at Prague Masters"
       },
       {
-         "description" : "A single win in their rapid game on Wednesday was enough for GM Fabiano Caruana to take the lead from GM Wesley So at the Champions Showdown: The Kings in St. Louis. In this event, where money prizes are connected to single-game results, Caruana h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-champions-showdown-the-kings-day-2",
-         "pubDate" : "Thu, 06 Mar 2025 05:23:00",
-         "title" : "Caruana New Leader At Champions Showdown: The Kings"
-      },
-      {
          "description" : "US Chess is pleased to announce the list of players who are officially invited to participate in the 2025 World Youth (Under 14, Under 16 and Under 18) and 2025 World Cadet (Under 8, Under 10 and Under 12) Chess Championships.These students earned this honor by meeting the peak post-tournament (PPT) rating and activity criteria in their age and gender categories according to the Scholastic National Invitational Event and Award Requirements.The top players by PPT rating in each age category are considered the United States Official Representatives (OR) by FIDE, the World Chess Federation, but all USA players may compete in these events as part of the US Chess delegation. Additionally, players",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/44044528/former-world-chess-champion-boris-spassky-88-dies?device=featurephone",
          "pubDate" : "Thu, 27 Feb 2025 19:27:13",
          "title" : "Former world chess champ Boris Spassky, 88, dies"
-      },
-      {
-         "description" : "The European Chess Union mourns the loss of Boris Vasilievich Spassky, the tenth World Chess Champion, who passed away on February 27, 2025, at the age of 87. A towering figure in chess history, Spassky's legacy spans decades of extraordinary achievements and contributions to the royal game. Born in Leningrad (now St. Petersburg) on January 30, 1937, Spassky rose to prominence as a chess prodigy, becoming the youngest Soviet player to achieve the title of International Master at age 16. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/boris-spassky-1937-2025-chess-world-champion-and-legendary-grandmaster/",
-         "pubDate" : "Thu, 27 Feb 2025 18:59:27",
-         "title" : "Boris Spassky (1937-2025) Chess World Champion and Legendary Grandmaster"
       },
       {
          "description" : "&#160;Report on the 2nd Round Performance of Indian Players in the FIDE World Junior Chess Championship 2025 &#160;Open Category In the Open category, Indian players",
