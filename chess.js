@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
+         "pubDate" : "Mon, 17 Mar 2025 13:55:00",
+         "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
+         "description" : "We&#39;re excited to announce the fourth installment of this year&#39;s Chess.com Community Championships! The Chess.com Atomic Chess Championship takes place March 27 and 28 and features a $2,500 prize fund. Atomic Chess is not for the faint of heart. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-atomic-chess-championship-2025",
+         "pubDate" : "Mon, 17 Mar 2025 08:00:00",
+         "title" : "It's Time To Play With Fire! Join The Chess.com Atomic Chess Championship"
+      },
+      {
          "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://aicf.in/batch-schedule-for-arbiter-refresher-course-for-sna-2025/",
          "pubDate" : "Mon, 17 Mar 2025 07:19:07",
          "title" : "Batch Schedule for Arbiter refresher course for SNA 2025"
+      },
+      {
+         "description" : "US Chess is accepting nominations for the Dan Heisman Award for Excellence in Chess Instruction.This annual award recognizes a chess instructor who has demonstrated long-standing commitment to developing chess players, in service to the chess and broader communities. A chess instructor is a teacher first and foremost. While a coach often has these same attributes, an instructor conveys a broader concept.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> Dan Heisman in 2007<br> <br> <br> This award is made possible through a generous gift from Dan Heisman, whose family has a long history of supporting philanthropic causes.\"It occurred to me that there was no award recognizing ex",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-accepting-nominations-2025-dan-heisman-award-excellence-chess-instruction",
+         "pubDate" : "Mon, 17 Mar 2025 00:00:00",
+         "title" : "US Chess Accepting Nominations for 2025 Dan Heisman Award for Excellence in Chess Instruction"
       },
       {
          "description" : "The second round of the European Individual Chess Championship 2025 saw interesting encounters and the top board clashes between the Grandmasters. We saw plenty of decisive games, but also a bigger number of draws comparing to the statistics of the first round. Playing on the podium reserved for the first three matches, GM Alexey Sarana (SRB, 2689) defeated GM Matej Sebenik (SLO, 2492) and proved the role of the favourite, GM Jorden Van Foreest (NED, 2676) won against IM Jakub []",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2025-live",
          "pubDate" : "Sun, 16 Mar 2025 18:00:00",
          "title" : "The American Cup - Live!"
-      },
-      {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Sun, 16 Mar 2025 13:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
       },
       {
          "description" : "GM Zhu Jiner has taken the sole lead in the 2025 Nicosia FIDE Women&#39;s Grand Prix on 2/2 after GM Elisabeth Paehtz made a fatal move in an endgame she seemed to be holding. Only IM Stavroula Tsolakidou is within half a point after surviving a trick...",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "Champions Showdown The Kings 2025 - Games and Results"
       },
       {
-         "description" : "GM Aravindh Chithambaram leads by a half-point going into the last round of the 2025 Prague Chess Festival Masters. He had a minor chance to extend his lead after GM David Navara made an early mistake, but the players reached a quick draw. GM Prag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-8",
-         "pubDate" : "Thu, 06 Mar 2025 12:51:00",
-         "title" : "Giri, Wei Bounce Back With Wins"
-      },
-      {
          "description" : "https://lichess.org/broadcast/-/EQ3VGnKl Indian Team Championship 2025 &#124; https://lichess.org/broadcast/-/1Fc9H2oW Indian Team Championship 2025 &#124;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -568,14 +576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
          "pubDate" : "Wed, 05 Mar 2025 11:16:24",
          "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles focus on three American regulars at Saint Louis Chess Club (SLCC) events. Former U.S. Women's Champion WGM Sabina Foisor is now a regular commentator and interviewer at SLCC, as well as for the US Chess Youtube. Her most recent guest was WGM Atousa Pourkashiyan, who has become a regular competitor at SLCC events. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-7-pourkashiyan-foisor-cervantes",
-         "pubDate" : "Wed, 05 Mar 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 7 (Pourkashiyan, Foisor, Cervantes)"
       },
       {
          "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
@@ -872,22 +872,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/what-is-dadaist-chess.html",
          "pubDate" : "Mon, 24 Feb 2025 16:17:00",
          "title" : "What Is Dadaist Chess?"
-      },
-      {
-         "description" : " The Djerba Chess Festival took place 16th to 23rd February 2025. Marc'Andria Maurizzi ran away with the masters event scoring 7.5/9 a point and a half clear of Daniel Dardha. The open was won by Paul Velten on tie-break from Bator Sambuev, they too scored 7.5/9. Daniel Dardha edged out 11 year old Faustino Oro (who finished last in the masters) on tie-break in the blitz after both scored 8/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/djerba-chess-festival-2025",
-         "pubDate" : "Mon, 24 Feb 2025 12:23:00",
-         "title" : "Djerba Chess Festival 2025 - Games and Results"
-      },
-      {
-         "description" : "A trapped piece is a piece that has no escape squares or squares where it can safely move without being captured. A trapped piece can be a bishop or a knight, but also 'heavier' pieces such as a rook or a queen can be ensnared. Even the king can be put into a position where it no way to move around. In the first part of his article GM Efstratios Grivas deals with a trapped king and trapped queens.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-trapping-a-piece",
-         "pubDate" : "Mon, 24 Feb 2025 12:04:42",
-         "title" : "Grivas on Trapping a Piece"
       }
    ]
 }
