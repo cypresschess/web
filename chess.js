@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
+         "pubDate" : "Mon, 17 Mar 2025 18:00:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Batch Schedule for Arbiter refresher course for SNA 2025"
       },
       {
+         "description" : "Underdogs, overtime, elimination matches. These words are emblematic of the excitement of March Madness, regardless of whether we are talking about NCAA basketball or the Saint Louis Chess Club (SLCC)'s American Cup. Indeed, the only March buzzword missing from the brackets was many viewers' favorites: upsets.After two days of play, the top three seeds in both the Open and Women's tournaments have advanced to the semi-finals of the Champions Bracket, with the only upsets occurring in the match-ups between the fourth- and fifth-seeded players in each tournament.But while the bracket was mostly \"chalk,\" all four quarter-final matches of the Open tournament (along with Lee - Paikidze) were tied",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/top-seeds-survive-upset-bids-first-round-american-cup",
+         "pubDate" : "Mon, 17 Mar 2025 00:00:00",
+         "title" : "Top Seeds Survive Upset Bids in First Round of American Cup"
+      },
+      {
          "description" : "US Chess is accepting nominations for the Dan Heisman Award for Excellence in Chess Instruction.This annual award recognizes a chess instructor who has demonstrated long-standing commitment to developing chess players, in service to the chess and broader communities. A chess instructor is a teacher first and foremost. While a coach often has these same attributes, an instructor conveys a broader concept.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> Dan Heisman in 2007<br> <br> <br> This award is made possible through a generous gift from Dan Heisman, whose family has a long history of supporting philanthropic causes.\"It occurred to me that there was no award recognizing ex",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-american-cup-day-2",
          "pubDate" : "Sun, 16 Mar 2025 18:59:00",
          "title" : "Nakamura Shuts Down Near-Upset From Mishra"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
-         "pubDate" : "Sun, 16 Mar 2025 18:00:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Zhu Jiner has taken the sole lead in the 2025 Nicosia FIDE Women&#39;s Grand Prix on 2/2 after GM Elisabeth Paehtz made a fatal move in an endgame she seemed to be holding. Only IM Stavroula Tsolakidou is within half a point after surviving a trick...",
@@ -554,14 +562,6 @@ news_feed (
          "title" : "Aravindh beats Anish Giri to take sole lead at Prague Masters"
       },
       {
-         "description" : "US Chess is pleased to announce the list of players who are officially invited to participate in the 2025 World Youth (Under 14, Under 16 and Under 18) and 2025 World Cadet (Under 8, Under 10 and Under 12) Chess Championships.These students earned this honor by meeting the peak post-tournament (PPT) rating and activity criteria in their age and gender categories according to the Scholastic National Invitational Event and Award Requirements.The top players by PPT rating in each age category are considered the United States Official Representatives (OR) by FIDE, the World Chess Federation, but all USA players may compete in these events as part of the US Chess delegation. Additionally, players",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-announces-2025-world-youth-and-world-cadet-championships-invitees",
-         "pubDate" : "Thu, 06 Mar 2025 00:00:00",
-         "title" : "US Chess Announces 2025 World Youth and World Cadet Championships Invitees"
-      },
-      {
          "description" : "Don't miss the brand-new chess series starting on BBC Two on Monday 10th March at 8.00pm more details at https://www.bbc.co.uk/programmes/m0028x4d",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -864,14 +864,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/never-mind-the-grandmasters-here-come-the-amateurs-carl-portman/",
          "pubDate" : "Tue, 25 Feb 2025 10:10:11",
          "title" : "Never Mind the Grandmasters, Here Come the Amateurs - Carl Portman"
-      },
-      {
-         "description" : "In the previous post for the series inspired by AI Comics, <A HREF=\"https://chessforallages.blogspot.com/2025/02/cubist-chess.html\">Cubist Chess</A> (February 2025; 'Marcel Duchamp plays cubist chess.'), I wrote, <BLOCKQUOTE> Cubism I understand -- at least I think I do -- Dadaism is a mystery. Let's go with what I understand. [...] Next on the agenda: dadaist. </BLOCKQUOTE> <P> First and foremost, what's Dadaism? In <A HREF=\"https://en.wikipedia.org/wiki/Dada\">Dada</A> (wikipedia.org), we learn, <BLOCKQUOTE> Dada or Dadaism was an anti-establishment art movement that developed in 1915 in the context of the Great War [aka WWI] and the earlier anti-art movement. Early centers for dadaism incl",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/what-is-dadaist-chess.html",
-         "pubDate" : "Mon, 24 Feb 2025 16:17:00",
-         "title" : "What Is Dadaist Chess?"
       }
    ]
 }
