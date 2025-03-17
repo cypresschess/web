@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/slaughter-s-and-simpson-s",
+         "pubDate" : "Mon, 17 Mar 2025 07:30:00",
+         "title" : "Slaughter's and Simpson's"
+      },
+      {
+         "description" : "Due to large number of registrations please find the batch schedule for your reference SNA Batch Schedule Sl NO DATE Batch no. Time 1 20-Mar-25",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/batch-schedule-for-arbiter-refresher-course-for-sna-2025/",
+         "pubDate" : "Mon, 17 Mar 2025 07:19:07",
+         "title" : "Batch Schedule for Arbiter refresher course for SNA 2025"
+      },
+      {
          "description" : "The second round of the European Individual Chess Championship 2025 saw interesting encounters and the top board clashes between the Grandmasters. We saw plenty of decisive games, but also a bigger number of draws comparing to the statistics of the first round. Playing on the podium reserved for the first three matches, GM Alexey Sarana (SRB, 2689) defeated GM Matej Sebenik (SLO, 2492) and proved the role of the favourite, GM Jorden Van Foreest (NED, 2676) won against IM Jakub []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
