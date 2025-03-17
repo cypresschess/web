@@ -602,7 +602,7 @@ news_feed (
          "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
       },
       {
-         "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Schedule Thursday 20th- 2 rounds 10:00am and 4:00pm Friday...",
+         "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
