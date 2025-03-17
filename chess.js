@@ -10,6 +10,14 @@ news_feed (
          "title" : "European Individual Chess Championship 2025 - Round 2 recap"
       },
       {
+         "description" : "After four more draws in the classical portion, all of the matches in The American Cup 2025 Open went to blitz playoffs. GMs Hikaru Nakamura, Fabiano Caruana,&#38;nbsp; Leinier Dominguez, and Levon Aronian have advanced to the Champions Semifinals. Th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-2",
+         "pubDate" : "Sun, 16 Mar 2025 18:59:00",
+         "title" : "Nakamura Shuts Down Near-Upset From Mishra"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-prague-chess-festival-round-8",
          "pubDate" : "Thu, 06 Mar 2025 12:51:00",
          "title" : "Giri, Wei Bounce Back With Wins"
-      },
-      {
-         "description" : "The second Freestyle Chess Grand Slam Tour event is scheduled to take place in Paris between April 7 and 14. As part of our announced partnership with Freestyle Chess, we offer a qualification path for each event to any of our members. The Qualifi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/registration-deadline-march-7-qualifiers-of-the-freestyle-chess-play-in-paris-this-weekend",
-         "pubDate" : "Thu, 06 Mar 2025 10:19:00",
-         "title" : "Registration Deadline March 7: Qualifiers Of The Freestyle Chess Play-In Paris This Weekend"
       },
       {
          "description" : "https://lichess.org/broadcast/-/EQ3VGnKl Indian Team Championship 2025 &#124; https://lichess.org/broadcast/-/1Fc9H2oW Indian Team Championship 2025 &#124;",
