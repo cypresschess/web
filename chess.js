@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three played rounds at the European Individual Chess Championship 2025 in Eforie Nord, Romania, only six players remained with the perfect 3/3 score and tie for the top. Today's round was opened with a moment of silence to pay tribute to the victims of the tragic fire in Kocani, North Macedonia. Before the start of the clocks, the Vice Ambassador of Austria in Romania Mr. Rudolf Schatz and Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu addressed []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/only-six-players-remain-perfect-at-the-european-individual-chess-championship-2025/",
+         "pubDate" : "Mon, 17 Mar 2025 20:47:18",
+         "title" : "Only six players remain perfect at the European Individual Chess Championship 2025"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2025-live",
          "pubDate" : "Mon, 17 Mar 2025 18:00:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "GM Anna Muzychuk scored the only win of round three of the 2025 Nicosia FIDE Women&#39;s Grand Prix, though a huge miss approaching move 40 meant she had to do it all over again before checkmating GM Nana Dzagnidze on move 86. GM Zhu Jiner continues t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-3",
+         "pubDate" : "Mon, 17 Mar 2025 15:09:00",
+         "title" : "Anna Muzychuk Beats Dzagnidze Twice To Climb To 2nd"
+      },
+      {
+         "description" : "The University of the Texas Rio Grande Valley (UTRGV) started the Collegiate Chess League (CCL) playoffs with a bang against the National Technical University of Athens (NTUA). Athens entered the playoffs with a better regular season record but UT...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-news-view-2025-collegiate-chess-league-spring-week-8",
+         "pubDate" : "Mon, 17 Mar 2025 14:47:29",
+         "title" : "Texas And Lviv Advance To The Semifinals: CCL Playoffs"
       },
       {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Aravindh Wins Prague Chess Masters, Now World Number-14"
       },
       {
-         "description" : "Freestyle Friday is still a relatively new event, with its seventh-ever rendition being held on March 7. In it, GM Arjun Erigaisi set two firsts: he became the first player to win any two Freestyle Fridays and the first player to win two in a row....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-march-7-2025",
-         "pubDate" : "Fri, 07 Mar 2025 10:56:48",
-         "title" : "Back-to-Back Wins For Arjun In Freestyle Tournament"
-      },
-      {
          "description" : "Open Category The top board encounter between GM Grebnev, Aleksey and GM Pranav ended in a peaceful draw in 40 moves.GM Pranav maintains with 8.5/10",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/mar/07/chess-returns-to-the-screen-on-monday-with-chess-masters-the-endgame",
          "pubDate" : "Fri, 07 Mar 2025 07:34:18",
          "title" : "Chess returns to the screen on Monday with Chess Masters: The Endgame"
-      },
-      {
-         "description" : "GM Fabiano Caruana won the Champions Showdown: The Kings in St. Louis convincingly after a strong final day when he beat GM Ray Robson twice. Caruana scored 6.5/9 and pocketed $51,625 for his three-day workweek. GM Wesley So, who won his blitz g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-champions-showdown-the-kings-2025",
-         "pubDate" : "Fri, 07 Mar 2025 05:06:29",
-         "title" : "Caruana Wins Champions Showdown: The Kings"
       },
       {
          "description" : "Be the First US Chess National Puzzle Champion! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is excited to announce the inaugural National Puzzle Championship! US Chess has partnered with ChessKid to bring scholastic players the first ever National Championship event for puzzle solving. The National Puzzle Championship will be held on-site at SuperNationals VIII in Orlando, Florida on Thursday May 8, 2025. The event will be co-organized by US Chess and ChessKid.com. Online registration will be open until 1 p.m. EDT on Thursday, May 8. You can register here for the main event and puzzle championship.The National Puzzle Championship will be separated into two ",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-finance-council-26-april-2025-call-for-motions/",
          "pubDate" : "Fri, 28 Feb 2025 11:58:15",
          "title" : "ECF FINANCE Council 26 April 2025 - call for motions"
-      },
-      {
-         "description" : "The third leg of the FIDE Women's Grand Prix 2024/2025 took place from 17-28 February in Monte-Carlo, Monaco. After intense nine rounds, three players finished the event tying for the top with the score of 5.5 points each: GM Aleksandra Goryachkina (FIDE, 2546), GM Humpy Koneru (IND, 2523) and IM Batkhuyag Munguntuul (MGL, 2331). Having the best tiebreaks (Sonneborn-Berger), Aleksandra Goryachkina emerged as the Winner of the event and leads on the FIDE Women's Grand Prix standings with 236.67 points. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/third-leg-of-fide-womens-grand-prix-2024-2025-concluded-in-monaco/",
-         "pubDate" : "Fri, 28 Feb 2025 09:33:26",
-         "title" : "Third leg of FIDE Women's Grand Prix 2024/2025 concluded in Monaco"
       },
       {
          "description" : " The over-65s have been world champions three times in four years, but the over-50s finished out of the medals as USA claimed another title England's over-65s and over-50s had contrasting experiences this week at the World Senior Team Championships in Prague. The over-65s, led by the individual world champion, John Nunn, and with a virtuoso 7/8 performance by Peter Large, led throughout and were unbeaten with 16/18 match points, seven wins and two draws. Two German teams, Lasker Germany and Saxonia, took silver and bronze. England over-50s also led for much of the way despite a round four loss to Italy, but faltered in the final round crunch matches against the USA, which they lost for the t",
