@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/",
+         "pubDate" : "Tue, 18 Mar 2025 22:52:12",
+         "title" : "Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna"
+      },
+      {
          "description" : "GM Daniil Yuffa (ESP, 2654) emerged as the sole leader of the European Individual Chess Championship 2025 after four played rounds, as the only player with the maximum score of 4/4 points. GM Daniil Yuffa (ESP, 2654) defeated GM Misratdin Iskandarov (AZE, 2524) with White pieces showing great technique in the endgame. Both players had a positional approach in the game and a very solid position started to look better for Whites just two moves before the time control. Being []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
       },
       {
-         "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/",
-         "pubDate" : "Tue, 18 Mar 2025 17:48:16",
-         "title" : "Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna"
-      },
-      {
          "description" : "Prepare for your next tournament with the new Opening Encyclopaedia 2025! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory in one product and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-your-easy-access-to-opening-theory",
          "pubDate" : "Tue, 18 Mar 2025 15:00:00",
          "title" : "The new Opening Encyclopaedia 2025 - Your easy access to opening theory"
+      },
+      {
+         "description" : "GM Anna Muzychuk&#39;s second win in a row, against IM Divya Deshmukh, saw her catch GM Zhu Jiner in the lead of the 2025 Nicosia FIDE Women&#39;s Grand Prix on 3/4. It was a day of four wins for White, among them GMs Aleksandra Goryachkina, Harika Dronav...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-4",
+         "pubDate" : "Tue, 18 Mar 2025 14:46:51",
+         "title" : "Anna Muzychuk Beats Divya To Catch Leader On Day Of 4 Wins"
       },
       {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/xviii-continental-chess-championships-2025-announced",
          "pubDate" : "Mon, 10 Mar 2025 00:00:00",
          "title" : "XVIII Continental Chess Championships 2025 Announced"
-      },
-      {
-         "description" : "17-year-old WFM Eman Sawan from Palestine has emerged as one of the brightest stars in a region with limited support and traditions for chess. Her story has ignited a wave of support from the chess community with over 70 donors backing her dream t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/eman-sawan-stars-chess-olympiad-wants-to-make-history",
-         "pubDate" : "Sun, 09 Mar 2025 11:24:00",
-         "title" : "Eman Sawan Starred At Chess Olympiad; Now She Wants To Make History"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118808190.cms\" />18-year-old Pranav Venkatesh clinched the World Junior Chess Championship with unique preparation methods, including playing cricket in hotel rooms with his coach, GM Shyam Sundar. Pranav balanced his rapid blitz skills with the patience needed for classical chess, leading to his triumph in Montenegro, a title once held by Viswanathan Anand.",
