@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Daniil Yuffa (ESP, 2654) emerged as the sole leader of the European Individual Chess Championship 2025 after four played rounds, as the only player with the maximum score of 4/4 points. GM Daniil Yuffa (ESP, 2654) defeated GM Misratdin Iskandarov (AZE, 2524) with White pieces showing great technique in the endgame. Both players had a positional approach in the game and a very solid position started to look better for Whites just two moves before the time control. Being []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/daniil-yuffa-takes-sole-lead-in-european-individual-chess-championship-2025/",
+         "pubDate" : "Tue, 18 Mar 2025 20:08:26",
+         "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
+      },
+      {
+         "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/",
+         "pubDate" : "Tue, 18 Mar 2025 17:48:16",
+         "title" : "Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna"
+      },
+      {
          "description" : "Prepare for your next tournament with the new Opening Encyclopaedia 2025! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory in one product and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,6 +186,14 @@ news_feed (
          "title" : "Nakamura Shuts Down Near-Upset From Mishra"
       },
       {
+         "description" : " William Alexander Scott III William Scott III was featured in the latest issue of Chess Life in a wonderful six-page tribute written by Mark Taylor. It is the most comprehensive account of his life. Previously, we had his obituary written by a relative. Here was an excerpt from that lengthy account. \"W.A.\" was studying Business The post <a href=\"https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/\">William Scott honored in March 2025 Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/",
+         "pubDate" : "Sun, 16 Mar 2025 15:23:32",
+         "title" : "William Scott honored in March 2025 Chess Life!"
+      },
+      {
          "description" : "GM Zhu Jiner has taken the sole lead in the 2025 Nicosia FIDE Women&#39;s Grand Prix on 2/2 after GM Elisabeth Paehtz made a fatal move in an endgame she seemed to be holding. Only IM Stavroula Tsolakidou is within half a point after surviving a trick...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -322,6 +346,14 @@ news_feed (
          "title" : "David Navara Opens Up About His Chess Career, Challenges, & Living With Asperger's"
       },
       {
+         "description" : " IM Chitumbo Mwali, 2025 Zambian ChampionBupe Gerald Chibomba The Copper Eagle Soars International Master Chitumbo Mwali won his fifth national championship last weekend in the nation's capital of Lusaka. It was his fourth consecutive title, putting him in elite company. However, the journey would not be easy, as he was able to edge&#160;Micheal Kaoma&#160;by 1/2 The post <a href=\"https://thechessdrum.net/blog/2025/03/14/chitumbo-mwali-wins-5th-zambian-chess-crown/\">Chitumbo Mwali wins 5th Zambian Chess Crown!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/14/chitumbo-mwali-wins-5th-zambian-chess-crown/",
+         "pubDate" : "Fri, 14 Mar 2025 04:23:43",
+         "title" : "Chitumbo Mwali wins 5th Zambian Chess Crown!"
+      },
+      {
          "description" : "It&#39;s GM Vidit Gujrathi vs. GM Amin Tabatabaei and GM Rauf Mamedov vs. GM Richard Rapport in Friday&#39;s Semifinals of the 2025 Paris Freestyle Chess Grand Slam Play-In after a brutal two rounds of knockout chess. 12 players were eliminated from the f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -440,6 +472,14 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-8-megan-paragua",
          "pubDate" : "Tue, 11 Mar 2025 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 8 (Megan Paragua)"
+      },
+      {
+         "description" : " The Eswatini Chess Federation was chartered in 2006 and joined FIDE in 2011. The federation has had regular activity, mostly on the school level, but they have also&#160;hosted successful open tournaments. The country of Eswatini has a long history, but the nation itself is young, having changed its name from Swaziland in 2018. In the The post <a href=\"https://thechessdrum.net/blog/2025/03/10/eswatini-chess-prepares-children-for-future/\">Eswatini chess prepares children for future</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/10/eswatini-chess-prepares-children-for-future/",
+         "pubDate" : "Mon, 10 Mar 2025 21:30:09",
+         "title" : "Eswatini chess prepares children for future"
       },
       {
          "description" : "On July 13, 2004, Bobby Fischer was detained in Japan with an invalid U.S. passport. That marked the beginning of a nine-month ordeal for him in Japanese custody. Among the supporters fighting for his release was former World Champion Boris Spassky, whom Fischer had dethroned thirty years earlier. Spassky, who passed last week, even wrote a personal letter of appeal to President George Bush, asking to be locked up in the same cell as Fischer. \"And give us a chess set,\" he said.",
@@ -608,6 +648,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
          "pubDate" : "Wed, 05 Mar 2025 11:16:24",
          "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
+      },
+      {
+         "description" : " The FAMU Chess Club held its first tournament as an official organization in more than 20 years. After a successful showing at the FAMU Club Fair on January 31st, the group held its interest meeting on February 21st. These events gave the FAMU Chess Club visibility, and so far, the group has attracted more than The post <a href=\"https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/\">FAMU Chess Club holds Interest Meeting, First Tournament!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/",
+         "pubDate" : "Wed, 05 Mar 2025 03:51:55",
+         "title" : "FAMU Chess Club holds Interest Meeting, First Tournament!"
       },
       {
          "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
@@ -784,14 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/28/boris-spassky-obituary",
          "pubDate" : "Fri, 28 Feb 2025 13:54:33",
          "title" : "Boris Spassky obituary"
-      },
-      {
-         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of&#160;European Chess Championships in 2026 and 2027. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form what they relate to. Any document that reaches the ECU office after the official deadline will not be taken into consideration. The deadline []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2026-2027/",
-         "pubDate" : "Fri, 28 Feb 2025 13:44:59",
-         "title" : "INVITATION FOR BIDS: European Chess Championships 2026-2027"
       },
       {
          "description" : "The 2025 Finance Council Meeting will be held on Saturday 26th April 2025 by video-conference (Zoom) starting at 1.30pm. &#160;At the time of this notice the meeting will mainly cover...",
