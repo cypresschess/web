@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The living chess legend from Argentina, Oscar Panno, celebrated his 90th birthday on Monday. The Argentine ranks sixth on the list of the oldest living chess grandmasters. His international career began in 1953 when he won the U20 World Championship. A number of remarkable achievements followed in what turned out to be a memorable chess career.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oscar-panno-turns-90",
+         "pubDate" : "Tue, 18 Mar 2025 06:45:00",
+         "title" : "Oscar Panno turns 90!"
+      },
+      {
          "description" : "The third round of the FIDE Women's Grand Prix in Cyprus featured hard-fought games, with high accuracy scores across the board. Anna Muzychuk secured the only decisive result, defeating Nana Dzagnidze in a queen endgame that lasted 83 moves - the longest game of the tournament so far. The remaining matches ended in well-contested draws, reflecting the competitive nature of the event. Zhu Jiner maintained her tournament lead with 2&frac12;/3 points to her name. | Photos: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
