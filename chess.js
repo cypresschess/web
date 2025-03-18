@@ -50,6 +50,22 @@ news_feed (
          "title" : "Nicosia GP: Zhu Jiner sole leader, Anna Muzychuk scores first win"
       },
       {
+         "description" : "Team rooms for SuperNationals VIII will open for reservation on Monday, March 24, 2025. We will leave the registration system open for one week and will close it at 5:00pm EDT on Monday, March 31, 2025. Reservations can be made after that time, but are not guaranteed for room consideration. The direct link to reserve a room is here.A list of available team rooms may be found here. Maps of the convention center may be found at this link. More information about the tournament, including the playing areas that will be used, may be found at the tournament website.Please note the new team room Policies and Procedures. A signed copy of this form must be returned to Click here to show email address",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/team-rooms-supernationals-viii-reservation-window-opens-soon",
+         "pubDate" : "Tue, 18 Mar 2025 00:00:00",
+         "title" : "Team Rooms for SuperNationals VIII: Reservation Window Opens Soon!"
+      },
+      {
+         "description" : "US Chess is seeking volunteers to assist at SuperNationals VIII from May 8-11 in Orlando, Florida. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus! Please check out our FAQs for additional information on our volunteer program. Volunteering is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes insights into what comprises our nationa",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/volunteers-wanted-supernationals-viii",
+         "pubDate" : "Tue, 18 Mar 2025 00:00:00",
+         "title" : "Volunteers Wanted for SuperNationals VIII"
+      },
+      {
          "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles feature FIDE World Rapid &amp; Blitz games from Saint Louis Chess Club regulars GMs Leinier Dominguez, Wesley So, and Sam Shankland. These three annual participants in the U.S. Championship all had some nice moments in New York, particularly So, who made it to the semifinals of the Blitz knockout portio",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-american-cup-day-3",
          "pubDate" : "Mon, 17 Mar 2025 18:35:00",
          "title" : "Lee, Abrahamyan Take Leads Vs. Krush, Yip; Draws In Open Champions Bracket"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
-         "pubDate" : "Mon, 17 Mar 2025 18:00:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "The BBC&#38;rsquo;s latest reality TV competition, Chess Masters: The Endgame, made its highly anticipated debut on March 10, marking a rare return of chess to prime-time television. However, the eight-episode series has provoked mixed responses from ...",
@@ -490,14 +498,6 @@ news_feed (
          "title" : "XVIII Continental Chess Championships 2025 Announced"
       },
       {
-         "description" : "Editor's note: This story first appeared in the March 2025 issue of Chess Life magazine, and is re-published here along with this collection of William A. Scott, III's games (including 47 additional games).Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download a PDF of the print version of this story here.When William A. Scott III arrived in Durham, North Carolina, to play in the 1950 Southern Chess Association (SCA) Championship, the man who ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-remembering-william-alexander-scott-iii",
-         "pubDate" : "Mon, 10 Mar 2025 00:00:00",
-         "title" : "Inside Story: Remembering William Alexander Scott III"
-      },
-      {
          "description" : "17-year-old WFM Eman Sawan from Palestine has emerged as one of the brightest stars in a region with limited support and traditions for chess. Her story has ignited a wave of support from the chess community with over 70 donors backing her dream t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -568,14 +568,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/mar/07/chess-returns-to-the-screen-on-monday-with-chess-masters-the-endgame",
          "pubDate" : "Fri, 07 Mar 2025 07:34:18",
          "title" : "Chess returns to the screen on Monday with Chess Masters: The Endgame"
-      },
-      {
-         "description" : "Be the First US Chess National Puzzle Champion! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is excited to announce the inaugural National Puzzle Championship! US Chess has partnered with ChessKid to bring scholastic players the first ever National Championship event for puzzle solving. The National Puzzle Championship will be held on-site at SuperNationals VIII in Orlando, Florida on Thursday May 8, 2025. The event will be co-organized by US Chess and ChessKid.com. Online registration will be open until 1 p.m. EDT on Thursday, May 8. You can register here for the main event and puzzle championship.The National Puzzle Championship will be separated into two ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-announces-first-national-puzzle-championship-partnership-chesskid",
-         "pubDate" : "Fri, 07 Mar 2025 00:00:00",
-         "title" : "US Chess Announces First National Puzzle Championship in Partnership with ChessKid"
       },
       {
          "description" : " The Champions Showdown The Kings was a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. The players earned so much money per game depending on the result. Fabiano Caruana won the most with \t$51,625. ",
