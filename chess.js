@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana Demchenko introduces her new ChessBase training course, focusing on one of her favourite openings, the King's Indian Attack (KIA). She explains its universal nature, emphasizing that players only need to learn a basic setup (1.Nf3, 2.g3, 3.Bg2, 4.O-O, 5.d3), making it ideal for both creative and lazy players. She showcases how the KIA can be reached via e4 against various defences, including the French, Sicilian and Caro-Kann, offering flexibility in transpositions. A model game by Tigran Petrosian is analysed, demonstrating the strategic manoeuvring and attacking potential of the opening, particularly the h4-h5 push to weaken Black's kingside.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-king-s-indian-attack-course-is-out",
+         "pubDate" : "Tue, 18 Mar 2025 11:00:00",
+         "title" : "Svitlana's Smart Moves - The King's Indian Attack course is out!"
+      },
+      {
          "description" : "The living chess legend from Argentina, Oscar Panno, celebrated his 90th birthday on Monday. The Argentine ranks sixth on the list of the oldest living chess grandmasters. His international career began in 1953 when he won the U20 World Championship. A number of remarkable achievements followed in what turned out to be a memorable chess career.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bbc-chess-masters-good-news-for-chess-reactions",
-         "pubDate" : "Mon, 17 Mar 2025 16:33:04",
+         "pubDate" : "Mon, 17 Mar 2025 16:33:00",
          "title" : "'Good News For Chess' As BBC's 'Chess Masters' Sparks Mixed Reactions Following Premiere"
       },
       {
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-senior-teams-chess-championships-2025/",
          "pubDate" : "Thu, 27 Feb 2025 08:00:20",
          "title" : "England Over 65s retain World Senior Team Chess Championship title!"
-      },
-      {
-         "description" : "My new book, Never Mind the Grandmasters, Here Come the Amateurs, will be published on 24th March. Pre-orders are being taken as only around 200 copies will be printed.&#160;The web...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/never-mind-the-grandmasters-here-come-the-amateurs-carl-portman/",
-         "pubDate" : "Tue, 25 Feb 2025 10:10:11",
-         "title" : "Never Mind the Grandmasters, Here Come the Amateurs - Carl Portman"
       }
    ]
 }
