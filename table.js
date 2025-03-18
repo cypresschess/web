@@ -1,8 +1,10 @@
 jtable([
+"HOUSTON","2025-03-14  - 03-16","230","<a href=http://www.uschess.org/msa/XtblMain.php?202503162132 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2025-03-15","92","<a href=http://www.uschess.org/msa/XtblMain.php?202503151152 target='_blank'>2025 LONE STAR SCHOLASTIC</a>",
 "HOUSTON","2025-03-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503150532 target='_blank'>MAR 15TH SATURDAY SWISS</a>",
 "SPRING","2025-03-14","16","<a href=http://www.uschess.org/msa/XtblMain.php?202503149922 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-03-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503149792 target='_blank'>FBCC 2025 NATIONAL PI DAY OPEN</a>",
+"CYPRESS","2025-03-14","23","<a href=http://www.uschess.org/msa/XtblMain.php?202503140632 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-03-09","44","<a href=http://www.uschess.org/msa/XtblMain.php?202503099582 target='_blank'>SRI MEENAKSHI TEMPLE 03-09-2025</a>",
 "HOUSTON","2025-03-07  - 03-09","58","<a href=http://www.uschess.org/msa/XtblMain.php?202503097372 target='_blank'>$2,500 MARCH  CHAMPIONSHIP</a>",
 "LEAGUE CITY","2025-03-08","150","<a href=http://www.uschess.org/msa/XtblMain.php?202503087152 target='_blank'>GOFORTH ELEMENTARY SCHOOL TOURNAMEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2024-08-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202408027232 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-08-02","32","<a href=http://www.uschess.org/msa/XtblMain.php?202408027152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-07-02  - 07-30","23","<a href=http://www.uschess.org/msa/XtblMain.php?202407305472 target='_blank'>JULY 2024 TUESDAY NIGHT SWISS</a>",
-"KINGWOOD","2024-07-27","7","<a href=http://www.uschess.org/msa/XtblMain.php?202407274742 target='_blank'>KINGWOOD BLITZ JULY 2024</a>",
-"HOUSTON","2024-07-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202407272432 target='_blank'>CHESSPANDA07272024SATURDAY</a>",
 ]);
