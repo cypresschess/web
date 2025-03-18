@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Prepare for your next tournament with the new Opening Encyclopaedia 2025! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory in one product and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-your-easy-access-to-opening-theory",
+         "pubDate" : "Tue, 18 Mar 2025 15:00:00",
+         "title" : "The new Opening Encyclopaedia 2025 - Your easy access to opening theory"
+      },
+      {
+         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
+         "pubDate" : "Tue, 18 Mar 2025 13:55:00",
+         "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
          "description" : "Svitlana Demchenko introduces her new ChessBase training course, focusing on one of her favourite openings, the King's Indian Attack (KIA). She explains its universal nature, emphasizing that players only need to learn a basic setup (1.Nf3, 2.g3, 3.Bg2, 4.O-O, 5.d3), making it ideal for both creative and lazy players. She showcases how the KIA can be reached via e4 against various defences, including the French, Sicilian and Caro-Kann, offering flexibility in transpositions. A model game by Tigran Petrosian is analysed, demonstrating the strategic manoeuvring and attacking potential of the opening, particularly the h4-h5 push to weaken Black's kingside.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-king-s-indian-attack-course-is-out",
          "pubDate" : "Tue, 18 Mar 2025 11:00:00",
          "title" : "Svitlana's Smart Moves - The King's Indian Attack course is out!"
+      },
+      {
+         "description" : "We&#39;re excited to announce the next installment of State of Chess, our live show where we share all the exciting things that we&#39;ve been working on and what&#39;s coming next. It&#39;s also the place where you can ask questions directly to us, so we can ans...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/state-of-chess-march-20-2025",
+         "pubDate" : "Tue, 18 Mar 2025 08:00:00",
+         "title" : "Announcing State Of Chess On March 20: Product, Proctor, Courses, And More"
       },
       {
          "description" : "The living chess legend from Argentina, Oscar Panno, celebrated his 90th birthday on Monday. The Argentine ranks sixth on the list of the oldest living chess grandmasters. His international career began in 1953 when he won the U20 World Championship. A number of remarkable achievements followed in what turned out to be a memorable chess career.",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-3",
          "pubDate" : "Tue, 18 Mar 2025 01:35:00",
          "title" : "Nicosia GP: Zhu Jiner sole leader, Anna Muzychuk scores first win"
+      },
+      {
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles feature FIDE World Rapid &amp; Blitz games from Saint Louis Chess Club regulars GMs Leinier Dominguez, Wesley So, and Sam Shankland. These three annual participants in the U.S. Championship all had some nice moments in New York, particularly So, who made it to the semifinals of the Blitz knockout portio",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-9-shankland-dominguez-and-so",
+         "pubDate" : "Tue, 18 Mar 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 9 (Shankland, Dominguez, and So)"
       },
       {
          "description" : "After three played rounds at the European Individual Chess Championship 2025 in Eforie Nord, Romania, only six players remained with the perfect 3/3 score and tie for the top. Today's round was opened with a moment of silence to pay tribute to the victims of the tragic fire in Kocani, North Macedonia. Before the start of the clocks, the Vice Ambassador of Austria in Romania Mr. Rudolf Schatz and Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu addressed []",
@@ -482,14 +514,6 @@ news_feed (
          "title" : "From hotel room cricket to world junior champion: Pranav's story"
       },
       {
-         "description" : "After posting a 29-game streak in Saturday&#39;s event, GM Andrew Tang joined GM Hikaru Nakamura and Daniel Naroditsky as one of three players to win three Bullet Brawls in 2025. Tang scored 70 wins, one draw, and eight losses and scored 258 points&#38;md...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-8-2025",
-         "pubDate" : "Sat, 08 Mar 2025 16:16:00",
-         "title" : "Tang Posts 29-Game Streak, Wins 7th Bullet Brawl"
-      },
-      {
          "description" : "Today, hosted by London's Royal Automobile Club, the world's longest established chess fixture will continue into its third century. Cambridge University now leads by the narrowest of margins (60 wins to 59) against Oxford, and if the latter triumph in today's annual clash, then the scores will be equalised. In this column I preview the contest, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-announces-first-national-puzzle-championship-partnership-chesskid",
          "pubDate" : "Fri, 07 Mar 2025 00:00:00",
          "title" : "US Chess Announces First National Puzzle Championship in Partnership with ChessKid"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Lennart Ootes/SLCC<br> <br> <br> <br> GM Fabiano Caruana was the top earner at the Champions Showdown: The Kings presented by the Saint Louis Chess Club (SLCC). As explained in a previous article, the experimental event served as a sort of appetizer to the American Cup, beginning March 15.Six of the eight Open participants in the Cup competed in the mixed-format Showdown, with the $250,000 prize fund distributed based on players' results in blitz, rapid, and \"semi-classical\" games. 🎉🏆 Huge congratulations to the one and only Grandmaster Fabiano Caruana on winning the Champions Show",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/caruana-cleans-champions-showdown",
-         "pubDate" : "Fri, 07 Mar 2025 00:00:00",
-         "title" : "Caruana Cleans up at Champions Showdown"
       },
       {
          "description" : " The Champions Showdown The Kings was a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. The players earned so much money per game depending on the result. Fabiano Caruana won the most with \t$51,625. ",
