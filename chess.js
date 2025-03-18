@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of the FIDE Women's Grand Prix in Cyprus featured hard-fought games, with high accuracy scores across the board. Anna Muzychuk secured the only decisive result, defeating Nana Dzagnidze in a queen endgame that lasted 83 moves - the longest game of the tournament so far. The remaining matches ended in well-contested draws, reflecting the competitive nature of the event. Zhu Jiner maintained her tournament lead with 2&frac12;/3 points to her name. | Photos: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-3",
+         "pubDate" : "Tue, 18 Mar 2025 01:35:00",
+         "title" : "Nicosia GP: Zhu Jiner sole leader, Anna Muzychuk scores first win"
+      },
+      {
          "description" : "After three played rounds at the European Individual Chess Championship 2025 in Eforie Nord, Romania, only six players remained with the perfect 3/3 score and tie for the top. Today's round was opened with a moment of silence to pay tribute to the victims of the tragic fire in Kocani, North Macedonia. Before the start of the clocks, the Vice Ambassador of Austria in Romania Mr. Rudolf Schatz and Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu addressed []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Only six players remain perfect at the European Individual Chess Championship 2025"
       },
       {
+         "description" : "After two draws in the Open Champions Semifinals of the The American Cup 2025, no one was able to break ahead. There was more action in the Open Elimination Round 1, where GM Sam Sevian eliminated GM Ray Robson in blitz tiebreaks 3-1 and GM Wesley...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-3",
+         "pubDate" : "Mon, 17 Mar 2025 18:35:00",
+         "title" : "Lee, Abrahamyan Take Leads Vs. Krush, Yip; Draws In Open Champions Bracket"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2025-live",
          "pubDate" : "Mon, 17 Mar 2025 18:00:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "The BBC&#38;rsquo;s latest reality TV competition, Chess Masters: The Endgame, made its highly anticipated debut on March 10, marking a rare return of chess to prime-time television. However, the eight-episode series has provoked mixed responses from ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bbc-chess-masters-good-news-for-chess-reactions",
+         "pubDate" : "Mon, 17 Mar 2025 16:33:04",
+         "title" : "'Good News For Chess' As BBC's 'Chess Masters' Sparks Mixed Reactions Following Premiere"
       },
       {
          "description" : "GM Anna Muzychuk scored the only win of round three of the 2025 Nicosia FIDE Women&#39;s Grand Prix, though a huge miss approaching move 40 meant she had to do it all over again before checkmating GM Nana Dzagnidze on move 86. GM Zhu Jiner continues t...",
@@ -34,15 +58,7 @@ news_feed (
          "title" : "Texas And Lviv Advance To The Semifinals: CCL Playoffs"
       },
       {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Mon, 17 Mar 2025 13:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
-      },
-      {
-         "description" : "We&#39;re excited to announce the fourth installment of this year&#39;s Chess.com Community Championships! The Chess.com Atomic Chess Championship takes place March 27 and 28 and features a $2,500 prize fund. Atomic Chess is not for the faint of heart. ...",
+         "description" : "We&#39;re excited to announce the third installment of this year&#39;s Chess.com Community Championships! The Chess.com Atomic Chess Championship takes place March 27 and 28 and features a $2,500 prize fund. Atomic Chess is not for the faint of heart. I...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-atomic-chess-championship-2025",
@@ -496,22 +512,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-clinches-prague-chess-masters-2025-title/articleshow/118790468.cms",
          "pubDate" : "Fri, 07 Mar 2025 15:37:47",
          "title" : "Aravindh Chithambaram clinches Prague Chess Masters 2025 title"
-      },
-      {
-         "description" : "18-year-old Indian GM Pranav Venkatesh dominated the FIDE World Junior Championship 2025 to be crowned champion ahead of 11 other grandmasters on Friday. 16-year-old WIM Anna Shukhman took the Girls title a full point clear of the field. The Wor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-shukhman-win-2025-fide-world-junior-chess-championships",
-         "pubDate" : "Fri, 07 Mar 2025 13:18:00",
-         "title" : "Pranav Dominates World Junior Championship, Shukhman Takes Girls Title"
-      },
-      {
-         "description" : "GM Aravindh Chithambaram won the 2025 Prague Chess Festival Masters with a draw in the last round against GM Ediz Gurel. Having previously won the 2024 Chennai Grand Masters, the 25-year-old &#34;late bloomer&#34; has won the only two super-tournaments he...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aravindh-wins-2025-prague-chess-festival",
-         "pubDate" : "Fri, 07 Mar 2025 11:03:00",
-         "title" : "Aravindh Wins Prague Chess Masters, Now World Number-14"
       },
       {
          "description" : "Open Category The top board encounter between GM Grebnev, Aleksey and GM Pranav ended in a peaceful draw in 40 moves.GM Pranav maintains with 8.5/10",
