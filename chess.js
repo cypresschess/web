@@ -18,6 +18,14 @@ news_feed (
          "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
       },
       {
+         "description" : "American numbers one and two, GMs Hikaru Nakamura and Fabiano Caruana, will clash in the Open Champions Final of The American Cup 2025. Nakamura advanced after scoring a classical win with Black against GM Leinier Dominguez, while it took Caruana ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-4",
+         "pubDate" : "Tue, 18 Mar 2025 18:27:00",
+         "title" : "Nakamura, Caruana Advance To Champions Open Final"
+      },
+      {
          "description" : "Prepare for your next tournament with the new Opening Encyclopaedia 2025! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory in one product and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
          "pubDate" : "Mon, 10 Mar 2025 06:17:20",
          "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen scored 3/3 for Offerspill on the final weekend of the Norwegian Team Chess Championship. His wins over GM Simen Agdestein and IMs Kristian Stuvik Holm and Alparslan Isik saw him gain 4.1 rating points to climb to 28...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-norwegian-league-climbs-2837-rating",
-         "pubDate" : "Mon, 10 Mar 2025 05:51:00",
-         "title" : "Carlsen Scores 3/3 In Norwegian Team Championship, Climbs To 2837"
       },
       {
          "description" : "The XVIII Continental Chess Championship of the Americas 2025 will be held May 23 - May 31, 2025 at the Hotel Golden Park International Foz &amp; Conventions in Foz do Iguaçu, Paran&aacute;, Brazil. The event, organized by the Chess Confederation of the Americas and the Brazilian Chess Federation is open to all American continent chess federation players.This is an 11-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The top four finishers will qualify to participate in the FIDE World Cup and the prize fund is $20,000 with the top 10 finishers + various class prizes receiving a prize. Click here to download a PDF of the full tournamen",
