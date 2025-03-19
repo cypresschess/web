@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
+         "pubDate" : "Wed, 19 Mar 2025 13:55:00",
+         "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -16,6 +24,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-rejected-handshake-furor",
          "pubDate" : "Wed, 19 Mar 2025 08:30:00",
          "title" : "The Rejected Handshake Furor"
+      },
+      {
+         "description" : "We&#39;re excited to announce that Chess.com is now hosting the vast majority of games on our platform on the Realtime Chess Network, the only globally distributed chess server, which we&#39;ve been developing over the last four years. This means many pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-gameplay-now-faster-with-servers-across-world",
+         "pubDate" : "Wed, 19 Mar 2025 07:00:00",
+         "title" : "Chess.com's Realtime Chess Network Now Hosting 94% Of Games, Delivering Faster Speeds Worldwide"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles feature FIDE World Rapid &amp; Blitz games from Saint Louis Chess Club regulars GMs Leinier Dominguez, Wesley So, and Sam Shankland. These three annual participants in the U.S. Championship all had some nice moments in New York, particularly So, who made it to the semifinals of the Blitz knockout portion. <br> <br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-9",
+         "pubDate" : "Wed, 19 Mar 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 9"
+      },
+      {
+         "description" : "Editor's note: Today, we continue our reporting on the American Cup with more annotated games and highlights from GM Luka Budisavljevic. Come back on Friday for a recap of the fifth and sixth day of play.Plus: follow the fifth day of action live beginning at 12 CDT courtesy of SLCC on Twitch and YouTube, featuring commentary from GMs Yasser Seirawan and Christian Chirila along with IM Eric Rosen and WGM Katerina Nemcova.It wouldn't be a final four without at least one upset. The Champions Bracket finals are set in both sections of this year's American Cup, with play beginning at 12:00 CDT today, and while three of the top overall seeds have made it, there is one surprise in the Women's secti",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/champions-bracket-finals-set-american-cup",
+         "pubDate" : "Wed, 19 Mar 2025 00:00:00",
+         "title" : "Champions Bracket Finals Set in American Cup"
       },
       {
          "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -34,6 +66,14 @@ news_feed (
          "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
       },
       {
+         "description" : "Prepare for your next tournament with the new Opening Encyclopaedia 2025! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory in one product and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-your-easy-access-to-opening-theory",
+         "pubDate" : "Tue, 18 Mar 2025 20:00:00",
+         "title" : "The new Opening Encyclopaedia 2025 - Your easy access to opening theory"
+      },
+      {
          "description" : "American numbers one and two, GMs Hikaru Nakamura and Fabiano Caruana, will clash in the Open Champions Final of The American Cup 2025. Nakamura advanced after scoring a classical win with Black against GM Leinier Dominguez, while it took Caruana ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,28 +82,12 @@ news_feed (
          "title" : "Nakamura, Caruana Advance To Champions Open Final"
       },
       {
-         "description" : "Prepare for your next tournament with the new Opening Encyclopaedia 2025! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory in one product and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-your-easy-access-to-opening-theory",
-         "pubDate" : "Tue, 18 Mar 2025 15:00:00",
-         "title" : "The new Opening Encyclopaedia 2025 - Your easy access to opening theory"
-      },
-      {
          "description" : "GM Anna Muzychuk&#39;s second win in a row, against IM Divya Deshmukh, saw her catch GM Zhu Jiner in the lead of the 2025 Nicosia FIDE Women&#39;s Grand Prix on 3/4. It was a day of four wins for White, among them GMs Aleksandra Goryachkina, Harika Dronav...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-4",
-         "pubDate" : "Tue, 18 Mar 2025 14:46:51",
+         "pubDate" : "Tue, 18 Mar 2025 14:46:00",
          "title" : "Anna Muzychuk Beats Divya To Catch Leader On Day Of 4 Wins"
-      },
-      {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Tue, 18 Mar 2025 13:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
       },
       {
          "description" : "Svitlana Demchenko introduces her new ChessBase training course, focusing on one of her favourite openings, the King's Indian Attack (KIA). She explains its universal nature, emphasizing that players only need to learn a basic setup (1.Nf3, 2.g3, 3.Bg2, 4.O-O, 5.d3), making it ideal for both creative and lazy players. She showcases how the KIA can be reached via e4 against various defences, including the French, Sicilian and Caro-Kann, offering flexibility in transpositions. A model game by Tigran Petrosian is analysed, demonstrating the strategic manoeuvring and attacking potential of the opening, particularly the h4-h5 push to weaken Black's kingside.",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "2025 Annual Samford Fellowships Announced"
       },
       {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Lennart Ootes/FIDE<br> <br> <br> <br> This week's puzzles come from the games of 13-year-old WFM Megan Althea Paragua. The New York native won two gold medals in the FIDE Cadet World Rapid &amp; Blitz last year, and h",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-8-megan-paragua",
-         "pubDate" : "Tue, 11 Mar 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 8 (Megan Paragua)"
-      },
-      {
          "description" : " The Eswatini Chess Federation was chartered in 2006 and joined FIDE in 2011. The federation has had regular activity, mostly on the school level, but they have also&#160;hosted successful open tournaments. The country of Eswatini has a long history, but the nation itself is young, having changed its name from Swaziland in 2018. In the The post <a href=\"https://thechessdrum.net/blog/2025/03/10/eswatini-chess-prepares-children-for-future/\">Eswatini chess prepares children for future</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Rio Grand Valley Edges Lviv State University In Tense Match: CCL Week 7"
       },
       {
-         "description" : "GM Daniil Dubov won an 18-game blitz match against GM Hans Niemann with a final score of 9.5-8.5. As the prize, Niemann had agreed to answer one question with a polygraph test. The match, which took place March 7-8 in Moscow, Russia was a follow-u...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-wins-match-vs-niemann-lie-detector",
-         "pubDate" : "Mon, 10 Mar 2025 12:13:51",
-         "title" : "Dubov Wins Match Vs. Niemann With Outstanding 64.g4!? Breakthrough"
-      },
-      {
          "description" : "SENSEROBOT BECOMES THE OFFICIAL AI PROVIDER OF EUROPEAN CHESS UNION The European Chess Union (ECU), the governing body for chess across Europe with 54 member federations, is proud to announce a landmark partnership with SenseRobot based in Hong Kong (www.senserobotchess.com), a leading innovator in AI technology solutions. This strategic collaboration marks a significant step forward in ECU's commitment to advancing chess education and technology across Europe. As part of this comprehensive partnership, each ECU member federation will receive a complimentary []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
          "pubDate" : "Mon, 10 Mar 2025 06:17:20",
          "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
-      },
-      {
-         "description" : "The XVIII Continental Chess Championship of the Americas 2025 will be held May 23 - May 31, 2025 at the Hotel Golden Park International Foz &amp; Conventions in Foz do Iguaçu, Paran&aacute;, Brazil. The event, organized by the Chess Confederation of the Americas and the Brazilian Chess Federation is open to all American continent chess federation players.This is an 11-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The top four finishers will qualify to participate in the FIDE World Cup and the prize fund is $20,000 with the top 10 finishers + various class prizes receiving a prize. Click here to download a PDF of the full tournamen",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/xviii-continental-chess-championships-2025-announced",
-         "pubDate" : "Mon, 10 Mar 2025 00:00:00",
-         "title" : "XVIII Continental Chess Championships 2025 Announced"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118808190.cms\" />18-year-old Pranav Venkatesh clinched the World Junior Chess Championship with unique preparation methods, including playing cricket in hotel rooms with his coach, GM Shyam Sundar. Pranav balanced his rapid blitz skills with the patience needed for classical chess, leading to his triumph in Montenegro, a title once held by Viswanathan Anand.",
