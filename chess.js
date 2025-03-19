@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After five played rounds, GM Daniil Yuffa remained the only player with the perfect score of 5/5 points, keeping the sole lead in the tournament. GM Daniil Yuffa (ESP, 2654) had luck on his side today and defeated GM Jorden Van Foreest (NED, 2676) after a thrilling game with lots of turnovers. Van Foreest had a clearly better position after the opening, but both players had a couple of mistakes and the positional occasionally looked equal. After Yuffa's 24Rab8?, Jorden []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/daniil-yuffa-remains-perfect-at-the-european-individual-chess-championship-2025/",
+         "pubDate" : "Wed, 19 Mar 2025 20:03:00",
+         "title" : "Daniil Yuffa remains perfect at the European Individual Chess Championship 2025"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2025-live",
          "pubDate" : "Wed, 19 Mar 2025 18:00:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "GM Anna Muzychuk is the sole leader of the 2025 Nicosia FIDE Women&#39;s Grand Prix on the rest day after a time-trouble blunder by IM Stavroula Tsolakidou led to a third win in a row. GM Elisabeth Paehtz grabbed the day&#39;s only other win after GM Hari...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-5",
+         "pubDate" : "Wed, 19 Mar 2025 15:06:58",
+         "title" : "Anna Muzychuk Snatches Sole Lead; Move 6 Blunder Dooms Harika"
       },
       {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "ECU E-Magazine February 2025"
       },
       {
-         "description" : "Don&#39;t adjust your calendars: GMs Magnus Carlsen and Parham Maghsoodloo won Titled Tuesday on February 11, and they&#39;ve done it again on March 11. Neither player was quite as dominant as they were a month ago, both scoring 9.5 points this week. Carl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-maghsoodloo-win-titled-tuesday-march-11-2025",
-         "pubDate" : "Wed, 12 Mar 2025 08:05:35",
-         "title" : "(Not) Deja Vu As Carlsen, Maghsoodloo Win Titled Tuesday"
-      },
-      {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles all come from an instructive blitz endgame between former Women's World Champion GM Mariya Muzychuk and WGM Thalia Cervantes. This entire endgame was played on the increment, with only two seconds added back to the clock each move. Take your time, though, and test your theoretical knowledge! <br> <br> <br> <br> Im",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2025-report/",
          "pubDate" : "Mon, 03 Mar 2025 11:41:34",
          "title" : "British Rapidplay Championship 2025 - report"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2025 will be organised in Brezice, Slovenia, from 4th July (arrival day) to 12th July 2025 (departure day). The event will include four (4) separate competitions, an open competition and a girl's competition in both age categories U12 and U18. The playing members of the teams shall not have reached the age of 12 or 18, depending on category, by 1st January 2025: Each national federation member of the European Chess Union (ECU) has []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2025-official-regulations/",
-         "pubDate" : "Mon, 03 Mar 2025 10:16:12",
-         "title" : "European Youth Team Chess Championship 2025 - Official regulations"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118677299.cms\" />Indian players R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters chess tournament with 3.5 points each after five rounds. This round witnessed Wei Yi's victory over Sam Shankland. Both Praggnanandhaa and Aravindh have maintained their positions, while Wei Yi, Anish Giri, Quang Lei, and Vincent Keymer follow closely behind with 2.5 points.",
