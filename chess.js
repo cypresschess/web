@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
+         "pubDate" : "Wed, 19 Mar 2025 18:00:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
          "pubDate" : "Wed, 19 Mar 2025 13:55:00",
          "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
+         "description" : "The North American Corporate Chess League (NACCL) is coming to Chess.com this spring. The NACCL is the largest corporate chess competition in the world and includes some of the world&#39;s best-known companies as well as small businesses! What Is ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-north-american-corporate-chess-league-is-coming-to-chess-com",
+         "pubDate" : "Wed, 19 Mar 2025 10:21:30",
+         "title" : "The North American Corporate Chess League Is Coming To Chess.com"
+      },
+      {
+         "description" : "GM Mamikon Gharibyan and GM Denis Lazavik are your winners for the March 18 Titled Tuesday tournaments, both winning outright by half a point. Lazavik came that same half-point from sweeping the day, finishing second in the early tournament and th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gharibyan-lazavik-win-titled-tuesday-march-18-2025",
+         "pubDate" : "Wed, 19 Mar 2025 09:13:00",
+         "title" : "Carlsen Upset In Final Round Of Titled Tuesday"
       },
       {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Team Championships"
       },
       {
-         "description" : "How can chess evolve to reach an even wider audience? What lessons can it take from other sports? These were just some of the questions tackled at the MIT Sloan Sports Analytics Conference last weekend.&#38;nbsp; The annual conference, which took pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mit-sloan-sports-analytics-conference-recap-2025",
-         "pubDate" : "Tue, 11 Mar 2025 12:23:00",
-         "title" : "More Randomness In Chess? MIT Sloan Panel Explores The Future Of The Game"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-spassky-fought-for-fischer",
          "pubDate" : "Mon, 10 Mar 2025 19:00:00",
          "title" : "How Spassky fought for Fischer"
-      },
-      {
-         "description" : "In week seven of the Collegiate Chess League Spring 2025 (CCL), two strong teams fought for a shot at the league playoffs. The University of the Texas Rio Grande Valley (TRGV) narrowly held off Lviv State University of Physical Culture by a score ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-week-7",
-         "pubDate" : "Mon, 10 Mar 2025 12:58:00",
-         "title" : "Rio Grand Valley Edges Lviv State University In Tense Match: CCL Week 7"
       },
       {
          "description" : "SENSEROBOT BECOMES THE OFFICIAL AI PROVIDER OF EUROPEAN CHESS UNION The European Chess Union (ECU), the governing body for chess across Europe with 54 member federations, is proud to announce a landmark partnership with SenseRobot based in Hong Kong (www.senserobotchess.com), a leading innovator in AI technology solutions. This strategic collaboration marks a significant step forward in ECU's commitment to advancing chess education and technology across Europe. As part of this comprehensive partnership, each ECU member federation will receive a complimentary []",
