@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
+         "pubDate" : "Wed, 19 Mar 2025 09:00:34",
+         "title" : "The 10th Menchik Memorial - starts tomorrow!"
+      },
+      {
+         "description" : "At the January Tata Steel Challengers tournament in Wijk aan Zee in the Netherlands, at the start of their 4th round game, Uzbek GM Nodirbek Yakubboev refused to shake the extended hand of his opponent, Indian GM Vaishali Rameshbabu. This is what International Arbiter Alon Shulman, Councilor of the ECU Arbiters Council, has to say about the incident and about handshake history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rejected-handshake-furor",
+         "pubDate" : "Wed, 19 Mar 2025 08:30:00",
+         "title" : "The Rejected Handshake Furor"
+      },
+      {
          "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
       },
       {
-         "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
-         "pubDate" : "Mon, 03 Mar 2025 14:21:34",
-         "title" : "The 10th Menchik Memorial"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118686721.cms\" />The Freestyle Chess Grand Slam Tour 2025 heads to Paris from April 7 to 14, featuring 12 top grandmasters competing for a $750,000 prize pool. The event, held at Pavillon Chesnaie du Roy, promises thrilling matches with world champions like Magnus Carlsen, Gukesh Dommaraju, and others. The final player will be selected via an online qualification event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -720,6 +728,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-chess-praggnanandhaa-and-aravindh-chithambaram-maintain-lead-after-draw-in-fifth-round/articleshow/118677299.cms",
          "pubDate" : "Mon, 03 Mar 2025 06:41:50",
          "title" : "Prague Masters Chess: Praggnanandhaa and Aravindh Chithambaram maintain lead after draw in fifth round"
+      },
+      {
+         "description" : "First question: How much artwork has been featured in the long running series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010)? In last month's post, <A HREF=\"https://chessforallages.blogspot.com/2025/02/a-sammarinese-artist.html\">A Sammarinese Artist</A> (February 2025), I wrote, 'I almost always go for any artwork', so there must have been plenty. <P> Second question: How much of that artwork has featured comic books? It turns out not to be so much, because I count exactly six posts. <P> The title of the item pictured below was 'MORE FUN COMICS #76 CGC VG 4.0; OW; Dr. Fate chess cover! Scarce!' It sold ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/03/more-fun-tops-eerie.html",
+         "pubDate" : "Sun, 02 Mar 2025 16:45:00",
+         "title" : "More Fun Tops Eerie"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118662462.cms\" />Magnus Carlsen's jeans auctioned for $36,100, significantly captivating the chess community. Originally priced between $300-$500, the jeans gained notoriety during the World Rapid Championship. The proceeds are donated to Big Brothers Big Sisters of America, enhancing their chess clinics and mentorship programs, thus reflecting Carlsen's commitment to both principle and philanthropy.",
@@ -839,7 +855,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-finance-council-26-april-2025-call-for-motions/",
          "pubDate" : "Fri, 28 Feb 2025 11:58:15",
-         "title" : "ECF FINANCE Council 26 April 2025 - call for motions"
+         "title" : "ECF Finance Council 26 April 2025 - call for motions"
       },
       {
          "description" : " The over-65s have been world champions three times in four years, but the over-50s finished out of the medals as USA claimed another title England's over-65s and over-50s had contrasting experiences this week at the World Senior Team Championships in Prague. The over-65s, led by the individual world champion, John Nunn, and with a virtuoso 7/8 performance by Peter Large, led throughout and were unbeaten with 16/18 match points, seven wins and two draws. Two German teams, Lasker Germany and Saxonia, took silver and bronze. England over-50s also led for much of the way despite a round four loss to Italy, but faltered in the final round crunch matches against the USA, which they lost for the t",
