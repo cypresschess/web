@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anna Muzychuk extended her winning streak to three games, strengthening her lead in the Cyprus Women's Grand Prix with four rounds remaining. Zhu Jiner remains just half a point behind after drawing with Alexandra Goryachkina, now in third place. Zhu's performance has already pushed her into the world's top eight in the live ratings. Elisabeth Paehtz secured her first victory of the event, while the remaining games ended in draws. The players will enjoy a rest day before the competition resumes. | Photos: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-5",
+         "pubDate" : "Thu, 20 Mar 2025 06:40:00",
+         "title" : "Nicosia GP: Anna Muzychuk scores three wins in a row, leads"
+      },
+      {
          "description" : "After five played rounds, GM Daniil Yuffa remained the only player with the perfect score of 5/5 points, keeping the sole lead in the tournament. GM Daniil Yuffa (ESP, 2654) had luck on his side today and defeated GM Jorden Van Foreest (NED, 2676) after a thrilling game with lots of turnovers. Van Foreest had a clearly better position after the opening, but both players had a couple of mistakes and the positional occasionally looked equal. After Yuffa's 24Rab8?, Jorden []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-5",
          "pubDate" : "Wed, 19 Mar 2025 15:06:00",
          "title" : "Anna Muzychuk Snatches Sole Lead; Move 6 Blunder Dooms Harika"
-      },
-      {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Wed, 19 Mar 2025 13:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
       },
       {
          "description" : "The North American Corporate Chess League (NACCL) is coming to Chess.com this spring. The NACCL is the largest corporate chess competition in the world and includes some of the world&#39;s best-known companies as well as small businesses! What Is ...",
