@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
+         "pubDate" : "Thu, 20 Mar 2025 18:00:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/press-release-launch-of-ecu-hub/",
          "pubDate" : "Thu, 20 Mar 2025 12:23:30",
          "title" : "Launch of ECU HUB "
+      },
+      {
+         "description" : "GM Hans Niemann said he has withdrawn from a previously agreed-upon polygraph test, popularly known as a &#34;lie detector test,&#34; following his loss against GM Daniil Dubov, citing the Russian&#39;s &#34;disrespectful&#34; behavior. The 18-game blitz match took...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-lashes-out-at-disrespectful-dubov-cancels-lie-detector-test",
+         "pubDate" : "Thu, 20 Mar 2025 12:07:00",
+         "title" : "Hans Niemann Backs Out Of Lie Detector Test, Accuses Daniil Dubov Of 'Disrespectful' Behavior"
       },
       {
          "description" : "Day 5 of the 2025 American Cup saw contrasting matches in the Champions Brackets, with Alice Lee securing a key win in the women's section, while Hikaru Nakamura and Fabiano Caruana opted for a quick draw in the open section. Meanwhile, the Elimination Brackets featured intense battles, as Irina Krush and Nazi Paikidze advanced in the women's event, while Levon Aronian and Sam Sevian eliminated Wesley So and Leinier Dominguez, respectively. | Photo: Lennart Ootes",
@@ -450,14 +466,6 @@ news_feed (
          "title" : "Win Prizes In The Spring 2025 CCL Predictions Challenge"
       },
       {
-         "description" : "We&#39;re excited to announce CoachChamps, an event that will bring together the best chess coaches and most dedicated students in our community! This is the first event of its kind, created to find out who the best chess coach is and to celebrate our...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-coachchamps-2025",
-         "pubDate" : "Thu, 13 Mar 2025 08:00:00",
-         "title" : "Announcing CoachChamps, Chess.com's First Tournament For Coaches And Chess Improvers"
-      },
-      {
          "description" : "The 16th Continental Women's Chess Championship of the Americas 2025 will be held April 30 - May 7, 2025 at the Dorados Conventions &amp; Resorts in Oaxtepec, Morelos, Mexico. The event, organized by the Chess Confederation of the Americas and the National Chess Federation of Mexico AC (FENAMAC) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $6,600 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLA",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -864,30 +872,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/obituaries/boris-spassky",
          "pubDate" : "Thu, 27 Feb 2025 19:50:00",
          "title" : "Boris Spassky 1937-2025 - 1937-2025"
-      },
-      {
-         "description" : "Boris Spassky, a Soviet-era world chess champion who lost his title to American Bobby Fischer in a legendary 1972 match, has died at the age of 88.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/44044528/former-world-chess-champion-boris-spassky-88-dies?device=featurephone",
-         "pubDate" : "Thu, 27 Feb 2025 19:27:13",
-         "title" : "Former world chess champ Boris Spassky, 88, dies"
-      },
-      {
-         "description" : "&#160;Report on the 2nd Round Performance of Indian Players in the FIDE World Junior Chess Championship 2025 &#160;Open Category In the Open category, Indian players",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-championship-2025/",
-         "pubDate" : "Thu, 27 Feb 2025 16:37:58",
-         "title" : "World Junior Championship 2025"
-      },
-      {
-         "description" : "By the guiding principle of consistency, the title of this month's Yahoos post should have echoed the title of last month's post, <A HREF=\"https://chessforallages.blogspot.com/2025/01/world-championship-yahoos-2025-1.html\">World Championship Yahoos 2025 1/?</A> (January 2025), where '1/?' was supposed to mean the start of a new series of undetermined length centered on a dispute:- <BLOCKQUOTE> The dispute is about FIDE's claim to have the exclusive right to any 'World Chess Championship'. </BLOCKQUOTE> <P> I should have written '1/1' or omitted the numbering completely, because the dispute evaporated as quickly as it had developed. For the nitty-gritty on its resolution, see <A HREF=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/02/esports-yahoos.html",
-         "pubDate" : "Thu, 27 Feb 2025 16:25:00",
-         "title" : "Esports Yahoos"
       }
    ]
 }
