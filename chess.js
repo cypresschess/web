@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2025-live",
+         "pubDate" : "Thu, 20 Mar 2025 13:50:00",
+         "title" : "European Championship - Live"
+      },
+      {
+         "description" : "In an historic moment for the global chess community, World Chess officially introduces a Patron Saint of Chess: bringing the game into a centuries-old tradition of sports and cultural patronage. St. Teresa of Avila, a 16th-century Spanish mystic, writer, and intellectual, is an apt choice for chess's first patron saint. One of the most influential figures of the Catholic Church, she was known for her deep strategic thinking, discipline, and ability to navigate complex intellectual and spiritual landscapes-qualities that also define the highest levels of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-patron-saint-of-chess",
+         "pubDate" : "Thu, 20 Mar 2025 13:00:00",
+         "title" : "The Patron Saint of Chess"
+      },
+      {
+         "description" : "&#160;European Chess Union Launches Revolutionary Online Training Platform ECU HUB HUNENBERG SEE, SWITZERLAND The European Chess Union (ECU) is proud to announce the launch of its innovative online training platform, ECU HUB (https://ecuhub.eu), marking a significant milestone in chess education and professional development. The new platform serves as a comprehensive digital learning environment, designed to enhance the skills of chess professionals, trainers, teachers arbiters, and enthusiasts across Europe and beyond. ECU HUB represents the organization's commitment to modernizing []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/press-release-launch-of-ecu-hub/",
+         "pubDate" : "Thu, 20 Mar 2025 12:23:30",
+         "title" : "Launch of ECU HUB "
+      },
+      {
          "description" : "Day 5 of the 2025 American Cup saw contrasting matches in the Champions Brackets, with Alice Lee securing a key win in the women's section, while Hikaru Nakamura and Fabiano Caruana opted for a quick draw in the open section. Meanwhile, the Elimination Brackets featured intense battles, as Irina Krush and Nazi Paikidze advanced in the women's event, while Levon Aronian and Sam Sevian eliminated Wesley So and Leinier Dominguez, respectively. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +50,11 @@ news_feed (
          "title" : "Daniil Yuffa remains perfect at the European Individual Chess Championship 2025"
       },
       {
-         "description" : "After an 18-move draw, GMs Hikaru Nakamura and Fabiano Caruana are tied &#38;frac12;-&#38;frac12; in the Open Champions Final of The American Cup 2025. In Open Elimination, however, we saw GMs Wesley So and Leinier Dominguez get eliminated, respectively, ...",
+         "description" : "After an 18-move draw, GMs Hikaru Nakamura and Fabiano Caruana are tied &#38;frac12;-&#38;frac12; in the Open Champions Final of The American Cup 2025. In Open Elimination, however, we saw GMs Wesley So and Leinier Dominguez eliminated, respectively, by G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-american-cup-day-5",
-         "pubDate" : "Wed, 19 Mar 2025 17:41:53",
+         "pubDate" : "Wed, 19 Mar 2025 17:41:00",
          "title" : "Lee Beats Abrahamyan In Game 1; Nakamura, Caruana Stay Deadlocked"
       },
       {
@@ -642,14 +666,6 @@ news_feed (
          "title" : "FAMU Chess Club holds Interest Meeting, First Tournament!"
       },
       {
-         "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-universities-chess-championship-2025/",
-         "pubDate" : "Tue, 04 Mar 2025 10:48:54",
-         "title" : "European Universities Chess Championship 2025"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118701993.cms\" />New Delhi is expected to host the FIDE Chess World Cup 2025 from October 31 to November 27, marking its return to India after 23 years. The capital city is the preferred location for major tournaments. Additionally, India will host the 5th leg of the FIDE Women's Grand Prix Series in Maharashtra this April.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/02/esports-yahoos.html",
          "pubDate" : "Thu, 27 Feb 2025 16:25:00",
          "title" : "Esports Yahoos"
-      },
-      {
-         "description" : "After Georgia and Kazakhstan, Monaco is the third stop on the current Women's Grand Prix series. Ten players will be competing for points and a place in the Women's Candidates Tournament from 18 to 27 February. Live daily from 15.00 local time - though the last round starts at 14.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
-         "pubDate" : "Thu, 27 Feb 2025 13:45:00",
-         "title" : "Women's Grand Prix Monaco: Live"
       }
    ]
 }
