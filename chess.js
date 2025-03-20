@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day 5 of the 2025 American Cup saw contrasting matches in the Champions Brackets, with Alice Lee securing a key win in the women's section, while Hikaru Nakamura and Fabiano Caruana opted for a quick draw in the open section. Meanwhile, the Elimination Brackets featured intense battles, as Irina Krush and Nazi Paikidze advanced in the women's event, while Levon Aronian and Sam Sevian eliminated Wesley So and Leinier Dominguez, respectively. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-5",
+         "pubDate" : "Thu, 20 Mar 2025 09:10:00",
+         "title" : "American Cup: Lee on fire, Yip eliminated"
+      },
+      {
          "description" : "Anna Muzychuk extended her winning streak to three games, strengthening her lead in the Cyprus Women's Grand Prix with four rounds remaining. Zhu Jiner remains just half a point behind after drawing with Alexandra Goryachkina, now in third place. Zhu's performance has already pushed her into the world's top eight in the live ratings. Elisabeth Paehtz secured her first victory of the event, while the remaining games ended in draws. The players will enjoy a rest day before the competition resumes. | Photos: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.europechess.org/daniil-yuffa-remains-perfect-at-the-european-individual-chess-championship-2025/",
          "pubDate" : "Wed, 19 Mar 2025 20:03:00",
          "title" : "Daniil Yuffa remains perfect at the European Individual Chess Championship 2025"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
-         "pubDate" : "Wed, 19 Mar 2025 18:00:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "After an 18-move draw, GMs Hikaru Nakamura and Fabiano Caruana are tied &#38;frac12;-&#38;frac12; in the Open Champions Final of The American Cup 2025. In Open Elimination, however, we saw GMs Wesley So and Leinier Dominguez get eliminated, respectively, ...",
@@ -66,14 +66,6 @@ news_feed (
          "title" : "The 10th Menchik Memorial - starts tomorrow!"
       },
       {
-         "description" : "At the January Tata Steel Challengers tournament in Wijk aan Zee in the Netherlands, at the start of their 4th round game, Uzbek GM Nodirbek Yakubboev refused to shake the extended hand of his opponent, Indian GM Vaishali Rameshbabu. This is what International Arbiter Alon Shulman, Councilor of the ECU Arbiters Council, has to say about the incident and about handshake history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rejected-handshake-furor",
-         "pubDate" : "Wed, 19 Mar 2025 08:30:00",
-         "title" : "The Rejected Handshake Furor"
-      },
-      {
          "description" : "We&#39;re excited to announce that Chess.com is now hosting the vast majority of games on our platform on the Realtime Chess Network, the only globally distributed chess server, which we&#39;ve been developing over the last four years. This means many pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,14 +106,6 @@ news_feed (
          "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
       },
       {
-         "description" : "Prepare for your next tournament with the new Opening Encyclopaedia 2025! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory in one product and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-your-easy-access-to-opening-theory",
-         "pubDate" : "Tue, 18 Mar 2025 20:00:00",
-         "title" : "The new Opening Encyclopaedia 2025 - Your easy access to opening theory"
-      },
-      {
          "description" : "American numbers one and two, GMs Hikaru Nakamura and Fabiano Caruana, will clash in the Open Champions Final of The American Cup 2025. Nakamura advanced after scoring a classical win with Black against GM Leinier Dominguez, while it took Caruana ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,36 +122,12 @@ news_feed (
          "title" : "Anna Muzychuk Beats Divya To Catch Leader On Day Of 4 Wins"
       },
       {
-         "description" : "Svitlana Demchenko introduces her new ChessBase training course, focusing on one of her favourite openings, the King's Indian Attack (KIA). She explains its universal nature, emphasizing that players only need to learn a basic setup (1.Nf3, 2.g3, 3.Bg2, 4.O-O, 5.d3), making it ideal for both creative and lazy players. She showcases how the KIA can be reached via e4 against various defences, including the French, Sicilian and Caro-Kann, offering flexibility in transpositions. A model game by Tigran Petrosian is analysed, demonstrating the strategic manoeuvring and attacking potential of the opening, particularly the h4-h5 push to weaken Black's kingside.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-king-s-indian-attack-course-is-out",
-         "pubDate" : "Tue, 18 Mar 2025 11:00:00",
-         "title" : "Svitlana's Smart Moves - The King's Indian Attack course is out!"
-      },
-      {
          "description" : "We&#39;re excited to announce the next installment of State of Chess, our live show where we share all the exciting things that we&#39;ve been working on and what&#39;s coming next. It&#39;s also the place where you can ask questions directly to us, so we can ans...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/state-of-chess-march-20-2025",
          "pubDate" : "Tue, 18 Mar 2025 08:00:00",
          "title" : "Announcing State Of Chess On March 20: Product, Proctor, Courses, And More"
-      },
-      {
-         "description" : "The living chess legend from Argentina, Oscar Panno, celebrated his 90th birthday on Monday. The Argentine ranks sixth on the list of the oldest living chess grandmasters. His international career began in 1953 when he won the U20 World Championship. A number of remarkable achievements followed in what turned out to be a memorable chess career.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oscar-panno-turns-90",
-         "pubDate" : "Tue, 18 Mar 2025 06:45:00",
-         "title" : "Oscar Panno turns 90!"
-      },
-      {
-         "description" : "The third round of the FIDE Women's Grand Prix in Cyprus featured hard-fought games, with high accuracy scores across the board. Anna Muzychuk secured the only decisive result, defeating Nana Dzagnidze in a queen endgame that lasted 83 moves - the longest game of the tournament so far. The remaining matches ended in well-contested draws, reflecting the competitive nature of the event. Zhu Jiner maintained her tournament lead with 2&frac12;/3 points to her name. | Photos: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-3",
-         "pubDate" : "Tue, 18 Mar 2025 01:35:00",
-         "title" : "Nicosia GP: Zhu Jiner sole leader, Anna Muzychuk scores first win"
       },
       {
          "description" : "Team rooms for SuperNationals VIII will open for reservation on Monday, March 24, 2025. We will leave the registration system open for one week and will close it at 5:00pm EDT on Monday, March 31, 2025. Reservations can be made after that time, but are not guaranteed for room consideration. The direct link to reserve a room is here.A list of available team rooms may be found here. Maps of the convention center may be found at this link. More information about the tournament, including the playing areas that will be used, may be found at the tournament website.Please note the new team room Policies and Procedures. A signed copy of this form must be returned to Click here to show email address",
@@ -304,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-2",
          "pubDate" : "Sun, 16 Mar 2025 13:52:00",
          "title" : "Zhu Jiner Takes Sole Lead On 2/2"
-      },
-      {
-         "description" : "The first round of the FIDE Women's Grand Prix in Cyprus saw four closely contested games and two decisive results. Greece's Stavroula Tsolakidou defeated Germany's Elisabeth Paehtz, while China's Zhu Jiner (pictured) overcame Olga Badelka. The tournament, held at Hilton Nicosia, features a strong lineup, including Grand Prix leader Aleksandra Goryachkina and Ukrainian stars Anna and Mariya Muzychuk. | Photos: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-1",
-         "pubDate" : "Sun, 16 Mar 2025 00:10:00",
-         "title" : "Nicosia GP: Zhu and Tsolakidou strike first"
       },
       {
          "description" : " The 25th European Individual Championship takes place Sat 15th to Wed 26th Mar 2025 in Eforie Nord, Romania. ",
@@ -928,22 +880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-s-grand-prix-monaco-live",
          "pubDate" : "Thu, 27 Feb 2025 13:45:00",
          "title" : "Women's Grand Prix Monaco: Live"
-      },
-      {
-         "description" : "Stewart Reuben, who died on February 4 aged 85, was England's outstanding chess organiser of the 20th century, and played a key role in the chess explosion of the 1970s....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/stewart-reuben-obituary-by-leonard-barden/",
-         "pubDate" : "Thu, 27 Feb 2025 10:24:25",
-         "title" : "Stewart Reuben - obituary by Leonard Barden"
-      },
-      {
-         "description" : "The England Over 65 team retained their World Senior Team Chess Championship title in Prague today, after securing the final point that left their rivals trailing in their wake. The...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-senior-teams-chess-championships-2025/",
-         "pubDate" : "Thu, 27 Feb 2025 08:00:20",
-         "title" : "England Over 65s retain World Senior Team Chess Championship title!"
       }
    ]
 }
