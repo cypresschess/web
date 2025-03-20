@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Individual Chess Championship 2025 is halfway through and tomorrow is the free day. After six played rounds, GM Daniil Yuffa (ESP, 2654) kept the sole lead in the event following today's draw against GM Robert Hovhannisyan (ARM, 2630). Daniil Yuffa had white pieces and got a clearly better position and a pawn up after the opening, but he entered a drawish endgame with Bishops and Rooks on the board. Being low on time, Hovhannisyan made mistake with 71Be3? allowed []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/daniil-yuffa-keeps-sole-going-into-the-rest-day-at-european-individual-chess-championship-2025/",
+         "pubDate" : "Thu, 20 Mar 2025 21:09:57",
+         "title" : "Daniil Yuffa keeps sole going into the rest day at European Individual Chess Championship 2025"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-5",
          "pubDate" : "Thu, 20 Mar 2025 06:40:00",
          "title" : "Nicosia GP: Anna Muzychuk scores three wins in a row, leads"
+      },
+      {
+         "description" : "Job Title: Graphic Design AssistantJob Type: Non-exemptHours: 15-20 hours/weekPay: $20/hourLocation: Headquartered in St. Louis, MO. Teleworking AllowedManager: Art Director Position OverviewWe are seeking a creative and detail-oriented Graphic Design Assistant to support our marketing and communications efforts. This is a Part Time / Remote position.The ideal candidate has a strong eye for design, proficiency in graphic design software, and an ability to create engaging visuals for digital and print media. This role offers an exciting opportunity to contribute to the visual identity of US Chess and support initiatives that promote the game nationwide. Key ResponsibilitiesAssist in print pro",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-hiring-graphic-design-assistant",
+         "pubDate" : "Thu, 20 Mar 2025 00:00:00",
+         "title" : "US Chess is Hiring Graphic Design Assistant"
       },
       {
          "description" : "After five played rounds, GM Daniil Yuffa remained the only player with the perfect score of 5/5 points, keeping the sole lead in the tournament. GM Daniil Yuffa (ESP, 2654) had luck on his side today and defeated GM Jorden Van Foreest (NED, 2676) after a thrilling game with lots of turnovers. Van Foreest had a clearly better position after the opening, but both players had a couple of mistakes and the positional occasionally looked equal. After Yuffa's 24Rab8?, Jorden []",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "'Motherhood not a liability': How Koneru Humpy balances chess and family"
       },
       {
-         "description" : "The Frank P. Samford Jr. and Frank Samford III Chess Fellowships are pleased to announce the 39th consecutive annual awards. The Fellowships were created by the late Frank P. Samford Jr. of Birmingham, Alabama, to advance the game he loved by identifying and assisting the most promising young chess masters in the United States.Since its inception in 1987 the Samford, under the leadership of Frank Samford III, has been successful in promoting the chess careers of more than three dozen young Americans, many of whom have gone on to become grandmasters, members of the U.S. Olympiad Chess Team and United States Chess Champions. Four members of the bronze medal-winning 2024 U.S. Women's Olympiad t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-annual-samford-fellowships-announced",
-         "pubDate" : "Tue, 11 Mar 2025 00:00:00",
-         "title" : "2025 Annual Samford Fellowships Announced"
-      },
-      {
          "description" : " The Eswatini Chess Federation was chartered in 2006 and joined FIDE in 2011. The federation has had regular activity, mostly on the school level, but they have also&#160;hosted successful open tournaments. The country of Eswatini has a long history, but the nation itself is young, having changed its name from Swaziland in 2018. In the The post <a href=\"https://thechessdrum.net/blog/2025/03/10/eswatini-chess-prepares-children-for-future/\">Eswatini chess prepares children for future</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-spassky-fought-for-fischer",
          "pubDate" : "Mon, 10 Mar 2025 19:00:00",
          "title" : "How Spassky fought for Fischer"
-      },
-      {
-         "description" : "SENSEROBOT BECOMES THE OFFICIAL AI PROVIDER OF EUROPEAN CHESS UNION The European Chess Union (ECU), the governing body for chess across Europe with 54 member federations, is proud to announce a landmark partnership with SenseRobot based in Hong Kong (www.senserobotchess.com), a leading innovator in AI technology solutions. This strategic collaboration marks a significant step forward in ECU's commitment to advancing chess education and technology across Europe. As part of this comprehensive partnership, each ECU member federation will receive a complimentary []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-union-partners-with-senserobot/",
-         "pubDate" : "Mon, 10 Mar 2025 10:35:11",
-         "title" : "European Chess Union partners with SENSEROBOT"
       },
       {
          "description" : "Koneru Humpy speaks on motherhood, challenges as a woman in sport, and what it takes to be a champion.",
@@ -864,14 +864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/soviet-chess-grandmaster-boris-spassky-dies-at-88/articleshow/118615123.cms",
          "pubDate" : "Fri, 28 Feb 2025 02:31:49",
          "title" : "Soviet chess grandmaster Boris Spassky dies at 88"
-      },
-      {
-         "description" : " Boris Vasilievich Spassky was born in Leningrad January 30th 1937 and has died in Moscow February 27th 2025 at the age of 88. The former World Chess Champion played two championship matches against Tigran Petrosian, winning the second one in 1969 to become the 10th holder of the title. Spassky lost his only defence against Bobby Fischer in a match in Reykjavik in 1972. This match gave him worldwide fame in the midst of a media frenzy at the height of the Cold War. Spassky was one of the leading players in the world from 1956 until the early 1980s. In 1992 he played Bobby Fischer in a rematch in Yugoslavia which briefly made them both famous again. In September 2010 he had a serious stroke, ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/obituaries/boris-spassky",
-         "pubDate" : "Thu, 27 Feb 2025 19:50:00",
-         "title" : "Boris Spassky 1937-2025 - 1937-2025"
       }
    ]
 }
