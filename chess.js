@@ -18,11 +18,19 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
+         "description" : "After an 18-move draw, GMs Hikaru Nakamura and Fabiano Caruana are tied &#38;frac12;-&#38;frac12; in the Open Champions Final of The American Cup 2025. In Open Elimination, however, we saw GMs Wesley So and Leinier Dominguez get eliminated, respectively, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-5",
+         "pubDate" : "Wed, 19 Mar 2025 17:41:53",
+         "title" : "Lee Beats Abrahamyan In Game 1; Nakamura, Caruana Stay Deadlocked"
+      },
+      {
          "description" : "GM Anna Muzychuk is the sole leader of the 2025 Nicosia FIDE Women&#39;s Grand Prix on the rest day after a time-trouble blunder by IM Stavroula Tsolakidou led to a third win in a row. GM Elisabeth Paehtz grabbed the day&#39;s only other win after GM Hari...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-5",
-         "pubDate" : "Wed, 19 Mar 2025 15:06:58",
+         "pubDate" : "Wed, 19 Mar 2025 15:06:00",
          "title" : "Anna Muzychuk Snatches Sole Lead; Move 6 Blunder Dooms Harika"
       },
       {
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/16th-continental-womens-chess-championships-2025-announced",
          "pubDate" : "Thu, 13 Mar 2025 00:00:00",
          "title" : "16th Continental Women's Chess Championships 2025 Announced"
-      },
-      {
-         "description" : "GMs Amin Tabatabaei, Nguyen Ngoc Truong Son, Rauf Mamedov, and Pranesh M scored 7.5/9 to finish in the top-four and qualify for the Knockout Stage of the 2025 Paris Freestyle Chess Grand Slam Play-In. They&#39;ll be joined by the likes of GMs Ding Lir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-1",
-         "pubDate" : "Wed, 12 Mar 2025 15:27:00",
-         "title" : "Tabatabaei, Nguyen, Mamedov, Pranesh In Hunt For Paris Freestyle Chess Spot"
       },
       {
          "description" : "The ECU E-Magazine February 2025 is out! In this edition of the ECU E-Magazine you may read about: The February 2025 edition of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in the PDF format below.",
