@@ -10,6 +10,14 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
+         "description" : "GM Harika Dronavalli pounced on a late mistake by GM Nana Dzagnidze to recover from what she called a &#34;heartbreaking loss&#34; in the previous round of the 2025 Nicosia FIDE Women&#39;s Grand Prix. Harika is joined a point behind leader&#38;nbsp;GM Anna Muzyc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-6",
+         "pubDate" : "Fri, 21 Mar 2025 15:43:00",
+         "title" : "Harika On Bounce-Back Win: \"The Game Is Cruel, So I Can't Be Friendly!\""
+      },
+      {
          "description" : "Please note that planned maintenance during Monday morning 24th March (starting around 10.30am) may affect the ECF websites (main, junior, senior, National Schools) as well as the ECF rating system...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -162,7 +170,7 @@ news_feed (
          "title" : "Nicosia GP: Anna Muzychuk scores three wins in a row, leads"
       },
       {
-         "description" : "Editor's note: Sofia Doroshenko is a senior at Macalaster College, where she recently organized the first Chesswrestling Festival. In the lead-up to this event, US Chess had the pleasure of interviewing Sofia for our YouTube channel. In this article, Sofia shares her experiences an organizer and participant in this unique and exciting sport. Follow Sofia on YouTube for more chesswrestling content, and more information about chesswrestling (including the rules) is included at the end of this article.Last year, national master Ionatan Giurgiu showed me a chessboxing video between WGM Dina Belenkaya and Andrea Botez, after my adamant refusal of it being a real sport. The idea of dominating your",
+         "description" : "Editor's note: Sofia Doroshenko is a senior at Macalester College, where she recently organized the first Chesswrestling Festival. In the lead-up to this event, US Chess had the pleasure of interviewing Sofia for our YouTube channel. In this article, Sofia shares her experiences an organizer and participant in this unique and exciting sport. Follow Sofia on YouTube for more chesswrestling content, and more information about chesswrestling (including the rules) is included at the end of this article.Last year, national master Ionatan Giurgiu showed me a chessboxing video between WGM Dina Belenkaya and Andrea Botez, after my adamant refusal of it being a real sport. The idea of dominating your",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/fusion-mind-and-might-chesswrestling-festival-takes-down-minnesota",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-and-poker-stewart-reuben/",
          "pubDate" : "Sat, 15 Mar 2025 10:57:25",
          "title" : "Chess and poker: Stewart Reuben"
-      },
-      {
-         "description" : "GM Vidit Gujrathi beat GMs Amin Tabatabaei and Richard Rapport to become the 12th and final qualifier for the 2025 Paris Freestyle Chess Grand Slam that takes place April 7-14. He&#39;ll join fellow Indian stars World Champion Gukesh Dommaraju and GMs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-3",
-         "pubDate" : "Fri, 14 Mar 2025 12:23:00",
-         "title" : "Vidit Qualifies For Paris Freestyle Chess Grand Slam Honeymoon"
       },
       {
          "description" : "The 44th National Open Team Chess Championship and the 22nd National Women Team Chess Championship 2025 were held at Ahmedabad, Gujarat, from 5 March to",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-registers-first-win-in-prague-masters/articleshow/118640857.cms",
          "pubDate" : "Sat, 01 Mar 2025 03:23:00",
          "title" : "Praggnanandhaa registers first win in Prague Masters"
-      },
-      {
-         "description" : " The 7th Prague International Chess Festival takes place Wed 26th Feb to Fri 7th Mar 2025. The main event is the Masters with Chithambaram VR. Aravindh, R Praggnanandhaa, Vincent Keymer, David Navara, Le Quang Liem, Anish Giri, Sam Shankland, Thai Dai Van Nguyen, Ediz Gurel and Wei Yi. The Challengers is also very strong and there's a Futures group and a number of opens.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/7th-prague-international-chess-festival",
-         "pubDate" : "Fri, 28 Feb 2025 21:10:00",
-         "title" : "7th Prague International Chess Festival - Games and Results"
       }
    ]
 }
