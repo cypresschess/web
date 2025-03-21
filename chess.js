@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
+         "pubDate" : "Fri, 21 Mar 2025 18:00:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "Please note that planned maintenance during Monday morning 24th March (starting around 10.30am) may affect the ECF websites (main, junior, senior, National Schools) as well as the ECF rating system...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/planned-website-systems-maintenance-monday-23rd-march-2025/",
+         "pubDate" : "Fri, 21 Mar 2025 15:29:08",
+         "title" : "Planned website / systems maintenance Monday morning 24th March 2025"
+      },
+      {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
          "pubDate" : "Fri, 21 Mar 2025 13:55:00",
          "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk won Freestyle Friday on March 21 in what was the closest yet of the nine tournaments so far, but ultimately, his second win following one on January 31. And while Bortnyk lost in the final round, which created a five-way tie f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-march-21-2025",
+         "pubDate" : "Fri, 21 Mar 2025 11:09:16",
+         "title" : "Bortnyk Survives Setback To Win A Second Friday"
+      },
+      {
+         "description" : "What was intended to be a harmless joke turned into a firestorm, racking up over 50 million views and becoming Chess.com&#39;s most viral post ever. Chess.com&#39;s social media accounts have nearly nine million followers across all platforms. They aim ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-joked-about-changing-the-name-of-the-bishop-it-blew-up",
+         "pubDate" : "Fri, 21 Mar 2025 10:52:00",
+         "title" : "Chess.com Joke About Renaming The Bishop Generates Viral Internet Firestorm"
       },
       {
          "description" : "On Sunday the Kasparov Chess Foundation Academy will host a lecture by Vladimir Tukmakov titled \"Bluff in Chess\". Drawing from his extensive experience, Tukmakov will delve into the art of taking calculated risks in chess, a theme he explores in his book Risk & Bluff in Chess: The Art of Taking Calculated Risks. Participants can anticipate an in-depth analysis of how deception and risk intertwine in high-level play, enriched by anecdotes from Tukmakov's own games and those of other grandmasters.",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-in-chennai-on-08-april-2025/",
          "pubDate" : "Fri, 21 Mar 2025 09:19:53",
          "title" : "Announcement :Medical Evaluation in Chennai on 08 April 2025."
+      },
+      {
+         "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted the latest installment of State of Chess on Thursday. He was joined by several colleagues to share exciting updates, including the highly anticipated return of PogChamps. The three-h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-state-of-chess",
+         "pubDate" : "Fri, 21 Mar 2025 08:32:00",
+         "title" : "State Of Chess: PogChamps, Chessable Courses, Fair Play Status, Product Updates, & More"
       },
       {
          "description" : " Chess Masters: The Endgame received some negative reviews for its 10 March debut, watched by 890,000, but fears of a second-week meltdown proved overblown Chess Masters: The Endgame, BBC Two's most ambitious chess programme for half a century, got off to a rocky start on 10 March, when its opening episode received some rough treatment from critics. The Guardian's <a href=\"https://www.theguardian.com/tv-and-radio/2025/mar/10/chess-masters-the-endgame-review-so-dull-its-almost-unwatchable\">Lucy Mangan called it</a> \"so dull it's almost unwatchable\". However, fears of a second week meltdown last Monday proved overblown. Viewers totalled 710,000, still nearly 6% of the television audience, and ",
@@ -50,6 +90,14 @@ news_feed (
          "title" : "Carlsen, Topalov Given Grand Chess Tour Wildcards"
       },
       {
+         "description" : "Heading into the final weekend of the 2025 American Cup, GM Hikaru Nakamura and IM Alice Lee have each advanced to the Grand Final by winning their respective Champions Final matches over GM Fabiano Caruana and WGM Tatev Abrahamyan. Catch up on the earlier rounds with our previous articles here and here. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Graphics courtesy of SLCC<br> <br> The Elimination Bracket takes center stage today, with Caruana facing a rematch against GM Levon Aronian and Abrahamyan squaring off against GM Irina Krush. The winners will play a two-game classical matc",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/nakamura-lee-advance-american-cup-grand-finals-who-will-join-them",
+         "pubDate" : "Fri, 21 Mar 2025 00:00:00",
+         "title" : "Nakamura, Lee Advance to American Cup Grand Finals: Who Will Join Them?"
+      },
+      {
          "description" : "European Individual Chess Championship 2025 is halfway through and tomorrow is the free day. After six played rounds, GM Daniil Yuffa (ESP, 2654) kept the sole lead in the event following today's draw against GM Robert Hovhannisyan (ARM, 2630). Daniil Yuffa had white pieces and got a clearly better position and a pawn up after the opening, but he entered a drawish endgame with Bishops and Rooks on the board. Being low on time, Hovhannisyan made mistake with 71Be3? allowed []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -58,15 +106,7 @@ news_feed (
          "title" : "Daniil Yuffa keeps sole going into the rest day at European Individual Chess Championship 2025"
       },
       {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
-         "pubDate" : "Thu, 20 Mar 2025 18:00:00",
-         "title" : "The American Cup - Live!"
-      },
-      {
-         "description" : "GM Hikaru Nakamura defeated Fabiano Caruana 3.5-2.5 in blitz tiebreaks to win the Champions Final of The American Cup 2025, which comes with a $15,000 bonus. In the Women&#39;s American Cup Champions Final, IM Alice Lee survived a dead-lost endgame ag...",
+         "description" : "GM Hikaru Nakamura defeated Fabiano Caruana 2.5-1.5 in blitz tiebreaks to win the Champions Final of The American Cup 2025, which comes with a $15,000 bonus. In the Women&#39;s American Cup Champions Final, IM Alice Lee survived a dead-lost endgame ag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-american-cup-day-6",
@@ -120,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-5",
          "pubDate" : "Thu, 20 Mar 2025 06:40:00",
          "title" : "Nicosia GP: Anna Muzychuk scores three wins in a row, leads"
+      },
+      {
+         "description" : "Editor's note: Sofia Doroshenko is a senior at Macalaster College, where she recently organized the first Chesswrestling Festival. In the lead-up to this event, US Chess had the pleasure of interviewing Sofia for our YouTube channel. In this article, Sofia shares her experiences an organizer and participant in this unique and exciting sport. Follow Sofia on YouTube for more chesswrestling content, and more information about chesswrestling (including the rules) is included at the end of this article.Last year, national master Ionatan Giurgiu showed me a chessboxing video between WGM Dina Belenkaya and Andrea Botez, after my adamant refusal of it being a real sport. The idea of dominating your",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fusion-mind-and-might-chesswrestling-festival-takes-down-minnesota",
+         "pubDate" : "Thu, 20 Mar 2025 00:00:00",
+         "title" : "A Fusion of Mind and Might: Chesswrestling Festival Takes Down Minnesota"
       },
       {
          "description" : "Job Title: Graphic Design AssistantJob Type: Non-exemptHours: 15-20 hours/weekPay: $20/hourLocation: Headquartered in St. Louis, MO. Teleworking AllowedManager: Art Director Position OverviewWe are seeking a creative and detail-oriented Graphic Design Assistant to support our marketing and communications efforts. This is a Part Time / Remote position.The ideal candidate has a strong eye for design, proficiency in graphic design software, and an ability to create engaging visuals for digital and print media. This role offers an exciting opportunity to contribute to the visual identity of US Chess and support initiatives that promote the game nationwide. Key ResponsibilitiesAssist in print pro",
@@ -474,14 +522,6 @@ news_feed (
          "title" : "FINAL REPORT:NATIONAL TEAM CHESS CHAMPIONSHIP 2024-25"
       },
       {
-         "description" : "It was naturally a lot harder than winning one game of tic-tac-toe, but GM Arjun Erigaisi has nonetheless won three consecutive&#38;nbsp;Freestyle Friday tournaments. Arjun, who is not a Chess960 specialist per se, is sure treating this variant as a p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-wins-freestyle-friday-march-14-2025",
-         "pubDate" : "Fri, 14 Mar 2025 10:55:22",
-         "title" : "That's Three In A Row For Arjun"
-      },
-      {
          "description" : "The 2025 European Individual Chess Championship starts tomorrow in Eforie Nord, Romania, and will be played from 15-26 March at the&#160;Ana Hotels Europa. Nearly 400 players from 40 European federations registered for the event, including 103 Grandmasters, 77 International Masters, 71 FIDE masters. The top seeds are: Bogdan-Daniel Deac (ROU, 2692), Alexey Sarana (SRB, 2689), Jorden Van Foreest (NED, 2676), Pavel Eljanov (UKR, 2666), Shant Sargsyan (ARM, 2666), Daniel Dardha (BEL, 2665), David Anton Guijarro (ESP, 2663), David Navara (CZE, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -498,22 +538,6 @@ news_feed (
          "title" : "BBC Two's Chess Masters: The Endgame provokes sharply divided reactions"
       },
       {
-         "description" : "We&#39;re excited to announce Magnus vs. The World, an exclusive Vote Chess match between world number-one GM Magnus Carlsen and members of the Chess.com community. The event starts on April 4 and will mark the first time Carlsen ever participates in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-magnus-vs-the-world",
-         "pubDate" : "Fri, 14 Mar 2025 08:00:00",
-         "title" : "Announcing: Magnus Carlsen vs. The World Match Starting April 4!"
-      },
-      {
-         "description" : "One of the Czech Republic&#39;s greatest players of all time, GM David Navara, shared deep insights into his life, his passion for chess, and his experiences living with Asperger&#39;s syndrome. IM Sagar Shah continues to deliver compelling stories to t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/david-navara-interview-career-asperger",
-         "pubDate" : "Fri, 14 Mar 2025 07:47:00",
-         "title" : "David Navara Opens Up About His Chess Career, Challenges, & Living With Asperger's"
-      },
-      {
          "description" : " IM Chitumbo Mwali, 2025 Zambian ChampionBupe Gerald Chibomba The Copper Eagle Soars International Master Chitumbo Mwali won his fifth national championship last weekend in the nation's capital of Lusaka. It was his fourth consecutive title, putting him in elite company. However, the journey would not be easy, as he was able to edge&#160;Micheal Kaoma&#160;by 1/2 The post <a href=\"https://thechessdrum.net/blog/2025/03/14/chitumbo-mwali-wins-5th-zambian-chess-crown/\">Chitumbo Mwali wins 5th Zambian Chess Crown!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -522,28 +546,12 @@ news_feed (
          "title" : "Chitumbo Mwali wins 5th Zambian Chess Crown!"
       },
       {
-         "description" : "The 16th Continental Women's Chess Championship of the Americas 2025 will be held April 30 - May 7, 2025 at the Dorados Conventions &amp; Resorts in Oaxtepec, Morelos, Mexico. The event, organized by the Chess Confederation of the Americas and the National Chess Federation of Mexico AC (FENAMAC) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $6,600 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLA",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/16th-continental-womens-chess-championships-2025-announced",
-         "pubDate" : "Thu, 13 Mar 2025 00:00:00",
-         "title" : "16th Continental Women's Chess Championships 2025 Announced"
-      },
-      {
          "description" : "The ECU E-Magazine February 2025 is out! In this edition of the ECU E-Magazine you may read about: The February 2025 edition of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in the PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2025/",
          "pubDate" : "Wed, 12 Mar 2025 10:13:39",
          "title" : "ECU E-Magazine February 2025"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles all come from an instructive blitz endgame between former Women's World Champion GM Mariya Muzychuk and WGM Thalia Cervantes. This entire endgame was played on the increment, with only two seconds added back to the clock each move. Take your time, though, and test your theoretical knowledge! <br> <br> <br> <br> Im",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-8-endgame-ages",
-         "pubDate" : "Wed, 12 Mar 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 8 (An Endgame for the Ages)"
       },
       {
          "description" : "Some of the world's best chess players have trained under him, yet his name remains unknown to many. He has worked with players like Anish Giri, Jorden van Foreest, and Vladimir Fedoseev but always stayed behind the scenes. He is known for his creative training methods and intensive sessions. The name of this mastermind is Roman Vidonyak, and Sagar Shah got the opportunity to meet him in Wijk aan Zee. Check out his interview in which he talks about his training journey, training philosophy, and what it takes to create champions. Photo: German Chess Federation",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/7th-prague-international-chess-festival",
          "pubDate" : "Fri, 28 Feb 2025 21:10:00",
          "title" : "7th Prague International Chess Festival - Games and Results"
-      },
-      {
-         "description" : "Please find the Certificates here Rank &#160;Under 07 Rank &#160;Under 07 Girls 1 Kavish Bhattad 1 Shreyanshi Jain 2 Sreyansh Thumati 2 Varniga M 3",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-school-chess-championship-2024-25-in-peddapuram-ap/",
-         "pubDate" : "Fri, 28 Feb 2025 16:45:10",
-         "title" : "Certificate of National School Chess Championship 2024-25 in Peddapuram ,AP"
       }
    ]
 }
