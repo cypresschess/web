@@ -18,6 +18,14 @@ news_feed (
          "title" : "The American Cup - Live!"
       },
       {
+         "description" : "GM Hikaru Nakamura defeated Fabiano Caruana 3.5-2.5 in blitz tiebreaks to win the Champions Final of The American Cup 2025, which comes with a $15,000 bonus. In the Women&#39;s American Cup Champions Final, IM Alice Lee survived a dead-lost endgame ag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-6",
+         "pubDate" : "Thu, 20 Mar 2025 17:56:00",
+         "title" : "Nakamura Beats Caruana In Blitz Playoffs, Wins Champions Final"
+      },
+      {
          "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -474,14 +482,6 @@ news_feed (
          "title" : "Vidit, Rapport, Mamedov, Tabatabaei Fight For Final Spot In Paris"
       },
       {
-         "description" : "The 2025 Collegiate Chess League (CCL) Playoffs are upon us, and you can join in on the excitement by predicting who wins!&#38;nbsp; Can you see Mizzou repeating as champions? Will Saint Louis avenge last year&#39;s title match? Will a dark horse emerge...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/win-prizes-in-the-spring-2025-ccl-predictions-challenge",
-         "pubDate" : "Thu, 13 Mar 2025 08:58:56",
-         "title" : "Win Prizes In The Spring 2025 CCL Predictions Challenge"
-      },
-      {
          "description" : "The 16th Continental Women's Chess Championship of the Americas 2025 will be held April 30 - May 7, 2025 at the Dorados Conventions &amp; Resorts in Oaxtepec, Morelos, Mexico. The event, organized by the Chess Confederation of the Americas and the National Chess Federation of Mexico AC (FENAMAC) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $6,600 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLA",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-settles-for-second-draw-chithambaram-beats-keymer-at-prague-masters-chess/articleshow/118618090.cms",
          "pubDate" : "Fri, 28 Feb 2025 04:50:21",
          "title" : "Praggnanandhaa settles for second draw, Chithambaram beats Keymer at Prague Masters"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118615123.cms\" />Boris Spassky, the Soviet chess grandmaster celebrated for his 1972 Cold War clash with American Bobby Fischer, has died at 88, according to the Russian Chess Federation. Spassky's defeat against Fischer ended a 24-year Soviet dominance in chess. His life and this iconic match influenced various creative works, including the novel and Netflix series, The Queen's Gambit.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/soviet-chess-grandmaster-boris-spassky-dies-at-88/articleshow/118615123.cms",
-         "pubDate" : "Fri, 28 Feb 2025 02:31:49",
-         "title" : "Soviet chess grandmaster Boris Spassky dies at 88"
       }
    ]
 }
