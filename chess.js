@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Sunday the Kasparov Chess Foundation Academy will host a lecture by Vladimir Tukmakov titled \"Bluff in Chess\". Drawing from his extensive experience, Tukmakov will delve into the art of taking calculated risks in chess, a theme he explores in his book Risk & Bluff in Chess: The Art of Taking Calculated Risks. Participants can anticipate an in-depth analysis of how deception and risk intertwine in high-level play, enriched by anecdotes from Tukmakov's own games and those of other grandmasters.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-how-to-bluff-in-chess",
+         "pubDate" : "Fri, 21 Mar 2025 09:30:00",
+         "title" : "KCF: How to bluff in chess"
+      },
+      {
+         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/announcement-medical-evaluation-in-chennai-on-08-april-2025/",
+         "pubDate" : "Fri, 21 Mar 2025 09:19:53",
+         "title" : "Announcement :Medical Evaluation in Chennai on 08 April 2025."
+      },
+      {
+         "description" : " Chess Masters: The Endgame received some negative reviews for its 10 March debut, watched by 890,000, but fears of a second-week meltdown proved overblown Chess Masters: The Endgame, BBC Two's most ambitious chess programme for half a century, got off to a rocky start on 10 March, when its opening episode received some rough treatment from critics. The Guardian's <a href=\"https://www.theguardian.com/tv-and-radio/2025/mar/10/chess-masters-the-endgame-review-so-dull-its-almost-unwatchable\">Lucy Mangan called it</a> \"so dull it's almost unwatchable\". However, fears of a second week meltdown last Monday proved overblown. Viewers totalled 710,000, still nearly 6% of the television audience, and ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/mar/21/bbc-two-chess-show-keeps-710000-viewers-despite-rocky-opening-week",
+         "pubDate" : "Fri, 21 Mar 2025 08:00:55",
+         "title" : "BBC Two chess show keeps 710,000 viewers despite rocky opening week"
+      },
+      {
+         "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. https://forms.gle/PWxAN5cEanX9rFu98 Criteria: GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2025-26/",
+         "pubDate" : "Fri, 21 Mar 2025 07:44:58",
+         "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2025-26"
+      },
+      {
          "description" : "European Individual Chess Championship 2025 is halfway through and tomorrow is the free day. After six played rounds, GM Daniil Yuffa (ESP, 2654) kept the sole lead in the event following today's draw against GM Robert Hovhannisyan (ARM, 2630). Daniil Yuffa had white pieces and got a clearly better position and a pawn up after the opening, but he entered a drawish endgame with Bishops and Rooks on the board. Being low on time, Hovhannisyan made mistake with 71Be3? allowed []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -840,14 +872,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-finance-council-26-april-2025-call-for-motions/",
          "pubDate" : "Fri, 28 Feb 2025 11:58:15",
          "title" : "ECF Finance Council 26 April 2025 - call for motions"
-      },
-      {
-         "description" : " The over-65s have been world champions three times in four years, but the over-50s finished out of the medals as USA claimed another title England's over-65s and over-50s had contrasting experiences this week at the World Senior Team Championships in Prague. The over-65s, led by the individual world champion, John Nunn, and with a virtuoso 7/8 performance by Peter Large, led throughout and were unbeaten with 16/18 match points, seven wins and two draws. Two German teams, Lasker Germany and Saxonia, took silver and bronze. England over-50s also led for much of the way despite a round four loss to Italy, but faltered in the final round crunch matches against the USA, which they lost for the t",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/feb/28/chess-england-over-65s-lead-all-the-way-to-world-senior-team-gold-at-prague",
-         "pubDate" : "Fri, 28 Feb 2025 08:00:54",
-         "title" : "Chess: England over-65s lead all the way to world senior team gold at Prague"
       }
    ]
 }
