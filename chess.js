@@ -848,14 +848,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/feb/28/chess-england-over-65s-lead-all-the-way-to-world-senior-team-gold-at-prague",
          "pubDate" : "Fri, 28 Feb 2025 08:00:54",
          "title" : "Chess: England over-65s lead all the way to world senior team gold at Prague"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118618090.cms\" />In the second round of the Prague Masters, Aravindh Chithambaram secured a victory against Germany's Vincent Keymer, leading alongside Sam Shankland with 1.5 points. R Praggnanandhaa earned his second draw. Divya Deshmukh triumphed in the challengers' section.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-settles-for-second-draw-chithambaram-beats-keymer-at-prague-masters-chess/articleshow/118618090.cms",
-         "pubDate" : "Fri, 28 Feb 2025 04:50:21",
-         "title" : "Praggnanandhaa settles for second draw, Chithambaram beats Keymer at Prague Masters"
       }
    ]
 }
