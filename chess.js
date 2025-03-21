@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
+         "pubDate" : "Fri, 21 Mar 2025 13:55:00",
+         "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
          "description" : "On Sunday the Kasparov Chess Foundation Academy will host a lecture by Vladimir Tukmakov titled \"Bluff in Chess\". Drawing from his extensive experience, Tukmakov will delve into the art of taking calculated risks in chess, a theme he explores in his book Risk & Bluff in Chess: The Art of Taking Calculated Risks. Participants can anticipate an in-depth analysis of how deception and risk intertwine in high-level play, enriched by anecdotes from Tukmakov's own games and those of other grandmasters.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2025-26/",
          "pubDate" : "Fri, 21 Mar 2025 07:44:58",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2025-26"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen will play the SuperUnited Rapid &#38;amp; Blitz Croatia, while 50-year-old former world number-one Veselin Topalov returns to top-level chess to play the Superbet Rapid &#38;amp; Blitz Poland. Other wildcards announced for ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-topalov-grand-chess-tour-2025-wildcards",
+         "pubDate" : "Fri, 21 Mar 2025 05:41:00",
+         "title" : "Carlsen, Topalov Given Grand Chess Tour Wildcards"
       },
       {
          "description" : "European Individual Chess Championship 2025 is halfway through and tomorrow is the free day. After six played rounds, GM Daniil Yuffa (ESP, 2654) kept the sole lead in the event following today's draw against GM Robert Hovhannisyan (ARM, 2630). Daniil Yuffa had white pieces and got a clearly better position and a pawn up after the opening, but he entered a drawish endgame with Bishops and Rooks on the board. Being low on time, Hovhannisyan made mistake with 71Be3? allowed []",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Launch of ECU HUB "
       },
       {
-         "description" : "GM Hans Niemann said he has withdrawn from a previously agreed-upon polygraph test, popularly known as a &#34;lie detector test,&#34; following his loss against GM Daniil Dubov, citing the Russian&#39;s &#34;disrespectful&#34; behavior. The 18-game blitz match took...",
+         "description" : "GM Hans Niemann said he has withdrawn from a previously agreed-upon polygraph test, popularly known as a &#34;lie detector test,&#34; following his loss against GM Daniil Dubov, citing the Russian&#39;s &#34;disrespectful&#34; behavior. [Updated&#38;nbsp;March 21, 2025...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/niemann-lashes-out-at-disrespectful-dubov-cancels-lie-detector-test",
@@ -506,14 +522,6 @@ news_feed (
          "title" : "Chitumbo Mwali wins 5th Zambian Chess Crown!"
       },
       {
-         "description" : "It&#39;s GM Vidit Gujrathi vs. GM Amin Tabatabaei and GM Rauf Mamedov vs. GM Richard Rapport in Friday&#39;s Semifinals of the 2025 Paris Freestyle Chess Grand Slam Play-In after a brutal two rounds of knockout chess. 12 players were eliminated from the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-paris-freestyle-chess-grand-slam-play-in-day-2",
-         "pubDate" : "Thu, 13 Mar 2025 16:04:00",
-         "title" : "Vidit, Rapport, Mamedov, Tabatabaei Fight For Final Spot In Paris"
-      },
-      {
          "description" : "The 16th Continental Women's Chess Championship of the Americas 2025 will be held April 30 - May 7, 2025 at the Dorados Conventions &amp; Resorts in Oaxtepec, Morelos, Mexico. The event, organized by the Chess Confederation of the Americas and the National Chess Federation of Mexico AC (FENAMAC) is open to all American continent chess federation women players.This is a nine-round event and the time control for all games is Game 90 with 30-second increment starting from move one. The champion will qualify to participate in the FIDE World Cup and the prize fund is $6,600 with the top eight finishers receiving a prize. Click here to download a PDF of the full tournament regulations.OFFICIAL PLA",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -856,22 +864,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-school-chess-championship-2024-25-in-peddapuram-ap/",
          "pubDate" : "Fri, 28 Feb 2025 16:45:10",
          "title" : "Certificate of National School Chess Championship 2024-25 in Peddapuram ,AP"
-      },
-      {
-         "description" : " Russian chess world champion who lost to Bobby Fischer in the sport's most famous match at the peak of the cold war Boris Spassky, who has died aged 88, was the gallant loser of the most famous match in chess history. The Russian champion conceded his world title to <a href=\"http://www.guardian.co.uk/obituaries/story/0,,2243089,00.html\">Bobby Fischer </a>at Reykjavik in 1972, but gained a host of admirers for his sportsmanlike behaviour and dignity in defeat. When Fischer had failed to appear for the opening ceremony, Moscow wanted Spassky to claim victory by default and return home. But he had struck a bond of friendship with the American at their previous meetings, and agreed to a first g",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/feb/28/boris-spassky-obituary",
-         "pubDate" : "Fri, 28 Feb 2025 13:54:33",
-         "title" : "Boris Spassky obituary"
-      },
-      {
-         "description" : "The 2025 Finance Council Meeting will be held on Saturday 26th April 2025 by video-conference (Zoom) starting at 1.30pm. &#160;At the time of this notice the meeting will mainly cover...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-finance-council-26-april-2025-call-for-motions/",
-         "pubDate" : "Fri, 28 Feb 2025 11:58:15",
-         "title" : "ECF Finance Council 26 April 2025 - call for motions"
       }
    ]
 }
