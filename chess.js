@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anyone seriously interested in openings cannot ignore the opening encyclopaedia. With over 1,500 professional articles and 100 video contributions from renowned grandmasters. Take a look at a free video example on opening trends......",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-free-video-samples",
+         "pubDate" : "Sat, 22 Mar 2025 16:04:39",
+         "title" : "New Opening Trends: Free video samples"
+      },
+      {
+         "description" : "Most chess players train randomly, inconsistently, or without a plan. That means if you train the right way, you can outperform 99% of players-even those who seem naturally gifted. And that's incredible news for you. Being part of a sports class in high school and working for the Swiss Olympic Athletes Commission gave me unique []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/achieve-more/",
+         "pubDate" : "Sat, 22 Mar 2025 14:00:00",
+         "title" : "The Hidden Potential in Chess: Why You Can Achieve More Than You Think"
+      },
+      {
+         "description" : "The finalists of the 2025 American Cup have been decided, with Hikaru Nakamura and Alice Lee securing their places through the Champions Bracket, while Fabiano Caruana and Tatev Abrahamyan fought back in the Elimination Bracket to earn rematches. Nakamura defeated Caruana in blitz tiebreaks before Caruana overcame Levon Aronian to stay in contention. In the women's section, Lee advanced after Abrahamyan missed a winning opportunity, but Abrahamyan recovered by eliminating Irina Krush, ensuring a new Grand Final pairing for the first time in the tournament's history. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-7",
+         "pubDate" : "Sat, 22 Mar 2025 13:30:00",
+         "title" : "American Cup: Nakamura and Lee win Champions Brackets, Caruana and Abrahamyan reach Grand Finals"
+      },
+      {
+         "description" : "Rescuing oneself from a seemingly hopeless position forms part of the armoury of every strong chess player. The current political situation in Ukraine reminds me ineluctably of the chess player's ability to salvage a draw from an inferior position. And of the various ways to achieve a draw, stalemate is by far the most emphatic. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/stalemate-the-art-of-the-draw/",
+         "pubDate" : "Sat, 22 Mar 2025 11:56:36",
+         "title" : "Stalemate: the art of the draw"
+      },
+      {
          "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2025 under 8, 10, 12, 14, 16 and 18 years, organised from 4 August (arrivals) to 8 August (departures). The event will be held in the Conference Hall of the 5-star Porto Palace Hotel in Thessaloniki, Greece. The European Youth Rapid and Blitz Chess Championship 2025 consists of two different events: 24th EUROPEAN YOUTH RAPID CHAMPIONSHIP []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,20 +50,20 @@ news_feed (
          "title" : "ECU partners with SenseRobot"
       },
       {
+         "description" : "A day after losing the Champions Final, GM Fabiano Caruana earned his spot in The American Cup&#38;nbsp;Grand Final after all. Caruana beat GM Levon Aronian on Friday in a blitz playoff in the Elimination Bracket Final and will now play GM Hikaru Naka...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-7",
+         "pubDate" : "Sat, 22 Mar 2025 04:49:00",
+         "title" : "Caruana, Abrahamyan Bounce Back To Qualify For American Cup Grand Finals"
+      },
+      {
          "description" : "Anna Muzychuk remains at the top of the Cyprus Women's Grand Prix after drawing with Zhu Jiner in round six. Zhu trails by half a point, with Aleksandra Goryachkina, Mariya Muzychuk and Harika Dronavalli close behind. Mariya secured her first win of the event, while Dronavalli took the full point against Dzagnidze. The remaining games ended in draws. With three rounds to go, the competition for the title remains wide open. | Photos: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-6",
          "pubDate" : "Sat, 22 Mar 2025 01:35:00",
          "title" : "Nicosia GP: Harika and M. Muzychuk grab victories"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
-         "pubDate" : "Fri, 21 Mar 2025 18:00:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Harika Dronavalli pounced on a late mistake by GM Nana Dzagnidze to recover from what she called a &#34;heartbreaking loss&#34; in the previous round of the 2025 Nicosia FIDE Women&#39;s Grand Prix. Harika is joined a point behind leader&#38;nbsp;GM Anna Muzyc...",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-american-cup-day-6",
          "pubDate" : "Thu, 20 Mar 2025 17:56:00",
          "title" : "Nakamura Beats Caruana In Blitz Playoffs, Wins Champions Final"
-      },
-      {
-         "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2025-live",
-         "pubDate" : "Thu, 20 Mar 2025 13:50:00",
-         "title" : "European Championship - Live"
       },
       {
          "description" : "In an historic moment for the global chess community, World Chess officially introduces a Patron Saint of Chess: bringing the game into a centuries-old tradition of sports and cultural patronage. St. Teresa of Avila, a 16th-century Spanish mystic, writer, and intellectual, is an apt choice for chess's first patron saint. One of the most influential figures of the Catholic Church, she was known for her deep strategic thinking, discipline, and ability to navigate complex intellectual and spiritual landscapes-qualities that also define the highest levels of chess.",
@@ -506,14 +530,6 @@ news_feed (
          "title" : "The Dangers of Overtraining: Why Slow and Steady Wins in Running and Chess"
       },
       {
-         "description" : "IM Stavroula Tsolakidou pounced on a mistake by GM Elisabeth Paehtz to pick up a full point as the 2025 Nicosia FIDE Women&#39;s Grand Prix began. She was joined in the early lead by GM Zhu Jiner, who replaces her Chinese compatriot GM Lei Tingjie in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-1",
-         "pubDate" : "Sat, 15 Mar 2025 12:59:00",
-         "title" : "Tsolakidou, Zhu Jiner Grab Wins As Nicosia Women's Grand Prix Begins"
-      },
-      {
          "description" : "The European Individual Chess Championship 2025 was officially declared opened yesterday evening in Eforie Nord, Romania! The Opening ceremony of the event took place in the playing venue of the event with the attendance by the Vice President of the Romanian Chess Federation Mr. Alin Berescu, Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu, and ECU Tournament Director Mr. Petr Pisk who addressed the distinguished guests. The Technical meeting of the Championship was held this morning with the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -746,6 +762,14 @@ news_feed (
          "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
       },
       {
+         "description" : "In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2025/02/what-is-dadaist-chess.html\">What Is Dadaist Chess?</A> (February 2025), I quoted from Wikipedia, <BLOCKQUOTE> Dada or Dadaism was an anti-establishment art movement that developed in 1915 in the context of the Great War [aka WWI] and the earlier anti-art movement. </BLOCKQUOTE> <P> Adding that to an earlier post titled, <A HREF=\"https://chessforallages.blogspot.com/2025/02/cubist-chess.html\">Cubist Chess</A> (February 2025; 'Marcel Duchamp plays cubist chess'), generates yet another view of Marcel Duchamp playing chess, shown below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pc03.jpg\" WIDTH=335 HE",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/03/dadaist-chess.html",
+         "pubDate" : "Mon, 03 Mar 2025 16:00:00",
+         "title" : "Dadaist Chess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118686721.cms\" />The Freestyle Chess Grand Slam Tour 2025 heads to Paris from April 7 to 14, featuring 12 top grandmasters competing for a $750,000 prize pool. The event, held at Pavillon Chesnaie du Roy, promises thrilling matches with world champions like Magnus Carlsen, Gukesh Dommaraju, and others. The final player will be selected via an online qualification event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -816,22 +840,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/stewart-reuben-funeral-details/",
          "pubDate" : "Sat, 01 Mar 2025 18:47:20",
          "title" : "Stewart Reuben - funeral details for Tuesday 4th March"
-      },
-      {
-         "description" : "Student: \"I thought I played well, but I only got 60% accuracy\". Me: \"But that was still an awesome game!\" This conversation happens often in my lessons. Accuracy scores can be fun, but they can also give us a misleading sense of how well we've played. Often, students play good practical chess but get a []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/accuracy-score/",
-         "pubDate" : "Sat, 01 Mar 2025 14:00:00",
-         "title" : "What Accuracy Score Is Good In Chess?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118649199.cms\" />Uzbek GM Nodirbek Yakubboev greeted India's Divya Deshmukh with a 'Namaste' before their match in Prague, showing respect and addressing past controversies. Yakubboev previously avoided a handshake with Indian GM R Vaishali for religious reasons, later apologizing. His gesture towards Deshmukh highlights efforts to bridge cultural differences, demonstrating mutual respect in the chess community.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-uzbek-gm-nodirbek-yakubboev-chooses-namaste-over-handshake-in-greeting-divya-deshmukh/articleshow/118649199.cms",
-         "pubDate" : "Sat, 01 Mar 2025 12:21:32",
-         "title" : "Watch: Uzbek GM chooses 'Namaste' over handshake before game"
       }
    ]
 }
