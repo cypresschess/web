@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anna Muzychuk remains at the top of the Cyprus Women's Grand Prix after drawing with Zhu Jiner in round six. Zhu trails by half a point, with Aleksandra Goryachkina, Mariya Muzychuk and Harika Dronavalli close behind. Mariya secured her first win of the event, while Dronavalli took the full point against Dzagnidze. The remaining games ended in draws. With three rounds to go, the competition for the title remains wide open. | Photos: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-6",
+         "pubDate" : "Sat, 22 Mar 2025 01:35:00",
+         "title" : "Nicosia GP: Harika and M. Muzychuk grab victories"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-6",
          "pubDate" : "Fri, 21 Mar 2025 15:43:00",
-         "title" : "Harika On Bounce-Back Win: \"The Game Is Cruel, So I Can't Be Friendly!\""
+         "title" : "Harika On Bounce-Back Win: 'The Game Is Cruel, So I Can't Be Friendly!'"
       },
       {
          "description" : "Please note that planned maintenance during Monday morning 24th March (starting around 10.30am) may affect the ECF websites (main, junior, senior, National Schools) as well as the ECF rating system...",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/planned-website-systems-maintenance-monday-23rd-march-2025/",
          "pubDate" : "Fri, 21 Mar 2025 15:29:08",
          "title" : "Planned website / systems maintenance Monday morning 24th March 2025"
-      },
-      {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Fri, 21 Mar 2025 13:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
       },
       {
          "description" : "GM Oleksandr Bortnyk won Freestyle Friday on March 21 in what was the closest yet of the nine tournaments so far, but ultimately, his second win following one on January 31. And while Bortnyk lost in the final round, which created a five-way tie f...",
@@ -848,14 +848,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/in-1984-i-claimed-a-moral-win-over-him-got-my-greatest-chess-tutorial-from-him-afterwards/articleshow/118641221.cms",
          "pubDate" : "Sat, 01 Mar 2025 03:59:19",
          "title" : "In 1984, I claimed a moral win over him; got my greatest chess tutorial from him afterwards"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118640857.cms\" />Indian Grandmaster R Praggnanandhaa won against Czech Republic's Nguyen Thai Dai Van in the third round of the Prague Masters. Praggnanandhaa achieved victory with a decisive middle game and expert endgame execution. This win was crucial after drawing his first two matches in the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-registers-first-win-in-prague-masters/articleshow/118640857.cms",
-         "pubDate" : "Sat, 01 Mar 2025 03:23:00",
-         "title" : "Praggnanandhaa registers first win in Prague Masters"
       }
    ]
 }
