@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union (ECU) has proud to announce a landmark partnership with SenseRobot, a leading innovator in AI technology solutions. The Hong Kong based company aims at redefining the future of home intelligence through groundbreaking AI innovation, including the large-scale production of home-use AI robotic arms. So why the cooperation with the ECU? You'll never guess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ecu-partners-with-senserobot",
+         "pubDate" : "Sat, 22 Mar 2025 07:00:00",
+         "title" : "ECU partners with SenseRobot"
+      },
+      {
          "description" : "Anna Muzychuk remains at the top of the Cyprus Women's Grand Prix after drawing with Zhu Jiner in round six. Zhu trails by half a point, with Aleksandra Goryachkina, Mariya Muzychuk and Harika Dronavalli close behind. Mariya secured her first win of the event, while Dronavalli took the full point against Dzagnidze. The remaining games ended in draws. With three rounds to go, the competition for the title remains wide open. | Photos: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://www.thearticle.com/requiem-for-fischer-and-spassky/",
          "pubDate" : "Sat, 01 Mar 2025 09:08:03",
          "title" : " Requiem for Fischer and Spassky"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118641221.cms\" />Boris Spassky's contributions to chess are commemorated through his remarkable games, including his rejuvenation of the Breyer defence and mastery of various strategies. Despite shifting from Soviet to French citizenship, Spassky maintained amicable ties with Russian players. Notably, his competitive spirit and achievements debunk myths of lack of seriousness in the 1972 World Championship against Bobby Fischer.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-1984-i-claimed-a-moral-win-over-him-got-my-greatest-chess-tutorial-from-him-afterwards/articleshow/118641221.cms",
-         "pubDate" : "Sat, 01 Mar 2025 03:59:19",
-         "title" : "In 1984, I claimed a moral win over him; got my greatest chess tutorial from him afterwards"
       }
    ]
 }
