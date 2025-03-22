@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2025 under 8, 10, 12, 14, 16 and 18 years, organised from 4 August (arrivals) to 8 August (departures). The event will be held in the Conference Hall of the 5-star Porto Palace Hotel in Thessaloniki, Greece. The European Youth Rapid and Blitz Chess Championship 2025 consists of two different events: 24th EUROPEAN YOUTH RAPID CHAMPIONSHIP []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2025-official-invitation/",
+         "pubDate" : "Sat, 22 Mar 2025 08:18:25",
+         "title" : "European Youth Rapid and Blitz Chess Championship 2025 - Official invitation"
+      },
+      {
          "description" : "The European Chess Union (ECU) has proud to announce a landmark partnership with SenseRobot, a leading innovator in AI technology solutions. The Hong Kong based company aims at redefining the future of home intelligence through groundbreaking AI innovation, including the large-scale production of home-use AI robotic arms. So why the cooperation with the ECU? You'll never guess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -554,14 +562,6 @@ news_feed (
          "title" : "Chitumbo Mwali wins 5th Zambian Chess Crown!"
       },
       {
-         "description" : "The ECU E-Magazine February 2025 is out! In this edition of the ECU E-Magazine you may read about: The February 2025 edition of the ECU E-Magazine can be read online together with interactive links through the following link, or it can be downloaded in the PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-february-2025/",
-         "pubDate" : "Wed, 12 Mar 2025 10:13:39",
-         "title" : "ECU E-Magazine February 2025"
-      },
-      {
          "description" : "Some of the world's best chess players have trained under him, yet his name remains unknown to many. He has worked with players like Anish Giri, Jorden van Foreest, and Vladimir Fedoseev but always stayed behind the scenes. He is known for his creative training methods and intensive sessions. The name of this mastermind is Roman Vidonyak, and Sagar Shah got the opportunity to meet him in Wijk aan Zee. Check out his interview in which he talks about his training journey, training philosophy, and what it takes to create champions. Photo: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,22 +832,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-uzbek-gm-nodirbek-yakubboev-chooses-namaste-over-handshake-in-greeting-divya-deshmukh/articleshow/118649199.cms",
          "pubDate" : "Sat, 01 Mar 2025 12:21:32",
          "title" : "Watch: Uzbek GM chooses 'Namaste' over handshake before game"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118646765.cms\" />GM Gukesh Dommaraju has climbed to world number three in the latest FIDE rankings after an impressive performance at the Tata Steel Chess Masters 2025. GM Praggnanandhaa Rameshbabu reentered the top-10 by winning the Tata Steel title. GM Magnus Carlsen remains number-one, while GM Hikaru Nakamura is now second. Significant shifts occurred in the women's rankings as well.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-achieves-career-high-ranking-praggnanandhaa-returns-to-top-10-in-latest-fide-ratings-chess/articleshow/118646765.cms",
-         "pubDate" : "Sat, 01 Mar 2025 09:54:44",
-         "title" : "Gukesh seals career-high ranking, Pragg returns to top 10"
-      },
-      {
-         "description" : "Last night I dreamt - not of Manderley, but of Bobby Fischer, whose 82nd birthday (had he lived) would have fallen next week (Sunday 9th March). The name of Bobby Fischer, like that of his American predecessor, Paul Morphy, still resonates with an iconic status among all chess enthusiasts. Fischer swept to the world chess []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/requiem-for-fischer-and-spassky/",
-         "pubDate" : "Sat, 01 Mar 2025 09:08:03",
-         "title" : " Requiem for Fischer and Spassky"
       }
    ]
 }
