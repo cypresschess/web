@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
+         "pubDate" : "Sat, 22 Mar 2025 18:00:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "The Social Chess Research Conference, held on 22 February, marked the launch of \"2025: Year of Social Chess\". Bringing together researchers and practitioners from around the world, the event explored the role of chess in social development, inclusion, and rehabilitation. Presentations covered topics ranging from cognitive training to chess-based addiction recovery. Organised by FIDE's Social Chess Commission, the conference set the stage for future initiatives aimed at leveraging chess as a tool for positive societal impact.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/research-conference-2025-uvencio-blanco-1",
+         "pubDate" : "Sat, 22 Mar 2025 16:30:00",
+         "title" : "Research Conference marks the start of the Year of Social Chess (I)"
+      },
+      {
          "description" : "Anyone seriously interested in openings cannot ignore the opening encyclopaedia. With over 1,500 professional articles and 100 video contributions from renowned grandmasters. Take a look at a free video example on opening trends......",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-claims-second-victory-at-prague-masters-joins-aravindh-at-top/articleshow/118658401.cms",
          "pubDate" : "Sun, 02 Mar 2025 04:40:55",
          "title" : "Praggnanandhaa claims second victory at Prague Masters, joins Aravindh at top"
-      },
-      {
-         "description" : "Tuesday 4th March 2025 at 12.30pm at Golders Green Crematorium East, 62 Hoop Lane, London NW11 7NL. Officiated by: Rabbi Roberta Harris (gentlemen please cover your heads). Stewart's niece has...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/stewart-reuben-funeral-details/",
-         "pubDate" : "Sat, 01 Mar 2025 18:47:20",
-         "title" : "Stewart Reuben - funeral details for Tuesday 4th March"
       }
    ]
 }
