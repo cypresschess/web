@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The players went back to the office today after yesterday's free day at the European Individual Chess Championship 2025. The 7th round brought lots of exciting games and it finished with thrilling results that significantly changed the rankings. We now have three players tying for the top with the score of 6/7 points: GM Matthias Bluebaum, GM Aryan Tari, and GM Baadur Jobava. GM Matthias Bluebaum (GER, 2643) took down the previous rounds leader GM Daniil Yuffa (ESP, 2654). Bluebaum []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/three-way-tie-for-the-top-at-eicc2025-after-thrilling-7th-round/",
+         "pubDate" : "Sat, 22 Mar 2025 22:27:17",
+         "title" : "Three-way tie for the top at EICC2025 after thrilling 7th round"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://nextlevelchess.com/achieve-more/",
          "pubDate" : "Sat, 22 Mar 2025 14:00:00",
          "title" : "The Hidden Potential in Chess: Why You Can Achieve More Than You Think"
+      },
+      {
+         "description" : "GM Zhu Jiner has regained the sole lead in the 2025 Nicosia FIDE Women&#39;s Grand Prix after brilliantly beating IM Divya Deshmukh while GM Anna Muzychuk missed a tactical blow that gave IM Olga Badelka her first win. GM Nana Dzagnidze scored the day...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-7",
+         "pubDate" : "Sat, 22 Mar 2025 13:40:00",
+         "title" : "Zhu Jiner Leads In Cyprus As Badelka Beats Anna Muzychuk"
       },
       {
          "description" : "The finalists of the 2025 American Cup have been decided, with Hikaru Nakamura and Alice Lee securing their places through the Champions Bracket, while Fabiano Caruana and Tatev Abrahamyan fought back in the Elimination Bracket to earn rematches. Nakamura defeated Caruana in blitz tiebreaks before Caruana overcame Levon Aronian to stay in contention. In the women's section, Lee advanced after Abrahamyan missed a winning opportunity, but Abrahamyan recovered by eliminating Irina Krush, ensuring a new Grand Final pairing for the first time in the tournament's history. | Photo: Lennart Ootes",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Nakamura, Caruana Miss Wins Vs. Mishra, Robson"
       },
       {
-         "description" : "GM Andrew Tang&#39;s purple patch has continued, with the hyperbullet exponent capturing his fourth Bullet Brawl title of 2025 and eighth overall after scoring 249 points. Tang eclipsed the scores of GMs Oleksandr Bortnyk, Daniel Naroditsky, Arjun Eri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-15-2025",
-         "pubDate" : "Sat, 15 Mar 2025 17:20:00",
-         "title" : "Tang Bolts To 8th Bullet Brawl Title Ahead Of Bortnyk, Naroditsky"
-      },
-      {
          "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -568,14 +576,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-national-team-chess-championship-2024-25/",
          "pubDate" : "Fri, 14 Mar 2025 11:33:59",
          "title" : "FINAL REPORT:NATIONAL TEAM CHESS CHAMPIONSHIP 2024-25"
-      },
-      {
-         "description" : "The 2025 European Individual Chess Championship starts tomorrow in Eforie Nord, Romania, and will be played from 15-26 March at the&#160;Ana Hotels Europa. Nearly 400 players from 40 European federations registered for the event, including 103 Grandmasters, 77 International Masters, 71 FIDE masters. The top seeds are: Bogdan-Daniel Deac (ROU, 2692), Alexey Sarana (SRB, 2689), Jorden Van Foreest (NED, 2676), Pavel Eljanov (UKR, 2666), Shant Sargsyan (ARM, 2666), Daniel Dardha (BEL, 2665), David Anton Guijarro (ESP, 2663), David Navara (CZE, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-starts-tomorrow/",
-         "pubDate" : "Fri, 14 Mar 2025 08:10:53",
-         "title" : "European Individual Chess Championship 2025 starts tomorrow"
       },
       {
          "description" : " The new eight-episode series, sandwiched between Mastermind and University Challenge, has split opinion BBC Two's new eight-episode series Chess Masters: The Endgame, aired on Monday evening at 8pm between Mastermind and University Challenge, has provoked strong but sharply divided reactions, both among television critics and seasoned chess experts and amateurs. The Guardian's Lucy Mangan called it \"<a href=\"https://www.theguardian.com/tv-and-radio/2025/mar/10/chess-masters-the-endgame-review-so-dull-its-almost-unwatchable\">so dull it's almost unwatchable</a>\". Although when she says \"the flurry of interest in chess was five years ago\", it seems that she missed the publicity bursts for the ",
