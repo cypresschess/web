@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
+         "pubDate" : "Sun, 23 Mar 2025 18:00:00",
+         "title" : "The American Cup - Live!"
+      },
+      {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.europechess.org/three-way-tie-for-the-top-at-eicc2025-after-thrilling-7th-round/",
          "pubDate" : "Sat, 22 Mar 2025 22:27:17",
          "title" : "Three-way tie for the top at EICC2025 after thrilling 7th round"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
-         "pubDate" : "Sat, 22 Mar 2025 18:00:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Andrew Tang has become the third player in Bullet Brawl&#38;nbsp;history to secure a hat trick after the American topped the 200-player titled arena on Saturday with a score of 255 points. He seized the $400 first prize for the fifth time this year...",
@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-chess-praggnanandhaa-and-aravindh-chithambaram-maintain-lead-after-draw-in-fifth-round/articleshow/118677299.cms",
          "pubDate" : "Mon, 03 Mar 2025 06:41:50",
          "title" : "Prague Masters Chess: Praggnanandhaa and Aravindh Chithambaram maintain lead after draw in fifth round"
-      },
-      {
-         "description" : "First question: How much artwork has been featured in the long running series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010)? In last month's post, <A HREF=\"https://chessforallages.blogspot.com/2025/02/a-sammarinese-artist.html\">A Sammarinese Artist</A> (February 2025), I wrote, 'I almost always go for any artwork', so there must have been plenty. <P> Second question: How much of that artwork has featured comic books? It turns out not to be so much, because I count exactly six posts. <P> The title of the item pictured below was 'MORE FUN COMICS #76 CGC VG 4.0; OW; Dr. Fate chess cover! Scarce!' It sold ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/03/more-fun-tops-eerie.html",
-         "pubDate" : "Sun, 02 Mar 2025 16:45:00",
-         "title" : "More Fun Tops Eerie"
       }
    ]
 }
