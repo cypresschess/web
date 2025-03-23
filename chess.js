@@ -840,22 +840,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-arbiter-refresher-course-2025-2026/",
          "pubDate" : "Sun, 02 Mar 2025 08:55:04",
          "title" : "AICF ARBITER REFRESHER COURSE 2025-2026"
-      },
-      {
-         "description" : "TENTATIVE NATIONAL CALENDAR No. Event State Date 1 National Under-7 Odisha 04-08 June 2025 2 National Under-09 Haryana 14-20 June 2025 3 National Under-11 Maharashtra",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tentative-national-calendar-for-2025-26/",
-         "pubDate" : "Sun, 02 Mar 2025 07:02:58",
-         "title" : "TENTATIVE NATIONAL CALENDAR FOR 2025-26"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118658401.cms\" />Indian grandmasters R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters with three points each after round four. Praggnanandhaa achieved victory over Germany's Vincent Keymer, while Aravindh drew with American Sam Shankland, setting up an exciting upcoming round between the two Indian leaders.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-claims-second-victory-at-prague-masters-joins-aravindh-at-top/articleshow/118658401.cms",
-         "pubDate" : "Sun, 02 Mar 2025 04:40:55",
-         "title" : "Praggnanandhaa claims second victory at Prague Masters, joins Aravindh at top"
       }
    ]
 }
