@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-controversial-jeans-fetch-rs-31-lakh-at-auction/articleshow/118662462.cms",
          "pubDate" : "Sun, 02 Mar 2025 11:39:09",
          "title" : "Magnus Carlsen's controversial jeans fetch Rs 31 lakh at auction"
-      },
-      {
-         "description" : "All India Chess Federation is going to organize two days Online Arbiter Refresher Course for all IA's International Arbiters desirous to undergo the subject Refresher",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-arbiter-refresher-course-2025-2026/",
-         "pubDate" : "Sun, 02 Mar 2025 08:55:04",
-         "title" : "AICF ARBITER REFRESHER COURSE 2025-2026"
       }
    ]
 }
