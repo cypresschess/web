@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
+         "pubDate" : "Sun, 23 Mar 2025 13:55:00",
+         "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura started the The American Cup&#38;nbsp;Grand Final with a win in the first classical game vs. GM Fabiano Caruana. Nakamura needs a draw with Black on Sunday to clinch the $75,000 first prize. After entering the Women&#39;s American Cup...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-american-cup-day-8",
+         "pubDate" : "Sun, 23 Mar 2025 05:35:57",
+         "title" : "Abrahamyan, Nakamura Start With Wins In American Cup Grand Finals"
+      },
+      {
          "description" : "Round 7 of the Women's Grand Prix in Nicosia saw three decisive games and a new leader emerge. Olga Badelka stunned Anna Muzychuk with a fierce attacking game, allowing Zhu Jiner to take the lead after her win against Divya Deshmukh. Nana Dzagnidze also bounced back, defeating Stavroula Tsolakidou with the black pieces. | Photos: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/research-conference-2025-uvencio-blanco-1",
          "pubDate" : "Sat, 22 Mar 2025 16:30:00",
          "title" : "Research Conference marks the start of the Year of Social Chess (I)"
-      },
-      {
-         "description" : "Anyone seriously interested in openings cannot ignore the opening encyclopaedia. With over 1,500 professional articles and 100 video contributions from renowned grandmasters. Take a look at a free video example on opening trends......",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-free-video-samples",
-         "pubDate" : "Sat, 22 Mar 2025 16:04:39",
-         "title" : "New Opening Trends: Free video samples"
       },
       {
          "description" : "Most chess players train randomly, inconsistently, or without a plan. That means if you train the right way, you can outperform 99% of players-even those who seem naturally gifted. And that's incredible news for you. Being part of a sports class in high school and working for the Swiss Olympic Athletes Commission gave me unique []",
@@ -514,14 +522,6 @@ news_feed (
          "title" : "William Scott honored in March 2025 Chess Life!"
       },
       {
-         "description" : "GM Zhu Jiner has taken the sole lead in the 2025 Nicosia FIDE Women&#39;s Grand Prix on 2/2 after GM Elisabeth Paehtz made a fatal move in an endgame she seemed to be holding. Only IM Stavroula Tsolakidou is within half a point after surviving a trick...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-2",
-         "pubDate" : "Sun, 16 Mar 2025 13:52:00",
-         "title" : "Zhu Jiner Takes Sole Lead On 2/2"
-      },
-      {
          "description" : " The 25th European Individual Championship takes place Sat 15th to Wed 26th Mar 2025 in Eforie Nord, Romania. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -824,14 +824,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/03/more-fun-tops-eerie.html",
          "pubDate" : "Sun, 02 Mar 2025 16:45:00",
          "title" : "More Fun Tops Eerie"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118662462.cms\" />Magnus Carlsen's jeans auctioned for $36,100, significantly captivating the chess community. Originally priced between $300-$500, the jeans gained notoriety during the World Rapid Championship. The proceeds are donated to Big Brothers Big Sisters of America, enhancing their chess clinics and mentorship programs, thus reflecting Carlsen's commitment to both principle and philanthropy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-controversial-jeans-fetch-rs-31-lakh-at-auction/articleshow/118662462.cms",
-         "pubDate" : "Sun, 02 Mar 2025 11:39:09",
-         "title" : "Magnus Carlsen's controversial jeans fetch Rs 31 lakh at auction"
       }
    ]
 }
