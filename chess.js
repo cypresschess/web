@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight rounds have been already played at the European Individual Chess Championship 2025 in Eforie Nord, Romania, and just three rounds left before the announcement of the Winners and qualifiers for the next World Chess Cup. Scoring 6.5 points each, GM Baadur Jobava (GEO, 2578), GM Daniil Yuffa (ESP, 2654), GM Aryan Tari (NOR, 2621), GM Matthias Bluebaum (GER, 2643) and GM Gabriel Sargissian (ARM, 2628) tie for the top, and they are followed by a group of 18 players []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/five-players-in-joint-lead-at-eicc2025-after-eight-played-rounds/",
+         "pubDate" : "Sun, 23 Mar 2025 23:14:19",
+         "title" : "Five players in joint lead at EICC2025 after eight played rounds"
+      },
+      {
+         "description" : " The American Cup takes place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Players Open: Nakamura, Caruana, Aronian, So, Dominguez, Sevian, Robson, Mishra, Women: Yip, Lee, Krush, Zatonskih, Abrahamyan, Pourkashiyan, Paikidze, Cervantes. Hikaru Nakamura beat Fabiano Caruana both in the winners final and the grand final to win the event. Similarly Alice Lee beat Tatev Abrahamyan twice in the two women's finals so a grand final reset was not required on Monday, there will be a final blitz on that day.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2025",
+         "pubDate" : "Sun, 23 Mar 2025 21:06:00",
+         "title" : "American Cup 2025 - "
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "25th European Individual Championship 2025 - Games and Results"
       },
       {
-         "description" : " The American Cup takes place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Players Open: Nakamura, Caruana, Aronian, So, Dominguez, Sevian, Robson, Mishra, Women: Yip, Lee, Krush, Zatonskih, Abrahamyan, Pourkashiyan, Paikidze, Cervantes.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2025",
-         "pubDate" : "Sat, 15 Mar 2025 21:06:00",
-         "title" : "American Cup 2025 - "
-      },
-      {
          "description" : " The Nicosia FIDE Women's Grand Prix takes place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/overtraining/",
          "pubDate" : "Sat, 15 Mar 2025 14:00:00",
          "title" : "The Dangers of Overtraining: Why Slow and Steady Wins in Running and Chess"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2025 was officially declared opened yesterday evening in Eforie Nord, Romania! The Opening ceremony of the event took place in the playing venue of the event with the attendance by the Vice President of the Romanian Chess Federation Mr. Alin Berescu, Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu, and ECU Tournament Director Mr. Petr Pisk who addressed the distinguished guests. The Technical meeting of the Championship was held this morning with the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-starts-in-eforie-nord/",
-         "pubDate" : "Sat, 15 Mar 2025 11:25:25",
-         "title" : "European Individual Chess Championship 2025 starts in Eforie Nord"
       },
       {
          "description" : "​I am sad to report the passing of one of the outstanding personalities of British chess: Stewart Reuben, who has diedin Jamaica on 4 February 2025 at the age of 85. Playing chess was not his principal claim to fame. Where Stewart made his mark was as tournament organiser, arbiter and, to a certain extent, []",
