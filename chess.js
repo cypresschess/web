@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 7 of the Women's Grand Prix in Nicosia saw three decisive games and a new leader emerge. Olga Badelka stunned Anna Muzychuk with a fierce attacking game, allowing Zhu Jiner to take the lead after her win against Divya Deshmukh. Nana Dzagnidze also bounced back, defeating Stavroula Tsolakidou with the black pieces. | Photos: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-7",
+         "pubDate" : "Sun, 23 Mar 2025 04:00:00",
+         "title" : "Nicosia GP: Shake up at the top as Zhu regains the sole lead"
+      },
+      {
          "description" : "The players went back to the office today after yesterday's free day at the European Individual Chess Championship 2025. The 7th round brought lots of exciting games and it finished with thrilling results that significantly changed the rankings. We now have three players tying for the top with the score of 6/7 points: GM Matthias Bluebaum, GM Aryan Tari, and GM Baadur Jobava. GM Matthias Bluebaum (GER, 2643) took down the previous rounds leader GM Daniil Yuffa (ESP, 2654). Bluebaum []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2025-live",
          "pubDate" : "Sat, 22 Mar 2025 18:00:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "GM Andrew Tang has become the third player in Bullet Brawl&#38;nbsp;history to secure a hat trick after the American topped the 200-player titled arena on Saturday with a score of 255 points. He seized the $400 first prize for the fifth time this year...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-22-2025",
+         "pubDate" : "Sat, 22 Mar 2025 17:41:00",
+         "title" : "Hyperbullet Champion Tang Secures Bullet Brawl Hat Trick"
       },
       {
          "description" : "The Social Chess Research Conference, held on 22 February, marked the launch of \"2025: Year of Social Chess\". Bringing together researchers and practitioners from around the world, the event explored the role of chess in social development, inclusion, and rehabilitation. Presentations covered topics ranging from cognitive training to chess-based addiction recovery. Organised by FIDE's Social Chess Commission, the conference set the stage for future initiatives aimed at leveraging chess as a tool for positive societal impact.",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2025-commenced-in-eforie-nord-romania/",
          "pubDate" : "Sat, 15 Mar 2025 20:31:24",
          "title" : "European Individual Chess Championship 2025 commenced in Eforie Nord, Romania"
-      },
-      {
-         "description" : "All four games in The American Cup 2025&#38;nbsp;Open ended in draws, but the top two seeds, GMs Hikaru Nakamura and Fabiano Caruana, missed critical chances in their games against, respectively, GMs Abhimanyu Mishra and Ray Robson. In stark contras...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-1",
-         "pubDate" : "Sat, 15 Mar 2025 18:53:00",
-         "title" : "Nakamura, Caruana Miss Wins Vs. Mishra, Robson"
       },
       {
          "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
