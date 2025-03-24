@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2025-report/",
          "pubDate" : "Mon, 03 Mar 2025 11:41:34",
          "title" : "British Rapidplay Championship 2025 - report"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118677299.cms\" />Indian players R Praggnanandhaa and Aravindh Chithambaram lead the Prague Masters chess tournament with 3.5 points each after five rounds. This round witnessed Wei Yi's victory over Sam Shankland. Both Praggnanandhaa and Aravindh have maintained their positions, while Wei Yi, Anish Giri, Quang Lei, and Vincent Keymer follow closely behind with 2.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-chess-praggnanandhaa-and-aravindh-chithambaram-maintain-lead-after-draw-in-fifth-round/articleshow/118677299.cms",
-         "pubDate" : "Mon, 03 Mar 2025 06:41:50",
-         "title" : "Prague Masters Chess: Praggnanandhaa and Aravindh Chithambaram maintain lead after draw in fifth round"
       }
    ]
 }
