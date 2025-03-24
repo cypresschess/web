@@ -1,4 +1,5 @@
 jtable([
+"KATY","2025-03-22","104","<a href=http://www.uschess.org/msa/XtblMain.php?202503225252 target='_blank'>4TH ANNUAL ARISTOI CHESS TOURNAMENT</a>",
 "HOUSTON","2025-03-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202503224502 target='_blank'>CHESSPANDA03222025SATURDAY</a>",
 "CYPRESS","2025-03-22","42","<a href=http://www.uschess.org/msa/XtblMain.php?202503224152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2025-03-21","27","<a href=http://www.uschess.org/msa/XtblMain.php?202503214072 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2024-08-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408090672 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-08-09","28","<a href=http://www.uschess.org/msa/XtblMain.php?202408090652 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-08-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202408048542 target='_blank'>CYGA08042024</a>",
-"HOUSTON","2024-08-02  - 08-04","94","<a href=http://www.uschess.org/msa/XtblMain.php?202408048492 target='_blank'>$2,500 AUGUST 2024 CHAMPIONSHIP</a>",
 ]);
