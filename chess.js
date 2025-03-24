@@ -10,6 +10,14 @@ news_feed (
          "title" : "Five players in joint lead at EICC2025 after eight played rounds"
       },
       {
+         "description" : "The Punta del Este Masters Tournament was held from 14-20 March with six players taking part in a double round-robin format. Among the competitors were four GMs and two IMs, including Argentine Sandro Mareco, who started as favourite, and the 11-year-old Faustino Oro. Mareco was crowned champion with 6&frac12;/10 points, while Andr&eacute;s Rodr&iacute;guez and Jos&eacute; 'Pepe' Cuenca shared second place with 5&frac12; points each.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magistral-punta-del-este-2025-reportaje-final",
+         "pubDate" : "Sun, 23 Mar 2025 22:00:00",
+         "title" : "Sandro Mareco convincingly wins double round-robin in Punta del Este"
+      },
+      {
          "description" : " The American Cup takes place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Players Open: Nakamura, Caruana, Aronian, So, Dominguez, Sevian, Robson, Mishra, Women: Yip, Lee, Krush, Zatonskih, Abrahamyan, Pourkashiyan, Paikidze, Cervantes. Hikaru Nakamura beat Fabiano Caruana both in the winners final and the grand final to win the event. Similarly Alice Lee beat Tatev Abrahamyan twice in the two women's finals so a grand final reset was not required on Monday, there will be a final blitz on that day.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2025-live",
          "pubDate" : "Sun, 23 Mar 2025 18:00:00",
          "title" : "The American Cup - Live!"
+      },
+      {
+         "description" : "GM Anna Muzychuk&#39;s fourth win, over GM Elisabeth Paehtz, saw her catch GM Zhu Jiner in the lead going into the final round of the 2025 Nicosia FIDE Women&#39;s Grand Prix. GMs Harika Dronavalli, Aleksandra Goryachkina, and Mariya Muzychuk are within s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-8",
+         "pubDate" : "Sun, 23 Mar 2025 16:30:00",
+         "title" : "Anand Inspires Divya To 1st Win; Anna Muzychuk Catches Zhu"
       },
       {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2025-round-2-recap/",
          "pubDate" : "Sun, 16 Mar 2025 19:58:13",
          "title" : "European Individual Chess Championship 2025 - Round 2 recap"
-      },
-      {
-         "description" : "After four more draws in the classical portion, all of the matches in The American Cup 2025 Open went to blitz playoffs. GMs Hikaru Nakamura, Fabiano Caruana,&#38;nbsp; Leinier Dominguez, and Levon Aronian have advanced to the Champions Semifinals. Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-2",
-         "pubDate" : "Sun, 16 Mar 2025 18:59:00",
-         "title" : "Nakamura Shuts Down Near-Upset From Mishra"
       },
       {
          "description" : " William Alexander Scott III William Scott III was featured in the latest issue of Chess Life in a wonderful six-page tribute written by Mark Taylor. It is the most comprehensive account of his life. Previously, we had his obituary written by a relative. Here was an excerpt from that lengthy account. \"W.A.\" was studying Business The post <a href=\"https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/\">William Scott honored in March 2025 Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
