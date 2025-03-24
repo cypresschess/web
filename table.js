@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-03-22  - 03-23","25","<a href=http://www.uschess.org/msa/XtblMain.php?202503236302 target='_blank'>EVENT NAME MISSING</a>",
 "KATY","2025-03-22","104","<a href=http://www.uschess.org/msa/XtblMain.php?202503225252 target='_blank'>4TH ANNUAL ARISTOI CHESS TOURNAMENT</a>",
 "HOUSTON","2025-03-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202503224502 target='_blank'>CHESSPANDA03222025SATURDAY</a>",
 "CYPRESS","2025-03-22","42","<a href=http://www.uschess.org/msa/XtblMain.php?202503224152 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2024-08-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408090722 target='_blank'>FBCC PERSEI METEOR OPEN</a>",
 "SPRING","2024-08-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408090672 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-08-09","28","<a href=http://www.uschess.org/msa/XtblMain.php?202408090652 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-08-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202408048542 target='_blank'>CYGA08042024</a>",
 ]);
