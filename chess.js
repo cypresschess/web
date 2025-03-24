@@ -18,6 +18,22 @@ news_feed (
          "title" : "Matthias Bluebaum takes sole lead in EICC2025 with only two rounds to go"
       },
       {
+         "description" : "A day after winning the 2025 American Cup, GM Hikaru Nakamura picked up another $5,000 with his first-place finish in the 2025 American Cup Blitz. After two weeks of battling with the U.S.&#39;s best players, he leaves St. Louis with a total of $95,00...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-american-cup-blitz-2025",
+         "pubDate" : "Mon, 24 Mar 2025 16:10:56",
+         "title" : "Nakamura Wins Another $5,000 In American Cup Blitz"
+      },
+      {
+         "description" : "GM Anna Muzychuk has won the 2025 Nicosia FIDE Women&#39;s Grand Prix on tiebreaks ahead of GM Zhu Jiner, though both players take 117.5 Grand Prix points and &#38;euro;15,500 (~$16,750) each. The last round ended in five draws, but only after IM Olga Bad...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anna-muzychuk-wins-2025-fide-womens-grand-prix-nicosia",
+         "pubDate" : "Mon, 24 Mar 2025 14:32:00",
+         "title" : "Anna Muzychuk Wins Cyprus Grand Prix On Tiebreaks"
+      },
+      {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-alice-lee-win-american-cup-2025",
          "pubDate" : "Mon, 24 Mar 2025 04:49:00",
          "title" : "Nakamura, Lee Crowned American Cup Champions"
+      },
+      {
+         "description" : "After all the time scrambles and playoffs were over, two frontrunners emerged victorious in the 2025 American Cup. IM Alice Lee repeated last year's victory on Sunday, March 23, while GM Hikaru Nakamura (who sat out last year's edition) doubled down on his 2023 victory. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Lennart Ootes/SLCC<br> <br> <br> <br> Once again, enjoy GM Luka Budisavljevic's annotations. Today, the American Cup Blitz marks the formal end of the event, and Budisavljevic will be back later this week with highlights from the blitz (where, at the top of writing, Budisavljevic has already delivered an upset over GM Lei",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/lee-and-nakamura-each-add-second-american-cup-collection",
+         "pubDate" : "Mon, 24 Mar 2025 00:00:00",
+         "title" : "Lee and Nakamura Each Add Second American Cup to the Collection"
       },
       {
          "description" : "Eight rounds have been already played at the European Individual Chess Championship 2025 in Eforie Nord, Romania, and just three rounds left before the announcement of the Winners and qualifiers for the next World Chess Cup. Scoring 6.5 points each, GM Baadur Jobava (GEO, 2578), GM Daniil Yuffa (ESP, 2654), GM Aryan Tari (NOR, 2621), GM Matthias Bluebaum (GER, 2643) and GM Gabriel Sargissian (ARM, 2628) tie for the top, and they are followed by a group of 18 players []",
@@ -466,22 +490,6 @@ news_feed (
          "title" : "Only six players remain perfect at the European Individual Chess Championship 2025"
       },
       {
-         "description" : "After two draws in the Open Champions Semifinals of the The American Cup 2025, no one was able to break ahead. There was more action in the Open Elimination Round 1, where GM Sam Sevian eliminated GM Ray Robson in blitz tiebreaks 3-1 and GM Wesley...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-3",
-         "pubDate" : "Mon, 17 Mar 2025 18:35:00",
-         "title" : "Lee, Abrahamyan Take Leads Vs. Krush, Yip; Draws In Open Champions Bracket"
-      },
-      {
-         "description" : "The BBC&#38;rsquo;s latest reality TV competition, Chess Masters: The Endgame, made its highly anticipated debut on March 10, marking a rare return of chess to prime-time television. However, the eight-episode series has provoked mixed responses from ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bbc-chess-masters-good-news-for-chess-reactions",
-         "pubDate" : "Mon, 17 Mar 2025 16:33:00",
-         "title" : "'Good News For Chess' As BBC's 'Chess Masters' Sparks Mixed Reactions Following Premiere"
-      },
-      {
          "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/top-seeds-survive-upset-bids-first-round-american-cup",
          "pubDate" : "Mon, 17 Mar 2025 00:00:00",
          "title" : "Top Seeds Survive Upset Bids in First Round of American Cup"
-      },
-      {
-         "description" : "US Chess is accepting nominations for the Dan Heisman Award for Excellence in Chess Instruction.This annual award recognizes a chess instructor who has demonstrated long-standing commitment to developing chess players, in service to the chess and broader communities. A chess instructor is a teacher first and foremost. While a coach often has these same attributes, an instructor conveys a broader concept.<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> Dan Heisman in 2007<br> <br> <br> This award is made possible through a generous gift from Dan Heisman, whose family has a long history of supporting philanthropic causes.\"It occurred to me that there was no award recognizing ex",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-accepting-nominations-2025-dan-heisman-award-excellence-chess-instruction",
-         "pubDate" : "Mon, 17 Mar 2025 00:00:00",
-         "title" : "US Chess Accepting Nominations for 2025 Dan Heisman Award for Excellence in Chess Instruction"
       },
       {
          "description" : "The second round of the European Individual Chess Championship 2025 saw interesting encounters and the top board clashes between the Grandmasters. We saw plenty of decisive games, but also a bigger number of draws comparing to the statistics of the first round. Playing on the podium reserved for the first three matches, GM Alexey Sarana (SRB, 2689) defeated GM Matej Sebenik (SLO, 2492) and proved the role of the favourite, GM Jorden Van Foreest (NED, 2676) won against IM Jakub []",
