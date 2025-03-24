@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Nicosia FIDE Women's Grand Prix took place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz. Anna Muzychuk edged out Jiner Zhu on tie-break after both scored 6/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/nicosia-fide-womens-grand-prix-2025",
+         "pubDate" : "Mon, 24 Mar 2025 19:12:00",
+         "title" : "Nicosia FIDE Women's Grand Prix 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Matthias Bluebaum (GER, 2643) emerged as the sole leader of the European Individual Chess Championship 2025 with only two rounds to go! Playing with Whites on the second board today, GM Matthias Bluebaum (GER, 2643) outplayed GM Baadur Jobava (GEO, 2578). Bluebaum had an advantage out of the opening, and seized it further throughout the middlegame to eventually convert it into a two pawns up endgame that he easily won. After today's victory, the European Chess Champion from 2022 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/matthias-bluebaum-takes-sole-lead-in-eicc2025-with-only-two-rounds-to-go/",
+         "pubDate" : "Mon, 24 Mar 2025 19:08:26",
+         "title" : "Matthias Bluebaum takes sole lead in EICC2025 with only two rounds to go"
+      },
+      {
          "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,28 @@ news_feed (
          "title" : "ChessBase anytime, anywhere - the free app offers great features"
       },
       {
+         "description" : "More than 40 years after the BBC first dipped its programming toe into chess with The Master Game, the network has returned this month with Chess Masters: The Endgame, which airs at 8 p.m. GMT on Monday nights. One the main differences between tha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lulas-experience-on-chess-masters-the-endgame",
+         "pubDate" : "Mon, 24 Mar 2025 10:48:00",
+         "title" : "Lula's Experience on 'Chess Masters: The Endgame'"
+      },
+      {
          "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
          "pubDate" : "Mon, 24 Mar 2025 10:17:19",
          "title" : "Next Grassroots assessment"
+      },
+      {
+         "description" : "In last season&#39;s Collegiate Chess League (CCL) finals, the University of Missouri (Mizzou) defeated St. Louis University (SLU) in a tight match. There were some adventures along the way, but both teams have worked their way back to the Collegiate ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-semifinals",
+         "pubDate" : "Mon, 24 Mar 2025 10:07:45",
+         "title" : "SLU, Mizzou Win To Set Up Rematch In Finals"
       },
       {
          "description" : "An opportunity exists to play a part in the ECF Grassroots Scheme. We need a new volunteer coordinator to cover South East England. Your task will be to assess grant...",
@@ -450,22 +482,6 @@ news_feed (
          "title" : "'Good News For Chess' As BBC's 'Chess Masters' Sparks Mixed Reactions Following Premiere"
       },
       {
-         "description" : "GM Anna Muzychuk scored the only win of round three of the 2025 Nicosia FIDE Women&#39;s Grand Prix, though a huge miss approaching move 40 meant she had to do it all over again before checkmating GM Nana Dzagnidze on move 86. GM Zhu Jiner continues t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-3",
-         "pubDate" : "Mon, 17 Mar 2025 15:09:00",
-         "title" : "Anna Muzychuk Beats Dzagnidze Twice To Climb To 2nd"
-      },
-      {
-         "description" : "The University of the Texas Rio Grande Valley (UTRGV) started the Collegiate Chess League (CCL) playoffs with a bang against the National Technical University of Athens (NTUA). Athens entered the playoffs with a better regular season record but UT...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-news-view-2025-collegiate-chess-league-spring-week-8",
-         "pubDate" : "Mon, 17 Mar 2025 14:47:29",
-         "title" : "Texas And Lviv Advance To The Semifinals: CCL Playoffs"
-      },
-      {
          "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,22 +536,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
          "pubDate" : "Sat, 15 Mar 2025 21:08:00",
          "title" : "25th European Individual Championship 2025 - Games and Results"
-      },
-      {
-         "description" : " The Nicosia FIDE Women's Grand Prix takes place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/nicosia-fide-womens-grand-prix-2025",
-         "pubDate" : "Sat, 15 Mar 2025 20:54:00",
-         "title" : "Nicosia FIDE Women's Grand Prix 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 European Individual Chess Championship commenced today in Eforie Nord, Romania! The first round of the event was opened by Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu, ECU Tournament Director Mr. Petr Pisk, and the representative of the Romanian Special Tele-Communication Service and Institutional Partner of the Romanian Chess Federation Mr. Rucareanu. Mr. Rucareanu made a first ceremonial move in the top bord game between IM Nicolai Kistrup (DEN, 2356) and GM Bogdan-Daniel Deac (ROU, 2692) []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-commenced-in-eforie-nord-romania/",
-         "pubDate" : "Sat, 15 Mar 2025 20:31:24",
-         "title" : "European Individual Chess Championship 2025 commenced in Eforie Nord, Romania"
       },
       {
          "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-grandmaster-r-praggnanandhaa-aims-for-victory-in-round-6/articleshow/118697793.cms",
          "pubDate" : "Tue, 04 Mar 2025 04:26:28",
          "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
-      },
-      {
-         "description" : "In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2025/02/what-is-dadaist-chess.html\">What Is Dadaist Chess?</A> (February 2025), I quoted from Wikipedia, <BLOCKQUOTE> Dada or Dadaism was an anti-establishment art movement that developed in 1915 in the context of the Great War [aka WWI] and the earlier anti-art movement. </BLOCKQUOTE> <P> Adding that to an earlier post titled, <A HREF=\"https://chessforallages.blogspot.com/2025/02/cubist-chess.html\">Cubist Chess</A> (February 2025; 'Marcel Duchamp plays cubist chess'), generates yet another view of Marcel Duchamp playing chess, shown below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-pc03.jpg\" WIDTH=335 HE",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/03/dadaist-chess.html",
-         "pubDate" : "Mon, 03 Mar 2025 16:00:00",
-         "title" : "Dadaist Chess"
       }
    ]
 }
