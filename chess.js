@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Are you a passionate chess fan? Then we have good news for you: with the new ChessBase Mobile App you can take all your games and databases with you wherever you go, thanks to the cloud. The new and user-friendly app for Android, iOS and tablets is sure to make your chess heart beat faster.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-anytime-anywhere-the-free-app-offers-great-features",
+         "pubDate" : "Mon, 24 Mar 2025 11:00:00",
+         "title" : "ChessBase anytime, anywhere - the free app offers great features"
+      },
+      {
+         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
+         "pubDate" : "Mon, 24 Mar 2025 10:17:19",
+         "title" : "Next Grassroots assessment"
+      },
+      {
+         "description" : "An opportunity exists to play a part in the ECF Grassroots Scheme. We need a new volunteer coordinator to cover South East England. Your task will be to assess grant...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-grassroots-initiative-regional-coordinator-south-east-england/",
+         "pubDate" : "Mon, 24 Mar 2025 09:10:32",
+         "title" : "ECF Grassroots Initiative: Regional Coordinator South East England"
+      },
+      {
          "description" : "Eight rounds have been already played at the European Individual Chess Championship 2025 in Eforie Nord, Romania, and just three rounds left before the announcement of the Winners and qualifiers for the next World Chess Cup. Scoring 6.5 points each, GM Baadur Jobava (GEO, 2578), GM Daniil Yuffa (ESP, 2654), GM Aryan Tari (NOR, 2621), GM Matthias Bluebaum (GER, 2643) and GM Gabriel Sargissian (ARM, 2628) tie for the top, and they are followed by a group of 18 players []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -359,7 +383,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
          "pubDate" : "Wed, 19 Mar 2025 09:00:34",
-         "title" : "The 10th Menchik Memorial - starts tomorrow!"
+         "title" : "The 10th Menchik Memorial"
       },
       {
          "description" : "We&#39;re excited to announce that Chess.com is now hosting the vast majority of games on our platform on the Realtime Chess Network, the only globally distributed chess server, which we&#39;ve been developing over the last four years. This means many pla...",
