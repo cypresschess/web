@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
+         "pubDate" : "Mon, 24 Mar 2025 12:55:00",
+         "title" : "Women's Grand Prix Nicosia - Live!"
+      },
+      {
          "description" : "Are you a passionate chess fan? Then we have good news for you: with the new ChessBase Mobile App you can take all your games and databases with you wherever you go, thanks to the cloud. The new and user-friendly app for Android, iOS and tablets is sure to make your chess heart beat faster.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-grassroots-initiative-regional-coordinator-south-east-england/",
          "pubDate" : "Mon, 24 Mar 2025 09:10:32",
          "title" : "ECF Grassroots Initiative: Regional Coordinator South East England"
+      },
+      {
+         "description" : "A solid draw with the black pieces vs. GM Fabiano Caruana&#38;nbsp;was all GM Hikaru Nakamura needed to win The American Cup Grand Final on Sunday in St. Louis. Nakamura won the $75,000 first prize plus a $15,000 Champion&#39;s Bracket bonus, with $55,000...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-alice-lee-win-american-cup-2025",
+         "pubDate" : "Mon, 24 Mar 2025 04:49:00",
+         "title" : "Nakamura, Lee Crowned American Cup Champions"
       },
       {
          "description" : "Eight rounds have been already played at the European Individual Chess Championship 2025 in Eforie Nord, Romania, and just three rounds left before the announcement of the Winners and qualifiers for the next World Chess Cup. Scoring 6.5 points each, GM Baadur Jobava (GEO, 2578), GM Daniil Yuffa (ESP, 2654), GM Aryan Tari (NOR, 2621), GM Matthias Bluebaum (GER, 2643) and GM Gabriel Sargissian (ARM, 2628) tie for the top, and they are followed by a group of 18 players []",
@@ -66,28 +82,12 @@ news_feed (
          "title" : "Anand Inspires Divya To 1st Win; Anna Muzychuk Catches Zhu"
       },
       {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Sun, 23 Mar 2025 13:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
-      },
-      {
          "description" : "GM Hikaru Nakamura started the The American Cup&#38;nbsp;Grand Final with a win in the first classical game vs. GM Fabiano Caruana. Nakamura needs a draw with Black on Sunday to clinch the $75,000 first prize. After entering the Women&#39;s American Cup...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-american-cup-day-8",
          "pubDate" : "Sun, 23 Mar 2025 05:35:57",
          "title" : "Abrahamyan, Nakamura Start With Wins In American Cup Grand Finals"
-      },
-      {
-         "description" : "Round 7 of the Women's Grand Prix in Nicosia saw three decisive games and a new leader emerge. Olga Badelka stunned Anna Muzychuk with a fierce attacking game, allowing Zhu Jiner to take the lead after her win against Divya Deshmukh. Nana Dzagnidze also bounced back, defeating Stavroula Tsolakidou with the black pieces. | Photos: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-7",
-         "pubDate" : "Sun, 23 Mar 2025 04:00:00",
-         "title" : "Nicosia GP: Shake up at the top as Zhu regains the sole lead"
       },
       {
          "description" : "The players went back to the office today after yesterday's free day at the European Individual Chess Championship 2025. The 7th round brought lots of exciting games and it finished with thrilling results that significantly changed the rankings. We now have three players tying for the top with the score of 6/7 points: GM Matthias Bluebaum, GM Aryan Tari, and GM Baadur Jobava. GM Matthias Bluebaum (GER, 2643) took down the previous rounds leader GM Daniil Yuffa (ESP, 2654). Bluebaum []",
@@ -106,14 +106,6 @@ news_feed (
          "title" : "Hyperbullet Champion Tang Secures Bullet Brawl Hat Trick"
       },
       {
-         "description" : "The Social Chess Research Conference, held on 22 February, marked the launch of \"2025: Year of Social Chess\". Bringing together researchers and practitioners from around the world, the event explored the role of chess in social development, inclusion, and rehabilitation. Presentations covered topics ranging from cognitive training to chess-based addiction recovery. Organised by FIDE's Social Chess Commission, the conference set the stage for future initiatives aimed at leveraging chess as a tool for positive societal impact.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/research-conference-2025-uvencio-blanco-1",
-         "pubDate" : "Sat, 22 Mar 2025 16:30:00",
-         "title" : "Research Conference marks the start of the Year of Social Chess (I)"
-      },
-      {
          "description" : "Most chess players train randomly, inconsistently, or without a plan. That means if you train the right way, you can outperform 99% of players-even those who seem naturally gifted. And that's incredible news for you. Being part of a sports class in high school and working for the Swiss Olympic Athletes Commission gave me unique []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -128,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-7",
          "pubDate" : "Sat, 22 Mar 2025 13:40:00",
          "title" : "Zhu Jiner Leads In Cyprus As Badelka Beats Anna Muzychuk"
-      },
-      {
-         "description" : "The finalists of the 2025 American Cup have been decided, with Hikaru Nakamura and Alice Lee securing their places through the Champions Bracket, while Fabiano Caruana and Tatev Abrahamyan fought back in the Elimination Bracket to earn rematches. Nakamura defeated Caruana in blitz tiebreaks before Caruana overcame Levon Aronian to stay in contention. In the women's section, Lee advanced after Abrahamyan missed a winning opportunity, but Abrahamyan recovered by eliminating Irina Krush, ensuring a new Grand Final pairing for the first time in the tournament's history. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-7",
-         "pubDate" : "Sat, 22 Mar 2025 13:30:00",
-         "title" : "American Cup: Nakamura and Lee win Champions Brackets, Caruana and Abrahamyan reach Grand Finals"
       },
       {
          "description" : "Rescuing oneself from a seemingly hopeless position forms part of the armoury of every strong chess player. The current political situation in Ukraine reminds me ineluctably of the chess player's ability to salvage a draw from an inferior position. And of the various ways to achieve a draw, stalemate is by far the most emphatic. []",
@@ -170,14 +154,6 @@ news_feed (
          "title" : "Caruana, Abrahamyan Bounce Back To Qualify For American Cup Grand Finals"
       },
       {
-         "description" : "Anna Muzychuk remains at the top of the Cyprus Women's Grand Prix after drawing with Zhu Jiner in round six. Zhu trails by half a point, with Aleksandra Goryachkina, Mariya Muzychuk and Harika Dronavalli close behind. Mariya secured her first win of the event, while Dronavalli took the full point against Dzagnidze. The remaining games ended in draws. With three rounds to go, the competition for the title remains wide open. | Photos: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-6",
-         "pubDate" : "Sat, 22 Mar 2025 01:35:00",
-         "title" : "Nicosia GP: Harika and M. Muzychuk grab victories"
-      },
-      {
          "description" : "GM Harika Dronavalli pounced on a late mistake by GM Nana Dzagnidze to recover from what she called a &#34;heartbreaking loss&#34; in the previous round of the 2025 Nicosia FIDE Women&#39;s Grand Prix. Harika is joined a point behind leader&#38;nbsp;GM Anna Muzyc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-joked-about-changing-the-name-of-the-bishop-it-blew-up",
          "pubDate" : "Fri, 21 Mar 2025 10:52:00",
          "title" : "Chess.com Joke About Renaming The Bishop Generates Viral Internet Firestorm"
-      },
-      {
-         "description" : "On Sunday the Kasparov Chess Foundation Academy will host a lecture by Vladimir Tukmakov titled \"Bluff in Chess\". Drawing from his extensive experience, Tukmakov will delve into the art of taking calculated risks in chess, a theme he explores in his book Risk & Bluff in Chess: The Art of Taking Calculated Risks. Participants can anticipate an in-depth analysis of how deception and risk intertwine in high-level play, enriched by anecdotes from Tukmakov's own games and those of other grandmasters.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-how-to-bluff-in-chess",
-         "pubDate" : "Fri, 21 Mar 2025 09:30:00",
-         "title" : "KCF: How to bluff in chess"
       },
       {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
@@ -304,22 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-lashes-out-at-disrespectful-dubov-cancels-lie-detector-test",
          "pubDate" : "Thu, 20 Mar 2025 12:07:00",
          "title" : "Hans Niemann Backs Out Of Lie Detector Test, Accuses Daniil Dubov Of 'Disrespectful' Behavior"
-      },
-      {
-         "description" : "Day 5 of the 2025 American Cup saw contrasting matches in the Champions Brackets, with Alice Lee securing a key win in the women's section, while Hikaru Nakamura and Fabiano Caruana opted for a quick draw in the open section. Meanwhile, the Elimination Brackets featured intense battles, as Irina Krush and Nazi Paikidze advanced in the women's event, while Levon Aronian and Sam Sevian eliminated Wesley So and Leinier Dominguez, respectively. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-5",
-         "pubDate" : "Thu, 20 Mar 2025 09:10:00",
-         "title" : "American Cup: Lee on fire, Yip eliminated"
-      },
-      {
-         "description" : "Anna Muzychuk extended her winning streak to three games, strengthening her lead in the Cyprus Women's Grand Prix with four rounds remaining. Zhu Jiner remains just half a point behind after drawing with Alexandra Goryachkina, now in third place. Zhu's performance has already pushed her into the world's top eight in the live ratings. Elisabeth Paehtz secured her first victory of the event, while the remaining games ended in draws. The players will enjoy a rest day before the competition resumes. | Photos: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-5",
-         "pubDate" : "Thu, 20 Mar 2025 06:40:00",
-         "title" : "Nicosia GP: Anna Muzychuk scores three wins in a row, leads"
       },
       {
          "description" : "Editor's note: Sofia Doroshenko is a senior at Macalester College, where she recently organized the first Chesswrestling Festival. In the lead-up to this event, US Chess had the pleasure of interviewing Sofia for our YouTube channel. In this article, Sofia shares her experiences an organizer and participant in this unique and exciting sport. Follow Sofia on YouTube for more chesswrestling content, and more information about chesswrestling (including the rules) is included at the end of this article.Last year, national master Ionatan Giurgiu showed me a chessboxing video between WGM Dina Belenkaya and Andrea Botez, after my adamant refusal of it being a real sport. The idea of dominating your",
@@ -512,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-news-view-2025-collegiate-chess-league-spring-week-8",
          "pubDate" : "Mon, 17 Mar 2025 14:47:29",
          "title" : "Texas And Lviv Advance To The Semifinals: CCL Playoffs"
-      },
-      {
-         "description" : "We&#39;re excited to announce the third installment of this year&#39;s Chess.com Community Championships! The Chess.com Atomic Chess Championship takes place March 27 and 28 and features a $2,500 prize fund. Atomic Chess is not for the faint of heart. I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-atomic-chess-championship-2025",
-         "pubDate" : "Mon, 17 Mar 2025 08:00:00",
-         "title" : "It's Time To Play With Fire! Join The Chess.com Atomic Chess Championship"
       },
       {
          "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
@@ -824,22 +768,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/03/dadaist-chess.html",
          "pubDate" : "Mon, 03 Mar 2025 16:00:00",
          "title" : "Dadaist Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118686721.cms\" />The Freestyle Chess Grand Slam Tour 2025 heads to Paris from April 7 to 14, featuring 12 top grandmasters competing for a $750,000 prize pool. The event, held at Pavillon Chesnaie du Roy, promises thrilling matches with world champions like Magnus Carlsen, Gukesh Dommaraju, and others. The final player will be selected via an online qualification event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-d-gukesh-among-elite-chess-stars-to-battle-with-750000-at-stake-in-paris/articleshow/118686721.cms",
-         "pubDate" : "Mon, 03 Mar 2025 13:54:10",
-         "title" : "Freestyle Chess: Carlsen, Gukesh to battle in Paris with $750,000 at stake"
-      },
-      {
-         "description" : "The British Rapidplay Championship was held at the Holiday Inn, Peterborough on the 1st 2nd March 2025. After a very close contest, a playoff was required between grandmasters Nikita...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship-2025-report/",
-         "pubDate" : "Mon, 03 Mar 2025 11:41:34",
-         "title" : "British Rapidplay Championship 2025 - report"
       }
    ]
 }
