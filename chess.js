@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Heading towards the final round of the European Individual Chess Championship 2025, we have a joint lead by GM Daniil Yuffa (ESP, 2654) and GM Matthias Bluebaum (GER, 2643)! GM Daniil Yuffa (ESP, 2654) defeated GM Aryan Tari (NOR, 2621) with White pieces today after a very complex game. Opting for an unusual opening, Yuffa and Tari entered a blocked position where the Spanish Grandmaster sacrificed an exchange to get rid of Tari's active pieces. He consolidated quite fast and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/heading-into-the-final-round-of-eicc2025-daniil-yuffa-joins-matthias-bluebaum-in-the-lead/",
+         "pubDate" : "Tue, 25 Mar 2025 20:19:00",
+         "title" : "Heading into the final round of EICC2025 Daniil Yuffa joins Matthias Bluebaum in the lead"
+      },
+      {
          "description" : "Anna Muzychuk emerged as the winner of the Cyprus Women's Grand Prix, securing victory after a tense final round in which all games ended in draws. Tied with Zhu Jiner on 6/9, Muzychuk claimed the title based on tiebreak criteria, while the prize money and Grand Prix points were shared. The tournament concluded with several dramatic moments, including missed winning opportunities for Zhu and Olga Badelka. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dorian-rogozenco-on-opening-encyclopedia-2025-surprise-your-opponent-improve-your-repertoire",
          "pubDate" : "Tue, 25 Mar 2025 07:46:20",
          "title" : "Dorian Rogozenco on Opening Encyclopedia 2025 - Surprise Your Opponent, Improve Your Repertoire"
+      },
+      {
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles come from the 2025 American Cup finalists GM Hikaru Nakamura and GM Fabiano Caruana. Nakamura won the American Cup with a classical victory over Caruana, who won the Champions Showdown earlier this month also in St. Louis. We look back on their finest moments from New York below. <br> <br> <br> <br> Image<br> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-10-nakamura-caruana",
+         "pubDate" : "Tue, 25 Mar 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 10 (Nakamura & Caruana)"
       },
       {
          "description" : "The 2025 American Cup concluded with Hikaru Nakamura and Alice Lee emerging as champions in the open and women's sections, respectively. Nakamura secured his second title by defeating Fabiano Caruana 1&frac12;-&frac12; in the Grand Final, winning the first classical game and drawing the second. Meanwhile, Lee successfully defended her title, overcoming Tatev Abrahamyan in a closely contested match that was only decided in the blitz tiebreaks. | Photo: Lennart Ootes",
@@ -536,22 +552,6 @@ news_feed (
          "link" : "https://aicf.in/batch-schedule-for-arbiter-refresher-course-for-sna-2025/",
          "pubDate" : "Mon, 17 Mar 2025 07:19:07",
          "title" : "Batch Schedule for Arbiter refresher course for SNA 2025"
-      },
-      {
-         "description" : "Underdogs, overtime, elimination matches. These words are emblematic of the excitement of March Madness, regardless of whether we are talking about NCAA basketball or the Saint Louis Chess Club (SLCC)'s American Cup. Indeed, the only March buzzword missing from the brackets was many viewers' favorites: upsets.After two days of play, the top three seeds in both the Open and Women's tournaments have advanced to the semi-finals of the Champions Bracket, with the only upsets occurring in the match-ups between the fourth- and fifth-seeded players in each tournament.But while the bracket was mostly \"chalk,\" all four quarter-final matches of the Open tournament (along with Lee - Paikidze) were tied",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/top-seeds-survive-upset-bids-first-round-american-cup",
-         "pubDate" : "Mon, 17 Mar 2025 00:00:00",
-         "title" : "Top Seeds Survive Upset Bids in First Round of American Cup"
-      },
-      {
-         "description" : "The second round of the European Individual Chess Championship 2025 saw interesting encounters and the top board clashes between the Grandmasters. We saw plenty of decisive games, but also a bigger number of draws comparing to the statistics of the first round. Playing on the podium reserved for the first three matches, GM Alexey Sarana (SRB, 2689) defeated GM Matej Sebenik (SLO, 2492) and proved the role of the favourite, GM Jorden Van Foreest (NED, 2676) won against IM Jakub []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2025-round-2-recap/",
-         "pubDate" : "Sun, 16 Mar 2025 19:58:13",
-         "title" : "European Individual Chess Championship 2025 - Round 2 recap"
       },
       {
          "description" : " William Alexander Scott III William Scott III was featured in the latest issue of Chess Life in a wonderful six-page tribute written by Mark Taylor. It is the most comprehensive account of his life. Previously, we had his obituary written by a relative. Here was an excerpt from that lengthy account. \"W.A.\" was studying Business The post <a href=\"https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/\">William Scott honored in March 2025 Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
