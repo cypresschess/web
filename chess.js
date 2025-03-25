@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2025-live",
+         "pubDate" : "Tue, 25 Mar 2025 13:50:00",
+         "title" : "European Championship, Round 10 - Live"
+      },
+      {
          "description" : "What's new at ChessBase? Whether it's a video course, ChessBase Magazine or databases - there's always something going on at ChessBase, and we have the right content for everyone. Many new video courses have already been released this month. Find out which ones they are in the following article...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -86,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-semifinals",
-         "pubDate" : "Mon, 24 Mar 2025 10:07:45",
+         "pubDate" : "Mon, 24 Mar 2025 10:07:00",
          "title" : "SLU, Mizzou Win To Set Up Rematch In Finals"
       },
       {
@@ -130,7 +138,7 @@ news_feed (
          "title" : "Sandro Mareco convincingly wins double round-robin in Punta del Este"
       },
       {
-         "description" : " The American Cup takes place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Players Open: Nakamura, Caruana, Aronian, So, Dominguez, Sevian, Robson, Mishra, Women: Yip, Lee, Krush, Zatonskih, Abrahamyan, Pourkashiyan, Paikidze, Cervantes. Hikaru Nakamura beat Fabiano Caruana both in the winners final and the grand final to win the event. Similarly Alice Lee beat Tatev Abrahamyan twice in the two women's finals so a grand final reset was not required on Monday, there will be a final blitz on that day.",
+         "description" : " The American Cup took place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Hikaru Nakamura beat Fabiano Caruana both in the winners final and the grand final to win the event. Similarly Alice Lee beat Tatev Abrahamyan twice in the two women's finals so a grand final reset was not required. Hikaru Nakamura won the blitz on the final day, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2025",
