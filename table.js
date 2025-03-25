@@ -46,6 +46,7 @@ jtable([
 "SPRING","2025-02-07","26","<a href=http://www.uschess.org/msa/XtblMain.php?202502076612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-02-07","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502076532 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-01-31  - 02-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202502024602 target='_blank'>POISON PAWNS CLUB CHAMPIONSHIP 2025</a>",
+"STAFFORD, HOUST","2025-02-01","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502016432 target='_blank'>HOUSTON CHESS ACADEMY FEB 2025</a>",
 "STAFFORD, HOUST","2025-02-01","24","<a href=http://www.uschess.org/msa/XtblMain.php?202502015762 target='_blank'>HOUSTON CHESS ACADEMY FEB 2025</a>",
 "HOUSTON","2025-02-01","226","<a href=http://www.uschess.org/msa/XtblMain.php?202502015362 target='_blank'>TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
 "HOUSTON","2025-02-01","5","<a href=http://www.uschess.org/msa/XtblMain.php?202502013042 target='_blank'>CHESSPANDA02012025SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-08-10","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408100942 target='_blank'>AUGUST 10TH TROPHY SCHOLASTIC</a>",
 "SUGAR LAND","2024-08-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408090722 target='_blank'>FBCC PERSEI METEOR OPEN</a>",
 "SPRING","2024-08-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408090672 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-08-09","28","<a href=http://www.uschess.org/msa/XtblMain.php?202408090652 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
