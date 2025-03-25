@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anna Muzychuk emerged as the winner of the Cyprus Women's Grand Prix, securing victory after a tense final round in which all games ended in draws. Tied with Zhu Jiner on 6/9, Muzychuk claimed the title based on tiebreak criteria, while the prize money and Grand Prix points were shared. The tournament concluded with several dramatic moments, including missed winning opportunities for Zhu and Olga Badelka. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-2",
+         "pubDate" : "Tue, 25 Mar 2025 19:30:00",
+         "title" : "Anna Muzychuk wins Nicosia Grand Prix after gripping finale"
+      },
+      {
          "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
