@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the video, Dorian Rogozenco introduces the Opening Encyclopedia 2025, highlighting its value for players of all levels. He explains how users can quickly learn new opening ideas-many of which are deeply explained by top-level grandmasters and trainers-making it easy to improve your repertoire with well-analyzed, up-to-date content. The combination of videos, annotated games, and structured articles offers both fast learning and deep strategic understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-on-opening-encyclopedia-2025-surprise-your-opponent-improve-your-repertoire",
+         "pubDate" : "Tue, 25 Mar 2025 07:46:20",
+         "title" : "Dorian Rogozenco on Opening Encyclopedia 2025 - Surprise Your Opponent, Improve Your Repertoire"
+      },
+      {
          "description" : "The 2025 American Cup concluded with Hikaru Nakamura and Alice Lee emerging as champions in the open and women's sections, respectively. Nakamura secured his second title by defeating Fabiano Caruana 1&frac12;-&frac12; in the Grand Final, winning the first classical game and drawing the second. Meanwhile, Lee successfully defended her title, overcoming Tatev Abrahamyan in a closely contested match that was only decided in the blitz tiebreaks. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +34,11 @@ news_feed (
          "title" : "Matthias Bluebaum takes sole lead in EICC2025 with only two rounds to go"
       },
       {
-         "description" : "A day after winning the 2025 American Cup, GM Hikaru Nakamura picked up another $5,000 with his first-place finish in the 2025 American Cup Blitz. After two weeks of battling with the U.S.&#39;s best players, he leaves St. Louis with a total of $95,00...",
+         "description" : "Following his win at the 2025 American Cup, GM Hikaru Nakamura picked up another $5,000 the next day with his first-place finish in the 2025 American Cup Blitz. After two weeks of battling with the U.S.&#39;s best players, he leaves St. Louis with a t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-american-cup-blitz-2025",
-         "pubDate" : "Mon, 24 Mar 2025 16:10:56",
+         "pubDate" : "Mon, 24 Mar 2025 16:10:00",
          "title" : "Nakamura Wins Another $5,000 In American Cup Blitz"
       },
       {
@@ -744,22 +752,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/",
          "pubDate" : "Wed, 05 Mar 2025 03:51:55",
          "title" : "FAMU Chess Club holds Interest Meeting, First Tournament!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118701993.cms\" />New Delhi is expected to host the FIDE Chess World Cup 2025 from October 31 to November 27, marking its return to India after 23 years. The capital city is the preferred location for major tournaments. Additionally, India will host the 5th leg of the FIDE Women's Grand Prix Series in Maharashtra this April.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-delhi-likely-to-host-fide-world-cup-2025-but-set-to-lose-freestyle-chess-grand-slam-to-europe/articleshow/118701993.cms",
-         "pubDate" : "Tue, 04 Mar 2025 06:56:57",
-         "title" : "Delhi to host FIDE World Cup 2025 but Freestyle Chess slips away"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118697793.cms\" />Grandmaster R Praggnanandhaa, ranked No. 8 globally, faces American Sam Shankland in the sixth round of the Prague Masters. He is tied at the top with Aravindh Chithambaram at 3.5 points. Aravindh will play Quang Leim Le next. Wei Yi, having bounced back after losses, is a significant competitor. Divya Deshmukh seeks rating points in the Challengers section.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-grandmaster-r-praggnanandhaa-aims-for-victory-in-round-6/articleshow/118697793.cms",
-         "pubDate" : "Tue, 04 Mar 2025 04:26:28",
-         "title" : "Prague Masters: GM Praggnanandhaa aims for victory in Round 6"
       }
    ]
 }
