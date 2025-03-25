@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What's new at ChessBase? Whether it's a video course, ChessBase Magazine or databases - there's always something going on at ChessBase, and we have the right content for everyone. Many new video courses have already been released this month. Find out which ones they are in the following article...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-products-feb-25",
+         "pubDate" : "Tue, 25 Mar 2025 11:05:07",
+         "title" : "Review: All New Releases in February!"
+      },
+      {
          "description" : "In the video, Dorian Rogozenco introduces the Opening Encyclopedia 2025, highlighting its value for players of all levels. He explains how users can quickly learn new opening ideas-many of which are deeply explained by top-level grandmasters and trainers-making it easy to improve your repertoire with well-analyzed, up-to-date content. The combination of videos, annotated games, and structured articles offers both fast learning and deep strategic understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
