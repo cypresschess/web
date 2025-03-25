@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 American Cup concluded with Hikaru Nakamura and Alice Lee emerging as champions in the open and women's sections, respectively. Nakamura secured his second title by defeating Fabiano Caruana 1&frac12;-&frac12; in the Grand Final, winning the first classical game and drawing the second. Meanwhile, Lee successfully defended her title, overcoming Tatev Abrahamyan in a closely contested match that was only decided in the blitz tiebreaks. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2025-8",
+         "pubDate" : "Mon, 24 Mar 2025 23:40:00",
+         "title" : "Lee and Nakamura claim 2025 American Cup titles"
+      },
+      {
          "description" : " The Nicosia FIDE Women's Grand Prix took place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz. Anna Muzychuk edged out Jiner Zhu on tie-break after both scored 6/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,15 +50,7 @@ news_feed (
          "title" : "Women's Grand Prix Nicosia - Live!"
       },
       {
-         "description" : "Are you a passionate chess fan? Then we have good news for you: with the new ChessBase Mobile App you can take all your games and databases with you wherever you go, thanks to the cloud. The new and user-friendly app for Android, iOS and tablets is sure to make your chess heart beat faster.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-anytime-anywhere-the-free-app-offers-great-features",
-         "pubDate" : "Mon, 24 Mar 2025 11:00:00",
-         "title" : "ChessBase anytime, anywhere - the free app offers great features"
-      },
-      {
-         "description" : "More than 40 years after the BBC first dipped its programming toe into chess with The Master Game, the network has returned this month with Chess Masters: The Endgame, which airs at 8 p.m. GMT on Monday nights. One the main differences between tha...",
+         "description" : "More than 40 years after the BBC first dipped its programming toe into chess with The Master Game, the network has returned this month with Chess Masters: The Endgame, which airs at 8 p.m. GMT on Monday nights. One of the main differences between ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lulas-experience-on-chess-masters-the-endgame",
