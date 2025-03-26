@@ -26,12 +26,36 @@ news_feed (
          "title" : "ECF Online Grand Prix Series 2025"
       },
       {
+         "description" : "We&#39;re excited to announce that everyone&#39;s favorite chess tournament for amateurs is back! Starting April 29, PogChamps 6 will bring 12 celebrity creators and professional athletes together to participate in the world&#39;s funniest and most unique che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-pogchamps-6-field",
+         "pubDate" : "Wed, 26 Mar 2025 10:00:00",
+         "title" : "PogChamps Is Back With Star-Studded Field Of Creators And Professional Athletes"
+      },
+      {
+         "description" : "GM Javokhir Sindarov won the early Titled Tuesday on March 25 on tiebreaks ahead of World Champion GM Gukesh Dommaraju and GM Hikaru Nakamura, although Nakamura scored his 9.5 points in just 10 games after missing round three, which also hurt his ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sindarov-lazavik-win-titled-tuesday-march-25-2025",
+         "pubDate" : "Wed, 26 Mar 2025 09:04:59",
+         "title" : "Nakamura Nearly Wins Tuesday Despite Missing Round; Sindarov, Lazavik Take It Instead"
+      },
+      {
          "description" : "The European Chess Union (ECU) has announced the launch of an innovative online training platform, ECU HUB, which is aimed at significantly improving chess education and professional development. The new platform serves as a comprehensive digital learning environment, designed to enhance the skills of chess professionals, arbiters, and enthusiasts across Europe and beyond. It represents the organization's commitment to modernizing chess education and making high-quality training accessible to chess community. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/launch-of-ecu-hub",
          "pubDate" : "Wed, 26 Mar 2025 07:12:04",
          "title" : "Launch of ECU HUB"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles come from the 2025 American Cup finalists GM Hikaru Nakamura and GM Fabiano Caruana. Nakamura won the American Cup with a classical victory over Caruana, who won the Champions Showdown earlier this month also in St. Louis. We look back on their finest moments from New York below. Another batch of puzzles featuring",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-10-nakamura-caruana",
+         "pubDate" : "Wed, 26 Mar 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 10 (Nakamura & Caruana)"
       },
       {
          "description" : "Heading towards the final round of the European Individual Chess Championship 2025, we have a joint lead by GM Daniil Yuffa (ESP, 2654) and GM Matthias Bluebaum (GER, 2643)! GM Daniil Yuffa (ESP, 2654) defeated GM Aryan Tari (NOR, 2621) with White pieces today after a very complex game. Opting for an unusual opening, Yuffa and Tari entered a blocked position where the Spanish Grandmaster sacrificed an exchange to get rid of Tari's active pieces. He consolidated quite fast and []",
@@ -482,22 +506,6 @@ news_feed (
          "title" : "Nakamura, Caruana Advance To Champions Open Final"
       },
       {
-         "description" : "GM Anna Muzychuk&#39;s second win in a row, against IM Divya Deshmukh, saw her catch GM Zhu Jiner in the lead of the 2025 Nicosia FIDE Women&#39;s Grand Prix on 3/4. It was a day of four wins for White, among them GMs Aleksandra Goryachkina, Harika Dronav...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-4",
-         "pubDate" : "Tue, 18 Mar 2025 14:46:00",
-         "title" : "Anna Muzychuk Beats Divya To Catch Leader On Day Of 4 Wins"
-      },
-      {
-         "description" : "We&#39;re excited to announce the next installment of State of Chess, our live show where we share all the exciting things that we&#39;ve been working on and what&#39;s coming next. It&#39;s also the place where you can ask questions directly to us, so we can ans...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/state-of-chess-march-20-2025",
-         "pubDate" : "Tue, 18 Mar 2025 08:00:00",
-         "title" : "Announcing State Of Chess On March 20: Product, Proctor, Courses, And More"
-      },
-      {
          "description" : "Team rooms for SuperNationals VIII will open for reservation on Monday, March 24, 2025. We will leave the registration system open for one week and will close it at 5:00pm EDT on Monday, March 31, 2025. Reservations can be made after that time, but are not guaranteed for room consideration. The direct link to reserve a room is here.A list of available team rooms may be found here. Maps of the convention center may be found at this link. More information about the tournament, including the playing areas that will be used, may be found at the tournament website.Please note the new team room Policies and Procedures. A signed copy of this form must be returned to Click here to show email address",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/volunteers-wanted-supernationals-viii",
          "pubDate" : "Tue, 18 Mar 2025 00:00:00",
          "title" : "Volunteers Wanted for SuperNationals VIII"
-      },
-      {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 through 31 in New York. Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles feature FIDE World Rapid &amp; Blitz games from Saint Louis Chess Club regulars GMs Leinier Dominguez, Wesley So, and Sam Shankland. These three annual participants in the U.S. Championship all had some nice moments in New York, particularly So, who made it to the semifinals of the Blitz knockout portio",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-9-shankland-dominguez-and-so",
-         "pubDate" : "Tue, 18 Mar 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 9 (Shankland, Dominguez, and So)"
       },
       {
          "description" : "After three played rounds at the European Individual Chess Championship 2025 in Eforie Nord, Romania, only six players remained with the perfect 3/3 score and tie for the top. Today's round was opened with a moment of silence to pay tribute to the victims of the tragic fire in Kocani, North Macedonia. Before the start of the clocks, the Vice Ambassador of Austria in Romania Mr. Rudolf Schatz and Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu addressed []",
