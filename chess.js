@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors; Champions Showdown Serves as Event Prequel SAINT LOUIS, March 3, 2025&#160;- The 2025 American Cup hosted by the Saint Louis Chess Club, set to take place at World Chess Hall of Fame March 15-24, promises to be a defining event in [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/\">The 2025 American Cup: Showcasing America's Top Chess Talents</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/",
+         "pubDate" : "Wed, 26 Mar 2025 19:40:54",
+         "title" : "The 2025 American Cup: Showcasing America's Top Chess Talents"
+      },
+      {
+         "description" : "GM Kirill Shevchenko, ranked 75th in the world, has received a three-year worldwide ban from chess, with one year suspended, allowing him to return to competitive play in October 2026. The 22-year-old confessed to hiding a phone in the toilet but ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kirill-shevchenko-admits-cheating-incident-handed-3-year-suspension-by-fide",
+         "pubDate" : "Wed, 26 Mar 2025 14:40:00",
+         "title" : "Kirill Shevchenko Receives 3-Year Ban For Cheating Incident, Admits to Hiding Phone"
+      },
+      {
          "description" : " Grandmaster Hans Niemann at the 2022 Sinquefield Cup.Lennart Ootes/Grand Chess Tour Hans Niemann has been in the chess spotlight for the past three years. The infamous case involving Magnus Carlsen at the 2022 Sinquefield Cup set the world on fire. While the point of this article is not to litigate the issue or even discuss The post <a href=\"https://thechessdrum.net/blog/2025/03/26/is-hans-niemann-right/\">Is Hans Niemann right??</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/launch-of-ecu-hub",
          "pubDate" : "Wed, 26 Mar 2025 07:12:04",
          "title" : "Launch of ECU HUB"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess welcomes Brian Harting as its new Administrative Assistant based out of the St. Louis office.With an extensive background in higher education and medical office coordination, event management, and service/support in the customer, management, and business sectors, Brian has decided to pivot his career by providing his outstanding skillset and diverse experience to the chess community.An animal lover at his core, Brian has two cats and a chinchilla, and enjoys activities including karaoke, hiking and being creative through various art projects. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/brian-harting-hired-administrative-assistant",
+         "pubDate" : "Wed, 26 Mar 2025 00:00:00",
+         "title" : "Brian Harting Hired as Administrative Assistant"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles come from the 2025 American Cup finalists GM Hikaru Nakamura and GM Fabiano Caruana. Nakamura won the American Cup with a classical victory over Caruana, who won the Champions Showdown earlier this month also in St. Louis. We look back on their finest moments from New York below. Another batch of puzzles featuring",
@@ -498,28 +522,12 @@ news_feed (
          "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
       },
       {
-         "description" : "American numbers one and two, GMs Hikaru Nakamura and Fabiano Caruana, will clash in the Open Champions Final of The American Cup 2025. Nakamura advanced after scoring a classical win with Black against GM Leinier Dominguez, while it took Caruana ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-4",
-         "pubDate" : "Tue, 18 Mar 2025 18:27:00",
-         "title" : "Nakamura, Caruana Advance To Champions Open Final"
-      },
-      {
          "description" : "Team rooms for SuperNationals VIII will open for reservation on Monday, March 24, 2025. We will leave the registration system open for one week and will close it at 5:00pm EDT on Monday, March 31, 2025. Reservations can be made after that time, but are not guaranteed for room consideration. The direct link to reserve a room is here.A list of available team rooms may be found here. Maps of the convention center may be found at this link. More information about the tournament, including the playing areas that will be used, may be found at the tournament website.Please note the new team room Policies and Procedures. A signed copy of this form must be returned to Click here to show email address",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/team-rooms-supernationals-viii-reservation-window-opens-soon",
          "pubDate" : "Tue, 18 Mar 2025 00:00:00",
          "title" : "Team Rooms for SuperNationals VIII: Reservation Window Opens Soon!"
-      },
-      {
-         "description" : "US Chess is seeking volunteers to assist at SuperNationals VIII from May 8-11 in Orlando, Florida. If you're a local chess enthusiast, seeking national event experience, or an attendee with a few hours to spare, we could use your help! Click here to learn more and to sign up to be a volunteer! Volunteers must: Be over 18Complete the free SafeSport Volunteer training course (if not already SafeSport certified)Pass a background checkUS Chess membership a plus! Please check out our FAQs for additional information on our volunteer program. Volunteering is a great opportunity to work alongside our staff, increase your visibility, and gain behind-the-scenes insights into what comprises our nationa",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/volunteers-wanted-supernationals-viii",
-         "pubDate" : "Tue, 18 Mar 2025 00:00:00",
-         "title" : "Volunteers Wanted for SuperNationals VIII"
       },
       {
          "description" : "After three played rounds at the European Individual Chess Championship 2025 in Eforie Nord, Romania, only six players remained with the perfect 3/3 score and tie for the top. Today's round was opened with a moment of silence to pay tribute to the victims of the tragic fire in Kocani, North Macedonia. Before the start of the clocks, the Vice Ambassador of Austria in Romania Mr. Rudolf Schatz and Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu addressed []",
