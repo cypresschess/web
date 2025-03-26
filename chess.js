@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Grandmaster Hans Niemann at the 2022 Sinquefield Cup.Lennart Ootes/Grand Chess Tour Hans Niemann has been in the chess spotlight for the past three years. The infamous case involving Magnus Carlsen at the 2022 Sinquefield Cup set the world on fire. While the point of this article is not to litigate the issue or even discuss The post <a href=\"https://thechessdrum.net/blog/2025/03/26/is-hans-niemann-right/\">Is Hans Niemann right??</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/26/is-hans-niemann-right/",
+         "pubDate" : "Wed, 26 Mar 2025 13:13:04",
+         "title" : "Is Hans Niemann right??"
+      },
+      {
+         "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2025-live",
+         "pubDate" : "Wed, 26 Mar 2025 12:50:00",
+         "title" : "European Championship, Round 11 - Live"
+      },
+      {
+         "description" : "This year's ECF Online Grand Prix Series starts with an online blitz tournament on Sunday 6th April 2025.&#160;Grand Prix events will be held on Lichess at 2.00pm on the first...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-series-2025/",
+         "pubDate" : "Wed, 26 Mar 2025 11:33:44",
+         "title" : "ECF Online Grand Prix Series 2025"
+      },
+      {
          "description" : "The European Chess Union (ECU) has announced the launch of an innovative online training platform, ECU HUB, which is aimed at significantly improving chess education and professional development. The new platform serves as a comprehensive digital learning environment, designed to enhance the skills of chess professionals, arbiters, and enthusiasts across Europe and beyond. It represents the organization's commitment to modernizing chess education and making high-quality training accessible to chess community. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,22 +42,6 @@ news_feed (
          "title" : "Heading into the final round of EICC2025 Daniil Yuffa joins Matthias Bluebaum in the lead"
       },
       {
-         "description" : "Anna Muzychuk emerged as the winner of the Cyprus Women's Grand Prix, securing victory after a tense final round in which all games ended in draws. Tied with Zhu Jiner on 6/9, Muzychuk claimed the title based on tiebreak criteria, while the prize money and Grand Prix points were shared. The tournament concluded with several dramatic moments, including missed winning opportunities for Zhu and Olga Badelka. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-2",
-         "pubDate" : "Tue, 25 Mar 2025 19:30:00",
-         "title" : "Anna Muzychuk wins Nicosia Grand Prix after gripping finale"
-      },
-      {
-         "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2025-live",
-         "pubDate" : "Tue, 25 Mar 2025 13:50:00",
-         "title" : "European Championship, Round 10 - Live"
-      },
-      {
          "description" : "What's new at ChessBase? Whether it's a video course, ChessBase Magazine or databases - there's always something going on at ChessBase, and we have the right content for everyone. Many new video courses have already been released this month. Find out which ones they are in the following article...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,28 +50,12 @@ news_feed (
          "title" : "Review: All New Releases in February!"
       },
       {
-         "description" : "In the video, Dorian Rogozenco introduces the Opening Encyclopedia 2025, highlighting its value for players of all levels. He explains how users can quickly learn new opening ideas-many of which are deeply explained by top-level grandmasters and trainers-making it easy to improve your repertoire with well-analyzed, up-to-date content. The combination of videos, annotated games, and structured articles offers both fast learning and deep strategic understanding.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-on-opening-encyclopedia-2025-surprise-your-opponent-improve-your-repertoire",
-         "pubDate" : "Tue, 25 Mar 2025 07:46:20",
-         "title" : "Dorian Rogozenco on Opening Encyclopedia 2025 - Surprise Your Opponent, Improve Your Repertoire"
-      },
-      {
          "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles come from the 2025 American Cup finalists GM Hikaru Nakamura and GM Fabiano Caruana. Nakamura won the American Cup with a classical victory over Caruana, who won the Champions Showdown earlier this month also in St. Louis. We look back on their finest moments from New York below. <br> <br> <br> <br> Image<br> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-10-nakamura-caruana",
          "pubDate" : "Tue, 25 Mar 2025 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 10 (Nakamura & Caruana)"
-      },
-      {
-         "description" : "The 2025 American Cup concluded with Hikaru Nakamura and Alice Lee emerging as champions in the open and women's sections, respectively. Nakamura secured his second title by defeating Fabiano Caruana 1&frac12;-&frac12; in the Grand Final, winning the first classical game and drawing the second. Meanwhile, Lee successfully defended her title, overcoming Tatev Abrahamyan in a closely contested match that was only decided in the blitz tiebreaks. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-8",
-         "pubDate" : "Mon, 24 Mar 2025 23:40:00",
-         "title" : "Lee and Nakamura claim 2025 American Cup titles"
       },
       {
          "description" : " The Nicosia FIDE Women's Grand Prix took place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz. Anna Muzychuk edged out Jiner Zhu on tie-break after both scored 6/9.",
@@ -160,14 +152,6 @@ news_feed (
          "link" : "https://www.europechess.org/five-players-in-joint-lead-at-eicc2025-after-eight-played-rounds/",
          "pubDate" : "Sun, 23 Mar 2025 23:14:19",
          "title" : "Five players in joint lead at EICC2025 after eight played rounds"
-      },
-      {
-         "description" : "The Punta del Este Masters Tournament was held from 14-20 March with six players taking part in a double round-robin format. Among the competitors were four GMs and two IMs, including Argentine Sandro Mareco, who started as favourite, and the 11-year-old Faustino Oro. Mareco was crowned champion with 6&frac12;/10 points, while Andr&eacute;s Rodr&iacute;guez and Jos&eacute; 'Pepe' Cuenca shared second place with 5&frac12; points each.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magistral-punta-del-este-2025-reportaje-final",
-         "pubDate" : "Sun, 23 Mar 2025 22:00:00",
-         "title" : "Sandro Mareco convincingly wins double round-robin in Punta del Este"
       },
       {
          "description" : " The American Cup took place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Hikaru Nakamura beat Fabiano Caruana both in the winners final and the grand final to win the event. Similarly Alice Lee beat Tatev Abrahamyan twice in the two women's finals so a grand final reset was not required. Hikaru Nakamura won the blitz on the final day, ",
@@ -760,14 +744,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-beats-anish-giri-to-take-sole-lead-at-prague-masters/articleshow/118751071.cms",
          "pubDate" : "Thu, 06 Mar 2025 05:39:04",
          "title" : "Aravindh beats Anish Giri to take sole lead at Prague Masters"
-      },
-      {
-         "description" : "Don't miss the brand-new chess series starting on BBC Two on Monday 10th March at 8.00pm more details at https://www.bbc.co.uk/programmes/m0028x4d",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-masters-the-endgame/",
-         "pubDate" : "Wed, 05 Mar 2025 11:46:05",
-         "title" : "Chess Masters - The Endgame &hellip; on BBC Two"
       }
    ]
 }
