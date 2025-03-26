@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-03-04  - 03-25","18","<a href=http://www.uschess.org/msa/XtblMain.php?202503257102 target='_blank'>MARCH TUE NITE SWISS 2025</a>",
 "HOUSTON","2025-03-22  - 03-23","25","<a href=http://www.uschess.org/msa/XtblMain.php?202503236302 target='_blank'>EVENT NAME MISSING</a>",
 "KATY","2025-03-22","104","<a href=http://www.uschess.org/msa/XtblMain.php?202503225252 target='_blank'>4TH ANNUAL ARISTOI CHESS TOURNAMENT</a>",
 "HOUSTON","2025-03-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202503224502 target='_blank'>CHESSPANDA03222025SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-08-10","8","<a href=http://www.uschess.org/msa/XtblMain.php?202408100972 target='_blank'>CHESSPANDA08102024SATURDAY</a>",
 "HOUSTON","2024-08-10","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408100942 target='_blank'>AUGUST 10TH TROPHY SCHOLASTIC</a>",
 "SUGAR LAND","2024-08-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408090722 target='_blank'>FBCC PERSEI METEOR OPEN</a>",
-"SPRING","2024-08-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408090672 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
