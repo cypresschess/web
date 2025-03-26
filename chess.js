@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union (ECU) has announced the launch of an innovative online training platform, ECU HUB, which is aimed at significantly improving chess education and professional development. The new platform serves as a comprehensive digital learning environment, designed to enhance the skills of chess professionals, arbiters, and enthusiasts across Europe and beyond. It represents the organization's commitment to modernizing chess education and making high-quality training accessible to chess community. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/launch-of-ecu-hub",
+         "pubDate" : "Wed, 26 Mar 2025 07:12:04",
+         "title" : "Launch of ECU HUB"
+      },
+      {
          "description" : "Heading towards the final round of the European Individual Chess Championship 2025, we have a joint lead by GM Daniil Yuffa (ESP, 2654) and GM Matthias Bluebaum (GER, 2643)! GM Daniil Yuffa (ESP, 2654) defeated GM Aryan Tari (NOR, 2621) with White pieces today after a very complex game. Opting for an unusual opening, Yuffa and Tari entered a blocked position where the Spanish Grandmaster sacrificed an exchange to get rid of Tari's active pieces. He consolidated quite fast and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
          "pubDate" : "Wed, 05 Mar 2025 11:16:24",
          "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
-      },
-      {
-         "description" : " The FAMU Chess Club held its first tournament as an official organization in more than 20 years. After a successful showing at the FAMU Club Fair on January 31st, the group held its interest meeting on February 21st. These events gave the FAMU Chess Club visibility, and so far, the group has attracted more than The post <a href=\"https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/\">FAMU Chess Club holds Interest Meeting, First Tournament!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/04/famu-chess-club-holds-interest-meeting-first-tournament/",
-         "pubDate" : "Wed, 05 Mar 2025 03:51:55",
-         "title" : "FAMU Chess Club holds Interest Meeting, First Tournament!"
       }
    ]
 }
