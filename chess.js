@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-masters-the-endgame/",
          "pubDate" : "Wed, 05 Mar 2025 11:46:05",
          "title" : "Chess Masters - The Endgame &hellip; on BBC Two"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118734060.cms\" />R Praggnanandhaa and Aravindh Chithambaram drew their respective games in the sixth round of the Prague Masters Chess tournament, maintaining their joint lead with 4 points each. They are followed by top seed Wei Yi and others with 3 points. Three rounds remain, with key matches ahead for Praggnanandhaa and Aravindh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-aravindh-chithambaram-continue-to-share-top-spot-at-prague-masters/articleshow/118734060.cms",
-         "pubDate" : "Wed, 05 Mar 2025 11:16:24",
-         "title" : "India's Pragg, Aravindh continue to share top spot at Prague Masters"
       }
    ]
 }
