@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arnold Sch&ouml;nberg's name is closely associated with the invention of twelve-tone music, but his creative power extended far beyond music. He painted and was an inventor. At the end of February, the Johanneum Eppendorf in Hamburg dedicated an afternoon to the great artist. Sch&ouml;nberg's invention of 'coalition chess' played an important role. | Photo: Anne Kropp/ Johanneum",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arnold-schoenberg-chess-and-music",
+         "pubDate" : "Thu, 27 Mar 2025 07:20:00",
+         "title" : "Arnold Sch&ouml;nberg - Chess and Music"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119581503.cms\" />Reigning world chess champion D Gukesh Dommaraju has named legendary cricketer MS Dhoni as his idol, admiring Dhoni's composure under pressure. Gukesh credits Dhoni's calmness and clear thinking in high-stakes situations for positively influencing his approach to handling pressure in his chess games. Recently, Gukesh spoke about his deep admiration for Dhoni and the significant role the cricketing icon has played in shaping his mindset and approach to pressure situations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ms-dhoni-doesnt-react-to-anything-d-gukesh-on-how-dhoni-shaped-his-chess-career/articleshow/119581503.cms",
+         "pubDate" : "Thu, 27 Mar 2025 07:14:58",
+         "title" : "'MS Dhoni doesn't react to ... ': Gukesh on how Dhoni shaped his chess career"
+      },
+      {
          "description" : " Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors; Champions Showdown Serves as Event Prequel SAINT LOUIS, March 3, 2025&#160;- The 2025 American Cup hosted by the Saint Louis Chess Club, set to take place at World Chess Hall of Fame March 15-24, promises to be a defining event in [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/\">The 2025 American Cup: Showcasing America's Top Chess Talents</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/live-broadcast-link-of-national-team-men-women-2024-25-in-ahmedabad/",
          "pubDate" : "Thu, 06 Mar 2025 08:20:51",
          "title" : "Live broadcast link of National Team Men & Women 2024-25 in Ahmedabad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118751071.cms\" />In the Prague Masters chess tournament, Aravindh Chithambaram gained the lead by defeating Anish Giri. R Praggnanandhaa secured a draw against Wei Yi, placing him just behind Aravindh. Sam Shankland and Gurel Ediz also claimed victories, while Divya Deshmukh continued to struggle in the challengers' section. The tournament now focuses on the contest between the two Indian players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-beats-anish-giri-to-take-sole-lead-at-prague-masters/articleshow/118751071.cms",
-         "pubDate" : "Thu, 06 Mar 2025 05:39:04",
-         "title" : "Aravindh beats Anish Giri to take sole lead at Prague Masters"
       }
    ]
 }
