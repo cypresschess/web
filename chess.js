@@ -10,7 +10,7 @@ news_feed (
          "title" : "The Monthly Dragon - GM Chris Ward's INSANE 1987 Dragon Sacrifice"
       },
       {
-         "description" : "Matthias Bl&uuml;baum became European Champion for the first time in 2022 and has now won the title for the second time - no other player has ever achieved this feat. Frederik Svane ensured a German double triumph: in the last round, he bravely took risks against Daniil Yuffa and secured second place. Like Bluebaum, he finished with 8&frac12;/11 points, but Bluebaum had a better Buchholz score. Israeli GM Maxim Rodshtein, who also scored 8&frac12; points, finished in third place. | Photo: David Llada",
+         "description" : "Matthias Bluebaum became European Champion for the first time in 2022 and has now won the title for the second time - no other player has ever achieved this feat. Frederik Svane ensured a German double triumph: in the last round, he bravely took risks against Daniil Yuffa and secured second place. Like Bluebaum, he finished with 8&frac12;/11 points, but Bluebaum had a better Buchholz score. Israeli GM Maxim Rodshtein, who also scored 8&frac12; points, finished in third place. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-ch-2025-final-report",
@@ -562,14 +562,6 @@ news_feed (
          "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
       },
       {
-         "description" : "Team rooms for SuperNationals VIII will open for reservation on Monday, March 24, 2025. We will leave the registration system open for one week and will close it at 5:00pm EDT on Monday, March 31, 2025. Reservations can be made after that time, but are not guaranteed for room consideration. The direct link to reserve a room is here.A list of available team rooms may be found here. Maps of the convention center may be found at this link. More information about the tournament, including the playing areas that will be used, may be found at the tournament website.Please note the new team room Policies and Procedures. A signed copy of this form must be returned to Click here to show email address",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/team-rooms-supernationals-viii-reservation-window-opens-soon",
-         "pubDate" : "Tue, 18 Mar 2025 00:00:00",
-         "title" : "Team Rooms for SuperNationals VIII: Reservation Window Opens Soon!"
-      },
-      {
          "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +752,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/mar/07/chess-returns-to-the-screen-on-monday-with-chess-masters-the-endgame",
          "pubDate" : "Fri, 07 Mar 2025 07:34:18",
          "title" : "Chess returns to the screen on Monday with Chess Masters: The Endgame"
-      },
-      {
-         "description" : " The Champions Showdown The Kings was a three day event where 6 players play three matches of three games at different time controls, one blitz 3m+2spm, one rapid 15m+10spm and finally one fast classical 60m+15spm. The players earned so much money per game depending on the result. Fabiano Caruana won the most with \t$51,625. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-the-kings-2025",
-         "pubDate" : "Thu, 6 Mar 2025 21:39:00",
-         "title" : "Champions Showdown The Kings 2025 - Games and Results"
       }
    ]
 }
