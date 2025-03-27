@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-the-kings-2025",
          "pubDate" : "Thu, 6 Mar 2025 21:39:00",
          "title" : "Champions Showdown The Kings 2025 - Games and Results"
-      },
-      {
-         "description" : "https://lichess.org/broadcast/-/EQ3VGnKl Indian Team Championship 2025 &#124; https://lichess.org/broadcast/-/1Fc9H2oW Indian Team Championship 2025 &#124;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-broadcast-link-of-national-team-men-women-2024-25-in-ahmedabad/",
-         "pubDate" : "Thu, 06 Mar 2025 08:20:51",
-         "title" : "Live broadcast link of National Team Men & Women 2024-25 in Ahmedabad"
       }
    ]
 }
