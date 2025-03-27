@@ -10,6 +10,14 @@ news_feed (
          "title" : "The 2025 American Cup: Showcasing America's Top Chess Talents"
       },
       {
+         "description" : "GM Matthias Bluebaum is the first player to win the European Chess Championship two times. He previously won gold in 2022 and is also the only German to top the event in its 25-year history. He finished in a three-way tie on 8.5/11 with GMs Freder...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bluebaum-wins-2025-european-chess-championship",
+         "pubDate" : "Wed, 26 Mar 2025 19:03:00",
+         "title" : "Bluebaum 1st Player To Win European Championship Twice"
+      },
+      {
          "description" : "GM Kirill Shevchenko, ranked 75th in the world, has received a three-year worldwide ban from chess, with one year suspended, allowing him to return to competitive play in October 2026. The 22-year-old confessed to hiding a phone in the toilet but ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
          "pubDate" : "Wed, 19 Mar 2025 09:00:34",
          "title" : "The 10th Menchik Memorial"
-      },
-      {
-         "description" : "We&#39;re excited to announce that Chess.com is now hosting the vast majority of games on our platform on the Realtime Chess Network, the only globally distributed chess server, which we&#39;ve been developing over the last four years. This means many pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-gameplay-now-faster-with-servers-across-world",
-         "pubDate" : "Wed, 19 Mar 2025 07:00:00",
-         "title" : "Chess.com's Realtime Chess Network Now Hosting 94% Of Games, Delivering Faster Speeds Worldwide"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles feature FIDE World Rapid &amp; Blitz games from Saint Louis Chess Club regulars GMs Leinier Dominguez, Wesley So, and Sam Shankland. These three annual participants in the U.S. Championship all had some nice moments in New York, particularly So, who made it to the semifinals of the Blitz knockout portion. <br> <br",
