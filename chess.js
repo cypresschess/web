@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Matthias Bl&uuml;baum became European Champion for the first time in 2022 and has now won the title for the second time - no other player has ever achieved this feat. Frederik Svane ensured a German double triumph: in the last round, he bravely took risks against Daniil Yuffa and secured second place. Like Bluebaum, he finished with 8&frac12;/11 points, but Bluebaum had a better Buchholz score. Israeli GM Maxim Rodshtein, who also scored 8&frac12; points, finished in third place. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-ch-2025-final-report",
+         "pubDate" : "Thu, 27 Mar 2025 15:20:00",
+         "title" : "Matthias Bluebaum wins European Championship for a second time"
+      },
+      {
+         "description" : "&#8212; by Richard Palliser After five rounds of highly competitive chess Sachsen-Anhalt from Germany emerged victorious in the 12th &#160;&#160;ChessMates International, which took place in the fine setting of York...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/12th-chessmates-international-in-york/",
+         "pubDate" : "Thu, 27 Mar 2025 11:44:10",
+         "title" : "12th ChessMates International in York"
+      },
+      {
          "description" : "Arnold Sch&ouml;nberg's name is closely associated with the invention of twelve-tone music, but his creative power extended far beyond music. He painted and was an inventor. At the end of February, the Johanneum Eppendorf in Hamburg dedicated an afternoon to the great artist. Sch&ouml;nberg's invention of 'coalition chess' played an important role. | Photo: Anne Kropp/ Johanneum",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ms-dhoni-doesnt-react-to-anything-d-gukesh-on-how-dhoni-shaped-his-chess-career/articleshow/119581503.cms",
          "pubDate" : "Thu, 27 Mar 2025 07:14:58",
          "title" : "'MS Dhoni doesn't react to ... ': Gukesh on how Dhoni shaped his chess career"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2025 concluded yesterday in Eforie Nord, Romania, after thrilling battles over 11-swiss rounds in a field of nearly 400 players from 40 European federations. The Winner of the event was determined by tiebreaks after a dramatical last round that brought significant changes on the top. GM Matthias Bluebaum (GER, 2643) and GM Daniil Yuffa (ESP, 2654) entered the last round co-leading in the event with the score of 8/10 points, and they were followed by []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/matthias-bluebaum-clinches-his-second-european-chess-champion-title/",
+         "pubDate" : "Thu, 27 Mar 2025 01:15:54",
+         "title" : "Matthias Bluebaum clinches his second European Chess Champion title"
       },
       {
          "description" : " Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors; Champions Showdown Serves as Event Prequel SAINT LOUIS, March 3, 2025&#160;- The 2025 American Cup hosted by the Saint Louis Chess Club, set to take place at World Chess Hall of Fame March 15-24, promises to be a defining event in [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/\">The 2025 American Cup: Showcasing America's Top Chess Talents</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -330,14 +354,6 @@ news_feed (
          "title" : "Harika On Bounce-Back Win: 'The Game Is Cruel, So I Can't Be Friendly!'"
       },
       {
-         "description" : "Please note that planned maintenance during Monday morning 24th March (starting around 10.30am) may affect the ECF websites (main, junior, senior, National Schools) as well as the ECF rating system...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/planned-website-systems-maintenance-monday-23rd-march-2025/",
-         "pubDate" : "Fri, 21 Mar 2025 15:29:08",
-         "title" : "Planned website / systems maintenance Monday morning 24th March 2025"
-      },
-      {
          "description" : "GM Oleksandr Bortnyk won Freestyle Friday on March 21 in what was the closest yet of the nine tournaments so far, but ultimately, his second win following one on January 31. And while Bortnyk lost in the final round, which created a five-way tie f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/team-rooms-supernationals-viii-reservation-window-opens-soon",
          "pubDate" : "Tue, 18 Mar 2025 00:00:00",
          "title" : "Team Rooms for SuperNationals VIII: Reservation Window Opens Soon!"
-      },
-      {
-         "description" : "After three played rounds at the European Individual Chess Championship 2025 in Eforie Nord, Romania, only six players remained with the perfect 3/3 score and tie for the top. Today's round was opened with a moment of silence to pay tribute to the victims of the tragic fire in Kocani, North Macedonia. Before the start of the clocks, the Vice Ambassador of Austria in Romania Mr. Rudolf Schatz and Secretary General of the Romanian Chess Federation Mr. Gabriel Grecescu addressed []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/only-six-players-remain-perfect-at-the-european-individual-chess-championship-2025/",
-         "pubDate" : "Mon, 17 Mar 2025 20:47:18",
-         "title" : "Only six players remain perfect at the European Individual Chess Championship 2025"
       },
       {
          "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
