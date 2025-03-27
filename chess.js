@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this special March edition of the Monthly Dragon, GM Chris Ward takes us on a nostalgic yet deeply instructive journey through two of his own classic games. Rather than focusing solely on cutting-edge theory, Chris highlights the enduring value of tactical motifs, pattern recognition, and sharp attacking ideas - all with the fiery flair of the Dragon! | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-gm-chris-ward-s-insane-1987-dragon-sacrifice",
+         "pubDate" : "Thu, 27 Mar 2025 16:57:45",
+         "title" : "The Monthly Dragon - GM Chris Ward's INSANE 1987 Dragon Sacrifice"
+      },
+      {
          "description" : "Matthias Bl&uuml;baum became European Champion for the first time in 2022 and has now won the title for the second time - no other player has ever achieved this feat. Frederik Svane ensured a German double triumph: in the last round, he bravely took risks against Daniil Yuffa and secured second place. Like Bluebaum, he finished with 8&frac12;/11 points, but Bluebaum had a better Buchholz score. Israeli GM Maxim Rodshtein, who also scored 8&frac12; points, finished in third place. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/12th-chessmates-international-in-york/",
          "pubDate" : "Thu, 27 Mar 2025 11:44:10",
          "title" : "12th ChessMates International in York"
+      },
+      {
+         "description" : "What&#39;s more human than this? A recent study by a group of California researchers has shown than some artificial intelligence (AI) programs cheat at chess without any stakes on the outcome of the game. In the study, several prominent chatbots wer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sign-of-real-intelligence-chat-bots-cheat-at-chess",
+         "pubDate" : "Thu, 27 Mar 2025 11:10:11",
+         "title" : "Sign Of Real Intelligence? Chatbots Cheat At Chess, Too, According To Study"
       },
       {
          "description" : "Arnold Sch&ouml;nberg's name is closely associated with the invention of twelve-tone music, but his creative power extended far beyond music. He painted and was an inventor. At the end of February, the Johanneum Eppendorf in Hamburg dedicated an afternoon to the great artist. Sch&ouml;nberg's invention of 'coalition chess' played an important role. | Photo: Anne Kropp/ Johanneum",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-north-american-corporate-chess-league-is-coming-to-chess-com",
          "pubDate" : "Wed, 19 Mar 2025 10:21:30",
          "title" : "The North American Corporate Chess League Is Coming To Chess.com"
-      },
-      {
-         "description" : "GM Mamikon Gharibyan and GM Denis Lazavik are your winners for the March 18 Titled Tuesday tournaments, both winning outright by half a point. Lazavik came that same half-point from sweeping the day, finishing second in the early tournament and th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gharibyan-lazavik-win-titled-tuesday-march-18-2025",
-         "pubDate" : "Wed, 19 Mar 2025 09:13:00",
-         "title" : "Carlsen Upset In Final Round Of Titled Tuesday"
       },
       {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
