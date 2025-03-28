@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has launched the Open Chess Museum, an online platform providing free access to a vast archive of chess history as part of its centenary celebrations. Featuring rare artifacts, historical documents, and personal items from top players, the museum offers a comprehensive look at the evolution of the game. Organised into thematic sections, it includes a timeline of chess history, FIDE's institutional development and biographies of world champions. The initiative invites global contributions, ensuring a continuously expanding digital repository.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-launches-digital-museum-2025",
+         "pubDate" : "Fri, 28 Mar 2025 01:05:00",
+         "title" : "FIDE launches first digital museum dedicated to chess history"
+      },
+      {
          "description" : "In this special March edition of the Monthly Dragon, GM Chris Ward takes us on a nostalgic yet deeply instructive journey through two of his own classic games. Rather than focusing solely on cutting-edge theory, Chris highlights the enduring value of tactical motifs, pattern recognition, and sharp attacking ideas - all with the fiery flair of the Dragon! | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
