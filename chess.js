@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Live Games Link : https://live.aicf.in/national/amateur/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-12th-national-amateur-chess-championship-2025-in-bodh-gaya-bihar/",
+         "pubDate" : "Fri, 28 Mar 2025 09:44:19",
+         "title" : "Live Games Link : 12th National Amateur Chess Championship -2025 in Bodh Gaya ,Bihar"
+      },
+      {
+         "description" : " World No 1 made surprise appearance in Monday's episode as viewer numbers again dropped, but more slowly Magnus Carlsen, the world No 1, made a cameo appearance via video in Monday's third episode of BBC Two's Chess Masters: The Endgame, setting a challenge to memorise a position from a \"special\" World Blitz game. Viewer numbers, ­supplied by Broadcast, again dropped, but more slowly, from 890,000 in the first episode to 710,000 last week and 655,000 this time. Carlsen displayed the position after 29&hellip;Ka6 of his 2022 World Blitz game with ­Richard ­Rapport. <a href=\"https://www.theguardian.com/sport/2025/mar/28/magnus-carlsen-makes-cameo-in-bbc-twos-chess-masters-as-drop-in-viewers-sl",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/mar/28/magnus-carlsen-makes-cameo-in-bbc-twos-chess-masters-as-drop-in-viewers-slows",
+         "pubDate" : "Fri, 28 Mar 2025 08:00:18",
+         "title" : "Magnus Carlsen makes cameo in BBC Two's Chess Masters as drop in viewers slows"
+      },
+      {
          "description" : "FIDE has launched the Open Chess Museum, an online platform providing free access to a vast archive of chess history as part of its centenary celebrations. Featuring rare artifacts, historical documents, and personal items from top players, the museum offers a comprehensive look at the evolution of the game. Organised into thematic sections, it includes a timeline of chess history, FIDE's institutional development and biographies of world champions. The initiative invites global contributions, ensuring a continuously expanding digital repository.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,22 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-clinches-prague-chess-masters-2025-title/articleshow/118790468.cms",
          "pubDate" : "Fri, 07 Mar 2025 15:37:47",
          "title" : "Aravindh Chithambaram clinches Prague Chess Masters 2025 title"
-      },
-      {
-         "description" : "Open Category The top board encounter between GM Grebnev, Aleksey and GM Pranav ended in a peaceful draw in 40 moves.GM Pranav maintains with 8.5/10",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-championship-2025round-10/",
-         "pubDate" : "Fri, 07 Mar 2025 10:13:22",
-         "title" : "World Junior Championship 2025:Round 10"
-      },
-      {
-         "description" : " The new programme on BBC Two will be very different from 42 years ago when the eighth and final series of The Master Game was never shown due to industrial action Four decades ago, the eighth and last series of BBC Two's much-admired chess programme The Master Game was never screened in the UK, because of industrial action by technicians. Tony Miles defeated Anatoly Karpov in <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067001\">the 1983 final</a>, the Englishman's second victory over the then world champion after his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1068157\">stunning 1 e4 a6 win</a> at the 1980 European Teams. It was the end of an iconic programme, first lau",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/mar/07/chess-returns-to-the-screen-on-monday-with-chess-masters-the-endgame",
-         "pubDate" : "Fri, 07 Mar 2025 07:34:18",
-         "title" : "Chess returns to the screen on Monday with Chess Masters: The Endgame"
       }
    ]
 }
