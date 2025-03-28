@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this sneak peek, IM Robert Ris presents a strategic lesson from his course Mastering Chess Strategy Vol. 2 by analysing his own game against GM Pranesh M. He highlights the importance of king safety and multi-purpose moves, showing how he found a secure setup for his king while activating his rooks for an attack. The game showcases how small strategic decisions can lead to winning positions. The course uses an interactive format where viewers try moves, get feedback, and learn through practice. It's aimed at players ready to go beyond the basics and refine their positional understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-take-your-piece-play-to-the-next-level-sneak-peek",
+         "pubDate" : "Fri, 28 Mar 2025 17:00:00",
+         "title" : "Robert Ris: Take your piece play to the next level! - Sneak Peek"
+      },
+      {
          "description" : "Beauty prizes at chess tournaments are great. But there have always been disputes about which game in a tournament deserves this prize. For example, Kateryna Lagno (pictured) felt unjustly ignored when the award was presented at the Women's Grand Prix in Monaco 2025 and has now protested in an open letter. Thorsten Cmiel reports on this dispute, which has political dimensions. | Photo: Niki Riga / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chess-scanner-effortless-game-recording",
          "pubDate" : "Fri, 28 Mar 2025 12:49:03",
          "title" : "The Chess Scanner - Effortless Game Recording"
+      },
+      {
+         "description" : "GM Kateryna Lagno has withdrawn from the 2025 FIDE Women&#38;rsquo;s Grand Prix India in Pune, India, which is part of the women&#38;rsquo;s world championship cycle. FIDE published that Lagno, as well as IM Sara Khadem, withdrew from the tournament that&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lagno-open-letter-about-withdrawal-from-fide-womens-grand-prix",
+         "pubDate" : "Fri, 28 Mar 2025 11:13:28",
+         "title" : "Lagno Disputes 'Politically Biased' Beauty Award, Withdraws From Women's Grand Prix"
+      },
+      {
+         "description" : "GM Hikaru Nakamura took home his first Freestyle Friday on March 28, scoring nine points and winning on tiebreaks against four other players on the same score: GMs Alexey Sarana, Jose Martinez, Jeffery Xiong, and Christopher Yoo. It was the third ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-march-28-2025",
+         "pubDate" : "Fri, 28 Mar 2025 11:08:51",
+         "title" : "Nakamura Wins Freestyle Friday Despite Chaotic Last Round"
       },
       {
          "description" : "Live Games Link : https://live.aicf.in/national/amateur/index.html",
@@ -530,22 +554,6 @@ news_feed (
          "title" : "Lee Beats Abrahamyan In Game 1; Nakamura, Caruana Stay Deadlocked"
       },
       {
-         "description" : "GM Anna Muzychuk is the sole leader of the 2025 Nicosia FIDE Women&#39;s Grand Prix on the rest day after a time-trouble blunder by IM Stavroula Tsolakidou led to a third win in a row. GM Elisabeth Paehtz grabbed the day&#39;s only other win after GM Hari...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-5",
-         "pubDate" : "Wed, 19 Mar 2025 15:06:00",
-         "title" : "Anna Muzychuk Snatches Sole Lead; Move 6 Blunder Dooms Harika"
-      },
-      {
-         "description" : "The North American Corporate Chess League (NACCL) is coming to Chess.com this spring. The NACCL is the largest corporate chess competition in the world and includes some of the world&#39;s best-known companies as well as small businesses! What Is ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-north-american-corporate-chess-league-is-coming-to-chess-com",
-         "pubDate" : "Wed, 19 Mar 2025 10:21:30",
-         "title" : "The North American Corporate Chess League Is Coming To Chess.com"
-      },
-      {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -752,22 +760,6 @@ news_feed (
          "link" : "https://aicf.in/gm-pranav-v-wins-the-prestigious-world-juniors-2025-at-petrovac/",
          "pubDate" : "Sat, 08 Mar 2025 06:14:07",
          "title" : "GM Pranav V wins the prestigious World Juniors 2025 at Petrovac"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118791973.cms\" />India's Pranav Venkatesh clinched the World Junior Chess Championship (Under-20) held in Montenegro, remaining undefeated with seven victories and four draws. This marks a significant achievement for Indian chess, with Viswanathan Anand congratulating him for his remarkable performance. The victory brings the open title back to India after nearly 17 years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-pranav-venkatesh-wins-world-junior-chess-championship-title/articleshow/118791973.cms",
-         "pubDate" : "Fri, 07 Mar 2025 17:41:04",
-         "title" : "India's Pranav Venkatesh wins World Junior Chess Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118790468.cms\" />Grandmaster Aravindh Chithambaram won the Prague Chess Masters 2025 with an impressive 6/9 points. His draw in the final round against Ediz Gurel secured his sole first place, propelling him to World No. 14. This remarkable performance in only his second classical super-tournament highlights his emerging status among the world's elite players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aravindh-chithambaram-clinches-prague-chess-masters-2025-title/articleshow/118790468.cms",
-         "pubDate" : "Fri, 07 Mar 2025 15:37:47",
-         "title" : "Aravindh Chithambaram clinches Prague Chess Masters 2025 title"
       }
    ]
 }
