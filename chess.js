@@ -18,6 +18,14 @@ news_feed (
          "title" : "Politics get involved in beauty prize controversy"
       },
       {
+         "description" : "Liam Hereford won the 2025 Chess.com Atomic Chess Championship after winning both the Winners Final and Grand Final Reset. Eduardo Lorenzon lost to Hereford early on in the Winners Semifinals, but he climbed through three matches in the Losers Bra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hereford-wins-2025-atomic-chess-community-championship",
+         "pubDate" : "Fri, 28 Mar 2025 14:34:04",
+         "title" : "Liam Hereford Crowned Atomic Chess Champion After Explosive Performance"
+      },
+      {
          "description" : "Sweeping, ornate, individual handwriting may be an expression of personality, but when you enter chess games into databases, they are a nuisance. Henrik Schl&ouml;ßner is familiar with this problem but has now discovered a tool that could save a lot of work and nerves when entering games: the chess scanner.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://www.europechess.org/daniil-yuffa-remains-perfect-at-the-european-individual-chess-championship-2025/",
          "pubDate" : "Wed, 19 Mar 2025 20:03:00",
          "title" : "Daniil Yuffa remains perfect at the European Individual Chess Championship 2025"
-      },
-      {
-         "description" : "After an 18-move draw, GMs Hikaru Nakamura and Fabiano Caruana are tied &#38;frac12;-&#38;frac12; in the Open Champions Final of The American Cup 2025. In Open Elimination, however, we saw GMs Wesley So and Leinier Dominguez eliminated, respectively, by G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-5",
-         "pubDate" : "Wed, 19 Mar 2025 17:41:00",
-         "title" : "Lee Beats Abrahamyan In Game 1; Nakamura, Caruana Stay Deadlocked"
       },
       {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
