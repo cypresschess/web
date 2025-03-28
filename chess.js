@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Beauty prizes at chess tournaments are great. But there have always been disputes about which game in a tournament deserves this prize. For example, Kateryna Lagno (pictured) felt unjustly ignored when the award was presented at the Women's Grand Prix in Monaco 2025 and has now protested in an open letter. Thorsten Cmiel reports on this dispute, which has political dimensions. | Photo: Niki Riga / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beauty-prize-politics",
+         "pubDate" : "Fri, 28 Mar 2025 16:10:00",
+         "title" : "Politics get involved in beauty prize controversy"
+      },
+      {
+         "description" : "Sweeping, ornate, individual handwriting may be an expression of personality, but when you enter chess games into databases, they are a nuisance. Henrik Schl&ouml;ßner is familiar with this problem but has now discovered a tool that could save a lot of work and nerves when entering games: the chess scanner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-scanner-effortless-game-recording",
+         "pubDate" : "Fri, 28 Mar 2025 12:49:03",
+         "title" : "The Chess Scanner - Effortless Game Recording"
+      },
+      {
          "description" : "Live Games Link : https://live.aicf.in/national/amateur/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-launches-digital-museum-2025",
          "pubDate" : "Fri, 28 Mar 2025 01:05:00",
          "title" : "FIDE launches first digital museum dedicated to chess history"
-      },
-      {
-         "description" : "In this special March edition of the Monthly Dragon, GM Chris Ward takes us on a nostalgic yet deeply instructive journey through two of his own classic games. Rather than focusing solely on cutting-edge theory, Chris highlights the enduring value of tactical motifs, pattern recognition, and sharp attacking ideas - all with the fiery flair of the Dragon! | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-gm-chris-ward-s-insane-1987-dragon-sacrifice",
-         "pubDate" : "Thu, 27 Mar 2025 16:57:45",
-         "title" : "The Monthly Dragon - GM Chris Ward's INSANE 1987 Dragon Sacrifice"
       },
       {
          "description" : "Matthias Bluebaum became European Champion for the first time in 2022 and has now won the title for the second time - no other player has ever achieved this feat. Frederik Svane ensured a German double triumph: in the last round, he bravely took risks against Daniil Yuffa and secured second place. Like Bluebaum, he finished with 8&frac12;/11 points, but Bluebaum had a better Buchholz score. Israeli GM Maxim Rodshtein, who also scored 8&frac12; points, finished in third place. | Photo: David Llada",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://www.europechess.org/heading-into-the-final-round-of-eicc2025-daniil-yuffa-joins-matthias-bluebaum-in-the-lead/",
          "pubDate" : "Tue, 25 Mar 2025 20:19:00",
          "title" : "Heading into the final round of EICC2025 Daniil Yuffa joins Matthias Bluebaum in the lead"
-      },
-      {
-         "description" : "What's new at ChessBase? Whether it's a video course, ChessBase Magazine or databases - there's always something going on at ChessBase, and we have the right content for everyone. Many new video courses have already been released this month. Find out which ones they are in the following article...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-products-feb-25",
-         "pubDate" : "Tue, 25 Mar 2025 11:05:07",
-         "title" : "Review: All New Releases in February!"
       },
       {
          "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles come from the 2025 American Cup finalists GM Hikaru Nakamura and GM Fabiano Caruana. Nakamura won the American Cup with a classical victory over Caruana, who won the Champions Showdown earlier this month also in St. Louis. We look back on their finest moments from New York below. <br> <br> <br> <br> Image<br> ",
@@ -712,6 +712,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
          "pubDate" : "Mon, 10 Mar 2025 06:17:20",
          "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
+      },
+      {
+         "description" : "Quantum chess is one of those intriguing ideas that appear on the CFAA radar every so often. The last time it featured as video of the month was <A HREF=\"https://chessforallages.blogspot.com/2020/09/quantum-chess-and-ai.html\">Quantum Chess and AI</A> (September 2020). Here's a more down-to-earth angle. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/p2COYL8WFig?si=qEbs6GZG2U2WEkQn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>How Does Quantum Chess Work?</B> (5:57) &#149; '[Publish",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/03/quantum-chess-theory.html",
+         "pubDate" : "Sun, 09 Mar 2025 16:48:00",
+         "title" : "Quantum Chess Theory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118808190.cms\" />18-year-old Pranav Venkatesh clinched the World Junior Chess Championship with unique preparation methods, including playing cricket in hotel rooms with his coach, GM Shyam Sundar. Pranav balanced his rapid blitz skills with the patience needed for classical chess, leading to his triumph in Montenegro, a title once held by Viswanathan Anand.",
