@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Agzamov Memorial took place from 21 to 29 March in Tashkent, Uzbekistan, attracting a strong field of international players in Group A. Indian Grandmaster Nihal Sarin claimed outright victory with an unbeaten 8/10 score, finishing ahead of a competitive field that included eight 2600+ rated players. Among the standout performances was 15-year-old Uzbek IM Khumoyun Begmuratov, who secured ninth place with a solid 7/10. | Photo: Uzbekistan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tashkent-open-2025-final-report",
+         "pubDate" : "Sat, 29 Mar 2025 21:50:00",
+         "title" : "Nihal Sarin shines in Tashkent"
+      },
+      {
          "description" : "Cambridge have narrowly won the 2025 Varsity match against Oxford, the world's longest running chess competition, which began in 1873 and now spans three centuries. This result gives Cambridge a clear two-match lead in this venerable series. Here are the precise scores: 2025 Varsity Chess Match Oxford moved into an early lead, but late errors []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
