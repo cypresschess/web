@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pentala Harikrishna, one of India's finest chess grandmasters, has built a life in Prague, blending his passion for chess with a deep connection to the city. In an insightful interview with Sagar Shah, Harikrishna shares his journey - from his rise in the global chess rankings to his experiences working with world champions Gukesh and Ju Wenjun. As they explore Prague's landmarks, he reflects on the challenges of professional chess, the evolving landscape of Indian chess and the importance of unwavering support from family. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harikrishna-journey-interview-2025",
+         "pubDate" : "Sat, 29 Mar 2025 01:00:00",
+         "title" : "Harikrishna's journey from becoming a Junior Champion to training the World Champions"
+      },
+      {
          "description" : "In this sneak peek, IM Robert Ris presents a strategic lesson from his course Mastering Chess Strategy Vol. 2 by analysing his own game against GM Pranesh M. He highlights the importance of king safety and multi-purpose moves, showing how he found a secure setup for his king while activating his rooks for an attack. The game showcases how small strategic decisions can lead to winning positions. The course uses an interactive format where viewers try moves, get feedback, and learn through practice. It's aimed at players ready to go beyond the basics and refine their positional understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +26,11 @@ news_feed (
          "title" : "Politics get involved in beauty prize controversy"
       },
       {
-         "description" : "Liam Hereford won the 2025 Chess.com Atomic Chess Championship after winning both the Winners Final and Grand Final Reset. Eduardo Lorenzon lost to Hereford early on in the Winners Semifinals, but he climbed through three matches in the Losers Bra...",
+         "description" : "Liam Hereford won the 2025 Chess.com Atomic Chess Championship after winning both the Winners Final and Grand Final Reset. Eduardo Lorenzon lost to Hereford early in the Winners Semifinals but climbed through three matches in the Losers Bracket to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hereford-wins-2025-atomic-chess-community-championship",
-         "pubDate" : "Fri, 28 Mar 2025 14:34:04",
+         "pubDate" : "Fri, 28 Mar 2025 14:34:00",
          "title" : "Liam Hereford Crowned Atomic Chess Champion After Explosive Performance"
       },
       {
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-launches-digital-museum-2025",
          "pubDate" : "Fri, 28 Mar 2025 01:05:00",
          "title" : "FIDE launches first digital museum dedicated to chess history"
-      },
-      {
-         "description" : "Matthias Bluebaum became European Champion for the first time in 2022 and has now won the title for the second time - no other player has ever achieved this feat. Frederik Svane ensured a German double triumph: in the last round, he bravely took risks against Daniil Yuffa and secured second place. Like Bluebaum, he finished with 8&frac12;/11 points, but Bluebaum had a better Buchholz score. Israeli GM Maxim Rodshtein, who also scored 8&frac12; points, finished in third place. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2025-final-report",
-         "pubDate" : "Thu, 27 Mar 2025 15:20:00",
-         "title" : "Matthias Bluebaum wins European Championship for a second time"
       },
       {
          "description" : "&#8212; by Richard Palliser After five rounds of highly competitive chess Sachsen-Anhalt from Germany emerged victorious in the 12th &#160;&#160;ChessMates International, which took place in the fine setting of York...",
