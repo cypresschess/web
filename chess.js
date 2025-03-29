@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Cambridge have narrowly won the 2025 Varsity match against Oxford, the world's longest running chess competition, which began in 1873 and now spans three centuries. This result gives Cambridge a clear two-match lead in this venerable series. Here are the precise scores: 2025 Varsity Chess Match Oxford moved into an early lead, but late errors []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/clear-blue-water-varsity-chess-match-2025/",
+         "pubDate" : "Sat, 29 Mar 2025 14:59:38",
+         "title" : "Clear Blue water: Varsity Chess Match 2025"
+      },
+      {
+         "description" : "Grandmaster Kirill Shevchenko has been handed a three-year worldwide ban, with one year suspended, following allegations of cheating at the 2024 Spanish Team Championship. The FIDE Ethics & Disciplinary Commission (EDC) found that Shevchenko had hidden a mobile phone in a toilet but could not determine with certainty that he had used it to gain an unfair advantage. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kirill-shevchenko-banned-fide-edc",
+         "pubDate" : "Sat, 29 Mar 2025 12:45:00",
+         "title" : "Ethics Commission sanctions Kirill Shevchenko with a ban of three years"
+      },
+      {
          "description" : "The 25th European Women's Chess Championship starts this Monday in Rhodes, Greece, and will be played from 31 March to 11 April 2025 in *****Rodos Palace Conference Hotel. The Championship gathers nearly 140 players coming from 34 European federations, including 7 Grandmasters, 22 Woman Grandmasters, 25 International Masters and 20 Woman International masters. The top seeded players are: GM Nino Batsiashvili (GEO, 2473), IM Teodora Injac (SRB, 2454), IM Meri Arabidze (GEO, 2447), IM Stavroula Tsolakidou (GRE, 2445), IM Dinara []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Harikrishna's journey from becoming a Junior Champion to training the World Champions"
       },
       {
-         "description" : "In this sneak peek, IM Robert Ris presents a strategic lesson from his course Mastering Chess Strategy Vol. 2 by analysing his own game against GM Pranesh M. He highlights the importance of king safety and multi-purpose moves, showing how he found a secure setup for his king while activating his rooks for an attack. The game showcases how small strategic decisions can lead to winning positions. The course uses an interactive format where viewers try moves, get feedback, and learn through practice. It's aimed at players ready to go beyond the basics and refine their positional understanding.",
+         "description" : "In this sneak peek, IM Robert Ris presents a strategic lesson from his course Mastering Chess Strategy Vol. 2 by analysing his own game against GM Praveen Thipsay. He highlights the importance of king safety and multi-purpose moves, showing how he found a secure setup for his king while activating his rooks for an attack. The game showcases how small strategic decisions can lead to winning positions. The course uses an interactive format where viewers try moves, get feedback, and learn through practice. It's aimed at players ready to go beyond the basics and refine their positional understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-take-your-piece-play-to-the-next-level-sneak-peek",
@@ -736,22 +752,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-hotel-room-cricket-to-world-junior-champion-pranav-v-becomes-indias-new-chess-sensation/articleshow/118808190.cms",
          "pubDate" : "Sun, 09 Mar 2025 03:15:09",
          "title" : "From hotel room cricket to world junior champion: Pranav's story"
-      },
-      {
-         "description" : "Today, hosted by London's Royal Automobile Club, the world's longest established chess fixture will continue into its third century. Cambridge University now leads by the narrowest of margins (60 wins to 59) against Oxford, and if the latter triumph in today's annual clash, then the scores will be equalised. In this column I preview the contest, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-oldest-chess-fixture/",
-         "pubDate" : "Sat, 08 Mar 2025 15:13:54",
-         "title" : "The oldest chess fixture"
-      },
-      {
-         "description" : "Today, I'm going to share my super secret formula that makes you improve your chess like nobody else. The lucky few who learn this super secret formula will have more rating points and money and be happier than anyone else. Have I got your attention? Then, let's go from dreamland to reality. The Boring Truth []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/boring-truth/",
-         "pubDate" : "Sat, 08 Mar 2025 14:00:00",
-         "title" : "The Super Secret Way To Improve Your Chess"
       }
    ]
 }
