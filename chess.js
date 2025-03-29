@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/boring-truth/",
          "pubDate" : "Sat, 08 Mar 2025 14:00:00",
          "title" : "The Super Secret Way To Improve Your Chess"
-      },
-      {
-         "description" : "GM V.Pranav comfortably drew his final round game (9/11 rounds) against FM Lavrencic, Matic of Slovenia to clinch the prestigious World Juniors which concluded at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-pranav-v-wins-the-prestigious-world-juniors-2025-at-petrovac/",
-         "pubDate" : "Sat, 08 Mar 2025 06:14:07",
-         "title" : "GM Pranav V wins the prestigious World Juniors 2025 at Petrovac"
       }
    ]
 }
