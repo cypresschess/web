@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th European Women's Chess Championship starts this Monday in Rhodes, Greece, and will be played from 31 March to 11 April 2025 in *****Rodos Palace Conference Hotel. The Championship gathers nearly 140 players coming from 34 European federations, including 7 Grandmasters, 22 Woman Grandmasters, 25 International Masters and 20 Woman International masters. The top seeded players are: GM Nino Batsiashvili (GEO, 2473), IM Teodora Injac (SRB, 2454), IM Meri Arabidze (GEO, 2447), IM Stavroula Tsolakidou (GRE, 2445), IM Dinara []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-starts-in-rhodes-greece/",
+         "pubDate" : "Sat, 29 Mar 2025 09:23:05",
+         "title" : "European Women's Chess Championship 2025 starts in Rhodes, Greece"
+      },
+      {
          "description" : "Pentala Harikrishna, one of India's finest chess grandmasters, has built a life in Prague, blending his passion for chess with a deep connection to the city. In an insightful interview with Sagar Shah, Harikrishna shares his journey - from his rise in the global chess rankings to his experiences working with world champions Gukesh and Ju Wenjun. As they explore Prague's landmarks, he reflects on the challenges of professional chess, the evolving landscape of Indian chess and the importance of unwavering support from family. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/",
          "pubDate" : "Tue, 18 Mar 2025 22:52:12",
          "title" : "Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna"
-      },
-      {
-         "description" : "GM Daniil Yuffa (ESP, 2654) emerged as the sole leader of the European Individual Chess Championship 2025 after four played rounds, as the only player with the maximum score of 4/4 points. GM Daniil Yuffa (ESP, 2654) defeated GM Misratdin Iskandarov (AZE, 2524) with White pieces showing great technique in the endgame. Both players had a positional approach in the game and a very solid position started to look better for Whites just two moves before the time control. Being []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/daniil-yuffa-takes-sole-lead-in-european-individual-chess-championship-2025/",
-         "pubDate" : "Tue, 18 Mar 2025 20:08:26",
-         "title" : "Daniil Yuffa takes sole lead in European Individual Chess Championship 2025"
       },
       {
          "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
