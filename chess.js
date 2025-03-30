@@ -50,36 +50,12 @@ news_feed (
          "title" : "Harikrishna's journey from becoming a Junior Champion to training the World Champions"
       },
       {
-         "description" : "In this sneak peek, IM Robert Ris presents a strategic lesson from his course Mastering Chess Strategy Vol. 2 by analysing his own game against GM Praveen Thipsay. He highlights the importance of king safety and multi-purpose moves, showing how he found a secure setup for his king while activating his rooks for an attack. The game showcases how small strategic decisions can lead to winning positions. The course uses an interactive format where viewers try moves, get feedback, and learn through practice. It's aimed at players ready to go beyond the basics and refine their positional understanding.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-take-your-piece-play-to-the-next-level-sneak-peek",
-         "pubDate" : "Fri, 28 Mar 2025 17:00:00",
-         "title" : "Robert Ris: Take your piece play to the next level! - Sneak Peek"
-      },
-      {
-         "description" : "Beauty prizes at chess tournaments are great. But there have always been disputes about which game in a tournament deserves this prize. For example, Kateryna Lagno (pictured) felt unjustly ignored when the award was presented at the Women's Grand Prix in Monaco 2025 and has now protested in an open letter. Thorsten Cmiel reports on this dispute, which has political dimensions. | Photo: Niki Riga / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beauty-prize-politics",
-         "pubDate" : "Fri, 28 Mar 2025 16:10:00",
-         "title" : "Politics get involved in beauty prize controversy"
-      },
-      {
          "description" : "Liam Hereford won the 2025 Chess.com Atomic Chess Championship after winning both the Winners Final and Grand Final Reset. Eduardo Lorenzon lost to Hereford early in the Winners Semifinals but climbed through three matches in the Losers Bracket to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hereford-wins-2025-atomic-chess-community-championship",
          "pubDate" : "Fri, 28 Mar 2025 14:34:00",
          "title" : "Liam Hereford Crowned Atomic Chess Champion After Explosive Performance"
-      },
-      {
-         "description" : "Sweeping, ornate, individual handwriting may be an expression of personality, but when you enter chess games into databases, they are a nuisance. Henrik Schl&ouml;ßner is familiar with this problem but has now discovered a tool that could save a lot of work and nerves when entering games: the chess scanner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-scanner-effortless-game-recording",
-         "pubDate" : "Fri, 28 Mar 2025 12:49:03",
-         "title" : "The Chess Scanner - Effortless Game Recording"
       },
       {
          "description" : "GM Kateryna Lagno has withdrawn from the 2025 FIDE Women&#38;rsquo;s Grand Prix India in Pune, India, which is part of the women&#38;rsquo;s world championship cycle. FIDE published that Lagno, as well as IM Sara Khadem, withdrew from the tournament that&#39;...",
@@ -114,14 +90,6 @@ news_feed (
          "title" : "Magnus Carlsen makes cameo in BBC Two's Chess Masters as drop in viewers slows"
       },
       {
-         "description" : "FIDE has launched the Open Chess Museum, an online platform providing free access to a vast archive of chess history as part of its centenary celebrations. Featuring rare artifacts, historical documents, and personal items from top players, the museum offers a comprehensive look at the evolution of the game. Organised into thematic sections, it includes a timeline of chess history, FIDE's institutional development and biographies of world champions. The initiative invites global contributions, ensuring a continuously expanding digital repository.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-launches-digital-museum-2025",
-         "pubDate" : "Fri, 28 Mar 2025 01:05:00",
-         "title" : "FIDE launches first digital museum dedicated to chess history"
-      },
-      {
          "description" : "&#8212; by Richard Palliser After five rounds of highly competitive chess Sachsen-Anhalt from Germany emerged victorious in the 12th &#160;&#160;ChessMates International, which took place in the fine setting of York...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -136,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sign-of-real-intelligence-chat-bots-cheat-at-chess",
          "pubDate" : "Thu, 27 Mar 2025 11:10:11",
          "title" : "Sign Of Real Intelligence? Chatbots Cheat At Chess, Too, According To Study"
-      },
-      {
-         "description" : "Arnold Sch&ouml;nberg's name is closely associated with the invention of twelve-tone music, but his creative power extended far beyond music. He painted and was an inventor. At the end of February, the Johanneum Eppendorf in Hamburg dedicated an afternoon to the great artist. Sch&ouml;nberg's invention of 'coalition chess' played an important role. | Photo: Anne Kropp/ Johanneum",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arnold-schoenberg-chess-and-music",
-         "pubDate" : "Thu, 27 Mar 2025 07:20:00",
-         "title" : "Arnold Sch&ouml;nberg - Chess and Music"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119581503.cms\" />Reigning world chess champion D Gukesh Dommaraju has named legendary cricketer MS Dhoni as his idol, admiring Dhoni's composure under pressure. Gukesh credits Dhoni's calmness and clear thinking in high-stakes situations for positively influencing his approach to handling pressure in his chess games. Recently, Gukesh spoke about his deep admiration for Dhoni and the significant role the cricketing icon has played in shaping his mindset and approach to pressure situations.",
@@ -194,14 +154,6 @@ news_feed (
          "title" : "Is Hans Niemann right??"
       },
       {
-         "description" : "The Romanian Chess Federation is hosting the 2025 European Championship, with over 330 players competing for titles, prize money and one of the 20 qualifying places for the World Cup. Romanian star Bogdan-Daniel Deac tops the seeding list. He is followed by some familiar names, including younger players like Daniel Dardha and experienced players like Pawel Eljanov. | Follow the games live with expert commentary starting at 14.00 CET (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-ch-2025-live",
-         "pubDate" : "Wed, 26 Mar 2025 12:50:00",
-         "title" : "European Championship, Round 11 - Live"
-      },
-      {
          "description" : "This year's ECF Online Grand Prix Series starts with an online blitz tournament on Sunday 6th April 2025.&#160;Grand Prix events will be held on Lichess at 2.00pm on the first...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -224,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sindarov-lazavik-win-titled-tuesday-march-25-2025",
          "pubDate" : "Wed, 26 Mar 2025 09:04:59",
          "title" : "Nakamura Nearly Wins Tuesday Despite Missing Round; Sindarov, Lazavik Take It Instead"
-      },
-      {
-         "description" : "The European Chess Union (ECU) has announced the launch of an innovative online training platform, ECU HUB, which is aimed at significantly improving chess education and professional development. The new platform serves as a comprehensive digital learning environment, designed to enhance the skills of chess professionals, arbiters, and enthusiasts across Europe and beyond. It represents the organization's commitment to modernizing chess education and making high-quality training accessible to chess community. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/launch-of-ecu-hub",
-         "pubDate" : "Wed, 26 Mar 2025 07:12:04",
-         "title" : "Launch of ECU HUB"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess welcomes Brian Harting as its new Administrative Assistant based out of the St. Louis office.With an extensive background in higher education and medical office coordination, event management, and service/support in the customer, management, and business sectors, Brian has decided to pivot his career by providing his outstanding skillset and diverse experience to the chess community.An animal lover at his core, Brian has two cats and a chinchilla, and enjoys activities including karaoke, hiking and being creative through various art projects. ",
@@ -298,14 +242,6 @@ news_feed (
          "title" : "Anna Muzychuk Wins Cyprus Grand Prix On Tiebreaks"
       },
       {
-         "description" : "The fourth leg of the 2024/25 Women's Grand Prix series is taking place in Nicosia, Cyprus, on 14-25 March. A 10-player single round-robin, the event has Aleksandra Goryachkina, Anna Muzychuk and Zhu Jiner as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 14.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2025-live",
-         "pubDate" : "Mon, 24 Mar 2025 12:55:00",
-         "title" : "Women's Grand Prix Nicosia - Live!"
-      },
-      {
          "description" : "More than 40 years after the BBC first dipped its programming toe into chess with The Master Game, the network has returned this month with Chess Masters: The Endgame, which airs at 8 p.m. GMT on Monday nights. One of the main differences between ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -368,14 +304,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2025",
          "pubDate" : "Sun, 23 Mar 2025 21:06:00",
          "title" : "American Cup 2025 - "
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its fourth year, the event runs from March 15-24 at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 18.00 CET (13.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2025-live",
-         "pubDate" : "Sun, 23 Mar 2025 18:00:00",
-         "title" : "The American Cup - Live!"
       },
       {
          "description" : "GM Anna Muzychuk&#39;s fourth win, over GM Elisabeth Paehtz, saw her catch GM Zhu Jiner in the lead going into the final round of the 2025 Nicosia FIDE Women&#39;s Grand Prix. GMs Harika Dronavalli, Aleksandra Goryachkina, and Mariya Muzychuk are within s...",
