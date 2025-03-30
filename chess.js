@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The FAMU Chess Club held a qualifying tournament to determine who would represent the school at the upcoming HBCU Chess Classic. The Classic will feature teams from Historically Black Colleges and Universities, of which there are 107 nationwide. The qualifying event was held on January 22nd on &#8220;The Set&#8221; during &#8220;Be Out Day,&#8221; a festival The post <a href=\"https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/\">FAMU Chess sets team; readies for HBCU Classic</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The FAMU Chess Club held a qualifying tournament to determine who would represent the school at the upcoming HBCU Chess Classic. The Classic will feature teams from Historically Black Colleges and Universities, of which there are 107 nationwide. The qualifying event was held on March 22nd on &#8220;The Set&#8221; during &#8220;Be Out Day,&#8221; a festival The post <a href=\"https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/\">FAMU Chess sets team; readies for HBCU Classic</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/",
