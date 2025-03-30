@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you know the feeling? Over time, more and more databases accumulate in ChessBase: How do you keep track of them all? It's best to get organised right from the start - but how? In this tutorial, we'll show you how to organise and systematically save your own material so that you can always find everything quickly. It's not that complicated and it's actually fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-7-organising-databases",
+         "pubDate" : "Sun, 30 Mar 2025 15:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, Part 7: Organising databases!"
+      },
+      {
+         "description" : " The 25th European Individual Championship took place Sat 15th to Wed 26th Mar 2025 in Eforie Nord, Romania. Matthias Bluebaum won the title on tie-break from Frederick Svane and Maxim Rodshtein. Bluebaum is the first player to win the event twice having won previously in 2022. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
+         "pubDate" : "Sun, 30 Mar 2025 12:52:00",
+         "title" : "25th European Individual Championship 2025 - Games and Results"
+      },
+      {
          "description" : "The Agzamov Memorial took place from 21 to 29 March in Tashkent, Uzbekistan, attracting a strong field of international players in Group A. Indian Grandmaster Nihal Sarin claimed outright victory with an unbeaten 8/10 score, finishing ahead of a competitive field that included eight 2600+ rated players. Among the standout performances was 15-year-old Uzbek IM Khumoyun Begmuratov, who secured ninth place with a solid 7/10. | Photo: Uzbekistan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/",
          "pubDate" : "Sun, 16 Mar 2025 15:23:32",
          "title" : "William Scott honored in March 2025 Chess Life!"
-      },
-      {
-         "description" : " The 25th European Individual Championship takes place Sat 15th to Wed 26th Mar 2025 in Eforie Nord, Romania. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
-         "pubDate" : "Sat, 15 Mar 2025 21:08:00",
-         "title" : "25th European Individual Championship 2025 - Games and Results"
       },
       {
          "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
