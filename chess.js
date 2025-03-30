@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FAMU Chess Club held a qualifying tournament to determine who would represent the school at the upcoming HBCU Chess Classic. The Classic will feature teams from Historically Black Colleges and Universities, of which there are 107 nationwide. The qualifying event was held on January 22nd on &#8220;The Set&#8221; during &#8220;Be Out Day,&#8221; a festival The post <a href=\"https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/\">FAMU Chess sets team; readies for HBCU Classic</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/",
+         "pubDate" : "Sun, 30 Mar 2025 18:43:59",
+         "title" : "FAMU Chess sets team; readies for HBCU Classic"
+      },
+      {
+         "description" : "The 2025 FIDE Women's World Chess Championship will see reigning champion Ju Wenjun defend her title against challenger Tan Zhongyi in a highly anticipated rematch. The match, played from 1 to 23 April across Shanghai and Chongqing, will consist of 12 classical games, with a tiebreak if necessary. Ju, a four-time champion, faces a determined opponent eager to reclaim the title she lost in 2018. With both players at the peak of their careers, the stage is set for a thrilling contest. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-preview",
+         "pubDate" : "Sun, 30 Mar 2025 18:00:00",
+         "title" : "Starting Thursday: Ju Wenjun v. Tan Zhongyi"
+      },
+      {
          "description" : "Do you know the feeling? Over time, more and more databases accumulate in ChessBase: How do you keep track of them all? It's best to get organised right from the start - but how? In this tutorial, we'll show you how to organise and systematically save your own material so that you can always find everything quickly. It's not that complicated and it's actually fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-7-organising-databases",
-         "pubDate" : "Sun, 30 Mar 2025 15:00:00",
+         "pubDate" : "Sun, 30 Mar 2025 15:05:00",
          "title" : "ChessBase 18 - Tips for Beginners, Part 7: Organising databases!"
       },
       {
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
          "pubDate" : "Mon, 10 Mar 2025 06:17:20",
          "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
-      },
-      {
-         "description" : "Quantum chess is one of those intriguing ideas that appear on the CFAA radar every so often. The last time it featured as video of the month was <A HREF=\"https://chessforallages.blogspot.com/2020/09/quantum-chess-and-ai.html\">Quantum Chess and AI</A> (September 2020). Here's a more down-to-earth angle. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/p2COYL8WFig?si=qEbs6GZG2U2WEkQn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>How Does Quantum Chess Work?</B> (5:57) &#149; '[Publish",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/03/quantum-chess-theory.html",
-         "pubDate" : "Sun, 09 Mar 2025 16:48:00",
-         "title" : "Quantum Chess Theory"
       }
    ]
 }
