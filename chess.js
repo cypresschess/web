@@ -10,6 +10,14 @@ news_feed (
          "title" : "Nihal Sarin shines in Tashkent"
       },
       {
+         "description" : "GM Andrew Tang was denied a record-equaling four-peat in Saturday&#39;s Bullet Brawl&#38;nbsp;by a dominant performance by GM Hikaru Nakamura that saw him capture his 38th title and the $400 first prize. Following a successful The American Cup campaign, N...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-29-2025",
+         "pubDate" : "Sat, 29 Mar 2025 17:25:00",
+         "title" : "Hikaru Denies Tang Four-Peat, Outpaces Carlsen"
+      },
+      {
          "description" : "Cambridge have narrowly won the 2025 Varsity match against Oxford, the world's longest running chess competition, which began in 1873 and now spans three centuries. This result gives Cambridge a clear two-match lead in this venerable series. Here are the precise scores: 2025 Varsity Chess Match Oxford moved into an early lead, but late errors []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -554,14 +562,6 @@ news_feed (
          "title" : "Launch of ECU HUB "
       },
       {
-         "description" : "GM Hans Niemann said he has withdrawn from a previously agreed-upon polygraph test, popularly known as a &#34;lie detector test,&#34; following his loss against GM Daniil Dubov, citing the Russian&#39;s &#34;disrespectful&#34; behavior. [Updated&#38;nbsp;March 21, 2025...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-lashes-out-at-disrespectful-dubov-cancels-lie-detector-test",
-         "pubDate" : "Thu, 20 Mar 2025 12:07:00",
-         "title" : "Hans Niemann Backs Out Of Lie Detector Test, Accuses Daniil Dubov Of 'Disrespectful' Behavior"
-      },
-      {
          "description" : "Editor's note: Sofia Doroshenko is a senior at Macalester College, where she recently organized the first Chesswrestling Festival. In the lead-up to this event, US Chess had the pleasure of interviewing Sofia for our YouTube channel. In this article, Sofia shares her experiences an organizer and participant in this unique and exciting sport. Follow Sofia on YouTube for more chesswrestling content, and more information about chesswrestling (including the rules) is included at the end of this article.Last year, national master Ionatan Giurgiu showed me a chessboxing video between WGM Dina Belenkaya and Andrea Botez, after my adamant refusal of it being a real sport. The idea of dominating your",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2025/03/quantum-chess-theory.html",
          "pubDate" : "Sun, 09 Mar 2025 16:48:00",
          "title" : "Quantum Chess Theory"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118808190.cms\" />18-year-old Pranav Venkatesh clinched the World Junior Chess Championship with unique preparation methods, including playing cricket in hotel rooms with his coach, GM Shyam Sundar. Pranav balanced his rapid blitz skills with the patience needed for classical chess, leading to his triumph in Montenegro, a title once held by Viswanathan Anand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-from-hotel-room-cricket-to-world-junior-champion-pranav-v-becomes-indias-new-chess-sensation/articleshow/118808190.cms",
-         "pubDate" : "Sun, 09 Mar 2025 03:15:09",
-         "title" : "From hotel room cricket to world junior champion: Pranav's story"
       }
    ]
 }
