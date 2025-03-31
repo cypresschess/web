@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The FAMU Chess Club held a qualifying tournament to determine who would represent the school at the upcoming HBCU Chess Classic. The Classic will feature teams from Historically Black Colleges and Universities, of which there are 107 nationwide. The qualifying event was held on March 22nd on &#8220;The Set&#8221; during &#8220;Be Out Day,&#8221; a festival The post <a href=\"https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/\">FAMU Chess sets team; readies for HBCU Classic</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "\"Paul Morphy is an object of pity,\" wrote the New York World in 1877. \"He is sane on a few subjects, but his old hobby - chess - is so distasteful to him that he cannot bear to talk about his former exploits. It would really be an act of charity to remove him from the public gaze.\" Stewart Player examines competing views on Paul Morphy's mental collapse.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-real-paul-morphy",
+         "pubDate" : "Mon, 31 Mar 2025 09:20:45",
+         "title" : "The Real Paul Morphy"
+      },
+      {
+         "description" : "The National Amateur Chess Championship 2024-2025 was started on 25th March 2025 at Sambodhi Retreat, Gaya, Bihar, attracting chess enthusiasts and competitors from every corner",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-12th-national-amateur-chess-championship-2024-25-in-bodh-gaya-bihar-from-25th-29th-march-2025/",
+         "pubDate" : "Mon, 31 Mar 2025 06:34:23",
+         "title" : "Final Report :12th National Amateur Chess Championship 2024-25 in Bodh Gaya, Bihar from 25th - 29th March 2025"
+      },
+      {
+         "description" : " The FAMU Chess Club held a qualifying tournament to determine who would represent the school at the upcoming HBCU Chess Classic. The Classic will feature teams from Historically Black Colleges and Universities, of which there are 107 nationwide. The FAMU Chess Club was rechartered on January 28th after more than 20 years of dormancy. The The post <a href=\"https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/\">FAMU Chess sets team; readies for HBCU Classic</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-spassky-fought-for-fischer",
          "pubDate" : "Mon, 10 Mar 2025 19:00:00",
          "title" : "How Spassky fought for Fischer"
-      },
-      {
-         "description" : "Koneru Humpy speaks on motherhood, challenges as a woman in sport, and what it takes to be a champion.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/44151545/koneru-humpy-mother-world-champion-queen-board?device=featurephone",
-         "pubDate" : "Mon, 10 Mar 2025 06:17:20",
-         "title" : "Koneru Humpy: Mother, World Champion, Queen across the board"
       }
    ]
 }
