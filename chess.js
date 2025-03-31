@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 1st HBCU Chess Classic at Morris Brown College \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, Co-Founder of TBO and co-organizer of the event The 2025 HBCU Chess Classic is only two weeks away, and things are heating up as teams complete their arrangements. The five-round tournament is The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/",
+         "pubDate" : "Mon, 31 Mar 2025 20:51:17",
+         "title" : "2025 HBCU Chess Classic approaches!"
+      },
+      {
          "description" : " The 25th European Women's Championship takes place in Rhodes, Greece, Mon 31st Mar to Sat 12th Apr 2025. Leading players: Nino Batsiashvili, Teodora Injac, Meri Arabidze, Stavroula Tsolakidou etc.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
+         "description" : "We&#38;rsquo;re excited to announce the release of our newest feature, Life Review! Chess.com&#38;rsquo;s Game Review has become an incredibly popular tool to help chess players understand and improve their game. Life Review takes that same underlying tec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-life-review",
+         "pubDate" : "Mon, 31 Mar 2025 15:05:00",
+         "title" : "Chess.com Releases Revolutionary New \"Life Review\" On Android And iOS"
+      },
+      {
          "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "European Women's Chess Championship - Live"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;&#101;&#x67;&#x75;a&#x72;&#x64;i&#110;&#x67;&#46;&#111;&#x66;f&#105;&#x63;e&#114;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;&#99;&#x68;&#x65;s&#x73;&#x2e;o&#114;&#x67;&#46;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;&#x75;&#x61;r&#100;&#105;&#110;&#x67;&#x2e;&#x6f;ff&#105;&#99;&#x65;&#x72;&#x40;en&#103;&#108;&#x69;&#x73;&#x68;ch&#101;&#115;&#x73;&#x2e;&#x6f;rg&#46;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Announcement :Medical Evaluation in Chennai on 08 April 2025."
       },
       {
-         "description" : "Chess.com&#38;rsquo;s Chief Chess Officer, IM Danny Rensch, hosted the latest installment of State of Chess on Thursday. He was joined by several colleagues to share exciting updates, including the highly anticipated return of PogChamps. The three-h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-state-of-chess",
-         "pubDate" : "Fri, 21 Mar 2025 08:32:00",
-         "title" : "State Of Chess: PogChamps, Chessable Courses, Fair Play Status, Product Updates, & More"
-      },
-      {
          "description" : " Chess Masters: The Endgame received some negative reviews for its 10 March debut, watched by 890,000, but fears of a second-week meltdown proved overblown Chess Masters: The Endgame, BBC Two's most ambitious chess programme for half a century, got off to a rocky start on 10 March, when its opening episode received some rough treatment from critics. The Guardian's <a href=\"https://www.theguardian.com/tv-and-radio/2025/mar/10/chess-masters-the-endgame-review-so-dull-its-almost-unwatchable\">Lucy Mangan called it</a> \"so dull it's almost unwatchable\". However, fears of a second week meltdown last Monday proved overblown. Viewers totalled 710,000, still nearly 6% of the television audience, and ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-motherhood-not-a-liability-how-indias-no-1-koneru-humpy-balances-chess-and-family/articleshow/118883479.cms",
          "pubDate" : "Tue, 11 Mar 2025 09:24:26",
          "title" : "'Motherhood not a liability': How Koneru Humpy balances chess and family"
-      },
-      {
-         "description" : " The Eswatini Chess Federation was chartered in 2006 and joined FIDE in 2011. The federation has had regular activity, mostly on the school level, but they have also&#160;hosted successful open tournaments. The country of Eswatini has a long history, but the nation itself is young, having changed its name from Swaziland in 2018. In the The post <a href=\"https://thechessdrum.net/blog/2025/03/10/eswatini-chess-prepares-children-for-future/\">Eswatini chess prepares children for future</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/10/eswatini-chess-prepares-children-for-future/",
-         "pubDate" : "Mon, 10 Mar 2025 21:30:09",
-         "title" : "Eswatini chess prepares children for future"
       }
    ]
 }
