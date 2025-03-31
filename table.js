@@ -1,4 +1,5 @@
 jtable([
+"HUMBLE","2025-03-29","135","<a href=http://www.uschess.org/msa/XtblMain.php?202503299942 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
 "HOUSTON","2025-03-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202503299812 target='_blank'>MAR 29TH SATURDAY SWISS</a>",
 "HOUSTON","2025-03-29","36","<a href=http://www.uschess.org/msa/XtblMain.php?202503298602 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-03-28","33","<a href=http://www.uschess.org/msa/XtblMain.php?202503288662 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-08-17","69","<a href=http://www.uschess.org/msa/XtblMain.php?202408174782 target='_blank'>TCR: SPACE CITY OPEN & SCHOLASTIC 2024</a>",
 "SUGAR LAND","2024-08-17","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408174332 target='_blank'>HAWAIIAN SHIRT DAY OPEN</a>",
 "SPRING","2024-08-16","28","<a href=http://www.uschess.org/msa/XtblMain.php?202408164272 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-08-16","30","<a href=http://www.uschess.org/msa/XtblMain.php?202408164232 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
