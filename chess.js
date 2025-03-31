@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "\"Paul Morphy is an object of pity,\" wrote the New York World in 1877. \"He is sane on a few subjects, but his old hobby - chess - is so distasteful to him that he cannot bear to talk about his former exploits. It would really be an act of charity to remove him from the public gaze.\" Stewart Player examines competing views on Paul Morphy's mental collapse.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-real-paul-morphy",
-         "pubDate" : "Mon, 31 Mar 2025 09:20:45",
-         "title" : "The Real Paul Morphy"
-      },
-      {
          "description" : "The National Amateur Chess Championship 2024-2025 was started on 25th March 2025 at Sambodhi Retreat, Gaya, Bihar, attracting chess enthusiasts and competitors from every corner",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -704,6 +696,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-spassky-fought-for-fischer",
          "pubDate" : "Mon, 10 Mar 2025 19:00:00",
          "title" : "How Spassky fought for Fischer"
+      },
+      {
+         "description" : "In the previous post in this series, <A HREF=\"https://chessforallages.blogspot.com/2025/03/dadaist-chess.html\">Dadaist Chess</A> (March 2025), I ended with an observation and a promise:- <BLOCKQUOTE> Like the [AI comic] software, I'm clearly struggling here, so I'd better end this post now. &#149; <B>Next post in the series:</B> Call me clueless. </BLOCKQUOTE> <P> Let's try an experiment. What does the software display when it has absolutely no idea what its designated subject look like? Since there are no photos of me on the web, other than the one at the top of the navigation column on the right, I'm the perfect subject and the experiment can continue. Even that photo dates back to 2008, s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2025/03/mw-plays-chess-or-call-me-clueless.html",
+         "pubDate" : "Mon, 10 Mar 2025 16:47:00",
+         "title" : "MW Plays Chess -or- Call Me Clueless"
       }
    ]
 }
