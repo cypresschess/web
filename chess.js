@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
+         "pubDate" : "Mon, 31 Mar 2025 13:50:00",
+         "title" : "European Women's Chess Championship - Live"
+      },
+      {
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#117;a&#x72;&#100;&#x69;&#110;g&#x2e;&#111;&#x66;&#102;i&#x63;e&#x72;&#64;&#x65;&#x6e;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#115;&#46;&#x6f;r&#x67;&#46;u&#x6b; if you have any...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
+         "pubDate" : "Mon, 31 Mar 2025 12:26:02",
+         "title" : "ECF Safeguarding Policy"
+      },
+      {
          "description" : "The National Amateur Chess Championship 2024-2025 was started on 25th March 2025 at Sambodhi Retreat, Gaya, Bihar, attracting chess enthusiasts and competitors from every corner",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
