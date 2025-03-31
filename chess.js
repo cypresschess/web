@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 25th European Women's Championship takes place in Rhodes, Greece, Mon 31st Mar to Sat 12th Apr 2025. Leading players: Nino Batsiashvili, Teodora Injac, Meri Arabidze, Stavroula Tsolakidou etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/25th-european-womens-championship-2025",
+         "pubDate" : "Mon, 31 Mar 2025 16:54:00",
+         "title" : "25th European Women's Championship 2025 - Games and Results"
+      },
+      {
+         "description" : "National Team S.NO Name 1 Vignesh N R 2 Das Sayantan 3 Visakh N R 4 Mitrabha Guha 5 Shyaam Nikhil P 6 Sankalp Gupta",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-open-and-women-certificates-2024-25-in-ahmedabad-from-05-11-march-2025/",
+         "pubDate" : "Mon, 31 Mar 2025 16:41:35",
+         "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
+      },
+      {
          "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "European Women's Chess Championship - Live"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#117;a&#x72;&#100;&#x69;&#110;g&#x2e;&#111;&#x66;&#102;i&#x63;e&#x72;&#64;&#x65;&#x6e;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#115;&#46;&#x6f;r&#x67;&#46;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;&#101;&#x67;&#x75;a&#x72;&#x64;i&#110;&#x67;&#46;&#111;&#x66;f&#105;&#x63;e&#114;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;&#99;&#x68;&#x65;s&#x73;&#x2e;o&#114;&#x67;&#46;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
          "pubDate" : "Mon, 31 Mar 2025 12:26:02",
          "title" : "ECF Safeguarding Policy"
+      },
+      {
+         "description" : "In last season&#39;s Collegiate Chess League (CCL) finals, the University of Missouri (Mizzou) defeated St. Louis University (SLU) in a tight match. There were some adventures along the way, but both teams worked their way back to the Collegiate Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-finals",
+         "pubDate" : "Mon, 31 Mar 2025 11:09:00",
+         "title" : "SLU Gets Revenge, Wins Spring Season CCL"
+      },
+      {
+         "description" : "On the road to the grandmaster title, IM-elect Tani Adewumi has only one stop left. In round five of the tournament NYC Chess Norms Spring 2025, the 14-year-old crossed 2400 by live rating and thus completed the final requirement for the internati...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tani-adewumi-earns-im-title",
+         "pubDate" : "Mon, 31 Mar 2025 10:24:00",
+         "title" : "Tani Adewumi Secures IM Title At 14, Aims For Grandmaster Next"
       },
       {
          "description" : "The National Amateur Chess Championship 2024-2025 was started on 25th March 2025 at Sambodhi Retreat, Gaya, Bihar, attracting chess enthusiasts and competitors from every corner",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/final-report-12th-national-amateur-chess-championship-2024-25-in-bodh-gaya-bihar-from-25th-29th-march-2025/",
          "pubDate" : "Mon, 31 Mar 2025 06:34:23",
          "title" : "Final Report :12th National Amateur Chess Championship 2024-25 in Bodh Gaya, Bihar from 25th - 29th March 2025"
+      },
+      {
+         "description" : "How is it that so many players have not read the rulebook? It is free online. Most tournament players will find that chapter one is the most useful section. Finding a rule in the online version (by the way: it is also downloadable) is as easy as using your device's FIND function. Hint: start the FIND function at the beginning of the online rules. Why? The Table of Contents is near the top of the document, and it is linked to each rule. The odds are that what you are searching for will pop up first (or near it) in the Table of Contents. Keyboarding your search term and ending it with a period also is neat hack. Also, every \"See Also\" reference is linked to its source. Onto the questions:How d",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-i-need-ask",
+         "pubDate" : "Mon, 31 Mar 2025 00:00:00",
+         "title" : "Just the Rules: I Need To Ask This"
       },
       {
          "description" : " The FAMU Chess Club held a qualifying tournament to determine who would represent the school at the upcoming HBCU Chess Classic. The Classic will feature teams from Historically Black Colleges and Universities, of which there are 107 nationwide. The FAMU Chess Club was rechartered on January 28th after more than 20 years of dormancy. The The post <a href=\"https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/\">FAMU Chess sets team; readies for HBCU Classic</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -498,14 +538,6 @@ news_feed (
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2025-26"
       },
       {
-         "description" : "World number-one Magnus Carlsen will play the SuperUnited Rapid &#38;amp; Blitz Croatia, while 50-year-old former world number-one Veselin Topalov returns to top-level chess to play the Superbet Rapid &#38;amp; Blitz Poland. Other wildcards announced for ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-topalov-grand-chess-tour-2025-wildcards",
-         "pubDate" : "Fri, 21 Mar 2025 05:41:00",
-         "title" : "Carlsen, Topalov Given Grand Chess Tour Wildcards"
-      },
-      {
          "description" : "Heading into the final weekend of the 2025 American Cup, GM Hikaru Nakamura and IM Alice Lee have each advanced to the Grand Final by winning their respective Champions Final matches over GM Fabiano Caruana and WGM Tatev Abrahamyan. Catch up on the earlier rounds with our previous articles here and here. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Graphics courtesy of SLCC<br> <br> The Elimination Bracket takes center stage today, with Caruana facing a rematch against GM Levon Aronian and Abrahamyan squaring off against GM Irina Krush. The winners will play a two-game classical matc",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -520,14 +552,6 @@ news_feed (
          "link" : "https://www.europechess.org/daniil-yuffa-keeps-sole-going-into-the-rest-day-at-european-individual-chess-championship-2025/",
          "pubDate" : "Thu, 20 Mar 2025 21:09:57",
          "title" : "Daniil Yuffa keeps sole going into the rest day at European Individual Chess Championship 2025"
-      },
-      {
-         "description" : "GM Hikaru Nakamura defeated Fabiano Caruana 2.5-1.5 in blitz tiebreaks to win the Champions Final of The American Cup 2025, which comes with a $15,000 bonus. In the Women&#39;s American Cup Champions Final, IM Alice Lee survived a dead-lost endgame ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-6",
-         "pubDate" : "Thu, 20 Mar 2025 17:56:00",
-         "title" : "Nakamura Beats Caruana In Blitz Playoffs, Wins Champions Final"
       },
       {
          "description" : "In an historic moment for the global chess community, World Chess officially introduces a Patron Saint of Chess: bringing the game into a centuries-old tradition of sports and cultural patronage. St. Teresa of Avila, a 16th-century Spanish mystic, writer, and intellectual, is an apt choice for chess's first patron saint. One of the most influential figures of the Catholic Church, she was known for her deep strategic thinking, discipline, and ability to navigate complex intellectual and spiritual landscapes-qualities that also define the highest levels of chess.",
@@ -584,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-9",
          "pubDate" : "Wed, 19 Mar 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 9"
-      },
-      {
-         "description" : "Editor's note: Today, we continue our reporting on the American Cup with more annotated games and highlights from GM Luka Budisavljevic. Come back on Friday for a recap of the fifth and sixth day of play.Plus: follow the fifth day of action live beginning at 12 CDT courtesy of SLCC on Twitch and YouTube, featuring commentary from GMs Yasser Seirawan and Christian Chirila along with IM Eric Rosen and WGM Katerina Nemcova.It wouldn't be a final four without at least one upset. The Champions Bracket finals are set in both sections of this year's American Cup, with play beginning at 12:00 CDT today, and while three of the top overall seeds have made it, there is one surprise in the Women's secti",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/champions-bracket-finals-set-american-cup",
-         "pubDate" : "Wed, 19 Mar 2025 00:00:00",
-         "title" : "Champions Bracket Finals Set in American Cup"
       },
       {
          "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -704,22 +720,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/10/eswatini-chess-prepares-children-for-future/",
          "pubDate" : "Mon, 10 Mar 2025 21:30:09",
          "title" : "Eswatini chess prepares children for future"
-      },
-      {
-         "description" : "On July 13, 2004, Bobby Fischer was detained in Japan with an invalid U.S. passport. That marked the beginning of a nine-month ordeal for him in Japanese custody. Among the supporters fighting for his release was former World Champion Boris Spassky, whom Fischer had dethroned thirty years earlier. Spassky, who passed last week, even wrote a personal letter of appeal to President George Bush, asking to be locked up in the same cell as Fischer. \"And give us a chess set,\" he said.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-spassky-fought-for-fischer",
-         "pubDate" : "Mon, 10 Mar 2025 19:00:00",
-         "title" : "How Spassky fought for Fischer"
-      },
-      {
-         "description" : "In the previous post in this series, <A HREF=\"https://chessforallages.blogspot.com/2025/03/dadaist-chess.html\">Dadaist Chess</A> (March 2025), I ended with an observation and a promise:- <BLOCKQUOTE> Like the [AI comic] software, I'm clearly struggling here, so I'd better end this post now. &#149; <B>Next post in the series:</B> Call me clueless. </BLOCKQUOTE> <P> Let's try an experiment. What does the software display when it has absolutely no idea what its designated subject look like? Since there are no photos of me on the web, other than the one at the top of the navigation column on the right, I'm the perfect subject and the experiment can continue. Even that photo dates back to 2008, s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2025/03/mw-plays-chess-or-call-me-clueless.html",
-         "pubDate" : "Mon, 10 Mar 2025 16:47:00",
-         "title" : "MW Plays Chess -or- Call Me Clueless"
       }
    ]
 }
