@@ -82,7 +82,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;u&#97;&#114;&#x64;&#x69;&#x6e;g&#46;&#111;&#x66;&#x66;ic&#101;&#x72;&#x40;&#x65;n&#103;&#108;&#x69;&#x73;hc&#104;&#x65;&#x73;&#x73;&#46;&#111;&#114;&#x67;&#x2e;uk if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;&#117;&#x61;&#x72;&#100;i&#x6e;&#103;&#46;&#x6f;&#x66;&#102;i&#x63;&#101;r&#x40;&#x65;&#110;g&#x6c;&#105;s&#x68;&#x63;&#104;e&#x73;&#115;&#46;&#x6f;&#x72;&#103;&#x2e;&#x75;&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -704,14 +704,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/14/chitumbo-mwali-wins-5th-zambian-chess-crown/",
          "pubDate" : "Fri, 14 Mar 2025 04:23:43",
          "title" : "Chitumbo Mwali wins 5th Zambian Chess Crown!"
-      },
-      {
-         "description" : "Some of the world's best chess players have trained under him, yet his name remains unknown to many. He has worked with players like Anish Giri, Jorden van Foreest, and Vladimir Fedoseev but always stayed behind the scenes. He is known for his creative training methods and intensive sessions. The name of this mastermind is Roman Vidonyak, and Sagar Shah got the opportunity to meet him in Wijk aan Zee. Check out his interview in which he talks about his training journey, training philosophy, and what it takes to create champions. Photo: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-roman-vidonyak-the-hidden-coach-behind-top-grandmasters",
-         "pubDate" : "Tue, 11 Mar 2025 16:00:00",
-         "title" : "Meet Roman Vidonyak: The hidden coach behind top grandmasters"
       }
    ]
 }
