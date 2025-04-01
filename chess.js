@@ -42,7 +42,7 @@ news_feed (
          "title" : "European Women's Chess Championship - Live"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;u&#97;&#114;&#x64;&#x69;&#x6e;g&#46;&#111;&#x66;&#x66;ic&#101;&#x72;&#x40;&#x65;n&#103;&#108;&#x69;&#x73;hc&#104;&#x65;&#x73;&#x73;&#46;&#111;&#114;&#x67;&#x2e;uk if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at sa&#102;&#101;&#x67;&#x75;&#x61;&#x72;di&#110;&#103;&#x2e;&#x6f;&#x66;&#x66;ic&#101;&#114;&#64;&#x65;&#x6e;&#x67;&#x6c;is&#104;&#99;&#x68;&#x65;&#x73;&#x73;&#46;o&#114;&#103;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
