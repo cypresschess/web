@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
+         "pubDate" : "Tue, 01 Apr 2025 13:50:00",
+         "title" : "European Women's Chess Championship - Live"
+      },
+      {
          "description" : "The Indian grandmaster RB Ramesh is considered one of the best and most successful coaches in the world and has played a major role in the successes of Indian talents. In his 4-hour ChessBase video course \"Improve your Pieces\", he reveals his chess and training philosophy. With many instructive examples, exercises and positions to play out. This week only €29.90 instead of €39.90! Get it now!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,15 @@ news_feed (
          "title" : "European Women's Chess Championship 2025 commenced in Rhodes, Greece"
       },
       {
-         "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023 \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, GA 30314 The 2025 The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Maria Emelianova/FIDE<br> <br> <br> <br> This week's puzzles all feature games of GM Alexander Lenderman, a local New Yorker who had a strong FIDE World Blitz Championship, finishing with an 8&frac12;/13 score and six wins a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-11-lenderman",
+         "pubDate" : "Tue, 01 Apr 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 11 (Lenderman)"
+      },
+      {
+         "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/",
@@ -63,18 +79,10 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-april-2025-fide-rating-list",
          "pubDate" : "Mon, 31 Mar 2025 15:01:00",
-         "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th On April 2025 FIDE Rating List"
+         "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
-         "pubDate" : "Mon, 31 Mar 2025 13:50:00",
-         "title" : "European Women's Chess Championship - Live"
-      },
-      {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#x65;&#103;&#117;&#97;rd&#x69;&#x6e;&#x67;&#x2e;&#x6f;&#102;&#102;&#105;ce&#x72;&#x40;&#x65;&#x6e;&#x67;&#108;&#105;&#115;hc&#x68;&#x65;&#x73;&#x73;&#x2e;&#111;&#114;&#103;&#46;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;u&#97;&#114;&#x64;&#x69;&#x6e;g&#46;&#111;&#x66;&#x66;ic&#101;&#x72;&#x40;&#x65;n&#103;&#108;&#x69;&#x73;hc&#104;&#x65;&#x73;&#x73;&#46;&#111;&#114;&#x67;&#x2e;uk if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -626,14 +634,6 @@ news_feed (
          "title" : "The 10th Menchik Memorial"
       },
       {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles feature FIDE World Rapid &amp; Blitz games from Saint Louis Chess Club regulars GMs Leinier Dominguez, Wesley So, and Sam Shankland. These three annual participants in the U.S. Championship all had some nice moments in New York, particularly So, who made it to the semifinals of the Blitz knockout portion. <br> <br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-9",
-         "pubDate" : "Wed, 19 Mar 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 9"
-      },
-      {
          "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/meet-roman-vidonyak-the-hidden-coach-behind-top-grandmasters",
          "pubDate" : "Tue, 11 Mar 2025 16:00:00",
          "title" : "Meet Roman Vidonyak: The hidden coach behind top grandmasters"
-      },
-      {
-         "description" : "Please see below the announcement for the FIDE World Rapid and Blitz Team Championships which will be taking place from 10th 16th June in London. Entries are welcome from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships/",
-         "pubDate" : "Tue, 11 Mar 2025 14:14:27",
-         "title" : "FIDE World Rapid and Blitz Team Championships"
       }
    ]
 }
