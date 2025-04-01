@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Indian grandmaster RB Ramesh is considered one of the best and most successful coaches in the world and has played a major role in the successes of Indian talents. In his 4-hour ChessBase video course \"Improve your Pieces\", he reveals his chess and training philosophy. With many instructive examples, exercises and positions to play out. This week only €29.90 instead of €39.90! Get it now!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/offer-of-the-week-top-trainer-rb-ramesh-reveals-his-secrets",
+         "pubDate" : "Tue, 01 Apr 2025 12:08:20",
+         "title" : "Offer of the week: Top trainer RB Ramesh reveals his secrets"
+      },
+      {
          "description" : "For decades we rigorously celebrated April Fool's day. But our pranks became progressively more difficult over the years. If we were able to construct a fake story, one that was genuinely funny, our friends at Google made it possible to check it in seconds. So we abandoned the tradition. Today, however, we present you with hoaxes and counterfeits in the history of chess. We had expert assistance in doing so.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,15 @@ news_feed (
          "title" : "Pranks, hoaxes and fakes in chess"
       },
       {
-         "description" : " 1st HBCU Chess Classic at Morris Brown College \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, Co-Founder of TBO and co-organizer of the event The 2025 HBCU Chess Classic is only two weeks away, and things are heating up as teams complete their arrangements. The five-round tournament is The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "The 25th edition of the European Women's Chess Championship commenced today in Rhodes, Greece. The opening ceremony of the event took place shortly before the start of the first round with the attendance by the ECU Secretary General Mr. Theodoros Tsorbatzoglou and ECU Treasurer Mr. Ion Dobronauteanu. The Chief Arbiter Mr. Marco Biagioli announced the start of the round, and the ECU Secretary General made the first ceremonial move in the top-board game between GM Nino Batsiashvili (GEO, 2473) and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-commenced-in-rhodes-greece/",
+         "pubDate" : "Tue, 01 Apr 2025 07:53:20",
+         "title" : "European Women's Chess Championship 2025 commenced in Rhodes, Greece"
+      },
+      {
+         "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023 \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, GA 30314 The 2025 The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "Chess.com Releases Revolutionary New \"Life Review\" On Android And iOS"
       },
       {
+         "description" : "GM Arjun Erigaisi is back to world number-four on the April 2025 FIDE rating list after two wins in the German League saw him leapfrog GM Fabiano Caruana, who lost to GM Hikaru Nakamura in The American Cup. The truly spectacular Indian achievement...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-april-2025-fide-rating-list",
+         "pubDate" : "Mon, 31 Mar 2025 15:01:00",
+         "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th On April 2025 FIDE Rating List"
+      },
+      {
          "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "European Women's Chess Championship - Live"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#x67;&#117;a&#x72;&#x64;&#105;n&#x67;&#46;o&#x66;&#x66;&#105;c&#x65;&#x72;&#64;e&#x6e;&#103;&#108;&#x69;&#x73;&#104;c&#x68;&#x65;&#115;s&#x2e;&#111;&#114;g&#x2e;&#117;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#x65;&#103;&#117;&#97;rd&#x69;&#x6e;&#x67;&#x2e;&#x6f;&#102;&#102;&#105;ce&#x72;&#x40;&#x65;&#x6e;&#x67;&#108;&#105;&#115;hc&#x68;&#x65;&#x73;&#x73;&#x2e;&#111;&#114;&#103;&#46;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -522,14 +546,6 @@ news_feed (
          "title" : "Bortnyk Survives Setback To Win A Second Friday"
       },
       {
-         "description" : "What was intended to be a harmless joke turned into a firestorm, racking up over 50 million views and becoming Chess.com&#39;s most viral post ever. Chess.com&#39;s social media accounts have nearly nine million followers across all platforms. They aim ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-joked-about-changing-the-name-of-the-bishop-it-blew-up",
-         "pubDate" : "Fri, 21 Mar 2025 10:52:00",
-         "title" : "Chess.com Joke About Renaming The Bishop Generates Viral Internet Firestorm"
-      },
-      {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-hiring-graphic-design-assistant",
          "pubDate" : "Thu, 20 Mar 2025 00:00:00",
          "title" : "US Chess is Hiring Graphic Design Assistant"
-      },
-      {
-         "description" : "After five played rounds, GM Daniil Yuffa remained the only player with the perfect score of 5/5 points, keeping the sole lead in the tournament. GM Daniil Yuffa (ESP, 2654) had luck on his side today and defeated GM Jorden Van Foreest (NED, 2676) after a thrilling game with lots of turnovers. Van Foreest had a clearly better position after the opening, but both players had a couple of mistakes and the positional occasionally looked equal. After Yuffa's 24Rab8?, Jorden []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/daniil-yuffa-remains-perfect-at-the-european-individual-chess-championship-2025/",
-         "pubDate" : "Wed, 19 Mar 2025 20:03:00",
-         "title" : "Daniil Yuffa remains perfect at the European Individual Chess Championship 2025"
       },
       {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
@@ -712,22 +720,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships/",
          "pubDate" : "Tue, 11 Mar 2025 14:14:27",
          "title" : "FIDE World Rapid and Blitz Team Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/tenders-2025/#new_tab",
-         "pubDate" : "Tue, 11 Mar 2025 09:25:13",
-         "title" : "British Chess Championships - tenders invited"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/118883479.cms\" />Koneru Humpy, India's top woman chess player, balances motherhood and her career with grace. After a hiatus, she made a strong comeback, winning the 2019 World Rapid Championship. Humpy's commitment to fitness and mental strength drives her success. As she prepares for upcoming tournaments, her calm determination and supportive family continue to inspire.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-motherhood-not-a-liability-how-indias-no-1-koneru-humpy-balances-chess-and-family/articleshow/118883479.cms",
-         "pubDate" : "Tue, 11 Mar 2025 09:24:26",
-         "title" : "'Motherhood not a liability': How Koneru Humpy balances chess and family"
       }
    ]
 }
