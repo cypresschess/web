@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India's presence in elite chess continues to strengthen, with Aravindh Chithambaram reaching world number 11 in the latest FIDE rankings. The 25-year-old grandmaster from Madurai recently won the Prague Masters and delivered a flawless performance in the German Bundesliga, gaining 17.5 rating points. His rise places him among India's top players, alongside Gukesh Dommaraju, Arjun Erigaisi and Praggnanandhaa Rameshbabu. With strong tournament results, Aravindh is now a serious contender for a place in the next Candidates Tournament. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aravindh-number-eleven-april-2025",
+         "pubDate" : "Tue, 01 Apr 2025 23:20:00",
+         "title" : "Indians continue ascent: Aravindh climbs to world number 11 in April FIDE rankings"
+      },
+      {
+         "description" : "The second round of the European Women's Chess Championship 2025 was played today in Rhodes, Greece. The players had a tough day in the office, and the games were marked with plenty of turnovers, with some surprising results. Only 15 players remained with the perfect score of 2/2 points, while 35 players follow them scoring 1.5/2 points each. Only one player from the top 10 seeds is in the leading group, and that is GM Bella Khotenashvili (GEO, 2418) who []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-round-2-recap/",
+         "pubDate" : "Tue, 01 Apr 2025 20:12:54",
+         "title" : "European Women's Chess Championship 2025 - Round 2 recap"
+      },
+      {
          "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2025-commenced-in-rhodes-greece/",
          "pubDate" : "Tue, 01 Apr 2025 07:53:20",
          "title" : "European Women's Chess Championship 2025 commenced in Rhodes, Greece"
+      },
+      {
+         "description" : "This issue is dedicated to the memory of Robert Jacobs. Mr. Jacobs, winner of the first Absolute Chess tournament in 1976, passed away on January 30th, 2025. You can find his obituary here.You can also find his US Chess Absolute Player Bio here.All games and puzzles presented in this issue are from Absolute Chess tournaments spanning from 1976 to 2006 and played by Mr. Jacobs.GamesGame 1Jacobs played White in this game against Ignas Zalys using the B11: Caro-Kann: Two Knights Variation. From the 1976 Absolute Chess tournament, Jacobs forces a resignation from Zalys in 45 moves. Game 2Jacobs played Black in this game against Steven Tennant using the D16: Slav Defence: 5. a4: Lines with 5. ...",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/check-mail-april-2025-robert-jacobs",
+         "pubDate" : "Tue, 01 Apr 2025 00:00:00",
+         "title" : "Check is in the Mail, April 2025: Robert Jacobs"
       },
       {
          "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Maria Emelianova/FIDE<br> <br> <br> <br> This week's puzzles all feature games of GM Alexander Lenderman, a local New Yorker who had a strong FIDE World Blitz Championship, finishing with an 8&frac12;/13 score and six wins a",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;&#117;&#x61;&#x72;&#100;i&#x6e;&#103;&#46;&#x6f;&#x66;&#102;i&#x63;&#101;r&#x40;&#x65;&#110;g&#x6c;&#105;s&#x68;&#x63;&#104;e&#x73;&#115;&#46;&#x6f;&#x72;&#103;&#x2e;&#x75;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;a&#x66;e&#x67;&#117;&#x61;&#114;&#x64;&#105;n&#x67;&#46;&#x6f;&#102;&#x66;&#105;&#x63;&#101;&#x72;&#64;e&#x6e;g&#x6c;&#105;&#x73;&#104;&#x63;&#104;e&#x73;s&#x2e;&#111;&#x72;&#103;&#x2e;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -602,28 +626,12 @@ news_feed (
          "title" : "The Patron Saint of Chess"
       },
       {
-         "description" : "&#160;European Chess Union Launches Revolutionary Online Training Platform ECU HUB HUNENBERG SEE, SWITZERLAND The European Chess Union (ECU) is proud to announce the launch of its innovative online training platform, ECU HUB (https://ecuhub.eu), marking a significant milestone in chess education and professional development. The new platform serves as a comprehensive digital learning environment, designed to enhance the skills of chess professionals, trainers, teachers arbiters, and enthusiasts across Europe and beyond. ECU HUB represents the organization's commitment to modernizing []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/press-release-launch-of-ecu-hub/",
-         "pubDate" : "Thu, 20 Mar 2025 12:23:30",
-         "title" : "Launch of ECU HUB "
-      },
-      {
          "description" : "Editor's note: Sofia Doroshenko is a senior at Macalester College, where she recently organized the first Chesswrestling Festival. In the lead-up to this event, US Chess had the pleasure of interviewing Sofia for our YouTube channel. In this article, Sofia shares her experiences an organizer and participant in this unique and exciting sport. Follow Sofia on YouTube for more chesswrestling content, and more information about chesswrestling (including the rules) is included at the end of this article.Last year, national master Ionatan Giurgiu showed me a chessboxing video between WGM Dina Belenkaya and Andrea Botez, after my adamant refusal of it being a real sport. The idea of dominating your",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/fusion-mind-and-might-chesswrestling-festival-takes-down-minnesota",
          "pubDate" : "Thu, 20 Mar 2025 00:00:00",
          "title" : "A Fusion of Mind and Might: Chesswrestling Festival Takes Down Minnesota"
-      },
-      {
-         "description" : "Job Title: Graphic Design AssistantJob Type: Non-exemptHours: 15-20 hours/weekPay: $20/hourLocation: Headquartered in St. Louis, MO. Teleworking AllowedManager: Art Director Position OverviewWe are seeking a creative and detail-oriented Graphic Design Assistant to support our marketing and communications efforts. This is a Part Time / Remote position.The ideal candidate has a strong eye for design, proficiency in graphic design software, and an ability to create engaging visuals for digital and print media. This role offers an exciting opportunity to contribute to the visual identity of US Chess and support initiatives that promote the game nationwide. Key ResponsibilitiesAssist in print pro",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-hiring-graphic-design-assistant",
-         "pubDate" : "Thu, 20 Mar 2025 00:00:00",
-         "title" : "US Chess is Hiring Graphic Design Assistant"
       },
       {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
