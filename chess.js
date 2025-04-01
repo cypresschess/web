@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For decades we rigorously celebrated April Fool's day. But our pranks became progressively more difficult over the years. If we were able to construct a fake story, one that was genuinely funny, our friends at Google made it possible to check it in seconds. So we abandoned the tradition. Today, however, we present you with hoaxes and counterfeits in the history of chess. We had expert assistance in doing so.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pranks-hoaxes-and-fakes-in-chess",
+         "pubDate" : "Tue, 01 Apr 2025 08:09:53",
+         "title" : "Pranks, hoaxes and fakes in chess"
+      },
+      {
          "description" : " 1st HBCU Chess Classic at Morris Brown College \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, Co-Founder of TBO and co-organizer of the event The 2025 HBCU Chess Classic is only two weeks away, and things are heating up as teams complete their arrangements. The five-round tournament is The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "European Women's Chess Championship - Live"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at sa&#102;&#101;&#x67;&#x75;&#x61;&#x72;di&#110;&#103;&#x2e;&#x6f;&#x66;&#x66;ic&#101;&#114;&#64;&#x65;&#x6e;&#x67;&#x6c;is&#104;&#99;&#x68;&#x65;&#x73;&#x73;&#46;o&#114;&#103;&#x2e;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#x67;&#117;a&#x72;&#x64;&#105;n&#x67;&#46;o&#x66;&#x66;&#105;c&#x65;&#x72;&#64;e&#x6e;&#103;&#108;&#x69;&#x73;&#104;c&#x68;&#x65;&#115;s&#x2e;&#111;&#114;g&#x2e;&#117;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
