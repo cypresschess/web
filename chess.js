@@ -106,7 +106,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;a&#x66;e&#x67;&#117;&#x61;&#114;&#x64;&#105;n&#x67;&#46;&#x6f;&#102;&#x66;&#105;&#x63;&#101;&#x72;&#64;e&#x6e;g&#x6c;&#105;&#x73;&#104;&#x63;&#104;e&#x73;s&#x2e;&#111;&#x72;&#103;&#x2e;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;&#103;&#x75;&#97;&#x72;&#100;&#x69;&#110;&#x67;&#46;&#x6f;&#102;&#x66;&#105;&#x63;&#101;&#x72;&#64;&#x65;&#110;&#x67;&#108;&#x69;s&#x68;c&#x68;e&#x73;s&#x2e;o&#x72;g&#x2e;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -154,36 +154,12 @@ news_feed (
          "title" : "FAMU Chess sets team; readies for HBCU Classic"
       },
       {
-         "description" : "The 2025 FIDE Women's World Chess Championship will see reigning champion Ju Wenjun defend her title against challenger Tan Zhongyi in a highly anticipated rematch. The match, played from 1 to 23 April across Shanghai and Chongqing, will consist of 12 classical games, with a tiebreak if necessary. Ju, a four-time champion, faces a determined opponent eager to reclaim the title she lost in 2018. With both players at the peak of their careers, the stage is set for a thrilling contest. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-preview",
-         "pubDate" : "Sun, 30 Mar 2025 18:00:00",
-         "title" : "Starting Thursday: Ju Wenjun v. Tan Zhongyi"
-      },
-      {
-         "description" : "Do you know the feeling? Over time, more and more databases accumulate in ChessBase: How do you keep track of them all? It's best to get organised right from the start - but how? In this tutorial, we'll show you how to organise and systematically save your own material so that you can always find everything quickly. It's not that complicated and it's actually fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-7-organising-databases",
-         "pubDate" : "Sun, 30 Mar 2025 15:05:00",
-         "title" : "ChessBase 18 - Tips for Beginners, Part 7: Organising databases!"
-      },
-      {
          "description" : " The 25th European Individual Championship took place Sat 15th to Wed 26th Mar 2025 in Eforie Nord, Romania. Matthias Bluebaum won the title on tie-break from Frederick Svane and Maxim Rodshtein. Bluebaum is the first player to win the event twice having won previously in 2022. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
          "pubDate" : "Sun, 30 Mar 2025 12:52:00",
          "title" : "25th European Individual Championship 2025 - Games and Results"
-      },
-      {
-         "description" : "The Agzamov Memorial took place from 21 to 29 March in Tashkent, Uzbekistan, attracting a strong field of international players in Group A. Indian Grandmaster Nihal Sarin claimed outright victory with an unbeaten 8/10 score, finishing ahead of a competitive field that included eight 2600+ rated players. Among the standout performances was 15-year-old Uzbek IM Khumoyun Begmuratov, who secured ninth place with a solid 7/10. | Photo: Uzbekistan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tashkent-open-2025-final-report",
-         "pubDate" : "Sat, 29 Mar 2025 21:50:00",
-         "title" : "Nihal Sarin shines in Tashkent"
       },
       {
          "description" : "GM Andrew Tang was denied a record-equaling four-peat in Saturday&#39;s Bullet Brawl&#38;nbsp;by a dominant performance by GM Hikaru Nakamura that saw him capture his 38th title and the $400 first prize. Following a successful The American Cup campaign, N...",
@@ -202,28 +178,12 @@ news_feed (
          "title" : "Clear Blue water: Varsity Chess Match 2025"
       },
       {
-         "description" : "Grandmaster Kirill Shevchenko has been handed a three-year worldwide ban, with one year suspended, following allegations of cheating at the 2024 Spanish Team Championship. The FIDE Ethics & Disciplinary Commission (EDC) found that Shevchenko had hidden a mobile phone in a toilet but could not determine with certainty that he had used it to gain an unfair advantage. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kirill-shevchenko-banned-fide-edc",
-         "pubDate" : "Sat, 29 Mar 2025 12:45:00",
-         "title" : "Ethics Commission sanctions Kirill Shevchenko with a ban of three years"
-      },
-      {
          "description" : "The 25th European Women's Chess Championship starts this Monday in Rhodes, Greece, and will be played from 31 March to 11 April 2025 in *****Rodos Palace Conference Hotel. The Championship gathers nearly 140 players coming from 34 European federations, including 7 Grandmasters, 22 Woman Grandmasters, 25 International Masters and 20 Woman International masters. The top seeded players are: GM Nino Batsiashvili (GEO, 2473), IM Teodora Injac (SRB, 2454), IM Meri Arabidze (GEO, 2447), IM Stavroula Tsolakidou (GRE, 2445), IM Dinara []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-womens-chess-championship-2025-starts-in-rhodes-greece/",
          "pubDate" : "Sat, 29 Mar 2025 09:23:05",
          "title" : "European Women's Chess Championship 2025 starts in Rhodes, Greece"
-      },
-      {
-         "description" : "Pentala Harikrishna, one of India's finest chess grandmasters, has built a life in Prague, blending his passion for chess with a deep connection to the city. In an insightful interview with Sagar Shah, Harikrishna shares his journey - from his rise in the global chess rankings to his experiences working with world champions Gukesh and Ju Wenjun. As they explore Prague's landmarks, he reflects on the challenges of professional chess, the evolving landscape of Indian chess and the importance of unwavering support from family. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harikrishna-journey-interview-2025",
-         "pubDate" : "Sat, 29 Mar 2025 01:00:00",
-         "title" : "Harikrishna's journey from becoming a Junior Champion to training the World Champions"
       },
       {
          "description" : "Liam Hereford won the 2025 Chess.com Atomic Chess Championship after winning both the Winners Final and Grand Final Reset. Eduardo Lorenzon lost to Hereford early in the Winners Semifinals but climbed through three matches in the Losers Bracket to...",
