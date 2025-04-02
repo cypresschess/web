@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
+         "pubDate" : "Wed, 02 Apr 2025 13:50:00",
+         "title" : "European Women's Chess Championship - Live"
+      },
+      {
+         "description" : "GM Liem Le and GM Hikaru Nakamura are your winners of Titled Tuesday on April 1, Nakamura after finishing second in the early event. Tiebreaks were not necessary to determine either winner or even Nakamura&#39;s second-place finish. It was Le&#39;s second...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-nakamura-win-titled-tuesday-april-1-2025",
+         "pubDate" : "Wed, 02 Apr 2025 08:09:50",
+         "title" : "No Fooling Nakamura, Who Wins Titled Tuesday With Le"
+      },
+      {
          "description" : "Unlike the crystal clarity of his chess playing and its untrammelled success, Paul Morphy's subsequent life was anything but straightforward. Barely able to speak about his extraordinary successes in the game he receded from public view, dying at the age of 47. Stewart Player examines competing views on the American genius's mental collapse.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-real-paul-morphy",
          "pubDate" : "Wed, 02 Apr 2025 07:50:52",
          "title" : "The Real Paul Morphy"
+      },
+      {
+         "description" : "Defending Women&#38;rsquo;s World Champion Ju Wenjun is striving to become only the fourth player in history to win the title five times as she takes on challenger and former champion GM Tan Zhongyi in the 2025 FIDE Women&#39;s World Championship in Shang...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-preview",
+         "pubDate" : "Wed, 02 Apr 2025 07:13:00",
+         "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
          "pubDate" : "Wed, 02 Apr 2025 04:54:21",
          "title" : "'Gukesh needs to stay grounded and remain curious'"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Maria Emelianova/FIDE<br> <br> <br> <br> This week's puzzles all feature games of GM Alexander Lenderman, a local New Yorker who had a strong FIDE World Blitz Championship, finishing with an 8&frac12;/13 score and six wins again",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-11-lenderman",
+         "pubDate" : "Wed, 02 Apr 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 11 (Lenderman)"
       },
       {
          "description" : "India's presence in elite chess continues to strengthen, with Aravindh Chithambaram reaching world number 11 in the latest FIDE rankings. The 25-year-old grandmaster from Madurai recently won the Prague Masters and delivered a flawless performance in the German Bundesliga, gaining 17.5 rating points. His rise places him among India's top players, alongside Gukesh Dommaraju, Arjun Erigaisi and Praggnanandhaa Rameshbabu. With strong tournament results, Aravindh is now a serious contender for a place in the next Candidates Tournament. | Photo: Amruta Mokal",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;u&#x61;&#114;d&#x69;&#x6e;&#103;&#x2e;&#x6f;&#102;f&#x69;&#99;e&#x72;&#64;e&#x6e;&#x67;&#108;&#x69;&#x73;&#104;c&#x68;&#101;s&#x73;&#46;o&#x72;&#103;&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;g&#x75;a&#114;&#x64;&#105;&#x6e;g&#x2e;o&#102;&#x66;&#105;&#x63;e&#x72;&#64;&#101;&#x6e;&#103;&#x6c;i&#x73;h&#99;&#x68;&#101;&#x73;s&#x2e;o&#114;&#x67;&#46;&#x75;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -538,22 +570,6 @@ news_feed (
          "title" : "Caruana, Abrahamyan Bounce Back To Qualify For American Cup Grand Finals"
       },
       {
-         "description" : "GM Harika Dronavalli pounced on a late mistake by GM Nana Dzagnidze to recover from what she called a &#34;heartbreaking loss&#34; in the previous round of the 2025 Nicosia FIDE Women&#39;s Grand Prix. Harika is joined a point behind leader&#38;nbsp;GM Anna Muzyc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-6",
-         "pubDate" : "Fri, 21 Mar 2025 15:43:00",
-         "title" : "Harika On Bounce-Back Win: 'The Game Is Cruel, So I Can't Be Friendly!'"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk won Freestyle Friday on March 21 in what was the closest yet of the nine tournaments so far, but ultimately, his second win following one on January 31. And while Bortnyk lost in the final round, which created a five-way tie f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-wins-freestyle-friday-march-21-2025",
-         "pubDate" : "Fri, 21 Mar 2025 11:09:16",
-         "title" : "Bortnyk Survives Setback To Win A Second Friday"
-      },
-      {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-patron-saint-of-chess",
          "pubDate" : "Thu, 20 Mar 2025 13:00:00",
          "title" : "The Patron Saint of Chess"
-      },
-      {
-         "description" : "Editor's note: Sofia Doroshenko is a senior at Macalester College, where she recently organized the first Chesswrestling Festival. In the lead-up to this event, US Chess had the pleasure of interviewing Sofia for our YouTube channel. In this article, Sofia shares her experiences an organizer and participant in this unique and exciting sport. Follow Sofia on YouTube for more chesswrestling content, and more information about chesswrestling (including the rules) is included at the end of this article.Last year, national master Ionatan Giurgiu showed me a chessboxing video between WGM Dina Belenkaya and Andrea Botez, after my adamant refusal of it being a real sport. The idea of dominating your",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fusion-mind-and-might-chesswrestling-festival-takes-down-minnesota",
-         "pubDate" : "Thu, 20 Mar 2025 00:00:00",
-         "title" : "A Fusion of Mind and Might: Chesswrestling Festival Takes Down Minnesota"
       },
       {
          "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
