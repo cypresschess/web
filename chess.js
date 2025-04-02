@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Unlike the crystal clarity of his chess playing and its untrammelled success, Paul Morphy's subsequent life was anything but straightforward. Barely able to speak about his extraordinary successes in the game he receded from public view, dying at the age of 47. Stewart Player examines competing views on the American genius's mental collapse.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-real-paul-morphy",
+         "pubDate" : "Wed, 02 Apr 2025 07:50:52",
+         "title" : "The Real Paul Morphy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
+         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
+         "title" : "'Gukesh needs to stay grounded and remain curious'"
+      },
+      {
          "description" : "India's presence in elite chess continues to strengthen, with Aravindh Chithambaram reaching world number 11 in the latest FIDE rankings. The 25-year-old grandmaster from Madurai recently won the Prague Masters and delivered a flawless performance in the German Bundesliga, gaining 17.5 rating points. His rise places him among India's top players, alongside Gukesh Dommaraju, Arjun Erigaisi and Praggnanandhaa Rameshbabu. With strong tournament results, Aravindh is now a serious contender for a place in the next Candidates Tournament. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +130,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;&#103;&#x75;&#97;&#x72;&#100;&#x69;&#110;&#x67;&#46;&#x6f;&#102;&#x66;&#105;&#x63;&#101;&#x72;&#64;&#x65;&#110;&#x67;&#108;&#x69;s&#x68;c&#x68;e&#x73;s&#x2e;o&#x72;g&#x2e;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;&#102;&#x65;&#x67;&#117;&#97;&#x72;&#x64;&#105;&#110;&#x67;&#x2e;&#111;&#102;&#x66;&#x69;&#99;&#101;&#x72;&#x40;&#101;&#110;&#x67;&#x6c;&#105;&#115;&#x68;&#x63;&#104;&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#46;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
