@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Nový Bor claimed their 14th Czech Extraliga title, finishing three points clear of the competition with a dominant performance. Pentala Harikrishna played a key role, remaining unbeaten and delivering a standout 2868-rated performance. Lys&aacute; nad Labem and B�� Frýdek-M&iacute;stek secured second and third place, respectively. Nový Bor, also the reigning European Club Cup champion, continue to assert their dominance in Czech team chess. | Photo: Nový Bor Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/novy-bor-win-czech-extraliga-2025",
-         "pubDate" : "Wed, 02 Apr 2025 20:00:00",
-         "title" : "Novy Bor claim 14th Czech Extraliga title"
+         "description" : "After three played rounds at the European Women's Chess Championship 2025 only three players remained perfect scoring 3/3 points: 16th seeded IM Narva Mai (EST, 2380), 22nd seeded IM Eline Roebers (NED, 2367), and WFM Anastasia Kirtadze (GEO, 2180) who was the 77th player on the starting list. IM Narva Mai (EST, 2380) today defeated GM Josefine Heinemann (GER, 2297) with black pieces. Narva used the first opporutnity to break through with 18d5 and immediately got the clear edge. However, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/three-players-remain-perfect-after-three-played-rounds-at-ewcc2025/",
+         "pubDate" : "Wed, 02 Apr 2025 20:40:59",
+         "title" : "Three players remain perfect after three played rounds at EWCC2025"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119913866.cms\" />World Chess Champion D Gukesh and Viswanathan Anand were seen dancing to popular Bollywood songs at fellow Grandmaster Vidit Gujrathi's wedding, showcasing a rarely seen fun side of the GMs. Gukesh will participate in the Paris Freestyle Chess Grand Slam, while being closely followed by Arjun Erigaisi in the FIDE chess rankings.",
@@ -16,6 +16,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
+      },
+      {
+         "description" : "For the second consecutive year, the University of Texas at Dallas will host the prestigious President's Cup, the most exclusive event in collegiate chess. Scheduled for 5-6 April 2025, the tournament will feature the top four teams from the Pan-American Intercollegiate Chess Championship, competing in a round-robin format. With a record number of grandmasters in the qualifying event, the level of competition is set to be exceptionally high. Matches will take place at UT Dallas' McDermott Library Suite.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/presidents-cup-2025-preview",
+         "pubDate" : "Wed, 02 Apr 2025 17:00:00",
+         "title" : "2025 President's Cup: World's strongest collegiate championship returns to Dallas"
+      },
+      {
+         "description" : " The FIDE Women's World Chess Championship takes starts in Shanghai and finishes in Chongqing, China 3rd to 20th April 2025. Defending champion Ju Wenjun is challenged by Tan Zhongyi.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
+         "pubDate" : "Wed, 2 Apr 2025 16:54:00",
+         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
       },
       {
          "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-11-lenderman",
          "pubDate" : "Wed, 02 Apr 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 11 (Lenderman)"
-      },
-      {
-         "description" : "India's presence in elite chess continues to strengthen, with Aravindh Chithambaram reaching world number 11 in the latest FIDE rankings. The 25-year-old grandmaster from Madurai recently won the Prague Masters and delivered a flawless performance in the German Bundesliga, gaining 17.5 rating points. His rise places him among India's top players, alongside Gukesh Dommaraju, Arjun Erigaisi and Praggnanandhaa Rameshbabu. With strong tournament results, Aravindh is now a serious contender for a place in the next Candidates Tournament. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aravindh-number-eleven-april-2025",
-         "pubDate" : "Tue, 01 Apr 2025 23:20:00",
-         "title" : "Indians continue ascent: Aravindh climbs to world number 11 in April FIDE rankings"
       },
       {
          "description" : "The second round of the European Women's Chess Championship 2025 was played today in Rhodes, Greece. The players had a tough day in the office, and the games were marked with plenty of turnovers, with some surprising results. Only 15 players remained with the perfect score of 2/2 points, while 35 players follow them scoring 1.5/2 points each. Only one player from the top 10 seeds is in the leading group, and that is GM Bella Khotenashvili (GEO, 2418) who []",
@@ -178,7 +186,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;u&#x61;&#114;d&#x69;&#110;g&#x2e;&#111;f&#x66;&#105;c&#x65;&#114;&#64;&#x65;&#110;g&#x6c;&#105;s&#x68;&#99;h&#x65;&#115;s&#x2e;&#111;r&#x67;&#46;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;&#117;&#x61;&#x72;&#100;i&#x6e;&#103;&#46;&#x6f;&#x66;&#102;i&#x63;&#101;r&#x40;&#x65;&#110;g&#x6c;&#105;s&#x68;&#x63;&#104;e&#x73;&#115;&#46;&#x6f;&#x72;&#103;&#x2e;&#x75;&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2025-26/",
          "pubDate" : "Fri, 21 Mar 2025 07:44:58",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2025-26"
-      },
-      {
-         "description" : "European Individual Chess Championship 2025 is halfway through and tomorrow is the free day. After six played rounds, GM Daniil Yuffa (ESP, 2654) kept the sole lead in the event following today's draw against GM Robert Hovhannisyan (ARM, 2630). Daniil Yuffa had white pieces and got a clearly better position and a pawn up after the opening, but he entered a drawish endgame with Bishops and Rooks on the board. Being low on time, Hovhannisyan made mistake with 71Be3? allowed []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/daniil-yuffa-keeps-sole-going-into-the-rest-day-at-european-individual-chess-championship-2025/",
-         "pubDate" : "Thu, 20 Mar 2025 21:09:57",
-         "title" : "Daniil Yuffa keeps sole going into the rest day at European Individual Chess Championship 2025"
       },
       {
          "description" : "In an historic moment for the global chess community, World Chess officially introduces a Patron Saint of Chess: bringing the game into a centuries-old tradition of sports and cultural patronage. St. Teresa of Avila, a 16th-century Spanish mystic, writer, and intellectual, is an apt choice for chess's first patron saint. One of the most influential figures of the Catholic Church, she was known for her deep strategic thinking, discipline, and ability to navigate complex intellectual and spiritual landscapes-qualities that also define the highest levels of chess.",
