@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nový Bor claimed their 14th Czech Extraliga title, finishing three points clear of the competition with a dominant performance. Pentala Harikrishna played a key role, remaining unbeaten and delivering a standout 2868-rated performance. Lys&aacute; nad Labem and B�� Frýdek-M&iacute;stek secured second and third place, respectively. Nový Bor, also the reigning European Club Cup champion, continue to assert their dominance in Czech team chess. | Photo: Nový Bor Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/novy-bor-win-czech-extraliga-2025",
+         "pubDate" : "Wed, 02 Apr 2025 20:00:00",
+         "title" : "Novy Bor claim 14th Czech Extraliga title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119913866.cms\" />World Chess Champion D Gukesh and Viswanathan Anand were seen dancing to popular Bollywood songs at fellow Grandmaster Vidit Gujrathi's wedding, showcasing a rarely seen fun side of the GMs. Gukesh will participate in the Paris Freestyle Chess Grand Slam, while being closely followed by Arjun Erigaisi in the FIDE chess rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
+         "pubDate" : "Wed, 02 Apr 2025 17:10:19",
+         "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
+      },
+      {
          "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
          "pubDate" : "Wed, 02 Apr 2025 04:54:21",
          "title" : "'Gukesh needs to stay grounded and remain curious'"
+      },
+      {
+         "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fide-womens-world-chess-championship-preview",
+         "pubDate" : "Wed, 02 Apr 2025 00:00:00",
+         "title" : "FIDE Women's World Chess Championship Preview"
       },
       {
          "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Maria Emelianova/FIDE<br> <br> <br> <br> This week's puzzles all feature games of GM Alexander Lenderman, a local New Yorker who had a strong FIDE World Blitz Championship, finishing with an 8&frac12;/13 score and six wins again",
@@ -154,7 +178,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;g&#x75;a&#114;&#x64;&#105;&#x6e;g&#x2e;o&#102;&#x66;&#105;&#x63;e&#x72;&#64;&#101;&#x6e;&#103;&#x6c;i&#x73;h&#99;&#x68;&#101;&#x73;s&#x2e;o&#114;&#x67;&#46;&#x75;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;u&#x61;&#114;d&#x69;&#110;g&#x2e;&#111;f&#x66;&#105;c&#x65;&#114;&#64;&#x65;&#110;g&#x6c;&#105;s&#x68;&#99;h&#x65;&#115;s&#x2e;&#111;r&#x67;&#46;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -592,14 +616,6 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2025-26/",
          "pubDate" : "Fri, 21 Mar 2025 07:44:58",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2025-26"
-      },
-      {
-         "description" : "Heading into the final weekend of the 2025 American Cup, GM Hikaru Nakamura and IM Alice Lee have each advanced to the Grand Final by winning their respective Champions Final matches over GM Fabiano Caruana and WGM Tatev Abrahamyan. Catch up on the earlier rounds with our previous articles here and here. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Graphics courtesy of SLCC<br> <br> The Elimination Bracket takes center stage today, with Caruana facing a rematch against GM Levon Aronian and Abrahamyan squaring off against GM Irina Krush. The winners will play a two-game classical matc",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/nakamura-lee-advance-american-cup-grand-finals-who-will-join-them",
-         "pubDate" : "Fri, 21 Mar 2025 00:00:00",
-         "title" : "Nakamura, Lee Advance to American Cup Grand Finals: Who Will Join Them?"
       },
       {
          "description" : "European Individual Chess Championship 2025 is halfway through and tomorrow is the free day. After six played rounds, GM Daniil Yuffa (ESP, 2654) kept the sole lead in the event following today's draw against GM Robert Hovhannisyan (ARM, 2630). Daniil Yuffa had white pieces and got a clearly better position and a pawn up after the opening, but he entered a drawish endgame with Bishops and Rooks on the board. Being low on time, Hovhannisyan made mistake with 71Be3? allowed []",
