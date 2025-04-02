@@ -42,14 +42,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2025 - Round 2 recap"
       },
       {
-         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
-         "pubDate" : "Tue, 01 Apr 2025 13:50:00",
-         "title" : "European Women's Chess Championship - Live"
-      },
-      {
          "description" : "The Indian grandmaster RB Ramesh is considered one of the best and most successful coaches in the world and has played a major role in the successes of Indian talents. In his 4-hour ChessBase video course \"Improve your Pieces\", he reveals his chess and training philosophy. With many instructive examples, exercises and positions to play out. This week only €29.90 instead of €39.90! Get it now!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +122,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;&#102;&#x65;&#x67;&#117;&#97;&#x72;&#x64;&#105;&#110;&#x67;&#x2e;&#111;&#102;&#x66;&#x69;&#99;&#101;&#x72;&#x40;&#101;&#110;&#x67;&#x6c;&#105;&#115;&#x68;&#x63;&#104;&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#46;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;u&#x61;&#114;d&#x69;&#x6e;&#103;&#x2e;&#x6f;&#102;f&#x69;&#99;e&#x72;&#64;e&#x6e;&#x67;&#108;&#x69;&#x73;&#104;c&#x68;&#101;s&#x73;&#46;o&#x72;&#103;&#46;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
