@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Championship officially commenced with a press conference and opening ceremony in Shanghai. Held at the JW Marriott Hotel, the event featured remarks from FIDE officials, local sports representatives and chess dignitaries, highlighting China's rich chess legacy. Ju Wenjun and Tan Zhongyi engaged with journalists before participating in the traditional drawing of lots, which determined Ju would play white in the first game. The championship match begins on 3 April. | Photos: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-opening-ceremony",
+         "pubDate" : "Thu, 03 Apr 2025 02:00:00",
+         "title" : "A grand occasion: Women's World Championship opening ceremony"
+      },
+      {
          "description" : "After three played rounds at the European Women's Chess Championship 2025 only three players remained perfect scoring 3/3 points: 16th seeded IM Narva Mai (EST, 2380), 22nd seeded IM Eline Roebers (NED, 2367), and WFM Anastasia Kirtadze (GEO, 2180) who was the 77th player on the starting list. IM Narva Mai (EST, 2380) today defeated GM Josefine Heinemann (GER, 2297) with black pieces. Narva used the first opporutnity to break through with 18d5 and immediately got the clear edge. However, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -186,7 +194,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;&#117;&#x61;&#x72;&#100;i&#x6e;&#103;&#46;&#x6f;&#x66;&#102;i&#x63;&#101;r&#x40;&#x65;&#110;g&#x6c;&#105;s&#x68;&#x63;&#104;e&#x73;&#115;&#46;&#x6f;&#x72;&#103;&#x2e;&#x75;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;f&#x65;&#x67;&#117;&#x61;r&#100;&#x69;&#110;&#x67;&#46;&#111;&#x66;f&#x69;c&#101;&#x72;&#64;&#x65;&#x6e;&#103;&#x6c;i&#115;&#x68;&#99;&#x68;e&#115;&#x73;&#46;&#x6f;r&#103;&#x2e;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
