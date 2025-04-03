@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Autism Month, beginning with World Autism Awareness Day on 2 April, highlights the importance of understanding and inclusion for individuals with autism spectrum disorder (ASD). Chess has emerged as a valuable tool in supporting children with autism, offering structure, cognitive benefits, and opportunities for social interaction. Infinite Chess, in collaboration with the Kazakhstan Chess Federation, is hosting events throughout April to promote awareness, including online meetups and exhibitions. These initiatives aim to foster acceptance and create supportive environments for individuals with autism.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/autism-awareness-2025-fide",
+         "pubDate" : "Fri, 04 Apr 2025 00:20:00",
+         "title" : "Autism awareness: Understanding and supporting the spectrum globally"
+      },
+      {
          "description" : "Building on the lessons from the previous volumes, Volume 3 shifts the focus to one of the most essential skills in chess: identifying and attacking your opponent's weaknesses. Whether it's a weak pawn, a vulnerable king, or poor piece coordination, this course will teach you how to pinpoint the critical targets, prioritise your attack, and execute a clear, effective plan. But strategy alone isn't enough - you'll also need tactical awareness!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,7 +250,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;e&#x67;&#x75;&#97;&#114;d&#x69;&#x6e;&#103;&#46;o&#x66;&#x66;&#105;ce&#x72;&#x40;&#101;n&#x67;&#x6c;&#105;&#115;h&#x63;&#x68;&#101;&#115;s&#x2e;&#x6f;&#114;g&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safegu&#97;&#114;&#100;&#105;&#110;&#103;&#46;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#x40;&#x65;&#x6e;&#x67;&#x6c;ishche&#115;&#115;&#46;&#111;&#114;&#103;&#46;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
