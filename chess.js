@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
+         "pubDate" : "Thu, 03 Apr 2025 13:50:00",
+         "title" : "European Women's Chess Championship - Live"
+      },
+      {
          "description" : "The European School Chess Championship 2025 will be held from 29th May to 8th June 2025 in Mamaia, Romania. The event will be played in 6 age categories: U7, U9,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,12 +34,20 @@ news_feed (
          "title" : "Exploring the Opening Encyclopedia"
       },
       {
-         "description" : "Challenger GM Tan Zhongyi played the Sicilian Defense and ultimately made a comfortable 39-move draw against Champion GM Ju Wenjun as the&#38;nbsp;2025 FIDE Women&#39;s World Championship began in Shanghai. &#34;From the first game I think Tan is going to be ...",
+         "description" : "Challenger GM Tan Zhongyi played the Sicilian Defense and made a comfortable 39-move draw against World Champion Ju Wenjun as the&#38;nbsp;2025 FIDE Women&#39;s World Championship began in Shanghai. &#34;From the first game I think Tan is going to be a very t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-game-1",
-         "pubDate" : "Thu, 03 Apr 2025 02:57:00",
+         "pubDate" : "Thu, 03 Apr 2025 07:27:00",
          "title" : "Tan Holds Ju To Draw As Women's World Championship Starts In Shanghai"
+      },
+      {
+         "description" : "GM Magnus Carlsen is about to play the biggest chess game of his life. Not the most important, but the most opponents he&#39;s ever faced at once: it&#39;s Magnus Carlsen Vs. The World. The event begins on Friday, April 4, when Magnus makes his first move...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-the-chess-coaches-for-magnus-vs-the-world",
+         "pubDate" : "Thu, 03 Apr 2025 07:00:00",
+         "title" : "Announcing Your Coaches For Magnus Carlsen Vs. The World"
       },
       {
          "description" : "The 2025 FIDE Women's World Championship officially commenced with a press conference and opening ceremony in Shanghai. Held at the JW Marriott Hotel, the event featured remarks from FIDE officials, local sports representatives and chess dignitaries, highlighting China's rich chess legacy. Ju Wenjun and Tan Zhongyi engaged with journalists before participating in the traditional drawing of lots, which determined Ju would play white in the first game. The championship match begins on 3 April. | Photos: Anna Shtourman",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-wc-2025-opening-ceremony",
          "pubDate" : "Thu, 03 Apr 2025 02:00:00",
          "title" : "A grand occasion: Women's World Championship opening ceremony"
+      },
+      {
+         "description" : "Several players came up just short of a norm at NYC Chess Norms' 2025 Spring Invitational, but there was still plenty of inventive, enterprising chess and one career milestone earned last weekend. FM Tanitoluwa \"Tani\" Adewumi - the 14-year-old star who learned how the pieces move just five years ago - completed the final hurdle to qualify for the IM title by crossing the 2400 FIDE rating threshold for the first time. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tani against Raja Harshit (All photos courtesy of NYC Chess Norms)<br> <br> <br> <br> Competing in the GM A section, Adewumi rose to 2408 in the live FIDE ratings with his 5th round win over ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tani-crosses-2400-qualifies-im-title-nyc-chess-norms-spring-invitational",
+         "pubDate" : "Thu, 03 Apr 2025 00:00:00",
+         "title" : "Tani Crosses 2400, Qualifies for IM Title at NYC Chess Norms Spring Invitational"
       },
       {
          "description" : "After three played rounds at the European Women's Chess Championship 2025 only three players remained perfect scoring 3/3 points: 16th seeded IM Narva Mai (EST, 2380), 22nd seeded IM Eline Roebers (NED, 2367), and WFM Anastasia Kirtadze (GEO, 2180) who was the 77th player on the starting list. IM Narva Mai (EST, 2380) today defeated GM Josefine Heinemann (GER, 2297) with black pieces. Narva used the first opporutnity to break through with 18d5 and immediately got the clear edge. However, []",
@@ -74,14 +98,6 @@ news_feed (
          "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
       },
       {
-         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
-         "pubDate" : "Wed, 02 Apr 2025 13:50:00",
-         "title" : "European Women's Chess Championship - Live"
-      },
-      {
          "description" : "GM Liem Le and GM Hikaru Nakamura are your winners of Titled Tuesday on April 1, Nakamura after finishing second in the early event. Tiebreaks were not necessary to determine either winner or even Nakamura&#39;s second-place finish. It was Le&#39;s second...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-preview",
          "pubDate" : "Wed, 02 Apr 2025 07:13:00",
          "title" : "Can Ju Wenjun Win 5th World Championship?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
@@ -218,7 +226,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#x66;&#x65;g&#117;&#97;&#x72;&#x64;i&#110;&#103;&#x2e;&#x6f;f&#102;&#x69;&#x63;&#x65;r&#64;&#x65;&#x6e;g&#108;&#105;&#x73;&#x68;c&#104;&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#x2e;u&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;&#101;g&#x75;&#x61;&#x72;&#100;in&#x67;&#x2e;&#111;&#102;f&#x69;&#x63;&#x65;&#114;&#64;e&#x6e;&#x67;&#108;&#105;s&#x68;&#x63;&#x68;&#101;ss&#x2e;&#x6f;&#114;&#103;&#46;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -530,14 +538,6 @@ news_feed (
          "title" : "Nakamura, Lee Crowned American Cup Champions"
       },
       {
-         "description" : "After all the time scrambles and playoffs were over, two frontrunners emerged victorious in the 2025 American Cup. IM Alice Lee repeated last year's victory on Sunday, March 23, while GM Hikaru Nakamura (who sat out last year's edition) doubled down on his 2023 victory. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Lennart Ootes/SLCC<br> <br> <br> <br> Once again, enjoy GM Luka Budisavljevic's annotations. Today, the American Cup Blitz marks the formal end of the event, and Budisavljevic will be back later this week with highlights from the blitz (where, at the top of writing, Budisavljevic has already delivered an upset over GM Lei",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/lee-and-nakamura-each-add-second-american-cup-collection",
-         "pubDate" : "Mon, 24 Mar 2025 00:00:00",
-         "title" : "Lee and Nakamura Each Add Second American Cup to the Collection"
-      },
-      {
          "description" : "Eight rounds have been already played at the European Individual Chess Championship 2025 in Eforie Nord, Romania, and just three rounds left before the announcement of the Winners and qualifiers for the next World Chess Cup. Scoring 6.5 points each, GM Baadur Jobava (GEO, 2578), GM Daniil Yuffa (ESP, 2654), GM Aryan Tari (NOR, 2621), GM Matthias Bluebaum (GER, 2643) and GM Gabriel Sargissian (ARM, 2628) tie for the top, and they are followed by a group of 18 players []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -578,28 +578,12 @@ news_feed (
          "title" : "Three-way tie for the top at EICC2025 after thrilling 7th round"
       },
       {
-         "description" : "GM Andrew Tang has become the third player in Bullet Brawl&#38;nbsp;history to secure a hat trick after the American topped the 200-player titled arena on Saturday with a score of 255 points. He seized the $400 first prize for the fifth time this year...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-22-2025",
-         "pubDate" : "Sat, 22 Mar 2025 17:41:00",
-         "title" : "Hyperbullet Champion Tang Secures Bullet Brawl Hat Trick"
-      },
-      {
          "description" : "Most chess players train randomly, inconsistently, or without a plan. That means if you train the right way, you can outperform 99% of players-even those who seem naturally gifted. And that's incredible news for you. Being part of a sports class in high school and working for the Swiss Olympic Athletes Commission gave me unique []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/achieve-more/",
          "pubDate" : "Sat, 22 Mar 2025 14:00:00",
          "title" : "The Hidden Potential in Chess: Why You Can Achieve More Than You Think"
-      },
-      {
-         "description" : "GM Zhu Jiner has regained the sole lead in the 2025 Nicosia FIDE Women&#39;s Grand Prix after brilliantly beating IM Divya Deshmukh while GM Anna Muzychuk missed a tactical blow that gave IM Olga Badelka her first win. GM Nana Dzagnidze scored the day...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-7",
-         "pubDate" : "Sat, 22 Mar 2025 13:40:00",
-         "title" : "Zhu Jiner Leads In Cyprus As Badelka Beats Anna Muzychuk"
       },
       {
          "description" : "Rescuing oneself from a seemingly hopeless position forms part of the armoury of every strong chess player. The current political situation in Ukraine reminds me ineluctably of the chess player's ability to salvage a draw from an inferior position. And of the various ways to achieve a draw, stalemate is by far the most emphatic. []",
