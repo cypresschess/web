@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Building on the lessons from the previous volumes, Volume 3 shifts the focus to one of the most essential skills in chess: identifying and attacking your opponent's weaknesses. Whether it's a weak pawn, a vulnerable king, or poor piece coordination, this course will teach you how to pinpoint the critical targets, prioritise your attack, and execute a clear, effective plan. But strategy alone isn't enough - you'll also need tactical awareness!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-mastering-chess-strategy-vol-3-exploit-your-opponent-s-weaknesses",
+         "pubDate" : "Thu, 03 Apr 2025 20:00:00",
+         "title" : "Robert Ris: Mastering Chess Strategy Vol.3 - Exploit your opponent's weaknesses!"
+      },
+      {
+         "description" : "Four rounds have been already played at the European Women's Chess Championship 2025, and IM Eline Roebers (NED, 2367) emerged as the sole leader in the event as the only player with maximum score of 4/4 points. IM Eline Roebers (NED, 2367) convincingly defeated the top seeded GM Nino Batsiashvili (GEO, 2473) in today's fourth round. Roebers was well prepared for the Fried Liver Attack, and gained a clear advantage with the pawn up out of the opening. Nino Batsiashvili []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-eline-roebers-takes-sole-lead-in-european-womens-chess-championship-2025/",
+         "pubDate" : "Thu, 03 Apr 2025 18:55:16",
+         "title" : "IM Eline Roebers takes sole lead in European Women's Chess Championship 2025"
+      },
+      {
          "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
          "pubDate" : "Thu, 03 Apr 2025 13:50:00",
          "title" : "European Women's Chess Championship - Live"
+      },
+      {
+         "description" : "GM Vidit Gujrathi married Nidhi Kataria on April 2 at the luxurious Oxford Golf Resort in Pune, India. The 30-year-old grandmaster is currently number 25 in the world on the live rating list, and Nidhi, 28, is a homeopathic doctor. The couple brok...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vidit-gujrathi-nidhi-kataria-married",
+         "pubDate" : "Thu, 03 Apr 2025 10:17:00",
+         "title" : "Vidit Gujrathi Marries Nidhi Kataria, World Champions Dance At Wedding"
       },
       {
          "description" : "The European School Chess Championship 2025 will be held from 29th May to 8th June 2025 in Mamaia, Romania. The event will be played in 6 age categories: U7, U9,...",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "European Schools Chess Championship 2025"
       },
       {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Thu, 03 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 1 live!"
+         "description" : "We&#38;rsquo;re celebrating Earth Day all month long with bots that honor endangered species, past and present. Ready to play chess on the wild side? Play Wild New Bots Diana The Dodo Playing strength: 400 Contrary to popular belief, the dodo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/earth-day-chess-bots",
+         "pubDate" : "Thu, 03 Apr 2025 09:00:13",
+         "title" : "New Bot Challenge: Welcome to the Jungle"
       },
       {
          "description" : "The ChessBase Opening Encyclopedia 2025 has recently been released with many new features and improvements. In an interview ChessBase editor and lecturer Thomas Stark explains how this comprehensive and versatile product is created, what it can do and how to get the most out of it.",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/le-nakamura-win-titled-tuesday-april-1-2025",
          "pubDate" : "Wed, 02 Apr 2025 08:09:50",
          "title" : "No Fooling Nakamura, Who Wins Titled Tuesday With Le"
-      },
-      {
-         "description" : "Unlike the crystal clarity of his chess playing and its untrammelled success, Paul Morphy's subsequent life was anything but straightforward. Barely able to speak about his extraordinary successes in the game he receded from public view, dying at the age of 47. Stewart Player examines competing views on the American genius's mental collapse.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-real-paul-morphy",
-         "pubDate" : "Wed, 02 Apr 2025 07:50:52",
-         "title" : "The Real Paul Morphy"
       },
       {
          "description" : "Defending Women&#38;rsquo;s World Champion Ju Wenjun is striving to become only the fourth player in history to win the title five times as she takes on challenger and former champion GM Tan Zhongyi in the 2025 FIDE Women&#39;s World Championship in Shang...",
@@ -210,7 +226,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "We&#38;rsquo;re excited to announce the release of our newest feature, Life Review! Chess.com&#38;rsquo;s Game Review has become an incredibly popular tool to help chess players understand and improve their game. Life Review takes that same underlying tec...",
+         "description" : "Thanks for enjoying our April Fool&#39;s launch with Life Review! Yes, Life Review is an actual feature and will be staying around! If you haven&#39;t already done so, check it out in the app. Share your feedback and best Life Reviews with us, and have fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-life-review",
@@ -226,7 +242,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;&#101;g&#x75;&#x61;&#x72;&#100;in&#x67;&#x2e;&#111;&#102;f&#x69;&#x63;&#x65;&#114;&#64;e&#x6e;&#x67;&#108;&#105;s&#x68;&#x63;&#x68;&#101;ss&#x2e;&#x6f;&#114;&#103;&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;e&#x67;&#x75;&#97;&#114;d&#x69;&#x6e;&#103;&#46;o&#x66;&#x66;&#105;ce&#x72;&#x40;&#101;n&#x67;&#x6c;&#105;&#115;h&#x63;&#x68;&#101;&#115;s&#x2e;&#x6f;&#114;g&#46;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -554,22 +570,6 @@ news_feed (
          "title" : "American Cup 2025 - "
       },
       {
-         "description" : "GM Anna Muzychuk&#39;s fourth win, over GM Elisabeth Paehtz, saw her catch GM Zhu Jiner in the lead going into the final round of the 2025 Nicosia FIDE Women&#39;s Grand Prix. GMs Harika Dronavalli, Aleksandra Goryachkina, and Mariya Muzychuk are within s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-nicosia-round-8",
-         "pubDate" : "Sun, 23 Mar 2025 16:30:00",
-         "title" : "Anand Inspires Divya To 1st Win; Anna Muzychuk Catches Zhu"
-      },
-      {
-         "description" : "GM Hikaru Nakamura started the The American Cup&#38;nbsp;Grand Final with a win in the first classical game vs. GM Fabiano Caruana. Nakamura needs a draw with Black on Sunday to clinch the $75,000 first prize. After entering the Women&#39;s American Cup...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-8",
-         "pubDate" : "Sun, 23 Mar 2025 05:35:57",
-         "title" : "Abrahamyan, Nakamura Start With Wins In American Cup Grand Finals"
-      },
-      {
          "description" : "The players went back to the office today after yesterday's free day at the European Individual Chess Championship 2025. The 7th round brought lots of exciting games and it finished with thrilling results that significantly changed the rankings. We now have three players tying for the top with the score of 6/7 points: GM Matthias Bluebaum, GM Aryan Tari, and GM Baadur Jobava. GM Matthias Bluebaum (GER, 2643) took down the previous rounds leader GM Daniil Yuffa (ESP, 2654). Bluebaum []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -592,14 +592,6 @@ news_feed (
          "link" : "https://www.thearticle.com/stalemate-the-art-of-the-draw/",
          "pubDate" : "Sat, 22 Mar 2025 11:56:36",
          "title" : "Stalemate: the art of the draw"
-      },
-      {
-         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Rapid and Blitz Chess Championship 2025 under 8, 10, 12, 14, 16 and 18 years, organised from 4 August (arrivals) to 8 August (departures). The event will be held in the Conference Hall of the 5-star Porto Palace Hotel in Thessaloniki, Greece. The European Youth Rapid and Blitz Chess Championship 2025 consists of two different events: 24th EUROPEAN YOUTH RAPID CHAMPIONSHIP []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championship-2025-official-invitation/",
-         "pubDate" : "Sat, 22 Mar 2025 08:18:25",
-         "title" : "European Youth Rapid and Blitz Chess Championship 2025 - Official invitation"
       },
       {
          "description" : "The European Chess Union (ECU) has proud to announce a landmark partnership with SenseRobot, a leading innovator in AI technology solutions. The Hong Kong based company aims at redefining the future of home intelligence through groundbreaking AI innovation, including the large-scale production of home-use AI robotic arms. So why the cooperation with the ECU? You'll never guess.",
