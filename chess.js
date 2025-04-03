@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European School Chess Championship 2025 will be held from 29th May to 8th June 2025 in Mamaia, Romania. The event will be played in 6 age categories: U7, U9,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-schools-chess-championship-2025/",
+         "pubDate" : "Thu, 03 Apr 2025 09:00:26",
+         "title" : "European Schools Chess Championship 2025"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/exploring-the-opening-encyclopedia",
          "pubDate" : "Thu, 03 Apr 2025 08:00:00",
          "title" : "Exploring the Opening Encyclopedia"
+      },
+      {
+         "description" : "Challenger GM Tan Zhongyi played the Sicilian Defense and ultimately made a comfortable 39-move draw against Champion GM Ju Wenjun as the&#38;nbsp;2025 FIDE Women&#39;s World Championship began in Shanghai. &#34;From the first game I think Tan is going to be ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-game-1",
+         "pubDate" : "Thu, 03 Apr 2025 02:57:00",
+         "title" : "Tan Holds Ju To Draw As Women's World Championship Starts In Shanghai"
       },
       {
          "description" : "The 2025 FIDE Women's World Championship officially commenced with a press conference and opening ceremony in Shanghai. Held at the JW Marriott Hotel, the event featured remarks from FIDE officials, local sports representatives and chess dignitaries, highlighting China's rich chess legacy. Ju Wenjun and Tan Zhongyi engaged with journalists before participating in the traditional drawing of lots, which determined Ju would play white in the first game. The championship match begins on 3 April. | Photos: Anna Shtourman",
@@ -202,7 +218,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;&#x66;&#x65;g&#x75;&#97;r&#x64;&#105;n&#x67;&#46;&#x6f;&#x66;f&#x69;&#99;e&#x72;&#64;e&#x6e;&#103;&#x6c;&#x69;&#115;&#x68;&#x63;h&#x65;&#115;s&#x2e;&#111;r&#x67;&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#x66;&#x65;g&#117;&#97;&#x72;&#x64;i&#110;&#103;&#x2e;&#x6f;f&#102;&#x69;&#x63;&#x65;r&#64;&#x65;&#x6e;g&#108;&#105;&#x73;&#x68;c&#104;&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#x2e;u&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ecu-partners-with-senserobot",
          "pubDate" : "Sat, 22 Mar 2025 07:00:00",
          "title" : "ECU partners with SenseRobot"
-      },
-      {
-         "description" : "A day after losing the Champions Final, GM Fabiano Caruana earned his spot in The American Cup&#38;nbsp;Grand Final after all. Caruana beat GM Levon Aronian on Friday in a blitz playoff in the Elimination Bracket Final and will now play GM Hikaru Naka...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-american-cup-day-7",
-         "pubDate" : "Sat, 22 Mar 2025 04:49:00",
-         "title" : "Caruana, Abrahamyan Bounce Back To Qualify For American Cup Grand Finals"
       },
       {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
