@@ -1,6 +1,7 @@
 jtable([
 "HUMBLE","2025-03-29","135","<a href=http://www.uschess.org/msa/XtblMain.php?202503299942 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
 "HOUSTON","2025-03-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202503299812 target='_blank'>MAR 29TH SATURDAY SWISS</a>",
+"HOUSTON","2025-03-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503299082 target='_blank'>CHESSPANDA03292025SATURDAY</a>",
 "HOUSTON","2025-03-29","36","<a href=http://www.uschess.org/msa/XtblMain.php?202503298602 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-03-28","33","<a href=http://www.uschess.org/msa/XtblMain.php?202503288662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2025-03-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202503288582 target='_blank'>FBCC 2025 BLACK FOREST CAKE DAY OPE</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-08-17  - 08-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408185652 target='_blank'>$1,500 AUGUST  U2400 + A BLITZ</a>",
 "HOUSTON","2024-08-17","69","<a href=http://www.uschess.org/msa/XtblMain.php?202408174782 target='_blank'>TCR: SPACE CITY OPEN & SCHOLASTIC 2024</a>",
 "SUGAR LAND","2024-08-17","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408174332 target='_blank'>HAWAIIAN SHIRT DAY OPEN</a>",
-"SPRING","2024-08-16","28","<a href=http://www.uschess.org/msa/XtblMain.php?202408164272 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
