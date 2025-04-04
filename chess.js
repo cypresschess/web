@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Chess Championship Match commenced yesterday in Shanghai. The match is played between four-time Women's World Chess Champion GM Ju Wenjun and GM Tan Zhongyi who won the FIDE Women's World Chess Championship in 2017. The Match is played in 12 games, and the first player to score 6.5 points will be declared the Winner. The time control for each game is 90 minutes for the first 40 moves, followed by 30 minutes for the rest []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-womens-world-chess-championship-match-2025-commenced-in-shanghai/",
+         "pubDate" : "Fri, 04 Apr 2025 09:11:40",
+         "title" : "FIDE Women's World Chess Championship Match 2025 commenced in Shanghai"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-wc-2025-live",
          "pubDate" : "Fri, 04 Apr 2025 08:50:00",
          "title" : "Women's World Chess Championship - Game 2 live!"
+      },
+      {
+         "description" : " Ju Wenjun and Tan Zhongyi are playing in Shanghai for the world crown, while 136 players, six of them from England, compete in Rhodes for the European championship Women's chess takes centre stage this week. In Shanghai and Chongqing, there is an all-Chinese 12-game match for the women's world crown between Ju Wenjun, 34, the holder, and Tan Zhongyi, 33, the challenger. The pair are closely matched on ratings (2561 to 2555) and level on head-to-head. The prize money pool is $500,000. Thursday's game one, with Ju playing White in a Sicilian Defence, was a routine draw by threefold repetition in 39 moves. There is live commentary from 7am BST each day from the all-time No 1, <a href=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
+         "pubDate" : "Fri, 04 Apr 2025 07:00:47",
+         "title" : "Women's chess takes centre stage with World and European titles up for grabs"
       },
       {
          "description" : "World Autism Month, beginning with World Autism Awareness Day on 2 April, highlights the importance of understanding and inclusion for individuals with autism spectrum disorder (ASD). Chess has emerged as a valuable tool in supporting children with autism, offering structure, cognitive benefits, and opportunities for social interaction. Infinite Chess, in collaboration with the Kazakhstan Chess Federation, is hosting events throughout April to promote awareness, including online meetups and exhibitions. These initiatives aim to foster acceptance and create supportive environments for individuals with autism.",
@@ -258,7 +274,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;&#103;&#x75;&#97;&#x72;d&#x69;n&#x67;&#46;&#x6f;f&#102;&#x69;&#99;&#x65;&#114;&#x40;&#101;&#x6e;&#103;&#x6c;i&#x73;h&#x63;h&#x65;s&#115;&#x2e;&#111;&#x72;&#103;&#x2e;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#x66;&#x65;&#x67;u&#97;&#x72;&#x64;&#x69;n&#103;&#x2e;&#x6f;&#x66;f&#105;&#x63;&#x65;&#x72;&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#x68;&#x63;&#x68;e&#115;&#x73;&#x2e;&#x6f;r&#103;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "American Cup 2025 - "
       },
       {
-         "description" : "The players went back to the office today after yesterday's free day at the European Individual Chess Championship 2025. The 7th round brought lots of exciting games and it finished with thrilling results that significantly changed the rankings. We now have three players tying for the top with the score of 6/7 points: GM Matthias Bluebaum, GM Aryan Tari, and GM Baadur Jobava. GM Matthias Bluebaum (GER, 2643) took down the previous rounds leader GM Daniil Yuffa (ESP, 2654). Bluebaum []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/three-way-tie-for-the-top-at-eicc2025-after-thrilling-7th-round/",
-         "pubDate" : "Sat, 22 Mar 2025 22:27:17",
-         "title" : "Three-way tie for the top at EICC2025 after thrilling 7th round"
-      },
-      {
          "description" : "Most chess players train randomly, inconsistently, or without a plan. That means if you train the right way, you can outperform 99% of players-even those who seem naturally gifted. And that's incredible news for you. Being part of a sports class in high school and working for the Swiss Olympic Athletes Commission gave me unique []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-national-team-chess-championship-2024-25/",
          "pubDate" : "Fri, 14 Mar 2025 11:33:59",
          "title" : "FINAL REPORT:NATIONAL TEAM CHESS CHAMPIONSHIP 2024-25"
-      },
-      {
-         "description" : " The new eight-episode series, sandwiched between Mastermind and University Challenge, has split opinion BBC Two's new eight-episode series Chess Masters: The Endgame, aired on Monday evening at 8pm between Mastermind and University Challenge, has provoked strong but sharply divided reactions, both among television critics and seasoned chess experts and amateurs. The Guardian's Lucy Mangan called it \"<a href=\"https://www.theguardian.com/tv-and-radio/2025/mar/10/chess-masters-the-endgame-review-so-dull-its-almost-unwatchable\">so dull it's almost unwatchable</a>\". Although when she says \"the flurry of interest in chess was five years ago\", it seems that she missed the publicity bursts for the ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/mar/14/bbc-twos-chess-masters-the-endgame-provokes-sharply-divided-reactions",
-         "pubDate" : "Fri, 14 Mar 2025 08:00:21",
-         "title" : "BBC Two's Chess Masters: The Endgame provokes sharply divided reactions"
       }
    ]
 }
