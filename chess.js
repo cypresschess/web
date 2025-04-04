@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 following a costly endgame blunder <a href=\"https://www.chessgames.com/perl/chessgame?gid=2868242\">due to move 40 time pressure</a>. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31.",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
+         "pubDate" : "Fri, 04 Apr 2025 14:15:14",
+         "title" : "Chess: Tan Zhongyi takes shock lead over Ju Wenjun in Women's World Championship"
+      },
+      {
+         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
+         "pubDate" : "Fri, 04 Apr 2025 13:50:00",
+         "title" : "European Women's Chess Championship - Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119980958.cms\" />GM Tan Zhongyi leads 1.5-0.5 in the 2025 FIDE Women's World Championship after defeating reigning champion GM Ju Wenjun on Game 2. Tan capitalised on Ju's mistake in a rook endgame during a marathon 62-move game. The match began with a draw in Shanghai, and more intense games are expected. Game 3 will be played on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tan-zhongyi-leads-womens-world-chess-championship-after-ju-wenjuns-endgame-collapse/articleshow/119980958.cms",
+         "pubDate" : "Fri, 04 Apr 2025 12:13:15",
+         "title" : "Tan Zhongyi leads Women's World Chess Championship after Ju Wenjun's endgame collapse"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship Match commenced yesterday in Shanghai. The match is played between four-time Women's World Chess Champion GM Ju Wenjun and GM Tan Zhongyi who won the FIDE Women's World Chess Championship in 2017. The Match is played in 12 games, and the first player to score 6.5 points will be declared the Winner. The time control for each game is 90 minutes for the first 40 moves, followed by 30 minutes for the rest []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,12 +42,20 @@ news_feed (
          "title" : "Women's World Chess Championship - Game 2 live!"
       },
       {
-         "description" : " Ju Wenjun and Tan Zhongyi are playing in Shanghai for the world crown, while 136 players, six of them from England, compete in Rhodes for the European championship Women's chess takes centre stage this week. In Shanghai and Chongqing, there is an all-Chinese 12-game match for the women's world crown between Ju Wenjun, 34, the holder, and Tan Zhongyi, 33, the challenger. The pair are closely matched on ratings (2561 to 2555) and level on head-to-head. The prize money pool is $500,000. Thursday's game one, with Ju playing White in a Sicilian Defence, was a routine draw by threefold repetition in 39 moves. There is live commentary from 7am BST each day from the all-time No 1, <a href=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
-         "pubDate" : "Fri, 04 Apr 2025 07:00:47",
-         "title" : "Women's chess takes centre stage with World and European titles up for grabs"
+         "description" : "The much-anticipated Magnus vs. The World match officially launched on Chess.com on Friday with GM Magnus Carlsen&#39;s first move. With 100,000 participants registered on Thursday, the event shattered the record for the largest online chess match eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-vs-the-world-breaks-world-record",
+         "pubDate" : "Fri, 04 Apr 2025 08:00:41",
+         "title" : "Magnus Vs. The World Hits 100,000 Participants, Breaks All-Time Record"
+      },
+      {
+         "description" : "GM Tan Zhongyi has taken a 1.5-0.5 lead in the 2025 FIDE Women&#39;s World Championship after World Champion GM Ju Wenjun collapsed in a rook endgame that seemed headed for an inevitable draw. She fought on after the time control had passed, but Tan m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-game-2",
+         "pubDate" : "Fri, 04 Apr 2025 04:50:00",
+         "title" : "Tan Zhongyi Stuns Ju Wenjun To Win Game 2"
       },
       {
          "description" : "World Autism Month, beginning with World Autism Awareness Day on 2 April, highlights the importance of understanding and inclusion for individuals with autism spectrum disorder (ASD). Chess has emerged as a valuable tool in supporting children with autism, offering structure, cognitive benefits, and opportunities for social interaction. Infinite Chess, in collaboration with the Kazakhstan Chess Federation, is hosting events throughout April to promote awareness, including online meetups and exhibitions. These initiatives aim to foster acceptance and create supportive environments for individuals with autism.",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-eline-roebers-takes-sole-lead-in-european-womens-chess-championship-2025/",
          "pubDate" : "Thu, 03 Apr 2025 18:55:16",
          "title" : "IM Eline Roebers takes sole lead in European Women's Chess Championship 2025"
-      },
-      {
-         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
-         "pubDate" : "Thu, 03 Apr 2025 13:50:00",
-         "title" : "European Women's Chess Championship - Live"
       },
       {
          "description" : " Tanitoluwa Adewumi has just completed the rating requirements for the title of International Master. This is a major step toward his next goal of becoming a Grandmaster. Tani's story is well-known and has been covered extensively on this site. However, a New York Times story would change his life forever. Since arriving from Nigeria in The post <a href=\"https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/\">Tanitoluwa Adewumi qualifies for IM title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -274,7 +298,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#x66;&#x65;&#x67;u&#97;&#x72;&#x64;&#x69;n&#103;&#x2e;&#x6f;&#x66;f&#105;&#x63;&#x65;&#x72;&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#x68;&#x63;&#x68;e&#115;&#x73;&#x2e;&#x6f;r&#103;&#x2e;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;g&#x75;a&#114;&#x64;&#105;&#x6e;g&#x2e;o&#102;&#x66;&#105;&#x63;e&#x72;&#64;&#101;&#x6e;&#103;&#x6c;i&#x73;h&#99;&#x68;&#101;&#x73;s&#x2e;o&#114;&#x67;&#46;&#x75;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -562,28 +586,12 @@ news_feed (
          "title" : "Next Grassroots assessment"
       },
       {
-         "description" : "In last season&#39;s Collegiate Chess League (CCL) finals, the University of Missouri (Mizzou) defeated St. Louis University (SLU) in a tight match. There were some adventures along the way, but both teams have worked their way back to the Collegiate ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-semifinals",
-         "pubDate" : "Mon, 24 Mar 2025 10:07:00",
-         "title" : "SLU, Mizzou Win To Set Up Rematch In Finals"
-      },
-      {
          "description" : "An opportunity exists to play a part in the ECF Grassroots Scheme. We need a new volunteer coordinator to cover South East England. Your task will be to assess grant...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-grassroots-initiative-regional-coordinator-south-east-england/",
          "pubDate" : "Mon, 24 Mar 2025 09:10:32",
          "title" : "ECF Grassroots Initiative: Regional Coordinator South East England"
-      },
-      {
-         "description" : "A solid draw with the black pieces vs. GM Fabiano Caruana&#38;nbsp;was all GM Hikaru Nakamura needed to win The American Cup Grand Final on Sunday in St. Louis. Nakamura won the $75,000 first prize plus a $15,000 Champion&#39;s Bracket bonus, with $55,000...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-alice-lee-win-american-cup-2025",
-         "pubDate" : "Mon, 24 Mar 2025 04:49:00",
-         "title" : "Nakamura, Lee Crowned American Cup Champions"
       },
       {
          "description" : "Eight rounds have been already played at the European Individual Chess Championship 2025 in Eforie Nord, Romania, and just three rounds left before the announcement of the Winners and qualifiers for the next World Chess Cup. Scoring 6.5 points each, GM Baadur Jobava (GEO, 2578), GM Daniil Yuffa (ESP, 2654), GM Aryan Tari (NOR, 2621), GM Matthias Bluebaum (GER, 2643) and GM Gabriel Sargissian (ARM, 2628) tie for the top, and they are followed by a group of 18 players []",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-and-poker-stewart-reuben/",
          "pubDate" : "Sat, 15 Mar 2025 10:57:25",
          "title" : "Chess and poker: Stewart Reuben"
-      },
-      {
-         "description" : "The 44th National Open Team Chess Championship and the 22nd National Women Team Chess Championship 2025 were held at Ahmedabad, Gujarat, from 5 March to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-national-team-chess-championship-2024-25/",
-         "pubDate" : "Fri, 14 Mar 2025 11:33:59",
-         "title" : "FINAL REPORT:NATIONAL TEAM CHESS CHAMPIONSHIP 2024-25"
       }
    ]
 }
