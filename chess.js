@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our composing tourney, My First Endgame Study, has come to a close, and we are excited to announce the award winners. This inaugural event, a joint venture between the World Federation for Chess Composition (WFCC) and ChessBase India, drew an impressive response from the chess community, with 35 budding composers submitting a total of 60 entries. The tourney provided a platform for newcomers to showcase their skills and creativity in endgame study composition. We are delighted to present the standout entries that caught the attention of our judge and mentor, Gady Costeff. We would like to extend our heartfelt gratitude to all participants for their enthusiastic participation. Special thanks ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-first-endgame-study-awards",
+         "pubDate" : "Fri, 04 Apr 2025 22:00:00",
+         "title" : "My First Endgame Study Tourney: Awards"
+      },
+      {
          "description" : "Five rounds were played at the European Women's Chess Championship 2025 in Rhodes, Greece, and four players tie for the top scoring 4.5/5 points each: GM Bella Khotenashvili (GEO, 2418), IM Mai Narva (EST, 2380), IM Aleksandra Maltsevskaya (POL, 2376), and WFM Anastasia Kirtadze (GEO, 2180). GM Bella Khotenashvili (GEO, 2418) today defeated IM Eline Roebers (NED, 2367). Khotenashvili gained a clear advantage in the early part of the middlegame out of a complex and blocked position. Facing troubles, Eline []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -322,7 +330,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;&#101;&#x67;&#x75;a&#x72;&#x64;i&#110;&#x67;&#46;&#111;&#x66;f&#105;&#x63;e&#114;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;&#99;&#x68;&#x65;s&#x73;&#x2e;o&#114;&#x67;&#46;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#x66;&#x65;g&#117;&#97;&#x72;&#x64;i&#110;&#103;&#x2e;&#x6f;f&#102;&#x69;&#x63;&#x65;r&#64;&#x65;&#x6e;g&#108;&#105;&#x73;&#x68;c&#104;&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#x2e;u&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
