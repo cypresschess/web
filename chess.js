@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 following a costly endgame blunder <a href=\"https://www.chessgames.com/perl/chessgame?gid=2868242\">due to move 40 time pressure</a>. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31.",
+         "description" : "Five rounds were played at the European Women's Chess Championship 2025 in Rhodes, Greece, and four players tie for the top scoring 4.5/5 points each: GM Bella Khotenashvili (GEO, 2418), IM Mai Narva (EST, 2380), IM Aleksandra Maltsevskaya (POL, 2376), and WFM Anastasia Kirtadze (GEO, 2180). GM Bella Khotenashvili (GEO, 2418) today defeated IM Eline Roebers (NED, 2367). Khotenashvili gained a clear advantage in the early part of the middlegame out of a complex and blocked position. Facing troubles, Eline []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/four-players-tie-for-the-top-after-r5-at-european-womens-chess-championship-2025/",
+         "pubDate" : "Fri, 04 Apr 2025 19:23:06",
+         "title" : "Four players tie for the top after R5 at European Women's Chess Championship 2025"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2025 is set to take place from 5-13 April in Swidnica, Poland. The event is played in two age categories: 50+ and 65+, with the participation of 18 teams. The top-seeded teams in the 50+section are Germany (Average rating of players 2430), England 1 (Average rating of players 2415) and England 2 (Average rating of players 2160), and the top seeds in the 65+ category are England 1 (Average rating of players 2427), Germany []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2025-starts-in-swidnica-poland/",
+         "pubDate" : "Fri, 04 Apr 2025 18:38:13",
+         "title" : "European Senior Team Chess Championship 2025 starts in Swidnica, Poland"
+      },
+      {
+         "description" : "After a draw in the first game, challenger Tan Zhongyi took the lead in by winning the second encounter of the Women's World Championship match. Tan capitalised on an inaccuracy by the defending champion Ju Wen in the rook ending and went on to score a convincing victory. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-2",
+         "pubDate" : "Fri, 04 Apr 2025 17:30:00",
+         "title" : "Women's WCC Game 2: Tan takes the lead as Ju falters in rook endgame"
+      },
+      {
+         "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 after a costly endgame blunder due to move 40 time pressure. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31&hellip;c5? (Kf8! is equal) and she then missed her last chance with 40&h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "Tan Zhongyi leads Women's World Chess Championship after Ju Wenjun's endgame collapse"
       },
       {
+         "description" : "It took a few months for GM Hikaru Nakamura to win his first Freestyle Friday, but just a week later, he won his second. Whereas last week Nakamura needed tiebreaks after a final-round setback, this week he won outright with 10 points after achiev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-april-4-2025",
+         "pubDate" : "Fri, 04 Apr 2025 12:12:15",
+         "title" : "Nakamura Easily Repeats In Freestyle Friday"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship Match commenced yesterday in Shanghai. The match is played between four-time Women's World Chess Champion GM Ju Wenjun and GM Tan Zhongyi who won the FIDE Women's World Chess Championship in 2017. The Match is played in 12 games, and the first player to score 6.5 points will be declared the Winner. The time control for each game is 90 minutes for the first 40 moves, followed by 30 minutes for the rest []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -34,19 +66,11 @@ news_feed (
          "title" : "FIDE Women's World Chess Championship Match 2025 commenced in Shanghai"
       },
       {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Fri, 04 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 2 live!"
-      },
-      {
          "description" : "The much-anticipated Magnus vs. The World match officially launched on Chess.com on Friday with GM Magnus Carlsen&#39;s first move. With 100,000 participants registered on Thursday, the event shattered the record for the largest online chess match eve...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-vs-the-world-breaks-world-record",
-         "pubDate" : "Fri, 04 Apr 2025 08:00:41",
+         "pubDate" : "Fri, 04 Apr 2025 08:00:00",
          "title" : "Magnus Vs. The World Hits 100,000 Participants, Breaks All-Time Record"
       },
       {
@@ -298,7 +322,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;g&#x75;a&#114;&#x64;&#105;&#x6e;g&#x2e;o&#102;&#x66;&#105;&#x63;e&#x72;&#64;&#101;&#x6e;&#103;&#x6c;i&#x73;h&#99;&#x68;&#101;&#x73;s&#x2e;o&#114;&#x67;&#46;&#x75;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;&#101;&#x67;&#x75;a&#x72;&#x64;i&#110;&#x67;&#46;&#111;&#x66;f&#105;&#x63;e&#114;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;&#99;&#x68;&#x65;s&#x73;&#x2e;o&#114;&#x67;&#46;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "Nicosia FIDE Women's Grand Prix 2025 - Games and Results"
       },
       {
-         "description" : "GM Matthias Bluebaum (GER, 2643) emerged as the sole leader of the European Individual Chess Championship 2025 with only two rounds to go! Playing with Whites on the second board today, GM Matthias Bluebaum (GER, 2643) outplayed GM Baadur Jobava (GEO, 2578). Bluebaum had an advantage out of the opening, and seized it further throughout the middlegame to eventually convert it into a two pawns up endgame that he easily won. After today's victory, the European Chess Champion from 2022 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/matthias-bluebaum-takes-sole-lead-in-eicc2025-with-only-two-rounds-to-go/",
-         "pubDate" : "Mon, 24 Mar 2025 19:08:26",
-         "title" : "Matthias Bluebaum takes sole lead in EICC2025 with only two rounds to go"
-      },
-      {
          "description" : "Following his win at the 2025 American Cup, GM Hikaru Nakamura picked up another $5,000 the next day with his first-place finish in the 2025 American Cup Blitz. After two weeks of battling with the U.S.&#39;s best players, he leaves St. Louis with a t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -570,14 +586,6 @@ news_feed (
          "title" : "Anna Muzychuk Wins Cyprus Grand Prix On Tiebreaks"
       },
       {
-         "description" : "More than 40 years after the BBC first dipped its programming toe into chess with The Master Game, the network has returned this month with Chess Masters: The Endgame, which airs at 8 p.m. GMT on Monday nights. One of the main differences between ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lulas-experience-on-chess-masters-the-endgame",
-         "pubDate" : "Mon, 24 Mar 2025 10:48:00",
-         "title" : "Lula's Experience on 'Chess Masters: The Endgame'"
-      },
-      {
          "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-grassroots-initiative-regional-coordinator-south-east-england/",
          "pubDate" : "Mon, 24 Mar 2025 09:10:32",
          "title" : "ECF Grassroots Initiative: Regional Coordinator South East England"
-      },
-      {
-         "description" : "Eight rounds have been already played at the European Individual Chess Championship 2025 in Eforie Nord, Romania, and just three rounds left before the announcement of the Winners and qualifiers for the next World Chess Cup. Scoring 6.5 points each, GM Baadur Jobava (GEO, 2578), GM Daniil Yuffa (ESP, 2654), GM Aryan Tari (NOR, 2621), GM Matthias Bluebaum (GER, 2643) and GM Gabriel Sargissian (ARM, 2628) tie for the top, and they are followed by a group of 18 players []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/five-players-in-joint-lead-at-eicc2025-after-eight-played-rounds/",
-         "pubDate" : "Sun, 23 Mar 2025 23:14:19",
-         "title" : "Five players in joint lead at EICC2025 after eight played rounds"
       },
       {
          "description" : " The American Cup took place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Hikaru Nakamura beat Fabiano Caruana both in the winners final and the grand final to win the event. Similarly Alice Lee beat Tatev Abrahamyan twice in the two women's finals so a grand final reset was not required. Hikaru Nakamura won the blitz on the final day, ",
