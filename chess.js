@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Of the major board games, Draughts relies primarily on material superiority to achieve victory. Meanwhile Go (known in China as Wei Chi) depends on control of territory. Only chess, where triumph is ultimately and solely confirmed by checkmate, transcends all elements of material, time or space. Although such factors may well contribute to an advantage, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-go-and-global-diplomacy/",
+         "pubDate" : "Sat, 05 Apr 2025 12:23:57",
+         "title" : "Chess, Go and global diplomacy"
+      },
+      {
          "description" : "Sunil who? He is one of the most successful chess coaches in the USA, running the National Scholastic Chess Foundation (NSCF) teacher training programs. Sunil Weeramantry has looked after literally thousands of budding chess players - including his stepson, who ascended to the top of the chess world. Know who we are talking about. | Pictures by Frederic Friedel and NSCF",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sunil-weeramantry-retires",
          "pubDate" : "Sat, 05 Apr 2025 08:00:00",
          "title" : "Sunil Weeramantry retires"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Garry Kasparov greets the participants during the opening ceremony of the 20th Annual KCF All-Girls National Chess Championship (Photo courtesy of DeShaun Adams)<br> <br> <br> <br> The 20th Annual Kasparov Chess Foundation (KCF) All-Girls National Chess Championship kicked off with excitement on opening day, April 4, at the Hyatt Regency McCormick Place in downtown Chicago. Organized in partnership with the Renaissance Knights Chess Foundation and US Chess, this milestone event celebrates two decades of empowering young female chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/record-breaking-opening-20th-annual-kcf-all-girls-national-chess-championship",
+         "pubDate" : "Sat, 05 Apr 2025 00:00:00",
+         "title" : "Record-Breaking Opening for the 20th Annual KCF All-Girls National Chess Championship"
       },
       {
          "description" : "Our composing tourney, My First Endgame Study, has come to a close, and we are excited to announce the award winners. This inaugural event, a joint venture between the World Federation for Chess Composition (WFCC) and ChessBase India, drew an impressive response from the chess community, with 35 budding composers submitting a total of 60 entries. The tourney provided a platform for newcomers to showcase their skills and creativity in endgame study composition. We are delighted to present the standout entries that caught the attention of our judge and mentor, Gady Costeff. We would like to extend our heartfelt gratitude to all participants for their enthusiastic participation. Special thanks ",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
          "pubDate" : "Fri, 04 Apr 2025 14:15:14",
          "title" : "Chess: Tan Zhongyi takes shock lead over Ju Wenjun in Women's World Championship"
-      },
-      {
-         "description" : "The 25th European Women's Chess Championship is taking place from 31 March to 11 April in Rhodes, Greece. The Championship features 136 players representing 34 European federations battling in an 11-round Swiss open for prize money and spots in the Women's World Chess Cup. The top seeds are Nino Batsiashvili, Teodora Injac and Meri Arabidze. | Follow the action live with expert commentary starting at 14.00 CET (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2025-live",
-         "pubDate" : "Fri, 04 Apr 2025 13:50:00",
-         "title" : "European Women's Chess Championship - Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119980958.cms\" />GM Tan Zhongyi leads 1.5-0.5 in the 2025 FIDE Women's World Championship after defeating reigning champion GM Ju Wenjun on Game 2. Tan capitalised on Ju's mistake in a rook endgame during a marathon 62-move game. The match began with a draw in Shanghai, and more intense games are expected. Game 3 will be played on Sunday.",
@@ -250,6 +258,14 @@ news_feed (
          "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
+         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
+         "title" : "'Gukesh needs to stay grounded and remain curious'"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -346,7 +362,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at saf&#101;&#103;&#117;&#x61;&#x72;&#x64;&#x69;&#x6e;&#x67;&#46;of&#102;&#105;&#99;&#101;&#x72;&#x40;&#x65;&#x6e;&#x67;&#x6c;ish&#99;&#104;&#101;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#46;uk if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;f&#101;&#x67;u&#97;&#x72;d&#105;&#x6e;g&#46;&#x6f;f&#102;&#x69;c&#101;&#x72;&#64;&#101;&#x6e;g&#108;&#x69;s&#104;&#x63;h&#101;&#x73;s&#x2e;&#x6f;r&#x67;&#x2e;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Heading into the final round of EICC2025 Daniil Yuffa joins Matthias Bluebaum in the lead"
       },
       {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles come from the 2025 American Cup finalists GM Hikaru Nakamura and GM Fabiano Caruana. Nakamura won the American Cup with a classical victory over Caruana, who won the Champions Showdown earlier this month also in St. Louis. We look back on their finest moments from New York below. <br> <br> <br> <br> Image<br> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-10-nakamura-caruana",
-         "pubDate" : "Tue, 25 Mar 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 10 (Nakamura & Caruana)"
-      },
-      {
          "description" : " The Nicosia FIDE Women's Grand Prix took place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz. Anna Muzychuk edged out Jiner Zhu on tie-break after both scored 6/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/",
          "pubDate" : "Sun, 16 Mar 2025 15:23:32",
          "title" : "William Scott honored in March 2025 Chess Life!"
-      },
-      {
-         "description" : "Doing too much has cost me heavily once again. I've been training for a half marathon since November, with a clear plan in place since Christmas. Everything went great. I ran my first 10k race in January, achieving a better time than my 5K in December. I stuck to the simple training plan with three []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/overtraining/",
-         "pubDate" : "Sat, 15 Mar 2025 14:00:00",
-         "title" : "The Dangers of Overtraining: Why Slow and Steady Wins in Running and Chess"
       }
    ]
 }
