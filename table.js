@@ -12,6 +12,7 @@ jtable([
 "CYPRESS","2025-03-22","42","<a href=http://www.uschess.org/msa/XtblMain.php?202503224152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2025-03-21","27","<a href=http://www.uschess.org/msa/XtblMain.php?202503214072 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2025-03-21","24","<a href=http://www.uschess.org/msa/XtblMain.php?202503214062 target='_blank'>FBCC NATIONAL FRENCH BREAD DAY OPEN</a>",
+"HOUSTON","2025-03-14  - 03-16","9","<a href=http://www.uschess.org/msa/XtblMain.php?202503163182 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2025-03-14  - 03-16","230","<a href=http://www.uschess.org/msa/XtblMain.php?202503162132 target='_blank'>2025 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2025-03-15","92","<a href=http://www.uschess.org/msa/XtblMain.php?202503151152 target='_blank'>2025 LONE STAR SCHOLASTIC</a>",
 "HOUSTON","2025-03-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202503150532 target='_blank'>MAR 15TH SATURDAY SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2024-08-23","38","<a href=http://www.uschess.org/msa/XtblMain.php?202408238482 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-08-17  - 08-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408185652 target='_blank'>$1,500 AUGUST  U2400 + A BLITZ</a>",
 "HOUSTON","2024-08-17","69","<a href=http://www.uschess.org/msa/XtblMain.php?202408174782 target='_blank'>TCR: SPACE CITY OPEN & SCHOLASTIC 2024</a>",
-"SUGAR LAND","2024-08-17","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408174332 target='_blank'>HAWAIIAN SHIRT DAY OPEN</a>",
 ]);
