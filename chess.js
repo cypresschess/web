@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thorsten Cmiel keeps a very close eye on the young talents in chess. During the Prague Chess Festival, he paid particular attention to how Divya Deshmukh played. Divya won the girls' category at the 2024 World Junior Championship. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-focus-divya-deshmuk-ii",
+         "pubDate" : "Sat, 05 Apr 2025 19:50:00",
+         "title" : "In focus: Divya Deshmukh (II)"
+      },
+      {
          "description" : "Of the major board games, Draughts relies primarily on material superiority to achieve victory. Meanwhile Go (known in China as Wei Chi) depends on control of territory. Only chess, where triumph is ultimately and solely confirmed by checkmate, transcends all elements of material, time or space. Although such factors may well contribute to an advantage, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -250,22 +258,6 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
-      },
-      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -362,7 +354,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;f&#101;&#x67;u&#97;&#x72;d&#105;&#x6e;g&#46;&#x6f;f&#102;&#x69;c&#101;&#x72;&#64;&#101;&#x6e;g&#108;&#x69;s&#104;&#x63;h&#101;&#x73;s&#x2e;&#x6f;r&#x67;&#x2e;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#117;a&#x72;&#100;&#x69;&#110;g&#x2e;&#111;&#x66;&#102;i&#x63;e&#x72;&#64;&#x65;&#x6e;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#115;&#46;&#x6f;r&#x67;&#46;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
