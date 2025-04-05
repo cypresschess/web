@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Six rounds have been played at the European Women's Chess Championship 2025, and 16-year-old WFM Anastasia Kirtadze stunned again, taking the sole lead in the tournament with impressive score of 5.5/6 points. The 77th seed in the tournament, WFM Anastasia Kirtadze (GEO, 2180) today scored against IM Aleksandra Maltsevskaya (POL, 2376). Having black pieces, Kirtadze quickly equalized and gained a pawn up, although, Maltsevskaya had a compensation and the position was in range of equality. Both players were in a []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/16-year-old-wfm-anastasia-kirtadze-takes-sole-lead-in-european-womens-chess-championship-2025/",
+         "pubDate" : "Sat, 05 Apr 2025 20:40:08",
+         "title" : "16-year-old WFM Anastasia Kirtadze takes sole lead in European Women's Chess Championship 2025"
+      },
+      {
          "description" : "Thorsten Cmiel keeps a very close eye on the young talents in chess. During the Prague Chess Festival, he paid particular attention to how Divya Deshmukh played. Divya won the girls' category at the 2024 World Junior Championship. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sunil-weeramantry-retires",
          "pubDate" : "Sat, 05 Apr 2025 08:00:00",
          "title" : "Sunil Weeramantry retires"
+      },
+      {
+         "description" : "Three Storylines to Watch From ShanghaiGM Tan Zhongyi leads four-time defending champion GM Ju Wenjun 1&frac12;-&frac12; in Shanghai after two rounds of the 2025 FIDE Women's World Chess Championship (WWCC). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tan (L) and Ju shake hands at the opening ceremony (Photo courtesy of Anna Shtourman/FIDE)<br> <br> <br> <br> Tan - who won the 2017 FIDE WWCC before losing her title in a match against Ju a year later - took advantage of Ju's time trouble in an imbalanced rook-and-pawns endgame to win game 2 on Friday. Play resumes on Sunday, April 6, at 3:00 a.m. EDT (which is 3:00 p.m. local time). <br> <br> <br> <",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/womens-world-championship-highlights-opening-rounds",
+         "pubDate" : "Sat, 05 Apr 2025 00:00:00",
+         "title" : "Women's World Championship: Highlights From Opening Rounds"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Garry Kasparov greets the participants during the opening ceremony of the 20th Annual KCF All-Girls National Chess Championship (Photo courtesy of DeShaun Adams)<br> <br> <br> <br> The 20th Annual Kasparov Chess Foundation (KCF) All-Girls National Chess Championship kicked off with excitement on opening day, April 4, at the Hyatt Regency McCormick Place in downtown Chicago. Organized in partnership with the Renaissance Knights Chess Foundation and US Chess, this milestone event celebrates two decades of empowering young female chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br>",
@@ -354,7 +370,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#117;a&#x72;&#100;&#x69;&#110;g&#x2e;&#111;&#x66;&#102;i&#x63;e&#x72;&#64;&#x65;&#x6e;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#115;&#46;&#x6f;r&#x67;&#46;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#x75;a&#x72;&#100;&#x69;&#x6e;g&#x2e;&#111;&#x66;&#x66;i&#x63;&#101;&#x72;&#x40;e&#x6e;&#103;&#x6c;&#x69;s&#x68;&#99;&#x68;&#x65;s&#x73;&#46;&#x6f;&#x72;g&#x2e;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -568,22 +584,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/brian-harting-hired-administrative-assistant",
          "pubDate" : "Wed, 26 Mar 2025 00:00:00",
          "title" : "Brian Harting Hired as Administrative Assistant"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks!This week's puzzles come from the 2025 American Cup finalists GM Hikaru Nakamura and GM Fabiano Caruana. Nakamura won the American Cup with a classical victory over Caruana, who won the Champions Showdown earlier this month also in St. Louis. We look back on their finest moments from New York below. Another batch of puzzles featuring",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-10-nakamura-caruana",
-         "pubDate" : "Wed, 26 Mar 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 10 (Nakamura & Caruana)"
-      },
-      {
-         "description" : "Heading towards the final round of the European Individual Chess Championship 2025, we have a joint lead by GM Daniil Yuffa (ESP, 2654) and GM Matthias Bluebaum (GER, 2643)! GM Daniil Yuffa (ESP, 2654) defeated GM Aryan Tari (NOR, 2621) with White pieces today after a very complex game. Opting for an unusual opening, Yuffa and Tari entered a blocked position where the Spanish Grandmaster sacrificed an exchange to get rid of Tari's active pieces. He consolidated quite fast and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/heading-into-the-final-round-of-eicc2025-daniil-yuffa-joins-matthias-bluebaum-in-the-lead/",
-         "pubDate" : "Tue, 25 Mar 2025 20:19:00",
-         "title" : "Heading into the final round of EICC2025 Daniil Yuffa joins Matthias Bluebaum in the lead"
       },
       {
          "description" : " The Nicosia FIDE Women's Grand Prix took place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz. Anna Muzychuk edged out Jiner Zhu on tie-break after both scored 6/9.",
