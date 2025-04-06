@@ -10,6 +10,14 @@ news_feed (
          "title" : "Women's WCC Game 3: Ju grinds out win, evens the score"
       },
       {
+         "description" : " The Freestyle Grand Slam Paris takes place Mon 7th Apr to Mon 14th Apr 2025. Chess960 in Paris. Players: Carlsen, Nakamura, Gukesh, Erigaisi, Caruana, Abdusattorov, Praggnanandhaa, Nepomniachtchi, Rapport, Vachier-Lagrave, Vidit and Keymer play. Niemann withdrew at the last minute.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-paris-2025",
+         "pubDate" : "Sun, 6 Apr 2025 16:37:00",
+         "title" : "Freestyle Grand Slam Paris 2025 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120033026.cms\" />D Gukesh, the world chess champion, struggled in the 2025 Freestyle Chess Grand Slam Tour's opening leg but remains optimistic for the Paris leg. Despite a challenging format, Gukesh aims to improve. The Paris event, featuring strong competitors like Hikaru Nakamura, promises a thrilling contest and a chance for Gukesh to redeem himself.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-3",
-         "pubDate" : "Sun, 06 Apr 2025 05:31:36",
+         "pubDate" : "Sun, 06 Apr 2025 05:31:00",
          "title" : "Ju Wenjun Strikes Back To Win Game 3"
       },
       {
@@ -90,14 +98,6 @@ news_feed (
          "title" : "Record-Breaking Opening for the 20th Annual KCF All-Girls National Chess Championship"
       },
       {
-         "description" : "Our composing tourney, My First Endgame Study, has come to a close, and we are excited to announce the award winners. This inaugural event, a joint venture between the World Federation for Chess Composition (WFCC) and ChessBase India, drew an impressive response from the chess community, with 35 budding composers submitting a total of 60 entries. The tourney provided a platform for newcomers to showcase their skills and creativity in endgame study composition. We are delighted to present the standout entries that caught the attention of our judge and mentor, Gady Costeff. We would like to extend our heartfelt gratitude to all participants for their enthusiastic participation. Special thanks ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-first-endgame-study-awards",
-         "pubDate" : "Fri, 04 Apr 2025 22:00:00",
-         "title" : "My First Endgame Study Tourney: Awards"
-      },
-      {
          "description" : "Five rounds were played at the European Women's Chess Championship 2025 in Rhodes, Greece, and four players tie for the top scoring 4.5/5 points each: GM Bella Khotenashvili (GEO, 2418), IM Mai Narva (EST, 2380), IM Aleksandra Maltsevskaya (POL, 2376), and WFM Anastasia Kirtadze (GEO, 2180). GM Bella Khotenashvili (GEO, 2418) today defeated IM Eline Roebers (NED, 2367). Khotenashvili gained a clear advantage in the early part of the middlegame out of a complex and blocked position. Facing troubles, Eline []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2025-starts-in-swidnica-poland/",
          "pubDate" : "Fri, 04 Apr 2025 18:38:13",
          "title" : "European Senior Team Chess Championship 2025 starts in Swidnica, Poland"
-      },
-      {
-         "description" : "After a draw in the first game, challenger Tan Zhongyi took the lead in by winning the second encounter of the Women's World Championship match. Tan capitalised on an inaccuracy by the defending champion Ju Wen in the rook ending and went on to score a convincing victory. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-2",
-         "pubDate" : "Fri, 04 Apr 2025 17:30:00",
-         "title" : "Women's WCC Game 2: Tan takes the lead as Ju falters in rook endgame"
       },
       {
          "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 after a costly endgame blunder due to move 40 time pressure. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31&hellip;c5? (Kf8! is equal) and she then missed her last chance with 40&h",
@@ -170,22 +162,6 @@ news_feed (
          "title" : "Tan Zhongyi Stuns Ju Wenjun To Win Game 2"
       },
       {
-         "description" : "World Autism Month, beginning with World Autism Awareness Day on 2 April, highlights the importance of understanding and inclusion for individuals with autism spectrum disorder (ASD). Chess has emerged as a valuable tool in supporting children with autism, offering structure, cognitive benefits, and opportunities for social interaction. Infinite Chess, in collaboration with the Kazakhstan Chess Federation, is hosting events throughout April to promote awareness, including online meetups and exhibitions. These initiatives aim to foster acceptance and create supportive environments for individuals with autism.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/autism-awareness-2025-fide",
-         "pubDate" : "Fri, 04 Apr 2025 00:20:00",
-         "title" : "Autism awareness: Understanding and supporting the spectrum globally"
-      },
-      {
-         "description" : "Building on the lessons from the previous volumes, Volume 3 shifts the focus to one of the most essential skills in chess: identifying and attacking your opponent's weaknesses. Whether it's a weak pawn, a vulnerable king, or poor piece coordination, this course will teach you how to pinpoint the critical targets, prioritise your attack, and execute a clear, effective plan. But strategy alone isn't enough - you'll also need tactical awareness!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-mastering-chess-strategy-vol-3-exploit-your-opponent-s-weaknesses",
-         "pubDate" : "Thu, 03 Apr 2025 20:00:00",
-         "title" : "Robert Ris: Mastering Chess Strategy Vol.3 - Exploit your opponent's weaknesses!"
-      },
-      {
          "description" : "Four rounds have been already played at the European Women's Chess Championship 2025, and IM Eline Roebers (NED, 2367) emerged as the sole leader in the event as the only player with maximum score of 4/4 points. IM Eline Roebers (NED, 2367) convincingly defeated the top seeded GM Nino Batsiashvili (GEO, 2473) in today's fourth round. Roebers was well prepared for the Fried Liver Attack, and gained a clear advantage with the pawn up out of the opening. Nino Batsiashvili []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -226,14 +202,6 @@ news_feed (
          "title" : "New Bot Challenge: Welcome to the Jungle"
       },
       {
-         "description" : "The ChessBase Opening Encyclopedia 2025 has recently been released with many new features and improvements. In an interview ChessBase editor and lecturer Thomas Stark explains how this comprehensive and versatile product is created, what it can do and how to get the most out of it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/exploring-the-opening-encyclopedia",
-         "pubDate" : "Thu, 03 Apr 2025 08:00:00",
-         "title" : "Exploring the Opening Encyclopedia"
-      },
-      {
          "description" : "Challenger GM Tan Zhongyi played the Sicilian Defense and made a comfortable 39-move draw against World Champion Ju Wenjun as the&#38;nbsp;2025 FIDE Women&#39;s World Championship began in Shanghai. &#34;From the first game I think Tan is going to be a very t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-the-chess-coaches-for-magnus-vs-the-world",
          "pubDate" : "Thu, 03 Apr 2025 07:00:00",
          "title" : "Announcing Your Coaches For Magnus Carlsen Vs. The World"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Championship officially commenced with a press conference and opening ceremony in Shanghai. Held at the JW Marriott Hotel, the event featured remarks from FIDE officials, local sports representatives and chess dignitaries, highlighting China's rich chess legacy. Ju Wenjun and Tan Zhongyi engaged with journalists before participating in the traditional drawing of lots, which determined Ju would play white in the first game. The championship match begins on 3 April. | Photos: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-opening-ceremony",
-         "pubDate" : "Thu, 03 Apr 2025 02:00:00",
-         "title" : "A grand occasion: Women's World Championship opening ceremony"
       },
       {
          "description" : "Several players came up just short of a norm at NYC Chess Norms' 2025 Spring Invitational, but there was still plenty of inventive, enterprising chess and one career milestone earned last weekend. FM Tanitoluwa \"Tani\" Adewumi - the 14-year-old star who learned how the pieces move just five years ago - completed the final hurdle to qualify for the IM title by crossing the 2400 FIDE rating threshold for the first time. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tani against Raja Harshit (All photos courtesy of NYC Chess Norms)<br> <br> <br> <br> Competing in the GM A section, Adewumi rose to 2408 in the live FIDE ratings with his 5th round win over ",
@@ -280,14 +240,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
-      },
-      {
-         "description" : "For the second consecutive year, the University of Texas at Dallas will host the prestigious President's Cup, the most exclusive event in collegiate chess. Scheduled for 5-6 April 2025, the tournament will feature the top four teams from the Pan-American Intercollegiate Chess Championship, competing in a round-robin format. With a record number of grandmasters in the qualifying event, the level of competition is set to be exceptionally high. Matches will take place at UT Dallas' McDermott Library Suite.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/presidents-cup-2025-preview",
-         "pubDate" : "Wed, 02 Apr 2025 17:00:00",
-         "title" : "2025 President's Cup: World's strongest collegiate championship returns to Dallas"
       },
       {
          "description" : " The FIDE Women's World Chess Championship takes starts in Shanghai and finishes in Chongqing, China 3rd to 20th April 2025. Defending champion Ju Wenjun is challenged by Tan Zhongyi.",
@@ -338,22 +290,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2025 - Round 2 recap"
       },
       {
-         "description" : "The Indian grandmaster RB Ramesh is considered one of the best and most successful coaches in the world and has played a major role in the successes of Indian talents. In his 4-hour ChessBase video course \"Improve your Pieces\", he reveals his chess and training philosophy. With many instructive examples, exercises and positions to play out. This week only €29.90 instead of €39.90! Get it now!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/offer-of-the-week-top-trainer-rb-ramesh-reveals-his-secrets",
-         "pubDate" : "Tue, 01 Apr 2025 12:08:20",
-         "title" : "Offer of the week: Top trainer RB Ramesh reveals his secrets"
-      },
-      {
-         "description" : "For decades we rigorously celebrated April Fool's day. But our pranks became progressively more difficult over the years. If we were able to construct a fake story, one that was genuinely funny, our friends at Google made it possible to check it in seconds. So we abandoned the tradition. Today, however, we present you with hoaxes and counterfeits in the history of chess. We had expert assistance in doing so.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pranks-hoaxes-and-fakes-in-chess",
-         "pubDate" : "Tue, 01 Apr 2025 08:09:53",
-         "title" : "Pranks, hoaxes and fakes in chess"
-      },
-      {
          "description" : "The 25th edition of the European Women's Chess Championship commenced today in Rhodes, Greece. The opening ceremony of the event took place shortly before the start of the first round with the attendance by the ECU Secretary General Mr. Theodoros Tsorbatzoglou and ECU Treasurer Mr. Ion Dobronauteanu. The Chief Arbiter Mr. Marco Biagioli announced the start of the round, and the ECU Secretary General made the first ceremonial move in the top-board game between GM Nino Batsiashvili (GEO, 2473) and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -394,6 +330,14 @@ news_feed (
          "title" : "25th European Women's Championship 2025 - Games and Results"
       },
       {
+         "description" : "National Team S.NO Name 1 Vignesh N R 2 Das Sayantan 3 Visakh N R 4 Mitrabha Guha 5 Shyaam Nikhil P 6 Sankalp Gupta",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-open-and-women-certificates-2024-25-in-ahmedabad-from-05-11-march-2025/",
+         "pubDate" : "Mon, 31 Mar 2025 16:41:35",
+         "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
+      },
+      {
          "description" : "Thanks for enjoying our April Fool&#39;s launch with Life Review! Yes, Life Review is an actual feature and will be staying around! If you haven&#39;t already done so, check it out in the app. Share your feedback and best Life Reviews with us, and have fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -410,7 +354,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#x65;&#103;&#117;ard&#x69;&#x6e;&#x67;&#x2e;&#111;&#102;fic&#x65;&#x72;&#x40;&#x65;&#110;&#103;&#108;is&#x68;&#x63;&#x68;&#x65;&#115;&#115;&#46;or&#x67;&#x2e;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;a&#102;e&#103;u&#x61;r&#x64;i&#x6e;g&#x2e;o&#x66;f&#x69;c&#x65;r&#x40;e&#x6e;g&#x6c;&#105;&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
