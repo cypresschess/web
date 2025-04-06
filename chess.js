@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
+         "pubDate" : "Sun, 06 Apr 2025 08:50:00",
+         "title" : "Women's World Chess Championship - Game 3 live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120033026.cms\" />D Gukesh, the world chess champion, struggled in the 2025 Freestyle Chess Grand Slam Tour's opening leg but remains optimistic for the Paris leg. Despite a challenging format, Gukesh aims to improve. The Paris event, featuring strong competitors like Hikaru Nakamura, promises a thrilling contest and a chance for Gukesh to redeem himself.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-accepted-he-didnt-do-well-world-champion-returns-for-paris-leg-of-freestyle-chess-grand-slam-tour/articleshow/120033026.cms",
+         "pubDate" : "Sun, 06 Apr 2025 06:59:58",
+         "title" : "'Gukesh accepted he didn't do well': World champion returns for Paris leg of Freestyle Chess Grand Slam Tour"
+      },
+      {
          "description" : "Six rounds have been played at the European Women's Chess Championship 2025, and 16-year-old WFM Anastasia Kirtadze stunned again, taking the sole lead in the tournament with impressive score of 5.5/6 points. The 77th seed in the tournament, WFM Anastasia Kirtadze (GEO, 2180) today scored against IM Aleksandra Maltsevskaya (POL, 2376). Having black pieces, Kirtadze quickly equalized and gained a pawn up, although, Maltsevskaya had a compensation and the position was in range of equality. Both players were in a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -378,7 +394,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at saf&#101;&#103;&#117;&#97;&#x72;&#x64;&#x69;&#x6e;&#x67;&#x2e;&#x6f;ffi&#99;&#101;&#114;&#64;&#101;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;ches&#115;&#46;&#111;&#114;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;&#x66;&#101;g&#x75;&#97;r&#x64;&#105;&#x6e;&#x67;&#46;&#x6f;&#102;f&#x69;&#99;&#x65;&#x72;&#64;&#x65;&#110;g&#x6c;&#105;s&#x68;&#99;&#x68;&#101;s&#x73;&#46;o&#x72;&#103;&#x2e;&#x75;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
