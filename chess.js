@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "description" : "In game 3 of the Women's World Chess Championship, Ju Wenjun levelled the score by defeating Tan Zhongyi with the white pieces. After choosing a positional sideline against the Sicilian Defence, Ju gradually built a small advantage that she carried into a rook and opposite-coloured bishop endgame. Although the position remained objectively balanced for some time, a mistake on move 60 allowed Ju to convert her extra pawn. The game lasted 87 moves and over five and a half hours. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Sun, 06 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 3 live!"
+         "link" : "https://en.chessbase.com/post/women-wc-2025-3",
+         "pubDate" : "Sun, 06 Apr 2025 17:20:00",
+         "title" : "Women's WCC Game 3: Ju grinds out win, evens the score"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120033026.cms\" />D Gukesh, the world chess champion, struggled in the 2025 Freestyle Chess Grand Slam Tour's opening leg but remains optimistic for the Paris leg. Despite a challenging format, Gukesh aims to improve. The Paris event, featuring strong competitors like Hikaru Nakamura, promises a thrilling contest and a chance for Gukesh to redeem himself.",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-accepted-he-didnt-do-well-world-champion-returns-for-paris-leg-of-freestyle-chess-grand-slam-tour/articleshow/120033026.cms",
          "pubDate" : "Sun, 06 Apr 2025 06:59:58",
          "title" : "'Gukesh accepted he didn't do well': World champion returns for Paris leg of Freestyle Chess Grand Slam Tour"
+      },
+      {
+         "description" : "GM Ju Wenjun ground out a win in a pawn-up endgame to defeat GM Tan Zhongyi and level the scores at 1.5-1.5 after three games of the&#38;nbsp;2025 FIDE Women&#39;s World Championship. Tan played fast in a Sicilian to pressure her opponent, but in the run-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-3",
+         "pubDate" : "Sun, 06 Apr 2025 05:31:36",
+         "title" : "Ju Wenjun Strikes Back To Win Game 3"
       },
       {
          "description" : "Less than 48 hours before the Paris Freestyle Chess Grand Slam kicks off in the French capital, GM Hans Niemann has withdrawn from the tournament for &#34;personal reasons.&#34; The U.S. grandmaster is the second player to be replaced, after GM Alireza Fi...",
@@ -402,7 +410,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;e&#x67;&#x75;&#97;rd&#x69;&#x6e;&#103;&#46;&#x6f;&#x66;&#102;&#105;c&#x65;&#x72;&#64;e&#x6e;&#x67;&#108;&#105;s&#x68;&#x63;&#104;e&#x73;&#x73;&#46;&#111;r&#x67;&#x2e;&#117;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#x65;&#103;&#117;ard&#x69;&#x6e;&#x67;&#x2e;&#111;&#102;fic&#x65;&#x72;&#x40;&#x65;&#110;&#103;&#108;is&#x68;&#x63;&#x68;&#x65;&#115;&#115;&#46;or&#x67;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "PogChamps Is Back With Star-Studded Field Of Creators And Professional Athletes"
       },
       {
-         "description" : "GM Javokhir Sindarov won the early Titled Tuesday on March 25 on tiebreaks ahead of World Champion GM Gukesh Dommaraju and GM Hikaru Nakamura, although Nakamura scored his 9.5 points in just 10 games after missing round three, which also hurt his ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sindarov-lazavik-win-titled-tuesday-march-25-2025",
-         "pubDate" : "Wed, 26 Mar 2025 09:04:59",
-         "title" : "Nakamura Nearly Wins Tuesday Despite Missing Round; Sindarov, Lazavik Take It Instead"
-      },
-      {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess welcomes Brian Harting as its new Administrative Assistant based out of the St. Louis office.With an extensive background in higher education and medical office coordination, event management, and service/support in the customer, management, and business sectors, Brian has decided to pivot his career by providing his outstanding skillset and diverse experience to the chess community.An animal lover at his core, Brian has two cats and a chinchilla, and enjoys activities including karaoke, hiking and being creative through various art projects. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -736,14 +736,6 @@ news_feed (
          "link" : "https://aicf.in/batch-schedule-for-arbiter-refresher-course-for-sna-2025/",
          "pubDate" : "Mon, 17 Mar 2025 07:19:07",
          "title" : "Batch Schedule for Arbiter refresher course for SNA 2025"
-      },
-      {
-         "description" : " William Alexander Scott III William Scott III was featured in the latest issue of Chess Life in a wonderful six-page tribute written by Mark Taylor. It is the most comprehensive account of his life. Previously, we had his obituary written by a relative. Here was an excerpt from that lengthy account. \"W.A.\" was studying Business The post <a href=\"https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/\">William Scott honored in March 2025 Chess Life!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/16/william-scott-honored-in-march-2025-chess-life/",
-         "pubDate" : "Sun, 16 Mar 2025 15:23:32",
-         "title" : "William Scott honored in March 2025 Chess Life!"
       }
    ]
 }
