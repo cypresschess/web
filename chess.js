@@ -18,6 +18,14 @@ news_feed (
          "title" : "In focus: Divya Deshmukh (II)"
       },
       {
+         "description" : "16-year-old Turkish GM Ediz Gurel added a third Bullet Brawl&#38;nbsp;title to his trophy cabinet on Saturday after a tense battle with his compatriot, 13-year-old GM Yagiz Erdogmus, and the nine-time Bullet Brawl winner, GM Andrew Tang. Two hours o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gurel-ediz-wins-bullet-brawl-april-5-2025",
+         "pubDate" : "Sat, 05 Apr 2025 18:23:00",
+         "title" : "Gurel Triumphs Over Erdogmus In Showdown Between Turkish Prodigies"
+      },
+      {
          "description" : "Of the major board games, Draughts relies primarily on material superiority to achieve victory. Meanwhile Go (known in China as Wei Chi) depends on control of territory. Only chess, where triumph is ultimately and solely confirmed by checkmate, transcends all elements of material, time or space. Although such factors may well contribute to an advantage, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -370,7 +378,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#x75;a&#x72;&#100;&#x69;&#x6e;g&#x2e;&#111;&#x66;&#x66;i&#x63;&#101;&#x72;&#x40;e&#x6e;&#103;&#x6c;&#x69;s&#x68;&#99;&#x68;&#x65;s&#x73;&#46;&#x6f;&#x72;g&#x2e;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at saf&#101;&#103;&#117;&#97;&#x72;&#x64;&#x69;&#x6e;&#x67;&#x2e;&#x6f;ffi&#99;&#101;&#114;&#64;&#101;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;ches&#115;&#46;&#111;&#114;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-american-cup-blitz-2025",
          "pubDate" : "Mon, 24 Mar 2025 16:10:00",
          "title" : "Nakamura Wins Another $5,000 In American Cup Blitz"
-      },
-      {
-         "description" : "GM Anna Muzychuk has won the 2025 Nicosia FIDE Women&#39;s Grand Prix on tiebreaks ahead of GM Zhu Jiner, though both players take 117.5 Grand Prix points and &#38;euro;15,500 (~$16,750) each. The last round ended in five draws, but only after IM Olga Bad...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anna-muzychuk-wins-2025-fide-womens-grand-prix-nicosia",
-         "pubDate" : "Mon, 24 Mar 2025 14:32:00",
-         "title" : "Anna Muzychuk Wins Cyprus Grand Prix On Tiebreaks"
       },
       {
          "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
