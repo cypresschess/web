@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shortly before the Paris Freestyle Chess Grand Slam is set to begin, US grandmaster Hans Niemann has withdrawn from the tournament citing personal reasons. He is the second player to exit the event this week, following Alireza Firouzja's earlier withdrawal. Niemann will be replaced by Nodirbek Abdusattorov. The tournament, featuring twelve players for the first time, runs from 7 to 14 April at the Pavillon Chesnaie du Roy in Paris. | Photo: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-niemann-withdrawal",
+         "pubDate" : "Sun, 06 Apr 2025 22:30:00",
+         "title" : "Niemann withdraws from Paris Freestyle Chess tournament"
+      },
+      {
          "description" : "In game 3 of the Women's World Chess Championship, Ju Wenjun levelled the score by defeating Tan Zhongyi with the white pieces. After choosing a positional sideline against the Sicilian Defence, Ju gradually built a small advantage that she carried into a rook and opposite-coloured bishop endgame. Although the position remained objectively balanced for some time, a mistake on move 60 allowed Ju to convert her extra pawn. The game lasted 87 moves and over five and a half hours. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,7 +362,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;a&#102;e&#103;u&#x61;r&#x64;i&#x6e;g&#x2e;o&#x66;f&#x69;c&#x65;r&#x40;e&#x6e;g&#x6c;&#105;&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#102;&#x65;&#103;&#x75;&#97;&#x72;&#100;&#x69;&#110;&#x67;&#46;&#x6f;f&#x66;i&#x63;e&#x72;&#64;&#x65;n&#103;&#x6c;&#105;&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
