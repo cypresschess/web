@@ -18,6 +18,14 @@ news_feed (
          "title" : "'Gukesh accepted he didn't do well': World champion returns for Paris leg of Freestyle Chess Grand Slam Tour"
       },
       {
+         "description" : "Less than 48 hours before the Paris Freestyle Chess Grand Slam kicks off in the French capital, GM Hans Niemann has withdrawn from the tournament for &#34;personal reasons.&#34; The U.S. grandmaster is the second player to be replaced, after GM Alireza Fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-makes-last-minute-withdrawal-from-freestyle-chess",
+         "pubDate" : "Sun, 06 Apr 2025 00:54:00",
+         "title" : "Niemann Withdraws Last Minute From Freestyle Chess In Paris"
+      },
+      {
          "description" : "Six rounds have been played at the European Women's Chess Championship 2025, and 16-year-old WFM Anastasia Kirtadze stunned again, taking the sole lead in the tournament with impressive score of 5.5/6 points. The 77th seed in the tournament, WFM Anastasia Kirtadze (GEO, 2180) today scored against IM Aleksandra Maltsevskaya (POL, 2376). Having black pieces, Kirtadze quickly equalized and gained a pawn up, although, Maltsevskaya had a compensation and the position was in range of equality. Both players were in a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -206,7 +214,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/earth-day-chess-bots",
-         "pubDate" : "Thu, 03 Apr 2025 09:00:13",
+         "pubDate" : "Thu, 03 Apr 2025 09:00:00",
          "title" : "New Bot Challenge: Welcome to the Jungle"
       },
       {
@@ -394,7 +402,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;&#x66;&#101;g&#x75;&#97;r&#x64;&#105;&#x6e;&#x67;&#46;&#x6f;&#102;f&#x69;&#99;&#x65;&#x72;&#64;&#x65;&#110;g&#x6c;&#105;s&#x68;&#99;&#x68;&#101;s&#x73;&#46;o&#x72;&#103;&#x2e;&#x75;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;e&#x67;&#x75;&#97;rd&#x69;&#x6e;&#103;&#46;&#x6f;&#x66;&#102;&#105;c&#x65;&#x72;&#64;e&#x6e;&#x67;&#108;&#105;s&#x68;&#x63;&#104;e&#x73;&#x73;&#46;&#111;r&#x67;&#x2e;&#117;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/nicosia-fide-womens-grand-prix-2025",
          "pubDate" : "Mon, 24 Mar 2025 19:12:00",
          "title" : "Nicosia FIDE Women's Grand Prix 2025 - Games and Results"
-      },
-      {
-         "description" : "Following his win at the 2025 American Cup, GM Hikaru Nakamura picked up another $5,000 the next day with his first-place finish in the 2025 American Cup Blitz. After two weeks of battling with the U.S.&#39;s best players, he leaves St. Louis with a t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-american-cup-blitz-2025",
-         "pubDate" : "Mon, 24 Mar 2025 16:10:00",
-         "title" : "Nakamura Wins Another $5,000 In American Cup Blitz"
       },
       {
          "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
