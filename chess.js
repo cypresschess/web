@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Seven rounds have been already played at the European Women's Chess Championship 2025 in Rhodes, Greece, and WFM Anastasia Kirtadze (GEO, 2180) and IM Teodora Injac tie for the top scoring 6/7 points each. Today's round was opened by ECU President Mr. Zurab Azmaiparashvili who addressed the players, while the delegate of the Israel Chess Federation Mr. Moshe Slav played the first ceremonial move on the top-board game between WFM Anastasia Kirtadze and IM Sophie Milliet to inaugurate the start []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/anastasia-kirtadze-and-teodora-injac-in-joint-lead-of-european-womens-chess-championship-2025/",
+         "pubDate" : "Mon, 07 Apr 2025 20:15:28",
+         "title" : "Anastasia Kirtadze and Teodora Injac in joint lead of European Women's Chess Championship"
+      },
+      {
+         "description" : "The 2025 Paris Freestyle Chess Grand Slam started with a bang on Monday. The first day featured six rounds of rapid chess and only six of the 36 games ended in draws! World number-one Magnus Carlsen and late addition GM Nodirbek Abdusattorov emerg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-1",
+         "pubDate" : "Mon, 07 Apr 2025 14:30:00",
+         "title" : "Carlsen, Abdusattorov Lead Paris Freestyle Chess Grand Slam"
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -402,7 +418,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safeguar&#100;&#105;&#110;&#103;&#46;&#111;&#102;&#102;&#105;&#99;&#x65;&#x72;&#x40;&#x65;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;&#x65;&#x73;&#x73;&#46;org&#46;uk if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at sa&#102;&#101;&#103;&#117;&#x61;&#x72;&#x64;&#x69;&#x6e;g&#46;&#111;&#102;&#102;&#105;&#x63;&#x65;&#x72;&#x40;&#x65;ng&#108;&#105;&#115;&#104;&#x63;&#x68;&#x65;&#x73;&#x73;&#46;or&#103;&#46;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://www.thearticle.com/clear-blue-water-varsity-chess-match-2025/",
          "pubDate" : "Sat, 29 Mar 2025 14:59:38",
          "title" : "Clear Blue water: Varsity Chess Match 2025"
-      },
-      {
-         "description" : "The 25th European Women's Chess Championship starts this Monday in Rhodes, Greece, and will be played from 31 March to 11 April 2025 in *****Rodos Palace Conference Hotel. The Championship gathers nearly 140 players coming from 34 European federations, including 7 Grandmasters, 22 Woman Grandmasters, 25 International Masters and 20 Woman International masters. The top seeded players are: GM Nino Batsiashvili (GEO, 2473), IM Teodora Injac (SRB, 2454), IM Meri Arabidze (GEO, 2447), IM Stavroula Tsolakidou (GRE, 2445), IM Dinara []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-starts-in-rhodes-greece/",
-         "pubDate" : "Sat, 29 Mar 2025 09:23:05",
-         "title" : "European Women's Chess Championship 2025 starts in Rhodes, Greece"
       },
       {
          "description" : "Liam Hereford won the 2025 Chess.com Atomic Chess Championship after winning both the Winners Final and Grand Final Reset. Eduardo Lorenzon lost to Hereford early in the Winners Semifinals but climbed through three matches in the Losers Bracket to...",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/",
          "pubDate" : "Wed, 26 Mar 2025 19:40:54",
          "title" : "The 2025 American Cup: Showcasing America's Top Chess Talents"
-      },
-      {
-         "description" : "GM Matthias Bluebaum is the first player to win the European Chess Championship two times. He previously won gold in 2022 and is also the only German to top the event in its 25-year history. He finished in a three-way tie on 8.5/11 with GMs Freder...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bluebaum-wins-2025-european-chess-championship",
-         "pubDate" : "Wed, 26 Mar 2025 19:03:00",
-         "title" : "Bluebaum 1st Player To Win European Championship Twice"
       },
       {
          "description" : " Grandmaster Hans Niemann at the 2022 Sinquefield Cup.Lennart Ootes/Grand Chess Tour Hans Niemann has been in the chess spotlight for the past three years. The infamous case involving Magnus Carlsen at the 2022 Sinquefield Cup set the world on fire. While the point of this article is not to litigate the issue or even discuss The post <a href=\"https://thechessdrum.net/blog/2025/03/26/is-hans-niemann-right/\">Is Hans Niemann right??</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
