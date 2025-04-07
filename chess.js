@@ -58,20 +58,20 @@ news_feed (
          "title" : "European Women's Ch: 70th seed Anastasia Kirtadze, aged 16, leads"
       },
       {
-         "description" : "Shortly before the Paris Freestyle Chess Grand Slam is set to begin, US grandmaster Hans Niemann has withdrawn from the tournament citing personal reasons. He is the second player to exit the event this week, following Alireza Firouzja's earlier withdrawal. Niemann will be replaced by Nodirbek Abdusattorov. The tournament, featuring twelve players for the first time, runs from 7 to 14 April at the Pavillon Chesnaie du Roy in Paris. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-niemann-withdrawal",
-         "pubDate" : "Sun, 06 Apr 2025 22:30:00",
-         "title" : "Niemann withdraws from Paris Freestyle Chess tournament"
+         "description" : "GM Ju Wenjun survived heavy pressure on the board and on the clock to make a five-hour, 80-move draw against GM Tan Zhongyi that leaves the scores level at 2-2 after game four of the 2025 FIDE Women&#39;s World Championship. Both players competed to s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-4",
+         "pubDate" : "Mon, 07 Apr 2025 05:29:00",
+         "title" : "Ju Wenjun Survives Heavy Pressure As Game 4 Goes To Bare Kings"
       },
       {
-         "description" : "In game 3 of the Women's World Chess Championship, Ju Wenjun levelled the score by defeating Tan Zhongyi with the white pieces. After choosing a positional sideline against the Sicilian Defence, Ju gradually built a small advantage that she carried into a rook and opposite-coloured bishop endgame. Although the position remained objectively balanced for some time, a mistake on move 60 allowed Ju to convert her extra pawn. The game lasted 87 moves and over five and a half hours. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-3",
-         "pubDate" : "Sun, 06 Apr 2025 17:20:00",
-         "title" : "Women's WCC Game 3: Ju grinds out win, evens the score"
+         "description" : "Fridrik Olafsson, Iceland&#38;rsquo;s first grandmaster, two-time Nordic Champion, six-time Icelandic champion, the oldest living candidate for the world chess championship, and former FIDE President, passed away on Friday April 4 aged 90 after enduri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/obituary-fridrik-olafsson-1935-2025",
+         "pubDate" : "Mon, 07 Apr 2025 04:51:00",
+         "title" : "Fridrik Olafsson 1935-2025"
       },
       {
          "description" : " The Freestyle Grand Slam Paris takes place Mon 7th Apr to Mon 14th Apr 2025. Chess960 in Paris. Players: Carlsen, Nakamura, Gukesh, Erigaisi, Caruana, Abdusattorov, Praggnanandhaa, Nepomniachtchi, Rapport, Vachier-Lagrave, Vidit and Keymer play. Niemann withdrew at the last minute and was replaced by Abdusattorov. I can provide game downloads but can't display the games for this variant of chess.",
@@ -114,14 +114,6 @@ news_feed (
          "title" : "16-year-old WFM Anastasia Kirtadze takes sole lead in European Women's Chess Championship 2025"
       },
       {
-         "description" : "Thorsten Cmiel keeps a very close eye on the young talents in chess. During the Prague Chess Festival, he paid particular attention to how Divya Deshmukh played. Divya won the girls' category at the 2024 World Junior Championship. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-focus-divya-deshmuk-ii",
-         "pubDate" : "Sat, 05 Apr 2025 19:50:00",
-         "title" : "In focus: Divya Deshmukh (II)"
-      },
-      {
          "description" : "16-year-old Turkish GM Ediz Gurel added a third Bullet Brawl&#38;nbsp;title to his trophy cabinet on Saturday after a tense battle with his compatriot, 13-year-old GM Yagiz Erdogmus, and the nine-time Bullet Brawl winner, GM Andrew Tang. Two hours o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -136,14 +128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-go-and-global-diplomacy/",
          "pubDate" : "Sat, 05 Apr 2025 12:23:57",
          "title" : "Chess, Go and global diplomacy"
-      },
-      {
-         "description" : "Sunil who? He is one of the most successful chess coaches in the USA, running the National Scholastic Chess Foundation (NSCF) teacher training programs. Sunil Weeramantry has looked after literally thousands of budding chess players - including his stepson, who ascended to the top of the chess world. Know who we are talking about. | Pictures by Frederic Friedel and NSCF",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunil-weeramantry-retires",
-         "pubDate" : "Sat, 05 Apr 2025 08:00:00",
-         "title" : "Sunil Weeramantry retires"
       },
       {
          "description" : "Three Storylines to Watch From ShanghaiGM Tan Zhongyi leads four-time defending champion GM Ju Wenjun 1&frac12;-&frac12; in Shanghai after two rounds of the 2025 FIDE Women's World Chess Championship (WWCC). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tan (L) and Ju shake hands at the opening ceremony (Photo courtesy of Anna Shtourman/FIDE)<br> <br> <br> <br> Tan - who won the 2017 FIDE WWCC before losing her title in a match against Ju a year later - took advantage of Ju's time trouble in an imbalanced rook-and-pawns endgame to win game 2 on Friday. Play resumes on Sunday, April 6, at 3:00 a.m. EDT (which is 3:00 p.m. local time). <br> <br> <br> <",
@@ -418,7 +402,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;&#101;&#x67;&#x75;&#97;&#x72;&#x64;&#105;&#x6e;&#x67;&#46;&#x6f;&#x66;&#102;&#x69;&#x63;&#101;&#x72;&#x40;&#101;&#x6e;&#x67;&#108;&#x69;&#x73;h&#x63;&#x68;e&#x73;&#x73;&#46;&#111;&#x72;g&#46;&#x75;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;f&#x65;&#x67;&#117;&#x61;r&#100;&#x69;&#110;&#x67;&#46;&#111;&#x66;f&#x69;c&#101;&#x72;&#64;&#x65;&#x6e;&#103;&#x6c;i&#115;&#x68;&#99;&#x68;e&#115;&#x73;&#46;&#x6f;r&#103;&#x2e;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -578,14 +562,6 @@ news_feed (
          "title" : "Bluebaum 1st Player To Win European Championship Twice"
       },
       {
-         "description" : "GM Kirill Shevchenko, ranked 75th in the world, has received a three-year worldwide ban from chess, with one year suspended, allowing him to return to competitive play in October 2026. The 22-year-old confessed to hiding a phone in the toilet but ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kirill-shevchenko-admits-cheating-incident-handed-3-year-suspension-by-fide",
-         "pubDate" : "Wed, 26 Mar 2025 14:40:00",
-         "title" : "Kirill Shevchenko Receives 3-Year Ban For Cheating Incident, Admits to Hiding Phone"
-      },
-      {
          "description" : " Grandmaster Hans Niemann at the 2022 Sinquefield Cup.Lennart Ootes/Grand Chess Tour Hans Niemann has been in the chess spotlight for the past three years. The infamous case involving Magnus Carlsen at the 2022 Sinquefield Cup set the world on fire. While the point of this article is not to litigate the issue or even discuss The post <a href=\"https://thechessdrum.net/blog/2025/03/26/is-hans-niemann-right/\">Is Hans Niemann right??</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -600,14 +576,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-series-2025/",
          "pubDate" : "Wed, 26 Mar 2025 11:33:44",
          "title" : "ECF Online Grand Prix Series 2025"
-      },
-      {
-         "description" : "We&#39;re excited to announce that everyone&#39;s favorite chess tournament for amateurs is back! Starting April 29, PogChamps 6 will bring 12 celebrity creators and professional athletes together to participate in the world&#39;s funniest and most unique che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-pogchamps-6-field",
-         "pubDate" : "Wed, 26 Mar 2025 10:00:00",
-         "title" : "PogChamps Is Back With Star-Studded Field Of Creators And Professional Athletes"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess welcomes Brian Harting as its new Administrative Assistant based out of the St. Louis office.With an extensive background in higher education and medical office coordination, event management, and service/support in the customer, management, and business sectors, Brian has decided to pivot his career by providing his outstanding skillset and diverse experience to the chess community.An animal lover at his core, Brian has two cats and a chinchilla, and enjoys activities including karaoke, hiking and being creative through various art projects. ",
