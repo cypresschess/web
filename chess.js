@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Mon, 07 Apr 2025 12:50:00",
+         "title" : "Freestyle Chess Paris - Live!"
+      },
+      {
+         "description" : "World Champion Dommaraju Gukesh (19 years old) and one of the most popular chess moderators, Sagar Shah, will show you how to become a better attacking player. Gukesh presents his own games, from which you will not only learn how to attack, but also how to set up an attack. He explains his games in detail and at the key positions, Sagar Shah asks the right questions from the point of view of an amateur player. This is extremely instructive and very entertaining! World-class chess training that is fun! This week only: instead of €39.90, only €29.90 Get it now!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-week-s-offer-learn-from-the-world-champion",
+         "pubDate" : "Mon, 07 Apr 2025 12:14:54",
+         "title" : "This week's offer: Learn from the World Champion!"
+      },
+      {
+         "description" : " Fridrik Olafsson 26 January 1935 to 6 April 2025 was the first Icelandic GM and Candidate after finishing tied 5th-6th in the 1958 Interzonal. He was an amateur player at the time and went on to finish 7th of 8th in the 1959 Candidates in Bled, Zagreb, and Belgrade. Olafsson continued to be an active player almost his entire life. His 3rd place in the first Piatigorsky Cup in 1963 was probably his best result. He turned professional in 1974. He became FIDE president in 1978 but lost after one term in 1982 when the Soviet Union decided to support his deputy Florencio Campomanes. <a href=\"https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/\">News of Olafsson's passing from the ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/obituaries/fridrik-olafsson-1935-2025",
+         "pubDate" : "Mon, 7 Apr 2025 11:17:00",
+         "title" : "Fridrik Olafsson 1935-2025 - "
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,20 @@ news_feed (
          "title" : "Women's World Chess Championship - Game 4 live!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120055226.cms\" />On April 1, 2025, American grandmaster Hans Niemann announced his entry into the Paris leg of the Freestyle Chess Grand Slam Tour. However, five days later, he withdrew for 'personal reasons,' disappointing chess fans. Norwegian broadcaster TV 2 suggested heightened anti-cheating protocols influenced his decision. Niemann was replaced by Nodirbek Abdusattorov.",
+         "description" : "Fridrik Olafsson, Pioneering Icelandic Chess Grandmaster, passed away. Fridrik Olafsson, the first Icelandic chess grandmaster who paved the way for chess in his native country and served as FIDE President from 1978 to 1982, passed away on April 4, 2025, just months after his 90th birthday. Olafsson made history as Iceland's first grandmaster, earning the title in 1958. His remarkable career spanned several decades, during which he competed against many of the world's greatest players, including Bobby Fischer and Boris []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/",
+         "pubDate" : "Mon, 07 Apr 2025 08:31:18",
+         "title" : "IN MEMORIAM: Fridrik Olafsson (1935-2025)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120055226.cms\" />On April 1, 2025, American grandmaster Hans Niemann posted about his potential arrival in Paris for the second leg of the Freestyle Chess Grand Slam Tour. However, five days later, he withdrew for 'personal reasons,' disappointing chess fans. Norwegian broadcaster TV 2 suggested heightened anti-cheating protocols influenced his decision. Niemann has been replaced by Nodirbek Abdusattorov.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-mystery-of-hans-niemann-and-his-last-minute-withdrawal-from-freestyle-chess-paris-tour/articleshow/120055226.cms",
          "pubDate" : "Mon, 07 Apr 2025 07:02:53",
-         "title" : "Mystery of Hans Niemann and his withdrawal from Freestyle Chess"
+         "title" : "Mystery of Hans Niemann and withdrawal from Freestyle Chess"
       },
       {
          "description" : "After six rounds at the Women's European Chess Championship in Rhodes, 16-year-old Georgian WFM Anastasia Kirtadze has taken the sole lead with 5&frac12; points. Seeded 70th and rated 2180, Kirtadze has defeated several top-ranked opponents. With five rounds remaining, she stands ahead of a strong chasing group that includes Sophie Milliet, Mai Narva, Bella Khotenashvili and Teodora Injac. The tournament runs over eleven rounds and is set to conclude on Friday. | Photo: European Chess Union",
@@ -42,7 +74,7 @@ news_feed (
          "title" : "Women's WCC Game 3: Ju grinds out win, evens the score"
       },
       {
-         "description" : " The Freestyle Grand Slam Paris takes place Mon 7th Apr to Mon 14th Apr 2025. Chess960 in Paris. Players: Carlsen, Nakamura, Gukesh, Erigaisi, Caruana, Abdusattorov, Praggnanandhaa, Nepomniachtchi, Rapport, Vachier-Lagrave, Vidit and Keymer play. Niemann withdrew at the last minute.",
+         "description" : " The Freestyle Grand Slam Paris takes place Mon 7th Apr to Mon 14th Apr 2025. Chess960 in Paris. Players: Carlsen, Nakamura, Gukesh, Erigaisi, Caruana, Abdusattorov, Praggnanandhaa, Nepomniachtchi, Rapport, Vachier-Lagrave, Vidit and Keymer play. Niemann withdrew at the last minute and was replaced by Abdusattorov. I can provide game downloads but can't display the games for this variant of chess.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-paris-2025",
@@ -386,7 +418,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safegu&#97;&#114;&#100;&#105;&#110;&#103;&#46;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#x40;&#x65;&#x6e;&#x67;&#x6c;ishche&#115;&#115;&#46;&#111;&#114;&#103;&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#101;&#103;ua&#x72;&#x64;&#x69;&#110;&#103;&#46;o&#x66;&#x66;&#x69;&#99;&#101;r&#64;&#x65;&#x6e;&#x67;&#108;&#105;sh&#x63;&#x68;&#x65;&#115;&#115;&#46;o&#x72;&#x67;&#x2e;&#117;&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -528,14 +560,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ms-dhoni-doesnt-react-to-anything-d-gukesh-on-how-dhoni-shaped-his-chess-career/articleshow/119581503.cms",
          "pubDate" : "Thu, 27 Mar 2025 07:14:58",
          "title" : "'MS Dhoni doesn't react to ... ': Gukesh on how Dhoni shaped his chess career"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2025 concluded yesterday in Eforie Nord, Romania, after thrilling battles over 11-swiss rounds in a field of nearly 400 players from 40 European federations. The Winner of the event was determined by tiebreaks after a dramatical last round that brought significant changes on the top. GM Matthias Bluebaum (GER, 2643) and GM Daniil Yuffa (ESP, 2654) entered the last round co-leading in the event with the score of 8/10 points, and they were followed by []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/matthias-bluebaum-clinches-his-second-european-chess-champion-title/",
-         "pubDate" : "Thu, 27 Mar 2025 01:15:54",
-         "title" : "Matthias Bluebaum clinches his second European Chess Champion title"
       },
       {
          "description" : " Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors; Champions Showdown Serves as Event Prequel SAINT LOUIS, March 3, 2025&#160;- The 2025 American Cup hosted by the Saint Louis Chess Club, set to take place at World Chess Hall of Fame March 15-24, promises to be a defining event in [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/\">The 2025 American Cup: Showcasing America's Top Chess Talents</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
