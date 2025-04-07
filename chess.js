@@ -418,7 +418,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#101;&#103;ua&#x72;&#x64;&#x69;&#110;&#103;&#46;o&#x66;&#x66;&#x69;&#99;&#101;r&#64;&#x65;&#x6e;&#x67;&#108;&#105;sh&#x63;&#x68;&#x65;&#115;&#115;&#46;o&#x72;&#x67;&#x2e;&#117;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;&#101;&#x67;&#x75;&#97;&#x72;&#x64;&#105;&#x6e;&#x67;&#46;&#x6f;&#x66;&#102;&#x69;&#x63;&#101;&#x72;&#x40;&#101;&#x6e;&#x67;&#108;&#x69;&#x73;h&#x63;&#x68;e&#x73;&#x73;&#46;&#111;&#x72;g&#46;&#x75;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
