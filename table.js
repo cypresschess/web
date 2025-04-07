@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-04-04  - 04-06","41","<a href=http://www.uschess.org/msa/XtblMain.php?202504065162 target='_blank'>$3,000 APRIL  CHAMPIONSHIP</a>",
 "SPRING","2025-04-04","40","<a href=http://www.uschess.org/msa/XtblMain.php?202504043452 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-04-04","14","<a href=http://www.uschess.org/msa/XtblMain.php?202504043432 target='_blank'>APRIL 4TH FRIDAY NIGHT U1600 SWISS</a>",
 "SUGAR LAND","2025-04-04","20","<a href=http://www.uschess.org/msa/XtblMain.php?202504043382 target='_blank'>FBCC PRE-SUGAR LAND CHESSFEST OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2024-08-24","168","<a href=http://www.uschess.org/msa/XtblMain.php?202408249132 target='_blank'>KLEIN BACK TO SCHOOL</a>",
 "HOUSTON","2024-08-24","12","<a href=http://www.uschess.org/msa/XtblMain.php?202408248772 target='_blank'>CHESSPANDA08242024SATURDAY</a>",
 "CYPRESS","2024-08-23","32","<a href=http://www.uschess.org/msa/XtblMain.php?202408238902 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-08-23","10","<a href=http://www.uschess.org/msa/XtblMain.php?202408238492 target='_blank'>FBCC NATIONAL #HASHTAG DAY OPEN</a>",
 ]);
