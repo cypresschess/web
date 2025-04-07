@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
+         "pubDate" : "Mon, 07 Apr 2025 08:50:00",
+         "title" : "Women's World Chess Championship - Game 4 live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120055226.cms\" />On April 1, 2025, American grandmaster Hans Niemann announced his entry into the Paris leg of the Freestyle Chess Grand Slam Tour. However, five days later, he withdrew for 'personal reasons,' disappointing chess fans. Norwegian broadcaster TV 2 suggested heightened anti-cheating protocols influenced his decision. Niemann was replaced by Nodirbek Abdusattorov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-mystery-of-hans-niemann-and-his-last-minute-withdrawal-from-freestyle-chess-paris-tour/articleshow/120055226.cms",
+         "pubDate" : "Mon, 07 Apr 2025 07:02:53",
+         "title" : "Mystery of Hans Niemann and his withdrawal from Freestyle Chess"
+      },
+      {
+         "description" : "After six rounds at the Women's European Chess Championship in Rhodes, 16-year-old Georgian WFM Anastasia Kirtadze has taken the sole lead with 5&frac12; points. Seeded 70th and rated 2180, Kirtadze has defeated several top-ranked opponents. With five rounds remaining, she stands ahead of a strong chasing group that includes Sophie Milliet, Mai Narva, Bella Khotenashvili and Teodora Injac. The tournament runs over eleven rounds and is set to conclude on Friday. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2025-r6",
+         "pubDate" : "Mon, 07 Apr 2025 07:00:00",
+         "title" : "European Women's Ch: 70th seed Anastasia Kirtadze, aged 16, leads"
+      },
+      {
          "description" : "Shortly before the Paris Freestyle Chess Grand Slam is set to begin, US grandmaster Hans Niemann has withdrawn from the tournament citing personal reasons. He is the second player to exit the event this week, following Alireza Firouzja's earlier withdrawal. Niemann will be replaced by Nodirbek Abdusattorov. The tournament, featuring twelve players for the first time, runs from 7 to 14 April at the Pavillon Chesnaie du Roy in Paris. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,14 +298,6 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
-      },
-      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -370,7 +386,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safeguarding&#46;officer&#64;eng&#108;&#105;&#115;&#104;&#99;&#104;&#101;&#115;&#115;&#46;&#111;&#114;&#103;&#46;&#117;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safegu&#97;&#114;&#100;&#105;&#110;&#103;&#46;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#x40;&#x65;&#x6e;&#x67;&#x6c;ishche&#115;&#115;&#46;&#111;&#114;&#103;&#46;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -680,22 +696,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/",
          "pubDate" : "Tue, 18 Mar 2025 22:52:12",
          "title" : "Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna"
-      },
-      {
-         "description" : "Today, \"coffee house\" will most likely refer to ubiquitous American chains that have no particular connection with chess. In London during the 18th and 19th centuries coffee houses were at the epicentre of the chess world, where players met and reputations were formed. In CHESS Magazine Ben Graff explores an era when coffee houses were at the epicentre of the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/slaughter-s-and-simpson-s",
-         "pubDate" : "Mon, 17 Mar 2025 07:30:00",
-         "title" : "Slaughter's and Simpson's"
-      },
-      {
-         "description" : "Due to large number of registrations please find the batch schedule for your reference SNA Batch Schedule Sl NO DATE Batch no. Time 1 20-Mar-25",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/batch-schedule-for-arbiter-refresher-course-for-sna-2025/",
-         "pubDate" : "Mon, 17 Mar 2025 07:19:07",
-         "title" : "Batch Schedule for Arbiter refresher course for SNA 2025"
       }
    ]
 }
