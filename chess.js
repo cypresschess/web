@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Tue, 08 Apr 2025 12:50:00",
+         "title" : "Freestyle Chess Paris - Live!"
+      },
+      {
          "description" : "The 'Prokeš Manoeuvre' is a tactic that enables a rook to draw against two advanced pawns in an endgame. It is a very important endgame scheme that will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Take a look at this position. Would you be able to draw with white? And how would you do it? Let international trainer Efstratios Grivas explain everything.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -431,7 +439,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-april-2025-fide-rating-list",
          "pubDate" : "Mon, 31 Mar 2025 15:01:00",
-         "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
+         "title" : "April 2025 FIDE Ratings: Arjun Overtakes Caruana, Aravindh 11th"
       },
       {
          "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;&#x75;&#x61;r&#100;&#105;&#110;&#x67;&#x2e;&#x6f;ff&#105;&#99;&#x65;&#x72;&#x40;en&#103;&#108;&#x69;&#x73;&#x68;ch&#101;&#115;&#x73;&#x2e;&#x6f;rg&#46;&#117;&#x6b; if you have any...",
