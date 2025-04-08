@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight rounds were played at the European Women's Chess Championship 2025 and IM Teodora Injac made a spectacular comeback after the loss in the first round, taking the sole lead in the tournament! IM Teodora Injac (SRB, 2454) suffered a tough loss in the first round against WFM Anastasia Kirtadze (GEO, 2180) where she had a mate in two motive to win the game, but missed it and entered a lost rooks endgame. She now won seven consecutive games to []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-teodora-injac-takes-sole-lead-in-european-womens-chess-championship-2025/",
+         "pubDate" : "Tue, 08 Apr 2025 18:33:53",
+         "title" : "IM Teodora Injac takes sole lead in European Women's Chess Championship 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120102962.cms\" />The Freestyle Chess Grand Slam preliminary stage wrapped up in Paris. Ian Nepomniachtchi and Magnus Carlsen led with 8.5 points each. Nepomniachtchi secured the top spot via tiebreaks. Maxime Vachier-Lagrave finished third. Arjun Erigaisi and Nodirbek Abdusattorov also advanced. Hikaru Nakamura qualified after a tough endgame. Gukesh Dommaraju was eliminated. Vincent Keymer's victory secured his place.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-out-world-chess-champion-falls-in-paris-freestyle-chess-prelims/articleshow/120102962.cms",
+         "pubDate" : "Tue, 08 Apr 2025 17:33:24",
+         "title" : "Gukesh out! World champion falls in Paris Freestyle Chess prelims"
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
          "pubDate" : "Tue, 08 Apr 2025 12:50:00",
          "title" : "Freestyle Chess Paris - Live!"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi scored 4.5/5 to catch his World Blitz Co-Champion GM Magnus Carlsen and tie for first place in the Round-Robin stage of the 2025 Paris Freestyle Chess Grand Slam.&#38;nbsp; They will be joined in the Quarterfinals by GMs Maxime V...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-2",
+         "pubDate" : "Tue, 08 Apr 2025 12:06:00",
+         "title" : "Nepomniachtchi, Carlsen Tie For 1st, Gukesh Misses Out On Paris Quarterfinals"
       },
       {
          "description" : "Get ready for an epic battle of strategy and intelligence! On April 12, SenseRobot will take on Grandmaster in a thrilling human vs. AI chess match-hosted in collaboration with the European Chess Union (ECU)! Can AI outsmart a Chess Grandmaster? Will human intuition prevail? Witness history in the making! Event Date: Saturday April 12 : 9:30 CESTLive from Rhodes Greece - Streaming worldwide! The event can be followed through the ECU TV. About SenseRobot SenseRobot brings chess to life with []",
@@ -402,14 +426,6 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 11 (Lenderman)"
       },
       {
-         "description" : "The second round of the European Women's Chess Championship 2025 was played today in Rhodes, Greece. The players had a tough day in the office, and the games were marked with plenty of turnovers, with some surprising results. Only 15 players remained with the perfect score of 2/2 points, while 35 players follow them scoring 1.5/2 points each. Only one player from the top 10 seeds is in the leading group, and that is GM Bella Khotenashvili (GEO, 2418) who []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-round-2-recap/",
-         "pubDate" : "Tue, 01 Apr 2025 20:12:54",
-         "title" : "European Women's Chess Championship 2025 - Round 2 recap"
-      },
-      {
          "description" : "This issue is dedicated to the memory of Robert Jacobs. Mr. Jacobs, winner of the first Absolute Chess tournament in 1976, passed away on January 30th, 2025. You can find his obituary here.You can also find his US Chess Absolute Player Bio here.All games and puzzles presented in this issue are from Absolute Chess tournaments spanning from 1976 to 2006 and played by Mr. Jacobs.GamesGame 1Jacobs played White in this game against Ignas Zalys using the B11: Caro-Kann: Two Knights Variation. From the 1976 Absolute Chess tournament, Jacobs forces a resignation from Zalys in 45 moves. Game 2Jacobs played Black in this game against Steven Tennant using the D16: Slav Defence: 5. a4: Lines with 5. ...",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -498,14 +514,6 @@ news_feed (
          "title" : "Final Report :12th National Amateur Chess Championship 2024-25 in Bodh Gaya, Bihar from 25th - 29th March 2025"
       },
       {
-         "description" : "How is it that so many players have not read the rulebook? It is free online. Most tournament players will find that chapter one is the most useful section. Finding a rule in the online version (by the way: it is also downloadable) is as easy as using your device's FIND function. Hint: start the FIND function at the beginning of the online rules. Why? The Table of Contents is near the top of the document, and it is linked to each rule. The odds are that what you are searching for will pop up first (or near it) in the Table of Contents. Keyboarding your search term and ending it with a period also is neat hack. Also, every \"See Also\" reference is linked to its source. Onto the questions:How d",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-i-need-ask",
-         "pubDate" : "Mon, 31 Mar 2025 00:00:00",
-         "title" : "Just the Rules: I Need To Ask This"
-      },
-      {
          "description" : " The FAMU Chess Club held a qualifying tournament to determine who would represent the school at the upcoming HBCU Chess Classic. The Classic will feature teams from Historically Black Colleges and Universities, of which there are 107 nationwide. The FAMU Chess Club was rechartered on January 28th after more than 20 years of dormancy. The The post <a href=\"https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/\">FAMU Chess sets team; readies for HBCU Classic</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lagno-open-letter-about-withdrawal-from-fide-womens-grand-prix",
          "pubDate" : "Fri, 28 Mar 2025 11:13:28",
          "title" : "Lagno Disputes 'Politically Biased' Beauty Award, Withdraws From Women's Grand Prix"
-      },
-      {
-         "description" : "GM Hikaru Nakamura took home his first Freestyle Friday on March 28, scoring nine points and winning on tiebreaks against four other players on the same score: GMs Alexey Sarana, Jose Martinez, Jeffery Xiong, and Christopher Yoo. It was the third ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-march-28-2025",
-         "pubDate" : "Fri, 28 Mar 2025 11:08:51",
-         "title" : "Nakamura Wins Freestyle Friday Despite Chaotic Last Round"
       },
       {
          "description" : "Live Games Link : https://live.aicf.in/national/amateur/index.html",
