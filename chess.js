@@ -10,6 +10,22 @@ news_feed (
          "title" : "Freestyle Chess Paris - Live!"
       },
       {
+         "description" : "Get ready for an epic battle of strategy and intelligence! On April 12, SenseRobot will take on Grandmaster in a thrilling human vs. AI chess match-hosted in collaboration with the European Chess Union (ECU)! Can AI outsmart a Chess Grandmaster? Will human intuition prevail? Witness history in the making! Event Date: Saturday April 12 : 9:30 CESTLive from Rhodes Greece - Streaming worldwide! The event can be followed through the ECU TV. About SenseRobot SenseRobot brings chess to life with []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/human-vs-ai-robot-the-ultimate-chess-showdown/",
+         "pubDate" : "Tue, 08 Apr 2025 11:45:59",
+         "title" : "Human vs. AI Robot: The Ultimate Chess Showdown!"
+      },
+      {
+         "description" : "Are you ready for free-for-all madness over 160 squares? Then mark your calendar and join the upcoming Chess.com 4 Player Chess Championship! This next event of the Chess.com Community Championships takes place from April 14 to April 18 and featur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-4-player-chess-championship-2025",
+         "pubDate" : "Tue, 08 Apr 2025 08:00:00",
+         "title" : "It's Everybody For Themselves! Get Ready For The Madness Of Chess.com's 4 Player Chess Championship"
+      },
+      {
          "description" : "The 'Prokeš Manoeuvre' is a tactic that enables a rook to draw against two advanced pawns in an endgame. It is a very important endgame scheme that will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Take a look at this position. Would you be able to draw with white? And how would you do it? Let international trainer Efstratios Grivas explain everything.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-paris-day-1-carlsen-and-abdusattorov-in-the-lead/articleshow/120083389.cms",
          "pubDate" : "Tue, 08 Apr 2025 04:55:17",
          "title" : "Freestyle Chess Grand Slam: Carlsen and Abdusattorov in the lead"
+      },
+      {
+         "description" : "What to Watch For: Practical Decision-Making in Games 3 and 4After the challenger, GM Tan Zhongyi, took an early lead in the FIDE Women's World Chess Championship match, WGM Sabina Foisor and I looked at three emerging storylines from the match on Saturday's rest day. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Ju Wenjun carefully studies her position in game 4 (Photo courtesy of Anna Shtourman/FIDE)<br> <br> <br> <br> Since then, GM Ju Wenjun bounced back with a win on Sunday, while Tan missed some chances to push harder on Monday, leaving the match tied at 2-2. Play resumes on Wednesday, April 9, after today's rest day. After Thursday's sixth gam",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/womens-world-championship-highlights-games-3-4",
+         "pubDate" : "Tue, 08 Apr 2025 00:00:00",
+         "title" : "Women's World Championship: Highlights From Games 3-4"
+      },
+      {
+         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York. In fact, this is our 12th and final part of the series!Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy Lennart Ootes/FIDE (left, center) and Michal Walusza/FIDE (right)<br> <br> This week, we conclude our series with a dazzling array of mating net",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-12-liang",
+         "pubDate" : "Tue, 08 Apr 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 12 (Liang)"
       },
       {
          "description" : "Seven rounds have been already played at the European Women's Chess Championship 2025 in Rhodes, Greece, and WFM Anastasia Kirtadze (GEO, 2180) and IM Teodora Injac tie for the top scoring 6/7 points each. Today's round was opened by ECU President Mr. Zurab Azmaiparashvili who addressed the players, while the delegate of the Israel Chess Federation Mr. Moshe Slav played the first ceremonial move on the top-board game between WFM Anastasia Kirtadze and IM Sophie Milliet to inaugurate the start []",
@@ -378,14 +410,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2025 - Round 2 recap"
       },
       {
-         "description" : "The 25th edition of the European Women's Chess Championship commenced today in Rhodes, Greece. The opening ceremony of the event took place shortly before the start of the first round with the attendance by the ECU Secretary General Mr. Theodoros Tsorbatzoglou and ECU Treasurer Mr. Ion Dobronauteanu. The Chief Arbiter Mr. Marco Biagioli announced the start of the round, and the ECU Secretary General made the first ceremonial move in the top-board game between GM Nino Batsiashvili (GEO, 2473) and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-commenced-in-rhodes-greece/",
-         "pubDate" : "Tue, 01 Apr 2025 07:53:20",
-         "title" : "European Women's Chess Championship 2025 commenced in Rhodes, Greece"
-      },
-      {
          "description" : "This issue is dedicated to the memory of Robert Jacobs. Mr. Jacobs, winner of the first Absolute Chess tournament in 1976, passed away on January 30th, 2025. You can find his obituary here.You can also find his US Chess Absolute Player Bio here.All games and puzzles presented in this issue are from Absolute Chess tournaments spanning from 1976 to 2006 and played by Mr. Jacobs.GamesGame 1Jacobs played White in this game against Ignas Zalys using the B11: Caro-Kann: Two Knights Variation. From the 1976 Absolute Chess tournament, Jacobs forces a resignation from Zalys in 45 moves. Game 2Jacobs played Black in this game against Steven Tennant using the D16: Slav Defence: 5. a4: Lines with 5. ...",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -562,14 +586,6 @@ news_feed (
          "title" : "12th ChessMates International in York"
       },
       {
-         "description" : "What&#39;s more human than this? A recent study by a group of California researchers has shown than some artificial intelligence (AI) programs cheat at chess without any stakes on the outcome of the game. In the study, several prominent chatbots wer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sign-of-real-intelligence-chat-bots-cheat-at-chess",
-         "pubDate" : "Thu, 27 Mar 2025 11:10:11",
-         "title" : "Sign Of Real Intelligence? Chatbots Cheat At Chess, Too, According To Study"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119581503.cms\" />Reigning world chess champion D Gukesh Dommaraju has named legendary cricketer MS Dhoni as his idol, admiring Dhoni's composure under pressure. Gukesh credits Dhoni's calmness and clear thinking in high-stakes situations for positively influencing his approach to handling pressure in his chess games. Recently, Gukesh spoke about his deep admiration for Dhoni and the significant role the cricketing icon has played in shaping his mindset and approach to pressure situations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-series-2025/",
          "pubDate" : "Wed, 26 Mar 2025 11:33:44",
          "title" : "ECF Online Grand Prix Series 2025"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess welcomes Brian Harting as its new Administrative Assistant based out of the St. Louis office.With an extensive background in higher education and medical office coordination, event management, and service/support in the customer, management, and business sectors, Brian has decided to pivot his career by providing his outstanding skillset and diverse experience to the chess community.An animal lover at his core, Brian has two cats and a chinchilla, and enjoys activities including karaoke, hiking and being creative through various art projects. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/brian-harting-hired-administrative-assistant",
-         "pubDate" : "Wed, 26 Mar 2025 00:00:00",
-         "title" : "Brian Harting Hired as Administrative Assistant"
       },
       {
          "description" : " The Nicosia FIDE Women's Grand Prix took place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz. Anna Muzychuk edged out Jiner Zhu on tie-break after both scored 6/9.",
