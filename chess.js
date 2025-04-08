@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 'Prokeš Manoeuvre' is a tactic that enables a rook to draw against two advanced pawns in an endgame. It is a very important endgame scheme that will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Take a look at this position. Would you be able to draw with white? And how would you do it? Let international trainer Efstratios Grivas explain everything.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-1",
+         "pubDate" : "Tue, 08 Apr 2025 07:40:59",
+         "title" : "Grivas on The Prokeš Manoeuvre (1)"
+      },
+      {
+         "description" : "&#8212; from Chris Baker (previous round reports on the way) Round 3 In the Over 50s England won 3.5-0.5 against the local team from Swidnica with Nigel Davies being held...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-senior-team-chess-championships-2/",
+         "pubDate" : "Tue, 08 Apr 2025 07:02:45",
+         "title" : "European Senior Team Chess Championships"
+      },
+      {
+         "description" : "After six rounds of rapid play on the opening day of the Paris Freestyle Chess Grand Slam, Magnus Carlsen and Nodirbek Abdusattorov lead the standings with 5 points each. Abdusattorov remained undefeated, while Carlsen suffered a single loss to Arjun Erigaisi. Maxime Vachier-Lagrave follows closely with 4&frac12; points. At the lower end, Richard Rapport and Vidit Gujrathi are struggling with just 1 point each. The final five games of the round-robin will be played on Tuesday, deciding the eight knockout qualifiers. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-1",
+         "pubDate" : "Tue, 08 Apr 2025 06:30:00",
+         "title" : "Freestyle Chess Paris: Carlsen and Abdusattorov share the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120083389.cms\" />Magnus Carlsen and Nodirbek Abdusattorov are tied for the lead after six rounds of the Freestyle Chess Grand Slam in Paris, with five points each. Maxime Vachier-Lagrave is closely behind with 4.5 points. Carlsen gained momentum by defeating Gukesh Dommaraju and Hikaru Nakamura, while Fabiano Caruana recovered from three losses but was stopped by Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-paris-day-1-carlsen-and-abdusattorov-in-the-lead/articleshow/120083389.cms",
+         "pubDate" : "Tue, 08 Apr 2025 04:55:17",
+         "title" : "Freestyle Chess Grand Slam: Carlsen and Abdusattorov in the lead"
+      },
+      {
          "description" : "Seven rounds have been already played at the European Women's Chess Championship 2025 in Rhodes, Greece, and WFM Anastasia Kirtadze (GEO, 2180) and IM Teodora Injac tie for the top scoring 6/7 points each. Today's round was opened by ECU President Mr. Zurab Azmaiparashvili who addressed the players, while the delegate of the Israel Chess Federation Mr. Moshe Slav played the first ceremonial move on the top-board game between WFM Anastasia Kirtadze and IM Sophie Milliet to inaugurate the start []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,14 +50,6 @@ news_feed (
          "title" : "Carlsen, Abdusattorov Lead Paris Freestyle Chess Grand Slam"
       },
       {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Mon, 07 Apr 2025 12:50:00",
-         "title" : "Freestyle Chess Paris - Live!"
-      },
-      {
          "description" : "World Champion Dommaraju Gukesh (19 years old) and one of the most popular chess moderators, Sagar Shah, will show you how to become a better attacking player. Gukesh presents his own games, from which you will not only learn how to attack, but also how to set up an attack. He explains his games in detail and at the key positions, Sagar Shah asks the right questions from the point of view of an amateur player. This is extremely instructive and very entertaining! World-class chess training that is fun! This week only: instead of €39.90, only €29.90 Get it now!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/obituaries/fridrik-olafsson-1935-2025",
          "pubDate" : "Mon, 7 Apr 2025 11:17:00",
          "title" : "Fridrik Olafsson 1935-2025 - "
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Mon, 07 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 4 live!"
       },
       {
          "description" : "Fridrik Olafsson, Pioneering Icelandic Chess Grandmaster, passed away. Fridrik Olafsson, the first Icelandic chess grandmaster who paved the way for chess in his native country and served as FIDE President from 1978 to 1982, passed away on April 4, 2025, just months after his 90th birthday. Olafsson made history as Iceland's first grandmaster, earning the title in 1958. His remarkable career spanned several decades, during which he competed against many of the world's greatest players, including Bobby Fischer and Boris []",
@@ -330,14 +346,6 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
-      },
-      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -426,7 +434,7 @@ news_feed (
          "title" : "Arjun Overtakes Caruana, Aravindh Storms To 11th | April 2025 FIDE Rating List"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;eg&#x75;&#x61;&#114;&#100;i&#x6e;&#x67;&#46;&#111;f&#x66;&#x69;&#x63;&#101;r&#64;&#x65;&#x6e;&#103;&#108;i&#x73;&#x68;&#99;&#104;e&#x73;&#x73;&#46;&#111;r&#x67;&#x2e;&#x75;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;&#x75;&#x61;r&#100;&#105;&#110;&#x67;&#x2e;&#x6f;ff&#105;&#99;&#x65;&#x72;&#x40;en&#103;&#108;&#x69;&#x73;&#x68;ch&#101;&#115;&#x73;&#x2e;&#x6f;rg&#46;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
