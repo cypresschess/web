@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
          "pubDate" : "Wed, 19 Mar 2025 09:00:34",
          "title" : "The 10th Menchik Memorial"
-      },
-      {
-         "description" : " Roman Hernandez (center) analyzing with onlookers. Rom&aacute;n Hern&aacute;ndez Onna is the subject of a recent biography covering his life and games. Jose Guillermo Rosa informed The Chess Drum of the book, En Memoria del Gran Maestro Rom&aacute;n Hern&aacute;ndez. Hernandez, who died in 2021, became a Grandmaster in 1978 and played a long list of elite The post <a href=\"https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/\">Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/18/bio-on-cuban-chess-legend-roman-hernandez-onna/",
-         "pubDate" : "Tue, 18 Mar 2025 22:52:12",
-         "title" : "Bio on Cuban chess legend, Rom&aacute;n Hern&aacute;ndez Onna"
       }
    ]
 }
