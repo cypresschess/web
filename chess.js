@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Wed, 09 Apr 2025 12:50:00",
+         "title" : "Freestyle Chess Paris - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi are the winners of the rapid preliminary of the Freestyle Chess Grand Slam in Paris. Thanks to a strong finish Vincent Keymer also made it into the knockout stage. As did Vachier-Lagrave, Erigaisi, Abdusattorov, Nakamura and Caruana. | Photos: Lennart Ootes/ Freestyle Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-grand-slam-paris-carlsen-and-nepomniachtchi-win-rapid-tournament-keymer-reaches-knockout-stage",
+         "pubDate" : "Wed, 09 Apr 2025 11:43:22",
+         "title" : "Freestyle Grand Slam Paris: Carlsen and Nepomniachtchi win rapid tournament, Keymer reaches knockout stage"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120122985.cms\" />Viswanathan Anand's withdrawal from the Freestyle Chess Grand Slam in Germany dealt a major blow to hopes of reconciliation between FIDE and Freestyle Chess. Tensions escalated after a dress code dispute involving Magnus Carlsen, with Anand enforcing FIDE rules. Despite backchannel talks, Freestyle players ultimately chose to crown their own \"Freestyle Chess Champion,\" sidelining FIDE's authority.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-room-full-of-grandmasters-put-an-end-to-fide-vs-freestyle-chess-row/articleshow/120122985.cms",
+         "pubDate" : "Wed, 09 Apr 2025 09:54:19",
+         "title" : "How room full of GMs put an end to FIDE vs Freestyle Chess row"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-out-world-chess-champion-falls-in-paris-freestyle-chess-prelims/articleshow/120102962.cms",
          "pubDate" : "Tue, 08 Apr 2025 17:33:24",
          "title" : "Gukesh out! World champion falls in Paris Freestyle Chess prelims"
-      },
-      {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Tue, 08 Apr 2025 12:50:00",
-         "title" : "Freestyle Chess Paris - Live!"
       },
       {
          "description" : "GM Ian Nepomniachtchi scored 4.5/5 to catch his World Blitz Co-Champion GM Magnus Carlsen and tie for first place in the Round-Robin stage of the 2025 Paris Freestyle Chess Grand Slam.&#38;nbsp; They will be joined in the Quarterfinals by GMs Maxime V...",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-patron-saint-of-chess",
          "pubDate" : "Thu, 20 Mar 2025 13:00:00",
          "title" : "The Patron Saint of Chess"
-      },
-      {
-         "description" : "An IM/WGM women's norm event from 20th to 24th March 2025 at the Mindsports Centre, 21 Dalling Road, London W6 0JD Follow the games live ChessBase https://en.chessbase.com/post/tenth-vera-menchik-memorial Lichess ...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-10th-menchik-memorial/",
-         "pubDate" : "Wed, 19 Mar 2025 09:00:34",
-         "title" : "The 10th Menchik Memorial"
       }
    ]
 }
