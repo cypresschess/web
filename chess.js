@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120135296.cms\" />Paris's Freestyle Chess Grand Slam's knockouts began with Magnus Carlsen's win over Abdusattorov, while other quarterfinals drew. Nepomniachtchi's \"Nepo Gambit\" intrigued, yet drew with Keymer. Nakamura and Caruana also drew, despite gambit attempts. Rapport beat Gukesh, Praggnanandhaa defeated Gujarathi in placement matches. Quarterfinals conclude Thursday, after classical time-control games and tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-only-to-score-win-in-first-game-of-quarters-d-gukesh-loses-again-in-paris/articleshow/120135296.cms",
+         "pubDate" : "Wed, 09 Apr 2025 16:58:06",
+         "title" : "Freestyle Chess: Carlsen only winner in first game of QFs; Gukesh loses"
+      },
+      {
          "description" : "National Amateur Below 1700 Open Rank Name1 Gadge Vedant2 Pathak Anshu Kr3 Bala Ganesan4 Jayesh Mishra5 Vamsi Krishna R6 Aatman Raval7 Prashant Kumar Singh8 Mukesh",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freestyle-grand-slam-paris-carlsen-and-nepomniachtchi-win-rapid-tournament-keymer-reaches-knockout-stage",
          "pubDate" : "Wed, 09 Apr 2025 11:43:22",
          "title" : "Freestyle Grand Slam Paris: Carlsen and Nepomniachtchi win rapid tournament, Keymer reaches knockout stage"
+      },
+      {
+         "description" : "Just days after celebrating his ninth birthday, CM Luca Protopopescu from France has made chess history. The prodigy from Marseille has become the youngest player ever to cross the 2200 FIDE classical rating mark, an achievement made by beating hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/luca-protopopescu-9-becomes-youngest-ever-2200-player",
+         "pubDate" : "Wed, 09 Apr 2025 11:30:00",
+         "title" : "Luca Protopopescu Becomes Youngest Ever to Break 2200 Rating Barrier At 9"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120122985.cms\" />Viswanathan Anand's withdrawal from the Freestyle Chess Grand Slam in Germany dealt a major blow to hopes of reconciliation between FIDE and Freestyle Chess. Tensions escalated after a dress code dispute involving Magnus Carlsen, with Anand enforcing FIDE rules. Despite backchannel talks, Freestyle players ultimately chose to crown their own \"Freestyle Chess Champion,\" sidelining FIDE's authority.",
@@ -186,14 +202,6 @@ news_feed (
          "title" : "Carlsen, Abdusattorov Lead Paris Freestyle Chess Grand Slam"
       },
       {
-         "description" : "World Champion Dommaraju Gukesh (19 years old) and one of the most popular chess moderators, Sagar Shah, will show you how to become a better attacking player. Gukesh presents his own games, from which you will not only learn how to attack, but also how to set up an attack. He explains his games in detail and at the key positions, Sagar Shah asks the right questions from the point of view of an amateur player. This is extremely instructive and very entertaining! World-class chess training that is fun! This week only: instead of €39.90, only €29.90 Get it now!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-week-s-offer-learn-from-the-world-champion",
-         "pubDate" : "Mon, 07 Apr 2025 12:14:54",
-         "title" : "This week's offer: Learn from the World Champion!"
-      },
-      {
          "description" : " Fridrik Olafsson 26 January 1935 to 6 April 2025 was the first Icelandic GM and Candidate after finishing tied 5th-6th in the 1958 Interzonal. He was an amateur player at the time and went on to finish 7th of 8th in the 1959 Candidates in Bled, Zagreb, and Belgrade. Olafsson continued to be an active player almost his entire life. His 3rd place in the first Piatigorsky Cup in 1963 was probably his best result. He turned professional in 1974. He became FIDE president in 1978 but lost after one term in 1982 when the Soviet Union decided to support his deputy Florencio Campomanes. <a href=\"https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/\">News of Olafsson's passing from the ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -216,14 +224,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-mystery-of-hans-niemann-and-his-last-minute-withdrawal-from-freestyle-chess-paris-tour/articleshow/120055226.cms",
          "pubDate" : "Mon, 07 Apr 2025 07:02:53",
          "title" : "Mystery of Hans Niemann and withdrawal from Freestyle Chess"
-      },
-      {
-         "description" : "After six rounds at the Women's European Chess Championship in Rhodes, 16-year-old Georgian WFM Anastasia Kirtadze has taken the sole lead with 5&frac12; points. Seeded 70th and rated 2180, Kirtadze has defeated several top-ranked opponents. With five rounds remaining, she stands ahead of a strong chasing group that includes Sophie Milliet, Mai Narva, Bella Khotenashvili and Teodora Injac. The tournament runs over eleven rounds and is set to conclude on Friday. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2025-r6",
-         "pubDate" : "Mon, 07 Apr 2025 07:00:00",
-         "title" : "European Women's Ch: 70th seed Anastasia Kirtadze, aged 16, leads"
       },
       {
          "description" : "GM Ju Wenjun survived heavy pressure on the board and on the clock to make a five-hour, 80-move draw against GM Tan Zhongyi that leaves the scores level at 2-2 after game four of the 2025 FIDE Women&#39;s World Championship. Both players competed to s...",
@@ -482,14 +482,6 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
-      },
-      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -592,14 +584,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
          "pubDate" : "Sun, 30 Mar 2025 12:52:00",
          "title" : "25th European Individual Championship 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Andrew Tang was denied a record-equaling four-peat in Saturday&#39;s Bullet Brawl&#38;nbsp;by a dominant performance by GM Hikaru Nakamura that saw him capture his 38th title and the $400 first prize. Following a successful The American Cup campaign, N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-29-2025",
-         "pubDate" : "Sat, 29 Mar 2025 17:25:00",
-         "title" : "Hikaru Denies Tang Four-Peat, Outpaces Carlsen"
       },
       {
          "description" : "Cambridge have narrowly won the 2025 Varsity match against Oxford, the world's longest running chess competition, which began in 1873 and now spans three centuries. This result gives Cambridge a clear two-match lead in this venerable series. Here are the precise scores: 2025 Varsity Chess Match Oxford moved into an early lead, but late errors []",
