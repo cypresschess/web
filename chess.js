@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Amateur Below 1700 Open Rank Name1 Gadge Vedant2 Pathak Anshu Kr3 Bala Ganesan4 Jayesh Mishra5 Vamsi Krishna R6 Aatman Raval7 Prashant Kumar Singh8 Mukesh",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-amateur-chess-championship-2024-25-in-bodh-gaya-bihar-from-25-29-march-2025/",
+         "pubDate" : "Wed, 09 Apr 2025 14:47:06",
+         "title" : "Certificate of National Amateur Chess Championship 2024-25 in Bodh Gaya ,Bihar from 25-29 March 2025"
+      },
+      {
+         "description" : "NATIONAL RAPID Sl No Name1 INIYAN PA2 JANANI G3 SHYAM NIKHIL P4 DIPTAYAN GHOSH5 KARTHIK VENKATARAMAN6 ARONYAK GHOSH7 ANKIT RAY8 SOUVIK MITRA9 ASWATH S10 RAJA",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificate-of-national-rapid-blitz-in-jharkhand-from-20-23-march-2025/",
+         "pubDate" : "Wed, 09 Apr 2025 14:45:52",
+         "title" : "Certificate of National Rapid & Blitz in Jharkhand from 20-23 March 2025"
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,38 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-wc-2025-live",
          "pubDate" : "Wed, 09 Apr 2025 08:50:00",
          "title" : "Women's World Chess Championship - Game 5 live!"
+      },
+      {
+         "description" : "Hope you were watching Titled Tuesday on April 8, where GM Magnus Carlsen won the second tournament with a perfect 11/11 score. It was Carlsen&#39;s third perfect Titled Tuesday, moving him into the sole lead in that statistic ahead of GM Hikaru Nakam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-carlsen-win-titled-tuesday-april-8-2025",
+         "pubDate" : "Wed, 09 Apr 2025 07:44:27",
+         "title" : "Carlsen Passes Nakamura In Another Perfect Tuesday"
+      },
+      {
+         "description" : "GM Ju Wenjun has taken a 3-2 lead in the 2025 FIDE Women&#39;s World Championship after GM Tan&#38;nbsp;Zhongyi&#39;s&#38;nbsp;ambitious opening play backfired in game five. Ju dodged her opponent&#39;s preparation and was soon able to pick up a pawn. Tan almost got ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-5",
+         "pubDate" : "Wed, 09 Apr 2025 05:00:00",
+         "title" : "Ju Wenjun Wins Game 5 To Take World Championship Lead"
+      },
+      {
+         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. Follow the above links to the first 11 parts of this series, which concludes today. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy Lennart Ootes/FIDE (left, center) and Michal Walusza/FIDE (right)<br> <br> This week, we conclude our series with highli",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-12-liang",
+         "pubDate" : "Wed, 09 Apr 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 12 (Liang)"
+      },
+      {
+         "description" : "Editor's note: This recap of the KCF All-Girls National Chess Championship was authored by Ella Guo, a junior at The Harker School in California. CLO is grateful for Guo's contribution and her initiative in reaching out and offering to write this article while also competing in the U18 section. If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additoinal photos.The 20th Kasparov Chess Foundation (KCF) All-Girls National Chess Championship began with energy and excitement as more than 500 girls from 33 states gathered to compete in one of the largest girls' chess events in the c",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/more-competition-20th-kcf-all-girls-national-chess-championship-celebrates-bright-future-girls",
+         "pubDate" : "Wed, 09 Apr 2025 00:00:00",
+         "title" : "More Than A Competition: The 20th KCF All-Girls National Chess Championship Celebrates Bright Future of Girls in Chess"
       },
       {
          "description" : "Eight rounds were played at the European Women's Chess Championship 2025 and IM Teodora Injac made a spectacular comeback after the loss in the first round, taking the sole lead in the tournament! IM Teodora Injac (SRB, 2454) suffered a tough loss in the first round against WFM Anastasia Kirtadze (GEO, 2180) where she had a mate in two motive to win the game, but missed it and entered a lost rooks endgame. She now won seven consecutive games to []",
@@ -82,7 +130,7 @@ news_feed (
          "title" : "Grivas on The Prokeš Manoeuvre (1)"
       },
       {
-         "description" : "&#8212; from Chris Baker (previous round reports on the way) Round 3 In the Over 50s England won 3.5-0.5 against the local team from Swidnica with Nigel Davies being held...",
+         "description" : "&#8212; from Chris Baker Held in Swidnica 4th April to 14th April 2025 featuring 50+ and 65+ teams. This is a four player team event whilst having the option of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/european-senior-team-chess-championships-2/",
@@ -434,6 +482,14 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -448,22 +504,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-11-lenderman",
          "pubDate" : "Wed, 02 Apr 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 11 (Lenderman)"
-      },
-      {
-         "description" : "This issue is dedicated to the memory of Robert Jacobs. Mr. Jacobs, winner of the first Absolute Chess tournament in 1976, passed away on January 30th, 2025. You can find his obituary here.You can also find his US Chess Absolute Player Bio here.All games and puzzles presented in this issue are from Absolute Chess tournaments spanning from 1976 to 2006 and played by Mr. Jacobs.GamesGame 1Jacobs played White in this game against Ignas Zalys using the B11: Caro-Kann: Two Knights Variation. From the 1976 Absolute Chess tournament, Jacobs forces a resignation from Zalys in 45 moves. Game 2Jacobs played Black in this game against Steven Tennant using the D16: Slav Defence: 5. a4: Lines with 5. ...",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/check-mail-april-2025-robert-jacobs",
-         "pubDate" : "Tue, 01 Apr 2025 00:00:00",
-         "title" : "Check is in the Mail, April 2025: Robert Jacobs"
-      },
-      {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Maria Emelianova/FIDE<br> <br> <br> <br> This week's puzzles all feature games of GM Alexander Lenderman, a local New Yorker who had a strong FIDE World Blitz Championship, finishing with an 8&frac12;/13 score and six wins a",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-11-lenderman",
-         "pubDate" : "Tue, 01 Apr 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 11 (Lenderman)"
       },
       {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -506,7 +546,7 @@ news_feed (
          "title" : "April 2025 FIDE Ratings: Arjun Overtakes Caruana, Aravindh 11th"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#117;a&#x72;&#100;&#x69;&#110;g&#x2e;&#111;&#x66;&#102;i&#x63;e&#x72;&#64;&#x65;&#x6e;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#115;&#46;&#x6f;r&#x67;&#46;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safe&#103;&#117;&#97;&#114;&#100;&#105;&#110;&#x67;&#x2e;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#64;eng&#108;&#105;&#115;&#104;&#99;&#104;&#101;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -568,22 +608,6 @@ news_feed (
          "link" : "https://www.thearticle.com/clear-blue-water-varsity-chess-match-2025/",
          "pubDate" : "Sat, 29 Mar 2025 14:59:38",
          "title" : "Clear Blue water: Varsity Chess Match 2025"
-      },
-      {
-         "description" : "Liam Hereford won the 2025 Chess.com Atomic Chess Championship after winning both the Winners Final and Grand Final Reset. Eduardo Lorenzon lost to Hereford early in the Winners Semifinals but climbed through three matches in the Losers Bracket to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hereford-wins-2025-atomic-chess-community-championship",
-         "pubDate" : "Fri, 28 Mar 2025 14:34:00",
-         "title" : "Liam Hereford Crowned Atomic Chess Champion After Explosive Performance"
-      },
-      {
-         "description" : "GM Kateryna Lagno has withdrawn from the 2025 FIDE Women&#38;rsquo;s Grand Prix India in Pune, India, which is part of the women&#38;rsquo;s world championship cycle. FIDE published that Lagno, as well as IM Sara Khadem, withdrew from the tournament that&#39;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lagno-open-letter-about-withdrawal-from-fide-womens-grand-prix",
-         "pubDate" : "Fri, 28 Mar 2025 11:13:28",
-         "title" : "Lagno Disputes 'Politically Biased' Beauty Award, Withdraws From Women's Grand Prix"
       },
       {
          "description" : "Live Games Link : https://live.aicf.in/national/amateur/index.html",
