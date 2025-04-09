@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nine rounds have been played at the European Women's Chess Championship 2025 in Rhodes, Greece, and only two rounds left before the announcement of the Winners! Today's round was opened by the ECU President Mr. Zurab Azmaiparasvhili who played the first ceremonial move on the top board game between IM Teodora Injac and IM Lilit Mkrtchian. IM Teodora Injac (SRB, 2454) kept the sole lead in the event after defeating IM Lilit Mkrtchian (ARM, 2388) in today's 9th round. The []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-teodora-injac-keeps-the-sole-lead-im-irina-bulmaga-closely-follows-ewcc2025-r9-recap/",
+         "pubDate" : "Wed, 09 Apr 2025 19:17:39",
+         "title" : "IM Teodora Injac keeps the sole lead, IM Irina Bulmaga closely follows - EWCC2025 R9 recap"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120135296.cms\" />Paris's Freestyle Chess Grand Slam's knockouts began with Magnus Carlsen's win over Abdusattorov, while other quarterfinals drew. Nepomniachtchi's \"Nepo Gambit\" intrigued, yet drew with Keymer. Nakamura and Caruana also drew, despite gambit attempts. Rapport beat Gukesh, Praggnanandhaa defeated Gujarathi in placement matches. Quarterfinals conclude Thursday, after classical time-control games and tiebreaks.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-rapid-blitz-in-jharkhand-from-20-23-march-2025/",
          "pubDate" : "Wed, 09 Apr 2025 14:45:52",
          "title" : "Certificate of National Rapid & Blitz in Jharkhand from 20-23 March 2025"
+      },
+      {
+         "description" : "The 2025 Paris Freestyle Chess Grand Slam entered the knockout stage today in a day dominated by a gambit that its creator didn&#39;t even get a chance to play! During joint analysis before the round GM Ian Nepomniachtchi realized that Black could mee...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-3",
+         "pubDate" : "Wed, 09 Apr 2025 13:30:00",
+         "title" : "The Nepo Gambit Is Born, Only Carlsen Wins"
       },
       {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -442,14 +458,6 @@ news_feed (
          "title" : "Tani Crosses 2400, Qualifies for IM Title at NYC Chess Norms Spring Invitational"
       },
       {
-         "description" : "After three played rounds at the European Women's Chess Championship 2025 only three players remained perfect scoring 3/3 points: 16th seeded IM Narva Mai (EST, 2380), 22nd seeded IM Eline Roebers (NED, 2367), and WFM Anastasia Kirtadze (GEO, 2180) who was the 77th player on the starting list. IM Narva Mai (EST, 2380) today defeated GM Josefine Heinemann (GER, 2297) with black pieces. Narva used the first opporutnity to break through with 18d5 and immediately got the clear edge. However, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/three-players-remain-perfect-after-three-played-rounds-at-ewcc2025/",
-         "pubDate" : "Wed, 02 Apr 2025 20:40:59",
-         "title" : "Three players remain perfect after three played rounds at EWCC2025"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119913866.cms\" />World Chess Champion D Gukesh and Viswanathan Anand were seen dancing to popular Bollywood songs at fellow Grandmaster Vidit Gujrathi's wedding, showcasing a rarely seen fun side of the GMs. Gukesh will participate in the Paris Freestyle Chess Grand Slam, while being closely followed by Arjun Erigaisi in the FIDE chess rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-finals",
          "pubDate" : "Mon, 31 Mar 2025 11:09:00",
          "title" : "SLU Gets Revenge, Wins Spring Season CCL"
-      },
-      {
-         "description" : "On the road to the grandmaster title, IM-elect Tani Adewumi has only one stop left. In round five of the tournament NYC Chess Norms Spring 2025, the 14-year-old crossed 2400 by live rating and thus completed the final requirement for the internati...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tani-adewumi-earns-im-title",
-         "pubDate" : "Mon, 31 Mar 2025 10:24:00",
-         "title" : "Tani Adewumi Secures IM Title At 14, Aims For Grandmaster Next"
       },
       {
          "description" : "The National Amateur Chess Championship 2024-2025 was started on 25th March 2025 at Sambodhi Retreat, Gaya, Bihar, attracting chess enthusiasts and competitors from every corner",
