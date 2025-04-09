@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
+         "pubDate" : "Wed, 09 Apr 2025 08:50:00",
+         "title" : "Women's World Chess Championship - Game 5 live!"
+      },
+      {
          "description" : "Eight rounds were played at the European Women's Chess Championship 2025 and IM Teodora Injac made a spectacular comeback after the loss in the first round, taking the sole lead in the tournament! IM Teodora Injac (SRB, 2454) suffered a tough loss in the first round against WFM Anastasia Kirtadze (GEO, 2180) where she had a mate in two motive to win the game, but missed it and entered a lost rooks endgame. She now won seven consecutive games to []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -482,7 +490,7 @@ news_feed (
          "title" : "April 2025 FIDE Ratings: Arjun Overtakes Caruana, Aravindh 11th"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;&#x75;&#x61;r&#100;&#105;&#110;&#x67;&#x2e;&#x6f;ff&#105;&#99;&#x65;&#x72;&#x40;en&#103;&#108;&#x69;&#x73;&#x68;ch&#101;&#115;&#x73;&#x2e;&#x6f;rg&#46;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;&#x67;&#117;a&#x72;&#100;&#x69;&#110;g&#x2e;&#111;&#x66;&#102;i&#x63;e&#x72;&#64;&#x65;&#x6e;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#115;&#46;&#x6f;r&#x67;&#46;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
