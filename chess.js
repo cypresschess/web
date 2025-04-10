@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Women's World Chess Championship takes starts in Shanghai and finishes in Chongqing, China 3rd to 20th April 2025. Defending champion Ju Wenjun is challenged by Tan Zhongyi.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
+         "pubDate" : "Thu, 10 Apr 2025 16:54:00",
+         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
+      },
+      {
+         "description" : " The Reykjavik Open takes place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2025",
+         "pubDate" : "Thu, 10 Apr 2025 13:56:00",
+         "title" : "Reykjavik Open 2025 - Games and Results"
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-2",
          "pubDate" : "Thu, 10 Apr 2025 08:24:29",
          "title" : "Grivas on the Prokeš Manoeuvre (2)"
+      },
+      {
+         "description" : "Defending Champion GM Ju Wenjun has scored a third win in four games to take a commanding 4-2 lead over GM Tan&#38;nbsp;Zhongyi into the second half of the 2025 FIDE Women&#39;s World Championship. Ju took over just after the opening and had winning chanc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-6",
+         "pubDate" : "Thu, 10 Apr 2025 04:34:00",
+         "title" : "Ju Wenjun Powers Into 2-Point Lead"
       },
       {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2025 in Rhodes, Greece, and only two rounds left before the announcement of the Winners! Today's round was opened by the ECU President Mr. Zurab Azmaiparasvhili who played the first ceremonial move on the top board game between IM Teodora Injac and IM Lilit Mkrtchian. IM Teodora Injac (SRB, 2454) kept the sole lead in the event after defeating IM Lilit Mkrtchian (ARM, 2388) in today's 9th round. The []",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
-         "description" : " The FIDE Women's World Chess Championship takes starts in Shanghai and finishes in Chongqing, China 3rd to 20th April 2025. Defending champion Ju Wenjun is challenged by Tan Zhongyi.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
-         "pubDate" : "Wed, 2 Apr 2025 16:54:00",
-         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
-      },
-      {
          "description" : "GM Liem Le and GM Hikaru Nakamura are your winners of Titled Tuesday on April 1, Nakamura after finishing second in the early event. Tiebreaks were not necessary to determine either winner or even Nakamura&#39;s second-place finish. It was Le&#39;s second...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -504,22 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-preview",
          "pubDate" : "Wed, 02 Apr 2025 07:13:00",
          "title" : "Can Ju Wenjun Win 5th World Championship?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
@@ -578,20 +578,12 @@ news_feed (
          "title" : "April 2025 FIDE Ratings: Arjun Overtakes Caruana, Aravindh 11th"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;&#117;&#x61;&#x72;&#100;i&#x6e;&#103;&#46;&#x6f;&#x66;&#102;i&#x63;&#101;r&#x40;&#x65;&#110;g&#x6c;&#105;s&#x68;&#x63;&#104;e&#x73;&#115;&#46;&#x6f;&#x72;&#103;&#x2e;&#x75;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;g&#x75;&#97;&#x72;&#x64;i&#x6e;&#103;&#46;&#x6f;&#102;&#x66;&#105;c&#x65;&#114;&#64;&#x65;&#110;&#x67;&#108;i&#x73;&#104;&#x63;&#x68;e&#x73;&#115;&#46;&#x6f;&#114;&#x67;&#x2e;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
          "pubDate" : "Mon, 31 Mar 2025 12:26:02",
          "title" : "ECF Safeguarding Policy"
-      },
-      {
-         "description" : "In last season&#39;s Collegiate Chess League (CCL) finals, the University of Missouri (Mizzou) defeated St. Louis University (SLU) in a tight match. There were some adventures along the way, but both teams worked their way back to the Collegiate Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-collegiate-chess-league-spring-finals",
-         "pubDate" : "Mon, 31 Mar 2025 11:09:00",
-         "title" : "SLU Gets Revenge, Wins Spring Season CCL"
       },
       {
          "description" : "The National Amateur Chess Championship 2024-2025 was started on 25th March 2025 at Sambodhi Retreat, Gaya, Bihar, attracting chess enthusiasts and competitors from every corner",
@@ -760,14 +752,6 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2025-26/",
          "pubDate" : "Fri, 21 Mar 2025 07:44:58",
          "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2025-26"
-      },
-      {
-         "description" : "In an historic moment for the global chess community, World Chess officially introduces a Patron Saint of Chess: bringing the game into a centuries-old tradition of sports and cultural patronage. St. Teresa of Avila, a 16th-century Spanish mystic, writer, and intellectual, is an apt choice for chess's first patron saint. One of the most influential figures of the Catholic Church, she was known for her deep strategic thinking, discipline, and ability to navigate complex intellectual and spiritual landscapes-qualities that also define the highest levels of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-patron-saint-of-chess",
-         "pubDate" : "Thu, 20 Mar 2025 13:00:00",
-         "title" : "The Patron Saint of Chess"
       }
    ]
 }
