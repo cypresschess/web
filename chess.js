@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Thu, 10 Apr 2025 12:41:00",
+         "title" : "Freestyle Chess Paris, Quarterfinals, Game 2 - Live!"
+      },
+      {
+         "description" : "The first day of the quarterfinals at the Paris Freestyle Chess Grand Slam saw Magnus Carlsen claim the only win, defeating Nodirbek Abdusattorov with white. The remaining games ended in draws, including a complex encounter between Arjun Erigaisi and Hikaru Nakamura, who tested the experimental \"Nepo Gambit\". Nakamura managed to equalise after a difficult start and eventually got an edge, but the game ended peacefully. Abdusattorov must now win on Thursday to force tiebreaks and keep his hopes of reaching the semifinals alive. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-3",
+         "pubDate" : "Thu, 10 Apr 2025 11:00:00",
+         "title" : "Freestyle Chess Paris: Carlsen beats Abdusattorov"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-3",
          "pubDate" : "Wed, 09 Apr 2025 13:30:00",
          "title" : "The Nepo Gambit Is Born, Only Carlsen Wins"
-      },
-      {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Wed, 09 Apr 2025 12:50:00",
-         "title" : "Freestyle Chess Paris - Live!"
       },
       {
          "description" : "Magnus Carlsen and Ian Nepomniachtchi are the winners of the rapid preliminary of the Freestyle Chess Grand Slam in Paris. Thanks to a strong finish Vincent Keymer also made it into the knockout stage. As did Vachier-Lagrave, Erigaisi, Abdusattorov, Nakamura and Caruana. | Photos: Lennart Ootes/ Freestyle Chess",
@@ -498,6 +506,22 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
+         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
+         "title" : "'Gukesh needs to stay grounded and remain curious'"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -554,7 +578,7 @@ news_feed (
          "title" : "April 2025 FIDE Ratings: Arjun Overtakes Caruana, Aravindh 11th"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safe&#103;&#117;&#97;&#114;&#100;&#105;&#110;&#x67;&#x2e;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#64;eng&#108;&#105;&#115;&#104;&#99;&#104;&#101;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;&#117;&#x61;&#x72;&#100;i&#x6e;&#103;&#46;&#x6f;&#x66;&#102;i&#x63;&#101;r&#x40;&#x65;&#110;g&#x6c;&#105;s&#x68;&#x63;&#104;e&#x73;&#115;&#46;&#x6f;&#x72;&#103;&#x2e;&#x75;&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
