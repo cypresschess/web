@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
+         "pubDate" : "Thu, 10 Apr 2025 08:50:00",
+         "title" : "Women's World Chess Championship - Game 6 live!"
+      },
+      {
+         "description" : "One method that enables a rook to draw against two advanced pawns in an endgame is, as explained in a previous article, is known as the 'Prokeš Manoeuvre'. This scheme will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Today you get eight test positions from international trainer GM Efstratios Grivas. They will tell you if you have thoroughly understood the concept.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-2",
+         "pubDate" : "Thu, 10 Apr 2025 08:24:29",
+         "title" : "Grivas on the Prokeš Manoeuvre (2)"
+      },
+      {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2025 in Rhodes, Greece, and only two rounds left before the announcement of the Winners! Today's round was opened by the ECU President Mr. Zurab Azmaiparasvhili who played the first ceremonial move on the top board game between IM Teodora Injac and IM Lilit Mkrtchian. IM Teodora Injac (SRB, 2454) kept the sole lead in the event after defeating IM Lilit Mkrtchian (ARM, 2388) in today's 9th round. The []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Certificate of National Amateur Chess Championship 2024-25 in Bodh Gaya ,Bihar from 25-29 March 2025"
       },
       {
-         "description" : "NATIONAL RAPID Sl No Name1 INIYAN PA2 JANANI G3 SHYAM NIKHIL P4 DIPTAYAN GHOSH5 KARTHIK VENKATARAMAN6 ARONYAK GHOSH7 ANKIT RAY8 SOUVIK MITRA9 ASWATH S10 RAJA",
+         "description" : "NATIONAL RAPID Sl No Name1 INIYAN PA2 Pranesh M3 SHYAM NIKHIL P4 DIPTAYAN GHOSH5 KARTHIK VENKATARAMAN6 ARONYAK GHOSH7 ANKIT RAY8 SOUVIK MITRA9 ASWATH S10 RAJA",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificate-of-national-rapid-blitz-in-jharkhand-from-20-23-march-2025/",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-room-full-of-grandmasters-put-an-end-to-fide-vs-freestyle-chess-row/articleshow/120122985.cms",
          "pubDate" : "Wed, 09 Apr 2025 09:54:19",
          "title" : "How room full of GMs put an end to FIDE vs Freestyle Chess row"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Wed, 09 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 5 live!"
       },
       {
          "description" : "Hope you were watching Titled Tuesday on April 8, where GM Magnus Carlsen won the second tournament with a perfect 11/11 score. It was Carlsen&#39;s third perfect Titled Tuesday, moving him into the sole lead in that statistic ahead of GM Hikaru Nakam...",
