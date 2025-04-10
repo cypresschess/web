@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Mobile is NOW also available for iOS! - Are you a passionate chess fan? Then we have good news for you: with the new ChessBase Mobile App you can take all your games and databases with you wherever you go, thanks to the cloud. The new and user-friendly app for Android, iOS and tablets is sure to make your chess heart beat faster.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-anytime-anywhere-the-free-app-is-now-also-available-in-the-app-store-ios",
+         "pubDate" : "Thu, 10 Apr 2025 17:59:03",
+         "title" : "ChessBase anytime, anywhere - The free app is now available in the App Store (iOS)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120171773.cms\" />In the Freestyle Chess Grand Slam in Paris, Arjun Erigaisi was defeated by Hikaru Nakamura, who advanced to the semifinals. Magnus Carlsen secured his spot with a draw, while Fabiano Caruana also progressed. Other matches saw draws, leading to tie-breaks, and the battles for lower rankings resulted in draws as well.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-enters-semi-final-in-paris-arjun-erigaisi-fails-in-hikaru-nakamura-challenge/articleshow/120171773.cms",
+         "pubDate" : "Thu, 10 Apr 2025 17:28:48",
+         "title" : "Freestyle Chess: Carlsen enters semi-final in Paris; Erigaisi fails"
+      },
+      {
          "description" : " The FIDE Women's World Chess Championship takes starts in Shanghai and finishes in Chongqing, China 3rd to 20th April 2025. Defending champion Ju Wenjun is challenged by Tan Zhongyi.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,12 +42,28 @@ news_feed (
          "title" : "Freestyle Chess Paris, Quarterfinals, Game 2 - Live!"
       },
       {
+         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Vincent Keymer advanced to the Semifinals of the 2025 Paris Freestyle Chess Grand Slam. The day started with an awkward setup as IM Danny Rensch drew position 73 for the second round of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-4",
+         "pubDate" : "Thu, 10 Apr 2025 11:39:00",
+         "title" : "Carlsen Escapes; Caruana, Nakamura, Keymer Also Reach Semifinals"
+      },
+      {
          "description" : "The first day of the quarterfinals at the Paris Freestyle Chess Grand Slam saw Magnus Carlsen claim the only win, defeating Nodirbek Abdusattorov with white. The remaining games ended in draws, including a complex encounter between Arjun Erigaisi and Hikaru Nakamura, who tested the experimental \"Nepo Gambit\". Nakamura managed to equalise after a difficult start and eventually got an edge, but the game ended peacefully. Abdusattorov must now win on Thursday to force tiebreaks and keep his hopes of reaching the semifinals alive. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/paris-fcgs-2025-3",
          "pubDate" : "Thu, 10 Apr 2025 11:00:00",
          "title" : "Freestyle Chess Paris: Carlsen beats Abdusattorov"
+      },
+      {
+         "description" : "GM Anish Giri has become the 15th grandmaster to sign for an esports organization ahead of the $1.5 million 2025 Esports World Cup, joining Team Secret. The announcement was shared Wednesday on Team Secret&#39;s social media channels and ends a five...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anish-giri-signs-for-team-secret",
+         "pubDate" : "Thu, 10 Apr 2025 10:02:00",
+         "title" : "'Hilarious And Winning Personality' Anish Giri Joins Team Secret For Esports World Cup Push"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "Grivas on the Prokeš Manoeuvre (2)"
       },
       {
-         "description" : "Defending Champion GM Ju Wenjun has scored a third win in four games to take a commanding 4-2 lead over GM Tan&#38;nbsp;Zhongyi into the second half of the 2025 FIDE Women&#39;s World Championship. Ju took over just after the opening and had winning chanc...",
+         "description" : "Defending champion GM Ju Wenjun has scored a third win in four games to take a commanding 4-2 lead over GM Tan&#38;nbsp;Zhongyi into the second half of the 2025 FIDE Women&#39;s World Championship. Ju took over just after the opening and had winning chanc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-6",
@@ -522,6 +554,14 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -560,22 +600,6 @@ news_feed (
          "link" : "https://aicf.in/national-team-open-and-women-certificates-2024-25-in-ahmedabad-from-05-11-march-2025/",
          "pubDate" : "Mon, 31 Mar 2025 16:41:35",
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
-      },
-      {
-         "description" : "Thanks for enjoying our April Fool&#39;s launch with Life Review! Yes, Life Review is an actual feature and will be staying around! If you haven&#39;t already done so, check it out in the app. Share your feedback and best Life Reviews with us, and have fu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-life-review",
-         "pubDate" : "Mon, 31 Mar 2025 15:05:00",
-         "title" : "Chess.com Releases Revolutionary New \"Life Review\" On Android And iOS"
-      },
-      {
-         "description" : "GM Arjun Erigaisi is back to world number-four on the April 2025 FIDE rating list after two wins in the German League saw him leapfrog GM Fabiano Caruana, who lost to GM Hikaru Nakamura in The American Cup. The truly spectacular Indian achievement...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-april-2025-fide-rating-list",
-         "pubDate" : "Mon, 31 Mar 2025 15:01:00",
-         "title" : "April 2025 FIDE Ratings: Arjun Overtakes Caruana, Aravindh 11th"
       },
       {
          "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;g&#x75;&#97;&#x72;&#x64;i&#x6e;&#103;&#46;&#x6f;&#102;&#x66;&#105;c&#x65;&#114;&#64;&#x65;&#110;&#x67;&#108;i&#x73;&#104;&#x63;&#x68;e&#x73;&#115;&#46;&#x6f;&#114;&#x67;&#x2e;u&#x6b; if you have any...",
