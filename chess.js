@@ -42,14 +42,6 @@ news_feed (
          "title" : "Freestyle Chess Paris, Quarterfinals, Game 2 - Live!"
       },
       {
-         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Vincent Keymer advanced to the Semifinals of the 2025 Paris Freestyle Chess Grand Slam. The day started with an awkward setup as IM Danny Rensch drew position 73 for the second round of the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-4",
-         "pubDate" : "Thu, 10 Apr 2025 11:39:00",
-         "title" : "Carlsen Escapes; Caruana, Nakamura, Keymer Also Reach Semifinals"
-      },
-      {
          "description" : "The first day of the quarterfinals at the Paris Freestyle Chess Grand Slam saw Magnus Carlsen claim the only win, defeating Nodirbek Abdusattorov with white. The remaining games ended in draws, including a complex encounter between Arjun Erigaisi and Hikaru Nakamura, who tested the experimental \"Nepo Gambit\". Nakamura managed to equalise after a difficult start and eventually got an edge, but the game ended peacefully. Abdusattorov must now win on Thursday to force tiebreaks and keep his hopes of reaching the semifinals alive. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-2",
          "pubDate" : "Thu, 10 Apr 2025 08:24:29",
          "title" : "Grivas on the Prokeš Manoeuvre (2)"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Vincent Keymer advanced to the Semifinals of the 2025 Paris Freestyle Chess Grand Slam. The day started with an awkward setup as IM Danny Rensch drew position 73 for the second round of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-4",
+         "pubDate" : "Thu, 10 Apr 2025 05:24:00",
+         "title" : "Carlsen Escapes; Caruana, Nakamura, Keymer Also Reach Semifinals"
       },
       {
          "description" : "Defending champion GM Ju Wenjun has scored a third win in four games to take a commanding 4-2 lead over GM Tan&#38;nbsp;Zhongyi into the second half of the 2025 FIDE Women&#39;s World Championship. Ju took over just after the opening and had winning chanc...",
@@ -552,14 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-preview",
          "pubDate" : "Wed, 02 Apr 2025 07:13:00",
          "title" : "Can Ju Wenjun Win 5th World Championship?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
