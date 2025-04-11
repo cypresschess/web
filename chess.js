@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 European Chess Championship in Romania drew nearly 400 players and concluded with Matthias Bluebaum claiming the title for a second time. Across eleven rounds, the tournament offered no shortage of drama and complexity. In this article, two games from the event are examined - both notable for their sharp conclusions and instructive endgame moments. Light annotations in the openings are followed by deeper analysis of the critical late-stage play. | Pictured: Mahammad Muradli from Azerbaijan (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-226",
+         "pubDate" : "Fri, 11 Apr 2025 22:40:00",
+         "title" : "Jon Speelman: Ructions in Romania"
+      },
+      {
          "description" : " by Dr. O.T. Olabanji, PhD Plasma Physics, Highest USCF Rating = 2332 \"Chess is an extremely important game that tweaks the cognitive functionalities, enhances academic skills, aids rapid thought processes, boosts logical and strategic thinking, and helps to gain exceptional memory skills, creativity, focus and discipline\" [1-5]. I strongly recommend it for any child or [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/\">The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Freestyle Chess: Carlsen vs Caruana ends in draw; Pragg holds Rapport"
       },
       {
-         "description" : "Svitlana presents to us an insightful analysis of the first two decisive games in the Women's World Chess Championship match between Ju Wenjun and Tan Zhongyi, focusing particularly on their endgames. Both games, though seemingly equal in rook endgames, were decided by subtle inaccuracies and the strategic importance of king activity and piece placement. Svitlana emphasizes how small endgame advantages-such as a more active king or minor positional tweaks-can determine the outcome even in positions that look like simple draws.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-power-of-endgame-tenacity",
-         "pubDate" : "Fri, 11 Apr 2025 15:00:00",
-         "title" : "Svitlana's Smart Moves - The power of endgame tenacity!"
-      },
-      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-5",
-         "pubDate" : "Fri, 11 Apr 2025 12:16:13",
+         "pubDate" : "Fri, 11 Apr 2025 12:16:00",
          "title" : "Nepo And Nakamura Test Caruana's Theories"
       },
       {
@@ -48,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-rcb-fan-who-became-a-world-champion-the-story-of-pranav-v/articleshow/120204255.cms",
          "pubDate" : "Fri, 11 Apr 2025 11:40:07",
          "title" : "Exclusive: RCB fan who became a world champion"
-      },
-      {
-         "description" : "The quarterfinals of the Paris Freestyle Chess Grand Slam concluded on Thursday, with Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura and Vincent Keymer advancing to the semifinals. While Carlsen, Caruana and Nakamura secured their places through wins in the classical games, Keymer needed tiebreaks to overcome Ian Nepomniachtchi. The German GM is now the only player from the younger generation left in the tournament. The upcoming semifinal matchups are Carlsen v. Caruana and Keymer v. Nakamura. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-4",
-         "pubDate" : "Fri, 11 Apr 2025 11:10:00",
-         "title" : "Freestyle Chess Paris: Carlsen, Keymer, Caruana and Nakamura in semis"
       },
       {
          "description" : "Freestyle Friday on April 11 came down to the final round, where GM Christopher Yoo defeated a pressing GM Magnus Carlsen to reach 10/11 and lock up the event by a full point ahead of GM Sam Sevian, GM Leon Luke Mendonca, and IM Jakub Kosakowski. ...",
@@ -72,14 +64,6 @@ news_feed (
          "link" : "https://www.europechess.org/human-vs-ai-robot-the-ultimate-chess-showdown/",
          "pubDate" : "Fri, 11 Apr 2025 10:45:04",
          "title" : "Human vs. AI Robot: The Ultimate Chess Showdown!"
-      },
-      {
-         "description" : "GM Jonathan Levitt explains why and how he has suddenly taken up writing lyrics for songs, including one on Bobby Fischer and one on Boris Spassky. Have a look, listen and enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/101-uses-for-a-retired-grandmaster",
-         "pubDate" : "Fri, 11 Apr 2025 08:07:12",
-         "title" : "101 Uses For A Retired Grandmaster"
       },
       {
          "description" : "IM Teodora Injac yesterday scored her 9th consecutive win in the European Women's Chess Championship 2025 to clinch the tournament with a round to spare! Playing with blacks against IM Irina Bulmaga (ROU, 2362), IM Teodora Injac (SRB, 2454) equalized but the position was very sharp and dynamical with heterogeneous castles and attacks on both sides of the board. Injac played it well, gained the activity and the edge, gradually improving it for a winning position and decisive material advantage. []",
@@ -112,14 +96,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/womens-world-championship-lessons-jus-wins",
          "pubDate" : "Fri, 11 Apr 2025 00:00:00",
          "title" : "Women's World Championship: Lessons From Ju's Wins"
-      },
-      {
-         "description" : "ChessBase Mobile is NOW also available for iOS! - Are you a passionate chess fan? Then we have good news for you: with the new ChessBase Mobile App you can take all your games and databases with you wherever you go, thanks to the cloud. The new and user-friendly app for Android, iOS and tablets is sure to make your chess heart beat faster.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-anytime-anywhere-the-free-app-is-now-also-available-in-the-app-store-ios",
-         "pubDate" : "Thu, 10 Apr 2025 17:59:03",
-         "title" : "ChessBase anytime, anywhere - The free app is now available in the App Store (iOS)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120171773.cms\" />In the Freestyle Chess Grand Slam in Paris, Arjun Erigaisi was defeated by Hikaru Nakamura, who advanced to the semifinals. Magnus Carlsen secured his spot with a draw, while Fabiano Caruana also progressed. Other matches saw draws, leading to tie-breaks, and the battles for lower rankings resulted in draws as well.",
