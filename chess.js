@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " by Dr. O.T. Olabanji, PhD Plasma Physics, Highest USCF Rating = 2332 \"Chess is an extremely important game that tweaks the cognitive functionalities, enhances academic skills, aids rapid thought processes, boosts logical and strategic thinking, and helps to gain exceptional memory skills, creativity, focus and discipline\" [1-5]. I strongly recommend it for any child or [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/\">The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/",
+         "pubDate" : "Fri, 11 Apr 2025 17:31:15",
+         "title" : "The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120212907.cms\" />The Paris Freestyle Chess Grand Slam semifinals began with intense draws in the top matches as Carlsen and Caruana, Nakamura and Keymer couldn't break the deadlock. Nepomniachtchi and Abdusattorov secured wins in the 5th-place bracket, while Rapport and Praggnanandhaa drew. The stage is now set for decisive second games and potential tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-vs-fabiano-caruana-ends-in-draw-r-praggnanandhaa-holds-richard-rapport-in-paris/articleshow/120212907.cms",
+         "pubDate" : "Fri, 11 Apr 2025 17:24:44",
+         "title" : "Freestyle Chess: Carlsen vs Caruana ends in draw; Pragg holds Rapport"
+      },
+      {
          "description" : "Svitlana presents to us an insightful analysis of the first two decisive games in the Women's World Chess Championship match between Ju Wenjun and Tan Zhongyi, focusing particularly on their endgames. Both games, though seemingly equal in rook endgames, were decided by subtle inaccuracies and the strategic importance of king activity and piece placement. Svitlana emphasizes how small endgame advantages-such as a more active king or minor positional tweaks-can determine the outcome even in positions that look like simple draws.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Freestyle Chess Paris, Semifinals, Game 1 - Live!"
       },
       {
+         "description" : "The Semifinals of the 2025 Paris Freestyle Chess Grand Slam got off to a quiet start, as GMs Fabiano Caruana and Magnus Carlsen drew their game, as did GMs Hikaru Nakamura and Vincent Keymer. Meanwhile, the matches to determine 5th-8th place heate...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-5",
+         "pubDate" : "Fri, 11 Apr 2025 12:16:13",
+         "title" : "Nepo And Nakamura Test Caruana's Theories"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120204255.cms\" />Pranav Venkatesh, the World Junior Chess Champion, has his sights set on becoming the World Chess Champion. The 18-year-old from Chennai balances chess with academics and enjoys cricket. He admires Magnus Carlsen and Viswanathan Anand. Pranav is preparing for upcoming tournaments in Spain and Dubai. He skipped his board exams for the championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/paris-fcgs-2025-4",
          "pubDate" : "Fri, 11 Apr 2025 11:10:00",
          "title" : "Freestyle Chess Paris: Carlsen, Keymer, Caruana and Nakamura in semis"
+      },
+      {
+         "description" : "Freestyle Friday on April 11 came down to the final round, where GM Christopher Yoo defeated a pressing GM Magnus Carlsen to reach 10/11 and lock up the event by a full point ahead of GM Sam Sevian, GM Leon Luke Mendonca, and IM Jakub Kosakowski. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yoo-wins-freestyle-friday-april-11-2025",
+         "pubDate" : "Fri, 11 Apr 2025 11:06:00",
+         "title" : "Yoo Beats Carlsen To Win First Freestyle Friday"
       },
       {
          "description" : "Get ready for an epic battle of strategy and intelligence! On April 12, SenseRobot will take on Grandmaster Antoaneta Stefana in a thrilling human vs. AI chess match-hosted in collaboration with the European Chess Union (ECU)! Can AI outsmart a Chess Grandmaster? Will human intuition prevail? Witness history in the making! Event Date: Saturday April 12 : 9:30 CESTLive from Rhodes Greece - Streaming worldwide! The event can be followed through the ECU TV. About SenseRobot SenseRobot brings chess to []",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "IM Teodora Injac clinches European Women's Chess Championship 2025 with a round to spare"
       },
       {
-         "description" : " Carlsen was the early frontrunner in the second leg of the Freestyle Grand Slam in Paris, from which both Alireza Firouzja and Niemann withdrew shortly before the start Magnus Carlsen, the world No 1, was an early front runner in the $375,000 second leg of the Freestyle Grand Slam in Paris. The 34 year-old tied for first with Russia's Ian ­Nepomniachtchi in the 12-player round robin which decided Thursday's quarter- ­finalists, and which proved a disaster for India. Three of their four contenders were eliminated, headed by the 18-year-old world champion, Gukesh ­Dommaraju, who also failed in the first Grand Slam leg in Germany. Friday's semi-final pairings are Carlsen (Norway) v Fabiano Car",
+         "description" : " Carlsen was the early frontrunner in the second leg of the Freestyle Grand Slam in Paris, from which both Alireza Firouzja and Niemann withdrew shortly before the start Magnus Carlsen, the world No 1, was an early front runner in the $375,000 second leg of the Freestyle Grand Slam in Paris. The 34 year-old tied for first with Russia's Ian Nepomniachtchi in the 12-player round robin which decided Thursday's quarter-finalists, and which proved a disaster for India. Three of their four contenders were eliminated, headed by the 18-year-old world champion, Gukesh Dommaraju, who also failed in the first Grand Slam leg in Germany. <a href=\"https://www.theguardian.com/sport/2025/apr/11/chess-magnus",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/apr/11/chess-magnus-carlsen-in-form-at-paris-freestyle-after-hans-niemann-drops-out",
@@ -72,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-fired-up-to-face-indias-young-stars-says-viswanathan-anand/articleshow/120195174.cms",
          "pubDate" : "Fri, 11 Apr 2025 06:07:53",
          "title" : "Carlsen fired up to face India's young stars, says Anand"
+      },
+      {
+         "description" : "It's the defending champion's match to lose now. After tying the match in round 3, GM Ju Wenjun survived a dangerous position the next day against challenger GM Tan Zhongyi, entering the second rest day with a 2-2 tie and lots of chess left to be played. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos from rounds 5 (L) and 6 (R) courtesy of Anna Shtourman/FIDE.<br> <br> When play resumed on Wednesday, however, it was all Ju. After back-to-back wins, Ju leads 4-2 headed into the two-day break as the match moves from Shanghai to Chongqing. <br> <br> <br> <br> Image<br> <br> <br> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/womens-world-championship-lessons-jus-wins",
+         "pubDate" : "Fri, 11 Apr 2025 00:00:00",
+         "title" : "Women's World Championship: Lessons From Ju's Wins"
       },
       {
          "description" : "ChessBase Mobile is NOW also available for iOS! - Are you a passionate chess fan? Then we have good news for you: with the new ChessBase Mobile App you can take all your games and databases with you wherever you go, thanks to the cloud. The new and user-friendly app for Android, iOS and tablets is sure to make your chess heart beat faster.",
@@ -562,44 +602,12 @@ news_feed (
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
-         "description" : "GM Liem Le and GM Hikaru Nakamura are your winners of Titled Tuesday on April 1, Nakamura after finishing second in the early event. Tiebreaks were not necessary to determine either winner or even Nakamura&#39;s second-place finish. It was Le&#39;s second...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-nakamura-win-titled-tuesday-april-1-2025",
-         "pubDate" : "Wed, 02 Apr 2025 08:09:50",
-         "title" : "No Fooling Nakamura, Who Wins Titled Tuesday With Le"
-      },
-      {
-         "description" : "Defending Women&#38;rsquo;s World Champion Ju Wenjun is striving to become only the fourth player in history to win the title five times as she takes on challenger and former champion GM Tan Zhongyi in the 2025 FIDE Women&#39;s World Championship in Shang...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-preview",
-         "pubDate" : "Wed, 02 Apr 2025 07:13:00",
-         "title" : "Can Ju Wenjun Win 5th World Championship?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
-      },
-      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/fide-womens-world-chess-championship-preview",
          "pubDate" : "Wed, 02 Apr 2025 00:00:00",
          "title" : "FIDE Women's World Chess Championship Preview"
-      },
-      {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. So, we'll be taking a look at their games for the next few weeks! <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Photo courtesy of Maria Emelianova/FIDE<br> <br> <br> <br> This week's puzzles all feature games of GM Alexander Lenderman, a local New Yorker who had a strong FIDE World Blitz Championship, finishing with an 8&frac12;/13 score and six wins again",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-11-lenderman",
-         "pubDate" : "Wed, 02 Apr 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 11 (Lenderman)"
       },
       {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
