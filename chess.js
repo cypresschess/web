@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Fri, 11 Apr 2025 12:50:00",
+         "title" : "Freestyle Chess Paris, Semifinals, Game 1 - Live!"
+      },
+      {
+         "description" : "The quarterfinals of the Paris Freestyle Chess Grand Slam concluded on Thursday, with Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura and Vincent Keymer advancing to the semifinals. While Carlsen, Caruana and Nakamura secured their places through wins in the classical games, Keymer needed tiebreaks to overcome Ian Nepomniachtchi. The German GM is now the only player from the younger generation left in the tournament. The upcoming semifinal matchups are Carlsen v. Caruana and Keymer v. Nakamura. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-4",
+         "pubDate" : "Fri, 11 Apr 2025 11:10:00",
+         "title" : "Freestyle Chess Paris: Carlsen, Keymer, Caruana and Nakamura in semis"
+      },
+      {
+         "description" : "Get ready for an epic battle of strategy and intelligence! On April 12, SenseRobot will take on Grandmaster Antoaneta Stefana in a thrilling human vs. AI chess match-hosted in collaboration with the European Chess Union (ECU)! Can AI outsmart a Chess Grandmaster? Will human intuition prevail? Witness history in the making! Event Date: Saturday April 12 : 9:30 CESTLive from Rhodes Greece - Streaming worldwide! The event can be followed through the ECU TV. About SenseRobot SenseRobot brings chess to []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/human-vs-ai-robot-the-ultimate-chess-showdown/",
+         "pubDate" : "Fri, 11 Apr 2025 10:45:04",
+         "title" : "Human vs. AI Robot: The Ultimate Chess Showdown!"
+      },
+      {
          "description" : "GM Jonathan Levitt explains why and how he has suddenly taken up writing lyrics for songs, including one on Bobby Fischer and one on Boris Spassky. Have a look, listen and enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/101-uses-for-a-retired-grandmaster",
          "pubDate" : "Fri, 11 Apr 2025 08:07:12",
          "title" : "101 Uses For A Retired Grandmaster"
+      },
+      {
+         "description" : "IM Teodora Injac yesterday scored her 9th consecutive win in the European Women's Chess Championship 2025 to clinch the tournament with a round to spare! Playing with blacks against IM Irina Bulmaga (ROU, 2362), IM Teodora Injac (SRB, 2454) equalized but the position was very sharp and dynamical with heterogeneous castles and attacks on both sides of the board. Injac played it well, gained the activity and the edge, gradually improving it for a winning position and decisive material advantage. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-teodora-injac-clinches-european-womens-chess-championship-2025-with-a-round-to-spare/",
+         "pubDate" : "Fri, 11 Apr 2025 07:44:32",
+         "title" : "IM Teodora Injac clinches European Women's Chess Championship 2025 with a round to spare"
       },
       {
          "description" : " Carlsen was the early frontrunner in the second leg of the Freestyle Grand Slam in Paris, from which both Alireza Firouzja and Niemann withdrew shortly before the start Magnus Carlsen, the world No 1, was an early front runner in the $375,000 second leg of the Freestyle Grand Slam in Paris. The 34 year-old tied for first with Russia's Ian ­Nepomniachtchi in the 12-player round robin which decided Thursday's quarter- ­finalists, and which proved a disaster for India. Three of their four contenders were eliminated, headed by the 18-year-old world champion, Gukesh ­Dommaraju, who also failed in the first Grand Slam leg in Germany. Friday's semi-final pairings are Carlsen (Norway) v Fabiano Car",
@@ -56,22 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2025",
          "pubDate" : "Thu, 10 Apr 2025 13:56:00",
          "title" : "Reykjavik Open 2025 - Games and Results"
-      },
-      {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Thu, 10 Apr 2025 12:41:00",
-         "title" : "Freestyle Chess Paris, Quarterfinals, Game 2 - Live!"
-      },
-      {
-         "description" : "The first day of the quarterfinals at the Paris Freestyle Chess Grand Slam saw Magnus Carlsen claim the only win, defeating Nodirbek Abdusattorov with white. The remaining games ended in draws, including a complex encounter between Arjun Erigaisi and Hikaru Nakamura, who tested the experimental \"Nepo Gambit\". Nakamura managed to equalise after a difficult start and eventually got an edge, but the game ended peacefully. Abdusattorov must now win on Thursday to force tiebreaks and keep his hopes of reaching the semifinals alive. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-3",
-         "pubDate" : "Thu, 10 Apr 2025 11:00:00",
-         "title" : "Freestyle Chess Paris: Carlsen beats Abdusattorov"
       },
       {
          "description" : "GM Anish Giri has become the 15th grandmaster to sign for an esports organization ahead of the $1.5 million 2025 Esports World Cup, joining Team Secret. The announcement was shared Wednesday on Team Secret&#39;s social media channels and ends a five...",
@@ -154,14 +170,6 @@ news_feed (
          "title" : "The Nepo Gambit Is Born, Only Carlsen Wins"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi are the winners of the rapid preliminary of the Freestyle Chess Grand Slam in Paris. Thanks to a strong finish Vincent Keymer also made it into the knockout stage. As did Vachier-Lagrave, Erigaisi, Abdusattorov, Nakamura and Caruana. | Photos: Lennart Ootes/ Freestyle Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-grand-slam-paris-carlsen-and-nepomniachtchi-win-rapid-tournament-keymer-reaches-knockout-stage",
-         "pubDate" : "Wed, 09 Apr 2025 11:43:22",
-         "title" : "Freestyle Grand Slam Paris: Carlsen and Nepomniachtchi win rapid tournament, Keymer reaches knockout stage"
-      },
-      {
          "description" : "Just days after celebrating his ninth birthday, CM Luca Protopopescu from France has made chess history. The prodigy from Marseille has become the youngest player ever to cross the 2200 FIDE classical rating mark, an achievement made by beating hi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -234,14 +242,6 @@ news_feed (
          "title" : "Nepomniachtchi, Carlsen Tie For 1st, Gukesh Misses Out On Paris Quarterfinals"
       },
       {
-         "description" : "Get ready for an epic battle of strategy and intelligence! On April 12, SenseRobot will take on Grandmaster in a thrilling human vs. AI chess match-hosted in collaboration with the European Chess Union (ECU)! Can AI outsmart a Chess Grandmaster? Will human intuition prevail? Witness history in the making! Event Date: Saturday April 12 : 9:30 CESTLive from Rhodes Greece - Streaming worldwide! The event can be followed through the ECU TV. About SenseRobot SenseRobot brings chess to life with []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/human-vs-ai-robot-the-ultimate-chess-showdown/",
-         "pubDate" : "Tue, 08 Apr 2025 11:45:59",
-         "title" : "Human vs. AI Robot: The Ultimate Chess Showdown!"
-      },
-      {
          "description" : "Are you ready for free-for-all madness over 160 squares? Then mark your calendar and join the upcoming Chess.com 4 Player Chess Championship! This next event of the Chess.com Community Championships takes place from April 14 to April 18 and featur...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -264,14 +264,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-team-chess-championships-2/",
          "pubDate" : "Tue, 08 Apr 2025 07:02:45",
          "title" : "European Senior Team Chess Championships"
-      },
-      {
-         "description" : "After six rounds of rapid play on the opening day of the Paris Freestyle Chess Grand Slam, Magnus Carlsen and Nodirbek Abdusattorov lead the standings with 5 points each. Abdusattorov remained undefeated, while Carlsen suffered a single loss to Arjun Erigaisi. Maxime Vachier-Lagrave follows closely with 4&frac12; points. At the lower end, Richard Rapport and Vidit Gujrathi are struggling with just 1 point each. The final five games of the round-robin will be played on Tuesday, deciding the eight knockout qualifiers. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-1",
-         "pubDate" : "Tue, 08 Apr 2025 06:30:00",
-         "title" : "Freestyle Chess Paris: Carlsen and Abdusattorov share the lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120083389.cms\" />Magnus Carlsen and Nodirbek Abdusattorov are tied for the lead after six rounds of the Freestyle Chess Grand Slam in Paris, with five points each. Maxime Vachier-Lagrave is closely behind with 4.5 points. Carlsen gained momentum by defeating Gukesh Dommaraju and Hikaru Nakamura, while Fabiano Caruana recovered from three losses but was stopped by Ian Nepomniachtchi.",
@@ -488,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-game-2",
          "pubDate" : "Fri, 04 Apr 2025 04:50:00",
          "title" : "Tan Zhongyi Stuns Ju Wenjun To Win Game 2"
-      },
-      {
-         "description" : "Four rounds have been already played at the European Women's Chess Championship 2025, and IM Eline Roebers (NED, 2367) emerged as the sole leader in the event as the only player with maximum score of 4/4 points. IM Eline Roebers (NED, 2367) convincingly defeated the top seeded GM Nino Batsiashvili (GEO, 2473) in today's fourth round. Roebers was well prepared for the Fried Liver Attack, and gained a clear advantage with the pawn up out of the opening. Nino Batsiashvili []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-eline-roebers-takes-sole-lead-in-european-womens-chess-championship-2025/",
-         "pubDate" : "Thu, 03 Apr 2025 18:55:16",
-         "title" : "IM Eline Roebers takes sole lead in European Women's Chess Championship 2025"
       },
       {
          "description" : " Tanitoluwa Adewumi has just completed the rating requirements for the title of International Master. This is a major step toward his next goal of becoming a Grandmaster. Tani's story is well-known and has been covered extensively on this site. However, a New York Times story would change his life forever. Since arriving from Nigeria in The post <a href=\"https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/\">Tanitoluwa Adewumi qualifies for IM title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -768,30 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ecu-partners-with-senserobot",
          "pubDate" : "Sat, 22 Mar 2025 07:00:00",
          "title" : "ECU partners with SenseRobot"
-      },
-      {
-         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/announcement-medical-evaluation-in-chennai-on-08-april-2025/",
-         "pubDate" : "Fri, 21 Mar 2025 09:19:53",
-         "title" : "Announcement :Medical Evaluation in Chennai on 08 April 2025."
-      },
-      {
-         "description" : " Chess Masters: The Endgame received some negative reviews for its 10 March debut, watched by 890,000, but fears of a second-week meltdown proved overblown Chess Masters: The Endgame, BBC Two's most ambitious chess programme for half a century, got off to a rocky start on 10 March, when its opening episode received some rough treatment from critics. The Guardian's <a href=\"https://www.theguardian.com/tv-and-radio/2025/mar/10/chess-masters-the-endgame-review-so-dull-its-almost-unwatchable\">Lucy Mangan called it</a> \"so dull it's almost unwatchable\". However, fears of a second week meltdown last Monday proved overblown. Viewers totalled 710,000, still nearly 6% of the television audience, and ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/mar/21/bbc-two-chess-show-keeps-710000-viewers-despite-rocky-opening-week",
-         "pubDate" : "Fri, 21 Mar 2025 08:00:55",
-         "title" : "BBC Two chess show keeps 710,000 viewers despite rocky opening week"
-      },
-      {
-         "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. https://forms.gle/PWxAN5cEanX9rFu98 Criteria: GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps-2025-26/",
-         "pubDate" : "Fri, 21 Mar 2025 07:44:58",
-         "title" : "Expression of Interest for AICF Coach in Various Events and Camps 2025-26"
       }
    ]
 }
