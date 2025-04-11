@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana presents to us an insightful analysis of the first two decisive games in the Women's World Chess Championship match between Ju Wenjun and Tan Zhongyi, focusing particularly on their endgames. Both games, though seemingly equal in rook endgames, were decided by subtle inaccuracies and the strategic importance of king activity and piece placement. Svitlana emphasizes how small endgame advantages-such as a more active king or minor positional tweaks-can determine the outcome even in positions that look like simple draws.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-power-of-endgame-tenacity",
+         "pubDate" : "Fri, 11 Apr 2025 15:00:00",
+         "title" : "Svitlana's Smart Moves - The power of endgame tenacity!"
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
          "pubDate" : "Fri, 11 Apr 2025 12:50:00",
          "title" : "Freestyle Chess Paris, Semifinals, Game 1 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120204255.cms\" />Pranav Venkatesh, the World Junior Chess Champion, has his sights set on becoming the World Chess Champion. The 18-year-old from Chennai balances chess with academics and enjoys cricket. He admires Magnus Carlsen and Viswanathan Anand. Pranav is preparing for upcoming tournaments in Spain and Dubai. He skipped his board exams for the championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-rcb-fan-who-became-a-world-champion-the-story-of-pranav-v/articleshow/120204255.cms",
+         "pubDate" : "Fri, 11 Apr 2025 11:40:07",
+         "title" : "Exclusive: RCB fan who became a world champion"
       },
       {
          "description" : "The quarterfinals of the Paris Freestyle Chess Grand Slam concluded on Thursday, with Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura and Vincent Keymer advancing to the semifinals. While Carlsen, Caruana and Nakamura secured their places through wins in the classical games, Keymer needed tiebreaks to overcome Ian Nepomniachtchi. The German GM is now the only player from the younger generation left in the tournament. The upcoming semifinal matchups are Carlsen v. Caruana and Keymer v. Nakamura. | Photo: Stev Bonhage",
@@ -562,6 +578,14 @@ news_feed (
          "title" : "Can Ju Wenjun Win 5th World Championship?"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
+         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
+         "title" : "'Gukesh needs to stay grounded and remain curious'"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -602,7 +626,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;a&#x66;&#101;g&#x75;&#97;&#x72;&#x64;i&#x6e;&#103;&#46;&#x6f;&#102;&#x66;&#105;c&#x65;&#114;&#64;&#x65;&#110;&#x67;&#108;i&#x73;&#104;&#x63;&#x68;e&#x73;&#115;&#46;&#x6f;&#114;&#x67;&#x2e;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at saf&#101;&#103;&#117;&#97;&#x72;&#x64;&#x69;&#x6e;&#x67;&#x2e;&#x6f;ffi&#99;&#101;&#114;&#64;&#101;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;ches&#115;&#46;&#111;&#114;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
