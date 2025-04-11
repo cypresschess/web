@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Jonathan Levitt explains why and how he has suddenly taken up writing lyrics for songs, including one on Bobby Fischer and one on Boris Spassky. Have a look, listen and enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/101-uses-for-a-retired-grandmaster",
+         "pubDate" : "Fri, 11 Apr 2025 08:07:12",
+         "title" : "101 Uses For A Retired Grandmaster"
+      },
+      {
+         "description" : " Carlsen was the early frontrunner in the second leg of the Freestyle Grand Slam in Paris, from which both Alireza Firouzja and Niemann withdrew shortly before the start Magnus Carlsen, the world No 1, was an early front runner in the $375,000 second leg of the Freestyle Grand Slam in Paris. The 34 year-old tied for first with Russia's Ian ­Nepomniachtchi in the 12-player round robin which decided Thursday's quarter- ­finalists, and which proved a disaster for India. Three of their four contenders were eliminated, headed by the 18-year-old world champion, Gukesh ­Dommaraju, who also failed in the first Grand Slam leg in Germany. Friday's semi-final pairings are Carlsen (Norway) v Fabiano Car",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/apr/11/chess-magnus-carlsen-in-form-at-paris-freestyle-after-hans-niemann-drops-out",
+         "pubDate" : "Fri, 11 Apr 2025 07:00:02",
+         "title" : "Chess: Magnus Carlsen in form at Paris Freestyle after Hans Niemann drops out"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120195174.cms\" />India's chess prodigy, D Gukesh, fresh from his World Championship victory, is set to face Magnus Carlsen at Norway Chess 2025. Viswanathan Anand anticipates a thrilling contest, highlighting Carlsen's motivation against India's young talents. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-fired-up-to-face-indias-young-stars-says-viswanathan-anand/articleshow/120195174.cms",
+         "pubDate" : "Fri, 11 Apr 2025 06:07:53",
+         "title" : "Carlsen fired up to face India's young stars, says Anand"
+      },
+      {
          "description" : "ChessBase Mobile is NOW also available for iOS! - Are you a passionate chess fan? Then we have good news for you: with the new ChessBase Mobile App you can take all your games and databases with you wherever you go, thanks to the cloud. The new and user-friendly app for Android, iOS and tablets is sure to make your chess heart beat faster.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-preview",
          "pubDate" : "Wed, 02 Apr 2025 07:13:00",
          "title" : "Can Ju Wenjun Win 5th World Championship?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
