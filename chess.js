@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I opened my investment app this morning, and it hurt. Down 10-20% in just a few days. Red everywhere. Immediately, the thoughts started racing: Should I sell? Should I change allocations? Should I do something-anything? That anxious need to react is hard to resist. But then I remembered: I had a plan when I started []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/follow-a-plan/",
+         "pubDate" : "Sat, 12 Apr 2025 13:00:00",
+         "title" : "The Solution to Bad Times? A Plan."
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,22 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2025",
          "pubDate" : "Sun, 23 Mar 2025 21:06:00",
          "title" : "American Cup 2025 - "
-      },
-      {
-         "description" : "Most chess players train randomly, inconsistently, or without a plan. That means if you train the right way, you can outperform 99% of players-even those who seem naturally gifted. And that's incredible news for you. Being part of a sports class in high school and working for the Swiss Olympic Athletes Commission gave me unique []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/achieve-more/",
-         "pubDate" : "Sat, 22 Mar 2025 14:00:00",
-         "title" : "The Hidden Potential in Chess: Why You Can Achieve More Than You Think"
-      },
-      {
-         "description" : "Rescuing oneself from a seemingly hopeless position forms part of the armoury of every strong chess player. The current political situation in Ukraine reminds me ineluctably of the chess player's ability to salvage a draw from an inferior position. And of the various ways to achieve a draw, stalemate is by far the most emphatic. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/stalemate-the-art-of-the-draw/",
-         "pubDate" : "Sat, 22 Mar 2025 11:56:36",
-         "title" : "Stalemate: the art of the draw"
       }
    ]
 }
