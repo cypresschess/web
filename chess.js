@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Sat, 12 Apr 2025 12:50:00",
+         "title" : "Freestyle Chess Paris, Semifinals, Game 2 - Live!"
+      },
+      {
+         "description" : "One of the most celebrated legends of chess lore concerns a game won by the American champion and grandmaster Frank Marshall in 1912 at the tournament of Breslau, then in the German Empire (now Wroclaw in Poland). Marshall sacrificed his Queen in sparkling fashion and was allegedly rewarded with a shower of gold coins by []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/bullion-in-breslau/",
+         "pubDate" : "Sat, 12 Apr 2025 10:48:11",
+         "title" : "Bullion in Breslau"
+      },
+      {
+         "description" : "The 2025 European Women's Chess Championship concluded yesterday in Rhodes, Greece. IM Teodora Injac (SRB, 2454) emerged as the sole Winner of the event, clinching the title with a round to spare. Teodora Injac suffered a loss in the first round of the Championship, but then scored spectacular 9 consecutive victories for a historical result. Drawing in the last round against IM Aleksandra Maltsevskaya (POL, 2376), Injac finished the tournament with the score of 9.5/11 points, 1.5 points ahead of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-concluded-in-rhodes-greece/",
+         "pubDate" : "Sat, 12 Apr 2025 10:14:37",
+         "title" : "European Women's Chess Championship 2025 concluded in Rhodes, Greece"
+      },
+      {
+         "description" : "Welcome to The Initiative - a show dedicated to the relentless battle for momentum in chess! In every game, players fight to seize control, dictate the pace, and keep their opponent on the back foot. But what does it really mean to have the initiative? How do the world's best players maintain pressure and transform small advantages into crushing attacks?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-initiative-jan-werle-1",
+         "pubDate" : "Sat, 12 Apr 2025 10:00:00",
+         "title" : "The Initiative: A new show hosted by GM Jan Werle"
+      },
+      {
+         "description" : "Category A: https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-a/games Category B : https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-b/games",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-for-the-2nd-namma-bengaluru-international-grandmasters-open-chess-tournament-2025-category/",
+         "pubDate" : "Sat, 12 Apr 2025 08:19:58",
+         "title" : "Live games for the 2nd Namma Bengaluru International Grandmasters Open Chess Tournament 2025 Category"
+      },
+      {
+         "description" : "Russian esports organization Team Spirit has entered the world of esports with a splash, signing not one but two of the top speed chess specialists on the planet. GMs Daniil Dubov and Vladislav Artemiev will now attempt to qualify for the $1.5 mil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-artemiev-picked-up-by-team-spirit",
+         "pubDate" : "Sat, 12 Apr 2025 03:33:03",
+         "title" : "Speed Chess Stars Dubov, Artemiev Picked Up By Team Spirit"
+      },
+      {
          "description" : "The 2024 European Chess Championship in Romania drew nearly 400 players and concluded with Matthias Bluebaum claiming the title for a second time. Across eleven rounds, the tournament offered no shortage of drama and complexity. In this article, two games from the event are examined - both notable for their sharp conclusions and instructive endgame moments. Light annotations in the openings are followed by deeper analysis of the critical late-stage play. | Pictured: Mahammad Muradli from Azerbaijan (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-vs-fabiano-caruana-ends-in-draw-r-praggnanandhaa-holds-richard-rapport-in-paris/articleshow/120212907.cms",
          "pubDate" : "Fri, 11 Apr 2025 17:24:44",
          "title" : "Freestyle Chess: Carlsen vs Caruana ends in draw; Pragg holds Rapport"
-      },
-      {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Fri, 11 Apr 2025 12:50:00",
-         "title" : "Freestyle Chess Paris, Semifinals, Game 1 - Live!"
       },
       {
          "description" : "The Semifinals of the 2025 Paris Freestyle Chess Grand Slam got off to a quiet start, as GMs Fabiano Caruana and Magnus Carlsen drew their game, as did GMs Hikaru Nakamura and Vincent Keymer. Meanwhile, the matches to determine 5th-8th place heate...",
@@ -498,14 +538,6 @@ news_feed (
          "title" : "Nakamura Easily Repeats In Freestyle Friday"
       },
       {
-         "description" : "The 2025 FIDE Women's World Chess Championship Match commenced yesterday in Shanghai. The match is played between four-time Women's World Chess Champion GM Ju Wenjun and GM Tan Zhongyi who won the FIDE Women's World Chess Championship in 2017. The Match is played in 12 games, and the first player to score 6.5 points will be declared the Winner. The time control for each game is 90 minutes for the first 40 moves, followed by 30 minutes for the rest []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-womens-world-chess-championship-match-2025-commenced-in-shanghai/",
-         "pubDate" : "Fri, 04 Apr 2025 09:11:40",
-         "title" : "FIDE Women's World Chess Championship Match 2025 commenced in Shanghai"
-      },
-      {
          "description" : "The much-anticipated Magnus vs. The World match officially launched on Chess.com on Friday with GM Magnus Carlsen&#39;s first move. With 100,000 participants registered on Thursday, the event shattered the record for the largest online chess match eve...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -552,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/earth-day-chess-bots",
          "pubDate" : "Thu, 03 Apr 2025 09:00:00",
          "title" : "New Bot Challenge: Welcome to the Jungle"
-      },
-      {
-         "description" : "Challenger GM Tan Zhongyi played the Sicilian Defense and made a comfortable 39-move draw against World Champion Ju Wenjun as the&#38;nbsp;2025 FIDE Women&#39;s World Championship began in Shanghai. &#34;From the first game I think Tan is going to be a very t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-game-1",
-         "pubDate" : "Thu, 03 Apr 2025 07:27:00",
-         "title" : "Tan Holds Ju To Draw As Women's World Championship Starts In Shanghai"
       },
       {
          "description" : "Several players came up just short of a norm at NYC Chess Norms' 2025 Spring Invitational, but there was still plenty of inventive, enterprising chess and one career milestone earned last weekend. FM Tanitoluwa \"Tani\" Adewumi - the 14-year-old star who learned how the pieces move just five years ago - completed the final hurdle to qualify for the IM title by crossing the 2400 FIDE rating threshold for the first time. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tani against Raja Harshit (All photos courtesy of NYC Chess Norms)<br> <br> <br> <br> Competing in the GM A section, Adewumi rose to 2408 in the live FIDE ratings with his 5th round win over ",
