@@ -10,6 +10,14 @@ news_feed (
          "title" : "Jon Speelman: Ructions in Romania"
       },
       {
+         "description" : "Like a phoenix from the ashes, Serbian IM Teodora Injac recovered from a first-round loss at the 2025 European Women&#39;s Championship, winning nine games in a row and claiming her first continental title with a round to spare. A nine-move draw in ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/injac-wins-2025-european-womens-chess-championship",
+         "pubDate" : "Fri, 11 Apr 2025 18:36:40",
+         "title" : "Injac Secures European Women's Championship With 9 Straight Wins"
+      },
+      {
          "description" : " by Dr. O.T. Olabanji, PhD Plasma Physics, Highest USCF Rating = 2332 \"Chess is an extremely important game that tweaks the cognitive functionalities, enhances academic skills, aids rapid thought processes, boosts logical and strategic thinking, and helps to gain exceptional memory skills, creativity, focus and discipline\" [1-5]. I strongly recommend it for any child or [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/\">The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -554,14 +562,6 @@ news_feed (
          "title" : "Tan Holds Ju To Draw As Women's World Championship Starts In Shanghai"
       },
       {
-         "description" : "GM Magnus Carlsen is about to play the biggest chess game of his life. Not the most important, but the most opponents he&#39;s ever faced at once: it&#39;s Magnus Carlsen Vs. The World. The event begins on Friday, April 4, when Magnus makes his first move...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-the-chess-coaches-for-magnus-vs-the-world",
-         "pubDate" : "Thu, 03 Apr 2025 07:00:00",
-         "title" : "Announcing Your Coaches For Magnus Carlsen Vs. The World"
-      },
-      {
          "description" : "Several players came up just short of a norm at NYC Chess Norms' 2025 Spring Invitational, but there was still plenty of inventive, enterprising chess and one career milestone earned last weekend. FM Tanitoluwa \"Tani\" Adewumi - the 14-year-old star who learned how the pieces move just five years ago - completed the final hurdle to qualify for the IM title by crossing the 2400 FIDE rating threshold for the first time. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tani against Raja Harshit (All photos courtesy of NYC Chess Norms)<br> <br> <br> <br> Competing in the GM A section, Adewumi rose to 2408 in the live FIDE ratings with his 5th round win over ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -576,6 +576,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
