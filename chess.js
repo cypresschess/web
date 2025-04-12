@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Teodora Injac of Serbia won the 25th European Women's Chess Championship in Rhodes with an impressive 9&frac12;/11, finishing 1&frac12; points clear of the field. Despite losing her first-round game to 16-year-old Anastasia Kirtadze - having missed a mate-in-two - Injac rebounded with nine straight wins, including victories over key contenders. Irina Bulmaga, Mai Narva and Aleksandra Maltsevskaya tied for second place with 8 points each. | Photos: European Chess Union / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-ch-2025-r11",
+         "pubDate" : "Sat, 12 Apr 2025 20:35:00",
+         "title" : "Following nine-game winning streak, Teodora Injac wins European Women's Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120237227.cms\" />Magnus Carlsen and Hikaru Nakamura are set to face off in the Paris Freestyle Chess Grand Slam final after winning their respective semifinal matches. Carlsen defeated Fabiano Caruana, while Nakamura overcame Vincent Keymer. Caruana and Keymer will compete for third place, promising a thrilling conclusion to the event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-hikaru-nakamura-set-for-blockbuster-paris-freestyle-chess-grand-slam-final/articleshow/120237227.cms",
+         "pubDate" : "Sat, 12 Apr 2025 15:57:02",
+         "title" : "Carlsen vs Nakamura set for blockbuster Paris Freestyle Chess final"
+      },
+      {
          "description" : "I opened my investment app this morning, and it hurt. Down 10-20% in just a few days. Red everywhere. Immediately, the thoughts started racing: Should I sell? Should I change allocations? Should I do something-anything? That anxious need to react is hard to resist. But then I remembered: I had a plan when I started []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-initiative-jan-werle-1",
          "pubDate" : "Sat, 12 Apr 2025 10:00:00",
          "title" : "The Initiative: A new show hosted by GM Jan Werle"
+      },
+      {
+         "description" : "World numbers one and two GMs Magnus Carlsen and Hikaru Nakamura will compete for the $200,000 top prize in the Final of the 2025 Paris Freestyle Chess Grand Slam. Carlsen overcame GM Fabiano Caruana, who fought valiantly in a difficult position b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-6",
+         "pubDate" : "Sat, 12 Apr 2025 08:31:54",
+         "title" : "It's A Carlsen-Nakamura Final In Paris!"
       },
       {
          "description" : "Category A: https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-a/games Category B : https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-b/games",
@@ -608,6 +632,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
+         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
+         "title" : "'Gukesh needs to stay grounded and remain curious'"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
