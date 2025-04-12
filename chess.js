@@ -62,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-6",
-         "pubDate" : "Sat, 12 Apr 2025 08:31:54",
+         "pubDate" : "Sat, 12 Apr 2025 08:31:00",
          "title" : "It's A Carlsen-Nakamura Final In Paris!"
       },
       {
@@ -632,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
