@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Sun, 13 Apr 2025 12:50:00",
+         "title" : "Freestyle Chess Paris, Final, Game 1 - Live!"
+      },
+      {
+         "description" : "In this sneak peek, IM Robert Ris presents Volume 3 of his \"Mastering Chess Strategy\" series for ChessBase, focusing on how to exploit various weaknesses in an opponent's position. He explains that after the earlier volumes defined and classified weaknesses (e.g., weak pawns, weak squares), this third installment dives deeper into identifying and prioritizing multiple weaknesses-especially around the king-while maintaining awareness of tactical opportunities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-exploit-your-opponent-s-weaknesses-sneak-peek",
+         "pubDate" : "Sun, 13 Apr 2025 10:00:00",
+         "title" : "Robert Ris: Exploit your opponent's weaknesses! - Sneak Peek"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. After 6 games Ju Wenjun leads 4-2. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-wc-2025-live",
          "pubDate" : "Sun, 13 Apr 2025 08:50:00",
          "title" : "Women's World Chess Championship - Game 7 live!"
+      },
+      {
+         "description" : "On April 12, SenseRobot and the European Chess Union (ECU) officially signed a strategic partnership during a signing ceremony held in Rhodes, Greece. This collaboration represents a significant step toward modernizing chess education and development, combining ECU's established institutional framework with SenseRobot's AI-driven technology,&#160; contributing to the long-term growth and evolution of the sport. The partnership with ECU reflects a broader shift in how chess training is delivered. It moves away from traditional, passive methods toward more dynamic, data-driven approaches. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/senserobot-and-the-european-chess-union-forge-strategic-partnership-to-advance-ai-integration-in-chess/",
+         "pubDate" : "Sun, 13 Apr 2025 08:41:27",
+         "title" : "SenseRobot and the European Chess Union Forge Strategic Partnership to Advance AI Integration in Chess"
+      },
+      {
+         "description" : "GM Ju Wenjun is on the verge of defending her title for the fourth time, as she beat GM Tan&#38;nbsp;Zhongyi with White in game seven of the 2025 FIDE Women&#39;s World Championship, her third consecutive win in the match. The reigning champion extended h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-7",
+         "pubDate" : "Sun, 13 Apr 2025 04:20:00",
+         "title" : "Ju Wenjun Closes In On World Championship Title As Tan Zhongyi Collapses"
       },
       {
          "description" : "Teodora Injac of Serbia won the 25th European Women's Chess Championship in Rhodes with an impressive 9&frac12;/11, finishing 1&frac12; points clear of the field. Despite losing her first-round game to 16-year-old Anastasia Kirtadze - having missed a mate-in-two - Injac rebounded with nine straight wins, including victories over key contenders. Irina Bulmaga, Mai Narva and Aleksandra Maltsevskaya tied for second place with 8 points each. | Photos: European Chess Union / Mark Livshitz",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/follow-a-plan/",
          "pubDate" : "Sat, 12 Apr 2025 13:00:00",
          "title" : "The Solution to Bad Times? A Plan."
-      },
-      {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Sat, 12 Apr 2025 12:50:00",
-         "title" : "Freestyle Chess Paris, Semifinals, Game 2 - Live!"
       },
       {
          "description" : "One of the most celebrated legends of chess lore concerns a game won by the American champion and grandmaster Frank Marshall in 1912 at the tournament of Breslau, then in the German Empire (now Wroclaw in Poland). Marshall sacrificed his Queen in sparkling fashion and was allegedly rewarded with a shower of gold coins by []",
@@ -562,14 +586,6 @@ news_feed (
          "title" : "Four players tie for the top after R5 at European Women's Chess Championship 2025"
       },
       {
-         "description" : "The European Senior Team Chess Championship 2025 is set to take place from 5-13 April in Swidnica, Poland. The event is played in two age categories: 50+ and 65+, with the participation of 18 teams. The top-seeded teams in the 50+section are Germany (Average rating of players 2430), England 1 (Average rating of players 2415) and England 2 (Average rating of players 2160), and the top seeds in the 65+ category are England 1 (Average rating of players 2427), Germany []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2025-starts-in-swidnica-poland/",
-         "pubDate" : "Fri, 04 Apr 2025 18:38:13",
-         "title" : "European Senior Team Chess Championship 2025 starts in Swidnica, Poland"
-      },
-      {
          "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 after a costly endgame blunder due to move 40 time pressure. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31&hellip;c5? (Kf8! is equal) and she then missed her last chance with 40&h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/",
          "pubDate" : "Thu, 03 Apr 2025 13:44:56",
          "title" : "Tanitoluwa Adewumi qualifies for IM title!"
-      },
-      {
-         "description" : "GM Vidit Gujrathi married Nidhi Kataria on April 2 at the luxurious Oxford Golf Resort in Pune, India. The 30-year-old grandmaster is currently number 25 in the world on the live rating list, and Nidhi, 28, is a homeopathic doctor. The couple brok...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vidit-gujrathi-nidhi-kataria-married",
-         "pubDate" : "Thu, 03 Apr 2025 10:17:00",
-         "title" : "Vidit Gujrathi Marries Nidhi Kataria, World Champions Dance At Wedding"
       },
       {
          "description" : "The European School Chess Championship 2025 will be held from 29th May to 8th June 2025 in Mamaia, Romania. The event will be played in 6 age categories: U7, U9,...",
