@@ -1,5 +1,9 @@
 jtable([
+"HOUSTON","2025-04-12","20","<a href=http://www.uschess.org/msa/XtblMain.php?202504127622 target='_blank'>APRIL 12TH - TROPHY SCHOLASTIC</a>",
+"HOUSTON","2025-04-12","5","<a href=http://www.uschess.org/msa/XtblMain.php?202504127592 target='_blank'>CHESSPANDA04122025CHESSPANDA</a>",
+"HOUSTON","2025-04-11","26","<a href=http://www.uschess.org/msa/XtblMain.php?202504117392 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-04-11","44","<a href=http://www.uschess.org/msa/XtblMain.php?202504117352 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-04-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202504117342 target='_blank'>FBCC 2025 NATIONAL SUBMARINE DAY OP</a>",
 "CYPRESS","2025-04-09","41","<a href=http://www.uschess.org/msa/XtblMain.php?202504096572 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-04-04  - 04-06","41","<a href=http://www.uschess.org/msa/XtblMain.php?202504065162 target='_blank'>$3,000 APRIL  CHAMPIONSHIP</a>",
 "HOUSTON","2025-04-06","9","<a href=http://www.uschess.org/msa/XtblMain.php?202504065082 target='_blank'>CHESSPANDA04052025SATURDAY</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2024-08-31","104","<a href=http://www.uschess.org/msa/XtblMain.php?202408314782 target='_blank'>SOUTHWEST SCHOLASTIC 2024</a>",
 "CYPRESS","2024-08-31","33","<a href=http://www.uschess.org/msa/XtblMain.php?202408312762 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-08-30","22","<a href=http://www.uschess.org/msa/XtblMain.php?202408302582 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-08-30","6","<a href=http://www.uschess.org/msa/XtblMain.php?202408302542 target='_blank'>FBCC 2024 NATIONAL BEACH DAY OPEN/F</a>",
-"HOUSTON","2024-08-06  - 08-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202408271602 target='_blank'>AUGUST 2024 TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2024-08-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202408260162 target='_blank'>AUGUST 25 SUNDAY SWISS AT NOON</a>",
-"HOUSTON","2024-08-24","15","<a href=http://www.uschess.org/msa/XtblMain.php?202408249432 target='_blank'>AUGUST 24  2024 SATURDAY SWISS AT N</a>",
 ]);
