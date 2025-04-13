@@ -42,7 +42,7 @@ news_feed (
          "title" : "SenseRobot and the European Chess Union Forge Strategic Partnership to Advance AI Integration in Chess"
       },
       {
-         "description" : "GM Magnus Carlsen sacrificed a pawn on move four and went on to defeat GM Hikaru Nakamura in the first game of the 2025 Paris Freestyle Chess Grand Slam final. It was a brilliant win that puts Carlsen a draw away from the title and $200,000, but N...",
+         "description" : "GM Magnus Carlsen sacrificed a pawn on move four and went on to defeat GM Hikaru Nakamura in the first game of the 2025 Paris Freestyle Chess Grand Slam Final. It was a brilliant win that puts Carlsen a draw away from the title and $200,000, but N...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-7",
@@ -816,14 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-grassroots-initiative-regional-coordinator-south-east-england/",
          "pubDate" : "Mon, 24 Mar 2025 09:10:32",
          "title" : "ECF Grassroots Initiative: Regional Coordinator South East England"
-      },
-      {
-         "description" : " The American Cup took place Sat 15th Mar to Mon 24th Mar 2025. Double Elimination event with open and women's sections. Hikaru Nakamura beat Fabiano Caruana both in the winners final and the grand final to win the event. Similarly Alice Lee beat Tatev Abrahamyan twice in the two women's finals so a grand final reset was not required. Hikaru Nakamura won the blitz on the final day, ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2025",
-         "pubDate" : "Sun, 23 Mar 2025 21:06:00",
-         "title" : "American Cup 2025 - "
       }
    ]
 }
