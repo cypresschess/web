@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ju Wenjun moved closer to retaining her title by defeating Tan Zhongyi in game 7 of the 2025 Women's World Chess Championship, marking her third consecutive victory and extending her lead to 5-2. The match resumed in Chongqing, Tan's hometown, after the first six games were played in Shanghai. Although Tan gained an extra pawn in the middlegame, she mishandled the position, allowing Ju to take control. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-7",
+         "pubDate" : "Sun, 13 Apr 2025 19:40:00",
+         "title" : "Women's WCC Game 7: Ju outplays Tan, gets three-point lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120258623.cms\" />Magnus Carlsen secured a 1-0 lead against Hikaru Nakamura in the Freestyle Chess Grand Slam final in Paris, capitalising on a crucial error by Nakamura. Carlsen's precise conversion of the advantage puts pressure on Nakamura to win the second game. Fabiano Caruana also leads in the third-place match, while other placement matches saw victories for Arjun Erigaisi and Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-magnus-carlsen-draws-first-blood-against-hikaru-nakamura-in-paris-final/articleshow/120258623.cms",
+         "pubDate" : "Sun, 13 Apr 2025 16:32:01",
+         "title" : "Carlsen draws first blood against Nakamura in Paris final"
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +34,20 @@ news_feed (
          "title" : "Robert Ris: Exploit your opponent's weaknesses! - Sneak Peek"
       },
       {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. After 6 games Ju Wenjun leads 4-2. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Sun, 13 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 7 live!"
-      },
-      {
          "description" : "On April 12, SenseRobot and the European Chess Union (ECU) officially signed a strategic partnership during a signing ceremony held in Rhodes, Greece. This collaboration represents a significant step toward modernizing chess education and development, combining ECU's established institutional framework with SenseRobot's AI-driven technology,&#160; contributing to the long-term growth and evolution of the sport. The partnership with ECU reflects a broader shift in how chess training is delivered. It moves away from traditional, passive methods toward more dynamic, data-driven approaches. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/senserobot-and-the-european-chess-union-forge-strategic-partnership-to-advance-ai-integration-in-chess/",
          "pubDate" : "Sun, 13 Apr 2025 08:41:27",
          "title" : "SenseRobot and the European Chess Union Forge Strategic Partnership to Advance AI Integration in Chess"
+      },
+      {
+         "description" : "GM Magnus Carlsen sacrificed a pawn on move four and went on to defeat GM Hikaru Nakamura in the first game of the 2025 Paris Freestyle Chess Grand Slam final. It was a brilliant win that puts Carlsen a draw away from the title and $200,000, but N...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-7",
+         "pubDate" : "Sun, 13 Apr 2025 08:29:00",
+         "title" : "Carlsen Beats Nakamura In Thriller To Lead Final"
       },
       {
          "description" : "GM Ju Wenjun is on the verge of defending her title for the fourth time after she beat GM Tan&#38;nbsp;Zhongyi with White in game seven of the 2025 FIDE Women&#39;s World Championship, her third consecutive win in the match. The reigning champion extended...",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Magnus Vs. The World Hits 100,000 Participants, Breaks All-Time Record"
       },
       {
-         "description" : "GM Tan Zhongyi has taken a 1.5-0.5 lead in the 2025 FIDE Women&#39;s World Championship after World Champion GM Ju Wenjun collapsed in a rook endgame that seemed headed for an inevitable draw. She fought on after the time control had passed, but Tan m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-chess-world-championship-2025-game-2",
-         "pubDate" : "Fri, 04 Apr 2025 04:50:00",
-         "title" : "Tan Zhongyi Stuns Ju Wenjun To Win Game 2"
-      },
-      {
          "description" : " Tanitoluwa Adewumi has just completed the rating requirements for the title of International Master. This is a major step toward his next goal of becoming a Grandmaster. Tani's story is well-known and has been covered extensively on this site. However, a New York Times story would change his life forever. Since arriving from Nigeria in The post <a href=\"https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/\">Tanitoluwa Adewumi qualifies for IM title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -656,22 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
-         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
-         "title" : "'Gukesh needs to stay grounded and remain curious'"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
