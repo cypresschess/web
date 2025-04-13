@@ -10,6 +10,14 @@ news_feed (
          "title" : "Following nine-game winning streak, Teodora Injac wins European Women's Championship"
       },
       {
+         "description" : "GM Oleksandr Bortnyk, Bullet Brawl&#39;s third most prolific winner, added an 11th career title to his trophy cabinet after topping the 205-player arena on Saturday. Bortnyk turned back challenges from GMs Daniel Naroditsky, Jose Martinez, and Ediz Gu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-april-12-2025",
+         "pubDate" : "Sat, 12 Apr 2025 18:21:00",
+         "title" : "37-Game Streak Seals Bortnyk's 11th Title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120237227.cms\" />Magnus Carlsen and Hikaru Nakamura are set to face off in the Paris Freestyle Chess Grand Slam final after winning their respective semifinal matches. Carlsen defeated Fabiano Caruana, while Nakamura overcame Vincent Keymer. Caruana and Keymer will compete for third place, promising a thrilling conclusion to the event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -610,14 +618,6 @@ news_feed (
          "title" : "European Schools Chess Championship 2025"
       },
       {
-         "description" : "We&#38;rsquo;re celebrating Earth Day all month long with bots that honor endangered species, past and present. Ready to play chess on the wild side? Play Wild New Bots Diana The Dodo Playing strength: 400 Contrary to popular belief, the dodo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/earth-day-chess-bots",
-         "pubDate" : "Thu, 03 Apr 2025 09:00:00",
-         "title" : "New Bot Challenge: Welcome to the Jungle"
-      },
-      {
          "description" : "Several players came up just short of a norm at NYC Chess Norms' 2025 Spring Invitational, but there was still plenty of inventive, enterprising chess and one career milestone earned last weekend. FM Tanitoluwa \"Tani\" Adewumi - the 14-year-old star who learned how the pieces move just five years ago - completed the final hurdle to qualify for the IM title by crossing the 2400 FIDE rating threshold for the first time. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tani against Raja Harshit (All photos courtesy of NYC Chess Norms)<br> <br> <br> <br> Competing in the GM A section, Adewumi rose to 2408 in the live FIDE ratings with his 5th round win over ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -632,6 +632,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
