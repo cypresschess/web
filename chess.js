@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. After 6 games Ju Wenjun leads 4-2. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
+         "pubDate" : "Sun, 13 Apr 2025 08:50:00",
+         "title" : "Women's World Chess Championship - Game 7 live!"
+      },
+      {
          "description" : "Teodora Injac of Serbia won the 25th European Women's Chess Championship in Rhodes with an impressive 9&frac12;/11, finishing 1&frac12; points clear of the field. Despite losing her first-round game to 16-year-old Anastasia Kirtadze - having missed a mate-in-two - Injac rebounded with nine straight wins, including victories over key contenders. Irina Bulmaga, Mai Narva and Aleksandra Maltsevskaya tied for second place with 8 points each. | Photos: European Chess Union / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,20 +218,20 @@ news_feed (
          "title" : "Reykjavik Open 2025 - Games and Results"
       },
       {
+         "description" : " After a tentative start Ju Wenjun, the Women's World Champion, has taken a 4-2 lead at the half way stage of her match against challenger Tan Zhongyi. The match now breaks for three days as it moves from Shanghai to Chongqing. Game 6 saw Ju equalise quite quickly and even get quite a nice advantage, but 22...Bf6 was a misstep that allowed Tan equality. The position remained complicated and 31.h4? was a serious mistake that cost Tan the game, she couldn't even keep queens on and Ju's technique allowed no way back.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-takes-control-of-her-match-against-tan-zhongyi-with-two-wins-in-a-row",
+         "pubDate" : "Thu, 10 Apr 2025 13:51:00",
+         "title" : "Ju Wenjun takes control of her match against Tan Zhongyi with two wins in a row - 6"
+      },
+      {
          "description" : "GM Anish Giri has become the 15th grandmaster to sign for an esports organization ahead of the $1.5 million 2025 Esports World Cup, joining Team Secret. The announcement was shared Wednesday on Team Secret&#39;s social media channels and ends a five...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anish-giri-signs-for-team-secret",
          "pubDate" : "Thu, 10 Apr 2025 10:02:00",
          "title" : "'Hilarious And Winning Personality' Anish Giri Joins Team Secret For Esports World Cup Push"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Thu, 10 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 6 live!"
       },
       {
          "description" : "One method that enables a rook to draw against two advanced pawns in an endgame is, as explained in a previous article, is known as the 'Prokeš Manoeuvre'. This scheme will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Today you get eight test positions from international trainer GM Efstratios Grivas. They will tell you if you have thoroughly understood the concept.",
@@ -264,6 +272,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-only-to-score-win-in-first-game-of-quarters-d-gukesh-loses-again-in-paris/articleshow/120135296.cms",
          "pubDate" : "Wed, 09 Apr 2025 16:58:06",
          "title" : "Freestyle Chess: Carlsen only winner in first game of QFs; Gukesh loses"
+      },
+      {
+         "description" : " Ju Wenjun took a 3-2 lead over Tan Zhongyi after winning the fifth game of he World Women's title defence. She had white and faced a Kan Sicilian, her 10.c5 novelty brought an immediate mistake and she was completely winning after 20 moves. Tan provided stout resistance after that but the objective assessment never changed and 59.Ne7+ brought about her resignation. This is the penultimate game before the match moves from Shanghai to Chongqing.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-beats-tan-zhongyi-in-game-5-of-the-womens-world-chess-championship",
+         "pubDate" : "Wed, 9 Apr 2025 15:10:00",
+         "title" : "Ju Wenjun beats Tan Zhongyi in Game 5 of the Women's World Chess Championship - 5"
       },
       {
          "description" : "National Amateur Below 1700 Open Rank Name1 Gadge Vedant2 Pathak Anshu Kr3 Bala Ganesan4 Jayesh Mishra5 Vamsi Krishna R6 Aatman Raval7 Prashant Kumar Singh8 Mukesh",
@@ -634,12 +650,12 @@ news_feed (
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119894628.cms\" />English Grandmaster David Howell, a former wunderkind who currently does commentary, feels the Indian model is the one to emulate for chess nations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-needs-to-stay-grounded-and-remain-curious/articleshow/119894628.cms",
+         "pubDate" : "Wed, 02 Apr 2025 04:54:21",
+         "title" : "'Gukesh needs to stay grounded and remain curious'"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
@@ -674,7 +690,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;a&#102;e&#103;u&#x61;r&#x64;i&#x6e;g&#x2e;o&#x66;f&#x69;c&#x65;r&#x40;e&#x6e;g&#x6c;&#105;&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#x66;&#x65;g&#117;&#x61;&#x72;d&#105;&#x6e;&#x67;&#46;&#111;&#x66;&#x66;i&#99;&#x65;&#x72;&#64;&#101;&#110;&#x67;&#x6c;i&#115;&#x68;&#x63;h&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#46;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
