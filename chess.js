@@ -18,6 +18,22 @@ news_feed (
          "title" : "Freestyle Chess Paris, Final, Game 2 - Live!"
       },
       {
+         "description" : " Ju Wenjun beat Tan Zhongyi in game eight of her Women's World Chess Championship defence to take an all but unassailable 6-2 lead, she needs only a draw to finish the match. Today was really must win for Tan and she switched to 1.e4 but the variation couldn't be described as all or nothing. As with many of these games Ju equalised, got a little better, and then Tan subsided to defeat not seeming to know whether she should to try to hold the position or continue to look for winning chances. 25.Qd4?! keeping Queens on was a mistake but 25.exf5 would most likely have led to a quick draw, 28.c4? was the losing move. Ju Wenjun was super alert and found 28...e3! which led to the creation of a dan",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-all-but-retains-her-womens-world-championship-crown-after-a-fourth-win-in-a-row",
+         "pubDate" : "Mon, 14 Apr 2025 12:36:00",
+         "title" : "Ju Wenjun all but retains her Women's World Championship crown after a fourth win in a row - 8"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2025 concluded yesterday in Swidnica, Poland. The event was played in two age categories: 50+ and 65+ and England teams repeated the success from last year, defending three titles! Nine teams competed in the 65+ category, with England 1 team scoring perfect 16 match points to clinch gold! England 1 showed dominance winning all the matches with a minimum result of 3-1! Poland's Lower Silesia Team won silver medal with the score of 12 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/england-wins-triple-gold-at-european-senior-team-chess-championship-2025/",
+         "pubDate" : "Mon, 14 Apr 2025 11:44:46",
+         "title" : "England wins triple gold at European Senior Team Chess Championship 2025"
+      },
+      {
          "description" : "Have you mastered the 'Prokeš Manoeuvre'? Can you confidently handle the endgame rook against two advanced pawns, as explained in two previous articles? Well, here is a final test: try winning some new positions against our diagram engine, and then check with the analysis given at the end to make sure you have understood everything. And tell international trainer Efstratios Grivas if this has been useful for your tournament performance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-and-english-womens-championships-2025/",
          "pubDate" : "Mon, 14 Apr 2025 08:43:22",
          "title" : "English and English Women's Championships 2025"
+      },
+      {
+         "description" : "GM Magnus Carlsen has won the 2025 Paris Freestyle Chess Grand Slam after what he called &#34;a very nice, professional job&#34; secured a draw and a 1.5-0.5 match victory over GM Hikaru Nakamura. The world number-one takes the $200,000 top prize, Nakamur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-8",
+         "pubDate" : "Mon, 14 Apr 2025 07:38:00",
+         "title" : "Carlsen Thwarts Nakamura To Win Paris Grand Slam, Caruana Takes 3rd"
+      },
+      {
+         "description" : "GM Ju Wenjun claimed her fourth straight victory against GM Tan Zhongyi in game eight of the 2025 FIDE Women&#39;s World Championship. With a dominant 6-2 lead with just four games to go, she is on the brink of securing her fifth Women&#38;rsquo;s World C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-8",
+         "pubDate" : "Mon, 14 Apr 2025 04:34:00",
+         "title" : "Ju Wenjun Scores 4th Straight Win, Draw Away From Retaining Title"
       },
       {
          "description" : "Ju Wenjun moved closer to retaining her title by defeating Tan Zhongyi in game 7 of the 2025 Women's World Chess Championship, marking her third consecutive victory and extending her lead to 5-2. The match resumed in Chongqing, Tan's hometown, after the first six games were played in Shanghai. Although Tan gained an extra pawn in the middlegame, she mishandled the position, allowing Ju to take control. | Photo: Anna Shtourman",
@@ -626,14 +658,6 @@ news_feed (
          "title" : "Record-Breaking Opening for the 20th Annual KCF All-Girls National Chess Championship"
       },
       {
-         "description" : "Five rounds were played at the European Women's Chess Championship 2025 in Rhodes, Greece, and four players tie for the top scoring 4.5/5 points each: GM Bella Khotenashvili (GEO, 2418), IM Mai Narva (EST, 2380), IM Aleksandra Maltsevskaya (POL, 2376), and WFM Anastasia Kirtadze (GEO, 2180). GM Bella Khotenashvili (GEO, 2418) today defeated IM Eline Roebers (NED, 2367). Khotenashvili gained a clear advantage in the early part of the middlegame out of a complex and blocked position. Facing troubles, Eline []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/four-players-tie-for-the-top-after-r5-at-european-womens-chess-championship-2025/",
-         "pubDate" : "Fri, 04 Apr 2025 19:23:06",
-         "title" : "Four players tie for the top after R5 at European Women's Chess Championship 2025"
-      },
-      {
          "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 after a costly endgame blunder due to move 40 time pressure. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31&hellip;c5? (Kf8! is equal) and she then missed her last chance with 40&h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -648,22 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tan-zhongyi-leads-womens-world-chess-championship-after-ju-wenjuns-endgame-collapse/articleshow/119980958.cms",
          "pubDate" : "Fri, 04 Apr 2025 12:13:15",
          "title" : "Tan Zhongyi leads Women's World Chess Championship after Ju Wenjun's endgame collapse"
-      },
-      {
-         "description" : "It took a few months for GM Hikaru Nakamura to win his first Freestyle Friday, but just a week later, he won his second. Whereas last week Nakamura needed tiebreaks after a final-round setback, this week he won outright with 10 points after achiev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-freestyle-friday-april-4-2025",
-         "pubDate" : "Fri, 04 Apr 2025 12:12:15",
-         "title" : "Nakamura Easily Repeats In Freestyle Friday"
-      },
-      {
-         "description" : "The much-anticipated Magnus vs. The World match officially launched on Chess.com on Friday with GM Magnus Carlsen&#39;s first move. With 100,000 participants registered on Thursday, the event shattered the record for the largest online chess match eve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-vs-the-world-breaks-world-record",
-         "pubDate" : "Fri, 04 Apr 2025 08:00:00",
-         "title" : "Magnus Vs. The World Hits 100,000 Participants, Breaks All-Time Record"
       },
       {
          "description" : " Tanitoluwa Adewumi has just completed the rating requirements for the title of International Master. This is a major step toward his next goal of becoming a Grandmaster. Tani's story is well-known and has been covered extensively on this site. However, a New York Times story would change his life forever. Since arriving from Nigeria in The post <a href=\"https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/\">Tanitoluwa Adewumi qualifies for IM title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
          "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
