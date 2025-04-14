@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Women's World Championship match is going very one-sidedly. Today, the defending champion Ju Wenjun won a fourth game in a row against challenger Tan Zhonqui, increasing her lead to 6-2. Ju Wenjun is now only half a point away from retaining the title, as match will most likely come to a premature end. | Pictured: Sabrina de San Vicente plays the first move of game eight. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-8",
+         "pubDate" : "Mon, 14 Apr 2025 20:05:00",
+         "title" : "Women's WCC Game 8: Ju grabs fourth win in a row"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120287156.cms\" />Magnus Carlsen triumphed at the Freestyle Chess Grand Slam in Paris, securing the title by defeating Hikaru Nakamura 1.5-0.5 in the final. Carlsen's dominant performance earned him the $200,000 first prize, solidifying his status in this innovative format. Fabiano Caruana claimed third place, edging out Vincent Keymer and securing a spot in the upcoming Grand Slam event in the USA.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-clinches-freestyle-chess-grand-slam-title-in-paris/articleshow/120287156.cms",
+         "pubDate" : "Mon, 14 Apr 2025 16:56:56",
+         "title" : "Magnus Carlsen clinches Freestyle Chess Grand Slam title in Paris"
+      },
+      {
          "description" : " The 25th European Women's Championship took place in Rhodes, Greece, Mon 31st Mar to Sat 12th Apr 2025. Leading players: Nino Batsiashvili, Teodora Injac, Meri Arabidze, Stavroula Tsolakidou etc. The event was dominated by second seed Teodora Injac who after missing mate in two in round one and going on to lose then won nine games in a row to take the title. She agreed a quick draw in the final round. The event was a qualifier for the Women's World Cup with Injac, Mai Narva, Aleksandra Maltsevskaya, Anna Ushenina, Deimante Daulyte-Cornette, Gulnar Mammadova, Sophie Milliet, Oliwia Kiolbasa, Klaudia Kulon and Zia Urh qualifying. Those not mentioned who finished in the top 15 were already qua",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,20 +58,20 @@ news_feed (
          "title" : "Grivas on the Prokeš Manoeuvre (3)"
       },
       {
+         "description" : "India&#39;s most prominent esports organization has entered the chess esports scene with the double signing of GMs Aravindh Chithambaram and Nihal Sarin, two of the nation&#39;s biggest stars. The grandmasters will now represent S8UL as they try to qualif...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aravindh-nihal-signed-for-indian-esports-team-s8ul",
+         "pubDate" : "Mon, 14 Apr 2025 11:05:38",
+         "title" : "'Historic Moment For Indian Chess' As Aravindh, Nihal Are Picked Up By S8UL"
+      },
+      {
          "description" : " The Pune FIDE Women's Grand Prix takes place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/pune-fide-womens-grand-prix-2025",
          "pubDate" : "Mon, 14 Apr 2025 08:51:00",
          "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. After 7 games Ju Wenjun leads 5-2. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Mon, 14 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 8 live!"
       },
       {
          "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's u1700 tournament which will take place at the Holiday Inn, Kenilworth between&#160;Friday 18th July and Monday...",
@@ -80,6 +96,30 @@ news_feed (
          "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-8",
          "pubDate" : "Mon, 14 Apr 2025 04:34:00",
          "title" : "Ju Wenjun Scores 4th Straight Win, Draw Away From Retaining Title"
+      },
+      {
+         "description" : "The Confederation of Chess for Americas (CCA) and the Peruvian Sports Chess Federation have announced the XXXV Pan-American Youth Chess Festival will be held from July 27 to August 3, at the Callao Regional Sports Village in Lima, Peru.There will be 12 sections in the tournament, Open and Girls for each age category: Under 18, Under 16, Under 14, Under 12, Under 10 and Under 8. A player's age as of January 1, 2025 determines their age eligibility for a section.Players entitled to participate in each category are:Under 8: Players born on or after January 1, 2017Under 10: Players born on or after January 1, 2015Under 12: Players born on or after January 1, 2013Under 14: Players born on or afte",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/xxxv-pan-american-youth-chess-festival-announced-registration-information",
+         "pubDate" : "Mon, 14 Apr 2025 00:00:00",
+         "title" : "XXXV Pan-American Youth Chess Festival Announced - Registration Information"
+      },
+      {
+         "description" : "Registration is now open for the 2025 North American Youth Chess Championship, which will be held August 17-23, 2025 at Queen's University in Kingston, Ontario (Canada).The age categories for the 2025 North American Youth are Under 8, Under 10, Under 12, Under 14, Under 16, and Under 18. Each category has an Open and Girls section. For this tournament, a player's age is his or her age as of Jan. 1, 2025. This event is open to players from Canada, Mexico, and the United States.Each section is a 9-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins on August 18. There will also be a Blitz tournament on August 21.Medals, as well as direct",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-north-american-youth-championship-announced",
+         "pubDate" : "Mon, 14 Apr 2025 00:00:00",
+         "title" : "2025 North American Youth Championship Announced"
+      },
+      {
+         "description" : "Registration is now open for the FIDE World Youth Chess Championships 2025. The international event, organized by FIDE, The Confederation of Chess for Americas (CCA) and the Albania Chess Federation, will take place October 4 - October 16, in Tirana, Albania.US Chess will be accepting registrations for eligible U.S. participants until Friday, July 11, 2025, 5PM Central time.TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 18, Under 16, and Under 14.A player's age as of Jan. 1, 2025 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2007Under 16: Players born on or after Jan. 1, 2009Under 14: Players bo",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-2025-fide-world-youth-chess-championships",
+         "pubDate" : "Mon, 14 Apr 2025 00:00:00",
+         "title" : "Registration Open for 2025 FIDE World Youth Chess Championships"
       },
       {
          "description" : "Ju Wenjun moved closer to retaining her title by defeating Tan Zhongyi in game 7 of the 2025 Women's World Chess Championship, marking her third consecutive victory and extending her lead to 5-2. The match resumed in Chongqing, Tan's hometown, after the first six games were played in Shanghai. Although Tan gained an extra pawn in the middlegame, she mishandled the position, allowing Ju to take control. | Photo: Anna Shtourman",
@@ -626,14 +666,6 @@ news_feed (
          "title" : "16-year-old WFM Anastasia Kirtadze takes sole lead in European Women's Chess Championship 2025"
       },
       {
-         "description" : "16-year-old Turkish GM Ediz Gurel added a third Bullet Brawl&#38;nbsp;title to his trophy cabinet on Saturday after a tense battle with his compatriot, 13-year-old GM Yagiz Erdogmus, and the nine-time Bullet Brawl winner, GM Andrew Tang. Two hours o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gurel-ediz-wins-bullet-brawl-april-5-2025",
-         "pubDate" : "Sat, 05 Apr 2025 18:23:00",
-         "title" : "Gurel Triumphs Over Erdogmus In Showdown Between Turkish Prodigies"
-      },
-      {
          "description" : "Of the major board games, Draughts relies primarily on material superiority to achieve victory. Meanwhile Go (known in China as Wei Chi) depends on control of territory. Only chess, where triumph is ultimately and solely confirmed by checkmate, transcends all elements of material, time or space. Although such factors may well contribute to an advantage, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -648,14 +680,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/womens-world-championship-highlights-opening-rounds",
          "pubDate" : "Sat, 05 Apr 2025 00:00:00",
          "title" : "Women's World Championship: Highlights From Opening Rounds"
-      },
-      {
-         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Garry Kasparov greets the participants during the opening ceremony of the 20th Annual KCF All-Girls National Chess Championship (Photo courtesy of DeShaun Adams)<br> <br> <br> <br> The 20th Annual Kasparov Chess Foundation (KCF) All-Girls National Chess Championship kicked off with excitement on opening day, April 4, at the Hyatt Regency McCormick Place in downtown Chicago. Organized in partnership with the Renaissance Knights Chess Foundation and US Chess, this milestone event celebrates two decades of empowering young female chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/record-breaking-opening-20th-annual-kcf-all-girls-national-chess-championship",
-         "pubDate" : "Sat, 05 Apr 2025 00:00:00",
-         "title" : "Record-Breaking Opening for the 20th Annual KCF All-Girls National Chess Championship"
       },
       {
          "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 after a costly endgame blunder due to move 40 time pressure. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31&hellip;c5? (Kf8! is equal) and she then missed her last chance with 40&h",
@@ -690,28 +714,12 @@ news_feed (
          "title" : "European Schools Chess Championship 2025"
       },
       {
-         "description" : "Several players came up just short of a norm at NYC Chess Norms' 2025 Spring Invitational, but there was still plenty of inventive, enterprising chess and one career milestone earned last weekend. FM Tanitoluwa \"Tani\" Adewumi - the 14-year-old star who learned how the pieces move just five years ago - completed the final hurdle to qualify for the IM title by crossing the 2400 FIDE rating threshold for the first time. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tani against Raja Harshit (All photos courtesy of NYC Chess Norms)<br> <br> <br> <br> Competing in the GM A section, Adewumi rose to 2408 in the live FIDE ratings with his 5th round win over ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tani-crosses-2400-qualifies-im-title-nyc-chess-norms-spring-invitational",
-         "pubDate" : "Thu, 03 Apr 2025 00:00:00",
-         "title" : "Tani Crosses 2400, Qualifies for IM Title at NYC Chess Norms Spring Invitational"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119913866.cms\" />World Chess Champion D Gukesh and Viswanathan Anand were seen dancing to popular Bollywood songs at fellow Grandmaster Vidit Gujrathi's wedding, showcasing a rarely seen fun side of the GMs. Gukesh will participate in the Paris Freestyle Chess Grand Slam, while being closely followed by Arjun Erigaisi in the FIDE chess rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Chess Championship (WWCC) begins Thursday, April 3 in Shanghai, China. The 12-game match is a clash between four-time reigning champion GM Ju Wenjun and former champion GM Tan Zhongyi. Tan became world champion in 2017 by defeating GM Anna Muzychuk in the knockout final. At the time, the WWCC format alternated between knockout and match formats, and Tan's first match as reigning champion was against none other than Ju, later that year. Ju won the match 5&frac12;-4&frac12; and has been the incumbent champion ever since. Tan won the 2024 FIDE Women's Candidates Tournament (read CLO coverage of the event here) to earn her first chance to regain her title. For this ma",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fide-womens-world-chess-championship-preview",
-         "pubDate" : "Wed, 02 Apr 2025 00:00:00",
-         "title" : "FIDE Women's World Chess Championship Preview"
       },
       {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-series-2025/",
          "pubDate" : "Wed, 26 Mar 2025 11:33:44",
          "title" : "ECF Online Grand Prix Series 2025"
-      },
-      {
-         "description" : " The Nicosia FIDE Women's Grand Prix took place Sat 15th to Mon 24th Mar 2025. Goryachkina, Anna and Mariya Muzychuk, Zhu Jiner, Dzagnidze, Dronavalli, Divya, Tsolakidou, Badelka and Paehtz. Anna Muzychuk edged out Jiner Zhu on tie-break after both scored 6/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/nicosia-fide-womens-grand-prix-2025",
-         "pubDate" : "Mon, 24 Mar 2025 19:12:00",
-         "title" : "Nicosia FIDE Women's Grand Prix 2025 - Games and Results"
       }
    ]
 }
