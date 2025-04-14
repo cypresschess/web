@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 25th European Women's Championship took place in Rhodes, Greece, Mon 31st Mar to Sat 12th Apr 2025. Leading players: Nino Batsiashvili, Teodora Injac, Meri Arabidze, Stavroula Tsolakidou etc. The event was dominated by second seed Teodora Injac who after missing mate in two in round one and going on to lose then won nine games in a row to take the title. She agreed a quick draw in the final round. The event was a qualifier for the Women's World Cup with Injac, Mai Narva, Aleksandra Maltsevskaya, Anna Ushenina, Deimante Daulyte-Cornette, Gulnar Mammadova, Sophie Milliet, Oliwia Kiolbasa, Klaudia Kulon and Zia Urh qualifying. Those not mentioned who finished in the top 15 were already qua",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/25th-european-womens-championship-2025",
+         "pubDate" : "Mon, 14 Apr 2025 16:54:00",
+         "title" : "25th European Women's Championship 2025 - Games and Results"
+      },
+      {
+         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
+         "pubDate" : "Mon, 14 Apr 2025 12:50:00",
+         "title" : "Freestyle Chess Paris, Final, Game 2 - Live!"
+      },
+      {
+         "description" : "Have you mastered the 'Prokeš Manoeuvre'? Can you confidently handle the endgame rook against two advanced pawns, as explained in two previous articles? Well, here is a final test: try winning some new positions against our diagram engine, and then check with the analysis given at the end to make sure you have understood everything. And tell international trainer Efstratios Grivas if this has been useful for your tournament performance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-3",
+         "pubDate" : "Mon, 14 Apr 2025 11:42:20",
+         "title" : "Grivas on the Prokeš Manoeuvre (3)"
+      },
+      {
+         "description" : " The Pune FIDE Women's Grand Prix takes place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/pune-fide-womens-grand-prix-2025",
+         "pubDate" : "Mon, 14 Apr 2025 08:51:00",
+         "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. After 7 games Ju Wenjun leads 5-2. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-wc-2025-live",
          "pubDate" : "Mon, 14 Apr 2025 08:50:00",
          "title" : "Women's World Chess Championship - Game 8 live!"
+      },
+      {
+         "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's u1700 tournament which will take place at the Holiday Inn, Kenilworth between&#160;Friday 18th July and Monday...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-and-english-womens-championships-2025/",
+         "pubDate" : "Mon, 14 Apr 2025 08:43:22",
+         "title" : "English and English Women's Championships 2025"
       },
       {
          "description" : "Ju Wenjun moved closer to retaining her title by defeating Tan Zhongyi in game 7 of the 2025 Women's World Chess Championship, marking her third consecutive victory and extending her lead to 5-2. The match resumed in Chongqing, Tan's hometown, after the first six games were played in Shanghai. Although Tan gained an extra pawn in the middlegame, she mishandled the position, allowing Ju to take control. | Photo: Anna Shtourman",
@@ -24,14 +64,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-magnus-carlsen-draws-first-blood-against-hikaru-nakamura-in-paris-final/articleshow/120258623.cms",
          "pubDate" : "Sun, 13 Apr 2025 16:32:01",
          "title" : "Carlsen draws first blood against Nakamura in Paris final"
-      },
-      {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Sun, 13 Apr 2025 12:50:00",
-         "title" : "Freestyle Chess Paris, Final, Game 1 - Live!"
       },
       {
          "description" : "In this sneak peek, IM Robert Ris presents Volume 3 of his \"Mastering Chess Strategy\" series for ChessBase, focusing on how to exploit various weaknesses in an opponent's position. He explains that after the earlier volumes defined and classified weaknesses (e.g., weak pawns, weak squares), this third installment dives deeper into identifying and prioritizing multiple weaknesses-especially around the king-while maintaining awareness of tactical opportunities.",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2025-concluded-in-rhodes-greece/",
          "pubDate" : "Sat, 12 Apr 2025 10:14:37",
          "title" : "European Women's Chess Championship 2025 concluded in Rhodes, Greece"
-      },
-      {
-         "description" : "Welcome to The Initiative - a show dedicated to the relentless battle for momentum in chess! In every game, players fight to seize control, dictate the pace, and keep their opponent on the back foot. But what does it really mean to have the initiative? How do the world's best players maintain pressure and transform small advantages into crushing attacks?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-initiative-jan-werle-1",
-         "pubDate" : "Sat, 12 Apr 2025 10:00:00",
-         "title" : "The Initiative: A new show hosted by GM Jan Werle"
       },
       {
          "description" : "World numbers one and two GMs Magnus Carlsen and Hikaru Nakamura will compete for the $200,000 top prize in the Final of the 2025 Paris Freestyle Chess Grand Slam. Carlsen overcame GM Fabiano Caruana, who fought valiantly in a difficult position b...",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "2025 HBCU Chess Classic approaches!"
       },
       {
-         "description" : " The 25th European Women's Championship takes place in Rhodes, Greece, Mon 31st Mar to Sat 12th Apr 2025. Leading players: Nino Batsiashvili, Teodora Injac, Meri Arabidze, Stavroula Tsolakidou etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/25th-european-womens-championship-2025",
-         "pubDate" : "Mon, 31 Mar 2025 16:54:00",
-         "title" : "25th European Women's Championship 2025 - Games and Results"
-      },
-      {
          "description" : "National Team S.NO Name 1 Vignesh N R 2 Das Sayantan 3 Visakh N R 4 Mitrabha Guha 5 Shyaam Nikhil P 6 Sankalp Gupta",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -714,7 +730,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;f&#x65;&#x67;&#117;&#x61;r&#x64;&#x69;&#110;&#x67;&#46;&#x6f;&#x66;&#102;&#x69;c&#x65;&#x72;&#64;&#x65;n&#x67;&#x6c;&#105;&#x73;h&#x63;&#x68;&#101;&#x73;s&#x2e;&#x6f;&#114;&#x67;&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#x65;&#x67;&#x75;&#x61;&#x72;&#x64;&#x69;&#x6e;&#x67;&#x2e;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#x40;&#x65;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;&#x65;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -816,22 +832,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/nicosia-fide-womens-grand-prix-2025",
          "pubDate" : "Mon, 24 Mar 2025 19:12:00",
          "title" : "Nicosia FIDE Women's Grand Prix 2025 - Games and Results"
-      },
-      {
-         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
-         "pubDate" : "Mon, 24 Mar 2025 10:17:19",
-         "title" : "Next Grassroots assessment"
-      },
-      {
-         "description" : "An opportunity exists to play a part in the ECF Grassroots Scheme. We need a new volunteer coordinator to cover South East England. Your task will be to assess grant...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-grassroots-initiative-regional-coordinator-south-east-england/",
-         "pubDate" : "Mon, 24 Mar 2025 09:10:32",
-         "title" : "ECF Grassroots Initiative: Regional Coordinator South East England"
       }
    ]
 }
