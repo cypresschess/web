@@ -26,6 +26,14 @@ news_feed (
          "title" : "25th European Women's Championship 2025 - Games and Results"
       },
       {
+         "description" : "The 2025 Pune FIDE Women&#39;s Grand Prix saw an action-packed first round on Monday with four decisive games. GM Zhu Jiner, IM Polina Shuvalova, IM Divya Deshmukh, and IM Batkhuyag Munguntuul all won against GM Harika Dronavalli, IM Alina Kashlinskay...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-1",
+         "pubDate" : "Mon, 14 Apr 2025 13:20:00",
+         "title" : "Pune Women's Grand Prix Takes Off With 4 Decisive Games"
+      },
+      {
          "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +658,6 @@ news_feed (
          "title" : "Ju Wenjun Strikes Back To Win Game 3"
       },
       {
-         "description" : "Less than 48 hours before the Paris Freestyle Chess Grand Slam kicks off in the French capital, GM Hans Niemann has withdrawn from the tournament for &#34;personal reasons.&#34; The U.S. grandmaster is the second player to be replaced, after GM Alireza Fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-makes-last-minute-withdrawal-from-freestyle-chess",
-         "pubDate" : "Sun, 06 Apr 2025 00:54:00",
-         "title" : "Niemann Withdraws Last Minute From Freestyle Chess In Paris"
-      },
-      {
          "description" : "Six rounds have been played at the European Women's Chess Championship 2025, and 16-year-old WFM Anastasia Kirtadze stunned again, taking the sole lead in the tournament with impressive score of 5.5/6 points. The 77th seed in the tournament, WFM Anastasia Kirtadze (GEO, 2180) today scored against IM Aleksandra Maltsevskaya (POL, 2376). Having black pieces, Kirtadze quickly equalized and gained a pawn up, although, Maltsevskaya had a compensation and the position was in range of equality. Both players were in a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -720,6 +720,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
