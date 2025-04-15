@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After getting the lead in the match on Sunday, Magnus Carlsen did not allow Hikaru Nakamura to get realistic chances of a comeback in the final of the Freestyle Chess Grand Slam leg in Paris, as he secured tournament victory with a draw. Fabiano Caruana defeated Vincent Keymer in their two-game match to grab third place. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-final",
+         "pubDate" : "Tue, 15 Apr 2025 03:45:00",
+         "title" : "Carlsen prevails in final against Nakamura, wins Paris Freestyle Chess Grand Slam"
+      },
+      {
          "description" : "The Women's World Championship match is going very one-sidedly. Today, the defending champion Ju Wenjun won a fourth game in a row against challenger Tan Zhonqui, increasing her lead to 6-2. Ju Wenjun is now only half a point away from retaining the title, as match will most likely come to a premature end. | Pictured: Sabrina de San Vicente plays the first move of game eight. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-magnus-carlsen-draws-first-blood-against-hikaru-nakamura-in-paris-final/articleshow/120258623.cms",
          "pubDate" : "Sun, 13 Apr 2025 16:32:01",
          "title" : "Carlsen draws first blood against Nakamura in Paris final"
-      },
-      {
-         "description" : "In this sneak peek, IM Robert Ris presents Volume 3 of his \"Mastering Chess Strategy\" series for ChessBase, focusing on how to exploit various weaknesses in an opponent's position. He explains that after the earlier volumes defined and classified weaknesses (e.g., weak pawns, weak squares), this third installment dives deeper into identifying and prioritizing multiple weaknesses-especially around the king-while maintaining awareness of tactical opportunities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-exploit-your-opponent-s-weaknesses-sneak-peek",
-         "pubDate" : "Sun, 13 Apr 2025 10:00:00",
-         "title" : "Robert Ris: Exploit your opponent's weaknesses! - Sneak Peek"
       },
       {
          "description" : "On April 12, SenseRobot and the European Chess Union (ECU) officially signed a strategic partnership during a signing ceremony held in Rhodes, Greece. This collaboration represents a significant step toward modernizing chess education and development, combining ECU's established institutional framework with SenseRobot's AI-driven technology,&#160; contributing to the long-term growth and evolution of the sport. The partnership with ECU reflects a broader shift in how chess training is delivered. It moves away from traditional, passive methods toward more dynamic, data-driven approaches. []",
@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
          "pubDate" : "Wed, 02 Apr 2025 17:10:19",
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
       },
       {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
