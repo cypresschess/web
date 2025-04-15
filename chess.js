@@ -722,6 +722,14 @@ news_feed (
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
+      },
+      {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
