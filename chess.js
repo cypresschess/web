@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
+         "pubDate" : "Tue, 15 Apr 2025 11:50:00",
+         "title" : "Women's Grand Prix Pune - Live!"
+      },
+      {
+         "description" : "Tactical analysis is not just exciting, but it is very practical. With ChessBase 18, it is easy to use its findings. In this episode, learn how you can use this ChessBase function to complement your analysis and make it more effective.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-9-tactical-analysis",
+         "pubDate" : "Tue, 15 Apr 2025 09:33:49",
+         "title" : "ChessBase 18 - Tips for Beginners, Part 9: \"Tactical Analysis\""
+      },
+      {
          "description" : "After getting the lead in the match on Sunday, Magnus Carlsen did not allow Hikaru Nakamura to get realistic chances of a comeback in the final of the Freestyle Chess Grand Slam leg in Paris, as he secured tournament victory with a draw. Fabiano Caruana defeated Vincent Keymer in their two-game match to grab third place. | Photo: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -78,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aravindh-nihal-signed-for-indian-esports-team-s8ul",
-         "pubDate" : "Mon, 14 Apr 2025 11:05:38",
+         "pubDate" : "Mon, 14 Apr 2025 11:05:00",
          "title" : "'Historic Moment For Indian Chess' As Aravindh, Nihal Are Picked Up By S8UL"
       },
       {
@@ -138,14 +154,6 @@ news_feed (
          "title" : "Registration Open for 2025 FIDE World Youth Chess Championships"
       },
       {
-         "description" : "Ju Wenjun moved closer to retaining her title by defeating Tan Zhongyi in game 7 of the 2025 Women's World Chess Championship, marking her third consecutive victory and extending her lead to 5-2. The match resumed in Chongqing, Tan's hometown, after the first six games were played in Shanghai. Although Tan gained an extra pawn in the middlegame, she mishandled the position, allowing Ju to take control. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-7",
-         "pubDate" : "Sun, 13 Apr 2025 19:40:00",
-         "title" : "Women's WCC Game 7: Ju outplays Tan, gets three-point lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120258623.cms\" />Magnus Carlsen secured a 1-0 lead against Hikaru Nakamura in the Freestyle Chess Grand Slam final in Paris, capitalising on a crucial error by Nakamura. Carlsen's precise conversion of the advantage puts pressure on Nakamura to win the second game. Fabiano Caruana also leads in the third-place match, while other placement matches saw victories for Arjun Erigaisi and Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-7",
          "pubDate" : "Sun, 13 Apr 2025 04:20:00",
          "title" : "Ju Wenjun Closes In On World Championship Title As Tan Zhongyi Collapses"
-      },
-      {
-         "description" : "Teodora Injac of Serbia won the 25th European Women's Chess Championship in Rhodes with an impressive 9&frac12;/11, finishing 1&frac12; points clear of the field. Despite losing her first-round game to 16-year-old Anastasia Kirtadze - having missed a mate-in-two - Injac rebounded with nine straight wins, including victories over key contenders. Irina Bulmaga, Mai Narva and Aleksandra Maltsevskaya tied for second place with 8 points each. | Photos: European Chess Union / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-ch-2025-r11",
-         "pubDate" : "Sat, 12 Apr 2025 20:35:00",
-         "title" : "Following nine-game winning streak, Teodora Injac wins European Women's Championship"
       },
       {
          "description" : "GM Oleksandr Bortnyk, Bullet Brawl&#39;s third most prolific winner, added an 11th career title to his trophy cabinet after topping the 205-player arena on Saturday. Bortnyk turned back challenges from GMs Daniel Naroditsky, Jose Martinez, and Ediz Gu...",
@@ -248,14 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dubov-artemiev-picked-up-by-team-spirit",
          "pubDate" : "Sat, 12 Apr 2025 03:33:03",
          "title" : "Speed Chess Stars Dubov, Artemiev Picked Up By Team Spirit"
-      },
-      {
-         "description" : "The 2024 European Chess Championship in Romania drew nearly 400 players and concluded with Matthias Bluebaum claiming the title for a second time. Across eleven rounds, the tournament offered no shortage of drama and complexity. In this article, two games from the event are examined - both notable for their sharp conclusions and instructive endgame moments. Light annotations in the openings are followed by deeper analysis of the critical late-stage play. | Pictured: Mahammad Muradli from Azerbaijan (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-226",
-         "pubDate" : "Fri, 11 Apr 2025 22:40:00",
-         "title" : "Jon Speelman: Ructions in Romania"
       },
       {
          "description" : "Like a phoenix from the ashes, Serbian IM Teodora Injac recovered from a first-round loss at the 2025 European Women&#39;s Championship, winning nine games in a row and claiming her first continental title with a round to spare. A nine-move draw in ro...",
@@ -746,7 +738,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#x65;&#x67;&#x75;&#x61;&#x72;&#x64;&#x69;&#x6e;&#x67;&#x2e;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#x40;&#x65;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;&#x65;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;&#x75;a&#114;&#100;&#x69;&#x6e;&#x67;&#46;o&#102;&#x66;&#x69;&#x63;er&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#104;&#x63;&#x68;&#x65;s&#115;&#46;&#x6f;&#x72;&#x67;&#46;u&#107; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
