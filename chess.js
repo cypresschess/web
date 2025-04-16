@@ -2,12 +2,124 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the 2022 Olympiad in Chennai, FIDE set up a Fair Play Commission aimed at preventing cheating in chess. The commission received sweeping powers, over and above those of the arbiters or chess tournaments. Is that necessary and justified? Malcolm Pein, writer for The Daily Telegraph, takes vigorous offence at the working of the commission in the editorial of the London-based magazine CHESS.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/malcolm-pein-on-unfair-play",
+         "pubDate" : "Wed, 16 Apr 2025 13:00:00",
+         "title" : "Malcolm Pein on Unfair Play"
+      },
+      {
          "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
-         "pubDate" : "Tue, 15 Apr 2025 11:50:00",
+         "pubDate" : "Wed, 16 Apr 2025 11:50:00",
          "title" : "Women's Grand Prix Pune - Live!"
+      },
+      {
+         "description" : " Ju Wenjun completed the formality of defending her title against with a draw in game 9 of their Women's World Championship match. All the hard work had been done with four wins in a row between games 5 and 8. Ju Wenjun didn't have the match all her own way but her reliability and technical play was far in advance of her opponent and that proved the difference. This was an impressive win for her. This is her fifth title match win, she gained the title from her opponent Tan Zhongyi in a match in 2018. Ju's seconds were Ni Hua, probably Maxime Matlakov and a name I didn't catch.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-beats-tan-zhongyi-6.5-2.5-to-remain-womens-world-chess-champion",
+         "pubDate" : "Wed, 16 Apr 2025 10:54:00",
+         "title" : "Ju Wenjun beats Tan Zhongyi 6.5-2.5 to remain Women's World Chess Champion - 9"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120335317.cms\" />Ju Wenjun has secured her fifth FIDE Women's World Championship title, defeating Tan Zhongyi with a dominant 6.5-2.5 score in Chongqing. After an initial setback, Ju won four consecutive games, sealing the victory and a €300,000 prize. She now joins an elite group of five-time champions, while Tan earned €200,000. Both players are set to compete in upcoming tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ju-wenjun-beats-tan-zhongyi-to-win-fifth-womens-world-championship/articleshow/120335317.cms",
+         "pubDate" : "Wed, 16 Apr 2025 10:51:23",
+         "title" : "Ju Wenjun beats Tan Zhongyi to win fifth Women's World Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120340979.cms\" />Indian chess fans face disappointment as their grandmasters struggle in the Freestyle Chess Grand Slam. Despite Arjun Erigaisi's quarterfinal appearance, Gukesh Dommaraju, Vidit Gujrathi, and Rameshbabu Praggnanandhaa failed to advance. Coach Srinath Narayanan believes it's too early to judge, citing the high level of competition and the need for adaptation to the format.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-are-top-indian-grandmasters-struggling-at-freestyle-chess/articleshow/120340979.cms",
+         "pubDate" : "Wed, 16 Apr 2025 10:26:18",
+         "title" : "Why are top Indian GMs struggling at Freestyle Chess?"
+      },
+      {
+         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. After 7 games Ju Wenjun leads 5-2. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
+         "pubDate" : "Wed, 16 Apr 2025 08:50:00",
+         "title" : "Women's World Chess Championship - Game 9 live!"
+      },
+      {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our current issue, CBM 224. 209 games from the Tata Steel Tournament, 15 annotated, 11 opening surveys, 4 opening videos, 7 demo lectures and several exercises for training. Annotators include Anish Giri, Nodirbek Abdusattorov, Praggnanandhaa and Karsten M&uuml;ller, among others. The icing on the cake is a special feature on Viktor Korchnoi, with 24 annotated games. | Photo: Tata Steel Chess / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-224-review-nagesh-havanur",
+         "pubDate" : "Wed, 16 Apr 2025 06:00:00",
+         "title" : "CBM 224: Pragg pips Gukesh at the post"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120332397.cms\" />Divya Deshmukh secured an unexpected lead in the FIDE Women's Grand Prix after R Vaishali faltered, leading to a quick 26-move victory for Divya. Zhu Jiner also claimed a win against Batkhuyag Munguntuul, joining Divya at the top. Other games saw draws, including matches between Melia Salome and K Humpy, and Polina Shuvalova and Nurgyul Salimova.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-takes-unexpected-lead-in-fide-womens-grand-prix-pune/articleshow/120332397.cms",
+         "pubDate" : "Wed, 16 Apr 2025 05:39:49",
+         "title" : "Divya Deshmukh takes unexpected lead in FIDE Women's Grand Prix Pune"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120331885.cms\" />Despite empowerment initiatives, women in chess lag globally, with top players' ratings significantly lower than their male counterparts. Factors such as fewer practice hours, societal responsibilities, and emotional responses contribute to this disparity. While some advocate for equal training opportunities, others highlight inherent differences and the challenges women face in pursuing chess careers with the same intensity as men.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-doesnt-lack-womens-talent-it-lacks-equal-investment-koneru-humpy/articleshow/120331885.cms",
+         "pubDate" : "Wed, 16 Apr 2025 05:22:24",
+         "title" : "'Chess doesn't lack women's talent, it lacks equal investment': K Humpy"
+      },
+      {
+         "description" : "GM Ju Wenjun has beaten GM Tan Zhongyi 6.5-2.5 to win the 2025 FIDE Women&#39;s World Championship and become only the fourth woman in history to win the title five times. The title holder since 2018 wrapped up the match with three games to spare afte...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ju-wenjun-wins-5th-womens-world-chess-championship",
+         "pubDate" : "Wed, 16 Apr 2025 02:14:00",
+         "title" : "Ju Wenjun Wins 5th Women's World Chess Championship"
+      },
+      {
+         "description" : "Drama unfolded in the second round of the Pune Women's Grand Prix as Vaishali Rameshbabu's crucial mistake - playing her bishop one move too soon - handed Divya Deshmukh her second consecutive victory. Meanwhile, Zhu Jiner demonstrated masterful rook endgame technique to defeat Munguntuul Batkhuyag, placing both winners at the top of the leaderboard with perfect scores. | Photo: Abhilash Shinde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-2",
+         "pubDate" : "Wed, 16 Apr 2025 02:00:00",
+         "title" : "Women's GP Pune: Divya and Zhu share the lead with 2/2"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen beat world number-two Hikaru Nakamura 1.5-0.5 in the Final to win the 2025 Paris Freestyle Chess Grand Slam and take the Tour lead with 40 points and $300,000 in prize money. Let&#39;s look at some conclusions from the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-paris-freestyle-chess-grand-slam-7-conclusions",
+         "pubDate" : "Tue, 15 Apr 2025 23:46:33",
+         "title" : "Carlsen Wins Paris Freestyle Chess Grand Slam: 7 Conclusions"
+      },
+      {
+         "description" : "On 4 April, Iceland's first grandmaster Fridrik Olafsson passed away. Olafsson had celebrated his 90th birthday in January. After ending his career as a professional chess player, he became a lawyer and eventually became FIDE President. FIDE published Olafsson's last interview, in which he talks about computers, his chess career and his friendship with Bobby Fischer and Boris Spassky, among other things.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fridrik-olafsson-last-interview",
+         "pubDate" : "Tue, 15 Apr 2025 18:15:00",
+         "title" : "Fridrik Olafsson's last interview"
+      },
+      {
+         "description" : " The Reykjavik Open took place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc. Top seed Parham Maghsoodloo won the event with 7/9 half a point clear of 10 players, Vasyl Ivanchuk finishing second on tie-break.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2025",
+         "pubDate" : "Tue, 15 Apr 2025 13:56:00",
+         "title" : "Reykjavik Open 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Zhu Jiner&#38;nbsp;and IM Divya Deshmukh won their second games on Tuesday and lead the 2025 Pune FIDE Women&#39;s Grand Prix with a perfect 2/2 score. Whereas Zhu needed 66 moves to grind down IM Batkhuyag Munguntuul in a rook endgame, Divya was the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-2",
+         "pubDate" : "Tue, 15 Apr 2025 11:07:58",
+         "title" : "Divya, Zhu Win Again To Lead Pune Women's Grand Prix With 2/2"
       },
       {
          "description" : "Tactical analysis is not just exciting, but it is very practical. With ChessBase 18, it is easy to use its findings. In this episode, learn how you can use this ChessBase function to complement your analysis and make it more effective.",
@@ -18,20 +130,28 @@ news_feed (
          "title" : "ChessBase 18 - Tips for Beginners, Part 9: \"Tactical Analysis\""
       },
       {
-         "description" : "After getting the lead in the match on Sunday, Magnus Carlsen did not allow Hikaru Nakamura to get realistic chances of a comeback in the final of the Freestyle Chess Grand Slam leg in Paris, as he secured tournament victory with a draw. Fabiano Caruana defeated Vincent Keymer in their two-game match to grab third place. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-final",
-         "pubDate" : "Tue, 15 Apr 2025 03:45:00",
-         "title" : "Carlsen prevails in final against Nakamura, wins Paris Freestyle Chess Grand Slam"
+         "description" : "This week's puzzles come from the 2025 KCF All-Girls National Chess Championship, focusing on the games of the Under-14 and Under-18 winners. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-kcf-all-girls",
+         "pubDate" : "Tue, 15 Apr 2025 00:00:00",
+         "title" : "Tactics Tuesday: KCF All-Girls"
       },
       {
-         "description" : "The Women's World Championship match is going very one-sidedly. Today, the defending champion Ju Wenjun won a fourth game in a row against challenger Tan Zhonqui, increasing her lead to 6-2. Ju Wenjun is now only half a point away from retaining the title, as match will most likely come to a premature end. | Pictured: Sabrina de San Vicente plays the first move of game eight. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-8",
-         "pubDate" : "Mon, 14 Apr 2025 20:05:00",
-         "title" : "Women's WCC Game 8: Ju grabs fourth win in a row"
+         "description" : "Registration is now open for the 2025 Pan-American Juniors Championship, which will be held June 13-20, 2025 at CEMINA Centro Militar Naval y Aeron&aacute;utico in Asuncion, Paraguay.The age categories for the 2025 Pan-American Juniors Championship are Open Under 20 and Girls Under 20. This event is open to players from any American country.Each section is a 9-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins on June 13.Medals, as well as direct FIDE titles and norms, are awarded to the top three players in each section.RegistrationPlease note: Registration must be completed directly with the event organizers, not with US Chess.Playe",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-pan-american-juniors-championship-announced",
+         "pubDate" : "Tue, 15 Apr 2025 00:00:00",
+         "title" : "2025 Pan-American Juniors Championship Announced"
+      },
+      {
+         "description" : "After the first half of the match and a score of 4-2 in the favor of GM Ju Wenjun - the four-time defending FIDE Women's World Champion - the players had two days off to travel to the new host city for the second half of the match. After starting in Ju's home of Shanghai, the match moved roughly 1,000 miles to GM Tan Zhongyi's home of Chongqing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy of Anna Shtourman/FIDE<br> <br> <br> <br> The players may have had two days \"off,\" but we all know how flights can affect one's habits. While many think being home could play an important role in feeling comfortable and maybe regaining confiden",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/womens-world-championship-match-point",
+         "pubDate" : "Tue, 15 Apr 2025 00:00:00",
+         "title" : "Women's World Championship: Match Point"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120287156.cms\" />Magnus Carlsen triumphed at the Freestyle Chess Grand Slam in Paris, securing the title by defeating Hikaru Nakamura 1.5-0.5 in the final. Carlsen's dominant performance earned him the $200,000 first prize, solidifying his status in this innovative format. Fabiano Caruana claimed third place, edging out Vincent Keymer and securing a spot in the upcoming Grand Slam event in the USA.",
@@ -106,7 +226,7 @@ news_feed (
          "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
       },
       {
-         "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's u1700 tournament which will take place at the Holiday Inn, Kenilworth between&#160;Friday 18th July and Monday...",
+         "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's U1700 tournament which will take place at the Holiday Inn, Kenilworth between Friday 18th July and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-and-english-womens-championships-2025/",
@@ -354,14 +474,6 @@ news_feed (
          "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
       },
       {
-         "description" : " The Reykjavik Open takes place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2025",
-         "pubDate" : "Thu, 10 Apr 2025 13:56:00",
-         "title" : "Reykjavik Open 2025 - Games and Results"
-      },
-      {
          "description" : " After a tentative start Ju Wenjun, the Women's World Champion, has taken a 4-2 lead at the half way stage of her match against challenger Tan Zhongyi. The match now breaks for three days as it moves from Shanghai to Chongqing. Game 6 saw Ju equalise quite quickly and even get quite a nice advantage, but 22...Bf6 was a misstep that allowed Tan equality. The position remained complicated and 31.h4? was a serious mistake that cost Tan the game, she couldn't even keep queens on and Ju's technique allowed no way back.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -554,22 +666,6 @@ news_feed (
          "title" : "Freestyle Chess Grand Slam: Carlsen and Abdusattorov in the lead"
       },
       {
-         "description" : "What to Watch For: Practical Decision-Making in Games 3 and 4After the challenger, GM Tan Zhongyi, took an early lead in the FIDE Women's World Chess Championship match, WGM Sabina Foisor and I looked at three emerging storylines from the match on Saturday's rest day. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Ju Wenjun carefully studies her position in game 4 (Photo courtesy of Anna Shtourman/FIDE)<br> <br> <br> <br> Since then, GM Ju Wenjun bounced back with a win on Sunday, while Tan missed some chances to push harder on Monday, leaving the match tied at 2-2. Play resumes on Wednesday, April 9, after today's rest day. After Thursday's sixth gam",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/womens-world-championship-highlights-games-3-4",
-         "pubDate" : "Tue, 08 Apr 2025 00:00:00",
-         "title" : "Women's World Championship: Highlights From Games 3-4"
-      },
-      {
-         "description" : "Today's Tactics Tuesday continues a multi-week feature on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York. In fact, this is our 12th and final part of the series!Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy Lennart Ootes/FIDE (left, center) and Michal Walusza/FIDE (right)<br> <br> This week, we conclude our series with a dazzling array of mating net",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-rapid-blitz-pt-12-liang",
-         "pubDate" : "Tue, 08 Apr 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Rapid & Blitz, Pt. 12 (Liang)"
-      },
-      {
          "description" : "Seven rounds have been already played at the European Women's Chess Championship 2025 in Rhodes, Greece, and WFM Anastasia Kirtadze (GEO, 2180) and IM Teodora Injac tie for the top scoring 6/7 points each. Today's round was opened by ECU President Mr. Zurab Azmaiparashvili who addressed the players, while the delegate of the Israel Chess Federation Mr. Moshe Slav played the first ceremonial move on the top-board game between WFM Anastasia Kirtadze and IM Sophie Milliet to inaugurate the start []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -610,22 +706,6 @@ news_feed (
          "title" : "Mystery of Hans Niemann and withdrawal from Freestyle Chess"
       },
       {
-         "description" : "GM Ju Wenjun survived heavy pressure on the board and on the clock to make a five-hour, 80-move draw against GM Tan Zhongyi that leaves the scores level at 2-2 after game four of the 2025 FIDE Women&#39;s World Championship. Both players competed to s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-4",
-         "pubDate" : "Mon, 07 Apr 2025 05:29:00",
-         "title" : "Ju Wenjun Survives Heavy Pressure As Game 4 Goes To Bare Kings"
-      },
-      {
-         "description" : "Fridrik Olafsson, Iceland&#38;rsquo;s first grandmaster, two-time Nordic Champion, six-time Icelandic champion, the oldest living candidate for the world chess championship, and former FIDE President, passed away on Friday April 4 aged 90 after enduri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/obituary-fridrik-olafsson-1935-2025",
-         "pubDate" : "Mon, 07 Apr 2025 04:51:00",
-         "title" : "Fridrik Olafsson 1935-2025"
-      },
-      {
          "description" : " The Freestyle Grand Slam Paris takes place Mon 7th Apr to Mon 14th Apr 2025. Chess960 in Paris. Players: Carlsen, Nakamura, Gukesh, Erigaisi, Caruana, Abdusattorov, Praggnanandhaa, Nepomniachtchi, Rapport, Vachier-Lagrave, Vidit and Keymer play. Niemann withdrew at the last minute and was replaced by Abdusattorov. I can provide game downloads but can't display the games for this variant of chess.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -642,14 +722,6 @@ news_feed (
          "title" : "'Gukesh accepted he didn't do well': World champion returns for Paris leg of Freestyle Chess Grand Slam Tour"
       },
       {
-         "description" : "GM Ju Wenjun ground out a win in a pawn-up endgame to defeat GM Tan Zhongyi and level the scores at 1.5-1.5 after three games of the&#38;nbsp;2025 FIDE Women&#39;s World Championship. Tan played fast in a Sicilian to pressure her opponent, but in the run-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-3",
-         "pubDate" : "Sun, 06 Apr 2025 05:31:00",
-         "title" : "Ju Wenjun Strikes Back To Win Game 3"
-      },
-      {
          "description" : "Six rounds have been played at the European Women's Chess Championship 2025, and 16-year-old WFM Anastasia Kirtadze stunned again, taking the sole lead in the tournament with impressive score of 5.5/6 points. The 77th seed in the tournament, WFM Anastasia Kirtadze (GEO, 2180) today scored against IM Aleksandra Maltsevskaya (POL, 2376). Having black pieces, Kirtadze quickly equalized and gained a pawn up, although, Maltsevskaya had a compensation and the position was in range of equality. Both players were in a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -664,14 +736,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-go-and-global-diplomacy/",
          "pubDate" : "Sat, 05 Apr 2025 12:23:57",
          "title" : "Chess, Go and global diplomacy"
-      },
-      {
-         "description" : "Three Storylines to Watch From ShanghaiGM Tan Zhongyi leads four-time defending champion GM Ju Wenjun 1&frac12;-&frac12; in Shanghai after two rounds of the 2025 FIDE Women's World Chess Championship (WWCC). <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Tan (L) and Ju shake hands at the opening ceremony (Photo courtesy of Anna Shtourman/FIDE)<br> <br> <br> <br> Tan - who won the 2017 FIDE WWCC before losing her title in a match against Ju a year later - took advantage of Ju's time trouble in an imbalanced rook-and-pawns endgame to win game 2 on Friday. Play resumes on Sunday, April 6, at 3:00 a.m. EDT (which is 3:00 p.m. local time). <br> <br> <br> <",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/womens-world-championship-highlights-opening-rounds",
-         "pubDate" : "Sat, 05 Apr 2025 00:00:00",
-         "title" : "Women's World Championship: Highlights From Opening Rounds"
       },
       {
          "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 after a costly endgame blunder due to move 40 time pressure. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31&hellip;c5? (Kf8! is equal) and she then missed her last chance with 40&h",
@@ -714,14 +778,6 @@ news_feed (
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
-      },
-      {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -738,7 +794,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;&#x75;a&#114;&#100;&#x69;&#x6e;&#x67;&#46;o&#102;&#x66;&#x69;&#x63;er&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#104;&#x63;&#x68;&#x65;s&#115;&#46;&#x6f;&#x72;&#x67;&#46;u&#107; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;a&#x66;e&#x67;u&#x61;r&#x64;i&#x6e;g&#x2e;&#111;&#x66;&#102;&#x69;&#99;&#x65;&#114;&#x40;&#101;&#x6e;&#103;&#x6c;&#105;s&#x68;c&#x68;e&#x73;s&#x2e;o&#x72;g&#x2e;&#117;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -800,14 +856,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/12th-chessmates-international-in-york/",
          "pubDate" : "Thu, 27 Mar 2025 11:44:10",
          "title" : "12th ChessMates International in York"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119581503.cms\" />Reigning world chess champion D Gukesh Dommaraju has named legendary cricketer MS Dhoni as his idol, admiring Dhoni's composure under pressure. Gukesh credits Dhoni's calmness and clear thinking in high-stakes situations for positively influencing his approach to handling pressure in his chess games. Recently, Gukesh spoke about his deep admiration for Dhoni and the significant role the cricketing icon has played in shaping his mindset and approach to pressure situations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ms-dhoni-doesnt-react-to-anything-d-gukesh-on-how-dhoni-shaped-his-chess-career/articleshow/119581503.cms",
-         "pubDate" : "Thu, 27 Mar 2025 07:14:58",
-         "title" : "'MS Dhoni doesn't react to ... ': Gukesh on how Dhoni shaped his chess career"
       },
       {
          "description" : " Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors; Champions Showdown Serves as Event Prequel SAINT LOUIS, March 3, 2025&#160;- The 2025 American Cup hosted by the Saint Louis Chess Club, set to take place at World Chess Hall of Fame March 15-24, promises to be a defining event in [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/\">The 2025 American Cup: Showcasing America's Top Chess Talents</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
