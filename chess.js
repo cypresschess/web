@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a very one-sided match, Ju Wenjun defended her title as women's world champion against Tan Zhongyi. Although the challenger took the lead in the second game, she suffered four consecutive defeats from the fifth game onwards. A draw in the ninth game today was enough for Ju Wenjun to win the match - played to the best of twelve games - early and defend her title. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-9",
+         "pubDate" : "Wed, 16 Apr 2025 18:30:00",
+         "title" : "Ju Wenjun retains Women's World Championship title in lopsided match"
+      },
+      {
          "description" : "After the 2022 Olympiad in Chennai, FIDE set up a Fair Play Commission aimed at preventing cheating in chess. The commission received sweeping powers, over and above those of the arbiters or chess tournaments. Is that necessary and justified? Malcolm Pein, writer for The Daily Telegraph, takes vigorous offence at the working of the commission in the editorial of the London-based magazine CHESS.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cups-2025-official-invitation/",
          "pubDate" : "Wed, 16 Apr 2025 11:29:07",
          "title" : "European Chess Club Cups 2025 - Official invitation"
+      },
+      {
+         "description" : "Drawing her game with IM Salome Melia was enough for GM Zhu Jiner to become the sole leader at the 2025 Pune FIDE Women&#39;s Grand Prix with 2.5/3. That was because co-leader IM Divya Deshmukh lost her first game, with the black pieces to GM Humpy Ko...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-3",
+         "pubDate" : "Wed, 16 Apr 2025 11:24:08",
+         "title" : "Zhu Sole Leader At Pune Women's Grand Prix As Humpy Beats Divya"
       },
       {
          "description" : " Ju Wenjun completed the formality of defending her title against with a draw in game 9 of their Women's World Championship match. All the hard work had been done with four wins in a row between games 5 and 8. Ju Wenjun didn't have the match all her own way but her reliability and technical play was far in advance of her opponent and that proved the difference. This was an impressive win for her. This is her fifth title match win, she gained the title from her opponent Tan Zhongyi in a match in 2018. Ju's seconds were Ni Hua, Maxime Matlakov and WGM Wang Pin.",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "Magnus Wins Second Straight Late Tuesday"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our current issue, CBM 224. 209 games from the Tata Steel Tournament, 15 annotated, 11 opening surveys, 4 opening videos, 7 demo lectures and several exercises for training. Annotators include Anish Giri, Nodirbek Abdusattorov, Praggnanandhaa and Karsten M&uuml;ller, among others. The icing on the cake is a special feature on Viktor Korchnoi, with 24 annotated games. | Photo: Tata Steel Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-224-review-nagesh-havanur",
-         "pubDate" : "Wed, 16 Apr 2025 06:00:00",
-         "title" : "CBM 224: Pragg pips Gukesh at the post"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120332397.cms\" />Divya Deshmukh secured an unexpected lead in the FIDE Women's Grand Prix after R Vaishali faltered, leading to a quick 26-move victory for Divya. Zhu Jiner also claimed a win against Batkhuyag Munguntuul, joining Divya at the top. Other games saw draws, including matches between Melia Salome and K Humpy, and Polina Shuvalova and Nurgyul Salimova.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -104,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-2",
          "pubDate" : "Wed, 16 Apr 2025 02:00:00",
          "title" : "Women's GP Pune: Divya and Zhu share the lead with 2/2"
+      },
+      {
+         "description" : "US Chess Announces New Events Manager<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce the addition of a new Events Manager, Erik Czerwin. Erik will be working in the Events Department on National Events including the US Open, National Scholastic Championships, invitational tournaments, and director certification, among other responsibilities. US Chess is excited to add Erik's experience, versatility and knowledge to our staff.Erik Czerwin's chess journey began in 2005 as a teacher, coaching chess as an extracurricular activity. Over his teaching tenure, he has coached in Peoria, Marengo, and Rockford, Illinois. He has also supported and gr",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-announces-new-events-manager-and-new-graphic-design-assistant",
+         "pubDate" : "Wed, 16 Apr 2025 00:00:00",
+         "title" : "US Chess Announces New Events Manager and New Graphic Design Assistant"
       },
       {
          "description" : "World number-one Magnus Carlsen beat world number-two Hikaru Nakamura 1.5-0.5 in the Final to win the 2025 Paris Freestyle Chess Grand Slam and take the Tour lead with 40 points and $300,000 in prize money. Let&#39;s look at some conclusions from the ...",
@@ -658,14 +674,6 @@ news_feed (
          "title" : "Nepomniachtchi, Carlsen Tie For 1st, Gukesh Misses Out On Paris Quarterfinals"
       },
       {
-         "description" : "Are you ready for free-for-all madness over 160 squares? Then mark your calendar and join the upcoming Chess.com 4 Player Chess Championship! This next event of the Chess.com Community Championships takes place from April 14 to April 18 and featur...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-4-player-chess-championship-2025",
-         "pubDate" : "Tue, 08 Apr 2025 08:00:00",
-         "title" : "It's Everybody For Themselves! Get Ready For The Madness Of Chess.com's 4 Player Chess Championship"
-      },
-      {
          "description" : "The 'Prokeš Manoeuvre' is a tactic that enables a rook to draw against two advanced pawns in an endgame. It is a very important endgame scheme that will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Take a look at this position. Would you be able to draw with white? And how would you do it? Let international trainer Efstratios Grivas explain everything.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -786,6 +794,14 @@ news_feed (
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
+         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
+         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
+      },
+      {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -802,7 +818,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;f&#x65;&#x67;&#117;&#x61;r&#100;&#x69;&#110;&#x67;&#46;&#111;&#x66;f&#x69;c&#101;&#x72;&#64;&#x65;&#x6e;&#103;&#x6c;i&#115;&#x68;&#99;&#x68;e&#115;&#x73;&#46;&#x6f;r&#103;&#x2e;u&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;e&#x67;&#x75;&#97;rd&#x69;&#x6e;&#103;&#46;&#x6f;&#x66;&#102;&#105;c&#x65;&#x72;&#64;e&#x6e;&#x67;&#108;&#105;s&#x68;&#x63;&#104;e&#x73;&#x73;&#46;&#111;r&#x67;&#x2e;&#117;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
