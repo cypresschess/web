@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Classical Sicilian remains one of the most resilient and strategically rich responses to 1.e4. In this new ChessBase course, Grandmaster S.P. Sethuraman offers an in-depth guide to this time-tested defence, covering key lines such as 6.Bg5, 6.f3 and 6.Bc4. Designed for ambitious club players and competitive improvers alike, the course balances theoretical depth with practical insight, featuring model games, tactical drills and move-order nuances. With over five hours of video content, it's a comprehensive repertoire for Black.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sethuraman-classical-sicilian-intro",
+         "pubDate" : "Wed, 16 Apr 2025 23:30:00",
+         "title" : "S.P. Sethuraman: The Classical Sicilian - A Timeless Counterattacking Weapon"
+      },
+      {
          "description" : "In a very one-sided match, Ju Wenjun defended her title as women's world champion against Tan Zhongyi. Although the challenger took the lead in the second game, she suffered four consecutive defeats from the fifth game onwards. A draw in the ninth game today was enough for Ju Wenjun to win the match - played to the best of twelve games - early and defend her title. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,6 +120,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-2",
          "pubDate" : "Wed, 16 Apr 2025 02:00:00",
          "title" : "Women's GP Pune: Divya and Zhu share the lead with 2/2"
+      },
+      {
+         "description" : "Photo by Nikki Metzler Photography April Statement:Dear Fellow Chess Enthusiasts,I am excited to announce my candidacy for the Executive Board of US Chess, with a passion to further the game globally and address members' concerns. With many years' experience and service to US Chess in various roles, I am confident in my ability to serve our community.I will explain my growth in the chess world and goals that I wish to accomplish in the next letter. My qualifications include starting at the local and state levels eventually working at the national level.I am committed to working tirelessly to promote chess and serve our members. I would be honored to earn your vote and join the Executive Boar",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/alan-kantor-2025-executive-board-candidate-v2",
+         "pubDate" : "Wed, 16 Apr 2025 00:00:00",
+         "title" : "Alan Kantor 2025 Executive Board Candidate"
+      },
+      {
+         "description" : "This week's puzzles come from the 2025 KCF All-Girls National Chess Championship, focusing on some key variations and missed opportunities from games of the Under-14 and Under-18 winners. For more exercises from this event, see yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-20th-kcf-all-girls-championship",
+         "pubDate" : "Wed, 16 Apr 2025 00:00:00",
+         "title" : "Wednesday Workout: 20th KCF All-Girls Championship"
       },
       {
          "description" : "US Chess Announces New Events Manager<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce the addition of a new Events Manager, Erik Czerwin. Erik will be working in the Events Department on National Events including the US Open, National Scholastic Championships, invitational tournaments, and director certification, among other responsibilities. US Chess is excited to add Erik's experience, versatility and knowledge to our staff.Erik Czerwin's chess journey began in 2005 as a teacher, coaching chess as an extracurricular activity. Over his teaching tenure, he has coached in Peoria, Marengo, and Rockford, Illinois. He has also supported and gr",
@@ -634,22 +658,6 @@ news_feed (
          "title" : "Ju Wenjun Wins Game 5 To Take World Championship Lead"
       },
       {
-         "description" : "This week's Wednesday Workout continues our series on the 2024 FIDE World Rapid &amp; Blitz Championships, held December 26 - 31 in New York.Our coverage of the rapid and blitz events focused on the winners, but several dozen Americans competed and many gained rating and delivered some nice upsets. Follow the above links to the first 11 parts of this series, which concludes today. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos courtesy Lennart Ootes/FIDE (left, center) and Michal Walusza/FIDE (right)<br> <br> This week, we conclude our series with highli",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-rapid-blitz-pt-12-liang",
-         "pubDate" : "Wed, 09 Apr 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Rapid & Blitz, Pt. 12 (Liang)"
-      },
-      {
-         "description" : "Editor's note: This recap of the KCF All-Girls National Chess Championship was authored by Ella Guo, a junior at The Harker School in California. CLO is grateful for Guo's contribution and her initiative in reaching out and offering to write this article while also competing in the U18 section. If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additoinal photos.The 20th Kasparov Chess Foundation (KCF) All-Girls National Chess Championship began with energy and excitement as more than 500 girls from 33 states gathered to compete in one of the largest girls' chess events in the c",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/more-competition-20th-kcf-all-girls-national-chess-championship-celebrates-bright-future-girls",
-         "pubDate" : "Wed, 09 Apr 2025 00:00:00",
-         "title" : "More Than A Competition: The 20th KCF All-Girls National Chess Championship Celebrates Bright Future of Girls in Chess"
-      },
-      {
          "description" : "Eight rounds were played at the European Women's Chess Championship 2025 and IM Teodora Injac made a spectacular comeback after the loss in the first round, taking the sole lead in the tournament! IM Teodora Injac (SRB, 2454) suffered a tough loss in the first round against WFM Anastasia Kirtadze (GEO, 2180) where she had a mate in two motive to win the game, but missed it and entered a lost rooks endgame. She now won seven consecutive games to []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -794,14 +802,6 @@ news_feed (
          "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119896150.cms\" />Gujarat's Pragnika Vaka secured the world champion title in the under-7 girls' category at the 2025 FIDE World School Championship in Serbia, scoring an outstanding nine out of nine points. Apart from Pragnika's gold, India won two silver medals in the U-7 open and U-11 girls' categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pragnika-vaka-all-of-7-is-already-a-world-chess-champion/articleshow/119896150.cms",
-         "pubDate" : "Wed, 02 Apr 2025 05:46:18",
-         "title" : "Pragnika Vaka, all of 7, is already a world champion!"
-      },
-      {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/12th-chessmates-international-in-york/",
          "pubDate" : "Thu, 27 Mar 2025 11:44:10",
          "title" : "12th ChessMates International in York"
-      },
-      {
-         "description" : " Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors; Champions Showdown Serves as Event Prequel SAINT LOUIS, March 3, 2025&#160;- The 2025 American Cup hosted by the Saint Louis Chess Club, set to take place at World Chess Hall of Fame March 15-24, promises to be a defining event in [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/\">The 2025 American Cup: Showcasing America's Top Chess Talents</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/",
-         "pubDate" : "Wed, 26 Mar 2025 19:40:54",
-         "title" : "The 2025 American Cup: Showcasing America's Top Chess Talents"
       }
    ]
 }
