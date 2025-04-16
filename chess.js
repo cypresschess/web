@@ -18,7 +18,15 @@ news_feed (
          "title" : "Women's Grand Prix Pune - Live!"
       },
       {
-         "description" : " Ju Wenjun completed the formality of defending her title against with a draw in game 9 of their Women's World Championship match. All the hard work had been done with four wins in a row between games 5 and 8. Ju Wenjun didn't have the match all her own way but her reliability and technical play was far in advance of her opponent and that proved the difference. This was an impressive win for her. This is her fifth title match win, she gained the title from her opponent Tan Zhongyi in a match in 2018. Ju's seconds were Ni Hua, probably Maxime Matlakov and a name I didn't catch.",
+         "description" : "European Chess Union invites all European Chess Federations affiliated to ECU to participate in the 40th European Chess Club Cup and the 29th European Women's Chess Club Cup. The events will be held in Rhodes, Greece, from 18 October (arrival day) to 26 October 2025 (departure day). The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will be played in *****Rodos Palace Conference Hall, in 7 rounds played according to the swiss system, with the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cups-2025-official-invitation/",
+         "pubDate" : "Wed, 16 Apr 2025 11:29:07",
+         "title" : "European Chess Club Cups 2025 - Official invitation"
+      },
+      {
+         "description" : " Ju Wenjun completed the formality of defending her title against with a draw in game 9 of their Women's World Championship match. All the hard work had been done with four wins in a row between games 5 and 8. Ju Wenjun didn't have the match all her own way but her reliability and technical play was far in advance of her opponent and that proved the difference. This was an impressive win for her. This is her fifth title match win, she gained the title from her opponent Tan Zhongyi in a match in 2018. Ju's seconds were Ni Hua, Maxime Matlakov and WGM Wang Pin.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-beats-tan-zhongyi-6.5-2.5-to-remain-womens-world-chess-champion",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-wc-2025-live",
          "pubDate" : "Wed, 16 Apr 2025 08:50:00",
          "title" : "Women's World Chess Championship - Game 9 live!"
+      },
+      {
+         "description" : "GM Bogdan Daniel Deac and GM Magnus Carlsen took home the Titled Tuesday first-place prizes on April 15 (it may have been tax day in the United States, but they&#39;re not due in either Romania or Norway yet). Both players scored 10 points, although D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/deac-carlsen-win-titled-tuesday-april-15-2025",
+         "pubDate" : "Wed, 16 Apr 2025 08:01:05",
+         "title" : "Magnus Wins Second Straight Late Tuesday"
       },
       {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our current issue, CBM 224. 209 games from the Tata Steel Tournament, 15 annotated, 11 opening surveys, 4 opening videos, 7 demo lectures and several exercises for training. Annotators include Anish Giri, Nodirbek Abdusattorov, Praggnanandhaa and Karsten M&uuml;ller, among others. The icing on the cake is a special feature on Viktor Korchnoi, with 24 annotated games. | Photo: Tata Steel Chess / Lennart Ootes",
@@ -394,6 +410,14 @@ news_feed (
          "title" : "Freestyle Chess: Carlsen vs Caruana ends in draw; Pragg holds Rapport"
       },
       {
+         "description" : " After a three day break the Women's World Chess Championship match resumed after moving from Shanghai to Chongqing. Ju Wenjun picked up where she left off by winning her third game in a row and taking a near decisive 5-2 lead in the 12 game match. For much of game 7 Tan Zhongyi stood a tiny bit better but as she went below 5 minutes things became tricky, 33...g5 wasn't necessarily bad but she had clearer ways to hold, 35...Bb7? was the losing move, it did nothing, she would rather have not had her c-pawn, and it allowed Ju to force the exchange of Tan's good bishop. Tan had a couple of chances to complicate things with a4 but by first time control her position was already completely hopeles",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-wins-third-game-in-a-row-to-lead-5-2",
+         "pubDate" : "Fri, 11 Apr 2025 13:38:00",
+         "title" : "Ju Wenjun wins third game in a row to lead 5-2 - 7"
+      },
+      {
          "description" : "The Semifinals of the 2025 Paris Freestyle Chess Grand Slam got off to a quiet start, as GMs Fabiano Caruana and Magnus Carlsen drew their game, as did GMs Hikaru Nakamura and Vincent Keymer. Meanwhile, the matches to determine 5th-8th place heate...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -650,7 +674,7 @@ news_feed (
          "title" : "Grivas on The Prokeš Manoeuvre (1)"
       },
       {
-         "description" : "&#8212; from Chris Baker Held in Swidnica 4th April to 14th April 2025 featuring 50+ and 65+ teams. This is a four player team event whilst having the option of...",
+         "description" : "&#8212; from Chris Baker ( a fuller report will appear in ChessMoves for April) Held in Swidnica 4th April to 14th April 2025 featuring 50+ and 65+ teams. This is...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/european-senior-team-chess-championships-2/",
@@ -672,14 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/anastasia-kirtadze-and-teodora-injac-in-joint-lead-of-european-womens-chess-championship-2025/",
          "pubDate" : "Mon, 07 Apr 2025 20:15:28",
          "title" : "Anastasia Kirtadze and Teodora Injac in joint lead of European Women's Chess Championship"
-      },
-      {
-         "description" : "The 2025 Paris Freestyle Chess Grand Slam started with a bang on Monday. The first day featured six rounds of rapid chess and only six of the 36 games ended in draws! World number-one Magnus Carlsen and late addition GM Nodirbek Abdusattorov emerg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-1",
-         "pubDate" : "Mon, 07 Apr 2025 14:30:00",
-         "title" : "Carlsen, Abdusattorov Lead Paris Freestyle Chess Grand Slam"
       },
       {
          "description" : " Fridrik Olafsson 26 January 1935 to 6 April 2025 was the first Icelandic GM and Candidate after finishing tied 5th-6th in the 1958 Interzonal. He was an amateur player at the time and went on to finish 7th of 8th in the 1959 Candidates in Bled, Zagreb, and Belgrade. Olafsson continued to be an active player almost his entire life. His 3rd place in the first Piatigorsky Cup in 1963 was probably his best result. He turned professional in 1974. He became FIDE president in 1978 but lost after one term in 1982 when the Soviet Union decided to support his deputy Florencio Campomanes. <a href=\"https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/\">News of Olafsson's passing from the ",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-accepted-he-didnt-do-well-world-champion-returns-for-paris-leg-of-freestyle-chess-grand-slam-tour/articleshow/120033026.cms",
          "pubDate" : "Sun, 06 Apr 2025 06:59:58",
          "title" : "'Gukesh accepted he didn't do well': World champion returns for Paris leg of Freestyle Chess Grand Slam Tour"
-      },
-      {
-         "description" : "Six rounds have been played at the European Women's Chess Championship 2025, and 16-year-old WFM Anastasia Kirtadze stunned again, taking the sole lead in the tournament with impressive score of 5.5/6 points. The 77th seed in the tournament, WFM Anastasia Kirtadze (GEO, 2180) today scored against IM Aleksandra Maltsevskaya (POL, 2376). Having black pieces, Kirtadze quickly equalized and gained a pawn up, although, Maltsevskaya had a compensation and the position was in range of equality. Both players were in a []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/16-year-old-wfm-anastasia-kirtadze-takes-sole-lead-in-european-womens-chess-championship-2025/",
-         "pubDate" : "Sat, 05 Apr 2025 20:40:08",
-         "title" : "16-year-old WFM Anastasia Kirtadze takes sole lead in European Women's Chess Championship 2025"
       },
       {
          "description" : "Of the major board games, Draughts relies primarily on material superiority to achieve victory. Meanwhile Go (known in China as Wei Chi) depends on control of territory. Only chess, where triumph is ultimately and solely confirmed by checkmate, transcends all elements of material, time or space. Although such factors may well contribute to an advantage, []",
@@ -794,7 +802,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;a&#x66;e&#x67;u&#x61;r&#x64;i&#x6e;g&#x2e;&#111;&#x66;&#102;&#x69;&#99;&#x65;&#114;&#x40;&#101;&#x6e;&#103;&#x6c;&#105;s&#x68;c&#x68;e&#x73;s&#x2e;o&#x72;g&#x2e;&#117;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;f&#x65;&#x67;&#117;&#x61;r&#100;&#x69;&#110;&#x67;&#46;&#111;&#x66;f&#x69;c&#101;&#x72;&#64;&#x65;&#x6e;&#103;&#x6c;i&#115;&#x68;&#99;&#x68;e&#115;&#x73;&#46;&#x6f;r&#103;&#x2e;u&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -864,22 +872,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/the-2025-american-cup-showcasing-americas-top-chess-talents/",
          "pubDate" : "Wed, 26 Mar 2025 19:40:54",
          "title" : "The 2025 American Cup: Showcasing America's Top Chess Talents"
-      },
-      {
-         "description" : " Grandmaster Hans Niemann at the 2022 Sinquefield Cup.Lennart Ootes/Grand Chess Tour Hans Niemann has been in the chess spotlight for the past three years. The infamous case involving Magnus Carlsen at the 2022 Sinquefield Cup set the world on fire. While the point of this article is not to litigate the issue or even discuss The post <a href=\"https://thechessdrum.net/blog/2025/03/26/is-hans-niemann-right/\">Is Hans Niemann right??</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/26/is-hans-niemann-right/",
-         "pubDate" : "Wed, 26 Mar 2025 13:13:04",
-         "title" : "Is Hans Niemann right??"
-      },
-      {
-         "description" : "This year's ECF Online Grand Prix Series starts with an online blitz tournament on Sunday 6th April 2025.&#160;Grand Prix events will be held on Lichess at 2.00pm on the first...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-series-2025/",
-         "pubDate" : "Wed, 26 Mar 2025 11:33:44",
-         "title" : "ECF Online Grand Prix Series 2025"
       }
    ]
 }
