@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Women's World Chess Championship took starts in Shanghai and finishes in Chongqing, China 3rd to 18th April 2025. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. The closing ceremony is on Friday 18th April.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
+         "pubDate" : "Thu, 17 Apr 2025 16:54:00",
+         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
+      },
+      {
+         "description" : "Garry Kasparov and Anatoly Karpov played five matches for the world championship. The fourth match was played in Seville in 1987. After 23 games, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. The final game was adjourned after five hours of play, to be resumed the next day. The sealed position is the subject of this article.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-karpov-the-secret-of-the-24th-game",
+         "pubDate" : "Thu, 17 Apr 2025 11:00:00",
+         "title" : "Kasparov-Karpov: the Secret of the 24th Game"
+      },
+      {
+         "description" : "ECU E-Magazine March 2025 is out! In this edition of the ECU E-Magazine you may read about: The March 2025 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-march-2025/",
+         "pubDate" : "Thu, 17 Apr 2025 08:13:53",
+         "title" : "ECU E-Magazine March 2025"
+      },
+      {
+         "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-universities-chess-championship-2025/",
+         "pubDate" : "Thu, 17 Apr 2025 08:00:44",
+         "title" : "European Universities Chess Championship 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120364918.cms\" />K Humpy showcased her experience and skill, defeating overnight leader Divya Deshmukh in a five-hour match at the FIDE Women's Grand Prix. This victory, coupled with Zhu Jiner's draw, allowed the Chinese player to take the sole lead. Meanwhile, D Harika secured her first win, contributing to a positive day for the Indian contingent.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -538,14 +570,6 @@ news_feed (
          "title" : "Freestyle Chess: Carlsen enters semi-final in Paris; Erigaisi fails"
       },
       {
-         "description" : " The FIDE Women's World Chess Championship takes starts in Shanghai and finishes in Chongqing, China 3rd to 20th April 2025. Defending champion Ju Wenjun is challenged by Tan Zhongyi.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
-         "pubDate" : "Thu, 10 Apr 2025 16:54:00",
-         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
-      },
-      {
          "description" : " After a tentative start Ju Wenjun, the Women's World Champion, has taken a 4-2 lead at the half way stage of her match against challenger Tan Zhongyi. The match now breaks for three days as it moves from Shanghai to Chongqing. Game 6 saw Ju equalise quite quickly and even get quite a nice advantage, but 22...Bf6 was a misstep that allowed Tan equality. The position remained complicated and 31.h4? was a serious mistake that cost Tan the game, she couldn't even keep queens on and Ju's technique allowed no way back.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -714,28 +738,12 @@ news_feed (
          "title" : "Freestyle Chess Grand Slam: Carlsen and Abdusattorov in the lead"
       },
       {
-         "description" : "Seven rounds have been already played at the European Women's Chess Championship 2025 in Rhodes, Greece, and WFM Anastasia Kirtadze (GEO, 2180) and IM Teodora Injac tie for the top scoring 6/7 points each. Today's round was opened by ECU President Mr. Zurab Azmaiparashvili who addressed the players, while the delegate of the Israel Chess Federation Mr. Moshe Slav played the first ceremonial move on the top-board game between WFM Anastasia Kirtadze and IM Sophie Milliet to inaugurate the start []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/anastasia-kirtadze-and-teodora-injac-in-joint-lead-of-european-womens-chess-championship-2025/",
-         "pubDate" : "Mon, 07 Apr 2025 20:15:28",
-         "title" : "Anastasia Kirtadze and Teodora Injac in joint lead of European Women's Chess Championship"
-      },
-      {
          "description" : " Fridrik Olafsson 26 January 1935 to 6 April 2025 was the first Icelandic GM and Candidate after finishing tied 5th-6th in the 1958 Interzonal. He was an amateur player at the time and went on to finish 7th of 8th in the 1959 Candidates in Bled, Zagreb, and Belgrade. Olafsson continued to be an active player almost his entire life. His 3rd place in the first Piatigorsky Cup in 1963 was probably his best result. He turned professional in 1974. He became FIDE president in 1978 but lost after one term in 1982 when the Soviet Union decided to support his deputy Florencio Campomanes. <a href=\"https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/\">News of Olafsson's passing from the ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/obituaries/fridrik-olafsson-1935-2025",
          "pubDate" : "Mon, 7 Apr 2025 11:17:00",
          "title" : "Fridrik Olafsson 1935-2025 - "
-      },
-      {
-         "description" : "Fridrik Olafsson, Pioneering Icelandic Chess Grandmaster, passed away. Fridrik Olafsson, the first Icelandic chess grandmaster who paved the way for chess in his native country and served as FIDE President from 1978 to 1982, passed away on April 4, 2025, just months after his 90th birthday. Olafsson made history as Iceland's first grandmaster, earning the title in 1958. His remarkable career spanned several decades, during which he competed against many of the world's greatest players, including Bobby Fischer and Boris []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/",
-         "pubDate" : "Mon, 07 Apr 2025 08:31:18",
-         "title" : "IN MEMORIAM: Fridrik Olafsson (1935-2025)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120055226.cms\" />On April 1, 2025, American grandmaster Hans Niemann posted about his potential arrival in Paris for the second leg of the Freestyle Chess Grand Slam Tour. However, five days later, he withdrew for 'personal reasons,' disappointing chess fans. Norwegian broadcaster TV 2 suggested heightened anti-cheating protocols influenced his decision. Niemann has been replaced by Nodirbek Abdusattorov.",
@@ -826,7 +834,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#102;e&#x67;&#x75;&#97;rd&#x69;&#x6e;&#103;&#46;&#x6f;&#x66;&#102;&#105;c&#x65;&#x72;&#64;e&#x6e;&#x67;&#108;&#105;s&#x68;&#x63;&#104;e&#x73;&#x73;&#46;&#111;r&#x67;&#x2e;&#117;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#101;&#103;ua&#x72;&#x64;&#x69;&#x6e;&#103;&#46;of&#x66;&#x69;&#x63;&#101;&#114;&#64;en&#x67;&#x6c;&#x69;&#115;&#104;ch&#x65;&#x73;&#x73;&#x2e;&#111;&#114;g&#46;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
