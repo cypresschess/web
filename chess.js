@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
       },
       {
+         "description" : "You want to understand chess? Who doesn't? - To make the path to that goal a little easier, GM Robert Ris explains in two more episodes of his strategy series what he believes is important. Understand his ideas, and it will be easier for you to develop good plans of your own.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strategic-masterpieces",
+         "pubDate" : "Thu, 17 Apr 2025 14:02:55",
+         "title" : "Strategic masterpieces"
+      },
+      {
          "description" : "Garry Kasparov and Anatoly Karpov played five matches for the world championship. The fourth match was played in Seville in 1987. After 23 games, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. The final game was adjourned after five hours of play, to be resumed the next day. The sealed position is the subject of this article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-universities-chess-championship-2025/",
          "pubDate" : "Thu, 17 Apr 2025 08:00:44",
          "title" : "European Universities Chess Championship 2025"
+      },
+      {
+         "description" : "The Chess.com Community Championships are more than just a series of tournaments. It&#39;s a celebration of chess enthusiasts coming together to connect, compete, and have fun. So far, we&#39;ve seen our members compete in Puzzles, 3-Check, Atomic, and 4 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vote-for-may-chesscom-community-championships-variant",
+         "pubDate" : "Thu, 17 Apr 2025 08:00:00",
+         "title" : "Vote For The Next Variant Of The Chess.com Community Championships"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120364918.cms\" />K Humpy showcased her experience and skill, defeating overnight leader Divya Deshmukh in a five-hour match at the FIDE Women's Grand Prix. This victory, coupled with Zhu Jiner's draw, allowed the Chinese player to take the sole lead. Meanwhile, D Harika secured her first win, contributing to a positive day for the Indian contingent.",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/malcolm-pein-on-unfair-play",
          "pubDate" : "Wed, 16 Apr 2025 13:00:00",
          "title" : "Malcolm Pein on Unfair Play"
-      },
-      {
-         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
-         "pubDate" : "Wed, 16 Apr 2025 11:50:00",
-         "title" : "Women's Grand Prix Pune - Live!"
       },
       {
          "description" : "European Chess Union invites all European Chess Federations affiliated to ECU to participate in the 40th European Chess Club Cup and the 29th European Women's Chess Club Cup. The events will be held in Rhodes, Greece, from 18 October (arrival day) to 26 October 2025 (departure day). The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will be played in *****Rodos Palace Conference Hall, in 7 rounds played according to the swiss system, with the []",
@@ -190,7 +198,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-paris-freestyle-chess-grand-slam-7-conclusions",
-         "pubDate" : "Tue, 15 Apr 2025 23:46:33",
+         "pubDate" : "Tue, 15 Apr 2025 23:46:00",
          "title" : "Carlsen Wins Paris Freestyle Chess Grand Slam: 7 Conclusions"
       },
       {
@@ -706,14 +714,6 @@ news_feed (
          "title" : "Gukesh out! World champion falls in Paris Freestyle Chess prelims"
       },
       {
-         "description" : "GM Ian Nepomniachtchi scored 4.5/5 to catch his World Blitz Co-Champion GM Magnus Carlsen and tie for first place in the Round-Robin stage of the 2025 Paris Freestyle Chess Grand Slam.&#38;nbsp; They will be joined in the Quarterfinals by GMs Maxime V...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-2",
-         "pubDate" : "Tue, 08 Apr 2025 12:06:00",
-         "title" : "Nepomniachtchi, Carlsen Tie For 1st, Gukesh Misses Out On Paris Quarterfinals"
-      },
-      {
          "description" : "The 'Prokeš Manoeuvre' is a tactic that enables a rook to draw against two advanced pawns in an endgame. It is a very important endgame scheme that will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Take a look at this position. Would you be able to draw with white? And how would you do it? Let international trainer Efstratios Grivas explain everything.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -802,14 +802,6 @@ news_feed (
          "title" : "Tanitoluwa Adewumi qualifies for IM title!"
       },
       {
-         "description" : "The European School Chess Championship 2025 will be held from 29th May to 8th June 2025 in Mamaia, Romania. The event will be played in 6 age categories: U7, U9,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-schools-chess-championship-2025/",
-         "pubDate" : "Thu, 03 Apr 2025 09:00:26",
-         "title" : "European Schools Chess Championship 2025"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119913866.cms\" />World Chess Champion D Gukesh and Viswanathan Anand were seen dancing to popular Bollywood songs at fellow Grandmaster Vidit Gujrathi's wedding, showcasing a rarely seen fun side of the GMs. Gukesh will participate in the Paris Freestyle Chess Grand Slam, while being closely followed by Arjun Erigaisi in the FIDE chess rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -834,7 +826,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#x61;&#x66;&#101;&#103;ua&#x72;&#x64;&#x69;&#x6e;&#103;&#46;of&#x66;&#x69;&#x63;&#101;&#114;&#64;en&#x67;&#x6c;&#x69;&#115;&#104;ch&#x65;&#x73;&#x73;&#x2e;&#111;&#114;g&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;u&#97;&#114;&#x64;&#x69;&#x6e;g&#46;&#111;&#x66;&#x66;ic&#101;&#x72;&#x40;&#x65;n&#103;&#108;&#x69;&#x73;hc&#104;&#x65;&#x73;&#x73;&#46;&#111;&#114;&#x67;&#x2e;uk if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -888,14 +880,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/mar/28/magnus-carlsen-makes-cameo-in-bbc-twos-chess-masters-as-drop-in-viewers-slows",
          "pubDate" : "Fri, 28 Mar 2025 08:00:18",
          "title" : "Magnus Carlsen makes cameo in BBC Two's Chess Masters as drop in viewers slows"
-      },
-      {
-         "description" : "&#8212; by Richard Palliser After five rounds of highly competitive chess Sachsen-Anhalt from Germany emerged victorious in the 12th &#160;&#160;ChessMates International, which took place in the fine setting of York...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/12th-chessmates-international-in-york/",
-         "pubDate" : "Thu, 27 Mar 2025 11:44:10",
-         "title" : "12th ChessMates International in York"
       }
    ]
 }
