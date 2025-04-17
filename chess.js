@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120364918.cms\" />K Humpy showcased her experience and skill, defeating overnight leader Divya Deshmukh in a five-hour match at the FIDE Women's Grand Prix. This victory, coupled with Zhu Jiner's draw, allowed the Chinese player to take the sole lead. Meanwhile, D Harika secured her first win, contributing to a positive day for the Indian contingent.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/k-humpy-secures-victory-against-divya-deshmukh-in-fide-womens-grand-prix/articleshow/120364918.cms",
+         "pubDate" : "Thu, 17 Apr 2025 03:01:32",
+         "title" : "Humpy secures victory against Divya in FIDE Women's Grand Prix"
+      },
+      {
          "description" : "The Classical Sicilian remains one of the most resilient and strategically rich responses to 1.e4. In this new ChessBase course, Grandmaster S.P. Sethuraman offers an in-depth guide to this time-tested defence, covering key lines such as 6.Bg5, 6.f3 and 6.Bc4. Designed for ambitious club players and competitive improvers alike, the course balances theoretical depth with practical insight, featuring model games, tactical drills and move-order nuances. With over five hours of video content, it's a comprehensive repertoire for Black.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
