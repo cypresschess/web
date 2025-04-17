@@ -18,6 +18,14 @@ news_feed (
          "title" : "Strategic masterpieces"
       },
       {
+         "description" : "GM Zhu Jiner beat IM Alina Kashlinskaya in round four to retain the sole lead in the 2025 Pune FIDE Women&#39;s Grand Prix on 3.5/4. Just half a point back are local heroes GM Humpy Koneru and IM Divya Deshmukh, who picked up wins against IMs Polina S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-4",
+         "pubDate" : "Thu, 17 Apr 2025 12:57:00",
+         "title" : "Zhu Wins Again As Humpy, Divya Stay In Hunt"
+      },
+      {
          "description" : "Garry Kasparov and Anatoly Karpov played five matches for the world championship. The fourth match was played in Seville in 1987. After 23 games, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. The final game was adjourned after five hours of play, to be resumed the next day. The sealed position is the subject of this article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nihal-carlsen-win-titled-tuesday-april-8-2025",
          "pubDate" : "Wed, 09 Apr 2025 07:44:27",
          "title" : "Carlsen Passes Nakamura In Another Perfect Tuesday"
-      },
-      {
-         "description" : "GM Ju Wenjun has taken a 3-2 lead in the 2025 FIDE Women&#39;s World Championship after GM Tan&#38;nbsp;Zhongyi&#39;s&#38;nbsp;ambitious opening play backfired in game five. Ju dodged her opponent&#39;s preparation and was soon able to pick up a pawn. Tan almost got ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-5",
-         "pubDate" : "Wed, 09 Apr 2025 05:00:00",
-         "title" : "Ju Wenjun Wins Game 5 To Take World Championship Lead"
       },
       {
          "description" : "Eight rounds were played at the European Women's Chess Championship 2025 and IM Teodora Injac made a spectacular comeback after the loss in the first round, taking the sole lead in the tournament! IM Teodora Injac (SRB, 2454) suffered a tough loss in the first round against WFM Anastasia Kirtadze (GEO, 2180) where she had a mate in two motive to win the game, but missed it and entered a lost rooks endgame. She now won seven consecutive games to []",
