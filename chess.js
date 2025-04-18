@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There was a lot of news at ChessBase in March: whether it was a mobile app, video course, ChessBase Magazine Extra, or databases - there was sure to be something to suit every chess taste. Take a look at last month's products:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-products-mar-25",
+         "pubDate" : "Fri, 18 Apr 2025 13:00:00",
+         "title" : "Review: All new releases in March!"
+      },
+      {
+         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
+         "pubDate" : "Fri, 18 Apr 2025 11:50:00",
+         "title" : "Women's Grand Prix Pune - Live!"
+      },
+      {
+         "description" : " The Pune FIDE Women's Grand Prix takes place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/pune-fide-womens-grand-prix-2025",
+         "pubDate" : "Fri, 18 Apr 2025 08:51:00",
+         "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
+      },
+      {
          "description" : " The world No 1 defeated his old rival and world No 2, Hikaru Nakamura, in the final, and took the $3.75m series lead before the third Slam event in Las Vegas Magnus Carlsen, the world No 1, scored a low-key triumph on Monday when he won the Paris leg of the $3.75m Freestyle Grand Slam by defeating his old rival and world No 2, USA's Hikaru Nakamura, by 1.5-0.5 in the final. It was patient attrition over the two games, worthy of a place in the Carlsen-David Howell book Grind like a Grandmaster. The decisive first game had some technical errors, which the Norwegian described almost apologetically in his <a href=\"https://www.youtube.com/watch?v=Rtd647yuXg4&amp;t=3s\">post-game interview</a>. Th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -320,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/aravindh-nihal-signed-for-indian-esports-team-s8ul",
          "pubDate" : "Mon, 14 Apr 2025 11:05:00",
          "title" : "'Historic Moment For Indian Chess' As Aravindh, Nihal Are Picked Up By S8UL"
-      },
-      {
-         "description" : " The Pune FIDE Women's Grand Prix takes place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/pune-fide-womens-grand-prix-2025",
-         "pubDate" : "Mon, 14 Apr 2025 08:51:00",
-         "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
       },
       {
          "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's U1700 tournament which will take place at the Holiday Inn, Kenilworth between Friday 18th July and...",
@@ -840,22 +856,6 @@ news_feed (
          "link" : "https://www.thearticle.com/clear-blue-water-varsity-chess-match-2025/",
          "pubDate" : "Sat, 29 Mar 2025 14:59:38",
          "title" : "Clear Blue water: Varsity Chess Match 2025"
-      },
-      {
-         "description" : "Live Games Link : https://live.aicf.in/national/amateur/index.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-12th-national-amateur-chess-championship-2025-in-bodh-gaya-bihar/",
-         "pubDate" : "Fri, 28 Mar 2025 09:44:19",
-         "title" : "Live Games Link : 12th National Amateur Chess Championship -2025 in Bodh Gaya ,Bihar"
-      },
-      {
-         "description" : " World No 1 made surprise appearance in Monday's episode as viewer numbers again dropped, but more slowly Magnus Carlsen, the world No 1, made a cameo appearance via video in Monday's third episode of BBC Two's Chess Masters: The Endgame, setting a challenge to memorise a position from a \"special\" World Blitz game. Viewer numbers, ­supplied by Broadcast, again dropped, but more slowly, from 890,000 in the first episode to 710,000 last week and 655,000 this time. Carlsen displayed the position after 29&hellip;Ka6 of his 2022 World Blitz game with ­Richard ­Rapport. <a href=\"https://www.theguardian.com/sport/2025/mar/28/magnus-carlsen-makes-cameo-in-bbc-twos-chess-masters-as-drop-in-viewers-sl",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/mar/28/magnus-carlsen-makes-cameo-in-bbc-twos-chess-masters-as-drop-in-viewers-slows",
-         "pubDate" : "Fri, 28 Mar 2025 08:00:18",
-         "title" : "Magnus Carlsen makes cameo in BBC Two's Chess Masters as drop in viewers slows"
       }
    ]
 }
