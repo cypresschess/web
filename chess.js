@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Easter Sunday, April 20, at 6 PM CET, the Kasparov Chess Foundation Academy will host an exclusive lecture by Max Dlugy, a world-renowned grandmaster and a brilliant chess educator, known for his dynamic style and deep understanding of the game. Dlugy was one of the top blitz players in the world, earning the title of World Junior Champion in 1985.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/special-live-lecture-with-max",
+         "pubDate" : "Fri, 18 Apr 2025 16:00:00",
+         "title" : "Special live lecture with Max"
+      },
+      {
          "description" : "There was a lot of news at ChessBase in March: whether it was a mobile app, video course, ChessBase Magazine Extra, or databases - there was sure to be something to suit every chess taste. Take a look at last month's products:",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -818,7 +826,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at s&#97;&#102;&#x65;&#x67;u&#97;&#114;&#x64;&#x69;&#x6e;g&#46;&#111;&#x66;&#x66;ic&#101;&#x72;&#x40;&#x65;n&#103;&#108;&#x69;&#x73;hc&#104;&#x65;&#x73;&#x73;&#46;&#111;&#114;&#x67;&#x2e;uk if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;e&#103;&#x75;&#x61;r&#100;&#x69;n&#103;&#x2e;&#x6f;f&#102;&#x69;c&#101;&#x72;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;c&#104;&#x65;&#x73;s&#46;&#x6f;r&#103;&#x2e;&#x75;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
