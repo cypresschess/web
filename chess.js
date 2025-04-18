@@ -18,6 +18,14 @@ news_feed (
          "title" : "Special live lecture with Max"
       },
       {
+         "description" : "14 players are on a perfect score after three rounds in the Grenke Chess Freestyle Open. On a day of upsets, several pre-tournament favorites lost: GM Aravindh Chithambaram (against GM Maciej Klekowski), GM Maxime Vachier-Lagrave (against Slovak I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-2",
+         "pubDate" : "Fri, 18 Apr 2025 14:04:00",
+         "title" : "Carlsen On Perfect 3/3 As Favorites Drop Around Him"
+      },
+      {
          "description" : "There was a lot of news at ChessBase in March: whether it was a mobile app, video course, ChessBase Magazine Extra, or databases - there was sure to be something to suit every chess taste. Take a look at last month's products:",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-4",
          "pubDate" : "Fri, 18 Apr 2025 02:25:00",
          "title" : "Women's GP Pune: Zhu sole leader, Humpy and Divya a half point back"
+      },
+      {
+         "description" : "American players earned three podium finishes at the 2025 FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championships, held April 13 through 17 in Rhodes, Greece. Over 400 players competed in the five-day event, including seven Americans. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Guo celebrates with his first-place trophy from the blitz event (Photo courtesy of Ippotis Chess Club Rhodes/FIDE)<br> <br> <br> <br> California's CM Ethan Guo earned gold in the Under-12 Open Blitz with a dominating 10/11 score. Guo also took home bronze in the Under-12 Open Rapid for his 8&frac12;/11 performance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br>",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/ethan-guo-double-medals-siddharth-singh-earns-bronze-2025-fide-world-cadets-youth-rapid-blitz",
+         "pubDate" : "Fri, 18 Apr 2025 00:00:00",
+         "title" : "Ethan Guo Double-Medals, Siddharth Singh Earns Bronze at 2025 FIDE World Cadets & Youth Rapid & Blitz"
       },
       {
          "description" : " The FIDE Women's World Chess Championship took starts in Shanghai and finishes in Chongqing, China 3rd to 18th April 2025. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. The closing ceremony is on Friday 18th April.",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "Carlsen fired up to face India's young stars, says Anand"
       },
       {
-         "description" : "It's the defending champion's match to lose now. After tying the match in round 3, GM Ju Wenjun survived a dangerous position the next day against challenger GM Tan Zhongyi, entering the second rest day with a 2-2 tie and lots of chess left to be played. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Photos from rounds 5 (L) and 6 (R) courtesy of Anna Shtourman/FIDE.<br> <br> When play resumed on Wednesday, however, it was all Ju. After back-to-back wins, Ju leads 4-2 headed into the two-day break as the match moves from Shanghai to Chongqing. <br> <br> <br> <br> Image<br> <br> <br> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/womens-world-championship-lessons-jus-wins",
-         "pubDate" : "Fri, 11 Apr 2025 00:00:00",
-         "title" : "Women's World Championship: Lessons From Ju's Wins"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120171773.cms\" />In the Freestyle Chess Grand Slam in Paris, Arjun Erigaisi was defeated by Hikaru Nakamura, who advanced to the semifinals. Magnus Carlsen secured his spot with a draw, while Fabiano Caruana also progressed. Other matches saw draws, leading to tie-breaks, and the battles for lower rankings resulted in draws as well.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-rapid-blitz-in-jharkhand-from-20-23-march-2025/",
          "pubDate" : "Wed, 09 Apr 2025 14:45:52",
          "title" : "Certificate of National Rapid & Blitz in Jharkhand from 20-23 March 2025"
-      },
-      {
-         "description" : "The 2025 Paris Freestyle Chess Grand Slam entered the knockout stage today in a day dominated by a gambit that its creator didn&#39;t even get a chance to play! During joint analysis before the round GM Ian Nepomniachtchi realized that Black could mee...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-3",
-         "pubDate" : "Wed, 09 Apr 2025 13:30:00",
-         "title" : "The Nepo Gambit Is Born, Only Carlsen Wins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120122985.cms\" />Viswanathan Anand's withdrawal from the Freestyle Chess Grand Slam in Germany dealt a major blow to hopes of reconciliation between FIDE and Freestyle Chess. Tensions escalated after a dress code dispute involving Magnus Carlsen, with Anand enforcing FIDE rules. Despite backchannel talks, Freestyle players ultimately chose to crown their own \"Freestyle Chess Champion,\" sidelining FIDE's authority.",
