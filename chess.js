@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 FIDE Women's World Championship Match between Ju Wenjun and Tan Zhongyi concluded after nine intense games played across two cities. In over 517 moves and nearly 38 hours of play, both competitors delivered sharp openings, complex middlegames and dramatic endgames. Ju emerged victorious for a fifth consecutive time, but not without serious resistance from Tan. With standout performances, including a 98% accuracy win in Game 8, the match will be remembered for its fighting spirit. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-wc-2025-numbers",
+         "pubDate" : "Fri, 18 Apr 2025 19:20:00",
+         "title" : "The Women's World Championship match in numbers"
+      },
+      {
          "description" : "On Easter Sunday, April 20, at 6 PM CET, the Kasparov Chess Foundation Academy will host an exclusive lecture by Max Dlugy, a world-renowned grandmaster and a brilliant chess educator, known for his dynamic style and deep understanding of the game. Dlugy was one of the top blitz players in the world, earning the title of World Junior Champion in 1985.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
          "pubDate" : "Fri, 18 Apr 2025 11:50:00",
          "title" : "Women's Grand Prix Pune - Live!"
+      },
+      {
+         "description" : "GM Vaishali Rameshbabu beat IM Batkhuyag Munguntuul to score the only win of round five of the 2025 Pune FIDE Women&#39;s Grand Prix, but we were a move or two away from seeing leader GM&#38;nbsp;Zhu Jiner toppled. The Chinese star was hit by a fine queen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-5",
+         "pubDate" : "Fri, 18 Apr 2025 11:13:45",
+         "title" : "Vaishali Scores 1st Win, Zhu Survives Salimova's Queen Sac"
       },
       {
          "description" : " The Pune FIDE Women's Grand Prix takes place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova.",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-3",
          "pubDate" : "Wed, 09 Apr 2025 13:30:00",
          "title" : "The Nepo Gambit Is Born, Only Carlsen Wins"
-      },
-      {
-         "description" : "Just days after celebrating his ninth birthday, CM Luca Protopopescu from France has made chess history. The prodigy from Marseille has become the youngest player ever to cross the 2200 FIDE classical rating mark, an achievement made by beating hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/luca-protopopescu-9-becomes-youngest-ever-2200-player",
-         "pubDate" : "Wed, 09 Apr 2025 11:30:00",
-         "title" : "Luca Protopopescu Becomes Youngest Ever to Break 2200 Rating Barrier At 9"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120122985.cms\" />Viswanathan Anand's withdrawal from the Freestyle Chess Grand Slam in Germany dealt a major blow to hopes of reconciliation between FIDE and Freestyle Chess. Tensions escalated after a dress code dispute involving Magnus Carlsen, with Anand enforcing FIDE rules. Despite backchannel talks, Freestyle players ultimately chose to crown their own \"Freestyle Chess Champion,\" sidelining FIDE's authority.",
