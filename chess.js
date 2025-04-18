@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 defeated his old rival and world No 2, Hikaru Nakamura, in the final, and took the $3.75m series lead before the third Slam event in Las Vegas Magnus Carlsen, the world No 1, scored a low-key triumph on Monday when he won the Paris leg of the $3.75m Freestyle Grand Slam by defeating his old rival and world No 2, USA's Hikaru Nakamura, by 1.5-0.5 in the final. It was patient attrition over the two games, worthy of a place in the Carlsen-David Howell book Grind like a Grandmaster. The decisive first game had some technical errors, which the Norwegian described almost apologetically in his <a href=\"https://www.youtube.com/watch?v=Rtd647yuXg4&amp;t=3s\">post-game interview</a>. Th",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/apr/18/chess-carlsen-scores-in-paris-leads-freestyle-grand-slam-after-two-events",
+         "pubDate" : "Fri, 18 Apr 2025 07:00:04",
+         "title" : "Chess: Carlsen scores in Paris, leads Freestyle Grand Slam after two events"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120400662.cms\" />In the FIDE Women's Grand Prix, Zhu Jiner leads after four rounds, while Humpy and Divya Deshmukh secured crucial wins, narrowing the gap. Humpy capitalized on Shuvalova's errors, and Divya triumphed over Salome in a lengthy Caro Kann Exchange Variation. Harika opted for a draw despite a favorable position, and Salimova defeated Munguntuul in a decisive game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/humpy-divya-win-harika-lets-vaishali-off-the-hook/articleshow/120400662.cms",
+         "pubDate" : "Fri, 18 Apr 2025 05:54:30",
+         "title" : "Humpy, Divya win; Harika lets Vaishali off the hook"
+      },
+      {
          "description" : "Round four of the FIDE Women's Grand Prix in Pune saw a thrilling day of chess, with four decisive results and standout endgame performances from Indian stars Humpy Koneru and Divya Deshmukh. Zhu Jiner remains in the lead on 3&frac12;/4, closely followed by Humpy and Divya. The round featured impressive technical finishes, a near-win in a dramatic Harika-Vaishali draw, and strong showings from Salimova and Zhu. With five rounds remaining, the tournament remains wide open. | Photo: Abhilash Shinde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -454,7 +470,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dubov-artemiev-picked-up-by-team-spirit",
-         "pubDate" : "Sat, 12 Apr 2025 03:33:03",
+         "pubDate" : "Sat, 12 Apr 2025 03:33:00",
          "title" : "Speed Chess Stars Dubov, Artemiev Picked Up By Team Spirit"
       },
       {
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/",
          "pubDate" : "Thu, 03 Apr 2025 13:44:56",
          "title" : "Tanitoluwa Adewumi qualifies for IM title!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119913866.cms\" />World Chess Champion D Gukesh and Viswanathan Anand were seen dancing to popular Bollywood songs at fellow Grandmaster Vidit Gujrathi's wedding, showcasing a rarely seen fun side of the GMs. Gukesh will participate in the Paris Freestyle Chess Grand Slam, while being closely followed by Arjun Erigaisi in the FIDE chess rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-chess-champion-d-gukesh-viswanathan-anand-dance-to-bollywood-beats-in-vidit-gujrathis-wedding/articleshow/119913866.cms",
-         "pubDate" : "Wed, 02 Apr 2025 17:10:19",
-         "title" : "Watch: Gukesh, Anand dance to Bollywood beats in Vidit's wedding"
       },
       {
          "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
