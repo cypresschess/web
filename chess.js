@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round four of the FIDE Women's Grand Prix in Pune saw a thrilling day of chess, with four decisive results and standout endgame performances from Indian stars Humpy Koneru and Divya Deshmukh. Zhu Jiner remains in the lead on 3&frac12;/4, closely followed by Humpy and Divya. The round featured impressive technical finishes, a near-win in a dramatic Harika-Vaishali draw, and strong showings from Salimova and Zhu. With five rounds remaining, the tournament remains wide open. | Photo: Abhilash Shinde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-4",
+         "pubDate" : "Fri, 18 Apr 2025 02:25:00",
+         "title" : "Women's GP Pune: Zhu sole leader, Humpy and Divya a half point back"
+      },
+      {
          "description" : " The FIDE Women's World Chess Championship took starts in Shanghai and finishes in Chongqing, China 3rd to 18th April 2025. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. The closing ceremony is on Friday 18th April.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
          "pubDate" : "Thu, 17 Apr 2025 16:54:00",
          "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
+      },
+      {
+         "description" : "There were no upsets on the top boards after round one of the&#38;nbsp;Grenke Chess Freestyle Open. The closest we came to an upset (even a draw) was in the games GM Fabiano Caruana vs. CM Carlos Hauser and FM Matthias Bach vs. GM Levon Aronian. But, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-1",
+         "pubDate" : "Thu, 17 Apr 2025 16:50:00",
+         "title" : "No Surprises: Carlsen, Arjun, Caruana Start With Wins"
       },
       {
          "description" : "You want to understand chess? Who doesn't? - To make the path to that goal a little easier, GM Robert Ris explains in two more episodes of his strategy series what he believes is important. Understand his ideas, and it will be easier for you to develop good plans of your own.",
@@ -64,22 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/k-humpy-secures-victory-against-divya-deshmukh-in-fide-womens-grand-prix/articleshow/120364918.cms",
          "pubDate" : "Thu, 17 Apr 2025 03:01:32",
          "title" : "Humpy secures victory against Divya in FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Classical Sicilian remains one of the most resilient and strategically rich responses to 1.e4. In this new ChessBase course, Grandmaster S.P. Sethuraman offers an in-depth guide to this time-tested defence, covering key lines such as 6.Bg5, 6.f3 and 6.Bc4. Designed for ambitious club players and competitive improvers alike, the course balances theoretical depth with practical insight, featuring model games, tactical drills and move-order nuances. With over five hours of video content, it's a comprehensive repertoire for Black.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sethuraman-classical-sicilian-intro",
-         "pubDate" : "Wed, 16 Apr 2025 23:30:00",
-         "title" : "S.P. Sethuraman: The Classical Sicilian - A Timeless Counterattacking Weapon"
-      },
-      {
-         "description" : "In a very one-sided match, Ju Wenjun defended her title as women's world champion against Tan Zhongyi. Although the challenger took the lead in the second game, she suffered four consecutive defeats from the fifth game onwards. A draw in the ninth game today was enough for Ju Wenjun to win the match - played to the best of twelve games - early and defend her title. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-9",
-         "pubDate" : "Wed, 16 Apr 2025 18:30:00",
-         "title" : "Ju Wenjun retains Women's World Championship title in lopsided match"
       },
       {
          "description" : "After the 2022 Olympiad in Chennai, FIDE set up a Fair Play Commission aimed at preventing cheating in chess. The commission received sweeping powers, over and above those of the arbiters or chess tournaments. Is that necessary and justified? Malcolm Pein, writer for The Daily Telegraph, takes vigorous offence at the working of the commission in the editorial of the London-based magazine CHESS.",
@@ -170,14 +170,6 @@ news_feed (
          "title" : "Ju Wenjun Wins 5th Women's World Chess Championship"
       },
       {
-         "description" : "Drama unfolded in the second round of the Pune Women's Grand Prix as Vaishali Rameshbabu's crucial mistake - playing her bishop one move too soon - handed Divya Deshmukh her second consecutive victory. Meanwhile, Zhu Jiner demonstrated masterful rook endgame technique to defeat Munguntuul Batkhuyag, placing both winners at the top of the leaderboard with perfect scores. | Photo: Abhilash Shinde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-2",
-         "pubDate" : "Wed, 16 Apr 2025 02:00:00",
-         "title" : "Women's GP Pune: Divya and Zhu share the lead with 2/2"
-      },
-      {
          "description" : "Photo by Nikki Metzler Photography April Statement:Dear Fellow Chess Enthusiasts,I am excited to announce my candidacy for the Executive Board of US Chess, with a passion to further the game globally and address members' concerns. With many years' experience and service to US Chess in various roles, I am confident in my ability to serve our community.I will explain my growth in the chess world and goals that I wish to accomplish in the next letter. My qualifications include starting at the local and state levels eventually working at the national level.I am committed to working tirelessly to promote chess and serve our members. I would be honored to earn your vote and join the Executive Boar",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -210,14 +202,6 @@ news_feed (
          "title" : "Carlsen Wins Paris Freestyle Chess Grand Slam: 7 Conclusions"
       },
       {
-         "description" : "On 4 April, Iceland's first grandmaster Fridrik Olafsson passed away. Olafsson had celebrated his 90th birthday in January. After ending his career as a professional chess player, he became a lawyer and eventually became FIDE President. FIDE published Olafsson's last interview, in which he talks about computers, his chess career and his friendship with Bobby Fischer and Boris Spassky, among other things.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fridrik-olafsson-last-interview",
-         "pubDate" : "Tue, 15 Apr 2025 18:15:00",
-         "title" : "Fridrik Olafsson's last interview"
-      },
-      {
          "description" : " The Reykjavik Open took place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc. Top seed Parham Maghsoodloo won the event with 7/9 half a point clear of 10 players, Vasyl Ivanchuk finishing second on tie-break.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -232,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-2",
          "pubDate" : "Tue, 15 Apr 2025 11:07:58",
          "title" : "Divya, Zhu Win Again To Lead Pune Women's Grand Prix With 2/2"
-      },
-      {
-         "description" : "Tactical analysis is not just exciting, but it is very practical. With ChessBase 18, it is easy to use its findings. In this episode, learn how you can use this ChessBase function to complement your analysis and make it more effective.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-9-tactical-analysis",
-         "pubDate" : "Tue, 15 Apr 2025 09:33:49",
-         "title" : "ChessBase 18 - Tips for Beginners, Part 9: \"Tactical Analysis\""
       },
       {
          "description" : "This week's puzzles come from the 2025 KCF All-Girls National Chess Championship, focusing on the games of the Under-14 and Under-18 winners. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
@@ -688,14 +664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-room-full-of-grandmasters-put-an-end-to-fide-vs-freestyle-chess-row/articleshow/120122985.cms",
          "pubDate" : "Wed, 09 Apr 2025 09:54:19",
          "title" : "How room full of GMs put an end to FIDE vs Freestyle Chess row"
-      },
-      {
-         "description" : "Hope you were watching Titled Tuesday on April 8, where GM Magnus Carlsen won the second tournament with a perfect 11/11 score. It was Carlsen&#39;s third perfect Titled Tuesday, moving him into the sole lead in that statistic ahead of GM Hikaru Nakam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-carlsen-win-titled-tuesday-april-8-2025",
-         "pubDate" : "Wed, 09 Apr 2025 07:44:27",
-         "title" : "Carlsen Passes Nakamura In Another Perfect Tuesday"
       },
       {
          "description" : "Eight rounds were played at the European Women's Chess Championship 2025 and IM Teodora Injac made a spectacular comeback after the loss in the first round, taking the sole lead in the tournament! IM Teodora Injac (SRB, 2454) suffered a tough loss in the first round against WFM Anastasia Kirtadze (GEO, 2180) where she had a mate in two motive to win the game, but missed it and entered a lost rooks endgame. She now won seven consecutive games to []",
