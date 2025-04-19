@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this insightful discussion, Dr. Karsten M&uuml;ller reflects on his evolution as a chess player, particularly his transformation from an aggressive \"Hyperactivist\" to a more universal and pragmatic style. Through a comparison of his early years and later career, M&uuml;ller's playing style is analysed using the ChessBase Style Report. His experiences highlight how his strengths developed over time and how this shift mirrors broader patterns in chess players' evolution.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-types-in-chess-what-the-chessbase-style-report-reveals",
+         "pubDate" : "Sat, 19 Apr 2025 08:39:22",
+         "title" : "Player types in chess: What the ChessBase style report reveals"
+      },
+      {
          "description" : "The 2025 FIDE Women's World Championship Match between Ju Wenjun and Tan Zhongyi concluded after nine intense games played across two cities. In over 517 moves and nearly 38 hours of play, both competitors delivered sharp openings, complex middlegames and dramatic endgames. Ju emerged victorious for a fifth consecutive time, but not without serious resistance from Tan. With standout performances, including a 98% accuracy win in Game 8, the match will be remembered for its fighting spirit. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
