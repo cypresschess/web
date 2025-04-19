@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a recent podcast with GM Avetik Grigoryan, founder and CEO of ChessMood, he called me the most disciplined person he knows. I laughed. Because honestly? I see myself as a very undisciplined person. I struggle to eat healthy when I have sweets at home. I struggle to work when I don't write a clear []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/discipline-matters/",
+         "pubDate" : "Sat, 19 Apr 2025 13:00:00",
+         "title" : "How I Tricked Myself Into Living the Life I Want"
+      },
+      {
+         "description" : " The grenke Open and Freestyle Open takes place 17th to 21st April 2025. The open has top seeds Awonder Liang, Nikita Vitiugov and Ivan Saric but it's the Freestyle Chess960 open that has the stronger field with Magnus Carlsen, Arjun Erigaisi, Fabiano Caruana, Ian Nepomniachtchi etc. I will cover the open live with a 15 minute delay. The Freestyle event I will provide a file but can't display this chess variant.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grenke-open-and-freestyle-open-2025",
+         "pubDate" : "Sat, 19 Apr 2025 12:31:00",
+         "title" : "grenke Open and Freestyle Open 2025 - Games and Results"
+      },
+      {
          "description" : "This week I celebrate the achievements of Howard Staunton, the only English player with a claim to have been world chess champion. In those days, best in Europe meant best in the world. Yet just over a decade later, the new invention of the steamship, would speed a fresh genius (Paul Morphy) across the Atlantic, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -850,7 +866,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;e&#103;&#x75;&#x61;r&#100;&#x69;n&#103;&#x2e;&#x6f;f&#102;&#x69;c&#101;&#x72;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;c&#104;&#x65;&#x73;s&#46;&#x6f;r&#103;&#x2e;&#x75;k if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;u&#x61;&#114;d&#x69;&#x6e;&#103;&#x2e;&#x6f;&#102;f&#x69;&#99;e&#x72;&#64;e&#x6e;&#x67;&#108;&#x69;&#x73;&#104;c&#x68;&#101;s&#x73;&#46;o&#x72;&#103;&#46;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
          "pubDate" : "Sun, 30 Mar 2025 12:52:00",
          "title" : "25th European Individual Championship 2025 - Games and Results"
-      },
-      {
-         "description" : "Cambridge have narrowly won the 2025 Varsity match against Oxford, the world's longest running chess competition, which began in 1873 and now spans three centuries. This result gives Cambridge a clear two-match lead in this venerable series. Here are the precise scores: 2025 Varsity Chess Match Oxford moved into an early lead, but late errors []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/clear-blue-water-varsity-chess-match-2025/",
-         "pubDate" : "Sat, 29 Mar 2025 14:59:38",
-         "title" : "Clear Blue water: Varsity Chess Match 2025"
       }
    ]
 }
