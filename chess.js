@@ -18,6 +18,14 @@ news_feed (
          "title" : "Howard University dominates 3rd HBCU Chess Classic!"
       },
       {
+         "description" : "GM Magnus Carlsen has taken the sole lead in the Grenke Chess Freestyle Open as the only player with a perfect score after five rounds. He enjoyed two smooth victories on Saturday against GM Etienne Bacrot and 53-year-old GM Victor Mikhalevski, wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-3",
+         "pubDate" : "Sat, 19 Apr 2025 13:45:00",
+         "title" : "Carlsen Takes Sole Lead On 5/5"
+      },
+      {
          "description" : "In a recent podcast with GM Avetik Grigoryan, founder and CEO of ChessMood, he called me the most disciplined person he knows. I laughed. Because honestly? I see myself as a very undisciplined person. I struggle to eat healthy when I have sweets at home. I struggle to work when I don't write a clear []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-2",
          "pubDate" : "Thu, 10 Apr 2025 08:24:29",
          "title" : "Grivas on the Prokeš Manoeuvre (2)"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Vincent Keymer advanced to the Semifinals of the 2025 Paris Freestyle Chess Grand Slam. The day started with an awkward setup as IM Danny Rensch drew position 73 for the second round of the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-4",
-         "pubDate" : "Thu, 10 Apr 2025 05:24:00",
-         "title" : "Carlsen Escapes; Caruana, Nakamura, Keymer Also Reach Semifinals"
       },
       {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2025 in Rhodes, Greece, and only two rounds left before the announcement of the Winners! Today's round was opened by the ECU President Mr. Zurab Azmaiparasvhili who played the first ceremonial move on the top board game between IM Teodora Injac and IM Lilit Mkrtchian. IM Teodora Injac (SRB, 2454) kept the sole lead in the event after defeating IM Lilit Mkrtchian (ARM, 2388) in today's 9th round. The []",
