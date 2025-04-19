@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite expectations of a quiet day before the rest break, round six of the Women's Grand Prix in Pune saw four hard-fought encounters and just one quick draw between Humpy Koneru and Harika Dronavalli. Vaishali Rameshbabu scored her first win of the event, while Nurgyul Salimova stunned Zhu Jiner with a brilliant queen sacrifice - though a win slipped away in time trouble. | Photo: Abhilash Shinde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-5",
+         "pubDate" : "Sat, 19 Apr 2025 20:00:00",
+         "title" : "Women's GP Pune: Zhu dodges a bullet, still leads"
+      },
+      {
+         "description" : " Howard University came to the 2025 HBCU Chess Classic to reclaim the trophy they won at the inaugural event in 2023. In last year's event, Howard failed to take the top prize in both the team and individual categories, settling for silver in the team category and bronze in the individual category. By Bison standards, The post <a href=\"https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/\">Howard University dominates 3rd HBCU Chess Classic!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/",
+         "pubDate" : "Sat, 19 Apr 2025 19:26:32",
+         "title" : "Howard University dominates 3rd HBCU Chess Classic!"
+      },
+      {
          "description" : "In a recent podcast with GM Avetik Grigoryan, founder and CEO of ChessMood, he called me the most disciplined person he knows. I laughed. Because honestly? I see myself as a very undisciplined person. I struggle to eat healthy when I have sweets at home. I struggle to work when I don't write a clear []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-products-mar-25",
          "pubDate" : "Fri, 18 Apr 2025 13:00:00",
          "title" : "Review: All new releases in March!"
-      },
-      {
-         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
-         "pubDate" : "Fri, 18 Apr 2025 11:50:00",
-         "title" : "Women's Grand Prix Pune - Live!"
       },
       {
          "description" : "GM Vaishali Rameshbabu beat IM Batkhuyag Munguntuul to score the only win of round five of the 2025 Pune FIDE Women&#39;s Grand Prix, but we were a move or two away from seeing leader GM&#38;nbsp;Zhu Jiner toppled. The Chinese star was hit by a fine queen...",
