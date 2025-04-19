@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week I celebrate the achievements of Howard Staunton, the only English player with a claim to have been world chess champion. In those days, best in Europe meant best in the world. Yet just over a decade later, the new invention of the steamship, would speed a fresh genius (Paul Morphy) across the Atlantic, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/adventures-with-the-english/",
+         "pubDate" : "Sat, 19 Apr 2025 10:11:16",
+         "title" : "Adventures with the English"
+      },
+      {
          "description" : "In this insightful discussion, Dr. Karsten M&uuml;ller reflects on his evolution as a chess player, particularly his transformation from an aggressive \"Hyperactivist\" to a more universal and pragmatic style. Through a comparison of his early years and later career, M&uuml;ller's playing style is analysed using the ChessBase Style Report. His experiences highlight how his strengths developed over time and how this shift mirrors broader patterns in chess players' evolution.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/player-types-in-chess-what-the-chessbase-style-report-reveals",
          "pubDate" : "Sat, 19 Apr 2025 08:39:22",
          "title" : "Player types in chess: What the ChessBase style report reveals"
+      },
+      {
+         "description" : "Luis Ignacio was crowned the winner of the 2025 Chess.com 4 Player Chess Championship and will receive the $1,800 first prize after winning three out of four games in the Grand Final ahead of Hamlet Antonyan, Aswin Devendran, and Jose Bolea.&#38;nbsp;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/luis-ignacio-wins-4-player-chess-championship-2025",
+         "pubDate" : "Sat, 19 Apr 2025 00:59:24",
+         "title" : "Ignacio Unstoppable In 4 Player Chess Championship"
       },
       {
          "description" : "The 2025 FIDE Women's World Championship Match between Ju Wenjun and Tan Zhongyi concluded after nine intense games played across two cities. In over 517 moves and nearly 38 hours of play, both competitors delivered sharp openings, complex middlegames and dramatic endgames. Ju emerged victorious for a fifth consecutive time, but not without serious resistance from Tan. With standout performances, including a 98% accuracy win in Game 8, the match will be remembered for its fighting spirit. | Photo: Anna Shtourman",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-4",
          "pubDate" : "Thu, 10 Apr 2025 05:24:00",
          "title" : "Carlsen Escapes; Caruana, Nakamura, Keymer Also Reach Semifinals"
-      },
-      {
-         "description" : "Defending champion GM Ju Wenjun has scored a third win in four games to take a commanding 4-2 lead over GM Tan&#38;nbsp;Zhongyi into the second half of the 2025 FIDE Women&#39;s World Championship. Ju took over just after the opening and had winning chanc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-6",
-         "pubDate" : "Thu, 10 Apr 2025 04:34:00",
-         "title" : "Ju Wenjun Powers Into 2-Point Lead"
       },
       {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2025 in Rhodes, Greece, and only two rounds left before the announcement of the Winners! Today's round was opened by the ECU President Mr. Zurab Azmaiparasvhili who played the first ceremonial move on the top board game between IM Teodora Injac and IM Lilit Mkrtchian. IM Teodora Injac (SRB, 2454) kept the sole lead in the event after defeating IM Lilit Mkrtchian (ARM, 2388) in today's 9th round. The []",
