@@ -6,8 +6,24 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-live",
-         "pubDate" : "Sun, 20 Apr 2025 10:00:00",
+         "pubDate" : "Sun, 20 Apr 2025 16:00:00",
          "title" : "Grenke Chess Open - Live!"
+      },
+      {
+         "description" : "Please find the live games link for&#160;Maharashtra Chess Festival GM Open (Above 2200) which is to be held in Pune from 20th 28th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-maharashtra-chess-festival-gm-open-above-2200/",
+         "pubDate" : "Sun, 20 Apr 2025 15:08:11",
+         "title" : "Live Games link for Maharashtra Chess Festival - GM Open (Above 2200)"
+      },
+      {
+         "description" : "ChessBase 18 also impresses with its clarity: Analysing with multiple menu windows without losing the overview is no problem. Are you familiar with the six standard layouts or do you prefer your own? Explore the options and try them all out. You will be amazed at how you can use this ChessBase feature to visually organise your analysis in a meaningful and effective way.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-10-standard-layout-or-custom-layout",
+         "pubDate" : "Sun, 20 Apr 2025 14:00:00",
+         "title" : "ChessBase 18 - Beginner's Tips Part 10: Standard Layout or Custom Layout"
       },
       {
          "description" : "Magnus Carlsen leads the Grenke Freestyle Chess Open after five rounds, standing as the only player with a perfect score in a field of nearly 300 participants. The nine-round Swiss tournament, which includes 16 players rated 2700 or above, is a notable application of the Freestyle Chess format in an open setting. Seven players are half a point behind Carlsen, including Awonder Liang and Parham Maghsoodloo. Carlsen will face Liang with the black pieces in round six. | Photo: Stev Bonhage",
@@ -98,6 +114,14 @@ news_feed (
          "title" : "The Women's World Championship match in numbers"
       },
       {
+         "description" : " The FIDE Women's World Chess Championship took place in Shanghai and finished in Chongqing, China. The event was supposed to take place 3rd to 20th April 2025 but finished early on 16th April with the closing ceremony two days later. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
+         "pubDate" : "Fri, 18 Apr 2025 16:54:00",
+         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
+      },
+      {
          "description" : "On Easter Sunday, April 20, at 6 PM CET, the Kasparov Chess Foundation Academy will host an exclusive lecture by Max Dlugy, a world-renowned grandmaster and a brilliant chess educator, known for his dynamic style and deep understanding of the game. Dlugy was one of the top blitz players in the world, earning the title of World Junior Champion in 1985.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/ethan-guo-double-medals-siddharth-singh-earns-bronze-2025-fide-world-cadets-youth-rapid-blitz",
          "pubDate" : "Fri, 18 Apr 2025 00:00:00",
          "title" : "Ethan Guo Double-Medals, Siddharth Singh Earns Bronze at 2025 FIDE World Cadets & Youth Rapid & Blitz"
-      },
-      {
-         "description" : " The FIDE Women's World Chess Championship took starts in Shanghai and finishes in Chongqing, China 3rd to 18th April 2025. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. The closing ceremony is on Friday 18th April.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
-         "pubDate" : "Thu, 17 Apr 2025 16:54:00",
-         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
       },
       {
          "description" : "There were no upsets on the top boards after round one of the&#38;nbsp;Grenke Chess Freestyle Open. The closest we came to an upset (even a draw) was in the games GM Fabiano Caruana vs. CM Carlos Hauser and FM Matthias Bach vs. GM Levon Aronian. But, ...",
@@ -912,14 +928,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/30/famu-chess-sets-team-readies-for-hbcu-classic/",
          "pubDate" : "Sun, 30 Mar 2025 18:43:59",
          "title" : "FAMU Chess sets team; readies for HBCU Classic"
-      },
-      {
-         "description" : " The 25th European Individual Championship took place Sat 15th to Wed 26th Mar 2025 in Eforie Nord, Romania. Matthias Bluebaum won the title on tie-break from Frederick Svane and Maxim Rodshtein. Bluebaum is the first player to win the event twice having won previously in 2022. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/25th-european-individual-championship-2025",
-         "pubDate" : "Sun, 30 Mar 2025 12:52:00",
-         "title" : "25th European Individual Championship 2025 - Games and Results"
       }
    ]
 }
