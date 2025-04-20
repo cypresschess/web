@@ -18,6 +18,14 @@ news_feed (
          "title" : "Howard University dominates 3rd HBCU Chess Classic!"
       },
       {
+         "description" : "GM Oleksandr Bortnyk rocketed to a second-straight Bullet Brawl victory and won the $400 first prize after outpacing 140 titled players during Saturday&#39;s event. Bortnyk&#39;s 65.5/74 gave him a score of 333, 34 points higher than the second-placed IM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-april-19-2025",
+         "pubDate" : "Sat, 19 Apr 2025 16:38:00",
+         "title" : "Bortnyk Doubles Down On Bullet Brawl, Wins By 34-Point Margin"
+      },
+      {
          "description" : "GM Magnus Carlsen has taken the sole lead in the Grenke Chess Freestyle Open as the only player with a perfect score after five rounds. He enjoyed two smooth victories on Saturday against GM Etienne Bacrot and 53-year-old GM Victor Mikhalevski, wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-takes-control-of-her-match-against-tan-zhongyi-with-two-wins-in-a-row",
          "pubDate" : "Thu, 10 Apr 2025 13:51:00",
          "title" : "Ju Wenjun takes control of her match against Tan Zhongyi with two wins in a row - 6"
-      },
-      {
-         "description" : "GM Anish Giri has become the 15th grandmaster to sign for an esports organization ahead of the $1.5 million 2025 Esports World Cup, joining Team Secret. The announcement was shared Wednesday on Team Secret&#39;s social media channels and ends a five...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anish-giri-signs-for-team-secret",
-         "pubDate" : "Thu, 10 Apr 2025 10:02:00",
-         "title" : "'Hilarious And Winning Personality' Anish Giri Joins Team Secret For Esports World Cup Push"
       },
       {
          "description" : "One method that enables a rook to draw against two advanced pawns in an endgame is, as explained in a previous article, is known as the 'Prokeš Manoeuvre'. This scheme will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Today you get eight test positions from international trainer GM Efstratios Grivas. They will tell you if you have thoroughly understood the concept.",
