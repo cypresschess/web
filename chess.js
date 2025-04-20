@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Renowned US chess trainer and International Master John Watson had a close look at the recently released ChessBase 18 for a review in Chess Life. He concluded: \"Casual online players will understandably not feel the need for such a powerful tool, but anyone serious about significantly improving their chess will almost certainly benefit from this program\". The review first appeared in Chess Life 4/2025. Reprinted with kind permission.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/john-watson-chessbase-18-review-chess-life",
+         "pubDate" : "Sun, 20 Apr 2025 22:00:00",
+         "title" : "John Watson: ChessBase 18 - Upgrade or stand pat?"
+      },
+      {
          "description" : "The Grenke Freestyle Chess Open is taking place from 17 to 21 April at the Karlsruhe Convention Centre in Germany. The tournament follows a nine-round Swiss format with a classical time control of 90 minutes plus a 30-second increment per move. Players from the parallel Grenke Chess Open could switch to the Freestyle event between rounds two and five while keeping their scores. | Follow the games live with expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,20 @@ news_feed (
          "title" : "Live Games link for Maharashtra Chess Festival - GM Open (Above 2200)"
       },
       {
-         "description" : "ChessBase 18 also impresses with its clarity: Analysing with multiple menu windows without losing the overview is no problem. Are you familiar with the six standard layouts or do you prefer your own? Explore the options and try them all out. You will be amazed at how you can use this ChessBase feature to visually organise your analysis in a meaningful and effective way.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-10-standard-layout-or-custom-layout",
-         "pubDate" : "Sun, 20 Apr 2025 14:00:00",
-         "title" : "ChessBase 18 - Beginner's Tips Part 10: Standard Layout or Custom Layout"
+         "description" : "GM Magnus Carlsen continues his streak of perfection in the&#38;nbsp;2025 Grenke Chess Freestyle Open, now with seven rounds under his belt. He won a smooth game against GM Awonder Liang before his rollercoaster game against GM Parham Maghsoodloo, whe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-4",
+         "pubDate" : "Sun, 20 Apr 2025 13:33:00",
+         "title" : "Carlsen Perfect After 7 Rounds, Leads By Full Point"
+      },
+      {
+         "description" : "GM Zhu Jiner won a fourth game in six rounds of the 2025 Pune FIDE Women&#39;s Grand Prix, beating GM Vaishali Rameshbabu to retain the sole lead and climb above GM Tan Zhongyi to world number-five on the Women&#39;s FIDE rating list. GM Humpy Koneru is s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-6",
+         "pubDate" : "Sun, 20 Apr 2025 12:55:00",
+         "title" : "Zhu, Humpy Win Again In 2-Horse Race"
       },
       {
          "description" : "Magnus Carlsen leads the Grenke Freestyle Chess Open after five rounds, standing as the only player with a perfect score in a field of nearly 300 participants. The nine-round Swiss tournament, which includes 16 players rated 2700 or above, is a notable application of the Freestyle Chess format in an open setting. Seven players are half a point behind Carlsen, including Awonder Liang and Parham Maghsoodloo. Carlsen will face Liang with the black pieces in round six. | Photo: Stev Bonhage",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "Grenke Freestyle Open: Carlsen sole leader with 5 out of 5"
       },
       {
-         "description" : "Despite expectations of a quiet day before the rest break, round six of the Women's Grand Prix in Pune saw four hard-fought encounters and just one quick draw between Humpy Koneru and Harika Dronavalli. Vaishali Rameshbabu scored her first win of the event, while Nurgyul Salimova stunned Zhu Jiner with a brilliant queen sacrifice - though a win slipped away in time trouble. | Photo: Abhilash Shinde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-5",
-         "pubDate" : "Sat, 19 Apr 2025 20:00:00",
-         "title" : "Women's GP Pune: Zhu dodges a bullet, still leads"
-      },
-      {
          "description" : " Howard University came to the 2025 HBCU Chess Classic to reclaim the trophy they won at the inaugural event in 2023. In last year's event, Howard failed to take the top prize in both the team and individual categories, settling for silver in the team category and bronze in the individual category. By Bison standards, The post <a href=\"https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/\">Howard University dominates 3rd HBCU Chess Classic!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "Howard University dominates 3rd HBCU Chess Classic!"
       },
       {
-         "description" : "GM Oleksandr Bortnyk rocketed to a second-straight Bullet Brawl victory and won the $400 first prize after outpacing 140 titled players during Saturday&#39;s event. Bortnyk&#39;s 65.5/74 gave him a score of 333, 34 points higher than the second-placed IM ...",
+         "description" : "GM Oleksandr Bortnyk rocketed to a second-straight Bullet Brawl victory and won the $400 first prize after outpacing 140 titled players during Saturday&#39;s event. Bortnyk&#39;s 65.5/74 gave him a score of 233, 34 points higher than the second-placed IM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-april-19-2025",
@@ -106,14 +114,6 @@ news_feed (
          "title" : "Ignacio Unstoppable In 4 Player Chess Championship"
       },
       {
-         "description" : "The 2025 FIDE Women's World Championship Match between Ju Wenjun and Tan Zhongyi concluded after nine intense games played across two cities. In over 517 moves and nearly 38 hours of play, both competitors delivered sharp openings, complex middlegames and dramatic endgames. Ju emerged victorious for a fifth consecutive time, but not without serious resistance from Tan. With standout performances, including a 98% accuracy win in Game 8, the match will be remembered for its fighting spirit. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-numbers",
-         "pubDate" : "Fri, 18 Apr 2025 19:20:00",
-         "title" : "The Women's World Championship match in numbers"
-      },
-      {
          "description" : " The FIDE Women's World Chess Championship took place in Shanghai and finished in Chongqing, China. The event was supposed to take place 3rd to 20th April 2025 but finished early on 16th April with the closing ceremony two days later. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -122,28 +122,12 @@ news_feed (
          "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
       },
       {
-         "description" : "On Easter Sunday, April 20, at 6 PM CET, the Kasparov Chess Foundation Academy will host an exclusive lecture by Max Dlugy, a world-renowned grandmaster and a brilliant chess educator, known for his dynamic style and deep understanding of the game. Dlugy was one of the top blitz players in the world, earning the title of World Junior Champion in 1985.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/special-live-lecture-with-max",
-         "pubDate" : "Fri, 18 Apr 2025 16:00:00",
-         "title" : "Special live lecture with Max"
-      },
-      {
          "description" : "14 players are on a perfect score after three rounds in the Grenke Chess Freestyle Open. On a day of upsets, several pre-tournament favorites lost: GM Aravindh Chithambaram (against GM Maciej Klekowski), GM Maxime Vachier-Lagrave (against Slovak I...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-2",
          "pubDate" : "Fri, 18 Apr 2025 14:04:00",
          "title" : "Carlsen On Perfect 3/3 As Favorites Drop Around Him"
-      },
-      {
-         "description" : "There was a lot of news at ChessBase in March: whether it was a mobile app, video course, ChessBase Magazine Extra, or databases - there was sure to be something to suit every chess taste. Take a look at last month's products:",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-products-mar-25",
-         "pubDate" : "Fri, 18 Apr 2025 13:00:00",
-         "title" : "Review: All new releases in March!"
       },
       {
          "description" : "GM Vaishali Rameshbabu beat IM Batkhuyag Munguntuul to score the only win of round five of the 2025 Pune FIDE Women&#39;s Grand Prix, but we were a move or two away from seeing leader GM&#38;nbsp;Zhu Jiner toppled. The Chinese star was hit by a fine queen...",
@@ -178,14 +162,6 @@ news_feed (
          "title" : "Humpy, Divya win; Harika lets Vaishali off the hook"
       },
       {
-         "description" : "Round four of the FIDE Women's Grand Prix in Pune saw a thrilling day of chess, with four decisive results and standout endgame performances from Indian stars Humpy Koneru and Divya Deshmukh. Zhu Jiner remains in the lead on 3&frac12;/4, closely followed by Humpy and Divya. The round featured impressive technical finishes, a near-win in a dramatic Harika-Vaishali draw, and strong showings from Salimova and Zhu. With five rounds remaining, the tournament remains wide open. | Photo: Abhilash Shinde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-4",
-         "pubDate" : "Fri, 18 Apr 2025 02:25:00",
-         "title" : "Women's GP Pune: Zhu sole leader, Humpy and Divya a half point back"
-      },
-      {
          "description" : "American players earned three podium finishes at the 2025 FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championships, held April 13 through 17 in Rhodes, Greece. Over 400 players competed in the five-day event, including seven Americans. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Guo celebrates with his first-place trophy from the blitz event (Photo courtesy of Ippotis Chess Club Rhodes/FIDE)<br> <br> <br> <br> California's CM Ethan Guo earned gold in the Under-12 Open Blitz with a dominating 10/11 score. Guo also took home bronze in the Under-12 Open Rapid for his 8&frac12;/11 performance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br>",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -200,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-1",
          "pubDate" : "Thu, 17 Apr 2025 16:50:00",
          "title" : "No Surprises: Carlsen, Arjun, Caruana Start With Wins"
-      },
-      {
-         "description" : "You want to understand chess? Who doesn't? - To make the path to that goal a little easier, GM Robert Ris explains in two more episodes of his strategy series what he believes is important. Understand his ideas, and it will be easier for you to develop good plans of your own.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strategic-masterpieces",
-         "pubDate" : "Thu, 17 Apr 2025 14:02:55",
-         "title" : "Strategic masterpieces"
       },
       {
          "description" : "GM Zhu Jiner beat IM Alina Kashlinskaya in round four to retain the sole lead in the 2025 Pune FIDE Women&#39;s Grand Prix on 3.5/4. Just half a point back are local heroes GM Humpy Koneru and IM Divya Deshmukh, who picked up wins against IMs Polina S...",
@@ -442,14 +410,6 @@ news_feed (
          "title" : "Pune Women's Grand Prix Takes Off With 4 Decisive Games"
       },
       {
-         "description" : "The second tournament of the Freestyle Chess Grand Slam is taking place in Paris, France on 7-14 April. The elite participants, including Magnus Carlsen and Gukesh Dommaraju, first play a single round-robin with a 10+10 time control. Eight out of twelve players then move on to the knockout stage, played with a classical time control. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paris-fcgs-2025-live",
-         "pubDate" : "Mon, 14 Apr 2025 12:50:00",
-         "title" : "Freestyle Chess Paris, Final, Game 2 - Live!"
-      },
-      {
          "description" : " Ju Wenjun beat Tan Zhongyi in game eight of her Women's World Chess Championship defence to take an all but unassailable 6-2 lead, she needs only a draw to finish the match. Today was really must win for Tan and she switched to 1.e4 but the variation couldn't be described as all or nothing. As with many of these games Ju equalised, got a little better, and then Tan subsided to defeat not seeming to know whether she should to try to hold the position or continue to look for winning chances. 25.Qd4?! keeping Queens on was a mistake but 25.exf5 would most likely have led to a quick draw, 28.c4? was the losing move. Ju Wenjun was super alert and found 28...e3! which led to the creation of a dan",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -464,14 +424,6 @@ news_feed (
          "link" : "https://www.europechess.org/england-wins-triple-gold-at-european-senior-team-chess-championship-2025/",
          "pubDate" : "Mon, 14 Apr 2025 11:44:46",
          "title" : "England wins triple gold at European Senior Team Chess Championship 2025"
-      },
-      {
-         "description" : "Have you mastered the 'Prokeš Manoeuvre'? Can you confidently handle the endgame rook against two advanced pawns, as explained in two previous articles? Well, here is a final test: try winning some new positions against our diagram engine, and then check with the analysis given at the end to make sure you have understood everything. And tell international trainer Efstratios Grivas if this has been useful for your tournament performance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-3",
-         "pubDate" : "Mon, 14 Apr 2025 11:42:20",
-         "title" : "Grivas on the Prokeš Manoeuvre (3)"
       },
       {
          "description" : "India&#39;s most prominent esports organization has entered the chess esports scene with the double signing of GMs Aravindh Chithambaram and Nihal Sarin, two of the nation&#39;s biggest stars. The grandmasters will now represent S8UL as they try to qualif...",
@@ -658,28 +610,12 @@ news_feed (
          "title" : "Ju Wenjun wins third game in a row to lead 5-2 - 7"
       },
       {
-         "description" : "The Semifinals of the 2025 Paris Freestyle Chess Grand Slam got off to a quiet start, as GMs Fabiano Caruana and Magnus Carlsen drew their game, as did GMs Hikaru Nakamura and Vincent Keymer. Meanwhile, the matches to determine 5th-8th place heate...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-5",
-         "pubDate" : "Fri, 11 Apr 2025 12:16:00",
-         "title" : "Nepo And Nakamura Test Caruana's Theories"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120204255.cms\" />Pranav Venkatesh, the World Junior Chess Champion, has his sights set on becoming the World Chess Champion. The 18-year-old from Chennai balances chess with academics and enjoys cricket. He admires Magnus Carlsen and Viswanathan Anand. Pranav is preparing for upcoming tournaments in Spain and Dubai. He skipped his board exams for the championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-rcb-fan-who-became-a-world-champion-the-story-of-pranav-v/articleshow/120204255.cms",
          "pubDate" : "Fri, 11 Apr 2025 11:40:07",
          "title" : "Exclusive: RCB fan who became a world champion"
-      },
-      {
-         "description" : "Freestyle Friday on April 11 came down to the final round, where GM Christopher Yoo defeated a pressing GM Magnus Carlsen to reach 10/11 and lock up the event by a full point ahead of GM Sam Sevian, GM Leon Luke Mendonca, and IM Jakub Kosakowski. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yoo-wins-freestyle-friday-april-11-2025",
-         "pubDate" : "Fri, 11 Apr 2025 11:06:00",
-         "title" : "Yoo Beats Carlsen To Win First Freestyle Friday"
       },
       {
          "description" : "Get ready for an epic battle of strategy and intelligence! On April 12, SenseRobot will take on Grandmaster Antoaneta Stefana in a thrilling human vs. AI chess match-hosted in collaboration with the European Chess Union (ECU)! Can AI outsmart a Chess Grandmaster? Will human intuition prevail? Witness history in the making! Event Date: Saturday April 12 : 9:30 CESTLive from Rhodes Greece - Streaming worldwide! The event can be followed through the ECU TV. About SenseRobot SenseRobot brings chess to []",
@@ -728,14 +664,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-takes-control-of-her-match-against-tan-zhongyi-with-two-wins-in-a-row",
          "pubDate" : "Thu, 10 Apr 2025 13:51:00",
          "title" : "Ju Wenjun takes control of her match against Tan Zhongyi with two wins in a row - 6"
-      },
-      {
-         "description" : "One method that enables a rook to draw against two advanced pawns in an endgame is, as explained in a previous article, is known as the 'Prokeš Manoeuvre'. This scheme will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Today you get eight test positions from international trainer GM Efstratios Grivas. They will tell you if you have thoroughly understood the concept.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-2",
-         "pubDate" : "Thu, 10 Apr 2025 08:24:29",
-         "title" : "Grivas on the Prokeš Manoeuvre (2)"
       },
       {
          "description" : "Nine rounds have been played at the European Women's Chess Championship 2025 in Rhodes, Greece, and only two rounds left before the announcement of the Winners! Today's round was opened by the ECU President Mr. Zurab Azmaiparasvhili who played the first ceremonial move on the top board game between IM Teodora Injac and IM Lilit Mkrtchian. IM Teodora Injac (SRB, 2454) kept the sole lead in the event after defeating IM Lilit Mkrtchian (ARM, 2388) in today's 9th round. The []",
@@ -800,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-out-world-chess-champion-falls-in-paris-freestyle-chess-prelims/articleshow/120102962.cms",
          "pubDate" : "Tue, 08 Apr 2025 17:33:24",
          "title" : "Gukesh out! World champion falls in Paris Freestyle Chess prelims"
-      },
-      {
-         "description" : "The 'Prokeš Manoeuvre' is a tactic that enables a rook to draw against two advanced pawns in an endgame. It is a very important endgame scheme that will allow you to draw in desperate-looking positions, or win when the defence can be overcome. Take a look at this position. Would you be able to draw with white? And how would you do it? Let international trainer Efstratios Grivas explain everything.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-proke-manoeuvre-1",
-         "pubDate" : "Tue, 08 Apr 2025 07:40:59",
-         "title" : "Grivas on The Prokeš Manoeuvre (1)"
       },
       {
          "description" : "&#8212; from Chris Baker ( a fuller report will appear in ChessMoves for April) Held in Swidnica 4th April to 14th April 2025 featuring 50+ and 65+ teams. This is...",
