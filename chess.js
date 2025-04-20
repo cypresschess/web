@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen leads the Grenke Freestyle Chess Open after five rounds, standing as the only player with a perfect score in a field of nearly 300 participants. The nine-round Swiss tournament, which includes 16 players rated 2700 or above, is a notable application of the Freestyle Chess format in an open setting. Seven players are half a point behind Carlsen, including Awonder Liang and Parham Maghsoodloo. Carlsen will face Liang with the black pieces in round six. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-r5",
+         "pubDate" : "Sun, 20 Apr 2025 08:40:00",
+         "title" : "Grenke Freestyle Open: Carlsen sole leader with 5 out of 5"
+      },
+      {
          "description" : "Despite expectations of a quiet day before the rest break, round six of the Women's Grand Prix in Pune saw four hard-fought encounters and just one quick draw between Humpy Koneru and Harika Dronavalli. Vaishali Rameshbabu scored her first win of the event, while Nurgyul Salimova stunned Zhu Jiner with a brilliant queen sacrifice - though a win slipped away in time trouble. | Photo: Abhilash Shinde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -874,7 +882,7 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#x73;&#97;f&#x65;&#103;u&#x61;&#114;d&#x69;&#x6e;&#103;&#x2e;&#x6f;&#102;f&#x69;&#99;e&#x72;&#64;e&#x6e;&#x67;&#108;&#x69;&#x73;&#104;c&#x68;&#101;s&#x73;&#46;o&#x72;&#103;&#46;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safe&#103;&#117;&#97;&#114;&#100;&#105;&#110;&#x67;&#x2e;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#64;eng&#108;&#105;&#115;&#104;&#99;&#104;&#101;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
