@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grenke Freestyle Chess Open is taking place from 17 to 21 April at the Karlsruhe Convention Centre in Germany. The tournament follows a nine-round Swiss format with a classical time control of 90 minutes plus a 30-second increment per move. Players from the parallel Grenke Chess Open could switch to the Freestyle event between rounds two and five while keeping their scores. | Follow the games live with expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-live",
+         "pubDate" : "Sun, 20 Apr 2025 10:00:00",
+         "title" : "Grenke Chess Open - Live!"
+      },
+      {
          "description" : "Magnus Carlsen leads the Grenke Freestyle Chess Open after five rounds, standing as the only player with a perfect score in a field of nearly 300 participants. The nine-round Swiss tournament, which includes 16 players rated 2700 or above, is a notable application of the Freestyle Chess format in an open setting. Seven players are half a point behind Carlsen, including Awonder Liang and Parham Maghsoodloo. Carlsen will face Liang with the black pieces in round six. | Photo: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
