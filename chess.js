@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Humpy Koneru seized the lead at the Women's Grand Prix in Pune with a crucial win over Zhu Jiner in Monday's round seven, turning the tournament standings on their head with just two rounds remaining. Divya Deshmukh also impressed, scoring a dominant victory to stay in contention ahead of her key clash with Zhu. While three other games ended in draws, they were far from uneventful, with tactical complications and endgame fortresses keeping things exciting across the board. | Photo: Abhilash Shinde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-7",
+         "pubDate" : "Mon, 21 Apr 2025 23:00:00",
+         "title" : "Women's GP Pune: Humpy beats Zhu, leads with two rounds to go"
+      },
+      {
+         "description" : "GM Magnus Carlsen has won the 2025 Grenke Chess Freestyle Open with an out-of-this-world, perfect 9/9 score. He had already won the tournament with a round to spare in round eight, but round nine was about cementing his legacy of dominance. With a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-grenke-freestyle-chess-open",
+         "pubDate" : "Mon, 21 Apr 2025 13:30:00",
+         "title" : "Carlsen Wins With Shining 9/9 Perfect Score"
+      },
+      {
+         "description" : "GM Humpy Koneru is the new sole leader of the 2025 Pune FIDE Women&#39;s Grand Prix on 5.5/7 after beating GM Zhu Jiner in a dramatic round-seven clash. Zhu is now joined half a point back by GM Divya Deshmukh, who won a fourth game of the event as sh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-7",
+         "pubDate" : "Mon, 21 Apr 2025 13:00:20",
+         "title" : "Humpy Beats Zhu To Snatch Pune Women's Grand Prix Lead"
+      },
+      {
          "description" : "Baden-Baden has a long chess history, mainly thanks to great classics from the early days of tournament chess: Baden-Baden 1870 and Baden-Baden 1925. Hartmut Metz brings back the super tournament from 1925 on the occasion of the grenke Open. It was the time of the \"hypermodernists\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/baden-baden-1925-triumph-hypermodern",
          "pubDate" : "Mon, 21 Apr 2025 13:00:00",
          "title" : "Baden-Baden 1925: The triumph of the \"hypermodernists\""
-      },
-      {
-         "description" : "GM Magnus Carlsen has won the 2025 Grenke Chess Freestyle Open with an out-of-this-world, perfect 9/9 score. He had already won the tournament with a round to spare in round eight, but round nine was about cementing his legacy of dominance. With...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-grenke-freestyle-chess-open",
-         "pubDate" : "Mon, 21 Apr 2025 11:21:00",
-         "title" : "Carlsen Wins With Shining 9/9 Perfect Score"
       },
       {
          "description" : "Nigerian chess player Tunde Onakoya and NM Shawn Martinez have officially broken the Guinness World Record for the longest chess marathon after playing continuously for an astonishing 64 hours on New York&#39;s iconic Times Square.&#38;nbsp; The impress...",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "Zhu, Humpy Win Again In 2-Horse Race"
       },
       {
-         "description" : "Magnus Carlsen leads the Grenke Freestyle Chess Open after five rounds, standing as the only player with a perfect score in a field of nearly 300 participants. The nine-round Swiss tournament, which includes 16 players rated 2700 or above, is a notable application of the Freestyle Chess format in an open setting. Seven players are half a point behind Carlsen, including Awonder Liang and Parham Maghsoodloo. Carlsen will face Liang with the black pieces in round six. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-r5",
-         "pubDate" : "Sun, 20 Apr 2025 08:40:00",
-         "title" : "Grenke Freestyle Open: Carlsen sole leader with 5 out of 5"
-      },
-      {
          "description" : " Howard University came to the 2025 HBCU Chess Classic to reclaim the trophy they won at the inaugural event in 2023. In last year's event, Howard failed to take the top prize in both the team and individual categories, settling for silver in the team category and bronze in the individual category. By Bison standards, The post <a href=\"https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/\">Howard University dominates 3rd HBCU Chess Classic!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "How I Tricked Myself Into Living the Life I Want"
       },
       {
-         "description" : " The grenke Open and Freestyle Open takes place 17th to 21st April 2025. The open has top seeds Awonder Liang, Nikita Vitiugov and Ivan Saric but it's the Freestyle Chess960 open that has the stronger field with Magnus Carlsen, Arjun Erigaisi, Fabiano Caruana, Ian Nepomniachtchi etc. I will cover the open live with a 15 minute delay. The Freestyle event I will provide a file but can't display this chess variant.",
+         "description" : " The grenke Open and Freestyle Open took place 17th to 21st April 2025. The open had top seeds Awonder Liang, Nikita Vitiugov and Ivan Saric but the Freestyle Chess960 open had the stronger field with Magnus Carlsen, Arjun Erigaisi, Fabiano Caruana, Ian Nepomniachtchi etc. I can't display Freestyle games. Carlsen impressively clonked his way through the field in the Freestyle and scored 9/9. S Aswath and Brandon Jacobson finished on 8/9 in the open, most likely finishing in that order. Finally I was interested to see that grenke had a rebrand about 10 months ago and went from the all caps GRENKE to all small letters grenke (with a modern font). No doubt someone was paid big bucks for this ge",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/grenke-open-and-freestyle-open-2025",
@@ -578,14 +586,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2025 concluded in Rhodes, Greece"
       },
       {
-         "description" : "World numbers one and two GMs Magnus Carlsen and Hikaru Nakamura will compete for the $200,000 top prize in the Final of the 2025 Paris Freestyle Chess Grand Slam. Carlsen overcame GM Fabiano Caruana, who fought valiantly in a difficult position b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-6",
-         "pubDate" : "Sat, 12 Apr 2025 08:31:00",
-         "title" : "It's A Carlsen-Nakamura Final In Paris!"
-      },
-      {
          "description" : "Category A: https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-a/games Category B : https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-b/games",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -808,14 +808,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/",
          "pubDate" : "Thu, 03 Apr 2025 13:44:56",
          "title" : "Tanitoluwa Adewumi qualifies for IM title!"
-      },
-      {
-         "description" : " 1st HBCU Chess Classic at Morris Brown College, 2023Photo by TBO Chess Society \"The HBCU Chess Classic is more than just a tournament; it's a movement.\" ~Alan Cowan, co-founder of TBO and co-organizer of the event 3rd HBCU Chess Classic April 12-13th, 2025 African American Hall of Fame at Morehouse College830 Westview Dr., SW Atlanta, The post <a href=\"https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/\">2025 HBCU Chess Classic approaches!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/",
-         "pubDate" : "Mon, 31 Mar 2025 20:51:17",
-         "title" : "2025 HBCU Chess Classic approaches!"
       }
    ]
 }
