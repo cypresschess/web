@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Baden-Baden has a long chess history, mainly thanks to great classics from the early days of tournament chess: Baden-Baden 1870 and Baden-Baden 1925. Hartmut Metz brings back the super tournament from 1925 on the occasion of the grenke Open. It was the time of the \"hypermodernists\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/baden-baden-1925-triumph-hypermodern",
+         "pubDate" : "Mon, 21 Apr 2025 13:00:00",
+         "title" : "Baden-Baden 1925: The triumph of the \"hypermodernists\""
+      },
+      {
+         "description" : "The Grenke Freestyle Chess Open is taking place from 17 to 21 April at the Karlsruhe Convention Centre in Germany. The tournament follows a nine-round Swiss format with a classical time control of 90 minutes plus a 30-second increment per move. Players from the parallel Grenke Chess Open could switch to the Freestyle event between rounds two and five while keeping their scores. | Follow the games live with expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-live",
+         "pubDate" : "Mon, 21 Apr 2025 10:00:00",
+         "title" : "Grenke Chess Open - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/john-watson-chessbase-18-review-chess-life",
          "pubDate" : "Sun, 20 Apr 2025 22:00:00",
          "title" : "John Watson: ChessBase 18 - Upgrade or stand pat?"
-      },
-      {
-         "description" : "The Grenke Freestyle Chess Open is taking place from 17 to 21 April at the Karlsruhe Convention Centre in Germany. The tournament follows a nine-round Swiss format with a classical time control of 90 minutes plus a 30-second increment per move. Players from the parallel Grenke Chess Open could switch to the Freestyle event between rounds two and five while keeping their scores. | Follow the games live with expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-live",
-         "pubDate" : "Sun, 20 Apr 2025 16:00:00",
-         "title" : "Grenke Chess Open - Live!"
       },
       {
          "description" : "Please find the live games link for&#160;Maharashtra Chess Festival GM Open (Above 2200) which is to be held in Pune from 20th 28th",
