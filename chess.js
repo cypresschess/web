@@ -18,6 +18,14 @@ news_feed (
          "title" : "Grenke Chess Open - Live!"
       },
       {
+         "description" : "Nigerian chess player Tunde Onakoya and NM Shawn Martinez have officially broken the Guinness World Record for the longest chess marathon after playing continuously for an astonishing 64 hours on New York&#39;s iconic Times Square.&#38;nbsp; The impress...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tunde-onakoya-shawn-martinez-breaks-guinness-record-for-longest-chess-marathon",
+         "pubDate" : "Mon, 21 Apr 2025 08:24:49",
+         "title" : "Tunde Onakoya, Shawn Martinez Break Guinness Record With 64-Hour Chess Marathon"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -594,14 +602,6 @@ news_feed (
          "title" : "Speed Chess Stars Dubov, Artemiev Picked Up By Team Spirit"
       },
       {
-         "description" : "Like a phoenix from the ashes, Serbian IM Teodora Injac recovered from a first-round loss at the 2025 European Women&#39;s Championship, winning nine games in a row and claiming her first continental title with a round to spare. A nine-move draw in ro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/injac-wins-2025-european-womens-chess-championship",
-         "pubDate" : "Fri, 11 Apr 2025 18:36:00",
-         "title" : "Injac Secures European Women's Championship With 9 Straight Wins"
-      },
-      {
          "description" : " by Dr. O.T. Olabanji, PhD Plasma Physics, Highest USCF Rating = 2332 \"Chess is an extremely important game that tweaks the cognitive functionalities, enhances academic skills, aids rapid thought processes, boosts logical and strategic thinking, and helps to gain exceptional memory skills, creativity, focus and discipline\" [1-5]. I strongly recommend it for any child or [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/\">The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -832,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/national-team-open-and-women-certificates-2024-25-in-ahmedabad-from-05-11-march-2025/",
          "pubDate" : "Mon, 31 Mar 2025 16:41:35",
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
-      },
-      {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;e&#103;&#x75;&#x61;r&#100;&#x69;n&#103;&#x2e;&#x6f;f&#102;&#x69;c&#101;&#x72;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;c&#104;&#x65;&#x73;s&#46;&#x6f;r&#103;&#x2e;&#x75;k if you have any...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
-         "pubDate" : "Mon, 31 Mar 2025 12:26:02",
-         "title" : "ECF Safeguarding Policy"
       }
    ]
 }
