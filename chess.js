@@ -826,20 +826,12 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       },
       {
-         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at safe&#103;&#117;&#97;&#114;&#100;&#105;&#110;&#x67;&#x2e;&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x72;&#64;eng&#108;&#105;&#115;&#104;&#99;&#104;&#101;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; if you have any...",
+         "description" : "The ECF safeguarding policy can read at https://www.englishchess.org.uk/wp-content/uploads/2025/03/ECF-Safeguarding-Policy.pdf. This has recently been updated and will be reviewed regularly. Please write to the safeguarding team at &#115;&#x61;&#x66;e&#103;&#x75;&#x61;r&#100;&#x69;n&#103;&#x2e;&#x6f;f&#102;&#x69;c&#101;&#x72;&#x40;e&#110;&#x67;&#x6c;&#105;&#x73;&#x68;c&#104;&#x65;&#x73;s&#46;&#x6f;r&#103;&#x2e;&#x75;k if you have any...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-policy-2/",
          "pubDate" : "Mon, 31 Mar 2025 12:26:02",
          "title" : "ECF Safeguarding Policy"
-      },
-      {
-         "description" : "The National Amateur Chess Championship 2024-2025 was started on 25th March 2025 at Sambodhi Retreat, Gaya, Bihar, attracting chess enthusiasts and competitors from every corner",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-12th-national-amateur-chess-championship-2024-25-in-bodh-gaya-bihar-from-25th-29th-march-2025/",
-         "pubDate" : "Mon, 31 Mar 2025 06:34:23",
-         "title" : "Final Report :12th National Amateur Chess Championship 2024-25 in Bodh Gaya, Bihar from 25th - 29th March 2025"
       }
    ]
 }
