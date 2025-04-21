@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-outplays-munguntuul-in-tactical-masterclass-at-fide-womens-grand-prix/articleshow/120469711.cms",
+         "pubDate" : "Mon, 21 Apr 2025 03:06:15",
+         "title" : "K Humpy outplays Munguntuul in at FIDE Women's Grand Prix"
+      },
+      {
          "description" : "Renowned US chess trainer and International Master John Watson had a close look at the recently released ChessBase 18 for a review in Chess Life. He concluded: \"Casual online players will understandably not feel the need for such a powerful tool, but anyone serious about significantly improving their chess will almost certainly benefit from this program\". The review first appeared in Chess Life 4/2025. Reprinted with kind permission.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Live Games link for Maharashtra Chess Festival - GM Open (Above 2200)"
       },
       {
-         "description" : "GM Magnus Carlsen continues his streak of perfection in the&#38;nbsp;2025 Grenke Chess Freestyle Open, now with seven rounds under his belt. He won a smooth game against GM Awonder Liang before his rollercoaster game against GM Parham Maghsoodloo, whe...",
+         "description" : "GM Magnus Carlsen continues his streak of perfection in the&#38;nbsp;2025 Grenke Chess Freestyle Open, now with seven rounds under his belt. He won a smooth game against GM Awonder Liang before his rollercoaster game against GM Parham Maghsoodloo, who...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-4",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Carlsen Perfect After 7 Rounds, Leads By Full Point"
       },
       {
-         "description" : "GM Zhu Jiner won a fourth game in six rounds of the 2025 Pune FIDE Women&#39;s Grand Prix, beating GM Vaishali Rameshbabu to retain the sole lead and climb above GM Tan Zhongyi to world number-five on the Women&#39;s FIDE rating list. GM Humpy Koneru is s...",
+         "description" : "GM Zhu Jiner won a fourth game in six rounds of the 2025 Pune FIDE Women&#39;s Grand Prix, beating GM Vaishali Rameshbabu to retain the sole lead and climb above GM Tan Zhongyi to world number-five on the FIDE women&#39;s rating list. GM Humpy Koneru is s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-6",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
          "pubDate" : "Fri, 04 Apr 2025 14:15:14",
          "title" : "Chess: Tan Zhongyi takes shock lead over Ju Wenjun in Women's World Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/119980958.cms\" />GM Tan Zhongyi leads 1.5-0.5 in the 2025 FIDE Women's World Championship after defeating reigning champion GM Ju Wenjun on Game 2. Tan capitalised on Ju's mistake in a rook endgame during a marathon 62-move game. The match began with a draw in Shanghai, and more intense games are expected. Game 3 will be played on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tan-zhongyi-leads-womens-world-chess-championship-after-ju-wenjuns-endgame-collapse/articleshow/119980958.cms",
-         "pubDate" : "Fri, 04 Apr 2025 12:13:15",
-         "title" : "Tan Zhongyi leads Women's World Chess Championship after Ju Wenjun's endgame collapse"
       },
       {
          "description" : " Tanitoluwa Adewumi has just completed the rating requirements for the title of International Master. This is a major step toward his next goal of becoming a Grandmaster. Tani's story is well-known and has been covered extensively on this site. However, a New York Times story would change his life forever. Since arriving from Nigeria in The post <a href=\"https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/\">Tanitoluwa Adewumi qualifies for IM title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
