@@ -10,19 +10,19 @@ news_feed (
          "title" : "Baden-Baden 1925: The triumph of the \"hypermodernists\""
       },
       {
-         "description" : "The Grenke Freestyle Chess Open is taking place from 17 to 21 April at the Karlsruhe Convention Centre in Germany. The tournament follows a nine-round Swiss format with a classical time control of 90 minutes plus a 30-second increment per move. Players from the parallel Grenke Chess Open could switch to the Freestyle event between rounds two and five while keeping their scores. | Follow the games live with expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-live",
-         "pubDate" : "Mon, 21 Apr 2025 10:00:00",
-         "title" : "Grenke Chess Open - Live!"
+         "description" : "GM Magnus Carlsen has won the 2025 Grenke Chess Freestyle Open with an out-of-this-world, perfect 9/9 score. He had already won the tournament with a round to spare in round eight, but round nine was about cementing his legacy of dominance. With...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-grenke-freestyle-chess-open",
+         "pubDate" : "Mon, 21 Apr 2025 11:21:00",
+         "title" : "Carlsen Wins With Shining 9/9 Perfect Score"
       },
       {
          "description" : "Nigerian chess player Tunde Onakoya and NM Shawn Martinez have officially broken the Guinness World Record for the longest chess marathon after playing continuously for an astonishing 64 hours on New York&#39;s iconic Times Square.&#38;nbsp; The impress...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tunde-onakoya-shawn-martinez-breaks-guinness-record-for-longest-chess-marathon",
-         "pubDate" : "Mon, 21 Apr 2025 08:24:49",
+         "pubDate" : "Mon, 21 Apr 2025 08:24:00",
          "title" : "Tunde Onakoya, Shawn Martinez Break Guinness Record With 64-Hour Chess Marathon"
       },
       {
@@ -594,14 +594,6 @@ news_feed (
          "title" : "Live games for the 2nd Namma Bengaluru International Grandmasters Open Chess Tournament 2025 Category"
       },
       {
-         "description" : "Russian esports organization Team Spirit has entered the world of esports with a splash, signing not one but two of the top speed chess specialists on the planet. GMs Daniil Dubov and Vladislav Artemiev will now attempt to qualify for the $1.5 mil...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-artemiev-picked-up-by-team-spirit",
-         "pubDate" : "Sat, 12 Apr 2025 03:33:00",
-         "title" : "Speed Chess Stars Dubov, Artemiev Picked Up By Team Spirit"
-      },
-      {
          "description" : " by Dr. O.T. Olabanji, PhD Plasma Physics, Highest USCF Rating = 2332 \"Chess is an extremely important game that tweaks the cognitive functionalities, enhances academic skills, aids rapid thought processes, boosts logical and strategic thinking, and helps to gain exceptional memory skills, creativity, focus and discipline\" [1-5]. I strongly recommend it for any child or [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/\">The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -824,14 +816,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/03/31/2025-hbcu-chess-classic-approaches/",
          "pubDate" : "Mon, 31 Mar 2025 20:51:17",
          "title" : "2025 HBCU Chess Classic approaches!"
-      },
-      {
-         "description" : "National Team S.NO Name 1 Vignesh N R 2 Das Sayantan 3 Visakh N R 4 Mitrabha Guha 5 Shyaam Nikhil P 6 Sankalp Gupta",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-open-and-women-certificates-2024-25-in-ahmedabad-from-05-11-march-2025/",
-         "pubDate" : "Mon, 31 Mar 2025 16:41:35",
-         "title" : "National Team Open and Women Certificates 2024-25 in Ahmedabad from 05-11 March 2025"
       }
    ]
 }
