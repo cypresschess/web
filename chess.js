@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The organisers of the Biel Chess Festival have once again put together an interesting line-up for their Masters and Challengers tournaments for the 58th edition of the event (12-25 July 2025). Top seed is Aravindh Chithambaram, second seed is Le Quang Liem. And anyone who registers for one of the open tournaments now may be able to take advantage of a discount offer. | Photo: Biel Chess Festival 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-lineup-for-the-masters-and-challengers",
+         "pubDate" : "Tue, 22 Apr 2025 17:00:00",
+         "title" : "Biel Chess Festival: Lineup for the Masters and Challengers"
+      },
+      {
          "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,7 +170,7 @@ news_feed (
          "title" : "How I Tricked Myself Into Living the Life I Want"
       },
       {
-         "description" : " The grenke Open and Freestyle Open took place 17th to 21st April 2025. The open had top seeds Awonder Liang, Nikita Vitiugov and Ivan Saric but the Freestyle Chess960 open had the stronger field with Magnus Carlsen, Arjun Erigaisi, Fabiano Caruana, Ian Nepomniachtchi etc. I can't display Freestyle games. Carlsen impressively clonked his way through the field in the Freestyle and scored 9/9. S Aswath and Brandon Jacobson finished on 8/9 in the open, most likely finishing in that order. Finally I was interested to see that grenke had a rebrand about 10 months ago and went from the all caps GRENKE to all small letters grenke (with a modern font). No doubt someone was paid big bucks for this ge",
+         "description" : " The grenke Open and Freestyle Open took place 17th to 21st April 2025. The open had top seeds Awonder Liang, Nikita Vitiugov and Ivan Saric but the Freestyle Chess960 open had the stronger field with Magnus Carlsen, Arjun Erigaisi, Fabiano Caruana, Ian Nepomniachtchi etc. I can't display Freestyle games. Carlsen impressively clonked his way through the field in the Freestyle and scored 9/9. Parham Maghsoodloo finished in second place on tie-break after claims a place in Las Vegas, it's my understanding that the remaining 6 players will play off for another place in that Freestyle-Chess Grand Slam event sometime soon. S Aswath and Brandon Jacobson finished on 8/9 in the regular chess open, f",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/grenke-open-and-freestyle-open-2025",
