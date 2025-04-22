@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
+         "pubDate" : "Tue, 22 Apr 2025 11:50:00",
+         "title" : "Women's Grand Prix Pune - Live!"
+      },
+      {
+         "description" : "I have told the story often: in an interview in 2020 I said that in five years I expected at least two of the top ten players in the world would be Indian. My prediction was met with deep scepticism. It was clearly the unrealistic optimism of a friend and admirer of young Indian talents. It is true I was wrong. In five years since the prediction three have risen into the top ten bracket, and a fourth is on his way into it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/and-then-there-were-four",
+         "pubDate" : "Tue, 22 Apr 2025 11:00:00",
+         "title" : "And then there were four?"
+      },
+      {
          "description" : "Magnus Carlsen claimed victory at the 2025 Grenke Freestyle Chess Open with a flawless 9/9 score - an exceptional achievement at this level of competition. The event, held in Karlsruhe, Germany from 17 to 21 April, featured a nine-round Swiss format and classical time control in the Freestyle (chess960) variant. Carlsen secured first place with a round to spare and finished two points clear of the field. Seven players tied for second place and will play a tiebreaker to determine Grand Slam qualification. | Photo: Dariusz Gorzinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
