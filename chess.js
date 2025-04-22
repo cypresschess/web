@@ -18,6 +18,22 @@ news_feed (
          "title" : "Biel Chess Festival: Lineup for the Masters and Challengers"
       },
       {
+         "description" : "Just a day ago, GM Magnus Carlsen achieved the seemingly impossible (again). This time, he won the 2025 Grenke Chess Freestyle Open with a perfect 9/9 score. While his stellar performance stole headlines during the five-day event, we review seven ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-7-things-we-learned",
+         "pubDate" : "Tue, 22 Apr 2025 13:41:00",
+         "title" : "6 Things We Learned, 1 Thing We Already Knew - Grenke Chess Freestyle Open"
+      },
+      {
+         "description" : "GM Zhu Jiner bounced back right away to outplay IM Divya Deshmukh and regain the lead in the 2025 Pune FIDE Women&#39;s Grand Prix going into the final round. Zhu would have been the sole leader if IM Alina Kashlinskaya had converted a completely winn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-8",
+         "pubDate" : "Tue, 22 Apr 2025 12:21:00",
+         "title" : "Zhu Hits Back To Beat Divya As Humpy Escapes"
+      },
+      {
          "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/and-then-there-were-four",
          "pubDate" : "Tue, 22 Apr 2025 11:00:00",
          "title" : "And then there were four?"
-      },
-      {
-         "description" : "Magnus Carlsen claimed victory at the 2025 Grenke Freestyle Chess Open with a flawless 9/9 score - an exceptional achievement at this level of competition. The event, held in Karlsruhe, Germany from 17 to 21 April, featured a nine-round Swiss format and classical time control in the Freestyle (chess960) variant. Carlsen secured first place with a round to spare and finished two points clear of the field. Seven players tied for second place and will play a tiebreaker to determine Grand Slam qualification. | Photo: Dariusz Gorzinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-r9",
-         "pubDate" : "Tue, 22 Apr 2025 06:45:00",
-         "title" : "Carlsen scores perfect 9/9 to win Grenke Freestyle Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120504469.cms\" />In a thrilling turn of events at the Women's FIDE Grand Prix in Pune, Divya Deshmukh secured a significant victory against Batkhuyag Munguntuul. Koneru Humpy capitalized on a blunder by Zhu Jiner to clinch the sole lead. The upcoming match between Divya and Zhu is highly anticipated, potentially influencing the tournament's outcome.",
@@ -66,12 +74,12 @@ news_feed (
          "title" : "HBCU Chess Spotlight: Caleb Parker (FAMU)"
       },
       {
-         "description" : "Humpy Koneru seized the lead at the Women's Grand Prix in Pune with a crucial win over Zhu Jiner in Monday's round seven, turning the tournament standings on their head with just two rounds remaining. Divya Deshmukh also impressed, scoring a dominant victory to stay in contention ahead of her key clash with Zhu. While three other games ended in draws, they were far from uneventful, with tactical complications and endgame fortresses keeping things exciting across the board. | Photo: Abhilash Shinde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-7",
-         "pubDate" : "Mon, 21 Apr 2025 23:00:00",
-         "title" : "Women's GP Pune: Humpy beats Zhu, leads with two rounds to go"
+         "description" : "This week's puzzles come from the recently concluded FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championship, where Americans earned three podium finishes. Click here for reporting on Chess Life Online. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-youth-rapid-blitz",
+         "pubDate" : "Tue, 22 Apr 2025 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cadets & Youth Rapid & Blitz"
       },
       {
          "description" : "GM Magnus Carlsen has won the 2025 Grenke Chess Freestyle Open with an out-of-this-world, perfect 9/9 score. He had already won the tournament with a round to spare in round eight, but round nine was about cementing his legacy of dominance. With a...",
@@ -90,14 +98,6 @@ news_feed (
          "title" : "Humpy Beats Zhu To Snatch Pune Women's Grand Prix Lead"
       },
       {
-         "description" : "Baden-Baden has a long chess history, mainly thanks to great classics from the early days of tournament chess: Baden-Baden 1870 and Baden-Baden 1925. Hartmut Metz brings back the super tournament from 1925 on the occasion of the grenke Open. It was the time of the \"hypermodernists\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/baden-baden-1925-triumph-hypermodern",
-         "pubDate" : "Mon, 21 Apr 2025 13:00:00",
-         "title" : "Baden-Baden 1925: The triumph of the \"hypermodernists\""
-      },
-      {
          "description" : "Nigerian chess player Tunde Onakoya and NM Shawn Martinez have officially broken the Guinness World Record for the longest chess marathon after playing continuously for an astonishing 64 hours in New York&#39;s iconic Times Square.&#38;nbsp; The impress...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-outplays-munguntuul-in-tactical-masterclass-at-fide-womens-grand-prix/articleshow/120469711.cms",
          "pubDate" : "Mon, 21 Apr 2025 03:06:15",
          "title" : "K Humpy outplays Munguntuul in at FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "Renowned US chess trainer and International Master John Watson had a close look at the recently released ChessBase 18 for a review in Chess Life. He concluded: \"Casual online players will understandably not feel the need for such a powerful tool, but anyone serious about significantly improving their chess will almost certainly benefit from this program\". The review first appeared in Chess Life 4/2025. Reprinted with kind permission.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/john-watson-chessbase-18-review-chess-life",
-         "pubDate" : "Sun, 20 Apr 2025 22:00:00",
-         "title" : "John Watson: ChessBase 18 - Upgrade or stand pat?"
       },
       {
          "description" : "Please find the live games link for&#160;Maharashtra Chess Festival GM Open (Above 2200) which is to be held in Pune from 20th 28th",
@@ -570,14 +562,6 @@ news_feed (
          "title" : "2025 North American Youth Championship Announced"
       },
       {
-         "description" : "Registration is now open for the FIDE World Youth Chess Championships 2025. The international event, organized by FIDE, The Confederation of Chess for Americas (CCA) and the Albania Chess Federation, will take place October 4 - October 16, in Tirana, Albania.US Chess will be accepting registrations for eligible U.S. participants until Friday, July 11, 2025, 5PM Central time.TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 18, Under 16, and Under 14.A player's age as of Jan. 1, 2025 determines their age eligibility for a section.Under 18: Players born on or after Jan. 1, 2007Under 16: Players born on or after Jan. 1, 2009Under 14: Players bo",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-2025-fide-world-youth-chess-championships",
-         "pubDate" : "Mon, 14 Apr 2025 00:00:00",
-         "title" : "Registration Open for 2025 FIDE World Youth Chess Championships"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120258623.cms\" />Magnus Carlsen secured a 1-0 lead against Hikaru Nakamura in the Freestyle Chess Grand Slam final in Paris, capitalising on a crucial error by Nakamura. Carlsen's precise conversion of the advantage puts pressure on Nakamura to win the second game. Fabiano Caruana also leads in the third-place match, while other placement matches saw victories for Arjun Erigaisi and Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -600,22 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-7",
          "pubDate" : "Sun, 13 Apr 2025 08:29:00",
          "title" : "Carlsen Beats Nakamura In Thriller To Lead Final"
-      },
-      {
-         "description" : "GM Ju Wenjun is on the verge of defending her title for the fourth time after she beat GM Tan&#38;nbsp;Zhongyi with White in game seven of the 2025 FIDE Women&#39;s World Championship, her third consecutive win in the match. The reigning champion extended...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-7",
-         "pubDate" : "Sun, 13 Apr 2025 04:20:00",
-         "title" : "Ju Wenjun Closes In On World Championship Title As Tan Zhongyi Collapses"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk, Bullet Brawl&#39;s third most prolific winner, added an 11th career title to his trophy cabinet after topping the 205-player arena on Saturday. Bortnyk turned back challenges from GMs Daniel Naroditsky, Jose Martinez, and Ediz Gu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-april-12-2025",
-         "pubDate" : "Sat, 12 Apr 2025 18:21:00",
-         "title" : "37-Game Streak Seals Bortnyk's 11th Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120237227.cms\" />Magnus Carlsen and Hikaru Nakamura are set to face off in the Paris Freestyle Chess Grand Slam final after winning their respective semifinal matches. Carlsen defeated Fabiano Caruana, while Nakamura overcame Vincent Keymer. Caruana and Keymer will compete for third place, promising a thrilling conclusion to the event.",
