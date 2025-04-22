@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. This week only: instead of €29.90, only €19.90 Get it now and strengthen your attacking play!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-week-s-offer-karsten-mueller-how-to-attack-principles-of-training",
+         "pubDate" : "Tue, 22 Apr 2025 18:00:00",
+         "title" : "This week's offer: Karsten M&uuml;ller: How to attack - principles of training"
+      },
+      {
          "description" : "The organisers of the Biel Chess Festival have once again put together an interesting line-up for their Masters and Challengers tournaments for the 58th edition of the event (12-25 July 2025). Top seed is Aravindh Chithambaram, second seed is Le Quang Liem. And anyone who registers for one of the open tournaments now may be able to take advantage of a discount offer. | Photo: Biel Chess Festival 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Carlsen Wins With Shining 9/9 Perfect Score"
       },
       {
-         "description" : "GM Humpy Koneru is the new sole leader of the 2025 Pune FIDE Women&#39;s Grand Prix on 5.5/7 after beating GM Zhu Jiner in a dramatic round-seven clash. Zhu is now joined half a point back by GM Divya Deshmukh, who won a fourth game of the event as sh...",
+         "description" : "GM Humpy Koneru is the new sole leader of the 2025 Pune FIDE Women&#39;s Grand Prix on 5.5/7 after beating GM Zhu Jiner in a dramatic round-seven clash. Zhu is now joined half a point back by IM Divya Deshmukh, who won a fourth game of the event as sh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-7",
