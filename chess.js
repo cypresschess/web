@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen claimed victory at the 2025 Grenke Freestyle Chess Open with a flawless 9/9 score - an exceptional achievement at this level of competition. The event, held in Karlsruhe, Germany from 17 to 21 April, featured a nine-round Swiss format and classical time control in the Freestyle (chess960) variant. Carlsen secured first place with a round to spare and finished two points clear of the field. Seven players tied for second place and will play a tiebreaker to determine Grand Slam qualification. | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-freestyle-open-2025-r9",
+         "pubDate" : "Tue, 22 Apr 2025 06:45:00",
+         "title" : "Carlsen scores perfect 9/9 to win Grenke Freestyle Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120504469.cms\" />In a thrilling turn of events at the Women's FIDE Grand Prix in Pune, Divya Deshmukh secured a significant victory against Batkhuyag Munguntuul. Koneru Humpy capitalized on a blunder by Zhu Jiner to clinch the sole lead. The upcoming match between Divya and Zhu is highly anticipated, potentially influencing the tournament's outcome.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-shines-with-key-win-humpy-takes-lead-at-fide-grand-prix/articleshow/120504469.cms",
+         "pubDate" : "Tue, 22 Apr 2025 03:46:55",
+         "title" : "Divya Deshmukh shines with key win; Humpy takes lead at FIDE Grand Prix"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120503866.cms\" />Grandmaster Awonder Liang switched from the Grenke Classic's Open event to its Freestyle chess segment, joining Magnus Carlsen. This move highlights the growing interest in Freestyle chess, which minimizes pre-game preparation by using random starting positions. Organizers aim to broaden Freestyle's appeal, attracting top players and large audiences, potentially reshaping competitive chess by emphasizing strategic thinking over rote memorization.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-awonder-liang-shifts-to-freestyle-chess-at-grenke-classic-faces-magnus-carlsen/articleshow/120503866.cms",
+         "pubDate" : "Tue, 22 Apr 2025 03:29:06",
+         "title" : "Grandmaster Awonder Liang shifts to freestyle chess faces Magnus Carlsen"
+      },
+      {
          "description" : " Florida A&#38;M University, also known as &#8220;FAMU&#8221; (FAM-U), chartered its chess club in January after a year of planning. Caleb Parker met with Dr. Daaim Shabazz in early 2023 to discuss the possibility of reigniting the chess presence at one of the nation's largest Black universities. Historically-Black Colleges and Universities (HBCUs) have traditionally been places The post <a href=\"https://thechessdrum.net/blog/2025/04/21/hbcu-chess-spotlight-caleb-parker-famu/\">HBCU Chess Spotlight: Caleb Parker (FAMU)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-7",
-         "pubDate" : "Mon, 21 Apr 2025 13:00:20",
+         "pubDate" : "Mon, 21 Apr 2025 13:00:00",
          "title" : "Humpy Beats Zhu To Snatch Pune Women's Grand Prix Lead"
       },
       {
@@ -770,28 +794,12 @@ news_feed (
          "title" : "Fridrik Olafsson 1935-2025 - "
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120055226.cms\" />On April 1, 2025, American grandmaster Hans Niemann posted about his potential arrival in Paris for the second leg of the Freestyle Chess Grand Slam Tour. However, five days later, he withdrew for 'personal reasons,' disappointing chess fans. Norwegian broadcaster TV 2 suggested heightened anti-cheating protocols influenced his decision. Niemann has been replaced by Nodirbek Abdusattorov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-mystery-of-hans-niemann-and-his-last-minute-withdrawal-from-freestyle-chess-paris-tour/articleshow/120055226.cms",
-         "pubDate" : "Mon, 07 Apr 2025 07:02:53",
-         "title" : "Mystery of Hans Niemann and withdrawal from Freestyle Chess"
-      },
-      {
          "description" : " The Freestyle Grand Slam Paris takes place Mon 7th Apr to Mon 14th Apr 2025. Chess960 in Paris. Players: Carlsen, Nakamura, Gukesh, Erigaisi, Caruana, Abdusattorov, Praggnanandhaa, Nepomniachtchi, Rapport, Vachier-Lagrave, Vidit and Keymer play. Niemann withdrew at the last minute and was replaced by Abdusattorov. I can provide game downloads but can't display the games for this variant of chess.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-paris-2025",
          "pubDate" : "Sun, 6 Apr 2025 16:37:00",
          "title" : "Freestyle Grand Slam Paris 2025 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120033026.cms\" />D Gukesh, the world chess champion, struggled in the 2025 Freestyle Chess Grand Slam Tour's opening leg but remains optimistic for the Paris leg. Despite a challenging format, Gukesh aims to improve. The Paris event, featuring strong competitors like Hikaru Nakamura, promises a thrilling contest and a chance for Gukesh to redeem himself.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-accepted-he-didnt-do-well-world-champion-returns-for-paris-leg-of-freestyle-chess-grand-slam-tour/articleshow/120033026.cms",
-         "pubDate" : "Sun, 06 Apr 2025 06:59:58",
-         "title" : "'Gukesh accepted he didn't do well': World champion returns for Paris leg of Freestyle Chess Grand Slam Tour"
       },
       {
          "description" : "Of the major board games, Draughts relies primarily on material superiority to achieve victory. Meanwhile Go (known in China as Wei Chi) depends on control of territory. Only chess, where triumph is ultimately and solely confirmed by checkmate, transcends all elements of material, time or space. Although such factors may well contribute to an advantage, []",
