@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Florida A&#38;M University, also known as &#8220;FAMU&#8221; (FAM-U), chartered its chess club in January after a year of planning. Caleb Parker met with Dr. Daaim Shabazz in early 2023 to discuss the possibility of reigniting the chess presence at one of the nation's largest Black universities. Historically-Black Colleges and Universities (HBCUs) have traditionally been places The post <a href=\"https://thechessdrum.net/blog/2025/04/21/hbcu-chess-spotlight-caleb-parker-famu/\">HBCU Chess Spotlight: Caleb Parker (FAMU)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/04/21/hbcu-chess-spotlight-caleb-parker-famu/",
+         "pubDate" : "Tue, 22 Apr 2025 03:15:23",
+         "title" : "HBCU Chess Spotlight: Caleb Parker (FAMU)"
+      },
+      {
          "description" : "Humpy Koneru seized the lead at the Women's Grand Prix in Pune with a crucial win over Zhu Jiner in Monday's round seven, turning the tournament standings on their head with just two rounds remaining. Divya Deshmukh also impressed, scoring a dominant victory to stay in contention ahead of her key clash with Zhu. While three other games ended in draws, they were far from uneventful, with tactical complications and endgame fortresses keeping things exciting across the board. | Photo: Abhilash Shinde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Baden-Baden 1925: The triumph of the \"hypermodernists\""
       },
       {
-         "description" : "Nigerian chess player Tunde Onakoya and NM Shawn Martinez have officially broken the Guinness World Record for the longest chess marathon after playing continuously for an astonishing 64 hours on New York&#39;s iconic Times Square.&#38;nbsp; The impress...",
+         "description" : "Nigerian chess player Tunde Onakoya and NM Shawn Martinez have officially broken the Guinness World Record for the longest chess marathon after playing continuously for an astonishing 64 hours in New York&#39;s iconic Times Square.&#38;nbsp; The impress...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tunde-onakoya-shawn-martinez-breaks-guinness-record-for-longest-chess-marathon",
