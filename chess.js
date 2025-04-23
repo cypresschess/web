@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Watford Chess Club will be among the exhibitors at the Bucks Country Show taking place at the Penn Estate, near Amersham on 4th and 5th May.&#160; It will be the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/watford-chess-club-at-the-bucks-county-show/",
+         "pubDate" : "Wed, 23 Apr 2025 10:43:00",
+         "title" : "Watford Chess Club at the Bucks County Show"
+      },
+      {
+         "description" : "The festival marks its fifth edition this Summer, headlining an International Open with title norm opportunities up to GM. The event will take place from the 13th-18th August at the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/v-mindsports-international-chess-festival-2025/",
+         "pubDate" : "Wed, 23 Apr 2025 10:32:52",
+         "title" : "V Mindsports International Chess Festival 2025"
+      },
+      {
+         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
+         "pubDate" : "Wed, 23 Apr 2025 10:30:00",
+         "title" : "Women's Grand Prix Pune - Live!"
+      },
+      {
          "description" : "Everyone knows FIDE, which in July last year celebrated its 100th anniversary. But how did the organisation come about? The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages to retrace the foundation of FIDE and its progress in the first half of the last century.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
