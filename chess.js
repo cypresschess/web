@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year's World Junior Championships in Rapid and Blitz were held on the island of Rhodes in Greece. The most gold medals went to the team from Kazakhstan. Bettina Trabert led the small delegation and was particularly pleased with the silver medal won by her son Max in the U16 Blitz World Championships.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championships-in-blitz-and-rapid",
+         "pubDate" : "Wed, 23 Apr 2025 17:00:00",
+         "title" : "World Junior Championships in Blitz and Rapid"
+      },
+      {
          "description" : "Watford Chess Club will be among the exhibitors at the Bucks Country Show taking place at the Penn Estate, near Amersham on 4th and 5th May.&#160; It will be the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/watford-chess-club-at-the-bucks-county-show/",
          "pubDate" : "Wed, 23 Apr 2025 10:43:00",
-         "title" : "Watford Chess Club at the Bucks County Show"
+         "title" : "Watford Chess Club at the Bucks Country Show"
       },
       {
          "description" : "The festival marks its fifth edition this Summer, headlining an International Open with title norm opportunities up to GM. The event will take place from the 13th-18th August at the...",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-8",
          "pubDate" : "Wed, 23 Apr 2025 02:25:00",
          "title" : "Women's GP Pune: Zhu bounces back, shares the lead with Humpy"
+      },
+      {
+         "description" : "This week's puzzles come from the recently concluded FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championship, where Americans earned three podium finishes. Click here for reporting on Chess Life Online. For more puzzles from this event, check out our \"Tactics Tuesday\" worksheet aimed at more beginner and intermediate chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-youth-rapid-blitz",
+         "pubDate" : "Wed, 23 Apr 2025 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Cadets & Youth Rapid & Blitz"
       },
       {
          "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. This week only: instead of €29.90, only €19.90 Get it now and strengthen your attacking play!",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/xxxv-pan-american-youth-chess-festival-announced-registration-information",
          "pubDate" : "Mon, 14 Apr 2025 00:00:00",
          "title" : "XXXV Pan-American Youth Chess Festival Announced - Registration Information"
-      },
-      {
-         "description" : "Registration is now open for the 2025 North American Youth Chess Championship, which will be held August 17-23, 2025 at Queen's University in Kingston, Ontario (Canada).The age categories for the 2025 North American Youth are Under 8, Under 10, Under 12, Under 14, Under 16, and Under 18. Each category has an Open and Girls section. For this tournament, a player's age is his or her age as of Jan. 1, 2025. This event is open to players from Canada, Mexico, and the United States.Each section is a 9-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins on August 18. There will also be a Blitz tournament on August 21.Medals, as well as direct",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-north-american-youth-championship-announced",
-         "pubDate" : "Mon, 14 Apr 2025 00:00:00",
-         "title" : "2025 North American Youth Championship Announced"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120258623.cms\" />Magnus Carlsen secured a 1-0 lead against Hikaru Nakamura in the Freestyle Chess Grand Slam final in Paris, capitalising on a crucial error by Nakamura. Carlsen's precise conversion of the advantage puts pressure on Nakamura to win the second game. Fabiano Caruana also leads in the third-place match, while other placement matches saw victories for Arjun Erigaisi and Ian Nepomniachtchi.",
