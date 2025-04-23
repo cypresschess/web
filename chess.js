@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Everyone knows FIDE, which in July last year celebrated its 100th anniversary. But how did the organisation come about? The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages to retrace the foundation of FIDE and its progress in the first half of the last century.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-history-creating-fide",
+         "pubDate" : "Wed, 23 Apr 2025 08:19:19",
+         "title" : "Chess History: Creating FIDE"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120536506.cms\" />Alina Kashlinskaya faltered against K Humpy in the FIDE Women's GP, missing a crucial win due to a last-minute change of strategy. This draw allowed Zhu Jiner to tie for the lead with Humpy, as Zhu defeated Divya Deshmukh. The final round will determine the tournament winner, with Humpy facing Nurgyul Salimova and Zhu playing Polina Shuvalova.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
