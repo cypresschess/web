@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120536506.cms\" />Alina Kashlinskaya faltered against K Humpy in the FIDE Women's GP, missing a crucial win due to a last-minute change of strategy. This draw allowed Zhu Jiner to tie for the lead with Humpy, as Zhu defeated Divya Deshmukh. The final round will determine the tournament winner, with Humpy facing Nurgyul Salimova and Zhu playing Polina Shuvalova.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-gp-chess-humpy-holds-on-to-a-draw-zhu-beats-divya/articleshow/120536506.cms",
+         "pubDate" : "Wed, 23 Apr 2025 03:01:42",
+         "title" : "FIDE Women's GP chess: Humpy holds on to a draw; Zhu beats Divya"
+      },
+      {
+         "description" : "Humpy Koneru narrowly escaped defeat against Alina Kashlinskaya in round eight of the Women's Grand Prix in Pune, salvaging a draw that keeps her tied for the lead with Zhu Jiner. Zhu delivered a strong recovery from Monday's loss, defeating Divya Deshmukh in a sharp game. The remaining games also featured tense moments, including a 116-move battle and a missed win in time trouble. | Photo: Abhilash Shinde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-8",
+         "pubDate" : "Wed, 23 Apr 2025 02:25:00",
+         "title" : "Women's GP Pune: Zhu bounces back, shares the lead with Humpy"
+      },
+      {
          "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. This week only: instead of €29.90, only €19.90 Get it now and strengthen your attacking play!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-8",
          "pubDate" : "Tue, 22 Apr 2025 12:21:00",
          "title" : "Zhu Hits Back To Beat Divya As Humpy Escapes"
-      },
-      {
-         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
-         "pubDate" : "Tue, 22 Apr 2025 11:50:00",
-         "title" : "Women's Grand Prix Pune - Live!"
       },
       {
          "description" : "I have told the story often: in an interview in 2020 I said that in five years I expected at least two of the top ten players in the world would be Indian. My prediction was met with deep scepticism. It was clearly the unrealistic optimism of a friend and admirer of young Indian talents. It is true I was wrong. In five years since the prediction three have risen into the top ten bracket, and a fourth is on his way into it.",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-team-chess-championships-2/",
          "pubDate" : "Tue, 08 Apr 2025 07:02:45",
          "title" : "European Senior Team Chess Championships"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120083389.cms\" />Magnus Carlsen and Nodirbek Abdusattorov are tied for the lead after six rounds of the Freestyle Chess Grand Slam in Paris, with five points each. Maxime Vachier-Lagrave is closely behind with 4.5 points. Carlsen gained momentum by defeating Gukesh Dommaraju and Hikaru Nakamura, while Fabiano Caruana recovered from three losses but was stopped by Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-paris-day-1-carlsen-and-abdusattorov-in-the-lead/articleshow/120083389.cms",
-         "pubDate" : "Tue, 08 Apr 2025 04:55:17",
-         "title" : "Freestyle Chess Grand Slam: Carlsen and Abdusattorov in the lead"
       },
       {
          "description" : " Fridrik Olafsson 26 January 1935 to 6 April 2025 was the first Icelandic GM and Candidate after finishing tied 5th-6th in the 1958 Interzonal. He was an amateur player at the time and went on to finish 7th of 8th in the 1959 Candidates in Bled, Zagreb, and Belgrade. Olafsson continued to be an active player almost his entire life. His 3rd place in the first Piatigorsky Cup in 1963 was probably his best result. He turned professional in 1974. He became FIDE president in 1978 but lost after one term in 1982 when the Soviet Union decided to support his deputy Florencio Campomanes. <a href=\"https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/\">News of Olafsson's passing from the ",
