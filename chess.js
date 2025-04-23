@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Pune Women's Grand Prix was won by Humpy Koneru on tie-break from Zhu Jiner. Koneru mostly impressed with an important victory over Zhu in Round 7 and another long win today, she did survived against Alina Kashlinskaya in round 8 in her only weak game. Zhu also won a long game to share the Grand Prix points with Koneru. 38 year old Koneru's win was her eighth Grand Prix and gave her the sole record she had shared with Hou Yifan. This Grand Prix was the fifth of a series of six events held in 2024 and 2025, two players will qualify for the next Women's Candidates tournament. Each player competes in three events. Alexandra Goryachkina leads the series ahead of Koneru with both having comp",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/humpy-koneru-edges-out-zhu-jiner-to-win-the-pune-womens-grand-prix",
+         "pubDate" : "Wed, 23 Apr 2025 20:31:00",
+         "title" : "Humpy Koneru edges out Zhu Jiner to win the Pune Women's Grand Prix - 9"
+      },
+      {
          "description" : "Anthony Miles was one of the best players in the world in the 1980s. He died in 2001 at the age of just 46 from a heart attack caused by diabetes. Today he would have celebrated his 70th birthday. | Photo: British Chess News",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +34,28 @@ news_feed (
          "title" : "Koneru Humpy wins FIDE Women's Grand Prix chess meet"
       },
       {
-         "description" : "We&#39;re excited to announce that the ChessKid Youth Championships are returning for their second edition in 2025! This online blitz event will bring together the strongest prodigies of the game and offer fans a glimpse of the bright future of chess....",
+         "description" : "WFM Megan Paragua is a young master to watch out for. Just 12 years old, she put up a performance rating of 2506 (grandmaster strength) by round seven at the 2025 Grenke Chess Open A after a draw with GM Mikheil Kekelidze. Though she lost the last...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2025-chesskid-youth-championships",
-         "pubDate" : "Wed, 23 Apr 2025 12:01:28",
-         "title" : "ChessKid Youth Championship To Start May 3 With Strongest Prodigies In The World"
+         "link" : "https://www.chess.com/news/view/megan-paragua-hits-2506-performance-grenke",
+         "pubDate" : "Wed, 23 Apr 2025 15:43:40",
+         "title" : "12-Year-Old Megan Paragua Hits 2506 Performance During Grenke Open, Breaks 2300"
       },
       {
          "description" : "Indian GM Humpy Koneru has won the 2025 Pune FIDE Women&#39;s Grand Prix after beating IM Nurgyul Salimova in 84 moves in the final round to finish on an unbeaten 7/9. GM Zhu Jiner also won, against IM Polina Shuvalova, but missed out on first place o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/humpy-wins-2025-fide-womens-grand-prix-pune",
-         "pubDate" : "Wed, 23 Apr 2025 11:56:56",
+         "pubDate" : "Wed, 23 Apr 2025 12:17:00",
          "title" : "Humpy Wins Pune Women's Grand Prix, Zhu Closes On Candidates"
+      },
+      {
+         "description" : "We&#39;re excited to announce that the ChessKid Youth Championships are returning for their second edition in 2025! This online blitz event will bring together the strongest prodigies of the game and offer fans a glimpse of the bright future of chess....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2025-chesskid-youth-championships",
+         "pubDate" : "Wed, 23 Apr 2025 12:01:28",
+         "title" : "ChessKid Youth Championship To Start May 3 With Strongest Prodigies In The World"
       },
       {
          "description" : "Humpy finished joint-top along with Zhu Jiner at the FIDE Women's Grand Prix event in Pune to move to overall second place in the Grand Prix series.",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.europechess.org/england-wins-triple-gold-at-european-senior-team-chess-championship-2025/",
          "pubDate" : "Mon, 14 Apr 2025 11:44:46",
          "title" : "England wins triple gold at European Senior Team Chess Championship 2025"
-      },
-      {
-         "description" : "India&#39;s most prominent esports organization has entered the chess esports scene with the double signing of GMs Aravindh Chithambaram and Nihal Sarin, two of the nation&#39;s biggest stars. The grandmasters will now represent S8UL as they try to qualif...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aravindh-nihal-signed-for-indian-esports-team-s8ul",
-         "pubDate" : "Mon, 14 Apr 2025 11:05:00",
-         "title" : "'Historic Moment For Indian Chess' As Aravindh, Nihal Are Picked Up By S8UL"
       },
       {
          "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's U1700 tournament which will take place at the Holiday Inn, Kenilworth between Friday 18th July and...",
