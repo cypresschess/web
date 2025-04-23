@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anthony Miles was one of the best players in the world in the 1980s. He died in 2001 at the age of just 46 from a heart attack caused by diabetes. Today he would have celebrated his 70th birthday. | Photo: British Chess News",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-tony-miles",
+         "pubDate" : "Wed, 23 Apr 2025 18:18:48",
+         "title" : "Remembering Tony Miles"
+      },
+      {
          "description" : "This year's World Junior Championships in Rapid and Blitz were held on the island of Rhodes in Greece. The most gold medals went to the team from Kazakhstan. Bettina Trabert led the small delegation and was particularly pleased with the silver medal won by her son Max in the U16 Blitz World Championships.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-junior-championships-in-blitz-and-rapid",
          "pubDate" : "Wed, 23 Apr 2025 17:00:00",
          "title" : "World Junior Championships in Blitz and Rapid"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120557692.cms\" />Indian Grandmaster Koneru Humpy triumphed at the FIDE Women's Grand Prix 2024-25 (Pune leg), securing the title over China's Zhu Jiner due to superior tie-breaks. Both players concluded with seven points, Humpy defeating Bulgaria's Nurgyul Salimova in the final round, while Zhu bested Russia's Polina Shuvalova.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-wins-fide-womens-grand-prix-chess-meet/articleshow/120557692.cms",
+         "pubDate" : "Wed, 23 Apr 2025 15:55:18",
+         "title" : "Koneru Humpy wins FIDE Women's Grand Prix chess meet"
+      },
+      {
+         "description" : "We&#39;re excited to announce that the ChessKid Youth Championships are returning for their second edition in 2025! This online blitz event will bring together the strongest prodigies of the game and offer fans a glimpse of the bright future of chess....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2025-chesskid-youth-championships",
+         "pubDate" : "Wed, 23 Apr 2025 12:01:28",
+         "title" : "ChessKid Youth Championship To Start May 3 With Strongest Prodigies In The World"
+      },
+      {
+         "description" : "Indian GM Humpy Koneru has won the 2025 Pune FIDE Women&#39;s Grand Prix after beating IM Nurgyul Salimova in 84 moves in the final round to finish on an unbeaten 7/9. GM Zhu Jiner also won, against IM Polina Shuvalova, but missed out on first place o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/humpy-wins-2025-fide-womens-grand-prix-pune",
+         "pubDate" : "Wed, 23 Apr 2025 11:56:56",
+         "title" : "Humpy Wins Pune Women's Grand Prix, Zhu Closes On Candidates"
+      },
+      {
+         "description" : "Humpy finished joint-top along with Zhu Jiner at the FIDE Women's Grand Prix event in Pune to move to overall second place in the Grand Prix series.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/44816806/koneru-humpy-finishes-joint-first-fide-women-grand-prix-pune-here-how-qualify-candidates?device=featurephone",
+         "pubDate" : "Wed, 23 Apr 2025 11:12:21",
+         "title" : "Koneru Humpy finishes joint-first in FIDE Women's Grand Prix Pune; here's how she can qualify for Candidates"
       },
       {
          "description" : "Watford Chess Club will be among the exhibitors at the Bucks Country Show taking place at the Penn Estate, near Amersham on 4th and 5th May.&#160; It will be the...",
@@ -32,6 +72,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
          "pubDate" : "Wed, 23 Apr 2025 10:30:00",
          "title" : "Women's Grand Prix Pune - Live!"
+      },
+      {
+         "description" : " The Pune FIDE Women's Grand Prix took place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova. Humpy Koneru just edged out Zhu Jiner to take first place on tie-break, both scored 7/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/pune-fide-womens-grand-prix-2025",
+         "pubDate" : "Wed, 23 Apr 2025 08:51:00",
+         "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Yagiz Kaan Erdogmus, the 13-year-old Turkish phenom, won his first-ever Titled Tuesday on April 22, scoring 10 points in a clean win. Later, GM Magnus Carlsen won his third consecutive late Titled Tuesday, this one coming off of a perfect 9/9 s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/erdogmus-carlsen-win-titled-tuesday-april-22-2025",
+         "pubDate" : "Wed, 23 Apr 2025 08:38:14",
+         "title" : "Carlsen Wins Again As Youth And Experience Both Have Their Day"
       },
       {
          "description" : "Everyone knows FIDE, which in July last year celebrated its 100th anniversary. But how did the organisation come about? The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages to retrace the foundation of FIDE and its progress in the first half of the last century.",
@@ -280,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-5",
          "pubDate" : "Fri, 18 Apr 2025 11:13:45",
          "title" : "Vaishali Scores 1st Win, Zhu Survives Salimova's Queen Sac"
-      },
-      {
-         "description" : " The Pune FIDE Women's Grand Prix takes place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/pune-fide-womens-grand-prix-2025",
-         "pubDate" : "Fri, 18 Apr 2025 08:51:00",
-         "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
       },
       {
          "description" : " The world No 1 defeated his old rival and world No 2, Hikaru Nakamura, in the final, and took the $3.75m series lead before the third Slam event in Las Vegas Magnus Carlsen, the world No 1, scored a low-key triumph on Monday when he won the Paris leg of the $3.75m Freestyle Grand Slam by defeating his old rival and world No 2, USA's Hikaru Nakamura, by 1.5-0.5 in the final. It was patient attrition over the two games, worthy of a place in the Carlsen-David Howell book Grind like a Grandmaster. The decisive first game had some technical errors, which the Norwegian described almost apologetically in his <a href=\"https://www.youtube.com/watch?v=Rtd647yuXg4&amp;t=3s\">post-game interview</a>. Th",
@@ -586,22 +634,6 @@ news_feed (
          "title" : "English and English Women's Championships 2025"
       },
       {
-         "description" : "GM Magnus Carlsen has won the 2025 Paris Freestyle Chess Grand Slam after what he called &#34;a very nice, professional job&#34; secured a draw and a 1.5-0.5 match victory over GM Hikaru Nakamura. The world number-one takes the $200,000 top prize, Nakamur...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-8",
-         "pubDate" : "Mon, 14 Apr 2025 07:38:00",
-         "title" : "Carlsen Thwarts Nakamura To Win Paris Grand Slam, Caruana Takes 3rd"
-      },
-      {
-         "description" : "GM Ju Wenjun claimed her fourth straight victory against GM Tan Zhongyi in game eight of the 2025 FIDE Women&#39;s World Championship. With a dominant 6-2 lead with just four games to go, she is on the brink of securing her fifth Women&#38;rsquo;s World C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-chess-world-championship-2025-game-8",
-         "pubDate" : "Mon, 14 Apr 2025 04:34:00",
-         "title" : "Ju Wenjun Scores 4th Straight Win, Draw Away From Retaining Title"
-      },
-      {
          "description" : "The Confederation of Chess for Americas (CCA) and the Peruvian Sports Chess Federation have announced the XXXV Pan-American Youth Chess Festival will be held from July 27 to August 3, at the Callao Regional Sports Village in Lima, Peru.There will be 12 sections in the tournament, Open and Girls for each age category: Under 18, Under 16, Under 14, Under 12, Under 10 and Under 8. A player's age as of January 1, 2025 determines their age eligibility for a section.Players entitled to participate in each category are:Under 8: Players born on or after January 1, 2017Under 10: Players born on or after January 1, 2015Under 12: Players born on or after January 1, 2013Under 14: Players born on or afte",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -624,14 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/senserobot-and-the-european-chess-union-forge-strategic-partnership-to-advance-ai-integration-in-chess/",
          "pubDate" : "Sun, 13 Apr 2025 08:41:27",
          "title" : "SenseRobot and the European Chess Union Forge Strategic Partnership to Advance AI Integration in Chess"
-      },
-      {
-         "description" : "GM Magnus Carlsen sacrificed a pawn on move four and went on to defeat GM Hikaru Nakamura in the first game of the 2025 Paris Freestyle Chess Grand Slam Final. It was a brilliant win that puts Carlsen a draw away from the title and $200,000, but N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-freestyle-chess-grand-slam-paris-day-7",
-         "pubDate" : "Sun, 13 Apr 2025 08:29:00",
-         "title" : "Carlsen Beats Nakamura In Thriller To Lead Final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120237227.cms\" />Magnus Carlsen and Hikaru Nakamura are set to face off in the Paris Freestyle Chess Grand Slam final after winning their respective semifinal matches. Carlsen defeated Fabiano Caruana, while Nakamura overcame Vincent Keymer. Caruana and Keymer will compete for third place, promising a thrilling conclusion to the event.",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-teodora-injac-takes-sole-lead-in-european-womens-chess-championship-2025/",
          "pubDate" : "Tue, 08 Apr 2025 18:33:53",
          "title" : "IM Teodora Injac takes sole lead in European Women's Chess Championship 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120102962.cms\" />The Freestyle Chess Grand Slam preliminary stage wrapped up in Paris. Ian Nepomniachtchi and Magnus Carlsen led with 8.5 points each. Nepomniachtchi secured the top spot via tiebreaks. Maxime Vachier-Lagrave finished third. Arjun Erigaisi and Nodirbek Abdusattorov also advanced. Hikaru Nakamura qualified after a tough endgame. Gukesh Dommaraju was eliminated. Vincent Keymer's victory secured his place.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-out-world-chess-champion-falls-in-paris-freestyle-chess-prelims/articleshow/120102962.cms",
-         "pubDate" : "Tue, 08 Apr 2025 17:33:24",
-         "title" : "Gukesh out! World champion falls in Paris Freestyle Chess prelims"
       },
       {
          "description" : "&#8212; from Chris Baker ( a fuller report will appear in ChessMoves for April) Held in Swidnica 4th April to 14th April 2025 featuring 50+ and 65+ teams. This is...",
