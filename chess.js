@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Bundesliga is probably the strongest national league in the world. Now the 2024/2025 season is coming to an end and all teams are meeting in the Bavarian town of Deggendorf for the last three rounds. Magnus Carlsen, top board of the FC St. Pauli, will not be there, but it is sure to be a chess festival nonetheless.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/three-rounds-to-go-the-bundesliga-celebrates-its-final",
+         "pubDate" : "Thu, 24 Apr 2025 12:13:58",
+         "title" : "Three rounds to go: The Bundesliga celebrates its final"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120569863.cms\" />Koneru Humpy clinched the FIDE Women's Grand Prix title in Pune after a tie with Zhu Jiner, decided by tiebreak rules favoring Humpy's greater number of games played with black pieces. Both players earned equal prize money and GP points, but Humpy's undefeated run and victory over Zhu in an earlier round secured her the championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/megan-paragua-hits-2506-performance-grenke",
-         "pubDate" : "Wed, 23 Apr 2025 15:43:40",
+         "pubDate" : "Wed, 23 Apr 2025 15:43:00",
          "title" : "12-Year-Old Megan Paragua Hits 2506 Performance During Grenke Open, Breaks 2300"
       },
       {
