@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ninth edition of the Semana Santa Open, held in San Vicente del Raspeig (Alicante) from 16 to 21 April, consolidated the event as a feature on the European circuit. With more than 700 participants, including 235 titled players from more than 50 countries, the event stood out for its high competitive level. Reigning world rapid champion Volodar Murzin won the main tournament, while Lu Shanglei and Vasyl Ivanchuk claimed second and third place, respectively. | Photo: Luis Barona",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/open-internacional-semana-santa-2025-final",
+         "pubDate" : "Thu, 24 Apr 2025 16:00:00",
+         "title" : "Volodar Murzin claims first place at Semana Santa Open in Alicante"
+      },
+      {
          "description" : "The Bundesliga is probably the strongest national league in the world. Now the 2024/2025 season is coming to an end and all teams are meeting in the Bavarian town of Deggendorf for the last three rounds. Magnus Carlsen, top board of the FC St. Pauli, will not be there, but it is sure to be a chess festival nonetheless.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
          "pubDate" : "Fri, 04 Apr 2025 14:15:14",
          "title" : "Chess: Tan Zhongyi takes shock lead over Ju Wenjun in Women's World Championship"
-      },
-      {
-         "description" : " Tanitoluwa Adewumi has just completed the rating requirements for the title of International Master. This is a major step toward his next goal of becoming a Grandmaster. Tani's story is well-known and has been covered extensively on this site. However, a New York Times story would change his life forever. Since arriving from Nigeria in The post <a href=\"https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/\">Tanitoluwa Adewumi qualifies for IM title!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/04/03/tanitoluwa-adewumi-qualifies-for-im-title/",
-         "pubDate" : "Thu, 03 Apr 2025 13:44:56",
-         "title" : "Tanitoluwa Adewumi qualifies for IM title!"
       }
    ]
 }
