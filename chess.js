@@ -18,6 +18,14 @@ news_feed (
          "title" : "Three rounds to go: The Bundesliga celebrates its final"
       },
       {
+         "description" : "You may have heard that our community is, at this very moment, making history alongside world number one GM Magnus Carlsen. The Magnus vs. The World match has recently surpassed 100,000 players, making it the biggest chess game ever played. In c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-magnus-hoodie-shirt",
+         "pubDate" : "Thu, 24 Apr 2025 10:00:00",
+         "title" : "Celebrate Your Part In Chess History With New Magnus Clothing"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120569863.cms\" />Koneru Humpy clinched the FIDE Women's Grand Prix title in Pune after a tie with Zhu Jiner, decided by tiebreak rules favoring Humpy's greater number of games played with black pieces. Both players earned equal prize money and GP points, but Humpy's undefeated run and victory over Zhu in an earlier round secured her the championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/25th-european-womens-championship-2025",
          "pubDate" : "Mon, 14 Apr 2025 16:54:00",
          "title" : "25th European Women's Championship 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 Pune FIDE Women&#39;s Grand Prix saw an action-packed first round on Monday with four decisive games. GM Zhu Jiner, IM Polina Shuvalova, IM Divya Deshmukh, and IM Batkhuyag Munguntuul all won against GM Harika Dronavalli, IM Alina Kashlinskay...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-1",
-         "pubDate" : "Mon, 14 Apr 2025 13:20:00",
-         "title" : "Pune Women's Grand Prix Takes Off With 4 Decisive Games"
       },
       {
          "description" : " Ju Wenjun beat Tan Zhongyi in game eight of her Women's World Chess Championship defence to take an all but unassailable 6-2 lead, she needs only a draw to finish the match. Today was really must win for Tan and she switched to 1.e4 but the variation couldn't be described as all or nothing. As with many of these games Ju equalised, got a little better, and then Tan subsided to defeat not seeming to know whether she should to try to hold the position or continue to look for winning chances. 25.Qd4?! keeping Queens on was a mistake but 25.exf5 would most likely have led to a quick draw, 28.c4? was the losing move. Ju Wenjun was super alert and found 28...e3! which led to the creation of a dan",
