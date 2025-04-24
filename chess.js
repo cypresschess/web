@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Grand Chess Tour begins with the Superbet Rapid & Blitz Poland, scheduled for 26-30 April in Warsaw. Held at the Museum of the History of Polish Jews (POLIN), the event features nine rounds of rapid chess followed by eighteen rounds of blitz. Among the participants are elite grandmasters Praggnanandhaa Rameshbabu and Alireza Firouzja, who will be joined by former world champion Veselin Topalov and other invited players competing for a $175,000 prize fund and tour points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-preview",
+         "pubDate" : "Thu, 24 Apr 2025 22:00:00",
+         "title" : "The 2025 Grand Chess Tour kicks off in Poland, with Pragg, Firouzja and Topalov in the lineup"
+      },
+      {
          "description" : "The ninth edition of the Semana Santa Open, held in San Vicente del Raspeig (Alicante) from 16 to 21 April, consolidated the event as a feature on the European circuit. With more than 700 participants, including 235 titled players from more than 50 countries, the event stood out for its high competitive level. Reigning world rapid champion Volodar Murzin won the main tournament, while Lu Shanglei and Vasyl Ivanchuk claimed second and third place, respectively. | Photo: Luis Barona",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "Humpy wins Pune Women's GP on tiebreaks, ahead of Zhu"
       },
       {
+         "description" : "The Grenke Chess Festival - held April 17 through 21 in Karlsruhe, Germany - saw top grandmasters compete alongside amateurs in a unique mixture of classical and freestyle chess. The time control for both the classical and Freestyle events was a sudden death time control of 90 minutes per game with 30-second increment on move one. With the 225,000 Euro prize fund, the Freestyle A-Open attracted most of the strongest competitors. Here, GM Magnus Carlsen dominated headlines with his spectacular 9/9 performance to win the tournament ahead of a formidable field of elite competitors. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen with Freestyle Che",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/Grenke-2025-Recap",
+         "pubDate" : "Thu, 24 Apr 2025 00:00:00",
+         "title" : "Grenke Festival: Jacobson Shares First in Open A, Paragua Qualifies for FM, Carlsen Sweeps Freestyle"
+      },
+      {
          "description" : " The Pune Women's Grand Prix was won by Humpy Koneru on tie-break from Zhu Jiner. Koneru mostly impressed with an important victory over Zhu in Round 7 and another long win today, she did survived against Alina Kashlinskaya in round 8 in her only weak game. Zhu also won a long game to share the Grand Prix points with Koneru. 38 year old Koneru's win was her eighth Grand Prix and gave her the sole record she had shared with Hou Yifan. This Grand Prix was the fifth of a series of six events held in 2024 and 2025, two players will qualify for the next Women's Candidates tournament. Each player competes in three events. Alexandra Goryachkina leads the series ahead of Koneru with both having comp",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-tony-miles",
          "pubDate" : "Wed, 23 Apr 2025 18:18:48",
          "title" : "Remembering Tony Miles"
-      },
-      {
-         "description" : "This year's World Junior Championships in Rapid and Blitz were held on the island of Rhodes in Greece. The most gold medals went to the team from Kazakhstan. Bettina Trabert led the small delegation and was particularly pleased with the silver medal won by her son Max in the U16 Blitz World Championships.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championships-in-blitz-and-rapid",
-         "pubDate" : "Wed, 23 Apr 2025 17:00:00",
-         "title" : "World Junior Championships in Blitz and Rapid"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120557692.cms\" />Indian Grandmaster Koneru Humpy triumphed at the FIDE Women's Grand Prix 2024-25 (Pune leg), securing the title over China's Zhu Jiner due to superior tie-breaks. Both players concluded with seven points, Humpy defeating Bulgaria's Nurgyul Salimova in the final round, while Zhu bested Russia's Polina Shuvalova.",
@@ -154,36 +162,12 @@ news_feed (
          "title" : "FIDE Women's GP chess: Humpy holds on to a draw; Zhu beats Divya"
       },
       {
-         "description" : "Humpy Koneru narrowly escaped defeat against Alina Kashlinskaya in round eight of the Women's Grand Prix in Pune, salvaging a draw that keeps her tied for the lead with Zhu Jiner. Zhu delivered a strong recovery from Monday's loss, defeating Divya Deshmukh in a sharp game. The remaining games also featured tense moments, including a 116-move battle and a missed win in time trouble. | Photo: Abhilash Shinde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-8",
-         "pubDate" : "Wed, 23 Apr 2025 02:25:00",
-         "title" : "Women's GP Pune: Zhu bounces back, shares the lead with Humpy"
-      },
-      {
          "description" : "This week's puzzles come from the recently concluded FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championship, where Americans earned three podium finishes. Click here for reporting on Chess Life Online. For more puzzles from this event, check out our \"Tactics Tuesday\" worksheet aimed at more beginner and intermediate chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-youth-rapid-blitz",
          "pubDate" : "Wed, 23 Apr 2025 00:00:00",
          "title" : "Wednesday Workout: FIDE World Cadets & Youth Rapid & Blitz"
-      },
-      {
-         "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. This week only: instead of €29.90, only €19.90 Get it now and strengthen your attacking play!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-week-s-offer-karsten-mueller-how-to-attack-principles-of-training",
-         "pubDate" : "Tue, 22 Apr 2025 18:00:00",
-         "title" : "This week's offer: Karsten M&uuml;ller: How to attack - principles of training"
-      },
-      {
-         "description" : "The organisers of the Biel Chess Festival have once again put together an interesting line-up for their Masters and Challengers tournaments for the 58th edition of the event (12-25 July 2025). Top seed is Aravindh Chithambaram, second seed is Le Quang Liem. And anyone who registers for one of the open tournaments now may be able to take advantage of a discount offer. | Photo: Biel Chess Festival 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-lineup-for-the-masters-and-challengers",
-         "pubDate" : "Tue, 22 Apr 2025 17:00:00",
-         "title" : "Biel Chess Festival: Lineup for the Masters and Challengers"
       },
       {
          "description" : "Just a day ago, GM Magnus Carlsen achieved the seemingly impossible (again). This time, he won the 2025 Grenke Chess Freestyle Open with a perfect 9/9 score. While his stellar performance stole headlines during the five-day event, we review seven ...",
@@ -450,7 +434,7 @@ news_feed (
          "title" : "European Universities Chess Championship 2025"
       },
       {
-         "description" : "The Chess.com Community Championships are more than just a series of tournaments. It&#39;s a celebration of chess enthusiasts coming together to connect, compete, and have fun. So far, we&#39;ve seen our members compete in Puzzles, 3-Check, Atomic, and 4 ...",
+         "description" : "UPDATE: Voting is now closed, and the winning variant is King of the Hill! The Chess.com Community Championships are more than just a series of tournaments. It&#39;s a celebration of chess enthusiasts coming together to connect, compete, and have fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vote-for-may-chesscom-community-championships-variant",
@@ -664,14 +648,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-and-english-womens-championships-2025/",
          "pubDate" : "Mon, 14 Apr 2025 08:43:22",
          "title" : "English and English Women's Championships 2025"
-      },
-      {
-         "description" : "The Confederation of Chess for Americas (CCA) and the Peruvian Sports Chess Federation have announced the XXXV Pan-American Youth Chess Festival will be held from July 27 to August 3, at the Callao Regional Sports Village in Lima, Peru.There will be 12 sections in the tournament, Open and Girls for each age category: Under 18, Under 16, Under 14, Under 12, Under 10 and Under 8. A player's age as of January 1, 2025 determines their age eligibility for a section.Players entitled to participate in each category are:Under 8: Players born on or after January 1, 2017Under 10: Players born on or after January 1, 2015Under 12: Players born on or after January 1, 2013Under 14: Players born on or afte",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/xxxv-pan-american-youth-chess-festival-announced-registration-information",
-         "pubDate" : "Mon, 14 Apr 2025 00:00:00",
-         "title" : "XXXV Pan-American Youth Chess Festival Announced - Registration Information"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120258623.cms\" />Magnus Carlsen secured a 1-0 lead against Hikaru Nakamura in the Freestyle Chess Grand Slam final in Paris, capitalising on a crucial error by Nakamura. Carlsen's precise conversion of the advantage puts pressure on Nakamura to win the second game. Fabiano Caruana also leads in the third-place match, while other placement matches saw victories for Arjun Erigaisi and Ian Nepomniachtchi.",
