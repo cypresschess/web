@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120569863.cms\" />Koneru Humpy clinched the FIDE Women's Grand Prix title in Pune after a tie with Zhu Jiner, decided by tiebreak rules favoring Humpy's greater number of games played with black pieces. Both players earned equal prize money and GP points, but Humpy's undefeated run and victory over Zhu in an earlier round secured her the championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-pips-chinas-zhu-jiner-for-grand-prix-title/articleshow/120569863.cms",
+         "pubDate" : "Thu, 24 Apr 2025 03:22:10",
+         "title" : "Koneru Humpy pips China's Zhu Jiner for Grand Prix title"
+      },
+      {
+         "description" : "The final round of the Pune Women's Grand Prix ended in dramatic fashion, with Humpy Koneru and Zhu Jiner both winning their games to finish level on points. Humpy claimed overall victory on tiebreaks, while Zhu still has a chance to qualify for the Candidates in the final Grand Prix leg. Divya Deshmukh secured third place after drawing her last-round game. | Photo: Abhilash Shinde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-9",
+         "pubDate" : "Thu, 24 Apr 2025 01:20:00",
+         "title" : "Humpy wins Pune Women's GP on tiebreaks, ahead of Zhu"
+      },
+      {
          "description" : " The Pune Women's Grand Prix was won by Humpy Koneru on tie-break from Zhu Jiner. Koneru mostly impressed with an important victory over Zhu in Round 7 and another long win today, she did survived against Alina Kashlinskaya in round 8 in her only weak game. Zhu also won a long game to share the Grand Prix points with Koneru. 38 year old Koneru's win was her eighth Grand Prix and gave her the sole record she had shared with Hou Yifan. This Grand Prix was the fifth of a series of six events held in 2024 and 2025, two players will qualify for the next Women's Candidates tournament. Each player competes in three events. Alexandra Goryachkina leads the series ahead of Koneru with both having comp",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/erdogmus-carlsen-win-titled-tuesday-april-22-2025",
          "pubDate" : "Wed, 23 Apr 2025 08:38:14",
          "title" : "Carlsen Wins Again As Youth And Experience Both Have Their Day"
-      },
-      {
-         "description" : "Everyone knows FIDE, which in July last year celebrated its 100th anniversary. But how did the organisation come about? The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages to retrace the foundation of FIDE and its progress in the first half of the last century.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-history-creating-fide",
-         "pubDate" : "Wed, 23 Apr 2025 08:19:19",
-         "title" : "Chess History: Creating FIDE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120536506.cms\" />Alina Kashlinskaya faltered against K Humpy in the FIDE Women's GP, missing a crucial win due to a last-minute change of strategy. This draw allowed Zhu Jiner to tie for the lead with Humpy, as Zhu defeated Divya Deshmukh. The final round will determine the tournament winner, with Humpy facing Nurgyul Salimova and Zhu playing Polina Shuvalova.",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-teodora-injac-keeps-the-sole-lead-im-irina-bulmaga-closely-follows-ewcc2025-r9-recap/",
          "pubDate" : "Wed, 09 Apr 2025 19:17:39",
          "title" : "IM Teodora Injac keeps the sole lead, IM Irina Bulmaga closely follows - EWCC2025 R9 recap"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120135296.cms\" />Paris's Freestyle Chess Grand Slam's knockouts began with Magnus Carlsen's win over Abdusattorov, while other quarterfinals drew. Nepomniachtchi's \"Nepo Gambit\" intrigued, yet drew with Keymer. Nakamura and Caruana also drew, despite gambit attempts. Rapport beat Gukesh, Praggnanandhaa defeated Gujarathi in placement matches. Quarterfinals conclude Thursday, after classical time-control games and tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-only-to-score-win-in-first-game-of-quarters-d-gukesh-loses-again-in-paris/articleshow/120135296.cms",
-         "pubDate" : "Wed, 09 Apr 2025 16:58:06",
-         "title" : "Freestyle Chess: Carlsen only winner in first game of QFs; Gukesh loses"
       },
       {
          "description" : " Ju Wenjun took a 3-2 lead over Tan Zhongyi after winning the fifth game of he World Women's title defence. She had white and faced a Kan Sicilian, her 10.c5 novelty brought an immediate mistake and she was completely winning after 20 moves. Tan provided stout resistance after that but the objective assessment never changed and 59.Ne7+ brought about her resignation. This is the penultimate game before the match moves from Shanghai to Chongqing.",
