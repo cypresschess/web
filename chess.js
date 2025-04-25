@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated both Mark Taimanov and Bent Larsen by 6-0 in the 1971 Candidates. Anatoly Karpov triumphed at Linares 1994 with a 11-2 total, while further back the yardstick performance was Alexander ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
+         "pubDate" : "Fri, 25 Apr 2025 07:00:27",
+         "title" : "Chess: Carlsen scores record nine out of nine at Grenke Freestyle Open"
+      },
+      {
          "description" : "FIDE has launched the Social Chess Storytelling Challenge 2025, inviting filmmakers, federations, and changemakers worldwide to share short films that showcase the social impact of chess. Under the theme \"Every Move Counts\", the competition seeks stories of resilience, inclusion, and opportunity inspired by the game. Open to all, with professional and grassroots categories, submissions run from 24 April to 25 October. Winning entries will be honoured at the 2026 Olympiad and featured across FIDE's platforms and global events.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
