@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the U.S. Championship in October 2024, Christopher Yoo-one of the greatest talents in U.S. chess-seriously damaged his career. After losing to Fabiano Caruana in round five, he struck a videographer from behind while leaving the venue. As a result, he was banned from the St. Louis Chess Club, faced a charge of fourth-degree assault, and was suspended by the USCF for one year. Yoo later publicly apologized, explaining that he had lost his temper after the defeat. He subsequently hired mental coach Ebru Ceylan. During the Grenke Open in Karlsruhe, Arne K&auml;hler took the opportunity to speak with her.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-ebru-ceylan-mental-coach",
+         "pubDate" : "Fri, 25 Apr 2025 13:07:32",
+         "title" : "Interview with Ebru Ceylan - Mental Coach"
+      },
+      {
+         "description" : " The Superbet Poland Rapid & Blitz takes place Sat 26th Apr 2025 to Thu 1st May 2025. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. A three day rapid is followed by a two day blitz event. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2025",
+         "pubDate" : "Fri, 25 Apr 2025 11:51:00",
+         "title" : "Superbet Poland Rapid & Blitz 2025 - Games and Results"
+      },
+      {
+         "description" : " The Bundesliga takes place Sat 28th Sep 2024 to Sun 27th Apr 2025. Duesseldorfer SK leads by three points over \tSC Viernheim going into the final three rounds held in Deggendorf. They do meet in round 15 but likely Duesseldorfer SK will have won by then. Baden Baden are a further point behind in 3rd place.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2024-25",
+         "pubDate" : "Fri, 25 Apr 2025 11:02:00",
+         "title" : "Bundesliga 2024-25 - Games and Results"
+      },
+      {
+         "description" : " The IV Menorca Open takes place Tue 22nd Apr to Sun 27th Apr 2025. Players: Nihal Sarin, Sam Shankland, Volodar Murzin, Karthikeyan, Puranik, Pranav, Lu Shanglei. Vasyl Ivanchuk etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/iv-menorca-open-2025",
+         "pubDate" : "Fri, 25 Apr 2025 11:00:00",
+         "title" : "IV Menorca Open 2025 - Games and Results"
+      },
+      {
+         "description" : " The Grand Chess Tour kicks off with the <a href=\"https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2025\">Superbet Poland Rapid & Blitz</a> starting on Saturday at 1pm BST. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. The final weekend of the <a href=\"https://theweekinchess.com/chessnews/events/bundesliga-2024-25\">German Bundesliga</a> takes place in Deggendorf Friday 25th to Sunday 27th April. Duesseldorfer SK take a three point lead over SC Viernheim into these final three matches. They do meet in the final round 15 of the season on Sunday but the title will likely be settled by then. The relegation ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-25th-to-27th-april-2025",
+         "pubDate" : "Fri, 25 Apr 2025 10:38:00",
+         "title" : "Chess this weekend - 25th to 27th April 2025 - "
+      },
+      {
+         "description" : "Looking for a very nice gift for a dear friend? Someone special who really love chess. Then the Rolls-Royce set is definitely something you should consider. It is magnificently designed, elegant as they come, and certainly something that will billionaires like yourself to play a game. Take a look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rolls-royce-chess-set",
+         "pubDate" : "Fri, 25 Apr 2025 10:00:00",
+         "title" : "The Rolls-Royce Chess Set"
+      },
+      {
+         "description" : "Congratulations to Sohum Lohia (above right) and Alex Golding, who both gained their third IM norm at the Southend Masters (part of the Southend Easter Chess Festival). They are both...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/third-im-norm-for-alex-golding-and-sohum-lohia-at-the-southend-masters-2025/",
+         "pubDate" : "Fri, 25 Apr 2025 08:41:34",
+         "title" : "Third IM Norm for Alex Golding and Sohum Lohia at the Southend Masters 2025"
+      },
+      {
          "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated both Mark Taimanov and Bent Larsen by 6-0 in the 1971 Candidates. Anatoly Karpov triumphed at Linares 1994 with a 11-2 total, while further back the yardstick performance was Alexander ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
