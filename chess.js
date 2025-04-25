@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has launched the Social Chess Storytelling Challenge 2025, inviting filmmakers, federations, and changemakers worldwide to share short films that showcase the social impact of chess. Under the theme \"Every Move Counts\", the competition seeks stories of resilience, inclusion, and opportunity inspired by the game. Open to all, with professional and grassroots categories, submissions run from 24 April to 25 October. Winning entries will be honoured at the 2026 Olympiad and featured across FIDE's platforms and global events.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/social-storytelling-challenge-2025-announcement",
+         "pubDate" : "Fri, 25 Apr 2025 04:00:00",
+         "title" : "FIDE Social Chess Storytelling Challenge 2025: Every Move Counts"
+      },
+      {
          "description" : "The 2025 Grand Chess Tour begins with the Superbet Rapid & Blitz Poland, scheduled for 26-30 April in Warsaw. Held at the Museum of the History of Polish Jews (POLIN), the event features nine rounds of rapid chess followed by eighteen rounds of blitz. Among the participants are elite grandmasters Praggnanandhaa Rameshbabu and Alireza Firouzja, who will be joined by former world champion Veselin Topalov and other invited players competing for a $175,000 prize fund and tour points.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
