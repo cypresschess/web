@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-finals-in-deggendorf-live",
+         "pubDate" : "Fri, 25 Apr 2025 15:30:00",
+         "title" : "Bundesliga finals in Deggendorf - live"
+      },
+      {
          "description" : "At the U.S. Championship in October 2024, Christopher Yoo-one of the greatest talents in U.S. chess-seriously damaged his career. After losing to Fabiano Caruana in round five, he struck a videographer from behind while leaving the venue. As a result, he was banned from the St. Louis Chess Club, faced a charge of fourth-degree assault, and was suspended by the USCF for one year. Yoo later publicly apologized, explaining that he had lost his temper after the defeat. He subsequently hired mental coach Ebru Ceylan. During the Grenke Open in Karlsruhe, Arne K&auml;hler took the opportunity to speak with her.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Third IM Norm for Alex Golding and Sohum Lohia at the Southend Masters 2025"
       },
       {
-         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated both Mark Taimanov and Bent Larsen by 6-0 in the 1971 Candidates. Anatoly Karpov triumphed at Linares 1994 with a 11-2 total, while further back the yardstick performance was Alexander ",
+         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated Mark Taimanov and Bent Larsen by 6-0 in the 1971 ­Candidates. Anatoly Karpov ­triumphed at Linares 1994 with an 11-2 total, while further back the ­yardstick performance was ­Alexander ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-go-and-global-diplomacy/",
          "pubDate" : "Sat, 05 Apr 2025 12:23:57",
          "title" : "Chess, Go and global diplomacy"
-      },
-      {
-         "description" : " Tan leads 1.5-0.5 in the first-to-6.5 series following Ju's costly endgame blunder in game two Tan Zhongyi, the 33-year-old challenger, took a shock 1.5-0.5 lead in game two of the 12-game Women's World Championship match in Shanghai on Friday morning when Ju Wenjun, 34, the champion since 2018, resigned on move 62 after a costly endgame blunder due to move 40 time pressure. Ju's difficulties could be traced back to the opening, when she took 10 minutes for each of moves 10-12 and was behind on the clock from then on. Their rook endgame should still have been an easy draw, but on move 31 Ju went wrong with the hasty 31&hellip;c5? (Kf8! is equal) and she then missed her last chance with 40&h",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/apr/04/womens-chess-takes-centre-stage-with-world-and-european-titles-up-for-grabs",
-         "pubDate" : "Fri, 04 Apr 2025 14:15:14",
-         "title" : "Chess: Tan Zhongyi takes shock lead over Ju Wenjun in Women's World Championship"
       }
    ]
 }
