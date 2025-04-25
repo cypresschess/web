@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are thrilled to announce an exclusive live lecture with IGM Athanasios Mastrovasilis at KCF Academy on April 27. He will be focused on one of the most crucial and underappreciated aspects of chess mastery: defending tough and even lost positions. Come watch and learn!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-defend-difficult-and-lost-positions",
+         "pubDate" : "Fri, 25 Apr 2025 21:39:47",
+         "title" : "How to Defend Difficult and Lost Positions"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-ebru-ceylan-mental-coach",
          "pubDate" : "Fri, 25 Apr 2025 13:07:32",
          "title" : "Interview with Ebru Ceylan - Mental Coach"
+      },
+      {
+         "description" : "GM Sina Movahed, a 14-year-old chess prodigy out of Iran (whose name seems to befit a chess player), won Freestyle Friday on April 25. For the first time in a month, only nine points were needed for victory, as Movahed won out on tiebreaks ahead o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-april-25-2025",
+         "pubDate" : "Fri, 25 Apr 2025 12:36:00",
+         "title" : "Teenage Prodigy Wins Freestyle Friday"
       },
       {
          "description" : "Another path to the 2025 Esports World Cup (EWC) has now been revealed. Chess players can compete at the DreamHack festival in Dallas from May 23 to 25 for four spots at the EWC Last Chance Qualifier&#38;nbsp;and a share of the $20,000 prize fund.&#38;nbs...",
@@ -74,6 +90,14 @@ news_feed (
          "title" : "The Rolls-Royce Chess Set"
       },
       {
+         "description" : " The Chinese Team Championship takes place Fri 25th Apr to Sat 3rd May 2025 in Zhangjiakou, China. Players including Wang Yue, Li Chao B, Xu Xiangyu in the men's and Shen Yang and Ding Yixin in the women's. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chinese-teams-2025",
+         "pubDate" : "Fri, 25 Apr 2025 09:09:00",
+         "title" : "Chinese Teams 2025 - Games and Results"
+      },
+      {
          "description" : "Congratulations to Sohum Lohia (above right) and Alex Golding, who both gained their third IM norm at the Southend Masters (part of the Southend Easter Chess Festival). They are both...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -98,30 +122,6 @@ news_feed (
          "title" : "FIDE Social Chess Storytelling Challenge 2025: Every Move Counts"
       },
       {
-         "description" : "The 2025 Grand Chess Tour begins with the Superbet Rapid & Blitz Poland, scheduled for 26-30 April in Warsaw. Held at the Museum of the History of Polish Jews (POLIN), the event features nine rounds of rapid chess followed by eighteen rounds of blitz. Among the participants are elite grandmasters Praggnanandhaa Rameshbabu and Alireza Firouzja, who will be joined by former world champion Veselin Topalov and other invited players competing for a $175,000 prize fund and tour points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-preview",
-         "pubDate" : "Thu, 24 Apr 2025 22:00:00",
-         "title" : "The 2025 Grand Chess Tour kicks off in Poland, with Pragg, Firouzja and Topalov in the lineup"
-      },
-      {
-         "description" : "The ninth edition of the Semana Santa Open, held in San Vicente del Raspeig (Alicante) from 16 to 21 April, consolidated the event as a feature on the European circuit. With more than 700 participants, including 235 titled players from more than 50 countries, the event stood out for its high competitive level. Reigning world rapid champion Volodar Murzin won the main tournament, while Lu Shanglei and Vasyl Ivanchuk claimed second and third place, respectively. | Photo: Luis Barona",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/open-internacional-semana-santa-2025-final",
-         "pubDate" : "Thu, 24 Apr 2025 16:00:00",
-         "title" : "Volodar Murzin claims first place at Semana Santa Open in Alicante"
-      },
-      {
-         "description" : "The Bundesliga is probably the strongest national league in the world. Now the 2024/2025 season is coming to an end and all teams are meeting in the Bavarian town of Deggendorf for the last three rounds. Magnus Carlsen, top board of the FC St. Pauli, will not be there, but it is sure to be a chess festival nonetheless.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/three-rounds-to-go-the-bundesliga-celebrates-its-final",
-         "pubDate" : "Thu, 24 Apr 2025 12:13:58",
-         "title" : "Three rounds to go: The Bundesliga celebrates its final"
-      },
-      {
          "description" : "You may have heard that our community is, at this very moment, making history alongside world number one GM Magnus Carlsen. The Magnus vs. The World match has recently surpassed 100,000 players, making it the biggest chess game ever played. In c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,14 +138,6 @@ news_feed (
          "title" : "Koneru Humpy pips China's Zhu Jiner for Grand Prix title"
       },
       {
-         "description" : "The final round of the Pune Women's Grand Prix ended in dramatic fashion, with Humpy Koneru and Zhu Jiner both winning their games to finish level on points. Humpy claimed overall victory on tiebreaks, while Zhu still has a chance to qualify for the Candidates in the final Grand Prix leg. Divya Deshmukh secured third place after drawing her last-round game. | Photo: Abhilash Shinde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-9",
-         "pubDate" : "Thu, 24 Apr 2025 01:20:00",
-         "title" : "Humpy wins Pune Women's GP on tiebreaks, ahead of Zhu"
-      },
-      {
          "description" : "The Grenke Chess Festival - held April 17 through 21 in Karlsruhe, Germany - saw top grandmasters compete alongside amateurs in a unique mixture of classical and freestyle chess. The time control for both the classical and Freestyle events was a sudden death time control of 90 minutes per game with 30-second increment on move one. With the 225,000 Euro prize fund, the Freestyle A-Open attracted most of the strongest competitors. Here, GM Magnus Carlsen dominated headlines with his spectacular 9/9 performance to win the tournament ahead of a formidable field of elite competitors. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen with Freestyle Che",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -160,14 +152,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/humpy-koneru-edges-out-zhu-jiner-to-win-the-pune-womens-grand-prix",
          "pubDate" : "Wed, 23 Apr 2025 20:31:00",
          "title" : "Humpy Koneru edges out Zhu Jiner to win the Pune Women's Grand Prix - 9"
-      },
-      {
-         "description" : "Anthony Miles was one of the best players in the world in the 1980s. He died in 2001 at the age of just 46 from a heart attack caused by diabetes. Today he would have celebrated his 70th birthday. | Photo: British Chess News",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-tony-miles",
-         "pubDate" : "Wed, 23 Apr 2025 18:18:48",
-         "title" : "Remembering Tony Miles"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120557692.cms\" />Indian Grandmaster Koneru Humpy triumphed at the FIDE Women's Grand Prix 2024-25 (Pune leg), securing the title over China's Zhu Jiner due to superior tie-breaks. Both players concluded with seven points, Humpy defeating Bulgaria's Nurgyul Salimova in the final round, while Zhu bested Russia's Polina Shuvalova.",
@@ -656,14 +640,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-announces-new-events-manager-and-new-graphic-design-assistant",
          "pubDate" : "Wed, 16 Apr 2025 00:00:00",
          "title" : "US Chess Announces New Events Manager and New Graphic Design Assistant"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen beat world number-two Hikaru Nakamura 1.5-0.5 in the Final to win the 2025 Paris Freestyle Chess Grand Slam and take the Tour lead with 40 points and $300,000 in prize money. Let&#39;s look at some conclusions from the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-paris-freestyle-chess-grand-slam-7-conclusions",
-         "pubDate" : "Tue, 15 Apr 2025 23:46:00",
-         "title" : "Carlsen Wins Paris Freestyle Chess Grand Slam: 7 Conclusions"
       },
       {
          "description" : " The Reykjavik Open took place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc. Top seed Parham Maghsoodloo won the event with 7/9 half a point clear of 10 players, Vasyl Ivanchuk finishing second on tie-break.",
