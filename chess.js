@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2025/#new_tab",
+         "pubDate" : "Fri, 25 Apr 2025 15:36:37",
+         "title" : "NSCC Girls Finals 2025 - results"
+      },
+      {
          "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-ebru-ceylan-mental-coach",
          "pubDate" : "Fri, 25 Apr 2025 13:07:32",
          "title" : "Interview with Ebru Ceylan - Mental Coach"
+      },
+      {
+         "description" : "Another path to the 2025 Esports World Cup (EWC) has now been revealed. Chess players can compete at the DreamHack festival in Dallas from May 23 to 25 for four spots at the EWC Last Chance Qualifier&#38;nbsp;and a share of the $20,000 prize fund.&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-dreamhack-dallas-road-to-esports-world-cup",
+         "pubDate" : "Fri, 25 Apr 2025 12:00:00",
+         "title" : "DreamHack Dallas Hosts Chess Tournament As Qualifying Path For 2025 Esports World Cup"
       },
       {
          "description" : " The Superbet Poland Rapid & Blitz takes place Sat 26th Apr 2025 to Thu 1st May 2025. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. A three day rapid is followed by a two day blitz event. ",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2025",
          "pubDate" : "Tue, 15 Apr 2025 13:56:00",
          "title" : "Reykjavik Open 2025 - Games and Results"
-      },
-      {
-         "description" : "GM Zhu Jiner&#38;nbsp;and IM Divya Deshmukh won their second games on Tuesday and lead the 2025 Pune FIDE Women&#39;s Grand Prix with a perfect 2/2 score. Whereas Zhu needed 66 moves to grind down IM Batkhuyag Munguntuul in a rook endgame, Divya was the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-2",
-         "pubDate" : "Tue, 15 Apr 2025 11:07:58",
-         "title" : "Divya, Zhu Win Again To Lead Pune Women's Grand Prix With 2/2"
       },
       {
          "description" : "This week's puzzles come from the 2025 KCF All-Girls National Chess Championship, focusing on the games of the Under-14 and Under-18 winners. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
