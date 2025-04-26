@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Montenegro Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate in the European Youth Chess Championship 2025 organized in Budva, Montenegro between 28th October (arrival day) - 8th November (departure day), 2025. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-official-invitation/",
+         "pubDate" : "Sat, 26 Apr 2025 05:40:06",
+         "title" : "European Youth Chess Championship 2025 - Official invitation"
+      },
+      {
          "description" : "We are thrilled to announce an exclusive live lecture with IGM Athanasios Mastrovasilis at KCF Academy on April 27. He will be focused on one of the most crucial and underappreciated aspects of chess mastery: defending tough and even lost positions. Come watch and learn!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Third IM Norm for Alex Golding and Sohum Lohia at the Southend Masters 2025"
       },
       {
-         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated Mark Taimanov and Bent Larsen by 6-0 in the 1971 ­Candidates. Anatoly Karpov ­triumphed at Linares 1994 with an 11-2 total, while further back the ­yardstick performance was ­Alexander ",
+         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated Mark Taimanov and Bent Larsen by 6-0 in the 1971 ­Candidates. Anatoly Karpov ­triumphed at Linares 1994 with an 11-2 total, while further back the yardstick performance was ­Alexander ­",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-room-full-of-grandmasters-put-an-end-to-fide-vs-freestyle-chess-row/articleshow/120122985.cms",
          "pubDate" : "Wed, 09 Apr 2025 09:54:19",
          "title" : "How room full of GMs put an end to FIDE vs Freestyle Chess row"
-      },
-      {
-         "description" : "Eight rounds were played at the European Women's Chess Championship 2025 and IM Teodora Injac made a spectacular comeback after the loss in the first round, taking the sole lead in the tournament! IM Teodora Injac (SRB, 2454) suffered a tough loss in the first round against WFM Anastasia Kirtadze (GEO, 2180) where she had a mate in two motive to win the game, but missed it and entered a lost rooks endgame. She now won seven consecutive games to []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-teodora-injac-takes-sole-lead-in-european-womens-chess-championship-2025/",
-         "pubDate" : "Tue, 08 Apr 2025 18:33:53",
-         "title" : "IM Teodora Injac takes sole lead in European Women's Chess Championship 2025"
       },
       {
          "description" : "&#8212; from Chris Baker ( a fuller report will appear in ChessMoves for April) Held in Swidnica 4th April to 14th April 2025 featuring 50+ and 65+ teams. This is...",
