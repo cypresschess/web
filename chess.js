@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Icelandic Grandmaster Fridrik Olafsson died on 4 April at the age of 90. Born in 1935, Olafsson's distinguished career included qualification for the 1959 world championship Candidates' tournament (of which he was the last survivor) as well as election to the position of President of FIDÉ, the World Chess Federation. His victims across the board included four world []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-icelandic-candidate-olafssons-saga/",
+         "pubDate" : "Sat, 26 Apr 2025 11:05:37",
+         "title" : "The Icelandic candidate: Olafsson's saga"
+      },
+      {
          "description" : "Montenegro Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate in the European Youth Chess Championship 2025 organized in Budva, Montenegro between 28th October (arrival day) - 8th November (departure day), 2025. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
