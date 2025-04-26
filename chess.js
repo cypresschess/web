@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Grand Chess Tour got underway in Warsaw with the first three rounds of rapid play at the Superbet Rapid & Blitz Poland. Held at the Museum of the History of Polish Jews, the opening day saw Vladimir Fedoseev take the early lead with 5 points, followed closely by Alireza Firouzja and Praggnanandhaa Rameshbabu. Former FIDE world champion Veselin Topalov, one of the main attractions of the event, recovered from a slow start to end the day with a notable win. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-1",
+         "pubDate" : "Sat, 26 Apr 2025 22:50:00",
+         "title" : "Superbet Poland: Fedoseev leads after exciting first day of rapid action"
+      },
+      {
          "description" : "This new interactive ChessBase video course by GM Fabien Libiszewski offers over eight hours of detailed instruction on the Pirc Defence, a dynamic opening for players seeking winning chances with black. Grandmaster Libiszewski guides viewers through key games and a complete repertoire, helping players grasp the main strategic ideas and counterplay opportunities. Suitable for both English and French speakers, the course also allows users to save games and variations for further study, making it a valuable addition to any ambitious player's training.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "HBCU Chess Spotlight: Samir Acharya (Howard)"
       },
       {
-         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
-         "pubDate" : "Sat, 26 Apr 2025 13:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
+         "description" : "Wildcard GM Vladimir Fedoseev is the sole leader of the&#38;nbsp;2025 Superbet Rapid &#38;amp; Blitz Poland, the first event on the 2025 Grand Chess Tour, after scoring 5/6 on day one. It could have been 6/6, but GM Alireza Firouzja escaped in the first r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-1",
+         "pubDate" : "Sat, 26 Apr 2025 13:59:00",
+         "title" : "Fedoseev Leads Firouzja, Pragg As 2025 Grand Chess Tour Begins In Warsaw"
       },
       {
          "description" : " The Russian Team Championships take place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past.",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-doesnt-lack-womens-talent-it-lacks-equal-investment-koneru-humpy/articleshow/120331885.cms",
          "pubDate" : "Wed, 16 Apr 2025 05:22:24",
          "title" : "'Chess doesn't lack women's talent, it lacks equal investment': K Humpy"
-      },
-      {
-         "description" : "GM Ju Wenjun has beaten GM Tan Zhongyi 6.5-2.5 to win the 2025 FIDE Women&#39;s World Championship and become only the fourth woman in history to win the title five times. The title holder since 2018 wrapped up the match with three games to spare afte...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ju-wenjun-wins-5th-womens-world-chess-championship",
-         "pubDate" : "Wed, 16 Apr 2025 02:14:00",
-         "title" : "Ju Wenjun Wins 5th Women's World Chess Championship"
       },
       {
          "description" : "Photo by Nikki Metzler Photography April Statement:Dear Fellow Chess Enthusiasts,I am excited to announce my candidacy for the Executive Board of US Chess, with a passion to further the game globally and address members' concerns. With many years' experience and service to US Chess in various roles, I am confident in my ability to serve our community.I will explain my growth in the chess world and goals that I wish to accomplish in the next letter. My qualifications include starting at the local and state levels eventually working at the national level.I am committed to working tirelessly to promote chess and serve our members. I would be honored to earn your vote and join the Executive Boar",
