@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Samir Acharya2025 HBCU Chess Champion Samir Acharya won the 3rd HBCU Chess Classic with a perfect 5/5, leading Howard University to the team title for the second time in three years. The junior computer science major was the top seed going into the tournament and met expectations. Interestingly, Acharya mentioned that he had not made The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-samir-acharya-howard/\">HBCU Chess Spotlight: Samir Acharya (Howard)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-samir-acharya-howard/",
+         "pubDate" : "Sat, 26 Apr 2025 14:02:02",
+         "title" : "HBCU Chess Spotlight: Samir Acharya (Howard)"
+      },
+      {
+         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
+         "pubDate" : "Sat, 26 Apr 2025 13:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : " The Russian Team Championships take place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championships-2025",
+         "pubDate" : "Sat, 26 Apr 2025 13:47:00",
+         "title" : "Russian Team Championships 2025 - Games and Results"
+      },
+      {
+         "description" : "I speak five languages fluently: German, French, English, Spanish, and Italian. But it wasn't always that way. Back in school, I hated speaking up in Spanish class. Even when I knew the answer, I hesitated. My grammar wasn't perfect, and I worried about how I sounded. Our teacher didn't help either-she was the type to []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/learn-from-mistakes/",
+         "pubDate" : "Sat, 26 Apr 2025 13:00:00",
+         "title" : "I Learned Italian in 30 Days-Because I Did This One Thing"
+      },
+      {
          "description" : "The Icelandic Grandmaster Fridrik Olafsson died on 4 April at the age of 90. Born in 1935, Olafsson's distinguished career included qualification for the 1959 world championship Candidates' tournament (of which he was the last survivor) as well as election to the position of President of FIDÉ, the World Chess Federation. His victims across the board included four world []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2025/#new_tab",
          "pubDate" : "Fri, 25 Apr 2025 15:36:37",
          "title" : "NSCC Girls Finals 2025 - results"
-      },
-      {
-         "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-finals-in-deggendorf-live",
-         "pubDate" : "Fri, 25 Apr 2025 15:30:00",
-         "title" : "Bundesliga finals in Deggendorf - live"
       },
       {
          "description" : "At the U.S. Championship in October 2024, Christopher Yoo-one of the greatest talents in U.S. chess-seriously damaged his career. After losing to Fabiano Caruana in round five, he struck a videographer from behind while leaving the venue. As a result, he was banned from the St. Louis Chess Club, faced a charge of fourth-degree assault, and was suspended by the USCF for one year. Yoo later publicly apologized, explaining that he had lost his temper after the defeat. He subsequently hired mental coach Ebru Ceylan. During the Grenke Open in Karlsruhe, Arne K&auml;hler took the opportunity to speak with her.",
@@ -928,14 +952,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-paris-2025",
          "pubDate" : "Sun, 6 Apr 2025 16:37:00",
          "title" : "Freestyle Grand Slam Paris 2025 - Games and Results"
-      },
-      {
-         "description" : "Of the major board games, Draughts relies primarily on material superiority to achieve victory. Meanwhile Go (known in China as Wei Chi) depends on control of territory. Only chess, where triumph is ultimately and solely confirmed by checkmate, transcends all elements of material, time or space. Although such factors may well contribute to an advantage, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-go-and-global-diplomacy/",
-         "pubDate" : "Sat, 05 Apr 2025 12:23:57",
-         "title" : "Chess, Go and global diplomacy"
       }
    ]
 }
