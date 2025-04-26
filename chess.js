@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This new interactive ChessBase video course by GM Fabien Libiszewski offers over eight hours of detailed instruction on the Pirc Defence, a dynamic opening for players seeking winning chances with black. Grandmaster Libiszewski guides viewers through key games and a complete repertoire, helping players grasp the main strategic ideas and counterplay opportunities. Suitable for both English and French speakers, the course also allows users to save games and variations for further study, making it a valuable addition to any ambitious player's training.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/libiszewski-master-pirc-defense",
+         "pubDate" : "Sat, 26 Apr 2025 19:00:00",
+         "title" : "Fabien Libiszewski: Master the Pirc Defense - A strategic and dynamic approach"
+      },
+      {
          "description" : " Samir Acharya2025 HBCU Chess Champion Samir Acharya won the 3rd HBCU Chess Classic with a perfect 5/5, leading Howard University to the team title for the second time in three years. The junior computer science major was the top seed going into the tournament and met expectations. Interestingly, Acharya mentioned that he had not made The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-samir-acharya-howard/\">HBCU Chess Spotlight: Samir Acharya (Howard)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.thearticle.com/the-icelandic-candidate-olafssons-saga/",
          "pubDate" : "Sat, 26 Apr 2025 11:05:37",
          "title" : "The Icelandic candidate: Olafsson's saga"
+      },
+      {
+         "description" : " The Bundesliga takes place Sat 28th Sep 2024 to Sun 27th Apr 2025. Duesseldorfer SK lead by three points over \tSC Viernheim going into the final three rounds held in Deggendorf. Duesseldorfer SK won the title with a round to spare and team sponsor Wadim Rosenstein played for them in Round 14. Duesseldorfer SK and SC Viernheim meet in round 15.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2024-25",
+         "pubDate" : "Sat, 26 Apr 2025 11:02:00",
+         "title" : "Bundesliga 2024-25 - Games and Results"
       },
       {
          "description" : "Montenegro Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate in the European Youth Chess Championship 2025 organized in Budva, Montenegro between 28th October (arrival day) - 8th November (departure day), 2025. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the []",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "Superbet Poland Rapid & Blitz 2025 - Games and Results"
       },
       {
-         "description" : " The Bundesliga takes place Sat 28th Sep 2024 to Sun 27th Apr 2025. Duesseldorfer SK leads by three points over \tSC Viernheim going into the final three rounds held in Deggendorf. They do meet in round 15 but likely Duesseldorfer SK will have won by then. Baden Baden are a further point behind in 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2024-25",
-         "pubDate" : "Fri, 25 Apr 2025 11:02:00",
-         "title" : "Bundesliga 2024-25 - Games and Results"
-      },
-      {
          "description" : " The IV Menorca Open takes place Tue 22nd Apr to Sun 27th Apr 2025. Players: Nihal Sarin, Sam Shankland, Volodar Murzin, Karthikeyan, Puranik, Pranav, Lu Shanglei. Vasyl Ivanchuk etc. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
          "pubDate" : "Fri, 25 Apr 2025 07:00:27",
          "title" : "Chess: Carlsen scores record nine out of nine at Grenke Freestyle Open"
-      },
-      {
-         "description" : "FIDE has launched the Social Chess Storytelling Challenge 2025, inviting filmmakers, federations, and changemakers worldwide to share short films that showcase the social impact of chess. Under the theme \"Every Move Counts\", the competition seeks stories of resilience, inclusion, and opportunity inspired by the game. Open to all, with professional and grassroots categories, submissions run from 24 April to 25 October. Winning entries will be honoured at the 2026 Olympiad and featured across FIDE's platforms and global events.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/social-storytelling-challenge-2025-announcement",
-         "pubDate" : "Fri, 25 Apr 2025 04:00:00",
-         "title" : "FIDE Social Chess Storytelling Challenge 2025: Every Move Counts"
       },
       {
          "description" : "You may have heard that our community is, at this very moment, making history alongside world number one GM Magnus Carlsen. The Magnus vs. The World match has recently surpassed 100,000 players, making it the biggest chess game ever played. In c...",
