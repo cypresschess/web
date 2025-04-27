@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Anndrea Ojijo, President of NCAT Chess Club Playing at the 2024 HBCU Chess Classic at Georgia Tech I'd love to get more people in chess&hellip; and getting more women into chess. ~Anndrea Ojijo Anndrea Ojijjo is an honors student at North Carolina A&#38;T (NCAT), aspiring to be a kinesiologist. She is the current president of The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/\">HBCU Chess Spotlight: Anndrea Ojijo (NCAT)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/",
+         "pubDate" : "Sat, 26 Apr 2025 23:36:59",
+         "title" : "HBCU Chess Spotlight: Anndrea Ojijo (NCAT)"
+      },
+      {
          "description" : "The 2025 Grand Chess Tour got underway in Warsaw with the first three rounds of rapid play at the Superbet Rapid & Blitz Poland. Held at the Museum of the History of Polish Jews, the opening day saw Vladimir Fedoseev take the early lead with 5 points, followed closely by Alireza Firouzja and Praggnanandhaa Rameshbabu. Former FIDE world champion Veselin Topalov, one of the main attractions of the event, recovered from a slow start to end the day with a notable win. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
