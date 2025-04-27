@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2025-04-26","7","<a href=http://www.uschess.org/msa/XtblMain.php?202504267282 target='_blank'>CHESSPANDA04262025SATURDAY</a>",
+"HOUSTON","2025-04-26","27","<a href=http://www.uschess.org/msa/XtblMain.php?202504266812 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2025-04-25","22","<a href=http://www.uschess.org/msa/XtblMain.php?202504256802 target='_blank'>FBCC 2025 SPRINGTIME ENJOYMENT OPEN</a>",
+"CYPRESS","2025-04-25","45","<a href=http://www.uschess.org/msa/XtblMain.php?202504256722 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-04-19","54","<a href=http://www.uschess.org/msa/XtblMain.php?202504193592 target='_blank'>TCR: EASTER FIDE 2025</a>",
 "HOUSTON","2025-04-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202504193442 target='_blank'>APRIL 19TH SATURDAY SWISS</a>",
 "HOUSTON","2025-04-19","97","<a href=http://www.uschess.org/msa/XtblMain.php?202504193182 target='_blank'>TCR: EASTER SCHOLASTIC 2025</a>",
@@ -195,8 +199,4 @@ jtable([
 "SPRING","2024-09-13","28","<a href=http://www.uschess.org/msa/XtblMain.php?202409139582 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-09-13","8","<a href=http://www.uschess.org/msa/XtblMain.php?202409139562 target='_blank'>FBCC 2024 NATIONAL PEANUT DAY OPEN.</a>",
 "HOUSTON","2024-09-06  - 09-08","45","<a href=http://www.uschess.org/msa/XtblMain.php?202409087472 target='_blank'>$3,000 SEPTEMBER 2024 CHAMPIONSHIP</a>",
-"HOUSTON","2024-09-08","6","<a href=http://www.uschess.org/msa/XtblMain.php?202409085312 target='_blank'>GAME GUYS 09.08.24</a>",
-"HOUSTON","2024-09-07","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409076332 target='_blank'>CHESSPANDA08072024SATURDAY</a>",
-"CYPRESS","2024-09-06","28","<a href=http://www.uschess.org/msa/XtblMain.php?202409066272 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-09-06","33","<a href=http://www.uschess.org/msa/XtblMain.php?202409066102 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
