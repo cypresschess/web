@@ -42,6 +42,22 @@ news_feed (
          "title" : "ChessBase 18 - Beginner's Tips Part 11: Multitasking with several windows"
       },
       {
+         "description" : "The one and only GM Vasyl Ivanchuk capped off a brilliant comeback by winning the 4th Menorca Open with an unbeaten 8/9 score and an impressive 2833 performance. The 56-year-old secured his first major tournament victory since 2019, and with it, a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ivanchuk-wins-menorca-returns-to-top-100",
+         "pubDate" : "Sun, 27 Apr 2025 13:59:00",
+         "title" : "Ivanchuk Triumphs At Menorca With Stunning 2833 Performance, Returns To World's Top 100"
+      },
+      {
+         "description" : "GM Alireza Firouzja pounced on a blunder by GM Praggnanandhaa Rameshbabu to win the battle of the players who started day two in second place and catch GM Vladimir Fedoseev in the 2025 Superbet Rapid &#38;amp; Blitz Poland lead. GM Aravindh Chithambar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-2",
+         "pubDate" : "Sun, 27 Apr 2025 12:36:00",
+         "title" : "Firouzja Beats Praggnanandhaa To Catch Leader"
+      },
+      {
          "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -642,14 +658,6 @@ news_feed (
          "title" : "European Chess Club Cups 2025 - Official invitation"
       },
       {
-         "description" : "Drawing her game with IM Salome Melia was enough for GM Zhu Jiner to become the sole leader at the 2025 Pune FIDE Women&#39;s Grand Prix with 2.5/3. That was because co-leader IM Divya Deshmukh lost her first game, with the black pieces to GM Humpy Ko...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-3",
-         "pubDate" : "Wed, 16 Apr 2025 11:24:08",
-         "title" : "Zhu Sole Leader At Pune Women's Grand Prix As Humpy Beats Divya"
-      },
-      {
          "description" : " Ju Wenjun completed the formality of defending her title against with a draw in game 9 of their Women's World Championship match. All the hard work had been done with four wins in a row between games 5 and 8. Ju Wenjun didn't have the match all her own way but her reliability and technical play was far in advance of her opponent and that proved the difference. This was an impressive win for her. This is her fifth title match win, she gained the title from her opponent Tan Zhongyi in a match in 2018. Ju's seconds were Ni Hua, Maxime Matlakov and WGM Wang Pin.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-wc-2025-live",
          "pubDate" : "Wed, 16 Apr 2025 08:50:00",
          "title" : "Women's World Chess Championship - Game 9 live!"
-      },
-      {
-         "description" : "GM Bogdan Daniel Deac and GM Magnus Carlsen took home the Titled Tuesday first-place prizes on April 15 (it may have been tax day in the United States, but they&#39;re not due in either Romania or Norway yet). Both players scored 10 points, although D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/deac-carlsen-win-titled-tuesday-april-15-2025",
-         "pubDate" : "Wed, 16 Apr 2025 08:01:05",
-         "title" : "Magnus Wins Second Straight Late Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120332397.cms\" />Divya Deshmukh secured an unexpected lead in the FIDE Women's Grand Prix after R Vaishali faltered, leading to a quick 26-move victory for Divya. Zhu Jiner also claimed a win against Batkhuyag Munguntuul, joining Divya at the top. Other games saw draws, including matches between Melia Salome and K Humpy, and Polina Shuvalova and Nurgyul Salimova.",
