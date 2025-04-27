@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Fedoseev and Alireza Firouzja are sharing the lead after two days of action at the Superbet Rapid & Blitz Poland tournament, the opening event of the 2025 Grand Chess Tour. The tournament has seen both frontrunners remain undefeated after six rounds of rapid play. Close behind are Aravindh Chithambaram, Levon Aronian, Jan-Krzysztof Duda and Bogdan-Daniel Deac, while Veselin Topalov sits at the bottom of the standings | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-2",
+         "pubDate" : "Sun, 27 Apr 2025 20:00:00",
+         "title" : "Superbet Poland: Firouzja catches Fedoseev, Topalov struggles"
+      },
+      {
+         "description" : " Charles Lindsey, Jr. and Breon McCray had a vision a few years ago at Hampton University. The Detroit natives decided to turn their passion for chess into an organization. The group's purpose was to gather like minds, refine analytical abilities, and engage in satisfying social interaction. Lindsay is a graduating senior and, along with McCray, The post <a href=\"https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/\">HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/",
+         "pubDate" : "Sun, 27 Apr 2025 17:38:43",
+         "title" : "HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)"
+      },
+      {
+         "description" : " The Bundesliga took place Sat 28th Sep 2024 to Sun 27th Apr 2025. Duesseldorfer SK lead by three points over \tSC Viernheim going into the final three rounds held in Deggendorf. Duesseldorfer SK won the title with a round to spare and team sponsor Wadim Rosenstein played for them in Round 14. Duesseldorfer SK and SC Viernheim drew in round 15. Baden Baden caught Viernheim on points but still finished third on board count.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2024-25",
+         "pubDate" : "Sun, 27 Apr 2025 17:11:00",
+         "title" : "Bundesliga 2024-25 - Games and Results"
+      },
+      {
+         "description" : " Vasyl Ivanchuk scored 8/9 in the Menorca Open to win by half a point from Lu Shanglei and Murali Karthikeyan. Top seed Nihal Sarin over pressed and lost to Murali Karthikeyan who finished on 7.5 points in 3rd place on tie-break behind Lu Shanglei. More in the body of the article along with the final round game Pranesh-Ivanchuk annotated ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/vasyl-ivanchuk-wins-the-menorca-open-but-only-after-some-good-fortune-in-the-final-round",
+         "pubDate" : "Sun, 27 Apr 2025 16:28:00",
+         "title" : "Vasyl Ivanchuk wins the Menorca Open but only after some good fortune in the final round - 9"
+      },
+      {
          "description" : "ChessBase 18 offers great possibilities for analysing with several menu windows at the same time. Having been introduced to the practical options in the last tutorial, today you will learn about options that will take your analysis to a new level.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-11-multitasking-with-several-windows",
          "pubDate" : "Sun, 27 Apr 2025 16:00:00",
          "title" : "ChessBase 18 - Beginner's Tips Part 11: Multitasking with several windows"
-      },
-      {
-         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
-         "pubDate" : "Sun, 27 Apr 2025 13:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-icelandic-candidate-olafssons-saga/",
          "pubDate" : "Sat, 26 Apr 2025 11:05:37",
          "title" : "The Icelandic candidate: Olafsson's saga"
-      },
-      {
-         "description" : " The Bundesliga takes place Sat 28th Sep 2024 to Sun 27th Apr 2025. Duesseldorfer SK lead by three points over \tSC Viernheim going into the final three rounds held in Deggendorf. Duesseldorfer SK won the title with a round to spare and team sponsor Wadim Rosenstein played for them in Round 14. Duesseldorfer SK and SC Viernheim meet in round 15.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2024-25",
-         "pubDate" : "Sat, 26 Apr 2025 11:02:00",
-         "title" : "Bundesliga 2024-25 - Games and Results"
       },
       {
          "description" : "Montenegro Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate in the European Youth Chess Championship 2025 organized in Budva, Montenegro between 28th October (arrival day) - 8th November (departure day), 2025. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the []",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/obituaries/fridrik-olafsson-1935-2025",
          "pubDate" : "Mon, 7 Apr 2025 11:17:00",
          "title" : "Fridrik Olafsson 1935-2025 - "
-      },
-      {
-         "description" : " The Freestyle Grand Slam Paris takes place Mon 7th Apr to Mon 14th Apr 2025. Chess960 in Paris. Players: Carlsen, Nakamura, Gukesh, Erigaisi, Caruana, Abdusattorov, Praggnanandhaa, Nepomniachtchi, Rapport, Vachier-Lagrave, Vidit and Keymer play. Niemann withdrew at the last minute and was replaced by Abdusattorov. I can provide game downloads but can't display the games for this variant of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/freestyle-grand-slam-paris-2025",
-         "pubDate" : "Sun, 6 Apr 2025 16:37:00",
-         "title" : "Freestyle Grand Slam Paris 2025 - Games and Results"
       }
    ]
 }
