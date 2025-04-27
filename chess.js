@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 18 offers great possibilities for analysing with several menu windows at the same time. Having been introduced to the practical options in the last tutorial, today you will learn about options that will take your analysis to a new level.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-11-multitasking-with-several-windows",
+         "pubDate" : "Sun, 27 Apr 2025 16:00:00",
+         "title" : "ChessBase 18 - Beginner's Tips Part 11: Multitasking with several windows"
+      },
+      {
+         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
+         "pubDate" : "Sun, 27 Apr 2025 13:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
          "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Bundesliga finals in Deggendorf - live"
       },
       {
-         "description" : " Anndrea Ojijo, President of NCAT Chess Club Playing at the 2024 HBCU Chess Classic at Georgia Tech I'd love to get more people in chess&hellip; and getting more women into chess. ~Anndrea Ojijo Anndrea Ojijjo is an honors student at North Carolina A&#38;T (NCAT), aspiring to be a kinesiologist. She is the current president of The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/\">HBCU Chess Spotlight: Anndrea Ojijo (NCAT)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Anndrea Ojijo, President of NCAT Chess ClubPhotos by Daaim Shabazz/The Chess Drum Playing at the 2024 HBCU Chess Classic at Georgia Tech I'd love to get more people in chess&hellip; and getting more women into chess. ~Anndrea Ojijo Anndrea Ojijjo is an honors student at North Carolina A&#38;T (NCAT), aspiring to be a kinesiologist. She The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/\">HBCU Chess Spotlight: Anndrea Ojijo (NCAT)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/",
