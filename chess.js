@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "description" : "The rapid section of the Superbet Rapid & Blitz Poland tournament ended with Aravindh Chithambaram, Vladimir Fedoseev and Alireza Firouzja sharing the lead on 11 points. Held in Warsaw as the first event of the 2025 Grand Chess Tour, the competition now moves on to 18 rounds of blitz. Aravindh scored an important victory over Firouzja in a dramatic game that saw the latter losing on time. Levon Aronian, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave remain within reach of the leaders. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
-         "pubDate" : "Mon, 28 Apr 2025 13:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-3",
+         "pubDate" : "Mon, 28 Apr 2025 23:50:00",
+         "title" : "Superbet Poland: Aravindh joins leading trio, as Firouzja loses key game on time"
       },
       {
          "description" : "If it hadn't been for Viernheim's poor start to the season, the Bundesliga final in Deggendorf could have been a real thriller. But D&uuml;sseldorf won this year's Bundesliga with one round to spare, and the 4-4 draw between D&uuml;sseldorf and Viernheim in the final round was nothing to write home about. D&uuml;sseldorfer SK are the new German team champions. M&uuml;lheim Nord and Bad Mergenheim were relegated.",
@@ -50,12 +50,12 @@ news_feed (
          "title" : "Tang Denies Hat Trick For Bortnyk, Premoves To 10th Title"
       },
       {
-         "description" : "Vladimir Fedoseev and Alireza Firouzja are sharing the lead after two days of action at the Superbet Rapid & Blitz Poland tournament, the opening event of the 2025 Grand Chess Tour. The tournament has seen both frontrunners remain undefeated after six rounds of rapid play. Close behind are Aravindh Chithambaram, Levon Aronian, Jan-Krzysztof Duda and Bogdan-Daniel Deac, while Veselin Topalov sits at the bottom of the standings | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-2",
-         "pubDate" : "Sun, 27 Apr 2025 20:00:00",
-         "title" : "Superbet Poland: Firouzja catches Fedoseev, Topalov struggles"
+         "description" : "Editor's note: This story first appeared in the April 2025 issue of Chess Life magazine, and is re-published here with updates including more information about special guests and side events. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. SuperNationals VIII A long weekend of chess in the Florida springtime awaits at SuperNationals VIII, set for May 8-11 in Orlando, Florida.SuperNationals combines the national High School, Middle School, and Elementary School championships under one roof. <br> <br> <br> <br> Imag",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/inside-story-supernationals-viii-preview",
+         "pubDate" : "Mon, 28 Apr 2025 00:00:00",
+         "title" : "Inside Story: SuperNationals VIII Preview"
       },
       {
          "description" : " Charles Lindsey, Jr. and Breon McCray had a vision a few years ago at Hampton University. The Detroit natives decided to turn their passion for chess into an organization. The group's purpose was to gather like minds, refine analytical abilities, and engage in satisfying social interaction. Charles Lindsey, Jr., President of Hampton University Chess Club The post <a href=\"https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/\">HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -82,14 +82,6 @@ news_feed (
          "title" : "Vasyl Ivanchuk wins the Menorca Open but only after some good fortune in the final round - 9"
       },
       {
-         "description" : "ChessBase 18 offers great possibilities for analysing with several menu windows at the same time. Having been introduced to the practical options in the last tutorial, today you will learn about options that will take your analysis to a new level.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-11-multitasking-with-several-windows",
-         "pubDate" : "Sun, 27 Apr 2025 16:00:00",
-         "title" : "ChessBase 18 - Beginner's Tips Part 11: Multitasking with several windows"
-      },
-      {
          "description" : "The one and only GM Vasyl Ivanchuk capped off a brilliant comeback by winning the 4th Menorca Open with an unbeaten 8/9 score and an impressive 2833 performance. The 56-year-old secured his first major tournament victory since 2019, and with it, a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,36 +106,12 @@ news_feed (
          "title" : "IV Menorca Open 2025 - Games and Results"
       },
       {
-         "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-finals-in-deggendorf-live",
-         "pubDate" : "Sun, 27 Apr 2025 10:00:00",
-         "title" : "Bundesliga finals in Deggendorf - live"
-      },
-      {
          "description" : " Anndrea Ojijo, President of NCAT Chess ClubPhotos by Daaim Shabazz/The Chess Drum Playing at the 2024 HBCU Chess Classic at Georgia Tech I'd love to get more people in chess&hellip; and getting more women into chess. ~Anndrea Ojijo Anndrea Ojijjo is an honors student at North Carolina A&#38;T (NCAT), aspiring to be a kinesiologist. She The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/\">HBCU Chess Spotlight: Anndrea Ojijo (NCAT)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/",
          "pubDate" : "Sat, 26 Apr 2025 23:36:59",
          "title" : "HBCU Chess Spotlight: Anndrea Ojijo (NCAT)"
-      },
-      {
-         "description" : "The 2025 Grand Chess Tour got underway in Warsaw with the first three rounds of rapid play at the Superbet Rapid & Blitz Poland. Held at the Museum of the History of Polish Jews, the opening day saw Vladimir Fedoseev take the early lead with 5 points, followed closely by Alireza Firouzja and Praggnanandhaa Rameshbabu. Former FIDE world champion Veselin Topalov, one of the main attractions of the event, recovered from a slow start to end the day with a notable win. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-1",
-         "pubDate" : "Sat, 26 Apr 2025 22:50:00",
-         "title" : "Superbet Poland: Fedoseev leads after exciting first day of rapid action"
-      },
-      {
-         "description" : "This new interactive ChessBase video course by GM Fabien Libiszewski offers over eight hours of detailed instruction on the Pirc Defence, a dynamic opening for players seeking winning chances with black. Grandmaster Libiszewski guides viewers through key games and a complete repertoire, helping players grasp the main strategic ideas and counterplay opportunities. Suitable for both English and French speakers, the course also allows users to save games and variations for further study, making it a valuable addition to any ambitious player's training.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/libiszewski-master-pirc-defense",
-         "pubDate" : "Sat, 26 Apr 2025 19:00:00",
-         "title" : "Fabien Libiszewski: Master the Pirc Defense - A strategic and dynamic approach"
       },
       {
          "description" : " Samir Acharya2025 HBCU Chess Champion Samir Acharya won the 3rd HBCU Chess Classic with a perfect 5/5, leading Howard University to the team title for the second time in three years. The junior computer science major was the top seed going into the tournament and met expectations. Interestingly, Acharya mentioned that he had not made The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-samir-acharya-howard/\">HBCU Chess Spotlight: Samir Acharya (Howard)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -194,28 +162,12 @@ news_feed (
          "title" : "European Youth Chess Championship 2025 - Official invitation"
       },
       {
-         "description" : "We are thrilled to announce an exclusive live lecture with IGM Athanasios Mastrovasilis at KCF Academy on April 27. He will be focused on one of the most crucial and underappreciated aspects of chess mastery: defending tough and even lost positions. Come watch and learn!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-defend-difficult-and-lost-positions",
-         "pubDate" : "Fri, 25 Apr 2025 21:39:47",
-         "title" : "How to Defend Difficult and Lost Positions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2025/#new_tab",
          "pubDate" : "Fri, 25 Apr 2025 15:36:37",
          "title" : "NSCC Girls Finals 2025 - results"
-      },
-      {
-         "description" : "At the U.S. Championship in October 2024, Christopher Yoo-one of the greatest talents in U.S. chess-seriously damaged his career. After losing to Fabiano Caruana in round five, he struck a videographer from behind while leaving the venue. As a result, he was banned from the St. Louis Chess Club, faced a charge of fourth-degree assault, and was suspended by the USCF for one year. Yoo later publicly apologized, explaining that he had lost his temper after the defeat. He subsequently hired mental coach Ebru Ceylan. During the Grenke Open in Karlsruhe, Arne K&auml;hler took the opportunity to speak with her.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-ebru-ceylan-mental-coach",
-         "pubDate" : "Fri, 25 Apr 2025 13:07:32",
-         "title" : "Interview with Ebru Ceylan - Mental Coach"
       },
       {
          "description" : "GM Sina Movahed, a 14-year-old chess prodigy out of Iran (whose name seems to befit a chess player), won Freestyle Friday on April 25. For the first time in a month, only nine points were needed for victory, as Movahed won out on tiebreaks ahead o...",
@@ -248,14 +200,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-25th-to-27th-april-2025",
          "pubDate" : "Fri, 25 Apr 2025 10:38:00",
          "title" : "Chess this weekend - 25th to 27th April 2025 - "
-      },
-      {
-         "description" : "Looking for a very nice gift for a dear friend? Someone special who really love chess. Then the Rolls-Royce set is definitely something you should consider. It is magnificently designed, elegant as they come, and certainly something that will billionaires like yourself to play a game. Take a look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rolls-royce-chess-set",
-         "pubDate" : "Fri, 25 Apr 2025 10:00:00",
-         "title" : "The Rolls-Royce Chess Set"
       },
       {
          "description" : " The Chinese Team Championship takes place Fri 25th Apr to Sat 3rd May 2025 in Zhangjiakou, China. Players including Wang Yue, Li Chao B, Xu Xiangyu in the men's and Shen Yang and Ding Yixin in the women's. ",
@@ -776,14 +720,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2025-pan-american-juniors-championship-announced",
          "pubDate" : "Tue, 15 Apr 2025 00:00:00",
          "title" : "2025 Pan-American Juniors Championship Announced"
-      },
-      {
-         "description" : "After the first half of the match and a score of 4-2 in the favor of GM Ju Wenjun - the four-time defending FIDE Women's World Champion - the players had two days off to travel to the new host city for the second half of the match. After starting in Ju's home of Shanghai, the match moved roughly 1,000 miles to GM Tan Zhongyi's home of Chongqing. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> All photos courtesy of Anna Shtourman/FIDE<br> <br> <br> <br> The players may have had two days \"off,\" but we all know how flights can affect one's habits. While many think being home could play an important role in feeling comfortable and maybe regaining confiden",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/womens-world-championship-match-point",
-         "pubDate" : "Tue, 15 Apr 2025 00:00:00",
-         "title" : "Women's World Championship: Match Point"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120287156.cms\" />Magnus Carlsen triumphed at the Freestyle Chess Grand Slam in Paris, securing the title by defeating Hikaru Nakamura 1.5-0.5 in the final. Carlsen's dominant performance earned him the $200,000 first prize, solidifying his status in this innovative format. Fabiano Caruana claimed third place, edging out Vincent Keymer and securing a spot in the upcoming Grand Slam event in the USA.",
