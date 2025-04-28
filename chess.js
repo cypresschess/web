@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If it hadn't been for Viernheim's poor start to the season, the Bundesliga final in Deggendorf could have been a real thriller. But D&uuml;sseldorf won this year's Bundesliga with one round to spare, and the 4-4 draw between D&uuml;sseldorf and Viernheim in the final round was nothing to write home about. D&uuml;sseldorfer SK are the new German team champions. M&uuml;lheim Nord and Bad Mergenheim were relegated.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-duesseldorf-wins",
+         "pubDate" : "Mon, 28 Apr 2025 13:12:10",
+         "title" : "Bundesliga: D&uuml;sseldorf wins"
+      },
+      {
+         "description" : "When an inexperienced young person enters the gym hoping to build big muscles and an attractive body, there are two mistakes they often tend to commit. Firstly, they go weights far heavy for them. Secondly, they tend to focus on one particular body part (especially arms when it comes to boys), omitting the body core. However, the body core is essential.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-42-first-the-centre-then-the-attack",
+         "pubDate" : "Mon, 28 Apr 2025 09:33:42",
+         "title" : "The Winning Academy 42: First the Centre, then the Attack"
+      },
+      {
+         "description" : "GM Andrew Tang won his 10th Bullet Brawl title and the $400 first prize on Saturday after one of the quickest finishes in the event&#39;s history. A 17-game unbeaten streak at the tail-end of the arena helped him eclipse GM Oleksandr Bortnyk by eight ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-april-26-2025",
+         "pubDate" : "Mon, 28 Apr 2025 04:14:59",
+         "title" : "Tang Denies Hat Trick For Bortnyk, Premoves To 10th Title"
+      },
+      {
          "description" : "Vladimir Fedoseev and Alireza Firouzja are sharing the lead after two days of action at the Superbet Rapid & Blitz Poland tournament, the opening event of the 2025 Grand Chess Tour. The tournament has seen both frontrunners remain undefeated after six rounds of rapid play. Close behind are Aravindh Chithambaram, Levon Aronian, Jan-Krzysztof Duda and Bogdan-Daniel Deac, while Veselin Topalov sits at the bottom of the standings | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-2",
          "pubDate" : "Sun, 27 Apr 2025 12:36:00",
          "title" : "Firouzja Beats Praggnanandhaa To Catch Leader"
+      },
+      {
+         "description" : " The IV Menorca Open took place Tue 22nd Apr to Sun 27th Apr 2025. Players: Nihal Sarin, Sam Shankland, Volodar Murzin, Karthikeyan, Puranik, Pranav, Lu Shanglei. Vasyl Ivanchuk etc. Vasyl Ivanchuk won the event with 8/9 after surviving a scare in the final round against M Pranesh. Lu Shanglei and Murali Karthikeyan were half a point behind. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/iv-menorca-open-2025",
+         "pubDate" : "Sun, 27 Apr 2025 11:00:00",
+         "title" : "IV Menorca Open 2025 - Games and Results"
       },
       {
          "description" : "From Friday to Sunday, the teams from the Bundesliga and the Women's Bundesliga will play their final rounds together in Deggendorf. D&uuml;sseldorf and Bad K&ouml;nigshofen have the best chances of winning the championship. The question of relegation is still open. Live here: Friday from 16.00 CEST, Saturday from 14.00, Sunday from 10.00.",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2025",
          "pubDate" : "Fri, 25 Apr 2025 11:51:00",
          "title" : "Superbet Poland Rapid & Blitz 2025 - Games and Results"
-      },
-      {
-         "description" : " The IV Menorca Open takes place Tue 22nd Apr to Sun 27th Apr 2025. Players: Nihal Sarin, Sam Shankland, Volodar Murzin, Karthikeyan, Puranik, Pranav, Lu Shanglei. Vasyl Ivanchuk etc. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/iv-menorca-open-2025",
-         "pubDate" : "Fri, 25 Apr 2025 11:00:00",
-         "title" : "IV Menorca Open 2025 - Games and Results"
       },
       {
          "description" : " The Grand Chess Tour kicks off with the <a href=\"https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2025\">Superbet Poland Rapid & Blitz</a> starting on Saturday at 1pm BST. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. The final weekend of the <a href=\"https://theweekinchess.com/chessnews/events/bundesliga-2024-25\">German Bundesliga</a> takes place in Deggendorf Friday 25th to Sunday 27th April. Duesseldorfer SK take a three point lead over SC Viernheim into these final three matches. They do meet in the final round 15 of the season on Sunday but the title will likely be settled by then. The relegation ",
@@ -626,14 +650,6 @@ news_feed (
          "title" : "European Universities Chess Championship 2025"
       },
       {
-         "description" : "UPDATE: Voting is now closed, and the winning variant is King of the Hill! The Chess.com Community Championships are more than just a series of tournaments. It&#39;s a celebration of chess enthusiasts coming together to connect, compete, and have fu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vote-for-may-chesscom-community-championships-variant",
-         "pubDate" : "Thu, 17 Apr 2025 08:00:00",
-         "title" : "Vote For The Next Variant Of The Chess.com Community Championships"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120364918.cms\" />K Humpy showcased her experience and skill, defeating overnight leader Divya Deshmukh in a five-hour match at the FIDE Women's Grand Prix. This victory, coupled with Zhu Jiner's draw, allowed the Chinese player to take the sole lead. Meanwhile, D Harika secured her first win, contributing to a positive day for the Indian contingent.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-team-chess-championships-2/",
          "pubDate" : "Tue, 08 Apr 2025 07:02:45",
          "title" : "European Senior Team Chess Championships"
-      },
-      {
-         "description" : " Fridrik Olafsson 26 January 1935 to 6 April 2025 was the first Icelandic GM and Candidate after finishing tied 5th-6th in the 1958 Interzonal. He was an amateur player at the time and went on to finish 7th of 8th in the 1959 Candidates in Bled, Zagreb, and Belgrade. Olafsson continued to be an active player almost his entire life. His 3rd place in the first Piatigorsky Cup in 1963 was probably his best result. He turned professional in 1974. He became FIDE president in 1978 but lost after one term in 1982 when the Soviet Union decided to support his deputy Florencio Campomanes. <a href=\"https://www.europechess.org/in-memoriam-fridrik-olafsson-1935-2025/\">News of Olafsson's passing from the ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/obituaries/fridrik-olafsson-1935-2025",
-         "pubDate" : "Mon, 7 Apr 2025 11:17:00",
-         "title" : "Fridrik Olafsson 1935-2025 - "
       }
    ]
 }
