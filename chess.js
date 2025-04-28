@@ -10,7 +10,7 @@ news_feed (
          "title" : "Superbet Poland: Firouzja catches Fedoseev, Topalov struggles"
       },
       {
-         "description" : " Charles Lindsey, Jr. and Breon McCray had a vision a few years ago at Hampton University. The Detroit natives decided to turn their passion for chess into an organization. The group's purpose was to gather like minds, refine analytical abilities, and engage in satisfying social interaction. Lindsay is a graduating senior and, along with McCray, The post <a href=\"https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/\">HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Charles Lindsey, Jr. and Breon McCray had a vision a few years ago at Hampton University. The Detroit natives decided to turn their passion for chess into an organization. The group's purpose was to gather like minds, refine analytical abilities, and engage in satisfying social interaction. Charles Lindsey, Jr., President of Hampton University Chess Club The post <a href=\"https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/\">HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/",
