@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
+         "pubDate" : "Mon, 28 Apr 2025 13:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
          "description" : "If it hadn't been for Viernheim's poor start to the season, the Bundesliga final in Deggendorf could have been a real thriller. But D&uuml;sseldorf won this year's Bundesliga with one round to spare, and the 4-4 draw between D&uuml;sseldorf and Viernheim in the final round was nothing to write home about. D&uuml;sseldorfer SK are the new German team champions. M&uuml;lheim Nord and Bad Mergenheim were relegated.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +26,11 @@ news_feed (
          "title" : "The Winning Academy 42: First the Centre, then the Attack"
       },
       {
-         "description" : "GM Andrew Tang won his 10th Bullet Brawl title and the $400 first prize on Saturday after one of the quickest finishes in the event&#39;s history. A 17-game unbeaten streak at the tail-end of the arena helped him eclipse GM Oleksandr Bortnyk by eight ...",
+         "description" : "GM Andrew Tang won his 10th Bullet Brawl title and the $400 first prize on Saturday after one of the quickest finishes in the event&#39;s history. A 17-game unbeaten streak at the tail end of the arena helped him eclipse GM Oleksandr Bortnyk by eight ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-april-26-2025",
-         "pubDate" : "Mon, 28 Apr 2025 04:14:59",
+         "pubDate" : "Mon, 28 Apr 2025 04:14:00",
          "title" : "Tang Denies Hat Trick For Bortnyk, Premoves To 10th Title"
       },
       {
@@ -250,7 +258,7 @@ news_feed (
          "title" : "Third IM Norm for Alex Golding and Sohum Lohia at the Southend Masters 2025"
       },
       {
-         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated Mark Taimanov and Bent Larsen by 6-0 in the 1971 ­Candidates. Anatoly Karpov ­triumphed at Linares 1994 with an 11-2 total, while further back the yardstick performance was ­Alexander ­",
+         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated Mark Taimanov and Bent Larsen by 6-0 in the 1971 Candidates. Anatoly Karpov triumphed at Linares 1994 with an 11-2 total, while further back the yardstick performance was Alexander Alek",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
