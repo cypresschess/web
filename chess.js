@@ -18,12 +18,28 @@ news_feed (
          "title" : "Bundesliga: D&uuml;sseldorf wins"
       },
       {
+         "description" : "GM Alireza Firouzja lost on time just when he seemed to have escaped against GM Aravindh Chithambaram and was set to be the sole leader of the 2025 Superbet Rapid &#38;amp; Blitz Poland going into the 18 rounds of blitz. Instead he was caught by Aravi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-3",
+         "pubDate" : "Mon, 28 Apr 2025 10:18:00",
+         "title" : "Firouzja Flags Vs. Aravindh, Misses Out On Winning Rapid"
+      },
+      {
          "description" : "When an inexperienced young person enters the gym hoping to build big muscles and an attractive body, there are two mistakes they often tend to commit. Firstly, they go weights far heavy for them. Secondly, they tend to focus on one particular body part (especially arms when it comes to boys), omitting the body core. However, the body core is essential.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-winning-academy-42-first-the-centre-then-the-attack",
          "pubDate" : "Mon, 28 Apr 2025 09:33:42",
          "title" : "The Winning Academy 42: First the Centre, then the Attack"
+      },
+      {
+         "description" : "PogChamps 6 is about to start! Soon, 12 celebrities will come together to compete for the title of PogChampion, a piece of the $100,000 prize fund, and bragging rights! To celebrate the sixth edition of everyone&#39;s favorite amateur tournament, Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/twitch-drops-pogchamps-6",
+         "pubDate" : "Mon, 28 Apr 2025 09:00:00",
+         "title" : "Watch PogChamps 6 To Earn 14 Days Of Chess.com Premium Free"
       },
       {
          "description" : "GM Andrew Tang won his 10th Bullet Brawl title and the $400 first prize on Saturday after one of the quickest finishes in the event&#39;s history. A 17-game unbeaten streak at the tail end of the arena helped him eclipse GM Oleksandr Bortnyk by eight ...",
@@ -326,7 +342,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2025-chesskid-youth-championships",
-         "pubDate" : "Wed, 23 Apr 2025 12:01:28",
+         "pubDate" : "Wed, 23 Apr 2025 12:01:00",
          "title" : "ChessKid Youth Championship To Start May 3 With Strongest Prodigies In The World"
       },
       {
@@ -616,22 +632,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/ethan-guo-double-medals-siddharth-singh-earns-bronze-2025-fide-world-cadets-youth-rapid-blitz",
          "pubDate" : "Fri, 18 Apr 2025 00:00:00",
          "title" : "Ethan Guo Double-Medals, Siddharth Singh Earns Bronze at 2025 FIDE World Cadets & Youth Rapid & Blitz"
-      },
-      {
-         "description" : "There were no upsets on the top boards after round one of the&#38;nbsp;Grenke Chess Freestyle Open. The closest we came to an upset (even a draw) was in the games GM Fabiano Caruana vs. CM Carlos Hauser and FM Matthias Bach vs. GM Levon Aronian. But, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-1",
-         "pubDate" : "Thu, 17 Apr 2025 16:50:00",
-         "title" : "No Surprises: Carlsen, Arjun, Caruana Start With Wins"
-      },
-      {
-         "description" : "GM Zhu Jiner beat IM Alina Kashlinskaya in round four to retain the sole lead in the 2025 Pune FIDE Women&#39;s Grand Prix on 3.5/4. Just half a point back are local heroes GM Humpy Koneru and IM Divya Deshmukh, who picked up wins against IMs Polina S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-4",
-         "pubDate" : "Thu, 17 Apr 2025 12:57:00",
-         "title" : "Zhu Wins Again As Humpy, Divya Stay In Hunt"
       },
       {
          "description" : "Garry Kasparov and Anatoly Karpov played five matches for the world championship. The fourth match was played in Seville in 1987. After 23 games, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. The final game was adjourned after five hours of play, to be resumed the next day. The sealed position is the subject of this article.",
