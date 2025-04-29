@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At just 17, Eman Sawan is already a prominent name in Arab and international chess. A Woman FIDE Master and multiple champion of youth categories, her talent, passion and resilience have led her to shine even in the most adverse circumstances. From Palestine to the most demanding tournaments in the world, Eman plays not only for her dreams, but also for the hope of an entire people. Discover her inspiring story.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eman-sawan-interview-2025",
+         "pubDate" : "Tue, 29 Apr 2025 07:20:56",
+         "title" : "Eman Sawan: Talent, passion and hope"
+      },
+      {
          "description" : "The rapid section of the Superbet Rapid & Blitz Poland tournament ended with Aravindh Chithambaram, Vladimir Fedoseev and Alireza Firouzja sharing the lead on 11 points. Held in Warsaw as the first event of the 2025 Grand Chess Tour, the competition now moves on to 18 rounds of blitz. Aravindh scored an important victory over Firouzja in a dramatic game that saw the latter losing on time. Levon Aronian, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave remain within reach of the leaders. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-room-full-of-grandmasters-put-an-end-to-fide-vs-freestyle-chess-row/articleshow/120122985.cms",
          "pubDate" : "Wed, 09 Apr 2025 09:54:19",
          "title" : "How room full of GMs put an end to FIDE vs Freestyle Chess row"
-      },
-      {
-         "description" : "&#8212; from Chris Baker ( a fuller report will appear in ChessMoves for April) Held in Swidnica 4th April to 14th April 2025 featuring 50+ and 65+ teams. This is...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-senior-team-chess-championships-2/",
-         "pubDate" : "Tue, 08 Apr 2025 07:02:45",
-         "title" : "European Senior Team Chess Championships"
       }
    ]
 }
