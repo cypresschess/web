@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vasyl Ivanchuk may be approaching 60, but he still enjoys chess and is currently enjoying his (at least) third chess renaissance. He recently went on a run of almost 30 games without defeat and won the Menorca Open. | Photo: Federico Marin Bellon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vasyl-ivanchuk-wins-menorca-open",
+         "pubDate" : "Tue, 29 Apr 2025 11:00:00",
+         "title" : "Vasyl Ivanchuk wins Menorca Open"
+      },
+      {
+         "description" : "Special Note: If a player has only one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-junior-girls-chess-championship-2025-in-colombo-kaluthara-srilanka-from-04-12-june-2025/",
+         "pubDate" : "Tue, 29 Apr 2025 09:48:04",
+         "title" : "Western Asian Junior/ Girls Chess Championship - 2025 in Colombo, Kaluthara , Srilanka from 04-12 June 2025"
+      },
+      {
+         "description" : "Please find the list of participants appeared successfully in AICF Refresher Course 2025-26 International Arbiter Fide Arbiter Senior National Arbiter For any query write back",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-refresher-course-2025-26/",
+         "pubDate" : "Tue, 29 Apr 2025 07:55:04",
+         "title" : "AICF Refresher Course 2025-26"
+      },
+      {
          "description" : "At just 17, Eman Sawan is already a prominent name in Arab and international chess. A Woman FIDE Master and multiple champion of youth categories, her talent, passion and resilience have led her to shine even in the most adverse circumstances. From Palestine to the most demanding tournaments in the world, Eman plays not only for her dreams, but also for the hope of an entire people. Discover her inspiring story.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
