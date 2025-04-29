@@ -18,6 +18,14 @@ news_feed (
          "title" : "Master Class Band 18: Max Euwe"
       },
       {
+         "description" : "GM Vladimir Fedoseev leads the 2025 Superbet Rapid &#38;amp; Blitz Poland by nearly four points going into the final day. After previously making six draws to end the rapid portion, he nearly &#34;pulled a Magnus&#34; on the first day of blitz by scoring a re...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-4",
+         "pubDate" : "Tue, 29 Apr 2025 14:35:00",
+         "title" : "Fedoseev Bursts Out To 3.5-Point Lead Ahead Of Final Day"
+      },
+      {
          "description" : " Harper Jackson with Dr. Daaim Shabazz at HBCU Chess Classic at Morehouse's King Chapel.Photo by Daaim Shabazz/The Chess Drum Harper Jackson of Morehouse College led his team to a third-place finish in the 3rd HBCU Chess Classic. Jackson, a Detroit native, got his start under Kevin Fite while at Bates Academy. Fite, the legendary chess The post <a href=\"https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/\">HBCU Spotlight: Harper Jackson (Morehouse)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
          "pubDate" : "Fri, 18 Apr 2025 16:54:00",
          "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
-      },
-      {
-         "description" : "14 players are on a perfect score after three rounds in the Grenke Chess Freestyle Open. On a day of upsets, several pre-tournament favorites lost: GM Aravindh Chithambaram (against GM Maciej Klekowski), GM Maxime Vachier-Lagrave (against Slovak I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-2",
-         "pubDate" : "Fri, 18 Apr 2025 14:04:00",
-         "title" : "Carlsen On Perfect 3/3 As Favorites Drop Around Him"
       },
       {
          "description" : " The world No 1 defeated his old rival and world No 2, Hikaru Nakamura, in the final, and took the $3.75m series lead before the third Slam event in Las Vegas Magnus Carlsen, the world No 1, scored a low-key triumph on Monday when he won the Paris leg of the $3.75m Freestyle Grand Slam by defeating his old rival and world No 2, USA's Hikaru Nakamura, by 1.5-0.5 in the final. It was patient attrition over the two games, worthy of a place in the Carlsen-David Howell book Grind like a Grandmaster. The decisive first game had some technical errors, which the Norwegian described almost apologetically in his <a href=\"https://www.youtube.com/watch?v=Rtd647yuXg4&amp;t=3s\">post-game interview</a>. Th",
