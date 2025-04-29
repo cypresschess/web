@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Chris Ward introduces a fresh and evolving variation in the Sicilian Dragon, humorously dubbed the \"Accelerated Dragadorf\", which merges dragon setups with thematic ideas from the Najdorf. He analyzes a complex game featuring this system, highlighting tactical motifs, a strong bishop on e5, and a dominant performance by young Vietnamese IM Dau Khuong Duy. The second part covers a clean positional win in a more traditional Dragon, culminating in a delightful rook endgame puzzle, followed by Chris sharing personal insights on his early use of chess engines like Fritz. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-deep-diving-with-a-new-dragadorf",
+         "pubDate" : "Tue, 29 Apr 2025 18:00:00",
+         "title" : "The Monthly Dragon - Deep Diving with a new Dragadorf!"
+      },
+      {
+         "description" : "Max Euwe became the fifth World Chess Champion after beating Alexander Alekhine in the 1935 World Championship match. A maths teacher by profession, Euwe remained an amateur throughout his life, but was still the best chess player in the Netherlands, and one of the world's best players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-class-band-18-max-euwe",
+         "pubDate" : "Tue, 29 Apr 2025 15:00:00",
+         "title" : "Master Class Band 18: Max Euwe"
+      },
+      {
+         "description" : " Harper Jackson with Dr. Daaim Shabazz at HBCU Chess Classic at Morehouse's King Chapel.Photo by Daaim Shabazz/The Chess Drum Harper Jackson of Morehouse College led his team to a third-place finish in the 3rd HBCU Chess Classic. Jackson, a Detroit native, got his start under Kevin Fite while at Bates Academy. Fite, the legendary chess The post <a href=\"https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/\">HBCU Spotlight: Harper Jackson (Morehouse)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/",
+         "pubDate" : "Tue, 29 Apr 2025 14:24:07",
+         "title" : "HBCU Spotlight: Harper Jackson (Morehouse)"
+      },
+      {
+         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
+         "pubDate" : "Tue, 29 Apr 2025 13:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
          "description" : "Vasyl Ivanchuk may be approaching 60, but he still enjoys chess and is currently enjoying his (at least) third chess renaissance. He recently went on a run of almost 30 games without defeat and won the Menorca Open. | Photo: Federico Marin Bellon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eman-sawan-interview-2025",
          "pubDate" : "Tue, 29 Apr 2025 07:20:56",
          "title" : "Eman Sawan: Talent, passion and hope"
+      },
+      {
+         "description" : "Twenty-year-old Thalia from Chester, United Kingdom, won BBC&#39;s Chess Masters: The Endgame after beating Richie (63, Liverpool) in the eighth and final episode aired on Monday. The first episode of Chess Masters attracted just under 1.2 million vie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/thalia-wins-bbc-chess-masters-the-endgame-2025",
+         "pubDate" : "Tue, 29 Apr 2025 04:51:00",
+         "title" : "Thalia Clinches Trophy In BBC's 'Chess Masters' Final Episode"
       },
       {
          "description" : "The rapid section of the Superbet Rapid & Blitz Poland tournament ended with Aravindh Chithambaram, Vladimir Fedoseev and Alireza Firouzja sharing the lead on 11 points. Held in Warsaw as the first event of the 2025 Grand Chess Tour, the competition now moves on to 18 rounds of blitz. Aravindh scored an important victory over Firouzja in a dramatic game that saw the latter losing on time. Levon Aronian, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave remain within reach of the leaders. | Photo: Lennart Ootes",
@@ -576,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-2",
          "pubDate" : "Fri, 18 Apr 2025 14:04:00",
          "title" : "Carlsen On Perfect 3/3 As Favorites Drop Around Him"
-      },
-      {
-         "description" : "GM Vaishali Rameshbabu beat IM Batkhuyag Munguntuul to score the only win of round five of the 2025 Pune FIDE Women&#39;s Grand Prix, but we were a move or two away from seeing leader GM&#38;nbsp;Zhu Jiner toppled. The Chinese star was hit by a fine queen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-5",
-         "pubDate" : "Fri, 18 Apr 2025 11:13:45",
-         "title" : "Vaishali Scores 1st Win, Zhu Survives Salimova's Queen Sac"
       },
       {
          "description" : " The world No 1 defeated his old rival and world No 2, Hikaru Nakamura, in the final, and took the $3.75m series lead before the third Slam event in Las Vegas Magnus Carlsen, the world No 1, scored a low-key triumph on Monday when he won the Paris leg of the $3.75m Freestyle Grand Slam by defeating his old rival and world No 2, USA's Hikaru Nakamura, by 1.5-0.5 in the final. It was patient attrition over the two games, worthy of a place in the Carlsen-David Howell book Grind like a Grandmaster. The decisive first game had some technical errors, which the Norwegian described almost apologetically in his <a href=\"https://www.youtube.com/watch?v=Rtd647yuXg4&amp;t=3s\">post-game interview</a>. Th",
