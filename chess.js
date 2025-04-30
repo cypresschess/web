@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
+         "pubDate" : "Wed, 30 Apr 2025 11:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-championships-2025/",
+         "pubDate" : "Wed, 30 Apr 2025 10:47:20",
+         "title" : "English Seniors 2025 - Results and Champions!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120761338.cms\" />Indian Grandmaster R Praggnanandhaa showcased resilience at the Superbet Rapid & Blitz tournament, climbing to second place after a strong showing in the blitz section. Despite a shaky start, Praggnanandhaa secured three consecutive wins, demonstrating his expertise in the fast-paced format. Vladimir Fedoseev of Slovenia dominated the day, leading with a significant 3.5-point margin.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-blitz-chess-r-praggnanandhaa-fights-back-to-claim-second-place/articleshow/120761338.cms",
+         "pubDate" : "Wed, 30 Apr 2025 09:55:43",
+         "title" : "Superbet Blitz Chess: R Praggnanandhaa fights back to claim second place"
+      },
+      {
+         "description" : "We're looking for a part-time administrator to help with our office member support activities. This will initially be&#160;a temporary appointment, but is&#160;expected to become a longer-term&#160;staff role&#160;subject to a successful...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/part-time-administrator-for-ecf-office-work-from-home/",
+         "pubDate" : "Wed, 30 Apr 2025 08:22:33",
+         "title" : "Part-Time Administrator for ECF Office (Work from Home)"
+      },
+      {
          "description" : "Vladimir Fedoseev has taken a commanding lead at the Superbet Rapid & Blitz Poland tournament after scoring 8 out of 9 points in the first day of blitz. The Slovenian grandmaster now stands 3&frac12; points ahead of the field with nine rounds left to play on Wednesday. Praggnanandhaa Rameshbabu sits in sole second place despite a shaky start to the day, while Levon Aronian, Maxime Vachier-Lagrave and Aravindh Chithambaram remain in close contention for a top finish. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-poland-2025-4",
          "pubDate" : "Wed, 30 Apr 2025 08:10:00",
          "title" : "Superbet Poland: Fedoseev scores 8/9 on the first day of blitz"
+      },
+      {
+         "description" : "Please find the live link here link : live.kottayamchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-gods-own-countrys-1st-gm-international-open-2025-to-be-held-in-kottayam-kerala-from-30-april-07-may-2025/",
+         "pubDate" : "Wed, 30 Apr 2025 08:02:07",
+         "title" : "Live link for God's Own Country's 1st GM International Open 2025 - to be held in Kottayam, Kerala, from 30 April - 07 May 2025"
       },
       {
          "description" : "The second quarterly meeting of the Board of the European Chess Union took place on Friday 25 April in Pristina, Kosovo. The meeting was hosted by the Chess Federation of Kosovo with excellent hospitality. Main information and decisions: European Chess Championships Board activities and meetings Following the Board meeting, ECU representatives inspected the venue for the 2025 European Rapid and Blitz Chess Championship. The Emerald Hotel Congress Centre, offering 2,500 m ² of space, was deemed highly suitable. The championship, which []",
@@ -30,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-6-day-1",
-         "pubDate" : "Tue, 29 Apr 2025 17:31:57",
+         "pubDate" : "Tue, 29 Apr 2025 17:31:00",
          "title" : "Blunders, Pizza, And Drama: Sambucha, Ebere, Inoxtag Make It To Championship Bracket"
       },
       {
@@ -960,14 +1000,6 @@ news_feed (
          "link" : "https://aicf.in/certificate-of-national-rapid-blitz-in-jharkhand-from-20-23-march-2025/",
          "pubDate" : "Wed, 09 Apr 2025 14:45:52",
          "title" : "Certificate of National Rapid & Blitz in Jharkhand from 20-23 March 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120122985.cms\" />Viswanathan Anand's withdrawal from the Freestyle Chess Grand Slam in Germany dealt a major blow to hopes of reconciliation between FIDE and Freestyle Chess. Tensions escalated after a dress code dispute involving Magnus Carlsen, with Anand enforcing FIDE rules. Despite backchannel talks, Freestyle players ultimately chose to crown their own \"Freestyle Chess Champion,\" sidelining FIDE's authority.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-a-room-full-of-grandmasters-put-an-end-to-fide-vs-freestyle-chess-row/articleshow/120122985.cms",
-         "pubDate" : "Wed, 09 Apr 2025 09:54:19",
-         "title" : "How room full of GMs put an end to FIDE vs Freestyle Chess row"
       }
    ]
 }
