@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Alongside the Baku Open was a three day Battle of the Champions event which took place Mon 28th Apr to Wed 30th Apr 2025. Rauf Mamedov beat Rustam Kasimdzhanov 4-2 in the rapid but lost 6-4 in the blitz. Gunay Mammadzada beat Antoaneta Stefanova 3.5-2.5 in the rapid and they tied the bltiz 5-5.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/battle-of-the-champions-2025",
+         "pubDate" : "Wed, 30 Apr 2025 17:54:00",
+         "title" : "Battle of the Champions 2025 - Games and Results"
+      },
+      {
          "description" : "The Czech Chess Federation announced yesterday on its website the death of Czech grandmaster Petr Neuman (11 March 1978 - 29 April 2025). The Czech Chess Federation describes Petr Neuman, who became a grandmaster in 2013, as one of the country's most active players. Last weekend, Neuman was still playing for his German club Bad Mergentheim in the Bundesliga. | Photo: Czech Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-blitz-chess-r-praggnanandhaa-fights-back-to-claim-second-place/articleshow/120761338.cms",
          "pubDate" : "Wed, 30 Apr 2025 09:55:43",
          "title" : "Superbet Blitz Chess: R Praggnanandhaa fights back to claim second place"
+      },
+      {
+         "description" : "GM Vladimir Fedoseev has won the 2025 Superbet Rapid &#38;amp; Blitz Poland with three rounds to spare and ultimately finished with 26.5 points, one of the highest scores ever in Grand Chess Tour rapid and blitz events. He takes home $40,000. The Su...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-wins-2025-superbet-poland-rapid-blitz-day-5",
+         "pubDate" : "Wed, 30 Apr 2025 08:41:00",
+         "title" : "Fedoseev Wins With 3 Rounds To Spare"
+      },
+      {
+         "description" : "There was no shortage of name recognition atop this week&#39;s Titled Tuesday standings, with GMs Hikaru Nakamura&#38;nbsp;and Hans Niemann claiming victory on April 29. Both won without the need of tiebreaks and without losing a single game, although Nak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-niemann-win-titled-tuesday-april-29-2025",
+         "pubDate" : "Wed, 30 Apr 2025 08:36:00",
+         "title" : "Nakamura, Niemann Take Turns Taking Titled Tuesday"
       },
       {
          "description" : "We're looking for a part-time administrator to help with our office member support activities. This will initially be&#160;a temporary appointment, but is&#160;expected to become a longer-term&#160;staff role&#160;subject to a successful...",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-courses",
          "pubDate" : "Wed, 30 Apr 2025 06:00:00",
          "title" : "Improve 4.6 Times Faster With Chesscom's New Courses Feature"
+      },
+      {
+         "description" : "This week's exercises come from the 2025 Grenke Chess Festival, which featured a large Freestyle component that attracted many top grandmasters. American GM Brandon Jacobson tied for first in the classical Open, and a few of his highlights are included here. More coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-grenke-festival-freestyle",
+         "pubDate" : "Wed, 30 Apr 2025 00:00:00",
+         "title" : "Wednesday Workout: Grenke Festival + Freestyle"
       },
       {
          "description" : "GM Chris Ward introduces a fresh and evolving variation in the Sicilian Dragon, humorously dubbed the \"Accelerated Dragadorf\", which merges dragon setups with thematic ideas from the Najdorf. He analyzes a complex game featuring this system, highlighting tactical motifs, a strong bishop on e5, and a dominant performance by young Vietnamese IM Dau Khuong Duy. The second part covers a clean positional win in a more traditional Dragon, culminating in a delightful rook endgame puzzle, followed by Chris sharing personal insights on his early use of chess engines like Fritz. | Photo: John Upham",
@@ -144,6 +176,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/thalia-wins-bbc-chess-masters-the-endgame-2025",
          "pubDate" : "Tue, 29 Apr 2025 04:51:00",
          "title" : "Thalia Clinches Trophy In BBC's 'Chess Masters' Final Episode"
+      },
+      {
+         "description" : "This week's exercises come from the 2025 Grenke Chess Festival, which featured a large Freestyle component that attracted many top grandmasters. More coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-grenke-festival-freestyle",
+         "pubDate" : "Tue, 29 Apr 2025 00:00:00",
+         "title" : "Tactics Tuesday: Grenke Festival + Freestyle"
       },
       {
          "description" : "GM Alireza Firouzja lost on time just when he seemed to have escaped against GM Aravindh Chithambaram and was set to be the sole leader of the 2025 Superbet Rapid &#38;amp; Blitz Poland going into the 18 rounds of blitz. Instead he was caught by Aravi...",
@@ -578,28 +618,12 @@ news_feed (
          "title" : "Carlsen Perfect After 7 Rounds, Leads By Full Point"
       },
       {
-         "description" : "GM Zhu Jiner won a fourth game in six rounds of the 2025 Pune FIDE Women&#39;s Grand Prix, beating GM Vaishali Rameshbabu to retain the sole lead and climb above GM Tan Zhongyi to world number-five on the FIDE women&#39;s rating list. GM Humpy Koneru is s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-6",
-         "pubDate" : "Sun, 20 Apr 2025 12:55:00",
-         "title" : "Zhu, Humpy Win Again In 2-Horse Race"
-      },
-      {
          "description" : " Howard University came to the 2025 HBCU Chess Classic to reclaim the trophy they won at the inaugural event in 2023. In last year's event, Howard failed to take the top prize in both the team and individual categories, settling for silver in the team category and bronze in the individual category. By Bison standards, The post <a href=\"https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/\">Howard University dominates 3rd HBCU Chess Classic!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/",
          "pubDate" : "Sat, 19 Apr 2025 19:26:32",
          "title" : "Howard University dominates 3rd HBCU Chess Classic!"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk rocketed to a second-straight Bullet Brawl victory and won the $400 first prize after outpacing 140 titled players during Saturday&#39;s event. Bortnyk&#39;s 65.5/74 gave him a score of 233, 34 points higher than the second-placed IM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-april-19-2025",
-         "pubDate" : "Sat, 19 Apr 2025 16:38:00",
-         "title" : "Bortnyk Doubles Down On Bullet Brawl, Wins By 34-Point Margin"
       },
       {
          "description" : "In a recent podcast with GM Avetik Grigoryan, founder and CEO of ChessMood, he called me the most disciplined person he knows. I laughed. Because honestly? I see myself as a very undisciplined person. I struggle to eat healthy when I have sweets at home. I struggle to work when I don't write a clear []",
@@ -792,22 +816,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2025",
          "pubDate" : "Tue, 15 Apr 2025 13:56:00",
          "title" : "Reykjavik Open 2025 - Games and Results"
-      },
-      {
-         "description" : "This week's puzzles come from the 2025 KCF All-Girls National Chess Championship, focusing on the games of the Under-14 and Under-18 winners. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-kcf-all-girls",
-         "pubDate" : "Tue, 15 Apr 2025 00:00:00",
-         "title" : "Tactics Tuesday: KCF All-Girls"
-      },
-      {
-         "description" : "Registration is now open for the 2025 Pan-American Juniors Championship, which will be held June 13-20, 2025 at CEMINA Centro Militar Naval y Aeron&aacute;utico in Asuncion, Paraguay.The age categories for the 2025 Pan-American Juniors Championship are Open Under 20 and Girls Under 20. This event is open to players from any American country.Each section is a 9-round Swiss tournament with a time control of 90 minutes plus 30-second increment per move. Round one begins on June 13.Medals, as well as direct FIDE titles and norms, are awarded to the top three players in each section.RegistrationPlease note: Registration must be completed directly with the event organizers, not with US Chess.Playe",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-pan-american-juniors-championship-announced",
-         "pubDate" : "Tue, 15 Apr 2025 00:00:00",
-         "title" : "2025 Pan-American Juniors Championship Announced"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120287156.cms\" />Magnus Carlsen triumphed at the Freestyle Chess Grand Slam in Paris, securing the title by defeating Hikaru Nakamura 1.5-0.5 in the final. Carlsen's dominant performance earned him the $200,000 first prize, solidifying his status in this innovative format. Fabiano Caruana claimed third place, edging out Vincent Keymer and securing a spot in the upcoming Grand Slam event in the USA.",
