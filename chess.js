@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Fedoseev has taken a commanding lead at the Superbet Rapid & Blitz Poland tournament after scoring 8 out of 9 points in the first day of blitz. The Slovenian grandmaster now stands 3&frac12; points ahead of the field with nine rounds left to play on Wednesday. Praggnanandhaa Rameshbabu sits in sole second place despite a shaky start to the day, while Levon Aronian, Maxime Vachier-Lagrave and Aravindh Chithambaram remain in close contention for a top finish. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-4",
+         "pubDate" : "Wed, 30 Apr 2025 08:10:00",
+         "title" : "Superbet Poland: Fedoseev scores 8/9 on the first day of blitz"
+      },
+      {
+         "description" : "The second quarterly meeting of the Board of the European Chess Union took place on Friday 25 April in Pristina, Kosovo. The meeting was hosted by the Chess Federation of Kosovo with excellent hospitality. Main information and decisions: European Chess Championships Board activities and meetings Following the Board meeting, ECU representatives inspected the venue for the 2025 European Rapid and Blitz Chess Championship. The Emerald Hotel Congress Centre, offering 2,500 m ² of space, was deemed highly suitable. The championship, which []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-pristina/",
+         "pubDate" : "Wed, 30 Apr 2025 06:55:36",
+         "title" : "Communique of the ECU Board Meeting in Pristina"
+      },
+      {
          "description" : "GM Chris Ward introduces a fresh and evolving variation in the Sicilian Dragon, humorously dubbed the \"Accelerated Dragadorf\", which merges dragon setups with thematic ideas from the Najdorf. He analyzes a complex game featuring this system, highlighting tactical motifs, a strong bishop on e5, and a dominant performance by young Vietnamese IM Dau Khuong Duy. The second part covers a clean positional win in a more traditional Dragon, culminating in a delightful rook endgame puzzle, followed by Chris sharing personal insights on his early use of chess engines like Fritz. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "HBCU Spotlight: Harper Jackson (Morehouse)"
       },
       {
-         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
-         "pubDate" : "Tue, 29 Apr 2025 13:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
-      },
-      {
          "description" : "Vasyl Ivanchuk may be approaching 60, but he still enjoys chess and is currently enjoying his (at least) third chess renaissance. He recently went on a run of almost 30 games without defeat and won the Menorca Open. | Photo: Federico Marin Bellon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,14 +82,6 @@ news_feed (
          "title" : "AICF Refresher Course 2025-26"
       },
       {
-         "description" : "At just 17, Eman Sawan is already a prominent name in Arab and international chess. A Woman FIDE Master and multiple champion of youth categories, her talent, passion and resilience have led her to shine even in the most adverse circumstances. From Palestine to the most demanding tournaments in the world, Eman plays not only for her dreams, but also for the hope of an entire people. Discover her inspiring story.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eman-sawan-interview-2025",
-         "pubDate" : "Tue, 29 Apr 2025 07:20:56",
-         "title" : "Eman Sawan: Talent, passion and hope"
-      },
-      {
          "description" : "Twenty-year-old Thalia from Chester, United Kingdom, won BBC&#39;s Chess Masters: The Endgame after beating Richie (63, Liverpool) in the eighth and final episode aired on Monday. The first episode of Chess Masters attracted just under 1.2 million vie...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,36 +90,12 @@ news_feed (
          "title" : "Thalia Clinches Trophy In BBC's 'Chess Masters' Final Episode"
       },
       {
-         "description" : "The rapid section of the Superbet Rapid & Blitz Poland tournament ended with Aravindh Chithambaram, Vladimir Fedoseev and Alireza Firouzja sharing the lead on 11 points. Held in Warsaw as the first event of the 2025 Grand Chess Tour, the competition now moves on to 18 rounds of blitz. Aravindh scored an important victory over Firouzja in a dramatic game that saw the latter losing on time. Levon Aronian, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave remain within reach of the leaders. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-3",
-         "pubDate" : "Mon, 28 Apr 2025 23:50:00",
-         "title" : "Superbet Poland: Aravindh joins leading trio, as Firouzja loses key game on time"
-      },
-      {
-         "description" : "If it hadn't been for Viernheim's poor start to the season, the Bundesliga final in Deggendorf could have been a real thriller. But D&uuml;sseldorf won this year's Bundesliga with one round to spare, and the 4-4 draw between D&uuml;sseldorf and Viernheim in the final round was nothing to write home about. D&uuml;sseldorfer SK are the new German team champions. M&uuml;lheim Nord and Bad Mergenheim were relegated.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-duesseldorf-wins",
-         "pubDate" : "Mon, 28 Apr 2025 13:12:10",
-         "title" : "Bundesliga: D&uuml;sseldorf wins"
-      },
-      {
          "description" : "GM Alireza Firouzja lost on time just when he seemed to have escaped against GM Aravindh Chithambaram and was set to be the sole leader of the 2025 Superbet Rapid &#38;amp; Blitz Poland going into the 18 rounds of blitz. Instead he was caught by Aravi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-3",
          "pubDate" : "Mon, 28 Apr 2025 10:18:00",
          "title" : "Firouzja Flags Vs. Aravindh, Misses Out On Winning Rapid"
-      },
-      {
-         "description" : "When an inexperienced young person enters the gym hoping to build big muscles and an attractive body, there are two mistakes they often tend to commit. Firstly, they go weights far heavy for them. Secondly, they tend to focus on one particular body part (especially arms when it comes to boys), omitting the body core. However, the body core is essential.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-42-first-the-centre-then-the-attack",
-         "pubDate" : "Mon, 28 Apr 2025 09:33:42",
-         "title" : "The Winning Academy 42: First the Centre, then the Attack"
       },
       {
          "description" : "PogChamps 6 is about to start! Soon, 12 celebrities will come together to compete for the title of PogChampion, a piece of the $100,000 prize fund, and bragging rights! To celebrate the sixth edition of everyone&#39;s favorite amateur tournament, Ch...",
@@ -960,14 +936,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-takes-control-of-her-match-against-tan-zhongyi-with-two-wins-in-a-row",
          "pubDate" : "Thu, 10 Apr 2025 13:51:00",
          "title" : "Ju Wenjun takes control of her match against Tan Zhongyi with two wins in a row - 6"
-      },
-      {
-         "description" : "Nine rounds have been played at the European Women's Chess Championship 2025 in Rhodes, Greece, and only two rounds left before the announcement of the Winners! Today's round was opened by the ECU President Mr. Zurab Azmaiparasvhili who played the first ceremonial move on the top board game between IM Teodora Injac and IM Lilit Mkrtchian. IM Teodora Injac (SRB, 2454) kept the sole lead in the event after defeating IM Lilit Mkrtchian (ARM, 2388) in today's 9th round. The []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-teodora-injac-keeps-the-sole-lead-im-irina-bulmaga-closely-follows-ewcc2025-r9-recap/",
-         "pubDate" : "Wed, 09 Apr 2025 19:17:39",
-         "title" : "IM Teodora Injac keeps the sole lead, IM Irina Bulmaga closely follows - EWCC2025 R9 recap"
       },
       {
          "description" : " Ju Wenjun took a 3-2 lead over Tan Zhongyi after winning the fifth game of he World Women's title defence. She had white and faced a Kan Sicilian, her 10.c5 novelty brought an immediate mistake and she was completely winning after 20 moves. Tan provided stout resistance after that but the objective assessment never changed and 59.Ne7+ brought about her resignation. This is the penultimate game before the match moves from Shanghai to Chongqing.",
