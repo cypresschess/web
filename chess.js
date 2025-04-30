@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Czech Chess Federation announced yesterday on its website the death of Czech grandmaster Petr Neuman (11 March 1978 - 29 April 2025). The Czech Chess Federation describes Petr Neuman, who became a grandmaster in 2013, as one of the country's most active players. Last weekend, Neuman was still playing for his German club Bad Mergentheim in the Bundesliga. | Photo: Czech Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/czech-grandmaster-petr-neuman-has-passed-away",
+         "pubDate" : "Wed, 30 Apr 2025 17:12:18",
+         "title" : "Czech grandmaster Petr Neuman has passed away"
+      },
+      {
          "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-pristina/",
          "pubDate" : "Wed, 30 Apr 2025 06:55:36",
          "title" : "Communique of the ECU Board Meeting in Pristina"
+      },
+      {
+         "description" : "We&#39;re excited to announce that you can now learn with the best chess courses in the world right here on Chess.com. Pick up new openings, learn chess strategy, and sharpen your tactics with top courses from the world&#39;s leading players and coaches! ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-courses",
+         "pubDate" : "Wed, 30 Apr 2025 06:00:00",
+         "title" : "Improve 4.6 Times Faster With Chesscom's New Courses Feature"
       },
       {
          "description" : "GM Chris Ward introduces a fresh and evolving variation in the Sicilian Dragon, humorously dubbed the \"Accelerated Dragadorf\", which merges dragon setups with thematic ideas from the Najdorf. He analyzes a complex game featuring this system, highlighting tactical motifs, a strong bishop on e5, and a dominant performance by young Vietnamese IM Dau Khuong Duy. The second part covers a clean positional win in a more traditional Dragon, culminating in a delightful rook endgame puzzle, followed by Chris sharing personal insights on his early use of chess engines like Fritz. | Photo: John Upham",
@@ -290,7 +306,7 @@ news_feed (
          "title" : "DreamHack Dallas Hosts Chess Tournament As Qualifying Path For 2025 Esports World Cup"
       },
       {
-         "description" : " The Superbet Poland Rapid & Blitz takes place Sat 26th Apr 2025 to Thu 1st May 2025. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. A three day rapid is followed by a two day blitz event. ",
+         "description" : " The Superbet Poland Rapid & Blitz took place Sat 26th Apr 2025 to Thu 1st May 2025. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. A three day rapid was followed by a two day blitz event. Vladimir Fedoseev won the event with three rounds to spare.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2025",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-april-19-2025",
          "pubDate" : "Sat, 19 Apr 2025 16:38:00",
          "title" : "Bortnyk Doubles Down On Bullet Brawl, Wins By 34-Point Margin"
-      },
-      {
-         "description" : "GM Magnus Carlsen has taken the sole lead in the Grenke Chess Freestyle Open as the only player with a perfect score after five rounds. He enjoyed two smooth victories on Saturday against GM Etienne Bacrot and 53-year-old GM Victor Mikhalevski, wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-3",
-         "pubDate" : "Sat, 19 Apr 2025 13:45:00",
-         "title" : "Carlsen Takes Sole Lead On 5/5"
       },
       {
          "description" : "In a recent podcast with GM Avetik Grigoryan, founder and CEO of ChessMood, he called me the most disciplined person he knows. I laughed. Because honestly? I see myself as a very undisciplined person. I struggle to eat healthy when I have sweets at home. I struggle to work when I don't write a clear []",
@@ -976,30 +984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-takes-control-of-her-match-against-tan-zhongyi-with-two-wins-in-a-row",
          "pubDate" : "Thu, 10 Apr 2025 13:51:00",
          "title" : "Ju Wenjun takes control of her match against Tan Zhongyi with two wins in a row - 6"
-      },
-      {
-         "description" : " Ju Wenjun took a 3-2 lead over Tan Zhongyi after winning the fifth game of he World Women's title defence. She had white and faced a Kan Sicilian, her 10.c5 novelty brought an immediate mistake and she was completely winning after 20 moves. Tan provided stout resistance after that but the objective assessment never changed and 59.Ne7+ brought about her resignation. This is the penultimate game before the match moves from Shanghai to Chongqing.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-beats-tan-zhongyi-in-game-5-of-the-womens-world-chess-championship",
-         "pubDate" : "Wed, 9 Apr 2025 15:10:00",
-         "title" : "Ju Wenjun beats Tan Zhongyi in Game 5 of the Women's World Chess Championship - 5"
-      },
-      {
-         "description" : "National Amateur Below 1700 Open Rank Name1 Gadge Vedant2 Pathak Anshu Kr3 Bala Ganesan4 Jayesh Mishra5 Vamsi Krishna R6 Aatman Raval7 Prashant Kumar Singh8 Mukesh",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-amateur-chess-championship-2024-25-in-bodh-gaya-bihar-from-25-29-march-2025/",
-         "pubDate" : "Wed, 09 Apr 2025 14:47:06",
-         "title" : "Certificate of National Amateur Chess Championship 2024-25 in Bodh Gaya ,Bihar from 25-29 March 2025"
-      },
-      {
-         "description" : "NATIONAL RAPID Sl No Name1 INIYAN PA2 Pranesh M3 SHYAM NIKHIL P4 DIPTAYAN GHOSH5 KARTHIK VENKATARAMAN6 ARONYAK GHOSH7 ANKIT RAY8 SOUVIK MITRA9 ASWATH S10 RAJA",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificate-of-national-rapid-blitz-in-jharkhand-from-20-23-march-2025/",
-         "pubDate" : "Wed, 09 Apr 2025 14:45:52",
-         "title" : "Certificate of National Rapid & Blitz in Jharkhand from 20-23 March 2025"
       }
    ]
 }
