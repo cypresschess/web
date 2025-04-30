@@ -10,6 +10,14 @@ news_feed (
          "title" : "The Monthly Dragon - Deep Diving with a new Dragadorf!"
       },
       {
+         "description" : "The wait is finally over. PogChamps 6 started with a bang after a one-year hiatus left fans longing for more hilarious moments and unbelievable blunders. And today&#39;s Group A round-robin stage certainly delivered both. The three highest-rated pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-6-day-1",
+         "pubDate" : "Tue, 29 Apr 2025 17:31:57",
+         "title" : "Blunders, Pizza, And Drama: Sambucha, Ebere, Inoxtag Make It To Championship Bracket"
+      },
+      {
          "description" : "Max Euwe became the fifth World Chess Champion after beating Alexander Alekhine in the 1935 World Championship match. A maths teacher by profession, Euwe remained an amateur throughout his life, but was still the best chess player in the Netherlands, and one of the world's best players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-in-chess-what-the-chessbase-style-report-reveals",
          "pubDate" : "Sat, 19 Apr 2025 08:39:22",
          "title" : "Player types in chess: What the ChessBase style report reveals"
-      },
-      {
-         "description" : "Luis Ignacio was crowned the winner of the 2025 Chess.com 4 Player Chess Championship and will receive the $1,800 first prize after winning three out of four games in the Grand Final ahead of Hamlet Antonyan, Aswin Devendran, and Jose Bolea.&#38;nbsp;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/luis-ignacio-wins-4-player-chess-championship-2025",
-         "pubDate" : "Sat, 19 Apr 2025 00:59:24",
-         "title" : "Ignacio Unstoppable In 4 Player Chess Championship"
       },
       {
          "description" : " The FIDE Women's World Chess Championship took place in Shanghai and finished in Chongqing, China. The event was supposed to take place 3rd to 20th April 2025 but finished early on 16th April with the closing ceremony two days later. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. ",
