@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Prague Chess Festival 2025: Analyses by Aravindh, Giri, Gurel, Navara, Nguyen, Shankland, Wei Yi and others - 'My favourite miniature': Entertaining, instructive, short - 27 games under 20 moves, annotated by CBM authors - Dutch vs. London: Yago Santiago counters with 1.d4 f5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Nc6! - 'Rooks in seventh heaven': Oliver Reeh's tactical tests with over 30 current games + four interactive videos - '3.Bf4! - Something for the lazy?\": Sam Shankland dissects his victory over Ediz Gurel from the Prague Masters with the London System - Opening videos by Daniel King, Jan Werle and Robert Ris and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-31",
+         "pubDate" : "Thu, 01 May 2025 12:00:00",
+         "title" : "New: ChessBase Magazine #225"
+      },
+      {
+         "description" : "The ECF Board is pleased to announce that, in accordance with the discussion about director appointments at the Finance Council meeting on 26th April, it is making an appointment of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/events-director-appointment/",
+         "pubDate" : "Thu, 01 May 2025 08:24:20",
+         "title" : "Events Director Appointment"
+      },
+      {
          "description" : "Vladimir Fedoseev delivered a standout performance at the 2025 Superbet Rapid & Blitz Poland tournament, securing overall victory with three rounds to spare and finishing five points ahead of the field. The Slovenian grandmaster lost only one game out of 27 and posted one of the highest scores in Grand Chess Tour history. Maxime Vachier-Lagrave finished in clear second place, while Praggnanandhaa Rameshbabu claimed third after a final-round win over Levon Aronian. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-poland-2025-5",
          "pubDate" : "Thu, 01 May 2025 07:40:00",
          "title" : "Vladimir Fedoseev convincingly wins Superbet Rapid & Blitz Poland"
+      },
+      {
+         "description" : "56-year-old Ukrainian GM Vasyl Ivanchuk played a staggering 27 games in 19 days in April as he picked up 40 rating points to return to the Top 100 on the May 2025 FIDE rating list. GM Wesley So moved up to 11th, while the biggest climber near the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/may-2025-fide-ratings",
+         "pubDate" : "Thu, 01 May 2025 02:41:00",
+         "title" : "May 2025 FIDE Ratings: Ivanchuk Is Back!"
       },
       {
          "description" : " Alongside the Baku Open was a three day Battle of the Champions event which took place Mon 28th Apr to Wed 30th Apr 2025. Rauf Mamedov beat Rustam Kasimdzhanov 4-2 in the rapid but lost 6-4 in the blitz. Gunay Mammadzada beat Antoaneta Stefanova 3.5-2.5 in the rapid and they tied the bltiz 5-5.",
@@ -560,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-7",
          "pubDate" : "Mon, 21 Apr 2025 13:00:00",
          "title" : "Humpy Beats Zhu To Snatch Pune Women's Grand Prix Lead"
-      },
-      {
-         "description" : "Nigerian chess player Tunde Onakoya and NM Shawn Martinez have officially broken the Guinness World Record for the longest chess marathon after playing continuously for an astonishing 64 hours in New York&#39;s iconic Times Square.&#38;nbsp; The impress...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tunde-onakoya-shawn-martinez-breaks-guinness-record-for-longest-chess-marathon",
-         "pubDate" : "Mon, 21 Apr 2025 08:24:00",
-         "title" : "Tunde Onakoya, Shawn Martinez Break Guinness Record With 64-Hour Chess Marathon"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
