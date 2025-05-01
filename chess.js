@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120797818.cms\" />Indian Grandmaster R Praggnanandhaa secured third place at the Superbet Rapid and Blitz tournament in Warsaw, while Vladimir Fedoseev of Slovenia emerged as the champion. Fedoseev's dominant performance earned him $40,000, with Praggnanandhaa taking home $25,000. Aravindh Chithambaram tied for seventh in his GCT debut. The Grand Chess Tour now heads to Bucharest, featuring D Gukesh and Praggnanandhaa from India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-r-praggnanandhaa-reacts-to-finishing-third-in-superbet-rapid-blitz-chess-tournament/articleshow/120797818.cms",
+         "pubDate" : "Thu, 01 May 2025 15:12:32",
+         "title" : "Pragg reacts to finishing third in Superbet Rapid Blitz Tournament"
+      },
+      {
+         "description" : "Chess 960, or Freestyle Chess, is currently experiencing a boom with many tournaments and games. The idea is that each new game with an unknown starting position brings new challenges. Now the first major collection of games is available, the Chess 960 Yearbook by Arno Nickel. Hartmut Metz took a look at it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arno-nickel-s-new-chess960-yearbook-a-review",
+         "pubDate" : "Thu, 01 May 2025 15:04:01",
+         "title" : "Arno Nickel's new Chess960 Yearbook - a review"
+      },
+      {
+         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
+         "pubDate" : "Thu, 01 May 2025 12:00:19",
+         "title" : "Next Grassroots assessment"
+      },
+      {
          "description" : "Prague Chess Festival 2025: Analyses by Aravindh, Giri, Gurel, Navara, Nguyen, Shankland, Wei Yi and others - 'My favourite miniature': Entertaining, instructive, short - 27 games under 20 moves, annotated by CBM authors - Dutch vs. London: Yago Santiago counters with 1.d4 f5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Nc6! - 'Rooks in seventh heaven': Oliver Reeh's tactical tests with over 30 current games + four interactive videos - '3.Bf4! - Something for the lazy?\": Sam Shankland dissects his victory over Ediz Gurel from the Prague Masters with the London System - Opening videos by Daniel King, Jan Werle and Robert Ris and much more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-poland-2025-5",
          "pubDate" : "Thu, 01 May 2025 07:40:00",
          "title" : "Vladimir Fedoseev convincingly wins Superbet Rapid & Blitz Poland"
+      },
+      {
+         "description" : "World Champion Gukesh Dommaraju will lead India against GM Hikaru Nakamura and the USA in a new five-board team match, which will also see GM Fabiano Caruana take on GM Arjun Erigaisi. The organizers say they expect a sold-out crowd for the stadiu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-nakamura-usa-india-showdown-esports-stadium",
+         "pubDate" : "Thu, 01 May 2025 06:36:10",
+         "title" : "Gukesh Vs. Nakamura Headlines USA-India Chess Match At Esports Stadium"
       },
       {
          "description" : "56-year-old Ukrainian GM Vasyl Ivanchuk played a staggering 27 games in 19 days in April as he picked up 40 rating points to return to the Top 100 on the May 2025 FIDE rating list. GM Wesley So moved up to 11th, while the biggest climber near the ...",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "Carlsen Wins With Shining 9/9 Perfect Score"
       },
       {
-         "description" : "GM Humpy Koneru is the new sole leader of the 2025 Pune FIDE Women&#39;s Grand Prix on 5.5/7 after beating GM Zhu Jiner in a dramatic round-seven clash. Zhu is now joined half a point back by IM Divya Deshmukh, who won a fourth game of the event as sh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-7",
-         "pubDate" : "Mon, 21 Apr 2025 13:00:00",
-         "title" : "Humpy Beats Zhu To Snatch Pune Women's Grand Prix Lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -960,22 +984,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-fired-up-to-face-indias-young-stars-says-viswanathan-anand/articleshow/120195174.cms",
          "pubDate" : "Fri, 11 Apr 2025 06:07:53",
          "title" : "Carlsen fired up to face India's young stars, says Anand"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120171773.cms\" />In the Freestyle Chess Grand Slam in Paris, Arjun Erigaisi was defeated by Hikaru Nakamura, who advanced to the semifinals. Magnus Carlsen secured his spot with a draw, while Fabiano Caruana also progressed. Other matches saw draws, leading to tie-breaks, and the battles for lower rankings resulted in draws as well.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-enters-semi-final-in-paris-arjun-erigaisi-fails-in-hikaru-nakamura-challenge/articleshow/120171773.cms",
-         "pubDate" : "Thu, 10 Apr 2025 17:28:48",
-         "title" : "Freestyle Chess: Carlsen enters semi-final in Paris; Erigaisi fails"
-      },
-      {
-         "description" : " After a tentative start Ju Wenjun, the Women's World Champion, has taken a 4-2 lead at the half way stage of her match against challenger Tan Zhongyi. The match now breaks for three days as it moves from Shanghai to Chongqing. Game 6 saw Ju equalise quite quickly and even get quite a nice advantage, but 22...Bf6 was a misstep that allowed Tan equality. The position remained complicated and 31.h4? was a serious mistake that cost Tan the game, she couldn't even keep queens on and Ju's technique allowed no way back.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-takes-control-of-her-match-against-tan-zhongyi-with-two-wins-in-a-row",
-         "pubDate" : "Thu, 10 Apr 2025 13:51:00",
-         "title" : "Ju Wenjun takes control of her match against Tan Zhongyi with two wins in a row - 6"
       }
    ]
 }
