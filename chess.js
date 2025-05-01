@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Checkmate: USA vs India match takes place in the Esports Stadium Arlington, Texas, on Saturday, October 4th 2025. 10 players, 5 matches, time control 10mins, then 5mins then increasingly faster until there is a decisive result. The matches are played sequentially across four categories. Those are: Hikaru Nakamura vs Gukesh Dommaraju, Fabiano Caruana vs Arjun Erigaisi, Carissa Yip vs Divya Deshmukh, Levy Rozman (USA, GothamChess) vs Sagar Shah (IND, Chessbase India) and a youth board Tani Adewumi (USA) vs Ethan Vaz (IND). The order in which the matches are played will be decided later, obviously there will be increasing tension as the matches go on. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/checkmate-usa-vs-india-on-oct-4th-2025",
+         "pubDate" : "Thu, 1 May 2025 20:03:00",
+         "title" : "Checkmate: USA vs India on Oct 4th 2025 - "
+      },
+      {
+         "description" : " Czech Grandmaster Petr Neuman Mar 11, 1978 Apr 28, 2025 (age 47)? passed away suddenly on Monday after competing in the final round of the Bundesliga in Deggendorf. Neuman also regularly played in the Czech League and local tournaments including this year's national championships. He became an IM 2002 and a GM in 2013 and peaked with a rating of 2522 then that earned him this title. Neuman was a teacher and chess trainer, well liked on the chess circuit where he played so frequently. Links: <a href=\"https://www.chess.cz/smutna-zprava-zemrel-petr-neuman/\">Announcement of his passing by the Czech Chess Federation</a> <a href=\"https://en.chessbase.com/post/Czech-grandmaster-petr-neuman-has-pas",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/petr-neuman-1978-2025",
+         "pubDate" : "Thu, 1 May 2025 19:44:00",
+         "title" : "Petr Neuman 1978-2025 - "
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120797818.cms\" />Indian Grandmaster R Praggnanandhaa secured third place at the Superbet Rapid and Blitz tournament in Warsaw, while Vladimir Fedoseev of Slovenia emerged as the champion. Fedoseev's dominant performance earned him $40,000, with Praggnanandhaa taking home $25,000. Aravindh Chithambaram tied for seventh in his GCT debut. The Grand Chess Tour now heads to Bucharest, featuring D Gukesh and Praggnanandhaa from India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "New: ChessBase Magazine #225"
       },
       {
+         "description" : "The Czech chess community is mourning the sudden loss of GM Petr Neuman, who passed away this week at the age of only 47. The grandmaster was found dead in his Prague apartment on Monday, the Czech Chess Federation announced on its website on We...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/petr-neuman-passes-away-at-47",
+         "pubDate" : "Thu, 01 May 2025 10:10:16",
+         "title" : "Czech Grandmaster Petr Neuman Passes Away At 47"
+      },
+      {
          "description" : "The ECF Board is pleased to announce that, in accordance with the discussion about director appointments at the Finance Council meeting on 26th April, it is making an appointment of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/may-2025-fide-ratings",
          "pubDate" : "Thu, 01 May 2025 02:41:00",
          "title" : "May 2025 FIDE Ratings: Ivanchuk Is Back!"
+      },
+      {
+         "description" : "Our rulebook is filled with variations on the main rules. I once counted slightly less than 50 of them in chapters 1 plus 2 alone. Some of those variations require an announcement, or publicity-others, not so much. This hodgepodge is baffling to the typical wood-pusher.Why even have variations at all? Simply put, the answer is that there are times the main rule just does not get the job done for everybody. So, variations take care of those times. Sometimes variations are simply another way to do the same task. For the most part, those variations need to be noted in advanced publicity-or at least announced at the playing site (Rules 1B1, 26A and 26B). A huge handful of variations can be found",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-whats-deal-rules-variations",
+         "pubDate" : "Thu, 01 May 2025 00:00:00",
+         "title" : "Just the Rules: What's the Deal with Rules Variations?"
       },
       {
          "description" : " Alongside the Baku Open was a three day Battle of the Champions event which took place Mon 28th Apr to Wed 30th Apr 2025. Rauf Mamedov beat Rustam Kasimdzhanov 4-2 in the rapid but lost 6-4 in the blitz. Gunay Mammadzada beat Antoaneta Stefanova 3.5-2.5 in the rapid and they tied the bltiz 5-5.",
@@ -602,14 +634,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Cadets & Youth Rapid & Blitz"
       },
       {
-         "description" : "GM Magnus Carlsen has won the 2025 Grenke Chess Freestyle Open with an out-of-this-world, perfect 9/9 score. He had already won the tournament with a round to spare in round eight, but round nine was about cementing his legacy of dominance. With a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-grenke-freestyle-chess-open",
-         "pubDate" : "Mon, 21 Apr 2025 13:30:00",
-         "title" : "Carlsen Wins With Shining 9/9 Perfect Score"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-20th-kcf-all-girls-championship",
          "pubDate" : "Wed, 16 Apr 2025 00:00:00",
          "title" : "Wednesday Workout: 20th KCF All-Girls Championship"
-      },
-      {
-         "description" : "US Chess Announces New Events Manager<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess is pleased to announce the addition of a new Events Manager, Erik Czerwin. Erik will be working in the Events Department on National Events including the US Open, National Scholastic Championships, invitational tournaments, and director certification, among other responsibilities. US Chess is excited to add Erik's experience, versatility and knowledge to our staff.Erik Czerwin's chess journey began in 2005 as a teacher, coaching chess as an extracurricular activity. Over his teaching tenure, he has coached in Peoria, Marengo, and Rockford, Illinois. He has also supported and gr",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-announces-new-events-manager-and-new-graphic-design-assistant",
-         "pubDate" : "Wed, 16 Apr 2025 00:00:00",
-         "title" : "US Chess Announces New Events Manager and New Graphic Design Assistant"
       },
       {
          "description" : " The Reykjavik Open took place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc. Top seed Parham Maghsoodloo won the event with 7/9 half a point clear of 10 players, Vasyl Ivanchuk finishing second on tie-break.",
