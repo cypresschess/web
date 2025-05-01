@@ -10,6 +10,14 @@ news_feed (
          "title" : "Battle of the Champions 2025 - Games and Results"
       },
       {
+         "description" : "[Edited on 4/30/2025:]&#38;nbsp;Please note that DrLupo will be replaced in the Consolation Bracket, as per our announcement. DrLupo has been closed for a fair play violation that occured during today&#38;rsquo;s Pogchamps event. He will be replaced i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-6-day-2",
+         "pubDate" : "Wed, 30 Apr 2025 17:29:00",
+         "title" : "Steve Nedoroscik, WolfeyVGC Lead In Toughest PogChamps Day Yet For Queens"
+      },
+      {
          "description" : "The Czech Chess Federation announced yesterday on its website the death of Czech grandmaster Petr Neuman (11 March 1978 - 29 April 2025). The Czech Chess Federation describes Petr Neuman, who became a grandmaster in 2013, as one of the country's most active players. Last weekend, Neuman was still playing for his German club Bad Mergentheim in the Bundesliga. | Photo: Czech Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-maharashtra-chess-festival-gm-open-above-2200/",
          "pubDate" : "Sun, 20 Apr 2025 15:08:11",
          "title" : "Live Games link for Maharashtra Chess Festival - GM Open (Above 2200)"
-      },
-      {
-         "description" : "GM Magnus Carlsen continues his streak of perfection in the&#38;nbsp;2025 Grenke Chess Freestyle Open, now with seven rounds under his belt. He won a smooth game against GM Awonder Liang before his rollercoaster game against GM Parham Maghsoodloo, who...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-day-4",
-         "pubDate" : "Sun, 20 Apr 2025 13:33:00",
-         "title" : "Carlsen Perfect After 7 Rounds, Leads By Full Point"
       },
       {
          "description" : " Howard University came to the 2025 HBCU Chess Classic to reclaim the trophy they won at the inaugural event in 2023. In last year's event, Howard failed to take the top prize in both the team and individual categories, settling for silver in the team category and bronze in the individual category. By Bison standards, The post <a href=\"https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/\">Howard University dominates 3rd HBCU Chess Classic!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
