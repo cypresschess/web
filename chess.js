@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Fedoseev delivered a standout performance at the 2025 Superbet Rapid & Blitz Poland tournament, securing overall victory with three rounds to spare and finishing five points ahead of the field. The Slovenian grandmaster lost only one game out of 27 and posted one of the highest scores in Grand Chess Tour history. Maxime Vachier-Lagrave finished in clear second place, while Praggnanandhaa Rameshbabu claimed third after a final-round win over Levon Aronian. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2025-5",
+         "pubDate" : "Thu, 01 May 2025 07:40:00",
+         "title" : "Vladimir Fedoseev convincingly wins Superbet Rapid & Blitz Poland"
+      },
+      {
          "description" : " Alongside the Baku Open was a three day Battle of the Champions event which took place Mon 28th Apr to Wed 30th Apr 2025. Rauf Mamedov beat Rustam Kasimdzhanov 4-2 in the rapid but lost 6-4 in the blitz. Gunay Mammadzada beat Antoaneta Stefanova 3.5-2.5 in the rapid and they tied the bltiz 5-5.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/czech-grandmaster-petr-neuman-has-passed-away",
          "pubDate" : "Wed, 30 Apr 2025 17:12:18",
          "title" : "Czech grandmaster Petr Neuman has passed away"
-      },
-      {
-         "description" : "Kicking off the 2025 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on April 26-30 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are young elite GMs such as Praggnanandhaa Rameshbabu and Alireza Firouzja alongside former world champion Veselin Topalov. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-live",
-         "pubDate" : "Wed, 30 Apr 2025 11:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "",
@@ -74,14 +74,6 @@ news_feed (
          "title" : "Part-Time Administrator for ECF Office (Work from Home)"
       },
       {
-         "description" : "Vladimir Fedoseev has taken a commanding lead at the Superbet Rapid & Blitz Poland tournament after scoring 8 out of 9 points in the first day of blitz. The Slovenian grandmaster now stands 3&frac12; points ahead of the field with nine rounds left to play on Wednesday. Praggnanandhaa Rameshbabu sits in sole second place despite a shaky start to the day, while Levon Aronian, Maxime Vachier-Lagrave and Aravindh Chithambaram remain in close contention for a top finish. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-4",
-         "pubDate" : "Wed, 30 Apr 2025 08:10:00",
-         "title" : "Superbet Poland: Fedoseev scores 8/9 on the first day of blitz"
-      },
-      {
          "description" : "Please find the live link here link : live.kottayamchess.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -114,28 +106,12 @@ news_feed (
          "title" : "Wednesday Workout: Grenke Festival + Freestyle"
       },
       {
-         "description" : "GM Chris Ward introduces a fresh and evolving variation in the Sicilian Dragon, humorously dubbed the \"Accelerated Dragadorf\", which merges dragon setups with thematic ideas from the Najdorf. He analyzes a complex game featuring this system, highlighting tactical motifs, a strong bishop on e5, and a dominant performance by young Vietnamese IM Dau Khuong Duy. The second part covers a clean positional win in a more traditional Dragon, culminating in a delightful rook endgame puzzle, followed by Chris sharing personal insights on his early use of chess engines like Fritz. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-deep-diving-with-a-new-dragadorf",
-         "pubDate" : "Tue, 29 Apr 2025 18:00:00",
-         "title" : "The Monthly Dragon - Deep Diving with a new Dragadorf!"
-      },
-      {
          "description" : "The wait is finally over. PogChamps 6 started with a bang after a one-year hiatus left fans longing for more hilarious moments and unbelievable blunders. And today&#39;s Group A round-robin stage certainly delivered both. The three highest-rated pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-6-day-1",
          "pubDate" : "Tue, 29 Apr 2025 17:31:00",
          "title" : "Blunders, Pizza, And Drama: Sambucha, Ebere, Inoxtag Make It To Championship Bracket"
-      },
-      {
-         "description" : "Max Euwe became the fifth World Chess Champion after beating Alexander Alekhine in the 1935 World Championship match. A maths teacher by profession, Euwe remained an amateur throughout his life, but was still the best chess player in the Netherlands, and one of the world's best players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-class-band-18-max-euwe",
-         "pubDate" : "Tue, 29 Apr 2025 15:00:00",
-         "title" : "Master Class Band 18: Max Euwe"
       },
       {
          "description" : "GM Vladimir Fedoseev leads the 2025 Superbet Rapid &#38;amp; Blitz Poland by nearly four points going into the final day. After previously making six draws to end the rapid portion, he nearly &#34;pulled a Magnus&#34; on the first day of blitz by scoring a re...",
@@ -152,14 +128,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/",
          "pubDate" : "Tue, 29 Apr 2025 14:24:07",
          "title" : "HBCU Spotlight: Harper Jackson (Morehouse)"
-      },
-      {
-         "description" : "Vasyl Ivanchuk may be approaching 60, but he still enjoys chess and is currently enjoying his (at least) third chess renaissance. He recently went on a run of almost 30 games without defeat and won the Menorca Open. | Photo: Federico Marin Bellon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vasyl-ivanchuk-wins-menorca-open",
-         "pubDate" : "Tue, 29 Apr 2025 11:00:00",
-         "title" : "Vasyl Ivanchuk wins Menorca Open"
       },
       {
          "description" : "Special Note: If a player has only one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for",
