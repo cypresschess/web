@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The Checkmate: USA vs India match takes place in the Esports Stadium Arlington, Texas, on Saturday, October 4th 2025. 10 players, 5 matches, time control 10mins, then 5mins then increasingly faster until there is a decisive result. The matches are played sequentially across four categories. Those are: Hikaru Nakamura vs Gukesh Dommaraju, Fabiano Caruana vs Arjun Erigaisi, Carissa Yip vs Divya Deshmukh, Levy Rozman (USA, GothamChess) vs Sagar Shah (IND, Chessbase India) and a youth board Tani Adewumi (USA) vs Ethan Vaz (IND). The order in which the matches are played will be decided later, obviously there will be increasing tension as the matches go on. ",
+         "description" : "April saw notable shifts in the FIDE Circuit 2025 leaderboard, with Praggnanandhaa Rameshbabu moving into first place after a strong showing in Poland. Vladimir Fedoseev's victory in Warsaw propelled him to third, while Vasyl Ivanchuk's success in Menorca earned him fourth. Other key movements include Lu Shanglei rising to eighth and Parham Maghsoodloo entering the top ten.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-circuit-2025-may-standings",
+         "pubDate" : "Thu, 01 May 2025 22:00:00",
+         "title" : "FIDE Circuit: Pragg seizes the lead, Fedoseev and Ivanchuk among top five"
+      },
+      {
+         "description" : " The <a href=\"https://www.checkmateusaindia.com/\">Checkmate: USA vs India</a> match takes place in the Esports Stadium Arlington, Texas, on Saturday, October 4th 2025. 10 players, 5 matches, time control 10mins, then 5mins then increasingly faster until there is a decisive result. The matches are played sequentially across four categories, those are: Elite: Hikaru Nakamura vs Gukesh Dommaraju, Fabiano Caruana vs Arjun Erigaisi, Women's: Carissa Yip vs Divya Deshmukh, Internet: Levy Rozman (USA, GothamChess) vs Sagar Shah (IND, Chessbase India) and Youth: Tani Adewumi (USA) vs Ethan Vaz (IND). The order in which the matches are played will be decided later, obviously there will be increasing ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/checkmate-usa-vs-india-on-oct-4th-2025",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/petr-neuman-passes-away-at-47",
-         "pubDate" : "Thu, 01 May 2025 10:10:16",
+         "pubDate" : "Thu, 01 May 2025 10:10:00",
          "title" : "Czech Grandmaster Petr Neuman Passes Away At 47"
       },
       {
