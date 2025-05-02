@@ -26,6 +26,14 @@ news_feed (
          "title" : "Petr Neuman 1978-2025 - "
       },
       {
+         "description" : "PogChamps 6 continues to amaze fans and commentators alike. Players found new and creative ways to blunder their queens, throw games, and entertain the audience on the first day of the knockouts. Sapnap and Steve Nedoroscik defeated Sambucha and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-6-day-3",
+         "pubDate" : "Thu, 01 May 2025 16:35:00",
+         "title" : "Eyes Bleed And Eval Bar Screams In Agony As LydiaViolet, Linzor, Sapnap, And Steve Advance"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120797818.cms\" />Indian Grandmaster R Praggnanandhaa secured third place at the Superbet Rapid and Blitz tournament in Warsaw, while Vladimir Fedoseev of Slovenia emerged as the champion. Fedoseev's dominant performance earned him $40,000, with Praggnanandhaa taking home $25,000. Aravindh Chithambaram tied for seventh in his GCT debut. The Grand Chess Tour now heads to Bucharest, featuring D Gukesh and Praggnanandhaa from India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-7-things-we-learned",
          "pubDate" : "Tue, 22 Apr 2025 13:41:00",
          "title" : "6 Things We Learned, 1 Thing We Already Knew - Grenke Chess Freestyle Open"
-      },
-      {
-         "description" : "GM Zhu Jiner bounced back right away to outplay IM Divya Deshmukh and regain the lead in the 2025 Pune FIDE Women&#39;s Grand Prix going into the final round. Zhu would have been the sole leader if IM Alina Kashlinskaya had converted a completely winn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-pune-round-8",
-         "pubDate" : "Tue, 22 Apr 2025 12:21:00",
-         "title" : "Zhu Hits Back To Beat Divya As Humpy Escapes"
       },
       {
          "description" : "I have told the story often: in an interview in 2020 I said that in five years I expected at least two of the top ten players in the world would be Indian. My prediction was met with deep scepticism. It was clearly the unrealistic optimism of a friend and admirer of young Indian talents. It is true I was wrong. In five years since the prediction three have risen into the top ten bracket, and a fourth is on his way into it.",
