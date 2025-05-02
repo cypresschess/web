@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-04-01  - 04-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202504290952 target='_blank'>APRIL 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-04-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202504278782 target='_blank'>BELLAIRE SUNDAY SWISS 4/27/2025</a>",
 "HOUSTON","2025-04-27","9","<a href=http://www.uschess.org/msa/XtblMain.php?202504278712 target='_blank'>APRIL 27TH ADULTS ONLY SUNDAY SWISS</a>",
 "HOUSTON","2025-04-26","286","<a href=http://www.uschess.org/msa/XtblMain.php?202504269302 target='_blank'>IMPACT LEADERSHIP ACADEMY TOURNAMEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2024-09-20","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409203302 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-09-14","38","<a href=http://www.uschess.org/msa/XtblMain.php?202409149862 target='_blank'>SEPT 14TH TROPHY SCHOLASTIC</a>",
 "HOUSTON","2024-09-14","11","<a href=http://www.uschess.org/msa/XtblMain.php?202409149852 target='_blank'>CHESSPANDA09142024SATURDAY</a>",
-"CYPRESS","2024-09-14","35","<a href=http://www.uschess.org/msa/XtblMain.php?202409149742 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
