@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Many of the top players were mainly involved in Freestyle Chess in April, which is not rated by FIDE. However, the end of the Austrian and German Bundesliga seasons did bring about some changes in the world rankings. And in the junior women's category, Divya Deshmukh and Li Miaoyi are engaged in an exciting duel.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-may-2025",
+         "pubDate" : "Fri, 02 May 2025 13:00:00",
+         "title" : "FIDE ratings - May 2025"
+      },
+      {
+         "description" : "The ECF Board is pleased that, following a competitive application and interview, it has been agreed that Rob King has been appointed as the ECF's Operations and Administration Director.&#160; Rob...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/operations-and-administration-director-appointment/",
+         "pubDate" : "Fri, 02 May 2025 09:38:05",
+         "title" : "Operations and Administration Director Appointment"
+      },
+      {
          "description" : "The sixth and final leg of the 2024/2025 FIDE Women's Grand Prix begins on 6 May in Grosslobming, Austria, with three players still in contention for the overall title. Aleksandra Goryachkina currently leads the standings but will not compete in the final stage, leaving Zhu Jiner and Anna Muzychuk with a chance to overtake her. The event will also determine which two players qualify for the 2026 Women's Candidates, making this final stage a pivotal moment in the Women's World Championship cycle.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-austria-2025-preview",
          "pubDate" : "Fri, 02 May 2025 08:50:00",
          "title" : "The moment of truth: Women's Grand Prix heads to Austria for decisive stage"
+      },
+      {
+         "description" : "Please note the closing date for nominations is 31st May 2025 We are inviting nominations for the BCET Awards 2025 which are for junior schools (including colleges and other...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2025/",
+         "pubDate" : "Fri, 02 May 2025 08:00:05",
+         "title" : "British Chess Educational Trust Awards 2025 - closing date May 31st!"
       },
       {
          "description" : " Thalia Holmes, 20, defeats Richie Kelly, 63, in final after former RAF technician misses a win (can you find it?) BBC Two's Monday evening show Chess Masters: The Endgame reached its final this week amid a continuing debate between experts, who found it patronising, and social players, novices and children who enjoyed its light touch and focus on personalities. The series was placed in a testing environment, the 8pm slot, sandwiched between the intellectual heavyweights Mastermind and University Challenge. Viewer numbers, as supplied by Broadcast, peaked in the first week at 890,000, then gradually dipped to a low of 535,000 on Easter Monday before rebounding to 655,000, a 5.5% share of the",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "England wins triple gold at European Senior Team Chess Championship 2025"
       },
       {
-         "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's U1700 tournament which will take place at the Holiday Inn, Kenilworth between Friday 18th July and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-and-english-womens-championships-2025/",
-         "pubDate" : "Mon, 14 Apr 2025 08:43:22",
-         "title" : "English and English Women's Championships 2025"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120258623.cms\" />Magnus Carlsen secured a 1-0 lead against Hikaru Nakamura in the Freestyle Chess Grand Slam final in Paris, capitalising on a crucial error by Nakamura. Carlsen's precise conversion of the advantage puts pressure on Nakamura to win the second game. Fabiano Caruana also leads in the third-place match, while other placement matches saw victories for Arjun Erigaisi and Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -992,22 +1008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-rcb-fan-who-became-a-world-champion-the-story-of-pranav-v/articleshow/120204255.cms",
          "pubDate" : "Fri, 11 Apr 2025 11:40:07",
          "title" : "Exclusive: RCB fan who became a world champion"
-      },
-      {
-         "description" : "Get ready for an epic battle of strategy and intelligence! On April 12, SenseRobot will take on Grandmaster Antoaneta Stefana in a thrilling human vs. AI chess match-hosted in collaboration with the European Chess Union (ECU)! Can AI outsmart a Chess Grandmaster? Will human intuition prevail? Witness history in the making! Event Date: Saturday April 12 : 9:30 CESTLive from Rhodes Greece - Streaming worldwide! The event can be followed through the ECU TV. About SenseRobot SenseRobot brings chess to []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/human-vs-ai-robot-the-ultimate-chess-showdown/",
-         "pubDate" : "Fri, 11 Apr 2025 10:45:04",
-         "title" : "Human vs. AI Robot: The Ultimate Chess Showdown!"
-      },
-      {
-         "description" : "IM Teodora Injac yesterday scored her 9th consecutive win in the European Women's Chess Championship 2025 to clinch the tournament with a round to spare! Playing with blacks against IM Irina Bulmaga (ROU, 2362), IM Teodora Injac (SRB, 2454) equalized but the position was very sharp and dynamical with heterogeneous castles and attacks on both sides of the board. Injac played it well, gained the activity and the edge, gradually improving it for a winning position and decisive material advantage. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-teodora-injac-clinches-european-womens-chess-championship-2025-with-a-round-to-spare/",
-         "pubDate" : "Fri, 11 Apr 2025 07:44:32",
-         "title" : "IM Teodora Injac clinches European Women's Chess Championship 2025 with a round to spare"
       }
    ]
 }
