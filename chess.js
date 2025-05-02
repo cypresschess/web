@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The sixth and final leg of the 2024/2025 FIDE Women's Grand Prix begins on 6 May in Grosslobming, Austria, with three players still in contention for the overall title. Aleksandra Goryachkina currently leads the standings but will not compete in the final stage, leaving Zhu Jiner and Anna Muzychuk with a chance to overtake her. The event will also determine which two players qualify for the 2026 Women's Candidates, making this final stage a pivotal moment in the Women's World Championship cycle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-preview",
+         "pubDate" : "Fri, 02 May 2025 08:50:00",
+         "title" : "The moment of truth: Women's Grand Prix heads to Austria for decisive stage"
+      },
+      {
+         "description" : " Thalia Holmes, 20, defeats Richie Kelly, 63, in final after former RAF technician misses a win (can you find it?) BBC Two's Monday evening show Chess Masters: The Endgame reached its final this week amid a continuing debate between experts, who found it patronising, and social players, novices and children who enjoyed its light touch and focus on personalities. The series was placed in a testing environment, the 8pm slot, sandwiched between the intellectual heavyweights Mastermind and University Challenge. Viewer numbers, as supplied by Broadcast, peaked in the first week at 890,000, then gradually dipped to a low of 535,000 on Easter Monday before rebounding to 655,000, a 5.5% share of the",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/may/02/bbc-twos-chess-masters-the-endgame-divides-opinions-as-winner-is-crowned",
+         "pubDate" : "Fri, 02 May 2025 07:00:02",
+         "title" : "BBC Two's Chess Masters: The Endgame divides opinions as winner is crowned"
+      },
+      {
          "description" : "April saw notable shifts in the FIDE Circuit 2025 leaderboard, with Praggnanandhaa Rameshbabu moving into first place after a strong showing in Poland. Vladimir Fedoseev's victory in Warsaw propelled him to third, while Vasyl Ivanchuk's success in Menorca earned him fourth. Other key movements include Lu Shanglei rising to eighth and Parham Maghsoodloo entering the top ten.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,22 +1008,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-teodora-injac-clinches-european-womens-chess-championship-2025-with-a-round-to-spare/",
          "pubDate" : "Fri, 11 Apr 2025 07:44:32",
          "title" : "IM Teodora Injac clinches European Women's Chess Championship 2025 with a round to spare"
-      },
-      {
-         "description" : " Carlsen was the early frontrunner in the second leg of the Freestyle Grand Slam in Paris, from which both Alireza Firouzja and Niemann withdrew shortly before the start Magnus Carlsen, the world No 1, was an early front runner in the $375,000 second leg of the Freestyle Grand Slam in Paris. The 34 year-old tied for first with Russia's Ian Nepomniachtchi in the 12-player round robin which decided Thursday's quarter-finalists, and which proved a disaster for India. Three of their four contenders were eliminated, headed by the 18-year-old world champion, Gukesh Dommaraju, who also failed in the first Grand Slam leg in Germany. <a href=\"https://www.theguardian.com/sport/2025/apr/11/chess-magnus",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/apr/11/chess-magnus-carlsen-in-form-at-paris-freestyle-after-hans-niemann-drops-out",
-         "pubDate" : "Fri, 11 Apr 2025 07:00:02",
-         "title" : "Chess: Magnus Carlsen in form at Paris Freestyle after Hans Niemann drops out"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120195174.cms\" />India's chess prodigy, D Gukesh, fresh from his World Championship victory, is set to face Magnus Carlsen at Norway Chess 2025. Viswanathan Anand anticipates a thrilling contest, highlighting Carlsen's motivation against India's young talents. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-fired-up-to-face-indias-young-stars-says-viswanathan-anand/articleshow/120195174.cms",
-         "pubDate" : "Fri, 11 Apr 2025 06:07:53",
-         "title" : "Carlsen fired up to face India's young stars, says Anand"
       }
    ]
 }
