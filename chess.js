@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There are four nice chess events starting this week. The first is the final FIDE Women's Grand Prix in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Anna Muzychuk, Tan Zhongyi and Zhu Jiner are fighting over two Candidates places, Aleksandra Goryachkina leads the series but is not playing this event, she will be very unlucky to miss out, that will happen only if Muzychuk and Tan take the first two places. The Superbet Romania Chess Classic takes place Wed 7th to Sat 17th May 2025 Players: World Champion Gukesh, Caruana, Firouzja, Abdusattorov, Wesley So, Levon Aronian, MVL, Jan-Krzysztof Duda, Praggnanandhaa, Bogdan-Daniel Deac. On the same day the Asian Individual Championships s",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/four-chess-events-starting-6th-to-9th-may",
+         "pubDate" : "Fri, 2 May 2025 14:38:00",
+         "title" : "Four chess events starting 6th to 9th May - "
+      },
+      {
+         "description" : " The May Day Bank Holiday weekend in the UK sees the final three rounds of the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\">4NCL</a>, as it traditional. Manx Liberty are two points clear of Wood Green and have a much superior board count but they do meet in the final round 11 on Monday. There are a number of international opens that continue over the weekend the Baku Open 28th April to Tuesday 6th May where Aleksandar Indjic is the top seed and Mahammad Muradli is the early leader with 4/4. The Sunway Formentera Open takes place at a leisurely pace of one game a day 29th April to Friday 9th May. Sergey A. Fedorchuk is the top seed, Valentin Dragnev and Thomas Bauer were",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-2nd-to-5th-may-2025",
+         "pubDate" : "Fri, 2 May 2025 14:03:00",
+         "title" : "Chess this Weekend 2nd to 5th May 2025 - "
+      },
+      {
          "description" : "Many of the top players were mainly involved in Freestyle Chess in April, which is not rated by FIDE. However, the end of the Austrian and German Bundesliga seasons did bring about some changes in the world rankings. And in the junior women's category, Divya Deshmukh and Li Miaoyi are engaged in an exciting duel.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-may-2025",
          "pubDate" : "Fri, 02 May 2025 13:00:00",
          "title" : "FIDE ratings - May 2025"
+      },
+      {
+         "description" : " The 4NCL British Chess League takes place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty\ttake a two point lead into the final weekend over Wood Green and they meet in the final round 11 on Monday. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
+         "pubDate" : "Fri, 2 May 2025 12:40:00",
+         "title" : "4NCL 2024-25 - Games and Results"
       },
       {
          "description" : "The ECF Board is pleased that, following a competitive application and interview, it has been agreed that Rob King has been appointed as the ECF's Operations and Administration Director.&#160; Rob...",
@@ -906,14 +930,6 @@ news_feed (
          "title" : "25th European Women's Championship 2025 - Games and Results"
       },
       {
-         "description" : " Ju Wenjun beat Tan Zhongyi in game eight of her Women's World Chess Championship defence to take an all but unassailable 6-2 lead, she needs only a draw to finish the match. Today was really must win for Tan and she switched to 1.e4 but the variation couldn't be described as all or nothing. As with many of these games Ju equalised, got a little better, and then Tan subsided to defeat not seeming to know whether she should to try to hold the position or continue to look for winning chances. 25.Qd4?! keeping Queens on was a mistake but 25.exf5 would most likely have led to a quick draw, 28.c4? was the losing move. Ju Wenjun was super alert and found 28...e3! which led to the creation of a dan",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-all-but-retains-her-womens-world-championship-crown-after-a-fourth-win-in-a-row",
-         "pubDate" : "Mon, 14 Apr 2025 12:36:00",
-         "title" : "Ju Wenjun all but retains her Women's World Championship crown after a fourth win in a row - 8"
-      },
-      {
          "description" : "The European Senior Team Chess Championship 2025 concluded yesterday in Swidnica, Poland. The event was played in two age categories: 50+ and 65+ and England teams repeated the success from last year, defending three titles! Nine teams competed in the 65+ category, with England 1 team scoring perfect 16 match points to clinch gold! England 1 showed dominance winning all the matches with a minimum result of 3-1! Poland's Lower Silesia Team won silver medal with the score of 12 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -992,22 +1008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-vs-fabiano-caruana-ends-in-draw-r-praggnanandhaa-holds-richard-rapport-in-paris/articleshow/120212907.cms",
          "pubDate" : "Fri, 11 Apr 2025 17:24:44",
          "title" : "Freestyle Chess: Carlsen vs Caruana ends in draw; Pragg holds Rapport"
-      },
-      {
-         "description" : " After a three day break the Women's World Chess Championship match resumed after moving from Shanghai to Chongqing. Ju Wenjun picked up where she left off by winning her third game in a row and taking a near decisive 5-2 lead in the 12 game match. For much of game 7 Tan Zhongyi stood a tiny bit better but as she went below 5 minutes things became tricky, 33...g5 wasn't necessarily bad but she had clearer ways to hold, 35...Bb7? was the losing move, it did nothing, she would rather have not had her c-pawn, and it allowed Ju to force the exchange of Tan's good bishop. Tan had a couple of chances to complicate things with a4 but by first time control her position was already completely hopeles",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-wins-third-game-in-a-row-to-lead-5-2",
-         "pubDate" : "Fri, 11 Apr 2025 13:38:00",
-         "title" : "Ju Wenjun wins third game in a row to lead 5-2 - 7"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120204255.cms\" />Pranav Venkatesh, the World Junior Chess Champion, has his sights set on becoming the World Chess Champion. The 18-year-old from Chennai balances chess with academics and enjoys cricket. He admires Magnus Carlsen and Viswanathan Anand. Pranav is preparing for upcoming tournaments in Spain and Dubai. He skipped his board exams for the championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-rcb-fan-who-became-a-world-champion-the-story-of-pranav-v/articleshow/120204255.cms",
-         "pubDate" : "Fri, 11 Apr 2025 11:40:07",
-         "title" : "Exclusive: RCB fan who became a world champion"
       }
    ]
 }
