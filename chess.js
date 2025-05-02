@@ -10,6 +10,14 @@ news_feed (
          "title" : "The Classical Sicilian by SP Sethuraman"
       },
       {
+         "description" : "That&#39;s a wrap for PogChamps 6! Throughout the event, fans have witnessed many nerve-wrecking moments and piece blunders. But what was, by far, the most shocking thing about the event was the complete lack of stalemates, the first time this has eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-6-day-4",
+         "pubDate" : "Fri, 02 May 2025 15:44:38",
+         "title" : "Upsets, Blunders, And Brilliances Mark Last Day Of PogChamps 6, Ebere Crowned Champion"
+      },
+      {
          "description" : " There are four nice chess events starting this week. The first is the final FIDE Women's Grand Prix in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Anna Muzychuk, Tan Zhongyi and Zhu Jiner are fighting over two Candidates places, Aleksandra Goryachkina leads the series but is not playing this event, she will be very unlucky to miss out, that will happen only if Muzychuk and Tan take the first two places. The Superbet Romania Chess Classic takes place Wed 7th to Sat 17th May 2025 Players: World Champion Gukesh, Caruana, Firouzja, Abdusattorov, Wesley So, Levon Aronian, MVL, Jan-Krzysztof Duda, Praggnanandhaa, Bogdan-Daniel Deac. On the same day the Asian Individual Championships s",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -82,6 +90,14 @@ news_feed (
          "title" : "BBC Two's Chess Masters: The Endgame divides opinions as winner is crowned"
       },
       {
+         "description" : "US Chess is seeking applicants for the positions of Heads of Delegation (HOD) and Coaches (Trainers) for the 2025 FIDE International Youth events.The policy for selection is posted on the US Chess website. The three events covered by this process are: 2025 Pan-Am Youth (U8-U18) Chess Championships, July 27 - August 3, Lima, Peru2025 World Cadet (U8, U10, U12) Chess Championships, September 18 - October 1, Almaty, Kazakhstan2025 World Youth (U14, U16, U18) Chess Championships, October 3 - October 16, Durres, Albania**(2025 World Cadet event regulations are not yet published, so these dates are only official when the event regulations are published by FIDE and/or the organizer)Applicants for t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-seeking-hod-and-trainers-2025-international-youth-events",
+         "pubDate" : "Fri, 02 May 2025 00:00:00",
+         "title" : "US Chess Seeking HOD and Trainers for 2025 International Youth Events"
+      },
+      {
          "description" : "April saw notable shifts in the FIDE Circuit 2025 leaderboard, with Praggnanandhaa Rameshbabu moving into first place after a strong showing in Poland. Vladimir Fedoseev's victory in Warsaw propelled him to third, while Vasyl Ivanchuk's success in Menorca earned him fourth. Other key movements include Lu Shanglei rising to eighth and Parham Maghsoodloo entering the top ten.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,28 +138,12 @@ news_feed (
          "title" : "Pragg reacts to finishing third in Superbet Rapid Blitz Tournament"
       },
       {
-         "description" : "Chess 960, or Freestyle Chess, is currently experiencing a boom with many tournaments and games. The idea is that each new game with an unknown starting position brings new challenges. Now the first major collection of games is available, the Chess 960 Yearbook by Arno Nickel. Hartmut Metz took a look at it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arno-nickel-s-new-chess960-yearbook-a-review",
-         "pubDate" : "Thu, 01 May 2025 15:04:01",
-         "title" : "Arno Nickel's new Chess960 Yearbook - a review"
-      },
-      {
          "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
          "pubDate" : "Thu, 01 May 2025 12:00:19",
          "title" : "Next Grassroots assessment"
-      },
-      {
-         "description" : "Prague Chess Festival 2025: Analyses by Aravindh, Giri, Gurel, Navara, Nguyen, Shankland, Wei Yi and others - 'My favourite miniature': Entertaining, instructive, short - 27 games under 20 moves, annotated by CBM authors - Dutch vs. London: Yago Santiago counters with 1.d4 f5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Nc6! - 'Rooks in seventh heaven': Oliver Reeh's tactical tests with over 30 current games + four interactive videos - '3.Bf4! - Something for the lazy?\": Sam Shankland dissects his victory over Ediz Gurel from the Prague Masters with the London System - Opening videos by Daniel King, Jan Werle and Robert Ris and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-31",
-         "pubDate" : "Thu, 01 May 2025 12:00:00",
-         "title" : "New: ChessBase Magazine #225"
       },
       {
          "description" : "The Czech chess community is mourning the sudden loss of GM Petr Neuman, who passed away this week at the age of only 47. The grandmaster was found dead in his Prague apartment on Monday, the Czech Chess Federation announced on its website on We...",
@@ -160,14 +160,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/events-director-appointment/",
          "pubDate" : "Thu, 01 May 2025 08:24:20",
          "title" : "Events Director Appointment"
-      },
-      {
-         "description" : "Vladimir Fedoseev delivered a standout performance at the 2025 Superbet Rapid & Blitz Poland tournament, securing overall victory with three rounds to spare and finishing five points ahead of the field. The Slovenian grandmaster lost only one game out of 27 and posted one of the highest scores in Grand Chess Tour history. Maxime Vachier-Lagrave finished in clear second place, while Praggnanandhaa Rameshbabu claimed third after a final-round win over Levon Aronian. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2025-5",
-         "pubDate" : "Thu, 01 May 2025 07:40:00",
-         "title" : "Vladimir Fedoseev convincingly wins Superbet Rapid & Blitz Poland"
       },
       {
          "description" : "World Champion Gukesh Dommaraju will lead India against GM Hikaru Nakamura and the USA in a new five-board team match, which will also see GM Fabiano Caruana take on GM Arjun Erigaisi. The organizers say they expect a sold-out crowd for the stadiu...",
@@ -208,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-6-day-2",
          "pubDate" : "Wed, 30 Apr 2025 17:29:00",
          "title" : "Steve Nedoroscik, WolfeyVGC Lead In Toughest PogChamps Day Yet For Queens"
-      },
-      {
-         "description" : "The Czech Chess Federation announced yesterday on its website the death of Czech grandmaster Petr Neuman (11 March 1978 - 29 April 2025). The Czech Chess Federation describes Petr Neuman, who became a grandmaster in 2013, as one of the country's most active players. Last weekend, Neuman was still playing for his German club Bad Mergentheim in the Bundesliga. | Photo: Czech Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/czech-grandmaster-petr-neuman-has-passed-away",
-         "pubDate" : "Wed, 30 Apr 2025 17:12:18",
-         "title" : "Czech grandmaster Petr Neuman has passed away"
       },
       {
          "description" : "",
@@ -650,14 +634,6 @@ news_feed (
          "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
       },
       {
-         "description" : "GM Yagiz Kaan Erdogmus, the 13-year-old Turkish phenom, won his first-ever Titled Tuesday on April 22, scoring 10 points in a clean win. Later, GM Magnus Carlsen won his third consecutive late Titled Tuesday, this one coming off of a perfect 9/9 s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/erdogmus-carlsen-win-titled-tuesday-april-22-2025",
-         "pubDate" : "Wed, 23 Apr 2025 08:38:14",
-         "title" : "Carlsen Wins Again As Youth And Experience Both Have Their Day"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120536506.cms\" />Alina Kashlinskaya faltered against K Humpy in the FIDE Women's GP, missing a crucial win due to a last-minute change of strategy. This draw allowed Zhu Jiner to tie for the lead with Humpy, as Zhu defeated Divya Deshmukh. The final round will determine the tournament winner, with Humpy facing Nurgyul Salimova and Zhu playing Polina Shuvalova.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -904,14 +880,6 @@ news_feed (
          "link" : "https://new.uschess.org/alan-kantor-2025-executive-board-candidate-v2",
          "pubDate" : "Wed, 16 Apr 2025 00:00:00",
          "title" : "Alan Kantor 2025 Executive Board Candidate"
-      },
-      {
-         "description" : "This week's puzzles come from the 2025 KCF All-Girls National Chess Championship, focusing on some key variations and missed opportunities from games of the Under-14 and Under-18 winners. For more exercises from this event, see yesterday's Tactics Tuesday. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-20th-kcf-all-girls-championship",
-         "pubDate" : "Wed, 16 Apr 2025 00:00:00",
-         "title" : "Wednesday Workout: 20th KCF All-Girls Championship"
       },
       {
          "description" : " The Reykjavik Open took place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc. Top seed Parham Maghsoodloo won the event with 7/9 half a point clear of 10 players, Vasyl Ivanchuk finishing second on tie-break.",
