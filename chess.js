@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Classical Sicilian is one of the most flexible and dynamic variations of the Sicilian Defence. The Indian Grandmaster SP Sethuraman provides a comprehensive guide to mastering this opening in his new video course. In a series of detailed videos, Sethuraman introduces chess players to the intricacies of this combative opening. The course is aimed at ambitious chess players who want to play combative games with Black. It offers a common thread for an exciting opening for players from club level (1400) to title holders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-classical-sicilian-by-sp-sethuraman",
+         "pubDate" : "Fri, 02 May 2025 18:00:00",
+         "title" : "The Classical Sicilian by SP Sethuraman"
+      },
+      {
          "description" : " There are four nice chess events starting this week. The first is the final FIDE Women's Grand Prix in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Anna Muzychuk, Tan Zhongyi and Zhu Jiner are fighting over two Candidates places, Aleksandra Goryachkina leads the series but is not playing this event, she will be very unlucky to miss out, that will happen only if Muzychuk and Tan take the first two places. The Superbet Romania Chess Classic takes place Wed 7th to Sat 17th May 2025 Players: World Champion Gukesh, Caruana, Firouzja, Abdusattorov, Wesley So, Levon Aronian, MVL, Jan-Krzysztof Duda, Praggnanandhaa, Bogdan-Daniel Deac. On the same day the Asian Individual Championships s",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
          "pubDate" : "Fri, 2 May 2025 12:40:00",
          "title" : "4NCL 2024-25 - Games and Results"
+      },
+      {
+         "description" : "GM Vincent Keymer, who made waves in February by winning the 2025 Weissenhaus Freestyle Chess Grand Slam, added another Chess960 crown to his list on May 2, winning Freestyle Friday by a full point with a 10/11 score. GMs Pranesh M, Fabiano Caruan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-may-2-2025",
+         "pubDate" : "Fri, 02 May 2025 11:52:02",
+         "title" : "Keymer's Freestyle Prowess Reaffirmed"
       },
       {
          "description" : "The ECF Board is pleased that, following a competitive application and interview, it has been agreed that Rob King has been appointed as the ECF's Operations and Administration Director.&#160; Rob...",
@@ -158,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-nakamura-usa-india-showdown-esports-stadium",
-         "pubDate" : "Thu, 01 May 2025 06:36:10",
+         "pubDate" : "Thu, 01 May 2025 06:36:00",
          "title" : "Gukesh Vs. Nakamura Headlines USA-India Chess Match At Esports Stadium"
       },
       {
@@ -658,14 +674,6 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Cadets & Youth Rapid & Blitz"
       },
       {
-         "description" : "Just a day ago, GM Magnus Carlsen achieved the seemingly impossible (again). This time, he won the 2025 Grenke Chess Freestyle Open with a perfect 9/9 score. While his stellar performance stole headlines during the five-day event, we review seven ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-grenke-freestyle-chess-open-7-things-we-learned",
-         "pubDate" : "Tue, 22 Apr 2025 13:41:00",
-         "title" : "6 Things We Learned, 1 Thing We Already Knew - Grenke Chess Freestyle Open"
-      },
-      {
          "description" : "I have told the story often: in an interview in 2020 I said that in five years I expected at least two of the top ten players in the world would be Indian. My prediction was met with deep scepticism. It was clearly the unrealistic optimism of a friend and admirer of young Indian talents. It is true I was wrong. In five years since the prediction three have risen into the top ten bracket, and a fourth is on his way into it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,22 +1000,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-for-the-2nd-namma-bengaluru-international-grandmasters-open-chess-tournament-2025-category/",
          "pubDate" : "Sat, 12 Apr 2025 08:19:58",
          "title" : "Live games for the 2nd Namma Bengaluru International Grandmasters Open Chess Tournament 2025 Category"
-      },
-      {
-         "description" : " by Dr. O.T. Olabanji, PhD Plasma Physics, Highest USCF Rating = 2332 \"Chess is an extremely important game that tweaks the cognitive functionalities, enhances academic skills, aids rapid thought processes, boosts logical and strategic thinking, and helps to gain exceptional memory skills, creativity, focus and discipline\" [1-5]. I strongly recommend it for any child or [] The post <a href=\"https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/\">The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/simple-creation-geniuses-academia-and-industry-dr-ot-olabanji/",
-         "pubDate" : "Fri, 11 Apr 2025 17:31:15",
-         "title" : "The simple creation of Geniuses in Academia and Industry - by Dr. O.T. Olabanji"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120212907.cms\" />The Paris Freestyle Chess Grand Slam semifinals began with intense draws in the top matches as Carlsen and Caruana, Nakamura and Keymer couldn't break the deadlock. Nepomniachtchi and Abdusattorov secured wins in the 5th-place bracket, while Rapport and Praggnanandhaa drew. The stage is now set for decisive second games and potential tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-magnus-carlsen-vs-fabiano-caruana-ends-in-draw-r-praggnanandhaa-holds-richard-rapport-in-paris/articleshow/120212907.cms",
-         "pubDate" : "Fri, 11 Apr 2025 17:24:44",
-         "title" : "Freestyle Chess: Carlsen vs Caruana ends in draw; Pragg holds Rapport"
       }
    ]
 }
