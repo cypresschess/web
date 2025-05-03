@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christopher Yoo, aged 18, obtained outright victory at the 2025 Sardinia World Chess Festival with a final score of 7&frac12; out of 9. He remained unbeaten, finishing ahead of Ukrainian GM Ihor Samunenkov and Italian GM Lorenzo Lodici, who shared second place on 7 points. Yoo's recent career has drawn attention for an incident at the 2024 US Championship, where he was suspended for a year by the US Chess Federation following misconduct. | Photo: Niklesh Jain / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sardinia-festival-2025-final-report",
+         "pubDate" : "Sat, 03 May 2025 18:20:00",
+         "title" : "Christopher Yoo outright winner in Sardinia"
+      },
+      {
+         "description" : " The Sardinia World Open took place Sun 27th Apr to Sat 3rd May 2025 in OroseiI, Italy. The event was controversially won by Christopher Woojin Yoo with 7.5/9 half a point clear of Ihor Samunenkov and Lorenzo Lodici. Back in October 2024 Yoo was expelled from the US Chess Championships after he assaulted a woman following a loss of a game of chess he found distressing. Yoo was banned for a year from US chess and that ban was supposed to be extended to being a worldwide one via FIDE, the international chess federation. The best I can understand the situation is this, the US Chess Federation took many months to apply for this worldwide ban extension and it is only now under consideration by FI",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-open-2025",
+         "pubDate" : "Sat, 3 May 2025 17:16:00",
+         "title" : "Sardinia World Open 2025 - Games and Results"
+      },
+      {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -922,14 +938,6 @@ news_feed (
          "title" : "Magnus Carlsen clinches Freestyle Chess Grand Slam title in Paris"
       },
       {
-         "description" : " The 25th European Women's Championship took place in Rhodes, Greece, Mon 31st Mar to Sat 12th Apr 2025. Leading players: Nino Batsiashvili, Teodora Injac, Meri Arabidze, Stavroula Tsolakidou etc. The event was dominated by second seed Teodora Injac who after missing mate in two in round one and going on to lose then won nine games in a row to take the title. She agreed a quick draw in the final round. The event was a qualifier for the Women's World Cup with Injac, Mai Narva, Aleksandra Maltsevskaya, Anna Ushenina, Deimante Daulyte-Cornette, Gulnar Mammadova, Sophie Milliet, Oliwia Kiolbasa, Klaudia Kulon and Zia Urh qualifying. Those not mentioned who finished in the top 15 were already qua",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/25th-european-womens-championship-2025",
-         "pubDate" : "Mon, 14 Apr 2025 16:54:00",
-         "title" : "25th European Women's Championship 2025 - Games and Results"
-      },
-      {
          "description" : "The European Senior Team Chess Championship 2025 concluded yesterday in Swidnica, Poland. The event was played in two age categories: 50+ and 65+ and England teams repeated the success from last year, defending three titles! Nine teams competed in the 65+ category, with England 1 team scoring perfect 16 match points to clinch gold! England 1 showed dominance winning all the matches with a minimum result of 3-1! Poland's Lower Silesia Team won silver medal with the score of 12 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.europechess.org/senserobot-and-the-european-chess-union-forge-strategic-partnership-to-advance-ai-integration-in-chess/",
          "pubDate" : "Sun, 13 Apr 2025 08:41:27",
          "title" : "SenseRobot and the European Chess Union Forge Strategic Partnership to Advance AI Integration in Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120237227.cms\" />Magnus Carlsen and Hikaru Nakamura are set to face off in the Paris Freestyle Chess Grand Slam final after winning their respective semifinal matches. Carlsen defeated Fabiano Caruana, while Nakamura overcame Vincent Keymer. Caruana and Keymer will compete for third place, promising a thrilling conclusion to the event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-hikaru-nakamura-set-for-blockbuster-paris-freestyle-chess-grand-slam-final/articleshow/120237227.cms",
-         "pubDate" : "Sat, 12 Apr 2025 15:57:02",
-         "title" : "Carlsen vs Nakamura set for blockbuster Paris Freestyle Chess final"
       }
    ]
 }
