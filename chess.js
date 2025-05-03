@@ -18,12 +18,28 @@ news_feed (
          "title" : "Sardinia World Open 2025 - Games and Results"
       },
       {
+         "description" : "13-year-old Turkish GM Yagiz Erdogmus added a second Bullet Brawl title to his ever-growing trophy case on Saturday after scoring 72/79 for a total of 258 points in the two-hour arena. Erdogmus won the $400 first prize ahead of GMs Ediz Gurel, Hik...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-may-3-2025",
+         "pubDate" : "Sat, 03 May 2025 16:21:35",
+         "title" : "13-Year-Old Erdogmus Shows \"Top 10\" Potential, Wins 2nd Bullet Brawl Title"
+      },
+      {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/zoom-out/",
          "pubDate" : "Sat, 03 May 2025 13:00:00",
          "title" : "How to Recover from a Bad Loss in Chess: The Key to Bouncing Back"
+      },
+      {
+         "description" : " The 4NCL British Chess League takes place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty\ttook a two point lead into the final weekend over Wood Green but that was reduced to one after they only drew 4-4 against The Sharks 1. This makes the final round meeting between Manx Liberty and Wood Green on Monday the likely title decider. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
+         "pubDate" : "Sat, 3 May 2025 12:40:00",
+         "title" : "4NCL 2024-25 - Games and Results"
       },
       {
          "description" : "In terms coined by South African criminologist, Stanley Cohen, a moral panic refers to intense feelings of fear, concern or anger, throughout a given community, in response to the perception that cultural values or interests are being threatened by a specific group, known as folk devils. Moral panics are characterised by an exaggeration of the actual threat []",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Four chess events starting 6th to 9th May - "
       },
       {
-         "description" : " The May Day Bank Holiday weekend in the UK sees the final three rounds of the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\">4NCL</a>, as it traditional. Manx Liberty are two points clear of Wood Green and have a much superior board count but they do meet in the final round 11 on Monday. There are a number of international opens that continue over the weekend the Baku Open 28th April to Tuesday 6th May where Aleksandar Indjic is the top seed and Mahammad Muradli is the early leader with 4/4. The Sunway Formentera Open takes place at a leisurely pace of one game a day 29th April to Friday 9th May. Sergey A. Fedorchuk is the top seed, Valentin Dragnev and Thomas Bauer were",
+         "description" : " The May Day Bank Holiday weekend in the UK sees the final three rounds of the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\">4NCL</a>, as it traditional. Manx Liberty are two points clear of Wood Green and have a much superior board count but they do meet in the final round 11 on Monday. Update: after round 9 on Saturday the lead has been reduced to 1 point Manx Liberty were held 4-4 by the Sharks 1 and Wood Green beat Barnet Knights A. There are a number of international opens that continue over the weekend the Baku Open 28th April to Tuesday 6th May where Aleksandar Indjic is the top seed and Mahammad Muradli is the early leader with 4/4. The Sunway Formentera Open tak",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-2nd-to-5th-may-2025",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-may-2025",
          "pubDate" : "Fri, 02 May 2025 13:00:00",
          "title" : "FIDE ratings - May 2025"
-      },
-      {
-         "description" : " The 4NCL British Chess League takes place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty\ttake a two point lead into the final weekend over Wood Green and they meet in the final round 11 on Monday. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
-         "pubDate" : "Fri, 2 May 2025 12:40:00",
-         "title" : "4NCL 2024-25 - Games and Results"
       },
       {
          "description" : "GM Vincent Keymer, who made waves in February by winning the 2025 Weissenhaus Freestyle Chess Grand Slam, added another Chess960 crown to his list on May 2, winning Freestyle Friday by a full point with a 10/11 score. GMs Pranesh M, Fabiano Caruan...",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/humpy-wins-2025-fide-womens-grand-prix-pune",
          "pubDate" : "Wed, 23 Apr 2025 12:17:00",
          "title" : "Humpy Wins Pune Women's Grand Prix, Zhu Closes On Candidates"
-      },
-      {
-         "description" : "We&#39;re excited to announce that the ChessKid Youth Championships are returning for their second edition in 2025! This online blitz event will bring together the strongest prodigies of the game and offer fans a glimpse of the bright future of chess....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2025-chesskid-youth-championships",
-         "pubDate" : "Wed, 23 Apr 2025 12:01:00",
-         "title" : "ChessKid Youth Championship To Start May 3 With Strongest Prodigies In The World"
       },
       {
          "description" : "Humpy finished joint-top along with Zhu Jiner at the FIDE Women's Grand Prix event in Pune to move to overall second place in the Grand Prix series.",
