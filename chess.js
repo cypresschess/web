@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 4 October 2025, Arlington, Texas will host \"Checkmate: USA vs. India\", a major international chess event at Esports Stadium Arlington. Featuring top stars such as Hikaru Nakamura, Gukesh Dommaraju, Fabiano Caruana and Arjun Erigaisi, the match blends elite competition with high-end production and entertainment. With youth and women's matchups, and a face-off between top chess streamers, the event aims to present chess in a bold new format to a global audience. Tickets are now on sale. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-preview",
+         "pubDate" : "Sat, 03 May 2025 02:00:00",
+         "title" : "\"Checkmate: USA vs. India\" to take place in Texas in October"
+      },
+      {
          "description" : "The Classical Sicilian is one of the most flexible and dynamic variations of the Sicilian Defence. The Indian Grandmaster SP Sethuraman provides a comprehensive guide to mastering this opening in his new video course. In a series of detailed videos, Sethuraman introduces chess players to the intricacies of this combative opening. The course is aimed at ambitious chess players who want to play combative games with Black. It offers a common thread for an exciting opening for players from club level (1400) to title holders.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "The Classical Sicilian by SP Sethuraman"
       },
       {
-         "description" : "That&#39;s a wrap for PogChamps 6! Throughout the event, fans have witnessed many nerve-wrecking moments and piece blunders. But what was, by far, the most shocking thing about the event was the complete lack of stalemates, the first time this has eve...",
+         "description" : "That&#39;s a wrap for PogChamps 6! Throughout the event, fans have witnessed many nerve-wracking moments and piece blunders. We also saw a first in PogChamps history: not a single stalemate in the entire tournament. Ultimately, Ebere Eze became the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-6-day-4",
