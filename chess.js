@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chinese Team Championship took place Fri 25th Apr to Sat 3rd May 2025 in Zhangjiakou, China. Players including Wang Yue, Li Chao B, Xu Xiangyu in the men's and Shen Yang and Ding Yixin in the women's. Shandong won the men's and Shanghai the women's. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chinese-teams-2025",
+         "pubDate" : "Sat, 3 May 2025 07:56:00",
+         "title" : "Chinese Teams 2025 - Games and Results"
+      },
+      {
          "description" : "On 4 October 2025, Arlington, Texas will host \"Checkmate: USA vs. India\", a major international chess event at Esports Stadium Arlington. Featuring top stars such as Hikaru Nakamura, Gukesh Dommaraju, Fabiano Caruana and Arjun Erigaisi, the match blends elite competition with high-end production and entertainment. With youth and women's matchups, and a face-off between top chess streamers, the event aims to present chess in a bold new format to a global audience. Tickets are now on sale. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-25th-to-27th-april-2025",
          "pubDate" : "Fri, 25 Apr 2025 10:38:00",
          "title" : "Chess this weekend - 25th to 27th April 2025 - "
-      },
-      {
-         "description" : " The Chinese Team Championship takes place Fri 25th Apr to Sat 3rd May 2025 in Zhangjiakou, China. Players including Wang Yue, Li Chao B, Xu Xiangyu in the men's and Shen Yang and Ding Yixin in the women's. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chinese-teams-2025",
-         "pubDate" : "Fri, 25 Apr 2025 09:09:00",
-         "title" : "Chinese Teams 2025 - Games and Results"
       },
       {
          "description" : "Congratulations to Sohum Lohia (above right) and Alex Golding, who both gained their third IM norm at the Southend Masters (part of the Southend Easter Chess Festival). They are both...",
