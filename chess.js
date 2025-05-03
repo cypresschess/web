@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/zoom-out/",
+         "pubDate" : "Sat, 03 May 2025 13:00:00",
+         "title" : "How to Recover from a Bad Loss in Chess: The Key to Bouncing Back"
+      },
+      {
          "description" : "In terms coined by South African criminologist, Stanley Cohen, a moral panic refers to intense feelings of fear, concern or anger, throughout a given community, in response to the perception that cultural values or interests are being threatened by a specific group, known as folk devils. Moral panics are characterised by an exaggeration of the actual threat []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -506,7 +514,7 @@ news_feed (
          "title" : "Teenage Prodigy Wins Freestyle Friday"
       },
       {
-         "description" : "Another path to the 2025 Esports World Cup (EWC) has now been revealed. Chess players can compete at the DreamHack festival in Dallas from May 23 to 25 for four spots at the EWC Last Chance Qualifier&#38;nbsp;and a share of the $20,000 prize fund.&#38;nbs...",
+         "description" : "Another path to the 2025 Esports World Cup (EWC) has now been revealed. Chess players can compete at the DreamHack festival in Dallas from May 23 to 25 for four spots at the EWC Last Chance Qualifier&#38;nbsp;and a share of the $20,000 prize fund. Don...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-dreamhack-dallas-road-to-esports-world-cup",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-hikaru-nakamura-set-for-blockbuster-paris-freestyle-chess-grand-slam-final/articleshow/120237227.cms",
          "pubDate" : "Sat, 12 Apr 2025 15:57:02",
          "title" : "Carlsen vs Nakamura set for blockbuster Paris Freestyle Chess final"
-      },
-      {
-         "description" : "I opened my investment app this morning, and it hurt. Down 10-20% in just a few days. Red everywhere. Immediately, the thoughts started racing: Should I sell? Should I change allocations? Should I do something-anything? That anxious need to react is hard to resist. But then I remembered: I had a plan when I started []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/follow-a-plan/",
-         "pubDate" : "Sat, 12 Apr 2025 13:00:00",
-         "title" : "The Solution to Bad Times? A Plan."
       }
    ]
 }
