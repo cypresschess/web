@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In terms coined by South African criminologist, Stanley Cohen, a moral panic refers to intense feelings of fear, concern or anger, throughout a given community, in response to the perception that cultural values or interests are being threatened by a specific group, known as folk devils. Moral panics are characterised by an exaggeration of the actual threat []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/is-declining-iq-just-a-moral-panic/",
+         "pubDate" : "Sat, 03 May 2025 10:40:22",
+         "title" : "Is declining IQ just a moral panic?"
+      },
+      {
          "description" : " The Chinese Team Championship took place Fri 25th Apr to Sat 3rd May 2025 in Zhangjiakou, China. Players including Wang Yue, Li Chao B, Xu Xiangyu in the men's and Shen Yang and Ding Yixin in the women's. Shandong won the men's and Shanghai the women's. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -952,30 +960,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/follow-a-plan/",
          "pubDate" : "Sat, 12 Apr 2025 13:00:00",
          "title" : "The Solution to Bad Times? A Plan."
-      },
-      {
-         "description" : "One of the most celebrated legends of chess lore concerns a game won by the American champion and grandmaster Frank Marshall in 1912 at the tournament of Breslau, then in the German Empire (now Wroclaw in Poland). Marshall sacrificed his Queen in sparkling fashion and was allegedly rewarded with a shower of gold coins by []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/bullion-in-breslau/",
-         "pubDate" : "Sat, 12 Apr 2025 10:48:11",
-         "title" : "Bullion in Breslau"
-      },
-      {
-         "description" : "The 2025 European Women's Chess Championship concluded yesterday in Rhodes, Greece. IM Teodora Injac (SRB, 2454) emerged as the sole Winner of the event, clinching the title with a round to spare. Teodora Injac suffered a loss in the first round of the Championship, but then scored spectacular 9 consecutive victories for a historical result. Drawing in the last round against IM Aleksandra Maltsevskaya (POL, 2376), Injac finished the tournament with the score of 9.5/11 points, 1.5 points ahead of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2025-concluded-in-rhodes-greece/",
-         "pubDate" : "Sat, 12 Apr 2025 10:14:37",
-         "title" : "European Women's Chess Championship 2025 concluded in Rhodes, Greece"
-      },
-      {
-         "description" : "Category A: https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-a/games Category B : https://www.chess.com/events/2025-namma-bengaluru-international-grandmasters-open-category-b/games",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-for-the-2nd-namma-bengaluru-international-grandmasters-open-chess-tournament-2025-category/",
-         "pubDate" : "Sat, 12 Apr 2025 08:19:58",
-         "title" : "Live games for the 2nd Namma Bengaluru International Grandmasters Open Chess Tournament 2025 Category"
       }
    ]
 }
