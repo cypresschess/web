@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Canadian Chess Championships took place in Toronto on 17-22 April, bringing together 90 players from across nine provinces. IM Nikolay Noritsyn (pictured) claimed his third national title in the open section, while WIM Li Yunshan secured her first women's title on tiebreak. The championships featured strong performances from both established and emerging players in two parallel 9-round Swiss tournaments. Close contests in both events led to final-round deciders. | Photo: John Upper",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/canadian-championships-2025-report",
+         "pubDate" : "Sun, 04 May 2025 20:00:00",
+         "title" : "Nikolay Noritsyn and Li Yunshan are 2025 Canadian chess champions"
+      },
+      {
          "description" : "Have you admired how beautifully the authors colour fields and insert arrows in the ChessBase videos? Would you like to be able to do the same? In this tutorial series, we show you how you can improve your own analyses in ChessBase 18 with clear graphical elements.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tipps-part-12-arrows-and-marks",
          "pubDate" : "Sun, 04 May 2025 14:00:00",
-         "title" : "ChessBase 18 - Beginner's Tipps, Part 12: Arrows and marks"
+         "title" : "ChessBase 18 - Beginner's Tips, Part 12: Arrows and marks"
       },
       {
          "description" : "The Baku Open, the first event in the newly established Chess Tour Azerbaijan, is underway at the Baku Crystal Hall (pictured) and has completed six of its nine scheduled rounds. Serbian grandmaster Aleksandar Indjic leads the field with 5 points, followed closely by Georgian GM Baadur Jobava and Turkish GM Vahap Sanal. The tournament features a strong mix of local and international players and forms part of a broader initiative to promote chess through events held in Azerbaijan's major cities and tourist destinations. | Photo: Florian Licht",
@@ -82,14 +90,6 @@ news_feed (
          "title" : "\"Checkmate: USA vs. India\" to take place in Texas in October"
       },
       {
-         "description" : "The Classical Sicilian is one of the most flexible and dynamic variations of the Sicilian Defence. The Indian Grandmaster SP Sethuraman provides a comprehensive guide to mastering this opening in his new video course. In a series of detailed videos, Sethuraman introduces chess players to the intricacies of this combative opening. The course is aimed at ambitious chess players who want to play combative games with Black. It offers a common thread for an exciting opening for players from club level (1400) to title holders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-classical-sicilian-by-sp-sethuraman",
-         "pubDate" : "Fri, 02 May 2025 18:00:00",
-         "title" : "The Classical Sicilian by SP Sethuraman"
-      },
-      {
          "description" : "That&#39;s a wrap for PogChamps 6! Throughout the event, fans have witnessed many nerve-wracking moments and piece blunders. We also saw a first in PogChamps history: not a single stalemate in the entire tournament. Ultimately, Ebere Eze became the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,14 +114,6 @@ news_feed (
          "title" : "Chess this Weekend 2nd to 5th May 2025 - "
       },
       {
-         "description" : "Many of the top players were mainly involved in Freestyle Chess in April, which is not rated by FIDE. However, the end of the Austrian and German Bundesliga seasons did bring about some changes in the world rankings. And in the junior women's category, Divya Deshmukh and Li Miaoyi are engaged in an exciting duel.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-may-2025",
-         "pubDate" : "Fri, 02 May 2025 13:00:00",
-         "title" : "FIDE ratings - May 2025"
-      },
-      {
          "description" : "GM Vincent Keymer, who made waves in February by winning the 2025 Weissenhaus Freestyle Chess Grand Slam, added another Chess960 crown to his list on May 2, winning Freestyle Friday by a full point with a 10/11 score. GMs Pranesh M, Fabiano Caruan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -136,14 +128,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/operations-and-administration-director-appointment/",
          "pubDate" : "Fri, 02 May 2025 09:38:05",
          "title" : "Operations and Administration Director Appointment"
-      },
-      {
-         "description" : "The sixth and final leg of the 2024/2025 FIDE Women's Grand Prix begins on 6 May in Grosslobming, Austria, with three players still in contention for the overall title. Aleksandra Goryachkina currently leads the standings but will not compete in the final stage, leaving Zhu Jiner and Anna Muzychuk with a chance to overtake her. The event will also determine which two players qualify for the 2026 Women's Candidates, making this final stage a pivotal moment in the Women's World Championship cycle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-preview",
-         "pubDate" : "Fri, 02 May 2025 08:50:00",
-         "title" : "The moment of truth: Women's Grand Prix heads to Austria for decisive stage"
       },
       {
          "description" : "Please note the closing date for nominations is 31st May 2025 We are inviting nominations for the BCET Awards 2025 which are for junior schools (including colleges and other...",
@@ -168,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-seeking-hod-and-trainers-2025-international-youth-events",
          "pubDate" : "Fri, 02 May 2025 00:00:00",
          "title" : "US Chess Seeking HOD and Trainers for 2025 International Youth Events"
-      },
-      {
-         "description" : "April saw notable shifts in the FIDE Circuit 2025 leaderboard, with Praggnanandhaa Rameshbabu moving into first place after a strong showing in Poland. Vladimir Fedoseev's victory in Warsaw propelled him to third, while Vasyl Ivanchuk's success in Menorca earned him fourth. Other key movements include Lu Shanglei rising to eighth and Parham Maghsoodloo entering the top ten.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-circuit-2025-may-standings",
-         "pubDate" : "Thu, 01 May 2025 22:00:00",
-         "title" : "FIDE Circuit: Pragg seizes the lead, Fedoseev and Ivanchuk among top five"
       },
       {
          "description" : " The <a href=\"https://www.checkmateusaindia.com/\">Checkmate: USA vs India</a> match takes place in the Esports Stadium Arlington, Texas, on Saturday, October 4th 2025. 10 players, 5 matches, time control 10mins, then 5mins then increasingly faster until there is a decisive result. The matches are played sequentially across four categories, those are: Elite: Hikaru Nakamura vs Gukesh Dommaraju, Fabiano Caruana vs Arjun Erigaisi, Women's: Carissa Yip vs Divya Deshmukh, Internet: Levy Rozman (USA, GothamChess) vs Sagar Shah (IND, Chessbase India) and Youth: Tani Adewumi (USA) vs Ethan Vaz (IND). The order in which the matches are played will be decided later, obviously there will be increasing ",
@@ -960,14 +936,6 @@ news_feed (
          "link" : "https://www.europechess.org/england-wins-triple-gold-at-european-senior-team-chess-championship-2025/",
          "pubDate" : "Mon, 14 Apr 2025 11:44:46",
          "title" : "England wins triple gold at European Senior Team Chess Championship 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120258623.cms\" />Magnus Carlsen secured a 1-0 lead against Hikaru Nakamura in the Freestyle Chess Grand Slam final in Paris, capitalising on a crucial error by Nakamura. Carlsen's precise conversion of the advantage puts pressure on Nakamura to win the second game. Fabiano Caruana also leads in the third-place match, while other placement matches saw victories for Arjun Erigaisi and Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-magnus-carlsen-draws-first-blood-against-hikaru-nakamura-in-paris-final/articleshow/120258623.cms",
-         "pubDate" : "Sun, 13 Apr 2025 16:32:01",
-         "title" : "Carlsen draws first blood against Nakamura in Paris final"
       }
    ]
 }
