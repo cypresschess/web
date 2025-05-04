@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2025-05-02  - 05-03","8","<a href=http://www.uschess.org/msa/XtblMain.php?202505032672 target='_blank'>MAY FRIDAY NIGHT & SATURDAY MORNING</a>",
+"PASADENA","2025-05-03","35","<a href=http://www.uschess.org/msa/XtblMain.php?202505032372 target='_blank'>PISD MAY 2025</a>",
+"HOUSTON","2025-05-03","118","<a href=http://www.uschess.org/msa/XtblMain.php?202505032302 target='_blank'>MAY THE 4TH BE WITH YOU</a>",
+"HOUSTON","2025-05-03","15","<a href=http://www.uschess.org/msa/XtblMain.php?202505032132 target='_blank'>CHESSPANDA05032025SATURDAY</a>",
+"SUGAR LAND","2025-05-03","20","<a href=http://www.uschess.org/msa/XtblMain.php?202505031592 target='_blank'>FBCC 2025 NATIONAL TRUFFLE DAY OPEN</a>",
 "HOUSTON","2025-04-01  - 04-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202504290952 target='_blank'>APRIL 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-04-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202504278782 target='_blank'>BELLAIRE SUNDAY SWISS 4/27/2025</a>",
 "HOUSTON","2025-04-27","9","<a href=http://www.uschess.org/msa/XtblMain.php?202504278712 target='_blank'>APRIL 27TH ADULTS ONLY SUNDAY SWISS</a>",
@@ -194,9 +199,4 @@ jtable([
 "HOUSTON","2024-09-21  - 09-22","24","<a href=http://www.uschess.org/msa/XtblMain.php?202409224742 target='_blank'>U2400 + A BLITZ - SEPT. 2024</a>",
 "HOUSTON","2024-09-21","110","<a href=http://www.uschess.org/msa/XtblMain.php?202409214012 target='_blank'>TCR: HOUSTON SCHOLASTIC TEAM CHAMPIONSHIP 2024</a>",
 "HOUSTON","2024-09-21","13","<a href=http://www.uschess.org/msa/XtblMain.php?202409213792 target='_blank'>CHESSPANDA09212024SATURDAY</a>",
-"CYPRESS","2024-09-20","43","<a href=http://www.uschess.org/msa/XtblMain.php?202409203352 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-09-20","6","<a href=http://www.uschess.org/msa/XtblMain.php?202409203332 target='_blank'>FBCC 2024 PEPPERONI PIZZA DAY OPEN.</a>",
-"SPRING","2024-09-20","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409203302 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-09-14","38","<a href=http://www.uschess.org/msa/XtblMain.php?202409149862 target='_blank'>SEPT 14TH TROPHY SCHOLASTIC</a>",
-"HOUSTON","2024-09-14","11","<a href=http://www.uschess.org/msa/XtblMain.php?202409149852 target='_blank'>CHESSPANDA09142024SATURDAY</a>",
 ]);
