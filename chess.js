@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Baku Open, the first event in the newly established Chess Tour Azerbaijan, is underway at the Baku Crystal Hall (pictured) and has completed six of its nine scheduled rounds. Serbian grandmaster Aleksandar Indjic leads the field with 5 points, followed closely by Georgian GM Baadur Jobava and Turkish GM Vahap Sanal. The tournament features a strong mix of local and international players and forms part of a broader initiative to promote chess through events held in Azerbaijan's major cities and tourist destinations. | Photo: Florian Licht",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/baku-open-2025-r6",
+         "pubDate" : "Sun, 04 May 2025 08:00:00",
+         "title" : "Indjic leads Baku Open after six rounds"
+      },
+      {
          "description" : "Christopher Yoo, aged 18, obtained outright victory at the 2025 Sardinia World Chess Festival with a final score of 7&frac12; out of 9. He remained unbeaten, finishing ahead of Ukrainian GM Ihor Samunenkov and Italian GM Lorenzo Lodici, who shared second place on 7 points. Yoo's recent career has drawn attention for an incident at the 2024 US Championship, where he was suspended for a year by the US Chess Federation following misconduct. | Photo: Niklesh Jain / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
