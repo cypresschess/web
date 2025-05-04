@@ -22,8 +22,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-may-3-2025",
-         "pubDate" : "Sat, 03 May 2025 16:21:35",
-         "title" : "13-Year-Old Erdogmus Shows \"Top 10\" Potential, Wins 2nd Bullet Brawl Title"
+         "pubDate" : "Sat, 03 May 2025 16:21:00",
+         "title" : "13-Year-Old Erdogmus Shows 'Top-10' Potential, Wins 2nd Bullet Brawl Title"
       },
       {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
