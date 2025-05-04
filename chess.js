@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Have you admired how beautifully the authors colour fields and insert arrows in the ChessBase videos? Would you like to be able to do the same? In this tutorial series, we show you how you can improve your own analyses in ChessBase 18 with clear graphical elements.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tipps-part-12-arrows-and-marks",
+         "pubDate" : "Sun, 04 May 2025 14:00:00",
+         "title" : "ChessBase 18 - Beginner's Tipps, Part 12: Arrows and marks"
+      },
+      {
          "description" : "The Baku Open, the first event in the newly established Chess Tour Azerbaijan, is underway at the Baku Crystal Hall (pictured) and has completed six of its nine scheduled rounds. Serbian grandmaster Aleksandar Indjic leads the field with 5 points, followed closely by Georgian GM Baadur Jobava and Turkish GM Vahap Sanal. The tournament features a strong mix of local and international players and forms part of a broader initiative to promote chess through events held in Azerbaijan's major cities and tourist destinations. | Photo: Florian Licht",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
