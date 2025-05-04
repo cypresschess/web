@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Manx Liberty took a three point lead in the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\"> 4NCL</a> into the final three round May Day Bank Holiday weekend. They meet their closest challengers Wood Green\tin the final round 11. What happened was slightly unexpected, the destination of the title was strongly influenced by a mid-table third party. In Round 9 The Sharks 1 managed a 4-4 draw against Manx Liberty whilst Wood Green comfortably beat Barnet Knights to move within striking distance, and revealed they had recruited Michael Adams for the final weekend. Round 10 showed that The Sharks 1 hadn't finished decisively intervening in the season when they edged out Wood Gr",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/manx-liberty-win-the-4ncl-2024-25-season",
+         "pubDate" : "Sun, 4 May 2025 21:08:00",
+         "title" : "Manx Liberty win the 4NCL 2024-25 season - 10"
+      },
+      {
          "description" : "The 2025 Canadian Chess Championships took place in Toronto on 17-22 April, bringing together 90 players from across nine provinces. IM Nikolay Noritsyn (pictured) claimed his third national title in the open section, while WIM Li Yunshan secured her first women's title on tiebreak. The championships featured strong performances from both established and emerging players in two parallel 9-round Swiss tournaments. Close contests in both events led to final-round deciders. | Photo: John Upper",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "How to Recover from a Bad Loss in Chess: The Key to Bouncing Back"
       },
       {
-         "description" : " The 4NCL British Chess League takes place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty\ttook a two point lead into the final weekend over Wood Green but that was reduced to one after they only drew 4-4 against The Sharks 1. This makes the final round meeting between Manx Liberty and Wood Green on Monday the likely title decider. ",
+         "description" : " The 4NCL UK Chess League takes place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty\ttook a three point lead into the final weekend over Wood Green but that was reduced to two after they only drew 4-4 against The Sharks 1. In Round 10 The Sharks beat Wood Green and this made Manx Liberty champions ahead of their own final round match against Wood Green. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://new.uschess.org/alan-kantor-2025-executive-board-candidate-v2",
          "pubDate" : "Wed, 16 Apr 2025 00:00:00",
          "title" : "Alan Kantor 2025 Executive Board Candidate"
-      },
-      {
-         "description" : " The Reykjavik Open took place Wed 9th Apr to Tue 15th Apr 2025. The event was designated a Fridrik Olafsson Memorial following his passing only a few days ago. Players: Maghsoodloo, Ivic, Lu, Safarli, Ivanchuk etc. Top seed Parham Maghsoodloo won the event with 7/9 half a point clear of 10 players, Vasyl Ivanchuk finishing second on tie-break.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2025",
-         "pubDate" : "Tue, 15 Apr 2025 13:56:00",
-         "title" : "Reykjavik Open 2025 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120287156.cms\" />Magnus Carlsen triumphed at the Freestyle Chess Grand Slam in Paris, securing the title by defeating Hikaru Nakamura 1.5-0.5 in the final. Carlsen's dominant performance earned him the $200,000 first prize, solidifying his status in this innovative format. Fabiano Caruana claimed third place, edging out Vincent Keymer and securing a spot in the upcoming Grand Slam event in the USA.",
