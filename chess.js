@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-grand-slam-magnus-carlsen-draws-first-blood-against-hikaru-nakamura-in-paris-final/articleshow/120258623.cms",
          "pubDate" : "Sun, 13 Apr 2025 16:32:01",
          "title" : "Carlsen draws first blood against Nakamura in Paris final"
-      },
-      {
-         "description" : "On April 12, SenseRobot and the European Chess Union (ECU) officially signed a strategic partnership during a signing ceremony held in Rhodes, Greece. This collaboration represents a significant step toward modernizing chess education and development, combining ECU's established institutional framework with SenseRobot's AI-driven technology,&#160; contributing to the long-term growth and evolution of the sport. The partnership with ECU reflects a broader shift in how chess training is delivered. It moves away from traditional, passive methods toward more dynamic, data-driven approaches. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/senserobot-and-the-european-chess-union-forge-strategic-partnership-to-advance-ai-integration-in-chess/",
-         "pubDate" : "Sun, 13 Apr 2025 08:41:27",
-         "title" : "SenseRobot and the European Chess Union Forge Strategic Partnership to Advance AI Integration in Chess"
       }
    ]
 }
