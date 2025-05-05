@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. With high stakes and a strong international line-up, including reigning champion Fabiano Caruana and world champion Gukesh Dommaraju, the tournament will play a key role in shaping the race to qualify for the season-ending finals in São Paulo. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-preview",
+         "pubDate" : "Mon, 05 May 2025 07:00:00",
+         "title" : "Elite-level classical chess returns with Superbet Classic: Gukesh and Caruana in the mix"
+      },
+      {
          "description" : " Manx Liberty took a three point lead in the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\"> 4NCL</a> into the final three round May Day Bank Holiday weekend. They meet their closest challengers Wood Green\tin the final round 11. What happened was slightly unexpected, the destination of the title was strongly influenced by a mid-table third party. In Round 9 The Sharks 1 managed a 4-4 draw against Manx Liberty whilst Wood Green comfortably beat Barnet Knights to move within striking distance, and revealed they had recruited Michael Adams for the final weekend. Round 10 showed that The Sharks 1 hadn't finished decisively intervening in the season when they edged out Wood Gr",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chinese-teams-2025",
          "pubDate" : "Sat, 3 May 2025 07:56:00",
          "title" : "Chinese Teams 2025 - Games and Results"
-      },
-      {
-         "description" : "On 4 October 2025, Arlington, Texas will host \"Checkmate: USA vs. India\", a major international chess event at Esports Stadium Arlington. Featuring top stars such as Hikaru Nakamura, Gukesh Dommaraju, Fabiano Caruana and Arjun Erigaisi, the match blends elite competition with high-end production and entertainment. With youth and women's matchups, and a face-off between top chess streamers, the event aims to present chess in a bold new format to a global audience. Tickets are now on sale. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-preview",
-         "pubDate" : "Sat, 03 May 2025 02:00:00",
-         "title" : "\"Checkmate: USA vs. India\" to take place in Texas in October"
       },
       {
          "description" : "That&#39;s a wrap for PogChamps 6! Throughout the event, fans have witnessed many nerve-wracking moments and piece blunders. We also saw a first in PogChamps history: not a single stalemate in the entire tournament. Ultimately, Ebere Eze became the ...",
