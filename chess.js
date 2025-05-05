@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FIDE Women's Grand Prix takes place in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Players: Jiner Zhu, Zhongyi Tan, Anna Muzychuk, Nana Dzagnidze, Mariya Muzychuk, Alexandra Kosteniuk, Rameshbabu Vaishali, Lela Javakhishvili, Olga Badelka and Nurgyul Salimova. The event is the final in a series of 6. The top two in the final standings will qualify for the Candidates. The leaders are Aleksandra Goryachkina followed by Humpy Koneru, neither play in this final event. Goryachkina seems certain to take one of these places and indeed almost certainly win the series, Humpy Koneru will likely not finish second. Zhu Jiner won't need a very big result to overtake her and Anna Muzychuk & T",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025",
+         "pubDate" : "Mon, 5 May 2025 14:39:00",
+         "title" : "FIDE Women's Grand Prix in Grosslobming 2025 - Games and Results"
+      },
+      {
+         "description" : "\"The BBC has posted a 1972 interview with Fischer by James Burke on YouTube,\" our friend Yasser Seirawan told us. BBC Two had was broadcast this video, which is 35 minutes long, on 2 July, 1972, nine days before the epic match began. \"Personally, I thought that it is fantastic, vintage stuff. You see the Fischer that I met in 1992. Engaging, funny, self-assured. But also aware of his own shortcomings.\" It is really something you don't want to miss.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-little-thing-with-me-and-spassky",
+         "pubDate" : "Mon, 05 May 2025 14:17:33",
+         "title" : "This little thing with me and Spassky"
+      },
+      {
          "description" : "Chess has played an important role in the development of information technology, computer hardware and software. For example, in 1903, shortly after the invention of radio, a long-distance game was played between chess players on the ships Philadelphia and Lucania (photo). Rolf Beran reports on this and other early transmissions in information technology. | Photo: United States Library of Congress (via Wikipedia)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "European Team Chess Championship 2025 - Official regulations"
       },
       {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. With high stakes and a strong international line-up, including reigning champion Fabiano Caruana and world champion Gukesh Dommaraju, the tournament will play a key role in shaping the race to qualify for the season-ending finals in São Paulo. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-preview",
-         "pubDate" : "Mon, 05 May 2025 07:00:00",
-         "title" : "Elite-level classical chess returns with Superbet Classic: Gukesh and Caruana in the mix"
+         "description" : "Canada&#39;s youngest ever IM Aaron Mendes&#38;nbsp;has won the Under 13 ChessKid Youth Championship after defeating FM-elect Megan Paragua 5-3 in the final. Paragua got a late chance to play in the knockout after FM-elect Supratit Banerjee was forced to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-mendes-wins",
+         "pubDate" : "Mon, 05 May 2025 06:25:42",
+         "title" : "Aaron Mendes Wins Under 13 ChessKid Youth Championship"
       },
       {
          "description" : " Manx Liberty took a three point lead in the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\"> 4NCL</a> into the final three round May Day Bank Holiday weekend. They meet their closest challengers Wood Green\tin the final round 11. What happened was slightly unexpected, the destination of the title was strongly influenced by a mid-table third party. In Round 9 The Sharks 1 managed a 4-4 draw against Manx Liberty whilst Wood Green comfortably beat Barnet Knights to move within striking distance, and revealed they had recruited Michael Adams for the final weekend. Round 10 showed that The Sharks 1 hadn't finished decisively intervening in the season when they edged out Wood Gr",
@@ -32,38 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/manx-liberty-win-the-4ncl-2024-25-season",
          "pubDate" : "Sun, 4 May 2025 21:08:00",
          "title" : "Manx Liberty win the 4NCL 2024-25 season - 10"
-      },
-      {
-         "description" : "The 2025 Canadian Chess Championships took place in Toronto on 17-22 April, bringing together 90 players from across nine provinces. IM Nikolay Noritsyn (pictured) claimed his third national title in the open section, while WIM Li Yunshan secured her first women's title on tiebreak. The championships featured strong performances from both established and emerging players in two parallel 9-round Swiss tournaments. Close contests in both events led to final-round deciders. | Photo: John Upper",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/canadian-championships-2025-report",
-         "pubDate" : "Sun, 04 May 2025 20:00:00",
-         "title" : "Nikolay Noritsyn and Li Yunshan are 2025 Canadian chess champions"
-      },
-      {
-         "description" : "Have you admired how beautifully the authors colour fields and insert arrows in the ChessBase videos? Would you like to be able to do the same? In this tutorial series, we show you how you can improve your own analyses in ChessBase 18 with clear graphical elements.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tipps-part-12-arrows-and-marks",
-         "pubDate" : "Sun, 04 May 2025 14:00:00",
-         "title" : "ChessBase 18 - Beginner's Tips, Part 12: Arrows and marks"
-      },
-      {
-         "description" : "The Baku Open, the first event in the newly established Chess Tour Azerbaijan, is underway at the Baku Crystal Hall (pictured) and has completed six of its nine scheduled rounds. Serbian grandmaster Aleksandar Indjic leads the field with 5 points, followed closely by Georgian GM Baadur Jobava and Turkish GM Vahap Sanal. The tournament features a strong mix of local and international players and forms part of a broader initiative to promote chess through events held in Azerbaijan's major cities and tourist destinations. | Photo: Florian Licht",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/baku-open-2025-r6",
-         "pubDate" : "Sun, 04 May 2025 08:00:00",
-         "title" : "Indjic leads Baku Open after six rounds"
-      },
-      {
-         "description" : "Christopher Yoo, aged 18, obtained outright victory at the 2025 Sardinia World Chess Festival with a final score of 7&frac12; out of 9. He remained unbeaten, finishing ahead of Ukrainian GM Ihor Samunenkov and Italian GM Lorenzo Lodici, who shared second place on 7 points. Yoo's recent career has drawn attention for an incident at the 2024 US Championship, where he was suspended for a year by the US Chess Federation following misconduct. | Photo: Niklesh Jain / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sardinia-festival-2025-final-report",
-         "pubDate" : "Sat, 03 May 2025 18:20:00",
-         "title" : "Christopher Yoo outright winner in Sardinia"
       },
       {
          "description" : " The Sardinia World Open took place Sun 27th Apr to Sat 3rd May 2025 in OroseiI, Italy. The event was controversially won by Christopher Woojin Yoo with 7.5/9 half a point clear of Ihor Samunenkov and Lorenzo Lodici. Back in October 2024 Yoo was expelled from the US Chess Championships after he assaulted a woman following a loss of a game of chess he found distressing. Yoo was banned for a year from US chess and that ban was supposed to be extended to being a worldwide one via FIDE, the international chess federation. The best I can understand the situation is this, the US Chess Federation took many months to apply for this worldwide ban extension and it is only now under consideration by FI",
@@ -80,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-may-3-2025",
          "pubDate" : "Sat, 03 May 2025 16:21:00",
          "title" : "13-Year-Old Erdogmus Shows 'Top-10' Potential, Wins 2nd Bullet Brawl Title"
+      },
+      {
+         "description" : "On 4 October 2025, Arlington, Texas will host \"Checkmate: USA vs. India\", a major international chess event at Esports Stadium Arlington. Featuring top stars such as Hikaru Nakamura, Gukesh Dommaraju, Fabiano Caruana and Arjun Erigaisi, the match blends elite competition with high-end production and entertainment. With youth and women's matchups, and a face-off between top chess streamers, the event aims to present chess in a bold new format to a global audience. Tickets are now on sale. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-preview",
+         "pubDate" : "Sat, 03 May 2025 15:00:00",
+         "title" : "\"Checkmate: USA vs. India\" to take place in Texas in October"
       },
       {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
@@ -118,11 +110,11 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-6-day-4",
-         "pubDate" : "Fri, 02 May 2025 15:44:38",
+         "pubDate" : "Fri, 02 May 2025 15:44:00",
          "title" : "Upsets, Blunders, And Brilliances Mark Last Day Of PogChamps 6, Ebere Crowned Champion"
       },
       {
-         "description" : " There are four nice chess events starting this week. The first is the final FIDE Women's Grand Prix in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Anna Muzychuk, Tan Zhongyi and Zhu Jiner are fighting over two Candidates places, Aleksandra Goryachkina leads the series but is not playing this event, she will be very unlucky to miss out, that will happen only if Muzychuk and Tan take the first two places. The Superbet Romania Chess Classic takes place Wed 7th to Sat 17th May 2025 Players: World Champion Gukesh, Caruana, Firouzja, Abdusattorov, Wesley So, Levon Aronian, MVL, Jan-Krzysztof Duda, Praggnanandhaa, Bogdan-Daniel Deac. On the same day the Asian Individual Championships s",
+         "description" : " There are four nice chess events starting this week. The first is the final FIDE Women's Grand Prix in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Anna Muzychuk, Tan Zhongyi and Zhu Jiner are fighting over likely one remaining Candidates place. Aleksandra Goryachkina leads the series but is not playing this event, she will be very unlucky to miss out and will indeed most likely top the Grand Prix. The Superbet Romania Chess Classic takes place Wed 7th to Sat 17th May 2025 Players: World Champion Gukesh, Caruana, Firouzja, Abdusattorov, Wesley So, Levon Aronian, MVL, Jan-Krzysztof Duda, Praggnanandhaa, Bogdan-Daniel Deac. On the same day the Asian Individual Championships start, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/four-chess-events-starting-6th-to-9th-may",
@@ -642,14 +634,6 @@ news_feed (
          "title" : "12-Year-Old Megan Paragua Hits 2506 Performance During Grenke Open, Breaks 2300"
       },
       {
-         "description" : "Indian GM Humpy Koneru has won the 2025 Pune FIDE Women&#39;s Grand Prix after beating IM Nurgyul Salimova in 84 moves in the final round to finish on an unbeaten 7/9. GM Zhu Jiner also won, against IM Polina Shuvalova, but missed out on first place o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/humpy-wins-2025-fide-womens-grand-prix-pune",
-         "pubDate" : "Wed, 23 Apr 2025 12:17:00",
-         "title" : "Humpy Wins Pune Women's Grand Prix, Zhu Closes On Candidates"
-      },
-      {
          "description" : "Humpy finished joint-top along with Zhu Jiner at the FIDE Women's Grand Prix event in Pune to move to overall second place in the Grand Prix series.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -882,14 +866,6 @@ news_feed (
          "title" : "European Chess Club Cups 2025 - Official invitation"
       },
       {
-         "description" : " Ju Wenjun completed the formality of defending her title against with a draw in game 9 of their Women's World Championship match. All the hard work had been done with four wins in a row between games 5 and 8. Ju Wenjun didn't have the match all her own way but her reliability and technical play was far in advance of her opponent and that proved the difference. This was an impressive win for her. This is her fifth title match win, she gained the title from her opponent Tan Zhongyi in a match in 2018. Ju's seconds were Ni Hua, Maxime Matlakov and WGM Wang Pin.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/ju-wenjun-beats-tan-zhongyi-6.5-2.5-to-remain-womens-world-chess-champion",
-         "pubDate" : "Wed, 16 Apr 2025 10:54:00",
-         "title" : "Ju Wenjun beats Tan Zhongyi 6.5-2.5 to remain Women's World Chess Champion - 9"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120335317.cms\" />Ju Wenjun has secured her fifth FIDE Women's World Championship title, defeating Tan Zhongyi with a dominant 6.5-2.5 score in Chongqing. After an initial setback, Ju won four consecutive games, sealing the victory and a €300,000 prize. She now joins an elite group of five-time champions, while Tan earned €200,000. Both players are set to compete in upcoming tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -944,14 +920,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-clinches-freestyle-chess-grand-slam-title-in-paris/articleshow/120287156.cms",
          "pubDate" : "Mon, 14 Apr 2025 16:56:56",
          "title" : "Magnus Carlsen clinches Freestyle Chess Grand Slam title in Paris"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2025 concluded yesterday in Swidnica, Poland. The event was played in two age categories: 50+ and 65+ and England teams repeated the success from last year, defending three titles! Nine teams competed in the 65+ category, with England 1 team scoring perfect 16 match points to clinch gold! England 1 showed dominance winning all the matches with a minimum result of 3-1! Poland's Lower Silesia Team won silver medal with the score of 12 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/england-wins-triple-gold-at-european-senior-team-chess-championship-2025/",
-         "pubDate" : "Mon, 14 Apr 2025 11:44:46",
-         "title" : "England wins triple gold at European Senior Team Chess Championship 2025"
       }
    ]
 }
