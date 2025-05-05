@@ -18,12 +18,28 @@ news_feed (
          "title" : "This little thing with me and Spassky"
       },
       {
+         "description" : " The 4NCL UK Chess League took place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty took a three point lead into the final weekend over Wood Green but that was reduced to two after they only drew 4-4 against The Sharks 1. In Round 10 The Sharks beat Wood Green and this made Manx Liberty champions ahead of their own final round match against Wood Green which was drawn 4-4. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
+         "pubDate" : "Mon, 5 May 2025 12:40:00",
+         "title" : "4NCL 2024-25 - Games and Results"
+      },
+      {
          "description" : "Chess has played an important role in the development of information technology, computer hardware and software. For example, in 1903, shortly after the invention of radio, a long-distance game was played between chess players on the ships Philadelphia and Lucania (photo). Rolf Beran reports on this and other early transmissions in information technology. | Photo: United States Library of Congress (via Wikipedia)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-as-a-driving-force-of-ai",
          "pubDate" : "Mon, 05 May 2025 12:28:37",
          "title" : "Chess as a driving force of AI"
+      },
+      {
+         "description" : "We&#39;re excited to announce the 2025 Chess.com Classic, the last online event of this year&#39;s Champions Chess Tour (CCT). The event takes place between May 18 and May 23 and will feature some of the strongest players in the world. At stake are $150,0...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-com-classic-2025",
+         "pubDate" : "Mon, 05 May 2025 10:19:00",
+         "title" : "Chess.com Classic Starts May 18 With 9 Esports World Cup Spots On The Line"
       },
       {
          "description" : "European Chess Union and the Georgian Chess Federation invite ECU member federations to participate in European team Chess Championship 2025. The event will be held in Batumi, Georgia, from 4 of October (arrival day) to 15 of October (departure day). The event will be played in Open and Women's sections separately, with 9 swiss rounds in each competition and time control of 90 minutes for 40 moves + 30 minutes for rest of the game with an increment of 30 []",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/zoom-out/",
          "pubDate" : "Sat, 03 May 2025 13:00:00",
          "title" : "How to Recover from a Bad Loss in Chess: The Key to Bouncing Back"
-      },
-      {
-         "description" : " The 4NCL UK Chess League takes place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty\ttook a three point lead into the final weekend over Wood Green but that was reduced to two after they only drew 4-4 against The Sharks 1. In Round 10 The Sharks beat Wood Green and this made Manx Liberty champions ahead of their own final round match against Wood Green. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
-         "pubDate" : "Sat, 3 May 2025 12:40:00",
-         "title" : "4NCL 2024-25 - Games and Results"
       },
       {
          "description" : "In terms coined by South African criminologist, Stanley Cohen, a moral panic refers to intense feelings of fear, concern or anger, throughout a given community, in response to the perception that cultural values or interests are being threatened by a specific group, known as folk devils. Moral panics are characterised by an exaggeration of the actual threat []",
@@ -626,14 +634,6 @@ news_feed (
          "title" : "Koneru Humpy wins FIDE Women's Grand Prix chess meet"
       },
       {
-         "description" : "WFM Megan Paragua is a young master to watch out for. Just 12 years old, she put up a performance rating of 2506 (grandmaster strength) by round seven at the 2025 Grenke Chess Open A after a draw with GM Mikheil Kekelidze. Though she lost the last...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/megan-paragua-hits-2506-performance-grenke",
-         "pubDate" : "Wed, 23 Apr 2025 15:43:00",
-         "title" : "12-Year-Old Megan Paragua Hits 2506 Performance During Grenke Open, Breaks 2300"
-      },
-      {
          "description" : "Humpy finished joint-top along with Zhu Jiner at the FIDE Women's Grand Prix event in Pune to move to overall second place in the Grand Prix series.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://new.uschess.org/alan-kantor-2025-executive-board-candidate-v2",
          "pubDate" : "Wed, 16 Apr 2025 00:00:00",
          "title" : "Alan Kantor 2025 Executive Board Candidate"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120287156.cms\" />Magnus Carlsen triumphed at the Freestyle Chess Grand Slam in Paris, securing the title by defeating Hikaru Nakamura 1.5-0.5 in the final. Carlsen's dominant performance earned him the $200,000 first prize, solidifying his status in this innovative format. Fabiano Caruana claimed third place, edging out Vincent Keymer and securing a spot in the upcoming Grand Slam event in the USA.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-clinches-freestyle-chess-grand-slam-title-in-paris/articleshow/120287156.cms",
-         "pubDate" : "Mon, 14 Apr 2025 16:56:56",
-         "title" : "Magnus Carlsen clinches Freestyle Chess Grand Slam title in Paris"
       }
    ]
 }
