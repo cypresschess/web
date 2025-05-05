@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Russian Team Championships took place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past. SK KPRF from Moscow with Grischuk and Artemiev won the title. The team names in the results and for the players might look a bit weird. All the documentation was in Cyrillic and that leaves me two choices, google translate, which is generally good but occasionally very weird, or the direct one for one substitution of the Cyrillic letters for Western ones, again not without problems, b",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championships-2025",
+         "pubDate" : "Mon, 5 May 2025 20:51:00",
+         "title" : "Russian Team Championships 2025 - Games and Results"
+      },
+      {
          "description" : " FIDE Women's Grand Prix takes place in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Players: Jiner Zhu, Zhongyi Tan, Anna Muzychuk, Nana Dzagnidze, Mariya Muzychuk, Alexandra Kosteniuk, Rameshbabu Vaishali, Lela Javakhishvili, Olga Badelka and Nurgyul Salimova. The event is the final in a series of 6. The top two in the final standings will qualify for the Candidates. The leaders are Aleksandra Goryachkina followed by Humpy Koneru, neither play in this final event. Goryachkina seems certain to take one of these places and indeed almost certainly win the series, Humpy Koneru will likely not finish second. Zhu Jiner won't need a very big result to overtake her and Anna Muzychuk & T",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-1",
          "pubDate" : "Sat, 26 Apr 2025 13:59:00",
          "title" : "Fedoseev Leads Firouzja, Pragg As 2025 Grand Chess Tour Begins In Warsaw"
-      },
-      {
-         "description" : " The Russian Team Championships take place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championships-2025",
-         "pubDate" : "Sat, 26 Apr 2025 13:47:00",
-         "title" : "Russian Team Championships 2025 - Games and Results"
       },
       {
          "description" : "I speak five languages fluently: German, French, English, Spanish, and Italian. But it wasn't always that way. Back in school, I hated speaking up in Spanish class. Even when I knew the answer, I hesitated. My grammar wasn't perfect, and I worried about how I sounded. Our teacher didn't help either-she was the type to []",
