@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess has played an important role in the development of information technology, computer hardware and software. For example, in 1903, shortly after the invention of radio, a long-distance game was played between chess players on the ships Philadelphia and Lucania (photo). Rolf Beran reports on this and other early transmissions in information technology. | Photo: United States Library of Congress (via Wikipedia)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-as-a-driving-force-of-ai",
+         "pubDate" : "Mon, 05 May 2025 12:28:37",
+         "title" : "Chess as a driving force of AI"
+      },
+      {
+         "description" : "European Chess Union and the Georgian Chess Federation invite ECU member federations to participate in European team Chess Championship 2025. The event will be held in Batumi, Georgia, from 4 of October (arrival day) to 15 of October (departure day). The event will be played in Open and Women's sections separately, with 9 swiss rounds in each competition and time control of 90 minutes for 40 moves + 30 minutes for rest of the game with an increment of 30 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2025-official-regulations/",
+         "pubDate" : "Mon, 05 May 2025 10:04:21",
+         "title" : "European Team Chess Championship 2025 - Official regulations"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. With high stakes and a strong international line-up, including reigning champion Fabiano Caruana and world champion Gukesh Dommaraju, the tournament will play a key role in shaping the race to qualify for the season-ending finals in São Paulo. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
