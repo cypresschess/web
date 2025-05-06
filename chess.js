@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the 2024/2025 FIDE Women's Grand Prix opened in Grosslobming, Austria, with a festive ceremony featuring local music, traditional dress and regional wine. Set in a 19th-century manor near the Red Bull Ring, the tournament marks the conclusion of the series and will determine both the overall Grand Prix winner and two qualifiers for the 2026 Women's Candidates. | Photo: Przemysław Nikiel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-opening",
+         "pubDate" : "Tue, 06 May 2025 03:00:00",
+         "title" : "Polka, wine and chess: Women's Grand Prix finale kicks off in Austria"
+      },
+      {
          "description" : " The Russian Team Championships took place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past. SK KPRF from Moscow with Grischuk and Artemiev won the title. The team names in the results and for the players might look a bit weird. All the documentation was in Cyrillic and that leaves me two choices, google translate, which is generally good but occasionally very weird, or the direct one for one substitution of the Cyrillic letters for Western ones, again not without problems, b",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
