@@ -10,6 +10,14 @@ news_feed (
          "title" : "Septuagenarian John Nunn"
       },
       {
+         "description" : "GM Tan Zhongyi bounced back from her world championship disappointment to start the 2025 Grosslobming FIDE Women&#39;s Grand Prix with a 96-move win that hurt GM Zhu Jiner&#39;s chances of winning the series. There were also wins for GM Vaishali Rameshbab...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-1",
+         "pubDate" : "Tue, 06 May 2025 14:58:03",
+         "title" : "Tan Zhongyi Stuns Zhu Jiner To Boost Candidates Chances"
+      },
+      {
          "description" : "The sixth and final leg of the 2024/25 Women's Grand Prix series is taking place in Grosslobming, Austria, on 6-15 May. A 10-player single round-robin, the event will decide who wins the series and who gets the two spots in the next edition of the Women's Candidates Tournament. Among the participants, Zhu Jiner, Anna Muzychuk and Tan Zhongyi have the best chances to fight for the coveted top spots in the series. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-austria-2025-opening",
          "pubDate" : "Tue, 06 May 2025 03:00:00",
          "title" : "Polka, wine and chess: Women's Grand Prix finale kicks off in Austria"
+      },
+      {
+         "description" : "Over 4,600 chess players descend on Orlando this weekend for SuperNationals VIII. This week's puzzles highlight some of the names you can expect to see on the top boards and on WGM Sabina Foisor's streaming coverage. Click here to view advanced entries for all sections, and be sure to follow along live all weekend. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-preview",
+         "pubDate" : "Tue, 06 May 2025 00:00:00",
+         "title" : "Tactics Tuesday: SuperNationals VIII Preview"
       },
       {
          "description" : " The Russian Team Championships took place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past. SK KPRF from Moscow with Grischuk and Artemiev won the title. The team names in the results and for the players might look a bit weird. All the documentation was in Cyrillic and that leaves me two choices, google translate, which is generally good but occasionally very weird, or the direct one for one substitution of the Cyrillic letters for Western ones, again not without problems, b",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "NSCC Girls Finals 2025 - results"
       },
       {
-         "description" : "GM Sina Movahed, a 14-year-old chess prodigy out of Iran (whose name seems to befit a chess player), won Freestyle Friday on April 25. For the first time in a month, only nine points were needed for victory, as Movahed won out on tiebreaks ahead o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/movahed-wins-freestyle-friday-april-25-2025",
-         "pubDate" : "Fri, 25 Apr 2025 12:36:00",
-         "title" : "Teenage Prodigy Wins Freestyle Friday"
-      },
-      {
          "description" : " The Superbet Poland Rapid & Blitz took place Sat 26th Apr 2025 to Thu 1st May 2025. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. A three day rapid was followed by a two day blitz event. Vladimir Fedoseev won the event with three rounds to spare.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-doesnt-lack-womens-talent-it-lacks-equal-investment-koneru-humpy/articleshow/120331885.cms",
          "pubDate" : "Wed, 16 Apr 2025 05:22:24",
          "title" : "'Chess doesn't lack women's talent, it lacks equal investment': K Humpy"
-      },
-      {
-         "description" : "Photo by Nikki Metzler Photography April Statement:Dear Fellow Chess Enthusiasts,I am excited to announce my candidacy for the Executive Board of US Chess, with a passion to further the game globally and address members' concerns. With many years' experience and service to US Chess in various roles, I am confident in my ability to serve our community.I will explain my growth in the chess world and goals that I wish to accomplish in the next letter. My qualifications include starting at the local and state levels eventually working at the national level.I am committed to working tirelessly to promote chess and serve our members. I would be honored to earn your vote and join the Executive Boar",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/alan-kantor-2025-executive-board-candidate-v2",
-         "pubDate" : "Wed, 16 Apr 2025 00:00:00",
-         "title" : "Alan Kantor 2025 Executive Board Candidate"
       }
    ]
 }
