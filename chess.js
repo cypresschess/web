@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/septuagenarian-john-nunn-2",
+         "pubDate" : "Tue, 06 May 2025 07:40:56",
+         "title" : "Septuagenarian John Nunn"
+      },
+      {
          "description" : "The final stage of the 2024/2025 FIDE Women's Grand Prix opened in Grosslobming, Austria, with a festive ceremony featuring local music, traditional dress and regional wine. Set in a 19th-century manor near the Red Bull Ring, the tournament marks the conclusion of the series and will determine both the overall Grand Prix winner and two qualifiers for the 2026 Women's Candidates. | Photo: Przemysław Nikiel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
