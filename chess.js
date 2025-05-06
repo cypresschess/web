@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Legendary American Grandmaster Alex Yermolinsky, \"Yermo\", remains hospitalized in Tekirdag, Turkey after undergoing a four-way heart bypass. Yermolinsky is a two-time United States Champion, member of four U.S. Chess Olympiad teams, four American World Senior teams and an inductee to the Chess Hall of Fame. He is now is being crushed by medical bills. You can help.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alexander-yermolinsky-in-crisis",
+         "pubDate" : "Tue, 06 May 2025 12:20:17",
+         "title" : "Alexander Yermolinsky in crisis"
+      },
+      {
          "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
