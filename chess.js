@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The sixth and final leg of the 2024/25 Women's Grand Prix series is taking place in Grosslobming, Austria, on 6-15 May. A 10-player single round-robin, the event will decide who wins the series and who gets the two spots in the next edition of the Women's Candidates Tournament. Among the participants, Zhu Jiner, Anna Muzychuk and Tan Zhongyi have the best chances to fight for the coveted top spots in the series. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-live",
+         "pubDate" : "Tue, 06 May 2025 14:50:00",
+         "title" : "Women's Grand Prix Austria - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120933723.cms\" />Anna Muzychuk acknowledges the Norway Chess Women's tournament for promoting female chess players. She anticipates a tough competition with strong contenders like Ju Wenjun and Koneru Humpy. Anna reflects on her chess journey, highlighting Ukraine's chess traditions. She emphasizes the sacrifices young players face to become grandmasters. Parental support is crucial for success in chess. The tournament motivates girls globally.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/equal-price-fund-for-both-men-and-women-makes-norway-chess-special-anna-muzychuk/articleshow/120933723.cms",
+         "pubDate" : "Tue, 06 May 2025 13:01:08",
+         "title" : "'Equal price fund for both men and women makes Norway Chess special'"
+      },
+      {
          "description" : "Legendary American Grandmaster Alex Yermolinsky, \"Yermo\", remains hospitalized in Tekirdag, Turkey after undergoing a four-way heart bypass. Yermolinsky is a two-time United States Champion, member of four U.S. Chess Olympiad teams, four American World Senior teams and an inductee to the Chess Hall of Fame. He is now is being crushed by medical bills. You can help.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/alexander-yermolinsky-in-crisis",
          "pubDate" : "Tue, 06 May 2025 12:20:17",
          "title" : "Alexander Yermolinsky in crisis"
+      },
+      {
+         "description" : "No, it&#39;s not Mount Everest. It is something way more challenging. We invite you to join the Chess.com King of the Hill Championship! The event will take place on May 15 and 16 and features a $2,500 prize fund. After a close contest against Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-king-of-the-hill-championship-2025",
+         "pubDate" : "Tue, 06 May 2025 08:03:19",
+         "title" : "Who Will Climb The Highest? Chess.com King Of The Hill Championship Starting May 15"
+      },
+      {
+         "description" : "Eighteen-year-old GM Christopher Yoo scored an impressive performance to win Italy&#39;s Sardinia World Chess Festival with 7.5/9 last week, but his participation in Italy has led to scrutiny from the chess community due to his domestic ban from compe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/christopher-yoo-wins-sardinia-scrutiny-over-domestic-ban",
+         "pubDate" : "Tue, 06 May 2025 07:45:00",
+         "title" : "Christopher Yoo Wins Sardinia Chess Festival Amid Ongoing Scrutiny Over Domestic Ban"
       },
       {
          "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "Teenage Prodigy Wins Freestyle Friday"
       },
       {
-         "description" : "Another path to the 2025 Esports World Cup (EWC) has now been revealed. Chess players can compete at the DreamHack festival in Dallas from May 23 to 25 for four spots at the EWC Last Chance Qualifier&#38;nbsp;and a share of the $20,000 prize fund. Don...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-dreamhack-dallas-road-to-esports-world-cup",
-         "pubDate" : "Fri, 25 Apr 2025 12:00:00",
-         "title" : "DreamHack Dallas Hosts Chess Tournament As Qualifying Path For 2025 Esports World Cup"
-      },
-      {
          "description" : " The Superbet Poland Rapid & Blitz took place Sat 26th Apr 2025 to Thu 1st May 2025. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. A three day rapid was followed by a two day blitz event. Vladimir Fedoseev won the event with three rounds to spare.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -616,14 +640,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
          "pubDate" : "Fri, 25 Apr 2025 07:00:27",
          "title" : "Chess: Carlsen scores record nine out of nine at Grenke Freestyle Open"
-      },
-      {
-         "description" : "You may have heard that our community is, at this very moment, making history alongside world number one GM Magnus Carlsen. The Magnus vs. The World match has recently surpassed 100,000 players, making it the biggest chess game ever played. In c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-magnus-hoodie-shirt",
-         "pubDate" : "Thu, 24 Apr 2025 10:00:00",
-         "title" : "Celebrate Your Part In Chess History With New Magnus Clothing"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120569863.cms\" />Koneru Humpy clinched the FIDE Women's Grand Prix title in Pune after a tie with Zhu Jiner, decided by tiebreak rules favoring Humpy's greater number of games played with black pieces. Both players earned equal prize money and GP points, but Humpy's undefeated run and victory over Zhu in an earlier round secured her the championship.",
