@@ -7,6 +7,7 @@ jtable([
 "HOUSTON","2025-05-03","118","<a href=http://www.uschess.org/msa/XtblMain.php?202505032302 target='_blank'>MAY THE 4TH BE WITH YOU</a>",
 "HOUSTON","2025-05-03","15","<a href=http://www.uschess.org/msa/XtblMain.php?202505032132 target='_blank'>CHESSPANDA05032025SATURDAY</a>",
 "SUGAR LAND","2025-05-03","20","<a href=http://www.uschess.org/msa/XtblMain.php?202505031592 target='_blank'>FBCC 2025 NATIONAL TRUFFLE DAY OPEN</a>",
+"CYPRESS","2025-05-02","29","<a href=http://www.uschess.org/msa/XtblMain.php?202505023642 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2025-04-01  - 04-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202504290952 target='_blank'>APRIL 2025 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2025-04-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202504278782 target='_blank'>BELLAIRE SUNDAY SWISS 4/27/2025</a>",
 "HOUSTON","2025-04-27","9","<a href=http://www.uschess.org/msa/XtblMain.php?202504278712 target='_blank'>APRIL 27TH ADULTS ONLY SUNDAY SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2024-09-27","31","<a href=http://www.uschess.org/msa/XtblMain.php?202409277822 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-09-27","39","<a href=http://www.uschess.org/msa/XtblMain.php?202409270592 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-09-03  - 09-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202409246352 target='_blank'>SEPTEMBER 2024 TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2024-09-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202409225302 target='_blank'>TEMPLE SINAI</a>",
 ]);
