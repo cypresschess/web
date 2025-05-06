@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/septuagenarian-john-nunn-2",
+         "pubDate" : "Tue, 06 May 2025 15:00:00",
+         "title" : "Septuagenarian John Nunn"
+      },
+      {
          "description" : "The sixth and final leg of the 2024/25 Women's Grand Prix series is taking place in Grosslobming, Austria, on 6-15 May. A 10-player single round-robin, the event will decide who wins the series and who gets the two spots in the next edition of the Women's Candidates Tournament. Among the participants, Zhu Jiner, Anna Muzychuk and Tan Zhongyi have the best chances to fight for the coveted top spots in the series. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,8 +38,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-king-of-the-hill-championship-2025",
-         "pubDate" : "Tue, 06 May 2025 08:03:19",
-         "title" : "Who Will Climb The Highest? Chess.com King Of The Hill Championship Starting May 15"
+         "pubDate" : "Tue, 06 May 2025 08:03:00",
+         "title" : "Who Will Climb The Highest? Chess.com King Of The Hill Championship Starts May 15"
       },
       {
          "description" : "Eighteen-year-old GM Christopher Yoo scored an impressive performance to win Italy&#39;s Sardinia World Chess Festival with 7.5/9 last week, but his participation in Italy has led to scrutiny from the chess community due to his domestic ban from compe...",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/christopher-yoo-wins-sardinia-scrutiny-over-domestic-ban",
          "pubDate" : "Tue, 06 May 2025 07:45:00",
          "title" : "Christopher Yoo Wins Sardinia Chess Festival Amid Ongoing Scrutiny Over Domestic Ban"
-      },
-      {
-         "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/septuagenarian-john-nunn-2",
-         "pubDate" : "Tue, 06 May 2025 07:40:56",
-         "title" : "Septuagenarian John Nunn"
       },
       {
          "description" : "The final stage of the 2024/2025 FIDE Women's Grand Prix opened in Grosslobming, Austria, with a festive ceremony featuring local music, traditional dress and regional wine. Set in a 19th-century manor near the Red Bull Ring, the tournament marks the conclusion of the series and will determine both the overall Grand Prix winner and two qualifiers for the 2026 Women's Candidates. | Photo: Przemysław Nikiel",
@@ -72,14 +72,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025",
          "pubDate" : "Mon, 5 May 2025 14:39:00",
          "title" : "FIDE Women's Grand Prix in Grosslobming 2025 - Games and Results"
-      },
-      {
-         "description" : "\"The BBC has posted a 1972 interview with Fischer by James Burke on YouTube,\" our friend Yasser Seirawan told us. BBC Two had was broadcast this video, which is 35 minutes long, on 2 July, 1972, nine days before the epic match began. \"Personally, I thought that it is fantastic, vintage stuff. You see the Fischer that I met in 1992. Engaging, funny, self-assured. But also aware of his own shortcomings.\" It is really something you don't want to miss.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-little-thing-with-me-and-spassky",
-         "pubDate" : "Mon, 05 May 2025 14:17:33",
-         "title" : "This little thing with me and Spassky"
       },
       {
          "description" : " The 4NCL UK Chess League took place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty took a three point lead into the final weekend over Wood Green but that was reduced to two after they only drew 4-4 against The Sharks 1. In Round 10 The Sharks beat Wood Green and this made Manx Liberty champions ahead of their own final round match against Wood Green which was drawn 4-4. ",
@@ -144,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-may-3-2025",
          "pubDate" : "Sat, 03 May 2025 16:21:00",
          "title" : "13-Year-Old Erdogmus Shows 'Top-10' Potential, Wins 2nd Bullet Brawl Title"
-      },
-      {
-         "description" : "On 4 October 2025, Arlington, Texas will host \"Checkmate: USA vs. India\", a major international chess event at Esports Stadium Arlington. Featuring top stars such as Hikaru Nakamura, Gukesh Dommaraju, Fabiano Caruana and Arjun Erigaisi, the match blends elite competition with high-end production and entertainment. With youth and women's matchups, and a face-off between top chess streamers, the event aims to present chess in a bold new format to a global audience. Tickets are now on sale. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-usa-india-2025-preview",
-         "pubDate" : "Sat, 03 May 2025 15:00:00",
-         "title" : "\"Checkmate: USA vs. India\" to take place in Texas in October"
       },
       {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
