@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite trying our best, time trouble is sometimes unavoidable. We all have experienced the stress that comes with being under time pressure. Our hearts race, our palms sweat, and our minds become confused. However, it is useful to understand how being in time trouble affects the decisions we make. Of course, we don't play our A-game. But what kinds of mistakes do we make? I am sure that understanding the nature of these mistakes is the first step in minimizing them.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-43-mistakes-we-make-in-time-trouble",
+         "pubDate" : "Wed, 07 May 2025 07:32:21",
+         "title" : "The Winning Academy 43: Mistakes we make in time trouble"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120952579.cms\" />Around 35 Indian chess players are set to compete in the Asian Individual Championship in Al Ain, UAE, vying for coveted FIDE World Cup spots. This year marks the debut of Russian players under the Asian Chess Federation, increasing World Cup berths to ten.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/entry-of-russians-makes-asian-chess-a-tougher-contest/articleshow/120952579.cms",
+         "pubDate" : "Wed, 07 May 2025 04:45:26",
+         "title" : "Entry of Russians makes Asian chess a tougher contest"
+      },
+      {
          "description" : " US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025 at 8 p.m. CT/ 9 p.m. ET via zoom.~U.S. Chess In June, the U.S. Chess membership will elect four new Executive Board members from five candidates, and you can meet them in a forum hosted by U.S. The post <a href=\"https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/\">Meet Candidates for U.S. Chess Executive Board!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -22,16 +38,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-1",
-         "pubDate" : "Tue, 06 May 2025 14:58:03",
+         "pubDate" : "Tue, 06 May 2025 14:58:00",
          "title" : "Tan Zhongyi Stuns Zhu Jiner To Boost Candidates Chances"
-      },
-      {
-         "description" : "The sixth and final leg of the 2024/25 Women's Grand Prix series is taking place in Grosslobming, Austria, on 6-15 May. A 10-player single round-robin, the event will decide who wins the series and who gets the two spots in the next edition of the Women's Candidates Tournament. Among the participants, Zhu Jiner, Anna Muzychuk and Tan Zhongyi have the best chances to fight for the coveted top spots in the series. | Follow the action live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-live",
-         "pubDate" : "Tue, 06 May 2025 14:50:00",
-         "title" : "Women's Grand Prix Austria - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120933723.cms\" />Anna Muzychuk acknowledges the Norway Chess Women's tournament for promoting female chess players. She anticipates a tough competition with strong contenders like Ju Wenjun and Koneru Humpy. Anna reflects on her chess journey, highlighting Ukraine's chess traditions. She emphasizes the sacrifices young players face to become grandmasters. Parental support is crucial for success in chess. The tournament motivates girls globally.",
@@ -928,22 +936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-wc-2025-live",
          "pubDate" : "Wed, 16 Apr 2025 08:50:00",
          "title" : "Women's World Chess Championship - Game 9 live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120332397.cms\" />Divya Deshmukh secured an unexpected lead in the FIDE Women's Grand Prix after R Vaishali faltered, leading to a quick 26-move victory for Divya. Zhu Jiner also claimed a win against Batkhuyag Munguntuul, joining Divya at the top. Other games saw draws, including matches between Melia Salome and K Humpy, and Polina Shuvalova and Nurgyul Salimova.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-takes-unexpected-lead-in-fide-womens-grand-prix-pune/articleshow/120332397.cms",
-         "pubDate" : "Wed, 16 Apr 2025 05:39:49",
-         "title" : "Divya Deshmukh takes unexpected lead in FIDE Women's Grand Prix Pune"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120331885.cms\" />Despite empowerment initiatives, women in chess lag globally, with top players' ratings significantly lower than their male counterparts. Factors such as fewer practice hours, societal responsibilities, and emotional responses contribute to this disparity. While some advocate for equal training opportunities, others highlight inherent differences and the challenges women face in pursuing chess careers with the same intensity as men.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-doesnt-lack-womens-talent-it-lacks-equal-investment-koneru-humpy/articleshow/120331885.cms",
-         "pubDate" : "Wed, 16 Apr 2025 05:22:24",
-         "title" : "'Chess doesn't lack women's talent, it lacks equal investment': K Humpy"
       }
    ]
 }
