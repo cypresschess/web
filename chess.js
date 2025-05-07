@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MegaBase 2025 is Chess History in action. Regularly updated every month, the Main Database currently offers 11 million games, many of them annotated. Here our columnist offers a review with focus on chess in the 21st Century.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/megabase-2025-review-nagesh-havanur",
+         "pubDate" : "Wed, 07 May 2025 20:00:00",
+         "title" : "MegaBase 2025: Carlsen and the young lions"
+      },
+      {
          "description" : " The Asian Individual Championships take place in Al Ain UAE, Wed 7th to Thu 15th May 2025. Open and women's events. Players: Sarin Nihal, Amin Tabatabaei M., Nodirbek Yakubboev, Murali Karthikeyan, Shamsiddin Vokhidov, Son Nguyen Ngoc Truong, Saleh Salem A.R., Pouya Idani, Luke Mendonca Leon, Abhimanyu Puranik, Xiangyu Xu, Bardiya Daneshvar, V Pranav, Jingyao Tin, L Narayanan S, David Paravyan, Abhijeet Gupta, M Pranesh, Pa Iniyan, Jinshi Bai, Shekhar Ganguly Surya, Venkataraman Karthik, Ivan Zemlyanskii etc Leading players in the women's event: Leya Garifullina, Valentina Gunina, Olga Girya, Yuxin Song, Nguyen Pham Le Thao, Warda Aulia Medina, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/home-development-director-appointment/",
          "pubDate" : "Wed, 07 May 2025 09:05:58",
          "title" : "Home Development Director Appointment"
+      },
+      {
+         "description" : "The first Titled Tuesdays of May went to GMs Magnus Carlsen and Javokhir Sindarov. Carlsen scored 10 points in his victory and Sindarov scored 9.5, but both needed tiebreaks, Carlsen over GM Bharath Subramaniyam and Sindarov ahead of last week&#39;s l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-sindarov-win-titled-tuesday-may-6-2025",
+         "pubDate" : "Wed, 07 May 2025 08:28:32",
+         "title" : "Carlsen's Strong 2025 In Titled Tuesday Continues"
       },
       {
          "description" : "Despite trying our best, time trouble is sometimes unavoidable. We all have experienced the stress that comes with being under time pressure. Our hearts race, our palms sweat, and our minds become confused. However, it is useful to understand how being in time trouble affects the decisions we make. Of course, we don't play our A-game. But what kinds of mistakes do we make? I am sure that understanding the nature of these mistakes is the first step in minimizing them.",
@@ -218,11 +234,11 @@ news_feed (
          "title" : "European Team Chess Championship 2025 - Official regulations"
       },
       {
-         "description" : "Canada&#39;s youngest ever IM Aaron Mendes&#38;nbsp;has won the Under 13 ChessKid Youth Championship after defeating FM-elect Megan Paragua 5-3 in the final. Paragua got a late chance to play in the knockout after FM-elect Supratit Banerjee was forced to ...",
+         "description" : "Canada&#39;s youngest ever IM Aaron Mendes has won the 2025 Under 13 ChessKid Youth Championship after defeating FM-elect Megan Paragua 5-3 in the final. Paragua got a late chance to play in the knockout after FM-elect Supratit Banerjee was forced to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-mendes-wins",
-         "pubDate" : "Mon, 05 May 2025 06:25:42",
+         "pubDate" : "Mon, 05 May 2025 06:25:00",
          "title" : "Aaron Mendes Wins Under 13 ChessKid Youth Championship"
       },
       {
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/vasyl-ivanchuk-wins-the-menorca-open-but-only-after-some-good-fortune-in-the-final-round",
          "pubDate" : "Sun, 27 Apr 2025 16:28:00",
          "title" : "Vasyl Ivanchuk wins the Menorca Open but only after some good fortune in the final round - 9"
-      },
-      {
-         "description" : "The one and only GM Vasyl Ivanchuk capped off a brilliant comeback by winning the 4th Menorca Open with an unbeaten 8/9 score and an impressive 2833 performance. The 56-year-old secured his first major tournament victory since 2019, and with it, a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ivanchuk-wins-menorca-returns-to-top-100",
-         "pubDate" : "Sun, 27 Apr 2025 13:59:00",
-         "title" : "Ivanchuk Triumphs At Menorca With Stunning 2833 Performance, Returns To World's Top 100"
       },
       {
          "description" : " The IV Menorca Open took place Tue 22nd Apr to Sun 27th Apr 2025. Players: Nihal Sarin, Sam Shankland, Volodar Murzin, Karthikeyan, Puranik, Pranav, Lu Shanglei. Vasyl Ivanchuk etc. Vasyl Ivanchuk won the event with 8/9 after surviving a scare in the final round against M Pranesh. Lu Shanglei and Murali Karthikeyan were half a point behind. ",
