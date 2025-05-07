@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Asian Individual Championships take place in Al Ain UAE, Wed 7th to Thu 15th May 2025. Open and women's events. Players: Sarin Nihal, Amin Tabatabaei M., Nodirbek Yakubboev, Murali Karthikeyan, Shamsiddin Vokhidov, Son Nguyen Ngoc Truong, Saleh Salem A.R., Pouya Idani, Luke Mendonca Leon, Abhimanyu Puranik, Xiangyu Xu, Bardiya Daneshvar, V Pranav, Jingyao Tin, L Narayanan S, David Paravyan, Abhijeet Gupta, M Pranesh, Pa Iniyan, Jinshi Bai, Shekhar Ganguly Surya, Venkataraman Karthik, Ivan Zemlyanskii etc Leading players in the women's event: Leya Garifullina, Valentina Gunina, Olga Girya, Yuxin Song, Nguyen Pham Le Thao, Warda Aulia Medina, ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/asian-individual-championships-2025",
+         "pubDate" : "Wed, 7 May 2025 14:03:00",
+         "title" : "Asian Individual Championships 2025 - Games and Results"
+      },
+      {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Wed, 07 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : " The Grand Chess Tour Superbet Chess Classic Romania takes place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. There is a 30 minute delay for the live games.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
+         "pubDate" : "Wed, 7 May 2025 13:57:00",
+         "title" : "GCT Superbet Chess Classic Romania 2025 - Games and Results"
+      },
+      {
          "description" : "The Online Marketing Rockstars Festival is Europe's largest digital trade fair. On Tuesday, streamers Levy Rozman (Gotham Chess), Daniel Rensch and Anna Cramling were guests at a panel discussion. Between football and Formula One, they presented the digital world of chess on the big stage - and did so very well! | Photos: Andr&eacute; Schulz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-at-the-online-marketing-rockstars-festival",
          "pubDate" : "Wed, 07 May 2025 12:43:52",
          "title" : "Chess at the Online Marketing Rockstars Festival"
+      },
+      {
+         "description" : " Something amazing happened in Kenyan chess a month ago. Over 7,000 chess players from across Kenya gathered at Mang'u High School to compete in the Kenyan Schools Chess Championship. A fantastic sea of youth filled the halls as thousands of students came in columns of buses to compete in the massive tournament. Ten years ago, The post <a href=\"https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/\">7,242 players at Kenya Schools Chess!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/",
+         "pubDate" : "Wed, 07 May 2025 12:21:01",
+         "title" : "7,242 players at Kenya Schools Chess!"
       },
       {
          "description" : "The European edition of the political news magazine Politico published an article on its website about Russia's influence on the World Chess Federation (FIDE) and how Russia is exploiting chess and the World Chess Federation for its own political ends. | Graphics: POLITICO",
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/part-time-administrator-for-ecf-office-work-from-home/",
          "pubDate" : "Wed, 07 May 2025 07:30:33",
          "title" : "Part-Time Administrator for ECF Office (Work from Home) - UPDATE"
+      },
+      {
+         "description" : "10-year-old FM Roman Shogdzhiev continued his rapid rise at the Baku Open, where he secured his second International Master norm with a stellar 2514 performance in a field packed with titled players. Top seed and 2024 European Champion GM Alexan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/roman-shogdzhiev-takes-huge-step-towards-im-title-with-second-norm",
+         "pubDate" : "Wed, 07 May 2025 05:19:52",
+         "title" : "10-Year-Old Edges One Step Closer To Record-Breaking IM Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120952579.cms\" />Around 35 Indian chess players are set to compete in the Asian Individual Championship in Al Ain, UAE, vying for coveted FIDE World Cup spots. This year marks the debut of Russian players under the Asian Chess Federation, increasing World Cup berths to ten.",
@@ -578,14 +618,6 @@ news_feed (
          "title" : "Ivanchuk Triumphs At Menorca With Stunning 2833 Performance, Returns To World's Top 100"
       },
       {
-         "description" : "GM Alireza Firouzja pounced on a blunder by GM Praggnanandhaa Rameshbabu to win the battle of the players who started day two in second place and catch GM Vladimir Fedoseev in the 2025 Superbet Rapid &#38;amp; Blitz Poland lead. GM Aravindh Chithambar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-2",
-         "pubDate" : "Sun, 27 Apr 2025 12:36:00",
-         "title" : "Firouzja Beats Praggnanandhaa To Catch Leader"
-      },
-      {
          "description" : " The IV Menorca Open took place Tue 22nd Apr to Sun 27th Apr 2025. Players: Nihal Sarin, Sam Shankland, Volodar Murzin, Karthikeyan, Puranik, Pranav, Lu Shanglei. Vasyl Ivanchuk etc. Vasyl Ivanchuk won the event with 8/9 after surviving a scare in the final round against M Pranesh. Lu Shanglei and Murali Karthikeyan were half a point behind. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -826,14 +858,6 @@ news_feed (
          "title" : "How I Tricked Myself Into Living the Life I Want"
       },
       {
-         "description" : " The grenke Open and Freestyle Open took place 17th to 21st April 2025. The open had top seeds Awonder Liang, Nikita Vitiugov and Ivan Saric but the Freestyle Chess960 open had the stronger field with Magnus Carlsen, Arjun Erigaisi, Fabiano Caruana, Ian Nepomniachtchi etc. I can't display Freestyle games. Carlsen impressively clonked his way through the field in the Freestyle and scored 9/9. Parham Maghsoodloo finished in second place on tie-break after claims a place in Las Vegas, it's my understanding that the remaining 6 players will play off for another place in that Freestyle-Chess Grand Slam event sometime soon. S Aswath and Brandon Jacobson finished on 8/9 in the regular chess open, f",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/grenke-open-and-freestyle-open-2025",
-         "pubDate" : "Sat, 19 Apr 2025 12:31:00",
-         "title" : "grenke Open and Freestyle Open 2025 - Games and Results"
-      },
-      {
          "description" : "This week I celebrate the achievements of Howard Staunton, the only English player with a claim to have been world chess champion. In those days, best in Europe meant best in the world. Yet just over a decade later, the new invention of the steamship, would speed a fresh genius (Paul Morphy) across the Atlantic, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -848,14 +872,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-in-chess-what-the-chessbase-style-report-reveals",
          "pubDate" : "Sat, 19 Apr 2025 08:39:22",
          "title" : "Player types in chess: What the ChessBase style report reveals"
-      },
-      {
-         "description" : " The FIDE Women's World Chess Championship took place in Shanghai and finished in Chongqing, China. The event was supposed to take place 3rd to 20th April 2025 but finished early on 16th April with the closing ceremony two days later. Defending champion Ju Wenjun won comfortably 6.5-2.5 against her challenger and predecessor Tan Zhongyi. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-world-chess-championship-2025",
-         "pubDate" : "Fri, 18 Apr 2025 16:54:00",
-         "title" : "FIDE Women's World Chess Championship 2025 - Games and Results"
       },
       {
          "description" : " The world No 1 defeated his old rival and world No 2, Hikaru Nakamura, in the final, and took the $3.75m series lead before the third Slam event in Las Vegas Magnus Carlsen, the world No 1, scored a low-key triumph on Monday when he won the Paris leg of the $3.75m Freestyle Grand Slam by defeating his old rival and world No 2, USA's Hikaru Nakamura, by 1.5-0.5 in the final. It was patient attrition over the two games, worthy of a place in the Carlsen-David Howell book Grind like a Grandmaster. The decisive first game had some technical errors, which the Norwegian described almost apologetically in his <a href=\"https://www.youtube.com/watch?v=Rtd647yuXg4&amp;t=3s\">post-game interview</a>. Th",
@@ -912,14 +928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/k-humpy-secures-victory-against-divya-deshmukh-in-fide-womens-grand-prix/articleshow/120364918.cms",
          "pubDate" : "Thu, 17 Apr 2025 03:01:32",
          "title" : "Humpy secures victory against Divya in FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "After the 2022 Olympiad in Chennai, FIDE set up a Fair Play Commission aimed at preventing cheating in chess. The commission received sweeping powers, over and above those of the arbiters or chess tournaments. Is that necessary and justified? Malcolm Pein, writer for The Daily Telegraph, takes vigorous offence at the working of the commission in the editorial of the London-based magazine CHESS.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/malcolm-pein-on-unfair-play",
-         "pubDate" : "Wed, 16 Apr 2025 13:00:00",
-         "title" : "Malcolm Pein on Unfair Play"
       }
    ]
 }
