@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025 at 8 p.m. CT/ 9 p.m. ET via zoom.~U.S. Chess In June, the U.S. Chess membership will elect four new Executive Board members from five candidates, and you can meet them in a forum hosted by U.S. The post <a href=\"https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/\">Meet Candidates for U.S. Chess Executive Board!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/",
+         "pubDate" : "Wed, 07 May 2025 00:09:39",
+         "title" : "Meet Candidates for U.S. Chess Executive Board!"
+      },
+      {
          "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
