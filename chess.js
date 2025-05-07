@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/\">World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup </a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/",
+         "pubDate" : "Wed, 07 May 2025 21:19:01",
+         "title" : "World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup "
+      },
+      {
          "description" : "MegaBase 2025 is Chess History in action. Regularly updated every month, the Main Database currently offers 11 million games, many of them annotated. Here our columnist offers a review with focus on chess in the 21st Century.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/megabase-2025-review-nagesh-havanur",
          "pubDate" : "Wed, 07 May 2025 20:00:00",
          "title" : "MegaBase 2025: Carlsen and the young lions"
+      },
+      {
+         "description" : "GMs Vaishali Rameshbabu and Tan Zhongyi lead the 2025 Grosslobming FIDE Women&#39;s Grand Prix on a perfect 2/2 after beating IMs Lela Javakhishvili and Olga Badelka in round two. The most significant clash of the round, meanwhile, saw GM Anna Muzychu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-2",
+         "pubDate" : "Wed, 07 May 2025 15:38:06",
+         "title" : "Vaishali, Tan Still Perfect As Anna Muzychuk Takes Down Zhu"
       },
       {
          "description" : " The Asian Individual Championships take place in Al Ain UAE, Wed 7th to Thu 15th May 2025. Open and women's events. Players: Sarin Nihal, Amin Tabatabaei M., Nodirbek Yakubboev, Murali Karthikeyan, Shamsiddin Vokhidov, Son Nguyen Ngoc Truong, Saleh Salem A.R., Pouya Idani, Luke Mendonca Leon, Abhimanyu Puranik, Xiangyu Xu, Bardiya Daneshvar, V Pranav, Jingyao Tin, L Narayanan S, David Paravyan, Abhijeet Gupta, M Pranesh, Pa Iniyan, Jinshi Bai, Shekhar Ganguly Surya, Venkataraman Karthik, Ivan Zemlyanskii etc Leading players in the women's event: Leya Garifullina, Valentina Gunina, Olga Girya, Yuxin Song, Nguyen Pham Le Thao, Warda Aulia Medina, ",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
          "pubDate" : "Wed, 7 May 2025 13:57:00",
          "title" : "GCT Superbet Chess Classic Romania 2025 - Games and Results"
+      },
+      {
+         "description" : "GMs Alireza Firouzja and Wesley So started off with wins in round one of the Superbet Chess Classic Romania 2025. Firouzja won our Game of the Day against GM Maxime Vachier-Lagrave, where the French numbers one and two battled in the French Defens...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-1",
+         "pubDate" : "Wed, 07 May 2025 12:57:00",
+         "title" : "Firouzja Cracks MVL's French Defense, Leads With Wesley So"
       },
       {
          "description" : "The Online Marketing Rockstars Festival is Europe's largest digital trade fair. On Tuesday, streamers Levy Rozman (Gotham Chess), Daniel Rensch and Anna Cramling were guests at a panel discussion. Between football and Formula One, they presented the digital world of chess on the big stage - and did so very well! | Photos: Andr&eacute; Schulz",
@@ -170,14 +194,6 @@ news_feed (
          "title" : "Christopher Yoo Wins Sardinia Chess Festival Amid Ongoing Scrutiny Over Domestic Ban"
       },
       {
-         "description" : "The final stage of the 2024/2025 FIDE Women's Grand Prix opened in Grosslobming, Austria, with a festive ceremony featuring local music, traditional dress and regional wine. Set in a 19th-century manor near the Red Bull Ring, the tournament marks the conclusion of the series and will determine both the overall Grand Prix winner and two qualifiers for the 2026 Women's Candidates. | Photo: Przemysław Nikiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-opening",
-         "pubDate" : "Tue, 06 May 2025 03:00:00",
-         "title" : "Polka, wine and chess: Women's Grand Prix finale kicks off in Austria"
-      },
-      {
          "description" : "Over 4,600 chess players descend on Orlando this weekend for SuperNationals VIII. This week's puzzles highlight some of the names you can expect to see on the top boards and on WGM Sabina Foisor's streaming coverage. Click here to view advanced entries for all sections, and be sure to follow along live all weekend. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -208,14 +224,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
          "pubDate" : "Mon, 5 May 2025 12:40:00",
          "title" : "4NCL 2024-25 - Games and Results"
-      },
-      {
-         "description" : "Chess has played an important role in the development of information technology, computer hardware and software. For example, in 1903, shortly after the invention of radio, a long-distance game was played between chess players on the ships Philadelphia and Lucania (photo). Rolf Beran reports on this and other early transmissions in information technology. | Photo: United States Library of Congress (via Wikipedia)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-as-a-driving-force-of-ai",
-         "pubDate" : "Mon, 05 May 2025 12:28:37",
-         "title" : "Chess as a driving force of AI"
       },
       {
          "description" : "We&#39;re excited to announce the 2025 Chess.com Classic, the last online event of this year&#39;s Champions Chess Tour (CCT). The event takes place between May 18 and May 23 and will feature some of the strongest players in the world. At stake are $150,0...",
@@ -576,22 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-3",
          "pubDate" : "Mon, 28 Apr 2025 10:18:00",
          "title" : "Firouzja Flags Vs. Aravindh, Misses Out On Winning Rapid"
-      },
-      {
-         "description" : "PogChamps 6 is about to start! Soon, 12 celebrities will come together to compete for the title of PogChampion, a piece of the $100,000 prize fund, and bragging rights! To celebrate the sixth edition of everyone&#39;s favorite amateur tournament, Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/twitch-drops-pogchamps-6",
-         "pubDate" : "Mon, 28 Apr 2025 09:00:00",
-         "title" : "Watch PogChamps 6 To Earn 14 Days Of Chess.com Premium Free"
-      },
-      {
-         "description" : "GM Andrew Tang won his 10th Bullet Brawl title and the $400 first prize on Saturday after one of the quickest finishes in the event&#39;s history. A 17-game unbeaten streak at the tail end of the arena helped him eclipse GM Oleksandr Bortnyk by eight ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-april-26-2025",
-         "pubDate" : "Mon, 28 Apr 2025 04:14:00",
-         "title" : "Tang Denies Hat Trick For Bortnyk, Premoves To 10th Title"
       },
       {
          "description" : "Editor's note: This story first appeared in the April 2025 issue of Chess Life magazine, and is re-published here with updates including more information about special guests and side events. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. SuperNationals VIII A long weekend of chess in the Florida springtime awaits at SuperNationals VIII, set for May 8-11 in Orlando, Florida.SuperNationals combines the national High School, Middle School, and Elementary School championships under one roof. <br> <br> <br> <br> Imag",
