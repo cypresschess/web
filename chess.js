@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Online Marketing Rockstars Festival is Europe's largest digital trade fair. On Tuesday, streamers Levy Rozman (Gotham Chess), Daniel Rensch and Anna Cramling were guests at a panel discussion. Between football and Formula One, they presented the digital world of chess on the big stage - and did so very well! | Photos: Andr&eacute; Schulz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-at-the-online-marketing-rockstars-festival",
+         "pubDate" : "Wed, 07 May 2025 12:43:52",
+         "title" : "Chess at the Online Marketing Rockstars Festival"
+      },
+      {
+         "description" : "The European edition of the political news magazine Politico published an article on its website about Russia's influence on the World Chess Federation (FIDE) and how Russia is exploiting chess and the World Chess Federation for its own political ends. | Graphics: POLITICO",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/politico-exposed-the-links-between-world-chess-and-russia-s-war-machine",
+         "pubDate" : "Wed, 07 May 2025 11:00:00",
+         "title" : "Politico - \"Exposed: The links between world chess and Russia's war machine\""
+      },
+      {
+         "description" : "The ECF Board is pleased to announce a further appointment to the Board, filling the newly created post of Home Development Director. The successful candidate is Yuri Krylov, a new...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/home-development-director-appointment/",
+         "pubDate" : "Wed, 07 May 2025 09:05:58",
+         "title" : "Home Development Director Appointment"
+      },
+      {
          "description" : "Despite trying our best, time trouble is sometimes unavoidable. We all have experienced the stress that comes with being under time pressure. Our hearts race, our palms sweat, and our minds become confused. However, it is useful to understand how being in time trouble affects the decisions we make. Of course, we don't play our A-game. But what kinds of mistakes do we make? I am sure that understanding the nature of these mistakes is the first step in minimizing them.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,28 @@ news_feed (
          "title" : "The Winning Academy 43: Mistakes we make in time trouble"
       },
       {
+         "description" : "The interest in this part-time work-from-home post has been greater than we anticipated. We're no longer accepting applications as of 5.00pm yesterday 6/5/24 and will be working towards a short...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/part-time-administrator-for-ecf-office-work-from-home/",
+         "pubDate" : "Wed, 07 May 2025 07:30:33",
+         "title" : "Part-Time Administrator for ECF Office (Work from Home) - UPDATE"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120952579.cms\" />Around 35 Indian chess players are set to compete in the Asian Individual Championship in Al Ain, UAE, vying for coveted FIDE World Cup spots. This year marks the debut of Russian players under the Asian Chess Federation, increasing World Cup berths to ten.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/entry-of-russians-makes-asian-chess-a-tougher-contest/articleshow/120952579.cms",
          "pubDate" : "Wed, 07 May 2025 04:45:26",
          "title" : "Entry of Russians makes Asian chess a tougher contest"
+      },
+      {
+         "description" : "Two-time U.S. Chess Champion GM Alex Yermolinsky says he is &#38;ldquo;overwhelmed with emotions&#38;rdquo; at the outpouring of support from the chess community after he underwent life-saving heart surgery abroad. The legendary 67-year-old grandmaster,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/overwhelmed-and-blessed-yermolinsky-sends-message-after-fundraiser",
+         "pubDate" : "Wed, 07 May 2025 03:14:00",
+         "title" : "Alex Yermolinsky 'Overwhelmed' By Chess Community Support After Life-Saving Surgery"
       },
       {
          "description" : " US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025 at 8 p.m. CT/ 9 p.m. ET via zoom.~U.S. Chess In June, the U.S. Chess membership will elect four new Executive Board members from five candidates, and you can meet them in a forum hosted by U.S. The post <a href=\"https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/\">Meet Candidates for U.S. Chess Executive Board!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -386,14 +426,6 @@ news_feed (
          "title" : "Nakamura, Niemann Take Turns Taking Titled Tuesday"
       },
       {
-         "description" : "We're looking for a part-time administrator to help with our office member support activities. This will initially be&#160;a temporary appointment, but is&#160;expected to become a longer-term&#160;staff role&#160;subject to a successful...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/part-time-administrator-for-ecf-office-work-from-home/",
-         "pubDate" : "Wed, 30 Apr 2025 08:22:33",
-         "title" : "Part-Time Administrator for ECF Office (Work from Home)"
-      },
-      {
          "description" : "Please find the live link here link : live.kottayamchess.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "HBCU Chess Spotlight: Samir Acharya (Howard)"
       },
       {
-         "description" : "Wildcard GM Vladimir Fedoseev is the sole leader of the&#38;nbsp;2025 Superbet Rapid &#38;amp; Blitz Poland, the first event on the 2025 Grand Chess Tour, after scoring 5/6 on day one. It could have been 6/6, but GM Alireza Firouzja escaped in the first r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-1",
-         "pubDate" : "Sat, 26 Apr 2025 13:59:00",
-         "title" : "Fedoseev Leads Firouzja, Pragg As 2025 Grand Chess Tour Begins In Warsaw"
-      },
-      {
          "description" : "I speak five languages fluently: German, French, English, Spanish, and Italian. But it wasn't always that way. Back in school, I hated speaking up in Spanish class. Even when I knew the answer, I hesitated. My grammar wasn't perfect, and I worried about how I sounded. Our teacher didn't help either-she was the type to []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/watford-chess-club-at-the-bucks-county-show/",
          "pubDate" : "Wed, 23 Apr 2025 10:43:00",
          "title" : "Watford Chess Club at the Bucks Country Show"
-      },
-      {
-         "description" : "The festival marks its fifth edition this Summer, headlining an International Open with title norm opportunities up to GM. The event will take place from the 13th-18th August at the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/v-mindsports-international-chess-festival-2025/",
-         "pubDate" : "Wed, 23 Apr 2025 10:32:52",
-         "title" : "V Mindsports International Chess Festival 2025"
       },
       {
          "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST)",
@@ -904,38 +920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/malcolm-pein-on-unfair-play",
          "pubDate" : "Wed, 16 Apr 2025 13:00:00",
          "title" : "Malcolm Pein on Unfair Play"
-      },
-      {
-         "description" : "European Chess Union invites all European Chess Federations affiliated to ECU to participate in the 40th European Chess Club Cup and the 29th European Women's Chess Club Cup. The events will be held in Rhodes, Greece, from 18 October (arrival day) to 26 October 2025 (departure day). The 40th European Chess Club Cup and the 29th European Women's Chess Club Cup will be played in *****Rodos Palace Conference Hall, in 7 rounds played according to the swiss system, with the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cups-2025-official-invitation/",
-         "pubDate" : "Wed, 16 Apr 2025 11:29:07",
-         "title" : "European Chess Club Cups 2025 - Official invitation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120335317.cms\" />Ju Wenjun has secured her fifth FIDE Women's World Championship title, defeating Tan Zhongyi with a dominant 6.5-2.5 score in Chongqing. After an initial setback, Ju won four consecutive games, sealing the victory and a €300,000 prize. She now joins an elite group of five-time champions, while Tan earned €200,000. Both players are set to compete in upcoming tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ju-wenjun-beats-tan-zhongyi-to-win-fifth-womens-world-championship/articleshow/120335317.cms",
-         "pubDate" : "Wed, 16 Apr 2025 10:51:23",
-         "title" : "Ju Wenjun beats Tan Zhongyi to win fifth Women's World Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120340979.cms\" />Indian chess fans face disappointment as their grandmasters struggle in the Freestyle Chess Grand Slam. Despite Arjun Erigaisi's quarterfinal appearance, Gukesh Dommaraju, Vidit Gujrathi, and Rameshbabu Praggnanandhaa failed to advance. Coach Srinath Narayanan believes it's too early to judge, citing the high level of competition and the need for adaptation to the format.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-are-top-indian-grandmasters-struggling-at-freestyle-chess/articleshow/120340979.cms",
-         "pubDate" : "Wed, 16 Apr 2025 10:26:18",
-         "title" : "Why are top Indian GMs struggling at Freestyle Chess?"
-      },
-      {
-         "description" : "The 2025 FIDE Women's World Chess Championship is taking place from April 3 to 21 in two Chinese cities: Shanghai and Chongqing. It features a highly anticipated rematch between two of China's top grandmasters: the reigning Champion, Ju Wenjun, and the Challenger, Tan Zhongyi. The title of the Women's World Chess Champion is decided in 12 games and a tiebreak, if necessary. After 7 games Ju Wenjun leads 5-2. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-wc-2025-live",
-         "pubDate" : "Wed, 16 Apr 2025 08:50:00",
-         "title" : "Women's World Chess Championship - Game 9 live!"
       }
    ]
 }
