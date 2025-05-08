@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the Superbet Chess Classic saw Maxime Vachier-Lagrave (pictured) and Bogdan-Daniel Deac bouncing back from first-round losses with victories over Wesley So and Levon Aronian, respectively. Vachier-Lagrave converted a very slightly favourable rook and knight endgame, while Deac prevailed in a long battle out of a Nimzo-Indian Defence. Alireza Firouzja is now the sole leader with 1&frac12; points after drawing a tense, 55-move encounter against Jan-Krzysztof Duda. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-2",
+         "pubDate" : "Fri, 09 May 2025 00:10:00",
+         "title" : "Superbet Chess Classic: Deac and MVL score bounce-back wins"
+      },
+      {
          "description" : "Boris Spassky (30 January 1935 - 27 February 2025), the tenth World Champion in chess history, was a versatile player who could attack and defend and was equally at home in sharp and in quiet positions. The ChessBase Master Class on Boris Spassky presents and analyses his rich chess legacy. Eugene Manlapao took a look at the course and was surprised and impressed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +26,20 @@ news_feed (
          "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
       },
       {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Thu, 08 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
+         "description" : "GM Anna Muzychuk is on course to qualify for the Women&#39;s Candidates Tournament after winning a second game in a row&#38;nbsp;to join GM Vaishali Rameshbabu in the 2025 Grosslobming FIDE Women&#39;s Grand Prix lead on 2.5/3. GM Tan Zhongyi had started the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-3",
+         "pubDate" : "Thu, 08 May 2025 15:39:22",
+         "title" : "Anna Muzychuk Catches Vaishali In Austria Grand Prix Lead"
       },
       {
-         "description" : "The Superbet Chess Classic in Bucharest got underway with a mixed set of results, as Alireza Firouzja and Wesley So emerged as early co-leaders following the first round. Firouzja's convincing win over Maxime Vachier-Lagrave and So's fortunate victory against wildcard Bogdan-Daniel Deac set the pace, while the remaining games ended in draws. The all-Indian clash between Gukesh Dommaraju and Praggnanandhaa Rameshbabu provided plenty of excitement. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-1",
-         "pubDate" : "Thu, 08 May 2025 12:50:00",
-         "title" : "Superbet Chess Classic: Firouzja beats MVL, So benefits from Deac's blunder"
+         "description" : "Both players who lost the previous day, GMs Maxime Vachier-Lagrave and Bogdan-Daniel Deac, bounced back with wins in the two decisive games of round two in the Superbet Chess Classic Romania 2025. Deac scored his first white win in a Grand Chess T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-2",
+         "pubDate" : "Thu, 08 May 2025 14:04:00",
+         "title" : "Vachier-Lagrave, Deac Bounce Back From Losses"
       },
       {
          "description" : "Disney+ is set to debut the new miniseries Rematch in the United States on May 21. The English-language production dramatizes the historic &#34;man vs. machine&#34; battle from 1997 between GM Garry Kasparov and IBM&#39;s supercomputer Deep Blue, and was fair...",
@@ -39,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rematch-set-for-us-premiere-disney-plus-this-may",
          "pubDate" : "Thu, 08 May 2025 12:00:00",
-         "title" : "\"Rematch\" Miniseries Set For U.S. Premiere On Disney+ This May"
+         "title" : "'Rematch' Miniseries Set For U.S. Premiere On Disney+ This May"
       },
       {
          "description" : "It&#39;s the first tournament of its kind: CoachChamps, where eight coaches select teams of four with the goal of guiding their squad to victory! We previously announced half of the coaching field, but now it&#39;s time to share the biggest name yet: none...",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/coachchamps-2025-announcing-gothamchess",
          "pubDate" : "Thu, 08 May 2025 10:00:00",
          "title" : "GothamChess To Headline CoachChamps"
-      },
-      {
-         "description" : "Vaishali Rameshbabu and Tan Zhongyi emerged as the only players with perfect scores after two rounds of the final leg of the Women's Grand Prix in Grosslobming, Austria. Vaishali defeated Lela Javakhishvili in a well-executed Reverse Gr&uuml;nfeld, while Tan capitalised on Olga Badelka's missteps to secure her second win. Anna Muzychuk claimed a key victory over Zhu Jiner, moving to third place. | Photo: Przemysław Nikiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-2",
-         "pubDate" : "Thu, 08 May 2025 02:25:00",
-         "title" : "Women's GP Austria: Vaishali and Tan take the lead in round full of comebacks and collapses"
       },
       {
          "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
@@ -72,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/",
          "pubDate" : "Wed, 07 May 2025 21:19:01",
          "title" : "World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup "
-      },
-      {
-         "description" : "MegaBase 2025 is Chess History in action. Regularly updated every month, the Main Database currently offers 11 million games, many of them annotated. Here our columnist offers a review with focus on chess in the 21st Century.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/megabase-2025-review-nagesh-havanur",
-         "pubDate" : "Wed, 07 May 2025 20:00:00",
-         "title" : "MegaBase 2025: Carlsen and the young lions"
       },
       {
          "description" : "GMs Vaishali Rameshbabu and Tan Zhongyi lead the 2025 Grosslobming FIDE Women&#39;s Grand Prix on a perfect 2/2 after beating IMs Lela Javakhishvili and Olga Badelka in round two. The most significant clash of the round, meanwhile, saw GM Anna Muzychu...",
@@ -154,14 +146,6 @@ news_feed (
          "title" : "Carlsen's Strong 2025 In Titled Tuesday Continues"
       },
       {
-         "description" : "Despite trying our best, time trouble is sometimes unavoidable. We all have experienced the stress that comes with being under time pressure. Our hearts race, our palms sweat, and our minds become confused. However, it is useful to understand how being in time trouble affects the decisions we make. Of course, we don't play our A-game. But what kinds of mistakes do we make? I am sure that understanding the nature of these mistakes is the first step in minimizing them.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-43-mistakes-we-make-in-time-trouble",
-         "pubDate" : "Wed, 07 May 2025 07:32:21",
-         "title" : "The Winning Academy 43: Mistakes we make in time trouble"
-      },
-      {
          "description" : "The interest in this part-time work-from-home post has been greater than we anticipated. We're no longer accepting applications as of 5.00pm yesterday 6/5/24 and will be working towards a short...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -174,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/roman-shogdzhiev-takes-huge-step-towards-im-title-with-second-norm",
-         "pubDate" : "Wed, 07 May 2025 05:19:52",
+         "pubDate" : "Wed, 07 May 2025 05:19:00",
          "title" : "10-Year-Old Edges One Step Closer To Record-Breaking IM Title"
       },
       {
@@ -232,14 +216,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/equal-price-fund-for-both-men-and-women-makes-norway-chess-special-anna-muzychuk/articleshow/120933723.cms",
          "pubDate" : "Tue, 06 May 2025 13:01:08",
          "title" : "'Equal price fund for both men and women makes Norway Chess special'"
-      },
-      {
-         "description" : "Legendary American Grandmaster Alex Yermolinsky, \"Yermo\", remains hospitalized in Tekirdag, Turkey after undergoing a four-way heart bypass. Yermolinsky is a two-time United States Champion, member of four U.S. Chess Olympiad teams, four American World Senior teams and an inductee to the Chess Hall of Fame. He is now is being crushed by medical bills. You can help.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alexander-yermolinsky-in-crisis",
-         "pubDate" : "Tue, 06 May 2025 12:20:17",
-         "title" : "Alexander Yermolinsky in crisis"
       },
       {
          "description" : "Special Note: If a player has only one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for",
@@ -592,22 +568,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-grenke-festival-freestyle",
          "pubDate" : "Wed, 30 Apr 2025 00:00:00",
          "title" : "Wednesday Workout: Grenke Festival + Freestyle"
-      },
-      {
-         "description" : "The wait is finally over. PogChamps 6 started with a bang after a one-year hiatus left fans longing for more hilarious moments and unbelievable blunders. And today&#39;s Group A round-robin stage certainly delivered both. The three highest-rated pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-6-day-1",
-         "pubDate" : "Tue, 29 Apr 2025 17:31:00",
-         "title" : "Blunders, Pizza, And Drama: Sambucha, Ebere, Inoxtag Make It To Championship Bracket"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev leads the 2025 Superbet Rapid &#38;amp; Blitz Poland by nearly four points going into the final day. After previously making six draws to end the rapid portion, he nearly &#34;pulled a Magnus&#34; on the first day of blitz by scoring a re...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-4",
-         "pubDate" : "Tue, 29 Apr 2025 14:35:00",
-         "title" : "Fedoseev Bursts Out To 3.5-Point Lead Ahead Of Final Day"
       },
       {
          "description" : " Harper Jackson with Dr. Daaim Shabazz at HBCU Chess Classic at Morehouse's King Chapel.Photo by Daaim Shabazz/The Chess Drum Harper Jackson of Morehouse College led his team to a third-place finish in the 3rd HBCU Chess Classic. Jackson, a Detroit native, got his start under Kevin Fite while at Bates Academy. Fite, the legendary chess The post <a href=\"https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/\">HBCU Spotlight: Harper Jackson (Morehouse)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
