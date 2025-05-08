@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vaishali Rameshbabu and Tan Zhongyi emerged as the only players with perfect scores after two rounds of the final leg of the Women's Grand Prix in Grosslobming, Austria. Vaishali defeated Lela Javakhishvili in a well-executed Reverse Gr&uuml;nfeld, while Tan capitalised on Olga Badelka's missteps to secure her second win. Anna Muzychuk claimed a key victory over Zhu Jiner, moving to third place. | Photo: Przemysław Nikiel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-2",
+         "pubDate" : "Thu, 08 May 2025 02:25:00",
+         "title" : "Women's GP Austria: Vaishali and Tan take the lead in round full of comebacks and collapses"
+      },
+      {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/\">World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup </a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -144,6 +152,22 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/",
          "pubDate" : "Wed, 07 May 2025 00:09:39",
          "title" : "Meet Candidates for U.S. Chess Executive Board!"
+      },
+      {
+         "description" : "Kids for Chess, a nonprofit organization with the mission of empowering America's best youth chess players, will be offering three scholarships for $1,500 each to help qualified players offset the cost of attending the World Cadets and World Youth Chess Championships in 2025.The Selection Committee will determine the winners of the scholarships based on a combination of the applicant's chess achievements, academic success, participation in chess-related community service, and genuine need for financial assistance. The application involves providing two essays (one required and one optional), two recommendation letters, and an official transcript from your school.The application deadline is J",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/kids-chess-announces-2025-world-youth-chess-and-world-cadet-chess-championships-scholarships",
+         "pubDate" : "Wed, 07 May 2025 00:00:00",
+         "title" : "Kids for Chess Announces 2025 World Youth Chess and World Cadet Chess Championships Scholarships"
+      },
+      {
+         "description" : "Over 4,600 chess players descend on Orlando this weekend for SuperNationals VIII. This week's puzzles highlight some of the names you can expect to see on the top boards of the K-12 Championship and on WGM Sabina Foisor's streaming coverage. This is a continuation of yesterday's Tactics Tuesday on the same theme. Note that both of these worksheets focus on some of the top-rated players that have not been featured in previous workouts as much as some of their counterparts.Click here to view advanced entries for all sections, and be sure to follow along live all weekend. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-supernationals-viii-preview",
+         "pubDate" : "Wed, 07 May 2025 00:00:00",
+         "title" : "Wednesday Workout: SuperNationals VIII Preview"
       },
       {
          "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
@@ -818,14 +842,6 @@ news_feed (
          "title" : "HBCU Chess Spotlight: Caleb Parker (FAMU)"
       },
       {
-         "description" : "This week's puzzles come from the recently concluded FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championship, where Americans earned three podium finishes. Click here for reporting on Chess Life Online. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cadets-youth-rapid-blitz",
-         "pubDate" : "Tue, 22 Apr 2025 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cadets & Youth Rapid & Blitz"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -890,14 +906,6 @@ news_feed (
          "title" : "Humpy, Divya win; Harika lets Vaishali off the hook"
       },
       {
-         "description" : "American players earned three podium finishes at the 2025 FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championships, held April 13 through 17 in Rhodes, Greece. Over 400 players competed in the five-day event, including seven Americans. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Guo celebrates with his first-place trophy from the blitz event (Photo courtesy of Ippotis Chess Club Rhodes/FIDE)<br> <br> <br> <br> California's CM Ethan Guo earned gold in the Under-12 Open Blitz with a dominating 10/11 score. Guo also took home bronze in the Under-12 Open Rapid for his 8&frac12;/11 performance. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br>",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/ethan-guo-double-medals-siddharth-singh-earns-bronze-2025-fide-world-cadets-youth-rapid-blitz",
-         "pubDate" : "Fri, 18 Apr 2025 00:00:00",
-         "title" : "Ethan Guo Double-Medals, Siddharth Singh Earns Bronze at 2025 FIDE World Cadets & Youth Rapid & Blitz"
-      },
-      {
          "description" : "Garry Kasparov and Anatoly Karpov played five matches for the world championship. The fourth match was played in Seville in 1987. After 23 games, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. The final game was adjourned after five hours of play, to be resumed the next day. The sealed position is the subject of this article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-universities-chess-championship-2025/",
          "pubDate" : "Thu, 17 Apr 2025 08:00:44",
          "title" : "European Universities Chess Championship 2025"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120364918.cms\" />K Humpy showcased her experience and skill, defeating overnight leader Divya Deshmukh in a five-hour match at the FIDE Women's Grand Prix. This victory, coupled with Zhu Jiner's draw, allowed the Chinese player to take the sole lead. Meanwhile, D Harika secured her first win, contributing to a positive day for the Indian contingent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/k-humpy-secures-victory-against-divya-deshmukh-in-fide-womens-grand-prix/articleshow/120364918.cms",
-         "pubDate" : "Thu, 17 Apr 2025 03:01:32",
-         "title" : "Humpy secures victory against Divya in FIDE Women's Grand Prix"
       }
    ]
 }
