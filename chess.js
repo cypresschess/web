@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic in Bucharest got underway with a mixed set of results, as Alireza Firouzja and Wesley So emerged as early co-leaders following the first round. Firouzja's convincing win over Maxime Vachier-Lagrave and So's fortunate victory against wildcard Bogdan-Daniel Deac set the pace, while the remaining games ended in draws. The all-Indian clash between Gukesh Dommaraju and Praggnanandhaa Rameshbabu provided plenty of excitement. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-1",
+         "pubDate" : "Thu, 08 May 2025 12:50:00",
+         "title" : "Superbet Chess Classic: Firouzja beats MVL, So benefits from Deac's blunder"
+      },
+      {
          "description" : "It is well known that the knight is a piece that cannot win/lose a tempo. The position you see on the board was a study by the great Samuel Loyd, published in 1860. Can you imagine what White (to play) must do to draw? The same theme appeared in a number of subsequent studies, and the very interesting ending of knight and rook pawn vs. bishop, has been analysed over the years. In this series GM Eftratios Grivas tells us how it all developed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/asian-individual-championships-2025",
          "pubDate" : "Wed, 7 May 2025 14:03:00",
          "title" : "Asian Individual Championships 2025 - Games and Results"
-      },
-      {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Wed, 07 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : " The Grand Chess Tour Superbet Chess Classic Romania takes place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. There is a 30 minute delay for the live games.",
@@ -210,6 +210,14 @@ news_feed (
          "title" : "Alexander Yermolinsky in crisis"
       },
       {
+         "description" : "Special Note: If a player has only one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-junior-girls-chess-championship-2025-from-25th-june-to-4th-july-2025-in-sri-lanka/",
+         "pubDate" : "Tue, 06 May 2025 11:40:51",
+         "title" : "Asian Junior/ Girls Chess Championship 2025 from 25th June to 4th July 2025 in Sri Lanka"
+      },
+      {
          "description" : "No, it&#39;s not Mount Everest. It is something way more challenging. We invite you to join the Chess.com King of the Hill Championship! The event will take place on May 15 and 16 and features a $2,500 prize fund. After a close contest against Chess...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -277,7 +285,7 @@ news_feed (
          "description" : "Canada&#39;s youngest ever IM Aaron Mendes has won the 2025 Under 13 ChessKid Youth Championship after defeating FM-elect Megan Paragua 5-3 in the final. Paragua got a late chance to play in the knockout after FM-elect Supratit Banerjee was forced to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-mendes-wins",
+         "link" : "https://www.chess.com/news/view/2025-chesskid-youth-championships-under-13-mendes-wins",
          "pubDate" : "Mon, 05 May 2025 06:25:00",
          "title" : "Aaron Mendes Wins Under 13 ChessKid Youth Championship"
       },
@@ -912,30 +920,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/humpy-divya-win-harika-lets-vaishali-off-the-hook/articleshow/120400662.cms",
          "pubDate" : "Fri, 18 Apr 2025 05:54:30",
          "title" : "Humpy, Divya win; Harika lets Vaishali off the hook"
-      },
-      {
-         "description" : "Garry Kasparov and Anatoly Karpov played five matches for the world championship. The fourth match was played in Seville in 1987. After 23 games, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. The final game was adjourned after five hours of play, to be resumed the next day. The sealed position is the subject of this article.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-karpov-the-secret-of-the-24th-game",
-         "pubDate" : "Thu, 17 Apr 2025 11:00:00",
-         "title" : "Kasparov-Karpov: the Secret of the 24th Game"
-      },
-      {
-         "description" : "ECU E-Magazine March 2025 is out! In this edition of the ECU E-Magazine you may read about: The March 2025 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or it can be downloaded in PDF format below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-march-2025/",
-         "pubDate" : "Thu, 17 Apr 2025 08:13:53",
-         "title" : "ECU E-Magazine March 2025"
-      },
-      {
-         "description" : "European Universities Chess Championship 2025, part of the European Universities Games, will take place from 16-20 September in Yerevan, Armenia. The event is organized by Armenian State University of Economics, Armenian Student Sports Federation and Chess Academy of Armenia, governed by the European University Sports Association (EUSA). The European Universities Chess Championship 2025 consists of four tournaments: Rapid Open Team Tournament, Blitz Open Team Tournament, Women Rapid Team Tournament, and Women Blitz Team Tournament. Every match shall be played over []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-universities-chess-championship-2025/",
-         "pubDate" : "Thu, 17 Apr 2025 08:00:44",
-         "title" : "European Universities Chess Championship 2025"
       }
    ]
 }
