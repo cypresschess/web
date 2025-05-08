@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Thu, 08 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "The Superbet Chess Classic in Bucharest got underway with a mixed set of results, as Alireza Firouzja and Wesley So emerged as early co-leaders following the first round. Firouzja's convincing win over Maxime Vachier-Lagrave and So's fortunate victory against wildcard Bogdan-Daniel Deac set the pace, while the remaining games ended in draws. The all-Indian clash between Gukesh Dommaraju and Praggnanandhaa Rameshbabu provided plenty of excitement. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-2",
-         "pubDate" : "Wed, 07 May 2025 15:38:06",
+         "pubDate" : "Wed, 07 May 2025 15:38:00",
          "title" : "Vaishali, Tan Still Perfect As Anna Muzychuk Takes Down Zhu"
       },
       {
