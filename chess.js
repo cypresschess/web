@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is well known that the knight is a piece that cannot win/lose a tempo. The position you see on the board was a study by the great Samuel Loyd, published in 1860. Can you imagine what White (to play) must do to draw? The same theme appeared in a number of subsequent studies, and the very interesting ending of knight and rook pawn vs. bishop, has been analysed over the years. In this series GM Eftratios Grivas tells us how it all developed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sam-loyd-pioneer-of-an-interesting-endgame",
+         "pubDate" : "Thu, 08 May 2025 07:50:35",
+         "title" : "Sam Loyd, pioneer of an interesting endgame"
+      },
+      {
          "description" : "Vaishali Rameshbabu and Tan Zhongyi emerged as the only players with perfect scores after two rounds of the final leg of the Women's Grand Prix in Grosslobming, Austria. Vaishali defeated Lela Javakhishvili in a well-executed Reverse Gr&uuml;nfeld, while Tan capitalised on Olga Badelka's missteps to secure her second win. Anna Muzychuk claimed a key victory over Zhu Jiner, moving to third place. | Photo: Przemysław Nikiel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
