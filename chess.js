@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Boris Spassky (30 January 1935 - 27 February 2025), the tenth World Champion in chess history, was a versatile player who could attack and defend and was equally at home in sharp and in quiet positions. The ChessBase Master Class on Boris Spassky presents and analyses his rich chess legacy. Eugene Manlapao took a look at the course and was surprised and impressed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/product-review-master-class-vol-17-boris-spassky",
+         "pubDate" : "Thu, 08 May 2025 20:00:00",
+         "title" : "Product Review: Master Class Vol. 17 - Boris Spassky"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121004726.cms\" />Indian Grandmaster Nihal Sarin rebounded strongly, defeating Nikita Matinian at the Asian Individual Chess Championship in Al Ain. Murali Karthikeyan secured his second consecutive victory, while S L Narayanan faced a setback. Vantika Agrawal led the women's section with two wins. Several higher-seeded players faced tough competition, as the Indian contingent performed well overall.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-sarin-bounces-back-as-indian-stars-shine-at-asian-chess-championship/articleshow/121004726.cms",
+         "pubDate" : "Thu, 08 May 2025 16:35:01",
+         "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,20 @@ news_feed (
          "title" : "Superbet Chess Classic: Firouzja beats MVL, So benefits from Deac's blunder"
       },
       {
-         "description" : "It is well known that the knight is a piece that cannot win/lose a tempo. The position you see on the board was a study by the great Samuel Loyd, published in 1860. Can you imagine what White (to play) must do to draw? The same theme appeared in a number of subsequent studies, and the very interesting ending of knight and rook pawn vs. bishop, has been analysed over the years. In this series GM Eftratios Grivas tells us how it all developed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sam-loyd-pioneer-of-an-interesting-endgame",
-         "pubDate" : "Thu, 08 May 2025 07:50:35",
-         "title" : "Sam Loyd, pioneer of an interesting endgame"
+         "description" : "Disney+ is set to debut the new miniseries Rematch in the United States on May 21. The English-language production dramatizes the historic &#34;man vs. machine&#34; battle from 1997 between GM Garry Kasparov and IBM&#39;s supercomputer Deep Blue, and was fair...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rematch-set-for-us-premiere-disney-plus-this-may",
+         "pubDate" : "Thu, 08 May 2025 12:00:00",
+         "title" : "\"Rematch\" Miniseries Set For U.S. Premiere On Disney+ This May"
+      },
+      {
+         "description" : "It&#39;s the first tournament of its kind: CoachChamps, where eight coaches select teams of four with the goal of guiding their squad to victory! We previously announced half of the coaching field, but now it&#39;s time to share the biggest name yet: none...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/coachchamps-2025-announcing-gothamchess",
+         "pubDate" : "Thu, 08 May 2025 10:00:00",
+         "title" : "GothamChess To Headline CoachChamps"
       },
       {
          "description" : "Vaishali Rameshbabu and Tan Zhongyi emerged as the only players with perfect scores after two rounds of the final leg of the Women's Grand Prix in Grosslobming, Austria. Vaishali defeated Lela Javakhishvili in a well-executed Reverse Gr&uuml;nfeld, while Tan capitalised on Olga Badelka's missteps to secure her second win. Anna Muzychuk claimed a key victory over Zhu Jiner, moving to third place. | Photo: Przemysław Nikiel",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-austria-2025-2",
          "pubDate" : "Thu, 08 May 2025 02:25:00",
          "title" : "Women's GP Austria: Vaishali and Tan take the lead in round full of comebacks and collapses"
+      },
+      {
+         "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/executive-board-candidates-forum-scheduled-may-16",
+         "pubDate" : "Thu, 08 May 2025 00:00:00",
+         "title" : "Executive Board Candidates Forum Scheduled for May 16"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/\">World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup </a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-supernationals-viii-preview",
          "pubDate" : "Wed, 07 May 2025 00:00:00",
          "title" : "Wednesday Workout: SuperNationals VIII Preview"
-      },
-      {
-         "description" : "He is one of our oldest friends, a valuable assistant and advisor when ChessBase was first launched. The Oxford mathematician has had a long and very illustrious career in chess, sometimes counted amongst the top ten in the world. So how does he celebrate his 70th birthday? Let John Nunn show us how - and give us two celebratory puzzles to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/septuagenarian-john-nunn-2",
-         "pubDate" : "Tue, 06 May 2025 15:00:00",
-         "title" : "Septuagenarian John Nunn"
       },
       {
          "description" : "GM Tan Zhongyi bounced back from her world championship disappointment to start the 2025 Grosslobming FIDE Women&#39;s Grand Prix with a 96-move win that hurt GM Zhu Jiner&#39;s chances of winning the series. There were also wins for GM Vaishali Rameshbab...",
@@ -610,28 +634,12 @@ news_feed (
          "title" : "AICF Refresher Course 2025-26"
       },
       {
-         "description" : "Twenty-year-old Thalia from Chester, United Kingdom, won BBC&#39;s Chess Masters: The Endgame after beating Richie (63, Liverpool) in the eighth and final episode aired on Monday. The first episode of Chess Masters attracted just under 1.2 million vie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/thalia-wins-bbc-chess-masters-the-endgame-2025",
-         "pubDate" : "Tue, 29 Apr 2025 04:51:00",
-         "title" : "Thalia Clinches Trophy In BBC's 'Chess Masters' Final Episode"
-      },
-      {
          "description" : "This week's exercises come from the 2025 Grenke Chess Festival, which featured a large Freestyle component that attracted many top grandmasters. More coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-grenke-festival-freestyle",
          "pubDate" : "Tue, 29 Apr 2025 00:00:00",
          "title" : "Tactics Tuesday: Grenke Festival + Freestyle"
-      },
-      {
-         "description" : "GM Alireza Firouzja lost on time just when he seemed to have escaped against GM Aravindh Chithambaram and was set to be the sole leader of the 2025 Superbet Rapid &#38;amp; Blitz Poland going into the 18 rounds of blitz. Instead he was caught by Aravi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-superbet-poland-rapid-blitz-day-3",
-         "pubDate" : "Mon, 28 Apr 2025 10:18:00",
-         "title" : "Firouzja Flags Vs. Aravindh, Misses Out On Winning Rapid"
       },
       {
          "description" : "Editor's note: This story first appeared in the April 2025 issue of Chess Life magazine, and is re-published here with updates including more information about special guests and side events. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. SuperNationals VIII A long weekend of chess in the Florida springtime awaits at SuperNationals VIII, set for May 8-11 in Orlando, Florida.SuperNationals combines the national High School, Middle School, and Elementary School championships under one roof. <br> <br> <br> <br> Imag",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-gp-chess-humpy-holds-on-to-a-draw-zhu-beats-divya/articleshow/120536506.cms",
          "pubDate" : "Wed, 23 Apr 2025 03:01:42",
          "title" : "FIDE Women's GP chess: Humpy holds on to a draw; Zhu beats Divya"
-      },
-      {
-         "description" : "This week's puzzles come from the recently concluded FIDE World Cadets &amp; Youth Rapid &amp; Blitz Championship, where Americans earned three podium finishes. Click here for reporting on Chess Life Online. For more puzzles from this event, check out our \"Tactics Tuesday\" worksheet aimed at more beginner and intermediate chess players. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cadets-youth-rapid-blitz",
-         "pubDate" : "Wed, 23 Apr 2025 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Cadets & Youth Rapid & Blitz"
       },
       {
          "description" : "I have told the story often: in an interview in 2020 I said that in five years I expected at least two of the top ten players in the world would be Indian. My prediction was met with deep scepticism. It was clearly the unrealistic optimism of a friend and admirer of young Indian talents. It is true I was wrong. In five years since the prediction three have risen into the top ten bracket, and a fourth is on his way into it.",
