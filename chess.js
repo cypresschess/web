@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess fans are in for a treat: On 1 June the Italian town Pietrasanta will host a chess match between Faustino Oro, the world's youngest chess master, and former world champion Vishy Anand. The event, supported by the famous singer Andrea Bocelli, is part of a broader program that includes the Chess Roads exhibition from June 2 to 15, featuring 40 rare and original chess sets from Asia and Europe.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-clash-of-generations-vishy-anand-vs-faustino-oro",
+         "pubDate" : "Fri, 09 May 2025 12:30:00",
+         "title" : "Clash of generations: Vishy Anand vs Faustino Oro"
+      },
+      {
+         "description" : "By the deadline of 30 April 2025 the following bids have been received. EUROPEAN AMATEUR CHESS CHAMPIONSHIP 20261. TURKEY/ISTANBUL EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 20271. MONTENEGRO/PETROVAC2. POLAND/CHOTOWA3. ROMANIA / MAMAIA RESORT, CITY OF CONSTANTA EUROPEAN SCHOOL CHESS CHAMPIONSHIP 20271.MONTENEGRO /BUDVA2. POLAND/CHOTOWA3. SERBIA/VRNJACKA BANJA4. TURKEY/ANTALYA EUROPEAN SENIORS TEAM CHESS CHAMPIONSHIP 20271. ITALY/AQUI TERME EUROPEAN SENIOR INDIVIDUAL CHESS CHAMPIONSHIP 20271.POLAND/CHOTOWA2. SLOVENIA/TERME CATEZ EUROPEAN YOUTH RAPID &#38; BLITZ CHESS CHAMPIONSHIP 20271. SLOVENIA/TERME CATEZ EUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 20271. GEORGIA/BATUMI AWARDED BY THE []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/biddinng-procedure/",
+         "pubDate" : "Fri, 09 May 2025 10:46:30",
+         "title" : "BIDDINNG PROCEDURE"
+      },
+      {
+         "description" : "Anna Muzychuk and Vaishali Rameshbabu now share the lead in the final leg of the Women's Grand Prix after a day marked by four decisive results. Muzychuk secured a crucial win over Olga Badelka with the black pieces, while Vaishali maintained her unbeaten record with a draw against Nana Dzagnidze. Alexandra Kosteniuk halted Tan Zhongyi's winning streak, and Zhu Jiner bounced back from two losses to defeat Nurgyul Salimova. Mariya Muzychuk struggled against Lela Javakhishvili and lost. | Photo: Przemys≈Çaw Nikiel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-3",
+         "pubDate" : "Fri, 09 May 2025 10:30:00",
+         "title" : "Women's GP Austria: Anna Muzychuk and Vaishali share the lead"
+      },
+      {
          "description" : "Please find the link here Link http://kiit16.liveblog365.com/chess/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Live game link for 16th KIIT INTERNATIONALCHESS FESTIVAL 2025"
       },
       {
-         "description" : " The Isle of Man team enlisted two young English stars to help regain the 4NCL title that they won in 2022 and 2023 The Four Nations Chess League (4NCL) is a bedrock of British chess. Staged over 11 rounds and five weekends from October to May at ≠Midlands hotels, with teams of eight in the top division and six in divisions two to four, it attracts players from club level to grandmaster, many of whom do not compete in any other national event. Its organisation, by the ≠English Chess Federation chief executive, Mike Truran, and a ≠hardworking team of arbiters, is consistently excellent. As expected, the 2024-25 season ended last Monday with a close 11th round match between the favourites and ",
+         "description" : " The Isle of Man team enlisted two young English stars to help regain the 4NCL title that they won in 2022 and 2023 The Four Nations Chess League (4NCL) is a bedrock of British chess. Staged over 11 rounds and five weekends from October to May at Midlands hotels, with teams of eight in the top division and six in divisions two to four, it attracts players from club level to grandmaster, many of whom do not compete in any other national event. Its organisation, by the English Chess Federation chief executive, Mike Truran, and a hardworking team of arbiters, is consistently excellent. As expected, the 2024-25 season ended last Monday with a close 11th round match between the favourites and def",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/may/09/manx-libertys-wildcards-deliver-in-style-to-regain-british-team-chess-crown",
