@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The round two of the Asian Individual Chess Championships saw a brilliant display by most of the Indian participants. On the top board, International",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-2-report-on-asian-individual-chess-championships-al-ain-u-a-e-7th-to-15th-may-2025/",
+         "pubDate" : "Fri, 09 May 2025 16:22:21",
+         "title" : "ROUND 2 Report on Asian Individual Chess Championships, Al Ain, U.A.E 7th to 15th May, 2025. "
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-clash-of-generations-vishy-anand-vs-faustino-oro",
          "pubDate" : "Fri, 09 May 2025 12:30:00",
          "title" : "Clash of generations: Vishy Anand vs Faustino Oro"
+      },
+      {
+         "description" : "GM Christopher Yoo won the May 9 Freestyle Friday in a runaway, scoring 10.5 points and securing outright victory with a round to spare. Only a draw in round five against GM Ian Nepomniachtchi kept Yoo from the first perfect 11/11 score in tournam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yoo-wins-freestyle-friday-may-9-2025",
+         "pubDate" : "Fri, 09 May 2025 11:45:55",
+         "title" : "Yoo Dominates Freestyle Friday By 1.5 Points"
       },
       {
          "description" : "By the deadline of 30 April 2025 the following bids have been received. EUROPEAN AMATEUR CHESS CHAMPIONSHIP 20261. TURKEY/ISTANBUL EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 20271. MONTENEGRO/PETROVAC2. POLAND/CHOTOWA3. ROMANIA / MAMAIA RESORT, CITY OF CONSTANTA EUROPEAN SCHOOL CHESS CHAMPIONSHIP 20271.MONTENEGRO /BUDVA2. POLAND/CHOTOWA3. SERBIA/VRNJACKA BANJA4. TURKEY/ANTALYA EUROPEAN SENIORS TEAM CHESS CHAMPIONSHIP 20271. ITALY/AQUI TERME EUROPEAN SENIOR INDIVIDUAL CHESS CHAMPIONSHIP 20271.POLAND/CHOTOWA2. SLOVENIA/TERME CATEZ EUROPEAN YOUTH RAPID &#38; BLITZ CHESS CHAMPIONSHIP 20271. SLOVENIA/TERME CATEZ EUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 20271. GEORGIA/BATUMI AWARDED BY THE []",
@@ -94,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-3",
-         "pubDate" : "Thu, 08 May 2025 15:39:22",
+         "pubDate" : "Thu, 08 May 2025 15:39:00",
          "title" : "Anna Muzychuk Catches Vaishali In Austria Grand Prix Lead"
       },
       {
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-pristina/",
          "pubDate" : "Wed, 30 Apr 2025 06:55:36",
          "title" : "Communique of the ECU Board Meeting in Pristina"
-      },
-      {
-         "description" : "We&#39;re excited to announce that you can now learn with the best chess courses in the world right here on Chess.com. Pick up new openings, learn chess strategy, and sharpen your tactics with top courses from the world&#39;s leading players and coaches! ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-courses",
-         "pubDate" : "Wed, 30 Apr 2025 06:00:00",
-         "title" : "Improve 4.6 Times Faster With Chesscom's New Courses Feature"
       },
       {
          "description" : "This week's exercises come from the 2025 Grenke Chess Festival, which featured a large Freestyle component that attracted many top grandmasters. American GM Brandon Jacobson tied for first in the classical Open, and a few of his highlights are included here. More coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
