@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the link here Link http://kiit16.liveblog365.com/chess/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-for-16th-kiit-internationalchess-festival-2025/",
+         "pubDate" : "Fri, 09 May 2025 06:33:36",
+         "title" : "Live game link for 16th KIIT INTERNATIONALCHESS FESTIVAL 2025"
+      },
+      {
+         "description" : " The Isle of Man team enlisted two young English stars to help regain the 4NCL title that they won in 2022 and 2023 The Four Nations Chess League (4NCL) is a bedrock of British chess. Staged over 11 rounds and five weekends from October to May at ­Midlands hotels, with teams of eight in the top division and six in divisions two to four, it attracts players from club level to grandmaster, many of whom do not compete in any other national event. Its organisation, by the ­English Chess Federation chief executive, Mike Truran, and a ­hardworking team of arbiters, is consistently excellent. As expected, the 2024-25 season ended last Monday with a close 11th round match between the favourites and ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/may/09/manx-libertys-wildcards-deliver-in-style-to-regain-british-team-chess-crown",
+         "pubDate" : "Fri, 09 May 2025 06:30:52",
+         "title" : "Manx Liberty's wildcards deliver in style to regain British team chess crown"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121016509.cms\" />Indian chess prodigies D Gukesh and R Praggnanandhaa both drew their second-round games at the Superbet Classics. Gukesh, playing with black against Nodirbek Abdusattorov, comfortably equalized in an Italian opening, neutralizing Abdusattorov's attempts to create an advantage. Praggnanandhaa also had a relatively easy time securing a draw with black against Fabiano Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-r-praggnanandhaa-play-out-draw-in-superbet-classics-chess-tournament/articleshow/121016509.cms",
+         "pubDate" : "Fri, 09 May 2025 03:43:34",
+         "title" : "Gukesh, Pagg play out draw in Superbet Classics chess tournament"
+      },
+      {
          "description" : "The second round of the Superbet Chess Classic saw Maxime Vachier-Lagrave (pictured) and Bogdan-Daniel Deac bouncing back from first-round losses with victories over Wesley So and Levon Aronian, respectively. Vachier-Lagrave converted a very slightly favourable rook and knight endgame, while Deac prevailed in a long battle out of a Nimzo-Indian Defence. Alireza Firouzja is now the sole leader with 1&frac12; points after drawing a tense, 55-move encounter against Jan-Krzysztof Duda. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -872,22 +896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-in-chess-what-the-chessbase-style-report-reveals",
          "pubDate" : "Sat, 19 Apr 2025 08:39:22",
          "title" : "Player types in chess: What the ChessBase style report reveals"
-      },
-      {
-         "description" : " The world No 1 defeated his old rival and world No 2, Hikaru Nakamura, in the final, and took the $3.75m series lead before the third Slam event in Las Vegas Magnus Carlsen, the world No 1, scored a low-key triumph on Monday when he won the Paris leg of the $3.75m Freestyle Grand Slam by defeating his old rival and world No 2, USA's Hikaru Nakamura, by 1.5-0.5 in the final. It was patient attrition over the two games, worthy of a place in the Carlsen-David Howell book Grind like a Grandmaster. The decisive first game had some technical errors, which the Norwegian described almost apologetically in his <a href=\"https://www.youtube.com/watch?v=Rtd647yuXg4&amp;t=3s\">post-game interview</a>. Th",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/apr/18/chess-carlsen-scores-in-paris-leads-freestyle-grand-slam-after-two-events",
-         "pubDate" : "Fri, 18 Apr 2025 07:00:04",
-         "title" : "Chess: Carlsen scores in Paris, leads Freestyle Grand Slam after two events"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120400662.cms\" />In the FIDE Women's Grand Prix, Zhu Jiner leads after four rounds, while Humpy and Divya Deshmukh secured crucial wins, narrowing the gap. Humpy capitalized on Shuvalova's errors, and Divya triumphed over Salome in a lengthy Caro Kann Exchange Variation. Harika opted for a draw despite a favorable position, and Salimova defeated Munguntuul in a decisive game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/humpy-divya-win-harika-lets-vaishali-off-the-hook/articleshow/120400662.cms",
-         "pubDate" : "Fri, 18 Apr 2025 05:54:30",
-         "title" : "Humpy, Divya win; Harika lets Vaishali off the hook"
       }
    ]
 }
