@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess enthusiasts are in for a treat as Croatian GM Ivan Åari&#263 is set to deliver a live lecture at the Kasparov Chess Foundation Academy on Sunday. This special event offers a unique opportunity to learn from one of Croatia's top chess players and a former European Champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-strategic-advice-from-ivan-ari",
+         "pubDate" : "Fri, 09 May 2025 23:52:00",
+         "title" : "KCF: Strategic advice from Ivan Åari&#263"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">GCT Superbet Chess Classic Romania</a> is the main event, already this is shaping up nicely with Fabiano Caruana and Praggnanandhaa starting with two draws and a win each. Three players, Firouzja, So and MVL have started with a win, a loss and a draw. The rest day is on Monday. The event starts at 1pm UK time but there's a half hour delay in all the broadcasts. The final <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025\">FIDE Women's Grand Prix in Grosslobming</a>, Austria Tue 6th May to Fri 16th May 2025. This is the final event in the Grand Prix ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-9th-to-11th-may-2025",
+         "pubDate" : "Fri, 9 May 2025 20:29:00",
+         "title" : "Chess this Weekend 9th to 11th May 2025 - 10"
+      },
+      {
          "description" : " The round two of the Asian Individual Chess Championships saw a brilliant display by most of the Indian participants. On the top board, International",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/round-2-report-on-asian-individual-chess-championships-al-ain-u-a-e-7th-to-15th-may-2025/",
          "pubDate" : "Fri, 09 May 2025 16:22:21",
          "title" : "ROUND 2 Report on Asian Individual Chess Championships, Al Ain, U.A.E 7th to 15th May, 2025. "
+      },
+      {
+         "description" : "GM Anna Muzychuk&#39;s third win in a row has given her the sole lead on 3.5/4 in the 2025 Grosslobming FIDE Women&#39;s Grand Prix. She&#39;s also on course to win the whole series, but GM Zhu Jiner&#39;s second win in a row puts her half a point behind the thir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-4",
+         "pubDate" : "Fri, 09 May 2025 16:11:15",
+         "title" : "Zhu Is Back As Anna Muzychuk Takes Sole Lead"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu lead the Superbet Chess Classic Romania 2025 after three rounds, both winning for the first time in the tournament. Caruana toppled the previous leader, GM Alireza Firouzja, while Praggnanandhaa wo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-3",
+         "pubDate" : "Fri, 09 May 2025 14:55:39",
+         "title" : "Caruana, Praggnanandhaa Lead After Scoring 1st Wins"
       },
       {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -602,22 +634,6 @@ news_feed (
          "title" : "Superbet Blitz Chess: R Praggnanandhaa fights back to claim second place"
       },
       {
-         "description" : "GM Vladimir Fedoseev has won the 2025 Superbet Rapid &#38;amp; Blitz Poland with three rounds to spare and ultimately finished with 26.5 points, one of the highest scores ever in Grand Chess Tour rapid and blitz events. He takes home $40,000. The Su...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-wins-2025-superbet-poland-rapid-blitz-day-5",
-         "pubDate" : "Wed, 30 Apr 2025 08:41:00",
-         "title" : "Fedoseev Wins With 3 Rounds To Spare"
-      },
-      {
-         "description" : "There was no shortage of name recognition atop this week&#39;s Titled Tuesday standings, with GMs Hikaru Nakamura&#38;nbsp;and Hans Niemann claiming victory on April 29. Both won without the need of tiebreaks and without losing a single game, although Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-niemann-win-titled-tuesday-april-29-2025",
-         "pubDate" : "Wed, 30 Apr 2025 08:36:00",
-         "title" : "Nakamura, Niemann Take Turns Taking Titled Tuesday"
-      },
-      {
          "description" : "Please find the live link here link : live.kottayamchess.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
          "pubDate" : "Wed, 23 Apr 2025 10:30:00",
          "title" : "Women's Grand Prix Pune - Live!"
-      },
-      {
-         "description" : " The Pune FIDE Women's Grand Prix took place April 13-24. Players: Humpy Koneru, Divya Deshmukh, Vaishali Rameshbabu, Harika Dronavalli, Nurgyul Salimova, Batkhuyag Munguntuul, Zhu Jiner, Alina Kashlinskaya, Melia Salome and Polina Shuvalova. Humpy Koneru just edged out Zhu Jiner to take first place on tie-break, both scored 7/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/pune-fide-womens-grand-prix-2025",
-         "pubDate" : "Wed, 23 Apr 2025 08:51:00",
-         "title" : "Pune FIDE Women's Grand Prix 2025 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120536506.cms\" />Alina Kashlinskaya faltered against K Humpy in the FIDE Women's GP, missing a crucial win due to a last-minute change of strategy. This draw allowed Zhu Jiner to tie for the lead with Humpy, as Zhu defeated Divya Deshmukh. The final round will determine the tournament winner, with Humpy facing Nurgyul Salimova and Zhu playing Polina Shuvalova.",
