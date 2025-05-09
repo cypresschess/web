@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Fri, 09 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "Chess fans are in for a treat: On 1 June the Italian town Pietrasanta will host a chess match between Faustino Oro, the world's youngest chess master, and former world champion Vishy Anand. The event, supported by the famous singer Andrea Bocelli, is part of a broader program that includes the Chess Roads exhibition from June 2 to 15, featuring 40 rare and original chess sets from Asia and Europe.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +66,14 @@ news_feed (
          "title" : "Superbet Chess Classic: Deac and MVL score bounce-back wins"
       },
       {
+         "description" : "Editor's note: This report will be updated with more results and photos later this weekend after the awards ceremonies. Please note that the awards ceremonies for the National Puzzle Championship take place Friday, May 9, at 5:50 p.m. EDT in Halls WA1 (Grades 7-12) and WA4 (Grades K-6). The awards ceremonies for the National Blitz Championship will be Saturday, May 10, at 8:50 a.m. in Halls WA1 (K-12) and WA4 (K-6 &amp; K-3), and at 8:45 a.m. in Hall WA2 (K-8). The awards ceremonies for the National Bughouse Championship will be Saturday, May 10 at 12:50 p.m. in Halls WA1 (K-12), WA2 (K-8), and WA4 (K-6). A full schedule of events can be found here.The biggest four days in scholastic chess b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/national-blitz-bughouse-and-puzzle-champions-crowned-orlando",
+         "pubDate" : "Fri, 09 May 2025 00:00:00",
+         "title" : "National Blitz, Bughouse, and Puzzle Champions Crowned in Orlando"
+      },
+      {
          "description" : "Boris Spassky (30 January 1935 - 27 February 2025), the tenth World Champion in chess history, was a versatile player who could attack and defend and was equally at home in sharp and in quiet positions. The ChessBase Master Class on Boris Spassky presents and analyses his rich chess legacy. Eugene Manlapao took a look at the course and was surprised and impressed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
       },
       {
-         "description" : "GM Anna Muzychuk is on course to qualify for the Women&#39;s Candidates Tournament after winning a second game in a row&#38;nbsp;to join GM Vaishali Rameshbabu in the 2025 Grosslobming FIDE Women&#39;s Grand Prix lead on 2.5/3. GM Tan Zhongyi had started the ...",
+         "description" : "GM Anna Muzychuk is on course to qualify for the next Women&#39;s Candidates Tournament after winning a second game in a row to join GM Vaishali Rameshbabu in the 2025 Grosslobming FIDE Women&#39;s Grand Prix lead on 2.5/3. GM Tan Zhongyi had started the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-3",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-pips-chinas-zhu-jiner-for-grand-prix-title/articleshow/120569863.cms",
          "pubDate" : "Thu, 24 Apr 2025 03:22:10",
          "title" : "Koneru Humpy pips China's Zhu Jiner for Grand Prix title"
-      },
-      {
-         "description" : "The Grenke Chess Festival - held April 17 through 21 in Karlsruhe, Germany - saw top grandmasters compete alongside amateurs in a unique mixture of classical and freestyle chess. The time control for both the classical and Freestyle events was a sudden death time control of 90 minutes per game with 30-second increment on move one. With the 225,000 Euro prize fund, the Freestyle A-Open attracted most of the strongest competitors. Here, GM Magnus Carlsen dominated headlines with his spectacular 9/9 performance to win the tournament ahead of a formidable field of elite competitors. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Carlsen with Freestyle Che",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/Grenke-2025-Recap",
-         "pubDate" : "Thu, 24 Apr 2025 00:00:00",
-         "title" : "Grenke Festival: Jacobson Shares First in Open A, Paragua Qualifies for FM, Carlsen Sweeps Freestyle"
       },
       {
          "description" : " The Pune Women's Grand Prix was won by Humpy Koneru on tie-break from Zhu Jiner. Koneru mostly impressed with an important victory over Zhu in Round 7 and another long win today, she did survived against Alina Kashlinskaya in round 8 in her only weak game. Zhu also won a long game to share the Grand Prix points with Koneru. 38 year old Koneru's win was her eighth Grand Prix and gave her the sole record she had shared with Hou Yifan. This Grand Prix was the fifth of a series of six events held in 2024 and 2025, two players will qualify for the next Women's Candidates tournament. Each player competes in three events. Alexandra Goryachkina leads the series ahead of Koneru with both having comp",
