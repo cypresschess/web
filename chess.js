@@ -50,12 +50,12 @@ news_feed (
          "title" : "'Rematch' Miniseries Set For U.S. Premiere On Disney+ This May"
       },
       {
-         "description" : "It&#39;s the first tournament of its kind: CoachChamps, where eight coaches select teams of four with the goal of guiding their squad to victory! We previously announced half of the coaching field, but now it&#39;s time to share the biggest name yet: none...",
+         "description" : "It&#39;s the first tournament of its kind: CoachChamps, where eight coaches select will each draft four students with the goal of guiding their students to victory! We previously announced half of the coaching field and the format, but now it&#39;s time t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/coachchamps-2025-announcing-gothamchess",
          "pubDate" : "Thu, 08 May 2025 10:00:00",
-         "title" : "GothamChess To Headline CoachChamps"
+         "title" : "GothamChess, Finegold, Pruess, Toth Join CoachChamps"
       },
       {
          "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
