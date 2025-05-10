@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 58th Capablanca Memorial takes place Fri 9th to Mon 19th May 2025. The elite section is a 10 round double round robin with five instead of the normal six players. Players: Volodar Murzin, Jonas Buhl, Bjerre, Evgeny Romanov, Arseniy Nesterov and Carlos Daniel Albornoz Cabrera. There is an open alongside. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/58th-capablanca-memorial-2025",
+         "pubDate" : "Sat, 10 May 2025 20:54:00",
+         "title" : "58th Capablanca Memorial 2025 - Games and Results"
+      },
+      {
+         "description" : " The IV Sunway Formentera Open took place 29th April to 9th May 2025. Valentin Dragnev won with 8.5/10 a point clear of Artem Omelja and Sergey Fedorchuk. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/iv-sunway-formentera-open-2025",
+         "pubDate" : "Sat, 10 May 2025 20:49:00",
+         "title" : "IV Sunway Formentera Open 2025 - Games and Results"
+      },
+      {
          "description" : "The Baku Open, the inaugural event of the newly launched \"Chess Tour Azerbaijan\", concluded on 6 May at the Baku Crystal Hall. Serbian GM Aleksandar Indjic emerged as the clear winner in the Group A section, finishing unbeaten with a score of 7/9. Georgian GM Baadur Jobava and Turkish GM Vahap Sanal shared second place, just half a point behind. Nearly 700 players from 16 countries competed across three sections, with prize funds totalling $55,000. | Photos: Azerbaijan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-suffers-shock-defeat-praggnanandhaa-in-joint-lead-at-superbet-classic/articleshow/121063242.cms",
          "pubDate" : "Sat, 10 May 2025 17:23:55",
          "title" : "Gukesh suffers shock defeat, Praggnanandhaa in joint lead at Superbet Classic"
+      },
+      {
+         "description" : "If the 2025 Grosslobming FIDE Women&#39;s Grand Prix ended today, GM Zhu Jiner&#39;s joint second place would give her overall victory in the Grand Prix series. In round five she scored a third win in a row, this time over GM Vaishali Rameshbabu, allowing...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-5",
+         "pubDate" : "Sat, 10 May 2025 15:07:55",
+         "title" : "Zhu Jiner's 3rd Win In A Row Gives Her Grand Prix Pole Position"
       },
       {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-4",
-         "pubDate" : "Sat, 10 May 2025 11:47:13",
+         "pubDate" : "Sat, 10 May 2025 11:47:00",
          "title" : "Vachier-Lagrave Beats World Champion Gukesh, Joins Shared Lead"
       },
       {
@@ -634,14 +658,6 @@ news_feed (
          "title" : "Gukesh Vs. Nakamura Headlines USA-India Chess Match At Esports Stadium"
       },
       {
-         "description" : "56-year-old Ukrainian GM Vasyl Ivanchuk played a staggering 27 games in 19 days in April as he picked up 40 rating points to return to the Top 100 on the May 2025 FIDE rating list. GM Wesley So moved up to 11th, while the biggest climber near the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/may-2025-fide-ratings",
-         "pubDate" : "Thu, 01 May 2025 02:41:00",
-         "title" : "May 2025 FIDE Ratings: Ivanchuk Is Back!"
-      },
-      {
          "description" : "Our rulebook is filled with variations on the main rules. I once counted slightly less than 50 of them in chapters 1 plus 2 alone. Some of those variations require an announcement, or publicity-others, not so much. This hodgepodge is baffling to the typical wood-pusher.Why even have variations at all? Simply put, the answer is that there are times the main rule just does not get the job done for everybody. So, variations take care of those times. Sometimes variations are simply another way to do the same task. For the most part, those variations need to be noted in advanced publicity-or at least announced at the playing site (Rules 1B1, 26A and 26B). A huge handful of variations can be found",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "Superbet Poland Rapid & Blitz 2025 - Games and Results"
       },
       {
-         "description" : " The Grand Chess Tour kicks off with the <a href=\"https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2025\">Superbet Poland Rapid & Blitz</a> starting on Saturday at 1pm BST. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. The final weekend of the <a href=\"https://theweekinchess.com/chessnews/events/bundesliga-2024-25\">German Bundesliga</a> takes place in Deggendorf Friday 25th to Sunday 27th April. Duesseldorfer SK take a three point lead over SC Viernheim into these final three matches. They do meet in the final round 15 of the season on Sunday but the title will likely be settled by then. The relegation ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-25th-to-27th-april-2025",
-         "pubDate" : "Fri, 25 Apr 2025 10:38:00",
-         "title" : "Chess this weekend - 25th to 27th April 2025 - "
-      },
-      {
          "description" : "Congratulations to Sohum Lohia (above right) and Alex Golding, who both gained their third IM norm at the Southend Masters (part of the Southend Easter Chess Festival). They are both...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-pips-chinas-zhu-jiner-for-grand-prix-title/articleshow/120569863.cms",
          "pubDate" : "Thu, 24 Apr 2025 03:22:10",
          "title" : "Koneru Humpy pips China's Zhu Jiner for Grand Prix title"
-      },
-      {
-         "description" : " The Pune Women's Grand Prix was won by Humpy Koneru on tie-break from Zhu Jiner. Koneru mostly impressed with an important victory over Zhu in Round 7 and another long win today, she did survived against Alina Kashlinskaya in round 8 in her only weak game. Zhu also won a long game to share the Grand Prix points with Koneru. 38 year old Koneru's win was her eighth Grand Prix and gave her the sole record she had shared with Hou Yifan. This Grand Prix was the fifth of a series of six events held in 2024 and 2025, two players will qualify for the next Women's Candidates tournament. Each player competes in three events. Alexandra Goryachkina leads the series ahead of Koneru with both having comp",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/humpy-koneru-edges-out-zhu-jiner-to-win-the-pune-womens-grand-prix",
-         "pubDate" : "Wed, 23 Apr 2025 20:31:00",
-         "title" : "Humpy Koneru edges out Zhu Jiner to win the Pune Women's Grand Prix - 9"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120557692.cms\" />Indian Grandmaster Koneru Humpy triumphed at the FIDE Women's Grand Prix 2024-25 (Pune leg), securing the title over China's Zhu Jiner due to superior tie-breaks. Both players concluded with seven points, Humpy defeating Bulgaria's Nurgyul Salimova in the final round, while Zhu bested Russia's Polina Shuvalova.",
