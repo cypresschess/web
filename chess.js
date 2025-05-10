@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Sat, 10 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "There's a quiet belief that keeps most people stuck-in chess, in life, in nearly every serious pursuit. It's not always loud. But it's there. It whispers things like: And that belief is this: That we can grow, succeed, and improve-without ever going through hardship. It sounds nice. But it's a lie. And it's a lie []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/learn-from-pain/",
+         "pubDate" : "Sat, 10 May 2025 13:00:00",
+         "title" : "Why Avoiding Pain Will Never Lead to Progress"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, The Maharashtra Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Swami Vivekanand international School,M.G.Road Kandivali West,Mumbai 400067.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-exam-in-kandivali-west-mumbai-on-24-25-may-2025/",
          "pubDate" : "Sat, 10 May 2025 10:44:12",
          "title" : "SNA Seminar & Exam in Kandivali West ,Mumbai on 24 & 25 May 2025"
+      },
+      {
+         "description" : "The third round of the Superbet Chess Classic in Bucharest delivered two decisive results as Fabiano Caruana and Praggnanandhaa Rameshbabu claimed crucial victories and now share the lead with 2/3 points. Caruana defeated Alireza Firouzja in a 73-move struggle after the Frenchman's aggressive opening backfired, while Praggnanandhaa outplayed Nodirbek Abdusattorov in a strategic battle that highlighted his positional understanding. Meanwhile, Maxime Vachier-Lagrave missed a big chance to convert a promising position against Levon Aronian. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-3",
+         "pubDate" : "Sat, 10 May 2025 08:55:00",
+         "title" : "Superbet Chess Classic: Pragg and Caruana grab crucial wins"
       },
       {
          "description" : "Chess enthusiasts are in for a treat as Croatian GM Ivan Åari&#263 is set to deliver a live lecture at the Kasparov Chess Foundation Academy on Sunday. This special event offers a unique opportunity to learn from one of Croatia's top chess players and a former European Champion.",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-3",
          "pubDate" : "Fri, 09 May 2025 14:55:00",
          "title" : "Caruana, Praggnanandhaa Lead After Scoring 1st Wins"
-      },
-      {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Fri, 09 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "Chess fans are in for a treat: On 1 June the Italian town Pietrasanta will host a chess match between Faustino Oro, the world's youngest chess master, and former world champion Vishy Anand. The event, supported by the famous singer Andrea Bocelli, is part of a broader program that includes the Chess Roads exhibition from June 2 to 15, featuring 40 rare and original chess sets from Asia and Europe.",
@@ -928,14 +944,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/",
          "pubDate" : "Sat, 19 Apr 2025 19:26:32",
          "title" : "Howard University dominates 3rd HBCU Chess Classic!"
-      },
-      {
-         "description" : "In a recent podcast with GM Avetik Grigoryan, founder and CEO of ChessMood, he called me the most disciplined person he knows. I laughed. Because honestly? I see myself as a very undisciplined person. I struggle to eat healthy when I have sweets at home. I struggle to work when I don't write a clear []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/discipline-matters/",
-         "pubDate" : "Sat, 19 Apr 2025 13:00:00",
-         "title" : "How I Tricked Myself Into Living the Life I Want"
       }
    ]
 }
