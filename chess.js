@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, The Maharashtra Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Swami Vivekanand international School,M.G.Road Kandivali West,Mumbai 400067.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-kandivali-west-mumbai-on-24-25-may-2025/",
+         "pubDate" : "Sat, 10 May 2025 10:44:12",
+         "title" : "SNA Seminar & Exam in Kandivali West ,Mumbai on 24 & 25 May 2025"
+      },
+      {
          "description" : "Chess enthusiasts are in for a treat as Croatian GM Ivan Åari&#263 is set to deliver a live lecture at the Kasparov Chess Foundation Academy on Sunday. This special event offers a unique opportunity to learn from one of Croatia's top chess players and a former European Champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -928,22 +936,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/discipline-matters/",
          "pubDate" : "Sat, 19 Apr 2025 13:00:00",
          "title" : "How I Tricked Myself Into Living the Life I Want"
-      },
-      {
-         "description" : "This week I celebrate the achievements of Howard Staunton, the only English player with a claim to have been world chess champion. In those days, best in Europe meant best in the world. Yet just over a decade later, the new invention of the steamship, would speed a fresh genius (Paul Morphy) across the Atlantic, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/adventures-with-the-english/",
-         "pubDate" : "Sat, 19 Apr 2025 10:11:16",
-         "title" : "Adventures with the English"
-      },
-      {
-         "description" : "In this insightful discussion, Dr. Karsten M&uuml;ller reflects on his evolution as a chess player, particularly his transformation from an aggressive \"Hyperactivist\" to a more universal and pragmatic style. Through a comparison of his early years and later career, M&uuml;ller's playing style is analysed using the ChessBase Style Report. His experiences highlight how his strengths developed over time and how this shift mirrors broader patterns in chess players' evolution.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-types-in-chess-what-the-chessbase-style-report-reveals",
-         "pubDate" : "Sat, 19 Apr 2025 08:39:22",
-         "title" : "Player types in chess: What the ChessBase style report reveals"
       }
    ]
 }
