@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-3",
-         "pubDate" : "Fri, 09 May 2025 14:55:39",
+         "pubDate" : "Fri, 09 May 2025 14:55:00",
          "title" : "Caruana, Praggnanandhaa Lead After Scoring 1st Wins"
       },
       {
@@ -58,12 +58,12 @@ news_feed (
          "title" : "Clash of generations: Vishy Anand vs Faustino Oro"
       },
       {
-         "description" : "GM Christopher Yoo won the May 9 Freestyle Friday in a runaway, scoring 10.5 points and securing outright victory with a round to spare. Only a draw in round five against GM Ian Nepomniachtchi kept Yoo from the first perfect 11/11 score in tournam...",
+         "description" : "GM Christopher Yoo won the May 9 Freestyle Friday, scoring 10.5 points and securing outright victory with a round to spare. Only a draw in round five against GM Ian Nepomniachtchi kept Yoo from the first perfect 11/11 score in tournament history. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yoo-wins-freestyle-friday-may-9-2025",
-         "pubDate" : "Fri, 09 May 2025 11:45:55",
-         "title" : "Yoo Dominates Freestyle Friday By 1.5 Points"
+         "pubDate" : "Fri, 09 May 2025 11:45:00",
+         "title" : "Yoo Wins Freestyle Friday By 1.5 Points"
       },
       {
          "description" : "By the deadline of 30 April 2025 the following bids have been received. EUROPEAN AMATEUR CHESS CHAMPIONSHIP 20261. TURKEY/ISTANBUL EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 20271. MONTENEGRO/PETROVAC2. POLAND/CHOTOWA3. ROMANIA / MAMAIA RESORT, CITY OF CONSTANTA EUROPEAN SCHOOL CHESS CHAMPIONSHIP 20271.MONTENEGRO /BUDVA2. POLAND/CHOTOWA3. SERBIA/VRNJACKA BANJA4. TURKEY/ANTALYA EUROPEAN SENIORS TEAM CHESS CHAMPIONSHIP 20271. ITALY/AQUI TERME EUROPEAN SENIOR INDIVIDUAL CHESS CHAMPIONSHIP 20271.POLAND/CHOTOWA2. SLOVENIA/TERME CATEZ EUROPEAN YOUTH RAPID &#38; BLITZ CHESS CHAMPIONSHIP 20271. SLOVENIA/TERME CATEZ EUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 20271. GEORGIA/BATUMI AWARDED BY THE []",
