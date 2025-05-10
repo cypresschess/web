@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Baku Open, the inaugural event of the newly launched \"Chess Tour Azerbaijan\", concluded on 6 May at the Baku Crystal Hall. Serbian GM Aleksandar Indjic emerged as the clear winner in the Group A section, finishing unbeaten with a score of 7/9. Georgian GM Baadur Jobava and Turkish GM Vahap Sanal shared second place, just half a point behind. Nearly 700 players from 16 countries competed across three sections, with prize funds totalling $55,000. | Photos: Azerbaijan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/baku-open-2025-r9",
+         "pubDate" : "Sat, 10 May 2025 19:25:00",
+         "title" : "Aleksandar Indjic impresses, wins Baku Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121063242.cms\" />D Gukesh faced a shocking defeat against Maxime Vachier-Lagrave in the Superbet Classic, while R Praggnanandhaa held a draw, maintaining his position at the top. Levon Aronian secured his first victory by defeating Jan-Krzysztof Duda. Praggnanandhaa, Caruana, and Vachier-Lagrave are now jointly leading the tournament after four rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-suffers-shock-defeat-praggnanandhaa-in-joint-lead-at-superbet-classic/articleshow/121063242.cms",
+         "pubDate" : "Sat, 10 May 2025 17:23:55",
+         "title" : "Gukesh suffers shock defeat, Praggnanandhaa in joint lead at Superbet Classic"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Why Avoiding Pain Will Never Lead to Progress"
       },
       {
+         "description" : "GM Maxime Vachier-Lagrave joined the three-way tie for first, with GMs Fabiano Caruana and Praggnanandhaa Rameshbabu, in the Superbet Chess Classic Romania 2025 after round four. He won a surprisingly one-sided game against World Champion Gukesh D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-4",
+         "pubDate" : "Sat, 10 May 2025 11:47:13",
+         "title" : "Vachier-Lagrave Beats World Champion Gukesh, Joins Shared Lead"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, The Maharashtra Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Swami Vivekanand international School,M.G.Road Kandivali West,Mumbai 400067.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-3",
          "pubDate" : "Sat, 10 May 2025 08:55:00",
          "title" : "Superbet Chess Classic: Pragg and Caruana grab crucial wins"
+      },
+      {
+         "description" : "Editor's note: This report will be updated with more games and photography throughout the day.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.Headed into the second day of the main SuperNationals VIII tournament, 212 players boast unblemished 2/2 scores across the six Championship sections. With the grueling triple-round day ahead, will there be any unblemished 5/5 scores when all is done tonight?Round 3 begins at 9:00 a.m. EDT (and 9:30 a.m. for the K-1 sections), with rounds 4 and 5 scheduled for 1:30 p.m. (all rounds) and 6:00 p.m. (and 5:30 p.m. for the ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/supernationals-viii-friday-recap-saturday-preview",
+         "pubDate" : "Sat, 10 May 2025 00:00:00",
+         "title" : "SuperNationals VIII: Friday Recap + Saturday Preview"
       },
       {
          "description" : "Chess enthusiasts are in for a treat as Croatian GM Ivan Åari&#263 is set to deliver a live lecture at the Kasparov Chess Foundation Academy on Sunday. This special event offers a unique opportunity to learn from one of Croatia's top chess players and a former European Champion.",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-sindarov-win-titled-tuesday-may-6-2025",
          "pubDate" : "Wed, 07 May 2025 08:28:32",
          "title" : "Carlsen's Strong 2025 In Titled Tuesday Continues"
-      },
-      {
-         "description" : "The interest in this part-time work-from-home post has been greater than we anticipated. We're no longer accepting applications as of 5.00pm yesterday 6/5/24 and will be working towards a short...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/part-time-administrator-for-ecf-office-work-from-home/",
-         "pubDate" : "Wed, 07 May 2025 07:30:33",
-         "title" : "Part-Time Administrator for ECF Office (Work from Home) - UPDATE"
       },
       {
          "description" : "10-year-old FM Roman Shogdzhiev continued his rapid rise at the Baku Open, where he secured his second International Master norm with a stellar 2514 performance in a field packed with titled players. Top seed and 2024 European Champion GM Alexan...",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "Battle of the Champions 2025 - Games and Results"
       },
       {
-         "description" : "[Edited on 4/30/2025:]&#38;nbsp;Please note that DrLupo will be replaced in the Consolation Bracket, as per our announcement. DrLupo has been closed for a fair play violation that occured during today&#38;rsquo;s Pogchamps event. He will be replaced i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-6-day-2",
-         "pubDate" : "Wed, 30 Apr 2025 17:29:00",
-         "title" : "Steve Nedoroscik, WolfeyVGC Lead In Toughest PogChamps Day Yet For Queens"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-grenke-festival-freestyle",
          "pubDate" : "Tue, 29 Apr 2025 00:00:00",
          "title" : "Tactics Tuesday: Grenke Festival + Freestyle"
-      },
-      {
-         "description" : "Editor's note: This story first appeared in the April 2025 issue of Chess Life magazine, and is re-published here with updates including more information about special guests and side events. Consider becoming a US Chess member for more content like this - access to digital editions of both Chess Life and Chess Life Kids is a member benefit, and you can receive print editions of both magazines for a small add-on fee. SuperNationals VIII A long weekend of chess in the Florida springtime awaits at SuperNationals VIII, set for May 8-11 in Orlando, Florida.SuperNationals combines the national High School, Middle School, and Elementary School championships under one roof. <br> <br> <br> <br> Imag",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/inside-story-supernationals-viii-preview",
-         "pubDate" : "Mon, 28 Apr 2025 00:00:00",
-         "title" : "Inside Story: SuperNationals VIII Preview"
       },
       {
          "description" : " Charles Lindsey, Jr. and Breon McCray had a vision a few years ago at Hampton University. The Detroit natives decided to turn their passion for chess into an organization. The group's purpose was to gather like minds, refine analytical abilities, and engage in satisfying social interaction. Charles Lindsey, Jr., President of Hampton University Chess Club The post <a href=\"https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/\">HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -874,6 +882,14 @@ news_feed (
          "title" : "Watford Chess Club at the Bucks Country Show"
       },
       {
+         "description" : "The festival marks its fifth edition this Summer, headlining an International Open with title norm opportunities up to GM. The event will take place from the 13th-18th August at the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/v-mindsports-international-chess-festival-2025/",
+         "pubDate" : "Wed, 23 Apr 2025 10:32:52",
+         "title" : "V Mindsports International Chess Festival 2025"
+      },
+      {
          "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-maharashtra-chess-festival-gm-open-above-2200/",
          "pubDate" : "Sun, 20 Apr 2025 15:08:11",
          "title" : "Live Games link for Maharashtra Chess Festival - GM Open (Above 2200)"
-      },
-      {
-         "description" : " Howard University came to the 2025 HBCU Chess Classic to reclaim the trophy they won at the inaugural event in 2023. In last year's event, Howard failed to take the top prize in both the team and individual categories, settling for silver in the team category and bronze in the individual category. By Bison standards, The post <a href=\"https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/\">Howard University dominates 3rd HBCU Chess Classic!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/04/19/howard-university-dominates-3rd-hbcu-chess-classic/",
-         "pubDate" : "Sat, 19 Apr 2025 19:26:32",
-         "title" : "Howard University dominates 3rd HBCU Chess Classic!"
       }
    ]
 }
