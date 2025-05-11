@@ -34,11 +34,19 @@ news_feed (
          "title" : "Gukesh suffers shock defeat, Praggnanandhaa in joint lead at Superbet Classic"
       },
       {
-         "description" : "If the 2025 Grosslobming FIDE Women&#39;s Grand Prix ended today, GM Zhu Jiner&#39;s joint second place would give her overall victory in the Grand Prix series. In round five she scored a third win in a row, this time over GM Vaishali Rameshbabu, allowing...",
+         "description" : "The all-time leading Bullet Brawl title winner, GM Hikaru Nakamura, returned to the top of the standings on Saturday and won the $400 first prize, winning 66 games, drawing six, and losing five. Nakamura&#39;s score of 242 saw him finish ahead of fell...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-10-2025",
+         "pubDate" : "Sat, 10 May 2025 17:21:00",
+         "title" : "Nakamura Posts 36-Game Unbeaten Streak, Captures 39th Title"
+      },
+      {
+         "description" : "If the 2025 Grosslobming FIDE Women&#39;s Grand Prix ended on Saturday, GM Zhu Jiner&#39;s joint second place would give her overall victory in the Grand Prix series. In round five she scored a third win in a row, this time over GM Vaishali Rameshbabu, al...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-5",
-         "pubDate" : "Sat, 10 May 2025 15:07:55",
+         "pubDate" : "Sat, 10 May 2025 15:07:00",
          "title" : "Zhu Jiner's 3rd Win In A Row Gives Her Grand Prix Pole Position"
       },
       {
@@ -82,7 +90,7 @@ news_feed (
          "title" : "Superbet Chess Classic: Pragg and Caruana grab crucial wins"
       },
       {
-         "description" : "Editor's note: This report will be updated with more games and photography throughout the day.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.Headed into the second day of the main SuperNationals VIII tournament, 212 players boast unblemished 2/2 scores across the six Championship sections. With the grueling triple-round day ahead, will there be any unblemished 5/5 scores when all is done tonight?Round 3 begins at 9:00 a.m. EDT (and 9:30 a.m. for the K-1 sections), with rounds 4 and 5 scheduled for 1:30 p.m. (all rounds) and 6:00 p.m. (and 5:30 p.m. for the ",
+         "description" : "Editor's note: This report will be updated with more games and photography throughout the day.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.Headed into the second day of the main SuperNationals VIII tournament, 212 players boast unblemished 2/2 scores across the six Championship sections. With the grueling triple-round day ahead, will there be any unblemished 5/5 scores when all is done tonight?Round 3 begins at 9:00 a.m. EDT (and 9:30 a.m. for the K-1 sections), with rounds 4 and 5 scheduled for 1:30 p.m. (all sections) and 6:00 p.m. (and 5:30 p.m. for th",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/supernationals-viii-friday-recap-saturday-preview",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/events-director-appointment/",
          "pubDate" : "Thu, 01 May 2025 08:24:20",
          "title" : "Events Director Appointment"
-      },
-      {
-         "description" : "World Champion Gukesh Dommaraju will lead India against GM Hikaru Nakamura and the USA in a new five-board team match, which will also see GM Fabiano Caruana take on GM Arjun Erigaisi. The organizers say they expect a sold-out crowd for the stadiu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-nakamura-usa-india-showdown-esports-stadium",
-         "pubDate" : "Thu, 01 May 2025 06:36:00",
-         "title" : "Gukesh Vs. Nakamura Headlines USA-India Chess Match At Esports Stadium"
       },
       {
          "description" : "Our rulebook is filled with variations on the main rules. I once counted slightly less than 50 of them in chapters 1 plus 2 alone. Some of those variations require an announcement, or publicity-others, not so much. This hodgepodge is baffling to the typical wood-pusher.Why even have variations at all? Simply put, the answer is that there are times the main rule just does not get the job done for everybody. So, variations take care of those times. Sometimes variations are simply another way to do the same task. For the most part, those variations need to be noted in advanced publicity-or at least announced at the playing site (Rules 1B1, 26A and 26B). A huge handful of variations can be found",
