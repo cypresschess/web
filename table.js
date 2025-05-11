@@ -1,6 +1,12 @@
 jtable([
+"HOUSTON","2025-05-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202505105992 target='_blank'>CHESSPANDA05102025SATURDAY</a>",
+"CYPRESS","2025-05-10","34","<a href=http://www.uschess.org/msa/XtblMain.php?202505105712 target='_blank'>KNIGHTSOFCYPRESS</a>",
+"SUGAR LAND","2025-05-09","22","<a href=http://www.uschess.org/msa/XtblMain.php?202505095742 target='_blank'>FBCC NATIONAL SLEEPOVER DAY OPEN</a>",
+"SPRING","2025-05-09","26","<a href=http://www.uschess.org/msa/XtblMain.php?202505095692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-05-02  - 05-04","42","<a href=http://www.uschess.org/msa/XtblMain.php?202505043292 target='_blank'>EVENT NAME MISSING</a>",
 "HOUSTON","2025-05-04","5","<a href=http://www.uschess.org/msa/XtblMain.php?202505043132 target='_blank'>BELLAIRE SUNDAY SWISS 05/04/2025</a>",
+"PEARLAND","2025-05-03","30","<a href=http://www.uschess.org/msa/XtblMain.php?202505035732 target='_blank'>3RD PEARLAND OPEN- MAY 2025</a>",
+"HOUSTON","2025-05-03","5","<a href=http://www.uschess.org/msa/XtblMain.php?202505034262 target='_blank'>MEMORIAL PRIVATE SCHOOL SCHOLASTIC</a>",
 "HOUSTON","2025-05-02  - 05-03","8","<a href=http://www.uschess.org/msa/XtblMain.php?202505032672 target='_blank'>MAY FRIDAY NIGHT & SATURDAY MORNING</a>",
 "PASADENA","2025-05-03","35","<a href=http://www.uschess.org/msa/XtblMain.php?202505032372 target='_blank'>PISD MAY 2025</a>",
 "PASADENA","2025-05-03","29","<a href=http://www.uschess.org/msa/XtblMain.php?202505032312 target='_blank'>PISD MAY 2025</a>",
@@ -193,10 +199,4 @@ jtable([
 "CYPRESS","2024-10-04","40","<a href=http://www.uschess.org/msa/XtblMain.php?202410047512 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "CYPRESS","2024-10-04","36","<a href=http://www.uschess.org/msa/XtblMain.php?202410041882 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-10-04","34","<a href=http://www.uschess.org/msa/XtblMain.php?202410041642 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-09-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202409289282 target='_blank'>ADULTS ONLY SEPT 28TH  SATURDAY SWI</a>",
-"HOUSTON","2024-09-28","16","<a href=http://www.uschess.org/msa/XtblMain.php?202409289222 target='_blank'>CHESSPANDA09282024SATURDAY</a>",
-"SUGAR LAND","2024-09-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202409277982 target='_blank'>FBCC 2024 NATIONAL SCARF DAY OPEN</a>",
-"SPRING","2024-09-27","31","<a href=http://www.uschess.org/msa/XtblMain.php?202409277822 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2024-09-27","39","<a href=http://www.uschess.org/msa/XtblMain.php?202409270592 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2024-09-03  - 09-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202409246352 target='_blank'>SEPTEMBER 2024 TUESDAY NIGHT SWISS</a>",
 ]);
