@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ukrainian chess legend Vasyl Ivanchuk has made a remarkable comeback, gaining 40 rating points in April and re-entering the top 100 with a FIDE rating of 2644. The 54-year-old grandmaster remained unbeaten in 27 games across three tournaments, including the Reykjav&iacute;k Open, Semana Santa Open and Menorca Open, where he finished first with an impressive 8/9 score. Despite the turmoil in Ukraine, Ivanchuk continues to demonstrate his enduring talent, reminding the chess world of his prodigious skill and unpredictable brilliance. | Photo: Andreas Kontokanis, via Wikimedia Commons (2007)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-227",
+         "pubDate" : "Sun, 11 May 2025 10:00:00",
+         "title" : "Jon Speelman: Triple-jump in spring, a celebration of Vasyl Ivanchuk"
+      },
+      {
          "description" : " 58th Capablanca Memorial takes place Fri 9th to Mon 19th May 2025. The elite section is a 10 round double round robin with five instead of the normal six players. Players: Volodar Murzin, Jonas Buhl, Bjerre, Evgeny Romanov, Arseniy Nesterov and Carlos Daniel Albornoz Cabrera. There is an open alongside. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
