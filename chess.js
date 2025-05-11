@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Would you like to make the most of ChessBase 18, especially in the opening, to improve your repertoire? With the Powerbooks and Powerbases, you will always be one step ahead of your opponents. Learn how to use these comprehensive and up-to-date databases with ChessBase and how to train your favourite openings with Fritz.",
+         "description" : "After a day of all draws at the Superbet Chess Classic in Bucharest, the standings remain unchanged, with Maxime Vachier-Lagrave, Fabiano Caruana and Praggnanandhaa Rameshbabu still sharing the lead on 2&frac12;/5 points. Despite the lack of decisive games, round five featured tense battles across all boards, with Jan-Krzysztof Duda narrowly missing a chance to claim his first win against Gukesh Dommaraju and Wesley So pressing against Caruana in a sharp Sveshnikov Sicilian. Four rounds remain after Monday's rest day. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-13-powerbooks-and-powerbases",
-         "pubDate" : "Sun, 11 May 2025 17:00:00",
-         "title" : "ChessBase 18 - Beginner's Tips, Part 13: Powerbooks and Powerbases"
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-5",
+         "pubDate" : "Mon, 12 May 2025 00:45:00",
+         "title" : "Superbet Chess Classic: A day of missed chances"
+      },
+      {
+         "description" : "GM Anna Muzychuk retains the sole lead in the 2025 Grosslobming FIDE Women&#39;s Grand Prix after making the only draw in round six,&#38;nbsp;against GM Nana Dzagnidze, but wins for GM Zhu Jiner (her fourth in a row!) and GM Vaishali Rameshbabu saw them m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-6",
+         "pubDate" : "Sun, 11 May 2025 16:23:51",
+         "title" : "Zhu Jiner, Vaishali Close Gap To Anna Muzychuk"
       },
       {
          "description" : " The 2025 African Individual Chess Championship will be held from May 13th to 20th, 2025, in Cairo, Egypt. It is organized by the African Chess Confederation (ACC) and hosted by the Egyptian Chess Federation at the Police Union Club.The tournament will feature both an open section and a women's section. The 9-round Swiss tournament will have a time The post <a href=\"https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/\">2025 African Individual Chess Championship (Cairo, Egypt)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "2025 African Individual Chess Championship (Cairo, Egypt)"
       },
       {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Sun, 11 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
+         "description" : "The standings remain unchanged after round five of the Superbet Chess Classic Romania 2025. After a day of all draws, we still have three leaders:&#38;nbsp;GMs Maxime Vachier-Lagrave, Fabiano Caruana, and Praggnanandhaa Rameshbabu, with four players a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-5",
+         "pubDate" : "Sun, 11 May 2025 12:32:00",
+         "title" : "All Sharp Games, All Draws In Bucharest"
       },
       {
          "description" : "The history of chess has been marked by numerous epic confrontations. These include Staunton vs. St Amant, a microcosmic struggle from 1843 which acquired particular relevance from memories of the traditional macrocosmic Anglo-French rivalry, culminating at the Battle of Waterloo. Later in the 19th century the rivalry between Steinitz and Zukertort spilled over from the chessboard into []",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-227",
          "pubDate" : "Sun, 11 May 2025 10:00:00",
          "title" : "Jon Speelman: Triple-jump in spring, a celebration of Vasyl Ivanchuk"
+      },
+      {
+         "description" : "ORLANDO, FL: The 501(c)3 US Chess Federation's SuperNationals VIII took place from May 9 through 11 at the Orange County Convention Center in Orlando, Florida. SuperNationals combines the three Spring National Scholastic Championships (Elementary, Middle, and High School grade levels) into one event, and it takes place only once every four years.With SuperNationals VII canceled in 2021 due to COVID-19 concerns, this year marked the first edition of the tournament since Nashville's SuperNationals VI in 2017. Below are the individual and team winners of each Championship section. When co-champions are listed, they are in tiebreak order. This page will be uploaded ASAP with photos from the awar",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/flash-report-supernationals-viii-results",
+         "pubDate" : "Sun, 11 May 2025 00:00:00",
+         "title" : "Flash Report: SuperNationals VIII Results"
       },
       {
          "description" : "Editor's note: This report will be updated shortly with photography. But round 6 is already underway, so it makes sense to get the results and games reported on quickly.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.In yesterday's report, I counted 212 players with perfect scores across the six Championship sections in Orlando. After three more rounds on Saturday, that number has dwindled to 11. (Note: first-person usage in the body of the report refers to the author, but first-person usage in annotations refers to the streamer/annotator WGM Sabina Foisor).",
@@ -207,15 +223,7 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/biddinng-procedure/",
          "pubDate" : "Fri, 09 May 2025 10:46:30",
-         "title" : "BIDDINNG PROCEDURE"
-      },
-      {
-         "description" : "Anna Muzychuk and Vaishali Rameshbabu now share the lead in the final leg of the Women's Grand Prix after a day marked by four decisive results. Muzychuk secured a crucial win over Olga Badelka with the black pieces, while Vaishali maintained her unbeaten record with a draw against Nana Dzagnidze. Alexandra Kosteniuk halted Tan Zhongyi's winning streak, and Zhu Jiner bounced back from two losses to defeat Nurgyul Salimova. Mariya Muzychuk struggled against Lela Javakhishvili and lost. | Photo: Przemysław Nikiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-3",
-         "pubDate" : "Fri, 09 May 2025 10:30:00",
-         "title" : "Women's GP Austria: Anna Muzychuk and Vaishali share the lead"
+         "title" : "BIDDING PROCEDURE"
       },
       {
          "description" : "Please find the link here Link http://kiit16.liveblog365.com/chess/",
@@ -242,28 +250,12 @@ news_feed (
          "title" : "Gukesh, Pagg play out draw in Superbet Classics chess tournament"
       },
       {
-         "description" : "The second round of the Superbet Chess Classic saw Maxime Vachier-Lagrave (pictured) and Bogdan-Daniel Deac bouncing back from first-round losses with victories over Wesley So and Levon Aronian, respectively. Vachier-Lagrave converted a very slightly favourable rook and knight endgame, while Deac prevailed in a long battle out of a Nimzo-Indian Defence. Alireza Firouzja is now the sole leader with 1&frac12; points after drawing a tense, 55-move encounter against Jan-Krzysztof Duda. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-2",
-         "pubDate" : "Fri, 09 May 2025 00:10:00",
-         "title" : "Superbet Chess Classic: Deac and MVL score bounce-back wins"
-      },
-      {
          "description" : "Editor's note: This report will be updated with more results and photos later this weekend after the awards ceremonies. Please note that the awards ceremonies for the National Puzzle Championship take place Friday, May 9, at 5:50 p.m. EDT in Halls WA1 (Grades 7-12) and WA4 (Grades K-6). The awards ceremonies for the National Blitz Championship will be Saturday, May 10, at 8:50 a.m. in Halls WA1 (K-12) and WA4 (K-6 &amp; K-3), and at 8:45 a.m. in Hall WA2 (K-8). The awards ceremonies for the National Bughouse Championship will be Saturday, May 10 at 12:50 p.m. in Halls WA1 (K-12), WA2 (K-8), and WA4 (K-6). A full schedule of events can be found here.The biggest four days in scholastic chess b",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/national-blitz-bughouse-and-puzzle-champions-crowned-orlando",
          "pubDate" : "Fri, 09 May 2025 00:00:00",
          "title" : "National Blitz, Bughouse, and Puzzle Champions Crowned in Orlando"
-      },
-      {
-         "description" : "Boris Spassky (30 January 1935 - 27 February 2025), the tenth World Champion in chess history, was a versatile player who could attack and defend and was equally at home in sharp and in quiet positions. The ChessBase Master Class on Boris Spassky presents and analyses his rich chess legacy. Eugene Manlapao took a look at the course and was surprised and impressed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/product-review-master-class-vol-17-boris-spassky",
-         "pubDate" : "Thu, 08 May 2025 20:00:00",
-         "title" : "Product Review: Master Class Vol. 17 - Boris Spassky"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121004726.cms\" />Indian Grandmaster Nihal Sarin rebounded strongly, defeating Nikita Matinian at the Asian Individual Chess Championship in Al Ain. Murali Karthikeyan secured his second consecutive victory, while S L Narayanan faced a setback. Vantika Agrawal led the women's section with two wins. Several higher-seeded players faced tough competition, as the Indian contingent performed well overall.",
@@ -354,28 +346,12 @@ news_feed (
          "title" : "Firouzja Cracks MVL's French Defense, Leads With Wesley So"
       },
       {
-         "description" : "The Online Marketing Rockstars Festival is Europe's largest digital trade fair. On Tuesday, streamers Levy Rozman (Gotham Chess), Daniel Rensch and Anna Cramling were guests at a panel discussion. Between football and Formula One, they presented the digital world of chess on the big stage - and did so very well! | Photos: Andr&eacute; Schulz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-at-the-online-marketing-rockstars-festival",
-         "pubDate" : "Wed, 07 May 2025 12:43:52",
-         "title" : "Chess at the Online Marketing Rockstars Festival"
-      },
-      {
          "description" : " Something amazing happened in Kenyan chess a month ago. Over 7,000 chess players from across Kenya gathered at Mang'u High School to compete in the Kenyan Schools Chess Championship. A fantastic sea of youth filled the halls as thousands of students came in columns of buses to compete in the massive tournament. Ten years ago, The post <a href=\"https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/\">7,242 players at Kenya Schools Chess!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/",
          "pubDate" : "Wed, 07 May 2025 12:21:01",
          "title" : "7,242 players at Kenya Schools Chess!"
-      },
-      {
-         "description" : "The European edition of the political news magazine Politico published an article on its website about Russia's influence on the World Chess Federation (FIDE) and how Russia is exploiting chess and the World Chess Federation for its own political ends. | Graphics: POLITICO",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/politico-exposed-the-links-between-world-chess-and-russia-s-war-machine",
-         "pubDate" : "Wed, 07 May 2025 11:00:00",
-         "title" : "Politico - \"Exposed: The links between world chess and Russia's war machine\""
       },
       {
          "description" : "The ECF Board is pleased to announce a further appointment to the Board, filling the newly created post of Home Development Director. The successful candidate is Yuri Krylov, a new...",
@@ -666,14 +642,6 @@ news_feed (
          "title" : "Petr Neuman 1978-2025 - "
       },
       {
-         "description" : "PogChamps 6 continues to amaze fans and commentators alike. Players found new and creative ways to blunder their queens, throw games, and entertain the audience on the first day of the knockouts. Sapnap and Steve Nedoroscik defeated Sambucha and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-6-day-3",
-         "pubDate" : "Thu, 01 May 2025 16:35:00",
-         "title" : "Eyes Bleed And Eval Bar Screams In Agony As LydiaViolet, Linzor, Sapnap, And Steve Advance"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120797818.cms\" />Indian Grandmaster R Praggnanandhaa secured third place at the Superbet Rapid and Blitz tournament in Warsaw, while Vladimir Fedoseev of Slovenia emerged as the champion. Fedoseev's dominant performance earned him $40,000, with Praggnanandhaa taking home $25,000. Aravindh Chithambaram tied for seventh in his GCT debut. The Grand Chess Tour now heads to Bucharest, featuring D Gukesh and Praggnanandhaa from India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -690,28 +658,12 @@ news_feed (
          "title" : "Next Grassroots assessment"
       },
       {
-         "description" : "The Czech chess community is mourning the sudden loss of GM Petr Neuman, who passed away this week at the age of only 47. The grandmaster was found dead in his Prague apartment on Monday, the Czech Chess Federation announced on its website on We...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/petr-neuman-passes-away-at-47",
-         "pubDate" : "Thu, 01 May 2025 10:10:00",
-         "title" : "Czech Grandmaster Petr Neuman Passes Away At 47"
-      },
-      {
          "description" : "The ECF Board is pleased to announce that, in accordance with the discussion about director appointments at the Finance Council meeting on 26th April, it is making an appointment of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/events-director-appointment/",
          "pubDate" : "Thu, 01 May 2025 08:24:20",
          "title" : "Events Director Appointment"
-      },
-      {
-         "description" : "Our rulebook is filled with variations on the main rules. I once counted slightly less than 50 of them in chapters 1 plus 2 alone. Some of those variations require an announcement, or publicity-others, not so much. This hodgepodge is baffling to the typical wood-pusher.Why even have variations at all? Simply put, the answer is that there are times the main rule just does not get the job done for everybody. So, variations take care of those times. Sometimes variations are simply another way to do the same task. For the most part, those variations need to be noted in advanced publicity-or at least announced at the playing site (Rules 1B1, 26A and 26B). A huge handful of variations can be found",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-whats-deal-rules-variations",
-         "pubDate" : "Thu, 01 May 2025 00:00:00",
-         "title" : "Just the Rules: What's the Deal with Rules Variations?"
       },
       {
          "description" : " Alongside the Baku Open was a three day Battle of the Champions event which took place Mon 28th Apr to Wed 30th Apr 2025. Rauf Mamedov beat Rustam Kasimdzhanov 4-2 in the rapid but lost 6-4 in the blitz. Gunay Mammadzada beat Antoaneta Stefanova 3.5-2.5 in the rapid and they tied the bltiz 5-5.",
