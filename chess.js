@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Would you like to make the most of ChessBase 18, especially in the opening, to improve your repertoire? With the Powerbooks and Powerbases, you will always be one step ahead of your opponents. Learn how to use these comprehensive and up-to-date databases with ChessBase and how to train your favourite openings with Fritz.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-beginner-s-tips-part-13-powerbooks-and-powerbases",
+         "pubDate" : "Sun, 11 May 2025 17:00:00",
+         "title" : "ChessBase 18 - Beginner's Tips, Part 13: Powerbooks and Powerbases"
+      },
+      {
+         "description" : " The 2025 African Individual Chess Championship will be held from May 13th to 20th, 2025, in Cairo, Egypt. It is organized by the African Chess Confederation (ACC) and hosted by the Egyptian Chess Federation at the Police Union Club.The tournament will feature both an open section and a women's section. The 9-round Swiss tournament will have a time The post <a href=\"https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/\">2025 African Individual Chess Championship (Cairo, Egypt)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/",
+         "pubDate" : "Sun, 11 May 2025 14:54:45",
+         "title" : "2025 African Individual Chess Championship (Cairo, Egypt)"
+      },
+      {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Sun, 11 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The history of chess has been marked by numerous epic confrontations. These include Staunton vs. St Amant, a microcosmic struggle from 1843 which acquired particular relevance from memories of the traditional macrocosmic Anglo-French rivalry, culminating at the Battle of Waterloo. Later in the 19th century the rivalry between Steinitz and Zukertort spilled over from the chessboard into []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/tarrasch-versus-nimzowitsch/",
+         "pubDate" : "Sun, 11 May 2025 11:31:17",
+         "title" : "Tarrasch versus Nimzowitsch"
+      },
+      {
          "description" : "Ukrainian chess legend Vasyl Ivanchuk has made a remarkable comeback, gaining 40 rating points in April and re-entering the top 100 with a FIDE rating of 2644. The 54-year-old grandmaster remained unbeaten in 27 games across three tournaments, including the Reykjav&iacute;k Open, Semana Santa Open and Menorca Open, where he finished first with an impressive 8/9 score. Despite the turmoil in Ukraine, Ivanchuk continues to demonstrate his enduring talent, reminding the chess world of his prodigious skill and unpredictable brilliance. | Photo: Andreas Kontokanis, via Wikimedia Commons (2007)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-227",
          "pubDate" : "Sun, 11 May 2025 10:00:00",
          "title" : "Jon Speelman: Triple-jump in spring, a celebration of Vasyl Ivanchuk"
+      },
+      {
+         "description" : "Editor's note: This report will be updated shortly with photography. But round 6 is already underway, so it makes sense to get the results and games reported on quickly.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.In yesterday's report, I counted 212 players with perfect scores across the six Championship sections in Orlando. After three more rounds on Saturday, that number has dwindled to 11. (Note: first-person usage in the body of the report refers to the author, but first-person usage in annotations refers to the streamer/annotator WGM Sabina Foisor).",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/supernationals-viii-sunday-showdowns-set",
+         "pubDate" : "Sun, 11 May 2025 00:00:00",
+         "title" : "SuperNationals VIII: Sunday Showdowns Set"
+      },
+      {
+         "description" : "The US Chess Federation (US Chess) and the U.S. Chess Trust (USCT), both independent 501(c)(3) organizations, are pleased to announce six recipients of the 2025 Scholar-Chessplayer Awards. This includes the winner of the new category introduced in 2022, Scholastic Chess Ambassador, which acknowledges lower-rated but deserving chess scholars.The Scholar-Chessplayer Awards recognize and encourage outstanding high school juniors and seniors who promote a positive image of chess while excelling in academics and leadership. A total of $9,000 in scholarship money is being awarded this year. Each recipient will receive $1,500.All Scholar-Chessplayer Awards are funded through the U.S. Chess Trust, w",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2025-scholar-chessplayer-awards-announced-six-players-honored-supernationals-viii",
+         "pubDate" : "Sun, 11 May 2025 00:00:00",
+         "title" : "2025 Scholar-Chessplayer Awards Announced: Six Players Honored at SuperNationals VIII"
       },
       {
          "description" : " 58th Capablanca Memorial takes place Fri 9th to Mon 19th May 2025. The elite section is a 10 round double round robin with five instead of the normal six players. Players: Volodar Murzin, Jonas Buhl, Bjerre, Evgeny Romanov, Arseniy Nesterov and Carlos Daniel Albornoz Cabrera. There is an open alongside. ",
@@ -56,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-5",
          "pubDate" : "Sat, 10 May 2025 15:07:00",
          "title" : "Zhu Jiner's 3rd Win In A Row Gives Her Grand Prix Pole Position"
-      },
-      {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Sat, 10 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "There's a quiet belief that keeps most people stuck-in chess, in life, in nearly every serious pursuit. It's not always loud. But it's there. It whispers things like: And that belief is this: That we can grow, succeed, and improve-without ever going through hardship. It sounds nice. But it's a lie. And it's a lie []",
@@ -714,14 +754,6 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting in Pristina"
       },
       {
-         "description" : "This week's exercises come from the 2025 Grenke Chess Festival, which featured a large Freestyle component that attracted many top grandmasters. American GM Brandon Jacobson tied for first in the classical Open, and a few of his highlights are included here. More coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-grenke-festival-freestyle",
-         "pubDate" : "Wed, 30 Apr 2025 00:00:00",
-         "title" : "Wednesday Workout: Grenke Festival + Freestyle"
-      },
-      {
          "description" : " Harper Jackson with Dr. Daaim Shabazz at HBCU Chess Classic at Morehouse's King Chapel.Photo by Daaim Shabazz/The Chess Drum Harper Jackson of Morehouse College led his team to a third-place finish in the 3rd HBCU Chess Classic. Jackson, a Detroit native, got his start under Kevin Fite while at Bates Academy. Fite, the legendary chess The post <a href=\"https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/\">HBCU Spotlight: Harper Jackson (Morehouse)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -744,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-refresher-course-2025-26/",
          "pubDate" : "Tue, 29 Apr 2025 07:55:04",
          "title" : "AICF Refresher Course 2025-26"
-      },
-      {
-         "description" : "This week's exercises come from the 2025 Grenke Chess Festival, which featured a large Freestyle component that attracted many top grandmasters. More coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-grenke-festival-freestyle",
-         "pubDate" : "Tue, 29 Apr 2025 00:00:00",
-         "title" : "Tactics Tuesday: Grenke Festival + Freestyle"
       },
       {
          "description" : " Charles Lindsey, Jr. and Breon McCray had a vision a few years ago at Hampton University. The Detroit natives decided to turn their passion for chess into an organization. The group's purpose was to gather like minds, refine analytical abilities, and engage in satisfying social interaction. Charles Lindsey, Jr., President of Hampton University Chess Club The post <a href=\"https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/\">HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -952,14 +976,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-outplays-munguntuul-in-tactical-masterclass-at-fide-womens-grand-prix/articleshow/120469711.cms",
          "pubDate" : "Mon, 21 Apr 2025 03:06:15",
          "title" : "K Humpy outplays Munguntuul in at FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "Please find the live games link for&#160;Maharashtra Chess Festival GM Open (Above 2200) which is to be held in Pune from 20th 28th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-maharashtra-chess-festival-gm-open-above-2200/",
-         "pubDate" : "Sun, 20 Apr 2025 15:08:11",
-         "title" : "Live Games link for Maharashtra Chess Festival - GM Open (Above 2200)"
       }
    ]
 }
