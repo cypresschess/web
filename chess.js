@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-6",
-         "pubDate" : "Sun, 11 May 2025 16:23:51",
+         "pubDate" : "Sun, 11 May 2025 16:23:00",
          "title" : "Zhu Jiner, Vaishali Close Gap To Anna Muzychuk"
       },
       {
@@ -920,14 +920,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/21/hbcu-chess-spotlight-caleb-parker-famu/",
          "pubDate" : "Tue, 22 Apr 2025 03:15:23",
          "title" : "HBCU Chess Spotlight: Caleb Parker (FAMU)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120469711.cms\" />Koneru Humpy showcased her extensive experience at the FIDE Women's Grand Prix in Pune, defeating Batkhuyag Munguntuul with a strategic material sacrifice. Despite Humpy's impressive win, Zhu Jiner maintained her lead by avenging her previous defeat against R Vaishali. The upcoming round promises a potential showdown between Humpy and Zhu, with Humpy playing with white pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-outplays-munguntuul-in-tactical-masterclass-at-fide-womens-grand-prix/articleshow/120469711.cms",
-         "pubDate" : "Mon, 21 Apr 2025 03:06:15",
-         "title" : "K Humpy outplays Munguntuul in at FIDE Women's Grand Prix"
       }
    ]
 }
