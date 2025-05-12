@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE Chess History (2)"
       },
       {
+         "description" : "Eighteen-year-old U.S. GM Christopher Yoo has received a provisional 60-day suspension from FIDE&#39;s Ethics &#38;amp; Disciplinary Commission (EDC), following a complaint from a female player who told Chess.com that she was harassed by the grandmaster d...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/christopher-yoo-temporary-fide-ban-new-harassment-allegation",
+         "pubDate" : "Mon, 12 May 2025 06:35:00",
+         "title" : "Christopher Yoo Handed 60-Day Suspension By FIDE After New Harassment Allegation"
+      },
+      {
          "description" : "The Taliban government has suspended chess in Afghanistan. Currently reviewing the game over gambling concerns, the Taliban has also suspended the Afghanistan National Chess Federation (ANCF). It is far from the first time that the game of kings i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chinese-teams-2025",
          "pubDate" : "Sat, 3 May 2025 07:56:00",
          "title" : "Chinese Teams 2025 - Games and Results"
-      },
-      {
-         "description" : "That&#39;s a wrap for PogChamps 6! Throughout the event, fans have witnessed many nerve-wracking moments and piece blunders. We also saw a first in PogChamps history: not a single stalemate in the entire tournament. Ultimately, Ebere Eze became the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-6-day-4",
-         "pubDate" : "Fri, 02 May 2025 15:44:00",
-         "title" : "Upsets, Blunders, And Brilliances Mark Last Day Of PogChamps 6, Ebere Crowned Champion"
       },
       {
          "description" : " There are four nice chess events starting this week. The first is the final FIDE Women's Grand Prix in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Anna Muzychuk, Tan Zhongyi and Zhu Jiner are fighting over likely one remaining Candidates place. Aleksandra Goryachkina leads the series but is not playing this event, she will be very unlucky to miss out and will indeed most likely top the Grand Prix. The Superbet Romania Chess Classic takes place Wed 7th to Sat 17th May 2025 Players: World Champion Gukesh, Caruana, Firouzja, Abdusattorov, Wesley So, Levon Aronian, MVL, Jan-Krzysztof Duda, Praggnanandhaa, Bogdan-Daniel Deac. On the same day the Asian Individual Championships start, ",
