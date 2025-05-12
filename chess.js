@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Former National Champion Grandmaster Murali Karthikeyan and Grandmaster Daneshvar Bardiya (Iran) continued to be in the top position by scoring smooth victories over Aleksey Grebnev",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-5-asian-individual-chess-championship-2025/",
+         "pubDate" : "Mon, 12 May 2025 09:11:14",
+         "title" : "Round 5 :-Asian Individual Chess Championship 2025"
+      },
+      {
          "description" : "Last year FIDE celebrated its 100th anniversary. The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages to retrace the final non-FIDE world championship (Alekhine-Boguljubow) and the Chess Olympiads from 1924 to 1940. This is a great chance to brush up your knowledge of chess history.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-chess-history-2",
          "pubDate" : "Mon, 12 May 2025 09:06:29",
          "title" : "FIDE Chess History (2)"
+      },
+      {
+         "description" : "The Taliban government has suspended chess in Afghanistan. Currently reviewing the game over gambling concerns, the Taliban has also suspended the Afghanistan National Chess Federation (ANCF). It is far from the first time that the game of kings i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/taliban-suspends-chess-in-afghanistan",
+         "pubDate" : "Mon, 12 May 2025 02:52:35",
+         "title" : "Taliban Suspends Chess In Afghanistan Over Gambling Concerns"
       },
       {
          "description" : "After a day of all draws at the Superbet Chess Classic in Bucharest, the standings remain unchanged, with Maxime Vachier-Lagrave, Fabiano Caruana and Praggnanandhaa Rameshbabu still sharing the lead on 3.0/5 points. Despite the lack of decisive games, round five featured tense battles across all boards, with Jan-Krzysztof Duda narrowly missing a chance to claim his first win against Gukesh Dommaraju and Wesley So pressing against Caruana in a sharp Sveshnikov Sicilian. Four rounds remain after Monday's rest day. | Photo: Lennart Ootes",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-2nd-to-5th-may-2025",
          "pubDate" : "Fri, 2 May 2025 14:03:00",
          "title" : "Chess this Weekend 2nd to 5th May 2025 - "
-      },
-      {
-         "description" : "GM Vincent Keymer, who made waves in February by winning the 2025 Weissenhaus Freestyle Chess Grand Slam, added another Chess960 crown to his list on May 2, winning Freestyle Friday by a full point with a 10/11 score. GMs Pranesh M, Fabiano Caruan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/keymer-wins-freestyle-friday-may-2-2025",
-         "pubDate" : "Fri, 02 May 2025 11:52:02",
-         "title" : "Keymer's Freestyle Prowess Reaffirmed"
       },
       {
          "description" : "The ECF Board is pleased that, following a competitive application and interview, it has been agreed that Rob King has been appointed as the ECF's Operations and Administration Director.&#160; Rob...",
