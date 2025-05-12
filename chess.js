@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After a day of all draws at the Superbet Chess Classic in Bucharest, the standings remain unchanged, with Maxime Vachier-Lagrave, Fabiano Caruana and Praggnanandhaa Rameshbabu still sharing the lead on 2&frac12;/5 points. Despite the lack of decisive games, round five featured tense battles across all boards, with Jan-Krzysztof Duda narrowly missing a chance to claim his first win against Gukesh Dommaraju and Wesley So pressing against Caruana in a sharp Sveshnikov Sicilian. Four rounds remain after Monday's rest day. | Photo: Lennart Ootes",
+         "description" : "Last year FIDE celebrated its 100th anniversary. The book \"100 Years of FIDE\" is an illustrated history of the World Chess Federation. From it we excerpt passages to retrace the final non-FIDE world championship (Alekhine-Boguljubow) and the Chess Olympiads from 1924 to 1940. This is a great chance to brush up your knowledge of chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-chess-history-2",
+         "pubDate" : "Mon, 12 May 2025 09:06:29",
+         "title" : "FIDE Chess History (2)"
+      },
+      {
+         "description" : "After a day of all draws at the Superbet Chess Classic in Bucharest, the standings remain unchanged, with Maxime Vachier-Lagrave, Fabiano Caruana and Praggnanandhaa Rameshbabu still sharing the lead on 3.0/5 points. Despite the lack of decisive games, round five featured tense battles across all boards, with Jan-Krzysztof Duda narrowly missing a chance to claim his first win against Gukesh Dommaraju and Wesley So pressing against Caruana in a sharp Sveshnikov Sicilian. Four rounds remain after Monday's rest day. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-5",
