@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Legendary American Grandmaster Alex Yermolinsky, \"Yermo\", remains hospitalized in Tekirdag, Turkey after undergoing a four-way heart bypass. He was being crushed by medical bills and needed help. That was given by a GoFundMe appeal started just over a week ago. The goal of the required $64,000 has almost been met. You can help push it over the finish line.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yermo-gofundme-goal-almost-achieved",
+         "pubDate" : "Mon, 12 May 2025 19:57:44",
+         "title" : "Yermo GoFundMe goal almost achieved"
+      },
+      {
+         "description" : "GM Magnus Carlsen and his wife, Ella Victoria, have announced the heartwarming news that they are expecting their first child. The couple officially tied the knot in Oslo on January 4 this year. On Monday, the newlyweds shared the joyful news th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-and-wife-ella-victoria-announces-pregnancy",
+         "pubDate" : "Mon, 12 May 2025 12:13:00",
+         "title" : "Magnus Carlsen & Ella Victoria Are Expecting: 'My Beautiful, Pregnant Wife'"
+      },
+      {
          "description" : "Former National Champion Grandmaster Murali Karthikeyan and Grandmaster Daneshvar Bardiya (Iran) continued to be in the top position by scoring smooth victories over Aleksey Grebnev",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/taliban-suspends-chess-in-afghanistan",
-         "pubDate" : "Mon, 12 May 2025 02:52:35",
+         "pubDate" : "Mon, 12 May 2025 02:52:00",
          "title" : "Taliban Suspends Chess In Afghanistan Over Gambling Concerns"
       },
       {
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-open-2025",
          "pubDate" : "Sat, 3 May 2025 17:16:00",
          "title" : "Sardinia World Open 2025 - Games and Results"
-      },
-      {
-         "description" : "13-year-old Turkish GM Yagiz Erdogmus added a second Bullet Brawl title to his ever-growing trophy case on Saturday after scoring 72/79 for a total of 258 points in the two-hour arena. Erdogmus won the $400 first prize ahead of GMs Ediz Gurel, Hik...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-may-3-2025",
-         "pubDate" : "Sat, 03 May 2025 16:21:00",
-         "title" : "13-Year-Old Erdogmus Shows 'Top-10' Potential, Wins 2nd Bullet Brawl Title"
       },
       {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
