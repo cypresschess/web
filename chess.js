@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU E-Magazine April 2025 is out! In this edition of the ECU E-Magazine you may read about: The April 2025 issue of the ECU Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-april-2025/",
+         "pubDate" : "Tue, 13 May 2025 10:39:34",
+         "title" : "ECU E-Magazine April 2025"
+      },
+      {
          "description" : "The Taliban government has banned chess in Afghanistan, citing concerns that the game is associated with gambling and may conflict with Islamic law. The suspension, announced by the Ministry of Promotion of Virtue and Prevention of Vice, includes the dissolution of the national chess federation. While some officials claim the ban is temporary, the decision aligns with broader efforts to curtail recreational and cultural activities under the Taliban's strict interpretation of sharia law. | Photo: Xinhua / Mohammad Jan Aria",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-gp-chess-humpy-holds-on-to-a-draw-zhu-beats-divya/articleshow/120536506.cms",
          "pubDate" : "Wed, 23 Apr 2025 03:01:42",
          "title" : "FIDE Women's GP chess: Humpy holds on to a draw; Zhu beats Divya"
-      },
-      {
-         "description" : "I have told the story often: in an interview in 2020 I said that in five years I expected at least two of the top ten players in the world would be Indian. My prediction was met with deep scepticism. It was clearly the unrealistic optimism of a friend and admirer of young Indian talents. It is true I was wrong. In five years since the prediction three have risen into the top ten bracket, and a fourth is on his way into it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/and-then-there-were-four",
-         "pubDate" : "Tue, 22 Apr 2025 11:00:00",
-         "title" : "And then there were four?"
       }
    ]
 }
