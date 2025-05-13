@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives. Kevin Pryor speaks at the opening of the 2025 HBCU Chess ClassicPhoto by The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/",
+         "pubDate" : "Tue, 13 May 2025 18:52:56",
+         "title" : "Kevin Pryor chats with The Chess Drum"
+      },
+      {
          "description" : " The Czech GM Vlastimil Hort has passed away at the age of 81. Born in Kladno on January 12th 1944 he died in Germany May 12th 2025. Hort grew up in the Czech Republic becoming a Grandmaster in 1965. He played the 1967 Sousse Interzonal finishing tied 6th, not enough to advance to the Candidates. He then played Board 4 in the USSR vs the Rest of the World match in 1970. Hort did eventually reach the Candidates in 1977 where he met Boris Spassky. This was also the peak of his career when Hort was world number 6 and rated 2620. Spassky was ill during the match and Hort gave up one of his rest days to aid his recovery after Spassky ran out of his. Hort lost the match narrowly in the end. Hort d",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "ECU E-Magazine April 2025"
       },
       {
+         "description" : "We&#39;re excited to introduce our new Friends &#38;amp; Family Plan, an easy way to enjoy the full Chess.com Premium Diamond experience with up to six people, all under one plan. Now, you and your loved ones can enjoy all our Premium benefits with a disc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-friends-and-family-plan",
+         "pubDate" : "Tue, 13 May 2025 08:25:00",
+         "title" : "Announcing New Friends And Family Premium Plans"
+      },
+      {
          "description" : "The Taliban government has banned chess in Afghanistan, citing concerns that the game is associated with gambling and may conflict with Islamic law. The suspension, announced by the Ministry of Promotion of Virtue and Prevention of Vice, includes the dissolution of the national chess federation. While some officials claim the ban is temporary, the decision aligns with broader efforts to curtail recreational and cultural activities under the Taliban's strict interpretation of sharia law. | Photo: Xinhua / Mohammad Jan Aria",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,11 +58,19 @@ news_feed (
          "title" : "Chess banned in Afghanistan by Taliban government"
       },
       {
+         "description" : "Today's puzzles come from the just-concluded SuperNationals VIII in Orlando. A flash report with winners is available, and a full report with more highlights from Sunday will be available Thursday. In the time being, check out WGM Sabina Foisor's annotations in the reports from Friday's and Saturday's games for a number of key moments, many of which will be highlighted in this and future worksheets. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-1",
+         "pubDate" : "Tue, 13 May 2025 00:00:00",
+         "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 1"
+      },
+      {
          "description" : "IM Faustino&#38;nbsp;Oro&#39;s rise shows no signs of slowing. Now, the 11-year-old prodigy is set to face former World Champion Viswanathan Anand in a match, and potentially in a knockout event. The youngster also dazzled a national TV audience in Spain ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-vs-vishy-anand-clash-amazes-millions-in-tv-appearance",
-         "pubDate" : "Mon, 12 May 2025 23:55:51",
+         "pubDate" : "Mon, 12 May 2025 23:55:00",
          "title" : "'Messi Of Chess' Fausti Oro Hits Jackpot With Anand Clashes, TV Appearance & Sponsor Deal"
       },
       {
@@ -546,14 +570,6 @@ news_feed (
          "title" : "4NCL 2024-25 - Games and Results"
       },
       {
-         "description" : "We&#39;re excited to announce the 2025 Chess.com Classic, the last online event of this year&#39;s Champions Chess Tour (CCT). The event takes place between May 18 and May 23 and will feature some of the strongest players in the world. At stake are $150,0...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-com-classic-2025",
-         "pubDate" : "Mon, 05 May 2025 10:19:00",
-         "title" : "Chess.com Classic Starts May 18 With 9 Esports World Cup Spots On The Line"
-      },
-      {
          "description" : "European Chess Union and the Georgian Chess Federation invite ECU member federations to participate in European team Chess Championship 2025. The event will be held in Batumi, Georgia, from 4 of October (arrival day) to 15 of October (departure day). The event will be played in Open and Women's sections separately, with 9 swiss rounds in each competition and time control of 90 minutes for 40 moves + 30 minutes for rest of the game with an increment of 30 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/02/bbc-twos-chess-masters-the-endgame-divides-opinions-as-winner-is-crowned",
          "pubDate" : "Fri, 02 May 2025 07:00:02",
          "title" : "BBC Two's Chess Masters: The Endgame divides opinions as winner is crowned"
-      },
-      {
-         "description" : "US Chess is seeking applicants for the positions of Heads of Delegation (HOD) and Coaches (Trainers) for the 2025 FIDE International Youth events.The policy for selection is posted on the US Chess website. The three events covered by this process are: 2025 Pan-Am Youth (U8-U18) Chess Championships, July 27 - August 3, Lima, Peru2025 World Cadet (U8, U10, U12) Chess Championships, September 18 - October 1, Almaty, Kazakhstan2025 World Youth (U14, U16, U18) Chess Championships, October 3 - October 16, Durres, Albania**(2025 World Cadet event regulations are not yet published, so these dates are only official when the event regulations are published by FIDE and/or the organizer)Applicants for t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-seeking-hod-and-trainers-2025-international-youth-events",
-         "pubDate" : "Fri, 02 May 2025 00:00:00",
-         "title" : "US Chess Seeking HOD and Trainers for 2025 International Youth Events"
       },
       {
          "description" : " The <a href=\"https://www.checkmateusaindia.com/\">Checkmate: USA vs India</a> match takes place in the Esports Stadium Arlington, Texas, on Saturday, October 4th 2025. 10 players, 5 matches, time control 10mins, then 5mins then increasingly faster until there is a decisive result. The matches are played sequentially across four categories, those are: Elite: Hikaru Nakamura vs Gukesh Dommaraju, Fabiano Caruana vs Arjun Erigaisi, Women's: Carissa Yip vs Divya Deshmukh, Internet: Levy Rozman (USA, GothamChess) vs Sagar Shah (IND, Chessbase India) and Youth: Tani Adewumi (USA) vs Ethan Vaz (IND). The order in which the matches are played will be decided later, obviously there will be increasing ",
