@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Czech GM Vlastimil Hort has passed away at the age of 81. Born in Kladno on January 12th 1944 he died in Germany May 12th 2025. Hort grew up in the Czech Republic becoming a Grandmaster in 1965. He played the 1967 Sousse Interzonal finishing tied 6th, not enough to advance to the Candidates. He then played Board 4 in the USSR vs the Rest of the World match in 1970. Hort did eventually reach the Candidates in 1977 where he met Boris Spassky. This was also the peak of his career when Hort was world number 6 and rated 2620. Spassky was ill during the match and Hort gave up one of his rest days to aid his recovery after Spassky ran out of his. Hort lost the match narrowly in the end. Hort d",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/vlastimil-hort-1944-2025",
+         "pubDate" : "Tue, 13 May 2025 15:02:00",
+         "title" : "Vlastimil Hort 1944-2025 - "
+      },
+      {
+         "description" : "2025 is a year of farewells. After Robert Huebner, another great player and outstanding personality in the world of chess has passed away: Vlastimil Hort. Vlastimil Hort was one of the best players in the world in the 1970s. After moving to Germany he entertained television viewers with his subtle humour on the programme 'Schach der Großmeister'. | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vlastimil-hort-has-passed-away",
+         "pubDate" : "Tue, 13 May 2025 14:24:17",
+         "title" : "Vlastimil Hort has passed away"
+      },
+      {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Tue, 13 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "ECU E-Magazine April 2025 is out! In this edition of the ECU E-Magazine you may read about: The April 2025 issue of the ECU Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2025/#new_tab",
          "pubDate" : "Fri, 25 Apr 2025 15:36:37",
          "title" : "NSCC Girls Finals 2025 - results"
-      },
-      {
-         "description" : " The Superbet Poland Rapid & Blitz took place Sat 26th Apr 2025 to Thu 1st May 2025. Players: Praggnanandhaa, Firouzja, Aravindh, Aronian, Duda, Fedoseev, Vachier-Lagrave, Topalov, Deac, Gavrilescu. A three day rapid was followed by a two day blitz event. Vladimir Fedoseev won the event with three rounds to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2025",
-         "pubDate" : "Fri, 25 Apr 2025 11:51:00",
-         "title" : "Superbet Poland Rapid & Blitz 2025 - Games and Results"
       },
       {
          "description" : "Congratulations to Sohum Lohia (above right) and Alex Golding, who both gained their third IM norm at the Southend Masters (part of the Southend Easter Chess Festival). They are both...",
