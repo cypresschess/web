@@ -18,12 +18,28 @@ news_feed (
          "title" : "Vlastimil Hort 1944-2025 - "
       },
       {
+         "description" : "GM Zhu Jiner&#39;s fifth win in a row, this time against GM Nana Dzagnidze, has given her a share of the 2025 Grosslobming FIDE Women&#39;s Grand Prix lead and left co-leader GM Anna Muzychuk missing out on a FIDE Women&#39;s Candidates spot to GM Aleksandra ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-7",
+         "pubDate" : "Tue, 13 May 2025 14:51:11",
+         "title" : "Zhu Jiner's 5th Win In A Row Hits Anna Muzychuk's Candidates Hopes"
+      },
+      {
          "description" : "2025 is a year of farewells. After Robert Huebner, another great player and outstanding personality in the world of chess has passed away: Vlastimil Hort. Vlastimil Hort was one of the best players in the world in the 1970s. After moving to Germany he entertained television viewers with his subtle humour on the programme 'Schach der Großmeister'. | Photo: Alina l'Ami",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vlastimil-hort-has-passed-away",
          "pubDate" : "Tue, 13 May 2025 14:24:17",
          "title" : "Vlastimil Hort has passed away"
+      },
+      {
+         "description" : "After six rounds of the Superbet Chess Classic Romania 2025, we still are far from having a frontrunner. Four players are tied in first place. In the only decisive game of the round, GM Alireza Firouzja defeated World Champion Gukesh Dommaraju to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-6",
+         "pubDate" : "Tue, 13 May 2025 14:13:25",
+         "title" : "Firouzja Beats Gukesh, Joins 4-Way Tie In 1st"
       },
       {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/taliban-suspends-chess-in-afghanistan",
          "pubDate" : "Mon, 12 May 2025 02:52:00",
          "title" : "Taliban Suspends Chess In Afghanistan Over Gambling Concerns"
-      },
-      {
-         "description" : "After a day of all draws at the Superbet Chess Classic in Bucharest, the standings remain unchanged, with Maxime Vachier-Lagrave, Fabiano Caruana and Praggnanandhaa Rameshbabu still sharing the lead on 3.0/5 points. Despite the lack of decisive games, round five featured tense battles across all boards, with Jan-Krzysztof Duda narrowly missing a chance to claim his first win against Gukesh Dommaraju and Wesley So pressing against Caruana in a sharp Sveshnikov Sicilian. Four rounds remain after Monday's rest day. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-5",
-         "pubDate" : "Mon, 12 May 2025 00:45:00",
-         "title" : "Superbet Chess Classic: A day of missed chances"
       },
       {
          "description" : "GM Anna Muzychuk retains the sole lead in the 2025 Grosslobming FIDE Women&#39;s Grand Prix after making the only draw in round six,&#38;nbsp;against GM Nana Dzagnidze, but wins for GM Zhu Jiner (her fourth in a row!) and GM Vaishali Rameshbabu saw them m...",
@@ -520,22 +528,6 @@ news_feed (
          "link" : "https://aicf.in/asian-junior-girls-chess-championship-2025-from-25th-june-to-4th-july-2025-in-sri-lanka/",
          "pubDate" : "Tue, 06 May 2025 11:40:51",
          "title" : "Asian Junior/ Girls Chess Championship 2025 from 25th June to 4th July 2025 in Sri Lanka"
-      },
-      {
-         "description" : "No, it&#39;s not Mount Everest. It is something way more challenging. We invite you to join the Chess.com King of the Hill Championship! The event will take place on May 15 and 16 and features a $2,500 prize fund. After a close contest against Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-king-of-the-hill-championship-2025",
-         "pubDate" : "Tue, 06 May 2025 08:03:00",
-         "title" : "Who Will Climb The Highest? Chess.com King Of The Hill Championship Starts May 15"
-      },
-      {
-         "description" : "Eighteen-year-old GM Christopher Yoo scored an impressive performance to win Italy&#39;s Sardinia World Chess Festival with 7.5/9 last week, but his participation in Italy has led to scrutiny from the chess community due to his domestic ban from compe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/christopher-yoo-wins-sardinia-scrutiny-over-domestic-ban",
-         "pubDate" : "Tue, 06 May 2025 07:45:00",
-         "title" : "Christopher Yoo Wins Sardinia Chess Festival Amid Ongoing Scrutiny Over Domestic Ban"
       },
       {
          "description" : "Over 4,600 chess players descend on Orlando this weekend for SuperNationals VIII. This week's puzzles highlight some of the names you can expect to see on the top boards and on WGM Sabina Foisor's streaming coverage. Click here to view advanced entries for all sections, and be sure to follow along live all weekend. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
