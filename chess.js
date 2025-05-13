@@ -928,22 +928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-shines-with-key-win-humpy-takes-lead-at-fide-grand-prix/articleshow/120504469.cms",
          "pubDate" : "Tue, 22 Apr 2025 03:46:55",
          "title" : "Divya Deshmukh shines with key win; Humpy takes lead at FIDE Grand Prix"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120503866.cms\" />Grandmaster Awonder Liang switched from the Grenke Classic's Open event to its Freestyle chess segment, joining Magnus Carlsen. This move highlights the growing interest in Freestyle chess, which minimizes pre-game preparation by using random starting positions. Organizers aim to broaden Freestyle's appeal, attracting top players and large audiences, potentially reshaping competitive chess by emphasizing strategic thinking over rote memorization.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-awonder-liang-shifts-to-freestyle-chess-at-grenke-classic-faces-magnus-carlsen/articleshow/120503866.cms",
-         "pubDate" : "Tue, 22 Apr 2025 03:29:06",
-         "title" : "Grandmaster Awonder Liang shifts to freestyle chess faces Magnus Carlsen"
-      },
-      {
-         "description" : " Florida A&#38;M University, also known as &#8220;FAMU&#8221; (FAM-U), chartered its chess club in January after a year of planning. Caleb Parker met with Dr. Daaim Shabazz in early 2023 to discuss the possibility of reigniting the chess presence at one of the nation's largest Black universities. Historically-Black Colleges and Universities (HBCUs) have traditionally been places The post <a href=\"https://thechessdrum.net/blog/2025/04/21/hbcu-chess-spotlight-caleb-parker-famu/\">HBCU Chess Spotlight: Caleb Parker (FAMU)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/04/21/hbcu-chess-spotlight-caleb-parker-famu/",
-         "pubDate" : "Tue, 22 Apr 2025 03:15:23",
-         "title" : "HBCU Chess Spotlight: Caleb Parker (FAMU)"
       }
    ]
 }
