@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Taliban government has banned chess in Afghanistan, citing concerns that the game is associated with gambling and may conflict with Islamic law. The suspension, announced by the Ministry of Promotion of Virtue and Prevention of Vice, includes the dissolution of the national chess federation. While some officials claim the ban is temporary, the decision aligns with broader efforts to curtail recreational and cultural activities under the Taliban's strict interpretation of sharia law. | Photo: Xinhua / Mohammad Jan Aria",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/taliban-bans-chess-2025",
+         "pubDate" : "Tue, 13 May 2025 07:15:00",
+         "title" : "Chess banned in Afghanistan by Taliban government"
+      },
+      {
+         "description" : "IM Faustino&#38;nbsp;Oro&#39;s rise shows no signs of slowing. Now, the 11-year-old prodigy is set to face former World Champion Viswanathan Anand in a match, and potentially in a knockout event. The youngster also dazzled a national TV audience in Spain ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-vs-vishy-anand-clash-amazes-millions-in-tv-appearance",
+         "pubDate" : "Mon, 12 May 2025 23:55:51",
+         "title" : "'Messi Of Chess' Fausti Oro Hits Jackpot With Anand Clashes, TV Appearance & Sponsor Deal"
+      },
+      {
          "description" : "Legendary American Grandmaster Alex Yermolinsky, \"Yermo\", remains hospitalized in Tekirdag, Turkey after undergoing a four-way heart bypass. He was being crushed by medical bills and needed help. That was given by a GoFundMe appeal started just over a week ago. The goal of the required $64,000 has almost been met. You can help push it over the finish line.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "Tarrasch versus Nimzowitsch"
       },
       {
-         "description" : "Ukrainian chess legend Vasyl Ivanchuk has made a remarkable comeback, gaining 40 rating points in April and re-entering the top 100 with a FIDE rating of 2644. The 54-year-old grandmaster remained unbeaten in 27 games across three tournaments, including the Reykjav&iacute;k Open, Semana Santa Open and Menorca Open, where he finished first with an impressive 8/9 score. Despite the turmoil in Ukraine, Ivanchuk continues to demonstrate his enduring talent, reminding the chess world of his prodigious skill and unpredictable brilliance. | Photo: Andreas Kontokanis, via Wikimedia Commons (2007)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-227",
-         "pubDate" : "Sun, 11 May 2025 10:00:00",
-         "title" : "Jon Speelman: Triple-jump in spring, a celebration of Vasyl Ivanchuk"
-      },
-      {
          "description" : "ORLANDO, FL: The 501(c)3 US Chess Federation's SuperNationals VIII took place from May 9 through 11 at the Orange County Convention Center in Orlando, Florida. SuperNationals combines the three Spring National Scholastic Championships (Elementary, Middle, and High School grade levels) into one event, and it takes place only once every four years.With SuperNationals VII canceled in 2021 due to COVID-19 concerns, this year marked the first edition of the tournament since Nashville's SuperNationals VI in 2017. Below are the individual and team winners of each Championship section. When co-champions are listed, they are in tiebreak order. This page will be uploaded ASAP with photos from the awar",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/iv-sunway-formentera-open-2025",
          "pubDate" : "Sat, 10 May 2025 20:49:00",
          "title" : "IV Sunway Formentera Open 2025 - Games and Results"
-      },
-      {
-         "description" : "The Baku Open, the inaugural event of the newly launched \"Chess Tour Azerbaijan\", concluded on 6 May at the Baku Crystal Hall. Serbian GM Aleksandar Indjic emerged as the clear winner in the Group A section, finishing unbeaten with a score of 7/9. Georgian GM Baadur Jobava and Turkish GM Vahap Sanal shared second place, just half a point behind. Nearly 700 players from 16 countries competed across three sections, with prize funds totalling $55,000. | Photos: Azerbaijan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/baku-open-2025-r9",
-         "pubDate" : "Sat, 10 May 2025 19:25:00",
-         "title" : "Aleksandar Indjic impresses, wins Baku Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121063242.cms\" />D Gukesh faced a shocking defeat against Maxime Vachier-Lagrave in the Superbet Classic, while R Praggnanandhaa held a draw, maintaining his position at the top. Levon Aronian secured his first victory by defeating Jan-Krzysztof Duda. Praggnanandhaa, Caruana, and Vachier-Lagrave are now jointly leading the tournament after four rounds.",
@@ -194,28 +194,12 @@ news_feed (
          "title" : "SNA Seminar & Exam in Kandivali West ,Mumbai on 24 & 25 May 2025"
       },
       {
-         "description" : "The third round of the Superbet Chess Classic in Bucharest delivered two decisive results as Fabiano Caruana and Praggnanandhaa Rameshbabu claimed crucial victories and now share the lead with 2/3 points. Caruana defeated Alireza Firouzja in a 73-move struggle after the Frenchman's aggressive opening backfired, while Praggnanandhaa outplayed Nodirbek Abdusattorov in a strategic battle that highlighted his positional understanding. Meanwhile, Maxime Vachier-Lagrave missed a big chance to convert a promising position against Levon Aronian. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-3",
-         "pubDate" : "Sat, 10 May 2025 08:55:00",
-         "title" : "Superbet Chess Classic: Pragg and Caruana grab crucial wins"
-      },
-      {
          "description" : "Editor's note: This report will be updated with more games and photography throughout the day.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.Headed into the second day of the main SuperNationals VIII tournament, 212 players boast unblemished 2/2 scores across the six Championship sections. With the grueling triple-round day ahead, will there be any unblemished 5/5 scores when all is done tonight?Round 3 begins at 9:00 a.m. EDT (and 9:30 a.m. for the K-1 sections), with rounds 4 and 5 scheduled for 1:30 p.m. (all sections) and 6:00 p.m. (and 5:30 p.m. for th",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/supernationals-viii-friday-recap-saturday-preview",
          "pubDate" : "Sat, 10 May 2025 00:00:00",
          "title" : "SuperNationals VIII: Friday Recap + Saturday Preview"
-      },
-      {
-         "description" : "Chess enthusiasts are in for a treat as Croatian GM Ivan Åari&#263 is set to deliver a live lecture at the Kasparov Chess Foundation Academy on Sunday. This special event offers a unique opportunity to learn from one of Croatia's top chess players and a former European Champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-strategic-advice-from-ivan-ari",
-         "pubDate" : "Fri, 09 May 2025 23:52:00",
-         "title" : "KCF: Strategic advice from Ivan Åari&#263"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">GCT Superbet Chess Classic Romania</a> is the main event, already this is shaping up nicely with Fabiano Caruana and Praggnanandhaa starting with two draws and a win each. Three players, Firouzja, So and MVL have started with a win, a loss and a draw. The rest day is on Monday. The event starts at 1pm UK time but there's a half hour delay in all the broadcasts. The final <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025\">FIDE Women's Grand Prix in Grosslobming</a>, Austria Tue 6th May to Fri 16th May 2025. This is the final event in the Grand Prix ",
@@ -248,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-3",
          "pubDate" : "Fri, 09 May 2025 14:55:00",
          "title" : "Caruana, Praggnanandhaa Lead After Scoring 1st Wins"
-      },
-      {
-         "description" : "Chess fans are in for a treat: On 1 June the Italian town Pietrasanta will host a chess match between Faustino Oro, the world's youngest chess master, and former world champion Vishy Anand. The event, supported by the famous singer Andrea Bocelli, is part of a broader program that includes the Chess Roads exhibition from June 2 to 15, featuring 40 rare and original chess sets from Asia and Europe.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-clash-of-generations-vishy-anand-vs-faustino-oro",
-         "pubDate" : "Fri, 09 May 2025 12:30:00",
-         "title" : "Clash of generations: Vishy Anand vs Faustino Oro"
       },
       {
          "description" : "GM Christopher Yoo won the May 9 Freestyle Friday, scoring 10.5 points and securing outright victory with a round to spare. Only a draw in round five against GM Ian Nepomniachtchi kept Yoo from the first perfect 11/11 score in tournament history. ...",
@@ -552,14 +528,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2025-official-regulations/",
          "pubDate" : "Mon, 05 May 2025 10:04:21",
          "title" : "European Team Chess Championship 2025 - Official regulations"
-      },
-      {
-         "description" : "Canada&#39;s youngest ever IM Aaron Mendes has won the 2025 Under 13 ChessKid Youth Championship after defeating FM-elect Megan Paragua 5-3 in the final. Paragua got a late chance to play in the knockout after FM-elect Supratit Banerjee was forced to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-chesskid-youth-championships-under-13-mendes-wins",
-         "pubDate" : "Mon, 05 May 2025 06:25:00",
-         "title" : "Aaron Mendes Wins Under 13 ChessKid Youth Championship"
       },
       {
          "description" : " Manx Liberty took a three point lead in the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\"> 4NCL</a> into the final three round May Day Bank Holiday weekend. They meet their closest challengers Wood Green\tin the final round 11. What happened was slightly unexpected, the destination of the title was strongly influenced by a mid-table third party. In Round 9 The Sharks 1 managed a 4-4 draw against Manx Liberty whilst Wood Green comfortably beat Barnet Knights to move within striking distance, and revealed they had recruited Michael Adams for the final weekend. Round 10 showed that The Sharks 1 hadn't finished decisively intervening in the season when they edged out Wood Gr",
@@ -920,14 +888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/and-then-there-were-four",
          "pubDate" : "Tue, 22 Apr 2025 11:00:00",
          "title" : "And then there were four?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120504469.cms\" />In a thrilling turn of events at the Women's FIDE Grand Prix in Pune, Divya Deshmukh secured a significant victory against Batkhuyag Munguntuul. Koneru Humpy capitalized on a blunder by Zhu Jiner to clinch the sole lead. The upcoming match between Divya and Zhu is highly anticipated, potentially influencing the tournament's outcome.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-shines-with-key-win-humpy-takes-lead-at-fide-grand-prix/articleshow/120504469.cms",
-         "pubDate" : "Tue, 22 Apr 2025 03:46:55",
-         "title" : "Divya Deshmukh shines with key win; Humpy takes lead at FIDE Grand Prix"
       }
    ]
 }
