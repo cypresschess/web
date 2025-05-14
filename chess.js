@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-karpov-1987-riddle-solutions",
+         "pubDate" : "Wed, 14 May 2025 20:00:00",
+         "title" : "Kasparov-Karpov 1987 riddle solutions"
+      },
+      {
+         "description" : "In Memoriam: Professor Kurt Jungwirth (1929-2025) Founding Father of European Chess Union It is with profound sadness that we announce the passing of Professor Kurt Jungwirth, the visionary founder of the European Chess Union (ECU), who left us on May 13, 2025. As one of the most influential figures in European chess history, Professor Jungwirth's legacy will forever be etched in the annals of the sport. In 1985, Professor Jungwirth brought his dream to life when he founded the European []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/in-memoriam-professor-kurt-jungwirth-1929-2025/",
+         "pubDate" : "Wed, 14 May 2025 19:21:42",
+         "title" : "IN MEMORIAM: Professor Kurt Jungwirth (1929-2025)"
+      },
+      {
+         "description" : "The Pirc Defence is a dynamic opening strategy that temporarily allows the opponent to control the centre, enabling you to attack more aggressively there later on. This creates complex and often imbalanced positions in the middle game, offering many opportunities for counterplay, even against well-prepared opponents. In a recent course, French grandmaster Fabien Libiszewski explored Black's possibilities in the Pirc. Bahne Fuhrmann took a look and was impressed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-the-pirc-defence",
+         "pubDate" : "Wed, 14 May 2025 19:00:00",
+         "title" : "Fabien Libiszewski: Master the Pirc Defence! - A review"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121169079.cms\" />Indian Grandmaster R Praggnanandhaa remains a co-leader in the Superbet Classic after a draw with Alireza Firouzja. He shares the lead with Fabiano Caruana and Maxime Vachier-Lagrave. The tournament is still open as any of the four leaders could win the top prize. Meanwhile, D Gukesh is still searching for his first victory after drawing with Wesley So.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-maintains-joint-lead-in-superbet-classic/articleshow/121169079.cms",
+         "pubDate" : "Wed, 14 May 2025 17:19:22",
+         "title" : "R Praggnanandhaa maintains joint lead in Superbet Classic"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2025-2026/",
          "pubDate" : "Wed, 14 May 2025 13:47:55",
          "title" : "Winton British Chess Solving Championship 2025-2026"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov defeated GM Jan-Krzysztof Duda in the only decisive game of round seven in the Superbet Chess Classic Romania 2025. He is now in a group of four players who are a half-point behind the leaders. With draws in all the other ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-7",
+         "pubDate" : "Wed, 14 May 2025 11:36:50",
+         "title" : "Abdusattorov Wins 1st Game In Bucharest, Joins Chasing Pack"
+      },
+      {
+         "description" : "At Titled Tuesday on May 13, GM Magnus Carlsen tied for first place in both events, winning the first one on tiebreaks before&#38;nbsp;GM Hans Niemann took home the second tournament. GM&#38;nbsp;Hikaru Nakamura, meanwhile, broke one of his own (and Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-may-13-2025",
+         "pubDate" : "Wed, 14 May 2025 08:49:38",
+         "title" : "Nakamura Sets Rating Record (Again), But Carlsen Wins Titled Tuesday (Again) With Niemann"
       },
       {
          "description" : "Thessaloniki, Greece - registration deadline 30th May 2025 For details and online registration - https://britchess.wufoo.com/forms/european-youth-rapid-blitz-championship-2025/",
@@ -56,6 +104,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-makes-another-format-change-for-world-blitz-championship",
          "pubDate" : "Wed, 14 May 2025 01:33:00",
          "title" : "FIDE Introduces Armageddon Rule, Changes World Blitz Championship Format Again"
+      },
+      {
+         "description" : "Today's puzzles, like yesterday's, come from the just-concluded SuperNationals VIII in Orlando. A flash report with winners is available, and a full report with more highlights from Sunday will be available Thursday. In the time being, check out WGM Sabina Foisor's annotations in the reports from Friday's and Saturday's games for a number of key moments, many of which will be highlighted in this and future worksheets. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-supernationals-viii-pt-1",
+         "pubDate" : "Wed, 14 May 2025 00:00:00",
+         "title" : "Wednesday Workout: SuperNationals VIII, Pt. 1"
       },
       {
          "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives at Historically Black Colleges &#38; Universities (HBCUs). Kevin Pryor speaks at the opening The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -114,14 +170,6 @@ news_feed (
          "title" : "Announcing New Friends And Family Premium Plans"
       },
       {
-         "description" : "The Taliban government has banned chess in Afghanistan, citing concerns that the game is associated with gambling and may conflict with Islamic law. The suspension, announced by the Ministry of Promotion of Virtue and Prevention of Vice, includes the dissolution of the national chess federation. While some officials claim the ban is temporary, the decision aligns with broader efforts to curtail recreational and cultural activities under the Taliban's strict interpretation of sharia law. | Photo: Xinhua / Mohammad Jan Aria",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/taliban-bans-chess-2025",
-         "pubDate" : "Tue, 13 May 2025 07:15:00",
-         "title" : "Chess banned in Afghanistan by Taliban government"
-      },
-      {
          "description" : "Today's puzzles come from the just-concluded SuperNationals VIII in Orlando. A flash report with winners is available, and a full report with more highlights from Sunday will be available Thursday. In the time being, check out WGM Sabina Foisor's annotations in the reports from Friday's and Saturday's games for a number of key moments, many of which will be highlighted in this and future worksheets. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -136,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/faustino-oro-vs-vishy-anand-clash-amazes-millions-in-tv-appearance",
          "pubDate" : "Mon, 12 May 2025 23:55:00",
          "title" : "'Messi Of Chess' Fausti Oro Hits Jackpot With Anand Clashes, TV Appearance & Sponsor Deal"
-      },
-      {
-         "description" : "Legendary American Grandmaster Alex Yermolinsky, \"Yermo\", remains hospitalized in Tekirdag, Turkey after undergoing a four-way heart bypass. He was being crushed by medical bills and needed help. That was given by a GoFundMe appeal started just over a week ago. The goal of the required $64,000 has almost been met. You can help push it over the finish line.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yermo-gofundme-goal-almost-achieved",
-         "pubDate" : "Mon, 12 May 2025 19:57:44",
-         "title" : "Yermo GoFundMe goal almost achieved"
       },
       {
          "description" : "GM Magnus Carlsen and his wife, Ella Victoria, have announced the heartwarming news that they are expecting their first child. The couple officially tied the knot in Oslo on January 4 this year. On Monday, the newlyweds shared the joyful news th...",
@@ -498,22 +538,6 @@ news_feed (
          "title" : "Home Development Director Appointment"
       },
       {
-         "description" : "The first Titled Tuesdays of May went to GMs Magnus Carlsen and Javokhir Sindarov. Carlsen scored 10 points in his victory and Sindarov scored 9.5, but both needed tiebreaks, Carlsen over GM Bharath Subramaniyam and Sindarov ahead of last week&#39;s l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-sindarov-win-titled-tuesday-may-6-2025",
-         "pubDate" : "Wed, 07 May 2025 08:28:32",
-         "title" : "Carlsen's Strong 2025 In Titled Tuesday Continues"
-      },
-      {
-         "description" : "10-year-old FM Roman Shogdzhiev continued his rapid rise at the Baku Open, where he secured his second International Master norm with a stellar 2514 performance in a field packed with titled players. Top seed and 2024 European Champion GM Alexan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/roman-shogdzhiev-takes-huge-step-towards-im-title-with-second-norm",
-         "pubDate" : "Wed, 07 May 2025 05:19:00",
-         "title" : "10-Year-Old Edges One Step Closer To Record-Breaking IM Title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120952579.cms\" />Around 35 Indian chess players are set to compete in the Asian Individual Championship in Al Ain, UAE, vying for coveted FIDE World Cup spots. This year marks the debut of Russian players under the Asian Chess Federation, increasing World Cup berths to ten.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -560,14 +584,6 @@ news_feed (
          "link" : "https://aicf.in/asian-junior-girls-chess-championship-2025-from-25th-june-to-4th-july-2025-in-sri-lanka/",
          "pubDate" : "Tue, 06 May 2025 11:40:51",
          "title" : "Asian Junior/ Girls Chess Championship 2025 from 25th June to 4th July 2025 in Sri Lanka"
-      },
-      {
-         "description" : "Over 4,600 chess players descend on Orlando this weekend for SuperNationals VIII. This week's puzzles highlight some of the names you can expect to see on the top boards and on WGM Sabina Foisor's streaming coverage. Click here to view advanced entries for all sections, and be sure to follow along live all weekend. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-preview",
-         "pubDate" : "Tue, 06 May 2025 00:00:00",
-         "title" : "Tactics Tuesday: SuperNationals VIII Preview"
       },
       {
          "description" : " The Russian Team Championships took place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past. SK KPRF from Moscow with Grischuk and Artemiev won the title. The team names in the results and for the players might look a bit weird. All the documentation was in Cyrillic and that leaves me two choices, google translate, which is generally good but occasionally very weird, or the direct one for one substitution of the Cyrillic letters for Western ones, again not without problems, b",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-pips-chinas-zhu-jiner-for-grand-prix-title/articleshow/120569863.cms",
          "pubDate" : "Thu, 24 Apr 2025 03:22:10",
          "title" : "Koneru Humpy pips China's Zhu Jiner for Grand Prix title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120557692.cms\" />Indian Grandmaster Koneru Humpy triumphed at the FIDE Women's Grand Prix 2024-25 (Pune leg), securing the title over China's Zhu Jiner due to superior tie-breaks. Both players concluded with seven points, Humpy defeating Bulgaria's Nurgyul Salimova in the final round, while Zhu bested Russia's Polina Shuvalova.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-wins-fide-womens-grand-prix-chess-meet/articleshow/120557692.cms",
-         "pubDate" : "Wed, 23 Apr 2025 15:55:18",
-         "title" : "Koneru Humpy wins FIDE Women's Grand Prix chess meet"
       }
    ]
 }
