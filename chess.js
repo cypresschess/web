@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thessaloniki, Greece - registration deadline 30th May 2025 For details and online registration - https://britchess.wufoo.com/forms/european-youth-rapid-blitz-championship-2025/",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-youth-rapid-and-blitz-championship-2025-4th-8th-august/",
+         "pubDate" : "Wed, 14 May 2025 08:47:29",
+         "title" : "European Youth Rapid and Blitz Championship 2025 4th - 8th August"
+      },
+      {
          "description" : "Following round six of the Superbet Chess Classic in Bucharest, Alireza Firouzja joined the group of co-leaders with a win over world champion Gukesh Dommaraju in a complex struggle from an Italian Opening. With three rounds remaining, Firouzja, Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave share the lead with 3&frac12; points, while Wesley So, Levon Aronian and Bogdan-Daniel Deac are just half a point behind. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-learn-about-the-hedgehog-pawn-structure",
          "pubDate" : "Wed, 14 May 2025 07:00:10",
          "title" : "Svitlana's Smart Moves - Learn about the hedgehog pawn structure"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) has introduced significant changes for the 2025 World Blitz Championship in Doha, Qatar, most notably, a new rule to ensure the tournament ends with a clear winner. FIDE&#39;s move, announced Tuesday, comes ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-makes-another-format-change-for-world-blitz-championship",
+         "pubDate" : "Wed, 14 May 2025 01:33:00",
+         "title" : "FIDE Introduces Armageddon Rule, Changes World Blitz Championship Format Again"
       },
       {
          "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives at Historically Black Colleges &#38; Universities (HBCUs). Kevin Pryor speaks at the opening The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -50,11 +66,11 @@ news_feed (
          "title" : "Vlastimil Hort has passed away"
       },
       {
-         "description" : "After six rounds of the Superbet Chess Classic Romania 2025, we still are far from having a frontrunner. Four players are tied in first place. In the only decisive game of the round, GM Alireza Firouzja defeated World Champion Gukesh Dommaraju to ...",
+         "description" : "After six rounds of the Superbet Chess Classic Romania 2025, we are still far from having a frontrunner. Four players are tied in first place. In the only decisive game of the round, GM Alireza Firouzja defeated World Champion Gukesh Dommaraju to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-6",
-         "pubDate" : "Tue, 13 May 2025 14:13:25",
+         "pubDate" : "Tue, 13 May 2025 14:13:00",
          "title" : "Firouzja Beats Gukesh, Joins 4-Way Tie In 1st"
       },
       {
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Wednesday Workout: SuperNationals VIII Preview"
       },
       {
-         "description" : "GM Tan Zhongyi bounced back from her world championship disappointment to start the 2025 Grosslobming FIDE Women&#39;s Grand Prix with a 96-move win that hurt GM Zhu Jiner&#39;s chances of winning the series. There were also wins for GM Vaishali Rameshbab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-1",
-         "pubDate" : "Tue, 06 May 2025 14:58:00",
-         "title" : "Tan Zhongyi Stuns Zhu Jiner To Boost Candidates Chances"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120933723.cms\" />Anna Muzychuk acknowledges the Norway Chess Women's tournament for promoting female chess players. She anticipates a tough competition with strong contenders like Ju Wenjun and Koneru Humpy. Anna reflects on her chess journey, highlighting Ukraine's chess traditions. She emphasizes the sacrifices young players face to become grandmasters. Parental support is crucial for success in chess. The tournament motivates girls globally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -872,38 +880,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-wins-fide-womens-grand-prix-chess-meet/articleshow/120557692.cms",
          "pubDate" : "Wed, 23 Apr 2025 15:55:18",
          "title" : "Koneru Humpy wins FIDE Women's Grand Prix chess meet"
-      },
-      {
-         "description" : "Humpy finished joint-top along with Zhu Jiner at the FIDE Women's Grand Prix event in Pune to move to overall second place in the Grand Prix series.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/44816806/koneru-humpy-finishes-joint-first-fide-women-grand-prix-pune-here-how-qualify-candidates?device=featurephone",
-         "pubDate" : "Wed, 23 Apr 2025 11:12:21",
-         "title" : "Koneru Humpy finishes joint-first in FIDE Women's Grand Prix Pune; here's how she can qualify for Candidates"
-      },
-      {
-         "description" : "Watford Chess Club will be among the exhibitors at the Bucks Country Show taking place at the Penn Estate, near Amersham on 4th and 5th May.&#160; It will be the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/watford-chess-club-at-the-bucks-county-show/",
-         "pubDate" : "Wed, 23 Apr 2025 10:43:00",
-         "title" : "Watford Chess Club at the Bucks Country Show"
-      },
-      {
-         "description" : "The festival marks its fifth edition this Summer, headlining an International Open with title norm opportunities up to GM. The event will take place from the 13th-18th August at the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/v-mindsports-international-chess-festival-2025/",
-         "pubDate" : "Wed, 23 Apr 2025 10:32:52",
-         "title" : "V Mindsports International Chess Festival 2025"
-      },
-      {
-         "description" : "The fifth leg of the 2024/25 Women's Grand Prix series is taking place in Pune, India, on 14-23 April. A 10-player single round-robin, the event has Humpy Koneru, Zhu Jiner and Polina Shuvalova as the top seeds. The top two finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
-         "pubDate" : "Wed, 23 Apr 2025 10:30:00",
-         "title" : "Women's Grand Prix Pune - Live!"
       }
    ]
 }
