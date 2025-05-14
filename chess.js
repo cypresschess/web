@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives. Kevin Pryor speaks at the opening of the 2025 HBCU Chess ClassicPhoto by The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives at Historically Black Colleges &#38; Universities (HBCUs). Kevin Pryor speaks at the opening The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/",
@@ -896,14 +896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-pune-2025-live",
          "pubDate" : "Wed, 23 Apr 2025 10:30:00",
          "title" : "Women's Grand Prix Pune - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120536506.cms\" />Alina Kashlinskaya faltered against K Humpy in the FIDE Women's GP, missing a crucial win due to a last-minute change of strategy. This draw allowed Zhu Jiner to tie for the lead with Humpy, as Zhu defeated Divya Deshmukh. The final round will determine the tournament winner, with Humpy facing Nurgyul Salimova and Zhu playing Polina Shuvalova.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-womens-gp-chess-humpy-holds-on-to-a-draw-zhu-beats-divya/articleshow/120536506.cms",
-         "pubDate" : "Wed, 23 Apr 2025 03:01:42",
-         "title" : "FIDE Women's GP chess: Humpy holds on to a draw; Zhu beats Divya"
       }
    ]
 }
