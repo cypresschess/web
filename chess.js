@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following round six of the Superbet Chess Classic in Bucharest, Alireza Firouzja joined the group of co-leaders with a win over world champion Gukesh Dommaraju in a complex struggle from an Italian Opening. With three rounds remaining, Firouzja, Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave share the lead with 3&frac12; points, while Wesley So, Levon Aronian and Bogdan-Daniel Deac are just half a point behind. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-6",
+         "pubDate" : "Wed, 14 May 2025 07:05:00",
+         "title" : "Superbet Chess Classic: Firouzja beats Gukesh, rejoins the lead"
+      },
+      {
+         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko introduces the Hedgehog pawn structure, a strategic setup common in the Sicilian Defense, featuring black pawns on a6, b6, d6, and e6. She emphasizes the educational value of understanding pawn structures for overall middle-game improvement, using a Kasparov-Kramnik game as a case study. Svitlana explains typical plans for both sides: white often uses space advantage and looks for a queenside breakthrough with moves like b4 and c5, while black prepares central or queenside pawn breaks like d5 or b5, and, much to Arne's delight, may even launch a kingside attack with &hellip;g5. But it might be better to stick to the queenside pawn",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-learn-about-the-hedgehog-pawn-structure",
+         "pubDate" : "Wed, 14 May 2025 07:00:10",
+         "title" : "Svitlana's Smart Moves - Learn about the hedgehog pawn structure"
+      },
+      {
          "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives at Historically Black Colleges &#38; Universities (HBCUs). Kevin Pryor speaks at the opening The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-6",
          "pubDate" : "Tue, 13 May 2025 14:13:25",
          "title" : "Firouzja Beats Gukesh, Joins 4-Way Tie In 1st"
-      },
-      {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Tue, 13 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "ECU E-Magazine April 2025 is out! In this edition of the ECU E-Magazine you may read about: The April 2025 issue of the ECU Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format below.",
