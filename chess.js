@@ -34,6 +34,14 @@ news_feed (
          "title" : "R Praggnanandhaa maintains joint lead in Superbet Classic"
       },
       {
+         "description" : "Draws for the leading trio of GMs Anna Muzychuk, Zhu Jiner, and Tan Zhongyi in the penultimate round of the&#38;nbsp;2025 Grosslobming FIDE Women&#39;s Grand Prix left the standings unchanged, but mean Zhu has booked a FIDE Candidates spot, while Tan miss...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-8",
+         "pubDate" : "Wed, 14 May 2025 14:52:09",
+         "title" : "Dzagnidze, Mariya Muzychuk Win; Zhu Seals Candidates Spot"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-7",
-         "pubDate" : "Wed, 14 May 2025 11:36:50",
+         "pubDate" : "Wed, 14 May 2025 11:36:00",
          "title" : "Abdusattorov Wins 1st Game In Bucharest, Joins Chasing Pack"
       },
       {
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-youth-rapid-and-blitz-championship-2025-4th-8th-august/",
          "pubDate" : "Wed, 14 May 2025 08:47:29",
          "title" : "European Youth Rapid and Blitz Championship 2025 4th - 8th August"
-      },
-      {
-         "description" : "Following round six of the Superbet Chess Classic in Bucharest, Alireza Firouzja joined the group of co-leaders with a win over world champion Gukesh Dommaraju in a complex struggle from an Italian Opening. With three rounds remaining, Firouzja, Fabiano Caruana, Praggnanandhaa Rameshbabu and Maxime Vachier-Lagrave share the lead with 3&frac12; points, while Wesley So, Levon Aronian and Bogdan-Daniel Deac are just half a point behind. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-6",
-         "pubDate" : "Wed, 14 May 2025 07:05:00",
-         "title" : "Superbet Chess Classic: Firouzja beats Gukesh, rejoins the lead"
       },
       {
          "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko introduces the Hedgehog pawn structure, a strategic setup common in the Sicilian Defense, featuring black pawns on a6, b6, d6, and e6. She emphasizes the educational value of understanding pawn structures for overall middle-game improvement, using a Kasparov-Kramnik game as a case study. Svitlana explains typical plans for both sides: white often uses space advantage and looks for a queenside breakthrough with moves like b4 and c5, while black prepares central or queenside pawn breaks like d5 or b5, and, much to Arne's delight, may even launch a kingside attack with &hellip;g5. But it might be better to stick to the queenside pawn",
@@ -512,14 +512,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
          "pubDate" : "Wed, 7 May 2025 13:57:00",
          "title" : "GCT Superbet Chess Classic Romania 2025 - Games and Results"
-      },
-      {
-         "description" : "GMs Alireza Firouzja and Wesley So started off with wins in round one of the Superbet Chess Classic Romania 2025. Firouzja won our Game of the Day against GM Maxime Vachier-Lagrave, where the French numbers one and two battled in the French Defens...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-1",
-         "pubDate" : "Wed, 07 May 2025 12:57:00",
-         "title" : "Firouzja Cracks MVL's French Defense, Leads With Wesley So"
       },
       {
          "description" : " Something amazing happened in Kenyan chess a month ago. Over 7,000 chess players from across Kenya gathered at Mang'u High School to compete in the Kenyan Schools Chess Championship. A fantastic sea of youth filled the halls as thousands of students came in columns of buses to compete in the massive tournament. Ten years ago, The post <a href=\"https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/\">7,242 players at Kenya Schools Chess!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
