@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Wed, 14 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : " organised by the British Chess Problem Society Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2025-2026/",
+         "pubDate" : "Wed, 14 May 2025 13:47:55",
+         "title" : "Winton British Chess Solving Championship 2025-2026"
+      },
+      {
          "description" : "Thessaloniki, Greece - registration deadline 30th May 2025 For details and online registration - https://britchess.wufoo.com/forms/european-youth-rapid-blitz-championship-2025/",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-learn-about-the-hedgehog-pawn-structure",
          "pubDate" : "Wed, 14 May 2025 07:00:10",
          "title" : "Svitlana's Smart Moves - Learn about the hedgehog pawn structure"
+      },
+      {
+         "description" : "The Czech-German grandmaster Vlastimil Hort, the strongest Czech-born chess player between the eras of GMs Richard Reti and David Navara, a former world number-six, a candidate for the world championship, and a commentator renowned for his wit and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vlastimil-hort-obituary",
+         "pubDate" : "Wed, 14 May 2025 05:31:00",
+         "title" : "Vlastimil Hort (1944-2025)"
       },
       {
          "description" : "The International Chess Federation (FIDE) has introduced significant changes for the 2025 World Blitz Championship in Doha, Qatar, most notably, a new rule to ensure the tournament ends with a clear winner. FIDE&#39;s move, announced Tuesday, comes ...",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/entry-of-russians-makes-asian-chess-a-tougher-contest/articleshow/120952579.cms",
          "pubDate" : "Wed, 07 May 2025 04:45:26",
          "title" : "Entry of Russians makes Asian chess a tougher contest"
-      },
-      {
-         "description" : "Two-time U.S. Chess Champion GM Alex Yermolinsky says he is &#38;ldquo;overwhelmed with emotions&#38;rdquo; at the outpouring of support from the chess community after he underwent life-saving heart surgery abroad. The legendary 67-year-old grandmaster,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/overwhelmed-and-blessed-yermolinsky-sends-message-after-fundraiser",
-         "pubDate" : "Wed, 07 May 2025 03:14:00",
-         "title" : "Alex Yermolinsky 'Overwhelmed' By Chess Community Support After Life-Saving Surgery"
       },
       {
          "description" : " US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025 at 8 p.m. CT/ 9 p.m. ET via zoom.~U.S. Chess In June, the U.S. Chess membership will elect four new Executive Board members from five candidates, and you can meet them in a forum hosted by U.S. The post <a href=\"https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/\">Meet Candidates for U.S. Chess Executive Board!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
