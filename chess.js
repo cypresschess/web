@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's U1700 tournament which will take place at the Holiday Inn, Kenilworth between Friday 18th July and...",
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Thu, 15 May 2025 14:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-and-english-womens-championships-2025/",
+         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
+         "pubDate" : "Thu, 15 May 2025 12:03:46",
+         "title" : "British Chess Championships 2025 - entries open"
+      },
+      {
+         "description" : "&#160; &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
          "pubDate" : "Thu, 15 May 2025 10:40:22",
-         "title" : "English and English Women's Championships 2025"
+         "title" : "English and English Women's Championships 2025 - enter now!"
       },
       {
          "description" : "The Board is continuing with the restructuring announced previously. As previewed at the Finance Council meeting, Alex Longson has stepped down as Finance Director and been appointed as Financial Controller....",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-7",
          "pubDate" : "Thu, 15 May 2025 03:40:00",
          "title" : "Superbet Chess Classic: Abdusattorov beats Duda in style"
+      },
+      {
+         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account. The premium offer is the brand-new Fritz 20, which provides a completely new way to practice and prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/everything-25-off-on-discount-day-7",
+         "pubDate" : "Thu, 15 May 2025 00:00:00",
+         "title" : "Everything 25% off on Discount Day (4)"
       },
       {
          "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
@@ -62,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-8",
-         "pubDate" : "Wed, 14 May 2025 14:52:09",
+         "pubDate" : "Wed, 14 May 2025 14:52:00",
          "title" : "Dzagnidze, Mariya Muzychuk Win; Zhu Seals Candidates Spot"
       },
       {
@@ -752,14 +776,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/battle-of-the-champions-2025",
          "pubDate" : "Wed, 30 Apr 2025 17:54:00",
          "title" : "Battle of the Champions 2025 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-championships-2025/",
-         "pubDate" : "Wed, 30 Apr 2025 10:47:20",
-         "title" : "English Seniors 2025 - Results and Champions!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120761338.cms\" />Indian Grandmaster R Praggnanandhaa showcased resilience at the Superbet Rapid & Blitz tournament, climbing to second place after a strong showing in the blitz section. Despite a shaky start, Praggnanandhaa secured three consecutive wins, demonstrating his expertise in the fast-paced format. Vladimir Fedoseev of Slovenia dominated the day, leading with a significant 3.5-point margin.",
