@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Entries are open for this year's English Championship, English Women's Championship and English Women's U1700 tournament which will take place at the Holiday Inn, Kenilworth between Friday 18th July and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-and-english-womens-championships-2025/",
+         "pubDate" : "Thu, 15 May 2025 10:40:22",
+         "title" : "English and English Women's Championships 2025"
+      },
+      {
+         "description" : "The Board is continuing with the restructuring announced previously. As previewed at the Finance Council meeting, Alex Longson has stepped down as Finance Director and been appointed as Financial Controller....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chief-executive-and-finance-director/",
+         "pubDate" : "Thu, 15 May 2025 10:38:22",
+         "title" : "Chief Executive and Finance Director"
+      },
+      {
          "description" : "The seventh round of the Superbet Chess Classic in Bucharest saw Nodirbek Abdusattorov scoring his first win of the event, defeating Jan-Krzysztof Duda to join the chasing pack standing a half point behind the four co-leaders. The remaining games ended drawn, with Praggnanandhaa Rameshbabu missing a chance to press for a win against Alireza Firouzja after an imprecise bishop retreat. With two rounds to go, eight players remain in contention for the title in a tightly contested event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,7 +138,7 @@ news_feed (
          "title" : "Kevin Pryor chats with The Chess Drum"
       },
       {
-         "description" : " The Czech GM Vlastimil Hort has passed away at the age of 81. Born in Kladno on January 12th 1944 he died in Germany May 12th 2025. Hort grew up in the Czech Republic becoming a Grandmaster in 1965. He played the 1967 Sousse Interzonal finishing tied 6th, not enough to advance to the Candidates. He then played Board 4 in the USSR vs the Rest of the World match in 1970. Hort did eventually reach the Candidates in 1977 where he met Boris Spassky. This was also the peak of his career when Hort was world number 6 and rated 2620. Spassky was ill during the match and Hort gave up one of his rest days to aid his recovery after Spassky ran out of his. Hort lost the match narrowly in the end. Hort d",
+         "description" : " The Czech GM Vlastimil Hort has passed away at the age of 81. Born in Kladno on January 12th 1944 he died in Germany May 12th 2025. Hort grew up in the Czechoslovakia becoming a Grandmaster in 1965. He played the 1967 Sousse Interzonal finishing tied 6th, not enough to advance to the Candidates. He then played Board 4 in the USSR vs the Rest of the World match in 1970. Hort did eventually reach the Candidates in 1977 where he met Boris Spassky. This was also the peak of his career when Hort was world number 6 and rated 2620. Spassky was ill during the match and Hort gave up one of his rest days to aid his recovery after Spassky ran out of his. Hort lost the match narrowly in the end. Hort d",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/vlastimil-hort-1944-2025",
@@ -864,22 +880,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-official-invitation/",
          "pubDate" : "Sat, 26 Apr 2025 05:40:06",
          "title" : "European Youth Chess Championship 2025 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2025/#new_tab",
-         "pubDate" : "Fri, 25 Apr 2025 15:36:37",
-         "title" : "NSCC Girls Finals 2025 - results"
-      },
-      {
-         "description" : "Congratulations to Sohum Lohia (above right) and Alex Golding, who both gained their third IM norm at the Southend Masters (part of the Southend Easter Chess Festival). They are both...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/third-im-norm-for-alex-golding-and-sohum-lohia-at-the-southend-masters-2025/",
-         "pubDate" : "Fri, 25 Apr 2025 08:41:34",
-         "title" : "Third IM Norm for Alex Golding and Sohum Lohia at the Southend Masters 2025"
       },
       {
          "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated Mark Taimanov and Bent Larsen by 6-0 in the 1971 Candidates. Anatoly Karpov triumphed at Linares 1994 with an 11-2 total, while further back the yardstick performance was Alexander Alek",
