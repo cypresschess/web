@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh round of the Superbet Chess Classic in Bucharest saw Nodirbek Abdusattorov scoring his first win of the event, defeating Jan-Krzysztof Duda to join the chasing pack standing a half point behind the four co-leaders. The remaining games ended drawn, with Praggnanandhaa Rameshbabu missing a chance to press for a win against Alireza Firouzja after an imprecise bishop retreat. With two rounds to go, eight players remain in contention for the title in a tightly contested event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-7",
+         "pubDate" : "Thu, 15 May 2025 03:40:00",
+         "title" : "Superbet Chess Classic: Abdusattorov beats Duda in style"
+      },
+      {
          "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-8",
          "pubDate" : "Wed, 14 May 2025 14:52:09",
          "title" : "Dzagnidze, Mariya Muzychuk Win; Zhu Seals Candidates Spot"
-      },
-      {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Wed, 14 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : " organised by the British Chess Problem Society Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play...",
@@ -888,14 +888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
          "pubDate" : "Fri, 25 Apr 2025 07:00:27",
          "title" : "Chess: Carlsen scores record nine out of nine at Grenke Freestyle Open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120569863.cms\" />Koneru Humpy clinched the FIDE Women's Grand Prix title in Pune after a tie with Zhu Jiner, decided by tiebreak rules favoring Humpy's greater number of games played with black pieces. Both players earned equal prize money and GP points, but Humpy's undefeated run and victory over Zhu in an earlier round secured her the championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-pips-chinas-zhu-jiner-for-grand-prix-title/articleshow/120569863.cms",
-         "pubDate" : "Thu, 24 Apr 2025 03:22:10",
-         "title" : "Koneru Humpy pips China's Zhu Jiner for Grand Prix title"
       }
    ]
 }
