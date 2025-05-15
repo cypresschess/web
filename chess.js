@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently, on the last day of the Paris Freestyle chess even, Sagar Shah of ChessBase India was served dinner by a master chef, someone who takes traditional French dishes to a new dimension. The restaurant he visited, Cellar, provides some remarkable food and equally remarkable chess vibes. Sagar's video report shows you more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-a-restaurant-in-paris",
+         "pubDate" : "Thu, 15 May 2025 21:21:34",
+         "title" : "In a restaurant in Paris"
+      },
+      {
+         "description" : " The 96th German Championships take place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Alongside are several other events including the women's championship with top seed Dinara Wagner and the Candidates with Maxim Vavulin. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
+         "pubDate" : "Thu, 15 May 2025 20:12:00",
+         "title" : "96th ch-GER 2025 - Games and Results"
+      },
+      {
+         "description" : " The Asian Individual Championships took place in Al Ain UAE, Wed 7th to Thu 15th May 2025. Open and women's events. Players: Sarin Nihal, Amin Tabatabaei M., Nodirbek Yakubboev, Murali Karthikeyan, Shamsiddin Vokhidov, Son Nguyen Ngoc Truong, Saleh Salem A.R., Pouya Idani, Luke Mendonca Leon, Abhimanyu Puranik, Xiangyu Xu, Bardiya Daneshvar, V Pranav, Jingyao Tin, L Narayanan S, David Paravyan, Abhijeet Gupta, M Pranesh, Pa Iniyan, Jinshi Bai, Shekhar Ganguly Surya, Venkataraman Karthik, Ivan Zemlyanskii etc Leading players in the women's event: Leya Garifullina, Valentina Gunina, Olga Girya, Yuxin Song, Nguyen Pham Le Thao, Warda Aulia Medina, Bardiya Daneshvar won the Open event with 7/9 ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/asian-individual-championships-2025",
+         "pubDate" : "Thu, 15 May 2025 20:05:00",
+         "title" : "Asian Individual Championships 2025 - Games and Results"
+      },
+      {
+         "description" : " FIDE Women's Grand Prix took place in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Players: Jiner Zhu, Zhongyi Tan, Anna Muzychuk, Nana Dzagnidze, Mariya Muzychuk, Alexandra Kosteniuk, Rameshbabu Vaishali, Lela Javakhishvili, Olga Badelka and Nurgyul Salimova. The event was the final in a series of 6. The top two in the final standings qualifying for the Candidates. The leaders going into the event were Aleksandra Goryachkina followed by Humpy Koneru, neither playing in the final event. Goryachkina looked strong favourite to qualify but if Anna Muzychuk had won and Zhu Jiner finished second then she would have missed out. Zhu started with 0/2 after losing to Anna Muzychuk but cam",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025",
+         "pubDate" : "Thu, 15 May 2025 19:35:00",
+         "title" : "FIDE Women's Grand Prix in Grosslobming 2025 - Games and Results"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +74,12 @@ news_feed (
          "title" : "Superbet Chess Classic: Abdusattorov beats Duda in style"
       },
       {
-         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account. The premium offer is the brand-new Fritz 20, which provides a completely new way to practice and prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/everything-25-off-on-discount-day-7",
+         "description" : "If any information is inaccurate, any names are misspelled or standings are incorrect, please email Click here to show email address with corrections or additional photos. All annotations by WGM Sabina Foisor.4,523 players competed in Orlando for SuperNationals VIII, held May 9-11 in Orlando, Florida at the Orange County Convention Center. Sunday night's flash report covers the results of the six Championship sections. Coverage of Thursday, Friday, and Saturday can be found here, and all games annotated by WGM Sabina Foisor from Friday and Saturday are in this study.Today's report shares more details and photos of the final day of competition, featuring more photos as well as Foisor's analys",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/full-report-champions-crowned-orlando",
          "pubDate" : "Thu, 15 May 2025 00:00:00",
-         "title" : "Everything 25% off on Discount Day (4)"
+         "title" : "Full Report: Champions Crowned in Orlando"
       },
       {
          "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
@@ -538,14 +570,6 @@ news_feed (
          "title" : "Vaishali, Tan Still Perfect As Anna Muzychuk Takes Down Zhu"
       },
       {
-         "description" : " The Asian Individual Championships take place in Al Ain UAE, Wed 7th to Thu 15th May 2025. Open and women's events. Players: Sarin Nihal, Amin Tabatabaei M., Nodirbek Yakubboev, Murali Karthikeyan, Shamsiddin Vokhidov, Son Nguyen Ngoc Truong, Saleh Salem A.R., Pouya Idani, Luke Mendonca Leon, Abhimanyu Puranik, Xiangyu Xu, Bardiya Daneshvar, V Pranav, Jingyao Tin, L Narayanan S, David Paravyan, Abhijeet Gupta, M Pranesh, Pa Iniyan, Jinshi Bai, Shekhar Ganguly Surya, Venkataraman Karthik, Ivan Zemlyanskii etc Leading players in the women's event: Leya Garifullina, Valentina Gunina, Olga Girya, Yuxin Song, Nguyen Pham Le Thao, Warda Aulia Medina, ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/asian-individual-championships-2025",
-         "pubDate" : "Wed, 7 May 2025 14:03:00",
-         "title" : "Asian Individual Championships 2025 - Games and Results"
-      },
-      {
          "description" : " The Grand Chess Tour Superbet Chess Classic Romania takes place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. There is a 30 minute delay for the live games.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Kids for Chess Announces 2025 World Youth Chess and World Cadet Chess Championships Scholarships"
       },
       {
-         "description" : "Over 4,600 chess players descend on Orlando this weekend for SuperNationals VIII. This week's puzzles highlight some of the names you can expect to see on the top boards of the K-12 Championship and on WGM Sabina Foisor's streaming coverage. This is a continuation of yesterday's Tactics Tuesday on the same theme. Note that both of these worksheets focus on some of the top-rated players that have not been featured in previous workouts as much as some of their counterparts.Click here to view advanced entries for all sections, and be sure to follow along live all weekend. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-supernationals-viii-preview",
-         "pubDate" : "Wed, 07 May 2025 00:00:00",
-         "title" : "Wednesday Workout: SuperNationals VIII Preview"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120933723.cms\" />Anna Muzychuk acknowledges the Norway Chess Women's tournament for promoting female chess players. She anticipates a tough competition with strong contenders like Ju Wenjun and Koneru Humpy. Anna reflects on her chess journey, highlighting Ukraine's chess traditions. She emphasizes the sacrifices young players face to become grandmasters. Parental support is crucial for success in chess. The tournament motivates girls globally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/russian-team-championships-2025",
          "pubDate" : "Mon, 5 May 2025 20:51:00",
          "title" : "Russian Team Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " FIDE Women's Grand Prix takes place in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Players: Jiner Zhu, Zhongyi Tan, Anna Muzychuk, Nana Dzagnidze, Mariya Muzychuk, Alexandra Kosteniuk, Rameshbabu Vaishali, Lela Javakhishvili, Olga Badelka and Nurgyul Salimova. The event is the final in a series of 6. The top two in the final standings will qualify for the Candidates. The leaders are Aleksandra Goryachkina followed by Humpy Koneru, neither play in this final event. Goryachkina seems certain to take one of these places and indeed almost certainly win the series, Humpy Koneru will likely not finish second. Zhu Jiner won't need a very big result to overtake her and Anna Muzychuk & T",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025",
-         "pubDate" : "Mon, 5 May 2025 14:39:00",
-         "title" : "FIDE Women's Grand Prix in Grosslobming 2025 - Games and Results"
       },
       {
          "description" : " The 4NCL UK Chess League took place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty took a three point lead into the final weekend over Wood Green but that was reduced to two after they only drew 4-4 against The Sharks 1. In Round 10 The Sharks beat Wood Green and this made Manx Liberty champions ahead of their own final round match against Wood Green which was drawn 4-4. ",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/vasyl-ivanchuk-wins-the-menorca-open-but-only-after-some-good-fortune-in-the-final-round",
          "pubDate" : "Sun, 27 Apr 2025 16:28:00",
          "title" : "Vasyl Ivanchuk wins the Menorca Open but only after some good fortune in the final round - 9"
-      },
-      {
-         "description" : " The IV Menorca Open took place Tue 22nd Apr to Sun 27th Apr 2025. Players: Nihal Sarin, Sam Shankland, Volodar Murzin, Karthikeyan, Puranik, Pranav, Lu Shanglei. Vasyl Ivanchuk etc. Vasyl Ivanchuk won the event with 8/9 after surviving a scare in the final round against M Pranesh. Lu Shanglei and Murali Karthikeyan were half a point behind. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/iv-menorca-open-2025",
-         "pubDate" : "Sun, 27 Apr 2025 11:00:00",
-         "title" : "IV Menorca Open 2025 - Games and Results"
       },
       {
          "description" : " Anndrea Ojijo, President of NCAT Chess ClubPhotos by Daaim Shabazz/The Chess Drum Playing at the 2024 HBCU Chess Classic at Georgia Tech I'd love to get more people in chess&hellip; and getting more women into chess. ~Anndrea Ojijo Anndrea Ojijjo is an honors student at North Carolina A&#38;T (NCAT), aspiring to be a kinesiologist. She The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/\">HBCU Chess Spotlight: Anndrea Ojijo (NCAT)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
