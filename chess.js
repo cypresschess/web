@@ -34,12 +34,28 @@ news_feed (
          "title" : "FIDE Women's Grand Prix in Grosslobming 2025 - Games and Results"
       },
       {
+         "description" : "GM&#38;nbsp;Anna Muzychuk has won the 2025 Grosslobming FIDE Women&#39;s Grand Prix on tiebreaks over GM Zhu Jiner, but said afterward, &#34;it has never been so sad to win an event.&#34; Anna made a draw against GM Vaishali Rameshbabu which would have given her ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-9",
+         "pubDate" : "Thu, 15 May 2025 14:54:14",
+         "title" : "Anna Muzychuk's Saddest Win As Zhu, Goryachkina Reach Candidates"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
          "pubDate" : "Thu, 15 May 2025 14:00:00",
          "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu broke into the sole lead just before the final round of the Superbet Chess Classic Romania 2025. He defeated GM Wesley So from the black side of a Benko Gambit. There was one more decisive result: World Champion Gukesh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-8",
+         "pubDate" : "Thu, 15 May 2025 13:03:00",
+         "title" : "Praggnanandhaa Takes Sole Lead Ahead Of Final Round"
       },
       {
          "description" : "",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chief-executive-and-finance-director/",
          "pubDate" : "Thu, 15 May 2025 10:38:22",
          "title" : "Chief Executive and Finance Director"
-      },
-      {
-         "description" : "The seventh round of the Superbet Chess Classic in Bucharest saw Nodirbek Abdusattorov scoring his first win of the event, defeating Jan-Krzysztof Duda to join the chasing pack standing a half point behind the four co-leaders. The remaining games ended drawn, with Praggnanandhaa Rameshbabu missing a chance to press for a win against Alireza Firouzja after an imprecise bishop retreat. With two rounds to go, eight players remain in contention for the title in a tightly contested event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-7",
-         "pubDate" : "Thu, 15 May 2025 03:40:00",
-         "title" : "Superbet Chess Classic: Abdusattorov beats Duda in style"
       },
       {
          "description" : "If any information is inaccurate, any names are misspelled or standings are incorrect, please email Click here to show email address with corrections or additional photos. All annotations by WGM Sabina Foisor.4,523 players competed in Orlando for SuperNationals VIII, held May 9-11 in Orlando, Florida at the Orange County Convention Center. Sunday night's flash report covers the results of the six Championship sections. Coverage of Thursday, Friday, and Saturday can be found here, and all games annotated by WGM Sabina Foisor from Friday and Saturday are in this study.Today's report shares more details and photos of the final day of competition, featuring more photos as well as Foisor's analys",
@@ -538,14 +546,6 @@ news_feed (
          "title" : "'Rematch' Miniseries Set For U.S. Premiere On Disney+ This May"
       },
       {
-         "description" : "It&#39;s the first tournament of its kind: CoachChamps, where eight coaches select will each draft four students with the goal of guiding their students to victory! We previously announced half of the coaching field and the format, but now it&#39;s time t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/coachchamps-2025-announcing-gothamchess",
-         "pubDate" : "Thu, 08 May 2025 10:00:00",
-         "title" : "GothamChess, Finegold, Pruess, Toth Join CoachChamps"
-      },
-      {
          "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -560,14 +560,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/",
          "pubDate" : "Wed, 07 May 2025 21:19:01",
          "title" : "World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup "
-      },
-      {
-         "description" : "GMs Vaishali Rameshbabu and Tan Zhongyi lead the 2025 Grosslobming FIDE Women&#39;s Grand Prix on a perfect 2/2 after beating IMs Lela Javakhishvili and Olga Badelka in round two. The most significant clash of the round, meanwhile, saw GM Anna Muzychu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-2",
-         "pubDate" : "Wed, 07 May 2025 15:38:00",
-         "title" : "Vaishali, Tan Still Perfect As Anna Muzychuk Takes Down Zhu"
       },
       {
          "description" : " The Grand Chess Tour Superbet Chess Classic Romania takes place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. There is a 30 minute delay for the live games.",
