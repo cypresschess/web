@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " First of all the <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">Superbet Romania Chess Classic</a> finished on Friday 16th. Praggnanandhaa won a blitz tie-break against MVL and Alireza Firouzja to take first place. There is a very strong <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championship</a> is taking place in Munich. Masters: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa, and Marco Dobrikov. Leading players in the women's section: Dinara Wagner, Kateryna Dolzhykova etc. The <a href=\"https://theweekin",
+         "description" : "Praggnanandhaa Rameshbabu clinched his first-ever Grand Chess Tour title at the Superbet Chess Classic in Bucharest after prevailing in a three-way playoff against Alireza Firouzja and Maxime Vachier-Lagrave. The 19-year-old Indian grandmaster secured a draw in the final round against Levon Aronian to guarantee a tie for first, while Firouzja and MVL won their respective games to force a playoff. Pragg's victory, his second major tournament win this year, also propelled him to second place in the GCT standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-9",
+         "pubDate" : "Sat, 17 May 2025 00:10:00",
+         "title" : "Pragg outscores Firouzja and MVL in playoffs, wins Superbet Chess Classic"
+      },
+      {
+         "description" : " The Grand Chess Tour Superbet Chess Classic Romania took place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. Praggnanandhaa won the tournament but only after a tie-break blitz against MVL and Firouzja. Praggnanandhaa drew his final round game allowing first MVL and then Firouzja to catch him but he won the third and final game of the blitz tie-break to win the event. This is Praggnanandhaa's second major title of the year after he won Tata Steel following a tie-break at the start of February. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
+         "pubDate" : "Fri, 16 May 2025 20:58:00",
+         "title" : "GCT Superbet Chess Classic Romania 2025 - Games and Results"
+      },
+      {
+         "description" : " First of all the <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">Superbet Romania Chess Classic</a> finished on Friday 16th. Praggnanandhaa won a blitz tie-break against MVL and Alireza Firouzja to take first place. There is a very strong <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championship</a> in Munich. Players in the Masters: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa, and Marco Dobrikov. Leading players in the women's section: Dinara Wagner, Kateryna Dolzhykova etc. The <a href=\"https://theweekinc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-16th-to-18th-may-2025",
@@ -54,16 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2025-gct-superbet-chess-classic-romania",
-         "pubDate" : "Fri, 16 May 2025 10:58:38",
+         "pubDate" : "Fri, 16 May 2025 10:58:00",
          "title" : "Praggnanandhaa Wins His 1st GCT Event After Blitz Playoffs"
-      },
-      {
-         "description" : "Anna Muzychuk claimed a bittersweet victory in the final leg of the Women's Grand Prix. Despite sharing first place, it was not enough to secure a spot in the Women's Candidates Tournament. With the overall Grand Prix points tallied, Zhu Jiner emerged as the winner of the 2024/2025 series, with Aleksandra Goryachkina taking the second qualifying spot for the Candidates. | Photo: Przemysław Nikiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-9",
-         "pubDate" : "Fri, 16 May 2025 10:30:00",
-         "title" : "Anna Muzychuk wins Grosslobming GP, Zhu reaches Candidates"
       },
       {
          "description" : "The 2025 Mitropa Chess Cup commenced in Trenč&iacute;n, Slovakia and takes place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. The Championships are played in 9 rounds, round-robin system, with time control of 90 minutes for 40 moves, followed by 30 minutes to finish the game, with 30 seconds increment for each move from move one. Each team consists of 4 players, []",
@@ -82,20 +90,12 @@ news_feed (
          "title" : "WNBA Champion Aerial Powers Holds Chess Workshop; New Playable Bot Out Now"
       },
       {
-         "description" : " The 18-year-old Indian finished joint sixth to ninth out of 10 after Friday's final round, while Praggnanandhaa Rameshbabu, 19, won first prize after a three-way playoff India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in North Germany and Paris in the spring. Instead, the top-seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">4",
+         "description" : " The 18-year-old Indian finished joint sixth to ninth out of 10 after Friday's final round, while Praggnanandhaa Rameshbabu, 19, won first prize after a three-way playoff India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in north Germany and Paris in the spring. Instead, the top-seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">4",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/may/16/chess-top-seeded-world-champion-gukesh-dommaraju-struggles-at-bucharest",
          "pubDate" : "Fri, 16 May 2025 07:00:50",
          "title" : "Chess: top-seeded world champion Gukesh Dommaraju struggles at Bucharest"
-      },
-      {
-         "description" : "Heading into the final round of the Superbet Chess Classic, Praggnanandhaa Rameshbabu holds the sole lead after defeating Wesley So with Black in a well-played Benko Gambit. Gukesh Dommaraju also secured a full point in round eight, overcoming Levon Aronian after a questionable pawn sacrifice by the US grandmaster. Meanwhile, Alireza Firouzja, Maxime Vachier-Lagrave and Fabiano Caruana remain half a point behind Pragg after drawing their games, setting up a tense finish in the second tournament of the 2025 Grand Chess Tour. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-8",
-         "pubDate" : "Fri, 16 May 2025 02:50:00",
-         "title" : "Superbet Chess Classic: Pragg beats So with black, becomes sole leader"
       },
       {
          "description" : "Recently, on the last day of the Paris Freestyle chess even, Sagar Shah of ChessBase India was served dinner by a master chef, someone who takes traditional French dishes to a new dimension. The restaurant he visited, Cellar, provides some remarkable food and equally remarkable chess vibes. Sagar's video report shows you more.",
@@ -608,14 +608,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/",
          "pubDate" : "Wed, 07 May 2025 21:19:01",
          "title" : "World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup "
-      },
-      {
-         "description" : " The Grand Chess Tour Superbet Chess Classic Romania took place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. Praggnanandhaa won the tournament but only after a tie-break blitz against MVL and Firouzja. Praggnanandhaa drew his final round game allowing first MVL and then Firouzja to catch him but he won the third and final game of the blitz tie-break to win the event. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
-         "pubDate" : "Wed, 7 May 2025 13:57:00",
-         "title" : "GCT Superbet Chess Classic Romania 2025 - Games and Results"
       },
       {
          "description" : " Something amazing happened in Kenyan chess a month ago. Over 7,000 chess players from across Kenya gathered at Mang'u High School to compete in the Kenyan Schools Chess Championship. A fantastic sea of youth filled the halls as thousands of students came in columns of buses to compete in the massive tournament. Ten years ago, The post <a href=\"https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/\">7,242 players at Kenya Schools Chess!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
