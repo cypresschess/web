@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " First of all the <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">Superbet Romania Chess Classic</a> finished on Friday 16th. Praggnanandhaa won a blitz tie-break against MVL and Alireza Firouzja to take first place. There is a very strong <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championship</a> is taking place in Munich. Masters: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa, and Marco Dobrikov. Leading players in the women's section: Dinara Wagner, Kateryna Dolzhykova etc. The <a href=\"https://theweekin",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-16th-to-18th-may-2025",
+         "pubDate" : "Fri, 16 May 2025 20:22:00",
+         "title" : "Chess this Weekend 16th to 18th May 2025 - "
+      },
+      {
+         "description" : " The 8th Sharjah Masters take place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-sharjah-masters-2025",
+         "pubDate" : "Fri, 16 May 2025 20:03:00",
+         "title" : "8th Sharjah Masters 2025 - Games and Results"
+      },
+      {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Fri, 16 May 2025 19:06:00",
+         "title" : "Superbet Chess Classic Playoffs - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -18,20 +42,20 @@ news_feed (
          "title" : "English and English Women's Championships 2025 - enter now!"
       },
       {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Fri, 16 May 2025 13:00:00",
-         "title" : "Superbet Chess Classic - Live!"
-      },
-      {
          "description" : "This prestigious event takes place in London June 10th 16th, and tickets are now on sale at tickets.fide.com Rapid round and day passes start from &pound;30.00, Blitz day passes...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships-tickets-now-available/",
          "pubDate" : "Fri, 16 May 2025 12:05:57",
          "title" : "FIDE World Rapid and Blitz Team Championships - tickets now available!"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu won the Superbet Chess Classic Romania 2025, his first Grand Chess Tour victory. He earns $77,667 and 10 GCT points.&#38;nbsp; The path was far from smooth. He drew comfortably against GM Levon Aronian in his last classi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2025-gct-superbet-chess-classic-romania",
+         "pubDate" : "Fri, 16 May 2025 10:58:38",
+         "title" : "Praggnanandhaa Wins His 1st GCT Event After Blitz Playoffs"
       },
       {
          "description" : "Anna Muzychuk claimed a bittersweet victory in the final leg of the Women's Grand Prix. Despite sharing first place, it was not enough to secure a spot in the Women's Candidates Tournament. With the overall Grand Prix points tallied, Zhu Jiner emerged as the winner of the 2024/2025 series, with Aleksandra Goryachkina taking the second qualifying spot for the Candidates. | Photo: Przemysław Nikiel",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "WNBA Champion Aerial Powers Holds Chess Workshop; New Playable Bot Out Now"
       },
       {
-         "description" : " The Indian 18-year-old is joint seventh out of 10 with just one round to go, while his compatriot Praggnanandhaa Rameshbabu leads on 5/8 India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in North Germany and Paris in the spring. Instead, the top-seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">44-move win</a>, against the US's ",
+         "description" : " The 18-year-old Indian finished joint sixth to ninth out of 10 after Friday's final round, while Praggnanandhaa Rameshbabu, 19, won first prize after a three-way playoff India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in North Germany and Paris in the spring. Instead, the top-seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">4",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/may/16/chess-top-seeded-world-champion-gukesh-dommaraju-struggles-at-bucharest",
@@ -210,7 +234,7 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Learn about the hedgehog pawn structure"
       },
       {
-         "description" : "The Czech-German grandmaster Vlastimil Hort, the strongest Czech-born chess player between the eras of GMs Richard Reti and David Navara, a former world number-six, a candidate for the world championship, and a commentator renowned for his wit and...",
+         "description" : "The Czech-German grandmaster Vlastimil Hort, a former world number-six, a candidate for the world championship, and a commentator renowned for his wit and humor, died on Monday at the age of 81. The news was confirmed by the Czech Chess Federation...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vlastimil-hort-obituary",
@@ -570,14 +594,6 @@ news_feed (
          "title" : "Anna Muzychuk Catches Vaishali In Austria Grand Prix Lead"
       },
       {
-         "description" : "Both players who lost the previous day, GMs Maxime Vachier-Lagrave and Bogdan-Daniel Deac, bounced back with wins in the two decisive games of round two in the Superbet Chess Classic Romania 2025. Deac scored his first white win in a Grand Chess T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-2",
-         "pubDate" : "Thu, 08 May 2025 14:04:00",
-         "title" : "Vachier-Lagrave, Deac Bounce Back From Losses"
-      },
-      {
          "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -594,7 +610,7 @@ news_feed (
          "title" : "World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup "
       },
       {
-         "description" : " The Grand Chess Tour Superbet Chess Classic Romania takes place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. There is a 30 minute delay for the live games.",
+         "description" : " The Grand Chess Tour Superbet Chess Classic Romania took place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. Praggnanandhaa won the tournament but only after a tie-break blitz against MVL and Firouzja. Praggnanandhaa drew his final round game allowing first MVL and then Firouzja to catch him but he won the third and final game of the blitz tie-break to win the event. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
@@ -856,22 +872,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/",
          "pubDate" : "Sun, 27 Apr 2025 17:38:43",
          "title" : "HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)"
-      },
-      {
-         "description" : " The Bundesliga took place Sat 28th Sep 2024 to Sun 27th Apr 2025. Duesseldorfer SK lead by three points over \tSC Viernheim going into the final three rounds held in Deggendorf. Duesseldorfer SK won the title with a round to spare and team sponsor Wadim Rosenstein played for them in Round 14. Duesseldorfer SK and SC Viernheim drew in round 15. Baden Baden caught Viernheim on points but still finished third on board count.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2024-25",
-         "pubDate" : "Sun, 27 Apr 2025 17:11:00",
-         "title" : "Bundesliga 2024-25 - Games and Results"
-      },
-      {
-         "description" : " Vasyl Ivanchuk scored 8/9 in the Menorca Open to win by half a point from Lu Shanglei and Murali Karthikeyan. Top seed Nihal Sarin over pressed and lost to Murali Karthikeyan who finished on 7.5 points in 3rd place on tie-break behind Lu Shanglei. More in the body of the article along with the final round game Pranesh-Ivanchuk annotated ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/vasyl-ivanchuk-wins-the-menorca-open-but-only-after-some-good-fortune-in-the-final-round",
-         "pubDate" : "Sun, 27 Apr 2025 16:28:00",
-         "title" : "Vasyl Ivanchuk wins the Menorca Open but only after some good fortune in the final round - 9"
       },
       {
          "description" : " Anndrea Ojijo, President of NCAT Chess ClubPhotos by Daaim Shabazz/The Chess Drum Playing at the 2024 HBCU Chess Classic at Georgia Tech I'd love to get more people in chess&hellip; and getting more women into chess. ~Anndrea Ojijo Anndrea Ojijjo is an honors student at North Carolina A&#38;T (NCAT), aspiring to be a kinesiologist. She The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/\">HBCU Chess Spotlight: Anndrea Ojijo (NCAT)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
