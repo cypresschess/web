@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
+         "pubDate" : "Fri, 16 May 2025 13:00:46",
+         "title" : "British Chess Championships 2025 - entries open"
+      },
+      {
+         "description" : "&#160; &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
+         "pubDate" : "Fri, 16 May 2025 13:00:22",
+         "title" : "English and English Women's Championships 2025 - enter now!"
+      },
+      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
          "pubDate" : "Fri, 16 May 2025 13:00:00",
          "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "This prestigious event takes place in London June 10th 16th, and tickets are now on sale at tickets.fide.com Rapid round and day passes start from &pound;30.00, Blitz day passes...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships-tickets-now-available/",
+         "pubDate" : "Fri, 16 May 2025 12:05:57",
+         "title" : "FIDE World Rapid and Blitz Team Championships - tickets now available!"
       },
       {
          "description" : "Anna Muzychuk claimed a bittersweet victory in the final leg of the Women's Grand Prix. Despite sharing first place, it was not enough to secure a spot in the Women's Candidates Tournament. With the overall Grand Prix points tallied, Zhu Jiner emerged as the winner of the 2024/2025 series, with Aleksandra Goryachkina taking the second qualifying spot for the Candidates. | Photo: Przemysław Nikiel",
@@ -26,7 +50,15 @@ news_feed (
          "title" : "Mitropa Chess Cup 2025 commenced in Slovakia"
       },
       {
-         "description" : " The Indian 18-year-old is joint seventh out of 10 with just one round to go, while his compatriot Praggnanandhaa Rameshbabu leads on 5/8 India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in North Germany and Paris in the spring. Instead, the top seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">44-move win</a>, against USA's Lev",
+         "description" : "Aerial Powers, WNBA Champion and co-owner of Team Liquid (who will be represented at the Esports World Cup this summer by GMs Magnus Carlsen and Fabiano Caruana), appeared with FM James Canty III and others at the Center of Science and Industry (C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aerial-powers-chess-workshop",
+         "pubDate" : "Fri, 16 May 2025 08:00:02",
+         "title" : "WNBA Champion Aerial Powers Holds Chess Workshop; New Playable Bot Out Now"
+      },
+      {
+         "description" : " The Indian 18-year-old is joint seventh out of 10 with just one round to go, while his compatriot Praggnanandhaa Rameshbabu leads on 5/8 India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in North Germany and Paris in the spring. Instead, the top-seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">44-move win</a>, against the US's ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/may/16/chess-top-seeded-world-champion-gukesh-dommaraju-struggles-at-bucharest",
@@ -88,22 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-8",
          "pubDate" : "Thu, 15 May 2025 13:03:00",
          "title" : "Praggnanandhaa Takes Sole Lead Ahead Of Final Round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
-         "pubDate" : "Thu, 15 May 2025 12:03:46",
-         "title" : "British Chess Championships 2025 - entries open"
-      },
-      {
-         "description" : "&#160; &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2025/#new_tab",
-         "pubDate" : "Thu, 15 May 2025 10:40:22",
-         "title" : "English and English Women's Championships 2025 - enter now!"
       },
       {
          "description" : "The Board is continuing with the restructuring announced previously. As previewed at the Finance Council meeting, Alex Longson has stepped down as Finance Director and been appointed as Financial Controller....",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "Vachier-Lagrave, Deac Bounce Back From Losses"
       },
       {
-         "description" : "Disney+ is set to debut the new miniseries Rematch in the United States on May 21. The English-language production dramatizes the historic &#34;man vs. machine&#34; battle from 1997 between GM Garry Kasparov and IBM&#39;s supercomputer Deep Blue, and was fair...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rematch-set-for-us-premiere-disney-plus-this-may",
-         "pubDate" : "Thu, 08 May 2025 12:00:00",
-         "title" : "'Rematch' Miniseries Set For U.S. Premiere On Disney+ This May"
-      },
-      {
          "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
          "pubDate" : "Thu, 01 May 2025 12:00:19",
          "title" : "Next Grassroots assessment"
-      },
-      {
-         "description" : "The ECF Board is pleased to announce that, in accordance with the discussion about director appointments at the Finance Council meeting on 26th April, it is making an appointment of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/events-director-appointment/",
-         "pubDate" : "Thu, 01 May 2025 08:24:20",
-         "title" : "Events Director Appointment"
       },
       {
          "description" : " Alongside the Baku Open was a three day Battle of the Champions event which took place Mon 28th Apr to Wed 30th Apr 2025. Rauf Mamedov beat Rustam Kasimdzhanov 4-2 in the rapid but lost 6-4 in the blitz. Gunay Mammadzada beat Antoaneta Stefanova 3.5-2.5 in the rapid and they tied the bltiz 5-5.",
