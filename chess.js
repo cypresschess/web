@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Indian 18-year-old is joint seventh out of 10 with just one round to go, while his compatriot Praggnanandhaa Rameshbabu leads on 5/8 India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in North Germany and Paris in the spring. Instead, the top seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">44-move win</a>, against USA's Lev",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/may/16/chess-top-seeded-world-champion-gukesh-dommaraju-struggles-at-bucharest",
+         "pubDate" : "Fri, 16 May 2025 07:00:50",
+         "title" : "Chess: top-seeded world champion Gukesh Dommaraju struggles at Bucharest"
+      },
+      {
          "description" : "Heading into the final round of the Superbet Chess Classic, Praggnanandhaa Rameshbabu holds the sole lead after defeating Wesley So with Black in a well-played Benko Gambit. Gukesh Dommaraju also secured a full point in round eight, overcoming Levon Aronian after a questionable pawn sacrifice by the US grandmaster. Meanwhile, Alireza Firouzja, Maxime Vachier-Lagrave and Fabiano Caruana remain half a point behind Pragg after drawing their games, setting up a tense finish in the second tournament of the 2025 Grand Chess Tour. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2025-official-invitation/",
          "pubDate" : "Sat, 26 Apr 2025 05:40:06",
          "title" : "European Youth Chess Championship 2025 - Official invitation"
-      },
-      {
-         "description" : " The world No 1 swept the board with a result comparable to the great performances of Bobby Fischer, Anatoly Karpov and Alexander Alekhine, but it won't count for Fide ratings Magnus Carlsen, the world No 1, soared to a new landmark in chess history last weekend, when the 34-year-old won all his nine games in the Grenke Freestyle Open at Karlsruhe, Germany. It was a result comparable to the great historical performances. Bobby Fischer won the 1963-64 US Championship with an 11/11 \"picket fence\", then defeated Mark Taimanov and Bent Larsen by 6-0 in the 1971 Candidates. Anatoly Karpov triumphed at Linares 1994 with an 11-2 total, while further back the yardstick performance was Alexander Alek",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/apr/25/chess-carlsen-scores-record-nine-out-of-nine-at-grenke-freestyle-open",
-         "pubDate" : "Fri, 25 Apr 2025 07:00:27",
-         "title" : "Chess: Carlsen scores record nine out of nine at Grenke Freestyle Open"
       }
    ]
 }
