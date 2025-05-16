@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Heading into the final round of the Superbet Chess Classic, Praggnanandhaa Rameshbabu holds the sole lead after defeating Wesley So with Black in a well-played Benko Gambit. Gukesh Dommaraju also secured a full point in round eight, overcoming Levon Aronian after a questionable pawn sacrifice by the US grandmaster. Meanwhile, Alireza Firouzja, Maxime Vachier-Lagrave and Fabiano Caruana remain half a point behind Pragg after drawing their games, setting up a tense finish in the second tournament of the 2025 Grand Chess Tour. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-8",
+         "pubDate" : "Fri, 16 May 2025 02:50:00",
+         "title" : "Superbet Chess Classic: Pragg beats So with black, becomes sole leader"
+      },
+      {
          "description" : "Recently, on the last day of the Paris Freestyle chess even, Sagar Shah of ChessBase India was served dinner by a master chef, someone who takes traditional French dishes to a new dimension. The restaurant he visited, Cellar, provides some remarkable food and equally remarkable chess vibes. Sagar's video report shows you more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-9",
          "pubDate" : "Thu, 15 May 2025 14:54:14",
          "title" : "Anna Muzychuk's Saddest Win As Zhu, Goryachkina Reach Candidates"
-      },
-      {
-         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
-         "pubDate" : "Thu, 15 May 2025 14:00:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu broke into the sole lead just before the final round of the Superbet Chess Classic Romania 2025. He defeated GM Wesley So from the black side of a Benko Gambit. There was one more decisive result: World Champion Gukesh...",
@@ -104,14 +104,6 @@ news_feed (
          "link" : "https://www.europechess.org/in-memoriam-professor-kurt-jungwirth-1929-2025/",
          "pubDate" : "Wed, 14 May 2025 19:21:42",
          "title" : "IN MEMORIAM: Professor Kurt Jungwirth (1929-2025)"
-      },
-      {
-         "description" : "The Pirc Defence is a dynamic opening strategy that temporarily allows the opponent to control the centre, enabling you to attack more aggressively there later on. This creates complex and often imbalanced positions in the middle game, offering many opportunities for counterplay, even against well-prepared opponents. In a recent course, French grandmaster Fabien Libiszewski explored Black's possibilities in the Pirc. Bahne Fuhrmann took a look and was impressed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-the-pirc-defence",
-         "pubDate" : "Wed, 14 May 2025 19:00:00",
-         "title" : "Fabien Libiszewski: Master the Pirc Defence! - A review"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121169079.cms\" />Indian Grandmaster R Praggnanandhaa remains a co-leader in the Superbet Classic after a draw with Alireza Firouzja. He shares the lead with Fabiano Caruana and Maxime Vachier-Lagrave. The tournament is still open as any of the four leaders could win the top prize. Meanwhile, D Gukesh is still searching for his first victory after drawing with Wesley So.",
