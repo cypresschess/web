@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-live",
+         "pubDate" : "Fri, 16 May 2025 13:00:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Anna Muzychuk claimed a bittersweet victory in the final leg of the Women's Grand Prix. Despite sharing first place, it was not enough to secure a spot in the Women's Candidates Tournament. With the overall Grand Prix points tallied, Zhu Jiner emerged as the winner of the 2024/2025 series, with Aleksandra Goryachkina taking the second qualifying spot for the Candidates. | Photo: Przemysław Nikiel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-austria-2025-9",
+         "pubDate" : "Fri, 16 May 2025 10:30:00",
+         "title" : "Anna Muzychuk wins Grosslobming GP, Zhu reaches Candidates"
+      },
+      {
+         "description" : "The 2025 Mitropa Chess Cup commenced in Trenč&iacute;n, Slovakia and takes place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. The Championships are played in 9 rounds, round-robin system, with time control of 90 minutes for 40 moves, followed by 30 minutes to finish the game, with 30 seconds increment for each move from move one. Each team consists of 4 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mitropa-chess-cup-2025-commenced-in-slovakia/",
+         "pubDate" : "Fri, 16 May 2025 08:32:35",
+         "title" : "Mitropa Chess Cup 2025 commenced in Slovakia"
+      },
+      {
          "description" : " The Indian 18-year-old is joint seventh out of 10 with just one round to go, while his compatriot Praggnanandhaa Rameshbabu leads on 5/8 India's world champion, Gukesh Dommaraju, hoped for a comeback at Bucharest this week after his dismal Freestyle performances in North Germany and Paris in the spring. Instead, the top seeded 18-year-old was defeated by France's pair of Maxime Vachier-Lagrave, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2889148He\">in 31 moves</a>, and Alireza Firouzja, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2890509\">in 69 moves</a>, before scoring a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2892442\">44-move win</a>, against USA's Lev",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
