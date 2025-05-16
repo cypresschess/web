@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2025-05-11","5","<a href=http://www.uschess.org/msa/XtblMain.php?202505116852 target='_blank'>BELLAIRE SUNDAY SWISS 05/11/25</a>",
+"HOUSTON","2025-05-10","40","<a href=http://www.uschess.org/msa/XtblMain.php?202505107642 target='_blank'>MAY 10TH - TROPHY SCHOLASTIC</a>",
 "HOUSTON","2025-05-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202505105992 target='_blank'>CHESSPANDA05102025SATURDAY</a>",
 "CYPRESS","2025-05-10","34","<a href=http://www.uschess.org/msa/XtblMain.php?202505105712 target='_blank'>KNIGHTSOFCYPRESS</a>",
 "SUGAR LAND","2025-05-09","22","<a href=http://www.uschess.org/msa/XtblMain.php?202505095742 target='_blank'>FBCC NATIONAL SLEEPOVER DAY OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-10-05","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410051942 target='_blank'>CHESSPANDA10052024SATURDAY</a>",
 "SUGAR LAND","2024-10-05","12","<a href=http://www.uschess.org/msa/XtblMain.php?202410051742 target='_blank'>FBCC 2024 NATIONAL TACO DAY OPEN</a>",
 "CYPRESS","2024-10-04","40","<a href=http://www.uschess.org/msa/XtblMain.php?202410047512 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"CYPRESS","2024-10-04","36","<a href=http://www.uschess.org/msa/XtblMain.php?202410041882 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
