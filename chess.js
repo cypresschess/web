@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Senior Individual Chess Championship 2025 will take place from September 26th (arrival day) to October 6th (departure day) at the &#8220;Sunny Rabac&#8221; restaurant by Valamar, in Rabac, Croatia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of less of nine players in the women's section, the event will be merged with the respective Open age category, with separate prizes for the best women players. Each tournament will []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-senior-chess-championship-2025-regulations/",
+         "pubDate" : "Sat, 17 May 2025 19:23:45",
+         "title" : "European Individual Senior Chess Championship 2025 - Regulations"
+      },
+      {
          "description" : "In April, ChessBase released many new video courses and other products. Browse the convenient monthly overview to select your favourites: ChessBase Magazine, the new Master Class episode on Max Euwe, the comprehensive Pirc package, or the various Sicilian and strategy guides. What's more, the holidays are just around the corner, and Fritz & Fertig can make those long journeys a little more enjoyable! Take a look at all of last month's products!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/overview-all-new-releases-in-april",
          "pubDate" : "Sat, 17 May 2025 16:00:00",
          "title" : "Review: All new releases in April!"
+      },
+      {
+         "description" : "How does a young person come to chess? A recent feature by Gerald Drissner in Credo, the wealth journal of the Liechtenstein Global Trust, struck certain chords with my own experiences. Credo is lent added poignancy, in that it is published by my good friend and sponsor of Tony Buzan's mental skills Intelligence Institute Academy, His Serene Highness []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/caissa-unchained-carl-portmans-chess-odyssey/",
+         "pubDate" : "Sat, 17 May 2025 15:41:17",
+         "title" : "Caissa unchained: Carl Portman's chess odyssey"
       },
       {
          "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
