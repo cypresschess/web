@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121226783.cms\" />R Praggnanandhaa clinched the Superbet Chess Classic Romania 2025, marking his first Grand Chess Tour victory after a thrilling blitz playoff. Despite drawing his final classical game, Praggnanandhaa faced tough competition from Maxime Vachier-Lagrave and Alireza Firouzja, who forced tiebreaks with their wins. Ultimately, Praggnanandhaa's resilience led him to triumph over Vachier-Lagrave, securing the title and a significant prize.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-superbet-chess-classic-his-first-grand-chess-tour-victory/articleshow/121226783.cms",
+         "pubDate" : "Sat, 17 May 2025 03:43:57",
+         "title" : "Praggnanandhaa wins Superbet Classic, his first Grand Chess Tour victory"
+      },
+      {
          "description" : "Praggnanandhaa Rameshbabu clinched his first-ever Grand Chess Tour title at the Superbet Chess Classic in Bucharest after prevailing in a three-way playoff against Alireza Firouzja and Maxime Vachier-Lagrave. The 19-year-old Indian grandmaster secured a draw in the final round against Levon Aronian to guarantee a tie for first, while Firouzja and MVL won their respective games to force a playoff. Pragg's victory, his second major tournament win this year, also propelled him to second place in the GCT standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-icelandic-candidate-olafssons-saga/",
          "pubDate" : "Sat, 26 Apr 2025 11:05:37",
          "title" : "The Icelandic candidate: Olafsson's saga"
-      },
-      {
-         "description" : "Montenegro Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate in the European Youth Chess Championship 2025 organized in Budva, Montenegro between 28th October (arrival day) - 8th November (departure day), 2025. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each Championship will be played in 9 rounds, swiss system, with the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2025-official-invitation/",
-         "pubDate" : "Sat, 26 Apr 2025 05:40:06",
-         "title" : "European Youth Chess Championship 2025 - Official invitation"
       }
    ]
 }
