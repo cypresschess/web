@@ -42,6 +42,14 @@ news_feed (
          "title" : "Superbet Chess Classic Playoffs - Live!"
       },
       {
+         "description" : "GM Guha Mitrabha was crowned the Chess.com King of the Hill champion on Friday after winning the latest edition of the Community Chess Championships. Following a 12-hour qualification marathon where he competed alongside 3,500 aspirants, Mitrabha ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mitrabha-wins-2025-king-of-the-hill-community-championship",
+         "pubDate" : "Fri, 16 May 2025 18:53:00",
+         "title" : "Mitrabha Wins King Of The Hill Championship Ahead Of 3,500 Participants"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-sarin-bounces-back-as-indian-stars-shine-at-asian-chess-championship/articleshow/121004726.cms",
          "pubDate" : "Thu, 08 May 2025 16:35:01",
          "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
-      },
-      {
-         "description" : "GM Anna Muzychuk is on course to qualify for the next Women&#39;s Candidates Tournament after winning a second game in a row to join GM Vaishali Rameshbabu in the 2025 Grosslobming FIDE Women&#39;s Grand Prix lead on 2.5/3. GM Tan Zhongyi had started the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-3",
-         "pubDate" : "Thu, 08 May 2025 15:39:00",
-         "title" : "Anna Muzychuk Catches Vaishali In Austria Grand Prix Lead"
       },
       {
          "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
