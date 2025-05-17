@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2025-26 period. Many arbiters missed the refresher course",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiter-refresher-course-for-the-year-2025-26-for-left-over-arbiter-on-3-4-june-2025/",
+         "pubDate" : "Sat, 17 May 2025 11:03:26",
+         "title" : "ARBITER REFRESHER COURSE FOR THE YEAR 2025-26 FOR LEFT OVER ARBITERS ON 3 & 4 JUNE 2025"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121232823.cms\" />GM Shyam Sundar's Chennai-based academy is making waves by producing elite chess prodigies, including India's 86th grandmaster Srihari LR and FIDE Junior World Champion Pranav V. Shyam's coaching emphasises character, structured training, and camaraderie, fostering a supportive environment where students thrive. Despite financial challenges and personal sacrifices, Shyam remains dedicated to nurturing champions and instilling valuable life lessons.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rs-50000-a-month-and-countless-sacrifices-how-indias-chess-future-shapes-up-in-chennai-hut/articleshow/121232823.cms",
+         "pubDate" : "Sat, 17 May 2025 09:44:44",
+         "title" : "Rs 50k/month, countless sacrifices: India's chess future in Chennai hut"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121226783.cms\" />R Praggnanandhaa clinched the Superbet Chess Classic Romania 2025, marking his first Grand Chess Tour victory after a thrilling blitz playoff. Despite drawing his final classical game, Praggnanandhaa faced tough competition from Maxime Vachier-Lagrave and Alireza Firouzja, who forced tiebreaks with their wins. Ultimately, Praggnanandhaa's resilience led him to triumph over Vachier-Lagrave, securing the title and a significant prize.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/learn-from-mistakes/",
          "pubDate" : "Sat, 26 Apr 2025 13:00:00",
          "title" : "I Learned Italian in 30 Days-Because I Did This One Thing"
-      },
-      {
-         "description" : "The Icelandic Grandmaster Fridrik Olafsson died on 4 April at the age of 90. Born in 1935, Olafsson's distinguished career included qualification for the 1959 world championship Candidates' tournament (of which he was the last survivor) as well as election to the position of President of FIDÉ, the World Chess Federation. His victims across the board included four world []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-icelandic-candidate-olafssons-saga/",
-         "pubDate" : "Sat, 26 Apr 2025 11:05:37",
-         "title" : "The Icelandic candidate: Olafsson's saga"
       }
    ]
 }
