@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In April, ChessBase released many new video courses and other products. Browse the convenient monthly overview to select your favourites: ChessBase Magazine, the new Master Class episode on Max Euwe, the comprehensive Pirc package, or the various Sicilian and strategy guides. What's more, the holidays are just around the corner, and Fritz & Fertig can make those long journeys a little more enjoyable! Take a look at all of last month's products!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/overview-all-new-releases-in-april",
+         "pubDate" : "Sat, 17 May 2025 16:00:00",
+         "title" : "Review: All new releases in April!"
+      },
+      {
+         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
+         "pubDate" : "Sat, 17 May 2025 14:00:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "It's one of the most frustrating feelings in chess: You calculate correctly. You see all the key moves. But you still end up playing a bad one. It's not just painful-it's confusing. I've been there many times. And I see it happen to my students constantly. They don't blunder. They don't miss anything obvious. But []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/emotional-decisions-in-chess/",
+         "pubDate" : "Sat, 17 May 2025 13:00:00",
+         "title" : "The Mistakes That Don't Make Any Sense"
+      },
+      {
          "description" : "The Arbiters Commission of AICF has received requests to conduct an additional Arbiter Refresher Course for the 2025-26 period. Many arbiters missed the refresher course",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -258,14 +282,6 @@ news_feed (
          "title" : "European Youth Rapid and Blitz Championship 2025 4th - 8th August"
       },
       {
-         "description" : "In this episode of Svitlana's Smart Moves, Svitlana Demchenko introduces the Hedgehog pawn structure, a strategic setup common in the Sicilian Defense, featuring black pawns on a6, b6, d6, and e6. She emphasizes the educational value of understanding pawn structures for overall middle-game improvement, using a Kasparov-Kramnik game as a case study. Svitlana explains typical plans for both sides: white often uses space advantage and looks for a queenside breakthrough with moves like b4 and c5, while black prepares central or queenside pawn breaks like d5 or b5, and, much to Arne's delight, may even launch a kingside attack with &hellip;g5. But it might be better to stick to the queenside pawn",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-learn-about-the-hedgehog-pawn-structure",
-         "pubDate" : "Wed, 14 May 2025 07:00:10",
-         "title" : "Svitlana's Smart Moves - Learn about the hedgehog pawn structure"
-      },
-      {
          "description" : "The Czech-German grandmaster Vlastimil Hort, a former world number-six, a candidate for the world championship, and a commentator renowned for his wit and humor, died on Monday at the age of 81. The news was confirmed by the Czech Chess Federation...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-7",
          "pubDate" : "Tue, 13 May 2025 14:51:11",
          "title" : "Zhu Jiner's 5th Win In A Row Hits Anna Muzychuk's Candidates Hopes"
-      },
-      {
-         "description" : "2025 is a year of farewells. After Robert Huebner, another great player and outstanding personality in the world of chess has passed away: Vlastimil Hort. Vlastimil Hort was one of the best players in the world in the 1970s. After moving to Germany he entertained television viewers with his subtle humour on the programme 'Schach der Großmeister'. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vlastimil-hort-has-passed-away",
-         "pubDate" : "Tue, 13 May 2025 14:24:17",
-         "title" : "Vlastimil Hort has passed away"
       },
       {
          "description" : "After six rounds of the Superbet Chess Classic Romania 2025, we are still far from having a frontrunner. Four players are tied in first place. In the only decisive game of the round, GM Alireza Firouzja defeated World Champion Gukesh Dommaraju to ...",
@@ -896,22 +904,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/",
          "pubDate" : "Sat, 26 Apr 2025 23:36:59",
          "title" : "HBCU Chess Spotlight: Anndrea Ojijo (NCAT)"
-      },
-      {
-         "description" : " Samir Acharya2025 HBCU Chess Champion Samir Acharya won the 3rd HBCU Chess Classic with a perfect 5/5, leading Howard University to the team title for the second time in three years. The junior computer science major was the top seed going into the tournament and met expectations. Interestingly, Acharya mentioned that he had not made The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-samir-acharya-howard/\">HBCU Chess Spotlight: Samir Acharya (Howard)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-samir-acharya-howard/",
-         "pubDate" : "Sat, 26 Apr 2025 14:02:02",
-         "title" : "HBCU Chess Spotlight: Samir Acharya (Howard)"
-      },
-      {
-         "description" : "I speak five languages fluently: German, French, English, Spanish, and Italian. But it wasn't always that way. Back in school, I hated speaking up in Spanish class. Even when I knew the answer, I hesitated. My grammar wasn't perfect, and I worried about how I sounded. Our teacher didn't help either-she was the type to []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/learn-from-mistakes/",
-         "pubDate" : "Sat, 26 Apr 2025 13:00:00",
-         "title" : "I Learned Italian in 30 Days-Because I Did This One Thing"
       }
    ]
 }
