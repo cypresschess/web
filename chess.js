@@ -10,6 +10,14 @@ news_feed (
          "title" : "European Individual Senior Chess Championship 2025 - Regulations"
       },
       {
+         "description" : "GM Hikaru Nakamura has reached an unprecedented 40 Bullet Brawl&#38;nbsp;titles after claiming first place in Saturday&#39;s two-hour arena with a commanding score of 288. He notched 76/80 games to win the $400 first prize ahead of the second-place finish...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-17-2025",
+         "pubDate" : "Sat, 17 May 2025 17:25:00",
+         "title" : "Bullet Brawl GOAT Nakamura Scores 76/80, Secures 40th Title"
+      },
+      {
          "description" : "In April, ChessBase released many new video courses and other products. Browse the convenient monthly overview to select your favourites: ChessBase Magazine, the new Master Class episode on Max Euwe, the comprehensive Pirc package, or the various Sicilian and strategy guides. What's more, the holidays are just around the corner, and Fritz & Fertig can make those long journeys a little more enjoyable! Take a look at all of last month's products!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -586,14 +594,6 @@ news_feed (
          "title" : "Caruana, Praggnanandhaa Lead After Scoring 1st Wins"
       },
       {
-         "description" : "GM Christopher Yoo won the May 9 Freestyle Friday, scoring 10.5 points and securing outright victory with a round to spare. Only a draw in round five against GM Ian Nepomniachtchi kept Yoo from the first perfect 11/11 score in tournament history. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yoo-wins-freestyle-friday-may-9-2025",
-         "pubDate" : "Fri, 09 May 2025 11:45:00",
-         "title" : "Yoo Wins Freestyle Friday By 1.5 Points"
-      },
-      {
          "description" : "By the deadline of 30 April 2025 the following bids have been received. EUROPEAN AMATEUR CHESS CHAMPIONSHIP 20261. TURKEY/ISTANBUL EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 20271. MONTENEGRO/PETROVAC2. POLAND/CHOTOWA3. ROMANIA / MAMAIA RESORT, CITY OF CONSTANTA EUROPEAN SCHOOL CHESS CHAMPIONSHIP 20271.MONTENEGRO /BUDVA2. POLAND/CHOTOWA3. SERBIA/VRNJACKA BANJA4. TURKEY/ANTALYA EUROPEAN SENIORS TEAM CHESS CHAMPIONSHIP 20271. ITALY/AQUI TERME EUROPEAN SENIOR INDIVIDUAL CHESS CHAMPIONSHIP 20271.POLAND/CHOTOWA2. SLOVENIA/TERME CATEZ EUROPEAN YOUTH RAPID &#38; BLITZ CHESS CHAMPIONSHIP 20271. SLOVENIA/TERME CATEZ EUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 20271. GEORGIA/BATUMI AWARDED BY THE []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/",
          "pubDate" : "Sun, 27 Apr 2025 17:38:43",
          "title" : "HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)"
-      },
-      {
-         "description" : " Anndrea Ojijo, President of NCAT Chess ClubPhotos by Daaim Shabazz/The Chess Drum Playing at the 2024 HBCU Chess Classic at Georgia Tech I'd love to get more people in chess&hellip; and getting more women into chess. ~Anndrea Ojijo Anndrea Ojijjo is an honors student at North Carolina A&#38;T (NCAT), aspiring to be a kinesiologist. She The post <a href=\"https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/\">HBCU Chess Spotlight: Anndrea Ojijo (NCAT)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/04/26/hbcu-chess-spotlight-anndrea-ojijo-ncat/",
-         "pubDate" : "Sat, 26 Apr 2025 23:36:59",
-         "title" : "HBCU Chess Spotlight: Anndrea Ojijo (NCAT)"
       }
    ]
 }
