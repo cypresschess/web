@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2025-05-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202505179312 target='_blank'>CHESSPANDA05172025SATURDAY</a>",
+"SPRING","2025-05-16","20","<a href=http://www.uschess.org/msa/XtblMain.php?202505168942 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2025-05-16","32","<a href=http://www.uschess.org/msa/XtblMain.php?202505168932 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2025-05-16","14","<a href=http://www.uschess.org/msa/XtblMain.php?202505168892 target='_blank'>FBCC 2023 NATIONAL BARBEQUE DAY OPE</a>",
 "HOUSTON","2025-05-11","5","<a href=http://www.uschess.org/msa/XtblMain.php?202505116852 target='_blank'>BELLAIRE SUNDAY SWISS 05/11/25</a>",
 "HOUSTON","2025-05-10","40","<a href=http://www.uschess.org/msa/XtblMain.php?202505107642 target='_blank'>MAY 10TH - TROPHY SCHOLASTIC</a>",
 "HOUSTON","2025-05-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202505105992 target='_blank'>CHESSPANDA05102025SATURDAY</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2024-10-12","11","<a href=http://www.uschess.org/msa/XtblMain.php?202410127152 target='_blank'>OCT 12 - TROPHY SCHOLASTIC ON NATIO</a>",
 "HOUSTON","2024-10-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202410126442 target='_blank'>CHESSPANDA10122024SATURDAY</a>",
 "HOUSTON","2024-10-11","27","<a href=http://www.uschess.org/msa/XtblMain.php?202410115862 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-10-04  - 10-06","55","<a href=http://www.uschess.org/msa/XtblMain.php?202410063382 target='_blank'>$2,500 OCTOBER 2024 CHAMPIONSHIP</a>",
-"HOUSTON","2024-10-05","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410051942 target='_blank'>CHESSPANDA10052024SATURDAY</a>",
-"SUGAR LAND","2024-10-05","12","<a href=http://www.uschess.org/msa/XtblMain.php?202410051742 target='_blank'>FBCC 2024 NATIONAL TACO DAY OPEN</a>",
-"CYPRESS","2024-10-04","40","<a href=http://www.uschess.org/msa/XtblMain.php?202410047512 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
