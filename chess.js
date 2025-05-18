@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you are on the move, it is particularly important that your computer does not consume too much power when analysing. With ChessBase 18, you can conserve your battery and connect to top-quality hardware via a remote engine whenever you need it. This means that the engine installed on your computer can remain off and the computing power is provided by an Internet server. But there are advantages at home too: the wide selection is sure to include engines that are more powerful than the one on your own computer, and the fan stays quiet. In this tutorial series, you will learn how convenient and resource-efficient you can analyse with your engine of choice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-14-save-resources-with-remote-engines",
+         "pubDate" : "Sun, 18 May 2025 16:00:00",
+         "title" : "ChessBase 18 - Tips for beginners, part 14: Save resources with remote engines"
+      },
+      {
          "description" : "Twenty versions of a software program in 34 years! In times of an AI explosion things have become more exciting than ever. Fritz 20 stresses the \"human\" playing concept, talks to you, adjusts itself to your playing level. You can select opponents like Morphy, Lasker, Capablanca, Tal, Fischer, Karpov... Or set it to play exactly like your opponent in a running event! - Pssst, on Tuesday you can get Fritz 20 for a special price, on Discount Day!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/brand-new-release-fritz-20",
-         "pubDate" : "Sun, 18 May 2025 12:00:00",
+         "pubDate" : "Sun, 18 May 2025 15:30:00",
          "title" : "Brand new release: Fritz 20"
       },
       {
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.thearticle.com/caissa-unchained-carl-portmans-chess-odyssey/",
          "pubDate" : "Sat, 17 May 2025 15:41:17",
          "title" : "Caissa unchained: Carl Portman's chess odyssey"
-      },
-      {
-         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
-         "pubDate" : "Sat, 17 May 2025 14:00:00",
-         "title" : "Sharjah Masters - Live!"
       },
       {
          "description" : "It's one of the most frustrating feelings in chess: You calculate correctly. You see all the key moves. But you still end up playing a bad one. It's not just painful-it's confusing. I've been there many times. And I see it happen to my students constantly. They don't blunder. They don't miss anything obvious. But []",
