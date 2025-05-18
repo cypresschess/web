@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Daneshvar Bardiya of Iran and IM Song Yuxin of China emerged as the champions of the 2025 Asian Chess Championship, held on 6-15 May at the Danat Resort Hotel in Al Ain, UAE. Bardiya claimed gold in the open section with 7/9 points, edging out top seed Nihal Sarin on tiebreaks. In the women's section, Song Yuxin secured the title after a tightly contested final round, prevailing based on the highest average opponent rating. | Photos: Asian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asian-championships-2025-report",
+         "pubDate" : "Sun, 18 May 2025 20:00:00",
+         "title" : "Asian Championships: Bardiya Daneshvar and Song Yuxin crowned champions in Al Ain"
+      },
+      {
          "description" : "When you are on the move, it is particularly important that your computer does not consume too much power when analysing. With ChessBase 18, you can conserve your battery and connect to top-quality hardware via a remote engine whenever you need it. This means that the engine installed on your computer can remain off and the computing power is provided by an Internet server. But there are advantages at home too: the wide selection is sure to include engines that are more powerful than the one on your own computer, and the fan stays quiet. In this tutorial series, you will learn how convenient and resource-efficient you can analyse with your engine of choice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-refresher-course-2025-26/",
          "pubDate" : "Tue, 29 Apr 2025 07:55:04",
          "title" : "AICF Refresher Course 2025-26"
-      },
-      {
-         "description" : " Charles Lindsey, Jr. and Breon McCray had a vision a few years ago at Hampton University. The Detroit natives decided to turn their passion for chess into an organization. The group's purpose was to gather like minds, refine analytical abilities, and engage in satisfying social interaction. Charles Lindsey, Jr., President of Hampton University Chess Club The post <a href=\"https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/\">HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/04/27/hbcu-chess-spotlight-charles-lindsey-jr-hampton/",
-         "pubDate" : "Sun, 27 Apr 2025 17:38:43",
-         "title" : "HBCU Chess Spotlight: Charles Lindsey, Jr. (Hampton)"
       }
    ]
 }
