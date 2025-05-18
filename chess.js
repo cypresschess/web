@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Twenty versions of a software program in 34 years! In times of an AI explosion things have become more exciting than ever. Fritz 20 stresses the \"human\" playing concept, talks to you, adjusts itself to your playing level. You can select opponents like Morphy, Lasker, Capablanca, Tal, Fischer, Karpov... Or set it to play exactly like your opponent in a running event! - Pssst, on Tuesday you can get Fritz 20 for a special price, on Discount Day!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/brand-new-release-fritz-20",
+         "pubDate" : "Sun, 18 May 2025 21:30:00",
+         "title" : "Brand new release: Fritz 20"
+      },
+      {
          "description" : "GM Daneshvar Bardiya of Iran and IM Song Yuxin of China emerged as the champions of the 2025 Asian Chess Championship, held on 6-15 May at the Danat Resort Hotel in Al Ain, UAE. Bardiya claimed gold in the open section with 7/9 points, edging out top seed Nihal Sarin on tiebreaks. In the women's section, Song Yuxin secured the title after a tightly contested final round, prevailing based on the highest average opponent rating. | Photos: Asian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-14-save-resources-with-remote-engines",
          "pubDate" : "Sun, 18 May 2025 16:00:00",
          "title" : "ChessBase 18 - Tips for beginners, part 14: Save resources with remote engines"
-      },
-      {
-         "description" : "Twenty versions of a software program in 34 years! In times of an AI explosion things have become more exciting than ever. Fritz 20 stresses the \"human\" playing concept, talks to you, adjusts itself to your playing level. You can select opponents like Morphy, Lasker, Capablanca, Tal, Fischer, Karpov... Or set it to play exactly like your opponent in a running event! - Pssst, on Tuesday you can get Fritz 20 for a special price, on Discount Day!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/brand-new-release-fritz-20",
-         "pubDate" : "Sun, 18 May 2025 15:30:00",
-         "title" : "Brand new release: Fritz 20"
       },
       {
          "description" : "The European Senior Individual Chess Championship 2025 will take place from September 26th (arrival day) to October 6th (departure day) at the &#8220;Sunny Rabac&#8221; restaurant by Valamar, in Rabac, Croatia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of less of nine players in the women's section, the event will be merged with the respective Open age category, with separate prizes for the best women players. Each tournament will []",
