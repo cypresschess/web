@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami, Tan Zhongyi and Yagiz Kaan Erdogmus.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
+         "pubDate" : "Mon, 19 May 2025 20:00:00",
+         "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
+      },
+      {
+         "description" : " The Chess.com Classic takes place 20th to 23rd May 2025. Play starts at 16:15 BST. Double Elimination KO. Seeded players: Carlsen, Nakamura, Neponiachtchi, Gukesh, Abdusattorov, MVL, Ding Liren and Wei Yi will be joined by 8 qualifier. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
+         "pubDate" : "Mon, 19 May 2025 19:55:00",
+         "title" : "Chess.com Classic 2025 - Games and Results"
+      },
+      {
+         "description" : " 58th Capablanca Memorial took place Fri 9th to Mon 19th May 2025. The elite section was a 10 round double round robin with five instead of the normal six players. Players: Volodar Murzin, Jonas Buhl, Bjerre, Evgeny Romanov, Arseniy Nesterov and Carlos Daniel Albornoz Cabrera. Jonas Buhl Bjerre just edged out Volodar Murzin after they both scored 5.5/8. Dylan Isidro Berdayes Ason won the open with 7.5/9. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/58th-capablanca-memorial-2025",
+         "pubDate" : "Mon, 19 May 2025 18:54:00",
+         "title" : "58th Capablanca Memorial 2025 - Games and Results"
+      },
+      {
          "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account. The premium offer is the brand-new Fritz 20, which provides a completely new way to practice and prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
          "pubDate" : "Mon, 19 May 2025 13:05:00",
          "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "Esports organizations are making a final push to add grandmasters to their teams for the second and last leg of this year&#39;s Champions Chess Tour (CCT). GMs Levon Aronian, Vincent Keymer, and Jan-Krzysztof Duda are among the six top grandmasters wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/six-star-grandmasters-join-esports-teams-in-signing-spree",
+         "pubDate" : "Mon, 19 May 2025 10:15:00",
+         "title" : "Top GMs Join Esports Teams In Final Chess.com Classic Rush"
       },
       {
          "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 match points, a draw 2 []",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "2025 Scholar-Chessplayer Awards Announced: Six Players Honored at SuperNationals VIII"
       },
       {
-         "description" : " 58th Capablanca Memorial takes place Fri 9th to Mon 19th May 2025. The elite section is a 10 round double round robin with five instead of the normal six players. Players: Volodar Murzin, Jonas Buhl, Bjerre, Evgeny Romanov, Arseniy Nesterov and Carlos Daniel Albornoz Cabrera. There is an open alongside. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/58th-capablanca-memorial-2025",
-         "pubDate" : "Sat, 10 May 2025 20:54:00",
-         "title" : "58th Capablanca Memorial 2025 - Games and Results"
-      },
-      {
          "description" : " The IV Sunway Formentera Open took place 29th April to 9th May 2025. Valentin Dragnev won with 8.5/10 a point clear of Artem Omelja and Sergey Fedorchuk. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -626,14 +650,6 @@ news_feed (
          "title" : "Zhu Is Back As Anna Muzychuk Takes Sole Lead"
       },
       {
-         "description" : "GMs Fabiano Caruana and Praggnanandhaa Rameshbabu lead the Superbet Chess Classic Romania 2025 after three rounds, both winning for the first time in the tournament. Caruana toppled the previous leader, GM Alireza Firouzja, while Praggnanandhaa wo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-3",
-         "pubDate" : "Fri, 09 May 2025 14:55:00",
-         "title" : "Caruana, Praggnanandhaa Lead After Scoring 1st Wins"
-      },
-      {
          "description" : "By the deadline of 30 April 2025 the following bids have been received. EUROPEAN AMATEUR CHESS CHAMPIONSHIP 20261. TURKEY/ISTANBUL EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 20271. MONTENEGRO/PETROVAC2. POLAND/CHOTOWA3. ROMANIA / MAMAIA RESORT, CITY OF CONSTANTA EUROPEAN SCHOOL CHESS CHAMPIONSHIP 20271.MONTENEGRO /BUDVA2. POLAND/CHOTOWA3. SERBIA/VRNJACKA BANJA4. TURKEY/ANTALYA EUROPEAN SENIORS TEAM CHESS CHAMPIONSHIP 20271. ITALY/AQUI TERME EUROPEAN SENIOR INDIVIDUAL CHESS CHAMPIONSHIP 20271.POLAND/CHOTOWA2. SLOVENIA/TERME CATEZ EUROPEAN YOUTH RAPID &#38; BLITZ CHESS CHAMPIONSHIP 20271. SLOVENIA/TERME CATEZ EUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 20271. GEORGIA/BATUMI AWARDED BY THE []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -682,7 +698,7 @@ news_feed (
          "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
       },
       {
-         "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The link to the zoom meeting can be found here.The EB Candidate Forum will be recorded and posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them ",
+         "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The EB Candidate Forum has been recorded and is posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them before the forum. Follow the instructions i",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/executive-board-candidates-forum-scheduled-may-16",
@@ -866,14 +882,6 @@ news_feed (
          "title" : "Checkmate: USA vs India on Oct 4th 2025 - "
       },
       {
-         "description" : " Czech Grandmaster Petr Neuman Mar 11, 1978 Apr 28, 2025 (age 47)? passed away suddenly on Monday after competing in the final round of the Bundesliga in Deggendorf. Neuman also regularly played in the Czech League and local tournaments including this year's national championships. He became an IM 2002 and a GM in 2013 and peaked with a rating of 2522 then that earned him this title. Neuman was a teacher and chess trainer, well liked on the chess circuit where he played so frequently. Links: <a href=\"https://www.chess.cz/smutna-zprava-zemrel-petr-neuman/\">Announcement of his passing by the Czech Chess Federation</a> <a href=\"https://en.chessbase.com/post/Czech-grandmaster-petr-neuman-has-pas",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/petr-neuman-1978-2025",
-         "pubDate" : "Thu, 1 May 2025 19:44:00",
-         "title" : "Petr Neuman 1978-2025 - "
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120797818.cms\" />Indian Grandmaster R Praggnanandhaa secured third place at the Superbet Rapid and Blitz tournament in Warsaw, while Vladimir Fedoseev of Slovenia emerged as the champion. Fedoseev's dominant performance earned him $40,000, with Praggnanandhaa taking home $25,000. Aravindh Chithambaram tied for seventh in his GCT debut. The Grand Chess Tour now heads to Bucharest, featuring D Gukesh and Praggnanandhaa from India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
          "pubDate" : "Thu, 01 May 2025 12:00:19",
          "title" : "Next Grassroots assessment"
-      },
-      {
-         "description" : " Alongside the Baku Open was a three day Battle of the Champions event which took place Mon 28th Apr to Wed 30th Apr 2025. Rauf Mamedov beat Rustam Kasimdzhanov 4-2 in the rapid but lost 6-4 in the blitz. Gunay Mammadzada beat Antoaneta Stefanova 3.5-2.5 in the rapid and they tied the bltiz 5-5.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/battle-of-the-champions-2025",
-         "pubDate" : "Wed, 30 Apr 2025 17:54:00",
-         "title" : "Battle of the Champions 2025 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120761338.cms\" />Indian Grandmaster R Praggnanandhaa showcased resilience at the Superbet Rapid & Blitz tournament, climbing to second place after a strong showing in the blitz section. Despite a shaky start, Praggnanandhaa secured three consecutive wins, demonstrating his expertise in the fast-paced format. Vladimir Fedoseev of Slovenia dominated the day, leading with a significant 3.5-point margin.",
