@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account. The premium offer is the brand-new Fritz 20, which provides a completely new way to practice and prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/everything-25-off-on-discount-day-7",
+         "pubDate" : "Mon, 19 May 2025 14:00:00",
+         "title" : "Everything 25% off on Discount Day"
+      },
+      {
          "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
-         "pubDate" : "Mon, 19 May 2025 13:00:00",
+         "pubDate" : "Mon, 19 May 2025 13:05:00",
          "title" : "Sharjah Masters - Live!"
       },
       {
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://aicf.in/public-notice-2/",
          "pubDate" : "Mon, 19 May 2025 09:12:10",
          "title" : "PUBLIC NOTICE"
-      },
-      {
-         "description" : "Twenty versions of a software program in 34 years! In times of an AI explosion things have become more exciting than ever. Fritz 20 stresses the \"human\" playing concept, talks to you, adjusts itself to your playing level. You can select opponents like Morphy, Lasker, Capablanca, Tal, Fischer, Karpov... Or set it to play exactly like your opponent in a running event! - Pssst, on Tuesday you can get Fritz 20 for a special price, on Discount Day!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/brand-new-release-fritz-20",
-         "pubDate" : "Sun, 18 May 2025 21:30:00",
-         "title" : "Brand new release: Fritz 20"
       },
       {
          "description" : "GM Daneshvar Bardiya of Iran and IM Song Yuxin of China emerged as the champions of the 2025 Asian Chess Championship, held on 6-15 May at the Danat Resort Hotel in Al Ain, UAE. Bardiya claimed gold in the open section with 7/9 points, edging out top seed Nihal Sarin on tiebreaks. In the women's section, Song Yuxin secured the title after a tightly contested final round, prevailing based on the highest average opponent rating. | Photos: Asian Chess Federation",
@@ -178,7 +178,7 @@ news_feed (
          "title" : "English and English Women's Championships 2025 - enter now!"
       },
       {
-         "description" : "This prestigious event takes place in London June 10th 16th, and tickets are now on sale at tickets.fide.com Rapid round and day passes start from &pound;30.00, Blitz day passes...",
+         "description" : "This prestigious event takes place in London June 10th - 16th, and tickets are now on sale at&#160;tickets.fide.com Rapid round and day passes start from &pound;36.00, Blitz day passes start...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-world-rapid-and-blitz-team-championships-tickets-now-available/",
