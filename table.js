@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2025-05-16  - 05-18","37","<a href=http://www.uschess.org/msa/XtblMain.php?202505180592 target='_blank'>HOUSTON FIDE 2025</a>",
 "HOUSTON","2025-05-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202505179312 target='_blank'>CHESSPANDA05172025SATURDAY</a>",
 "SPRING","2025-05-16","20","<a href=http://www.uschess.org/msa/XtblMain.php?202505168942 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2025-05-16","32","<a href=http://www.uschess.org/msa/XtblMain.php?202505168932 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-10-12","331","<a href=http://www.uschess.org/msa/XtblMain.php?202410128202 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
 "HOUSTON","2024-10-12","11","<a href=http://www.uschess.org/msa/XtblMain.php?202410127152 target='_blank'>OCT 12 - TROPHY SCHOLASTIC ON NATIO</a>",
 "HOUSTON","2024-10-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202410126442 target='_blank'>CHESSPANDA10122024SATURDAY</a>",
-"HOUSTON","2024-10-11","27","<a href=http://www.uschess.org/msa/XtblMain.php?202410115862 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
