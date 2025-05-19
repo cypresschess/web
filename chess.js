@@ -10,7 +10,7 @@ news_feed (
          "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
       },
       {
-         "description" : " The Chess.com Classic takes place 20th to 23rd May 2025. Play starts at 16:15 BST. Double Elimination KO. Seeded players: Carlsen, Nakamura, Neponiachtchi, Gukesh, Abdusattorov, MVL, Ding Liren and Wei Yi will be joined by 8 qualifier. ",
+         "description" : " The Chess.com Classic takes place 20th to 23rd May 2025. Play starts at 16:15 BST. Double Elimination KO. Seeded players: Carlsen, Nakamura, Neponiachtchi, Gukesh, Abdusattorov, MVL, Ding Liren and Wei Yi were joined by 8 qualifiers. Round 1 Pairings Tuesday 20th May: Carlsen-Duda, MVL-Caruana, Abdusattorov-Lazavik, Wei Yi-Artemiev, Nakamura-Aronian, Ding Liren-Praggnanandhaa, Gukesh-Fedoseev, Nepomniachtchi-Arjun. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
@@ -32,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/everything-25-off-on-discount-day-7",
          "pubDate" : "Mon, 19 May 2025 14:00:00",
          "title" : "Everything 25% off on Discount Day"
+      },
+      {
+         "description" : "GM Vladimir Fedoseev won the Swiss portion of the 2025 Chess.com Classic Play-in with 7.5/9 to qualify directly for the Playoffs. After finishing in the top-15 of the Swiss, seven other players won in Match Play to advance as well: GMs Denis Lazav...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-play-in",
+         "pubDate" : "Mon, 19 May 2025 13:20:00",
+         "title" : "Duda Qualifies For Esports World Cup, Fedoseev Wins Swiss"
       },
       {
          "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -66,22 +74,6 @@ news_feed (
          "title" : "PUBLIC NOTICE"
       },
       {
-         "description" : "GM Daneshvar Bardiya of Iran and IM Song Yuxin of China emerged as the champions of the 2025 Asian Chess Championship, held on 6-15 May at the Danat Resort Hotel in Al Ain, UAE. Bardiya claimed gold in the open section with 7/9 points, edging out top seed Nihal Sarin on tiebreaks. In the women's section, Song Yuxin secured the title after a tightly contested final round, prevailing based on the highest average opponent rating. | Photos: Asian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asian-championships-2025-report",
-         "pubDate" : "Sun, 18 May 2025 20:00:00",
-         "title" : "Asian Championships: Bardiya Daneshvar and Song Yuxin crowned champions in Al Ain"
-      },
-      {
-         "description" : "When you are on the move, it is particularly important that your computer does not consume too much power when analysing. With ChessBase 18, you can conserve your battery and connect to top-quality hardware via a remote engine whenever you need it. This means that the engine installed on your computer can remain off and the computing power is provided by an Internet server. But there are advantages at home too: the wide selection is sure to include engines that are more powerful than the one on your own computer, and the fan stays quiet. In this tutorial series, you will learn how convenient and resource-efficient you can analyse with your engine of choice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-14-save-resources-with-remote-engines",
-         "pubDate" : "Sun, 18 May 2025 16:00:00",
-         "title" : "ChessBase 18 - Tips for beginners, part 14: Save resources with remote engines"
-      },
-      {
          "description" : "The European Senior Individual Chess Championship 2025 will take place from September 26th (arrival day) to October 6th (departure day) at the &#8220;Sunny Rabac&#8221; restaurant by Valamar, in Rabac, Croatia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of less of nine players in the women's section, the event will be merged with the respective Open age category, with separate prizes for the best women players. Each tournament will []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -96,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-17-2025",
          "pubDate" : "Sat, 17 May 2025 17:25:00",
          "title" : "Bullet Brawl GOAT Nakamura Scores 76/80, Secures 40th Title"
-      },
-      {
-         "description" : "In April, ChessBase released many new video courses and other products. Browse the convenient monthly overview to select your favourites: ChessBase Magazine, the new Master Class episode on Max Euwe, the comprehensive Pirc package, or the various Sicilian and strategy guides. What's more, the holidays are just around the corner, and Fritz & Fertig can make those long journeys a little more enjoyable! Take a look at all of last month's products!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/overview-all-new-releases-in-april",
-         "pubDate" : "Sat, 17 May 2025 16:00:00",
-         "title" : "Review: All new releases in April!"
       },
       {
          "description" : "How does a young person come to chess? A recent feature by Gerald Drissner in Credo, the wealth journal of the Liechtenstein Global Trust, struck certain chords with my own experiences. Credo is lent added poignancy, in that it is published by my good friend and sponsor of Tony Buzan's mental skills Intelligence Institute Academy, His Serene Highness []",
@@ -144,14 +128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-superbet-chess-classic-his-first-grand-chess-tour-victory/articleshow/121226783.cms",
          "pubDate" : "Sat, 17 May 2025 03:43:57",
          "title" : "Praggnanandhaa wins Superbet Classic, his first Grand Chess Tour victory"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu clinched his first-ever Grand Chess Tour title at the Superbet Chess Classic in Bucharest after prevailing in a three-way playoff against Alireza Firouzja and Maxime Vachier-Lagrave. The 19-year-old Indian grandmaster secured a draw in the final round against Levon Aronian to guarantee a tie for first, while Firouzja and MVL won their respective games to force a playoff. Pragg's victory, his second major tournament win this year, also propelled him to second place in the GCT standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2025-9",
-         "pubDate" : "Sat, 17 May 2025 00:10:00",
-         "title" : "Pragg outscores Firouzja and MVL in playoffs, wins Superbet Chess Classic"
       },
       {
          "description" : " The Grand Chess Tour Superbet Chess Classic Romania took place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. Praggnanandhaa won the tournament but only after a tie-break blitz against MVL and Firouzja. Praggnanandhaa drew his final round game allowing first MVL and then Firouzja to catch him but he won the third and final game of the blitz tie-break to win the event. This is Praggnanandhaa's second major title of the year after he won Tata Steel following a tie-break at the start of February. ",
@@ -314,6 +290,14 @@ news_feed (
          "title" : "Full Report: Champions Crowned in Orlando"
       },
       {
+         "description" : "(Update, May 19, 2025): The video can be viewed here and the slideshow can be followed here.US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The EB Candidate Forum has been recorded and is posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/update-video-now-available-executive-board-candidates-forum-scheduled-may-16",
+         "pubDate" : "Thu, 15 May 2025 00:00:00",
+         "title" : "(Update: Video Now Available) Executive Board Candidates Forum Scheduled for May 16"
+      },
+      {
          "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,7 +394,7 @@ news_feed (
          "title" : "Kevin Pryor chats with The Chess Drum"
       },
       {
-         "description" : " The Czech GM Vlastimil Hort has passed away at the age of 81. Born in Kladno on January 12th 1944 he died in Germany May 12th 2025. Hort grew up in the Czechoslovakia becoming a Grandmaster in 1965. He played the 1967 Sousse Interzonal finishing tied 6th, not enough to advance to the Candidates. He then played Board 4 in the USSR vs the Rest of the World match in 1970. Hort did eventually reach the Candidates in 1977 where he met Boris Spassky. This was also the peak of his career when Hort was world number 6 and rated 2620. Spassky was ill during the match and Hort gave up one of his rest days to aid his recovery after Spassky ran out of his. Hort lost the match narrowly in the end. Hort d",
+         "description" : " The Czech GM Vlastimil Hort has passed away at the age of 81. Born in Kladno on January 12th 1944 he died in Germany May 12th 2025. Hort grew up in Czechoslovakia becoming a Grandmaster in 1965. He played the 1967 Sousse Interzonal finishing tied 6th, not enough to advance to the Candidates. He then played Board 4 in the USSR vs the Rest of the World match in 1970. Hort did eventually reach the Candidates in 1977 where he met Boris Spassky. This was also the peak of his career when Hort was world number 6 and rated 2620. Spassky was ill during the match and Hort gave up one of his rest days to aid his recovery after Spassky ran out of his. Hort lost the match narrowly in the end. Hort defec",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/vlastimil-hort-1944-2025",
@@ -642,14 +626,6 @@ news_feed (
          "title" : "ROUND 2 Report on Asian Individual Chess Championships, Al Ain, U.A.E 7th to 15th May, 2025. "
       },
       {
-         "description" : "GM Anna Muzychuk&#39;s third win in a row has given her the sole lead on 3.5/4 in the 2025 Grosslobming FIDE Women&#39;s Grand Prix. She&#39;s also on course to win the whole series, but GM Zhu Jiner&#39;s second win in a row puts her half a point behind the thir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-4",
-         "pubDate" : "Fri, 09 May 2025 16:11:15",
-         "title" : "Zhu Is Back As Anna Muzychuk Takes Sole Lead"
-      },
-      {
          "description" : "By the deadline of 30 April 2025 the following bids have been received. EUROPEAN AMATEUR CHESS CHAMPIONSHIP 20261. TURKEY/ISTANBUL EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 20271. MONTENEGRO/PETROVAC2. POLAND/CHOTOWA3. ROMANIA / MAMAIA RESORT, CITY OF CONSTANTA EUROPEAN SCHOOL CHESS CHAMPIONSHIP 20271.MONTENEGRO /BUDVA2. POLAND/CHOTOWA3. SERBIA/VRNJACKA BANJA4. TURKEY/ANTALYA EUROPEAN SENIORS TEAM CHESS CHAMPIONSHIP 20271. ITALY/AQUI TERME EUROPEAN SENIOR INDIVIDUAL CHESS CHAMPIONSHIP 20271.POLAND/CHOTOWA2. SLOVENIA/TERME CATEZ EUROPEAN YOUTH RAPID &#38; BLITZ CHESS CHAMPIONSHIP 20271. SLOVENIA/TERME CATEZ EUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 20271. GEORGIA/BATUMI AWARDED BY THE []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -696,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-sarin-bounces-back-as-indian-stars-shine-at-asian-chess-championship/articleshow/121004726.cms",
          "pubDate" : "Thu, 08 May 2025 16:35:01",
          "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
-      },
-      {
-         "description" : "US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The EB Candidate Forum has been recorded and is posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are available now, and you are invited to read them before the forum. Follow the instructions i",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/executive-board-candidates-forum-scheduled-may-16",
-         "pubDate" : "Thu, 08 May 2025 00:00:00",
-         "title" : "Executive Board Candidates Forum Scheduled for May 16"
       },
       {
          "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/\">World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup </a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
