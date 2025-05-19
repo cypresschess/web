@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
+         "pubDate" : "Mon, 19 May 2025 13:00:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "The European Corporate Chess Championship 2025, organised by Asnière Le Grand Echiquier under the auspices of the European Chess Union, will be held on 7-8 November in Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match pointsis as follows: a match won is worth 3 match points, a draw 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-corporate-chess-championship-2025-official-regulations/",
+         "pubDate" : "Mon, 19 May 2025 09:20:16",
+         "title" : "European Corporate Chess Championship 2025 - Official regulations"
+      },
+      {
+         "description" : "Please find the Public Notice here :Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/public-notice-2/",
+         "pubDate" : "Mon, 19 May 2025 09:12:10",
+         "title" : "PUBLIC NOTICE"
+      },
+      {
          "description" : "Twenty versions of a software program in 34 years! In times of an AI explosion things have become more exciting than ever. Fritz 20 stresses the \"human\" playing concept, talks to you, adjusts itself to your playing level. You can select opponents like Morphy, Lasker, Capablanca, Tal, Fischer, Karpov... Or set it to play exactly like your opponent in a running event! - Pssst, on Tuesday you can get Fritz 20 for a special price, on Discount Day!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
