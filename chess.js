@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There is a lot to report today. The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> started with two decisive results. Richard Rapport beat last minute substitute Erwin L'Ami in a long grind in an English, Javokhir Sindarov took a lot of risks, and was objectively losing, against Tan Zhongyi before turning things around for a win. 13 year old youngster Yagiz Kaan Erdogmus had a solid draw against Nils Grandelius and Vasyl Ivanchuk tried to convert an extra pawn against Ray Robson but the game was drawn in 112 moves. This tournament has a special place in my heart, the first edition was in 1993, the very year I star",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-tuesday-20th-may-2025",
+         "pubDate" : "Tue, 20 May 2025 21:40:00",
+         "title" : "Chess on Tuesday 20th May 2025 - "
+      },
+      {
+         "description" : " The African Individual Championships took place in Kerdasa, Egypt Tue 13th to Tue 20th May 2025. A draw for the leader Bilel Bellahcene (Algeria) was enough for him to take the title on tie-break from Bassem Amin and Ahmed Adly (both Egypt), they all scored 7/9. WGM Shrook Wafa of Egypt dominated the women's event and won with 8/9 a point clear of Lina Nassr of Algeria.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/african-individual-championships-2025",
+         "pubDate" : "Tue, 20 May 2025 21:07:00",
+         "title" : "African Individual Championships 2025 - Games and Results"
+      },
+      {
+         "description" : " The Chess.com Classic is the second of two Champions Chess Tour events that act as qualifiers for the Esports World Cup. 12 places are available from the tour. The event has moved to a blitz time control of 10 minutes per player. The event is a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-20251",
+         "pubDate" : "Tue, 20 May 2025 20:33:00",
+         "title" : "Chess.com Classic 2025 - Games and Results"
+      },
+      {
          "description" : " The Freestyle chess exhibition game between Magnus Carlsen and the users of Chess.com was drawn by repetition in 33 moves, the match took place April 4th to May 20th 2025. This was the first time Chess960 has been used in such a match. There was a reported 143,000 players voting in the match. Carlsen got a small edge with the white pieces but he couldn't exploit it. The World team and its mentor advisors played solidly and accurately, and The World managed to force a draw by repetition, the game finishing on move 33. I don't have the ability to display Chess960 games on my website but have a download link below for PGN. Vishy Anand held the previous record for the number of participants in ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,7 +42,15 @@ news_feed (
          "title" : "Carlsen vs World: When the No. 1 chess player took on 143,000 people"
       },
       {
-         "description" : "World number one GM Magnus Carlsen was held to a draw by more than 143,000 players in the Magnus vs. The World game on Chess.com, the largest online chess game ever held. The historic game ended on Monday after 32 moves when The World forced a t...",
+         "description" : "GMs Magnus Carlsen, Hikaru Nakamura, Nodirbek Abdusattorov, and&#38;nbsp;Ian Nepomniachtchi are the last ones standing in the Winners Bracket after day one of the 2025 Chess.com Classic Playoffs. On their last lives in the Losers Bracket are eight mor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-1",
+         "pubDate" : "Tue, 20 May 2025 13:07:00",
+         "title" : "Carlsen, Nakamura, Abdusattorov, Nepomniachtchi Advance To Winners Semifinals"
+      },
+      {
+         "description" : "World number-one GM Magnus Carlsen was held to a draw by more than 143,000 players in the Magnus vs. The World game on Chess.com, the largest online chess game ever held. The historic game ended on Tuesday after 32 moves when The World forced a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-world-forces-draw-in-historic-game-vs-magnus-carlsen",
@@ -26,7 +58,15 @@ news_feed (
          "title" : "Magnus Carlsen Held To Draw By 143,000 Players In Largest-Ever Online Chess Game"
       },
       {
-         "description" : " The Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami, Tan Zhongyi and Yagiz Kaan Erdogmus.",
+         "description" : "Today's puzzles continue our series from SuperNationals VIII in Orlando. The flash report with photos and the full report are both available, and more photos and reporting will be added in the coming weeks. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-2",
+         "pubDate" : "Tue, 20 May 2025 00:00:00",
+         "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 2"
+      },
+      {
+         "description" : " The 30th Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
@@ -586,14 +626,6 @@ news_feed (
          "title" : "Nakamura Posts 36-Game Unbeaten Streak, Captures 39th Title"
       },
       {
-         "description" : "If the 2025 Grosslobming FIDE Women&#39;s Grand Prix ended on Saturday, GM Zhu Jiner&#39;s joint second place would give her overall victory in the Grand Prix series. In round five she scored a third win in a row, this time over GM Vaishali Rameshbabu, al...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-5",
-         "pubDate" : "Sat, 10 May 2025 15:07:00",
-         "title" : "Zhu Jiner's 3rd Win In A Row Gives Her Grand Prix Pole Position"
-      },
-      {
          "description" : "There's a quiet belief that keeps most people stuck-in chess, in life, in nearly every serious pursuit. It's not always loud. But it's there. It whispers things like: And that belief is this: That we can grow, succeed, and improve-without ever going through hardship. It sounds nice. But it's a lie. And it's a lie []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "Meet Candidates for U.S. Chess Executive Board!"
       },
       {
-         "description" : "Kids for Chess, a nonprofit organization with the mission of empowering America's best youth chess players, will be offering three scholarships for $1,500 each to help qualified players offset the cost of attending the World Cadets and World Youth Chess Championships in 2025.The Selection Committee will determine the winners of the scholarships based on a combination of the applicant's chess achievements, academic success, participation in chess-related community service, and genuine need for financial assistance. The application involves providing two essays (one required and one optional), two recommendation letters, and an official transcript from your school.The application deadline is J",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/kids-chess-announces-2025-world-youth-chess-and-world-cadet-chess-championships-scholarships",
-         "pubDate" : "Wed, 07 May 2025 00:00:00",
-         "title" : "Kids for Chess Announces 2025 World Youth Chess and World Cadet Chess Championships Scholarships"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120933723.cms\" />Anna Muzychuk acknowledges the Norway Chess Women's tournament for promoting female chess players. She anticipates a tough competition with strong contenders like Ju Wenjun and Koneru Humpy. Anna reflects on her chess journey, highlighting Ukraine's chess traditions. She emphasizes the sacrifices young players face to become grandmasters. Parental support is crucial for success in chess. The tournament motivates girls globally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -800,30 +824,6 @@ news_feed (
          "link" : "https://www.thearticle.com/is-declining-iq-just-a-moral-panic/",
          "pubDate" : "Sat, 03 May 2025 10:40:22",
          "title" : "Is declining IQ just a moral panic?"
-      },
-      {
-         "description" : " The Chinese Team Championship took place Fri 25th Apr to Sat 3rd May 2025 in Zhangjiakou, China. Players including Wang Yue, Li Chao B, Xu Xiangyu in the men's and Shen Yang and Ding Yixin in the women's. Shandong won the men's and Shanghai the women's. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chinese-teams-2025",
-         "pubDate" : "Sat, 3 May 2025 07:56:00",
-         "title" : "Chinese Teams 2025 - Games and Results"
-      },
-      {
-         "description" : " There are four nice chess events starting this week. The first is the final FIDE Women's Grand Prix in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Anna Muzychuk, Tan Zhongyi and Zhu Jiner are fighting over likely one remaining Candidates place. Aleksandra Goryachkina leads the series but is not playing this event, she will be very unlucky to miss out and will indeed most likely top the Grand Prix. The Superbet Romania Chess Classic takes place Wed 7th to Sat 17th May 2025 Players: World Champion Gukesh, Caruana, Firouzja, Abdusattorov, Wesley So, Levon Aronian, MVL, Jan-Krzysztof Duda, Praggnanandhaa, Bogdan-Daniel Deac. On the same day the Asian Individual Championships start, ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/four-chess-events-starting-6th-to-9th-may",
-         "pubDate" : "Fri, 2 May 2025 14:38:00",
-         "title" : "Four chess events starting 6th to 9th May - "
-      },
-      {
-         "description" : " The May Day Bank Holiday weekend in the UK sees the final three rounds of the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\">4NCL</a>, as it traditional. Manx Liberty are two points clear of Wood Green and have a much superior board count but they do meet in the final round 11 on Monday. Update: after round 9 on Saturday the lead has been reduced to 1 point Manx Liberty were held 4-4 by the Sharks 1 and Wood Green beat Barnet Knights A. There are a number of international opens that continue over the weekend the Baku Open 28th April to Tuesday 6th May where Aleksandar Indjic is the top seed and Mahammad Muradli is the early leader with 4/4. The Sunway Formentera Open tak",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-2nd-to-5th-may-2025",
-         "pubDate" : "Fri, 2 May 2025 14:03:00",
-         "title" : "Chess this Weekend 2nd to 5th May 2025 - "
       },
       {
          "description" : "The ECF Board is pleased that, following a competitive application and interview, it has been agreed that Rob King has been appointed as the ECF's Operations and Administration Director.&#160; Rob...",
