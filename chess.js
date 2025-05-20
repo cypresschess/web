@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Freestyle chess exhibition game between Magnus Carlsen and the users of Chess.com was drawn by repetition in 33 moves, the match took place April 4th to May 20th 2025. This was the first time Chess960 has been used in such a match. There was a reported 143,000 players voting in the match. Carlsen got a small edge with the white pieces but he couldn't exploit it. The World team and its mentor advisors played solidly and accurately, and The World managed to force a draw by repetition, the game finishing on move 33. I don't have the ability to display Chess960 games on my website but have a download link below for PGN. Vishy Anand held the previous record for the number of participants in ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/magnus-vs-the-world-drawn-in-33-moves",
+         "pubDate" : "Tue, 20 May 2025 17:37:00",
+         "title" : "Magnus vs The World drawn in 33 moves - 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121297712.cms\" />Magnus Carlsen recently faced a unique challenge, battling over 143,000 chess enthusiasts worldwide in a freestyle game hosted online. This marked the first time a reigning or former world champion participated in such a format. Despite predictions favouring Carlsen, Team World played strategically, leading to a draw by move 32 via threefold repetition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-vs-the-world-when-the-world-no-1-chess-player-took-on-143000-people-in-a-historic-freestyle-showdown/articleshow/121297712.cms",
+         "pubDate" : "Tue, 20 May 2025 16:41:24",
+         "title" : "Carlsen vs World: When the No. 1 chess player took on 143,000 people"
+      },
+      {
+         "description" : "World number one GM Magnus Carlsen was held to a draw by more than 143,000 players in the Magnus vs. The World game on Chess.com, the largest online chess game ever held. The historic game ended on Monday after 32 moves when The World forced a t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-world-forces-draw-in-historic-game-vs-magnus-carlsen",
+         "pubDate" : "Tue, 20 May 2025 11:03:00",
+         "title" : "Magnus Carlsen Held To Draw By 143,000 Players In Largest-Ever Online Chess Game"
+      },
+      {
          "description" : " The Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami, Tan Zhongyi and Yagiz Kaan Erdogmus.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Everything 25% off on Discount Day"
       },
       {
-         "description" : "GM Vladimir Fedoseev won the Swiss portion of the 2025 Chess.com Classic Play-in with 7.5/9 to qualify directly for the Playoffs. After finishing in the top-15 of the Swiss, seven other players won in Match Play to advance as well: GMs Denis Lazav...",
+         "description" : "GM Vladimir Fedoseev won the Swiss portion of the 2025 Chess.com Classic Play-in with 7.5/9 to qualify directly for the Playoffs. After finishing in the top 15 of the Swiss, seven other players won in Match Play to advance as well: GMs Denis Lazav...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-play-in",
@@ -578,14 +602,6 @@ news_feed (
          "title" : "Why Avoiding Pain Will Never Lead to Progress"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave joined the three-way tie for first, with GMs Fabiano Caruana and Praggnanandhaa Rameshbabu, in the Superbet Chess Classic Romania 2025 after round four. He won a surprisingly one-sided game against World Champion Gukesh D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-4",
-         "pubDate" : "Sat, 10 May 2025 11:47:00",
-         "title" : "Vachier-Lagrave Beats World Champion Gukesh, Joins Shared Lead"
-      },
-      {
          "description" : "On behalf of All India Chess Federation, The Maharashtra Chess Association is organizing Senior National Arbiters Seminar &#38; Exam at Swami Vivekanand international School,M.G.Road Kandivali West,Mumbai 400067.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/02/bbc-twos-chess-masters-the-endgame-divides-opinions-as-winner-is-crowned",
          "pubDate" : "Fri, 02 May 2025 07:00:02",
          "title" : "BBC Two's Chess Masters: The Endgame divides opinions as winner is crowned"
-      },
-      {
-         "description" : " The <a href=\"https://www.checkmateusaindia.com/\">Checkmate: USA vs India</a> match takes place in the Esports Stadium Arlington, Texas, on Saturday, October 4th 2025. 10 players, 5 matches, time control 10mins, then 5mins then increasingly faster until there is a decisive result. The matches are played sequentially across four categories, those are: Elite: Hikaru Nakamura vs Gukesh Dommaraju, Fabiano Caruana vs Arjun Erigaisi, Women's: Carissa Yip vs Divya Deshmukh, Internet: Levy Rozman (USA, GothamChess) vs Sagar Shah (IND, Chessbase India) and Youth: Tani Adewumi (USA) vs Ethan Vaz (IND). The order in which the matches are played will be decided later, obviously there will be increasing ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/checkmate-usa-vs-india-on-oct-4th-2025",
-         "pubDate" : "Thu, 1 May 2025 20:03:00",
-         "title" : "Checkmate: USA vs India on Oct 4th 2025 - "
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120797818.cms\" />Indian Grandmaster R Praggnanandhaa secured third place at the Superbet Rapid and Blitz tournament in Warsaw, while Vladimir Fedoseev of Slovenia emerged as the champion. Fedoseev's dominant performance earned him $40,000, with Praggnanandhaa taking home $25,000. Aravindh Chithambaram tied for seventh in his GCT debut. The Grand Chess Tour now heads to Bucharest, featuring D Gukesh and Praggnanandhaa from India.",
