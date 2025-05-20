@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-play-in",
          "pubDate" : "Mon, 19 May 2025 13:20:00",
-         "title" : "Duda Qualifies For Esports World Cup, Fedoseev Wins Swiss"
+         "title" : "Duda, Arjun Qualify For Esports World Cup, Fedoseev Wins Swiss"
       },
       {
          "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
