@@ -42,14 +42,6 @@ news_feed (
          "title" : "Duda, Arjun Qualify For Esports World Cup, Fedoseev Wins Swiss"
       },
       {
-         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
-         "pubDate" : "Mon, 19 May 2025 13:05:00",
-         "title" : "Sharjah Masters - Live!"
-      },
-      {
          "description" : "Esports organizations are making a final push to add grandmasters to their teams for the second and last leg of this year&#39;s Champions Chess Tour (CCT). GMs Levon Aronian, Vincent Keymer, and Jan-Krzysztof Duda are among the six top grandmasters wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -896,22 +888,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/",
          "pubDate" : "Tue, 29 Apr 2025 14:24:07",
          "title" : "HBCU Spotlight: Harper Jackson (Morehouse)"
-      },
-      {
-         "description" : "Special Note: If a player has only one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-junior-girls-chess-championship-2025-in-colombo-kaluthara-srilanka-from-04-12-june-2025/",
-         "pubDate" : "Tue, 29 Apr 2025 09:48:04",
-         "title" : "Western Asian Junior/ Girls Chess Championship - 2025 in Colombo, Kaluthara , Srilanka from 04-12 June 2025"
-      },
-      {
-         "description" : "Please find the list of participants appeared successfully in AICF Refresher Course 2025-26 International Arbiter Fide Arbiter Senior National Arbiter For any query write back",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-refresher-course-2025-26/",
-         "pubDate" : "Tue, 29 Apr 2025 07:55:04",
-         "title" : "AICF Refresher Course 2025-26"
       }
    ]
 }
