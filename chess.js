@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-pristina/",
          "pubDate" : "Wed, 30 Apr 2025 06:55:36",
          "title" : "Communique of the ECU Board Meeting in Pristina"
-      },
-      {
-         "description" : " Harper Jackson with Dr. Daaim Shabazz at HBCU Chess Classic at Morehouse's King Chapel.Photo by Daaim Shabazz/The Chess Drum Harper Jackson of Morehouse College led his team to a third-place finish in the 3rd HBCU Chess Classic. Jackson, a Detroit native, got his start under Kevin Fite while at Bates Academy. Fite, the legendary chess The post <a href=\"https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/\">HBCU Spotlight: Harper Jackson (Morehouse)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/04/29/hbcu-spotlight-harper-jackson-morehouse/",
-         "pubDate" : "Tue, 29 Apr 2025 14:24:07",
-         "title" : "HBCU Spotlight: Harper Jackson (Morehouse)"
       }
    ]
 }
