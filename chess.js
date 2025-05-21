@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Titled Tuesday Blitz 20th May saw Dmitry Andreikin win the early event with 10/11 beating Nihal Sarin along the way. In the late Arjun Erigaisi found a new spin on a perfect score. Quite a few players have scored 11/11. Erigaisi missed Round 1 and won with 10/10 defeating Magnus Carlsen in the final round. That game was rather balanced until Carlsen's rather weird 25...Bd8?! but it was 29... Bxd5? (29...Bxc3 forced) that cost Carlsen the game. Carlsen also lost to Jose Eduardo Martinez Alcantara, getting into desperate time trouble in a winning position, and then losing on time. I had to truncate the early table as it was too wide.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-20th-may-2025",
+         "pubDate" : "Wed, 21 May 2025 00:48:00",
+         "title" : "Titled Tuesday Blitz 20th May 2025 - Games and Results"
+      },
+      {
          "description" : " There is a lot to report today. The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> started with two decisive results. Richard Rapport beat last minute substitute Erwin L'Ami in a long grind in an English, Javokhir Sindarov took a lot of risks, and was objectively losing, against Tan Zhongyi before turning things around for a win. 13 year old youngster Yagiz Kaan Erdogmus had a solid draw against Nils Grandelius and Vasyl Ivanchuk tried to convert an extra pawn against Ray Robson but the game was drawn in 112 moves. This tournament has a special place in my heart, the first edition was in 1993, the very year I star",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/manx-liberty-win-the-4ncl-2024-25-season",
          "pubDate" : "Sun, 4 May 2025 21:08:00",
          "title" : "Manx Liberty win the 4NCL 2024-25 season - 10"
-      },
-      {
-         "description" : " The Sardinia World Open took place Sun 27th Apr to Sat 3rd May 2025 in OroseiI, Italy. The event was controversially won by Christopher Woojin Yoo with 7.5/9 half a point clear of Ihor Samunenkov and Lorenzo Lodici. Back in October 2024 Yoo was expelled from the US Chess Championships after he assaulted a woman following a loss of a game of chess he found distressing. Yoo was banned for a year from US chess and that ban was supposed to be extended to being a worldwide one via FIDE, the international chess federation. The best I can understand the situation is this, the US Chess Federation took many months to apply for this worldwide ban extension and it is only now under consideration by FI",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/sardinia-world-open-2025",
-         "pubDate" : "Sat, 3 May 2025 17:16:00",
-         "title" : "Sardinia World Open 2025 - Games and Results"
       },
       {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
