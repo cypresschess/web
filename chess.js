@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The \"Karpov Cup - 50 years later\" is a 15m+10spm rapid tournament taking place 21st to 23rd May in Moscow. The event commemorates the accession of Anatoly Karpov to the title of World Champion on April 4th 1975. Players: Ian, Nepomniachtchi, Vladislav Artemiev, Peter Svidler, Daniil Dubov, Alexander Grischuk, Teimour Radjabov, Vladimir Malakhov, Evgeny Tomashevsky, Hans Moke Niemann and Maxim Matlakov.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025",
+         "pubDate" : "Wed, 21 May 2025 11:32:00",
+         "title" : "Karpov Cup - 50 years later 2025 - Games and Results"
+      },
+      {
+         "description" : "The ECF is pleased to announce that the Board has decided to appoint Tim Wall as the Junior Development Director to succeed Alex Holowczak. Tim is well known throughout the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/junior-development-director/",
+         "pubDate" : "Wed, 21 May 2025 10:39:54",
+         "title" : "Junior Development Director"
+      },
+      {
+         "description" : "The ECF annual awards celebrate achievements both individual and collective. They are a way for the ECF to recognise the work that numerous individuals undertake to promote and develop chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-ecf-awards/",
+         "pubDate" : "Wed, 21 May 2025 10:13:39",
+         "title" : "2025 ECF Awards"
+      },
+      {
+         "description" : "The 2025 Glorney Cup will take place from 28th to 30th July 2025. You will need to travel to the venue on 27th July in Newport, Wales. There will be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-glorney-cup/",
+         "pubDate" : "Wed, 21 May 2025 08:38:34",
+         "title" : "2025 Glorney Cup"
+      },
+      {
          "description" : " The Titled Tuesday Blitz 20th May saw Dmitry Andreikin win the early event with 10/11 beating Nihal Sarin along the way. In the late Arjun Erigaisi found a new spin on a perfect score. Quite a few players have scored 11/11. Erigaisi missed Round 1 and won with 10/10 defeating Magnus Carlsen in the final round. That game was rather balanced until Carlsen's rather weird 25...Bd8?! but it was 29... Bxd5? (29...Bxc3 forced) that cost Carlsen the game. Carlsen also lost to Jose Eduardo Martinez Alcantara, getting into desperate time trouble in a winning position, and then losing on time. I had to truncate the early table as it was too wide.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/58th-capablanca-memorial-2025",
          "pubDate" : "Mon, 19 May 2025 18:54:00",
          "title" : "58th Capablanca Memorial 2025 - Games and Results"
-      },
-      {
-         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account. The premium offer is the brand-new Fritz 20, which provides a completely new way to practice and prepare for your next opponent. There are other very interesting new products that will improve your skill in the game - not to forget the rating points they will earn you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/everything-25-off-on-discount-day-7",
-         "pubDate" : "Mon, 19 May 2025 14:00:00",
-         "title" : "Everything 25% off on Discount Day"
       },
       {
          "description" : "GM Vladimir Fedoseev won the Swiss portion of the 2025 Chess.com Classic Play-in with 7.5/9 to qualify directly for the Playoffs. After finishing in the top 15 of the Swiss, seven other players won in Match Play to advance as well: GMs Denis Lazav...",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "European Team Chess Championship 2025 - Official regulations"
       },
       {
-         "description" : " Manx Liberty took a three point lead in the <a href=\"https://theweekinchess.com/chessnews/events/4ncl-2024-25\"> 4NCL</a> into the final three round May Day Bank Holiday weekend. They meet their closest challengers Wood Green\tin the final round 11. What happened was slightly unexpected, the destination of the title was strongly influenced by a mid-table third party. In Round 9 The Sharks 1 managed a 4-4 draw against Manx Liberty whilst Wood Green comfortably beat Barnet Knights to move within striking distance, and revealed they had recruited Michael Adams for the final weekend. Round 10 showed that The Sharks 1 hadn't finished decisively intervening in the season when they edged out Wood Gr",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/manx-liberty-win-the-4ncl-2024-25-season",
-         "pubDate" : "Sun, 4 May 2025 21:08:00",
-         "title" : "Manx Liberty win the 4NCL 2024-25 season - 10"
-      },
-      {
          "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -826,22 +842,6 @@ news_feed (
          "title" : "Is declining IQ just a moral panic?"
       },
       {
-         "description" : "The ECF Board is pleased that, following a competitive application and interview, it has been agreed that Rob King has been appointed as the ECF's Operations and Administration Director.&#160; Rob...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/operations-and-administration-director-appointment/",
-         "pubDate" : "Fri, 02 May 2025 09:38:05",
-         "title" : "Operations and Administration Director Appointment"
-      },
-      {
-         "description" : "Please note the closing date for nominations is 31st May 2025 We are inviting nominations for the BCET Awards 2025 which are for junior schools (including colleges and other...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2025/",
-         "pubDate" : "Fri, 02 May 2025 08:00:05",
-         "title" : "British Chess Educational Trust Awards 2025 - closing date May 31st!"
-      },
-      {
          "description" : " Thalia Holmes, 20, defeats Richie Kelly, 63, in final after former RAF technician misses a win (can you find it?) BBC Two's Monday evening show Chess Masters: The Endgame reached its final this week amid a continuing debate between experts, who found it patronising, and social players, novices and children who enjoyed its light touch and focus on personalities. The series was placed in a testing environment, the 8pm slot, sandwiched between the intellectual heavyweights Mastermind and University Challenge. Viewer numbers, as supplied by Broadcast, peaked in the first week at 890,000, then gradually dipped to a low of 535,000 on Easter Monday before rebounding to 655,000, a 5.5% share of the",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -856,30 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-r-praggnanandhaa-reacts-to-finishing-third-in-superbet-rapid-blitz-chess-tournament/articleshow/120797818.cms",
          "pubDate" : "Thu, 01 May 2025 15:12:32",
          "title" : "Pragg reacts to finishing third in Superbet Rapid Blitz Tournament"
-      },
-      {
-         "description" : "Applications are invited for funding under the ECF's Grassroots Initiative (fourth tranche). The closing date for applications is 1st June. There have already been 91 applications for support under the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/next-grassroots-assessment-2/",
-         "pubDate" : "Thu, 01 May 2025 12:00:19",
-         "title" : "Next Grassroots assessment"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120761338.cms\" />Indian Grandmaster R Praggnanandhaa showcased resilience at the Superbet Rapid & Blitz tournament, climbing to second place after a strong showing in the blitz section. Despite a shaky start, Praggnanandhaa secured three consecutive wins, demonstrating his expertise in the fast-paced format. Vladimir Fedoseev of Slovenia dominated the day, leading with a significant 3.5-point margin.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-blitz-chess-r-praggnanandhaa-fights-back-to-claim-second-place/articleshow/120761338.cms",
-         "pubDate" : "Wed, 30 Apr 2025 09:55:43",
-         "title" : "Superbet Blitz Chess: R Praggnanandhaa fights back to claim second place"
-      },
-      {
-         "description" : "Please find the live link here link : live.kottayamchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-gods-own-countrys-1st-gm-international-open-2025-to-be-held-in-kottayam-kerala-from-30-april-07-may-2025/",
-         "pubDate" : "Wed, 30 Apr 2025 08:02:07",
-         "title" : "Live link for God's Own Country's 1st GM International Open 2025 - to be held in Kottayam, Kerala, from 30 April - 07 May 2025"
       }
    ]
 }
