@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-live",
+         "pubDate" : "Wed, 21 May 2025 16:45:00",
+         "title" : "Chess.com Classic - Live!"
+      },
+      {
+         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
+         "pubDate" : "Wed, 21 May 2025 14:45:00",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
+         "description" : "There are fewer than 8 weeks to go until ChessFest 2025, our annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, we're taking over the whole...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-returns-13th-july/",
+         "pubDate" : "Wed, 21 May 2025 13:57:17",
+         "title" : "ChessFest returns - 13th July"
+      },
+      {
          "description" : " The \"Karpov Cup - 50 years later\" is a 15m+10spm rapid tournament taking place 21st to 23rd May in Moscow. The event commemorates the accession of Anatoly Karpov to the title of World Champion on April 4th 1975. Players: Ian, Nepomniachtchi, Vladislav Artemiev, Peter Svidler, Daniil Dubov, Alexander Grischuk, Teimour Radjabov, Vladimir Malakhov, Evgeny Tomashevsky, Hans Moke Niemann and Maxim Matlakov.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2025-glorney-cup/",
          "pubDate" : "Wed, 21 May 2025 08:38:34",
          "title" : "2025 Glorney Cup"
+      },
+      {
+         "description" : "As the Titled Tuesday Grand Prix nears its conclusion, with just two tournaments now remaining, the players we will see at the 2025 Speed Chess Championship are coming into view. GM Dmitry Andreikin won the first tournament of Titled Tuesday on Ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-arjun-win-titled-tuesday-may-20-2025",
+         "pubDate" : "Wed, 21 May 2025 07:43:18",
+         "title" : "Arjun Takes Titled Tuesday With 10/10, Locks In Speed Chess Championship Spot"
       },
       {
          "description" : " The Titled Tuesday Blitz 20th May saw Dmitry Andreikin win the early event with 10/11 beating Nihal Sarin along the way. In the late Arjun Erigaisi found a new spin on a perfect score. Quite a few players have scored 11/11. Erigaisi missed Round 1 and won with 10/10 defeating Magnus Carlsen in the final round. That game was rather balanced until Carlsen's rather weird 25...Bd8?! but it was 29... Bxd5? (29...Bxc3 forced) that cost Carlsen the game. Carlsen also lost to Jose Eduardo Martinez Alcantara, getting into desperate time trouble in a winning position, and then losing on time. I had to truncate the early table as it was too wide.",
@@ -650,14 +682,6 @@ news_feed (
          "title" : "Gukesh suffers shock defeat, Praggnanandhaa in joint lead at Superbet Classic"
       },
       {
-         "description" : "The all-time leading Bullet Brawl title winner, GM Hikaru Nakamura, returned to the top of the standings on Saturday and won the $400 first prize, winning 66 games, drawing six, and losing five. Nakamura&#39;s score of 242 saw him finish ahead of fell...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-10-2025",
-         "pubDate" : "Sat, 10 May 2025 17:21:00",
-         "title" : "Nakamura Posts 36-Game Unbeaten Streak, Captures 39th Title"
-      },
-      {
          "description" : "There's a quiet belief that keeps most people stuck-in chess, in life, in nearly every serious pursuit. It's not always loud. But it's there. It whispers things like: And that belief is this: That we can grow, succeed, and improve-without ever going through hardship. It sounds nice. But it's a lie. And it's a lie []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/",
          "pubDate" : "Wed, 07 May 2025 12:21:01",
          "title" : "7,242 players at Kenya Schools Chess!"
-      },
-      {
-         "description" : "The ECF Board is pleased to announce a further appointment to the Board, filling the newly created post of Home Development Director. The successful candidate is Yuri Krylov, a new...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/home-development-director-appointment/",
-         "pubDate" : "Wed, 07 May 2025 09:05:58",
-         "title" : "Home Development Director Appointment"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120952579.cms\" />Around 35 Indian chess players are set to compete in the Asian Individual Championship in Al Ain, UAE, vying for coveted FIDE World Cup spots. This year marks the debut of Russian players under the Asian Chess Federation, increasing World Cup berths to ten.",
