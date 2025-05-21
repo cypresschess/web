@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-gods-own-countrys-1st-gm-international-open-2025-to-be-held-in-kottayam-kerala-from-30-april-07-may-2025/",
          "pubDate" : "Wed, 30 Apr 2025 08:02:07",
          "title" : "Live link for God's Own Country's 1st GM International Open 2025 - to be held in Kottayam, Kerala, from 30 April - 07 May 2025"
-      },
-      {
-         "description" : "The second quarterly meeting of the Board of the European Chess Union took place on Friday 25 April in Pristina, Kosovo. The meeting was hosted by the Chess Federation of Kosovo with excellent hospitality. Main information and decisions: European Chess Championships Board activities and meetings Following the Board meeting, ECU representatives inspected the venue for the 2025 European Rapid and Blitz Chess Championship. The Emerald Hotel Congress Centre, offering 2,500 m ² of space, was deemed highly suitable. The championship, which []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-pristina/",
-         "pubDate" : "Wed, 30 Apr 2025 06:55:36",
-         "title" : "Communique of the ECU Board Meeting in Pristina"
       }
    ]
 }
