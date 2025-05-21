@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 30th Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
+         "pubDate" : "Wed, 21 May 2025 21:27:00",
+         "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
+      },
+      {
+         "description" : " The 96th German Championships take place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Alongside are several other events including the women's championship with top seed Dinara Wagner and the Candidates with Maxim Vavulin. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
+         "pubDate" : "Wed, 21 May 2025 21:26:00",
+         "title" : "96th ch-GER 2025 - Games and Results"
+      },
+      {
+         "description" : " The 8th Sharjah Masters take place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-sharjah-masters-2025",
+         "pubDate" : "Wed, 21 May 2025 21:26:00",
+         "title" : "8th Sharjah Masters 2025 - Games and Results"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championships</a> were essentially decided when Vincent Keymer beat Matthias Bluebaum in Round 7 and moved two points clear with two rounds to go. Magnus Carlsen beat Nodirbek Abdusattorov 3-1 and Hikaru Nakamura also 3-1 to win the Winners final of the online <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. The Carlsen-Nakamura match ended extraordinarily with Nakamura resigning in a won position with about three minutes on the clock. It's hard not to think this is an indication of the psychological grip Carlsen has over many of his rivals. It's double elimin",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-wednesday-21st-may-2025",
+         "pubDate" : "Wed, 21 May 2025 21:00:00",
+         "title" : "Chess on Wednesday 21st May 2025 - "
+      },
+      {
+         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/\">Saint Louis Chess Club, World Chess Hall of Fame &amp; Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief</a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/news-insights-press/saint-louis-chess-club-world-chess-hall-of-fame-galleries-and-grand-chess-tour-launch-150000-matching-donation-campaign-for-saint-louis-tornado-relief/",
+         "pubDate" : "Wed, 21 May 2025 20:29:50",
+         "title" : "Saint Louis Chess Club, World Chess Hall of Fame & Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief"
+      },
+      {
+         "description" : " The Chess.com Classic is the second of two Champions Chess Tour events that act as qualifiers for the Esports World Cup. 12 places are available from the tour. The event has moved to a blitz time control of 10 minutes per player. The event is a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
+         "pubDate" : "Wed, 21 May 2025 19:55:00",
+         "title" : "Chess.com Classic 2025 - Games and Results"
+      },
+      {
          "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-returns-13th-july/",
          "pubDate" : "Wed, 21 May 2025 13:57:17",
          "title" : "ChessFest returns - 13th July"
+      },
+      {
+         "description" : "GM Magnus Carlsen earned his spot in the 2025 Chess.com Classic Grand Final after knocking GMs Nodirbek Abdusattorov and Hikaru Nakamura out of the Winners Bracket. In a hard-to-believe finale, Nakamura seemed on the verge of a comeback in game fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-2",
+         "pubDate" : "Wed, 21 May 2025 12:34:00",
+         "title" : "Carlsen Advances After Nakamura Resigns In Winning Position"
       },
       {
          "description" : " The \"Karpov Cup - 50 years later\" is a 15m+10spm rapid tournament taking place 21st to 23rd May in Moscow. The event commemorates the accession of Anatoly Karpov to the title of World Champion on April 4th 1975. Players: Ian, Nepomniachtchi, Vladislav Artemiev, Peter Svidler, Daniil Dubov, Alexander Grischuk, Teimour Radjabov, Vladimir Malakhov, Evgeny Tomashevsky, Hans Moke Niemann and Maxim Matlakov.",
@@ -74,6 +130,14 @@ news_feed (
          "title" : "Titled Tuesday Blitz 20th May 2025 - Games and Results"
       },
       {
+         "description" : "Editor's note: WGM Sabina Foisor's annotations of IM-Elect and eventual K-12 Co-Champion Tani Adewumi's wild Sicilian against fellow New Yorker Aiden Reiss was one of the many highlights of her reporting and commentary from SuperNationals VIII. This one game could easily fill several worksheets, so we had to give some of her best finds from her analysis some additional love here. When Sabina told me to keep an eye out for her annotations to this game, all she had to say was, \"This game was fire.\" It's hard to add much more than that. The previous installment of our series from Orlando is available here, and all coverage of the event can be found here.This game was fire. <br> <br> <br> <br> I",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-storm-supernationals-viii",
+         "pubDate" : "Wed, 21 May 2025 00:00:00",
+         "title" : "Wednesday Workout: Storm of the SuperNationals VIII"
+      },
+      {
          "description" : "Director of Events Boyd Reed has resigned to pursue another opportunity outside of chess. His last day was May 20, and US Chess wishes him every success in his new position.Reed started at US Chess in April 2016 as Assistant Director of Events. He was promoted to Director of Events in January 2018, a role he held until his departure.Over his nine years with US Chess, Reed's tenure saw US Chess experience record-setting growth and the successful execution of dozens of national events. His leadership during the challenges of the COVID era, particularly for events, was especially valuable.Pete Karagianis assumes the position of Director of Events effective today, May 21. Congratulations to Pete",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -96,14 +160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/african-individual-championships-2025",
          "pubDate" : "Tue, 20 May 2025 21:07:00",
          "title" : "African Individual Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " The Chess.com Classic is the second of two Champions Chess Tour events that act as qualifiers for the Esports World Cup. 12 places are available from the tour. The event has moved to a blitz time control of 10 minutes per player. The event is a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-20251",
-         "pubDate" : "Tue, 20 May 2025 20:33:00",
-         "title" : "Chess.com Classic 2025 - Games and Results"
       },
       {
          "description" : " The Freestyle chess exhibition game between Magnus Carlsen and the users of Chess.com was drawn by repetition in 33 moves, the match took place April 4th to May 20th 2025. This was the first time Chess960 has been used in such a match. There was a reported 143,000 players voting in the match. Carlsen got a small edge with the white pieces but he couldn't exploit it. The World team and its mentor advisors played solidly and accurately, and The World managed to force a draw by repetition, the game finishing on move 33. I don't have the ability to display Chess960 games on my website but have a download link below for PGN. Vishy Anand held the previous record for the number of participants in ",
@@ -144,22 +200,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-2",
          "pubDate" : "Tue, 20 May 2025 00:00:00",
          "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 2"
-      },
-      {
-         "description" : " The 30th Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
-         "pubDate" : "Mon, 19 May 2025 20:00:00",
-         "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
-      },
-      {
-         "description" : " The Chess.com Classic takes place 20th to 23rd May 2025. Play starts at 16:15 BST. Double Elimination KO. Seeded players: Carlsen, Nakamura, Neponiachtchi, Gukesh, Abdusattorov, MVL, Ding Liren and Wei Yi were joined by 8 qualifiers. Round 1 Pairings Tuesday 20th May: Carlsen-Duda, MVL-Caruana, Abdusattorov-Lazavik, Wei Yi-Artemiev, Nakamura-Aronian, Ding Liren-Praggnanandhaa, Gukesh-Fedoseev, Nepomniachtchi-Arjun. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
-         "pubDate" : "Mon, 19 May 2025 19:55:00",
-         "title" : "Chess.com Classic 2025 - Games and Results"
       },
       {
          "description" : " 58th Capablanca Memorial took place Fri 9th to Mon 19th May 2025. The elite section was a 10 round double round robin with five instead of the normal six players. Players: Volodar Murzin, Jonas Buhl, Bjerre, Evgeny Romanov, Arseniy Nesterov and Carlos Daniel Albornoz Cabrera. Jonas Buhl Bjerre just edged out Volodar Murzin after they both scored 5.5/8. Dylan Isidro Berdayes Ason won the open with 7.5/9. ",
@@ -274,14 +314,6 @@ news_feed (
          "title" : "Chess this Weekend 16th to 18th May 2025 - "
       },
       {
-         "description" : " The 8th Sharjah Masters take place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-sharjah-masters-2025",
-         "pubDate" : "Fri, 16 May 2025 20:03:00",
-         "title" : "8th Sharjah Masters 2025 - Games and Results"
-      },
-      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/in-a-restaurant-in-paris",
          "pubDate" : "Thu, 15 May 2025 21:21:34",
          "title" : "In a restaurant in Paris"
-      },
-      {
-         "description" : " The 96th German Championships take place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Alongside are several other events including the women's championship with top seed Dinara Wagner and the Candidates with Maxim Vavulin. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
-         "pubDate" : "Thu, 15 May 2025 20:12:00",
-         "title" : "96th ch-GER 2025 - Games and Results"
       },
       {
          "description" : " The Asian Individual Championships took place in Al Ain UAE, Wed 7th to Thu 15th May 2025. Open and women's events. Players: Sarin Nihal, Amin Tabatabaei M., Nodirbek Yakubboev, Murali Karthikeyan, Shamsiddin Vokhidov, Son Nguyen Ngoc Truong, Saleh Salem A.R., Pouya Idani, Luke Mendonca Leon, Abhimanyu Puranik, Xiangyu Xu, Bardiya Daneshvar, V Pranav, Jingyao Tin, L Narayanan S, David Paravyan, Abhijeet Gupta, M Pranesh, Pa Iniyan, Jinshi Bai, Shekhar Ganguly Surya, Venkataraman Karthik, Ivan Zemlyanskii etc Leading players in the women's event: Leya Garifullina, Valentina Gunina, Olga Girya, Yuxin Song, Nguyen Pham Le Thao, Warda Aulia Medina, Bardiya Daneshvar won the Open event with 7/9 ",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "2025 African Individual Chess Championship (Cairo, Egypt)"
       },
       {
-         "description" : "The standings remain unchanged after round five of the Superbet Chess Classic Romania 2025. After a day of all draws, we still have three leaders:&#38;nbsp;GMs Maxime Vachier-Lagrave, Fabiano Caruana, and Praggnanandhaa Rameshbabu, with four players a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-5",
-         "pubDate" : "Sun, 11 May 2025 12:32:00",
-         "title" : "All Sharp Games, All Draws In Bucharest"
-      },
-      {
          "description" : "The history of chess has been marked by numerous epic confrontations. These include Staunton vs. St Amant, a microcosmic struggle from 1843 which acquired particular relevance from memories of the traditional macrocosmic Anglo-French rivalry, culminating at the Battle of Waterloo. Later in the 19th century the rivalry between Steinitz and Zukertort spilled over from the chessboard into []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-kandivali-west-mumbai-on-24-25-may-2025/",
          "pubDate" : "Sat, 10 May 2025 10:44:12",
          "title" : "SNA Seminar & Exam in Kandivali West ,Mumbai on 24 & 25 May 2025"
-      },
-      {
-         "description" : "Editor's note: This report will be updated with more games and photography throughout the day.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.Headed into the second day of the main SuperNationals VIII tournament, 212 players boast unblemished 2/2 scores across the six Championship sections. With the grueling triple-round day ahead, will there be any unblemished 5/5 scores when all is done tonight?Round 3 begins at 9:00 a.m. EDT (and 9:30 a.m. for the K-1 sections), with rounds 4 and 5 scheduled for 1:30 p.m. (all sections) and 6:00 p.m. (and 5:30 p.m. for th",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/supernationals-viii-friday-recap-saturday-preview",
-         "pubDate" : "Sat, 10 May 2025 00:00:00",
-         "title" : "SuperNationals VIII: Friday Recap + Saturday Preview"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">GCT Superbet Chess Classic Romania</a> is the main event, already this is shaping up nicely with Fabiano Caruana and Praggnanandhaa starting with two draws and a win each. Three players, Firouzja, So and MVL have started with a win, a loss and a draw. The rest day is on Monday. The event starts at 1pm UK time but there's a half hour delay in all the broadcasts. The final <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025\">FIDE Women's Grand Prix in Grosslobming</a>, Austria Tue 6th May to Fri 16th May 2025. This is the final event in the Grand Prix ",
