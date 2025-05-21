@@ -74,6 +74,14 @@ news_feed (
          "title" : "Titled Tuesday Blitz 20th May 2025 - Games and Results"
       },
       {
+         "description" : "Director of Events Boyd Reed has resigned to pursue another opportunity outside of chess. His last day was May 20, and US Chess wishes him every success in his new position.Reed started at US Chess in April 2016 as Assistant Director of Events. He was promoted to Director of Events in January 2018, a role he held until his departure.Over his nine years with US Chess, Reed's tenure saw US Chess experience record-setting growth and the successful execution of dozens of national events. His leadership during the challenges of the COVID era, particularly for events, was especially valuable.Pete Karagianis assumes the position of Director of Events effective today, May 21. Congratulations to Pete",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/reed-departs-us-chess",
+         "pubDate" : "Wed, 21 May 2025 00:00:00",
+         "title" : "Reed Departs US Chess"
+      },
+      {
          "description" : " There is a lot to report today. The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> started with two decisive results. Richard Rapport beat last minute substitute Erwin L'Ami in a long grind in an English, Javokhir Sindarov took a lot of risks, and was objectively losing, against Tan Zhongyi before turning things around for a win. 13 year old youngster Yagiz Kaan Erdogmus had a solid draw against Nils Grandelius and Vasyl Ivanchuk tried to convert an extra pawn against Ray Robson but the game was drawn in 112 moves. This tournament has a special place in my heart, the first edition was in 1993, the very year I star",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-r-praggnanandhaa-play-out-draw-in-superbet-classics-chess-tournament/articleshow/121016509.cms",
          "pubDate" : "Fri, 09 May 2025 03:43:34",
          "title" : "Gukesh, Pagg play out draw in Superbet Classics chess tournament"
-      },
-      {
-         "description" : "Editor's note: This report will be updated with more results and photos later this weekend after the awards ceremonies. Please note that the awards ceremonies for the National Puzzle Championship take place Friday, May 9, at 5:50 p.m. EDT in Halls WA1 (Grades 7-12) and WA4 (Grades K-6). The awards ceremonies for the National Blitz Championship will be Saturday, May 10, at 8:50 a.m. in Halls WA1 (K-12) and WA4 (K-6 &amp; K-3), and at 8:45 a.m. in Hall WA2 (K-8). The awards ceremonies for the National Bughouse Championship will be Saturday, May 10 at 12:50 p.m. in Halls WA1 (K-12), WA2 (K-8), and WA4 (K-6). A full schedule of events can be found here.The biggest four days in scholastic chess b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/national-blitz-bughouse-and-puzzle-champions-crowned-orlando",
-         "pubDate" : "Fri, 09 May 2025 00:00:00",
-         "title" : "National Blitz, Bughouse, and Puzzle Champions Crowned in Orlando"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121004726.cms\" />Indian Grandmaster Nihal Sarin rebounded strongly, defeating Nikita Matinian at the Asian Individual Chess Championship in Al Ain. Murali Karthikeyan secured his second consecutive victory, while S L Narayanan faced a setback. Vantika Agrawal led the women's section with two wins. Several higher-seeded players faced tough competition, as the Indian contingent performed well overall.",
