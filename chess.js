@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-live",
+         "pubDate" : "Thu, 22 May 2025 16:45:00",
+         "title" : "Chess.com Classic - Live!"
+      },
+      {
+         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
+         "pubDate" : "Thu, 22 May 2025 14:55:00",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
          "description" : "Magnus Carlsen has reached the Grand Final of the Chess.com Classic after victories over Nodirbek Abdusattorov and Hikaru Nakamura in the Winners Bracket. Nakamura's unexpected resignation in a winning position brought the day's play to a dramatic close. Several top players, including Fabiano Caruana and Ding Liren, were eliminated, while Abdusattorov, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Vladimir Fedoseev and, of course, Nakamura continue their campaigns in the Losers Bracket. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesscom-classic-2025-2",
-         "pubDate" : "Thu, 22 May 2025 13:00:00",
+         "pubDate" : "Thu, 22 May 2025 12:55:00",
          "title" : "Chess.com Classic: Carlsen beats Nakamura to reach Grand Final"
+      },
+      {
+         "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
+         "pubDate" : "Thu, 22 May 2025 12:40:00",
+         "title" : "13th Norway Chess 2025 - "
       },
       {
          "description" : " The French Interclubs Top 16 takes place in Belfort Thu 22nd May to Sun 1st Jun 2025. The format is 7 preliminary rounds in two groups before the top half in each group go to Poule Haute and the bottom half to Poule Basse to decide titles and relegation. Whilst it's by no means a given that all these players will play the team lists include: Firouzja, Niemann, MVL, Harikrishna, Esipenko, Jorden Van Foreest, Kasimdzhanov, Sadhwani, Tabatabaei, Eljanov, Karthikeyan, Murzin, Mamedov, Navara, Yuffa, Gawain Maroroa Jones, Gelfand, Dardha, Amin Bassem, Ivanchuk etc. ",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sharjah-masters-2025-round-5",
-         "pubDate" : "Thu, 22 May 2025 03:47:43",
+         "pubDate" : "Thu, 22 May 2025 03:47:00",
          "title" : "Giri, Indjic, Dai Lead Sharjah Masters, Oro Hunts 1st GM Norm"
       },
       {
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-2",
          "pubDate" : "Thu, 22 May 2025 01:15:00",
          "title" : "TePe Sigeman & Co: Rapport, Sindarov and Erdogmus early co-leaders"
+      },
+      {
+         "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, May 26 in observance of Memorial Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting anything time-sensitive by 12:00 p.m. CDT on Friday, May 23 in order to guarantee it is reviewed before we re-open at 8:00 a.m. CDT on Tuesday, May 27. Thank you for your understanding. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-may-26",
+         "pubDate" : "Thu, 22 May 2025 00:00:00",
+         "title" : "US Chess Offices Closed Monday, May 26"
       },
       {
          "description" : " The 30th Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus.",
@@ -690,14 +722,6 @@ news_feed (
          "title" : "SuperNationals VIII: Sunday Showdowns Set"
       },
       {
-         "description" : "The US Chess Federation (US Chess) and the U.S. Chess Trust (USCT), both independent 501(c)(3) organizations, are pleased to announce six recipients of the 2025 Scholar-Chessplayer Awards. This includes the winner of the new category introduced in 2022, Scholastic Chess Ambassador, which acknowledges lower-rated but deserving chess scholars.The Scholar-Chessplayer Awards recognize and encourage outstanding high school juniors and seniors who promote a positive image of chess while excelling in academics and leadership. A total of $9,000 in scholarship money is being awarded this year. Each recipient will receive $1,500.All Scholar-Chessplayer Awards are funded through the U.S. Chess Trust, w",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2025-scholar-chessplayer-awards-announced-six-players-honored-supernationals-viii",
-         "pubDate" : "Sun, 11 May 2025 00:00:00",
-         "title" : "2025 Scholar-Chessplayer Awards Announced: Six Players Honored at SuperNationals VIII"
-      },
-      {
          "description" : " The IV Sunway Formentera Open took place 29th April to 9th May 2025. Valentin Dragnev won with 8.5/10 a point clear of Artem Omelja and Sergey Fedorchuk. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -834,14 +858,6 @@ news_feed (
          "title" : "Asian Junior/ Girls Chess Championship 2025 from 25th June to 4th July 2025 in Sri Lanka"
       },
       {
-         "description" : " The Russian Team Championships took place in Sochi Sat 26th Apr to Mon 5th May 2025. Premier: Grischuk, Artemev, Morozevich, Malakhov, Sjugirov, etc. Higher League: Esipenko, Makarian, Rychagov etc. Women: Garifullina, Gunina, Girya etc. With the current situation this is nowhere near as strong as in the past. SK KPRF from Moscow with Grischuk and Artemiev won the title. The team names in the results and for the players might look a bit weird. All the documentation was in Cyrillic and that leaves me two choices, google translate, which is generally good but occasionally very weird, or the direct one for one substitution of the Cyrillic letters for Western ones, again not without problems, b",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championships-2025",
-         "pubDate" : "Mon, 5 May 2025 20:51:00",
-         "title" : "Russian Team Championships 2025 - Games and Results"
-      },
-      {
          "description" : "European Chess Union and the Georgian Chess Federation invite ECU member federations to participate in European team Chess Championship 2025. The event will be held in Batumi, Georgia, from 4 of October (arrival day) to 15 of October (departure day). The event will be played in Open and Women's sections separately, with 9 swiss rounds in each competition and time control of 90 minutes for 40 moves + 30 minutes for rest of the game with an increment of 30 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/02/bbc-twos-chess-masters-the-endgame-divides-opinions-as-winner-is-crowned",
          "pubDate" : "Fri, 02 May 2025 07:00:02",
          "title" : "BBC Two's Chess Masters: The Endgame divides opinions as winner is crowned"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120797818.cms\" />Indian Grandmaster R Praggnanandhaa secured third place at the Superbet Rapid and Blitz tournament in Warsaw, while Vladimir Fedoseev of Slovenia emerged as the champion. Fedoseev's dominant performance earned him $40,000, with Praggnanandhaa taking home $25,000. Aravindh Chithambaram tied for seventh in his GCT debut. The Grand Chess Tour now heads to Bucharest, featuring D Gukesh and Praggnanandhaa from India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-r-praggnanandhaa-reacts-to-finishing-third-in-superbet-rapid-blitz-chess-tournament/articleshow/120797818.cms",
-         "pubDate" : "Thu, 01 May 2025 15:12:32",
-         "title" : "Pragg reacts to finishing third in Superbet Rapid Blitz Tournament"
       }
    ]
 }
