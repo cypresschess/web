@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 23rd edition of the European Union Youth Chess Championship U8-U14 will take place from 18-27 August in Rožnov pod Radhoštěm, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the categories: U8, U10, U12, U14, and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2025/",
+         "pubDate" : "Thu, 22 May 2025 19:02:22",
+         "title" : "European Union Youth U8-U14 Chess Championship 2025"
+      },
+      {
          "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "French Interclubs Top 16 2025 - Games and Results"
       },
       {
+         "description" : "GM Maxime Vachier-Lagrave won three matches in the Losers Bracket to earn his spot in the 2025 Chess.com Classic Grand Final against GM Magnus Carlsen. He won his first match GM Ian Nepomniachtchi in armageddon, accepting a draw with Black from a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-3",
+         "pubDate" : "Thu, 22 May 2025 11:19:31",
+         "title" : "Vachier-Lagrave Advances To Grand Final Vs. Carlsen"
+      },
+      {
          "description" : "GM Anish Giri leads the 2025 Sharjah Masters with four points from five rounds, together with GMs Aleksandar Indjic and Dai Changren. The group just half a point behind includes 2700 stars GMs Nodirbek Abdusattorov and Parham Maghsoodloo, but also...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-2",
          "pubDate" : "Thu, 22 May 2025 01:15:00",
          "title" : "TePe Sigeman & Co: Rapport, Sindarov and Erdogmus early co-leaders"
+      },
+      {
+         "description" : "Final Call for Applications - Maurice Ashley Fellowship!Applications are now open for the Maurice Ashley Fellowship, with the submission deadline of June 1 fast approaching.This distinguished fellowship supports young Black chess players who demonstrate exceptional promise, discipline, and a passion for the game. Selected fellows will receive elite training, mentorship, and resources designed to help them reach the next level of their chess careers. We are looking for serious applicants with a commitment to growth and a love for the game. If you know a promising player who could benefit from this program, please encourage them to apply today.🗓 Deadline: June 1, 2025🔗 Apply Here: https:",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/final-call-applications-maurice-ashley-fellowship",
+         "pubDate" : "Thu, 22 May 2025 00:00:00",
+         "title" : "Final Call for Applications - Maurice Ashley Fellowship!"
       },
       {
          "description" : "<br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> US Chess offices will be closed Monday, May 26 in observance of Memorial Day.All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing. So, please keep our holiday hours in mind as you post these items. We strongly encourage submitting anything time-sensitive by 12:00 p.m. CDT on Friday, May 23 in order to guarantee it is reviewed before we re-open at 8:00 a.m. CDT on Tuesday, May 27. Thank you for your understanding. ",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Christopher Yoo Handed 60-Day Suspension By FIDE After New Harassment Allegation"
       },
       {
-         "description" : "The Taliban government has suspended chess in Afghanistan. Currently reviewing the game over gambling concerns, the Taliban has also suspended the Afghanistan National Chess Federation (ANCF). It is far from the first time that the game of kings i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/taliban-suspends-chess-in-afghanistan",
-         "pubDate" : "Mon, 12 May 2025 02:52:00",
-         "title" : "Taliban Suspends Chess In Afghanistan Over Gambling Concerns"
-      },
-      {
          "description" : " The 2025 African Individual Chess Championship will be held from May 13th to 20th, 2025, in Cairo, Egypt. It is organized by the African Chess Confederation (ACC) and hosted by the Egyptian Chess Federation at the Police Union Club.The tournament will feature both an open section and a women's section. The 9-round Swiss tournament will have a time The post <a href=\"https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/\">2025 African Individual Chess Championship (Cairo, Egypt)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/flash-report-supernationals-viii-results",
          "pubDate" : "Sun, 11 May 2025 00:00:00",
          "title" : "Flash Report: SuperNationals VIII Results"
-      },
-      {
-         "description" : "Editor's note: This report will be updated shortly with photography. But round 6 is already underway, so it makes sense to get the results and games reported on quickly.If any information is inaccurate, any names are misspelled, or any photos of champions are missing, please email Click here to show email address with corrections or additional photos.In yesterday's report, I counted 212 players with perfect scores across the six Championship sections in Orlando. After three more rounds on Saturday, that number has dwindled to 11. (Note: first-person usage in the body of the report refers to the author, but first-person usage in annotations refers to the streamer/annotator WGM Sabina Foisor).",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/supernationals-viii-sunday-showdowns-set",
-         "pubDate" : "Sun, 11 May 2025 00:00:00",
-         "title" : "SuperNationals VIII: Sunday Showdowns Set"
       },
       {
          "description" : " The IV Sunway Formentera Open took place 29th April to 9th May 2025. Valentin Dragnev won with 8.5/10 a point clear of Artem Omelja and Sergey Fedorchuk. ",
