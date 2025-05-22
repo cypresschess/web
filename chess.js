@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first two rounds of the 2025 TePe Sigeman & Co Chess Tournament have produced a mix of decisive results and hard-fought draws in Malm&ouml;. Richard Rapport, Javokhir Sindarov (pictured) and Yagiz Erdogmus lead the standings with 1&frac12; points each. Tan Zhongyi, meanwhile, has suffered two losses and both with the white pieces. Round three will feature a clash between co-leaders Sindarov and Erdogmus, the youngest players in the field. | Photo: Mikael Svensson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-2",
+         "pubDate" : "Thu, 22 May 2025 01:15:00",
+         "title" : "TePe Sigeman & Co: Rapport, Sindarov and Erdogmus early co-leaders"
+      },
+      {
          "description" : " The 30th Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chesscom-classic-2025-live",
          "pubDate" : "Wed, 21 May 2025 16:45:00",
          "title" : "Chess.com Classic - Live!"
-      },
-      {
-         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
-         "pubDate" : "Wed, 21 May 2025 14:45:00",
-         "title" : "TePe Sigeman & Co - Live!"
       },
       {
          "description" : "There are fewer than 8 weeks to go until ChessFest 2025, our annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, we're taking over the whole...",
