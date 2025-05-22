@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Chess Championships in Munich</a> finish tomorrow, already Vincent Keymer has secured first place alone, today he was held to only his second draw by Rasmus Svane but a half point was all he needed. Keymer has 7/8 and in the final round Keymer has white against Alexander Donchenko, I think it possible he'll push for yet another win. In the women's event Dinara Wagner and Hanna Marie Klek lead the rest of the field by a point on 6/9. Tan Zhongyi started the <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> with two losses and had the bla",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-22nd-may-2025",
+         "pubDate" : "Thu, 22 May 2025 22:18:00",
+         "title" : "Chess on Thursday 22nd May 2025 - "
+      },
+      {
+         "description" : "The European Amateur Chess Championships 2025 will be held from 25 November (arrivals) to 5 December (departures) in the Conference Hall of the 4-star \"Riviera Spa Resort\" Hotel in Mellieha, Malta. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2025-regulations/",
+         "pubDate" : "Thu, 22 May 2025 19:29:59",
+         "title" : "European Amateur Chess Championship 2025 - Regulations"
+      },
+      {
          "description" : "The 23rd edition of the European Union Youth Chess Championship U8-U14 will take place from 18-27 August in Rožnov pod Radhoštěm, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the categories: U8, U10, U12, U14, and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -50,11 +66,11 @@ news_feed (
          "title" : "French Interclubs Top 16 2025 - Games and Results"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won three matches in the Losers Bracket to earn his spot in the 2025 Chess.com Classic Grand Final against GM Magnus Carlsen. He won his first match GM Ian Nepomniachtchi in armageddon, accepting a draw with Black from a ...",
+         "description" : "GM Maxime Vachier-Lagrave won three matches in the Losers Bracket to earn his spot in the 2025 Chess.com Classic Grand Final against GM Magnus Carlsen. He won his first match against GM Ian Nepomniachtchi in armageddon, accepting a draw with Black...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-3",
-         "pubDate" : "Thu, 22 May 2025 11:19:31",
+         "pubDate" : "Thu, 22 May 2025 11:19:00",
          "title" : "Vachier-Lagrave Advances To Grand Final Vs. Carlsen"
       },
       {
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-kandivali-west-mumbai-on-24-25-may-2025/",
          "pubDate" : "Sat, 10 May 2025 10:44:12",
          "title" : "SNA Seminar & Exam in Kandivali West ,Mumbai on 24 & 25 May 2025"
-      },
-      {
-         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">GCT Superbet Chess Classic Romania</a> is the main event, already this is shaping up nicely with Fabiano Caruana and Praggnanandhaa starting with two draws and a win each. Three players, Firouzja, So and MVL have started with a win, a loss and a draw. The rest day is on Monday. The event starts at 1pm UK time but there's a half hour delay in all the broadcasts. The final <a href=\"https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025\">FIDE Women's Grand Prix in Grosslobming</a>, Austria Tue 6th May to Fri 16th May 2025. This is the final event in the Grand Prix ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-9th-to-11th-may-2025",
-         "pubDate" : "Fri, 9 May 2025 20:29:00",
-         "title" : "Chess this Weekend 9th to 11th May 2025 - 10"
       },
       {
          "description" : " The round two of the Asian Individual Chess Championships saw a brilliant display by most of the Indian participants. On the top board, International",
