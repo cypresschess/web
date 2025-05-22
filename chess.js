@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen has reached the Grand Final of the Chess.com Classic after victories over Nodirbek Abdusattorov and Hikaru Nakamura in the Winners Bracket. Nakamura's unexpected resignation in a winning position brought the day's play to a dramatic close. Several top players, including Fabiano Caruana and Ding Liren, were eliminated, while Abdusattorov, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Vladimir Fedoseev and, of course, Nakamura continue their campaigns in the Losers Bracket. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-2",
+         "pubDate" : "Thu, 22 May 2025 13:00:00",
+         "title" : "Chess.com Classic: Carlsen beats Nakamura to reach Grand Final"
+      },
+      {
+         "description" : " The French Interclubs Top 16 takes place in Belfort Thu 22nd May to Sun 1st Jun 2025. The format is 7 preliminary rounds in two groups before the top half in each group go to Poule Haute and the bottom half to Poule Basse to decide titles and relegation. Whilst it's by no means a given that all these players will play the team lists include: Firouzja, Niemann, MVL, Harikrishna, Esipenko, Jorden Van Foreest, Kasimdzhanov, Sadhwani, Tabatabaei, Eljanov, Karthikeyan, Murzin, Mamedov, Navara, Yuffa, Gawain Maroroa Jones, Gelfand, Dardha, Amin Bassem, Ivanchuk etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/french-interclubs-top-16-2025",
+         "pubDate" : "Thu, 22 May 2025 12:10:00",
+         "title" : "French Interclubs Top 16 2025 - Games and Results"
+      },
+      {
+         "description" : "GM Anish Giri leads the 2025 Sharjah Masters with four points from five rounds, together with GMs Aleksandar Indjic and Dai Changren. The group just half a point behind includes 2700 stars GMs Nodirbek Abdusattorov and Parham Maghsoodloo, but also...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sharjah-masters-2025-round-5",
+         "pubDate" : "Thu, 22 May 2025 03:47:43",
+         "title" : "Giri, Indjic, Dai Lead Sharjah Masters, Oro Hunts 1st GM Norm"
+      },
+      {
          "description" : "The first two rounds of the 2025 TePe Sigeman & Co Chess Tournament have produced a mix of decisive results and hard-fought draws in Malm&ouml;. Richard Rapport, Javokhir Sindarov (pictured) and Yagiz Erdogmus lead the standings with 1&frac12; points each. Tan Zhongyi, meanwhile, has suffered two losses and both with the white pieces. Round three will feature a clash between co-leaders Sindarov and Erdogmus, the youngest players in the field. | Photo: Mikael Svensson",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
          "pubDate" : "Wed, 21 May 2025 19:55:00",
          "title" : "Chess.com Classic 2025 - Games and Results"
-      },
-      {
-         "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-live",
-         "pubDate" : "Wed, 21 May 2025 16:45:00",
-         "title" : "Chess.com Classic - Live!"
       },
       {
          "description" : "There are fewer than 8 weeks to go until ChessFest 2025, our annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, we're taking over the whole...",
@@ -642,14 +658,6 @@ news_feed (
          "title" : "Taliban Suspends Chess In Afghanistan Over Gambling Concerns"
       },
       {
-         "description" : "GM Anna Muzychuk retains the sole lead in the 2025 Grosslobming FIDE Women&#39;s Grand Prix after making the only draw in round six,&#38;nbsp;against GM Nana Dzagnidze, but wins for GM Zhu Jiner (her fourth in a row!) and GM Vaishali Rameshbabu saw them m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-6",
-         "pubDate" : "Sun, 11 May 2025 16:23:00",
-         "title" : "Zhu Jiner, Vaishali Close Gap To Anna Muzychuk"
-      },
-      {
          "description" : " The 2025 African Individual Chess Championship will be held from May 13th to 20th, 2025, in Cairo, Egypt. It is organized by the African Chess Confederation (ACC) and hosted by the Egyptian Chess Federation at the Police Union Club.The tournament will feature both an open section and a women's section. The 9-round Swiss tournament will have a time The post <a href=\"https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/\">2025 African Individual Chess Championship (Cairo, Egypt)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/russian-team-championships-2025",
          "pubDate" : "Mon, 5 May 2025 20:51:00",
          "title" : "Russian Team Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " The 4NCL UK Chess League took place Sat 23rd Nov 2024 to Mon 5th May 2025. Manx Liberty took a three point lead into the final weekend over Wood Green but that was reduced to two after they only drew 4-4 against The Sharks 1. In Round 10 The Sharks beat Wood Green and this made Manx Liberty champions ahead of their own final round match against Wood Green which was drawn 4-4. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2024-25",
-         "pubDate" : "Mon, 5 May 2025 12:40:00",
-         "title" : "4NCL 2024-25 - Games and Results"
       },
       {
          "description" : "European Chess Union and the Georgian Chess Federation invite ECU member federations to participate in European team Chess Championship 2025. The event will be held in Batumi, Georgia, from 4 of October (arrival day) to 15 of October (departure day). The event will be played in Open and Women's sections separately, with 9 swiss rounds in each competition and time control of 90 minutes for 40 moves + 30 minutes for rest of the game with an increment of 30 []",
