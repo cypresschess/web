@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave has reached the Grand Final of the Chess.com Classic after a string of victories in the Losers Bracket, where he eliminated Ian Nepomniachtchi, Nodirbek Abdusattorov and Hikaru Nakamura. He will now face Magnus Carlsen, needing to defeat the Norwegian twice to claim the title. MVL heads into the Grand Final with confidence, since he managed to defeat Carlsen twice in one day at the 2023 AI Cup. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-3",
+         "pubDate" : "Fri, 23 May 2025 11:30:00",
+         "title" : "Chess.com Classic: MVL to face Carlsen in Grand Final"
+      },
+      {
          "description" : "With six rounds completed at the Sharjah Masters, Anish Giri and Aleksandar Indjic share the lead on 5 points, closely followed by top seed Nodirbek Abdusattorov on 4&frac12;. The open tournament remains tightly contested, with fourteen players trailing half a point behind Abdusattorov. Among the standout performers are lower-rated contenders Dai Changren and Visakh N R, as well as 11-year-old Faustino Oro, who remains undefeated. | Photos: Himank Ghosh / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2025/may/23/chess-national-solving-championship-2025-open-entries-from-britain",
          "pubDate" : "Fri, 23 May 2025 07:00:25",
-         "title" : "Chess: national solving championship 2025 open to entries from Britain"
+         "title" : "National solving championship is open and 'Chess Messi' closing on record"
       },
       {
          "description" : "In this Svitlana Demchenko and Arne Kaehler reflect on the Biel Chess Festival, which they describe as one of the most joyful and diverse chess events in Europe. They highlight a legendary 2009 game between Alexander Morozevich and Maxime Vachier-Lagrave (MVL), showcasing chaotic Sicilian Najdorf tactics, razor-sharp sacrifices, and an astonishing defensive resource by MVL - a rook that remained untaken for 24 moves! The game is celebrated as one of the wildest and most creative ever played, pushing the boundaries of classical chess patterns.",
@@ -50,30 +58,6 @@ news_feed (
          "title" : "European Union Youth U8-U14 Chess Championship 2025"
       },
       {
-         "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-live",
-         "pubDate" : "Thu, 22 May 2025 16:45:00",
-         "title" : "Chess.com Classic - Live!"
-      },
-      {
-         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
-         "pubDate" : "Thu, 22 May 2025 14:55:00",
-         "title" : "TePe Sigeman & Co - Live!"
-      },
-      {
-         "description" : "Magnus Carlsen has reached the Grand Final of the Chess.com Classic after victories over Nodirbek Abdusattorov and Hikaru Nakamura in the Winners Bracket. Nakamura's unexpected resignation in a winning position brought the day's play to a dramatic close. Several top players, including Fabiano Caruana and Ding Liren, were eliminated, while Abdusattorov, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Vladimir Fedoseev and, of course, Nakamura continue their campaigns in the Losers Bracket. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-2",
-         "pubDate" : "Thu, 22 May 2025 12:55:00",
-         "title" : "Chess.com Classic: Carlsen beats Nakamura to reach Grand Final"
-      },
-      {
          "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -104,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sharjah-masters-2025-round-5",
          "pubDate" : "Thu, 22 May 2025 03:47:00",
          "title" : "Giri, Indjic, Dai Lead Sharjah Masters, Oro Hunts 1st GM Norm"
-      },
-      {
-         "description" : "The first two rounds of the 2025 TePe Sigeman & Co Chess Tournament have produced a mix of decisive results and hard-fought draws in Malm&ouml;. Richard Rapport, Javokhir Sindarov (pictured) and Yagiz Erdogmus lead the standings with 1&frac12; points each. Tan Zhongyi, meanwhile, has suffered two losses and both with the white pieces. Round three will feature a clash between co-leaders Sindarov and Erdogmus, the youngest players in the field. | Photo: Mikael Svensson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-2",
-         "pubDate" : "Thu, 22 May 2025 01:15:00",
-         "title" : "TePe Sigeman & Co: Rapport, Sindarov and Erdogmus early co-leaders"
       },
       {
          "description" : "Final Call for Applications - Maurice Ashley Fellowship!Applications are now open for the Maurice Ashley Fellowship, with the submission deadline of June 1 fast approaching.This distinguished fellowship supports young Black chess players who demonstrate exceptional promise, discipline, and a passion for the game. Selected fellows will receive elite training, mentorship, and resources designed to help them reach the next level of their chess careers. We are looking for serious applicants with a commitment to growth and a love for the game. If you know a promising player who could benefit from this program, please encourage them to apply today.🗓 Deadline: June 1, 2025🔗 Apply Here: https:",
