@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chess.com Classic was the second and final of two Champions Chess Tour events that acted as qualifiers for the Esports World Cup. 12 players qualified. The tour moved to a blitz time control of 10 minutes per player. The event was a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. Magnus Carlsen won the event with very little fuss, he beat Hikaru Nakamura in the Winners final, the final game was notable for Nakamura's resignation in a",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
+         "pubDate" : "Fri, 23 May 2025 18:20:00",
+         "title" : "Chess.com Classic 2025 - Games and Results"
+      },
+      {
+         "description" : " The \"Karpov Cup - 50 years later\" is a 15m+10spm rapid tournament took place 21st to 23rd May in Moscow. The event commemorated the accession of Anatoly Karpov to the title of World Champion on April 4th 1975. Players: Ian, Nepomniachtchi, Vladislav Artemiev, Peter Svidler, Daniil Dubov, Alexander Grischuk, Teimour Radjabov, Vladimir Malakhov, Evgeny Tomashevsky, Hans Moke Niemann and Maxim Matlakov. Karpov celebrated his birthday on the final day, 23rd May. Ian Nepomniachtchi won the event with 6/9 half a point clear of Alexander Grischuk and Vladislav Artemiev.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025",
+         "pubDate" : "Fri, 23 May 2025 18:15:00",
+         "title" : "Karpov Cup - 50 years later 2025 - Games and Results"
+      },
+      {
          "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +42,12 @@ news_feed (
          "title" : "TePe Sigeman & Co - Live!"
       },
       {
-         "description" : "Maxime Vachier-Lagrave has reached the Grand Final of the Chess.com Classic after a string of victories in the Losers Bracket, where he eliminated Ian Nepomniachtchi, Nodirbek Abdusattorov and Hikaru Nakamura. He will now face Magnus Carlsen, needing to defeat the Norwegian twice to claim the title. MVL heads into the Grand Final with confidence, since he managed to defeat Carlsen twice in one day at the 2023 AI Cup. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-3",
-         "pubDate" : "Fri, 23 May 2025 11:30:00",
-         "title" : "Chess.com Classic: MVL to face Carlsen in Grand Final"
-      },
-      {
-         "description" : "With six rounds completed at the Sharjah Masters, Anish Giri and Aleksandar Indjic share the lead on 5 points, closely followed by top seed Nodirbek Abdusattorov on 4&frac12;. The open tournament remains tightly contested, with fourteen players trailing half a point behind Abdusattorov. Among the standout performers are lower-rated contenders Dai Changren and Visakh N R, as well as 11-year-old Faustino Oro, who remains undefeated. | Photos: Himank Ghosh / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-6",
-         "pubDate" : "Fri, 23 May 2025 08:40:00",
-         "title" : "Sharjah Masters: Giri and Indjic lead, Abdusattorov a half point back"
+         "description" : "GM Magnus Carlsen has won the 2025 Chess.com Classic with a game to spare. In the Grand Final against GM Maxime Vachier-Lagrave, he won a 24-move miniature in game one, drew game two, and then won a rook endgame in game three to finish the match e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2025-cct-chesscom-classic-playoffs",
+         "pubDate" : "Fri, 23 May 2025 09:19:00",
+         "title" : "Carlsen Wins Grand Final With Game To Spare"
       },
       {
          "description" : " Entry is free, the prize fund is expected to be &pound;1,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in considerable numbers. White in the diagram, playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. To take part, simply send White's first move to Nigel Dennis, Boundary House, 230 Greys Road, Henley-on-T",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/23/chess-national-solving-championship-2025-open-entries-from-britain",
          "pubDate" : "Fri, 23 May 2025 07:00:25",
          "title" : "National solving championship is open and 'Chess Messi' closing on record"
-      },
-      {
-         "description" : "In this Svitlana Demchenko and Arne Kaehler reflect on the Biel Chess Festival, which they describe as one of the most joyful and diverse chess events in Europe. They highlight a legendary 2009 game between Alexander Morozevich and Maxime Vachier-Lagrave (MVL), showcasing chaotic Sicilian Najdorf tactics, razor-sharp sacrifices, and an astonishing defensive resource by MVL - a rook that remained untaken for 24 moves! The game is celebrated as one of the wildest and most creative ever played, pushing the boundaries of classical chess patterns.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-a-wild-ride-through-biel-s-craziest-game",
-         "pubDate" : "Fri, 23 May 2025 06:00:01",
-         "title" : "Svitlana's Smart Moves - A Wild Ride Through Biel's Craziest Game"
       },
       {
          "description" : "Editor's note: The event regulations for this event were released by FIDE on Thursday May 22, 2025.Registration is now open for the FIDE World Cadet Chess Championships 2025. The international event - organized by FIDE and the Kazakhstan Chess Federation and the Department of Sports of the City of Almaty with support of the Ministry of Sports and Tourism of the Republic of Kazakhstan - will be held in Almaty, Kazakhstan from September 18 through October 1, 2025.US Chess will be accepting registrations for eligible U.S. participants until Friday, June 6. TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.A player's ag",
@@ -178,14 +178,6 @@ news_feed (
          "title" : "Saint Louis Chess Club, World Chess Hall of Fame & Galleries and Grand Chess Tour Launch $150,000 Matching Donation Campaign for Saint Louis Tornado Relief"
       },
       {
-         "description" : " The Chess.com Classic is the second of two Champions Chess Tour events that act as qualifiers for the Esports World Cup. 12 places are available from the tour. The event has moved to a blitz time control of 10 minutes per player. The event is a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2025",
-         "pubDate" : "Wed, 21 May 2025 19:55:00",
-         "title" : "Chess.com Classic 2025 - Games and Results"
-      },
-      {
          "description" : "There are fewer than 8 weeks to go until ChessFest 2025, our annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, we're taking over the whole...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -200,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-cct-chesscom-classic-playoffs-day-2",
          "pubDate" : "Wed, 21 May 2025 12:34:00",
          "title" : "Carlsen Advances After Nakamura Resigns In Winning Position"
-      },
-      {
-         "description" : " The \"Karpov Cup - 50 years later\" is a 15m+10spm rapid tournament taking place 21st to 23rd May in Moscow. The event commemorates the accession of Anatoly Karpov to the title of World Champion on April 4th 1975. Players: Ian, Nepomniachtchi, Vladislav Artemiev, Peter Svidler, Daniil Dubov, Alexander Grischuk, Teimour Radjabov, Vladimir Malakhov, Evgeny Tomashevsky, Hans Moke Niemann and Maxim Matlakov.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025",
-         "pubDate" : "Wed, 21 May 2025 11:32:00",
-         "title" : "Karpov Cup - 50 years later 2025 - Games and Results"
       },
       {
          "description" : "The ECF is pleased to announce that the Board has decided to appoint Tim Wall as the Junior Development Director to succeed Alex Holowczak. Tim is well known throughout the...",
@@ -360,6 +344,14 @@ news_feed (
          "link" : "https://aicf.in/public-notice-2/",
          "pubDate" : "Mon, 19 May 2025 09:12:10",
          "title" : "PUBLIC NOTICE"
+      },
+      {
+         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at SuperNationals VIII. These photos are categorized and tagged to the best of our ability, but that still leaves many top finishers without photos and many photos without identifications. The below text explains more about why this is the case.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Jump to: Blitz Winners | Bughouse Winners | K-12 Winners | K-8 Winners | K-6 and K-5 Winners | K-3 and K-1 Winners With over 4,500 players competing",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/photo-gallery-assorted-winners",
+         "pubDate" : "Mon, 19 May 2025 00:00:00",
+         "title" : "Photo Report: Assorted Medalists"
       },
       {
          "description" : "The European Senior Individual Chess Championship 2025 will take place from September 26th (arrival day) to October 6th (departure day) at the &#8220;Sunny Rabac&#8221; restaurant by Valamar, in Rabac, Croatia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of less of nine players in the women's section, the event will be merged with the respective Open age category, with separate prizes for the best women players. Each tournament will []",
@@ -706,14 +698,6 @@ news_feed (
          "title" : "Announcing New Friends And Family Premium Plans"
       },
       {
-         "description" : "Today's puzzles come from the just-concluded SuperNationals VIII in Orlando. A flash report with winners is available, and a full report with more highlights from Sunday will be available Thursday. In the time being, check out WGM Sabina Foisor's annotations in the reports from Friday's and Saturday's games for a number of key moments, many of which will be highlighted in this and future worksheets. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-1",
-         "pubDate" : "Tue, 13 May 2025 00:00:00",
-         "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 1"
-      },
-      {
          "description" : "IM Faustino&#38;nbsp;Oro&#39;s rise shows no signs of slowing. Now, the 11-year-old prodigy is set to face former World Champion Viswanathan Anand in a match, and potentially in a knockout event. The youngster also dazzled a national TV audience in Spain ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -744,14 +728,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-chess-history-2",
          "pubDate" : "Mon, 12 May 2025 09:06:29",
          "title" : "FIDE Chess History (2)"
-      },
-      {
-         "description" : "Eighteen-year-old U.S. GM Christopher Yoo has received a provisional 60-day suspension from FIDE&#39;s Ethics &#38;amp; Disciplinary Commission (EDC), following a complaint from a female player who told Chess.com that she was harassed by the grandmaster d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/christopher-yoo-temporary-fide-ban-new-harassment-allegation",
-         "pubDate" : "Mon, 12 May 2025 06:35:00",
-         "title" : "Christopher Yoo Handed 60-Day Suspension By FIDE After New Harassment Allegation"
       },
       {
          "description" : " The 2025 African Individual Chess Championship will be held from May 13th to 20th, 2025, in Cairo, Egypt. It is organized by the African Chess Confederation (ACC) and hosted by the Egyptian Chess Federation at the Police Union Club.The tournament will feature both an open section and a women's section. The 9-round Swiss tournament will have a time The post <a href=\"https://thechessdrum.net/blog/2025/05/11/2025-african-individual-chess-championship-cairo-egypt/\">2025 African Individual Chess Championship (Cairo, Egypt)</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
