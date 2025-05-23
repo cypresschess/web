@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With six rounds completed at the Sharjah Masters, Anish Giri and Aleksandar Indjic share the lead on 5 points, closely followed by top seed Nodirbek Abdusattorov on 4&frac12;. The open tournament remains tightly contested, with fourteen players trailing half a point behind Abdusattorov. Among the standout performers are lower-rated contenders Dai Changren and Visakh N R, as well as 11-year-old Faustino Oro, who remains undefeated. | Photos: Himank Ghosh / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-6",
+         "pubDate" : "Fri, 23 May 2025 08:40:00",
+         "title" : "Sharjah Masters: Giri and Indjic lead, Abdusattorov a half point back"
+      },
+      {
+         "description" : " Entry is free, the prize fund is expected to be &pound;1,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in considerable numbers. White in the diagram, playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. To take part, simply send White's first move to Nigel Dennis, Boundary House, 230 Greys Road, Henley-on-T",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2025/may/23/chess-national-solving-championship-2025-open-entries-from-britain",
+         "pubDate" : "Fri, 23 May 2025 07:00:25",
+         "title" : "Chess: national solving championship 2025 open to entries from Britain"
+      },
+      {
+         "description" : "In this Svitlana Demchenko and Arne Kaehler reflect on the Biel Chess Festival, which they describe as one of the most joyful and diverse chess events in Europe. They highlight a legendary 2009 game between Alexander Morozevich and Maxime Vachier-Lagrave (MVL), showcasing chaotic Sicilian Najdorf tactics, razor-sharp sacrifices, and an astonishing defensive resource by MVL - a rook that remained untaken for 24 moves! The game is celebrated as one of the wildest and most creative ever played, pushing the boundaries of classical chess patterns.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-a-wild-ride-through-biel-s-craziest-game",
+         "pubDate" : "Fri, 23 May 2025 06:00:01",
+         "title" : "Svitlana's Smart Moves - A Wild Ride Through Biel's Craziest Game"
+      },
+      {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Chess Championships in Munich</a> finish tomorrow, already Vincent Keymer has secured first place alone, today he was held to only his second draw by Rasmus Svane but a half point was all he needed. Keymer has 7/8 and in the final round Keymer has white against Alexander Donchenko, I think it possible he'll push for yet another win. In the women's event Dinara Wagner and Hanna Marie Klek lead the rest of the field by a point on 6/9. Tan Zhongyi started the <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> with two losses and had the bla",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -896,14 +920,6 @@ news_feed (
          "link" : "https://www.thearticle.com/is-declining-iq-just-a-moral-panic/",
          "pubDate" : "Sat, 03 May 2025 10:40:22",
          "title" : "Is declining IQ just a moral panic?"
-      },
-      {
-         "description" : " Thalia Holmes, 20, defeats Richie Kelly, 63, in final after former RAF technician misses a win (can you find it?) BBC Two's Monday evening show Chess Masters: The Endgame reached its final this week amid a continuing debate between experts, who found it patronising, and social players, novices and children who enjoyed its light touch and focus on personalities. The series was placed in a testing environment, the 8pm slot, sandwiched between the intellectual heavyweights Mastermind and University Challenge. Viewer numbers, as supplied by Broadcast, peaked in the first week at 890,000, then gradually dipped to a low of 535,000 on Easter Monday before rebounding to 655,000, a 5.5% share of the",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2025/may/02/bbc-twos-chess-masters-the-endgame-divides-opinions-as-winner-is-crowned",
-         "pubDate" : "Fri, 02 May 2025 07:00:02",
-         "title" : "BBC Two's Chess Masters: The Endgame divides opinions as winner is crowned"
       }
    ]
 }
