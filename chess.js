@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-live",
+         "pubDate" : "Fri, 23 May 2025 16:45:00",
+         "title" : "Chess.com Classic Grand Final - Live!"
+      },
+      {
+         "description" : "The 2025 Mitropa Chess Cup concluded yesterday in Trenč&iacute;n, Slovakia. The event took place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; Czech Republic emerged as the sole Winner of the Open competition scoring 13 match points. A dramatical final round determined the Champions and medalists as we saw a direct encounter for gold between Czech Republic and Germany. Czech Republic won []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mitropa-chess-cup-2025-concluded-in-trencin-slovakia/",
+         "pubDate" : "Fri, 23 May 2025 14:56:26",
+         "title" : "Mitropa Chess Cup 2025 concluded in Trencin, Slovakia"
+      },
+      {
+         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
+         "pubDate" : "Fri, 23 May 2025 14:55:00",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave has reached the Grand Final of the Chess.com Classic after a string of victories in the Losers Bracket, where he eliminated Ian Nepomniachtchi, Nodirbek Abdusattorov and Hikaru Nakamura. He will now face Magnus Carlsen, needing to defeat the Norwegian twice to claim the title. MVL heads into the Grand Final with confidence, since he managed to defeat Carlsen twice in one day at the 2023 AI Cup. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-a-wild-ride-through-biel-s-craziest-game",
          "pubDate" : "Fri, 23 May 2025 06:00:01",
          "title" : "Svitlana's Smart Moves - A Wild Ride Through Biel's Craziest Game"
+      },
+      {
+         "description" : "Editor's note: The event regulations for this event were released by FIDE on Thursday May 22, 2025.Registration is now open for the FIDE World Cadet Chess Championships 2025. The international event - organized by FIDE and the Kazakhstan Chess Federation and the Department of Sports of the City of Almaty with support of the Ministry of Sports and Tourism of the Republic of Kazakhstan - will be held in Almaty, Kazakhstan from September 18 through October 1, 2025.US Chess will be accepting registrations for eligible U.S. participants until Friday, June 6. TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.A player's ag",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-2025-fide-world-cadet-chess-championships",
+         "pubDate" : "Fri, 23 May 2025 00:00:00",
+         "title" : "Registration Open for 2025 FIDE World Cadet Chess Championships"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Chess Championships in Munich</a> finish tomorrow, already Vincent Keymer has secured first place alone, today he was held to only his second draw by Rasmus Svane but a half point was all he needed. Keymer has 7/8 and in the final round Keymer has white against Alexander Donchenko, I think it possible he'll push for yet another win. In the women's event Dinara Wagner and Hanna Marie Klek lead the rest of the field by a point on 6/9. Tan Zhongyi started the <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> with two losses and had the bla",
@@ -736,14 +768,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tarrasch-versus-nimzowitsch/",
          "pubDate" : "Sun, 11 May 2025 11:31:17",
          "title" : "Tarrasch versus Nimzowitsch"
-      },
-      {
-         "description" : "ORLANDO, FL: The 501(c)3 US Chess Federation's SuperNationals VIII took place from May 9 through 11 at the Orange County Convention Center in Orlando, Florida. SuperNationals combines the three Spring National Scholastic Championships (Elementary, Middle, and High School grade levels) into one event, and it takes place only once every four years.With SuperNationals VII canceled in 2021 due to COVID-19 concerns, this year marked the first edition of the tournament since Nashville's SuperNationals VI in 2017. Below are the individual and team winners of each Championship section. When co-champions are listed, they are in tiebreak order. This page will be uploaded ASAP with photos from the awar",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/flash-report-supernationals-viii-results",
-         "pubDate" : "Sun, 11 May 2025 00:00:00",
-         "title" : "Flash Report: SuperNationals VIII Results"
       },
       {
          "description" : " The IV Sunway Formentera Open took place 29th April to 9th May 2025. Valentin Dragnev won with 8.5/10 a point clear of Artem Omelja and Sergey Fedorchuk. ",
