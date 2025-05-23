@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the Chess.com Classic with a game to spare in the Grand Final against Maxime Vachier-Lagrave. The former world champion remained unbeaten throughout the event and secured the title with two wins and a draw in the final match. A swift victory in game one and a well-converted rook endgame in game three sealed the result. Carlsen now turns his attention to Norway Chess, where he returns to classical over-the-board play against an elite field.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-4",
+         "pubDate" : "Sat, 24 May 2025 00:15:00",
+         "title" : "Carlsen secures Grand Final victory with one game to spare, wins Chess.com Classic"
+      },
+      {
+         "description" : " Today is Anatoly Karpov's 74th birthday and the <a href=\"https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025\">event celebrating the 50th anniversary of him becoming world champion</a> finished. Ian Nepomniachtchi won the event with 6/9 half a point clear of Alexander Grischuk and Vladislav Artemiev. Magnus Carlsen made easy work of Maxime Vachier-Lagrave in the Grand Final of the <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. He said afterwards he had hoped it would be good practice for the Norway Chess starting on Monday but it wasn't because he'd made such quick work of winning. I give very light notes to all thre",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-23rd-may-2025",
+         "pubDate" : "Fri, 23 May 2025 22:03:00",
+         "title" : "Chess on Friday 23rd May 2025 - "
+      },
+      {
+         "description" : "After four rounds at the TePe Sigeman & Co chess tournament, Javokhir Sindarov and Yagiz Erdogmus (pictured) share the lead with 3 points each. Nils Grandelius is half a point behind on 2&frac12;, followed by Ray Robson and Tan Zhongyi on 2 points. Tan, who lost her first two games, has bounced back with consecutive wins in rounds three and four. Eight of the sixteen games played so far have ended decisively in what has been an entertaining tournament for spectators. | Photo: Mikael Svensson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-4",
+         "pubDate" : "Fri, 23 May 2025 22:00:00",
+         "title" : "TePe Sigeman & Co: Sindarov and Erdogmus share the lead, Tan scores two wins in a row"
+      },
+      {
+         "description" : " The 96th German Championships took place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Vincent Keymer secured clear first with a round to spare before losing a wild game in the final round to Donchenko. Dinara Wagner beat Hanna Marie Klek 2-0 in a 5m+10spm tie-break to win the women's title. Tobias Kuegel won the Candidates event with 7/9. The German blitz championships and women's blitz championships are tomorrow. I will treat that as a separate event. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
+         "pubDate" : "Fri, 23 May 2025 21:47:00",
+         "title" : "96th ch-GER 2025 - Games and Results"
+      },
+      {
          "description" : " The Chess.com Classic was the second and final of two Champions Chess Tour events that acted as qualifiers for the Esports World Cup. 12 players qualified. The tour moved to a blitz time control of 10 minutes per player. The event was a Double Elimination KO. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Fabiano Caruana, Ian Nepomniachtchi, Vladimir Fedoseev, Levon Aronian, Hikaru Nakamura, Denis Lazavik, Arjun Erigaisi Jan-Krzysztof Duda, Vladislav, Artemiev, Wei Yi, D Gukesh, Nodirbek, Abdusattorov, R Praggnanandhaa and Ding Liren. Magnus Carlsen won the event with very little fuss, he beat Hikaru Nakamura in the Winners final, the final game was notable for Nakamura's resignation in a",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,20 +58,20 @@ news_feed (
          "title" : "Chess.com Classic Grand Final - Live!"
       },
       {
+         "description" : "GM&#38;nbsp;Minh Le&#38;nbsp;won the May 23 edition of&#38;nbsp;Freestyle Friday&#38;nbsp;with 9.5 points, beating out a field of 243 players, including GM&#38;nbsp;Luca Moroni Jr., on&#38;nbsp;tiebreaks.&#38;nbsp;It was the first win in Freestyle Friday for the eight-time T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-wins-freestyle-friday-may-23-2025",
+         "pubDate" : "Fri, 23 May 2025 15:42:59",
+         "title" : "Minh Le Adds Freestyle Friday To Victory Ledger"
+      },
+      {
          "description" : "The 2025 Mitropa Chess Cup concluded yesterday in Trenč&iacute;n, Slovakia. The event took place from 14-23 May with separate Open and Women's competitions and participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; Czech Republic emerged as the sole Winner of the Open competition scoring 13 match points. A dramatical final round determined the Champions and medalists as we saw a direct encounter for gold between Czech Republic and Germany. Czech Republic won []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/mitropa-chess-cup-2025-concluded-in-trencin-slovakia/",
          "pubDate" : "Fri, 23 May 2025 14:56:26",
          "title" : "Mitropa Chess Cup 2025 concluded in Trencin, Slovakia"
-      },
-      {
-         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
-         "pubDate" : "Fri, 23 May 2025 14:55:00",
-         "title" : "TePe Sigeman & Co - Live!"
       },
       {
          "description" : "GM Magnus Carlsen has won the 2025 Chess.com Classic with a game to spare. In the Grand Final against GM Maxime Vachier-Lagrave, he won a 24-move miniature in game one, drew game two, and then won a rook endgame in game three to finish the match e...",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2025/may/23/chess-national-solving-championship-2025-open-entries-from-britain",
          "pubDate" : "Fri, 23 May 2025 07:00:25",
          "title" : "National solving championship is open and 'Chess Messi' closing on record"
+      },
+      {
+         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at SuperNationals VIII. These photos are categorized and tagged to the best of our ability, but that still leaves many top finishers without photos and many photos without identifications. The below text explains more about why this is the case.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Jump to: Blitz Winners | Bughouse Winners | K-12 Winners | K-8 Winners | K-6 and K-5 Winners | K-3 and K-1 Winners With over 4,500 players competing",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/photo-gallery-assorted-winners",
+         "pubDate" : "Fri, 23 May 2025 00:00:00",
+         "title" : "Photo Report: Assorted Medalists"
       },
       {
          "description" : "Editor's note: The event regulations for this event were released by FIDE on Thursday May 22, 2025.Registration is now open for the FIDE World Cadet Chess Championships 2025. The international event - organized by FIDE and the Kazakhstan Chess Federation and the Department of Sports of the City of Almaty with support of the Ministry of Sports and Tourism of the Republic of Kazakhstan - will be held in Almaty, Kazakhstan from September 18 through October 1, 2025.US Chess will be accepting registrations for eligible U.S. participants until Friday, June 6. TOURNAMENT DETAILS AND ELIGIBILITYThere will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.A player's ag",
@@ -144,14 +184,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
          "pubDate" : "Wed, 21 May 2025 21:27:00",
          "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
-      },
-      {
-         "description" : " The 96th German Championships take place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Alongside are several other events including the women's championship with top seed Dinara Wagner and the Candidates with Maxim Vavulin. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/96th-ch-ger-2025",
-         "pubDate" : "Wed, 21 May 2025 21:26:00",
-         "title" : "96th ch-GER 2025 - Games and Results"
       },
       {
          "description" : " The 8th Sharjah Masters take place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc",
@@ -344,14 +376,6 @@ news_feed (
          "link" : "https://aicf.in/public-notice-2/",
          "pubDate" : "Mon, 19 May 2025 09:12:10",
          "title" : "PUBLIC NOTICE"
-      },
-      {
-         "description" : "This page features every photo we have, so far, from any of the awards ceremonies at SuperNationals VIII. These photos are categorized and tagged to the best of our ability, but that still leaves many top finishers without photos and many photos without identifications. The below text explains more about why this is the case.You're invited to email Click here to show email address with any relevant photos and identifications, and we will happily continue to update this page. Keep an eye out for more general tournament photos on our Facebook page.Jump to: Blitz Winners | Bughouse Winners | K-12 Winners | K-8 Winners | K-6 and K-5 Winners | K-3 and K-1 Winners With over 4,500 players competing",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/photo-gallery-assorted-winners",
-         "pubDate" : "Mon, 19 May 2025 00:00:00",
-         "title" : "Photo Report: Assorted Medalists"
       },
       {
          "description" : "The European Senior Individual Chess Championship 2025 will take place from September 26th (arrival day) to October 6th (departure day) at the &#8220;Sunny Rabac&#8221; restaurant by Valamar, in Rabac, Croatia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. In case of less of nine players in the women's section, the event will be merged with the respective Open age category, with separate prizes for the best women players. Each tournament will []",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "'Messi Of Chess' Fausti Oro Hits Jackpot With Anand Clashes, TV Appearance & Sponsor Deal"
       },
       {
-         "description" : "GM Magnus Carlsen and his wife, Ella Victoria, have announced the heartwarming news that they are expecting their first child. The couple officially tied the knot in Oslo on January 4 this year. On Monday, the newlyweds shared the joyful news th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-and-wife-ella-victoria-announces-pregnancy",
-         "pubDate" : "Mon, 12 May 2025 12:13:00",
-         "title" : "Magnus Carlsen & Ella Victoria Are Expecting: 'My Beautiful, Pregnant Wife'"
-      },
-      {
          "description" : "Former National Champion Grandmaster Murali Karthikeyan and Grandmaster Daneshvar Bardiya (Iran) continued to be in the top position by scoring smooth victories over Aleksey Grebnev",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tarrasch-versus-nimzowitsch/",
          "pubDate" : "Sun, 11 May 2025 11:31:17",
          "title" : "Tarrasch versus Nimzowitsch"
-      },
-      {
-         "description" : " The IV Sunway Formentera Open took place 29th April to 9th May 2025. Valentin Dragnev won with 8.5/10 a point clear of Artem Omelja and Sergey Fedorchuk. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/iv-sunway-formentera-open-2025",
-         "pubDate" : "Sat, 10 May 2025 20:49:00",
-         "title" : "IV Sunway Formentera Open 2025 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121063242.cms\" />D Gukesh faced a shocking defeat against Maxime Vachier-Lagrave in the Superbet Classic, while R Praggnanandhaa held a draw, maintaining his position at the top. Levon Aronian secured his first victory by defeating Jan-Krzysztof Duda. Praggnanandhaa, Caruana, and Vachier-Lagrave are now jointly leading the tournament after four rounds.",
