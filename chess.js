@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
+         "pubDate" : "Sat, 24 May 2025 13:00:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
          "description" : "After years with no chess on mainstream TV channels, we now have a plethora. BBC Two's recently broadcast series Chess Masters: The Endgame divided opinions. \"Talia\", a transgender (former male) winner, was eventually crowned as the Victrix Ludorum and The Endgame reached its grand finale amid a continuing debate between experts, but not because of the transgender element in sport, recently []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://nextlevelchess.com/zoom-out/",
          "pubDate" : "Sat, 03 May 2025 13:00:00",
          "title" : "How to Recover from a Bad Loss in Chess: The Key to Bouncing Back"
-      },
-      {
-         "description" : "In terms coined by South African criminologist, Stanley Cohen, a moral panic refers to intense feelings of fear, concern or anger, throughout a given community, in response to the perception that cultural values or interests are being threatened by a specific group, known as folk devils. Moral panics are characterised by an exaggeration of the actual threat []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/is-declining-iq-just-a-moral-panic/",
-         "pubDate" : "Sat, 03 May 2025 10:40:22",
-         "title" : "Is declining IQ just a moral panic?"
       }
    ]
 }
