@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is led by Javokhir Sindarov alone with 3.5/5 after drawing with Richard Rapport. Yagiz Kaan Erdogmus who was tied in the lead lost to Vasyl Ivanchuk who took advantage of a number of inaccuracies to win in 44 moves, Ivanchuk's final move is very nice. Last minute substitute Erwin L'Ami has had a tough tournament but managed to beat Nils Grandelius in 51 moves, although after getting a winning position he did give Grandelius an untaken chance to save himself. Ray Robson and Tan Zhongyi drew in 47 moves. Light notes for the two decisive games below. The <a href=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-saturday-24th-may-2025",
+         "pubDate" : "Sat, 24 May 2025 21:21:00",
+         "title" : "Chess on Saturday 24th May 2025 - "
+      },
+      {
          "description" : " The Match of Two Capitals takes place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg play a six game classical (90m + 30spm) match two games per day.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/asian-individual-championships-2025",
          "pubDate" : "Thu, 15 May 2025 20:05:00",
          "title" : "Asian Individual Championships 2025 - Games and Results"
-      },
-      {
-         "description" : " FIDE Women's Grand Prix took place in Grosslobming, Austria Tue 6th May to Fri 16th May 2025. Players: Jiner Zhu, Zhongyi Tan, Anna Muzychuk, Nana Dzagnidze, Mariya Muzychuk, Alexandra Kosteniuk, Rameshbabu Vaishali, Lela Javakhishvili, Olga Badelka and Nurgyul Salimova. The event was the final in a series of 6. The top two in the final standings qualifying for the Candidates. The leaders going into the event were Aleksandra Goryachkina followed by Humpy Koneru, neither playing in the final event. Goryachkina looked strong favourite to qualify but if Anna Muzychuk had won and Zhu Jiner finished second then she would have missed out. Zhu started with 0/2 after losing to Anna Muzychuk but cam",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-grand-prix-in-grosslobming-2025",
-         "pubDate" : "Thu, 15 May 2025 19:35:00",
-         "title" : "FIDE Women's Grand Prix in Grosslobming 2025 - Games and Results"
       },
       {
          "description" : "GM&#38;nbsp;Anna Muzychuk has won the 2025 Grosslobming FIDE Women&#39;s Grand Prix on tiebreaks over GM Zhu Jiner, but said afterward, &#34;it has never been so sad to win an event.&#34; Anna made a draw against GM Vaishali Rameshbabu which would have given her ...",
