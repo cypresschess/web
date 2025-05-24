@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Match of Two Capitals takes place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg play a six game classical (90m + 30spm) match two games per day.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025",
+         "pubDate" : "Sat, 24 May 2025 19:43:00",
+         "title" : "Match of Two Capitals 2025 - Games and Results"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/",
          "pubDate" : "Tue, 13 May 2025 18:52:56",
          "title" : "Kevin Pryor chats with The Chess Drum"
-      },
-      {
-         "description" : " The Czech GM Vlastimil Hort has passed away at the age of 81. Born in Kladno on January 12th 1944 he died in Germany May 12th 2025. Hort grew up in Czechoslovakia becoming a Grandmaster in 1965. He played the 1967 Sousse Interzonal finishing tied 6th, not enough to advance to the Candidates. He then played Board 4 in the USSR vs the Rest of the World match in 1970. Hort did eventually reach the Candidates in 1977 where he met Boris Spassky. This was also the peak of his career when Hort was world number 6 and rated 2620. Spassky was ill during the match and Hort gave up one of his rest days to aid his recovery after Spassky ran out of his. Hort lost the match narrowly in the end. Hort defec",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/vlastimil-hort-1944-2025",
-         "pubDate" : "Tue, 13 May 2025 15:02:00",
-         "title" : "Vlastimil Hort 1944-2025 - "
       },
       {
          "description" : "GM Zhu Jiner&#39;s fifth win in a row, this time against GM Nana Dzagnidze, has given her a share of the 2025 Grosslobming FIDE Women&#39;s Grand Prix lead and left co-leader GM Anna Muzychuk missing out on a FIDE Women&#39;s Candidates spot to GM Aleksandra ...",
