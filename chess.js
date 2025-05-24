@@ -58,11 +58,11 @@ news_feed (
          "title" : "Chess.com Classic Grand Final - Live!"
       },
       {
-         "description" : "GM&#38;nbsp;Minh Le&#38;nbsp;won the May 23 edition of&#38;nbsp;Freestyle Friday&#38;nbsp;with 9.5 points, beating out a field of 243 players, including GM&#38;nbsp;Luca Moroni Jr., on&#38;nbsp;tiebreaks.&#38;nbsp;It was the first win in Freestyle Friday for the eight-time T...",
+         "description" : "GM Minh Le won the May 23 edition of Freestyle Friday with 9.5 points, beating out a field of 243 players, including GM Luca Moroni Jr. on tiebreaks. It was the first win in Freestyle Friday for the eight-time Titled Tuesday champion Le. Le scor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/le-wins-freestyle-friday-may-23-2025",
-         "pubDate" : "Fri, 23 May 2025 15:42:59",
+         "pubDate" : "Fri, 23 May 2025 15:42:00",
          "title" : "Minh Le Adds Freestyle Friday To Victory Ledger"
       },
       {
