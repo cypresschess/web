@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
+         "pubDate" : "Sat, 24 May 2025 14:55:00",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
+         "description" : "If you've ever watched top-level chess commentary, you've probably heard something like: \"With Black, you need to take risks to win.\" \"You can't beat the Berlin without a novelty.\" \"You have to create chances.\" At the very top-yes. That's often true. But if you're not competing at 2750+ level, applying this advice backfires. And I []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.com/stop-forcing-wins-in-chess/",
+         "pubDate" : "Sat, 24 May 2025 13:00:00",
+         "title" : "Stop Forcing It: Let Your Opponent Create the Chances"
+      },
+      {
          "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2025-official-regulations/",
          "pubDate" : "Mon, 05 May 2025 10:04:21",
          "title" : "European Team Chess Championship 2025 - Official regulations"
-      },
-      {
-         "description" : "One of the most common questions I get from students in The Simplified Chess Improvement System is: &#8220;How can I recover from a bad loss?&#8221; I bet you know just how painful it can feel. You put your heart into the game, and one bad move or a poor tournament performance can leave you feeling []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.com/zoom-out/",
-         "pubDate" : "Sat, 03 May 2025 13:00:00",
-         "title" : "How to Recover from a Bad Loss in Chess: The Key to Bouncing Back"
       }
    ]
 }
