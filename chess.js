@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After years with no chess on mainstream TV channels, we now have a plethora. BBC Two's recently broadcast series Chess Masters: The Endgame divided opinions. \"Talia\", a transgender (former male) winner, was eventually crowned as the Victrix Ludorum and The Endgame reached its grand finale amid a continuing debate between experts, but not because of the transgender element in sport, recently []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-on-tv-from-famine-to-glut/",
+         "pubDate" : "Sat, 24 May 2025 06:16:31",
+         "title" : "Chess on TV: from famine to glut"
+      },
+      {
          "description" : "Magnus Carlsen won the Chess.com Classic with a game to spare in the Grand Final against Maxime Vachier-Lagrave. The former world champion remained unbeaten throughout the event and secured the title with two wins and a draw in the final match. A swift victory in game one and a well-converted rook endgame in game three sealed the result. Carlsen now turns his attention to Norway Chess, where he returns to classical over-the-board play against an elite field.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
