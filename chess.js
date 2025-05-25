@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
+         "pubDate" : "Sun, 25 May 2025 12:05:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "You want to analyse a position without having to enter all the moves first? No problem: with ChessBase 18, the position is quickly displayed on the board and you can analyse it with or without an engine, or import other game positions using FEN code. Learn how to use the \"Position Setup\" menu to start immediately at the point that interests you, and find out what FEN is all about...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-15-setting-up-and-analysing-positions",
+         "pubDate" : "Sun, 25 May 2025 12:00:00",
+         "title" : "ChessBase 18 - Tips for Beginners, Part 15: Setting up and analysing positions"
+      },
+      {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is led by Javokhir Sindarov alone with 3.5/5 after drawing with Richard Rapport. Yagiz Kaan Erdogmus who was tied in the lead lost to Vasyl Ivanchuk who took advantage of a number of inaccuracies to win in 44 moves, Ivanchuk's final move is very nice. Last minute substitute Erwin L'Ami has had a tough tournament but managed to beat Nils Grandelius in 51 moves, although after getting a winning position he did give Grandelius an untaken chance to save himself. Ray Robson and Tan Zhongyi drew in 47 moves. Light notes for the two decisive games below. The <a href=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,28 +42,12 @@ news_feed (
          "title" : "Naroditsky Bolts To 28th Title, Outdoes Super-GM Trio"
       },
       {
-         "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-live",
-         "pubDate" : "Sat, 24 May 2025 14:55:00",
-         "title" : "TePe Sigeman & Co - Live!"
-      },
-      {
          "description" : "If you've ever watched top-level chess commentary, you've probably heard something like: \"With Black, you need to take risks to win.\" \"You can't beat the Berlin without a novelty.\" \"You have to create chances.\" At the very top-yes. That's often true. But if you're not competing at 2750+ level, applying this advice backfires. And I []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.com/stop-forcing-wins-in-chess/",
          "pubDate" : "Sat, 24 May 2025 13:00:00",
          "title" : "Stop Forcing It: Let Your Opponent Create the Chances"
-      },
-      {
-         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
-         "pubDate" : "Sat, 24 May 2025 13:00:00",
-         "title" : "Sharjah Masters - Live!"
       },
       {
          "description" : "After years with no chess on mainstream TV channels, we now have a plethora. BBC Two's recently broadcast series Chess Masters: The Endgame divided opinions. \"Talia\", a transgender (former male) winner, was eventually crowned as the Victrix Ludorum and The Endgame reached its grand finale amid a continuing debate between experts, but not because of the transgender element in sport, recently []",
