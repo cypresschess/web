@@ -10,12 +10,12 @@ news_feed (
          "title" : "Sharjah Masters - Live!"
       },
       {
-         "description" : "You want to analyse a position without having to enter all the moves first? No problem: with ChessBase 18, the position is quickly displayed on the board and you can analyse it with or without an engine, or import other game positions using FEN code. Learn how to use the \"Position Setup\" menu to start immediately at the point that interests you, and find out what FEN is all about...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-15-setting-up-and-analysing-positions",
-         "pubDate" : "Sun, 25 May 2025 12:00:00",
-         "title" : "ChessBase 18 - Tips for Beginners, Part 15: Setting up and analysing positions"
+         "description" : "The chess world has a new record-breaker. 10-year-old FM Roman Shogdzhiev from Russia has become the youngest International Master (IM) in history, smashing the record by over five months and reinforcing his status as one of the chess world&#39;s most...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shogdzhiev-achieves-final-norm-becomes-youngest-ever-international-master",
+         "pubDate" : "Sun, 25 May 2025 07:19:00",
+         "title" : "Shogdzhiev Smashes Oro's Record To Become Youngest International Master In History"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is led by Javokhir Sindarov alone with 3.5/5 after drawing with Richard Rapport. Yagiz Kaan Erdogmus who was tied in the lead lost to Vasyl Ivanchuk who took advantage of a number of inaccuracies to win in 44 moves, Ivanchuk's final move is very nice. Last minute substitute Erwin L'Ami has had a tough tournament but managed to beat Nils Grandelius in 51 moves, although after getting a winning position he did give Grandelius an untaken chance to save himself. Ray Robson and Tan Zhongyi drew in 47 moves. Light notes for the two decisive games below. The <a href=\"htt",
@@ -58,28 +58,12 @@ news_feed (
          "title" : "Chess on TV: from famine to glut"
       },
       {
-         "description" : "Magnus Carlsen won the Chess.com Classic with a game to spare in the Grand Final against Maxime Vachier-Lagrave. The former world champion remained unbeaten throughout the event and secured the title with two wins and a draw in the final match. A swift victory in game one and a well-converted rook endgame in game three sealed the result. Carlsen now turns his attention to Norway Chess, where he returns to classical over-the-board play against an elite field.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-4",
-         "pubDate" : "Sat, 24 May 2025 00:15:00",
-         "title" : "Carlsen secures Grand Final victory with one game to spare, wins Chess.com Classic"
-      },
-      {
          "description" : " Today is Anatoly Karpov's 74th birthday and the <a href=\"https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025\">event celebrating the 50th anniversary of him becoming world champion</a> finished. Ian Nepomniachtchi won the event with 6/9 half a point clear of Alexander Grischuk and Vladislav Artemiev. Magnus Carlsen made easy work of Maxime Vachier-Lagrave in the Grand Final of the <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. He said afterwards he had hoped it would be good practice for the Norway Chess starting on Monday but it wasn't because he'd made such quick work of winning. I give very light notes to all thre",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/twic-news-feed/chess-on-friday-23rd-may-2025",
          "pubDate" : "Fri, 23 May 2025 22:03:00",
          "title" : "Chess on Friday 23rd May 2025 - "
-      },
-      {
-         "description" : "After four rounds at the TePe Sigeman & Co chess tournament, Javokhir Sindarov and Yagiz Erdogmus (pictured) share the lead with 3 points each. Nils Grandelius is half a point behind on 2&frac12;, followed by Ray Robson and Tan Zhongyi on 2 points. Tan, who lost her first two games, has bounced back with consecutive wins in rounds three and four. Eight of the sixteen games played so far have ended decisively in what has been an entertaining tournament for spectators. | Photo: Mikael Svensson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-4",
-         "pubDate" : "Fri, 23 May 2025 22:00:00",
-         "title" : "TePe Sigeman & Co: Sindarov and Erdogmus share the lead, Tan scores two wins in a row"
       },
       {
          "description" : " The 96th German Championships took place Thu 15th May to Fri 23rd May 2025. Players: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa and Marco Dobrikov. Vincent Keymer secured clear first with a round to spare before losing a wild game in the final round to Donchenko. Dinara Wagner beat Hanna Marie Klek 2-0 in a 5m+10spm tie-break to win the women's title. Tobias Kuegel won the Candidates event with 7/9. The German blitz championships and women's blitz championships are tomorrow. I will treat that as a separate event. ",
@@ -104,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/karpov-cup-50-years-later-2025",
          "pubDate" : "Fri, 23 May 2025 18:15:00",
          "title" : "Karpov Cup - 50 years later 2025 - Games and Results"
-      },
-      {
-         "description" : "The Chess.com Classic is the second and final leg of the 2025 Champions Chess Tour. The deciding stage is taking place from Tuesday to Friday, as sixteen players, including Magnus Carlsen, world champion Gukesh Dommaraju and Hikaru Nakamura, battle in a double-elimination bracket. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2025-live",
-         "pubDate" : "Fri, 23 May 2025 16:45:00",
-         "title" : "Chess.com Classic Grand Final - Live!"
       },
       {
          "description" : "GM Minh Le won the May 23 edition of Freestyle Friday with 9.5 points, beating out a field of 243 players, including GM Luca Moroni Jr. on tiebreaks. It was the first win in Freestyle Friday for the eight-time Titled Tuesday champion Le. Le scor...",
@@ -752,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-april-2025/",
          "pubDate" : "Tue, 13 May 2025 10:39:34",
          "title" : "ECU E-Magazine April 2025"
-      },
-      {
-         "description" : "We&#39;re excited to introduce our new Friends &#38;amp; Family Plan, an easy way to enjoy the full Chess.com Premium Diamond experience with up to six people, all under one plan. Now, you and your loved ones can enjoy all our Premium benefits with a disc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-friends-and-family-plan",
-         "pubDate" : "Tue, 13 May 2025 08:25:00",
-         "title" : "Announcing New Friends And Family Premium Plans"
       },
       {
          "description" : "Former National Champion Grandmaster Murali Karthikeyan and Grandmaster Daneshvar Bardiya (Iran) continued to be in the top position by scoring smooth victories over Aleksey Grebnev",
