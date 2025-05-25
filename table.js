@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2025-05-23","31","<a href=http://www.uschess.org/msa/XtblMain.php?202505233282 target='_blank'>FBCC NATIONAL LUCKY PENNY OPEN</a>",
+"CYPRESS","2025-05-23","33","<a href=http://www.uschess.org/msa/XtblMain.php?202505233272 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2025-05-23","11","<a href=http://www.uschess.org/msa/XtblMain.php?202505233262 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2025-05-16  - 05-18","37","<a href=http://www.uschess.org/msa/XtblMain.php?202505180592 target='_blank'>HOUSTON FIDE 2025</a>",
 "HOUSTON","2025-05-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202505179312 target='_blank'>CHESSPANDA05172025SATURDAY</a>",
 "SPRING","2025-05-16","20","<a href=http://www.uschess.org/msa/XtblMain.php?202505168942 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2024-10-19","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410190912 target='_blank'>CHESSPANDA10192024SATURDAY</a>",
 "SPRING","2024-10-18","34","<a href=http://www.uschess.org/msa/XtblMain.php?202410181282 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-10-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202410180332 target='_blank'>FBCC 2024 NATIONAL CHOCOLATE CUPCAK</a>",
-"HOUSTON","2024-10-12","331","<a href=http://www.uschess.org/msa/XtblMain.php?202410128202 target='_blank'>NATIONAL CHESS DAY AT EISENHOWER HS</a>",
-"HOUSTON","2024-10-12","11","<a href=http://www.uschess.org/msa/XtblMain.php?202410127152 target='_blank'>OCT 12 - TROPHY SCHOLASTIC ON NATIO</a>",
-"HOUSTON","2024-10-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202410126442 target='_blank'>CHESSPANDA10122024SATURDAY</a>",
 ]);
