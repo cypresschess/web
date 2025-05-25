@@ -2,15 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 8th Sharjah Masters, a 9-round Swiss open for players with a 2500+ Elo rating, is set to take place from 17-25 May at the Sharjah Cultural & Chess Club in the UAE. Lower-rated players can compete in the Masters B or C events. The tournament follows a 90-minute time control with a 30-second increment per move. Nodirbek Abdusattorov, Anish Giri and Parham Maghsoodloo are the top seeds. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-live",
-         "pubDate" : "Sun, 25 May 2025 12:05:00",
-         "title" : "Sharjah Masters - Live!"
+         "description" : " The 8th Sharjah Masters took place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc. Anish Giri took clear first place with 7/9 beating Mittal Aditya in the final round. Nodirbek Abdusattorov could only draw with the black pieces against M Amin Tabatabaei. Bibisara Assaubayeva drew against Rinat Jumabayev and became the 43rd woman to earn the GM title.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-sharjah-masters-2025",
+         "pubDate" : "Sun, 25 May 2025 19:15:00",
+         "title" : "8th Sharjah Masters 2025 - Games and Results"
       },
       {
-         "description" : "The chess world has a new record-breaker. 10-year-old FM Roman Shogdzhiev from Russia has become the youngest International Master (IM) in history, smashing the record by over five months and reinforcing his status as one of the chess world&#39;s most...",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121396816.cms\" />Indian grandmasters D Gukesh and Arjun Erigaisi are set to compete in the prestigious Norway Chess tournament, facing formidable opponents like Magnus Carlsen and Hikaru Nakamura. Koneru Humpy and R Vaishali will represent India in the women's section. The tournament features equal prize money for both men and women, highlighting India's growing presence in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-d-gukesh-to-take-on-magnus-carlsen-in-opening-round-of-norway-chess/articleshow/121396816.cms",
+         "pubDate" : "Sun, 25 May 2025 16:56:56",
+         "title" : "Gukesh to take on Carlsen in opening round of Norway Chess"
+      },
+      {
+         "description" : "You want to analyse a position without having to enter all the moves first? No problem: with ChessBase 18, the position is quickly displayed on the board and you can analyse it with or without an engine, or import other game positions using FEN code. Learn how to use the \"Position Setup\" menu to start immediately at the point that interests you, and find out what FEN is all about...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-15-setting-up-and-analysing-positions",
+         "pubDate" : "Sun, 25 May 2025 14:20:00",
+         "title" : "ChessBase 18 - Tips for Beginners, Part 15: Setting up and analysing positions"
+      },
+      {
+         "description" : "The chess world has a new record-breaker. 10-year-old Roman Shogdzhiev from Russia has become the youngest International Master (IM) in history, smashing the record by over five months and reinforcing his status as one of the chess world&#39;s most ex...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/shogdzhiev-achieves-final-norm-becomes-youngest-ever-international-master",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
          "pubDate" : "Wed, 21 May 2025 21:27:00",
          "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
-      },
-      {
-         "description" : " The 8th Sharjah Masters take place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-sharjah-masters-2025",
-         "pubDate" : "Wed, 21 May 2025 21:26:00",
-         "title" : "8th Sharjah Masters 2025 - Games and Results"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championships</a> were essentially decided when Vincent Keymer beat Matthias Bluebaum in Round 7 and moved two points clear with two rounds to go. Magnus Carlsen beat Nodirbek Abdusattorov 3-1 and Hikaru Nakamura also 3-1 to win the Winners final of the online <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. The Carlsen-Nakamura match ended extraordinarily with Nakamura resigning in a won position with about three minutes on the clock. It's hard not to think this is an indication of the psychological grip Carlsen has over many of his rivals. It's double elimin",
