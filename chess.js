@@ -18,6 +18,14 @@ news_feed (
          "title" : "Match of Two Capitals 2025 - Games and Results"
       },
       {
+         "description" : "GM Daniel Naroditsky attained his 28th Bullet Brawl&#38;nbsp;title and the $400 first prize after scoring 247 points on Saturday. GM Hikaru Nakamura was Naroditsky&#39;s main adversary but couldn&#39;t keep pace with Naroditsky, who worked through a record-br...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-may-24-2025",
+         "pubDate" : "Sat, 24 May 2025 18:19:00",
+         "title" : "Naroditsky Bolts To 28th Title, Outdoes Super-GM Trio"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament is taking place on 20-26 at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Richard Rapport, Javokhir Sindarov and Ray Robson as the top seeds. Living legend Vasyl Ivanchuk and former women's world champion Tan Zhongyi are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-friends-and-family-plan",
          "pubDate" : "Tue, 13 May 2025 08:25:00",
          "title" : "Announcing New Friends And Family Premium Plans"
-      },
-      {
-         "description" : "IM Faustino&#38;nbsp;Oro&#39;s rise shows no signs of slowing. Now, the 11-year-old prodigy is set to face former World Champion Viswanathan Anand in a match, and potentially in a knockout event. The youngster also dazzled a national TV audience in Spain ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-vs-vishy-anand-clash-amazes-millions-in-tv-appearance",
-         "pubDate" : "Mon, 12 May 2025 23:55:00",
-         "title" : "'Messi Of Chess' Fausti Oro Hits Jackpot With Anand Clashes, TV Appearance & Sponsor Deal"
       },
       {
          "description" : "Former National Champion Grandmaster Murali Karthikeyan and Grandmaster Daneshvar Bardiya (Iran) continued to be in the top position by scoring smooth victories over Aleksey Grebnev",
