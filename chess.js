@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German Chess Championships concluded in Munich with notable outcomes in both the open and women's sections. The event, held over nine rounds, saw Vincent Keymer claim the open title for the first time in his career. Matthias Bluebaum grabbed clear second place. Meanwhile, Dinara Wagner emerged victorious in the women's competition after beating Hanna Marie Klek in a rapid playoff. | Photo: Frank Binding",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/german-chess-championships-2025-report",
+         "pubDate" : "Sun, 25 May 2025 22:15:00",
+         "title" : "Vincent Keymer and Dinara Wagner are 2025 German chess champions"
+      },
+      {
+         "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is still being led by Javokhir Sindarov on 4/6 who drew against Nils Grandelius in round 6. He faces Vasyl Ivanchuk in the final round. Ivanchuk suffered his second loss of the tournament on time in his defeat by Richard Rapport. This was a wild London where Ivanchuk equalised, then got into trouble and was lost, was allowed back into the game and then lost on time. Yagiz Kaan Erdogmus drew with Ray Robson in 109 moves. Tan Zhongyi drew with Erwin L'Ami. The <a href=\"https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025\">Match of Two Capitals</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-sunday-25th-may-2025",
+         "pubDate" : "Sun, 25 May 2025 20:29:00",
+         "title" : "Chess on Sunday 25th May 2025 - "
+      },
+      {
          "description" : " The 8th Sharjah Masters took place Sat 17th to Sun 25th May 2025. Leading players: Nodirbek Abdusattorov, Anish Giri, Parham Maghsoodloo, Samuel Sevian, Amin Tabatabaei M. Shant Sargsyan and Gabriel Sargissian etc. Anish Giri took clear first place with 7/9 beating Mittal Aditya in the final round. Nodirbek Abdusattorov could only draw with the black pieces against M Amin Tabatabaei. Bibisara Assaubayeva drew against Rinat Jumabayev and became the 43rd woman to earn the GM title.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/in-a-restaurant-in-paris",
          "pubDate" : "Thu, 15 May 2025 21:21:34",
          "title" : "In a restaurant in Paris"
-      },
-      {
-         "description" : " The Asian Individual Championships took place in Al Ain UAE, Wed 7th to Thu 15th May 2025. Open and women's events. Players: Sarin Nihal, Amin Tabatabaei M., Nodirbek Yakubboev, Murali Karthikeyan, Shamsiddin Vokhidov, Son Nguyen Ngoc Truong, Saleh Salem A.R., Pouya Idani, Luke Mendonca Leon, Abhimanyu Puranik, Xiangyu Xu, Bardiya Daneshvar, V Pranav, Jingyao Tin, L Narayanan S, David Paravyan, Abhijeet Gupta, M Pranesh, Pa Iniyan, Jinshi Bai, Shekhar Ganguly Surya, Venkataraman Karthik, Ivan Zemlyanskii etc Leading players in the women's event: Leya Garifullina, Valentina Gunina, Olga Girya, Yuxin Song, Nguyen Pham Le Thao, Warda Aulia Medina, Bardiya Daneshvar won the Open event with 7/9 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/asian-individual-championships-2025",
-         "pubDate" : "Thu, 15 May 2025 20:05:00",
-         "title" : "Asian Individual Championships 2025 - Games and Results"
       },
       {
          "description" : "GM&#38;nbsp;Anna Muzychuk has won the 2025 Grosslobming FIDE Women&#39;s Grand Prix on tiebreaks over GM Zhu Jiner, but said afterward, &#34;it has never been so sad to win an event.&#34; Anna made a draw against GM Vaishali Rameshbabu which would have given her ...",
