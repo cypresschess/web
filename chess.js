@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121406608.cms\" />D Gukesh vs Magnus Carlsen Live Streaming: D Gukesh is set to face Magnus Carlsen at the 2025 Norway Chess tournament in Stavanger, marking their first encounter since Carlsen relinquished his world title in 2023. Gukesh aims to rebound from a recent slump, while Carlsen remains uncertain about his performance.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-magnus-carlsen-live-streaming-norway-chess-2025-when-where-to-watch-round-1-clash/articleshow/121406608.cms",
+         "pubDate" : "Mon, 26 May 2025 06:41:36",
+         "title" : "D Gukesh vs Magnus Carlsen Live Streaming, Norway Chess 2025"
+      },
+      {
          "description" : "The German Chess Championships concluded in Munich with notable outcomes in both the open and women's sections. The event, held over nine rounds, saw Vincent Keymer claim the open title for the first time in his career. Matthias Bluebaum grabbed clear second place. Meanwhile, Dinara Wagner emerged victorious in the women's competition after beating Hanna Marie Klek in a rapid playoff. | Photo: Frank Binding",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
