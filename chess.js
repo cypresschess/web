@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 3rd Cambridge International Open takes place Mon 26th to Sat 31st May 2025. Top seeds Michael Adams and Sergei Tiviakov.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/3rd-cambridge-international-open-2025",
+         "pubDate" : "Mon, 26 May 2025 20:21:00",
+         "title" : "3rd Cambridge International Open 2025 - Games and Results"
+      },
+      {
+         "description" : " The Match of Two Capitals took place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg played a six game classical (90m + 30spm) two games per day. Dubov won game three, the rest were drawn with a final result of 3.5-2.5.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025",
+         "pubDate" : "Mon, 26 May 2025 19:18:00",
+         "title" : "Match of Two Capitals 2025 - Games and Results"
+      },
+      {
+         "description" : " &#8220;Africa Day&#8221; is commemorated on May 25th of every year as a rallying cry for Pan-African unity, justice, and regional collaboration. The day celebrates the founding of the Organization of African Unity (OAU) in 1963. The OAU became the African Union (AU) in 2002. This year marks the 62nd anniversary of the organization's founding. This The post <a href=\"https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/\">African Chess celebrates &#8220;Africa Day&#8221;</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/05/26/african-chess-celebrates-africa-day/",
+         "pubDate" : "Mon, 26 May 2025 17:12:59",
+         "title" : "African Chess celebrates \"Africa Day\""
+      },
+      {
+         "description" : " The 30th Tepe Sigeman & Co Chess Tournament took place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus. Javokhir Sindarov won the event with an undefeated 4.5/7 - he defeated Erwin L'Ami and Tan Zhongyi. Half a point behind was Yagiz Kaan Erdogmus who just lost the one game, to Vasyl Ivanchuk, Nils Grandelius beat Tan Zhongyi in the final round to catch him. Vasyl Ivanchuk's good recent run was undone by two losses on time. The organisers must be very pleased as they got a tournament with something interest",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
+         "pubDate" : "Mon, 26 May 2025 16:50:00",
+         "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,19 +42,11 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "Anish Giri claimed outright victory at the 2025 Sharjah Masters with a 7/9 score, edging out top seed Nodirbek Abdusattorov and European Champion Aleksandar Indjic, who shared second place. Giri's win in the final round secured him the title and a place just outside the world's top ten in the live ratings. Meanwhile, Bibisara Assaubayeva achieved her third and final grandmaster norm, finishing with 5/9 points against consistently higher-rated opposition and earning the GM title at age 21. | Photos: Sharjah Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-9",
-         "pubDate" : "Mon, 26 May 2025 11:30:00",
-         "title" : "Giri outright winner in Sharjah, Assaubayeva clinches GM title"
-      },
-      {
          "description" : "GM Oleksandr Bortnyk is one step closer to qualifying for the 2025 Esports World Cup and $6,000 richer after winning the DreamHack Dallas 2025. Bortnyk won the double-elimination knockout final on Sunday and posted match wins over GMs Alexey Saran...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-dreamhack-dallas-2025",
-         "pubDate" : "Mon, 26 May 2025 07:30:30",
+         "pubDate" : "Mon, 26 May 2025 07:30:00",
          "title" : "Bortnyk Conquers DreamHack Dallas, Books Esports World Cup Last Chance Qualifier Spot"
       },
       {
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://theweekinchess.com/twic-news-feed/chess-on-saturday-24th-may-2025",
          "pubDate" : "Sat, 24 May 2025 21:21:00",
          "title" : "Chess on Saturday 24th May 2025 - "
-      },
-      {
-         "description" : " The Match of Two Capitals takes place in Moscow Sat 24th to Mon 26th May 2025. Daniil Dubov representing Moscow and Maxim Matlakov representing St Petersburg play a six game classical (90m + 30spm) match two games per day.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025",
-         "pubDate" : "Sat, 24 May 2025 19:43:00",
-         "title" : "Match of Two Capitals 2025 - Games and Results"
       },
       {
          "description" : "GM Daniel Naroditsky attained his 28th Bullet Brawl&#38;nbsp;title and the $400 first prize after scoring 247 points on Saturday. GM Hikaru Nakamura was Naroditsky&#39;s main adversary but couldn&#39;t keep pace with Naroditsky, who worked through a record-br...",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-may-26",
          "pubDate" : "Thu, 22 May 2025 00:00:00",
          "title" : "US Chess Offices Closed Monday, May 26"
-      },
-      {
-         "description" : " The 30th Tepe Sigeman & Co Chess Tournament takes place in Malmo, Sweden, Tue 20th to Mon 26th May 2025. Players: Richard Rapport, Javokhir Sindarov, Ray Robson, Nils Grandelius, Vasyl Ivanchuk, Erwin L'Ami (a last minute replacement for Vidit Gujrathi), Tan Zhongyi and Yagiz Kaan Erdogmus.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
-         "pubDate" : "Wed, 21 May 2025 21:27:00",
-         "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championships</a> were essentially decided when Vincent Keymer beat Matthias Bluebaum in Round 7 and moved two points clear with two rounds to go. Magnus Carlsen beat Nodirbek Abdusattorov 3-1 and Hikaru Nakamura also 3-1 to win the Winners final of the online <a href=\"https://theweekinchess.com/chessnews/events/chess.com-classic-2025\">Chess.com Classic</a>. The Carlsen-Nakamura match ended extraordinarily with Nakamura resigning in a won position with about three minutes on the clock. It's hard not to think this is an indication of the psychological grip Carlsen has over many of his rivals. It's double elimin",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
          "pubDate" : "Fri, 16 May 2025 20:58:00",
          "title" : "GCT Superbet Chess Classic Romania 2025 - Games and Results"
-      },
-      {
-         "description" : " First of all the <a href=\"https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025\">Superbet Romania Chess Classic</a> finished on Friday 16th. Praggnanandhaa won a blitz tie-break against MVL and Alireza Firouzja to take first place. There is a very strong <a href=\"https://theweekinchess.com/chessnews/events/96th-ch-ger-2025\">German Championship</a> in Munich. Players in the Masters: Vincent Keymer, Frederik Svane, Matthias Bluebaum, Rasmus Svane, Dennis Wagner, Alexander Donchenko, Niclas Huschenbeth, Martin Kraemer, Leonardo Costa, and Marco Dobrikov. Leading players in the women's section: Dinara Wagner, Kateryna Dolzhykova etc. The <a href=\"https://theweekinc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-this-weekend-16th-to-18th-may-2025",
-         "pubDate" : "Fri, 16 May 2025 20:22:00",
-         "title" : "Chess this Weekend 16th to 18th May 2025 - "
       },
       {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
