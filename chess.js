@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri claimed outright victory at the 2025 Sharjah Masters with a 7/9 score, edging out top seed Nodirbek Abdusattorov and European Champion Aleksandar Indjic, who shared second place. Giri's win in the final round secured him the title and a place just outside the world's top ten in the live ratings. Meanwhile, Bibisara Assaubayeva achieved her third and final grandmaster norm, finishing with 5/9 points against consistently higher-rated opposition and earning the GM title at age 21. | Photos: Sharjah Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2025-9",
+         "pubDate" : "Mon, 26 May 2025 11:30:00",
+         "title" : "Giri outright winner in Sharjah, Assaubayeva clinches GM title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121406608.cms\" />D Gukesh vs Magnus Carlsen Live Streaming: D Gukesh is set to face Magnus Carlsen at the 2025 Norway Chess tournament in Stavanger, marking their first encounter since Carlsen relinquished his world title in 2023. Gukesh aims to rebound from a recent slump, while Carlsen remains uncertain about his performance.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "D Gukesh vs Magnus Carlsen Live Streaming, Norway Chess 2025"
       },
       {
-         "description" : "The German Chess Championships concluded in Munich with notable outcomes in both the open and women's sections. The event, held over nine rounds, saw Vincent Keymer claim the open title for the first time in his career. Matthias Bluebaum grabbed clear second place. Meanwhile, Dinara Wagner emerged victorious in the women's competition after beating Hanna Marie Klek in a rapid playoff. | Photo: Frank Binding",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/german-chess-championships-2025-report",
-         "pubDate" : "Sun, 25 May 2025 22:15:00",
-         "title" : "Vincent Keymer and Dinara Wagner are 2025 German chess champions"
+         "description" : "GM Anish Giri has won the 2025 Sharjah Masters after defeating GM Aditya Mittal in 91 moves in the final round to finish on 7/9. GMs Aleksandar Indjic and Nodirbek Abdusattorov finished half a point behind, while the other big winner of the event ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/giri-wins-sharjah-masters-2025-assaubayeva-gm",
+         "pubDate" : "Mon, 26 May 2025 01:48:00",
+         "title" : "Giri Wins 2025 Sharjah Masters, Assaubayeva Earns GM Title"
       },
       {
          "description" : " The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> is still being led by Javokhir Sindarov on 4/6 who drew against Nils Grandelius in round 6. He faces Vasyl Ivanchuk in the final round. Ivanchuk suffered his second loss of the tournament on time in his defeat by Richard Rapport. This was a wild London where Ivanchuk equalised, then got into trouble and was lost, was allowed back into the game and then lost on time. Yagiz Kaan Erdogmus drew with Ray Robson in 109 moves. Tan Zhongyi drew with Erwin L'Ami. The <a href=\"https://theweekinchess.com/chessnews/events/match-of-two-capitals-2025\">Match of Two Capitals</a> ",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-d-gukesh-to-take-on-magnus-carlsen-in-opening-round-of-norway-chess/articleshow/121396816.cms",
          "pubDate" : "Sun, 25 May 2025 16:56:56",
          "title" : "Gukesh to take on Carlsen in opening round of Norway Chess"
-      },
-      {
-         "description" : "You want to analyse a position without having to enter all the moves first? No problem: with ChessBase 18, the position is quickly displayed on the board and you can analyse it with or without an engine, or import other game positions using FEN code. Learn how to use the \"Position Setup\" menu to start immediately at the point that interests you, and find out what FEN is all about...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-18-tips-for-beginners-part-15-setting-up-and-analysing-positions",
-         "pubDate" : "Sun, 25 May 2025 14:20:00",
-         "title" : "ChessBase 18 - Tips for Beginners, Part 15: Setting up and analysing positions"
       },
       {
          "description" : "The chess world has a new record-breaker. 10-year-old Roman Shogdzhiev from Russia has become the youngest International Master (IM) in history, smashing the record by over five months and reinforcing his status as one of the chess world&#39;s most ex...",
@@ -738,14 +738,6 @@ news_feed (
          "title" : "Zhu Jiner's 5th Win In A Row Hits Anna Muzychuk's Candidates Hopes"
       },
       {
-         "description" : "After six rounds of the Superbet Chess Classic Romania 2025, we are still far from having a frontrunner. Four players are tied in first place. In the only decisive game of the round, GM Alireza Firouzja defeated World Champion Gukesh Dommaraju to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-6",
-         "pubDate" : "Tue, 13 May 2025 14:13:00",
-         "title" : "Firouzja Beats Gukesh, Joins 4-Way Tie In 1st"
-      },
-      {
          "description" : "ECU E-Magazine April 2025 is out! In this edition of the ECU E-Magazine you may read about: The April 2025 issue of the ECU Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -904,14 +896,6 @@ news_feed (
          "link" : "https://aicf.in/asian-junior-girls-chess-championship-2025-from-25th-june-to-4th-july-2025-in-sri-lanka/",
          "pubDate" : "Tue, 06 May 2025 11:40:51",
          "title" : "Asian Junior/ Girls Chess Championship 2025 from 25th June to 4th July 2025 in Sri Lanka"
-      },
-      {
-         "description" : "European Chess Union and the Georgian Chess Federation invite ECU member federations to participate in European team Chess Championship 2025. The event will be held in Batumi, Georgia, from 4 of October (arrival day) to 15 of October (departure day). The event will be played in Open and Women's sections separately, with 9 swiss rounds in each competition and time control of 90 minutes for 40 moves + 30 minutes for rest of the game with an increment of 30 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2025-official-regulations/",
-         "pubDate" : "Mon, 05 May 2025 10:04:21",
-         "title" : "European Team Chess Championship 2025 - Official regulations"
       }
    ]
 }
