@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Magnus Carlsen beat World Champion D Gukesh in the first round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">13th Norway Chess tournament</a>. Carlsen tried to surprise Gukesh in the opening with the London but ended up being surprised himself with 4....Bg4. There was a long struggle that led to a sharp endgame and down to less than 10 seconds on the clock Gukesh blundered away a draw with 46.Qh6? instead of 46.Rg2+ which was his only move. Hikaru Nakamura won in the endgame too, against Fabiano Caruana. Arjun Erigaisi drew against Wei Yi with the black pieces but beat him in the Armageddon. This extra game divides the points between the players in case",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-monday-26th-may-2025",
+         "pubDate" : "Mon, 26 May 2025 22:35:00",
+         "title" : "Chess on Monday 26th May 2025 - "
+      },
+      {
+         "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
+         "pubDate" : "Mon, 26 May 2025 21:58:00",
+         "title" : "13th Norway Chess 2025 - "
+      },
+      {
          "description" : " The 3rd Cambridge International Open takes place Mon 26th to Sat 31st May 2025. Top seeds Michael Adams and Sergei Tiviakov.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
          "pubDate" : "Mon, 26 May 2025 16:45:00",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen won a spectacular king hunt to beat World Champion Gukesh Dommaraju in Norway Chess 2025 in their first classical game since Gukesh won the title. The day&#39;s other classical winner was GM Hikaru Nakamura, who ground down GM Fabian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-1",
+         "pubDate" : "Mon, 26 May 2025 12:52:00",
+         "title" : "Carlsen, Nakamura Win In Explosive Start To Norway Chess 2025"
       },
       {
          "description" : "GM Oleksandr Bortnyk is one step closer to qualifying for the 2025 Esports World Cup and $6,000 richer after winning the DreamHack Dallas 2025. Bortnyk won the double-elimination knockout final on Sunday and posted match wins over GMs Alexey Saran...",
@@ -232,14 +256,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2025/",
          "pubDate" : "Thu, 22 May 2025 19:02:22",
          "title" : "European Union Youth U8-U14 Chess Championship 2025"
-      },
-      {
-         "description" : " The 13th Norway Chess tournament takes place Mon 26th May to Fri 6th Jun 2025 in Stavanger, Norway. There are two elite tournaments, the regular tournament and a women's event, both are 6 players and 10 rounds. Norway chess have a unique twist in that if games are drawn there is an additional Armageddon game. So the points are: Win in the classical game: 3 points, Loss in the classical game: 0 points, Draw in the classical game & win Armageddon: 1&frac12; points, Draw in the classical game & loss Armageddon: 1 point. Players: Magnus Carlsen, Hikaru Nakamura, D Gukesh, Arjun Erigaisi, Fabiano Caruana and Wei Yi. Women's event: Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk,Rameshbabu Va",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-norway-chess-2025",
-         "pubDate" : "Thu, 22 May 2025 12:40:00",
-         "title" : "13th Norway Chess 2025 - "
       },
       {
          "description" : " The French Interclubs Top 16 takes place in Belfort Thu 22nd May to Sun 1st Jun 2025. The format is 7 preliminary rounds in two groups before the top half in each group go to Poule Haute and the bottom half to Poule Basse to decide titles and relegation. Whilst it's by no means a given that all these players will play the team lists include: Firouzja, Niemann, MVL, Harikrishna, Esipenko, Jorden Van Foreest, Kasimdzhanov, Sadhwani, Tabatabaei, Eljanov, Karthikeyan, Murzin, Mamedov, Navara, Yuffa, Gawain Maroroa Jones, Gelfand, Dardha, Amin Bassem, Ivanchuk etc. ",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "Praggnanandhaa wins Superbet Classic, his first Grand Chess Tour victory"
       },
       {
-         "description" : " The Grand Chess Tour Superbet Chess Classic Romania took place in Bucharest 7th to 16th May 2025. Players: D Gukesh, Fabiano Caruana, Nodirbek Abdusattorov, R Praggnanandhaa, Alireza Firouzja, Wesley So, Levon Aronian, Krzysztof Duda Jan, Maxime Vachier-Lagrave and Daniel Deac Bogdan. Praggnanandhaa won the tournament but only after a tie-break blitz against MVL and Firouzja. Praggnanandhaa drew his final round game allowing first MVL and then Firouzja to catch him but he won the third and final game of the blitz tie-break to win the event. This is Praggnanandhaa's second major title of the year after he won Tata Steel following a tie-break at the start of February. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-superbet-chess-classic-romania-2025",
-         "pubDate" : "Fri, 16 May 2025 20:58:00",
-         "title" : "GCT Superbet Chess Classic Romania 2025 - Games and Results"
-      },
-      {
          "description" : "The 2025 Superbet Chess Classic in Bucharest marks the second stage of this year's Grand Chess Tour and the first of two classical tournaments in the series. Held on 6-16 May, the event brings together ten top grandmasters in a single round-robin format. Reigning tournament champion Fabiano Caruana and world champion Gukesh Dommaraju are part of the star-studded lineup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vlastimil-hort-obituary",
          "pubDate" : "Wed, 14 May 2025 05:31:00",
          "title" : "Vlastimil Hort (1944-2025)"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) has introduced significant changes for the 2025 World Blitz Championship in Doha, Qatar, most notably, a new rule to ensure the tournament ends with a clear winner. FIDE&#39;s move, announced Tuesday, comes ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-makes-another-format-change-for-world-blitz-championship",
-         "pubDate" : "Wed, 14 May 2025 01:33:00",
-         "title" : "FIDE Introduces Armageddon Rule, Changes World Blitz Championship Format Again"
       },
       {
          "description" : "Today's puzzles, like yesterday's, come from the just-concluded SuperNationals VIII in Orlando. A flash report with winners is available, and a full report with more highlights from Sunday will be available Thursday. In the time being, check out WGM Sabina Foisor's annotations in the reports from Friday's and Saturday's games for a number of key moments, many of which will be highlighted in this and future worksheets. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
