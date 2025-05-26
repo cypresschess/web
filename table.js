@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2025-05-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202505254612 target='_blank'>MAY 25TH 4 ROUND SUNDAY SWISS +1600</a>",
+"HOUSTON","2025-05-25","4","<a href=http://www.uschess.org/msa/XtblMain.php?202505254392 target='_blank'>BELLAIRE SUNDAY SWISS 05/25/25</a>",
+"HOUSTON","2025-05-24","7","<a href=http://www.uschess.org/msa/XtblMain.php?202505244192 target='_blank'>MAY 24TH SATURDAY SWISS U1600</a>",
 "SUGAR LAND","2025-05-23","31","<a href=http://www.uschess.org/msa/XtblMain.php?202505233282 target='_blank'>FBCC NATIONAL LUCKY PENNY OPEN</a>",
 "CYPRESS","2025-05-23","33","<a href=http://www.uschess.org/msa/XtblMain.php?202505233272 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2025-05-23","11","<a href=http://www.uschess.org/msa/XtblMain.php?202505233262 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -196,7 +199,4 @@ jtable([
 "SPRING","2024-10-25","31","<a href=http://www.uschess.org/msa/XtblMain.php?202410254752 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-10-18  - 10-20","420","<a href=http://www.uschess.org/msa/XtblMain.php?202410202722 target='_blank'>27TH ANNUAL TX GRADE CHAMPS N-C</a>",
 "HOUSTON","2024-10-19  - 10-20","14","<a href=http://www.uschess.org/msa/XtblMain.php?202410202602 target='_blank'>U2400 + A BLITZ  - OCTOBER 2024</a>",
-"HOUSTON","2024-10-19","8","<a href=http://www.uschess.org/msa/XtblMain.php?202410190912 target='_blank'>CHESSPANDA10192024SATURDAY</a>",
-"SPRING","2024-10-18","34","<a href=http://www.uschess.org/msa/XtblMain.php?202410181282 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-10-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202410180332 target='_blank'>FBCC 2024 NATIONAL CHOCOLATE CUPCAK</a>",
 ]);
