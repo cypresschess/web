@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Mon, 26 May 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : "Anish Giri claimed outright victory at the 2025 Sharjah Masters with a 7/9 score, edging out top seed Nodirbek Abdusattorov and European Champion Aleksandar Indjic, who shared second place. Giri's win in the final round secured him the title and a place just outside the world's top ten in the live ratings. Meanwhile, Bibisara Assaubayeva achieved her third and final grandmaster norm, finishing with 5/9 points against consistently higher-rated opposition and earning the GM title at age 21. | Photos: Sharjah Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sharjah-masters-2025-9",
          "pubDate" : "Mon, 26 May 2025 11:30:00",
          "title" : "Giri outright winner in Sharjah, Assaubayeva clinches GM title"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk is one step closer to qualifying for the 2025 Esports World Cup and $6,000 richer after winning the DreamHack Dallas 2025. Bortnyk won the double-elimination knockout final on Sunday and posted match wins over GMs Alexey Saran...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-dreamhack-dallas-2025",
+         "pubDate" : "Mon, 26 May 2025 07:30:30",
+         "title" : "Bortnyk Conquers DreamHack Dallas, Books Esports World Cup Last Chance Qualifier Spot"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121406608.cms\" />D Gukesh vs Magnus Carlsen Live Streaming: D Gukesh is set to face Magnus Carlsen at the 2025 Norway Chess tournament in Stavanger, marking their first encounter since Carlsen relinquished his world title in 2023. Gukesh aims to rebound from a recent slump, while Carlsen remains uncertain about his performance.",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/",
          "pubDate" : "Tue, 13 May 2025 18:52:56",
          "title" : "Kevin Pryor chats with The Chess Drum"
-      },
-      {
-         "description" : "GM Zhu Jiner&#39;s fifth win in a row, this time against GM Nana Dzagnidze, has given her a share of the 2025 Grosslobming FIDE Women&#39;s Grand Prix lead and left co-leader GM Anna Muzychuk missing out on a FIDE Women&#39;s Candidates spot to GM Aleksandra ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-7",
-         "pubDate" : "Tue, 13 May 2025 14:51:11",
-         "title" : "Zhu Jiner's 5th Win In A Row Hits Anna Muzychuk's Candidates Hopes"
       },
       {
          "description" : "ECU E-Magazine April 2025 is out! In this edition of the ECU E-Magazine you may read about: The April 2025 issue of the ECU Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format below.",
