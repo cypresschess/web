@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round two of the 2025 Norway Chess tournament saw Arjun Erigaisi and Hikaru Nakamura emerging as co-leaders with 4&frac12; points each. Arjun defeated world champion Gukesh Dommaraju in a complex classical game, while Nakamura beat Magnus Carlsen in a double-edged Armageddon decider. Fabiano Caruana recovered from his opening-round loss with a classical win over Wei Yi. Carlsen sits in sole third place with 4 points, while Gukesh remains scoreless. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-2",
+         "pubDate" : "Wed, 28 May 2025 00:05:00",
+         "title" : "Norway Chess: Arjun inflicts a second loss on Gukesh, Naka beats Carlsen in Armageddon"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "Sindarov wins TePe Sigeman & Co in Malm&ouml;, Erdogmus and Grandelius share second place"
       },
       {
-         "description" : "Round one of the Norway Chess tournament saw Magnus Carlsen and Hikaru Nakamura claim 3 points each with classical wins over Dommaraju Gukesh and Fabiano Caruana respectively, each capitalising on late blunders by their opponents. The third game, between Wei Yi and Arjun Erigaisi, was drawn in classical play and decided by Armageddon, with Arjun prevailing with the black pieces. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-1",
-         "pubDate" : "Tue, 27 May 2025 09:05:00",
-         "title" : "Norway Chess: Carlsen beats Gukesh, Nakamura beats Caruana"
+         "description" : "GM Arjun Erigaisi has joined GM Hikaru Nakamura in the&#38;nbsp;Norway Chess 2025 lead after handing a second loss in a row to World Champion Gukesh Dommaraju. GM Fabiano Caruana bounced back with a fine win over GM Wei Yi, while GM Magnus Carlsen fir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-2",
+         "pubDate" : "Tue, 27 May 2025 13:25:00",
+         "title" : "Arjun Stuns Gukesh, Caruana Bounces Back, Nakamura Beats Carlsen"
       },
       {
          "description" : "The European Chess Union, in cooperation with Chessdom.com and its Chess Calendar, have launched a new calendar on their official website. You can find it at https://www.europechess.org/calendar/ The calendar includes all ECU events from 2014 with detailed information and links to the official websites and/or results. It also has sections for 2026 and 2027 events, which will be timely updated.",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-7",
          "pubDate" : "Wed, 14 May 2025 11:36:00",
          "title" : "Abdusattorov Wins 1st Game In Bucharest, Joins Chasing Pack"
-      },
-      {
-         "description" : "At Titled Tuesday on May 13, GM Magnus Carlsen tied for first place in both events, winning the first one on tiebreaks before&#38;nbsp;GM Hans Niemann took home the second tournament. GM&#38;nbsp;Hikaru Nakamura, meanwhile, broke one of his own (and Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-may-13-2025",
-         "pubDate" : "Wed, 14 May 2025 08:49:38",
-         "title" : "Nakamura Sets Rating Record (Again), But Carlsen Wins Titled Tuesday (Again) With Niemann"
       },
       {
          "description" : "Thessaloniki, Greece - registration deadline 30th May 2025 For details and online registration - https://britchess.wufoo.com/forms/european-youth-rapid-blitz-championship-2025/",
