@@ -6,8 +6,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2025-1",
-         "pubDate" : "Tue, 27 May 2025 08:45:00",
+         "pubDate" : "Tue, 27 May 2025 09:05:00",
          "title" : "Norway Chess: Carlsen beats Gukesh, Nakamura beats Caruana"
+      },
+      {
+         "description" : "The European Chess Union, in cooperation with Chessdom.com and its Chess Calendar, have launched a new calendar on their official website. You can find it at https://www.europechess.org/calendar/ The calendar includes all ECU events from 2014 with detailed information and links to the official websites and/or results. It also has sections for 2026 and 2027 events, which will be timely updated.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/new-calendar-of-the-european-chess-union/",
+         "pubDate" : "Tue, 27 May 2025 08:04:48",
+         "title" : "New ECU Calendar"
       },
       {
          "description" : "Magnus Carlsen defeated D Gukesh in the Norway Chess tournament, showcasing his mastery in the classical format. Carlsen's win against the reigning world champion highlights his enduring skill, while Arjun Erigaisi's triumph underscores India's strong presence in the competition.",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025",
          "pubDate" : "Mon, 26 May 2025 16:50:00",
          "title" : "Tepe Sigeman & Co Chess Tournament 2025 - Games and Results"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Mon, 26 May 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "GM Magnus Carlsen won a spectacular king hunt to beat World Champion Gukesh Dommaraju in Norway Chess 2025 in their first classical game since Gukesh won the title. The day&#39;s other classical winner was GM Hikaru Nakamura, who ground down GM Fabian...",
