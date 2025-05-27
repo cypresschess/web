@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Tue, 27 May 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "The TePe Sigeman & Co Chess Tournament in Malm&ouml; concluded with Javokhir Sindarov taking clear first place on 4&frac12;/7 points. The 19-year-old from Uzbekistan finished ahead of 13-year-old Turkish prodigy Yagiz Erdogmus and Sweden's Nils Grandelius, who shared second place with 4 points. The event featured a mix of experienced players and rising talents, including strong showings by the youngest participants. | Photo: Mikael Svensson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-7",
+         "pubDate" : "Tue, 27 May 2025 14:00:00",
+         "title" : "Sindarov wins TePe Sigeman & Co in Malm&ouml;, Erdogmus and Grandelius share second place"
+      },
+      {
          "description" : "Round one of the Norway Chess tournament saw Magnus Carlsen and Hikaru Nakamura claim 3 points each with classical wins over Dommaraju Gukesh and Fabiano Caruana respectively, each capitalising on late blunders by their opponents. The third game, between Wei Yi and Arjun Erigaisi, was drawn in classical play and decided by Armageddon, with Arjun prevailing with the black pieces. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/new-calendar-of-the-european-chess-union/",
          "pubDate" : "Tue, 27 May 2025 08:04:48",
          "title" : "New ECU Calendar"
+      },
+      {
+         "description" : "WFM Anna Cramling&#39;s Grand Chess Gala on Twitch Rivals is right around the corner! To celebrate Anna making it to TwitchCon&#39;s main stage, Chess.com is offering all our basic members the opportunity to get 14 days of our Diamond membership for free....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anna-cramling-twitch-rivals-drops-2025",
+         "pubDate" : "Tue, 27 May 2025 08:00:00",
+         "title" : "Watch Anna Cramling At Twitch Rivals To Earn 14 Days Of Chess.com Premium Free"
       },
       {
          "description" : "Magnus Carlsen defeated D Gukesh in the Norway Chess tournament, showcasing his mastery in the classical format. Carlsen's win against the reigning world champion highlights his enduring skill, while Arjun Erigaisi's triumph underscores India's strong presence in the competition.",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/",
          "pubDate" : "Tue, 27 May 2025 01:09:59",
          "title" : "Bellahcene, Wafa are 2025 African Champions!"
+      },
+      {
+         "description" : "Today's puzzles continues our series from SuperNationals VIII in Orlando. The flash report with photos and the full report are both available, and more photos of medalists can be seen here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-3",
+         "pubDate" : "Tue, 27 May 2025 00:00:00",
+         "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 3"
       },
       {
          "description" : " Magnus Carlsen beat World Champion D Gukesh in the first round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">13th Norway Chess tournament</a>. Carlsen tried to surprise Gukesh in the opening with the London but ended up being surprised himself with 4....Bg4. There was a long struggle that led to a sharp endgame and down to less than 10 seconds on the clock Gukesh blundered away a draw with 46.Qh6? instead of 46.Rg2+ which was his only move. Hikaru Nakamura won in the endgame too, against Fabiano Caruana. Arjun Erigaisi drew against Wei Yi with the black pieces but beat him in the Armageddon. This extra game divides the points between the players in case",
@@ -754,22 +786,6 @@ news_feed (
          "title" : "European Youth Rapid and Blitz Championship 2025 4th - 8th August"
       },
       {
-         "description" : "The Czech-German grandmaster Vlastimil Hort, a former world number-six, a candidate for the world championship, and a commentator renowned for his wit and humor, died on Monday at the age of 81. The news was confirmed by the Czech Chess Federation...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vlastimil-hort-obituary",
-         "pubDate" : "Wed, 14 May 2025 05:31:00",
-         "title" : "Vlastimil Hort (1944-2025)"
-      },
-      {
-         "description" : "Today's puzzles, like yesterday's, come from the just-concluded SuperNationals VIII in Orlando. A flash report with winners is available, and a full report with more highlights from Sunday will be available Thursday. In the time being, check out WGM Sabina Foisor's annotations in the reports from Friday's and Saturday's games for a number of key moments, many of which will be highlighted in this and future worksheets. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-supernationals-viii-pt-1",
-         "pubDate" : "Wed, 14 May 2025 00:00:00",
-         "title" : "Wednesday Workout: SuperNationals VIII, Pt. 1"
-      },
-      {
          "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives at Historically Black Colleges &#38; Universities (HBCUs). Kevin Pryor speaks at the opening The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -920,22 +936,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/",
          "pubDate" : "Wed, 07 May 2025 00:09:39",
          "title" : "Meet Candidates for U.S. Chess Executive Board!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120933723.cms\" />Anna Muzychuk acknowledges the Norway Chess Women's tournament for promoting female chess players. She anticipates a tough competition with strong contenders like Ju Wenjun and Koneru Humpy. Anna reflects on her chess journey, highlighting Ukraine's chess traditions. She emphasizes the sacrifices young players face to become grandmasters. Parental support is crucial for success in chess. The tournament motivates girls globally.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/equal-price-fund-for-both-men-and-women-makes-norway-chess-special-anna-muzychuk/articleshow/120933723.cms",
-         "pubDate" : "Tue, 06 May 2025 13:01:08",
-         "title" : "'Equal price fund for both men and women makes Norway Chess special'"
-      },
-      {
-         "description" : "Special Note: If a player has only one accompanying person, then he/she must pay for double sharing amount only. (Triple sharing basis not accepted for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junior-girls-chess-championship-2025-from-25th-june-to-4th-july-2025-in-sri-lanka/",
-         "pubDate" : "Tue, 06 May 2025 11:40:51",
-         "title" : "Asian Junior/ Girls Chess Championship 2025 from 25th June to 4th July 2025 in Sri Lanka"
       }
    ]
 }
