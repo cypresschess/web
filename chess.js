@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round one of the Norway Chess tournament saw Magnus Carlsen and Hikaru Nakamura claim 3 points each with classical wins over Dommaraju Gukesh and Fabiano Caruana respectively, each capitalising on late blunders by their opponents. The third game, between Wei Yi and Arjun Erigaisi, was drawn in classical play and decided by Armageddon, with Arjun prevailing with the black pieces. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-1",
+         "pubDate" : "Tue, 27 May 2025 08:45:00",
+         "title" : "Norway Chess: Carlsen beats Gukesh, Nakamura beats Caruana"
+      },
+      {
+         "description" : "Magnus Carlsen defeated D Gukesh in the Norway Chess tournament, showcasing his mastery in the classical format. Carlsen's win against the reigning world champion highlights his enduring skill, while Arjun Erigaisi's triumph underscores India's strong presence in the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/when-you-come-for-the-king-magnus-carlsen-quotes-the-wire-after-beating-d-gukesh-at-norway-chess/articleshow/121429161.cms",
+         "pubDate" : "Tue, 27 May 2025 05:48:55",
+         "title" : "'When you come for the king...': Carlsen quotes The Wire after beating Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121427828.cms\" />Magnus Carlsen defeated D Gukesh in the Norway Chess tournament, showcasing his endgame skills. Hikaru Nakamura also secured a win against Fabiano Caruana. Arjun Erigaisi triumphed over Wei Yi in an Armageddon game after a draw. In the women's category, Koneru Humpy defeated R. Vaishali in an all-Indian match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-defeats-d-gukesh-in-opening-round/articleshow/121427828.cms",
+         "pubDate" : "Tue, 27 May 2025 04:40:27",
+         "title" : "Norway Chess: Magnus Carlsen defeats D Gukesh in opening round"
+      },
+      {
          "description" : " Bilel Bellahcene won the 2025 African Individual Chess Championship, edging out seven-time champion Bassem Amin. Egypt had won the last nine titles and, going back to 1998, had won 17/20 championships. The Algerian grandmaster took to social media with a heartfelt message. After years of hard work, sacrifice and passion, I am proud to have The post <a href=\"https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/\">Bellahcene, Wafa are 2025 African Champions!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
