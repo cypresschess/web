@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Bilel Bellahcene won the 2025 African Individual Chess Championship, edging out seven-time champion Bassem Amin. Egypt had won the last nine titles and, going back to 1998, had won 17/20 championships. The Algerian grandmaster took to social media with a heartfelt message. After years of hard work, sacrifice and passion, I am proud to have The post <a href=\"https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/\">Bellahcene, Wafa are 2025 African Champions!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://thechessdrum.net/blog/2025/05/26/bellahcene-wafa-are-2025-african-champions/",
+         "pubDate" : "Tue, 27 May 2025 01:09:59",
+         "title" : "Bellahcene, Wafa are 2025 African Champions!"
+      },
+      {
          "description" : " Magnus Carlsen beat World Champion D Gukesh in the first round of the <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">13th Norway Chess tournament</a>. Carlsen tried to surprise Gukesh in the opening with the London but ended up being surprised himself with 4....Bg4. There was a long struggle that led to a sharp endgame and down to less than 10 seconds on the clock Gukesh blundered away a draw with 46.Qh6? instead of 46.Rg2+ which was his only move. Hikaru Nakamura won in the endgame too, against Fabiano Caruana. Arjun Erigaisi drew against Wei Yi with the black pieces but beat him in the Armageddon. This extra game divides the points between the players in case",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
