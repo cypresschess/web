@@ -34,6 +34,14 @@ news_feed (
          "title" : "2025 Northumbria Masters & 1st Darlington ChessFest"
       },
       {
+         "description" : "GM Fabiano Caruana beat GM Arjun Erigaisi in round three of Norway Chess 2025 to take the sole lead, while World Champion Gukesh Dommaraju hit back after two losses to defeat GM Hikaru Nakamura on his 19th birthday. GM Magnus Carlsen had another f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2025-norway-chess-round-3",
+         "pubDate" : "Wed, 28 May 2025 13:13:00",
+         "title" : "Caruana Leads As Gukesh Beats Nakamura On 19th Birthday"
+      },
+      {
          "description" : "There are fewer than eight weeks to go until ChessFest 2025, the annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, the whole square will be taken over for a day of free, family-friendly chess activities. If you are in London, it's your chance to experience a full fun day of chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -738,14 +746,6 @@ news_feed (
          "title" : "Anna Muzychuk's Saddest Win As Zhu, Goryachkina Reach Candidates"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu broke into the sole lead just before the final round of the Superbet Chess Classic Romania 2025. He defeated GM Wesley So from the black side of a Benko Gambit. There was one more decisive result: World Champion Gukesh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-8",
-         "pubDate" : "Thu, 15 May 2025 13:03:00",
-         "title" : "Praggnanandhaa Takes Sole Lead Ahead Of Final Round"
-      },
-      {
          "description" : "The Board is continuing with the restructuring announced previously. As previewed at the Finance Council meeting, Alex Longson has stepped down as Finance Director and been appointed as Financial Controller....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-sarin-bounces-back-as-indian-stars-shine-at-asian-chess-championship/articleshow/121004726.cms",
          "pubDate" : "Thu, 08 May 2025 16:35:01",
          "title" : "Nihal Sarin bounces back as Indian stars shine at Asian Chess Championship"
-      },
-      {
-         "description" : " The post <a href=\"https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/\">World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup </a> appeared first on <a href=\"https://saintlouischessclub.org\">Saint Louis Chess Club</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/",
-         "pubDate" : "Wed, 07 May 2025 21:19:01",
-         "title" : "World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup "
       }
    ]
 }
