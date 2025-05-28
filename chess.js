@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Wed, 28 May 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Entries are now open for the 2025 Northumbria Masters (20-25 August at Darlington's Dolphin Centre), a six-day, nine-round FIDE-rated congress at https://northumbriamasters.com.&#160;Tournaments include Open Super-Swiss (eligible for title norms), Challengers...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2025-northumbria-masters-1st-darlington-chessfest/",
+         "pubDate" : "Wed, 28 May 2025 13:41:05",
+         "title" : "2025 Northumbria Masters & 1st Darlington ChessFest"
+      },
+      {
          "description" : "There are fewer than eight weeks to go until ChessFest 2025, the annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, the whole square will be taken over for a day of free, family-friendly chess activities. If you are in London, it's your chance to experience a full fun day of chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessfest-returns-13th-july",
          "pubDate" : "Wed, 28 May 2025 10:15:00",
          "title" : "ChessFest returns - 13th July"
+      },
+      {
+         "description" : "GM Wesley So and Minh Le each won outright with a score of 10/11 in the May 27 editions of Titled Tuesday, the final tournaments of the 2025 Titled Tuesday Grand Prix. Le&#39;s performance carried him into the top eight in the Grand Prix standings, gu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/so-le-win-titled-tuesday-may-27-2025",
+         "pubDate" : "Wed, 28 May 2025 07:51:28",
+         "title" : "So, Minh Le Win Titled Tuesday; Le Enters Speed Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121457421.cms\" />Magnus Carlsen defeated D Gukesh in the first round of the Norway Chess tournament, showcasing his endgame prowess. Gukesh's blunder cost him the game despite a promising start. Former national champion Pravin Thipsay believes Gukesh is preparing for the 2026 Championship match, viewing these games as valuable learning experiences.",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/javokhir-sindarov-wins-tepe-sigeman-2025",
          "pubDate" : "Wed, 28 May 2025 03:46:00",
          "title" : "Sindarov Wins Star-Studded TePe Sigeman & Co Chess Tournament"
+      },
+      {
+         "description" : "This week's exercises all come from K-3 Champion Lukas LeBakken's impressive rook endgame grind against Ian Avery Singh in the final round of SuperNationals VIII. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Image Caption<br> Lukas LeBakken (R) won an instructive endgame over Ian Avery Singh in the final round of the K-3 Championship section to take clear first with a 7/7 score (Photo by Photography in Motion)<br> <br> <br> <br> The previous installments of our series from Orlando are available here, and all coverage of the event can be found here. <br> <br> <br> <br> Image<br> <br> <br> <br> <br> <br> <br> <br> <br> Download our printable worksheet, or solve along w",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-elementary-endgames-supernationals-viii",
+         "pubDate" : "Wed, 28 May 2025 00:00:00",
+         "title" : "Wednesday Workout: Elementary Endgames from SuperNationals VIII"
       },
       {
          "description" : "GM Arjun Erigaisi has joined GM Hikaru Nakamura in the&#38;nbsp;Norway Chess 2025 lead after handing a second loss in a row to World Champion Gukesh Dommaraju. GM Fabiano Caruana bounced back with a fine win over GM Wei Yi, while GM Magnus Carlsen fir...",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "Full Report: Champions Crowned in Orlando"
       },
       {
-         "description" : "(Update, May 19, 2025): The video can be viewed here and the slideshow can be followed here.US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025, at 8 p.m. CDT/ 9 p.m. EDT via zoom.The EB Candidate Forum has been recorded and is posted on the Elections page.Elections Chair Mike Nietman will ask all five candidates the same questions as well as share some upcoming elections deadlines for those in attendance or watching the recording afterwards.While US Chess members may join the forum on zoom and watch live, they will be muted and will not be able to ask the candidates any questions during the forum. The five candidates' statements are",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/update-video-now-available-executive-board-candidates-forum-scheduled-may-16",
-         "pubDate" : "Thu, 15 May 2025 00:00:00",
-         "title" : "(Update: Video Now Available) Executive Board Candidates Forum Scheduled for May 16"
-      },
-      {
          "description" : "In the fourth world championship match between Garry Kasparov and Anatoly Karpov, played in Seville in 1987, the score was 12-11 in Karpov's favor, putting Kasparov in a must-win situation to retain his title. This game was the subject of our previous article. We invited our readers to analyze with us, to solve a historical riddle. Here are the results.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -754,28 +778,12 @@ news_feed (
          "title" : "R Praggnanandhaa maintains joint lead in Superbet Classic"
       },
       {
-         "description" : "Draws for the leading trio of GMs Anna Muzychuk, Zhu Jiner, and Tan Zhongyi in the penultimate round of the&#38;nbsp;2025 Grosslobming FIDE Women&#39;s Grand Prix left the standings unchanged, but mean Zhu has booked a FIDE Candidates spot, while Tan miss...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-fide-womens-grand-prix-grosslobming-round-8",
-         "pubDate" : "Wed, 14 May 2025 14:52:00",
-         "title" : "Dzagnidze, Mariya Muzychuk Win; Zhu Seals Candidates Spot"
-      },
-      {
          "description" : " organised by the British Chess Problem Society Entry to this competition sponsored by Winton is by solving the starter problem below.&#160; White, playing up the board, is to play...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2025-2026/",
          "pubDate" : "Wed, 14 May 2025 13:47:55",
          "title" : "Winton British Chess Solving Championship 2025-2026"
-      },
-      {
-         "description" : "Thessaloniki, Greece - registration deadline 30th May 2025 For details and online registration - https://britchess.wufoo.com/forms/european-youth-rapid-blitz-championship-2025/",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-youth-rapid-and-blitz-championship-2025-4th-8th-august/",
-         "pubDate" : "Wed, 14 May 2025 08:47:29",
-         "title" : "European Youth Rapid and Blitz Championship 2025 4th - 8th August"
       },
       {
          "description" : " U.S. Chess Federation President Kevin Pryor has been at the helm for nearly a year and has been enthusiastic about growing membership. He attended the 2025 HBCU Chess Classic at King's Chapel at Morehouse College to lend support to the outreach initiatives at Historically Black Colleges &#38; Universities (HBCUs). Kevin Pryor speaks at the opening The post <a href=\"https://thechessdrum.net/blog/2025/05/13/kevin-pryor-chats-with-the-chess-drum/\">Kevin Pryor chats with The Chess Drum</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/news-insights-press/worlds-top-female-chess-players-return-to-saint-louis-for-2025-cairns-cup/",
          "pubDate" : "Wed, 07 May 2025 21:19:01",
          "title" : "World's Top Female Chess Players Return to Saint Louis for 2025 Cairns Cup "
-      },
-      {
-         "description" : " Something amazing happened in Kenyan chess a month ago. Over 7,000 chess players from across Kenya gathered at Mang'u High School to compete in the Kenyan Schools Chess Championship. A fantastic sea of youth filled the halls as thousands of students came in columns of buses to compete in the massive tournament. Ten years ago, The post <a href=\"https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/\">7,242 players at Kenya Schools Chess!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/",
-         "pubDate" : "Wed, 07 May 2025 12:21:01",
-         "title" : "7,242 players at Kenya Schools Chess!"
       }
    ]
 }
