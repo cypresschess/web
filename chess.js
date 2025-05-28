@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121457421.cms\" />Magnus Carlsen defeated D Gukesh in the first round of the Norway Chess tournament, showcasing his endgame prowess. Gukesh's blunder cost him the game despite a promising start. Former national champion Pravin Thipsay believes Gukesh is preparing for the 2026 Championship match, viewing these games as valuable learning experiences.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-magnus-carlsen-beats-d-gukesh-to-show-why-he-is-master-of-endgame/articleshow/121457421.cms",
+         "pubDate" : "Wed, 28 May 2025 06:45:57",
+         "title" : "Magnus Carlsen beats D Gukesh to show why he is master of endgame"
+      },
+      {
          "description" : "Round two of the 2025 Norway Chess tournament saw Arjun Erigaisi and Hikaru Nakamura emerging as co-leaders with 4&frac12; points each. Arjun defeated world champion Gukesh Dommaraju in a complex classical game, while Nakamura beat Magnus Carlsen in a double-edged Armageddon decider. Fabiano Caruana recovered from his opening-round loss with a classical win over Wei Yi. Carlsen sits in sole third place with 4 points, while Gukesh remains scoreless. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://thechessdrum.net/blog/2025/05/07/7242-players-at-kenya-schools-chess/",
          "pubDate" : "Wed, 07 May 2025 12:21:01",
          "title" : "7,242 players at Kenya Schools Chess!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/120952579.cms\" />Around 35 Indian chess players are set to compete in the Asian Individual Championship in Al Ain, UAE, vying for coveted FIDE World Cup spots. This year marks the debut of Russian players under the Asian Chess Federation, increasing World Cup berths to ten.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/entry-of-russians-makes-asian-chess-a-tougher-contest/articleshow/120952579.cms",
-         "pubDate" : "Wed, 07 May 2025 04:45:26",
-         "title" : "Entry of Russians makes Asian chess a tougher contest"
       }
    ]
 }
