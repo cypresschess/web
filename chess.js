@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/entry-of-russians-makes-asian-chess-a-tougher-contest/articleshow/120952579.cms",
          "pubDate" : "Wed, 07 May 2025 04:45:26",
          "title" : "Entry of Russians makes Asian chess a tougher contest"
-      },
-      {
-         "description" : " US Chess and the Elections Committee will host an Executive Board (EB) Candidates Forum on Friday May 16, 2025 at 8 p.m. CT/ 9 p.m. ET via zoom.~U.S. Chess In June, the U.S. Chess membership will elect four new Executive Board members from five candidates, and you can meet them in a forum hosted by U.S. The post <a href=\"https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/\">Meet Candidates for U.S. Chess Executive Board!</a> appeared first on <a href=\"https://thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://thechessdrum.net/blog/2025/05/06/meet-candidates-for-u-s-chess-executive-board/",
-         "pubDate" : "Wed, 07 May 2025 00:09:39",
-         "title" : "Meet Candidates for U.S. Chess Executive Board!"
       }
    ]
 }
