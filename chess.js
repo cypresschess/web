@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chris Ward and Arne dive into recent developments in the Dragon and Dragadorf variations of the Sicilian Defence, analysing three instructive games. They focus particularly on hybrid lines like the Dragadorf, where Black mixes ideas from both the Dragon and Najdorf, experimenting with early ...a6 and ...h5 setups. A major highlight is the analysis of a game by a 14-year-old Vietnamese IM, who has become the most prominent adopter of a unique variation still lacking a formal name. The episode is filled with tactical lessons, strategic insights, and humorous commentary, all while inviting viewers to help name the emerging system. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-vietnamese-dragon",
+         "pubDate" : "Wed, 28 May 2025 21:00:00",
+         "title" : "The Monthly Dragon - The Vietnamese Dragon"
+      },
+      {
+         "description" : " The second Hans Moke Niemann match against Daniil Dubov took place in the Raketa Creative Studio in Moscow, 27th to 28th May 2025. Just like the first match it was an 18 game 3m+2spm match, this time they were tied at 9-9 and the match was settled by two additional games, Niemann won the first and the second was drawn for a final score of 10.5-9.5, a great comeback as he was a point down at the end of day 1. I extracted the games from the live coverage on ENDGAME.AI which only gave me the moves, I also seemed to get the moves for the wrong game sometimes. I have 20 different game scores now. Please let me know if there are any errors as I can't guarantee the correctness, I did my best. I al",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/niemann-vs-dubov-raketa-match-2025",
+         "pubDate" : "Wed, 28 May 2025 18:46:00",
+         "title" : "Niemann vs Dubov Raketa Match 2025 - Games and Results"
+      },
+      {
          "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-supernationals-viii-pt-2",
          "pubDate" : "Tue, 20 May 2025 00:00:00",
          "title" : "Tactics Tuesday: SuperNationals VIII, Pt. 2"
-      },
-      {
-         "description" : " 58th Capablanca Memorial took place Fri 9th to Mon 19th May 2025. The elite section was a 10 round double round robin with five instead of the normal six players. Players: Volodar Murzin, Jonas Buhl, Bjerre, Evgeny Romanov, Arseniy Nesterov and Carlos Daniel Albornoz Cabrera. Jonas Buhl Bjerre just edged out Volodar Murzin after they both scored 5.5/8. Dylan Isidro Berdayes Ason won the open with 7.5/9. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/58th-capablanca-memorial-2025",
-         "pubDate" : "Mon, 19 May 2025 18:54:00",
-         "title" : "58th Capablanca Memorial 2025 - Games and Results"
       },
       {
          "description" : "GM Vladimir Fedoseev won the Swiss portion of the 2025 Chess.com Classic Play-in with 7.5/9 to qualify directly for the Playoffs. After finishing in the top 15 of the Swiss, seven other players won in Match Play to advance as well: GMs Denis Lazav...",
