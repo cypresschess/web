@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are fewer than eight weeks to go until ChessFest 2025, the annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, the whole square will be taken over for a day of free, family-friendly chess activities. If you are in London, it's your chance to experience a full fun day of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessfest-returns-13th-july",
+         "pubDate" : "Wed, 28 May 2025 10:15:00",
+         "title" : "ChessFest returns - 13th July"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121457421.cms\" />Magnus Carlsen defeated D Gukesh in the first round of the Norway Chess tournament, showcasing his endgame prowess. Gukesh's blunder cost him the game despite a promising start. Former national champion Pravin Thipsay believes Gukesh is preparing for the 2026 Championship match, viewing these games as valuable learning experiences.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,28 +18,12 @@ news_feed (
          "title" : "Magnus Carlsen beats D Gukesh to show why he is master of endgame"
       },
       {
-         "description" : "Round two of the 2025 Norway Chess tournament saw Arjun Erigaisi and Hikaru Nakamura emerging as co-leaders with 4&frac12; points each. Arjun defeated world champion Gukesh Dommaraju in a complex classical game, while Nakamura beat Magnus Carlsen in a double-edged Armageddon decider. Fabiano Caruana recovered from his opening-round loss with a classical win over Wei Yi. Carlsen sits in sole third place with 4 points, while Gukesh remains scoreless. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-2",
-         "pubDate" : "Wed, 28 May 2025 00:05:00",
-         "title" : "Norway Chess: Arjun inflicts a second loss on Gukesh, Naka beats Carlsen in Armageddon"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Tue, 27 May 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
-         "description" : "The TePe Sigeman & Co Chess Tournament in Malm&ouml; concluded with Javokhir Sindarov taking clear first place on 4&frac12;/7 points. The 19-year-old from Uzbekistan finished ahead of 13-year-old Turkish prodigy Yagiz Erdogmus and Sweden's Nils Grandelius, who shared second place with 4 points. The event featured a mix of experienced players and rising talents, including strong showings by the youngest participants. | Photo: Mikael Svensson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2025-7",
-         "pubDate" : "Tue, 27 May 2025 14:00:00",
-         "title" : "Sindarov wins TePe Sigeman & Co in Malm&ouml;, Erdogmus and Grandelius share second place"
+         "description" : "19-year-old GM Javokhir Sindarov was declared the winner of Sweden&#39;s prestigious TePe Sigeman &#38;amp; Co Chess Tournament after drawing with the legendary GM Vasyl Ivanchuk in the seventh and final round on Monday. Sindarov&#39;s score of 4.5/7 placed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/javokhir-sindarov-wins-tepe-sigeman-2025",
+         "pubDate" : "Wed, 28 May 2025 03:46:00",
+         "title" : "Sindarov Wins Star-Studded TePe Sigeman & Co Chess Tournament"
       },
       {
          "description" : "GM Arjun Erigaisi has joined GM Hikaru Nakamura in the&#38;nbsp;Norway Chess 2025 lead after handing a second loss in a row to World Champion Gukesh Dommaraju. GM Fabiano Caruana bounced back with a fine win over GM Wei Yi, while GM Magnus Carlsen fir...",
@@ -776,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2025-2026/",
          "pubDate" : "Wed, 14 May 2025 13:47:55",
          "title" : "Winton British Chess Solving Championship 2025-2026"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov defeated GM Jan-Krzysztof Duda in the only decisive game of round seven in the Superbet Chess Classic Romania 2025. He is now in a group of four players who are a half-point behind the leaders. With draws in all the other ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2025-gct-superbet-chess-classic-romania-round-7",
-         "pubDate" : "Wed, 14 May 2025 11:36:00",
-         "title" : "Abdusattorov Wins 1st Game In Bucharest, Joins Chasing Pack"
       },
       {
          "description" : "Thessaloniki, Greece - registration deadline 30th May 2025 For details and online registration - https://britchess.wufoo.com/forms/european-youth-rapid-blitz-championship-2025/",
