@@ -34,7 +34,7 @@ news_feed (
          "title" : "2025 Northumbria Masters & 1st Darlington ChessFest"
       },
       {
-         "description" : "GM Fabiano Caruana beat GM Arjun Erigaisi in round three of Norway Chess 2025 to take the sole lead, while World Champion Gukesh Dommaraju hit back after two losses to defeat GM Hikaru Nakamura on his 19th birthday. GM Magnus Carlsen had another f...",
+         "description" : "GM Fabiano Caruana beat GM Arjun Erigaisi in round three of Norway Chess 2025 to take the sole lead, while World Champion Gukesh Dommaraju, on his 19th birthday, hit back after two losses to defeat GM Hikaru Nakamura. GM Magnus Carlsen had another...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-3",
