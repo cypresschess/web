@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
+         "pubDate" : "Thu, 29 May 2025 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Round three of the Norway Chess Women tournament saw Humpy Koneru join Anna Muzychuk in the lead after scoring a classical win over Sara Khadem. Muzychuk, meanwhile, held a draw with black in her Armageddon game against Lei Tingjie and thus secured 1&frac12; points. In the third matchup, Ju Wenjun defeated Vaishali Rameshbabu in a tiebreak after drawing their classical encounter. Ju and Lei now share third place, two points behind the co-leaders. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-women-2025-3",
+         "pubDate" : "Thu, 29 May 2025 16:35:00",
+         "title" : "Norway Chess Women: Humpy and Muzychuk share the lead"
+      },
+      {
+         "description" : " <a href=\"https://theweekinchess.com/chessnews/events/13th-norway-chess-2025\">Norway Chess</a> is being led by Fabiano Caruana with 6 points out of 9 after three rounds, the women's event is being led by Anna Muzychuk and Humpy Koneru also with 6/9. The event employs unique scoring system of 3 points for a win, 0 points for a loss and then 1.5 points or 1 point for a draw depending on the results of an Armageddon game. As reported Caruana lost to Hikaru Nakamura in Round 1 but since then he beat Wei Yi (25.Rxh5? cost Wei Yi the game) and then he took advantage of a couple of errors from Arjun Erigaisi in Round 3 to win that game also. The match up of Round 2 was Hikaru Nakamura against Magnu",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-thursday-29th-may-2025",
+         "pubDate" : "Thu, 29 May 2025 15:37:00",
+         "title" : "Chess on Thursday 29th May 2025 - "
+      },
+      {
+         "description" : " The Norway Chess Open takes place 26th May to 1st June 2025. Gergely Kantor and Elham Amar are the top seeds. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/norway-chess-open-2025",
+         "pubDate" : "Thu, 29 May 2025 15:20:00",
+         "title" : "Norway Chess Open 2025 - Games and Results"
+      },
+      {
+         "description" : "Two classical victories marked the third round of the Norway Chess super-tournament in Stavanger. Fabiano Caruana continued his remarkable comeback by defeating Arjun Erigaisi with the white pieces, thus becoming the sole leader on 6 points. World champion Gukesh Dommaraju also collected a full 3 points after convincingly beating Hikaru Nakamura, bouncing back from a difficult start to the event. The third game of the day saw Wei Yi defeating Magnus Carlsen in Armageddon. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2025-r3",
+         "pubDate" : "Thu, 29 May 2025 13:20:00",
+         "title" : "Norway Chess: Caruana moves into sole lead, Gukesh scores"
+      },
+      {
+         "description" : " The 6th Stepan Avagyan Memorial takes place Thu 29th May to Fri 6th Jun 2025 in Jermuk, Armenia. The event has gradually grown in strength, starting at Category 10, then 15, then 16 twice, now 17 this year and last. Players: R Praggnanandhaa, Aravindh Chithambaram V, Samuel Sevian, Nodirbek Yakubboev, Benjamin Gledura, Buhl Bjerre Jonas, Robert Hovhannisyan, Dmitrij Kollars, Xu Xiangyu and Hakobyan Aram.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/6th-stepan-avagyan-memorial-2025",
+         "pubDate" : "Thu, 29 May 2025 12:31:00",
+         "title" : "6th Stepan Avagyan Memorial 2025 - Games and Results"
+      },
+      {
          "description" : " The Titled Tuesday Blitz 27th May 2025 events were missing both regular winners Hikaru Nakamura and Magnus Carlsen who were otherwise engaged in Stavanger. The early event was won by Wesley So. Key to victory was his Round 9 win over second placed Rinat Jumabayev, 33.Bf4? was the decisive error. So then beat Denis Lazavik and drew with Anish Giri in the final round. Tuan Minh Le is a reasonably regular winner of Titled Tuesdays, he drew against 4th and 3rd placed Frederik Svane and Jeffery Xiong in rounds 10 and 11 respectively and won all the rest of his games.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,28 +74,12 @@ news_feed (
          "title" : "Norway Chess: On 19th birthday, Gukesh celebrates with win over Nakamura"
       },
       {
-         "description" : "Chris Ward and Arne dive into recent developments in the Dragon and Dragadorf variations of the Sicilian Defence, analysing three instructive games. They focus particularly on hybrid lines like the Dragadorf, where Black mixes ideas from both the Dragon and Najdorf, experimenting with early ...a6 and ...h5 setups. A major highlight is the analysis of a game by a 14-year-old Vietnamese IM, who has become the most prominent adopter of a unique variation still lacking a formal name. The episode is filled with tactical lessons, strategic insights, and humorous commentary, all while inviting viewers to help name the emerging system. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-vietnamese-dragon",
-         "pubDate" : "Wed, 28 May 2025 21:00:00",
-         "title" : "The Monthly Dragon - The Vietnamese Dragon"
-      },
-      {
          "description" : " The second Hans Moke Niemann match against Daniil Dubov took place in the Raketa Creative Studio in Moscow, 27th to 28th May 2025. Just like the first match it was an 18 game 3m+2spm match, this time they were tied at 9-9 and the match was settled by two additional games, Niemann won the first and the second was drawn for a final score of 10.5-9.5, a great comeback as he was a point down at the end of day 1. I extracted the games from the live coverage on ENDGAME.AI which only gave me the moves, I also seemed to get the moves for the wrong game sometimes. I have 20 different game scores now. Please let me know if there are any errors as I can't guarantee the correctness, I did my best. I al",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/niemann-vs-dubov-raketa-match-2025",
          "pubDate" : "Wed, 28 May 2025 18:46:00",
          "title" : "Niemann vs Dubov Raketa Match 2025 - Games and Results"
-      },
-      {
-         "description" : "The 13th edition of the Norway Chess super-tournament is taking place from 26 May to 6 June in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Gukesh Dommaraju - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2025-live",
-         "pubDate" : "Wed, 28 May 2025 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "Entries are now open for the 2025 Northumbria Masters (20-25 August at Darlington's Dolphin Centre), a six-day, nine-round FIDE-rated congress at https://northumbriamasters.com.&#160;Tournaments include Open Super-Swiss (eligible for title norms), Challengers...",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2025-norway-chess-round-3",
          "pubDate" : "Wed, 28 May 2025 13:13:00",
          "title" : "Caruana Leads As Gukesh Beats Nakamura On 19th Birthday"
-      },
-      {
-         "description" : "There are fewer than eight weeks to go until ChessFest 2025, the annual chess extravaganza in Trafalgar Square, London. On Sunday 13th July 2025, 11am-6pm, the whole square will be taken over for a day of free, family-friendly chess activities. If you are in London, it's your chance to experience a full fun day of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessfest-returns-13th-july",
-         "pubDate" : "Wed, 28 May 2025 10:15:00",
-         "title" : "ChessFest returns - 13th July"
       },
       {
          "description" : "GM Wesley So and Minh Le each won outright with a score of 10/11 in the May 27 editions of Titled Tuesday, the final tournaments of the 2025 Titled Tuesday Grand Prix. Le&#39;s performance carried him into the top eight in the Grand Prix standings, gu...",
@@ -514,14 +538,6 @@ news_feed (
          "title" : "Arjun Takes Titled Tuesday With 10/10, Locks In Speed Chess Championship Spot"
       },
       {
-         "description" : " The Titled Tuesday Blitz 20th May saw Dmitry Andreikin win the early event with 10/11 beating Nihal Sarin along the way. In the late Arjun Erigaisi found a new spin on a perfect score. Quite a few players have scored 11/11. Erigaisi missed Round 1 and won with 10/10 defeating Magnus Carlsen in the final round. That game was rather balanced until Carlsen's rather weird 25...Bd8?! but it was 29... Bxd5? (29...Bxc3 forced) that cost Carlsen the game. Carlsen also lost to Jose Eduardo Martinez Alcantara, getting into desperate time trouble in a winning position, and then losing on time. I had to truncate the early table as it was too wide.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-20th-may-2025",
-         "pubDate" : "Wed, 21 May 2025 00:48:00",
-         "title" : "Titled Tuesday Blitz 20th May 2025 - Games and Results"
-      },
-      {
          "description" : "Editor's note: WGM Sabina Foisor's annotations of IM-Elect and eventual K-12 Co-Champion Tani Adewumi's wild Sicilian against fellow New Yorker Aiden Reiss was one of the many highlights of her reporting and commentary from SuperNationals VIII. This one game could easily fill several worksheets, so we had to give some of her best finds from her analysis some additional love here. When Sabina told me to keep an eye out for her annotations to this game, all she had to say was, \"This game was fire.\" It's hard to add much more than that. The previous installment of our series from Orlando is available here, and all coverage of the event can be found here.This game was fire. <br> <br> <br> <br> I",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -536,22 +552,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/reed-departs-us-chess",
          "pubDate" : "Wed, 21 May 2025 00:00:00",
          "title" : "Reed Departs US Chess"
-      },
-      {
-         "description" : " There is a lot to report today. The <a href=\"https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2025\">30th Sigeman & Co tournament</a> started with two decisive results. Richard Rapport beat last minute substitute Erwin L'Ami in a long grind in an English, Javokhir Sindarov took a lot of risks, and was objectively losing, against Tan Zhongyi before turning things around for a win. 13 year old youngster Yagiz Kaan Erdogmus had a solid draw against Nils Grandelius and Vasyl Ivanchuk tried to convert an extra pawn against Ray Robson but the game was drawn in 112 moves. This tournament has a special place in my heart, the first edition was in 1993, the very year I star",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/chess-on-tuesday-20th-may-2025",
-         "pubDate" : "Tue, 20 May 2025 21:40:00",
-         "title" : "Chess on Tuesday 20th May 2025 - "
-      },
-      {
-         "description" : " The African Individual Championships took place in Kerdasa, Egypt Tue 13th to Tue 20th May 2025. A draw for the leader Bilel Bellahcene (Algeria) was enough for him to take the title on tie-break from Bassem Amin and Ahmed Adly (both Egypt), they all scored 7/9. WGM Shrook Wafa of Egypt dominated the women's event and won with 8/9 a point clear of Lina Nassr of Algeria.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/african-individual-championships-2025",
-         "pubDate" : "Tue, 20 May 2025 21:07:00",
-         "title" : "African Individual Championships 2025 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121297712.cms\" />Magnus Carlsen recently faced a unique challenge, battling over 143,000 chess enthusiasts worldwide in a freestyle game hosted online. This marked the first time a reigning or former world champion participated in such a format. Despite predictions favouring Carlsen, Team World played strategically, leading to a draw by move 32 via threefold repetition.",
