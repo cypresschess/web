@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Titled Tuesday Blitz 27th May 2025 events were missing both regular winners Hikaru Nakamura and Magnus Carlsen who were otherwise engaged in Stavanger. The early event was won by Wesley So. Key to victory was his Round 9 win over second placed Rinat Jumabayev, 33.Bf4? was the decisive error. So then beat Denis Lazavik and drew with Anish Giri in the final round. Tuan Minh Le is a reasonably regular winner of Titled Tuesdays, he drew against 4th and 3rd placed Frederik Svane and Jeffery Xiong in rounds 10 and 11 respectively and won all the rest of his games.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/titled-tuesday-blitz-27th-may-2025",
+         "pubDate" : "Thu, 29 May 2025 10:40:00",
+         "title" : "Titled Tuesday Blitz 27th May 2025 - Games and Results"
+      },
+      {
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2025 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2025 to be held in Batumi, Georgia on Saturday 11th October 2025. The official venue of the ECU GA will be in the hosting Hotels. The exact room will be announced later. The Assembly starts at 9.30 am. ECU will provide free of charge 3 nights for the ECU Delegates for []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-congress-and-general-assembly-2025/",
+         "pubDate" : "Thu, 29 May 2025 08:46:18",
+         "title" : "ECU Congress and General Assembly 2025"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121480000.cms\" />On his 19th birthday, D Gukesh, the world champion, revitalised his Norway Chess campaign by defeating World No. 2 Hikaru Nakamura. After suffering consecutive losses, Gukesh secured a crucial win in 42 moves, showcasing improved time management.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -538,14 +554,6 @@ news_feed (
          "title" : "African Individual Championships 2025 - Games and Results"
       },
       {
-         "description" : " The Freestyle chess exhibition game between Magnus Carlsen and the users of Chess.com was drawn by repetition in 33 moves, the match took place April 4th to May 20th 2025. This was the first time Chess960 has been used in such a match. There was a reported 143,000 players voting in the match. Carlsen got a small edge with the white pieces but he couldn't exploit it. The World team and its mentor advisors played solidly and accurately, and The World managed to force a draw by repetition, the game finishing on move 33. I don't have the ability to display Chess960 games on my website but have a download link below for PGN. Vishy Anand held the previous record for the number of participants in ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/twic-news-feed/magnus-vs-the-world-drawn-in-33-moves",
-         "pubDate" : "Tue, 20 May 2025 17:37:00",
-         "title" : "Magnus vs The World drawn in 33 moves - 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121297712.cms\" />Magnus Carlsen recently faced a unique challenge, battling over 143,000 chess enthusiasts worldwide in a freestyle game hosted online. This marked the first time a reigning or former world champion participated in such a format. Despite predictions favouring Carlsen, Team World played strategically, leading to a draw by move 32 via threefold repetition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://aicf.in/round-2-report-on-asian-individual-chess-championships-al-ain-u-a-e-7th-to-15th-may-2025/",
          "pubDate" : "Fri, 09 May 2025 16:22:21",
          "title" : "ROUND 2 Report on Asian Individual Chess Championships, Al Ain, U.A.E 7th to 15th May, 2025. "
-      },
-      {
-         "description" : "By the deadline of 30 April 2025 the following bids have been received. EUROPEAN AMATEUR CHESS CHAMPIONSHIP 20261. TURKEY/ISTANBUL EUROPEAN YOUTH TEAM CHESS CHAMPIONSHIP 20271. MONTENEGRO/PETROVAC2. POLAND/CHOTOWA3. ROMANIA / MAMAIA RESORT, CITY OF CONSTANTA EUROPEAN SCHOOL CHESS CHAMPIONSHIP 20271.MONTENEGRO /BUDVA2. POLAND/CHOTOWA3. SERBIA/VRNJACKA BANJA4. TURKEY/ANTALYA EUROPEAN SENIORS TEAM CHESS CHAMPIONSHIP 20271. ITALY/AQUI TERME EUROPEAN SENIOR INDIVIDUAL CHESS CHAMPIONSHIP 20271.POLAND/CHOTOWA2. SLOVENIA/TERME CATEZ EUROPEAN YOUTH RAPID &#38; BLITZ CHESS CHAMPIONSHIP 20271. SLOVENIA/TERME CATEZ EUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 20271. GEORGIA/BATUMI AWARDED BY THE []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/biddinng-procedure/",
-         "pubDate" : "Fri, 09 May 2025 10:46:30",
-         "title" : "BIDDING PROCEDURE"
       },
       {
          "description" : "Please find the link here Link http://kiit16.liveblog365.com/chess/",
