@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/121480000.cms\" />On his 19th birthday, D Gukesh, the world champion, revitalised his Norway Chess campaign by defeating World No. 2 Hikaru Nakamura. After suffering consecutive losses, Gukesh secured a crucial win in 42 moves, showcasing improved time management.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-on-19th-birthday-d-gukesh-celebrates-with-win-over-hikaru-nakamura/articleshow/121480000.cms",
+         "pubDate" : "Thu, 29 May 2025 04:53:45",
+         "title" : "Norway Chess: On 19th birthday, Gukesh celebrates with win over Nakamura"
+      },
+      {
          "description" : "Chris Ward and Arne dive into recent developments in the Dragon and Dragadorf variations of the Sicilian Defence, analysing three instructive games. They focus particularly on hybrid lines like the Dragadorf, where Black mixes ideas from both the Dragon and Najdorf, experimenting with early ...a6 and ...h5 setups. A major highlight is the analysis of a game by a 14-year-old Vietnamese IM, who has become the most prominent adopter of a unique variation still lacking a formal name. The episode is filled with tactical lessons, strategic insights, and humorous commentary, all while inviting viewers to help name the emerging system. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
